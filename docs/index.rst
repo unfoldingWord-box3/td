@@ -5,7 +5,7 @@
 translationDatabase
 ===================
 
-Test site for translationDatabase.
+Test site for translationDatabase. Unless otherwise indicated, all content is made available under the terms of a Creative Commons Attribution-ShareAlike 4.0 License.
 
 .. toctree::
    :glob:
