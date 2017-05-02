@@ -9,7 +9,8 @@ Test site for translationDatabase. Unless otherwise indicated, all content is ma
 
 .. toctree::
    :glob:
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Languages
 
    languages/*
+   languages/*/*
