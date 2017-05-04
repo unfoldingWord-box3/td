@@ -1,9 +1,9 @@
-.. _gaj-x-ymnk:
+.. _gaj-x-test:
 
-Gadsup Yomunka
-=======
+Gadsup Text
+===========
 
-.. include:: ../includes/note_private_use.txt
+.. include:: /includes/note_private_use.txt
 
 .. code-block:: yaml
 
