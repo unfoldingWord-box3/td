@@ -32,7 +32,7 @@ català
         - 'Balearic (Balear)'
         - 'Mallorqui'
     lang_direction: 'ltr'
-    gateway_language: 'False'
+    gateway_language: 'es'
     lang_region: 'Europe'
     country_codes:
         - 'AR'
