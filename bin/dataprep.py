@@ -85,7 +85,7 @@ for lnj in jlndata:
     # now print the lang json to "lc".json
     fpath = path + "/" + lc + ".json"
     with open(fpath,"w") as fpath_handle:
-        json.dump(lnj,fpath_handle)
+        json.dump(lnj,fpath_handle, indent=4)
 
 
 
