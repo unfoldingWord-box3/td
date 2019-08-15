@@ -1,8 +1,8 @@
 {
+    "gw": true,
+    "lc": "es",
     "gwcode": "es",
-    "lr": "Europe",
     "ld": "ltr",
-    "hc": "ES",
     "cc": [
         "AT",
         "BE",
@@ -55,6 +55,9 @@
     ],
     "ln": "espa\u00f1ol",
     "pk": 1776,
+    "hc": "ES",
+    "lr": "Europe",
+    "ang": "Spanish",
     "alt": [
         "Castilian",
         "Espa\u00f1ol",
@@ -74,8 +77,5 @@
         "Andalusian (Andal\u00fa)",
         "American Spanish (Chicano)",
         "Andalus\u00ed"
-    ],
-    "lc": "es",
-    "ang": "Spanish",
-    "gw": true
+    ]
 }

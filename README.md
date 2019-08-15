@@ -45,7 +45,9 @@ current tD production website as follows:
         - Toggle off setting to "Insert BOM"
 - `bin/dataprep.py`: this Python3 script will output:
     - one folder per language (in `data/languages`)
-    - in each folder will be the original JSON from `langnames.json` with the addition of a key named "gwcode" and its value. This will be the Gateway Language (if any) for the language.
+    - each folder will have:
+        - the original JSON from `langnames.json` with the addition of a key named "gwcode" and its value. This will be the Gateway Language (if any) for the language.
+        - the JSON converted to YAML format
 
 During development there is debug code which restricts actions to 
 only a few languages. This is avoid creation of 8K+ directories.

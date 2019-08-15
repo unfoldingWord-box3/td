@@ -1,8 +1,8 @@
 {
+    "gw": false,
+    "lc": "ca",
     "gwcode": "es",
-    "lr": "Europe",
     "ld": "ltr",
-    "hc": "ES",
     "cc": [
         "AR",
         "FR",
@@ -14,6 +14,9 @@
     ],
     "ln": "catal\u00e0",
     "pk": 1109,
+    "hc": "ES",
+    "lr": "Europe",
+    "ang": "Catalan",
     "alt": [
         "Catal\u00e0",
         "Catalan-Valencian-Balear",
@@ -33,8 +36,5 @@
         "Catalan-Rousillonese (Northern Catal\u00e1n)",
         "Balearic (Balear)",
         "Mallorqui"
-    ],
-    "lc": "ca",
-    "ang": "Catalan",
-    "gw": false
+    ]
 }

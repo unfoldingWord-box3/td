@@ -1,8 +1,8 @@
 {
+    "gw": true,
+    "lc": "en",
     "gwcode": null,
-    "lr": "Europe",
     "ld": "ltr",
-    "hc": "GB",
     "cc": [
         "AG",
         "AO",
@@ -89,6 +89,9 @@
     ],
     "ln": "English",
     "pk": 1747,
+    "hc": "GB",
+    "lr": "Europe",
+    "ang": "English",
     "alt": [
         "Anglit",
         "Kiingereza",
@@ -106,8 +109,5 @@
         "Australian Standard English",
         "Aboriginal English",
         "African American Vernacular English (AAVE)"
-    ],
-    "lc": "en",
-    "ang": "English",
-    "gw": true
+    ]
 }

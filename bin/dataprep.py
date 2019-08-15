@@ -1,6 +1,7 @@
 import json
 import os
 import re # for data subsetting
+import yaml
 
 basedirflag = True
 if not os.path.exists("./data") : basedirflag = False
@@ -86,6 +87,9 @@ for lnj in jlndata:
     fpath = path + "/" + lc + ".json"
     with open(fpath,"w") as fpath_handle:
         json.dump(lnj,fpath_handle, indent=4)
+    fpath = path + "/" + lc + ".yaml"
+    with open(fpath,"w") as ypath_handle:
+        yaml.dump(lnj,ypath_handle,allow_unicode=True, default_flow_style=False)
 
 
 
