@@ -6,6 +6,7 @@ English
 .. note:: The `Ethnologue <https://www.ethnologue.com/language/eng>`_ identifies this language as ``eng``.
 
 This language is spoken in the following countries:
+
 * AG: Antigua and Barbuda
 * AO: Angola
 * AR: Argentina

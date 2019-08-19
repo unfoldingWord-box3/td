@@ -6,6 +6,7 @@ español
 .. note:: The `Ethnologue <https://www.ethnologue.com/language/spa>`_ identifies this language as ``spa``.
 
 This language is spoken in the following countries:
+
 * AT: Austria
 * BE: Belgium
 * CL: Chile

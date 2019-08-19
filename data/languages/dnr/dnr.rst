@@ -4,6 +4,7 @@ Danaru
 ======
 
 This language is spoken in the following countries:
+
 * PG: Papua New Guinea
 
 .. code-block:: yaml

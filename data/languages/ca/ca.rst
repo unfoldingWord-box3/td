@@ -6,6 +6,7 @@ català
 .. note:: The `Ethnologue <https://www.ethnologue.com/language/cat>`_ identifies this language as ``cat``.
 
 This language is spoken in the following countries:
+
 * AR: Argentina
 * FR: France
 * VE: Venezuela (Bolivarian Republic of)
