@@ -1,7 +1,9 @@
 {
-    "gw": true,
-    "lc": "en",
     "gwcode": null,
+    "ISO-639-3": "eng",
+    "hc": "GB",
+    "lr": "Europe",
+    "gw": true,
     "ld": "ltr",
     "cc": [
         "AG",
@@ -87,11 +89,6 @@
         "ZW",
         "CC"
     ],
-    "ln": "English",
-    "pk": 1747,
-    "hc": "GB",
-    "lr": "Europe",
-    "ang": "English",
     "alt": [
         "Anglit",
         "Kiingereza",
@@ -109,5 +106,9 @@
         "Australian Standard English",
         "Aboriginal English",
         "African American Vernacular English (AAVE)"
-    ]
+    ],
+    "ang": "English",
+    "lc": "en",
+    "ln": "English",
+    "pk": 1747
 }

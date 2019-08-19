@@ -2,6 +2,7 @@ import json
 import os
 import re # for data subsetting
 import yaml
+import csv
 
 basedirflag = True
 if not os.path.exists("./data") : basedirflag = False
@@ -24,6 +25,30 @@ if not os.path.exists(datalangpath):
         exit()
     else:
         print ("Successfully created directory %s " % datalangpath)
+
+#
+# open and parse iso-639-3 tab separated values file
+# 3 letter code is first column; 2 letter code (if any) is fourth
+#
+i639_dict = {}
+with open("data/iso-639-3.tsv", newline = '') as iso_639_file:
+    i639 = csv.reader(iso_639_file, delimiter='\t')
+    for row in i639:
+        if row[3] == "":
+            i639_dict[row[0]] = row[0]
+        else:
+            i639_dict[row[3]] = row[0]
+
+#
+# country code to name lookup
+#
+cc_dict = {}
+with open("data/cc.csv") as cc_file:
+    cc = csv.reader(cc_file)
+    for row in cc:
+        if len(row[0]) == 0:
+            continue
+        cc_dict[row[0]] = row[1]
 
 #
 # open and parse the all languages JSON
@@ -72,6 +97,18 @@ for lnj in jlndata:
     # add it to the language data
     lnj["gwcode"] = gwcode
 
+    # lookup the iso-639-3 code
+    try:
+        i639_code = i639_dict[lc]
+    except KeyError:
+        print ("No ISO 639-3 code for "+lc)
+        i639_code = "UNKNOWN"
+    else:
+        print ("ISO 639-3 code for "+lc+" is "+str(i639_code))
+
+    # add ISO 639-3 to the language data
+    lnj["ISO-639-3"] = i639_code
+
     # create lang subdir if needed
     path = datalangpath + "/" + lc
     if not os.path.exists(path):
@@ -87,9 +124,46 @@ for lnj in jlndata:
     fpath = path + "/" + lc + ".json"
     with open(fpath,"w") as fpath_handle:
         json.dump(lnj,fpath_handle, indent=4)
+
+    # next write the YAML to "lc".yaml
     fpath = path + "/" + lc + ".yaml"
     with open(fpath,"w") as ypath_handle:
         yaml.dump(lnj,ypath_handle,allow_unicode=True, default_flow_style=False)
+
+    # some boilerplate
+    note_a = ".. note:: The `Ethnologue <https://www.ethnologue.com/language/"
+    note_b = ">`_ identifies this language as ``"
+    note_c = "``."
+
+    # human friendly key mapping
+    friendlyKeys = {"lc":"lang_code",
+        "ISO-639-3":"ISO_639-3",
+        "ln":"lang_name",
+        "ang":"anglicanized_name",
+        "alt":"alternate_names",
+        "ld":"lang_direction",
+        "gwcode":"gateway_language",
+        "lr":"lang_region",
+        "cc":"country_codes",
+        }
+    # next write the "lc".rst page
+    fpath = path + "/" + lc + ".rst"
+    with open(fpath,"w") as rst:
+        rst.write(".. _%s\n\n" % lc)
+        rst.write("%s\n%s\n\n" % (lnj["ln"], ('=' * len(lnj["ln"]))))
+        if len(lc) == 2:
+            i639_code = lnj["ISO-639-3"]
+            rst.write("%s%s%s%s%s\n\n" % (note_a,i639_code,note_b,i639_code,note_c))
+        rst.write("This language is spoken in the following countries:\n")
+        for i in lnj["cc"]:
+            rst.write("* %s: %s\n" % (i,cc_dict[i]))
+        rst.write("\n")
+        friendlyMap = {}
+        for i in friendlyKeys:
+            friendlyMap[friendlyKeys[i]] = lnj[i]
+        y = yaml.dump(friendlyMap,allow_unicode=True, default_flow_style=False)
+        rst.write(".. code-block:: yaml\n\n")
+        rst.write("%s\n\n" % y)
 
 
 
