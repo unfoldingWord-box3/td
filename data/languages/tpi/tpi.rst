@@ -1,0 +1,34 @@
+.. _tpi
+
+Tok Pisin
+=========
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+* US: United States of America
+* AU: Australia
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+ISO_639-3: tpi
+alternate_names:
+- Melanesian English
+- Neomelanesian
+- New Guinea Pidgin English
+- Pidgin
+- Pisin
+anglicanized_name: Tok Pisin
+country_codes:
+- SB
+- US
+- AU
+- PG
+gateway_language: null
+lang_code: tpi
+lang_direction: ltr
+lang_name: Tok Pisin
+lang_region: Pacific
+
+
