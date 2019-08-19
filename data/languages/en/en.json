@@ -1,10 +1,10 @@
 {
-    "gwcode": null,
-    "ISO-639-3": "eng",
-    "hc": "GB",
-    "lr": "Europe",
-    "gw": true,
     "ld": "ltr",
+    "pk": 1747,
+    "lc": "en",
+    "gw": true,
+    "lr": "Europe",
+    "ang": "English",
     "cc": [
         "AG",
         "AO",
@@ -89,6 +89,8 @@
         "ZW",
         "CC"
     ],
+    "ISO-639-3": "eng",
+    "hc": "GB",
     "alt": [
         "Anglit",
         "Kiingereza",
@@ -107,8 +109,6 @@
         "Aboriginal English",
         "African American Vernacular English (AAVE)"
     ],
-    "ang": "English",
-    "lc": "en",
     "ln": "English",
-    "pk": 1747
+    "gwcode": null
 }

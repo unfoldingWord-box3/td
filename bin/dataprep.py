@@ -154,7 +154,7 @@ for lnj in jlndata:
         if len(lc) == 2:
             i639_code = lnj["ISO-639-3"]
             rst.write("%s%s%s%s%s\n\n" % (note_a,i639_code,note_b,i639_code,note_c))
-        rst.write("This language is spoken in the following countries:\n")
+        rst.write("This language is spoken in the following countries:\n\n")
         for i in lnj["cc"]:
             rst.write("* %s: %s\n" % (i,cc_dict[i]))
         rst.write("\n")
