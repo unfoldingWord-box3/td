@@ -1,0 +1,23 @@
+.. _mmd:
+
+毛南语
+=========
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: mmd
+    alternate_names:
+    - Ai Nan
+    anglicanized_name: Maonan
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: mmd
+    lang_direction: ltr
+    lang_name: 毛南语
+    lang_region: Asia
+    

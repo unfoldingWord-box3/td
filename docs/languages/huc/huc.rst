@@ -1,0 +1,29 @@
+.. _huc:
+
+ǂHua
+=====
+
+This language is spoken in the following countries:
+
+* BW: Botswana
+
+.. code-block:: yaml
+
+    ISO_639-3: huc
+    alternate_names:
+    - '|Hû'
+    - '|Hua'
+    - ‡Hoa
+    - ‡Hoã
+    - ‡Hoan
+    - ‡Hua-Owani
+    - ‡Hua
+    anglicanized_name: ‡Hua
+    country_codes:
+    - BW
+    gateway_language: en
+    lang_code: huc
+    lang_direction: ltr
+    lang_name: ǂHua
+    lang_region: Africa
+    

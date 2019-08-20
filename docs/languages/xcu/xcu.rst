@@ -1,0 +1,22 @@
+.. _xcu:
+
+Curonian
+========
+
+This language is spoken in the following countries:
+
+* LV: Latvia
+
+.. code-block:: yaml
+
+    ISO_639-3: xcu
+    alternate_names: []
+    anglicanized_name: Curonian
+    country_codes:
+    - LV
+    gateway_language: null
+    lang_code: xcu
+    lang_direction: ltr
+    lang_name: Curonian
+    lang_region: Europe
+    

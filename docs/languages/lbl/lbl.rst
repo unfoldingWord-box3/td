@@ -1,0 +1,23 @@
+.. _lbl:
+
+Libon Bikol
+===========
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: lbl
+    alternate_names:
+    - Libongeño
+    anglicanized_name: Bikol, Libon
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: lbl
+    lang_direction: ltr
+    lang_name: Libon Bikol
+    lang_region: Asia
+    

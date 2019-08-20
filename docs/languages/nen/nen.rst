@@ -1,0 +1,24 @@
+.. _nen:
+
+Nengone
+=======
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: nen
+    alternate_names:
+    - Iwatenu
+    - Pene Nengone
+    anglicanized_name: Nengone
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: nen
+    lang_direction: ltr
+    lang_name: Nengone
+    lang_region: Pacific
+    

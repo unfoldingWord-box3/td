@@ -1,0 +1,26 @@
+.. _she:
+
+Sheko
+=====
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: she
+    alternate_names:
+    - Shak
+    - Shekka
+    - Shekko
+    - Tschako
+    anglicanized_name: Sheko
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: she
+    lang_direction: ltr
+    lang_name: Sheko
+    lang_region: Africa
+    

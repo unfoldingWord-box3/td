@@ -1,0 +1,23 @@
+.. _bfe:
+
+Betaf
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bfe
+    alternate_names:
+    - Tena
+    anglicanized_name: Betaf
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bfe
+    lang_direction: ltr
+    lang_name: Betaf
+    lang_region: Asia
+    

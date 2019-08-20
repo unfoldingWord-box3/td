@@ -1,0 +1,44 @@
+.. _pbu:
+
+یوسفزئی پښتو
+=======================
+
+This language is spoken in the following countries:
+
+* AF: Afghanistan
+* PK: Pakistan
+* TR: Turkey
+* US: United States of America
+* AE: United Arab Emirates
+
+.. code-block:: yaml
+
+    ISO_639-3: pbu
+    alternate_names:
+    - Pakhtoo
+    - Pashtu
+    - Passtoo
+    - Pushto
+    - Pusto
+    - Afghan
+    - Eastern Afghan Pashto
+    - Pakhtu
+    - Paktu
+    - Sharqi
+    - Pakhto
+    - Yousafzai Pashto
+    - Yusufzai Pashto
+    - Khogyani
+    anglicanized_name: Pashto, Northern
+    country_codes:
+    - AF
+    - PK
+    - TR
+    - US
+    - AE
+    gateway_language: ur
+    lang_code: pbu
+    lang_direction: ltr
+    lang_name: یوسفزئی پښتو
+    lang_region: Asia
+    

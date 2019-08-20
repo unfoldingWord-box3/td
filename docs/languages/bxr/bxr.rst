@@ -1,0 +1,30 @@
+.. _bxr:
+
+Бурятский
+==================
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: bxr
+    alternate_names:
+    - Buriat-Mongolian
+    - Buryat
+    - Northern Mongolian
+    - Selengin
+    - Bokhan
+    - Ekhirit-Bulagat
+    anglicanized_name: Buriat, Russia
+    country_codes:
+    - RU
+    - UZ
+    gateway_language: ru
+    lang_code: bxr
+    lang_direction: ltr
+    lang_name: Бурятский
+    lang_region: Europe
+    

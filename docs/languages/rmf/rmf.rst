@@ -1,0 +1,27 @@
+.. _rmf:
+
+Kalo Finnish Romani
+===================
+
+This language is spoken in the following countries:
+
+* SE: Sweden
+* FI: Finland
+
+.. code-block:: yaml
+
+    ISO_639-3: rmf
+    alternate_names:
+    - Fíntika Rómma
+    - Gypsy
+    - Kalé
+    anglicanized_name: Romani, Kalo Finnish
+    country_codes:
+    - SE
+    - FI
+    gateway_language: en
+    lang_code: rmf
+    lang_direction: ltr
+    lang_name: Kalo Finnish Romani
+    lang_region: Europe
+    

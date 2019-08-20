@@ -1,0 +1,34 @@
+.. _kqy:
+
+Koorete
+=======
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: kqy
+    alternate_names:
+    - Amaarro
+    - Amarro
+    - Badittu
+    - Haro
+    - Harro
+    - Koore
+    - Koyra
+    - Kwera
+    - Nuna
+    - Middle Koorete
+    - North Koorete
+    - South Koorete
+    anglicanized_name: Koorete
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: kqy
+    lang_direction: ltr
+    lang_name: Koorete
+    lang_region: Africa
+    

@@ -1,0 +1,31 @@
+.. _ctp:
+
+Western Highland Chatino
+========================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: ctp
+    alternate_names:
+    - Cha't-An
+    - Chatino Central
+    - Chatino de la Zona Alta Occidental
+    - Sierra Occidental Chatino
+    - Panixtlahuaca Chatino
+    - San Juan Quiahije Chatino
+    - Yaitepec Chatino
+    anglicanized_name: Chatino, Western Highland
+    country_codes:
+    - MX
+    - US
+    gateway_language: es-419
+    lang_code: ctp
+    lang_direction: ltr
+    lang_name: Western Highland Chatino
+    lang_region: Americas
+    

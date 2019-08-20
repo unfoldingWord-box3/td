@@ -1,0 +1,29 @@
+.. _wny:
+
+Wanyi
+=====
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: wny
+    alternate_names:
+    - Waangyee
+    - Waanyi
+    - Wainyi
+    - Wanee
+    - Wanji
+    - Wanyee
+    - Wonyee
+    anglicanized_name: Wanyi
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: wny
+    lang_direction: ltr
+    lang_name: Wanyi
+    lang_region: Pacific
+    

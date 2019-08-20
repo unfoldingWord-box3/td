@@ -1,0 +1,25 @@
+.. _no:
+
+Norsk
+=====
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/nor>`_ identifies this language as ``nor``.
+
+This language is spoken in the following countries:
+
+* NO: Norway
+
+.. code-block:: yaml
+
+    ISO_639-3: nor
+    alternate_names:
+    - Riksmål
+    anglicanized_name: Norwegian
+    country_codes:
+    - 'NO'
+    gateway_language: en
+    lang_code: 'no'
+    lang_direction: ltr
+    lang_name: Norsk
+    lang_region: Europe
+    

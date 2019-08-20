@@ -1,0 +1,22 @@
+.. _dev:
+
+Domung
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: dev
+    alternate_names: []
+    anglicanized_name: Domung
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: dev
+    lang_direction: ltr
+    lang_name: Domung
+    lang_region: Pacific
+    

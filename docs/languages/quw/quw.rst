@@ -1,0 +1,24 @@
+.. _quw:
+
+Tena Lowland Quichua
+====================
+
+This language is spoken in the following countries:
+
+* EC: Ecuador
+
+.. code-block:: yaml
+
+    ISO_639-3: quw
+    alternate_names:
+    - Napo Kichwa
+    - Yumbo
+    anglicanized_name: Quichua, Tena Lowland
+    country_codes:
+    - EC
+    gateway_language: es-419
+    lang_code: quw
+    lang_direction: ltr
+    lang_name: Tena Lowland Quichua
+    lang_region: Americas
+    

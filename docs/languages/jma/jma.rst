@@ -1,0 +1,24 @@
+.. _jma:
+
+Dima
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: jma
+    alternate_names:
+    - Dimadima
+    - Jimajima
+    anglicanized_name: Dima
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: jma
+    lang_direction: ltr
+    lang_name: Dima
+    lang_region: Pacific
+    

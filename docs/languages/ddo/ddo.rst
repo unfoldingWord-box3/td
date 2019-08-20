@@ -1,0 +1,28 @@
+.. _ddo:
+
+цезйас мец
+===================
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: ddo
+    alternate_names:
+    - Cez
+    - Didoi
+    - Tsez
+    - Tsezy
+    - Tsuntin
+    - Sahada
+    anglicanized_name: Tsez
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: ddo
+    lang_direction: ltr
+    lang_name: цезйас мец
+    lang_region: Europe
+    

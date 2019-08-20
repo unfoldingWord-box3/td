@@ -1,0 +1,24 @@
+.. _srq:
+
+Sirionó
+========
+
+This language is spoken in the following countries:
+
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: srq
+    alternate_names:
+    - Mbia Chee
+    - Mbya
+    anglicanized_name: Sirionó
+    country_codes:
+    - BO
+    gateway_language: es-419
+    lang_code: srq
+    lang_direction: ltr
+    lang_name: Sirionó
+    lang_region: Americas
+    

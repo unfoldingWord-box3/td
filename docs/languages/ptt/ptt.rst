@@ -1,0 +1,25 @@
+.. _ptt:
+
+Enrekang
+========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: ptt
+    alternate_names:
+    - Endekan
+    - Endekan Timur
+    - Pattinjo (Letta-Batulappa-Kassa)
+    anglicanized_name: Enrekang
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: ptt
+    lang_direction: ltr
+    lang_name: Enrekang
+    lang_region: Asia
+    

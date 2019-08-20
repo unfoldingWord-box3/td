@@ -1,0 +1,20 @@
+.. _sst-x-gunangi:
+
+Gunangi
+=======
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Gunangi
+    country_codes: []
+    gateway_language: tpi
+    lang_code: sst-x-gunangi
+    lang_direction: ltr
+    lang_name: Gunangi
+    lang_region: Pacific
+    

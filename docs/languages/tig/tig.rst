@@ -1,0 +1,39 @@
+.. _tig:
+
+Tigre
+=====
+
+This language is spoken in the following countries:
+
+* ER: Eritrea
+* GB: United Kingdom of Great Britain and Northern Ireland
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: tig
+    alternate_names:
+    - Khasa
+    - Xasa
+    - Habab
+    - Senhit (Ad-Tekleis)
+    - Semhar
+    - Mensa
+    - Mansa' (Mensa)
+    - Bet-Juk
+    - Beni-Amir
+    - Algeden
+    - Ad-Temariam
+    - Marya Kayah
+    - Dahalik
+    anglicanized_name: Tigré
+    country_codes:
+    - ER
+    - GB
+    - US
+    gateway_language: ar
+    lang_code: tig
+    lang_direction: ltr
+    lang_name: Tigre
+    lang_region: Africa
+    

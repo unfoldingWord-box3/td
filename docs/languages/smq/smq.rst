@@ -1,0 +1,25 @@
+.. _smq:
+
+Samo
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: smq
+    alternate_names:
+    - Daba
+    - Nomad
+    - Supei
+    anglicanized_name: Samo
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: smq
+    lang_direction: ltr
+    lang_name: Samo
+    lang_region: Pacific
+    

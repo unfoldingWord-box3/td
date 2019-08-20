@@ -1,0 +1,24 @@
+.. _or:
+
+ଓଡ଼ିଆ
+===============
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ori>`_ identifies this language as ``ori``.
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: ori
+    alternate_names: []
+    anglicanized_name: Oriya
+    country_codes:
+    - IN
+    gateway_language: null
+    lang_code: or
+    lang_direction: ltr
+    lang_name: ଓଡ଼ିଆ
+    lang_region: Asia
+    

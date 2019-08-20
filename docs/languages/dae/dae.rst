@@ -1,0 +1,26 @@
+.. _dae:
+
+Duupa
+=====
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: dae
+    alternate_names:
+    - Doupa
+    - Dupa
+    - Nduupa
+    - Saa
+    anglicanized_name: Duupa
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: dae
+    lang_direction: ltr
+    lang_name: Duupa
+    lang_region: Africa
+    

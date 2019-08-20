@@ -1,0 +1,22 @@
+.. _aro:
+
+Araona
+======
+
+This language is spoken in the following countries:
+
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: aro
+    alternate_names: []
+    anglicanized_name: Araona
+    country_codes:
+    - BO
+    gateway_language: es-419
+    lang_code: aro
+    lang_direction: ltr
+    lang_name: Araona
+    lang_region: Americas
+    

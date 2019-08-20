@@ -1,0 +1,29 @@
+.. _bgq:
+
+Bagri
+=====
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: bgq
+    alternate_names:
+    - Bagria
+    - Bagris
+    - Bahgri
+    - Baorias
+    - Bawri
+    anglicanized_name: Bagri
+    country_codes:
+    - PK
+    - IN
+    gateway_language: hi
+    lang_code: bgq
+    lang_direction: ltr
+    lang_name: Bagri
+    lang_region: Asia
+    

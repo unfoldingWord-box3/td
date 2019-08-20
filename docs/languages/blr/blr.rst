@@ -1,0 +1,36 @@
+.. _blr:
+
+布朗方言
+============
+
+This language is spoken in the following countries:
+
+* CN: China
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: blr
+    alternate_names:
+    - Bulang
+    - K'ala
+    - Kawa
+    - Kontoi
+    - Plang
+    - Pula
+    - Pulang
+    - Hkawa
+    - Khon Doi
+    - K'wa
+    - Sen Chun
+    - Wa
+    anglicanized_name: Blang
+    country_codes:
+    - CN
+    - MM
+    gateway_language: zh
+    lang_code: blr
+    lang_direction: ltr
+    lang_name: 布朗方言
+    lang_region: Asia
+    

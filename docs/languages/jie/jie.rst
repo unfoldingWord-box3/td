@@ -1,0 +1,23 @@
+.. _jie:
+
+Jilbe
+=====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: jie
+    alternate_names:
+    - Zoulbou
+    anglicanized_name: Jilbe
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: jie
+    lang_direction: ltr
+    lang_name: Jilbe
+    lang_region: Africa
+    

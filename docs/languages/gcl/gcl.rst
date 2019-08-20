@@ -1,0 +1,23 @@
+.. _gcl:
+
+Grenadian Creole English
+========================
+
+This language is spoken in the following countries:
+
+* GD: Grenada
+
+.. code-block:: yaml
+
+    ISO_639-3: gcl
+    alternate_names:
+    - Carriacou Creole English
+    anglicanized_name: Grenadian Creole English
+    country_codes:
+    - GD
+    gateway_language: en
+    lang_code: gcl
+    lang_direction: ltr
+    lang_name: Grenadian Creole English
+    lang_region: Americas
+    

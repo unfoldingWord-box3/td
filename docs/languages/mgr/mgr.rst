@@ -1,0 +1,34 @@
+.. _mgr:
+
+Mambwe-Lungu
+============
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+* ZM: Zambia
+
+.. code-block:: yaml
+
+    ISO_639-3: mgr
+    alternate_names:
+    - Ichirungu
+    - Icilungu
+    - Icimambwe
+    - Kilungu
+    - Kimambwe
+    - Kirungu
+    - Lungu (Adong)
+    - Lungu (Cilungu)
+    - Mambwe (Ichimambwe)
+    - Fipa-Mambwe (Kifipa cha Kimambwe)
+    anglicanized_name: Mambwe-Lungu
+    country_codes:
+    - TZ
+    - ZM
+    gateway_language: en
+    lang_code: mgr
+    lang_direction: ltr
+    lang_name: Mambwe-Lungu
+    lang_region: Africa
+    

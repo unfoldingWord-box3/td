@@ -1,0 +1,22 @@
+.. _io:
+
+Ido
+===
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ido>`_ identifies this language as ``ido``.
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: ido
+    alternate_names: []
+    anglicanized_name: Ido
+    country_codes: []
+    gateway_language: null
+    lang_code: io
+    lang_direction: ltr
+    lang_name: Ido
+    lang_region: ''
+    

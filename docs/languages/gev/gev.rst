@@ -1,0 +1,22 @@
+.. _gev:
+
+Eviya
+=====
+
+This language is spoken in the following countries:
+
+* GA: Gabon
+
+.. code-block:: yaml
+
+    ISO_639-3: gev
+    alternate_names: []
+    anglicanized_name: Eviya
+    country_codes:
+    - GA
+    gateway_language: fr
+    lang_code: gev
+    lang_direction: ltr
+    lang_name: Eviya
+    lang_region: Africa
+    

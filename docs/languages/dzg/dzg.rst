@@ -1,0 +1,30 @@
+.. _dzg:
+
+Dazaga
+======
+
+This language is spoken in the following countries:
+
+* NE: Niger
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: dzg
+    alternate_names:
+    - Daza
+    - Toubou
+    - Tubu
+    - Dasa
+    - Dazza
+    - Kashirda
+    anglicanized_name: Dazaga
+    country_codes:
+    - NE
+    - TD
+    gateway_language: ar
+    lang_code: dzg
+    lang_direction: ltr
+    lang_name: Dazaga
+    lang_region: Africa
+    

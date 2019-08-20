@@ -1,0 +1,22 @@
+.. _sek:
+
+Sekani
+======
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: sek
+    alternate_names: []
+    anglicanized_name: Sekani
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: sek
+    lang_direction: ltr
+    lang_name: Sekani
+    lang_region: Americas
+    

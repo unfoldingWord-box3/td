@@ -1,0 +1,22 @@
+.. _hbs:
+
+Serbo-Croatian
+==============
+
+This language is spoken in the following countries:
+
+* RS: Serbia
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - RS
+    gateway_language: null
+    lang_code: hbs
+    lang_direction: ltr
+    lang_name: Serbo-Croatian
+    lang_region: Europe
+    

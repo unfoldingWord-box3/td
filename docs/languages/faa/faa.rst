@@ -1,0 +1,25 @@
+.. _faa:
+
+Fasu
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: faa
+    alternate_names:
+    - Kaibu (Kaipu)
+    - Namome (Namumi)
+    - Namuni
+    anglicanized_name: Fasu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: faa
+    lang_direction: ltr
+    lang_name: Fasu
+    lang_region: Pacific
+    

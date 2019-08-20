@@ -1,0 +1,44 @@
+.. _ekk:
+
+Standard Estonian
+=================
+
+This language is spoken in the following countries:
+
+* EE: Estonia
+* KZ: Kazakhstan
+* GB: United Kingdom of Great Britain and Northern Ireland
+* SE: Sweden
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: ekk
+    alternate_names:
+    - Eesti
+    - Tartu (Dorpat)
+    - Tallinn (Reval)
+    - Tallinn (Northern Estonian)
+    - Southern Estonian
+    - Reval
+    - Muly (Mulgi)
+    - Tatu
+    anglicanized_name: Estonian, Standard
+    country_codes:
+    - EE
+    - KZ
+    - GB
+    - SE
+    - US
+    - AU
+    - CA
+    - UZ
+    gateway_language: en
+    lang_code: ekk
+    lang_direction: ltr
+    lang_name: Standard Estonian
+    lang_region: Europe
+    

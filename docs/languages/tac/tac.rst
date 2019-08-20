@@ -1,0 +1,29 @@
+.. _tac:
+
+Lowland Tarahumara
+==================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: tac
+    alternate_names:
+    - Baja Tarahumara
+    - Lowland Tarahumara
+    - Ralámuli de la Baja Tarahumara
+    - Rarámuri
+    - Rocoroibo
+    - Tarahumara del Oeste
+    - Tarahumara del Poniente
+    anglicanized_name: Tarahumara, Western
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: tac
+    lang_direction: ltr
+    lang_name: Lowland Tarahumara
+    lang_region: Americas
+    

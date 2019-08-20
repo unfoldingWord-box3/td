@@ -1,0 +1,24 @@
+.. _hbn:
+
+Heiban
+======
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: hbn
+    alternate_names:
+    - Abul
+    - Ebang
+    anglicanized_name: Heiban
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: hbn
+    lang_direction: ltr
+    lang_name: Heiban
+    lang_region: Africa
+    

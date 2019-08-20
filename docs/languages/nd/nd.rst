@@ -1,0 +1,33 @@
+.. _nd:
+
+isiNdebele
+==========
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/nde>`_ identifies this language as ``nde``.
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+* ZW: Zimbabwe
+* BW: Botswana
+
+.. code-block:: yaml
+
+    ISO_639-3: nde
+    alternate_names:
+    - Isinde'bele
+    - Northern Ndebele
+    - Sindebele
+    - Tabele
+    - Tebele
+    anglicanized_name: Northern Ndebele
+    country_codes:
+    - ZM
+    - ZW
+    - BW
+    gateway_language: en
+    lang_code: nd
+    lang_direction: ltr
+    lang_name: isiNdebele
+    lang_region: Africa
+    

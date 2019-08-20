@@ -1,0 +1,26 @@
+.. _yag:
+
+Yámana
+=======
+
+This language is spoken in the following countries:
+
+* CL: Chile
+
+.. code-block:: yaml
+
+    ISO_639-3: yag
+    alternate_names:
+    - Yahgan
+    - Tequenica
+    - Yagán
+    - Yaghan
+    anglicanized_name: Yámana
+    country_codes:
+    - CL
+    gateway_language: es-419
+    lang_code: yag
+    lang_direction: ltr
+    lang_name: Yámana
+    lang_region: Americas
+    

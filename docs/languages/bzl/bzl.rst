@@ -1,0 +1,23 @@
+.. _bzl:
+
+Boano (Sulawesi)
+================
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bzl
+    alternate_names:
+    - Boan-diks
+    anglicanized_name: Boano
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bzl
+    lang_direction: ltr
+    lang_name: Boano (Sulawesi)
+    lang_region: Asia
+    

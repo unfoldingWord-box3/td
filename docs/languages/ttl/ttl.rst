@@ -1,0 +1,23 @@
+.. _ttl:
+
+Totela
+======
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+
+.. code-block:: yaml
+
+    ISO_639-3: ttl
+    alternate_names:
+    - Echitotela
+    anglicanized_name: Totela
+    country_codes:
+    - ZM
+    gateway_language: en
+    lang_code: ttl
+    lang_direction: ltr
+    lang_name: Totela
+    lang_region: Africa
+    

@@ -1,0 +1,24 @@
+.. _uz:
+
+Oʻzbek, Ўзбек, أۇزبېك‎
+====================================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/uzb>`_ identifies this language as ``uzb``.
+
+This language is spoken in the following countries:
+
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: uzb
+    alternate_names: []
+    anglicanized_name: Uzbek
+    country_codes:
+    - UZ
+    gateway_language: ru
+    lang_code: uz
+    lang_direction: ltr
+    lang_name: Oʻzbek, Ўзбек, أۇزبېك‎
+    lang_region: Asia
+    

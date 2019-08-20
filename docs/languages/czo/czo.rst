@@ -1,0 +1,23 @@
+.. _czo:
+
+闽中语
+=========
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: czo
+    alternate_names:
+    - Central Min
+    anglicanized_name: Chinese, Min Zhong
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: czo
+    lang_direction: ltr
+    lang_name: 闽中语
+    lang_region: Asia
+    

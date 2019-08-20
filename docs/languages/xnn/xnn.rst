@@ -1,0 +1,24 @@
+.. _xnn:
+
+Northern Kankanay
+=================
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: xnn
+    alternate_names:
+    - Sagada Igorot
+    - Western Bontoc
+    anglicanized_name: Kankanay, Northern
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: xnn
+    lang_direction: ltr
+    lang_name: Northern Kankanay
+    lang_region: Asia
+    

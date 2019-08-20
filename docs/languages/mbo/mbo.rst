@@ -1,0 +1,29 @@
+.. _mbo:
+
+Mbo (Cameroon)
+==============
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: mbo
+    alternate_names:
+    - Mboo
+    - Sambo
+    - Bareko (Ehow Mba)
+    - Santchou (Nla Mboo)
+    - Minahe
+    - Kekem (Nlembuu)
+    - Melong (Eho Mbo)
+    anglicanized_name: Mbo
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: mbo
+    lang_direction: ltr
+    lang_name: Mbo (Cameroon)
+    lang_region: Africa
+    

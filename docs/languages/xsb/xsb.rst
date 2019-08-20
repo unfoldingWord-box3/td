@@ -1,0 +1,28 @@
+.. _xsb:
+
+Sambal
+======
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: xsb
+    alternate_names:
+    - Sambali
+    - Tina
+    - Tina Sambal
+    - Iba
+    - Masinloc
+    - Santa Cruz
+    anglicanized_name: Sambal
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: xsb
+    lang_direction: ltr
+    lang_name: Sambal
+    lang_region: Asia
+    

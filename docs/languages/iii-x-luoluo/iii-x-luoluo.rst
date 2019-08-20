@@ -1,0 +1,22 @@
+.. _iii-x-luoluo:
+
+Luoluo
+======
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - CN
+    gateway_language: cmn
+    lang_code: iii-x-luoluo
+    lang_direction: ltr
+    lang_name: Luoluo
+    lang_region: Asia
+    

@@ -1,0 +1,25 @@
+.. _bva:
+
+Barein
+======
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: bva
+    alternate_names:
+    - Baraïn
+    - Jelkin
+    - Sakaya (Dagne)
+    anglicanized_name: Barein
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: bva
+    lang_direction: ltr
+    lang_name: Barein
+    lang_region: Africa
+    

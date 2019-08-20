@@ -1,0 +1,31 @@
+.. _lbn:
+
+Lamet
+=====
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+* TH: Thailand
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: lbn
+    alternate_names:
+    - Kha Lamet
+    - Khamed
+    - Lemet
+    - Rmeet
+    - Kamet
+    anglicanized_name: Lamet
+    country_codes:
+    - LA
+    - TH
+    - US
+    gateway_language: lo
+    lang_code: lbn
+    lang_direction: ltr
+    lang_name: Lamet
+    lang_region: Asia
+    

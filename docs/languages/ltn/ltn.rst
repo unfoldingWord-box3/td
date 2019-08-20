@@ -1,0 +1,23 @@
+.. _ltn:
+
+Latundê
+========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: ltn
+    alternate_names:
+    - Leitodu
+    anglicanized_name: Latundê
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: ltn
+    lang_direction: ltr
+    lang_name: Latundê
+    lang_region: Americas
+    

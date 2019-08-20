@@ -1,0 +1,23 @@
+.. _aut:
+
+Austral
+=======
+
+This language is spoken in the following countries:
+
+* PF: French Polynesia
+
+.. code-block:: yaml
+
+    ISO_639-3: aut
+    alternate_names:
+    - Tubuai-Rurutu
+    anglicanized_name: Austral
+    country_codes:
+    - PF
+    gateway_language: fr
+    lang_code: aut
+    lang_direction: ltr
+    lang_name: Austral
+    lang_region: Pacific
+    

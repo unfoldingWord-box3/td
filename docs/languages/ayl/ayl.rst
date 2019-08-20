@@ -1,0 +1,43 @@
+.. _ayl:
+
+ليبي
+========
+
+This language is spoken in the following countries:
+
+* ES: Spain
+* TN: Tunisia
+* US: United States of America
+* CA: Canada
+* IT: Italy
+* LY: Libya
+* EG: Egypt
+* AE: United Arab Emirates
+
+.. code-block:: yaml
+
+    ISO_639-3: ayl
+    alternate_names:
+    - Bedawi
+    - Libyan Spoken Arabic
+    - Maghrebi Arabic
+    - Sulaimitian Arabic
+    - Libyan Vernacular Arabic
+    - Western Egyptian Bedawi Spoken Arabic
+    - Western Egyptian Bedawi Arabic
+    anglicanized_name: Arabic, Libyan Spoken
+    country_codes:
+    - ES
+    - TN
+    - US
+    - CA
+    - IT
+    - LY
+    - EG
+    - AE
+    gateway_language: ar
+    lang_code: ayl
+    lang_direction: rtl
+    lang_name: ليبي
+    lang_region: Africa
+    

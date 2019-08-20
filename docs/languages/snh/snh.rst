@@ -1,0 +1,22 @@
+.. _snh:
+
+Shinabo
+=======
+
+This language is spoken in the following countries:
+
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Shinabo
+    country_codes:
+    - BO
+    gateway_language: es-419
+    lang_code: snh
+    lang_direction: ltr
+    lang_name: Shinabo
+    lang_region: Americas
+    

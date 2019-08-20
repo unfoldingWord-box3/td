@@ -1,0 +1,25 @@
+.. _bdr:
+
+West Coast Bajau
+================
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: bdr
+    alternate_names:
+    - Land Bajaw
+    - West Coast Bajao
+    - West Coast Bajaw
+    anglicanized_name: Bajau, West Coast
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: bdr
+    lang_direction: ltr
+    lang_name: West Coast Bajau
+    lang_region: Asia
+    

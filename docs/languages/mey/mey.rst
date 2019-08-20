@@ -1,0 +1,55 @@
+.. _mey:
+
+حسانية
+============
+
+This language is spoken in the following countries:
+
+* DZ: Algeria
+* FR: France
+* ML: Mali
+* MR: Mauritania
+* MA: Morocco
+* NE: Niger
+* US: United States of America
+* TD: Chad
+* CA: Canada
+* LY: Libya
+
+.. code-block:: yaml
+
+    ISO_639-3: mey
+    alternate_names:
+    - Hasanya
+    - Hassani
+    - Maure
+    - Mauri
+    - Moor
+    - Sahrawi
+    - Sulaka
+    - Hassaniya
+    - Suraka
+    - Suraxxé
+    - Hasanya Arabic
+    - Hassania
+    - Hassaniyya Arabic
+    - Klem El Bithan
+    - Hasaniya
+    anglicanized_name: Hassaniyya
+    country_codes:
+    - DZ
+    - FR
+    - ML
+    - MR
+    - MA
+    - NE
+    - US
+    - TD
+    - CA
+    - LY
+    gateway_language: ar
+    lang_code: mey
+    lang_direction: rtl
+    lang_name: حسانية
+    lang_region: Africa
+    

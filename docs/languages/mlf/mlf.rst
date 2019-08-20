@@ -1,0 +1,28 @@
+.. _mlf:
+
+Mal
+===
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: mlf
+    alternate_names:
+    - Htin
+    - Khatin
+    - Thin
+    - Tin
+    - T'in
+    - Ht'in
+    anglicanized_name: Mal
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: mlf
+    lang_direction: ltr
+    lang_name: Mal
+    lang_region: Asia
+    

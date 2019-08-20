@@ -1,0 +1,28 @@
+.. _xda:
+
+Darkinyung
+==========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: xda
+    alternate_names:
+    - Darginjang
+    - Darginyung
+    - Darkinjang
+    - Darkinoong
+    - Darkinung
+    - Darknung
+    anglicanized_name: Darkinyung
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: xda
+    lang_direction: ltr
+    lang_name: Darkinyung
+    lang_region: Pacific
+    

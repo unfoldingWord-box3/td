@@ -1,0 +1,24 @@
+.. _bls:
+
+Balaesang
+=========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bls
+    alternate_names:
+    - Balaisang
+    - Pajo
+    anglicanized_name: Balaesang
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bls
+    lang_direction: ltr
+    lang_name: Balaesang
+    lang_region: Asia
+    

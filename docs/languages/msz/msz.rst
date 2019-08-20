@@ -1,0 +1,25 @@
+.. _msz:
+
+Momare
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: msz
+    alternate_names:
+    - Momale
+    - Momole
+    - Mumare
+    anglicanized_name: Momare
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: msz
+    lang_direction: ltr
+    lang_name: Momare
+    lang_region: Pacific
+    

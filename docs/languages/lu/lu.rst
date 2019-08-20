@@ -1,0 +1,26 @@
+.. _lu:
+
+Tshiluba
+========
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/lub>`_ identifies this language as ``lub``.
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: lub
+    alternate_names:
+    - Kiluba
+    - Luba-Shaba
+    anglicanized_name: Luba-Katanga
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: lu
+    lang_direction: ltr
+    lang_name: Tshiluba
+    lang_region: Africa
+    

@@ -1,0 +1,22 @@
+.. _sww:
+
+Sowa
+====
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: sww
+    alternate_names: []
+    anglicanized_name: Sowa
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: sww
+    lang_direction: ltr
+    lang_name: Sowa
+    lang_region: Pacific
+    

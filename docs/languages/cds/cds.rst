@@ -1,0 +1,22 @@
+.. _cds:
+
+Chadian Sign Language
+=====================
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: cds
+    alternate_names: []
+    anglicanized_name: Chadian Sign Language
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: cds
+    lang_direction: ltr
+    lang_name: Chadian Sign Language
+    lang_region: Africa
+    

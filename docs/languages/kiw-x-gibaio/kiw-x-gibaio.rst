@@ -1,0 +1,20 @@
+.. _kiw-x-gibaio:
+
+Gibaio
+======
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Kiw
+    country_codes: []
+    gateway_language: tpi
+    lang_code: kiw-x-gibaio
+    lang_direction: ltr
+    lang_name: Gibaio
+    lang_region: Pacific
+    

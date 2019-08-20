@@ -1,0 +1,28 @@
+.. _lun:
+
+Lunda
+=====
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: lun
+    alternate_names:
+    - Chilunda
+    - Ruund
+    - Kosa (Koosa)
+    - Lunda Ndembu
+    anglicanized_name: Lunda
+    country_codes:
+    - ZM
+    - AO
+    gateway_language: en
+    lang_code: lun
+    lang_direction: ltr
+    lang_name: Lunda
+    lang_region: Africa
+    

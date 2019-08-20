@@ -1,0 +1,22 @@
+.. _nsq:
+
+Northern Sierra Miwok
+=====================
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: nsq
+    alternate_names: []
+    anglicanized_name: Miwok, Northern Sierra
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: nsq
+    lang_direction: ltr
+    lang_name: Northern Sierra Miwok
+    lang_region: Americas
+    

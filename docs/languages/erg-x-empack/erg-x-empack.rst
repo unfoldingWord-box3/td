@@ -1,0 +1,20 @@
+.. _erg-x-empack:
+
+Empack
+======
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Empack
+    country_codes: []
+    gateway_language: bi
+    lang_code: erg-x-empack
+    lang_direction: ltr
+    lang_name: Empack
+    lang_region: Pacific
+    

@@ -1,0 +1,25 @@
+.. _ycn:
+
+Yucuna
+======
+
+This language is spoken in the following countries:
+
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: ycn
+    alternate_names:
+    - Matapi
+    - Yucuna-Matapi
+    - Yukuna
+    anglicanized_name: Yucuna
+    country_codes:
+    - CO
+    gateway_language: es-419
+    lang_code: ycn
+    lang_direction: ltr
+    lang_name: Yucuna
+    lang_region: Americas
+    

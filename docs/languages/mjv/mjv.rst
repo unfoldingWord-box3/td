@@ -1,0 +1,25 @@
+.. _mjv:
+
+Mannan
+======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: mjv
+    alternate_names:
+    - Mannan Pasha
+    - Manne
+    - Mannyod
+    anglicanized_name: Mannan
+    country_codes:
+    - IN
+    gateway_language: ml
+    lang_code: mjv
+    lang_direction: ltr
+    lang_name: Mannan
+    lang_region: Asia
+    

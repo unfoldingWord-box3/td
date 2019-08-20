@@ -1,0 +1,24 @@
+.. _bjr:
+
+Binumarien
+==========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bjr
+    alternate_names:
+    - Binamarir
+    - Binumaria
+    anglicanized_name: Binumarien
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bjr
+    lang_direction: ltr
+    lang_name: Binumarien
+    lang_region: Pacific
+    

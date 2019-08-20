@@ -1,0 +1,26 @@
+.. _rwk:
+
+Rwa
+===
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: rwk
+    alternate_names:
+    - Kirwa
+    - Kirwo
+    - Rwo
+    - Kihai (Meru)
+    anglicanized_name: Rwa
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: rwk
+    lang_direction: ltr
+    lang_name: Rwa
+    lang_region: Africa
+    

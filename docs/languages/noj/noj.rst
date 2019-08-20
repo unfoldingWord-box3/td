@@ -1,0 +1,22 @@
+.. _noj:
+
+Nonuya
+======
+
+This language is spoken in the following countries:
+
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: noj
+    alternate_names: []
+    anglicanized_name: Nonuya
+    country_codes:
+    - CO
+    gateway_language: es-419
+    lang_code: noj
+    lang_direction: ltr
+    lang_name: Nonuya
+    lang_region: Americas
+    

@@ -1,0 +1,26 @@
+.. _aht:
+
+Ahtena
+======
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: aht
+    alternate_names:
+    - Ahtna
+    - Atna
+    - Copper River
+    - Mednovskiy
+    anglicanized_name: Ahtena
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: aht
+    lang_direction: ltr
+    lang_name: Ahtena
+    lang_region: Americas
+    

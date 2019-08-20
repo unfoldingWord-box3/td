@@ -1,0 +1,50 @@
+.. _shn:
+
+Shan
+====
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+* TH: Thailand
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: shn
+    alternate_names:
+    - Dehong
+    - Burmese Shan
+    - Great Thai
+    - Sam
+    - Sha
+    - Shan Bama
+    - Tai Long
+    - Tai Luang
+    - Tai Shan
+    - Tai Yai
+    - Thai Yai
+    - Ngeo
+    - Ngiao
+    - Ngiaw
+    - Ngio
+    - Ngiow
+    - Tai Yay
+    - Thai Yay
+    - Southern Shan State
+    - Tai Khe
+    - Northern Shan State
+    - Mae Hong Son
+    - Tai Mao (Mao Shan)
+    - Nge"
+    anglicanized_name: Shan
+    country_codes:
+    - LA
+    - TH
+    - MM
+    gateway_language: my
+    lang_code: shn
+    lang_direction: ltr
+    lang_name: Shan
+    lang_region: Asia
+    

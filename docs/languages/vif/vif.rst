@@ -1,0 +1,38 @@
+.. _vif:
+
+Vili
+====
+
+This language is spoken in the following countries:
+
+* GA: Gabon
+* CG: Congo
+
+.. code-block:: yaml
+
+    ISO_639-3: vif
+    alternate_names:
+    - Civili
+    - Fiot
+    - Fiote
+    - Tshivili
+    - Tsivili
+    - Lindji
+    - Woyo
+    - Yombe
+    - Yoombe (Ciyoombe)
+    - Civili ci Yombe
+    - Civili ci Waanda
+    - Civili ci Moongo
+    - Civili ci Loango
+    - Kotchi
+    anglicanized_name: Vili
+    country_codes:
+    - GA
+    - CG
+    gateway_language: fr
+    lang_code: vif
+    lang_direction: ltr
+    lang_name: Vili
+    lang_region: Africa
+    

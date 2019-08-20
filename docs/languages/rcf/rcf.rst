@@ -1,0 +1,30 @@
+.. _rcf:
+
+Réunion Creole French
+======================
+
+This language is spoken in the following countries:
+
+* KM: Comoros
+* FR: France
+* MG: Madagascar
+* RE: R�union
+* YT: Mayotte
+
+.. code-block:: yaml
+
+    ISO_639-3: rcf
+    alternate_names: []
+    anglicanized_name: Réunion Creole French
+    country_codes:
+    - KM
+    - FR
+    - MG
+    - RE
+    - YT
+    gateway_language: fr
+    lang_code: rcf
+    lang_direction: ltr
+    lang_name: Réunion Creole French
+    lang_region: Africa
+    

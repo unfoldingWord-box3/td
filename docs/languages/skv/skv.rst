@@ -1,0 +1,30 @@
+.. _skv:
+
+Skou
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: skv
+    alternate_names:
+    - Sekol
+    - Sekou
+    - Sko
+    - Skouw
+    - Skow
+    - Sukou
+    - Te Mawo
+    - Tumawo
+    anglicanized_name: Skou
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: skv
+    lang_direction: ltr
+    lang_name: Skou
+    lang_region: Asia
+    

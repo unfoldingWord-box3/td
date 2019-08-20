@@ -1,0 +1,22 @@
+.. _eya:
+
+Eyak
+====
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: eya
+    alternate_names: []
+    anglicanized_name: Eyak
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: eya
+    lang_direction: ltr
+    lang_name: Eyak
+    lang_region: Americas
+    

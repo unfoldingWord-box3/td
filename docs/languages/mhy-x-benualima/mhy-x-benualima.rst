@@ -1,0 +1,20 @@
+.. _mhy-x-benualima:
+
+Dayak Ma'anyan Banua Lima
+=========================
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Dayak Ma'anyan Banua Lima
+    country_codes: []
+    gateway_language: id
+    lang_code: mhy-x-benualima
+    lang_direction: ltr
+    lang_name: Dayak Ma'anyan Banua Lima
+    lang_region: Asia
+    

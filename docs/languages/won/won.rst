@@ -1,0 +1,27 @@
+.. _won:
+
+Wongo
+=====
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: won
+    alternate_names:
+    - Bakong
+    - Gongo
+    - Ndjembe
+    - Tukkongo
+    - Tukongo
+    anglicanized_name: Wongo
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: won
+    lang_direction: ltr
+    lang_name: Wongo
+    lang_region: Africa
+    

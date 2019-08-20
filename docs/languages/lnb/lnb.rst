@@ -1,0 +1,25 @@
+.. _lnb:
+
+Mbalanhu
+========
+
+This language is spoken in the following countries:
+
+* NA: Namibia
+
+.. code-block:: yaml
+
+    ISO_639-3: lnb
+    alternate_names:
+    - Mbaanhu
+    - Mbalantu
+    - Mbaluntu
+    anglicanized_name: Mbalanhu
+    country_codes:
+    - NA
+    gateway_language: en
+    lang_code: lnb
+    lang_direction: ltr
+    lang_name: Mbalanhu
+    lang_region: Africa
+    

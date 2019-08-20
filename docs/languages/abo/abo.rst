@@ -1,0 +1,24 @@
+.. _abo:
+
+Abon
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: abo
+    alternate_names:
+    - Abõ
+    - Ba'ban
+    anglicanized_name: Abon
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: abo
+    lang_direction: ltr
+    lang_name: Abon
+    lang_region: Africa
+    

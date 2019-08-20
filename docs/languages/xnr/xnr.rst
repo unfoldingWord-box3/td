@@ -1,0 +1,27 @@
+.. _xnr:
+
+Kangri
+======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: xnr
+    alternate_names:
+    - Kangra-Dogri
+    - Pahari
+    - Pahari Kangri
+    - Hamirpuri
+    - Palampuri
+    anglicanized_name: Kangri
+    country_codes:
+    - IN
+    gateway_language: pa
+    lang_code: xnr
+    lang_direction: ltr
+    lang_name: Kangri
+    lang_region: Asia
+    

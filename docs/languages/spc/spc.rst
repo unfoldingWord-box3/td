@@ -1,0 +1,26 @@
+.. _spc:
+
+Sapé
+=====
+
+This language is spoken in the following countries:
+
+* VE: Venezuela (Bolivarian Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: spc
+    alternate_names:
+    - Caliana
+    - Chirichano
+    - Kaliána
+    - Kariana
+    anglicanized_name: Sapé
+    country_codes:
+    - VE
+    gateway_language: es-419
+    lang_code: spc
+    lang_direction: ltr
+    lang_name: Sapé
+    lang_region: Americas
+    

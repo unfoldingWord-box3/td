@@ -1,0 +1,27 @@
+.. _auw:
+
+Awyi
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: auw
+    alternate_names:
+    - Awje
+    - Awji
+    - Awye
+    - Njao
+    - Nyao
+    anglicanized_name: Awyi
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: auw
+    lang_direction: ltr
+    lang_name: Awyi
+    lang_region: Asia
+    

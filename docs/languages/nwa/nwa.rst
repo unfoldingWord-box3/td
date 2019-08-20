@@ -1,0 +1,22 @@
+.. _nwa:
+
+Nawathinehena
+=============
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: nwa
+    alternate_names: []
+    anglicanized_name: Nawathinehena
+    country_codes:
+    - US
+    gateway_language: null
+    lang_code: nwa
+    lang_direction: ltr
+    lang_name: Nawathinehena
+    lang_region: Americas
+    

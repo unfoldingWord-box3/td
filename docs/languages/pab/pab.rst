@@ -1,0 +1,27 @@
+.. _pab:
+
+Parecís
+========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: pab
+    alternate_names:
+    - Arití
+    - Haliti
+    - Pareás
+    - Paresí
+    - Paressí
+    anglicanized_name: Parecís
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: pab
+    lang_direction: ltr
+    lang_name: Parecís
+    lang_region: Americas
+    

@@ -1,0 +1,24 @@
+.. _gug:
+
+Paraguayan Guaraní
+===================
+
+This language is spoken in the following countries:
+
+* PY: Paraguay
+
+.. code-block:: yaml
+
+    ISO_639-3: gug
+    alternate_names:
+    - Avañe'e
+    - Jopará (Yopará)
+    anglicanized_name: Guaraní, Paraguayan
+    country_codes:
+    - PY
+    gateway_language: es-419
+    lang_code: gug
+    lang_direction: ltr
+    lang_name: Paraguayan Guaraní
+    lang_region: Americas
+    

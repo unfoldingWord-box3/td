@@ -1,0 +1,31 @@
+.. _mi:
+
+te reo Māori
+=============
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/mri>`_ identifies this language as ``mri``.
+
+This language is spoken in the following countries:
+
+* NZ: New Zealand
+* TO: Tonga
+* US: United States of America
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: mri
+    alternate_names:
+    - New Zealand Maori
+    anglicanized_name: Māori
+    country_codes:
+    - NZ
+    - TO
+    - US
+    - AU
+    gateway_language: en
+    lang_code: mi
+    lang_direction: ltr
+    lang_name: te reo Māori
+    lang_region: Pacific
+    

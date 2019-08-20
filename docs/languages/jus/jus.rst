@@ -1,0 +1,22 @@
+.. _jus:
+
+Jumla Sign Language
+===================
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: jus
+    alternate_names: []
+    anglicanized_name: Jumla Sign Language
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: jus
+    lang_direction: ltr
+    lang_name: Jumla Sign Language
+    lang_region: Asia
+    

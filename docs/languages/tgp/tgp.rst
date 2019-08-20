@@ -1,0 +1,24 @@
+.. _tgp:
+
+Tangoa
+======
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: tgp
+    alternate_names:
+    - Santo
+    - South Santo
+    anglicanized_name: Tangoa
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: tgp
+    lang_direction: ltr
+    lang_name: Tangoa
+    lang_region: Pacific
+    

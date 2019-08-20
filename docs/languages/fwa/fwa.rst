@@ -1,0 +1,25 @@
+.. _fwa:
+
+Fwâi
+=====
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: fwa
+    alternate_names:
+    - Poai
+    - Yehen
+    - Yengen
+    anglicanized_name: Fwâi
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: fwa
+    lang_direction: ltr
+    lang_name: Fwâi
+    lang_region: Pacific
+    

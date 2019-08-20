@@ -1,0 +1,23 @@
+.. _tjs:
+
+土家语
+=========
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: tjs
+    alternate_names:
+    - Tuchia
+    anglicanized_name: Tujia, Southern
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: tjs
+    lang_direction: ltr
+    lang_name: 土家语
+    lang_region: Asia
+    

@@ -1,0 +1,33 @@
+.. _sba:
+
+Ngambay
+=======
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: sba
+    alternate_names:
+    - Gamba
+    - Gambai
+    - Gambaye
+    - Gamb-Lai
+    - Sara
+    - Sara Ngambai
+    - Gamblai
+    - Murum (Mouroum)
+    - Bemar (Daba de Goré)
+    anglicanized_name: Ngambay
+    country_codes:
+    - SD
+    - TD
+    gateway_language: ar
+    lang_code: sba
+    lang_direction: ltr
+    lang_name: Ngambay
+    lang_region: Africa
+    

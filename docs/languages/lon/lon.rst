@@ -1,0 +1,27 @@
+.. _lon:
+
+Malawi Lomwe
+============
+
+This language is spoken in the following countries:
+
+* MW: Malawi
+
+.. code-block:: yaml
+
+    ISO_639-3: lon
+    alternate_names:
+    - Anguru
+    - Elhomwe
+    - Nguru
+    - Mihavane
+    - Muhavani
+    anglicanized_name: Lomwe, Malawi
+    country_codes:
+    - MW
+    gateway_language: en
+    lang_code: lon
+    lang_direction: ltr
+    lang_name: Malawi Lomwe
+    lang_region: Africa
+    

@@ -1,0 +1,22 @@
+.. _id-x-dcv:
+
+Bahasa Indonesia - Dominant Culture Variant
+===========================================
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - ID
+    gateway_language: null
+    lang_code: id-x-dcv
+    lang_direction: ltr
+    lang_name: Bahasa Indonesia - Dominant Culture Variant
+    lang_region: Asia
+    

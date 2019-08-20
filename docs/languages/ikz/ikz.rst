@@ -1,0 +1,29 @@
+.. _ikz:
+
+Ikizu
+=====
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: ikz
+    alternate_names:
+    - Ikiikiizu
+    - Ikikizo
+    - Ikikizu
+    - Kiikizu
+    - Kishashi
+    - Kisizaki
+    - Shashi
+    anglicanized_name: Ikizu
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: ikz
+    lang_direction: ltr
+    lang_name: Ikizu
+    lang_region: Africa
+    

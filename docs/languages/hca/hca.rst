@@ -1,0 +1,23 @@
+.. _hca:
+
+Andaman Creole Hindi
+====================
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: hca
+    alternate_names:
+    - Andaman Hindi
+    anglicanized_name: Andaman Creole Hindi
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: hca
+    lang_direction: ltr
+    lang_name: Andaman Creole Hindi
+    lang_region: Asia
+    

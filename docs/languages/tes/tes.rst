@@ -1,0 +1,23 @@
+.. _tes:
+
+Tengger
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: tes
+    alternate_names:
+    - Tenggerese
+    anglicanized_name: Tengger
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: tes
+    lang_direction: ltr
+    lang_name: Tengger
+    lang_region: Asia
+    

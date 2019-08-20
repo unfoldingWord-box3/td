@@ -1,0 +1,23 @@
+.. _psi:
+
+Southeast Pashai
+================
+
+This language is spoken in the following countries:
+
+* AF: Afghanistan
+
+.. code-block:: yaml
+
+    ISO_639-3: psi
+    alternate_names:
+    - Pashai
+    anglicanized_name: Pashai, Southeast
+    country_codes:
+    - AF
+    gateway_language: ps
+    lang_code: psi
+    lang_direction: ltr
+    lang_name: Southeast Pashai
+    lang_region: Asia
+    

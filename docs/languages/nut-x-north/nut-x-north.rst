@@ -1,0 +1,22 @@
+.. _nut-x-north:
+
+Northern Nung
+=============
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Northern Nung
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: nut-x-north
+    lang_direction: ltr
+    lang_name: Northern Nung
+    lang_region: Asia
+    

@@ -1,0 +1,20 @@
+.. _sku-x-noegabour:
+
+Noegabour
+=========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Noegabour
+    country_codes: []
+    gateway_language: bi
+    lang_code: sku-x-noegabour
+    lang_direction: ltr
+    lang_name: Noegabour
+    lang_region: Pacific
+    

@@ -1,0 +1,29 @@
+.. _miw:
+
+Akoye
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: miw
+    alternate_names:
+    - Akoinkake
+    - Akoyi
+    - Angoya
+    - Lohiki
+    - Mai-Hea-Ri
+    - Maihiri
+    - Obi
+    anglicanized_name: Akoye
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: miw
+    lang_direction: ltr
+    lang_name: Akoye
+    lang_region: Pacific
+    

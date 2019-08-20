@@ -1,0 +1,24 @@
+.. _fag:
+
+Finongan
+========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: fag
+    alternate_names:
+    - Finungwan
+    - Mamaa
+    anglicanized_name: Finongan
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: fag
+    lang_direction: ltr
+    lang_name: Finongan
+    lang_region: Pacific
+    

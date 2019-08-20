@@ -1,0 +1,26 @@
+.. _khv:
+
+Хваршинский
+======================
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: khv
+    alternate_names:
+    - Atl'ilqo
+    - Khvarshin
+    - Xvarshi proper
+    - Inxokvari (Inkhokvari)
+    anglicanized_name: Khvarshi
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: khv
+    lang_direction: ltr
+    lang_name: Хваршинский
+    lang_region: Europe
+    

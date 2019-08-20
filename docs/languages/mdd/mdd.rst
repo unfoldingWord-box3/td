@@ -1,0 +1,38 @@
+.. _mdd:
+
+Mbum
+====
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* CF: Central African Republic
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: mdd
+    alternate_names:
+    - Buna
+    - Mboumtiba
+    - Wuna
+    - Pono
+    - Gbete (Byrre)
+    - Vana
+    - West Mbum
+    - Ripere
+    - Pere
+    - Mboum (Bum)
+    - Kepere
+    - Kpere
+    anglicanized_name: Mbum
+    country_codes:
+    - CM
+    - CF
+    - TD
+    gateway_language: fr
+    lang_code: mdd
+    lang_direction: ltr
+    lang_name: Mbum
+    lang_region: Africa
+    

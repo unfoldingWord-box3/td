@@ -1,0 +1,22 @@
+.. _lmx:
+
+Laimbue
+=======
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: lmx
+    alternate_names: []
+    anglicanized_name: Laimbue
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: lmx
+    lang_direction: ltr
+    lang_name: Laimbue
+    lang_region: Africa
+    

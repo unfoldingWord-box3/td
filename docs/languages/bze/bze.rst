@@ -1,0 +1,40 @@
+.. _bze:
+
+Jenaama Bozo
+============
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: bze
+    alternate_names:
+    - Boso
+    - Corogaama
+    - Djenaama
+    - Nononke
+    - Sarkanci
+    - Sarkawa
+    - Sorko
+    - Sorogaama
+    - Bozo
+    - Corogama
+    - Jenaama Bozo
+    - Jenama
+    - Sorogama
+    - Korondougou
+    - Kotya (Kotyaxo)
+    - Pondori
+    anglicanized_name: Bozo, Jenaama
+    country_codes:
+    - BF
+    - ML
+    gateway_language: fr
+    lang_code: bze
+    lang_direction: ltr
+    lang_name: Jenaama Bozo
+    lang_region: Africa
+    

@@ -1,0 +1,28 @@
+.. _pmj:
+
+南普米语
+============
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: pmj
+    alternate_names:
+    - Pimi
+    - P'ömi
+    - Primmi
+    - P'rome
+    - Pruumi
+    - P'umi
+    anglicanized_name: Pumi, Southern
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: pmj
+    lang_direction: ltr
+    lang_name: 南普米语
+    lang_region: Asia
+    

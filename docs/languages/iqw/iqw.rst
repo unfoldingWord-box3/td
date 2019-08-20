@@ -1,0 +1,22 @@
+.. _iqw:
+
+Ikwo
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: iqw
+    alternate_names: []
+    anglicanized_name: Ikwo
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: iqw
+    lang_direction: ltr
+    lang_name: Ikwo
+    lang_region: Africa
+    

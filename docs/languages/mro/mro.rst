@@ -1,0 +1,40 @@
+.. _mro:
+
+Mru
+===
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: mro
+    alternate_names:
+    - Maru
+    - Mrung
+    - Mro
+    - Niopheng
+    - Dak
+    - Launghu
+    - Mrucha
+    - Mrusa
+    - Taung Mru
+    - Sungma
+    - Sungma/Launghu
+    - Pongmi
+    - Tamsa
+    - Dowpreng
+    - Anok
+    - Dowpreng (Doumrong)
+    anglicanized_name: Mru
+    country_codes:
+    - BD
+    - MM
+    gateway_language: bn
+    lang_code: mro
+    lang_direction: ltr
+    lang_name: Mru
+    lang_region: Asia
+    

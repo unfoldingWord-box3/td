@@ -1,0 +1,22 @@
+.. _myi:
+
+Mina (India)
+============
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Mina
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: myi
+    lang_direction: ltr
+    lang_name: Mina (India)
+    lang_region: Asia
+    

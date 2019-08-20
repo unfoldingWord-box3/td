@@ -1,0 +1,23 @@
+.. _otn:
+
+Tenango Otomi
+=============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: otn
+    alternate_names:
+    - Otomí de Tenango
+    anglicanized_name: Otomi, Tenango
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: otn
+    lang_direction: ltr
+    lang_name: Tenango Otomi
+    lang_region: Americas
+    

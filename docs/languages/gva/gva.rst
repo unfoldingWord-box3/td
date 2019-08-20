@@ -1,0 +1,27 @@
+.. _gva:
+
+Guana (Paraguay)
+================
+
+This language is spoken in the following countries:
+
+* PY: Paraguay
+
+.. code-block:: yaml
+
+    ISO_639-3: gva
+    alternate_names:
+    - Cashquiha
+    - Kaskihá
+    - Echoaldi (Chararana)
+    - Echonoana
+    - Layana (Niguecactemigi)
+    anglicanized_name: Guana
+    country_codes:
+    - PY
+    gateway_language: es-419
+    lang_code: gva
+    lang_direction: ltr
+    lang_name: Guana (Paraguay)
+    lang_region: Americas
+    

@@ -1,0 +1,39 @@
+.. _lnd:
+
+Lundayeh
+========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: lnd
+    alternate_names:
+    - Lun Daya
+    - Lun Dayoh
+    - Lundaya
+    - Southern Murut
+    - Lundaya Putuk
+    - Lundayeh
+    - Lun Dayeh
+    - Lun Lod
+    - Lun-Bawang
+    - Lun Ba
+    - Trusan (Lawas)
+    - Sarawak Murut
+    - Lun Bawang (Long Bawan)
+    - Limbang
+    - Lun Bawang (Sarawak Murut)
+    anglicanized_name: Lun Bawang
+    country_codes:
+    - ID
+    - MY
+    gateway_language: id
+    lang_code: lnd
+    lang_direction: ltr
+    lang_name: Lundayeh
+    lang_region: Asia
+    

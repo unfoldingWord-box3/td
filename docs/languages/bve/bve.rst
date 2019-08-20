@@ -1,0 +1,24 @@
+.. _bve:
+
+Berau Malay
+===========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bve
+    alternate_names:
+    - Berau
+    - Merau Malay
+    anglicanized_name: Malay, Berau
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bve
+    lang_direction: ltr
+    lang_name: Berau Malay
+    lang_region: Asia
+    

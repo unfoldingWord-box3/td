@@ -1,0 +1,23 @@
+.. _xmt:
+
+Matbat
+======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: xmt
+    alternate_names:
+    - Me
+    anglicanized_name: Matbat
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: xmt
+    lang_direction: ltr
+    lang_name: Matbat
+    lang_region: Asia
+    

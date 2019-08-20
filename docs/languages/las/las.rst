@@ -1,0 +1,26 @@
+.. _las:
+
+Lama (Togo)
+===========
+
+This language is spoken in the following countries:
+
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: las
+    alternate_names:
+    - Lamba
+    - Losso
+    - Kande (Kante)
+    - Kadjala (Kadjalla)
+    anglicanized_name: Lama
+    country_codes:
+    - TG
+    gateway_language: fr
+    lang_code: las
+    lang_direction: ltr
+    lang_name: Lama (Togo)
+    lang_region: Africa
+    

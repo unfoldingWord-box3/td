@@ -1,0 +1,27 @@
+.. _hem:
+
+Hemba
+=====
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: hem
+    alternate_names:
+    - Eastern Luba
+    - Emba
+    - Kiemba
+    - Kihemba
+    - Luba-Hemba
+    anglicanized_name: Hemba
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: hem
+    lang_direction: ltr
+    lang_name: Hemba
+    lang_region: Africa
+    

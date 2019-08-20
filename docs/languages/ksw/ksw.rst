@@ -1,0 +1,43 @@
+.. _ksw:
+
+S'gaw Karen
+===========
+
+This language is spoken in the following countries:
+
+* TH: Thailand
+* US: United States of America
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: ksw
+    alternate_names:
+    - Burmese Karen
+    - Kanyaw
+    - Kyetho
+    - Paganyaw
+    - Pchcknya
+    - Pwakanyaw
+    - S'gau
+    - S'gaw
+    - S'gaw Kayin
+    - White Karen
+    - Yang Khao
+    - Karen
+    - White
+    - Southern dialect of Western Kayah (Dawei)
+    - Palakhi (Palachi)
+    - Delta dialect of S'gaw Karen
+    - Eastern dialect of S'gaw Karen (Pa'an)
+    anglicanized_name: Karen, S’gaw
+    country_codes:
+    - TH
+    - US
+    - MM
+    gateway_language: my
+    lang_code: ksw
+    lang_direction: ltr
+    lang_name: S'gaw Karen
+    lang_region: Asia
+    

@@ -1,0 +1,26 @@
+.. _llp:
+
+North Efate
+===========
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: llp
+    alternate_names:
+    - Nakanamanga
+    - Nguna (Guna)
+    - Ngunese
+    - Tongoa
+    anglicanized_name: Efate, North
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: llp
+    lang_direction: ltr
+    lang_name: North Efate
+    lang_region: Pacific
+    

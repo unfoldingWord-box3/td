@@ -1,0 +1,34 @@
+.. _lns:
+
+Lamnso'
+=======
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: lns
+    alternate_names:
+    - Bansaw
+    - Banso
+    - Banso'
+    - Lamnsok
+    - Lamso
+    - Nsaw
+    - Nsho'
+    - Nso
+    - Nso'
+    - Panso
+    anglicanized_name: Lamnso’
+    country_codes:
+    - CM
+    - NG
+    gateway_language: fr
+    lang_code: lns
+    lang_direction: ltr
+    lang_name: Lamnso'
+    lang_region: Africa
+    

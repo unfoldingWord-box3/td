@@ -1,0 +1,32 @@
+.. _krw:
+
+Western Krahn
+=============
+
+This language is spoken in the following countries:
+
+* LR: Liberia
+
+.. code-block:: yaml
+
+    ISO_639-3: krw
+    alternate_names:
+    - Krahn
+    - Northern Krahn
+    - Kran
+    - Western Kran
+    - Gborbo (Gbobo)
+    - Kpeaply
+    - Gbo
+    - Gbarzon
+    - Gbaeson (Gbaison)
+    - Pewa (Peewa)
+    anglicanized_name: Krahn, Western
+    country_codes:
+    - LR
+    gateway_language: en
+    lang_code: krw
+    lang_direction: ltr
+    lang_name: Western Krahn
+    lang_region: Africa
+    

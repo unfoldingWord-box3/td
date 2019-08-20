@@ -1,0 +1,23 @@
+.. _gcn:
+
+Gaina
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: gcn
+    alternate_names:
+    - Bareji (Baredji)
+    anglicanized_name: Gaina
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: gcn
+    lang_direction: ltr
+    lang_name: Gaina
+    lang_region: Pacific
+    

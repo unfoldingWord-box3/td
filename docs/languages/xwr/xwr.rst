@@ -1,0 +1,28 @@
+.. _xwr:
+
+Kwerba Mamberamo
+================
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: xwr
+    alternate_names:
+    - Napok
+    - Nobuk
+    - Nogukwabai
+    - Nopuk
+    - Nopukw
+    - Tatsewalem
+    anglicanized_name: Kwerba Mamberamo
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: xwr
+    lang_direction: ltr
+    lang_name: Kwerba Mamberamo
+    lang_region: Asia
+    

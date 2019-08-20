@@ -1,0 +1,60 @@
+.. _xal:
+
+Калмыцкий
+==================
+
+This language is spoken in the following countries:
+
+* CN: China
+* RU: Russian Federation
+* US: United States of America
+* KG: Kyrgyzstan
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: xal
+    alternate_names:
+    - Weilate
+    - Western Mongol
+    - Xinjiang Mongolian
+    - European Oirat
+    - Kalmack
+    - Kalmuck
+    - Kalmuk
+    - Kalmytskii Jazyk
+    - Khalli
+    - Qalmaq
+    - Volga Oirat
+    - Western Mongolian
+    - Olot (Eleuth)
+    - Dörbet
+    - Tu'erhute
+    - Torguut
+    - Torguud
+    - Torgut (Torghut)
+    - Torgut (Torghoud)
+    - Torghud
+    - Ööld
+    - Oirat (Oyrat)
+    - Kök Nur (Qinghai)
+    - Khoton (Hoton)
+    - Khoshut (Khoshuud)
+    - Elyut
+    - Dörböt (Derbet)
+    - Dorbot
+    - Dörböd
+    - Oirat (Sart Qalmaq)
+    anglicanized_name: Kalmyk-Oirat
+    country_codes:
+    - CN
+    - RU
+    - US
+    - KG
+    - UZ
+    gateway_language: ru
+    lang_code: xal
+    lang_direction: ltr
+    lang_name: Калмыцкий
+    lang_region: Europe
+    

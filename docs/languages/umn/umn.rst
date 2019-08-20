@@ -1,0 +1,25 @@
+.. _umn:
+
+Makyan Naga
+===========
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: umn
+    alternate_names:
+    - Macham Naga
+    - Makyam
+    - Pongnyun
+    anglicanized_name: Naga, Makyan
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: umn
+    lang_direction: ltr
+    lang_name: Makyan Naga
+    lang_region: Asia
+    

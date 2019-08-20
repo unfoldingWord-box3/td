@@ -1,0 +1,69 @@
+.. _pa:
+
+ਪੰਜਾਬੀ, پنجابی‎
+===================================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/pan>`_ identifies this language as ``pan``.
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* FJ: Fiji
+* AF: Afghanistan
+* FR: France
+* KE: Kenya
+* LK: Sri Lanka
+* GB: United Kingdom of Great Britain and Northern Ireland
+* MY: Malaysia
+* OM: Oman
+* NP: Nepal
+* PK: Pakistan
+* TZ: Tanzania, United Republic of
+* TH: Thailand
+* US: United States of America
+* CA: Canada
+* KW: Kuwait
+* DK: Denmark
+* IN: India
+* SG: Singapore
+* MM: Myanmar
+* AE: United Arab Emirates
+
+.. code-block:: yaml
+
+    ISO_639-3: pan
+    alternate_names:
+    - Eastern Punjabi
+    - Gurmukhi
+    - Gurumukhi
+    - Bhatti
+    - Bhatyiana (Bhatneri)
+    anglicanized_name: Panjabi, Punjabi
+    country_codes:
+    - BD
+    - FJ
+    - AF
+    - FR
+    - KE
+    - LK
+    - GB
+    - MY
+    - OM
+    - NP
+    - PK
+    - TZ
+    - TH
+    - US
+    - CA
+    - KW
+    - DK
+    - IN
+    - SG
+    - MM
+    - AE
+    gateway_language: null
+    lang_code: pa
+    lang_direction: ltr
+    lang_name: ਪੰਜਾਬੀ, پنجابی‎
+    lang_region: Asia
+    

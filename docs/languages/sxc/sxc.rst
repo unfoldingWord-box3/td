@@ -1,0 +1,22 @@
+.. _sxc:
+
+Sicanian
+========
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: sxc
+    alternate_names: []
+    anglicanized_name: Sicanian
+    country_codes:
+    - IT
+    gateway_language: null
+    lang_code: sxc
+    lang_direction: ltr
+    lang_name: Sicanian
+    lang_region: Europe
+    

@@ -1,0 +1,22 @@
+.. _tkm:
+
+Takelma
+=======
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: tkm
+    alternate_names: []
+    anglicanized_name: Takelma
+    country_codes:
+    - US
+    gateway_language: null
+    lang_code: tkm
+    lang_direction: ltr
+    lang_name: Takelma
+    lang_region: Americas
+    

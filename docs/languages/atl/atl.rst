@@ -1,0 +1,26 @@
+.. _atl:
+
+Mt. Iraya Agta
+==============
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: atl
+    alternate_names:
+    - Inagta of Mt. Iraya
+    - Itbeg Rugnot
+    - Lake Buhi
+    - Rugnot of Lake Buhi East
+    anglicanized_name: Agta, Mt. Iraya
+    country_codes:
+    - PH
+    gateway_language: ilo
+    lang_code: atl
+    lang_direction: ltr
+    lang_name: Mt. Iraya Agta
+    lang_region: Asia
+    

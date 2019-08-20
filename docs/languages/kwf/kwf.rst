@@ -1,0 +1,23 @@
+.. _kwf:
+
+Kwara'ae
+========
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: kwf
+    alternate_names:
+    - Fiu
+    anglicanized_name: Kwara’ae
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: kwf
+    lang_direction: ltr
+    lang_name: Kwara'ae
+    lang_region: Pacific
+    

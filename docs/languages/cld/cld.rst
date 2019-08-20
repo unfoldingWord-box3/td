@@ -1,0 +1,42 @@
+.. _cld:
+
+ܣܘܼܪܲܝܬ
+==============
+
+This language is spoken in the following countries:
+
+* DE: Germany
+* IQ: Iraq
+* NL: Netherlands
+* SY: Syrian Arab Republic
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: cld
+    alternate_names:
+    - Fallani
+    - Fellihi
+    - Kaldaya
+    - Kildani
+    - Lishana Kaldaya
+    - Modern Chaldean
+    - Neo-Chaldean
+    - Soorath
+    - Soorith
+    - Suras
+    - Sureth
+    - Shirnak-Chizre (Bohtan)
+    anglicanized_name: Chaldean Neo-Aramaic
+    country_codes:
+    - DE
+    - IQ
+    - NL
+    - SY
+    - TR
+    gateway_language: ar
+    lang_code: cld
+    lang_direction: ltr
+    lang_name: ܣܘܼܪܲܝܬ
+    lang_region: Asia
+    

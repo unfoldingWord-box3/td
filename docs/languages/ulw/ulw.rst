@@ -1,0 +1,24 @@
+.. _ulw:
+
+Ulwa
+====
+
+This language is spoken in the following countries:
+
+* NI: Nicaragua
+
+.. code-block:: yaml
+
+    ISO_639-3: ulw
+    alternate_names:
+    - Ulúa
+    - Woolwa
+    anglicanized_name: Ulwa
+    country_codes:
+    - NI
+    gateway_language: es-419
+    lang_code: ulw
+    lang_direction: ltr
+    lang_name: Ulwa
+    lang_region: Americas
+    

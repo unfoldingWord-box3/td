@@ -1,0 +1,20 @@
+.. _zlm-x-kendawangan:
+
+Melayu Kendawangan
+==================
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Melayu Kendawangan
+    country_codes: []
+    gateway_language: id
+    lang_code: zlm-x-kendawangan
+    lang_direction: ltr
+    lang_name: Melayu Kendawangan
+    lang_region: Asia
+    

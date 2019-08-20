@@ -1,0 +1,28 @@
+.. _nnj:
+
+Nyangatom
+=========
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+* SS: South Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: nnj
+    alternate_names:
+    - Dongiro
+    - Donyiro
+    - Idongiro
+    - Inyangatom
+    anglicanized_name: Nyangatom
+    country_codes:
+    - ET
+    - SS
+    gateway_language: am
+    lang_code: nnj
+    lang_direction: ltr
+    lang_name: Nyangatom
+    lang_region: Africa
+    

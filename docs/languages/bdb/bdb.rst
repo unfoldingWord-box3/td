@@ -1,0 +1,23 @@
+.. _bdb:
+
+Basap
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bdb
+    alternate_names:
+    - Bosap
+    anglicanized_name: Basap
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bdb
+    lang_direction: ltr
+    lang_name: Basap
+    lang_region: Asia
+    

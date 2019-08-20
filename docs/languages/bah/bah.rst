@@ -1,0 +1,26 @@
+.. _bah:
+
+Bahamas Creole English
+======================
+
+This language is spoken in the following countries:
+
+* BS: Bahamas
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: bah
+    alternate_names:
+    - Bahamian Creole English
+    - Bahamian Dialect
+    anglicanized_name: Bahamas Creole English
+    country_codes:
+    - BS
+    - US
+    gateway_language: en
+    lang_code: bah
+    lang_direction: ltr
+    lang_name: Bahamas Creole English
+    lang_region: Americas
+    

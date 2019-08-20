@@ -1,0 +1,32 @@
+.. _ale:
+
+Aleut
+=====
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: ale
+    alternate_names:
+    - Atkan
+    - Attuan
+    - Bering
+    - Beringov (Atkan)
+    - Eastern Aleut (Pribilof Aleut)
+    - Unalaskan
+    - Unangan
+    - Unangany
+    - Western Aleut (Atka)
+    - Unanghan
+    anglicanized_name: Aleut
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: ale
+    lang_direction: ltr
+    lang_name: Aleut
+    lang_region: Americas
+    

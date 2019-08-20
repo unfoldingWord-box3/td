@@ -1,0 +1,33 @@
+.. _pll:
+
+Shwe Palaung
+============
+
+This language is spoken in the following countries:
+
+* CN: China
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: pll
+    alternate_names:
+    - Golden Palaung
+    - Liang Palaung
+    - Shwe
+    - Liang
+    - Red Da'ang
+    - Shwe Palaung
+    - Ta-Ang Palaung
+    - Ta'ang Samlung
+    - Ywama
+    anglicanized_name: Palaung, Shwe
+    country_codes:
+    - CN
+    - MM
+    gateway_language: my
+    lang_code: pll
+    lang_direction: ltr
+    lang_name: Shwe Palaung
+    lang_region: Asia
+    

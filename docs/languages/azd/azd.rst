@@ -1,0 +1,26 @@
+.. _azd:
+
+Eastern Durango Nahuatl
+=======================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: azd
+    alternate_names:
+    - Eastern Durango Aztec
+    - Meshikan del Este
+    - Mexicanero del Este
+    - Nahuat del Este de Durango
+    anglicanized_name: Nahuatl, Eastern Durango
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: azd
+    lang_direction: ltr
+    lang_name: Eastern Durango Nahuatl
+    lang_region: Americas
+    

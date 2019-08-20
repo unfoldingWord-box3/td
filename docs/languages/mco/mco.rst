@@ -1,0 +1,25 @@
+.. _mco:
+
+Coatlán Mixe
+=============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: mco
+    alternate_names:
+    - Southeastern Mixe
+    - Camotlán Mixe
+    - Coatlán Mixe
+    anglicanized_name: Mixe, Coatlán
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: mco
+    lang_direction: ltr
+    lang_name: Coatlán Mixe
+    lang_region: Americas
+    

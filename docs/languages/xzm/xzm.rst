@@ -1,0 +1,22 @@
+.. _xzm:
+
+Zemgalian
+=========
+
+This language is spoken in the following countries:
+
+* LV: Latvia
+
+.. code-block:: yaml
+
+    ISO_639-3: xzm
+    alternate_names: []
+    anglicanized_name: Zemgalian
+    country_codes:
+    - LV
+    gateway_language: null
+    lang_code: xzm
+    lang_direction: ltr
+    lang_name: Zemgalian
+    lang_region: Europe
+    

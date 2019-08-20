@@ -1,0 +1,24 @@
+.. _dbr:
+
+Dabarre
+=======
+
+This language is spoken in the following countries:
+
+* SO: Somalia
+
+.. code-block:: yaml
+
+    ISO_639-3: dbr
+    alternate_names:
+    - Af-Dabarre
+    - Iroole (Af-Iroole)
+    anglicanized_name: Dabarre
+    country_codes:
+    - SO
+    gateway_language: ar
+    lang_code: dbr
+    lang_direction: ltr
+    lang_name: Dabarre
+    lang_region: Africa
+    

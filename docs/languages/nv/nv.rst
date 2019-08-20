@@ -1,0 +1,25 @@
+.. _nv:
+
+Diné bizaad
+============
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/nav>`_ identifies this language as ``nav``.
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: nav
+    alternate_names:
+    - Navaho
+    anglicanized_name: Navajo, Navaho
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: nv
+    lang_direction: ltr
+    lang_name: Diné bizaad
+    lang_region: Americas
+    

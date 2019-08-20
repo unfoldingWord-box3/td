@@ -1,0 +1,24 @@
+.. _ter:
+
+Tereno
+======
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: ter
+    alternate_names:
+    - Etelena
+    - Tereno
+    anglicanized_name: Terêna
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: ter
+    lang_direction: ltr
+    lang_name: Tereno
+    lang_region: Americas
+    

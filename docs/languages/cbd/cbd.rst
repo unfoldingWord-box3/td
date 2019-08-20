@@ -1,0 +1,31 @@
+.. _cbd:
+
+Carijona
+========
+
+This language is spoken in the following countries:
+
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: cbd
+    alternate_names:
+    - Carifuna
+    - Carihona
+    - Hianacoto-Umaua
+    - Huaque
+    - Kaliohona
+    - Karijona
+    - Koto
+    - Omagua
+    - Umawa
+    anglicanized_name: Carijona
+    country_codes:
+    - CO
+    gateway_language: es-419
+    lang_code: cbd
+    lang_direction: ltr
+    lang_name: Carijona
+    lang_region: Americas
+    

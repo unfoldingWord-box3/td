@@ -1,0 +1,22 @@
+.. _sim:
+
+Mende (Papua New Guinea)
+========================
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: sim
+    alternate_names: []
+    anglicanized_name: Mende
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: sim
+    lang_direction: ltr
+    lang_name: Mende (Papua New Guinea)
+    lang_region: Pacific
+    

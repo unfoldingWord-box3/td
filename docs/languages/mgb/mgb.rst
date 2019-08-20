@@ -1,0 +1,31 @@
+.. _mgb:
+
+Mararit
+=======
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: mgb
+    alternate_names:
+    - Abiri
+    - Abiyi
+    - Ebiri
+    - Mararet
+    - Merarit
+    - Abou Charib (Abu Sharib)
+    - Abu Sharin
+    anglicanized_name: Mararit
+    country_codes:
+    - SD
+    - TD
+    gateway_language: ar
+    lang_code: mgb
+    lang_direction: ltr
+    lang_name: Mararit
+    lang_region: Africa
+    

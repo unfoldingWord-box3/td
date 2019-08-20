@@ -1,0 +1,28 @@
+.. _tsh:
+
+Tsuvan
+======
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: tsh
+    alternate_names:
+    - Matsuvan
+    - Motsuvan
+    - Tchede
+    - Telaki
+    - Teleki
+    - Terki
+    anglicanized_name: Tsuvan
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: tsh
+    lang_direction: ltr
+    lang_name: Tsuvan
+    lang_region: Africa
+    

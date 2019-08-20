@@ -1,0 +1,27 @@
+.. _nlg:
+
+Gela
+====
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: nlg
+    alternate_names:
+    - Florida Islands
+    - Nggela
+    - Central Gela
+    - Gela Pile
+    - Sandfly
+    anglicanized_name: Gela
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: nlg
+    lang_direction: ltr
+    lang_name: Gela
+    lang_region: Pacific
+    

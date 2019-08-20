@@ -1,0 +1,26 @@
+.. _sbt:
+
+Kimki
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: sbt
+    alternate_names:
+    - Aipki
+    - Kimgi
+    - Sukubatom
+    - Sukubatong
+    anglicanized_name: Kimki
+    country_codes:
+    - ID
+    gateway_language: pmy
+    lang_code: sbt
+    lang_direction: ltr
+    lang_name: Kimki
+    lang_region: Asia
+    

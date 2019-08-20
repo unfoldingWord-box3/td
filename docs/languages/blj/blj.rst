@@ -1,0 +1,23 @@
+.. _blj:
+
+Bolongan
+========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: blj
+    alternate_names:
+    - Bulungan
+    anglicanized_name: Bolongan
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: blj
+    lang_direction: ltr
+    lang_name: Bolongan
+    lang_region: Asia
+    

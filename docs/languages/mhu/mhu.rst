@@ -1,0 +1,32 @@
+.. _mhu:
+
+Digaro-Mishmi
+=============
+
+This language is spoken in the following countries:
+
+* CN: China
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: mhu
+    alternate_names:
+    - Darang
+    - Darang Dengyu
+    - Digaro
+    - Darang Deng
+    - Mishmi
+    - Taaon
+    - Taraon
+    - Taying
+    anglicanized_name: Digaro-Mishmi
+    country_codes:
+    - CN
+    - IN
+    gateway_language: as
+    lang_code: mhu
+    lang_direction: ltr
+    lang_name: Digaro-Mishmi
+    lang_region: Asia
+    

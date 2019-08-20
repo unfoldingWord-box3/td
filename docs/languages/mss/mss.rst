@@ -1,0 +1,23 @@
+.. _mss:
+
+West Masela
+===========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mss
+    alternate_names:
+    - West Marsela
+    anglicanized_name: Masela, West
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mss
+    lang_direction: ltr
+    lang_name: West Masela
+    lang_region: Asia
+    

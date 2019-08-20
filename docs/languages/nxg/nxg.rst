@@ -1,0 +1,28 @@
+.. _nxg:
+
+Ngad'a
+======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: nxg
+    alternate_names:
+    - Badjava
+    - Bajava
+    - Nad'a
+    - Nga'da
+    - Ngadha
+    - Rokka
+    anglicanized_name: Ngad’a
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: nxg
+    lang_direction: ltr
+    lang_name: Ngad'a
+    lang_region: Asia
+    

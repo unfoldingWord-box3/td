@@ -1,0 +1,25 @@
+.. _nck:
+
+Nakara
+======
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: nck
+    alternate_names:
+    - Kokori
+    - Nagara
+    - Nakkara
+    anglicanized_name: Nakara
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: nck
+    lang_direction: ltr
+    lang_name: Nakara
+    lang_region: Pacific
+    

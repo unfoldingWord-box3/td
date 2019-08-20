@@ -1,0 +1,33 @@
+.. _twu:
+
+Termanu
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: twu
+    alternate_names:
+    - Central Rote
+    - Pa'da
+    - Rote
+    - Rote Tengah
+    - Roti
+    - Rotinese
+    - Pa'da (Termanu)
+    - Pa'da Kona (Keka-Talae)
+    - Korbafo (Korbaffo)
+    - Bokai
+    - Southern Termanu
+    anglicanized_name: Termanu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: twu
+    lang_direction: ltr
+    lang_name: Termanu
+    lang_region: Asia
+    

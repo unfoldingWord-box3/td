@@ -1,0 +1,26 @@
+.. _laj:
+
+Lango (Uganda)
+==============
+
+This language is spoken in the following countries:
+
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: laj
+    alternate_names:
+    - Langi
+    - Leb-Lango
+    - Lwo
+    - Lwoo
+    anglicanized_name: Lango
+    country_codes:
+    - UG
+    gateway_language: en
+    lang_code: laj
+    lang_direction: ltr
+    lang_name: Lango (Uganda)
+    lang_region: Africa
+    

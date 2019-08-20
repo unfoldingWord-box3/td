@@ -1,0 +1,34 @@
+.. _bth:
+
+Biatah Bidayuh
+==============
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: bth
+    alternate_names:
+    - Bideyu
+    - Landu
+    - Lundu
+    - Pueh
+    - Bikuab
+    - Kuap
+    - Quop
+    - Sentah
+    - Sitaang
+    - Stang (Bisitaang)
+    anglicanized_name: Bidayuh, Biatah
+    country_codes:
+    - ID
+    - MY
+    gateway_language: ms
+    lang_code: bth
+    lang_direction: ltr
+    lang_name: Biatah Bidayuh
+    lang_region: Asia
+    

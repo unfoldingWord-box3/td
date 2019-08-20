@@ -1,0 +1,22 @@
+.. _goz:
+
+Gozarkhani
+==========
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: goz
+    alternate_names: []
+    anglicanized_name: Gozarkhani
+    country_codes:
+    - IR
+    gateway_language: fa
+    lang_code: goz
+    lang_direction: ltr
+    lang_name: Gozarkhani
+    lang_region: Asia
+    

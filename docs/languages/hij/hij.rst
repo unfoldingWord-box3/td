@@ -1,0 +1,22 @@
+.. _hij:
+
+Hijuk
+=====
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: hij
+    alternate_names: []
+    anglicanized_name: Hijuk
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: hij
+    lang_direction: ltr
+    lang_name: Hijuk
+    lang_region: Africa
+    

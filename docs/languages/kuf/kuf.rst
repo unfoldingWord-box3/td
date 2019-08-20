@@ -1,0 +1,22 @@
+.. _kuf:
+
+Western Katu
+============
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: kuf
+    alternate_names: []
+    anglicanized_name: Katu, Western
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: kuf
+    lang_direction: ltr
+    lang_name: Western Katu
+    lang_region: Asia
+    

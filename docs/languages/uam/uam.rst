@@ -1,0 +1,25 @@
+.. _uam:
+
+Uamué
+======
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: uam
+    alternate_names:
+    - Aticum
+    - Atikum
+    - Huamuê
+    anglicanized_name: Uamué
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: uam
+    lang_direction: ltr
+    lang_name: Uamué
+    lang_region: Americas
+    

@@ -1,0 +1,26 @@
+.. _kgg:
+
+Kusunda
+=======
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: kgg
+    alternate_names:
+    - Kusanda
+    - Tanahun
+    - Rolpa-Dang
+    - Gorkha
+    anglicanized_name: Kusunda
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: kgg
+    lang_direction: ltr
+    lang_name: Kusunda
+    lang_region: Asia
+    

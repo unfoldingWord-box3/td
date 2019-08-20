@@ -1,0 +1,26 @@
+.. _ort:
+
+Adivasi Oriya
+=============
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: ort
+    alternate_names:
+    - Adiwasi Oriya
+    - Kotia Oriya
+    - Kotiya
+    - Tribal Oriya
+    anglicanized_name: Oriya, Adivasi
+    country_codes:
+    - IN
+    gateway_language: or
+    lang_code: ort
+    lang_direction: ltr
+    lang_name: Adivasi Oriya
+    lang_region: Asia
+    

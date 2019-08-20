@@ -1,0 +1,24 @@
+.. _emx:
+
+Erromintxela
+============
+
+This language is spoken in the following countries:
+
+* FR: France
+
+.. code-block:: yaml
+
+    ISO_639-3: emx
+    alternate_names:
+    - Basque Caló
+    - Caló Vasco
+    anglicanized_name: Erromintxela
+    country_codes:
+    - FR
+    gateway_language: fr
+    lang_code: emx
+    lang_direction: ltr
+    lang_name: Erromintxela
+    lang_region: Europe
+    

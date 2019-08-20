@@ -1,0 +1,29 @@
+.. _ygw:
+
+Yagwoia
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ygw
+    alternate_names:
+    - Kokwaiyakwa
+    - Yeghuye
+    - Iwalaqamalje
+    - Yeqwangilje
+    - Hiqwaye
+    - Hiqwase
+    - Gwase
+    anglicanized_name: Yagwoia
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ygw
+    lang_direction: ltr
+    lang_name: Yagwoia
+    lang_region: Pacific
+    

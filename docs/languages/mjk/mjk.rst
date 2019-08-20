@@ -1,0 +1,22 @@
+.. _mjk:
+
+Matukar
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mjk
+    alternate_names: []
+    anglicanized_name: Matukar
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mjk
+    lang_direction: ltr
+    lang_name: Matukar
+    lang_region: Pacific
+    

@@ -1,0 +1,33 @@
+.. _alt:
+
+Горно-алтайские
+=============================
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: alt
+    alternate_names:
+    - Talangit (Chuy)
+    - Teleut
+    - Southern Altai
+    - Talangit-Tolos
+    - Telengit
+    - Maina-Kizhi
+    - Altai Proper (Altai-Kizhi)
+    - Altaj Kizi
+    - Altai
+    - Oirot
+    - Oyrot
+    anglicanized_name: Altai, Southern
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: alt
+    lang_direction: ltr
+    lang_name: Горно-алтайские
+    lang_region: Europe
+    

@@ -1,0 +1,27 @@
+.. _tuc:
+
+Mutu
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: tuc
+    alternate_names:
+    - Saveeng
+    - Sisi
+    - Tuam-Mutu
+    - Tuom
+    - Oov/Mutu
+    anglicanized_name: Mutu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: tuc
+    lang_direction: ltr
+    lang_name: Mutu
+    lang_region: Pacific
+    

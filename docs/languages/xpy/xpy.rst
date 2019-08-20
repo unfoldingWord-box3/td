@@ -1,0 +1,22 @@
+.. _xpy:
+
+Puyo
+====
+
+This language is spoken in the following countries:
+
+* KP: Korea (Democratic People's Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: xpy
+    alternate_names: []
+    anglicanized_name: Puyo
+    country_codes:
+    - KP
+    gateway_language: null
+    lang_code: xpy
+    lang_direction: ltr
+    lang_name: Puyo
+    lang_region: Asia
+    

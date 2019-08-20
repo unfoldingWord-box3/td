@@ -1,0 +1,26 @@
+.. _yin:
+
+Yinchia
+=======
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: yin
+    alternate_names:
+    - Black Riang
+    - Ranei
+    - Striped Karen
+    - Yin Kya
+    anglicanized_name: Yinchia
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: yin
+    lang_direction: ltr
+    lang_name: Yinchia
+    lang_region: Asia
+    

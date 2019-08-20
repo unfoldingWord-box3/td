@@ -1,0 +1,25 @@
+.. _lmk:
+
+Lamkang
+=======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: lmk
+    alternate_names:
+    - Lamkaang
+    - Hiroi-Lamgang
+    - Lamgang
+    anglicanized_name: Lamkang
+    country_codes:
+    - IN
+    gateway_language: mni
+    lang_code: lmk
+    lang_direction: ltr
+    lang_name: Lamkang
+    lang_region: Asia
+    

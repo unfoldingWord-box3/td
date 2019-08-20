@@ -1,0 +1,31 @@
+.. _baa:
+
+Babatana
+========
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: baa
+    alternate_names:
+    - East Choiseul
+    - Mbambatana
+    - Sisiqa
+    - Sengan (Senga)
+    - Sengga
+    - Lömaumbi
+    - Kuboro (Kumboro)
+    - Avasö
+    - Sisingga
+    anglicanized_name: Babatana
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: baa
+    lang_direction: ltr
+    lang_name: Babatana
+    lang_region: Pacific
+    

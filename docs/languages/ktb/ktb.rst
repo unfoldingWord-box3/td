@@ -1,0 +1,29 @@
+.. _ktb:
+
+Kambaata
+========
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: ktb
+    alternate_names:
+    - Donga
+    - Kambara
+    - Kambata
+    - Kemata
+    - Kembata
+    - Timbara
+    - Timbaro (Timbaaro)
+    anglicanized_name: Kambaata
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: ktb
+    lang_direction: ltr
+    lang_name: Kambaata
+    lang_region: Africa
+    

@@ -1,0 +1,25 @@
+.. _thp:
+
+Thompson
+========
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: thp
+    alternate_names:
+    - Nklapmx
+    - Ntlakapamux
+    - Ntlakapmuk
+    anglicanized_name: Thompson
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: thp
+    lang_direction: ltr
+    lang_name: Thompson
+    lang_region: Americas
+    

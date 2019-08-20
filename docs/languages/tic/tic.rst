@@ -1,0 +1,28 @@
+.. _tic:
+
+Tira
+====
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: tic
+    alternate_names:
+    - Lithiro
+    - Thiro
+    - Tiro
+    - Tira Lumum (Luman)
+    - Tira El Akhdar (Tira Dagig)
+    - Kinderma (Kanderma)
+    anglicanized_name: Tira
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: tic
+    lang_direction: ltr
+    lang_name: Tira
+    lang_region: Africa
+    

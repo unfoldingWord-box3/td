@@ -1,0 +1,32 @@
+.. _tek:
+
+Ibali Teke
+==========
+
+This language is spoken in the following countries:
+
+* CG: Congo
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: tek
+    alternate_names:
+    - Eastern Teke
+    - Ibali
+    - Teke-Ibali
+    - Bali (Ambali)
+    - Ngee (Esingee)
+    - Teo
+    - Tio
+    - Tyo
+    anglicanized_name: Teke, Ibali
+    country_codes:
+    - CG
+    - CD
+    gateway_language: fr
+    lang_code: tek
+    lang_direction: ltr
+    lang_name: Ibali Teke
+    lang_region: Africa
+    

@@ -1,0 +1,24 @@
+.. _lee:
+
+Lyélé
+=======
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: lee
+    alternate_names:
+    - Lele
+    - Southern Lyélé (Reo)
+    anglicanized_name: Lyélé
+    country_codes:
+    - BF
+    gateway_language: fr
+    lang_code: lee
+    lang_direction: ltr
+    lang_name: Lyélé
+    lang_region: Africa
+    

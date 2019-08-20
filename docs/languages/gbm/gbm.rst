@@ -1,0 +1,40 @@
+.. _gbm:
+
+Garhwali
+========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: gbm
+    alternate_names:
+    - Gadhavali
+    - Gadhawala
+    - Gadwahi
+    - Gashwali
+    - Girwali
+    - Godauli
+    - Gorwali
+    - Gurvali
+    - Pahari Garhwali
+    - Bangani
+    - Chandpuri
+    - Gangadi (Uttarkashi)
+    - Jaunpuri
+    - Parvati
+    - Ravai
+    - Salani (Pauri)
+    - Srinagari
+    - Tehri (Gangapariya)
+    anglicanized_name: Garhwali
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: gbm
+    lang_direction: ltr
+    lang_name: Garhwali
+    lang_region: Asia
+    

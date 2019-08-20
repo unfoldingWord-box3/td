@@ -1,0 +1,23 @@
+.. _ncs:
+
+Nicaraguan Sign Language
+========================
+
+This language is spoken in the following countries:
+
+* NI: Nicaragua
+
+.. code-block:: yaml
+
+    ISO_639-3: ncs
+    alternate_names:
+    - Idioma de Señas de Nicaragua
+    anglicanized_name: Nicaraguan Sign Language
+    country_codes:
+    - NI
+    gateway_language: es-419
+    lang_code: ncs
+    lang_direction: ltr
+    lang_name: Nicaraguan Sign Language
+    lang_region: Americas
+    

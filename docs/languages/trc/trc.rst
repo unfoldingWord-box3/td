@@ -1,0 +1,25 @@
+.. _trc:
+
+Copala Triqui
+=============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: trc
+    alternate_names:
+    - Copala Trique
+    - Triqui Bajo
+    - Triqui de San Juan Copala
+    anglicanized_name: Triqui, Copala
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: trc
+    lang_direction: ltr
+    lang_name: Copala Triqui
+    lang_region: Americas
+    

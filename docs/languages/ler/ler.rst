@@ -1,0 +1,22 @@
+.. _ler:
+
+Lenkau
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ler
+    alternate_names: []
+    anglicanized_name: Lenkau
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ler
+    lang_direction: ltr
+    lang_name: Lenkau
+    lang_region: Pacific
+    

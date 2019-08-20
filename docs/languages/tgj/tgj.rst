@@ -1,0 +1,23 @@
+.. _tgj:
+
+Tagin
+=====
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: tgj
+    alternate_names:
+    - Nil
+    anglicanized_name: Tagin
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: tgj
+    lang_direction: ltr
+    lang_name: Tagin
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _otk:
+
+Old Turkic
+==========
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: otk
+    alternate_names: []
+    anglicanized_name: Old Turkic
+    country_codes:
+    - TR
+    gateway_language: null
+    lang_code: otk
+    lang_direction: ltr
+    lang_name: Old Turkic
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _yol:
+
+Yola
+====
+
+This language is spoken in the following countries:
+
+* IE: Ireland
+
+.. code-block:: yaml
+
+    ISO_639-3: yol
+    alternate_names: []
+    anglicanized_name: Yola
+    country_codes:
+    - IE
+    gateway_language: null
+    lang_code: yol
+    lang_direction: ltr
+    lang_name: Yola
+    lang_region: Europe
+    

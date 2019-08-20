@@ -1,0 +1,29 @@
+.. _bbi:
+
+Barombi
+=======
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: bbi
+    alternate_names:
+    - Balombi
+    - Barumbi
+    - Lambi
+    - Lombe
+    - Lombi
+    - Rambi
+    - Rombi
+    anglicanized_name: Barombi
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: bbi
+    lang_direction: ltr
+    lang_name: Barombi
+    lang_region: Africa
+    

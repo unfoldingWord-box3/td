@@ -1,0 +1,36 @@
+.. _bqz:
+
+Bakaka
+======
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: bqz
+    alternate_names:
+    - Central Mbo
+    - Miamilo
+    - Pendia
+    - Mwahed
+    - Manehas (Mvae)
+    - Kaka
+    - Kaa
+    - Baneka (Mwaneka)
+    - Balondo (Ehobe Belon)
+    - Bakaka (Ehob Mkaa)
+    - Bafun (Mbwase Nghuy)
+    - Babong (Ihobe Mbog)
+    - Mwahet
+    - Ihobe Mboong
+    anglicanized_name: Bakaka
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: bqz
+    lang_direction: ltr
+    lang_name: Bakaka
+    lang_region: Africa
+    

@@ -1,0 +1,31 @@
+.. _keu:
+
+Akebu
+=====
+
+This language is spoken in the following countries:
+
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: keu
+    alternate_names:
+    - Akébou
+    - Ekpeebhe
+    - Gakagba
+    - Kabu
+    - Kébou
+    - Kebu
+    - Kegberike
+    - kekpeeke
+    - kekpeerike
+    anglicanized_name: Akebu
+    country_codes:
+    - TG
+    gateway_language: fr
+    lang_code: keu
+    lang_direction: ltr
+    lang_name: Akebu
+    lang_region: Africa
+    

@@ -1,0 +1,22 @@
+.. _lnm:
+
+Langam
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: lnm
+    alternate_names: []
+    anglicanized_name: Langam
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: lnm
+    lang_direction: ltr
+    lang_name: Langam
+    lang_region: Pacific
+    

@@ -1,0 +1,20 @@
+.. _zay-x-zergulla:
+
+Zergulla
+========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes: []
+    gateway_language: am
+    lang_code: zay-x-zergulla
+    lang_direction: ltr
+    lang_name: Zergulla
+    lang_region: Africa
+    

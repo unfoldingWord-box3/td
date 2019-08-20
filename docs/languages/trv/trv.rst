@@ -1,0 +1,47 @@
+.. _trv:
+
+Taroko
+======
+
+This language is spoken in the following countries:
+
+* TW: Taiwan, Province of China
+
+.. code-block:: yaml
+
+    ISO_639-3: trv
+    alternate_names:
+    - Bu-Hwan
+    - Che-Hwan
+    - Daiya-Ataiyal
+    - Hogo
+    - Iboho
+    - Paran
+    - Saediq
+    - Sazek
+    - Sedek
+    - Sedeq
+    - Sediakk
+    - Sedik
+    - Seedek
+    - Seedeq
+    - Seedik
+    - Sejiq
+    - Shedekka
+    - Taruku
+    - Toda
+    - Toroko
+    - Truku
+    - Teruku (Truku)
+    - Te'uda (Tuuda)
+    - Tkdaya
+    - Tekedaya (Paran)
+    anglicanized_name: Taroko
+    country_codes:
+    - TW
+    gateway_language: zh
+    lang_code: trv
+    lang_direction: ltr
+    lang_name: Taroko
+    lang_region: Asia
+    

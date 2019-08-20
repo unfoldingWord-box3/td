@@ -1,0 +1,34 @@
+.. _wbl:
+
+Khikwor
+=======
+
+This language is spoken in the following countries:
+
+* CN: China
+* AF: Afghanistan
+* TJ: Tajikistan
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: wbl
+    alternate_names:
+    - Khik
+    - Khikwar
+    - Vakhan
+    - Wakhani
+    - Wakhigi
+    - Guhjali
+    anglicanized_name: Wakhi
+    country_codes:
+    - CN
+    - AF
+    - TJ
+    - PK
+    gateway_language: ps
+    lang_code: wbl
+    lang_direction: ltr
+    lang_name: Khikwor
+    lang_region: Asia
+    

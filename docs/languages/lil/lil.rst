@@ -1,0 +1,25 @@
+.. _lil:
+
+Lillooet
+========
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: lil
+    alternate_names:
+    - St'at'imcets
+    - Upper Lillooet
+    - Lower Lillooet
+    anglicanized_name: Lillooet
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: lil
+    lang_direction: ltr
+    lang_name: Lillooet
+    lang_region: Americas
+    

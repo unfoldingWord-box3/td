@@ -1,0 +1,24 @@
+.. _zpa:
+
+Lachiguiri Zapotec
+==================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zpa
+    alternate_names:
+    - Northwestern Tehuantepec Zapotec
+    - Zapoteco de Santiago Lachiguiri
+    anglicanized_name: Zapotec, Lachiguiri
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zpa
+    lang_direction: ltr
+    lang_name: Lachiguiri Zapotec
+    lang_region: Americas
+    

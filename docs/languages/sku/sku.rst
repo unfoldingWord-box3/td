@@ -1,0 +1,27 @@
+.. _sku:
+
+Sakao
+=====
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: sku
+    alternate_names:
+    - Hog Harbour
+    - Klep
+    - N'kep
+    - Sakau
+    - Santo
+    anglicanized_name: Sakao
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: sku
+    lang_direction: ltr
+    lang_name: Sakao
+    lang_region: Pacific
+    

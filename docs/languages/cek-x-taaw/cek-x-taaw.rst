@@ -1,0 +1,22 @@
+.. _cek-x-taaw:
+
+Ta-Aw Rengcaa
+=============
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - MM
+    gateway_language: null
+    lang_code: cek-x-taaw
+    lang_direction: ltr
+    lang_name: Ta-Aw Rengcaa
+    lang_region: Asia
+    

@@ -1,0 +1,26 @@
+.. _phu:
+
+Phuan
+=====
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+* TH: Thailand
+
+.. code-block:: yaml
+
+    ISO_639-3: phu
+    alternate_names:
+    - Lao Phuan
+    - Phu Un
+    anglicanized_name: Phuan
+    country_codes:
+    - LA
+    - TH
+    gateway_language: th
+    lang_code: phu
+    lang_direction: ltr
+    lang_name: Phuan
+    lang_region: Asia
+    

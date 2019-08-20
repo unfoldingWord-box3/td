@@ -1,0 +1,26 @@
+.. _kcq:
+
+Kamo
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kcq
+    alternate_names:
+    - Kamu
+    - Ma
+    - Nubama
+    - Nyima
+    anglicanized_name: Kamo
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: kcq
+    lang_direction: ltr
+    lang_name: Kamo
+    lang_region: Africa
+    

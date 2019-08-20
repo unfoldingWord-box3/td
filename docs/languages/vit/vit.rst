@@ -1,0 +1,23 @@
+.. _vit:
+
+Viti
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: vit
+    alternate_names:
+    - Vötö
+    anglicanized_name: Viti
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: vit
+    lang_direction: ltr
+    lang_name: Viti
+    lang_region: Africa
+    

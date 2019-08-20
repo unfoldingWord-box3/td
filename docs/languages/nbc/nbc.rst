@@ -1,0 +1,28 @@
+.. _nbc:
+
+Chang Naga
+==========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: nbc
+    alternate_names:
+    - Chang
+    - Changyanguh
+    - Machongrr
+    - Mochumi
+    - Mochungrr
+    - Mojung
+    anglicanized_name: Naga, Chang
+    country_codes:
+    - IN
+    gateway_language: en
+    lang_code: nbc
+    lang_direction: ltr
+    lang_name: Chang Naga
+    lang_region: Asia
+    

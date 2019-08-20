@@ -1,0 +1,28 @@
+.. _scp:
+
+Helambu Sherpa
+==============
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: scp
+    alternate_names:
+    - Hyolmo
+    - Yholmo
+    - Yohlmu Tam
+    - Yolmo
+    - Lamjung Yohlmo
+    - LangDang Yohlmo
+    anglicanized_name: Helambu Sherpa
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: scp
+    lang_direction: ltr
+    lang_name: Helambu Sherpa
+    lang_region: Asia
+    

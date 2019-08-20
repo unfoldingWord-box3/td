@@ -1,0 +1,50 @@
+.. _mji:
+
+金门方言
+============
+
+This language is spoken in the following countries:
+
+* CN: China
+* LA: Lao People's Democratic Republic
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: mji
+    alternate_names:
+    - Chasan Yao
+    - Gem Mun
+    - Hainan Miao
+    - Jim Mun
+    - Jinmen
+    - Kem Mun
+    - Kimmun
+    - Lan Tin
+    - Lowland Yao
+    - Man Lantien
+    - Men
+    - Mun
+    - Shanzi Yao
+    - Man Lan-Tien
+    - Coc Mun
+    - Dao Ao Dai
+    - Dao Lam Dinh
+    - Dao Quan Trang
+    - Dao Thanh Y
+    - Great Tunic Yao
+    - Lan Ten
+    - Lantin
+    - Red Trouser Yao
+    - Dao Ho
+    anglicanized_name: Kim Mun
+    country_codes:
+    - CN
+    - LA
+    - US
+    gateway_language: zh
+    lang_code: mji
+    lang_direction: ltr
+    lang_name: 金门方言
+    lang_region: Asia
+    

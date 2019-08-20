@@ -1,0 +1,27 @@
+.. _srv:
+
+Southern Sorsoganon
+===================
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: srv
+    alternate_names:
+    - Bikol Sorsogon
+    - Gubat
+    - Southern Sorsogon
+    - Sorsogon
+    - Waray
+    anglicanized_name: Sorsoganon, Southern
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: srv
+    lang_direction: ltr
+    lang_name: Southern Sorsoganon
+    lang_region: Asia
+    

@@ -1,0 +1,25 @@
+.. _pea:
+
+Peranakan Indonesian
+====================
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: pea
+    alternate_names:
+    - Baba Indonesian
+    - Chinese Indonesian
+    - Peranakan
+    anglicanized_name: Indonesian, Peranakan
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: pea
+    lang_direction: ltr
+    lang_name: Peranakan Indonesian
+    lang_region: Asia
+    

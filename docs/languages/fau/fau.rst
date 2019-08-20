@@ -1,0 +1,23 @@
+.. _fau:
+
+Fayu
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: fau
+    alternate_names:
+    - Sehudate
+    anglicanized_name: Fayu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: fau
+    lang_direction: ltr
+    lang_name: Fayu
+    lang_region: Asia
+    

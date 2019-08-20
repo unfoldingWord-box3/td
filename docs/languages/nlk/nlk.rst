@@ -1,0 +1,28 @@
+.. _nlk:
+
+Ninia Yali
+==========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: nlk
+    alternate_names:
+    - Jalè
+    - Jaly
+    - Ninia
+    - North Ngalik
+    - Southern Yali
+    - Yali Selatan
+    anglicanized_name: Yali, Ninia
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: nlk
+    lang_direction: ltr
+    lang_name: Ninia Yali
+    lang_region: Asia
+    

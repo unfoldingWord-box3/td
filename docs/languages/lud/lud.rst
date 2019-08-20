@@ -1,0 +1,27 @@
+.. _lud:
+
+Людиковское наречие
+=====================================
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: lud
+    alternate_names:
+    - Ludic
+    - Lüüdi
+    - Lüüdikiel
+    - Lyudic
+    - Lyudikovian
+    anglicanized_name: Ludian
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: lud
+    lang_direction: ltr
+    lang_name: Людиковское наречие
+    lang_region: Europe
+    

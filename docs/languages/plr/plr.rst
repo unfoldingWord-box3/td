@@ -1,0 +1,27 @@
+.. _plr:
+
+Palaka Senoufo
+==============
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: plr
+    alternate_names:
+    - Kpalagha
+    - Palaka
+    - Palara
+    - Pallakha
+    - Pilara
+    anglicanized_name: Sénoufo, Palaka
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: plr
+    lang_direction: ltr
+    lang_name: Palaka Senoufo
+    lang_region: Africa
+    

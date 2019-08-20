@@ -1,0 +1,23 @@
+.. _pub:
+
+Purum
+=====
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: pub
+    alternate_names:
+    - Puram
+    anglicanized_name: Purum
+    country_codes:
+    - IN
+    gateway_language: en
+    lang_code: pub
+    lang_direction: ltr
+    lang_name: Purum
+    lang_region: Asia
+    

@@ -1,0 +1,25 @@
+.. _pnh:
+
+Penrhyn
+=======
+
+This language is spoken in the following countries:
+
+* CK: Cook Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: pnh
+    alternate_names:
+    - Mangarongaro
+    - Penrhynese
+    - Tongareva
+    anglicanized_name: Penrhyn
+    country_codes:
+    - CK
+    gateway_language: en
+    lang_code: pnh
+    lang_direction: ltr
+    lang_name: Penrhyn
+    lang_region: Pacific
+    

@@ -1,0 +1,22 @@
+.. _bue:
+
+Beothuk
+=======
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: bue
+    alternate_names: []
+    anglicanized_name: Beothuk
+    country_codes:
+    - CA
+    gateway_language: null
+    lang_code: bue
+    lang_direction: ltr
+    lang_name: Beothuk
+    lang_region: Americas
+    

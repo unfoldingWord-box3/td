@@ -1,0 +1,23 @@
+.. _xrw:
+
+Karawa
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: xrw
+    alternate_names:
+    - Bulawa
+    anglicanized_name: Karawa
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: xrw
+    lang_direction: ltr
+    lang_name: Karawa
+    lang_region: Pacific
+    

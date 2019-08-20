@@ -1,0 +1,20 @@
+.. _omw-x-bonta:
+
+Bonta
+=====
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Bonta
+    country_codes: []
+    gateway_language: tpi
+    lang_code: omw-x-bonta
+    lang_direction: ltr
+    lang_name: Bonta
+    lang_region: Pacific
+    

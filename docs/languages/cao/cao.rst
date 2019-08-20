@@ -1,0 +1,22 @@
+.. _cao:
+
+Chácobo
+========
+
+This language is spoken in the following countries:
+
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: cao
+    alternate_names: []
+    anglicanized_name: Chácobo
+    country_codes:
+    - BO
+    gateway_language: es-419
+    lang_code: cao
+    lang_direction: ltr
+    lang_name: Chácobo
+    lang_region: Americas
+    

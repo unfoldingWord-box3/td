@@ -1,0 +1,26 @@
+.. _sje:
+
+Pite Sami
+=========
+
+This language is spoken in the following countries:
+
+* SE: Sweden
+
+.. code-block:: yaml
+
+    ISO_639-3: sje
+    alternate_names:
+    - Pite
+    - Lapp
+    - Arjeplog Saami
+    - Saami
+    anglicanized_name: Saami, Pite
+    country_codes:
+    - SE
+    gateway_language: en
+    lang_code: sje
+    lang_direction: ltr
+    lang_name: Pite Sami
+    lang_region: Europe
+    

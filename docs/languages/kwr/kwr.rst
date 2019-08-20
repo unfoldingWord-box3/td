@@ -1,0 +1,24 @@
+.. _kwr:
+
+Kwer
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kwr
+    alternate_names: []
+    anglicanized_name: Kwer
+    country_codes:
+    - ID
+    - PG
+    gateway_language: id
+    lang_code: kwr
+    lang_direction: ltr
+    lang_name: Kwer
+    lang_region: Asia
+    

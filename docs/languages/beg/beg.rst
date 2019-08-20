@@ -1,0 +1,25 @@
+.. _beg:
+
+Belait
+======
+
+This language is spoken in the following countries:
+
+* BN: Brunei Darussalam
+
+.. code-block:: yaml
+
+    ISO_639-3: beg
+    alternate_names:
+    - Balait Jati
+    - Lemeting
+    - Meting
+    anglicanized_name: Belait
+    country_codes:
+    - BN
+    gateway_language: ms
+    lang_code: beg
+    lang_direction: ltr
+    lang_name: Belait
+    lang_region: Asia
+    

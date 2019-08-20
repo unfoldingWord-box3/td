@@ -1,0 +1,23 @@
+.. _age:
+
+Angal
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: age
+    alternate_names:
+    - East Angal
+    anglicanized_name: Angal
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: age
+    lang_direction: ltr
+    lang_name: Angal
+    lang_region: Pacific
+    

@@ -1,0 +1,32 @@
+.. _dng:
+
+Dungan
+======
+
+This language is spoken in the following countries:
+
+* KZ: Kazakhstan
+* KG: Kyrgyzstan
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: dng
+    alternate_names:
+    - Dzhunyan
+    - Kwuizwu
+    - Tungan
+    - Zwn'jan
+    - Ganzu (Gansu)
+    - Shaanxi (Shensi)
+    anglicanized_name: Dungan
+    country_codes:
+    - KZ
+    - KG
+    - UZ
+    gateway_language: ru
+    lang_code: dng
+    lang_direction: ltr
+    lang_name: Dungan
+    lang_region: Asia
+    

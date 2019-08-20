@@ -1,0 +1,24 @@
+.. _iai:
+
+Iaai
+====
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: iai
+    alternate_names:
+    - Hwen Iaai
+    - Yai
+    anglicanized_name: Iaai
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: iai
+    lang_direction: ltr
+    lang_name: Iaai
+    lang_region: Pacific
+    

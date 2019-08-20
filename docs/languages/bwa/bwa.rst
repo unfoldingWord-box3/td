@@ -1,0 +1,22 @@
+.. _bwa:
+
+Bwatoo
+======
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: bwa
+    alternate_names: []
+    anglicanized_name: Bwatoo
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: bwa
+    lang_direction: ltr
+    lang_name: Bwatoo
+    lang_region: Pacific
+    

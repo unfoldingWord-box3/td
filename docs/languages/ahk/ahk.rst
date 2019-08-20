@@ -1,0 +1,43 @@
+.. _ahk:
+
+Akha
+====
+
+This language is spoken in the following countries:
+
+* CN: China
+* LA: Lao People's Democratic Republic
+* TH: Thailand
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: ahk
+    alternate_names:
+    - Ahka
+    - Aini
+    - Aka
+    - Ak'a
+    - Ekaw
+    - Ikaw
+    - Ikor
+    - Kaw
+    - Kha Ko
+    - Khako
+    - Khao Kha Ko
+    - Ko
+    - Yani
+    - Hka Ko
+    - Khao Ikor
+    anglicanized_name: Akha
+    country_codes:
+    - CN
+    - LA
+    - TH
+    - MM
+    gateway_language: my
+    lang_code: ahk
+    lang_direction: ltr
+    lang_name: Akha
+    lang_region: Asia
+    

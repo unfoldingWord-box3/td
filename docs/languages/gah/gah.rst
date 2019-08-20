@@ -1,0 +1,24 @@
+.. _gah:
+
+Alekano
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: gah
+    alternate_names:
+    - Gafuku
+    - Gahuku-Gama
+    anglicanized_name: Alekano
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: gah
+    lang_direction: ltr
+    lang_name: Alekano
+    lang_region: Pacific
+    

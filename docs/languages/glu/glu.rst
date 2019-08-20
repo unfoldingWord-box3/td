@@ -1,0 +1,31 @@
+.. _glu:
+
+Gula
+====
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: glu
+    alternate_names:
+    - Bayo
+    - Goula
+    - Sara Goula
+    - Sara Gula
+    - Kofoy
+    - Malé
+    - Moufa
+    - Souka
+    - Toussa
+    anglicanized_name: Gula
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: glu
+    lang_direction: ltr
+    lang_name: Gula
+    lang_region: Africa
+    

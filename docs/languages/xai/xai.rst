@@ -1,0 +1,22 @@
+.. _xai:
+
+Kaimbé
+=======
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: xai
+    alternate_names: []
+    anglicanized_name: Kaimbé
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: xai
+    lang_direction: ltr
+    lang_name: Kaimbé
+    lang_region: Americas
+    

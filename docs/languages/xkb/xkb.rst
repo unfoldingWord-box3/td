@@ -1,0 +1,31 @@
+.. _xkb:
+
+Northern Nago
+=============
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: xkb
+    alternate_names:
+    - Ana
+    - Ede Nago, Manigri-Kambolé
+    - Manigri
+    - Kambolé
+    - Southwest Ede
+    - Ede Nago
+    - Manigri-Kambolé
+    anglicanized_name: Nago, Northern
+    country_codes:
+    - BJ
+    - TG
+    gateway_language: fr
+    lang_code: xkb
+    lang_direction: ltr
+    lang_name: Northern Nago
+    lang_region: Africa
+    

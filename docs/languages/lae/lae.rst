@@ -1,0 +1,31 @@
+.. _lae:
+
+Pattani
+=======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: lae
+    alternate_names:
+    - Chamba
+    - Chamba Lahuli
+    - Changsapa Boli
+    - Lahuli
+    - Manchad
+    - Manchati
+    - Patni
+    - Swangla
+    - Chamba-Lahuli (Western Pattani)
+    anglicanized_name: Pattani
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: lae
+    lang_direction: ltr
+    lang_name: Pattani
+    lang_region: Asia
+    

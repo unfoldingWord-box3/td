@@ -1,0 +1,29 @@
+.. _xtc:
+
+Katcha-Kadugli-Miri
+===================
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: xtc
+    alternate_names:
+    - Kudugli
+    - Toma Ma Dalla
+    - Talla
+    - Kadugli (Dakalla)
+    - Dhalla
+    - Tolubi
+    - Katcha (Dholubi)
+    anglicanized_name: Katcha-Kadugli-Miri
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: xtc
+    lang_direction: ltr
+    lang_name: Katcha-Kadugli-Miri
+    lang_region: Africa
+    

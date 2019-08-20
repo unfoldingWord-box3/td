@@ -1,0 +1,26 @@
+.. _bsf:
+
+Bauchi
+======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: bsf
+    alternate_names:
+    - Bauci
+    - Baushi
+    - Kushi
+    - Madaka (Adeka)
+    anglicanized_name: Bauchi
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: bsf
+    lang_direction: ltr
+    lang_name: Bauchi
+    lang_region: Africa
+    

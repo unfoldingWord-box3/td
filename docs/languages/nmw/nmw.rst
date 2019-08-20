@@ -1,0 +1,23 @@
+.. _nmw:
+
+Nimoa
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nmw
+    alternate_names:
+    - Nimowa
+    anglicanized_name: Rifao
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nmw
+    lang_direction: ltr
+    lang_name: Nimoa
+    lang_region: Pacific
+    

@@ -1,0 +1,31 @@
+.. _hvn:
+
+Sabu
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: hvn
+    alternate_names:
+    - Havunese
+    - Savu
+    - Savunese
+    - Sawu
+    - Sawunese
+    - Timu (Dimu)
+    - Mesara (Mehara)
+    - Raijua (Raidjua)
+    - Seba (Heba)
+    anglicanized_name: Hawu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: hvn
+    lang_direction: ltr
+    lang_name: Sabu
+    lang_region: Asia
+    

@@ -1,0 +1,25 @@
+.. _bon:
+
+Bine
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bon
+    alternate_names:
+    - Oriomo
+    - Pine
+    - Boze-Giringarede
+    anglicanized_name: Bine
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bon
+    lang_direction: ltr
+    lang_name: Bine
+    lang_region: Pacific
+    

@@ -1,0 +1,24 @@
+.. _yon:
+
+Yongkom
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: yon
+    alternate_names:
+    - Yonggom
+    - Yongom
+    anglicanized_name: Yongkom
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: yon
+    lang_direction: ltr
+    lang_name: Yongkom
+    lang_region: Pacific
+    

@@ -1,0 +1,43 @@
+.. _mni:
+
+Manipuri
+========
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* IN: India
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: mni
+    alternate_names:
+    - Meetei
+    - Meithei
+    - Kathe
+    - Kathi
+    - Meiteilon
+    - Meiteiron
+    - Meithe
+    - Menipuri
+    - Mitei
+    - Mithe
+    - Ponna
+    - Panan
+    - Loi (Chakpa)
+    - Pangan (Pangal)
+    - Pangal (Manipuri Muslim)
+    - Hindu Meitei
+    - Panal
+    anglicanized_name: Meitei
+    country_codes:
+    - BD
+    - IN
+    - MM
+    gateway_language: en
+    lang_code: mni
+    lang_direction: ltr
+    lang_name: Manipuri
+    lang_region: Asia
+    

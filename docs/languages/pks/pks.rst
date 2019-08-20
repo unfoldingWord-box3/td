@@ -1,0 +1,23 @@
+.. _pks:
+
+Pakistan Sign Language
+======================
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: pks
+    alternate_names:
+    - Isharon Ki Zubann
+    anglicanized_name: Pakistan Sign Language
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: pks
+    lang_direction: ltr
+    lang_name: Pakistan Sign Language
+    lang_region: Asia
+    

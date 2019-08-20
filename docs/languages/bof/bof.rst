@@ -1,0 +1,30 @@
+.. _bof:
+
+Bolon
+=====
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: bof
+    alternate_names:
+    - Bo
+    - Boka
+    - Boon
+    - Boron
+    - White Bolon (Southern Bolon)
+    - Black Bolon (Northern Bolon)
+    anglicanized_name: Bolon
+    country_codes:
+    - BF
+    - ML
+    gateway_language: fr
+    lang_code: bof
+    lang_direction: ltr
+    lang_name: Bolon
+    lang_region: Africa
+    

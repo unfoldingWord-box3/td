@@ -1,0 +1,23 @@
+.. _bzh:
+
+Mapos Buang
+===========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bzh
+    alternate_names:
+    - Central Buang
+    anglicanized_name: Buang, Mapos
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bzh
+    lang_direction: ltr
+    lang_name: Mapos Buang
+    lang_region: Pacific
+    

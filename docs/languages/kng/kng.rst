@@ -1,0 +1,41 @@
+.. _kng:
+
+Koongo
+======
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+* AO: Angola
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: kng
+    alternate_names:
+    - Congo
+    - Kikoongo
+    - Kikongo
+    - Kongo-Nseke
+    - Kiyombe (Cabinda)
+    - Kizombo
+    - West Kongo (Fiote)
+    - South East Kongo
+    - Nzamba (Dzamba)
+    - Bwende (Buende)
+    - Kisikongo
+    - San Salvador Kongo
+    - Kindibu
+    - Kimanyanga
+    - Kiwoyo (Cabinda)
+    anglicanized_name: Koongo
+    country_codes:
+    - CD
+    - AO
+    - UG
+    gateway_language: fr
+    lang_code: kng
+    lang_direction: ltr
+    lang_name: Koongo
+    lang_region: Africa
+    

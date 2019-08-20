@@ -1,0 +1,69 @@
+.. _hi:
+
+हिन्दी, हिंदी
+===================================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/hin>`_ identifies this language as ``hin``.
+
+This language is spoken in the following countries:
+
+* BN: Brunei Darussalam
+* BR: Brazil
+* BT: Bhutan
+* AR: Argentina
+* FR: France
+* DE: Germany
+* KR: Korea, Republic of
+* PA: Panama
+* ES: Spain
+* GB: United Kingdom of Great Britain and Northern Ireland
+* MY: Malaysia
+* OM: Oman
+* NP: Nepal
+* NZ: New Zealand
+* ZA: South Africa
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* IN: India
+* SG: Singapore
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: hin
+    alternate_names:
+    - Khadi Boli
+    - Khari Boli
+    - Dakhini
+    - Hindi-Urdu
+    - Khariboli
+    anglicanized_name: Hindi
+    country_codes:
+    - BN
+    - BR
+    - BT
+    - AR
+    - FR
+    - DE
+    - KR
+    - PA
+    - ES
+    - GB
+    - MY
+    - OM
+    - NP
+    - NZ
+    - ZA
+    - US
+    - AU
+    - CA
+    - IN
+    - SG
+    - MM
+    gateway_language: null
+    lang_code: hi
+    lang_direction: ltr
+    lang_name: हिन्दी, हिंदी
+    lang_region: Asia
+    

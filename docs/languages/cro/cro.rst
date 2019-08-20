@@ -1,0 +1,23 @@
+.. _cro:
+
+Crow
+====
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: cro
+    alternate_names:
+    - Apsaalooke
+    anglicanized_name: Crow
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: cro
+    lang_direction: ltr
+    lang_name: Crow
+    lang_region: Americas
+    

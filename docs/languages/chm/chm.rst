@@ -1,0 +1,22 @@
+.. _chm:
+
+Mari (Russia)
+=============
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: chm
+    alternate_names: []
+    anglicanized_name: Mari
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: chm
+    lang_direction: ltr
+    lang_name: Mari (Russia)
+    lang_region: Europe
+    

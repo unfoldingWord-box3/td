@@ -1,0 +1,22 @@
+.. _taf:
+
+Tapirapé
+=========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: taf
+    alternate_names: []
+    anglicanized_name: Tapirapé
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: taf
+    lang_direction: ltr
+    lang_name: Tapirapé
+    lang_region: Americas
+    

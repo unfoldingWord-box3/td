@@ -1,0 +1,20 @@
+.. _xkn-x-umalekan:
+
+Kayan Uma Lekan
+===============
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Kayan Uma Lekan
+    country_codes: []
+    gateway_language: id
+    lang_code: xkn-x-umalekan
+    lang_direction: ltr
+    lang_name: Kayan Uma Lekan
+    lang_region: Asia
+    

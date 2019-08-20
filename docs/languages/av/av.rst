@@ -1,0 +1,54 @@
+.. _av:
+
+авар мацӀ, магӀарул мацӀ
+============================================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ava>`_ identifies this language as ``ava``.
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+* KZ: Kazakhstan
+* RU: Russian Federation
+* TM: Turkmenistan
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: ava
+    alternate_names:
+    - Avaro
+    - Dagestani
+    - Bolmac
+    - Khundzuri
+    - Maarul Dagestani
+    - Qusur
+    - South-East Avar (Andalal)
+    - South-West Avar (Batlukh)
+    - Unkratl
+    - North Avar (Andian Avar)
+    - Zaqatala (Char)
+    - Khunzakh
+    - Zaqatal (Char)
+    - Andalal Shulanin
+    - Karakh
+    - Hid Keleb
+    - Hid Kaxib
+    - Bolmats
+    - Antsukh (Ancux)
+    - Antsukh
+    - Andalal Untib
+    - Qarakh (Bacadin)
+    anglicanized_name: Avaric
+    country_codes:
+    - AZ
+    - KZ
+    - RU
+    - TM
+    - UZ
+    gateway_language: ru
+    lang_code: av
+    lang_direction: ltr
+    lang_name: авар мацӀ, магӀарул мацӀ
+    lang_region: Europe
+    

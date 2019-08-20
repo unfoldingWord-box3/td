@@ -1,0 +1,24 @@
+.. _lie:
+
+Likila
+======
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: lie
+    alternate_names:
+    - Balobo
+    - Bangela
+    anglicanized_name: Likila
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: lie
+    lang_direction: ltr
+    lang_name: Likila
+    lang_region: Africa
+    

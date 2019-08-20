@@ -1,0 +1,27 @@
+.. _nxa:
+
+Nauete
+======
+
+This language is spoken in the following countries:
+
+* TL: Timor-Leste
+
+.. code-block:: yaml
+
+    ISO_639-3: nxa
+    alternate_names:
+    - Naóti
+    - Naueti
+    - Nauhete
+    - Nauote
+    - Nauoti
+    anglicanized_name: Nauete
+    country_codes:
+    - TL
+    gateway_language: pt
+    lang_code: nxa
+    lang_direction: ltr
+    lang_name: Nauete
+    lang_region: Asia
+    

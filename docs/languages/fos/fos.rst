@@ -1,0 +1,37 @@
+.. _fos:
+
+Siraya
+======
+
+This language is spoken in the following countries:
+
+* TW: Taiwan, Province of China
+
+.. code-block:: yaml
+
+    ISO_639-3: fos
+    alternate_names:
+    - Lamai
+    - Takaraya
+    - Taivoan (Tevorang)
+    - Makatao (Makattao)
+    - Tta'o
+    - Pangsoia-Dolatok
+    - Baksa
+    - Formosan
+    - Pepohoan
+    - Pepo-Hwan
+    - Sideia
+    - Sideis
+    - Sideisch
+    - Siraia
+    - Siraiya
+    anglicanized_name: Siraya
+    country_codes:
+    - TW
+    gateway_language: zh
+    lang_code: fos
+    lang_direction: ltr
+    lang_name: Siraya
+    lang_region: Asia
+    

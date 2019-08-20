@@ -1,0 +1,25 @@
+.. _drb:
+
+Dair
+====
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: drb
+    alternate_names:
+    - Dabab
+    - Daier
+    - Thaminyi
+    anglicanized_name: Dair
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: drb
+    lang_direction: ltr
+    lang_name: Dair
+    lang_region: Africa
+    

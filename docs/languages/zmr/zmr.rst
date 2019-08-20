@@ -1,0 +1,25 @@
+.. _zmr:
+
+Maranunggu
+==========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: zmr
+    alternate_names:
+    - Emmi
+    - Merranunggu
+    - Warrgat
+    anglicanized_name: Maranunggu
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: zmr
+    lang_direction: ltr
+    lang_name: Maranunggu
+    lang_region: Pacific
+    

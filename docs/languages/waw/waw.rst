@@ -1,0 +1,39 @@
+.. _waw:
+
+Waiwai
+======
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+* GY: Guyana
+
+.. code-block:: yaml
+
+    ISO_639-3: waw
+    alternate_names:
+    - Ouayeone
+    - Uaieue
+    - Uaiuai
+    - Parukota
+    - Katwena
+    - Tonayana
+    - Tunayana
+    - Parukutu
+    - Parucutu
+    - Katawina
+    - Katawian (Katawina)
+    - Katawian (Cachuena)
+    - Katuena
+    - Catawian
+    - Catauian
+    anglicanized_name: Waiwai
+    country_codes:
+    - BR
+    - GY
+    gateway_language: pt
+    lang_code: waw
+    lang_direction: ltr
+    lang_name: Waiwai
+    lang_region: Americas
+    

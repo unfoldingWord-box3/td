@@ -1,0 +1,26 @@
+.. _ndu:
+
+Dugun
+=====
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: ndu
+    alternate_names:
+    - Pani
+    - Panon
+    - Pa'non
+    - Saa
+    anglicanized_name: Dugun
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: ndu
+    lang_direction: ltr
+    lang_name: Dugun
+    lang_region: Africa
+    

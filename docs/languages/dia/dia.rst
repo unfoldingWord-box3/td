@@ -1,0 +1,25 @@
+.. _dia:
+
+Dia
+===
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: dia
+    alternate_names:
+    - Alu
+    - Galu
+    - Metru
+    anglicanized_name: Dia
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: dia
+    lang_direction: ltr
+    lang_name: Dia
+    lang_region: Pacific
+    

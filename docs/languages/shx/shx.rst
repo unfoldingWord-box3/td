@@ -1,0 +1,25 @@
+.. _shx:
+
+山客話
+=========
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: shx
+    alternate_names:
+    - Huo Nte
+    - Lianhua (Western She)
+    - Luofu (Eastern She)
+    anglicanized_name: She
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: shx
+    lang_direction: ltr
+    lang_name: 山客話
+    lang_region: Asia
+    

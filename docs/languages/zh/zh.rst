@@ -1,0 +1,24 @@
+.. _zh:
+
+中文 (Zhōngwén), 汉语, 漢語
+===================================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/zho>`_ identifies this language as ``zho``.
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: zho
+    alternate_names: []
+    anglicanized_name: Chinese
+    country_codes:
+    - CN
+    gateway_language: null
+    lang_code: zh
+    lang_direction: ltr
+    lang_name: 中文 (Zhōngwén), 汉语, 漢語
+    lang_region: Asia
+    

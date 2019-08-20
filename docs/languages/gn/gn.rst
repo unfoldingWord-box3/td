@@ -1,0 +1,24 @@
+.. _gn:
+
+Avañe'ẽ
+==========
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/grn>`_ identifies this language as ``grn``.
+
+This language is spoken in the following countries:
+
+* PY: Paraguay
+
+.. code-block:: yaml
+
+    ISO_639-3: grn
+    alternate_names: []
+    anglicanized_name: Guaraní
+    country_codes:
+    - PY
+    gateway_language: es-419
+    lang_code: gn
+    lang_direction: ltr
+    lang_name: Avañe'ẽ
+    lang_region: Americas
+    

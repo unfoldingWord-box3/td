@@ -1,0 +1,29 @@
+.. _cda:
+
+Choni
+=====
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: cda
+    alternate_names:
+    - Chona
+    - Chone
+    - Cone
+    - Jone
+    - Zhuoni
+    - Hbrugchu (Zhouqu)
+    - Thewo (Diebu)
+    anglicanized_name: Choni
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: cda
+    lang_direction: ltr
+    lang_name: Choni
+    lang_region: Asia
+    

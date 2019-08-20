@@ -1,0 +1,22 @@
+.. _twc:
+
+Teshenawa
+=========
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: twc
+    alternate_names: []
+    anglicanized_name: Teshenawa
+    country_codes:
+    - NG
+    gateway_language: null
+    lang_code: twc
+    lang_direction: ltr
+    lang_name: Teshenawa
+    lang_region: Africa
+    

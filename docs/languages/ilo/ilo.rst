@@ -1,0 +1,28 @@
+.. _ilo:
+
+Iloko
+=====
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: ilo
+    alternate_names:
+    - Ilokano
+    - Iloko
+    anglicanized_name: Ilocano
+    country_codes:
+    - PH
+    - US
+    - CA
+    gateway_language: en
+    lang_code: ilo
+    lang_direction: ltr
+    lang_name: Iloko
+    lang_region: Asia
+    

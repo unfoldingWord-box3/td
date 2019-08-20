@@ -1,0 +1,40 @@
+.. _ayo:
+
+Ayoreo
+======
+
+This language is spoken in the following countries:
+
+* PY: Paraguay
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: ayo
+    alternate_names:
+    - Ayoré
+    - Moro
+    - Morotoco
+    - Pyeta
+    - Yovai
+    - Garaygosode
+    - Guarañoca
+    - Guidaigosode
+    - Koroino
+    - Poturero
+    - Pyeta Yovai
+    - Samococio
+    - Sirákua
+    - Takrat
+    - Totobiegosode
+    - Yanaigua
+    anglicanized_name: Ayoreo
+    country_codes:
+    - PY
+    - BO
+    gateway_language: es-419
+    lang_code: ayo
+    lang_direction: ltr
+    lang_name: Ayoreo
+    lang_region: Americas
+    

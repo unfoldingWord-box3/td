@@ -1,0 +1,30 @@
+.. _ade:
+
+Adele
+=====
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: ade
+    alternate_names:
+    - Bidire
+    - Bedere
+    - Gadre
+    - Gidire
+    - Lower Adele
+    - Upper Adele
+    anglicanized_name: Adele
+    country_codes:
+    - GH
+    - TG
+    gateway_language: fr
+    lang_code: ade
+    lang_direction: ltr
+    lang_name: Adele
+    lang_region: Africa
+    

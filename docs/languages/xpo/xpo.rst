@@ -1,0 +1,22 @@
+.. _xpo:
+
+Pochutec
+========
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: xpo
+    alternate_names: []
+    anglicanized_name: Pochutec
+    country_codes:
+    - MX
+    gateway_language: null
+    lang_code: xpo
+    lang_direction: ltr
+    lang_name: Pochutec
+    lang_region: Americas
+    

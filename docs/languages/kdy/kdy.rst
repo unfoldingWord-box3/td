@@ -1,0 +1,22 @@
+.. _kdy:
+
+Keder
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kdy
+    alternate_names: []
+    anglicanized_name: Keijar
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kdy
+    lang_direction: ltr
+    lang_name: Keder
+    lang_region: Asia
+    

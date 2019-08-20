@@ -1,0 +1,29 @@
+.. _khz:
+
+Keapara
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: khz
+    alternate_names:
+    - Keopara
+    - Kerepunu
+    - Keapara (Keopara)
+    - Galoma
+    - Babaga
+    - Aroma (Aloma)
+    - Arona
+    anglicanized_name: Keapara
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: khz
+    lang_direction: ltr
+    lang_name: Keapara
+    lang_region: Pacific
+    

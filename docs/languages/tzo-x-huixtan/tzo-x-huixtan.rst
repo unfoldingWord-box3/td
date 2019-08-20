@@ -1,0 +1,20 @@
+.. _tzo-x-huixtan:
+
+Tzotzil de Huixtan
+==================
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Tzotzil de Huixtan
+    country_codes: []
+    gateway_language: es-419
+    lang_code: tzo-x-huixtan
+    lang_direction: ltr
+    lang_name: Tzotzil de Huixtan
+    lang_region: Americas
+    

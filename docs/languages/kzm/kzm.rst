@@ -1,0 +1,26 @@
+.. _kzm:
+
+Kais
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kzm
+    alternate_names:
+    - Aiso
+    - Atori
+    - Kampung Baru
+    - Mintamani
+    anglicanized_name: Kais
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kzm
+    lang_direction: ltr
+    lang_name: Kais
+    lang_region: Asia
+    

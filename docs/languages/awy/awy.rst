@@ -1,0 +1,28 @@
+.. _awy:
+
+Edera Awyu
+==========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: awy
+    alternate_names:
+    - Jenimu
+    - Oser
+    - Siagha
+    - Sjiagha
+    - Syiagha
+    - Yenimu
+    anglicanized_name: Awyu, Edera
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: awy
+    lang_direction: ltr
+    lang_name: Edera Awyu
+    lang_region: Asia
+    

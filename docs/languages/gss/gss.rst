@@ -1,0 +1,22 @@
+.. _gss:
+
+Greek Sign Language
+===================
+
+This language is spoken in the following countries:
+
+* GR: Greece
+
+.. code-block:: yaml
+
+    ISO_639-3: gss
+    alternate_names: []
+    anglicanized_name: Greek Sign Language
+    country_codes:
+    - GR
+    gateway_language: en
+    lang_code: gss
+    lang_direction: ltr
+    lang_name: Greek Sign Language
+    lang_region: Europe
+    

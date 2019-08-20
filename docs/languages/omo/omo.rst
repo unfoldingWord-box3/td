@@ -1,0 +1,23 @@
+.. _omo:
+
+Utarmbung
+=========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: omo
+    alternate_names:
+    - Osum
+    anglicanized_name: Utarmbung
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: omo
+    lang_direction: ltr
+    lang_name: Utarmbung
+    lang_region: Pacific
+    

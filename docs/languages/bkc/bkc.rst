@@ -1,0 +1,30 @@
+.. _bkc:
+
+Baka (Cameroon)
+===============
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* GA: Gabon
+
+.. code-block:: yaml
+
+    ISO_639-3: bkc
+    alternate_names:
+    - Babinga
+    - Bebayaga
+    - Bebayaka
+    - Bibaya
+    - Pygmees Baka
+    - Pygmees de l'Est
+    anglicanized_name: Baka
+    country_codes:
+    - CM
+    - GA
+    gateway_language: fr
+    lang_code: bkc
+    lang_direction: ltr
+    lang_name: Baka (Cameroon)
+    lang_region: Africa
+    

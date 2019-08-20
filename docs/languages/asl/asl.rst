@@ -1,0 +1,24 @@
+.. _asl:
+
+Asilulu
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: asl
+    alternate_names:
+    - Negeri Lima (Henalima)
+    - Lima
+    anglicanized_name: Asilulu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: asl
+    lang_direction: ltr
+    lang_name: Asilulu
+    lang_region: Asia
+    

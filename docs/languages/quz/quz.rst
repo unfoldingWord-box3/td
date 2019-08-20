@@ -1,0 +1,32 @@
+.. _quz:
+
+Cusco Quechua
+=============
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: quz
+    alternate_names:
+    - Cuzco
+    - Cuzco Quechua
+    - Qheswa
+    - Quechua Cusco
+    - Quechua de Cusco-Collao
+    - Quechua Qosqo-Qollaw
+    - Runasimi Qusqu Qullaw
+    - Caylloma Quechua
+    - Puno Quechua
+    - Eastern Apurímac Quechua
+    anglicanized_name: Quechua, Cusco
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: quz
+    lang_direction: ltr
+    lang_name: Cusco Quechua
+    lang_region: Americas
+    

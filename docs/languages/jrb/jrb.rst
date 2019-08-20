@@ -1,0 +1,22 @@
+.. _jrb:
+
+ערבית יהודית
+=======================
+
+This language is spoken in the following countries:
+
+* IL: Israel
+
+.. code-block:: yaml
+
+    ISO_639-3: jrb
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - IL
+    gateway_language: en
+    lang_code: jrb
+    lang_direction: rtl
+    lang_name: ערבית יהודית
+    lang_region: Asia
+    

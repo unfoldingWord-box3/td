@@ -1,0 +1,33 @@
+.. _tmw:
+
+Temuan
+======
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: tmw
+    alternate_names:
+    - Benua
+    - Niap
+    - Belandas
+    - Mantra (Mentera)
+    - Landa
+    - Mintra
+    - Belanda (Belana)
+    - Belanas
+    - Beduanda (Biduanda)
+    - Blanda
+    - Berembun (Birmun)
+    anglicanized_name: Temuan
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: tmw
+    lang_direction: ltr
+    lang_name: Temuan
+    lang_region: Asia
+    

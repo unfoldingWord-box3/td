@@ -1,0 +1,22 @@
+.. _kes:
+
+Kugbo
+=====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kes
+    alternate_names: []
+    anglicanized_name: Kugbo
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: kes
+    lang_direction: ltr
+    lang_name: Kugbo
+    lang_region: Africa
+    

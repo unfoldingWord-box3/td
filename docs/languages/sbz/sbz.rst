@@ -1,0 +1,23 @@
+.. _sbz:
+
+Sara Kaba
+=========
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: sbz
+    alternate_names:
+    - Ta Sara
+    anglicanized_name: Sara Kaba
+    country_codes:
+    - CF
+    gateway_language: fr
+    lang_code: sbz
+    lang_direction: ltr
+    lang_name: Sara Kaba
+    lang_region: Africa
+    

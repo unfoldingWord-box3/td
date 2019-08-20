@@ -1,0 +1,22 @@
+.. _dlm:
+
+Dalmatian
+=========
+
+This language is spoken in the following countries:
+
+* HR: Croatia
+
+.. code-block:: yaml
+
+    ISO_639-3: dlm
+    alternate_names: []
+    anglicanized_name: Dalmatian
+    country_codes:
+    - HR
+    gateway_language: null
+    lang_code: dlm
+    lang_direction: ltr
+    lang_name: Dalmatian
+    lang_region: Europe
+    

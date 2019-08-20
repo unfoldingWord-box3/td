@@ -1,0 +1,23 @@
+.. _yxm:
+
+Yinwum
+======
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: yxm
+    alternate_names:
+    - Yeemwoom
+    anglicanized_name: Yinwum
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: yxm
+    lang_direction: ltr
+    lang_name: Yinwum
+    lang_region: Pacific
+    

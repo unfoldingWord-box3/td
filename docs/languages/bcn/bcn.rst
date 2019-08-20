@@ -1,0 +1,26 @@
+.. _bcn:
+
+Bali (Nigeria)
+==============
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: bcn
+    alternate_names:
+    - Bibaali
+    - Ekpali
+    - Ibaali
+    - Maya
+    anglicanized_name: Bali
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: bcn
+    lang_direction: ltr
+    lang_name: Bali (Nigeria)
+    lang_region: Africa
+    

@@ -1,0 +1,22 @@
+.. _ump:
+
+Umpila
+======
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: ump
+    alternate_names: []
+    anglicanized_name: Umpila
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: ump
+    lang_direction: ltr
+    lang_name: Umpila
+    lang_region: Pacific
+    

@@ -1,0 +1,32 @@
+.. _grh:
+
+Gbiri-Niragu
+============
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: grh
+    alternate_names:
+    - Gure-Kahugu
+    - Tugbiri
+    - Kagu
+    - Niragu (Anirago)
+    - Kapugu
+    - Kafugu
+    - Igbiri
+    - Gura
+    - Agbiri
+    - Gbiri (Agari)
+    anglicanized_name: Gbiri-Niragu
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: grh
+    lang_direction: ltr
+    lang_name: Gbiri-Niragu
+    lang_region: Africa
+    

@@ -1,0 +1,22 @@
+.. _rpn:
+
+Repanbitip
+==========
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: rpn
+    alternate_names: []
+    anglicanized_name: Repanbitip
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: rpn
+    lang_direction: ltr
+    lang_name: Repanbitip
+    lang_region: Pacific
+    

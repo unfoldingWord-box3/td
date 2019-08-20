@@ -1,0 +1,30 @@
+.. _kmj:
+
+Kumarbhag Paharia
+=================
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: kmj
+    alternate_names:
+    - Kumar
+    - Mad
+    - Maler
+    - Malti
+    - Malto
+    - Maltu
+    - Paharia
+    - Pahariya
+    anglicanized_name: Kumarbhag Paharia
+    country_codes:
+    - IN
+    gateway_language: bn
+    lang_code: kmj
+    lang_direction: ltr
+    lang_name: Kumarbhag Paharia
+    lang_region: Asia
+    

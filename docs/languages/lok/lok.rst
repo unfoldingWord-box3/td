@@ -1,0 +1,25 @@
+.. _lok:
+
+Loko
+====
+
+This language is spoken in the following countries:
+
+* GN: Guinea
+* SL: Sierra Leone
+
+.. code-block:: yaml
+
+    ISO_639-3: lok
+    alternate_names:
+    - Landogo
+    anglicanized_name: Loko
+    country_codes:
+    - GN
+    - SL
+    gateway_language: en
+    lang_code: lok
+    lang_direction: ltr
+    lang_name: Loko
+    lang_region: Africa
+    

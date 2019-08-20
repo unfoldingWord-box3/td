@@ -1,0 +1,22 @@
+.. _ott:
+
+Temoaya Otomi
+=============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: ott
+    alternate_names: []
+    anglicanized_name: Otomi, Temoaya
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: ott
+    lang_direction: ltr
+    lang_name: Temoaya Otomi
+    lang_region: Americas
+    

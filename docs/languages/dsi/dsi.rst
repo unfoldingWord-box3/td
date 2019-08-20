@@ -1,0 +1,22 @@
+.. _dsi:
+
+Disa
+====
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: dsi
+    alternate_names: []
+    anglicanized_name: Disa
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: dsi
+    lang_direction: ltr
+    lang_name: Disa
+    lang_region: Africa
+    

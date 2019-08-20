@@ -1,0 +1,24 @@
+.. _tlr:
+
+Talise
+======
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: tlr
+    alternate_names:
+    - Talisi
+    - Koo (Inakona)
+    anglicanized_name: Talise
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: tlr
+    lang_direction: ltr
+    lang_name: Talise
+    lang_region: Pacific
+    

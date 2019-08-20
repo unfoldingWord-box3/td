@@ -1,0 +1,28 @@
+.. _udi:
+
+Udi dili
+========
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+
+.. code-block:: yaml
+
+    ISO_639-3: udi
+    alternate_names:
+    - Udin
+    - Uti
+    - Nidzh (Nic)
+    - Nij
+    - Nizh
+    - Oghuz (Vartashen)
+    anglicanized_name: Udi
+    country_codes:
+    - AZ
+    gateway_language: ru
+    lang_code: udi
+    lang_direction: ltr
+    lang_name: Udi dili
+    lang_region: Asia
+    

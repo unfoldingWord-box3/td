@@ -1,0 +1,27 @@
+.. _avi:
+
+Avikam
+======
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: avi
+    alternate_names:
+    - Avekom
+    - Brinya
+    - Gbanda
+    - Kwakwa
+    - Lahu
+    anglicanized_name: Avikam
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: avi
+    lang_direction: ltr
+    lang_name: Avikam
+    lang_region: Africa
+    

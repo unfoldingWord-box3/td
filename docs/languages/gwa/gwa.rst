@@ -1,0 +1,30 @@
+.. _gwa:
+
+Mbato
+=====
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: gwa
+    alternate_names:
+    - Goaa
+    - Gwa
+    - M'bato
+    - Mbatto
+    - Mgbato
+    - N-Batto
+    - Ogwia
+    - Potu
+    anglicanized_name: Mbato
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: gwa
+    lang_direction: ltr
+    lang_name: Mbato
+    lang_region: Africa
+    

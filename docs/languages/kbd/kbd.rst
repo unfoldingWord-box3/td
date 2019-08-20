@@ -1,0 +1,32 @@
+.. _kbd:
+
+къэбэрдеибзэ
+========================
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+* SA: Saudi Arabia
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: kbd
+    alternate_names:
+    - East Circassian
+    - Kabard
+    - Kabardino-Cherkes
+    - Kabardo-Cherkess
+    - Upper Circassian
+    - Beslenei (Beslenej)
+    anglicanized_name: Kabardian
+    country_codes:
+    - RU
+    - SA
+    - UZ
+    gateway_language: ru
+    lang_code: kbd
+    lang_direction: ltr
+    lang_name: къэбэрдеибзэ
+    lang_region: Europe
+    

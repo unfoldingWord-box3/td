@@ -1,0 +1,53 @@
+.. _eu:
+
+euskara, euskera
+================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/eus>`_ identifies this language as ``eus``.
+
+This language is spoken in the following countries:
+
+* CL: Chile
+* FR: France
+* VE: Venezuela (Bolivarian Republic of)
+* ES: Spain
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: eus
+    alternate_names:
+    - Euskara
+    - Euskera
+    - Vascuense
+    - Roncalese
+    - Navarro-Labourdin (Bajo Navarro Occidental)
+    - Xiberoera
+    - Western Low Navarrese
+    - Upper Navarran
+    - Suletino
+    - Souletin (Souletino)
+    - Zuberoera
+    - Labourdin
+    - Alto Navarro Septentrional (High Navarrese)
+    - Guipuzcoano
+    - Gipuzkera (Gipuzkoan)
+    - Eastern Low Navarrese
+    - Biscayan (Vizcaino)
+    - Benaffarera
+    - Bajo Navarro Oriental
+    - Lapurdiera
+    - Suberoan
+    anglicanized_name: Basque
+    country_codes:
+    - CL
+    - FR
+    - VE
+    - ES
+    - US
+    gateway_language: es
+    lang_code: eu
+    lang_direction: ltr
+    lang_name: euskara, euskera
+    lang_region: Europe
+    

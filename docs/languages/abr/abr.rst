@@ -1,0 +1,25 @@
+.. _abr:
+
+Abron
+=====
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: abr
+    alternate_names:
+    - Bron
+    - Doma
+    - Gyaman
+    anglicanized_name: Abron
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: abr
+    lang_direction: ltr
+    lang_name: Abron
+    lang_region: Africa
+    

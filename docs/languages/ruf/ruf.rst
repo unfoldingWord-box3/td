@@ -1,0 +1,29 @@
+.. _ruf:
+
+Luguru
+======
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: ruf
+    alternate_names:
+    - Guru
+    - Ikiruguru
+    - Kiluguru
+    - Kiruguru
+    - Lughuru
+    - Lugulu
+    - Ruguru
+    anglicanized_name: Luguru
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: ruf
+    lang_direction: ltr
+    lang_name: Luguru
+    lang_region: Africa
+    

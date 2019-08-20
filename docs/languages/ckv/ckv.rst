@@ -1,0 +1,38 @@
+.. _ckv:
+
+Kavalan
+=======
+
+This language is spoken in the following countries:
+
+* TW: Taiwan, Province of China
+
+.. code-block:: yaml
+
+    ISO_639-3: ckv
+    alternate_names:
+    - Cabaran
+    - Kabalan
+    - Kabaran
+    - Kamalan
+    - Kavanan
+    - Kavarauan
+    - Kbalan
+    - Kibalan
+    - Kiwaraw
+    - Kiwarawa
+    - Kuvalan
+    - Kuvarawan
+    - Kuwarawan
+    - Kvalan
+    - Shekwan
+    - Kareovan (Kareowan)
+    anglicanized_name: Kavalan
+    country_codes:
+    - TW
+    gateway_language: zh
+    lang_code: ckv
+    lang_direction: ltr
+    lang_name: Kavalan
+    lang_region: Asia
+    

@@ -1,0 +1,24 @@
+.. _sho:
+
+Shanga
+======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: sho
+    alternate_names:
+    - Shonga
+    - Shongawa
+    anglicanized_name: Shanga
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: sho
+    lang_direction: ltr
+    lang_name: Shanga
+    lang_region: Africa
+    

@@ -1,0 +1,23 @@
+.. _hve:
+
+San Dionisio Del Mar Huave
+==========================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: hve
+    alternate_names:
+    - Huave del Este
+    anglicanized_name: Huave, San Dionisio del Mar
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: hve
+    lang_direction: ltr
+    lang_name: San Dionisio Del Mar Huave
+    lang_region: Americas
+    

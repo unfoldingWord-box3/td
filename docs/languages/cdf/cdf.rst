@@ -1,0 +1,23 @@
+.. _cdf:
+
+Chiru
+=====
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: cdf
+    alternate_names:
+    - Chhori
+    anglicanized_name: Chiru
+    country_codes:
+    - IN
+    gateway_language: mni
+    lang_code: cdf
+    lang_direction: ltr
+    lang_name: Chiru
+    lang_region: Asia
+    

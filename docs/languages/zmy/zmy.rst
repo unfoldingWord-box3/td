@@ -1,0 +1,22 @@
+.. _zmy:
+
+Mariyedi
+========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: zmy
+    alternate_names: []
+    anglicanized_name: Mariyedi
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: zmy
+    lang_direction: ltr
+    lang_name: Mariyedi
+    lang_region: Pacific
+    

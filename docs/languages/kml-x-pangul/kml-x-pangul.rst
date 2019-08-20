@@ -1,0 +1,20 @@
+.. _kml-x-pangul:
+
+Pangul
+======
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Pangul
+    country_codes: []
+    gateway_language: tl
+    lang_code: kml-x-pangul
+    lang_direction: ltr
+    lang_name: Pangul
+    lang_region: Asia
+    

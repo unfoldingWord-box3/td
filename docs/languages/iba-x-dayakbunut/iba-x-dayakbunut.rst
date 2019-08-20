@@ -1,0 +1,20 @@
+.. _iba-x-dayakbunut:
+
+Dayak Bunut
+===========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Dayak Bunut
+    country_codes: []
+    gateway_language: id
+    lang_code: iba-x-dayakbunut
+    lang_direction: ltr
+    lang_name: Dayak Bunut
+    lang_region: Asia
+    

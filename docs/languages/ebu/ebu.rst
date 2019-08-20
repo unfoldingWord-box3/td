@@ -1,0 +1,24 @@
+.. _ebu:
+
+Embu
+====
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: ebu
+    alternate_names:
+    - Mbere
+    - Mbeere (Kimbeere)
+    anglicanized_name: Kiembu
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: ebu
+    lang_direction: ltr
+    lang_name: Embu
+    lang_region: Africa
+    

@@ -1,0 +1,24 @@
+.. _wuh:
+
+五屯话
+=========
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: wuh
+    alternate_names:
+    - Wutong
+    - Wutun
+    anglicanized_name: Wutunhua
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: wuh
+    lang_direction: ltr
+    lang_name: 五屯话
+    lang_region: Asia
+    

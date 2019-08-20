@@ -1,0 +1,23 @@
+.. _dad:
+
+Marik
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: dad
+    alternate_names:
+    - Ham
+    anglicanized_name: Marik
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: dad
+    lang_direction: ltr
+    lang_name: Marik
+    lang_region: Pacific
+    

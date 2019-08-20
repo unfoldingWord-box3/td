@@ -1,0 +1,23 @@
+.. _kjx:
+
+Ramopa
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kjx
+    alternate_names:
+    - Keriaka
+    anglicanized_name: Ramopa
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kjx
+    lang_direction: ltr
+    lang_name: Ramopa
+    lang_region: Pacific
+    

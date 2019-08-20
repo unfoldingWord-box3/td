@@ -1,0 +1,32 @@
+.. _sss:
+
+Sô
+===
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+* TH: Thailand
+
+.. code-block:: yaml
+
+    ISO_639-3: sss
+    alternate_names:
+    - Bru
+    - Kah So
+    - Mang Cong
+    - Mangkong
+    - Mang-Koong
+    - Mankoong
+    - Thro
+    - Kha So
+    anglicanized_name: Sô
+    country_codes:
+    - LA
+    - TH
+    gateway_language: lo
+    lang_code: sss
+    lang_direction: ltr
+    lang_name: Sô
+    lang_region: Asia
+    

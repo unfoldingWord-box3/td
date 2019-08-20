@@ -1,0 +1,20 @@
+.. _pcc-x-giaynhan:
+
+Giay Nhan
+=========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Giay Nhan
+    country_codes: []
+    gateway_language: vi
+    lang_code: pcc-x-giaynhan
+    lang_direction: ltr
+    lang_name: Giay Nhan
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _gig:
+
+Goaria
+======
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: gig
+    alternate_names: []
+    anglicanized_name: Goaria
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: gig
+    lang_direction: ltr
+    lang_name: Goaria
+    lang_region: Asia
+    

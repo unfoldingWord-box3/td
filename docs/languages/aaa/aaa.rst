@@ -1,0 +1,22 @@
+.. _aaa:
+
+Ghotuo
+======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: aaa
+    alternate_names: []
+    anglicanized_name: Ghotuo
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: aaa
+    lang_direction: ltr
+    lang_name: Ghotuo
+    lang_region: Africa
+    

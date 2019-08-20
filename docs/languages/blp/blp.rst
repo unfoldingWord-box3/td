@@ -1,0 +1,24 @@
+.. _blp:
+
+Blablanga
+=========
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: blp
+    alternate_names:
+    - Gema
+    - Goi
+    anglicanized_name: Blablanga
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: blp
+    lang_direction: ltr
+    lang_name: Blablanga
+    lang_region: Pacific
+    

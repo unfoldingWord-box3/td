@@ -1,0 +1,27 @@
+.. _bjf:
+
+לשניד דינן
+===================
+
+This language is spoken in the following countries:
+
+* IL: Israel
+
+.. code-block:: yaml
+
+    ISO_639-3: bjf
+    alternate_names:
+    - Lishan Didan
+    - Lishan Dideni
+    - Shahe
+    - Barzan
+    - Bijil
+    anglicanized_name: Barzani Jewish Neo-Aramaic
+    country_codes:
+    - IL
+    gateway_language: en
+    lang_code: bjf
+    lang_direction: ltr
+    lang_name: לשניד דינן
+    lang_region: Asia
+    

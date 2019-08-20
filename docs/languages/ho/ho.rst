@@ -1,0 +1,27 @@
+.. _ho:
+
+Hiri Motu
+=========
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/hmo>`_ identifies this language as ``hmo``.
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: hmo
+    alternate_names:
+    - Hiri
+    - Pidgin Motu
+    - Police Motu
+    anglicanized_name: Hiri Motu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ho
+    lang_direction: ltr
+    lang_name: Hiri Motu
+    lang_region: Pacific
+    

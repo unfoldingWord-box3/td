@@ -1,0 +1,20 @@
+.. _bjn-x-pulautelo:
+
+Dayak Pulau Telo
+================
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Dayak Pulau Telo
+    country_codes: []
+    gateway_language: id
+    lang_code: bjn-x-pulautelo
+    lang_direction: ltr
+    lang_name: Dayak Pulau Telo
+    lang_region: Asia
+    

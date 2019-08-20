@@ -1,0 +1,24 @@
+.. _mgz:
+
+Mbugwe
+======
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: mgz
+    alternate_names:
+    - Kimbugwe
+    - Mbuwe
+    anglicanized_name: Mbugwe
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: mgz
+    lang_direction: ltr
+    lang_name: Mbugwe
+    lang_region: Africa
+    

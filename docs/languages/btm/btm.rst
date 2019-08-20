@@ -1,0 +1,24 @@
+.. _btm:
+
+Batak Mandailing
+================
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: btm
+    alternate_names:
+    - Batta
+    - Mandailing Batak
+    anglicanized_name: Batak Mandailing
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: btm
+    lang_direction: ltr
+    lang_name: Batak Mandailing
+    lang_region: Asia
+    

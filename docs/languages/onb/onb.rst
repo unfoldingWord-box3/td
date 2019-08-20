@@ -1,0 +1,29 @@
+.. _onb:
+
+臨高語
+=========
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: onb
+    alternate_names:
+    - Bê
+    - Limkow
+    - Linkow
+    - Ongbe
+    - Ong-Be
+    - Vo Limkou
+    - Lincheng (Lingao Proper-Dengmai)
+    anglicanized_name: Lingao
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: onb
+    lang_direction: ltr
+    lang_name: 臨高語
+    lang_region: Asia
+    

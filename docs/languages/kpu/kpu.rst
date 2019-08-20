@@ -1,0 +1,27 @@
+.. _kpu:
+
+Kafoa
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kpu
+    alternate_names:
+    - Aikoli
+    - Fanating
+    - Jafoo
+    - Pailelang
+    - Ruilak
+    anglicanized_name: Kafoa
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kpu
+    lang_direction: ltr
+    lang_name: Kafoa
+    lang_region: Asia
+    

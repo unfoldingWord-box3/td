@@ -1,0 +1,25 @@
+.. _kig:
+
+Kimaama
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kig
+    alternate_names:
+    - Kaladdarsch
+    - Kimaghama
+    - Teri-Kalwasch
+    anglicanized_name: Kimaghima
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kig
+    lang_direction: ltr
+    lang_name: Kimaama
+    lang_region: Asia
+    

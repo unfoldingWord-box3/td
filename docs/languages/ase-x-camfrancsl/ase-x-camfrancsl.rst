@@ -1,0 +1,20 @@
+.. _ase-x-camfrancsl:
+
+Cameroonian Francophone Sign Language
+=====================================
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes: []
+    gateway_language: ase
+    lang_code: ase-x-camfrancsl
+    lang_direction: ltr
+    lang_name: Cameroonian Francophone Sign Language
+    lang_region: Africa
+    

@@ -1,0 +1,22 @@
+.. _rmy-x-vwa:
+
+Vlach Western Arli
+==================
+
+This language is spoken in the following countries:
+
+* HR: Croatia
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - HR
+    gateway_language: null
+    lang_code: rmy-x-vwa
+    lang_direction: ltr
+    lang_name: Vlach Western Arli
+    lang_region: Europe
+    

@@ -1,0 +1,23 @@
+.. _pom:
+
+Southeastern Pomo
+=================
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: pom
+    alternate_names:
+    - Lower Lake Pomo
+    anglicanized_name: Pomo, Southeastern
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: pom
+    lang_direction: ltr
+    lang_name: Southeastern Pomo
+    lang_region: Americas
+    

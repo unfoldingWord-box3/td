@@ -1,0 +1,24 @@
+.. _tmn:
+
+Dayak Taman Kapuas
+==================
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: tmn
+    alternate_names:
+    - Dayak Taman
+    - Taman Dayak
+    anglicanized_name: Dayak Taman Kapuas
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: tmn
+    lang_direction: ltr
+    lang_name: Dayak Taman Kapuas
+    lang_region: Asia
+    

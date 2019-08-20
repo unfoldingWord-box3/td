@@ -1,0 +1,20 @@
+.. _pla-x-dugumur:
+
+Dugumur
+=======
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Dugumur
+    country_codes: []
+    gateway_language: tpi
+    lang_code: pla-x-dugumur
+    lang_direction: ltr
+    lang_name: Dugumur
+    lang_region: Pacific
+    

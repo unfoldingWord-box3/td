@@ -1,0 +1,23 @@
+.. _tql:
+
+Lehali
+======
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: tql
+    alternate_names:
+    - Teqel
+    anglicanized_name: Lehali
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: tql
+    lang_direction: ltr
+    lang_name: Lehali
+    lang_region: Pacific
+    

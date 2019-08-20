@@ -1,0 +1,22 @@
+.. _goj:
+
+Gowlan
+======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: goj
+    alternate_names: []
+    anglicanized_name: Gowlan
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: goj
+    lang_direction: ltr
+    lang_name: Gowlan
+    lang_region: Asia
+    

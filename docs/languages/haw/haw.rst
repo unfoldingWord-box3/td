@@ -1,0 +1,24 @@
+.. _haw:
+
+Hawaiian
+========
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: haw
+    alternate_names:
+    - Olelo Hawai'i
+    - Olelo Hawai'i Makuahine
+    anglicanized_name: Hawaiian
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: haw
+    lang_direction: ltr
+    lang_name: Hawaiian
+    lang_region: Americas
+    

@@ -1,0 +1,52 @@
+.. _guk:
+
+Gumuz
+=====
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: guk
+    alternate_names:
+    - Bega
+    - Bega-Tse
+    - Debatsa
+    - Debuga
+    - Dehenda
+    - Gumis
+    - Gumuzinya
+    - Mendeya
+    - Sigumza
+    - Shankilligna
+    - Shankillinya
+    - Shanqilla
+    - Deguba
+    - Mandura
+    - Metemma
+    - Sese (Saysay)
+    - Sirba
+    - Wenbera
+    - Gunza
+    - Yaso
+    - Dukunza
+    - Dukuna
+    - Dugunza
+    - Disoha (Desua)
+    - Dibate
+    - Dakunza (Degoja)
+    - Agalo
+    - Guba
+    anglicanized_name: Gumuz
+    country_codes:
+    - ET
+    - SD
+    gateway_language: am
+    lang_code: guk
+    lang_direction: ltr
+    lang_name: Gumuz
+    lang_region: Africa
+    

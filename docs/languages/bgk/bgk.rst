@@ -1,0 +1,33 @@
+.. _bgk:
+
+Bit
+===
+
+This language is spoken in the following countries:
+
+* CN: China
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: bgk
+    alternate_names:
+    - Boxing
+    - Buxing
+    - Buxing Khmu
+    - Khabit
+    - Pasing
+    - Phsin
+    - Phsing
+    - Buxinhua
+    - Khbit
+    anglicanized_name: Bit
+    country_codes:
+    - CN
+    - LA
+    gateway_language: lo
+    lang_code: bgk
+    lang_direction: ltr
+    lang_name: Bit
+    lang_region: Asia
+    

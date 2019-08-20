@@ -1,0 +1,41 @@
+.. _xeu:
+
+Keoru-Ahia
+==========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: xeu
+    alternate_names:
+    - Ahia
+    - Ahiave
+    - Haura
+    - Haura Haela
+    - Horo
+    - Houro
+    - Hovoiroro
+    - Hovoyo
+    - Ke'oru
+    - Keuro
+    - Keuru
+    - Kouri
+    - Lavau
+    - Lower Ahia
+    - O'o Moko
+    - Pairi
+    - Velepa
+    - Ahia (Aheave)
+    - Keoru
+    anglicanized_name: Keoru-Ahia
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: xeu
+    lang_direction: ltr
+    lang_name: Keoru-Ahia
+    lang_region: Pacific
+    

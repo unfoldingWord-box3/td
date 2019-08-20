@@ -1,0 +1,32 @@
+.. _lld:
+
+Ladin
+=====
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: lld
+    alternate_names:
+    - Dolomite
+    - Rhaeto-Romance
+    - Nonese
+    - Badiotto (Gadertalisch)
+    - Parlata Trentina
+    - Nonesh
+    - Nones (Nones Blot)
+    - Marebbano (Ennebergisch)
+    - Gardenese (Grödnerisch)
+    - Grüdno
+    anglicanized_name: Ladin
+    country_codes:
+    - IT
+    gateway_language: en
+    lang_code: lld
+    lang_direction: ltr
+    lang_name: Ladin
+    lang_region: Europe
+    

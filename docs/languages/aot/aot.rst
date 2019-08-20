@@ -1,0 +1,23 @@
+.. _aot:
+
+Atong (India)
+=============
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: aot
+    alternate_names:
+    - Attong
+    anglicanized_name: Atong
+    country_codes:
+    - IN
+    gateway_language: grt
+    lang_code: aot
+    lang_direction: ltr
+    lang_name: Atong (India)
+    lang_region: Asia
+    

@@ -1,0 +1,30 @@
+.. _hgm:
+
+Hai||om
+=======
+
+This language is spoken in the following countries:
+
+* NA: Namibia
+
+.. code-block:: yaml
+
+    ISO_639-3: hgm
+    alternate_names:
+    - Saan
+    - San
+    - Hain||um (Hei||om)
+    - Kedi (Kedde)
+    - Keddi
+    - Heikum
+    - Heikom
+    - Heikom Bushman
+    anglicanized_name: Hai||om
+    country_codes:
+    - NA
+    gateway_language: en
+    lang_code: hgm
+    lang_direction: ltr
+    lang_name: Hai||om
+    lang_region: Africa
+    

@@ -1,0 +1,33 @@
+.. _kkh:
+
+Khün
+=====
+
+This language is spoken in the following countries:
+
+* TH: Thailand
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: kkh
+    alternate_names:
+    - Gon Shan
+    - Hkun
+    - Khuen
+    - Khun Shan
+    - Khyn
+    - Tai Khun
+    - Tai-Khuen
+    - Kang Muang
+    - Muang Lang
+    anglicanized_name: Khün
+    country_codes:
+    - TH
+    - MM
+    gateway_language: my
+    lang_code: kkh
+    lang_direction: ltr
+    lang_name: Khün
+    lang_region: Asia
+    

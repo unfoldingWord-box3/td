@@ -1,0 +1,32 @@
+.. _awc:
+
+Cicipu
+======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: awc
+    alternate_names:
+    - Achipa
+    - Acipanci
+    - Western Acipa
+    - Tizoriyo (Mazarko)
+    - Tirisino (Karishen)
+    - Tikumbasi (Kumbashi)
+    - Tikula (Maburya)
+    - Tidodimo (Kadedan)
+    - Ticuhun (Kakihum)
+    - Tidipo (Kadonho)
+    anglicanized_name: Cicipu
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: awc
+    lang_direction: ltr
+    lang_name: Cicipu
+    lang_region: Africa
+    

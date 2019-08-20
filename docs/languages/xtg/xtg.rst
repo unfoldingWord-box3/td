@@ -1,0 +1,22 @@
+.. _xtg:
+
+Transalpine Gaulish
+===================
+
+This language is spoken in the following countries:
+
+* FR: France
+
+.. code-block:: yaml
+
+    ISO_639-3: xtg
+    alternate_names: []
+    anglicanized_name: Transalpine Gaulish
+    country_codes:
+    - FR
+    gateway_language: null
+    lang_code: xtg
+    lang_direction: ltr
+    lang_name: Transalpine Gaulish
+    lang_region: Europe
+    

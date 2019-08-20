@@ -1,0 +1,30 @@
+.. _add:
+
+Dzodinka
+========
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* NG: Nigeria
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: add
+    alternate_names:
+    - Arderi
+    - Dzodzinka
+    - Lidzonka
+    - Adiri
+    anglicanized_name: Dzodinka
+    country_codes:
+    - CM
+    - NG
+    - SD
+    gateway_language: fr
+    lang_code: add
+    lang_direction: ltr
+    lang_name: Dzodinka
+    lang_region: Africa
+    

@@ -1,0 +1,32 @@
+.. _dtb:
+
+Labuk-Kinabatangan Kadazan
+==========================
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: dtb
+    alternate_names:
+    - Eastern Kadazan
+    - Labuk Kadazan
+    - Sogilitan
+    - Tindakon
+    - Tompulung
+    - Labuk
+    - Lamag Sungai (Sungei)
+    - Mangkaak (Mangkahak)
+    - Mangkak
+    - Mangkok
+    anglicanized_name: Kadazan, Labuk-Kinabatangan
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: dtb
+    lang_direction: ltr
+    lang_name: Labuk-Kinabatangan Kadazan
+    lang_region: Asia
+    

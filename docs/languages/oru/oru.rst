@@ -1,0 +1,29 @@
+.. _oru:
+
+اورمڑی
+============
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: oru
+    alternate_names:
+    - Baraks
+    - Bargista
+    - Oormuri
+    - Ormui
+    - Baraki
+    - Ormur
+    - Urmuri
+    anglicanized_name: Ormuri
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: oru
+    lang_direction: ltr
+    lang_name: اورمڑی
+    lang_region: Asia
+    

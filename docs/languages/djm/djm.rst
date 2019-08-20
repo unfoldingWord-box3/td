@@ -1,0 +1,29 @@
+.. _djm:
+
+Jamsay Dogon
+============
+
+This language is spoken in the following countries:
+
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: djm
+    alternate_names:
+    - Dyamsay Tegu
+    - Gamsaj
+    - Bama
+    - Pomuru
+    - Guru
+    - Domno
+    - Gono
+    anglicanized_name: Dogon, Jamsay
+    country_codes:
+    - ML
+    gateway_language: fr
+    lang_code: djm
+    lang_direction: ltr
+    lang_name: Jamsay Dogon
+    lang_region: Africa
+    

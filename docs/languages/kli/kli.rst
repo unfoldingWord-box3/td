@@ -1,0 +1,29 @@
+.. _kli:
+
+Kalumpang
+=========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kli
+    alternate_names:
+    - Galumpang
+    - Maki
+    - Ma'ki
+    - Makki
+    - Mangkir
+    - Bone Hau (Ta'da)
+    - Karataun (E'da)
+    anglicanized_name: Kalumpang
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kli
+    lang_direction: ltr
+    lang_name: Kalumpang
+    lang_region: Asia
+    

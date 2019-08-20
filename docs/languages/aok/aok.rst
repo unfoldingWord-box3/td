@@ -1,0 +1,23 @@
+.. _aok:
+
+Arhö
+=====
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: aok
+    alternate_names:
+    - Aro
+    anglicanized_name: Arhö
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: aok
+    lang_direction: ltr
+    lang_name: Arhö
+    lang_region: Pacific
+    

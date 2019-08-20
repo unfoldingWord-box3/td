@@ -1,0 +1,23 @@
+.. _sps:
+
+Saposa
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: sps
+    alternate_names:
+    - Saposa (Fa Saposa)
+    anglicanized_name: Saposa
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: sps
+    lang_direction: ltr
+    lang_name: Saposa
+    lang_region: Pacific
+    

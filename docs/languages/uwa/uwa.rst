@@ -1,0 +1,23 @@
+.. _uwa:
+
+Kuku-Uwanh
+==========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: uwa
+    alternate_names:
+    - Kugu-Uwanh
+    anglicanized_name: Kuku-Uwanh
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: uwa
+    lang_direction: ltr
+    lang_name: Kuku-Uwanh
+    lang_region: Pacific
+    

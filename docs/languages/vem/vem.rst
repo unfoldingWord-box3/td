@@ -1,0 +1,25 @@
+.. _vem:
+
+Vemgo-Mabas
+===========
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: vem
+    alternate_names:
+    - Visik (Vizik)
+    anglicanized_name: Vemgo-Mabas
+    country_codes:
+    - CM
+    - NG
+    gateway_language: en
+    lang_code: vem
+    lang_direction: ltr
+    lang_name: Vemgo-Mabas
+    lang_region: Africa
+    

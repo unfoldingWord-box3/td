@@ -1,0 +1,22 @@
+.. _swl:
+
+Swedish Sign Language
+=====================
+
+This language is spoken in the following countries:
+
+* SE: Sweden
+
+.. code-block:: yaml
+
+    ISO_639-3: swl
+    alternate_names: []
+    anglicanized_name: Swedish Sign Language
+    country_codes:
+    - SE
+    gateway_language: en
+    lang_code: swl
+    lang_direction: ltr
+    lang_name: Swedish Sign Language
+    lang_region: Europe
+    

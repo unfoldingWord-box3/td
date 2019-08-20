@@ -1,0 +1,34 @@
+.. _sel:
+
+Селькупский
+======================
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: sel
+    alternate_names:
+    - Central Selkups
+    - Chumyl' Khumyt
+    - Northern Selkups
+    - Ostyak Samoyed
+    - Shöl Khumyt
+    - Shösh Gulla
+    - Syusugulla
+    - Tym (Kety)
+    - Narym (Central Selkup)
+    - Srednyaya Ob-Ket (Southern Sel'kup)
+    - Taz (Northern Sel'kup)
+    - Tazov-Baishyan
+    anglicanized_name: Selkup
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: sel
+    lang_direction: ltr
+    lang_name: Селькупский
+    lang_region: Europe
+    

@@ -1,0 +1,22 @@
+.. _lix:
+
+Liabuku
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: lix
+    alternate_names: []
+    anglicanized_name: Liabuku
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: lix
+    lang_direction: ltr
+    lang_name: Liabuku
+    lang_region: Asia
+    

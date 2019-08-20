@@ -1,0 +1,22 @@
+.. _qxc:
+
+Chincha Quechua
+===============
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: qxc
+    alternate_names: []
+    anglicanized_name: Quechua, Chincha
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: qxc
+    lang_direction: ltr
+    lang_name: Chincha Quechua
+    lang_region: Americas
+    

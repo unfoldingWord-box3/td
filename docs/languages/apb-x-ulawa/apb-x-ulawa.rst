@@ -1,0 +1,20 @@
+.. _apb-x-ulawa:
+
+Ulawa
+=====
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes: []
+    gateway_language: en
+    lang_code: apb-x-ulawa
+    lang_direction: ltr
+    lang_name: Ulawa
+    lang_region: Pacific
+    

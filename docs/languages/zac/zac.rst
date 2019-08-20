@@ -1,0 +1,24 @@
+.. _zac:
+
+Ocotlán Zapotec
+================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zac
+    alternate_names:
+    - Ocotlán Oeste Zapotec
+    - Zapoteco del Poniente de Ocotlán
+    anglicanized_name: Zapotec, Ocotlán
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zac
+    lang_direction: ltr
+    lang_name: Ocotlán Zapotec
+    lang_region: Americas
+    

@@ -1,0 +1,22 @@
+.. _sux:
+
+Sumerian
+========
+
+This language is spoken in the following countries:
+
+* IQ: Iraq
+
+.. code-block:: yaml
+
+    ISO_639-3: sux
+    alternate_names: []
+    anglicanized_name: Sumerian
+    country_codes:
+    - IQ
+    gateway_language: null
+    lang_code: sux
+    lang_direction: ltr
+    lang_name: Sumerian
+    lang_region: Asia
+    

@@ -1,0 +1,26 @@
+.. _sce:
+
+东乡语
+=========
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: sce
+    alternate_names:
+    - Santa
+    - Tung
+    - Tunghsiang
+    - Suonanba (Xiaonan)
+    anglicanized_name: Dongxiang
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: sce
+    lang_direction: ltr
+    lang_name: 东乡语
+    lang_region: Asia
+    

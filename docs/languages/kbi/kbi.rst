@@ -1,0 +1,24 @@
+.. _kbi:
+
+Kaptiau
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kbi
+    alternate_names:
+    - Kapitiauw
+    - Kaptiauw
+    anglicanized_name: Kaptiau
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kbi
+    lang_direction: ltr
+    lang_name: Kaptiau
+    lang_region: Asia
+    

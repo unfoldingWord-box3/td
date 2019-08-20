@@ -1,0 +1,20 @@
+.. _bei-x-dayakdsa:
+
+Dayak Dsa
+=========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Dayak Dsa
+    country_codes: []
+    gateway_language: id
+    lang_code: bei-x-dayakdsa
+    lang_direction: ltr
+    lang_name: Dayak Dsa
+    lang_region: Asia
+    

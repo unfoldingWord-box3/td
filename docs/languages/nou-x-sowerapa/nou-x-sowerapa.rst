@@ -1,0 +1,20 @@
+.. _nou-x-sowerapa:
+
+Sowerapa
+========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Sowerapa
+    country_codes: []
+    gateway_language: tpi
+    lang_code: nou-x-sowerapa
+    lang_direction: ltr
+    lang_name: Sowerapa
+    lang_region: Asia
+    

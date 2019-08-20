@@ -1,0 +1,29 @@
+.. _bde:
+
+Bade
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: bde
+    alternate_names:
+    - Bede
+    - Gidgid
+    - Gashua Bade (Mazgarwa)
+    - Maagwaram
+    - Magwaram
+    - Southern Bade (Bade-Kado)
+    - Western Bade (Amshi)
+    anglicanized_name: Bade
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: bde
+    lang_direction: ltr
+    lang_name: Bade
+    lang_region: Africa
+    

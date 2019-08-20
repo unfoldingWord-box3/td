@@ -1,0 +1,25 @@
+.. _pjt:
+
+Pitjantjatjara
+==============
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: pjt
+    alternate_names:
+    - Pitjantjara
+    - Pitjantjatjara (Pithantjatjarra)
+    - Yankunytjatjara
+    anglicanized_name: Pitjantjatjara
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: pjt
+    lang_direction: ltr
+    lang_name: Pitjantjatjara
+    lang_region: Pacific
+    

@@ -1,0 +1,25 @@
+.. _law:
+
+Lauje
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: law
+    alternate_names:
+    - Laudje
+    - Tinombo
+    - Ampibabo (Ampibabo-Lauje)
+    anglicanized_name: Lauje
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: law
+    lang_direction: ltr
+    lang_name: Lauje
+    lang_region: Asia
+    

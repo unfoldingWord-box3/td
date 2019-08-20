@@ -1,0 +1,20 @@
+.. _tel-x-ganibasha:
+
+Ghani Bhasha
+============
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Ghani Bhasha
+    country_codes: []
+    gateway_language: te
+    lang_code: tel-x-ganibasha
+    lang_direction: ltr
+    lang_name: Ghani Bhasha
+    lang_region: Asia
+    

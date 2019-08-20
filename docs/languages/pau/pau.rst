@@ -1,0 +1,25 @@
+.. _pau:
+
+Palauan
+=======
+
+This language is spoken in the following countries:
+
+* PW: Palau
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: pau
+    alternate_names:
+    - Belauan
+    anglicanized_name: Palauan
+    country_codes:
+    - PW
+    - US
+    gateway_language: en
+    lang_code: pau
+    lang_direction: ltr
+    lang_name: Palauan
+    lang_region: Pacific
+    

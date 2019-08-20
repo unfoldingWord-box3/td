@@ -1,0 +1,23 @@
+.. _kij:
+
+Kilivila
+========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kij
+    alternate_names:
+    - Kiriwina
+    anglicanized_name: Kilivila
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kij
+    lang_direction: ltr
+    lang_name: Kilivila
+    lang_region: Pacific
+    

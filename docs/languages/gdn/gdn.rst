@@ -1,0 +1,27 @@
+.. _gdn:
+
+Umanakaina
+==========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: gdn
+    alternate_names:
+    - Gvede
+    - Gweda
+    - Gwede
+    - Gwedena
+    - Umanikaina
+    anglicanized_name: Umanakaina
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: gdn
+    lang_direction: ltr
+    lang_name: Umanakaina
+    lang_region: Pacific
+    

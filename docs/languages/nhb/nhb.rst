@@ -1,0 +1,29 @@
+.. _nhb:
+
+Beng
+====
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: nhb
+    alternate_names:
+    - Ben
+    - Gan
+    - Ngain
+    - Ngan
+    - Ngen
+    - Ngin
+    - Nguin
+    anglicanized_name: Beng
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: nhb
+    lang_direction: ltr
+    lang_name: Beng
+    lang_region: Africa
+    

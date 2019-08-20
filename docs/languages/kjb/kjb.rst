@@ -1,0 +1,30 @@
+.. _kjb:
+
+Q'anjob'al
+==========
+
+This language is spoken in the following countries:
+
+* GT: Guatemala
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: kjb
+    alternate_names:
+    - Conob
+    - Eastern Kanjobal
+    - Eastern Qanjobal
+    - Kanhobal
+    - Qanjobal
+    - Santa Eulalia Kanjobal
+    anglicanized_name: Q’anjob’al
+    country_codes:
+    - GT
+    - US
+    gateway_language: es-419
+    lang_code: kjb
+    lang_direction: ltr
+    lang_name: Q'anjob'al
+    lang_region: Americas
+    

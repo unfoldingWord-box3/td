@@ -1,0 +1,27 @@
+.. _bjj:
+
+Kanauji
+=======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: bjj
+    alternate_names:
+    - Bhakha
+    - Braj
+    - Braj Kanauji
+    - Dehati
+    - Kannauji
+    anglicanized_name: Kanauji
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: bjj
+    lang_direction: ltr
+    lang_name: Kanauji
+    lang_region: Asia
+    

@@ -1,0 +1,36 @@
+.. _sed:
+
+Tiếng Xơ Đăng
+==================
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: sed
+    alternate_names:
+    - Cadong
+    - Dang
+    - Hadang
+    - Hdang
+    - Hotea
+    - Hoteang
+    - Kmrang
+    - Rotea
+    - Roteang
+    - Tang
+    - Xa
+    - Xodang
+    anglicanized_name: Sedang
+    country_codes:
+    - LA
+    - VN
+    gateway_language: vi
+    lang_code: sed
+    lang_direction: ltr
+    lang_name: Tiếng Xơ Đăng
+    lang_region: Asia
+    

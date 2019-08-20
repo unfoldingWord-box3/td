@@ -1,0 +1,37 @@
+.. _sip:
+
+Sikkimese
+=========
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: sip
+    alternate_names:
+    - Dandzongka
+    - Danjongka
+    - Danyouka
+    - Denjong
+    - Denjongkha
+    - Denjongpa
+    - Denjonka
+    - Denjonke
+    - Lachengpa
+    - Lachungpa
+    - Sikami
+    - Sikkim Bhotia
+    - Sikkim Bhutia
+    anglicanized_name: Sikkimese
+    country_codes:
+    - BT
+    - IN
+    gateway_language: en
+    lang_code: sip
+    lang_direction: ltr
+    lang_name: Sikkimese
+    lang_region: Asia
+    

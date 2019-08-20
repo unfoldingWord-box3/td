@@ -1,0 +1,24 @@
+.. _tgu:
+
+Tanggu
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: tgu
+    alternate_names:
+    - Tanggum
+    - Tangu
+    anglicanized_name: Tanggu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: tgu
+    lang_direction: ltr
+    lang_name: Tanggu
+    lang_region: Pacific
+    

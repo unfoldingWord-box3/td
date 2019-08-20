@@ -1,0 +1,24 @@
+.. _jeg:
+
+Jeng
+====
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names:
+    - Cheng
+    - Chiengceng
+    anglicanized_name: Jeng
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: jeg
+    lang_direction: ltr
+    lang_name: Jeng
+    lang_region: Asia
+    

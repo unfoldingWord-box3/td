@@ -1,0 +1,23 @@
+.. _nqk:
+
+Kura Ede Nago
+=============
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+
+.. code-block:: yaml
+
+    ISO_639-3: nqk
+    alternate_names:
+    - Nago
+    anglicanized_name: Ede Nago, Kura
+    country_codes:
+    - BJ
+    gateway_language: fr
+    lang_code: nqk
+    lang_direction: ltr
+    lang_name: Kura Ede Nago
+    lang_region: Africa
+    

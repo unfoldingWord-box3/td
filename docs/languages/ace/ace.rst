@@ -1,0 +1,27 @@
+.. _ace:
+
+Achinese
+========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: ace
+    alternate_names:
+    - Pidie (Pedir)
+    - Timu
+    - Acehnese
+    - Achehnese
+    - Achinese
+    anglicanized_name: Aceh
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: ace
+    lang_direction: ltr
+    lang_name: Achinese
+    lang_region: Asia
+    

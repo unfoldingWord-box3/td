@@ -1,0 +1,28 @@
+.. _sou:
+
+Southern Thai
+=============
+
+This language is spoken in the following countries:
+
+* TH: Thailand
+
+.. code-block:: yaml
+
+    ISO_639-3: sou
+    alternate_names:
+    - Dambro
+    - Pak Tai
+    - Pak Thai
+    - Paktay
+    - Tak Bai (Tai Tak Bai)
+    - Thai Malay (Tai Islam)
+    anglicanized_name: Thai, Southern
+    country_codes:
+    - TH
+    gateway_language: th
+    lang_code: sou
+    lang_direction: ltr
+    lang_name: Southern Thai
+    lang_region: Asia
+    

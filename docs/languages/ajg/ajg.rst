@@ -1,0 +1,30 @@
+.. _ajg:
+
+Aja (Benin)
+===========
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: ajg
+    alternate_names:
+    - Dogo
+    - Hwe (Ehoue)
+    - Sikpi (Shikpi)
+    - Tado (Tadou)
+    - Ajagbe
+    - Hwè
+    anglicanized_name: Aja
+    country_codes:
+    - BJ
+    - TG
+    gateway_language: fr
+    lang_code: ajg
+    lang_direction: ltr
+    lang_name: Aja (Benin)
+    lang_region: Africa
+    

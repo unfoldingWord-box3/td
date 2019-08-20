@@ -1,0 +1,20 @@
+.. _nnf-x-maibang:
+
+Maibang
+=======
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Maibang
+    country_codes: []
+    gateway_language: tpi
+    lang_code: nnf-x-maibang
+    lang_direction: ltr
+    lang_name: Maibang
+    lang_region: Pacific
+    

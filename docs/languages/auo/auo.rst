@@ -1,0 +1,22 @@
+.. _auo:
+
+Auyokawa
+========
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: auo
+    alternate_names: []
+    anglicanized_name: Auyokawa
+    country_codes:
+    - NG
+    gateway_language: null
+    lang_code: auo
+    lang_direction: ltr
+    lang_name: Auyokawa
+    lang_region: Africa
+    

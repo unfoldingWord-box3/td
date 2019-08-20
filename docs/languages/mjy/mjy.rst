@@ -1,0 +1,22 @@
+.. _mjy:
+
+Mahican
+=======
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: mjy
+    alternate_names: []
+    anglicanized_name: Mahican
+    country_codes:
+    - US
+    gateway_language: null
+    lang_code: mjy
+    lang_direction: ltr
+    lang_name: Mahican
+    lang_region: Americas
+    

@@ -1,0 +1,22 @@
+.. _jas:
+
+New Caledonian Javanese
+=======================
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: jas
+    alternate_names: []
+    anglicanized_name: Javanese, New Caledonian
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: jas
+    lang_direction: ltr
+    lang_name: New Caledonian Javanese
+    lang_region: Pacific
+    

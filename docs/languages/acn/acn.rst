@@ -1,0 +1,41 @@
+.. _acn:
+
+阿昌
+======
+
+This language is spoken in the following countries:
+
+* CN: China
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: acn
+    alternate_names:
+    - Husa (Chintaw)
+    - Xiandao
+    - Acang
+    - Ach'ang
+    - Achung
+    - Ahchan
+    - Atsang
+    - Mönghsa
+    - Ngacang
+    - Ngac'ang
+    - Ngachang
+    - Ngatsang
+    - Ngo Chang
+    - Anchan
+    - Chung
+    - Manmaw
+    - Tai Sa'
+    anglicanized_name: Achang
+    country_codes:
+    - CN
+    - MM
+    gateway_language: zh
+    lang_code: acn
+    lang_direction: ltr
+    lang_name: 阿昌
+    lang_region: Asia
+    

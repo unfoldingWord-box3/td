@@ -1,0 +1,24 @@
+.. _zat:
+
+Tabaa Zapotec
+=============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zat
+    alternate_names:
+    - Central Villa Alta Zapotec
+    - Zapoteco de Tabaa
+    anglicanized_name: Zapotec, Tabaa
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zat
+    lang_direction: ltr
+    lang_name: Tabaa Zapotec
+    lang_region: Americas
+    

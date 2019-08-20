@@ -1,0 +1,26 @@
+.. _bmh:
+
+Kein
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bmh
+    alternate_names:
+    - Bemal
+    - Kibam
+    - Sigau
+    - Sog
+    anglicanized_name: Kein
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bmh
+    lang_direction: ltr
+    lang_name: Kein
+    lang_region: Pacific
+    

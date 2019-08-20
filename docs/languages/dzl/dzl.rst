@@ -1,0 +1,25 @@
+.. _dzl:
+
+Dzalakha
+========
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+
+.. code-block:: yaml
+
+    ISO_639-3: dzl
+    alternate_names:
+    - Dzala
+    - Dzalamat
+    - Yangtsebikha
+    anglicanized_name: Dzalakha
+    country_codes:
+    - BT
+    gateway_language: dz
+    lang_code: dzl
+    lang_direction: ltr
+    lang_name: Dzalakha
+    lang_region: Asia
+    

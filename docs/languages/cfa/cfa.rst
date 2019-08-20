@@ -1,0 +1,29 @@
+.. _cfa:
+
+Dijim-Bwilim
+============
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: cfa
+    alternate_names:
+    - Bwilim (Fitilai)
+    - Mwana
+    - Mwomo
+    - Mwano
+    - Mona
+    - Cham
+    - Dijim (Cam)
+    anglicanized_name: Dikaka
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: cfa
+    lang_direction: ltr
+    lang_name: Dijim-Bwilim
+    lang_region: Africa
+    

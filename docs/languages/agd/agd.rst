@@ -1,0 +1,24 @@
+.. _agd:
+
+Agarabi
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: agd
+    alternate_names:
+    - Agarabe
+    - Bare
+    anglicanized_name: Agarabi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: agd
+    lang_direction: ltr
+    lang_name: Agarabi
+    lang_region: Pacific
+    

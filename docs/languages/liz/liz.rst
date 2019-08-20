@@ -1,0 +1,23 @@
+.. _liz:
+
+Libinza
+=======
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: liz
+    alternate_names:
+    - Libinja
+    anglicanized_name: Libinza
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: liz
+    lang_direction: ltr
+    lang_name: Libinza
+    lang_region: Africa
+    

@@ -1,0 +1,25 @@
+.. _abm:
+
+Abanyom
+=======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: abm
+    alternate_names:
+    - Befun
+    - Bofon
+    - Mbofon
+    anglicanized_name: Abanyom
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: abm
+    lang_direction: ltr
+    lang_name: Abanyom
+    lang_region: Africa
+    

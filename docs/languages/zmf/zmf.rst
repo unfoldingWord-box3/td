@@ -1,0 +1,25 @@
+.. _zmf:
+
+Mfinu
+=====
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: zmf
+    alternate_names:
+    - Emfinu
+    - Funika
+    - Mfununga
+    anglicanized_name: Mfinu
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: zmf
+    lang_direction: ltr
+    lang_name: Mfinu
+    lang_region: Africa
+    

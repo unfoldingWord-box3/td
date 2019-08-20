@@ -1,0 +1,25 @@
+.. _hnd:
+
+ہندکو
+==========
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: hnd
+    alternate_names:
+    - Attock Hindko (Attock-Haripur Hindko)
+    - Kohat Hindko (Kohati)
+    - Peshawar Hindko (Peshawari)
+    anglicanized_name: Hindko, Southern
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: hnd
+    lang_direction: ltr
+    lang_name: ہندکو
+    lang_region: Asia
+    

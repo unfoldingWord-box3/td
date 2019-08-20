@@ -1,0 +1,23 @@
+.. _nss:
+
+Nali
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nss
+    alternate_names:
+    - Yiru
+    anglicanized_name: Nali
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nss
+    lang_direction: ltr
+    lang_name: Nali
+    lang_region: Pacific
+    

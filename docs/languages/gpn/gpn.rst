@@ -1,0 +1,23 @@
+.. _gpn:
+
+Taiap
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: gpn
+    alternate_names:
+    - Gapun
+    anglicanized_name: Taiap
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: gpn
+    lang_direction: ltr
+    lang_name: Taiap
+    lang_region: Pacific
+    

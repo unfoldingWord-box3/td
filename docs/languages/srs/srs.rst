@@ -1,0 +1,24 @@
+.. _srs:
+
+Sarsi
+=====
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: srs
+    alternate_names:
+    - Sarcee
+    - Tsuu T'ina
+    anglicanized_name: Sarsi
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: srs
+    lang_direction: ltr
+    lang_name: Sarsi
+    lang_region: Americas
+    

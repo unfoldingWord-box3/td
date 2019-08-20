@@ -1,0 +1,29 @@
+.. _trp:
+
+Kok Borok
+=========
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: trp
+    alternate_names:
+    - Tipura
+    - Kakbarak
+    - Kokbarak
+    - Usipi Mrung
+    - Noatia (Tipra)
+    anglicanized_name: Kok Borok
+    country_codes:
+    - BD
+    - IN
+    gateway_language: bn
+    lang_code: trp
+    lang_direction: ltr
+    lang_name: Kok Borok
+    lang_region: Asia
+    

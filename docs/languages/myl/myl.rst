@@ -1,0 +1,23 @@
+.. _myl:
+
+Moma
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: myl
+    alternate_names:
+    - Kulawi
+    anglicanized_name: Moma
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: myl
+    lang_direction: ltr
+    lang_name: Moma
+    lang_region: Asia
+    

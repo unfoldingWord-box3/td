@@ -1,0 +1,22 @@
+.. _mvh:
+
+Mulgi
+=====
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: mvh
+    alternate_names: []
+    anglicanized_name: Mulgi
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: mvh
+    lang_direction: ltr
+    lang_name: Mulgi
+    lang_region: Africa
+    

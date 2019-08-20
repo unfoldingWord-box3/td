@@ -1,0 +1,24 @@
+.. _yaq:
+
+Yaqui
+=====
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: yaq
+    alternate_names: []
+    anglicanized_name: Yaqui
+    country_codes:
+    - MX
+    - US
+    gateway_language: es-419
+    lang_code: yaq
+    lang_direction: ltr
+    lang_name: Yaqui
+    lang_region: Americas
+    

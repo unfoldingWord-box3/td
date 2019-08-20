@@ -1,0 +1,24 @@
+.. _mps:
+
+Dadibi
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mps
+    alternate_names:
+    - Daribi
+    - Karimui
+    anglicanized_name: Dadibi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mps
+    lang_direction: ltr
+    lang_name: Dadibi
+    lang_region: Pacific
+    

@@ -1,0 +1,20 @@
+.. _pse-x-ogan:
+
+Ogan
+====
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Ogan
+    country_codes: []
+    gateway_language: id
+    lang_code: pse-x-ogan
+    lang_direction: ltr
+    lang_name: Ogan
+    lang_region: Asia
+    

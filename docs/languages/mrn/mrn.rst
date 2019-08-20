@@ -1,0 +1,27 @@
+.. _mrn:
+
+Cheke Holo
+==========
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: mrn
+    alternate_names:
+    - A'ara
+    - Holo
+    - Kubonitu
+    - Hograno (Hogirano)
+    - Maringe (Maringhe)
+    anglicanized_name: Cheke Holo
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: mrn
+    lang_direction: ltr
+    lang_name: Cheke Holo
+    lang_region: Pacific
+    

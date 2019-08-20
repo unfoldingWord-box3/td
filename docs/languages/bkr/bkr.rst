@@ -1,0 +1,25 @@
+.. _bkr:
+
+Bakumpai
+========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bkr
+    alternate_names:
+    - Bara-Jida
+    - Mengkatip (Mangkatip)
+    - Oloh Mengkatip
+    anglicanized_name: Bakumpai
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bkr
+    lang_direction: ltr
+    lang_name: Bakumpai
+    lang_region: Asia
+    

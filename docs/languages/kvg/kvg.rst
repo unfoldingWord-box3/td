@@ -1,0 +1,30 @@
+.. _kvg:
+
+Kuni-Boazi
+==========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kvg
+    alternate_names:
+    - Boadji
+    - Bwadji
+    - Kuini
+    - Ingias
+    - Wamak
+    - Aewa
+    - Khoamak
+    - Sengeze
+    anglicanized_name: Kuni-Boazi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kvg
+    lang_direction: ltr
+    lang_name: Kuni-Boazi
+    lang_region: Pacific
+    

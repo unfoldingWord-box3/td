@@ -1,0 +1,24 @@
+.. _daz:
+
+Dao
+===
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: daz
+    alternate_names:
+    - Maniwo
+    - X-Ray
+    anglicanized_name: Dao
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: daz
+    lang_direction: ltr
+    lang_name: Dao
+    lang_region: Asia
+    

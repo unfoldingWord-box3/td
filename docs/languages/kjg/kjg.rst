@@ -1,0 +1,57 @@
+.. _kjg:
+
+ກຶມຫມຸ
+==================
+
+This language is spoken in the following countries:
+
+* CN: China
+* FR: France
+* LA: Lao People's Democratic Republic
+* TH: Thailand
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: kjg
+    alternate_names:
+    - Chaman
+    - Damai
+    - Damailao
+    - Damaile
+    - Kamhmu
+    - Kammu
+    - Kamu
+    - Kemu
+    - Khamuk
+    - Khmu'
+    - Khomu
+    - Lao Terng
+    - Mou
+    - Pouteng
+    - Theng
+    - Kmhmu
+    - Pu Thenh
+    - Tenh
+    - Kha Khmu
+    - Luu
+    - Tmooy
+    - Cam Mu
+    - Kha Cau
+    - Kho Mu
+    - Mun Xen
+    - Xa Cau
+    - Khroong (Krong)
+    anglicanized_name: Khmu
+    country_codes:
+    - CN
+    - FR
+    - LA
+    - TH
+    - US
+    gateway_language: lo
+    lang_code: kjg
+    lang_direction: ltr
+    lang_name: ກຶມຫມຸ
+    lang_region: Asia
+    

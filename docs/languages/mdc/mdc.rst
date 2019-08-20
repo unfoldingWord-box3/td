@@ -1,0 +1,22 @@
+.. _mdc:
+
+Male (Papua New Guinea)
+=======================
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mdc
+    alternate_names: []
+    anglicanized_name: Male
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mdc
+    lang_direction: ltr
+    lang_name: Male (Papua New Guinea)
+    lang_region: Pacific
+    

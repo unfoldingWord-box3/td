@@ -1,0 +1,25 @@
+.. _hhr:
+
+Kerak
+=====
+
+This language is spoken in the following countries:
+
+* SN: Senegal
+
+.. code-block:: yaml
+
+    ISO_639-3: hhr
+    alternate_names:
+    - Her
+    - Keerak
+    - Keeraku
+    anglicanized_name: Kerak
+    country_codes:
+    - SN
+    gateway_language: fr
+    lang_code: hhr
+    lang_direction: ltr
+    lang_name: Kerak
+    lang_region: Africa
+    

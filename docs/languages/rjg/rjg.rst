@@ -1,0 +1,23 @@
+.. _rjg:
+
+Rajong
+======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: rjg
+    alternate_names:
+    - Razong
+    anglicanized_name: Rajong
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: rjg
+    lang_direction: ltr
+    lang_name: Rajong
+    lang_region: Asia
+    

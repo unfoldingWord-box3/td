@@ -1,0 +1,24 @@
+.. _wng:
+
+Wanggom
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: wng
+    alternate_names:
+    - Wanggo
+    - Wangom
+    anglicanized_name: Wanggom
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: wng
+    lang_direction: ltr
+    lang_name: Wanggom
+    lang_region: Asia
+    

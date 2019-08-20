@@ -1,0 +1,22 @@
+.. _uga:
+
+Ugaritic
+========
+
+This language is spoken in the following countries:
+
+* SY: Syrian Arab Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: uga
+    alternate_names: []
+    anglicanized_name: Ugaritic
+    country_codes:
+    - SY
+    gateway_language: null
+    lang_code: uga
+    lang_direction: ltr
+    lang_name: Ugaritic
+    lang_region: Asia
+    

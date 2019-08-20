@@ -1,0 +1,30 @@
+.. _sxw:
+
+Saxwe Gbe
+=========
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+
+.. code-block:: yaml
+
+    ISO_639-3: sxw
+    alternate_names:
+    - Sahouè
+    - Sahouègbe
+    - Saxwe
+    - Saxwegbe
+    - Tsaph?
+    - Tsaph? -Gbe
+    - Daxe
+    - Se
+    anglicanized_name: Gbe, Saxwe
+    country_codes:
+    - BJ
+    gateway_language: fr
+    lang_code: sxw
+    lang_direction: ltr
+    lang_name: Saxwe Gbe
+    lang_region: Africa
+    

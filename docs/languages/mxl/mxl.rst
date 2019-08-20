@@ -1,0 +1,26 @@
+.. _mxl:
+
+Maxi Gbe
+========
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: mxl
+    alternate_names:
+    - Maxi
+    - Maxi-Gbe
+    anglicanized_name: Gbe, Maxi
+    country_codes:
+    - BJ
+    - TG
+    gateway_language: fr
+    lang_code: mxl
+    lang_direction: ltr
+    lang_name: Maxi Gbe
+    lang_region: Africa
+    

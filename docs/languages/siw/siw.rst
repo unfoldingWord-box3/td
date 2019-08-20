@@ -1,0 +1,23 @@
+.. _siw:
+
+Siwai
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: siw
+    alternate_names:
+    - Baitsi (Sigisigero)
+    anglicanized_name: Siwai
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: siw
+    lang_direction: ltr
+    lang_name: Siwai
+    lang_region: Pacific
+    

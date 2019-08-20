@@ -1,0 +1,25 @@
+.. _srl:
+
+Isirawa
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: srl
+    alternate_names:
+    - Okwasar
+    - Saberi
+    - Saweri
+    anglicanized_name: Isirawa
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: srl
+    lang_direction: ltr
+    lang_name: Isirawa
+    lang_region: Asia
+    

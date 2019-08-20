@@ -1,0 +1,24 @@
+.. _bzq:
+
+Buli (Indonesia)
+================
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bzq
+    alternate_names:
+    - Wayamli (Jawanli)
+    - Wajamli
+    anglicanized_name: Buli
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bzq
+    lang_direction: ltr
+    lang_name: Buli (Indonesia)
+    lang_region: Asia
+    

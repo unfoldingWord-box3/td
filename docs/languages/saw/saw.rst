@@ -1,0 +1,24 @@
+.. _saw:
+
+Sawi
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: saw
+    alternate_names:
+    - Aejauroh
+    - Sawuy
+    anglicanized_name: Sawi
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: saw
+    lang_direction: ltr
+    lang_name: Sawi
+    lang_region: Asia
+    

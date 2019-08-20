@@ -1,0 +1,40 @@
+.. _dow:
+
+Doyayo
+======
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: dow
+    alternate_names:
+    - Doayo
+    - Donyanyo
+    - Donyayo
+    - Doohyaayo
+    - Doowaayo
+    - Dooyayo
+    - Dowayayo
+    - Dowayo
+    - Doyaayo
+    - Doyau
+    - Nomai
+    - Tunga
+    - Tungbo
+    - Tuuno
+    - Namchi
+    - Namci
+    - Namshi
+    - Teere (Poli)
+    anglicanized_name: Doyayo
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: dow
+    lang_direction: ltr
+    lang_name: Doyayo
+    lang_region: Africa
+    

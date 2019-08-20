@@ -1,0 +1,37 @@
+.. _kfr:
+
+Kachchi
+=======
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+* MW: Malawi
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: kfr
+    alternate_names:
+    - Cuchi
+    - Cutch
+    - Kachchhi
+    - Kachi
+    - Katch
+    - Katchi
+    - Kautchy
+    - Kutchchi
+    - Kutchie
+    - Kacchi
+    - Cutchi
+    anglicanized_name: Kachchi
+    country_codes:
+    - TZ
+    - MW
+    - IN
+    gateway_language: gu
+    lang_code: kfr
+    lang_direction: ltr
+    lang_name: Kachchi
+    lang_region: Asia
+    

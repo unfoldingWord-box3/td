@@ -1,0 +1,22 @@
+.. _xga:
+
+Galatian
+========
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: xga
+    alternate_names: []
+    anglicanized_name: Galatian
+    country_codes:
+    - TR
+    gateway_language: null
+    lang_code: xga
+    lang_direction: ltr
+    lang_name: Galatian
+    lang_region: Asia
+    

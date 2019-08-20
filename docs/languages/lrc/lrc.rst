@@ -1,0 +1,30 @@
+.. _lrc:
+
+لُری
+========
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: lrc
+    alternate_names:
+    - Luristani
+    - Khorramabadi
+    - Mahali (Rural)
+    - Cagani
+    - Borujerdi
+    - Bala-Gariva'i
+    - Andimeshki
+    - Nahavandi
+    anglicanized_name: Luri, Northern
+    country_codes:
+    - IR
+    gateway_language: fa
+    lang_code: lrc
+    lang_direction: rtl
+    lang_name: لُری
+    lang_region: Asia
+    

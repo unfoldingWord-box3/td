@@ -1,0 +1,29 @@
+.. _xky:
+
+Uma' Lasan
+==========
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: xky
+    alternate_names:
+    - Western Kenyah
+    - Kanyay
+    - Kenja
+    - Kindjin
+    - Kinjin
+    - Western Kenya
+    - Uma' Baka
+    anglicanized_name: Uma’ Lasan
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: xky
+    lang_direction: ltr
+    lang_name: Uma' Lasan
+    lang_region: Asia
+    

@@ -1,0 +1,20 @@
+.. _wsk-x-samoan1:
+
+Samoan 1
+========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Samoan 1
+    country_codes: []
+    gateway_language: tpi
+    lang_code: wsk-x-samoan1
+    lang_direction: ltr
+    lang_name: Samoan 1
+    lang_region: Pacific
+    

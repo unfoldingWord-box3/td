@@ -1,0 +1,23 @@
+.. _nbk:
+
+Nake
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nbk
+    alternate_names:
+    - Ale
+    anglicanized_name: Nake
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nbk
+    lang_direction: ltr
+    lang_name: Nake
+    lang_region: Pacific
+    

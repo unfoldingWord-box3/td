@@ -1,0 +1,27 @@
+.. _knm:
+
+Kanamarí
+=========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: knm
+    alternate_names:
+    - Canamarí
+    - Kanamaré
+    - Txunhuã-Djapá
+    - Tshom-Djapa (Txunhuã Dyapá)
+    - Tsohon-Djapa
+    anglicanized_name: Kanamarí
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: knm
+    lang_direction: ltr
+    lang_name: Kanamarí
+    lang_region: Americas
+    

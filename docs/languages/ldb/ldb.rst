@@ -1,0 +1,28 @@
+.. _ldb:
+
+Dũya
+======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ldb
+    alternate_names:
+    - Adong
+    - Idun
+    - Jaba Duya
+    - Jaba Lunga
+    - Lungu
+    - Ungu
+    anglicanized_name: Duya
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ldb
+    lang_direction: ltr
+    lang_name: Dũya
+    lang_region: Africa
+    

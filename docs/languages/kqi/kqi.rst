@@ -1,0 +1,23 @@
+.. _kqi:
+
+Koitabu
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kqi
+    alternate_names:
+    - Koita
+    anglicanized_name: Koitabu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kqi
+    lang_direction: ltr
+    lang_name: Koitabu
+    lang_region: Pacific
+    

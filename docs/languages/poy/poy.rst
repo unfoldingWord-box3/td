@@ -1,0 +1,27 @@
+.. _poy:
+
+Pogolo
+======
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: poy
+    alternate_names:
+    - Chipogolo
+    - Chipogoro
+    - Pogolu
+    - Pogora
+    - Shpogolu
+    anglicanized_name: Pogolo
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: poy
+    lang_direction: ltr
+    lang_name: Pogolo
+    lang_region: Africa
+    

@@ -1,0 +1,34 @@
+.. _teg:
+
+Teke-Tege
+=========
+
+This language is spoken in the following countries:
+
+* GA: Gabon
+* CG: Congo
+
+.. code-block:: yaml
+
+    ISO_639-3: teg
+    alternate_names:
+    - Iteghe
+    - Northern Teke
+    - Teghe
+    - Teke Alima
+    - Teke Kali
+    - Katege
+    - Ketego
+    - Latege
+    - Teke
+    - Kateghe (Nzikini)
+    anglicanized_name: Teke-Tege
+    country_codes:
+    - GA
+    - CG
+    gateway_language: fr
+    lang_code: teg
+    lang_direction: ltr
+    lang_name: Teke-Tege
+    lang_region: Africa
+    

@@ -1,0 +1,22 @@
+.. _mpq:
+
+Matís
+======
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: mpq
+    alternate_names: []
+    anglicanized_name: Matís
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: mpq
+    lang_direction: ltr
+    lang_name: Matís
+    lang_region: Americas
+    

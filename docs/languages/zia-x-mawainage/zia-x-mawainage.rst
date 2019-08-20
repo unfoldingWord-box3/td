@@ -1,0 +1,20 @@
+.. _zia-x-mawainage:
+
+Mawai Nage
+==========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Mawae Nage
+    country_codes: []
+    gateway_language: tpi
+    lang_code: zia-x-mawainage
+    lang_direction: ltr
+    lang_name: Mawai Nage
+    lang_region: Pacific
+    

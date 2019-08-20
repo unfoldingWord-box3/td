@@ -1,0 +1,24 @@
+.. _ztg:
+
+Xanaguía Zapotec
+=================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: ztg
+    alternate_names:
+    - Diidz Zë
+    - Zapoteco de Santa Catarina Xanaguía
+    anglicanized_name: Zapotec, Xanaguía
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: ztg
+    lang_direction: ltr
+    lang_name: Xanaguía Zapotec
+    lang_region: Americas
+    

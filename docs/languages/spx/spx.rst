@@ -1,0 +1,22 @@
+.. _spx:
+
+South Picene
+============
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: spx
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - IT
+    gateway_language: null
+    lang_code: spx
+    lang_direction: ltr
+    lang_name: South Picene
+    lang_region: Europe
+    

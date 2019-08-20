@@ -1,0 +1,29 @@
+.. _spp:
+
+Supyire Senoufo
+===============
+
+This language is spoken in the following countries:
+
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: spp
+    alternate_names:
+    - Sup'ide
+    - Suppire
+    - Supyire
+    - Kampwo
+    - Kadi
+    - Fanywohoshin
+    - Nyana nyuni
+    anglicanized_name: Sénoufo, Supyire
+    country_codes:
+    - ML
+    gateway_language: fr
+    lang_code: spp
+    lang_direction: ltr
+    lang_name: Supyire Senoufo
+    lang_region: Africa
+    

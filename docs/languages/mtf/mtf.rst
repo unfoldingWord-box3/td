@@ -1,0 +1,24 @@
+.. _mtf:
+
+Murik (Papua New Guinea)
+========================
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mtf
+    alternate_names:
+    - Nor
+    - Nor-Murik Lakes
+    anglicanized_name: Murik
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mtf
+    lang_direction: ltr
+    lang_name: Murik (Papua New Guinea)
+    lang_region: Pacific
+    

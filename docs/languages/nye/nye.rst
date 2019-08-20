@@ -1,0 +1,23 @@
+.. _nye:
+
+Nyengo
+======
+
+This language is spoken in the following countries:
+
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: nye
+    alternate_names:
+    - Nhengo
+    anglicanized_name: Nyengo
+    country_codes:
+    - AO
+    gateway_language: pt
+    lang_code: nye
+    lang_direction: ltr
+    lang_name: Nyengo
+    lang_region: Africa
+    

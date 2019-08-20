@@ -1,0 +1,25 @@
+.. _xel:
+
+Kelo
+====
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: xel
+    alternate_names:
+    - Kelo-Beni Sheko
+    - Ndu-Faa-Keelo
+    - Tornasi
+    anglicanized_name: Kelo
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: xel
+    lang_direction: ltr
+    lang_name: Kelo
+    lang_region: Africa
+    

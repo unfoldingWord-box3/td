@@ -1,0 +1,28 @@
+.. _gwt:
+
+Gawar-Bati
+==========
+
+This language is spoken in the following countries:
+
+* AF: Afghanistan
+
+.. code-block:: yaml
+
+    ISO_639-3: gwt
+    alternate_names:
+    - Arandui
+    - Gowari
+    - Narisati
+    - Narsati
+    - Satre
+    - Gowar-Bati
+    anglicanized_name: Gawar-Bati
+    country_codes:
+    - AF
+    gateway_language: ps
+    lang_code: gwt
+    lang_direction: ltr
+    lang_name: Gawar-Bati
+    lang_region: Asia
+    

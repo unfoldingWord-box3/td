@@ -1,0 +1,29 @@
+.. _ndx:
+
+Nduga
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: ndx
+    alternate_names:
+    - Dauwa
+    - Dawa
+    - Ndauwa
+    - Ndugwa
+    - Pesecham
+    - Pesechem
+    - Pesegem
+    anglicanized_name: Nduga
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: ndx
+    lang_direction: ltr
+    lang_name: Nduga
+    lang_region: Asia
+    

@@ -1,0 +1,20 @@
+.. _xdy-x-lemandau:
+
+Dayak Lemandau
+==============
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Dayak Lemandau
+    country_codes: []
+    gateway_language: id
+    lang_code: xdy-x-lemandau
+    lang_direction: ltr
+    lang_name: Dayak Lemandau
+    lang_region: Asia
+    

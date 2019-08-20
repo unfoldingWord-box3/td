@@ -1,0 +1,128 @@
+.. _arb:
+
+العربية الفصحى, عربي فصيح
+==============================================
+
+This language is spoken in the following countries:
+
+* DZ: Algeria
+* AT: Austria
+* BD: Bangladesh
+* CL: Chile
+* BR: Brazil
+* BB: Barbados
+* KM: Comoros
+* DM: Dominica
+* GR: Greece
+* ET: Ethiopia
+* FR: France
+* GF: French Guiana
+* DE: Germany
+* HT: Haiti
+* GH: Ghana
+* IQ: Iraq
+* LB: Lebanon
+* MT: Malta
+* LK: Sri Lanka
+* GB: United Kingdom of Great Britain and Northern Ireland
+* JM: Jamaica
+* MY: Malaysia
+* OM: Oman
+* NL: Netherlands
+* NZ: New Zealand
+* PK: Pakistan
+* RW: Rwanda
+* SA: Saudi Arabia
+* SD: Sudan
+* ZA: South Africa
+* CH: Switzerland
+* CO: Colombia
+* TN: Tunisia
+* AU: Australia
+* CA: Canada
+* EC: Ecuador
+* GN: Guinea
+* IT: Italy
+* KW: Kuwait
+* DK: Denmark
+* MV: Maldives
+* PT: Portugal
+* UG: Uganda
+* VG: Virgin Islands (British)
+* IN: India
+* SG: Singapore
+* BH: Bahrain
+* BI: Burundi
+* EG: Egypt
+* QA: Qatar
+* AE: United Arab Emirates
+
+.. code-block:: yaml
+
+    ISO_639-3: arb
+    alternate_names:
+    - Al-'Arabiyya
+    - Al-Fusha
+    - Literary Arabic
+    - Modern Standard Arabic (Modern Literary Arabic)
+    - Quranic Arabic
+    - Classical Arabic (Koranic Arabic)
+    anglicanized_name: Arabic, Standard
+    country_codes:
+    - DZ
+    - AT
+    - BD
+    - CL
+    - BR
+    - BB
+    - KM
+    - DM
+    - GR
+    - ET
+    - FR
+    - GF
+    - DE
+    - HT
+    - GH
+    - IQ
+    - LB
+    - MT
+    - LK
+    - GB
+    - JM
+    - MY
+    - OM
+    - NL
+    - NZ
+    - PK
+    - RW
+    - SA
+    - SD
+    - ZA
+    - CH
+    - CO
+    - TN
+    - AU
+    - CA
+    - EC
+    - GN
+    - IT
+    - KW
+    - DK
+    - MV
+    - PT
+    - UG
+    - VG
+    - IN
+    - SG
+    - BH
+    - BI
+    - EG
+    - QA
+    - AE
+    gateway_language: ar
+    lang_code: arb
+    lang_direction: rtl
+    lang_name: العربية الفصحى, عربي فصيح
+    lang_region: Asia
+    

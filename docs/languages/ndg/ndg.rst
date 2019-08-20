@@ -1,0 +1,25 @@
+.. _ndg:
+
+Ndengereko
+==========
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: ndg
+    alternate_names:
+    - Kindengereko
+    - Kingengereko
+    - Ndengeleko
+    anglicanized_name: Ndengereko
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: ndg
+    lang_direction: ltr
+    lang_name: Ndengereko
+    lang_region: Africa
+    

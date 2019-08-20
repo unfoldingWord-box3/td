@@ -1,0 +1,24 @@
+.. _kkr:
+
+Kir-Balar
+=========
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kkr
+    alternate_names:
+    - Kirr
+    - Balar (Larbawa)
+    anglicanized_name: Kir-Balar
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: kkr
+    lang_direction: ltr
+    lang_name: Kir-Balar
+    lang_region: Africa
+    

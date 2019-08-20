@@ -1,0 +1,24 @@
+.. _mvg:
+
+Yucuañe Mixtec
+===============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: mvg
+    alternate_names:
+    - Mixteco de San Bartolomé Yucuañe
+    - Mixteco del Sureste Central
+    anglicanized_name: Mixtec, Yucuañe
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: mvg
+    lang_direction: ltr
+    lang_name: Yucuañe Mixtec
+    lang_region: Americas
+    

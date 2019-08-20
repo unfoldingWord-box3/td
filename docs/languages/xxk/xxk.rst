@@ -1,0 +1,23 @@
+.. _xxk:
+
+Ke'o
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: xxk
+    alternate_names:
+    - Nage-Keo
+    anglicanized_name: Ke’o
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: xxk
+    lang_direction: ltr
+    lang_name: Ke'o
+    lang_region: Asia
+    

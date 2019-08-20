@@ -1,0 +1,28 @@
+.. _rab:
+
+चाम्लिङ
+=====================
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: rab
+    alternate_names:
+    - Camling
+    - Chamlinge Rai
+    - Rodong
+    - Ratanchhali
+    - Halesi
+    - Balamtali
+    anglicanized_name: Chamling
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: rab
+    lang_direction: ltr
+    lang_name: चाम्लिङ
+    lang_region: Asia
+    

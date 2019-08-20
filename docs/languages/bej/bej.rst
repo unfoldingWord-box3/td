@@ -1,0 +1,40 @@
+.. _bej:
+
+Beja
+====
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+* EG: Egypt
+
+.. code-block:: yaml
+
+    ISO_639-3: bej
+    alternate_names:
+    - Beja
+    - Bedauye
+    - Bedawiye
+    - Bedawye
+    - Bedja
+    - Bedwi
+    - Bedya
+    - Lobat
+    - Tu Bdhaawi
+    - Tu-Bedawie
+    - Bisarin
+    - Bisharin (Bisariab)
+    - Hadareb (Hadaareb)
+    - Hadendoa (Hadendiwa)
+    - Hadendoa (Hadendowa)
+    - Hadendowa
+    anglicanized_name: Bedawiyet
+    country_codes:
+    - SD
+    - EG
+    gateway_language: ar
+    lang_code: bej
+    lang_direction: ltr
+    lang_name: Beja
+    lang_region: Africa
+    

@@ -1,0 +1,22 @@
+.. _cok:
+
+Santa Teresa Cora
+=================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: cok
+    alternate_names: []
+    anglicanized_name: Cora, Santa Teresa
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: cok
+    lang_direction: ltr
+    lang_name: Santa Teresa Cora
+    lang_region: Americas
+    

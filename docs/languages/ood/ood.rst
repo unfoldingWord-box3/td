@@ -1,0 +1,33 @@
+.. _ood:
+
+Tohono O'odham
+==============
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: ood
+    alternate_names:
+    - Nebome
+    - Nevome
+    - O'odham
+    - O'othham
+    - Papago-Pima
+    - Upper Piman
+    - Tohono O'odam ("Papago")
+    - Akimel O'odham (Pima)
+    - Papago
+    anglicanized_name: Tohono O’odham
+    country_codes:
+    - US
+    - CA
+    gateway_language: en
+    lang_code: ood
+    lang_direction: ltr
+    lang_name: Tohono O'odham
+    lang_region: Americas
+    

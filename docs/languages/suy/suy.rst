@@ -1,0 +1,26 @@
+.. _suy:
+
+Suyá
+=====
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: suy
+    alternate_names:
+    - Kisêdjê
+    - Waiku
+    - Yaruma (Jarumá)
+    - Beiço de Pau (Tapayúna)
+    anglicanized_name: Suyá
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: suy
+    lang_direction: ltr
+    lang_name: Suyá
+    lang_region: Americas
+    

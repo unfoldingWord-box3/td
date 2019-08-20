@@ -1,0 +1,31 @@
+.. _sys:
+
+Sinyar
+======
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: sys
+    alternate_names:
+    - Shamya
+    - Shamyan
+    - Shemya
+    - Sinya
+    - Symiarta
+    - Taar Shamyan
+    - Zimirra
+    anglicanized_name: Sinyar
+    country_codes:
+    - SD
+    - TD
+    gateway_language: ar
+    lang_code: sys
+    lang_direction: ltr
+    lang_name: Sinyar
+    lang_region: Africa
+    

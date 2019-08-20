@@ -1,0 +1,23 @@
+.. _aac:
+
+Ari
+===
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: aac
+    alternate_names:
+    - Serea
+    anglicanized_name: Ari
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: aac
+    lang_direction: ltr
+    lang_name: Ari
+    lang_region: Pacific
+    

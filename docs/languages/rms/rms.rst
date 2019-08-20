@@ -1,0 +1,23 @@
+.. _rms:
+
+Romanian Sign Language
+======================
+
+This language is spoken in the following countries:
+
+* RO: Romania
+
+.. code-block:: yaml
+
+    ISO_639-3: rms
+    alternate_names:
+    - Limbaj Mimico-Gestual Romanesc
+    anglicanized_name: Romanian Sign Language
+    country_codes:
+    - RO
+    gateway_language: en
+    lang_code: rms
+    lang_direction: ltr
+    lang_name: Romanian Sign Language
+    lang_region: Europe
+    

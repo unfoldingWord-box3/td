@@ -1,0 +1,22 @@
+.. _lsy:
+
+Mauritian Sign Language
+=======================
+
+This language is spoken in the following countries:
+
+* MU: Mauritius
+
+.. code-block:: yaml
+
+    ISO_639-3: lsy
+    alternate_names: []
+    anglicanized_name: Mauritian Sign Language
+    country_codes:
+    - MU
+    gateway_language: fr
+    lang_code: lsy
+    lang_direction: ltr
+    lang_name: Mauritian Sign Language
+    lang_region: Africa
+    

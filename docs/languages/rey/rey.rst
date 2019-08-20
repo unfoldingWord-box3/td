@@ -1,0 +1,23 @@
+.. _rey:
+
+Reyesano
+========
+
+This language is spoken in the following countries:
+
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: rey
+    alternate_names:
+    - San Borjano
+    anglicanized_name: Reyesano
+    country_codes:
+    - BO
+    gateway_language: es-419
+    lang_code: rey
+    lang_direction: ltr
+    lang_name: Reyesano
+    lang_region: Americas
+    

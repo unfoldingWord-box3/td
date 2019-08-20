@@ -1,0 +1,23 @@
+.. _bco:
+
+Kaluli
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bco
+    alternate_names:
+    - Bosavi
+    anglicanized_name: Kaluli
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bco
+    lang_direction: ltr
+    lang_name: Kaluli
+    lang_region: Pacific
+    

@@ -1,0 +1,28 @@
+.. _plg:
+
+Pilagá
+=======
+
+This language is spoken in the following countries:
+
+* AR: Argentina
+* PY: Paraguay
+
+.. code-block:: yaml
+
+    ISO_639-3: plg
+    alternate_names:
+    - Pilaca
+    - Chaco Pilagá (Toba Sur)
+    - Toba del Oeste
+    - Toba-Pilagá (Sombrero Negro)
+    anglicanized_name: Pilagá
+    country_codes:
+    - AR
+    - PY
+    gateway_language: es-419
+    lang_code: plg
+    lang_direction: ltr
+    lang_name: Pilagá
+    lang_region: Americas
+    

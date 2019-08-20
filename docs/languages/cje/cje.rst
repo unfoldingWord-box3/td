@@ -1,0 +1,32 @@
+.. _cje:
+
+Chru
+====
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: cje
+    alternate_names:
+    - Cadoe Loang
+    - Choru
+    - Chrau Hma
+    - Chu
+    - Chu Ru
+    - Churu
+    - Cru
+    - Kru
+    - Seyu
+    - Noang (La-Dang)
+    anglicanized_name: Chru
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: cje
+    lang_direction: ltr
+    lang_name: Chru
+    lang_region: Asia
+    

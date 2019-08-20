@@ -1,0 +1,25 @@
+.. _naj:
+
+Nalu
+====
+
+This language is spoken in the following countries:
+
+* GN: Guinea
+* GW: Guinea-Bissau
+
+.. code-block:: yaml
+
+    ISO_639-3: naj
+    alternate_names:
+    - Nalou
+    anglicanized_name: Nalu
+    country_codes:
+    - GN
+    - GW
+    gateway_language: fr
+    lang_code: naj
+    lang_direction: ltr
+    lang_name: Nalu
+    lang_region: Africa
+    

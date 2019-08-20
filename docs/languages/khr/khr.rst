@@ -1,0 +1,31 @@
+.. _khr:
+
+Kharia
+======
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: khr
+    alternate_names:
+    - Haria
+    - Khariya
+    - Kharvi
+    - Khatria
+    - Kheria
+    - Dhelki Kharia
+    - Dudh Kharia
+    anglicanized_name: Kharia
+    country_codes:
+    - NP
+    - IN
+    gateway_language: hne
+    lang_code: khr
+    lang_direction: ltr
+    lang_name: Kharia
+    lang_region: Asia
+    

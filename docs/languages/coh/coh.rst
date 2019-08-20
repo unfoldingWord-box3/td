@@ -1,0 +1,25 @@
+.. _coh:
+
+Chonyi-Dzihana-Kauma
+====================
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: coh
+    alternate_names:
+    - Kichonyi
+    - Chonyi (Chichonyi)
+    - Jibana (Chidzihana)
+    anglicanized_name: Chichonyi-Chidzihana-Chikauma
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: coh
+    lang_direction: ltr
+    lang_name: Chonyi-Dzihana-Kauma
+    lang_region: Africa
+    

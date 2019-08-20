@@ -1,0 +1,24 @@
+.. _gqu:
+
+稿方言
+=========
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: gqu
+    alternate_names:
+    - Aqao
+    - Gao
+    anglicanized_name: Qau
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: gqu
+    lang_direction: ltr
+    lang_name: 稿方言
+    lang_region: Asia
+    

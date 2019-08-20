@@ -1,0 +1,24 @@
+.. _ngr:
+
+Engdewu
+=======
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: ngr
+    alternate_names:
+    - Nagu
+    - Nangu
+    anglicanized_name: Engdewu
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: ngr
+    lang_direction: ltr
+    lang_name: Engdewu
+    lang_region: Pacific
+    

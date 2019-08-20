@@ -1,0 +1,22 @@
+.. _tni:
+
+Tandia
+======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: tni
+    alternate_names: []
+    anglicanized_name: Tandia
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: tni
+    lang_direction: ltr
+    lang_name: Tandia
+    lang_region: Asia
+    

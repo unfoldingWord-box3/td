@@ -1,0 +1,26 @@
+.. _bxl:
+
+Jalkunan
+========
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: bxl
+    alternate_names:
+    - Blé
+    - Dyala
+    - Dyalanu
+    - Jalkuna
+    anglicanized_name: Jalkunan
+    country_codes:
+    - BF
+    gateway_language: fr
+    lang_code: bxl
+    lang_direction: ltr
+    lang_name: Jalkunan
+    lang_region: Africa
+    

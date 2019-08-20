@@ -1,0 +1,23 @@
+.. _eso:
+
+Estonian Sign Language
+======================
+
+This language is spoken in the following countries:
+
+* EE: Estonia
+
+.. code-block:: yaml
+
+    ISO_639-3: eso
+    alternate_names:
+    - Viipekeel
+    anglicanized_name: Estonian Sign Language
+    country_codes:
+    - EE
+    gateway_language: en
+    lang_code: eso
+    lang_direction: ltr
+    lang_name: Estonian Sign Language
+    lang_region: Europe
+    

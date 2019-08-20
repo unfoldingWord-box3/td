@@ -1,0 +1,30 @@
+.. _kki:
+
+Kagulu
+======
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: kki
+    alternate_names:
+    - Chikagulu
+    - Kigaguru
+    - Kikagulu
+    - Kiningo
+    - Northern Sagara
+    - Solwa
+    - Mangehele
+    - Tumba
+    anglicanized_name: Kagulu
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: kki
+    lang_direction: ltr
+    lang_name: Kagulu
+    lang_region: Africa
+    

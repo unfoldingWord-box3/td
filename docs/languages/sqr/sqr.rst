@@ -1,0 +1,22 @@
+.. _sqr:
+
+Siculo Arabic
+=============
+
+This language is spoken in the following countries:
+
+* MT: Malta
+
+.. code-block:: yaml
+
+    ISO_639-3: sqr
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - MT
+    gateway_language: en
+    lang_code: sqr
+    lang_direction: rtl
+    lang_name: Siculo Arabic
+    lang_region: Europe
+    

@@ -1,0 +1,22 @@
+.. _ixc:
+
+Ixcatec
+=======
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: ixc
+    alternate_names: []
+    anglicanized_name: Ixcatec
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: ixc
+    lang_direction: ltr
+    lang_name: Ixcatec
+    lang_region: Americas
+    

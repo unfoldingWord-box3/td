@@ -1,0 +1,22 @@
+.. _nsf:
+
+Northwestern Nisu
+=================
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: nsf
+    alternate_names: []
+    anglicanized_name: Nisu, Northwestern
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: nsf
+    lang_direction: ltr
+    lang_name: Northwestern Nisu
+    lang_region: Asia
+    

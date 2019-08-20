@@ -1,0 +1,28 @@
+.. _ceg:
+
+Chamacoco
+=========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+* PY: Paraguay
+
+.. code-block:: yaml
+
+    ISO_639-3: ceg
+    alternate_names:
+    - Ishiro
+    - Jeywo
+    - Yshyro
+    - Tomaraho
+    anglicanized_name: Chamacoco
+    country_codes:
+    - BR
+    - PY
+    gateway_language: es-419
+    lang_code: ceg
+    lang_direction: ltr
+    lang_name: Chamacoco
+    lang_region: Americas
+    

@@ -1,0 +1,23 @@
+.. _kmt:
+
+Kemtuik
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kmt
+    alternate_names:
+    - Kamtuk
+    anglicanized_name: Kemtuik
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kmt
+    lang_direction: ltr
+    lang_name: Kemtuik
+    lang_region: Asia
+    

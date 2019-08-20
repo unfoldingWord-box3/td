@@ -1,0 +1,26 @@
+.. _tcg:
+
+Tamagario
+=========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: tcg
+    alternate_names:
+    - Buru
+    - Tamaraw
+    - Wagow
+    - Wiyagar
+    anglicanized_name: Tamagario
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: tcg
+    lang_direction: ltr
+    lang_name: Tamagario
+    lang_region: Asia
+    

@@ -1,0 +1,28 @@
+.. _ljw:
+
+Yirandali
+=========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: ljw
+    alternate_names:
+    - Dalebura
+    - Dal-leyburra
+    - Irendely
+    - Pooroga
+    - Yerrundulli
+    - Yerrunthully
+    anglicanized_name: Yirandali
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: ljw
+    lang_direction: ltr
+    lang_name: Yirandali
+    lang_region: Pacific
+    

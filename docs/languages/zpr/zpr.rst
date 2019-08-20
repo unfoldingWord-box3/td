@@ -1,0 +1,23 @@
+.. _zpr:
+
+Santiago Xanica Zapotec
+=======================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zpr
+    alternate_names:
+    - Xanica Zapotec
+    anglicanized_name: Zapotec, Santiago Xanica
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zpr
+    lang_direction: ltr
+    lang_name: Santiago Xanica Zapotec
+    lang_region: Americas
+    

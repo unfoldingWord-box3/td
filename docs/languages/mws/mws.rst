@@ -1,0 +1,23 @@
+.. _mws:
+
+Mwimbi-Muthambi
+===============
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: mws
+    alternate_names:
+    - Mwimbi (Kimwimbi)
+    anglicanized_name: Mwimbi-Muthambi
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: mws
+    lang_direction: ltr
+    lang_name: Mwimbi-Muthambi
+    lang_region: Africa
+    

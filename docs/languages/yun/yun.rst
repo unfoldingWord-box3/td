@@ -1,0 +1,34 @@
+.. _yun:
+
+Ɓəna (Nigeria)
+================
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: yun
+    alternate_names:
+    - Binna
+    - Buna
+    - Ebina
+    - Ebuna
+    - Gbinna
+    - Purra
+    - Yangeru
+    - Yongor
+    - Yungur
+    - Lala
+    anglicanized_name: Bena
+    country_codes:
+    - NG
+    - TZ
+    gateway_language: en
+    lang_code: yun
+    lang_direction: ltr
+    lang_name: Ɓəna (Nigeria)
+    lang_region: Africa
+    

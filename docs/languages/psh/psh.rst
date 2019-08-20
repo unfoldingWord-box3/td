@@ -1,0 +1,23 @@
+.. _psh:
+
+Southwest Pashai
+================
+
+This language is spoken in the following countries:
+
+* AF: Afghanistan
+
+.. code-block:: yaml
+
+    ISO_639-3: psh
+    alternate_names:
+    - Pashai
+    anglicanized_name: Pashai, Southwest
+    country_codes:
+    - AF
+    gateway_language: ps
+    lang_code: psh
+    lang_direction: ltr
+    lang_name: Southwest Pashai
+    lang_region: Asia
+    

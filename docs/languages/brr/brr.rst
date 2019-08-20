@@ -1,0 +1,23 @@
+.. _brr:
+
+Birao
+=====
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: brr
+    alternate_names:
+    - Mbirao
+    anglicanized_name: Birao
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: brr
+    lang_direction: ltr
+    lang_name: Birao
+    lang_region: Pacific
+    

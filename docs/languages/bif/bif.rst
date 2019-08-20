@@ -1,0 +1,27 @@
+.. _bif:
+
+Biafada
+=======
+
+This language is spoken in the following countries:
+
+* GW: Guinea-Bissau
+
+.. code-block:: yaml
+
+    ISO_639-3: bif
+    alternate_names:
+    - Bedfola
+    - Biafar
+    - Bidyola
+    - Dfola
+    - Fada
+    anglicanized_name: Biafada
+    country_codes:
+    - GW
+    gateway_language: pt
+    lang_code: bif
+    lang_direction: ltr
+    lang_name: Biafada
+    lang_region: Africa
+    

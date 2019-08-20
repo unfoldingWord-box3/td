@@ -1,0 +1,23 @@
+.. _kfo:
+
+Koro (Côte d'Ivoire)
+=====================
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: kfo
+    alternate_names:
+    - Koro Jula
+    anglicanized_name: Koro
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: kfo
+    lang_direction: ltr
+    lang_name: Koro (Côte d'Ivoire)
+    lang_region: Africa
+    

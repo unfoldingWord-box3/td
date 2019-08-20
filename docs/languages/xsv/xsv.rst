@@ -1,0 +1,22 @@
+.. _xsv:
+
+Sudovian
+========
+
+This language is spoken in the following countries:
+
+* PL: Poland
+
+.. code-block:: yaml
+
+    ISO_639-3: xsv
+    alternate_names: []
+    anglicanized_name: Sudovian
+    country_codes:
+    - PL
+    gateway_language: null
+    lang_code: xsv
+    lang_direction: ltr
+    lang_name: Sudovian
+    lang_region: Europe
+    

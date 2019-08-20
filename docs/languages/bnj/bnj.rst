@@ -1,0 +1,31 @@
+.. _bnj:
+
+Eastern Tawbuid
+===============
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: bnj
+    alternate_names:
+    - Bangon
+    - Barangan
+    - Batangan
+    - Binatangan
+    - Fanawbuid
+    - Suri
+    - Tabuid
+    - Taubuid
+    - Tiron
+    anglicanized_name: Tawbuid, Eastern
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: bnj
+    lang_direction: ltr
+    lang_name: Eastern Tawbuid
+    lang_region: Asia
+    

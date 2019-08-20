@@ -1,0 +1,31 @@
+.. _dks:
+
+Southeastern Dinka
+==================
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: dks
+    alternate_names:
+    - Eastern Dinka
+    - Tuic (Twi)
+    - Athoc (Athoic)
+    - Atoc
+    - Bor (Bor Gok)
+    - Bor Athoic
+    - Borathoi
+    - Nyarueng
+    - Nyarweng (Narreweng)
+    anglicanized_name: Dinka, Southeastern
+    country_codes:
+    - SS
+    gateway_language: ar
+    lang_code: dks
+    lang_direction: ltr
+    lang_name: Southeastern Dinka
+    lang_region: Africa
+    

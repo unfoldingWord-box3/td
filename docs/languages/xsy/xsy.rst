@@ -1,0 +1,33 @@
+.. _xsy:
+
+Saisiyat
+========
+
+This language is spoken in the following countries:
+
+* TW: Taiwan, Province of China
+
+.. code-block:: yaml
+
+    ISO_639-3: xsy
+    alternate_names:
+    - Amutoura
+    - Bouiok
+    - Saisett
+    - Saisiat
+    - Saisiett
+    - Saisirat
+    - Saisyet
+    - Saisyett
+    - Seisirat
+    - Taai (North Saiset)
+    - Tungho (South Saiset)
+    anglicanized_name: Saisiyat
+    country_codes:
+    - TW
+    gateway_language: zh
+    lang_code: xsy
+    lang_direction: ltr
+    lang_name: Saisiyat
+    lang_region: Asia
+    

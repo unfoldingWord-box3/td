@@ -1,0 +1,34 @@
+.. _srr:
+
+Serer
+=====
+
+This language is spoken in the following countries:
+
+* GM: Gambia
+* SN: Senegal
+
+.. code-block:: yaml
+
+    ISO_639-3: srr
+    alternate_names:
+    - Seereer
+    - Serer
+    - Serer-Sin
+    - Serrer
+    - Sine-Saloum
+    - Seex
+    - Sereer
+    - Sérère-Sine
+    - Sine-Sine
+    - Dyegueme (Gyegem)
+    anglicanized_name: Serer-Sine
+    country_codes:
+    - GM
+    - SN
+    gateway_language: fr
+    lang_code: srr
+    lang_direction: ltr
+    lang_name: Serer
+    lang_region: Africa
+    

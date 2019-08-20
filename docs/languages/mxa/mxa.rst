@@ -1,0 +1,25 @@
+.. _mxa:
+
+Northwest Oaxaca Mixtec
+=======================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: mxa
+    alternate_names:
+    - Mixteco de Yucuná
+    - Mixteco del Noroeste
+    - Mixteco del Noroeste de Oaxaca
+    anglicanized_name: Mixtec, Northwest Oaxaca
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: mxa
+    lang_direction: ltr
+    lang_name: Northwest Oaxaca Mixtec
+    lang_region: Americas
+    

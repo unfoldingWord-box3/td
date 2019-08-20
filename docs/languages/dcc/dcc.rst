@@ -1,0 +1,26 @@
+.. _dcc:
+
+Deccan
+======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: dcc
+    alternate_names:
+    - Dakini
+    - Deccani
+    - Desi
+    - Kalvadi (Dharwar)
+    anglicanized_name: Deccan
+    country_codes:
+    - IN
+    gateway_language: ur
+    lang_code: dcc
+    lang_direction: ltr
+    lang_name: Deccan
+    lang_region: Asia
+    

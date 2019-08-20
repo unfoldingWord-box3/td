@@ -1,0 +1,27 @@
+.. _nlc:
+
+Nalca
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: nlc
+    alternate_names:
+    - Hmanggona
+    - Hmonono
+    - Kimjal
+    - Naltje
+    - Naltya
+    anglicanized_name: Nalca
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: nlc
+    lang_direction: ltr
+    lang_name: Nalca
+    lang_region: Asia
+    

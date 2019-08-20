@@ -1,0 +1,25 @@
+.. _yix:
+
+阿细
+======
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: yix
+    alternate_names:
+    - Ahi
+    - Axibo
+    - Axipo
+    anglicanized_name: Axi
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: yix
+    lang_direction: ltr
+    lang_name: 阿细
+    lang_region: Asia
+    

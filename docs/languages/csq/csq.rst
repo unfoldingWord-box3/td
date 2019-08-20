@@ -1,0 +1,24 @@
+.. _csq:
+
+Croatia Sign Language
+=====================
+
+This language is spoken in the following countries:
+
+* HR: Croatia
+* ME: Montenegro
+
+.. code-block:: yaml
+
+    ISO_639-3: csq
+    alternate_names: []
+    anglicanized_name: Croatia Sign Language
+    country_codes:
+    - HR
+    - ME
+    gateway_language: en
+    lang_code: csq
+    lang_direction: ltr
+    lang_name: Croatia Sign Language
+    lang_region: Europe
+    

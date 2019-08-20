@@ -1,0 +1,24 @@
+.. _nxe:
+
+Nage
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: nxe
+    alternate_names:
+    - Nagé
+    - Nage-Keo
+    anglicanized_name: Nage
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: nxe
+    lang_direction: ltr
+    lang_name: Nage
+    lang_region: Asia
+    

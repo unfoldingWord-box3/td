@@ -1,0 +1,28 @@
+.. _lbr:
+
+Lohorung
+========
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: lbr
+    alternate_names:
+    - Lohorong
+    - Lohrung
+    - Lohrung Khanawa
+    - Lorung
+    - Northern Lorung
+    - Biksit (Bikshi)
+    anglicanized_name: Lohorung
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: lbr
+    lang_direction: ltr
+    lang_name: Lohorung
+    lang_region: Asia
+    

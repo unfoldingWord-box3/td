@@ -1,0 +1,26 @@
+.. _nsm:
+
+Sumi Naga
+=========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: nsm
+    alternate_names:
+    - Sema
+    - Simi
+    - Sumi
+    - Dayang (Western Sumi)
+    anglicanized_name: Naga, Sumi
+    country_codes:
+    - IN
+    gateway_language: en
+    lang_code: nsm
+    lang_direction: ltr
+    lang_name: Sumi Naga
+    lang_region: Asia
+    

@@ -1,0 +1,30 @@
+.. _ets:
+
+Yekhee
+======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ets
+    alternate_names:
+    - Afenmai
+    - Etsako
+    - Etsakor
+    - Iyekhee
+    - Kukuruku
+    - Avianwu (Fugar)
+    - South Ibie (South Ivbie)
+    - Uwepa-Uwano (Weppa Wano)
+    anglicanized_name: Yekhee
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ets
+    lang_direction: ltr
+    lang_name: Yekhee
+    lang_region: Africa
+    

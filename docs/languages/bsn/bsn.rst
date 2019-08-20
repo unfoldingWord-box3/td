@@ -1,0 +1,35 @@
+.. _bsn:
+
+Barasana-Eduria
+===============
+
+This language is spoken in the following countries:
+
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: bsn
+    alternate_names:
+    - Banera yae
+    - Barasano
+    - Come masa
+    - Edulia
+    - Eduria
+    - Hanera oka
+    - Paneroa
+    - Southern Barasano
+    - Taibano
+    - Taiwaeno
+    - Yebamasa
+    - Barasana (Comematsa)
+    - Eduria (Edulia)
+    anglicanized_name: Barasana-Eduria
+    country_codes:
+    - CO
+    gateway_language: es-419
+    lang_code: bsn
+    lang_direction: ltr
+    lang_name: Barasana-Eduria
+    lang_region: Americas
+    

@@ -1,0 +1,24 @@
+.. _bwl:
+
+Bwela
+=====
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: bwl
+    alternate_names:
+    - Buela
+    - Lingi
+    anglicanized_name: Bwela
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: bwl
+    lang_direction: ltr
+    lang_name: Bwela
+    lang_region: Africa
+    

@@ -1,0 +1,24 @@
+.. _tgb:
+
+Tobilung
+========
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: tgb
+    alternate_names:
+    - Tabilong
+    - Tobilang
+    anglicanized_name: Tobilung
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: tgb
+    lang_direction: ltr
+    lang_name: Tobilung
+    lang_region: Asia
+    

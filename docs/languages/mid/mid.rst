@@ -1,0 +1,32 @@
+.. _mid:
+
+رطنة
+========
+
+This language is spoken in the following countries:
+
+* IQ: Iraq
+
+.. code-block:: yaml
+
+    ISO_639-3: mid
+    alternate_names:
+    - Mandaean
+    - Mandi
+    - Mandini
+    - Modern Mandaic
+    - Neo-Mandaic
+    - Sabean
+    - Sabe'in
+    - Subbi
+    - Shushtar (Shustar)
+    - Ahwaz (Ahvaz)
+    anglicanized_name: Mandaic
+    country_codes:
+    - IQ
+    gateway_language: ar
+    lang_code: mid
+    lang_direction: ltr
+    lang_name: رطنة
+    lang_region: Asia
+    

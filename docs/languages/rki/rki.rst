@@ -1,0 +1,38 @@
+.. _rki:
+
+Rakhine
+=======
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* IN: India
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: rki
+    alternate_names:
+    - Mogh
+    - Rakkhaine
+    - Arakanese
+    - Yanbe
+    - Kyaukphyu
+    - Yangbye (Rambree)
+    - Yangye
+    - Yanbye
+    - Sitwe
+    - Sittwe (Akyab)
+    - Man Aung (Chebuda Island)
+    - Mrauk-U
+    anglicanized_name: Rakhine
+    country_codes:
+    - BD
+    - IN
+    - MM
+    gateway_language: my
+    lang_code: rki
+    lang_direction: ltr
+    lang_name: Rakhine
+    lang_region: Asia
+    

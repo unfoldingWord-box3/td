@@ -1,0 +1,29 @@
+.. _zad:
+
+Cajonos Zapotec
+===============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zad
+    alternate_names:
+    - Southern Villa Alta Zapotec
+    - Yaganiza Zapotec
+    - Zapoteco de San Pedro Cajonos
+    - Cajonos Zapotec
+    - San Mateo Zapotec
+    - Xagacía Zapotec
+    - Yaganiza
+    anglicanized_name: Zapotec, Cajonos
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zad
+    lang_direction: ltr
+    lang_name: Cajonos Zapotec
+    lang_region: Americas
+    

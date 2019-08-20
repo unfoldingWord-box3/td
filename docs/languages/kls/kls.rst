@@ -1,0 +1,29 @@
+.. _kls:
+
+کالاش زبان
+===================
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: kls
+    alternate_names:
+    - Kalash
+    - Kalashamon
+    - Kelash
+    - Bumboret
+    - Northern Kalasha (Birir)
+    - Rumbur
+    - Southern Kalasha (Urtsun)
+    anglicanized_name: Kalasha
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: kls
+    lang_direction: ltr
+    lang_name: کالاش زبان
+    lang_region: Asia
+    

@@ -1,0 +1,23 @@
+.. _mqk:
+
+Rajah Kabunsuwan Manobo
+=======================
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: mqk
+    alternate_names:
+    - Rajah Kabungsuan Manobo
+    anglicanized_name: Manobo, Rajah Kabunsuwan
+    country_codes:
+    - PH
+    gateway_language: ceb
+    lang_code: mqk
+    lang_direction: ltr
+    lang_name: Rajah Kabunsuwan Manobo
+    lang_region: Asia
+    

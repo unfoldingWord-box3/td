@@ -1,0 +1,24 @@
+.. _smw:
+
+Sumbawa
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: smw
+    alternate_names:
+    - Semawa
+    - Sumbawarese
+    anglicanized_name: Sumbawa
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: smw
+    lang_direction: ltr
+    lang_name: Sumbawa
+    lang_region: Asia
+    

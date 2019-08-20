@@ -1,0 +1,25 @@
+.. _agm:
+
+Angaataha
+=========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: agm
+    alternate_names:
+    - Angaatiya
+    - Angataha
+    - Langimar
+    anglicanized_name: Angaataha
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: agm
+    lang_direction: ltr
+    lang_name: Angaataha
+    lang_region: Pacific
+    

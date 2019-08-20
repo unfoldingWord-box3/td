@@ -1,0 +1,23 @@
+.. _kms:
+
+Kamasau
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kms
+    alternate_names:
+    - Wand Tuan
+    anglicanized_name: Kamasau
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kms
+    lang_direction: ltr
+    lang_name: Kamasau
+    lang_region: Pacific
+    

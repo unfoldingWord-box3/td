@@ -1,0 +1,26 @@
+.. _nqq:
+
+Kyan-Karyaw Naga
+================
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: nqq
+    alternate_names:
+    - Chen
+    - Kaiyaw
+    - Kayaw
+    - Kayu
+    anglicanized_name: Naga, Kyan-Karyaw
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: nqq
+    lang_direction: ltr
+    lang_name: Kyan-Karyaw Naga
+    lang_region: Asia
+    

@@ -1,0 +1,25 @@
+.. _kjd:
+
+Southern Kiwai
+==============
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kjd
+    alternate_names:
+    - Kiwai
+    - Coast Kiwai
+    - Island Kiwai (Bamu Kiwai)
+    anglicanized_name: Kiwai, Southern
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kjd
+    lang_direction: ltr
+    lang_name: Southern Kiwai
+    lang_region: Pacific
+    

@@ -1,0 +1,25 @@
+.. _mpw:
+
+Mapidian
+========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: mpw
+    alternate_names:
+    - Mahuayana
+    - Maiopitian
+    - Maopityan
+    anglicanized_name: Mapidian
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: mpw
+    lang_direction: ltr
+    lang_name: Mapidian
+    lang_region: Americas
+    

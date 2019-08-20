@@ -1,0 +1,27 @@
+.. _apz:
+
+Safeyoka
+========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: apz
+    alternate_names:
+    - Ambari
+    - Ampale
+    - Ampeeli-Wojokeso
+    - Ampele
+    - Wajakes (Wocokeso)
+    anglicanized_name: Safeyoka
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: apz
+    lang_direction: ltr
+    lang_name: Safeyoka
+    lang_region: Pacific
+    

@@ -1,0 +1,25 @@
+.. _kne:
+
+Kankanaey
+=========
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: kne
+    alternate_names:
+    - Central Kankanaey
+    - Kankanai
+    - Kankanay
+    anglicanized_name: Kankanaey
+    country_codes:
+    - PH
+    gateway_language: ilo
+    lang_code: kne
+    lang_direction: ltr
+    lang_name: Kankanaey
+    lang_region: Asia
+    

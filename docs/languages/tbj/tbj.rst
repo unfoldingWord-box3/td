@@ -1,0 +1,23 @@
+.. _tbj:
+
+Tiang
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: tbj
+    alternate_names:
+    - Djaul
+    anglicanized_name: Tiang
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: tbj
+    lang_direction: ltr
+    lang_name: Tiang
+    lang_region: Pacific
+    

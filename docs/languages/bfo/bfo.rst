@@ -1,0 +1,25 @@
+.. _bfo:
+
+Malba Birifor
+=============
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: bfo
+    alternate_names:
+    - Birifo
+    - Malba-Birifor
+    - Northern Birifor
+    anglicanized_name: Birifor, Malba
+    country_codes:
+    - BF
+    gateway_language: fr
+    lang_code: bfo
+    lang_direction: ltr
+    lang_name: Malba Birifor
+    lang_region: Africa
+    

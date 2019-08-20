@@ -1,0 +1,29 @@
+.. _any:
+
+Anyin
+=====
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: any
+    alternate_names:
+    - Agni
+    - Anyi
+    - Brosa
+    - Sanvi
+    - Aowin (Brissa)
+    anglicanized_name: Anyin
+    country_codes:
+    - CI
+    - GH
+    gateway_language: fr
+    lang_code: any
+    lang_direction: ltr
+    lang_name: Anyin
+    lang_region: Africa
+    

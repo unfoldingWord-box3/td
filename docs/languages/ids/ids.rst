@@ -1,0 +1,22 @@
+.. _ids:
+
+Idesa
+=====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ids
+    alternate_names: []
+    anglicanized_name: Idesa
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ids
+    lang_direction: ltr
+    lang_name: Idesa
+    lang_region: Africa
+    

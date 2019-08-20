@@ -1,0 +1,27 @@
+.. _raz:
+
+Rahambuu
+========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: raz
+    alternate_names:
+    - Lellewao
+    - Lellewau
+    - Noihe
+    - Wiaoe
+    - Wiau
+    anglicanized_name: Rahambuu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: raz
+    lang_direction: ltr
+    lang_name: Rahambuu
+    lang_region: Asia
+    

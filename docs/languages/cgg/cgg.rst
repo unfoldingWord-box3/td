@@ -1,0 +1,33 @@
+.. _cgg:
+
+Chiga
+=====
+
+This language is spoken in the following countries:
+
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: cgg
+    alternate_names:
+    - Ciga
+    - Kiga
+    - Nkore-Kiga
+    - Oluchiga
+    - Orukiga
+    - Rukiga
+    - Runyankore-Rukiga
+    - RuNyangyezi
+    - RuSigi
+    - RuHimba
+    - RuNyaifwe-Hororo
+    anglicanized_name: Chiga
+    country_codes:
+    - UG
+    gateway_language: en
+    lang_code: cgg
+    lang_direction: ltr
+    lang_name: Chiga
+    lang_region: Africa
+    

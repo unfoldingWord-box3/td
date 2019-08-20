@@ -1,0 +1,22 @@
+.. _nrn:
+
+Norn
+====
+
+This language is spoken in the following countries:
+
+* GB: United Kingdom of Great Britain and Northern Ireland
+
+.. code-block:: yaml
+
+    ISO_639-3: nrn
+    alternate_names: []
+    anglicanized_name: Norn
+    country_codes:
+    - GB
+    gateway_language: null
+    lang_code: nrn
+    lang_direction: ltr
+    lang_name: Norn
+    lang_region: Europe
+    

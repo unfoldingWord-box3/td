@@ -1,0 +1,22 @@
+.. _kqq:
+
+Krenak
+======
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: kqq
+    alternate_names: []
+    anglicanized_name: Krenak
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: kqq
+    lang_direction: ltr
+    lang_name: Krenak
+    lang_region: Americas
+    

@@ -1,0 +1,31 @@
+.. _nrb:
+
+Nara
+====
+
+This language is spoken in the following countries:
+
+* ER: Eritrea
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: nrb
+    alternate_names:
+    - Barea
+    - Baria
+    - Barya
+    - Koyta
+    - Mogareb
+    - Santora
+    - Higir
+    anglicanized_name: Nara
+    country_codes:
+    - ER
+    - ET
+    gateway_language: ar
+    lang_code: nrb
+    lang_direction: ltr
+    lang_name: Nara
+    lang_region: Africa
+    

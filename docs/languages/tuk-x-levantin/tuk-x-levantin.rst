@@ -1,0 +1,20 @@
+.. _tuk-x-levantin:
+
+Levantine Turkmen
+=================
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Levantine Turkmen
+    country_codes: []
+    gateway_language: tr
+    lang_code: tuk-x-levantin
+    lang_direction: rtl
+    lang_name: Levantine Turkmen
+    lang_region: Asia
+    

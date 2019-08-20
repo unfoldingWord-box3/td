@@ -1,0 +1,26 @@
+.. _jur:
+
+Jurúna
+=======
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: jur
+    alternate_names:
+    - Iuruna
+    - Jaruna
+    - Yudya
+    - Yurúna
+    anglicanized_name: Jurúna
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: jur
+    lang_direction: ltr
+    lang_name: Jurúna
+    lang_region: Americas
+    

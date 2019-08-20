@@ -1,0 +1,23 @@
+.. _aad:
+
+Amal
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: aad
+    alternate_names:
+    - Alai
+    anglicanized_name: Amal
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: aad
+    lang_direction: ltr
+    lang_name: Amal
+    lang_region: Pacific
+    

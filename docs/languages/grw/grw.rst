@@ -1,0 +1,23 @@
+.. _grw:
+
+Gweda
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: grw
+    alternate_names:
+    - Garuwahi
+    anglicanized_name: Gweda
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: grw
+    lang_direction: ltr
+    lang_name: Gweda
+    lang_region: Pacific
+    

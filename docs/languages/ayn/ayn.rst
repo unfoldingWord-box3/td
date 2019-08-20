@@ -1,0 +1,27 @@
+.. _ayn:
+
+لهجة صنعانية
+=======================
+
+This language is spoken in the following countries:
+
+* DJ: Djibouti
+* SA: Saudi Arabia
+* YE: Yemen
+
+.. code-block:: yaml
+
+    ISO_639-3: ayn
+    alternate_names:
+    - Northern Yemeni Arabic
+    anglicanized_name: Arabic, Sanaani Spoken
+    country_codes:
+    - DJ
+    - SA
+    - YE
+    gateway_language: ar
+    lang_code: ayn
+    lang_direction: rtl
+    lang_name: لهجة صنعانية
+    lang_region: Asia
+    

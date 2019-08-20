@@ -1,0 +1,26 @@
+.. _cnc:
+
+Côông
+=======
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: cnc
+    alternate_names:
+    - Khoong
+    - Xa Coong
+    - Xa Xam
+    - Xa Xeng
+    anglicanized_name: Côông
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: cnc
+    lang_direction: ltr
+    lang_name: Côông
+    lang_region: Asia
+    

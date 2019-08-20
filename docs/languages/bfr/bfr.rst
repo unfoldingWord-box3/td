@@ -1,0 +1,22 @@
+.. _bfr:
+
+Bazigar
+=======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: bfr
+    alternate_names: []
+    anglicanized_name: Bazigar
+    country_codes:
+    - IN
+    gateway_language: pnb
+    lang_code: bfr
+    lang_direction: ltr
+    lang_name: Bazigar
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _alo:
+
+Larike-Wakasihu
+===============
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: alo
+    alternate_names: []
+    anglicanized_name: Larike-Wakasihu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: alo
+    lang_direction: ltr
+    lang_name: Larike-Wakasihu
+    lang_region: Asia
+    

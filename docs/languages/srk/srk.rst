@@ -1,0 +1,25 @@
+.. _srk:
+
+Serudung Murut
+==============
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: srk
+    alternate_names:
+    - Serudong
+    - Tawau Murut
+    - Tidung
+    anglicanized_name: Serudung Murut
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: srk
+    lang_direction: ltr
+    lang_name: Serudung Murut
+    lang_region: Asia
+    

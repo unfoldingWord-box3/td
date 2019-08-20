@@ -1,0 +1,23 @@
+.. _vkp:
+
+Korlai Creole Portuguese
+========================
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: vkp
+    alternate_names:
+    - Creole Portuguese
+    anglicanized_name: Korlai Creole Portuguese
+    country_codes:
+    - IN
+    gateway_language: mr
+    lang_code: vkp
+    lang_direction: ltr
+    lang_name: Korlai Creole Portuguese
+    lang_region: Asia
+    

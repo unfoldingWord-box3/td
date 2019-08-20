@@ -1,0 +1,22 @@
+.. _keq:
+
+Kamar
+=====
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: keq
+    alternate_names: []
+    anglicanized_name: Kamar
+    country_codes:
+    - IN
+    gateway_language: hne
+    lang_code: keq
+    lang_direction: ltr
+    lang_name: Kamar
+    lang_region: Asia
+    

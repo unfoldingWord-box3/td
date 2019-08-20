@@ -1,0 +1,20 @@
+.. _toi-x-tokaleya:
+
+Toka-Leya
+=========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Toka-Leya Tonga
+    country_codes: []
+    gateway_language: en
+    lang_code: toi-x-tokaleya
+    lang_direction: ltr
+    lang_name: Toka-Leya
+    lang_region: Africa
+    

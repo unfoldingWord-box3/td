@@ -1,0 +1,25 @@
+.. _swg:
+
+Swabian
+=======
+
+This language is spoken in the following countries:
+
+* DE: Germany
+
+.. code-block:: yaml
+
+    ISO_639-3: swg
+    alternate_names:
+    - Schwäbisch
+    - Schwaebisch
+    - Suabian
+    anglicanized_name: Swabian
+    country_codes:
+    - DE
+    gateway_language: en
+    lang_code: swg
+    lang_direction: ltr
+    lang_name: Swabian
+    lang_region: Europe
+    

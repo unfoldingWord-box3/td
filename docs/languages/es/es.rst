@@ -1,7 +1,7 @@
 .. _es:
 
 español
-=======
+========
 
 .. note:: The `Ethnologue <https://www.ethnologue.com/language/spa>`_ identifies this language as ``spa``.
 

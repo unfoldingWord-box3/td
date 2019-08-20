@@ -1,0 +1,30 @@
+.. _zkd:
+
+Kadu
+====
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: zkd
+    alternate_names:
+    - Gadu
+    - Ka'do
+    - Kadu-Ganaan
+    - Kantu'
+    - Kato
+    - Kudo
+    - Maw
+    - Puteik
+    anglicanized_name: Kadu
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: zkd
+    lang_direction: ltr
+    lang_name: Kadu
+    lang_region: Asia
+    

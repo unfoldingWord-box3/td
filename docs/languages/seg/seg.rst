@@ -1,0 +1,25 @@
+.. _seg:
+
+Segeju
+======
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: seg
+    alternate_names:
+    - Kisegeju
+    - Sageju
+    - Sengeju
+    anglicanized_name: Segeju
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: seg
+    lang_direction: ltr
+    lang_name: Segeju
+    lang_region: Africa
+    

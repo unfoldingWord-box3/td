@@ -1,0 +1,26 @@
+.. _mdk:
+
+Mangbutu
+========
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: mdk
+    alternate_names:
+    - Mangu-Ngutu
+    - Mombuttu
+    - Wambutu
+    - Angwe (Andali)
+    anglicanized_name: Mangbutu
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: mdk
+    lang_direction: ltr
+    lang_name: Mangbutu
+    lang_region: Africa
+    

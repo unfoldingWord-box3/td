@@ -1,0 +1,26 @@
+.. _mct:
+
+Mengisa
+=======
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: mct
+    alternate_names:
+    - Mangisa
+    - Mengisa-Njowe
+    - Leti
+    - Njowe
+    anglicanized_name: Mengisa
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: mct
+    lang_direction: ltr
+    lang_name: Mengisa
+    lang_region: Africa
+    

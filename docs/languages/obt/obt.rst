@@ -1,0 +1,22 @@
+.. _obt:
+
+Old Breton
+==========
+
+This language is spoken in the following countries:
+
+* FR: France
+
+.. code-block:: yaml
+
+    ISO_639-3: obt
+    alternate_names: []
+    anglicanized_name: Old Breton
+    country_codes:
+    - FR
+    gateway_language: null
+    lang_code: obt
+    lang_direction: ltr
+    lang_name: Old Breton
+    lang_region: Europe
+    

@@ -1,0 +1,23 @@
+.. _ndq:
+
+Ndombe
+======
+
+This language is spoken in the following countries:
+
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: ndq
+    alternate_names:
+    - Dombe
+    anglicanized_name: Ndombe
+    country_codes:
+    - AO
+    gateway_language: pt
+    lang_code: ndq
+    lang_direction: ltr
+    lang_name: Ndombe
+    lang_region: Africa
+    

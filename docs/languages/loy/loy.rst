@@ -1,0 +1,34 @@
+.. _loy:
+
+ल्होवा
+==================
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: loy
+    alternate_names:
+    - Glo Skad
+    - Lhopa
+    - Lo Montang
+    - Loba
+    - Lopa
+    - Lowa
+    - Loyu
+    - Mustangi
+    - Upper Mustang (Loke)
+    - Bhoti Gurung
+    - Baragaun
+    - Baragaunle (Baragaon)
+    anglicanized_name: Lhowa
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: loy
+    lang_direction: ltr
+    lang_name: ल्होवा
+    lang_region: Asia
+    

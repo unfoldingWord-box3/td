@@ -1,0 +1,25 @@
+.. _tdy:
+
+Tadyawan
+========
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: tdy
+    alternate_names:
+    - Balaban
+    - Pula
+    - Tadianan
+    anglicanized_name: Tadyawan
+    country_codes:
+    - PH
+    gateway_language: ilo
+    lang_code: tdy
+    lang_direction: ltr
+    lang_name: Tadyawan
+    lang_region: Asia
+    

@@ -1,0 +1,43 @@
+.. _kcg:
+
+Tyap
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kcg
+    alternate_names:
+    - Katab
+    - Kataf
+    - Fantwam
+    - Kpashan
+    - Sholio (Aholio)
+    - Techera
+    - Katab (Atyap)
+    - Kagoro
+    - Kafanchan (Fantuan)
+    - Kachichere (Aticherak)
+    - Gworok (Agolok)
+    - Attakad
+    - Attaka
+    - Atakat (Atakar)
+    - Asholio
+    - Agwot
+    - Agwolok
+    - Aguro
+    - Agorok
+    - Daroro
+    - Takat
+    anglicanized_name: Tyap
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: kcg
+    lang_direction: ltr
+    lang_name: Tyap
+    lang_region: Africa
+    

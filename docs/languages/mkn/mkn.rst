@@ -1,0 +1,23 @@
+.. _mkn:
+
+Kupang Malay
+============
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mkn
+    alternate_names:
+    - Basa Kupang
+    anglicanized_name: Malay, Kupang
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mkn
+    lang_direction: ltr
+    lang_name: Kupang Malay
+    lang_region: Asia
+    

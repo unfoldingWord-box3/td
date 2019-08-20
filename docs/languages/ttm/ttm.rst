@@ -1,0 +1,23 @@
+.. _ttm:
+
+Northern Tutchone
+=================
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: ttm
+    alternate_names:
+    - Selkirk
+    anglicanized_name: Tutchone, Northern
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: ttm
+    lang_direction: ltr
+    lang_name: Northern Tutchone
+    lang_region: Americas
+    

@@ -1,0 +1,23 @@
+.. _hii:
+
+Hinduri
+=======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: hii
+    alternate_names:
+    - Handuri
+    anglicanized_name: Hinduri
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: hii
+    lang_direction: ltr
+    lang_name: Hinduri
+    lang_region: Asia
+    

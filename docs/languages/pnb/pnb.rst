@@ -1,0 +1,38 @@
+.. _pnb:
+
+لہندا پنجابی
+=======================
+
+This language is spoken in the following countries:
+
+* BE: Belgium
+* FR: France
+* GB: United Kingdom of Great Britain and Northern Ireland
+* PK: Pakistan
+* LY: Libya
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: pnb
+    alternate_names:
+    - Hindki
+    - Lahanda
+    - Lahnda
+    - Lahndi
+    - Western Punjabi
+    - Lahori
+    anglicanized_name: Punjabi, Western
+    country_codes:
+    - BE
+    - FR
+    - GB
+    - PK
+    - LY
+    - IN
+    gateway_language: ur
+    lang_code: pnb
+    lang_direction: ltr
+    lang_name: لہندا پنجابی
+    lang_region: Asia
+    

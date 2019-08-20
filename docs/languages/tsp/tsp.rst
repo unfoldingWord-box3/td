@@ -1,0 +1,26 @@
+.. _tsp:
+
+Northern Toussian
+=================
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: tsp
+    alternate_names:
+    - Tusia
+    - Tusian
+    - Tru
+    - Ter
+    anglicanized_name: Toussian, Northern
+    country_codes:
+    - BF
+    gateway_language: fr
+    lang_code: tsp
+    lang_direction: ltr
+    lang_name: Northern Toussian
+    lang_region: Africa
+    

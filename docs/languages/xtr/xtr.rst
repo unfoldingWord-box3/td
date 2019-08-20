@@ -1,0 +1,22 @@
+.. _xtr:
+
+Early Tripuri
+=============
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: xtr
+    alternate_names: []
+    anglicanized_name: Early Tripuri
+    country_codes:
+    - IN
+    gateway_language: null
+    lang_code: xtr
+    lang_direction: ltr
+    lang_name: Early Tripuri
+    lang_region: Asia
+    

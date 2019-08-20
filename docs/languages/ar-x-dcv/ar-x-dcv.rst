@@ -1,0 +1,22 @@
+.. _ar-x-dcv:
+
+العربية Dominant Culture Variant
+=======================================
+
+This language is spoken in the following countries:
+
+* SA: Saudi Arabia
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Arabic - Dominant Culture Variant
+    country_codes:
+    - SA
+    gateway_language: null
+    lang_code: ar-x-dcv
+    lang_direction: rtl
+    lang_name: العربية Dominant Culture Variant
+    lang_region: Asia
+    

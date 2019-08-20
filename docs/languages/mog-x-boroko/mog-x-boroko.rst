@@ -1,0 +1,20 @@
+.. _mog-x-boroko:
+
+Boroko
+======
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes: []
+    gateway_language: id
+    lang_code: mog-x-boroko
+    lang_direction: ltr
+    lang_name: Boroko
+    lang_region: Asia
+    

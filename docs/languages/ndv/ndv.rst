@@ -1,0 +1,23 @@
+.. _ndv:
+
+Ndut
+====
+
+This language is spoken in the following countries:
+
+* SN: Senegal
+
+.. code-block:: yaml
+
+    ISO_639-3: ndv
+    alternate_names:
+    - Ndoute
+    anglicanized_name: Ndut
+    country_codes:
+    - SN
+    gateway_language: fr
+    lang_code: ndv
+    lang_direction: ltr
+    lang_name: Ndut
+    lang_region: Africa
+    

@@ -1,0 +1,22 @@
+.. _pro:
+
+Occitan ancian
+==============
+
+This language is spoken in the following countries:
+
+* FR: France
+
+.. code-block:: yaml
+
+    ISO_639-3: pro
+    alternate_names: []
+    anglicanized_name: Old Provençal (to 1500)
+    country_codes:
+    - FR
+    gateway_language: ang
+    lang_code: pro
+    lang_direction: ltr
+    lang_name: Occitan ancian
+    lang_region: Europe
+    

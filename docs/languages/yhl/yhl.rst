@@ -1,0 +1,42 @@
+.. _yhl:
+
+Hlepho Phowa
+============
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: yhl
+    alternate_names:
+    - Abo
+    - Boren
+    - Bozi
+    - Conehead Phula
+    - Cowtail Phula
+    - Daizhanpho
+    - Digaopho
+    - Flowery Phula
+    - Hua Phula
+    - Jiantou Phula
+    - Minjia
+    - Niuweiba Phula
+    - Paola
+    - Pho
+    - Phula
+    - Sandaohong Phula
+    - Shaoji Phula
+    - Sifter Basket Phula
+    - Thrice Striped Red Phula
+    - Xiuba
+    anglicanized_name: Phowa, Hlepho
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: yhl
+    lang_direction: ltr
+    lang_name: Hlepho Phowa
+    lang_region: Asia
+    

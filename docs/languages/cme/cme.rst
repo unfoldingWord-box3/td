@@ -1,0 +1,26 @@
+.. _cme:
+
+Cerma
+=====
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: cme
+    alternate_names:
+    - Gwe
+    - Gwen
+    - Kirma
+    - Guin
+    anglicanized_name: Cerma
+    country_codes:
+    - BF
+    gateway_language: fr
+    lang_code: cme
+    lang_direction: ltr
+    lang_name: Cerma
+    lang_region: Africa
+    

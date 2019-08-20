@@ -1,0 +1,35 @@
+.. _amf:
+
+Hamer-Banna
+===========
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: amf
+    alternate_names:
+    - Amar
+    - Amarcocche
+    - Amer
+    - Ammar
+    - Bana
+    - Beshada
+    - Cocche
+    - Hamar
+    - Hamar-Koke
+    - Hamer
+    - Hammer
+    - Hammercoche
+    - Kara Kerre
+    anglicanized_name: Hamer-Banna
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: amf
+    lang_direction: ltr
+    lang_name: Hamer-Banna
+    lang_region: Africa
+    

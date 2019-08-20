@@ -1,0 +1,30 @@
+.. _gru:
+
+Kistane
+=======
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: gru
+    alternate_names:
+    - North Gurage
+    - Soddo Gurage
+    - Soddo (Aymallal)
+    - Kestane
+    - Gogot
+    - Goggot
+    - Aymellel
+    - Dobi (Dobbi)
+    anglicanized_name: Kistane
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: gru
+    lang_direction: ltr
+    lang_name: Kistane
+    lang_region: Africa
+    

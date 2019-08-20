@@ -1,0 +1,31 @@
+.. _gag:
+
+Gagauz
+======
+
+This language is spoken in the following countries:
+
+* KZ: Kazakhstan
+* TR: Turkey
+* MD: Moldova, Republic of
+* BG: Bulgaria
+
+.. code-block:: yaml
+
+    ISO_639-3: gag
+    alternate_names:
+    - Gagauzi
+    - Bulgar Gagauzi
+    - Maritime Gagauzi
+    anglicanized_name: Gagauz
+    country_codes:
+    - KZ
+    - TR
+    - MD
+    - BG
+    gateway_language: en
+    lang_code: gag
+    lang_direction: ltr
+    lang_name: Gagauz
+    lang_region: Europe
+    

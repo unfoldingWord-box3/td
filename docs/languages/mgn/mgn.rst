@@ -1,0 +1,23 @@
+.. _mgn:
+
+Mbangi
+======
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: mgn
+    alternate_names:
+    - Mbangui
+    anglicanized_name: Mbangi
+    country_codes:
+    - CF
+    gateway_language: fr
+    lang_code: mgn
+    lang_direction: ltr
+    lang_name: Mbangi
+    lang_region: Africa
+    

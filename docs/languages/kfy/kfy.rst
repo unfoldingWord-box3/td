@@ -1,0 +1,35 @@
+.. _kfy:
+
+Kumaoni
+=======
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: kfy
+    alternate_names:
+    - Kamaoni
+    - Kumau
+    - Kumauni
+    - Kumawani
+    - Kumgoni
+    - Kumman
+    - Kunayaoni
+    - Central Kumaoni
+    - Northeastern Kumaoni
+    - Southeastern Kumaoni
+    - Western Kumaoni
+    anglicanized_name: Kumaoni
+    country_codes:
+    - NP
+    - IN
+    gateway_language: hi
+    lang_code: kfy
+    lang_direction: ltr
+    lang_name: Kumaoni
+    lang_region: Asia
+    

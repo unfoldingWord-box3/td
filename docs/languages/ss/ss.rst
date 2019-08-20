@@ -1,0 +1,42 @@
+.. _ss:
+
+SiSwati
+=======
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ssw>`_ identifies this language as ``ssw``.
+
+This language is spoken in the following countries:
+
+* MZ: Mozambique
+* ZA: South Africa
+* US: United States of America
+* ZW: Zimbabwe
+* SZ: Eswatini
+
+.. code-block:: yaml
+
+    ISO_639-3: ssw
+    alternate_names:
+    - Sephuthi
+    - Siswati
+    - Siswazi
+    - Swazi
+    - Tekela
+    - Tekeza
+    - Isiswazi
+    - Thithiza
+    - Yeyeza
+    - Phuthi (Sephuthi)
+    anglicanized_name: Swati
+    country_codes:
+    - MZ
+    - ZA
+    - US
+    - ZW
+    - SZ
+    gateway_language: pt
+    lang_code: ss
+    lang_direction: ltr
+    lang_name: SiSwati
+    lang_region: Africa
+    

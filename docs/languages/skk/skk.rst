@@ -1,0 +1,23 @@
+.. _skk:
+
+Sok
+===
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names:
+    - Sork
+    anglicanized_name: Sok
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: skk
+    lang_direction: ltr
+    lang_name: Sok
+    lang_region: Asia
+    

@@ -1,0 +1,32 @@
+.. _tcz:
+
+Thado Chin
+==========
+
+This language is spoken in the following countries:
+
+* IN: India
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: tcz
+    alternate_names:
+    - Kuki
+    - Kuki-Thado
+    - Thaadou Kuki
+    - Thado-Pao
+    - Thadou
+    - Thado-Ubiphei
+    - Singson (Shingsol)
+    - Paite
+    anglicanized_name: Chin, Thado
+    country_codes:
+    - IN
+    - MM
+    gateway_language: mni
+    lang_code: tcz
+    lang_direction: ltr
+    lang_name: Thado Chin
+    lang_region: Asia
+    

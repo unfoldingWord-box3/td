@@ -1,0 +1,31 @@
+.. _is:
+
+Íslenska
+=========
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/isl>`_ identifies this language as ``isl``.
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* CA: Canada
+* DK: Denmark
+* IS: Iceland
+
+.. code-block:: yaml
+
+    ISO_639-3: isl
+    alternate_names:
+    - Íslenska
+    anglicanized_name: Icelandic
+    country_codes:
+    - US
+    - CA
+    - DK
+    - IS
+    gateway_language: en
+    lang_code: is
+    lang_direction: ltr
+    lang_name: Íslenska
+    lang_region: Europe
+    

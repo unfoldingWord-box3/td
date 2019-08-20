@@ -1,0 +1,25 @@
+.. _pbr:
+
+Pangwa
+======
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: pbr
+    alternate_names:
+    - Ekipangwa
+    - Kipangwa
+    - Kimwela
+    anglicanized_name: Pangwa
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: pbr
+    lang_direction: ltr
+    lang_name: Pangwa
+    lang_region: Africa
+    

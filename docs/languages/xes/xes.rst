@@ -1,0 +1,24 @@
+.. _xes:
+
+Kesawai
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: xes
+    alternate_names:
+    - Kesawi
+    - Namuya
+    anglicanized_name: Kesawai
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: xes
+    lang_direction: ltr
+    lang_name: Kesawai
+    lang_region: Pacific
+    

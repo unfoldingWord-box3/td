@@ -1,0 +1,23 @@
+.. _roc:
+
+Cacgia Roglai
+=============
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: roc
+    alternate_names:
+    - Ra-Glai
+    anglicanized_name: Roglai, Cacgia
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: roc
+    lang_direction: ltr
+    lang_name: Cacgia Roglai
+    lang_region: Asia
+    

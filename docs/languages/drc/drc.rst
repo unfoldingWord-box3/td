@@ -1,0 +1,22 @@
+.. _drc:
+
+Minderico
+=========
+
+This language is spoken in the following countries:
+
+* PT: Portugal
+
+.. code-block:: yaml
+
+    ISO_639-3: drc
+    alternate_names: []
+    anglicanized_name: Minderico
+    country_codes:
+    - PT
+    gateway_language: pt
+    lang_code: drc
+    lang_direction: ltr
+    lang_name: Minderico
+    lang_region: Europe
+    

@@ -1,0 +1,50 @@
+.. _naq:
+
+Khoekhoe
+========
+
+This language is spoken in the following countries:
+
+* ZA: South Africa
+* BW: Botswana
+* NA: Namibia
+
+.. code-block:: yaml
+
+    ISO_639-3: naq
+    alternate_names:
+    - Berdama
+    - Bergdamara
+    - Dama
+    - Damaqua
+    - Damara
+    - Kakuya Bushman Nasie
+    - Khoekhoegowab
+    - Namakwa
+    - Naman
+    - Namaqua
+    - Rooi Nasie
+    - Tama
+    - Tamakwa
+    - Tamma
+    - Hottentot
+    - Kupkaferrn
+    - Kupkaffer
+    - Kakuya Bushman
+    - Maqua
+    - Nasie
+    - Khoekhoegowap
+    - Khoekhoe
+    - Khoeknoegowap
+    - Khoi
+    anglicanized_name: Khoekhoe
+    country_codes:
+    - ZA
+    - BW
+    - NA
+    gateway_language: en
+    lang_code: naq
+    lang_direction: ltr
+    lang_name: Khoekhoe
+    lang_region: Africa
+    

@@ -1,0 +1,26 @@
+.. _ytp:
+
+Thopho
+======
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: ytp
+    alternate_names:
+    - Black Hat Folk
+    - Black Phula
+    - Hei Mao Ren
+    - Phula
+    anglicanized_name: Thopho
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: ytp
+    lang_direction: ltr
+    lang_name: Thopho
+    lang_region: Asia
+    

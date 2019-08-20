@@ -1,0 +1,24 @@
+.. _kqg:
+
+Khe
+===
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: kqg
+    alternate_names:
+    - Bambadion-Kheso
+    - Kheso
+    anglicanized_name: Khe
+    country_codes:
+    - BF
+    gateway_language: fr
+    lang_code: kqg
+    lang_direction: ltr
+    lang_name: Khe
+    lang_region: Africa
+    

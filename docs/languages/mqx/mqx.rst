@@ -1,0 +1,26 @@
+.. _mqx:
+
+Mamuju
+======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mqx
+    alternate_names:
+    - Mamoedjoe
+    - Mamoedjoesch
+    - Mamudju
+    - Udai
+    anglicanized_name: Mamuju
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mqx
+    lang_direction: ltr
+    lang_name: Mamuju
+    lang_region: Asia
+    

@@ -1,0 +1,25 @@
+.. _tja:
+
+Tajuasohn
+=========
+
+This language is spoken in the following countries:
+
+* LR: Liberia
+
+.. code-block:: yaml
+
+    ISO_639-3: tja
+    alternate_names:
+    - Tajuason
+    - Tajuoso
+    - Tajuosohn
+    anglicanized_name: Tajuasohn
+    country_codes:
+    - LR
+    gateway_language: en
+    lang_code: tja
+    lang_direction: ltr
+    lang_name: Tajuasohn
+    lang_region: Africa
+    

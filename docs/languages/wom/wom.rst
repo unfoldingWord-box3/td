@@ -1,0 +1,27 @@
+.. _wom:
+
+Wom (Nigeria)
+=============
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: wom
+    alternate_names:
+    - Pere
+    - Pereba
+    - Perema
+    anglicanized_name: Wom
+    country_codes:
+    - CM
+    - NG
+    gateway_language: en
+    lang_code: wom
+    lang_direction: ltr
+    lang_name: Wom (Nigeria)
+    lang_region: Africa
+    

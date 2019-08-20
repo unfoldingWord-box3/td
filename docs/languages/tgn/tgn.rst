@@ -1,0 +1,24 @@
+.. _tgn:
+
+Tandaganon
+==========
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: tgn
+    alternate_names:
+    - Naturalis
+    - Tagon-on
+    anglicanized_name: Tandaganon
+    country_codes:
+    - PH
+    gateway_language: ceb
+    lang_code: tgn
+    lang_direction: ltr
+    lang_name: Tandaganon
+    lang_region: Asia
+    

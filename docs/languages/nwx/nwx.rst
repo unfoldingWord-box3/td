@@ -1,0 +1,22 @@
+.. _nwx:
+
+Middle Newar
+============
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: nwx
+    alternate_names: []
+    anglicanized_name: Middle Newar
+    country_codes:
+    - NP
+    gateway_language: null
+    lang_code: nwx
+    lang_direction: ltr
+    lang_name: Middle Newar
+    lang_region: Asia
+    

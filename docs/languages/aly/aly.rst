@@ -1,0 +1,27 @@
+.. _aly:
+
+Alyawarr
+========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: aly
+    alternate_names:
+    - Aljawara
+    - Alyawarra
+    - Alyawarre
+    - Iliaura
+    - Yowera
+    anglicanized_name: Alyawarr
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: aly
+    lang_direction: ltr
+    lang_name: Alyawarr
+    lang_region: Pacific
+    

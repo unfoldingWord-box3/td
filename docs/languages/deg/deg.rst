@@ -1,0 +1,23 @@
+.. _deg:
+
+Degema
+======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: deg
+    alternate_names:
+    - Dekema
+    anglicanized_name: Degema
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: deg
+    lang_direction: ltr
+    lang_name: Degema
+    lang_region: Africa
+    

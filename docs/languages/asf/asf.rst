@@ -1,0 +1,23 @@
+.. _asf:
+
+Australian Sign Language
+========================
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: asf
+    alternate_names:
+    - Auslan
+    anglicanized_name: Australian Sign Language
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: asf
+    lang_direction: ltr
+    lang_name: Australian Sign Language
+    lang_region: Pacific
+    

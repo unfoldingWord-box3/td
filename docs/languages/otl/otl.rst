@@ -1,0 +1,22 @@
+.. _otl:
+
+Tilapa Otomi
+============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: otl
+    alternate_names: []
+    anglicanized_name: Otomi, Tilapa
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: otl
+    lang_direction: ltr
+    lang_name: Tilapa Otomi
+    lang_region: Americas
+    

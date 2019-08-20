@@ -1,0 +1,22 @@
+.. _xmn:
+
+Manichaean Middle Persian
+=========================
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: xmn
+    alternate_names: []
+    anglicanized_name: Manichaean Middle Persian
+    country_codes:
+    - IR
+    gateway_language: null
+    lang_code: xmn
+    lang_direction: ltr
+    lang_name: Manichaean Middle Persian
+    lang_region: Asia
+    

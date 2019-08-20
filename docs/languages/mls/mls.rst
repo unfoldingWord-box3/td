@@ -1,0 +1,31 @@
+.. _mls:
+
+Masalit
+=======
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: mls
+    alternate_names:
+    - Kana Masaraka
+    - Kaana Masala
+    - Masale
+    - Masara
+    - Masaraka
+    - Massolit
+    - Masaltang
+    anglicanized_name: Masalit
+    country_codes:
+    - SD
+    - TD
+    gateway_language: ar
+    lang_code: mls
+    lang_direction: ltr
+    lang_name: Masalit
+    lang_region: Africa
+    

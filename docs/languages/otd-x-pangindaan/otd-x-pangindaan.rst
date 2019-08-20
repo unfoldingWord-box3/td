@@ -1,0 +1,20 @@
+.. _otd-x-pangindaan:
+
+Dayak Pangin Daan
+=================
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Dayak Pangin Daan
+    country_codes: []
+    gateway_language: id
+    lang_code: otd-x-pangindaan
+    lang_direction: ltr
+    lang_name: Dayak Pangin Daan
+    lang_region: Asia
+    

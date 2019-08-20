@@ -1,0 +1,24 @@
+.. _zpg:
+
+Guevea De Humboldt Zapotec
+==========================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zpg
+    alternate_names:
+    - Northern Isthmus Zapotec
+    - Zapoteco de Guevea de Humboldt
+    anglicanized_name: Zapotec, Guevea de Humboldt
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zpg
+    lang_direction: ltr
+    lang_name: Guevea De Humboldt Zapotec
+    lang_region: Americas
+    

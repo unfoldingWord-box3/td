@@ -1,0 +1,22 @@
+.. _doh:
+
+Dong
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: doh
+    alternate_names: []
+    anglicanized_name: Dong
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: doh
+    lang_direction: ltr
+    lang_name: Dong
+    lang_region: Africa
+    

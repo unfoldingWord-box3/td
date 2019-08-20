@@ -1,0 +1,22 @@
+.. _ymb:
+
+Yambes
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ymb
+    alternate_names: []
+    anglicanized_name: Yambes
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ymb
+    lang_direction: ltr
+    lang_name: Yambes
+    lang_region: Pacific
+    

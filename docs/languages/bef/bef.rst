@@ -1,0 +1,23 @@
+.. _bef:
+
+Benabena
+========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bef
+    alternate_names:
+    - Bena
+    anglicanized_name: Benabena
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bef
+    lang_direction: ltr
+    lang_name: Benabena
+    lang_region: Pacific
+    

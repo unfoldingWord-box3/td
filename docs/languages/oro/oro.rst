@@ -1,0 +1,29 @@
+.. _oro:
+
+Orokolo
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: oro
+    alternate_names:
+    - Bailala
+    - Haira
+    - Kairu-Kaura
+    - Muro
+    - Muru
+    - Vailala
+    - West Elema
+    anglicanized_name: Orokolo
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: oro
+    lang_direction: ltr
+    lang_name: Orokolo
+    lang_region: Pacific
+    

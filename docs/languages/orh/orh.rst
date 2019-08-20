@@ -1,0 +1,30 @@
+.. _orh:
+
+鄂伦春语
+============
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: orh
+    alternate_names:
+    - Olunchun
+    - Orochen
+    - Orochon
+    - Oronchon
+    - Ulunchun
+    - Birarchen
+    - Kumarchen
+    - Selpechen
+    anglicanized_name: Oroqen
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: orh
+    lang_direction: ltr
+    lang_name: 鄂伦春语
+    lang_region: Asia
+    

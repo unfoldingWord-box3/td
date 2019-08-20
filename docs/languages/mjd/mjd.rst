@@ -1,0 +1,35 @@
+.. _mjd:
+
+Northwest Maidu
+===============
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: mjd
+    alternate_names:
+    - Concow
+    - Holólupai
+    - Konkau
+    - Konkow
+    - Maiduan
+    - Meidoo
+    - Michopdo
+    - Nákum
+    - Secumne
+    - Sekumne
+    - Tsamak
+    - Yuba
+    - Digger
+    anglicanized_name: Maidu, Northwest
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: mjd
+    lang_direction: ltr
+    lang_name: Northwest Maidu
+    lang_region: Americas
+    

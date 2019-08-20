@@ -1,0 +1,25 @@
+.. _bku:
+
+Buhid
+=====
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: bku
+    alternate_names:
+    - Bangon
+    - Batangan
+    - Bukil
+    anglicanized_name: Buhid
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: bku
+    lang_direction: ltr
+    lang_name: Buhid
+    lang_region: Asia
+    

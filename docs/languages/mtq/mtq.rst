@@ -1,0 +1,24 @@
+.. _mtq:
+
+Tiếng Mường
+================
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: mtq
+    alternate_names:
+    - Ao Tá (Au Tá)
+    - Boi Bi (Moi Bi)
+    anglicanized_name: Muong
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: mtq
+    lang_direction: ltr
+    lang_name: Tiếng Mường
+    lang_region: Asia
+    

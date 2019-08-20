@@ -1,0 +1,27 @@
+.. _atu:
+
+Reel
+====
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: atu
+    alternate_names:
+    - Atwot
+    - Thok Cieng Reel
+    - Thok Reel
+    - Cieng Luai
+    - Cieng Nhyam
+    anglicanized_name: Reel
+    country_codes:
+    - SS
+    gateway_language: ar
+    lang_code: atu
+    lang_direction: ltr
+    lang_name: Reel
+    lang_region: Africa
+    

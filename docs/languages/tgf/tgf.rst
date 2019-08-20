@@ -1,0 +1,26 @@
+.. _tgf:
+
+Chalikha
+========
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+
+.. code-block:: yaml
+
+    ISO_639-3: tgf
+    alternate_names:
+    - Chali
+    - Chalipkha
+    - Tshali
+    - Tshalingpa
+    anglicanized_name: Chalikha
+    country_codes:
+    - BT
+    gateway_language: dz
+    lang_code: tgf
+    lang_direction: ltr
+    lang_name: Chalikha
+    lang_region: Asia
+    

@@ -1,0 +1,24 @@
+.. _bro:
+
+Brokkat
+=======
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+
+.. code-block:: yaml
+
+    ISO_639-3: bro
+    alternate_names:
+    - Brokskad
+    - Jokay
+    anglicanized_name: Brokkat
+    country_codes:
+    - BT
+    gateway_language: dz
+    lang_code: bro
+    lang_direction: ltr
+    lang_name: Brokkat
+    lang_region: Asia
+    

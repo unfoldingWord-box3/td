@@ -1,0 +1,23 @@
+.. _juw:
+
+Wãpha
+======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: juw
+    alternate_names:
+    - Wase Tofa
+    anglicanized_name: Wãpha
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: juw
+    lang_direction: ltr
+    lang_name: Wãpha
+    lang_region: Africa
+    

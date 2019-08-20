@@ -1,0 +1,23 @@
+.. _frt:
+
+Fortsenal
+=========
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: frt
+    alternate_names:
+    - Kiai
+    anglicanized_name: Fortsenal
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: frt
+    lang_direction: ltr
+    lang_name: Fortsenal
+    lang_region: Pacific
+    

@@ -1,0 +1,23 @@
+.. _wog:
+
+Wogamusin
+=========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: wog
+    alternate_names:
+    - Wongamusin
+    anglicanized_name: Wogamusin
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: wog
+    lang_direction: ltr
+    lang_name: Wogamusin
+    lang_region: Pacific
+    

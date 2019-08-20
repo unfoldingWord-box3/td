@@ -1,0 +1,28 @@
+.. _rit:
+
+Ritarungo
+=========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: rit
+    alternate_names:
+    - Ridarngo
+    - Ridharrngu
+    - Ritarnugu
+    - Ritharrngu
+    - Wagelak
+    - Wawilag
+    anglicanized_name: Ritarungo
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: rit
+    lang_direction: ltr
+    lang_name: Ritarungo
+    lang_region: Pacific
+    

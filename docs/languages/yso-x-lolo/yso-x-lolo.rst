@@ -1,0 +1,20 @@
+.. _yso-x-lolo:
+
+Lo Lo
+=====
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Lo Lo
+    country_codes: []
+    gateway_language: vi
+    lang_code: yso-x-lolo
+    lang_direction: ltr
+    lang_name: Lo Lo
+    lang_region: Asia
+    

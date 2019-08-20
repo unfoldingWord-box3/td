@@ -1,0 +1,34 @@
+.. _ilu:
+
+Ili'uun
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: ilu
+    alternate_names:
+    - Erai
+    - Hahutan
+    - Hahutau
+    - Ilmaumau
+    - Limera
+    - Karbubu
+    - Ustutun
+    - Telemar
+    - Klishatu
+    - Esulit
+    - Eray
+    - Nabar
+    anglicanized_name: Ili’uun
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: ilu
+    lang_direction: ltr
+    lang_name: Ili'uun
+    lang_region: Asia
+    

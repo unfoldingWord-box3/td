@@ -1,0 +1,53 @@
+.. _yao:
+
+Yao
+===
+
+This language is spoken in the following countries:
+
+* MZ: Mozambique
+* TZ: Tanzania, United Republic of
+* ZW: Zimbabwe
+* MW: Malawi
+
+.. code-block:: yaml
+
+    ISO_639-3: yao
+    alternate_names:
+    - Achawa
+    - Adsawa
+    - Adsoa
+    - Ajawa
+    - Ayao
+    - Ayawa
+    - Ayo
+    - Chiyao
+    - Djao
+    - Haiao
+    - Hiao
+    - Hyao
+    - Jao
+    - Veiao
+    - Wajao
+    - Ciyao
+    - Hajao
+    - Kiyao
+    - Chichawa
+    - Tunduru Yao
+    - Chikonono (Cikonono)
+    - Machinga
+    - Makale (Cimakale)
+    - Mangochi
+    - Massaninga (Cimassaninga)
+    anglicanized_name: Yao
+    country_codes:
+    - MZ
+    - TZ
+    - ZW
+    - MW
+    gateway_language: en
+    lang_code: yao
+    lang_direction: ltr
+    lang_name: Yao
+    lang_region: Africa
+    

@@ -1,0 +1,23 @@
+.. _cbj:
+
+Ede Cabe
+========
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+
+.. code-block:: yaml
+
+    ISO_639-3: cbj
+    alternate_names:
+    - Caabe
+    anglicanized_name: Ede Cabe
+    country_codes:
+    - BJ
+    gateway_language: fr
+    lang_code: cbj
+    lang_direction: ltr
+    lang_name: Ede Cabe
+    lang_region: Africa
+    

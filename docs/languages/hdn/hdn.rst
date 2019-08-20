@@ -1,0 +1,25 @@
+.. _hdn:
+
+Northern Haida
+==============
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: hdn
+    alternate_names:
+    - Masset
+    anglicanized_name: Haida, Northern
+    country_codes:
+    - US
+    - CA
+    gateway_language: en
+    lang_code: hdn
+    lang_direction: ltr
+    lang_name: Northern Haida
+    lang_region: Americas
+    

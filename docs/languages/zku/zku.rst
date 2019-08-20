@@ -1,0 +1,22 @@
+.. _zku:
+
+Kaurna
+======
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: zku
+    alternate_names: []
+    anglicanized_name: Kaurna
+    country_codes:
+    - AU
+    gateway_language: null
+    lang_code: zku
+    lang_direction: ltr
+    lang_name: Kaurna
+    lang_region: Pacific
+    

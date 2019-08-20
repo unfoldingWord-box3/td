@@ -1,0 +1,22 @@
+.. _xpm:
+
+Pumpokol
+========
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: xpm
+    alternate_names: []
+    anglicanized_name: Pumpokol
+    country_codes:
+    - RU
+    gateway_language: null
+    lang_code: xpm
+    lang_direction: ltr
+    lang_name: Pumpokol
+    lang_region: Europe
+    

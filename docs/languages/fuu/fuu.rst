@@ -1,0 +1,28 @@
+.. _fuu:
+
+Furu
+====
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: fuu
+    alternate_names:
+    - Bagero
+    - Bagiro
+    - Baguero
+    - Baguiro
+    anglicanized_name: Furu
+    country_codes:
+    - CF
+    - CD
+    gateway_language: fr
+    lang_code: fuu
+    lang_direction: ltr
+    lang_name: Furu
+    lang_region: Africa
+    

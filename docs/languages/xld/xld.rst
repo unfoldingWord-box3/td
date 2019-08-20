@@ -1,0 +1,22 @@
+.. _xld:
+
+Lydian
+======
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: xld
+    alternate_names: []
+    anglicanized_name: Lydian
+    country_codes:
+    - TR
+    gateway_language: null
+    lang_code: xld
+    lang_direction: ltr
+    lang_name: Lydian
+    lang_region: Asia
+    

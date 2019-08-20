@@ -1,0 +1,37 @@
+.. _ble:
+
+Balanta-Kentohe
+===============
+
+This language is spoken in the following countries:
+
+* CA: Canada
+* GW: Guinea-Bissau
+
+.. code-block:: yaml
+
+    ISO_639-3: ble
+    alternate_names:
+    - Alante
+    - Balanda
+    - Balant
+    - Balanta
+    - Balante
+    - Ballante
+    - Belante
+    - Brassa
+    - Bulanda
+    - Frase
+    - Nhacra (Fora)
+    - Queuthoe
+    - Kantohe (Kentohe)
+    anglicanized_name: Balanta-Kentohe
+    country_codes:
+    - CA
+    - GW
+    gateway_language: pt
+    lang_code: ble
+    lang_direction: ltr
+    lang_name: Balanta-Kentohe
+    lang_region: Africa
+    

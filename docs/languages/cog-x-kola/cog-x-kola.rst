@@ -1,0 +1,20 @@
+.. _cog-x-kola:
+
+Kola
+====
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Kola
+    country_codes: []
+    gateway_language: km
+    lang_code: cog-x-kola
+    lang_direction: ltr
+    lang_name: Kola
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _xsc:
+
+Scythian
+========
+
+This language is spoken in the following countries:
+
+* KZ: Kazakhstan
+
+.. code-block:: yaml
+
+    ISO_639-3: xsc
+    alternate_names: []
+    anglicanized_name: Scythian
+    country_codes:
+    - KZ
+    gateway_language: null
+    lang_code: xsc
+    lang_direction: ltr
+    lang_name: Scythian
+    lang_region: Asia
+    

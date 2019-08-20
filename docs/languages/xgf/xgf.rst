@@ -1,0 +1,22 @@
+.. _xgf:
+
+Gabrielino-Fernandeño
+======================
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: xgf
+    alternate_names: []
+    anglicanized_name: Gabrielino-Fernandeño
+    country_codes:
+    - US
+    gateway_language: null
+    lang_code: xgf
+    lang_direction: ltr
+    lang_name: Gabrielino-Fernandeño
+    lang_region: Americas
+    

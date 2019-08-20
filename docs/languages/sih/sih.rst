@@ -1,0 +1,29 @@
+.. _sih:
+
+Zire
+====
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: sih
+    alternate_names:
+    - Nerë
+    - Siche
+    - Sirhe
+    - Yirhe
+    - Yirhee
+    - Ziche
+    - Zira
+    anglicanized_name: Sîshëë
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: sih
+    lang_direction: ltr
+    lang_name: Zire
+    lang_region: Pacific
+    

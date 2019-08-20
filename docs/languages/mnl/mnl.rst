@@ -1,0 +1,23 @@
+.. _mnl:
+
+Tiale
+=====
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: mnl
+    alternate_names:
+    - Malmariv
+    anglicanized_name: Tiale
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: mnl
+    lang_direction: ltr
+    lang_name: Tiale
+    lang_region: Pacific
+    

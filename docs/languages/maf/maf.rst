@@ -1,0 +1,37 @@
+.. _maf:
+
+Mafa
+====
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: maf
+    alternate_names:
+    - Mofa
+    - Natakan
+    - Matakam
+    - Bula
+    - Bulahai
+    - Central Mafa (Koza)
+    - East Mafa (Roua)
+    - Ldamtsai
+    - Mavoumay
+    - Mokola
+    - Ouzal
+    - Soulede
+    - West Mafa (Magoumaz)
+    anglicanized_name: Mafa
+    country_codes:
+    - CM
+    - NG
+    gateway_language: fr
+    lang_code: maf
+    lang_direction: ltr
+    lang_name: Mafa
+    lang_region: Africa
+    

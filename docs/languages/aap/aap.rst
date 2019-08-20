@@ -1,0 +1,23 @@
+.. _aap:
+
+Pará Arára
+============
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: aap
+    alternate_names:
+    - Arára Bravos
+    anglicanized_name: Arára, Pará
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: aap
+    lang_direction: ltr
+    lang_name: Pará Arára
+    lang_region: Americas
+    

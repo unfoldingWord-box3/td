@@ -1,0 +1,28 @@
+.. _msy:
+
+Aruamu
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: msy
+    alternate_names:
+    - Ariawiai
+    - Makarub
+    - Makarup
+    - Mikarew
+    - Mikarew-Ariaw
+    - Mikarup
+    anglicanized_name: Aruamu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: msy
+    lang_direction: ltr
+    lang_name: Aruamu
+    lang_region: Pacific
+    

@@ -1,0 +1,28 @@
+.. _knk:
+
+Kuranko
+=======
+
+This language is spoken in the following countries:
+
+* GN: Guinea
+* SL: Sierra Leone
+
+.. code-block:: yaml
+
+    ISO_639-3: knk
+    alternate_names:
+    - Sengbe
+    - Faranah
+    - Fineriya
+    - Sankaran
+    anglicanized_name: Kuranko
+    country_codes:
+    - GN
+    - SL
+    gateway_language: en
+    lang_code: knk
+    lang_direction: ltr
+    lang_name: Kuranko
+    lang_region: Africa
+    

@@ -1,0 +1,52 @@
+.. _npi:
+
+नेपाली (individual language)
+========================================
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* BN: Brunei Darussalam
+* BT: Bhutan
+* MY: Malaysia
+* NP: Nepal
+* TH: Thailand
+* US: United States of America
+* CA: Canada
+* IN: India
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: npi
+    alternate_names:
+    - Eastern Pahari
+    - Gurkhali
+    - Khaskura
+    - Lhotshammikha
+    - Nepalese
+    - Parbatiya
+    - Eastern Pahadi
+    - Parbate
+    - Darchulali (Darjula)
+    - Darchuli (Darjula)
+    - Baitadeli (Baitadi)
+    - Bajurali (Bajura)
+    anglicanized_name: Nepali
+    country_codes:
+    - BD
+    - BN
+    - BT
+    - MY
+    - NP
+    - TH
+    - US
+    - CA
+    - IN
+    - MM
+    gateway_language: ne
+    lang_code: npi
+    lang_direction: ltr
+    lang_name: नेपाली (individual language)
+    lang_region: Asia
+    

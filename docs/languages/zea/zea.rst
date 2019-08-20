@@ -1,0 +1,32 @@
+.. _zea:
+
+Zeeuws
+======
+
+This language is spoken in the following countries:
+
+* NL: Netherlands
+
+.. code-block:: yaml
+
+    ISO_639-3: zea
+    alternate_names:
+    - Zeaws
+    - Fluplands
+    - Goerees
+    - Walchers
+    - Kezands
+    - Axels
+    - Duvelands
+    - Schouws
+    - Bevelands
+    - Flakkees
+    anglicanized_name: Zeeuws
+    country_codes:
+    - NL
+    gateway_language: nl
+    lang_code: zea
+    lang_direction: ltr
+    lang_name: Zeeuws
+    lang_region: Europe
+    

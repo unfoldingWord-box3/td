@@ -1,0 +1,23 @@
+.. _tgh:
+
+Tobagonian Creole English
+=========================
+
+This language is spoken in the following countries:
+
+* TT: Trinidad and Tobago
+
+.. code-block:: yaml
+
+    ISO_639-3: tgh
+    alternate_names:
+    - Tobagonian Dialect
+    anglicanized_name: Tobagonian Creole English
+    country_codes:
+    - TT
+    gateway_language: en
+    lang_code: tgh
+    lang_direction: ltr
+    lang_name: Tobagonian Creole English
+    lang_region: Americas
+    

@@ -1,0 +1,24 @@
+.. _ark:
+
+Arikapú
+========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: ark
+    alternate_names:
+    - Aricapú
+    - Maxubí
+    anglicanized_name: Arikapú
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: ark
+    lang_direction: ltr
+    lang_name: Arikapú
+    lang_region: Americas
+    

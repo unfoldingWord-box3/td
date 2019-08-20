@@ -1,0 +1,23 @@
+.. _agu:
+
+Aguacateco
+==========
+
+This language is spoken in the following countries:
+
+* GT: Guatemala
+
+.. code-block:: yaml
+
+    ISO_639-3: agu
+    alternate_names:
+    - Aguacatec
+    anglicanized_name: Awakateko
+    country_codes:
+    - GT
+    gateway_language: es-419
+    lang_code: agu
+    lang_direction: ltr
+    lang_name: Aguacateco
+    lang_region: Americas
+    

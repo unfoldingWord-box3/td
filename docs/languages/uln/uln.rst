@@ -1,0 +1,23 @@
+.. _uln:
+
+Unserdeutsch
+============
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: uln
+    alternate_names:
+    - Rabaul Creole German
+    anglicanized_name: Unserdeutsch
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: uln
+    lang_direction: ltr
+    lang_name: Unserdeutsch
+    lang_region: Pacific
+    

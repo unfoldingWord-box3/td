@@ -1,0 +1,29 @@
+.. _avu:
+
+Avokaya
+=======
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: avu
+    alternate_names:
+    - Abukeia
+    - Ajigu (Ajugu)
+    - Ojiga
+    - Ojila (Odzila)
+    - Agamoru
+    - Odziliwa
+    - Ajugu (Adjiga)
+    anglicanized_name: Avokaya
+    country_codes:
+    - SS
+    gateway_language: ar
+    lang_code: avu
+    lang_direction: ltr
+    lang_name: Avokaya
+    lang_region: Africa
+    

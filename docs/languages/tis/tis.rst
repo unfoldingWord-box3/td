@@ -1,0 +1,24 @@
+.. _tis:
+
+Masadiit Itneg
+==============
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: tis
+    alternate_names:
+    - Masadiit Boliney
+    - Masadiit Sallapadan
+    anglicanized_name: Itneg, Masadiit
+    country_codes:
+    - PH
+    gateway_language: ilo
+    lang_code: tis
+    lang_direction: ltr
+    lang_name: Masadiit Itneg
+    lang_region: Asia
+    

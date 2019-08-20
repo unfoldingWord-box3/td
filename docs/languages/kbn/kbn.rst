@@ -1,0 +1,27 @@
+.. _kbn:
+
+Kare (Central African Republic)
+===============================
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* CF: Central African Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: kbn
+    alternate_names:
+    - Kali
+    - Karré
+    - Tale (Tali)
+    anglicanized_name: Kare
+    country_codes:
+    - CM
+    - CF
+    gateway_language: fr
+    lang_code: kbn
+    lang_direction: ltr
+    lang_name: Kare (Central African Republic)
+    lang_region: Africa
+    

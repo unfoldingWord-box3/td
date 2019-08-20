@@ -1,0 +1,26 @@
+.. _str:
+
+Straits Salish
+==============
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: str
+    alternate_names:
+    - Northern Straits Salish
+    - Straits
+    - Semiahmoo
+    - Ts'ooke
+    anglicanized_name: Salish, Straits
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: str
+    lang_direction: ltr
+    lang_name: Straits Salish
+    lang_region: Americas
+    

@@ -1,0 +1,23 @@
+.. _dif:
+
+Dieri
+=====
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: dif
+    alternate_names:
+    - Diyari
+    anglicanized_name: Dieri
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: dif
+    lang_direction: ltr
+    lang_name: Dieri
+    lang_region: Pacific
+    

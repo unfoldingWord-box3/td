@@ -1,0 +1,24 @@
+.. _hke:
+
+Hunde
+=====
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: hke
+    alternate_names:
+    - Kobi
+    - Rukobi
+    anglicanized_name: Hunde
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: hke
+    lang_direction: ltr
+    lang_name: Hunde
+    lang_region: Africa
+    

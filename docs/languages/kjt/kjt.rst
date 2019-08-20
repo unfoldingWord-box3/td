@@ -1,0 +1,26 @@
+.. _kjt:
+
+Phrae Pwo Karen
+===============
+
+This language is spoken in the following countries:
+
+* TH: Thailand
+
+.. code-block:: yaml
+
+    ISO_639-3: kjt
+    alternate_names:
+    - Northeastern Pwo Karen
+    - Phrae
+    - Prae
+    - Pwo Phrae
+    anglicanized_name: Karen, Phrae Pwo
+    country_codes:
+    - TH
+    gateway_language: th
+    lang_code: kjt
+    lang_direction: ltr
+    lang_name: Phrae Pwo Karen
+    lang_region: Asia
+    

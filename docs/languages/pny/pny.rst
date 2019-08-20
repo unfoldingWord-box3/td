@@ -1,0 +1,24 @@
+.. _pny:
+
+Pinyin
+======
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: pny
+    alternate_names:
+    - Bapinyi
+    - Pelimpo
+    anglicanized_name: Pinyin
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: pny
+    lang_direction: ltr
+    lang_name: Pinyin
+    lang_region: Africa
+    

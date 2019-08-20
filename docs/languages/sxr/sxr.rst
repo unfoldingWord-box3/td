@@ -1,0 +1,33 @@
+.. _sxr:
+
+Saaroa
+======
+
+This language is spoken in the following countries:
+
+* TW: Taiwan, Province of China
+
+.. code-block:: yaml
+
+    ISO_639-3: sxr
+    alternate_names:
+    - Hla'alua
+    - La'alua
+    - La'arua
+    - Lha'alua
+    - Pachien
+    - Paichien
+    - Rarua
+    - Saarua
+    - Saroa
+    - Shishaban
+    - Sisyaban
+    anglicanized_name: Saaroa
+    country_codes:
+    - TW
+    gateway_language: zh
+    lang_code: sxr
+    lang_direction: ltr
+    lang_name: Saaroa
+    lang_region: Asia
+    

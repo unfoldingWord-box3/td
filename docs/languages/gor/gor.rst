@@ -1,0 +1,29 @@
+.. _gor:
+
+Gorontalo
+=========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: gor
+    alternate_names:
+    - Gorongtalo
+    - Guarantala
+    - Gunongtello
+    - Holontalo
+    - Hulontalo
+    - West Gorontalo (Kwandang)
+    - Limboto (Limbotto)
+    anglicanized_name: Gorontalo
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: gor
+    lang_direction: ltr
+    lang_name: Gorontalo
+    lang_region: Asia
+    

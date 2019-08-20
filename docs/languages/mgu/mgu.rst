@@ -1,0 +1,23 @@
+.. _mgu:
+
+Mailu
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mgu
+    alternate_names:
+    - Magi
+    anglicanized_name: Mailu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mgu
+    lang_direction: ltr
+    lang_name: Mailu
+    lang_region: Pacific
+    

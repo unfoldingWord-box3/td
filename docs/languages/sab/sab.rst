@@ -1,0 +1,31 @@
+.. _sab:
+
+Buglere
+=======
+
+This language is spoken in the following countries:
+
+* PA: Panama
+
+.. code-block:: yaml
+
+    ISO_639-3: sab
+    alternate_names:
+    - Bobota
+    - Bocota
+    - Bofota
+    - Bogota
+    - Bokota
+    - Bukueta
+    - Murire
+    - Nortenyo
+    - Veraguas Sabanero
+    anglicanized_name: Buglere
+    country_codes:
+    - PA
+    gateway_language: es-419
+    lang_code: sab
+    lang_direction: ltr
+    lang_name: Buglere
+    lang_region: Americas
+    

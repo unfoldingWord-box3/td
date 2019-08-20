@@ -1,0 +1,23 @@
+.. _foi:
+
+Foi
+===
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: foi
+    alternate_names:
+    - Mubi River
+    anglicanized_name: Foi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: foi
+    lang_direction: ltr
+    lang_name: Foi
+    lang_region: Pacific
+    

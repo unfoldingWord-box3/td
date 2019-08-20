@@ -1,0 +1,28 @@
+.. _gbl:
+
+Gamit
+=====
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: gbl
+    alternate_names:
+    - Gamati
+    - Gameti
+    - Gamith
+    - Gamta
+    - Gamti
+    - Gavit
+    anglicanized_name: Gamit
+    country_codes:
+    - IN
+    gateway_language: gu
+    lang_code: gbl
+    lang_direction: ltr
+    lang_name: Gamit
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _xpg:
+
+Phrygian
+========
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: xpg
+    alternate_names: []
+    anglicanized_name: Phrygian
+    country_codes:
+    - TR
+    gateway_language: null
+    lang_code: xpg
+    lang_direction: ltr
+    lang_name: Phrygian
+    lang_region: Asia
+    

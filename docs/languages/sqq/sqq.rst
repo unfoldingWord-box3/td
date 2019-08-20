@@ -1,0 +1,27 @@
+.. _sqq:
+
+Sou
+===
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: sqq
+    alternate_names:
+    - Sawk
+    - Souk
+    - Su
+    - Su'
+    - Suq
+    anglicanized_name: Sou
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: sqq
+    lang_direction: ltr
+    lang_name: Sou
+    lang_region: Asia
+    

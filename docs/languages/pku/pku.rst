@@ -1,0 +1,22 @@
+.. _pku:
+
+Paku
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: pku
+    alternate_names: []
+    anglicanized_name: Paku
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: pku
+    lang_direction: ltr
+    lang_name: Paku
+    lang_region: Asia
+    

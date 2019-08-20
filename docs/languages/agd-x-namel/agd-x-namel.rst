@@ -1,0 +1,20 @@
+.. _agd-x-namel:
+
+Agarabi Namel
+=============
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Agarabi Namel
+    country_codes: []
+    gateway_language: tpi
+    lang_code: agd-x-namel
+    lang_direction: ltr
+    lang_name: Agarabi Namel
+    lang_region: Pacific
+    

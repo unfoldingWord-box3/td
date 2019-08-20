@@ -1,0 +1,22 @@
+.. _ojp:
+
+上代日本語
+===============
+
+This language is spoken in the following countries:
+
+* JP: Japan
+
+.. code-block:: yaml
+
+    ISO_639-3: ojp
+    alternate_names: []
+    anglicanized_name: Old Japanese
+    country_codes:
+    - JP
+    gateway_language: null
+    lang_code: ojp
+    lang_direction: ltr
+    lang_name: 上代日本語
+    lang_region: Asia
+    

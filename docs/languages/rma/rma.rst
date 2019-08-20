@@ -1,0 +1,22 @@
+.. _rma:
+
+Rama
+====
+
+This language is spoken in the following countries:
+
+* NI: Nicaragua
+
+.. code-block:: yaml
+
+    ISO_639-3: rma
+    alternate_names: []
+    anglicanized_name: Rama
+    country_codes:
+    - NI
+    gateway_language: es-419
+    lang_code: rma
+    lang_direction: ltr
+    lang_name: Rama
+    lang_region: Americas
+    

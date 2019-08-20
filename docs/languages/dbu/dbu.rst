@@ -1,0 +1,28 @@
+.. _dbu:
+
+Bondum Dom Dogon
+================
+
+This language is spoken in the following countries:
+
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: dbu
+    alternate_names:
+    - Bondum-Dom
+    - Dogon, Najamba-Kindige
+    - Kindjim
+    - Nadjamba
+    - Dogon
+    - Najamba-Kindige
+    anglicanized_name: Dogon, Bondum Dom
+    country_codes:
+    - ML
+    gateway_language: fr
+    lang_code: dbu
+    lang_direction: ltr
+    lang_name: Bondum Dom Dogon
+    lang_region: Africa
+    

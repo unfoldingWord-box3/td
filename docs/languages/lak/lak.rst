@@ -1,0 +1,25 @@
+.. _lak:
+
+Laka (Nigeria)
+==============
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: lak
+    alternate_names:
+    - Godogodo
+    - Lao Habe
+    - Lau
+    anglicanized_name: Laka
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: lak
+    lang_direction: ltr
+    lang_name: Laka (Nigeria)
+    lang_region: Africa
+    

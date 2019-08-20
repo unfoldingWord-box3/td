@@ -1,0 +1,25 @@
+.. _klg:
+
+Tagakaulo
+=========
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: klg
+    alternate_names:
+    - Kalagan, Tagakaulu
+    - Kalagan
+    - Tagakaulu
+    anglicanized_name: Tagakaulo
+    country_codes:
+    - PH
+    gateway_language: ceb
+    lang_code: klg
+    lang_direction: ltr
+    lang_name: Tagakaulo
+    lang_region: Asia
+    

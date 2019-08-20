@@ -1,0 +1,28 @@
+.. _bun:
+
+Sherbro
+=======
+
+This language is spoken in the following countries:
+
+* SL: Sierra Leone
+
+.. code-block:: yaml
+
+    ISO_639-3: bun
+    alternate_names:
+    - Amampa
+    - Mampa
+    - Mampwa
+    - Shiba
+    - Southern Bullom
+    - Shenge Sherbro
+    anglicanized_name: Sherbro
+    country_codes:
+    - SL
+    gateway_language: en
+    lang_code: bun
+    lang_direction: ltr
+    lang_name: Sherbro
+    lang_region: Africa
+    

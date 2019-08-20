@@ -1,0 +1,39 @@
+.. _lbe:
+
+Лакский
+==============
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+* RU: Russian Federation
+* TM: Turkmenistan
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: lbe
+    alternate_names:
+    - Kazikumukhtsy
+    - Laki
+    - Vicxin (Vitskhin)
+    - Arakul
+    - Vixlin (Vikhlin)
+    - Shandi
+    - Shali
+    - Pervotsovkrin
+    - Kumux (Kumkh)
+    - Kayalin-Mashikin
+    - Balxar-Calakan (Balkar-Tsalakan)
+    anglicanized_name: Lak
+    country_codes:
+    - AZ
+    - RU
+    - TM
+    - UZ
+    gateway_language: ru
+    lang_code: lbe
+    lang_direction: ltr
+    lang_name: Лакский
+    lang_region: Europe
+    

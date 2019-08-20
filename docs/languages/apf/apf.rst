@@ -1,0 +1,23 @@
+.. _apf:
+
+Pahanan Agta
+============
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: apf
+    alternate_names:
+    - Palanan Agta
+    anglicanized_name: Agta, Pahanan
+    country_codes:
+    - PH
+    gateway_language: ilo
+    lang_code: apf
+    lang_direction: ltr
+    lang_name: Pahanan Agta
+    lang_region: Asia
+    

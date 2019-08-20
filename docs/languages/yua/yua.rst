@@ -1,0 +1,30 @@
+.. _yua:
+
+Yucateco
+========
+
+This language is spoken in the following countries:
+
+* BZ: Belize
+* MX: Mexico
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: yua
+    alternate_names:
+    - Maya
+    - Yucantán Maya
+    - Peninsular Maya
+    - Yucatan Maya
+    anglicanized_name: Maya, Yucatec
+    country_codes:
+    - BZ
+    - MX
+    - US
+    gateway_language: es-419
+    lang_code: yua
+    lang_direction: ltr
+    lang_name: Yucateco
+    lang_region: Americas
+    

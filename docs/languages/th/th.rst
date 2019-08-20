@@ -1,0 +1,51 @@
+.. _th:
+
+ไทย
+=========
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/tha>`_ identifies this language as ``tha``.
+
+This language is spoken in the following countries:
+
+* FR: France
+* DE: Germany
+* MY: Malaysia
+* TH: Thailand
+* US: United States of America
+* AU: Australia
+* KH: Cambodia
+* CA: Canada
+* SG: Singapore
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: tha
+    alternate_names:
+    - Central Tai
+    - Siamese
+    - Standard Thai
+    - Thaiklang
+    - Thaikorat
+    - Thai Norkor Raja (Siam Nokor)
+    - Thai Koh Kong
+    - Khorat Thai (Korat)
+    - Siam Trang
+    anglicanized_name: Thai
+    country_codes:
+    - FR
+    - DE
+    - MY
+    - TH
+    - US
+    - AU
+    - KH
+    - CA
+    - SG
+    - MM
+    gateway_language: th
+    lang_code: th
+    lang_direction: ltr
+    lang_name: ไทย
+    lang_region: Asia
+    

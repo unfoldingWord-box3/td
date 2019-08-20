@@ -1,0 +1,24 @@
+.. _afk:
+
+Nanubae
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: afk
+    alternate_names:
+    - Aunda
+    - Kapagmai
+    anglicanized_name: Nanubae
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: afk
+    lang_direction: ltr
+    lang_name: Nanubae
+    lang_region: Pacific
+    

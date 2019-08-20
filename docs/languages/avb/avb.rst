@@ -1,0 +1,23 @@
+.. _avb:
+
+Avau
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: avb
+    alternate_names:
+    - Awau
+    anglicanized_name: Avau
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: avb
+    lang_direction: ltr
+    lang_name: Avau
+    lang_region: Pacific
+    

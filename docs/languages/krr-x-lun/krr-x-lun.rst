@@ -1,0 +1,20 @@
+.. _krr-x-lun:
+
+Lun
+===
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Lun
+    country_codes: []
+    gateway_language: km
+    lang_code: krr-x-lun
+    lang_direction: ltr
+    lang_name: Lun
+    lang_region: Asia
+    

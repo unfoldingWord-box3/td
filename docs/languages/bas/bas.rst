@@ -1,0 +1,32 @@
+.. _bas:
+
+Basa (Cameroon)
+===============
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: bas
+    alternate_names:
+    - Basa
+    - Bassa
+    - Bicek
+    - Bikyek
+    - Bisaa
+    - Mbele
+    - Mee
+    - Mvele
+    - Northern Mbene
+    - Tupen
+    anglicanized_name: Basaa
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: bas
+    lang_direction: ltr
+    lang_name: Basa (Cameroon)
+    lang_region: Africa
+    

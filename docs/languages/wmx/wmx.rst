@@ -1,0 +1,22 @@
+.. _wmx:
+
+Womo
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: wmx
+    alternate_names: []
+    anglicanized_name: Womo
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: wmx
+    lang_direction: ltr
+    lang_name: Womo
+    lang_region: Pacific
+    

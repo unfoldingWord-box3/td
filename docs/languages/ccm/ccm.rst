@@ -1,0 +1,23 @@
+.. _ccm:
+
+Malaccan Creole Malay
+=====================
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: ccm
+    alternate_names:
+    - Chitties Creole Malay
+    anglicanized_name: Malaccan Creole Malay
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: ccm
+    lang_direction: ltr
+    lang_name: Malaccan Creole Malay
+    lang_region: Asia
+    

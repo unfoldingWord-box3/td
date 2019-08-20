@@ -1,0 +1,30 @@
+.. _mhk:
+
+Mungaka
+=======
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: mhk
+    alternate_names:
+    - Bali
+    - Li
+    - Munga'ka
+    - Ngaaka
+    - Nga'ka
+    - Bali Nyonga (Bali)
+    - Nde (Bandeng)
+    - Ti (Bati)
+    anglicanized_name: Mungaka
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: mhk
+    lang_direction: ltr
+    lang_name: Mungaka
+    lang_region: Africa
+    

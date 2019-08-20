@@ -1,0 +1,27 @@
+.. _rnw:
+
+Rungwa
+======
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: rnw
+    alternate_names:
+    - Ichirungwa
+    - Icilungwa
+    - Kirungwa
+    - Lungwa
+    - Runga
+    anglicanized_name: Rungwa
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: rnw
+    lang_direction: ltr
+    lang_name: Rungwa
+    lang_region: Africa
+    

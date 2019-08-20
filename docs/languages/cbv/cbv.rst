@@ -1,0 +1,31 @@
+.. _cbv:
+
+Cacua
+=====
+
+This language is spoken in the following countries:
+
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: cbv
+    alternate_names:
+    - Báda
+    - Cakua
+    - Kakua
+    - Kákwa
+    - Macu de Cubeo
+    - Macu de Desano
+    - Macu de Guanano
+    - Macú-Paraná
+    - Wacara
+    anglicanized_name: Cacua
+    country_codes:
+    - CO
+    gateway_language: es-419
+    lang_code: cbv
+    lang_direction: ltr
+    lang_name: Cacua
+    lang_region: Americas
+    

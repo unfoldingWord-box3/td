@@ -1,0 +1,27 @@
+.. _bms:
+
+Bilma Kanuri
+============
+
+This language is spoken in the following countries:
+
+* NE: Niger
+
+.. code-block:: yaml
+
+    ISO_639-3: bms
+    alternate_names:
+    - Bla Bla
+    - Kanouri
+    - Kanoury
+    - Bilma
+    - Fachi
+    anglicanized_name: Kanuri, Bilma
+    country_codes:
+    - NE
+    gateway_language: fr
+    lang_code: bms
+    lang_direction: ltr
+    lang_name: Bilma Kanuri
+    lang_region: Africa
+    

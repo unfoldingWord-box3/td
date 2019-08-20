@@ -1,0 +1,27 @@
+.. _bwo:
+
+Boro (Ethiopia)
+===============
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: bwo
+    alternate_names:
+    - Boro
+    - Bworo
+    - Scinacia
+    - Bulen-Dibat'e
+    - Wenbera-Dangur
+    anglicanized_name: Borna
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: bwo
+    lang_direction: ltr
+    lang_name: Boro (Ethiopia)
+    lang_region: Africa
+    

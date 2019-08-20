@@ -1,0 +1,25 @@
+.. _vag:
+
+Vagla
+=====
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: vag
+    alternate_names:
+    - Konosarola
+    - Paxala
+    - Vagala
+    anglicanized_name: Vagla
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: vag
+    lang_direction: ltr
+    lang_name: Vagla
+    lang_region: Africa
+    

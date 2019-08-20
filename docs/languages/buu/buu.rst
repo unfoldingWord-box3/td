@@ -1,0 +1,27 @@
+.. _buu:
+
+Budu
+====
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: buu
+    alternate_names:
+    - Bodo
+    - Ebudu
+    - Ineta (Timoniko)
+    - Wadimbisa (Isombi)
+    - West Bafwangada (Bafanio)
+    anglicanized_name: Budu
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: buu
+    lang_direction: ltr
+    lang_name: Budu
+    lang_region: Africa
+    

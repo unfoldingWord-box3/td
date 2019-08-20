@@ -1,0 +1,23 @@
+.. _dgu:
+
+Degaru
+======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: dgu
+    alternate_names:
+    - Dhekaru
+    anglicanized_name: Degaru
+    country_codes:
+    - IN
+    gateway_language: bn
+    lang_code: dgu
+    lang_direction: ltr
+    lang_name: Degaru
+    lang_region: Asia
+    

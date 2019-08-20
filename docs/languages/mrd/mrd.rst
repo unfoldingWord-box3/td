@@ -1,0 +1,28 @@
+.. _mrd:
+
+Western Magar
+=============
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: mrd
+    alternate_names:
+    - Magar
+    - Magari
+    - Mangar
+    - Mangari
+    - Palpa
+    - Syangja
+    anglicanized_name: Magar, Western
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: mrd
+    lang_direction: ltr
+    lang_name: Western Magar
+    lang_region: Asia
+    

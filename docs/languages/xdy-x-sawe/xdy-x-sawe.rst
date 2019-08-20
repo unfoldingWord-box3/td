@@ -1,0 +1,20 @@
+.. _xdy-x-sawe:
+
+Dayak Sawe
+==========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes: []
+    gateway_language: id
+    lang_code: xdy-x-sawe
+    lang_direction: ltr
+    lang_name: Dayak Sawe
+    lang_region: Asia
+    

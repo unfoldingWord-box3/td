@@ -1,0 +1,25 @@
+.. _luc:
+
+Aringa
+======
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: luc
+    alternate_names:
+    - Low Lugbara
+    anglicanized_name: Aringa
+    country_codes:
+    - SS
+    - UG
+    gateway_language: en
+    lang_code: luc
+    lang_direction: ltr
+    lang_name: Aringa
+    lang_region: Africa
+    

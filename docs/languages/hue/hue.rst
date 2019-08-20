@@ -1,0 +1,23 @@
+.. _hue:
+
+San Francisco Del Mar Huave
+===========================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: hue
+    alternate_names:
+    - Huave del Este
+    anglicanized_name: Huave, San Francisco del Mar
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: hue
+    lang_direction: ltr
+    lang_name: San Francisco Del Mar Huave
+    lang_region: Americas
+    

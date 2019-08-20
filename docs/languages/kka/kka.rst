@@ -1,0 +1,25 @@
+.. _kka:
+
+Kakanda
+=======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kka
+    alternate_names:
+    - Adyaktye
+    - Akanda
+    - Hyabe
+    anglicanized_name: Kakanda
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: kka
+    lang_direction: ltr
+    lang_name: Kakanda
+    lang_region: Africa
+    

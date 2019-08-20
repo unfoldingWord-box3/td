@@ -1,0 +1,27 @@
+.. _etx:
+
+Eten
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: etx
+    alternate_names:
+    - Aten
+    - Etien
+    - Jal
+    - Niten
+    - Ten
+    anglicanized_name: Iten
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: etx
+    lang_direction: ltr
+    lang_name: Eten
+    lang_region: Africa
+    

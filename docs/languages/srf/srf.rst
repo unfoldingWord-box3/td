@@ -1,0 +1,23 @@
+.. _srf:
+
+Nafi
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: srf
+    alternate_names:
+    - Sirak
+    anglicanized_name: Nafi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: srf
+    lang_direction: ltr
+    lang_name: Nafi
+    lang_region: Pacific
+    

@@ -1,0 +1,30 @@
+.. _pko:
+
+Pökoot
+=======
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: pko
+    alternate_names:
+    - Pakot
+    - Pökot
+    - Suk
+    - Pokot
+    - East Pokot
+    - West Pokot
+    anglicanized_name: Pökoot
+    country_codes:
+    - KE
+    - UG
+    gateway_language: sw
+    lang_code: pko
+    lang_direction: ltr
+    lang_name: Pökoot
+    lang_region: Africa
+    

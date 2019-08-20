@@ -1,0 +1,39 @@
+.. _lsi:
+
+Lashi
+=====
+
+This language is spoken in the following countries:
+
+* CN: China
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: lsi
+    alternate_names:
+    - Acye
+    - Chashanhua
+    - Lachikwaw
+    - Laji
+    - Laqi
+    - Lasi
+    - Leqi
+    - Leshi
+    - Letsi
+    - Ac'ye
+    - Chashan
+    - Lacid
+    - Lacik
+    - Lashi-Maru
+    - Lechi
+    anglicanized_name: Lashi
+    country_codes:
+    - CN
+    - MM
+    gateway_language: my
+    lang_code: lsi
+    lang_direction: ltr
+    lang_name: Lashi
+    lang_region: Asia
+    

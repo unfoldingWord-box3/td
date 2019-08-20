@@ -1,0 +1,24 @@
+.. _hik:
+
+Seit-Kaitetu
+============
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: hik
+    alternate_names:
+    - Hila-Kaitetu
+    - Seit (Seith)
+    anglicanized_name: Seit-Kaitetu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: hik
+    lang_direction: ltr
+    lang_name: Seit-Kaitetu
+    lang_region: Asia
+    

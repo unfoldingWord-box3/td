@@ -1,0 +1,22 @@
+.. _hoa:
+
+Hoava
+=====
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: hoa
+    alternate_names: []
+    anglicanized_name: Hoava
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: hoa
+    lang_direction: ltr
+    lang_name: Hoava
+    lang_region: Pacific
+    

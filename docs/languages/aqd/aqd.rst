@@ -1,0 +1,25 @@
+.. _aqd:
+
+Ampari Dogon
+============
+
+This language is spoken in the following countries:
+
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: aqd
+    alternate_names:
+    - Ambeenge
+    - Ampari
+    - Pignari
+    anglicanized_name: Dogon, Ampari
+    country_codes:
+    - ML
+    gateway_language: fr
+    lang_code: aqd
+    lang_direction: ltr
+    lang_name: Ampari Dogon
+    lang_region: Africa
+    

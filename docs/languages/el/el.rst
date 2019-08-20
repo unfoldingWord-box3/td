@@ -1,0 +1,63 @@
+.. _el:
+
+ελληνικά
+================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ell>`_ identifies this language as ``ell``.
+
+This language is spoken in the following countries:
+
+* AT: Austria
+* CY: Cyprus
+* GR: Greece
+* DE: Germany
+* KZ: Kazakhstan
+* GB: United Kingdom of Great Britain and Northern Ireland
+* AL: Albania
+* CZ: Czechia
+* NZ: New Zealand
+* TR: Turkey
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* GE: Georgia
+* IT: Italy
+* MW: Malawi
+
+.. code-block:: yaml
+
+    ISO_639-3: ell
+    alternate_names:
+    - Ellinika
+    - Graecae
+    - Grec
+    - Greco
+    - Neo-Hellenic
+    - Romaic
+    - Griko
+    - Tavro-Rumeic
+    - Mariupol Greek (Crimeo-Rumeic)
+    anglicanized_name: Greek (modern)
+    country_codes:
+    - AT
+    - CY
+    - GR
+    - DE
+    - KZ
+    - GB
+    - AL
+    - CZ
+    - NZ
+    - TR
+    - US
+    - AU
+    - CA
+    - GE
+    - IT
+    - MW
+    gateway_language: en
+    lang_code: el
+    lang_direction: ltr
+    lang_name: ελληνικά
+    lang_region: Europe
+    

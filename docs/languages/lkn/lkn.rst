@@ -1,0 +1,27 @@
+.. _lkn:
+
+Lakon
+=====
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: lkn
+    alternate_names:
+    - Lakona Bay
+    - West Gaua
+    - Qatareu
+    - Togla
+    - Vure
+    anglicanized_name: Lakon
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: lkn
+    lang_direction: ltr
+    lang_name: Lakon
+    lang_region: Pacific
+    

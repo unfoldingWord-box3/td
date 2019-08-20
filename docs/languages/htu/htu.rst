@@ -1,0 +1,22 @@
+.. _htu:
+
+Hitu
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: htu
+    alternate_names: []
+    anglicanized_name: Hitu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: htu
+    lang_direction: ltr
+    lang_name: Hitu
+    lang_region: Asia
+    

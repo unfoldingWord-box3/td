@@ -1,0 +1,40 @@
+.. _kxd:
+
+Brunei
+======
+
+This language is spoken in the following countries:
+
+* BN: Brunei Darussalam
+* MY: Malaysia
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: kxd
+    alternate_names:
+    - Brunei-Kadaian
+    - Orang Bukit
+    - Karayan
+    - Kerayan
+    - Kedyan
+    - Kedayan (Kadaian)
+    - Kadyan
+    - Kadien
+    - Kadian
+    - Kadayan
+    - Kadaian (Kadayan)
+    - Kedien
+    anglicanized_name: Brunei
+    country_codes:
+    - BN
+    - MY
+    - US
+    - CA
+    gateway_language: ms
+    lang_code: kxd
+    lang_direction: ltr
+    lang_name: Brunei
+    lang_region: Asia
+    

@@ -1,0 +1,58 @@
+.. _ee:
+
+Eʋegbe
+=======
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ewe>`_ identifies this language as ``ewe``.
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+* BF: Burkina Faso
+* GH: Ghana
+* LR: Liberia
+* NG: Nigeria
+* US: United States of America
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: ewe
+    alternate_names:
+    - Ebwe
+    - Efe
+    - Eibe
+    - Eue
+    - Eve
+    - Gbe
+    - Krepe
+    - Krepi
+    - Popo
+    - Vhe
+    - Ehwe
+    - Be
+    - Vlin
+    - Vo
+    - Togo
+    - Ho
+    - Gbin
+    - Aveno
+    - Anglo (Anlo)
+    - Adan
+    - Agu
+    - Awlan
+    anglicanized_name: Ewe
+    country_codes:
+    - BJ
+    - BF
+    - GH
+    - LR
+    - NG
+    - US
+    - TG
+    gateway_language: en
+    lang_code: ee
+    lang_direction: ltr
+    lang_name: Eʋegbe
+    lang_region: Africa
+    

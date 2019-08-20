@@ -1,0 +1,23 @@
+.. _gew:
+
+Gera
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: gew
+    alternate_names:
+    - Gerawa
+    anglicanized_name: Gera
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: gew
+    lang_direction: ltr
+    lang_name: Gera
+    lang_region: Africa
+    

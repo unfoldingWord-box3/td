@@ -1,0 +1,22 @@
+.. _kkk:
+
+Kokota
+======
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: kkk
+    alternate_names: []
+    anglicanized_name: Kokota
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: kkk
+    lang_direction: ltr
+    lang_name: Kokota
+    lang_region: Pacific
+    

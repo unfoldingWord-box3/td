@@ -1,0 +1,27 @@
+.. _bdq:
+
+Tiếng Ba Na
+=============
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: bdq
+    alternate_names:
+    - Bana
+    - Bahnar Bonom (Bomam)
+    - Jolong (Gio-Lang)
+    - Y-Lang
+    - Alakong (A-La Cong)
+    anglicanized_name: Bahnar
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: bdq
+    lang_direction: ltr
+    lang_name: Tiếng Ba Na
+    lang_region: Asia
+    

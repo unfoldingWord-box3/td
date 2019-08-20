@@ -1,0 +1,46 @@
+.. _os:
+
+ирон æвзаг
+===================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/oss>`_ identifies this language as ``oss``.
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+* KZ: Kazakhstan
+* TJ: Tajikistan
+* RU: Russian Federation
+* TR: Turkey
+* GE: Georgia
+* KG: Kyrgyzstan
+* TM: Turkmenistan
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: oss
+    alternate_names:
+    - Osetin
+    - Ossete
+    - Digor (Digorian)
+    - Digoron
+    - Dogor
+    - Kudar (South Osetin)
+    anglicanized_name: Ossetian, Ossetic
+    country_codes:
+    - AZ
+    - KZ
+    - TJ
+    - RU
+    - TR
+    - GE
+    - KG
+    - TM
+    - UZ
+    gateway_language: ru
+    lang_code: os
+    lang_direction: ltr
+    lang_name: ирон æвзаг
+    lang_region: Europe
+    

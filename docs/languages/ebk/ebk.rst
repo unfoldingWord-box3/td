@@ -1,0 +1,25 @@
+.. _ebk:
+
+Eastern Bontok
+==============
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: ebk
+    alternate_names:
+    - Eastern Bontoc
+    - Finallig
+    - Southern Bontoc
+    anglicanized_name: Bontok, Eastern
+    country_codes:
+    - PH
+    gateway_language: ilo
+    lang_code: ebk
+    lang_direction: ltr
+    lang_name: Eastern Bontok
+    lang_region: Asia
+    

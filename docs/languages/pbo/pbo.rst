@@ -1,0 +1,28 @@
+.. _pbo:
+
+Papel
+=====
+
+This language is spoken in the following countries:
+
+* SN: Senegal
+* GW: Guinea-Bissau
+
+.. code-block:: yaml
+
+    ISO_639-3: pbo
+    alternate_names:
+    - Moium
+    - Oium
+    - Papei
+    - Pepel
+    anglicanized_name: Papel
+    country_codes:
+    - SN
+    - GW
+    gateway_language: pt
+    lang_code: pbo
+    lang_direction: ltr
+    lang_name: Papel
+    lang_region: Africa
+    

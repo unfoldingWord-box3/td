@@ -1,0 +1,22 @@
+.. _nko:
+
+Nkonya
+======
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: nko
+    alternate_names: []
+    anglicanized_name: Nkonya
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: nko
+    lang_direction: ltr
+    lang_name: Nkonya
+    lang_region: Africa
+    

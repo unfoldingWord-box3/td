@@ -1,0 +1,32 @@
+.. _dos:
+
+Dogosé
+=======
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: dos
+    alternate_names:
+    - Doghose
+    - Doghosié
+    - Dokhobe
+    - Dokhosié
+    - Dorhossié
+    - Dorhosye
+    - Doro Doghosié
+    - Dorobé
+    - Dorosie
+    - Dorossé
+    anglicanized_name: Dogosé
+    country_codes:
+    - BF
+    gateway_language: fr
+    lang_code: dos
+    lang_direction: ltr
+    lang_name: Dogosé
+    lang_region: Africa
+    

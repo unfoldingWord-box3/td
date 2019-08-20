@@ -1,0 +1,22 @@
+.. _dac:
+
+Dambi
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: dac
+    alternate_names: []
+    anglicanized_name: Dambi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: dac
+    lang_direction: ltr
+    lang_name: Dambi
+    lang_region: Pacific
+    

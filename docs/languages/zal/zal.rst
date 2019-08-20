@@ -1,0 +1,27 @@
+.. _zal:
+
+柔若
+======
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: zal
+    alternate_names:
+    - Jaojo
+    - Raorou
+    - Rourou
+    - Wupijiang
+    - Bijilan
+    anglicanized_name: Zauzou
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: zal
+    lang_direction: ltr
+    lang_name: 柔若
+    lang_region: Asia
+    

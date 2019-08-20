@@ -1,0 +1,26 @@
+.. _nsk:
+
+Naskapi
+=======
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: nsk
+    alternate_names:
+    - Innu Aimun
+    - Iyuw Iyimuuun
+    - Eastern Naskapi (Natuashish)
+    - Western Naskapi (Kawawachikamach)
+    anglicanized_name: Naskapi
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: nsk
+    lang_direction: ltr
+    lang_name: Naskapi
+    lang_region: Americas
+    

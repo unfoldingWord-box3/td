@@ -1,0 +1,33 @@
+.. _buk:
+
+Bugawac
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: buk
+    alternate_names:
+    - Bukaua
+    - Bukawac
+    - Kawa
+    - Kawac
+    - Yom Gawac
+    - Central-Western Bugawac
+    - Western Bugawac
+    - Eastern Bugawac
+    - Central-Eastern Bugawac
+    - Central Bugawac
+    - South-Western Bugawac
+    anglicanized_name: Bugawac
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: buk
+    lang_direction: ltr
+    lang_name: Bugawac
+    lang_region: Pacific
+    

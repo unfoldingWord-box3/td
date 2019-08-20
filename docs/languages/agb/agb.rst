@@ -1,0 +1,27 @@
+.. _agb:
+
+Legbo
+=====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: agb
+    alternate_names:
+    - Gbo
+    - Igbo
+    - Imaban
+    - Itigidi
+    - Leggbo
+    anglicanized_name: Legbo
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: agb
+    lang_direction: ltr
+    lang_name: Legbo
+    lang_region: Africa
+    

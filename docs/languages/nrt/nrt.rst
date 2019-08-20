@@ -1,0 +1,22 @@
+.. _nrt:
+
+Northern Kalapuya
+=================
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: nrt
+    alternate_names: []
+    anglicanized_name: Northern Kalapuya
+    country_codes:
+    - US
+    gateway_language: null
+    lang_code: nrt
+    lang_direction: ltr
+    lang_name: Northern Kalapuya
+    lang_region: Americas
+    

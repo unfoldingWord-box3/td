@@ -1,0 +1,22 @@
+.. _tse:
+
+Tunisian Sign Language
+======================
+
+This language is spoken in the following countries:
+
+* TN: Tunisia
+
+.. code-block:: yaml
+
+    ISO_639-3: tse
+    alternate_names: []
+    anglicanized_name: Tunisian Sign Language
+    country_codes:
+    - TN
+    gateway_language: ar
+    lang_code: tse
+    lang_direction: ltr
+    lang_name: Tunisian Sign Language
+    lang_region: Africa
+    

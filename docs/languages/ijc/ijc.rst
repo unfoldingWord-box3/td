@@ -1,0 +1,36 @@
+.. _ijc:
+
+Izon
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ijc
+    alternate_names:
+    - Central-Western Ijo
+    - Ijo
+    - Izo
+    - Uzo
+    - Kolokuma-Opokuma
+    - Kumbo (Kumbowei)
+    - Bumo (Boma)
+    - Koluama
+    - Operemo
+    - Gbarain
+    - East Olodiama
+    - Basan (Bassan)
+    - East Tarakiri
+    - Kabo (Kabowei)
+    anglicanized_name: Izon
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ijc
+    lang_direction: ltr
+    lang_name: Izon
+    lang_region: Africa
+    

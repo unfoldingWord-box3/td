@@ -1,0 +1,23 @@
+.. _jru:
+
+Japrería
+=========
+
+This language is spoken in the following countries:
+
+* VE: Venezuela (Bolivarian Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: jru
+    alternate_names:
+    - Yapreria
+    anglicanized_name: Japreria
+    country_codes:
+    - VE
+    gateway_language: es-419
+    lang_code: jru
+    lang_direction: ltr
+    lang_name: Japrería
+    lang_region: Americas
+    

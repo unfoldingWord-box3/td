@@ -1,0 +1,33 @@
+.. _emb:
+
+Embaloh
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: emb
+    alternate_names:
+    - Malo
+    - Maloh
+    - Matoh
+    - Mbaloh
+    - Memaloh
+    - Palin
+    - Pari
+    - Sangau
+    - Sanggau
+    - Kalis (Kalis Dayak)
+    - Kalis Maloh
+    anglicanized_name: Embaloh
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: emb
+    lang_direction: ltr
+    lang_name: Embaloh
+    lang_region: Asia
+    

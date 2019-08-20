@@ -1,0 +1,23 @@
+.. _psr:
+
+Portuguese Sign Language
+========================
+
+This language is spoken in the following countries:
+
+* PT: Portugal
+
+.. code-block:: yaml
+
+    ISO_639-3: psr
+    alternate_names:
+    - Lingua Gestual Portuguesa
+    anglicanized_name: Portuguese Sign Language
+    country_codes:
+    - PT
+    gateway_language: pt
+    lang_code: psr
+    lang_direction: ltr
+    lang_name: Portuguese Sign Language
+    lang_region: Europe
+    

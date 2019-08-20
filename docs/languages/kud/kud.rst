@@ -1,0 +1,26 @@
+.. _kud:
+
+'Auhelawa
+=========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kud
+    alternate_names:
+    - Kurada
+    - Nuakata
+    - Ulada
+    - Urada
+    anglicanized_name: ’Auhelawa
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kud
+    lang_direction: ltr
+    lang_name: '''Auhelawa'
+    lang_region: Pacific
+    

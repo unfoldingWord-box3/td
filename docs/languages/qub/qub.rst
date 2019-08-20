@@ -1,0 +1,22 @@
+.. _qub:
+
+Huallaga Huánuco Quechua
+=========================
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: qub
+    alternate_names: []
+    anglicanized_name: Quechua, Huallaga Huánuco
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: qub
+    lang_direction: ltr
+    lang_name: Huallaga Huánuco Quechua
+    lang_region: Americas
+    

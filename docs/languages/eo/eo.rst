@@ -1,0 +1,26 @@
+.. _eo:
+
+Esperanto
+=========
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/epo>`_ identifies this language as ``epo``.
+
+This language is spoken in the following countries:
+
+* PL: Poland
+
+.. code-block:: yaml
+
+    ISO_639-3: epo
+    alternate_names:
+    - Eo
+    - La Lingvo Internacia
+    anglicanized_name: Esperanto
+    country_codes:
+    - PL
+    gateway_language: en
+    lang_code: eo
+    lang_direction: ltr
+    lang_name: Esperanto
+    lang_region: Europe
+    

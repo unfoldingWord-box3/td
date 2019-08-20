@@ -1,0 +1,26 @@
+.. _wlg:
+
+Kunbarlang
+==========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: wlg
+    alternate_names:
+    - Gunbalang
+    - Gunbarlang
+    - Gungalang
+    - Walang
+    anglicanized_name: Kunbarlang
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: wlg
+    lang_direction: ltr
+    lang_name: Kunbarlang
+    lang_region: Pacific
+    

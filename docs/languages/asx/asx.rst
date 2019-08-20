@@ -1,0 +1,23 @@
+.. _asx:
+
+Muratayak
+=========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: asx
+    alternate_names:
+    - Murataik
+    anglicanized_name: Muratayak
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: asx
+    lang_direction: ltr
+    lang_name: Muratayak
+    lang_region: Pacific
+    

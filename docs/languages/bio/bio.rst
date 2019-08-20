@@ -1,0 +1,23 @@
+.. _bio:
+
+Nai
+===
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bio
+    alternate_names:
+    - Biaka
+    anglicanized_name: Nai
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bio
+    lang_direction: ltr
+    lang_name: Nai
+    lang_region: Pacific
+    

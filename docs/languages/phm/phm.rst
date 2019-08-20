@@ -1,0 +1,23 @@
+.. _phm:
+
+Phimbi
+======
+
+This language is spoken in the following countries:
+
+* MZ: Mozambique
+
+.. code-block:: yaml
+
+    ISO_639-3: phm
+    alternate_names:
+    - Pimbi
+    anglicanized_name: Phimbi
+    country_codes:
+    - MZ
+    gateway_language: pt
+    lang_code: phm
+    lang_direction: ltr
+    lang_name: Phimbi
+    lang_region: Africa
+    

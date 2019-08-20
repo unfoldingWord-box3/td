@@ -1,0 +1,30 @@
+.. _ksb:
+
+Shambala
+========
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: ksb
+    alternate_names:
+    - Kisambaa
+    - Kishambaa
+    - Kishambala
+    - Sambaa
+    - Sambala
+    - Sambara
+    - Schambala
+    - Shambaa
+    anglicanized_name: Shambala
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: ksb
+    lang_direction: ltr
+    lang_name: Shambala
+    lang_region: Africa
+    

@@ -1,0 +1,25 @@
+.. _kme:
+
+Bakole
+======
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: kme
+    alternate_names:
+    - Bakolle
+    - Bamusso
+    - Kole
+    anglicanized_name: Bakole
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: kme
+    lang_direction: ltr
+    lang_name: Bakole
+    lang_region: Africa
+    

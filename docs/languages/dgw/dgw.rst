@@ -1,0 +1,27 @@
+.. _dgw:
+
+Daungwurrung
+============
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: dgw
+    alternate_names:
+    - Daung Wurrung
+    - Dhagung-wurrung
+    - Taungurong
+    - Taungurung
+    - Thagawurung
+    anglicanized_name: Daungwurrung
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: dgw
+    lang_direction: ltr
+    lang_name: Daungwurrung
+    lang_region: Pacific
+    

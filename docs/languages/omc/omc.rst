@@ -1,0 +1,22 @@
+.. _omc:
+
+Mochica
+=======
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: omc
+    alternate_names: []
+    anglicanized_name: Mochica
+    country_codes:
+    - PE
+    gateway_language: null
+    lang_code: omc
+    lang_direction: ltr
+    lang_name: Mochica
+    lang_region: Americas
+    

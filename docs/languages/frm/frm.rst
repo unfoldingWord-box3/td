@@ -1,0 +1,22 @@
+.. _frm:
+
+Middle French (ca. 1400-1600)
+=============================
+
+This language is spoken in the following countries:
+
+* FR: France
+
+.. code-block:: yaml
+
+    ISO_639-3: frm
+    alternate_names: []
+    anglicanized_name: Middle French
+    country_codes:
+    - FR
+    gateway_language: null
+    lang_code: frm
+    lang_direction: ltr
+    lang_name: Middle French (ca. 1400-1600)
+    lang_region: Europe
+    

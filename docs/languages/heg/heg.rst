@@ -1,0 +1,28 @@
+.. _heg:
+
+Helong
+======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: heg
+    alternate_names:
+    - Helon
+    - Kupang
+    - Semau
+    - Funai (Land Helong)
+    - Helong Darat (Bolok)
+    - Helong Pulau (Island Helong)
+    anglicanized_name: Helong
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: heg
+    lang_direction: ltr
+    lang_name: Helong
+    lang_region: Asia
+    

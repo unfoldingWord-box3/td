@@ -1,0 +1,23 @@
+.. _puw:
+
+Puluwatese
+==========
+
+This language is spoken in the following countries:
+
+* FM: Micronesia (Federated States of)
+
+.. code-block:: yaml
+
+    ISO_639-3: puw
+    alternate_names:
+    - Puluwat
+    anglicanized_name: Puluwatese
+    country_codes:
+    - FM
+    gateway_language: en
+    lang_code: puw
+    lang_direction: ltr
+    lang_name: Puluwatese
+    lang_region: Pacific
+    

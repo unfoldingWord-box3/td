@@ -1,0 +1,23 @@
+.. _jvd:
+
+Javindo
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: jvd
+    alternate_names:
+    - Krontjong
+    anglicanized_name: Javindo
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: jvd
+    lang_direction: ltr
+    lang_name: Javindo
+    lang_region: Asia
+    

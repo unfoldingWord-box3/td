@@ -1,0 +1,24 @@
+.. _ia:
+
+Interlingua
+===========
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ina>`_ identifies this language as ``ina``.
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: ina
+    alternate_names: []
+    anglicanized_name: Interlingua
+    country_codes:
+    - IT
+    gateway_language: null
+    lang_code: ia
+    lang_direction: ltr
+    lang_name: Interlingua
+    lang_region: Europe
+    

@@ -1,0 +1,23 @@
+.. _xmw:
+
+Tsimihety Malagasy
+==================
+
+This language is spoken in the following countries:
+
+* MG: Madagascar
+
+.. code-block:: yaml
+
+    ISO_639-3: xmw
+    alternate_names:
+    - Tsimihety
+    anglicanized_name: Malagasy, Tsimihety
+    country_codes:
+    - MG
+    gateway_language: plt
+    lang_code: xmw
+    lang_direction: ltr
+    lang_name: Tsimihety Malagasy
+    lang_region: Africa
+    

@@ -1,0 +1,30 @@
+.. _poh:
+
+Poqomchi'
+=========
+
+This language is spoken in the following countries:
+
+* GT: Guatemala
+
+.. code-block:: yaml
+
+    ISO_639-3: poh
+    alternate_names:
+    - Pocomchí
+    - Poconchí
+    - Pokomchí
+    - Pokonchí
+    - Tactic Pokomchí
+    - Santa Cruz Verapaz Poqomchi
+    - Western Poqomchi
+    - Eastern Poqomchi
+    anglicanized_name: Poqomchi’
+    country_codes:
+    - GT
+    gateway_language: es-419
+    lang_code: poh
+    lang_direction: ltr
+    lang_name: Poqomchi'
+    lang_region: Americas
+    

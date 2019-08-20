@@ -1,0 +1,24 @@
+.. _hol:
+
+Holu
+====
+
+This language is spoken in the following countries:
+
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: hol
+    alternate_names:
+    - Holo
+    - Kiholu
+    anglicanized_name: Holu
+    country_codes:
+    - AO
+    gateway_language: pt
+    lang_code: hol
+    lang_direction: ltr
+    lang_name: Holu
+    lang_region: Africa
+    

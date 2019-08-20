@@ -1,0 +1,46 @@
+.. _wo:
+
+Wollof
+======
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/wol>`_ identifies this language as ``wol``.
+
+This language is spoken in the following countries:
+
+* GA: Gabon
+* ML: Mali
+* MR: Mauritania
+* SN: Senegal
+* US: United States of America
+* CA: Canada
+* GW: Guinea-Bissau
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: wol
+    alternate_names:
+    - Ouolof
+    - Volof
+    - Walaf
+    - Yallof
+    - Waro-Waro
+    - Dyolof (Djolof)
+    - Jolof
+    - Lebou (Lebu)
+    anglicanized_name: Wolof
+    country_codes:
+    - GA
+    - ML
+    - MR
+    - SN
+    - US
+    - CA
+    - GW
+    - IT
+    gateway_language: fr
+    lang_code: wo
+    lang_direction: ltr
+    lang_name: Wollof
+    lang_region: Africa
+    

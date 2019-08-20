@@ -1,0 +1,22 @@
+.. _xeb:
+
+Eblan
+=====
+
+This language is spoken in the following countries:
+
+* SY: Syrian Arab Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: xeb
+    alternate_names: []
+    anglicanized_name: Eblan
+    country_codes:
+    - SY
+    gateway_language: null
+    lang_code: xeb
+    lang_direction: ltr
+    lang_name: Eblan
+    lang_region: Asia
+    

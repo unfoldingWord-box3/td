@@ -1,0 +1,20 @@
+.. _xdy-x-parangkunyit:
+
+Dayak Parangkunyit
+==================
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Dayak Parangkunyit
+    country_codes: []
+    gateway_language: id
+    lang_code: xdy-x-parangkunyit
+    lang_direction: ltr
+    lang_name: Dayak Parangkunyit
+    lang_region: Asia
+    

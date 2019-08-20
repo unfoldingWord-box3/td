@@ -1,0 +1,25 @@
+.. _mnf:
+
+Mundani
+=======
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: mnf
+    alternate_names:
+    - Bamumbo (Bamumbu)
+    - Iguambo (Igumbo)
+    - Nko (Nkong)
+    anglicanized_name: Mundani
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: mnf
+    lang_direction: ltr
+    lang_name: Mundani
+    lang_region: Africa
+    

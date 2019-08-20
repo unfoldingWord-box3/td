@@ -1,0 +1,28 @@
+.. _pui:
+
+Puinave
+=======
+
+This language is spoken in the following countries:
+
+* VE: Venezuela (Bolivarian Republic of)
+* CO: Colombia
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: pui
+    alternate_names:
+    - Puinare
+    - Wanse
+    anglicanized_name: Puinave
+    country_codes:
+    - VE
+    - CO
+    - US
+    gateway_language: es-419
+    lang_code: pui
+    lang_direction: ltr
+    lang_name: Puinave
+    lang_region: Americas
+    

@@ -1,0 +1,20 @@
+.. _hni-x-longpuha:
+
+Longpu Hani
+===========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes: []
+    gateway_language: zh
+    lang_code: hni-x-longpuha
+    lang_direction: ltr
+    lang_name: Longpu Hani
+    lang_region: Asia
+    

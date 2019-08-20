@@ -1,0 +1,22 @@
+.. _smv:
+
+Samvedi
+=======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: smv
+    alternate_names: []
+    anglicanized_name: Samvedi
+    country_codes:
+    - IN
+    gateway_language: mr
+    lang_code: smv
+    lang_direction: ltr
+    lang_name: Samvedi
+    lang_region: Asia
+    

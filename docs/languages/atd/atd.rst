@@ -1,0 +1,25 @@
+.. _atd:
+
+Ata Manobo
+==========
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: atd
+    alternate_names:
+    - Ata of Davao
+    - Atao Manobo
+    - Langilan
+    anglicanized_name: Manobo, Ata
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: atd
+    lang_direction: ltr
+    lang_name: Ata Manobo
+    lang_region: Asia
+    

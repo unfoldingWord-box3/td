@@ -1,0 +1,31 @@
+.. _mhs:
+
+Buru (Indonesia)
+================
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mhs
+    alternate_names:
+    - Boeroe
+    - Buruese
+    - Wae Geren
+    - Wae Sama (Waesama)
+    - Tomahu
+    - Masarete (South Buru)
+    - Fogi (Li Emteban)
+    - Central Buru (Rana)
+    - Wae Kabo
+    anglicanized_name: Buru
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mhs
+    lang_direction: ltr
+    lang_name: Buru (Indonesia)
+    lang_region: Asia
+    

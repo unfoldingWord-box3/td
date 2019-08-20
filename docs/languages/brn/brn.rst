@@ -1,0 +1,26 @@
+.. _brn:
+
+Boruca
+======
+
+This language is spoken in the following countries:
+
+* CR: Costa Rica
+
+.. code-block:: yaml
+
+    ISO_639-3: brn
+    alternate_names:
+    - Borunca
+    - Brunca
+    - Brunka
+    - Burunca
+    anglicanized_name: Boruca
+    country_codes:
+    - CR
+    gateway_language: es-419
+    lang_code: brn
+    lang_direction: ltr
+    lang_name: Boruca
+    lang_region: Americas
+    

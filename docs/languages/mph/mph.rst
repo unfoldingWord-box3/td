@@ -1,0 +1,26 @@
+.. _mph:
+
+Maung
+=====
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: mph
+    alternate_names:
+    - Gunmarung
+    - Gun-Marung
+    - Mawng
+    - Mawung
+    anglicanized_name: Maung
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: mph
+    lang_direction: ltr
+    lang_name: Maung
+    lang_region: Pacific
+    

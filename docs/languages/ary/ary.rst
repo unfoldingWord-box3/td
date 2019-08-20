@@ -1,0 +1,62 @@
+.. _ary:
+
+الدارجة
+==============
+
+This language is spoken in the following countries:
+
+* DZ: Algeria
+* BE: Belgium
+* FR: France
+* DE: Germany
+* MA: Morocco
+* ES: Spain
+* GB: United Kingdom of Great Britain and Northern Ireland
+* NL: Netherlands
+* US: United States of America
+* CA: Canada
+* IT: Italy
+* LY: Libya
+* GI: Gibraltar
+* PT: Portugal
+
+.. code-block:: yaml
+
+    ISO_639-3: ary
+    alternate_names:
+    - Colloquial Arabic
+    - Maghrebi Arabic
+    - Maghribi
+    - Moroccan Arabic
+    - Moroccan Colloquial Arabic
+    - Moroccan Dareja
+    - Moroccan Darija
+    - Moroccan Dereja
+    - Fez
+    - Tangier
+    - Meknes
+    - Jebelia
+    - Jebli (Jbala)
+    - Marrakech
+    anglicanized_name: Arabic, Moroccan Spoken
+    country_codes:
+    - DZ
+    - BE
+    - FR
+    - DE
+    - MA
+    - ES
+    - GB
+    - NL
+    - US
+    - CA
+    - IT
+    - LY
+    - GI
+    - PT
+    gateway_language: ar
+    lang_code: ary
+    lang_direction: rtl
+    lang_name: الدارجة
+    lang_region: Africa
+    

@@ -1,0 +1,26 @@
+.. _ibm:
+
+Agoi
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ibm
+    alternate_names:
+    - Ibami
+    - Ro Bambami
+    - Wa Bambani
+    - Wagoi
+    anglicanized_name: Agoi
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ibm
+    lang_direction: ltr
+    lang_name: Agoi
+    lang_region: Africa
+    

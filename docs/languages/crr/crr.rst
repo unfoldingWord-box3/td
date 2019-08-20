@@ -1,0 +1,22 @@
+.. _crr:
+
+Carolina Algonquian
+===================
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: crr
+    alternate_names: []
+    anglicanized_name: Carolina Algonquin
+    country_codes:
+    - US
+    gateway_language: null
+    lang_code: crr
+    lang_direction: ltr
+    lang_name: Carolina Algonquian
+    lang_region: Americas
+    

@@ -1,0 +1,23 @@
+.. _goc:
+
+Gorakor
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: goc
+    alternate_names:
+    - Yanta
+    anglicanized_name: Gorakor
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: goc
+    lang_direction: ltr
+    lang_name: Gorakor
+    lang_region: Pacific
+    

@@ -1,0 +1,35 @@
+.. _muo:
+
+Nyong
+=====
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: muo
+    alternate_names:
+    - Daganonga
+    - Daganyonga
+    - Mubako
+    - Mumbake
+    - Ndagam
+    - Samba Bali
+    - Chukkol
+    - Nyoking
+    - Peti
+    - Teteka
+    - Yapeli
+    anglicanized_name: Nyong
+    country_codes:
+    - CM
+    - NG
+    gateway_language: fr
+    lang_code: muo
+    lang_direction: ltr
+    lang_name: Nyong
+    lang_region: Africa
+    

@@ -1,0 +1,29 @@
+.. _rak:
+
+Tulu-Bohuai
+===========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: rak
+    alternate_names:
+    - Bohuai-Tulu
+    - Bowai
+    - Pahavai
+    - Pelipowai
+    - Pohuai
+    - Tulun
+    - Tulu (Tjudun)
+    anglicanized_name: Tulu-Bohuai
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: rak
+    lang_direction: ltr
+    lang_name: Tulu-Bohuai
+    lang_region: Pacific
+    

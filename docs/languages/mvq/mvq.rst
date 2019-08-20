@@ -1,0 +1,22 @@
+.. _mvq:
+
+Moere
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mvq
+    alternate_names: []
+    anglicanized_name: Moere
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mvq
+    lang_direction: ltr
+    lang_name: Moere
+    lang_region: Pacific
+    

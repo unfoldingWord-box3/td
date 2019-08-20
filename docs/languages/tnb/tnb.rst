@@ -1,0 +1,24 @@
+.. _tnb:
+
+Western Tunebo
+==============
+
+This language is spoken in the following countries:
+
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: tnb
+    alternate_names:
+    - Aguas Blancas
+    - U'wa
+    anglicanized_name: Tunebo, Western
+    country_codes:
+    - CO
+    gateway_language: es-419
+    lang_code: tnb
+    lang_direction: ltr
+    lang_name: Western Tunebo
+    lang_region: Americas
+    

@@ -1,0 +1,22 @@
+.. _xxt:
+
+Tambora
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: xxt
+    alternate_names: []
+    anglicanized_name: Tambora
+    country_codes:
+    - ID
+    gateway_language: null
+    lang_code: xxt
+    lang_direction: ltr
+    lang_name: Tambora
+    lang_region: Asia
+    

@@ -1,0 +1,20 @@
+.. _djo-x-dayaktinying:
+
+Dayak Tinying
+=============
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Dayak Tinying
+    country_codes: []
+    gateway_language: id
+    lang_code: djo-x-dayaktinying
+    lang_direction: ltr
+    lang_name: Dayak Tinying
+    lang_region: Asia
+    

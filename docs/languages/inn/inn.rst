@@ -1,0 +1,26 @@
+.. _inn:
+
+Isinai
+======
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: inn
+    alternate_names:
+    - Inmeas
+    - Insinai
+    - Isinay
+    - Isnay
+    anglicanized_name: Isinai
+    country_codes:
+    - PH
+    gateway_language: ilo
+    lang_code: inn
+    lang_direction: ltr
+    lang_name: Isinai
+    lang_region: Asia
+    

@@ -1,0 +1,24 @@
+.. _sc:
+
+sardu
+=====
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/srd>`_ identifies this language as ``srd``.
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: srd
+    alternate_names: []
+    anglicanized_name: Sardinian
+    country_codes:
+    - IT
+    gateway_language: null
+    lang_code: sc
+    lang_direction: ltr
+    lang_name: sardu
+    lang_region: Europe
+    

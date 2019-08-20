@@ -1,0 +1,24 @@
+.. _nkt:
+
+Nyika
+=====
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: nkt
+    alternate_names:
+    - Kinyiha
+    - Kinyika
+    anglicanized_name: Nyika, Kinyika
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: nkt
+    lang_direction: ltr
+    lang_name: Nyika
+    lang_region: Africa
+    

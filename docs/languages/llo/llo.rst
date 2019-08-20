@@ -1,0 +1,24 @@
+.. _llo:
+
+Khlor
+=====
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names:
+    - Klor
+    - Lor
+    anglicanized_name: Khlor
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: llo
+    lang_direction: ltr
+    lang_name: Khlor
+    lang_region: Asia
+    

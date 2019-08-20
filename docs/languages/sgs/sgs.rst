@@ -1,0 +1,22 @@
+.. _sgs:
+
+Samogitian
+==========
+
+This language is spoken in the following countries:
+
+* LT: Lithuania
+
+.. code-block:: yaml
+
+    ISO_639-3: sgs
+    alternate_names: []
+    anglicanized_name: Samogitian
+    country_codes:
+    - LT
+    gateway_language: null
+    lang_code: sgs
+    lang_direction: ltr
+    lang_name: Samogitian
+    lang_region: Europe
+    

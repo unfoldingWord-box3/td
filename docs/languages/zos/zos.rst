@@ -1,0 +1,24 @@
+.. _zos:
+
+Francisco León Zoque
+=====================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zos
+    alternate_names:
+    - Santa Magdalena Zoque
+    - Zoque de Francisco León
+    anglicanized_name: Zoque, Francisco León
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zos
+    lang_direction: ltr
+    lang_name: Francisco León Zoque
+    lang_region: Americas
+    

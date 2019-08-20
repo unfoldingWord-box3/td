@@ -1,0 +1,24 @@
+.. _afd:
+
+Andai
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: afd
+    alternate_names:
+    - Pundungum
+    - Wangkai
+    anglicanized_name: Andai
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: afd
+    lang_direction: ltr
+    lang_name: Andai
+    lang_region: Pacific
+    

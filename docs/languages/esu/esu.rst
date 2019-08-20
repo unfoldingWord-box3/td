@@ -1,0 +1,25 @@
+.. _esu:
+
+Central Yupik
+=============
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: esu
+    alternate_names:
+    - Central Alaskan Yupik
+    - Kuskokwim Yupik (Bethel Yupik)
+    - Cup'ik
+    anglicanized_name: Yupik, Central
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: esu
+    lang_direction: ltr
+    lang_name: Central Yupik
+    lang_region: Americas
+    

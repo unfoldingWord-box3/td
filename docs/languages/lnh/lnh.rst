@@ -1,0 +1,23 @@
+.. _lnh:
+
+Lanoh
+=====
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: lnh
+    alternate_names:
+    - Jengjeng
+    anglicanized_name: Lanoh
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: lnh
+    lang_direction: ltr
+    lang_name: Lanoh
+    lang_region: Asia
+    

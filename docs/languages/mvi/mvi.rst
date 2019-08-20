@@ -1,0 +1,24 @@
+.. _mvi:
+
+宮古口
+=========
+
+This language is spoken in the following countries:
+
+* JP: Japan
+
+.. code-block:: yaml
+
+    ISO_639-3: mvi
+    alternate_names:
+    - Miyako-Jima (Hirara)
+    - Ogami
+    anglicanized_name: Miyako
+    country_codes:
+    - JP
+    gateway_language: ja
+    lang_code: mvi
+    lang_direction: ltr
+    lang_name: 宮古口
+    lang_region: Asia
+    

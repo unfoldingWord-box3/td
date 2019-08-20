@@ -1,0 +1,36 @@
+.. _bap:
+
+बान्तवा
+=====================
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: bap
+    alternate_names:
+    - Bantaba
+    - Bantawa Dum
+    - Bantawa Rai
+    - Bantawa Yong
+    - Bantawa Yüng
+    - Bontawa
+    - Kirat Khambu
+    - Kirat Khambu Rai
+    - Rai
+    - Amchoke (Western Bantawa)
+    - Dhankuta (Eastern Bantawa)
+    - Dilpali (Northern Bantawa)
+    - Hatuwali (Southern Bantawa)
+    - Kiranti
+    anglicanized_name: Bantawa
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: bap
+    lang_direction: ltr
+    lang_name: बान्तवा
+    lang_region: Asia
+    

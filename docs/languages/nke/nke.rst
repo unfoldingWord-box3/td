@@ -1,0 +1,25 @@
+.. _nke:
+
+Duke
+====
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: nke
+    alternate_names:
+    - Kolombangara
+    - Ndughore
+    - Nduke
+    anglicanized_name: Duke
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: nke
+    lang_direction: ltr
+    lang_name: Duke
+    lang_region: Pacific
+    

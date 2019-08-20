@@ -1,0 +1,22 @@
+.. _wmm:
+
+Maiwa (Indonesia)
+=================
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: wmm
+    alternate_names: []
+    anglicanized_name: Maiwa
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: wmm
+    lang_direction: ltr
+    lang_name: Maiwa (Indonesia)
+    lang_region: Asia
+    

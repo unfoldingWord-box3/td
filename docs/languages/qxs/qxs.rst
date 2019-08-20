@@ -1,0 +1,24 @@
+.. _qxs:
+
+Southern Qiang
+==============
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: qxs
+    alternate_names:
+    - Ch'iang
+    - Dajishan (Daqishan)
+    anglicanized_name: Qiang, Southern
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: qxs
+    lang_direction: ltr
+    lang_name: Southern Qiang
+    lang_region: Asia
+    

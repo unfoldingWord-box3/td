@@ -1,0 +1,26 @@
+.. _cgc:
+
+Kagayanen
+=========
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: cgc
+    alternate_names:
+    - Cagayano
+    - Kagay-anen
+    - Kinagayanen
+    - Calamian Kagayanen
+    anglicanized_name: Kagayanen
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: cgc
+    lang_direction: ltr
+    lang_name: Kagayanen
+    lang_region: Asia
+    

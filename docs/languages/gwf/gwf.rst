@@ -1,0 +1,24 @@
+.. _gwf:
+
+گوورو
+==========
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: gwf
+    alternate_names:
+    - Gabar Khel
+    - Gabaro
+    anglicanized_name: Gowro
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: gwf
+    lang_direction: ltr
+    lang_name: گوورو
+    lang_region: Asia
+    

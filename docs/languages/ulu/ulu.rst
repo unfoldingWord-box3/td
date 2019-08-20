@@ -1,0 +1,23 @@
+.. _ulu:
+
+Uma' Lung
+=========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: ulu
+    alternate_names:
+    - Oma Longh
+    anglicanized_name: Uma’ Lung
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: ulu
+    lang_direction: ltr
+    lang_name: Uma' Lung
+    lang_region: Asia
+    

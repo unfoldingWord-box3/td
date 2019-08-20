@@ -1,0 +1,22 @@
+.. _tpr:
+
+Tuparí
+=======
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: tpr
+    alternate_names: []
+    anglicanized_name: Tuparí
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: tpr
+    lang_direction: ltr
+    lang_name: Tuparí
+    lang_region: Americas
+    

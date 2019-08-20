@@ -1,0 +1,26 @@
+.. _lna:
+
+Langbashe
+=========
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: lna
+    alternate_names:
+    - Langbase
+    - Langbashi
+    - Langbwasse
+    - Langwasi
+    anglicanized_name: Langbashe
+    country_codes:
+    - CF
+    gateway_language: fr
+    lang_code: lna
+    lang_direction: ltr
+    lang_name: Langbashe
+    lang_region: Africa
+    

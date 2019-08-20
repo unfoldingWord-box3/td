@@ -1,0 +1,28 @@
+.. _khn:
+
+Khandesi
+========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: khn
+    alternate_names:
+    - Dhed Gujari
+    - Khandeshi
+    - Khandeshi Bhili
+    - Khandish
+    - Maharashtra Bhil
+    - Kunbi (Kunbau)
+    anglicanized_name: Khandesi
+    country_codes:
+    - IN
+    gateway_language: mr
+    lang_code: khn
+    lang_direction: ltr
+    lang_name: Khandesi
+    lang_region: Asia
+    

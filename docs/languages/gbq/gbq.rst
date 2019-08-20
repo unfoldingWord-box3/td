@@ -1,0 +1,23 @@
+.. _gbq:
+
+Gbaya-Bozoum
+============
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: gbq
+    alternate_names:
+    - Gbaya de Bozoum
+    anglicanized_name: Gbaya-Bozoum
+    country_codes:
+    - CF
+    gateway_language: fr
+    lang_code: gbq
+    lang_direction: ltr
+    lang_name: Gbaya-Bozoum
+    lang_region: Africa
+    

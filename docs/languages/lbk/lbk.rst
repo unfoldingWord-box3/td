@@ -1,0 +1,25 @@
+.. _lbk:
+
+Central Bontok
+==============
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: lbk
+    alternate_names:
+    - Bontoc
+    - Bontoc Igorot
+    - Central
+    anglicanized_name: Bontok, Central
+    country_codes:
+    - PH
+    gateway_language: ilo
+    lang_code: lbk
+    lang_direction: ltr
+    lang_name: Central Bontok
+    lang_region: Asia
+    

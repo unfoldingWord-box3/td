@@ -1,0 +1,20 @@
+.. _skv-x-moso:
+
+Moso
+====
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Moso
+    country_codes: []
+    gateway_language: id
+    lang_code: skv-x-moso
+    lang_direction: ltr
+    lang_name: Moso
+    lang_region: Asia
+    

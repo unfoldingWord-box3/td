@@ -1,0 +1,28 @@
+.. _xmv:
+
+Antankarana Malagasy
+====================
+
+This language is spoken in the following countries:
+
+* MG: Madagascar
+
+.. code-block:: yaml
+
+    ISO_639-3: xmv
+    alternate_names:
+    - Antakarana
+    - Antakarana Malagasy
+    - Antekarana
+    - Antekarana Malagasy
+    - Tankarana
+    - Tankarana Malagasy
+    anglicanized_name: Malagasy, Antankarana
+    country_codes:
+    - MG
+    gateway_language: plt
+    lang_code: xmv
+    lang_direction: ltr
+    lang_name: Antankarana Malagasy
+    lang_region: Africa
+    

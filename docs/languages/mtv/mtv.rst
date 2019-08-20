@@ -1,0 +1,24 @@
+.. _mtv:
+
+Asaro'o
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mtv
+    alternate_names:
+    - Morafa
+    - Molet
+    anglicanized_name: Asaro’o
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mtv
+    lang_direction: ltr
+    lang_name: Asaro'o
+    lang_region: Pacific
+    

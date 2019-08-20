@@ -1,0 +1,24 @@
+.. _txn:
+
+West Tarangan
+=============
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: txn
+    alternate_names:
+    - Tarangan Barat
+    - West Trangan
+    anglicanized_name: Tarangan, West
+    country_codes:
+    - ID
+    gateway_language: abs
+    lang_code: txn
+    lang_direction: ltr
+    lang_name: West Tarangan
+    lang_region: Asia
+    

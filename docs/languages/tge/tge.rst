@@ -1,0 +1,22 @@
+.. _tge:
+
+Eastern Gorkha Tamang
+=====================
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: tge
+    alternate_names: []
+    anglicanized_name: Tamang, Eastern Gorkha
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: tge
+    lang_direction: ltr
+    lang_name: Eastern Gorkha Tamang
+    lang_region: Asia
+    

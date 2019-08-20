@@ -1,0 +1,25 @@
+.. _gar:
+
+Galeya
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: gar
+    alternate_names:
+    - Garea
+    - Gameta
+    - Garea (Galeya)
+    anglicanized_name: Galeya
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: gar
+    lang_direction: ltr
+    lang_name: Galeya
+    lang_region: Pacific
+    

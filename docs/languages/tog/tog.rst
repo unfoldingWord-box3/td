@@ -1,0 +1,27 @@
+.. _tog:
+
+Tonga (Nyasa)
+=============
+
+This language is spoken in the following countries:
+
+* MW: Malawi
+
+.. code-block:: yaml
+
+    ISO_639-3: tog
+    alternate_names:
+    - Chitonga
+    - Kitonga
+    - Siska
+    - Sisya
+    - Western Nyasa
+    anglicanized_name: Tonga
+    country_codes:
+    - MW
+    gateway_language: en
+    lang_code: tog
+    lang_direction: ltr
+    lang_name: Tonga (Nyasa)
+    lang_region: Africa
+    

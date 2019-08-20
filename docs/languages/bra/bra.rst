@@ -1,0 +1,29 @@
+.. _bra:
+
+Braj
+====
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: bra
+    alternate_names:
+    - Antarvedi
+    - Bijbhasha
+    - Braj Bhakha
+    - Bri
+    - Brij Bhasha
+    - Briju
+    - Bruj
+    anglicanized_name: Braj Bhasha
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: bra
+    lang_direction: ltr
+    lang_name: Braj
+    lang_region: Asia
+    

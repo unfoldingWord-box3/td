@@ -1,0 +1,24 @@
+.. _piv:
+
+Pileni
+======
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: piv
+    alternate_names:
+    - Pilheni
+    - Taumako (Duff)
+    anglicanized_name: Vaeakau-Taumako
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: piv
+    lang_direction: ltr
+    lang_name: Pileni
+    lang_region: Pacific
+    

@@ -1,0 +1,22 @@
+.. _kfn:
+
+Kuk
+===
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: kfn
+    alternate_names: []
+    anglicanized_name: Kuk
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: kfn
+    lang_direction: ltr
+    lang_name: Kuk
+    lang_region: Africa
+    

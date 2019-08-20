@@ -1,0 +1,22 @@
+.. _gnc:
+
+Guanche
+=======
+
+This language is spoken in the following countries:
+
+* ES: Spain
+
+.. code-block:: yaml
+
+    ISO_639-3: gnc
+    alternate_names: []
+    anglicanized_name: Guanche
+    country_codes:
+    - ES
+    gateway_language: null
+    lang_code: gnc
+    lang_direction: ltr
+    lang_name: Guanche
+    lang_region: Europe
+    

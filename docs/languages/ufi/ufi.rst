@@ -1,0 +1,22 @@
+.. _ufi:
+
+Ufim
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ufi
+    alternate_names: []
+    anglicanized_name: Ufim
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ufi
+    lang_direction: ltr
+    lang_name: Ufim
+    lang_region: Pacific
+    

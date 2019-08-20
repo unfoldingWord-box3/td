@@ -1,0 +1,24 @@
+.. _fat:
+
+Fanti
+=====
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+* LR: Liberia
+
+.. code-block:: yaml
+
+    ISO_639-3: fat
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - GH
+    - LR
+    gateway_language: null
+    lang_code: fat
+    lang_direction: ltr
+    lang_name: Fanti
+    lang_region: Africa
+    

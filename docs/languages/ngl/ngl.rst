@@ -1,0 +1,39 @@
+.. _ngl:
+
+Lomwe
+=====
+
+This language is spoken in the following countries:
+
+* MZ: Mozambique
+* MW: Malawi
+
+.. code-block:: yaml
+
+    ISO_639-3: ngl
+    alternate_names:
+    - Acilowe
+    - Alomwe
+    - Chilowe
+    - Cilowe
+    - Elomwe
+    - Ilomwe
+    - Ingulu
+    - Lomue
+    - Mihavane
+    - Mihavani
+    - Mihawani
+    - Ngulu
+    - Nguru
+    - Walomwe
+    - Western Makua
+    anglicanized_name: Lomwe
+    country_codes:
+    - MZ
+    - MW
+    gateway_language: pt
+    lang_code: ngl
+    lang_direction: ltr
+    lang_name: Lomwe
+    lang_region: Africa
+    

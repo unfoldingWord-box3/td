@@ -1,0 +1,24 @@
+.. _mkw:
+
+Kituba (Congo)
+==============
+
+This language is spoken in the following countries:
+
+* CG: Congo
+
+.. code-block:: yaml
+
+    ISO_639-3: mkw
+    alternate_names:
+    - Kikoongo
+    - Munukutuba
+    anglicanized_name: Kituba
+    country_codes:
+    - CG
+    gateway_language: fr
+    lang_code: mkw
+    lang_direction: ltr
+    lang_name: Kituba (Congo)
+    lang_region: Africa
+    

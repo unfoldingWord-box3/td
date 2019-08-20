@@ -1,0 +1,29 @@
+.. _mrh:
+
+Mara Chin
+=========
+
+This language is spoken in the following countries:
+
+* IN: India
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: mrh
+    alternate_names:
+    - Mara
+    - Maram
+    - Mira
+    - Zao
+    - Tlongsai (Tlosai-Siaha)
+    anglicanized_name: Chin, Mara
+    country_codes:
+    - IN
+    - MM
+    gateway_language: hi
+    lang_code: mrh
+    lang_direction: ltr
+    lang_name: Mara Chin
+    lang_region: Asia
+    

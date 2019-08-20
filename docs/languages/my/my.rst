@@ -1,0 +1,55 @@
+.. _my:
+
+ဗမာစာ
+===============
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/mya>`_ identifies this language as ``mya``.
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* DE: Germany
+* LA: Lao People's Democratic Republic
+* GB: United Kingdom of Great Britain and Northern Ireland
+* MY: Malaysia
+* TH: Thailand
+* US: United States of America
+* AU: Australia
+* KH: Cambodia
+* CA: Canada
+* IN: India
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: mya
+    alternate_names:
+    - Bama
+    - Bamachaka
+    - Myanmar
+    - Myen
+    - Yangon Burmese
+    - Mergui
+    - Mandalay Burmese
+    - Beik (Merguese)
+    - Bamar
+    anglicanized_name: Burmese
+    country_codes:
+    - BD
+    - DE
+    - LA
+    - GB
+    - MY
+    - TH
+    - US
+    - AU
+    - KH
+    - CA
+    - IN
+    - MM
+    gateway_language: null
+    lang_code: my
+    lang_direction: ltr
+    lang_name: ဗမာစာ
+    lang_region: Asia
+    

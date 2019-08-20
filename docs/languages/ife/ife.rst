@@ -1,0 +1,30 @@
+.. _ife:
+
+Ifè
+====
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: ife
+    alternate_names:
+    - Ana
+    - Anago
+    - Ana-Ife
+    - Baate
+    - Ede Ife
+    - Ana-Ifé
+    anglicanized_name: Ifè
+    country_codes:
+    - BJ
+    - TG
+    gateway_language: fr
+    lang_code: ife
+    lang_direction: ltr
+    lang_name: Ifè
+    lang_region: Africa
+    

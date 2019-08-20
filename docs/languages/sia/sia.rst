@@ -1,0 +1,25 @@
+.. _sia:
+
+Бабинский
+==================
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: sia
+    alternate_names:
+    - Ahkkil
+    - Babino
+    - Babinsk
+    anglicanized_name: Saami, Akkala
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: sia
+    lang_direction: ltr
+    lang_name: Бабинский
+    lang_region: Europe
+    

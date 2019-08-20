@@ -1,0 +1,22 @@
+.. _mbb:
+
+Western Bukidnon Manobo
+=======================
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: mbb
+    alternate_names: []
+    anglicanized_name: Manobo, Western Bukidnon
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: mbb
+    lang_direction: ltr
+    lang_name: Western Bukidnon Manobo
+    lang_region: Asia
+    

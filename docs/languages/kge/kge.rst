@@ -1,0 +1,26 @@
+.. _kge:
+
+Komering
+========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kge
+    alternate_names:
+    - Kumoring
+    - Downstream Komering
+    - Kayu Agung Asli
+    - Upstream Komering
+    anglicanized_name: Komering
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kge
+    lang_direction: ltr
+    lang_name: Komering
+    lang_region: Asia
+    

@@ -1,0 +1,24 @@
+.. _yda:
+
+Yanda
+=====
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: yda
+    alternate_names:
+    - Janda
+    - Yunda
+    anglicanized_name: Yanda
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: yda
+    lang_direction: ltr
+    lang_name: Yanda
+    lang_region: Pacific
+    

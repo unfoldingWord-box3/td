@@ -1,0 +1,30 @@
+.. _kxf:
+
+Manumanaw Karen
+===============
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: kxf
+    alternate_names:
+    - Kayah-Munu
+    - Kayàw
+    - Manö
+    - Manu
+    - Manumanaw Karen
+    - Monu
+    - Doloso
+    - Tawkhu
+    anglicanized_name: Manumanaw
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: kxf
+    lang_direction: ltr
+    lang_name: Manumanaw Karen
+    lang_region: Asia
+    

@@ -1,0 +1,31 @@
+.. _jig:
+
+Djingili
+========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: jig
+    alternate_names:
+    - Chingalee
+    - Chunguloo
+    - Djingila
+    - Djingulu
+    - Jingali
+    - Jingulu
+    - Lee
+    - Tchingalee
+    - Tjingilu
+    anglicanized_name: Djingili
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: jig
+    lang_direction: ltr
+    lang_name: Djingili
+    lang_region: Pacific
+    

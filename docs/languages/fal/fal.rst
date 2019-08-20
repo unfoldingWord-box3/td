@@ -1,0 +1,32 @@
+.. _fal:
+
+South Fali
+==========
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: fal
+    alternate_names:
+    - Ndoudja
+    - Kaang
+    - Toro
+    - Ram
+    - Ngoutchoumi
+    - Kangou (Fali Kangou)
+    - Bele (Fali du Bele-Fere)
+    - Fali-Tinguelin (Mango)
+    - Fali-Bele
+    - Kangu
+    anglicanized_name: Fali, South
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: fal
+    lang_direction: ltr
+    lang_name: South Fali
+    lang_region: Africa
+    

@@ -1,0 +1,24 @@
+.. _rel:
+
+Rendille
+========
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: rel
+    alternate_names:
+    - Randile
+    - Rendile
+    anglicanized_name: Rendille
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: rel
+    lang_direction: ltr
+    lang_name: Rendille
+    lang_region: Africa
+    

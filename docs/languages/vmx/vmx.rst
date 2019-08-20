@@ -1,0 +1,23 @@
+.. _vmx:
+
+Tamazola Mixtec
+===============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: vmx
+    alternate_names:
+    - Mixteco de San Juan Tamazola
+    anglicanized_name: Mixtec, Tamazola
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: vmx
+    lang_direction: ltr
+    lang_name: Tamazola Mixtec
+    lang_region: Americas
+    

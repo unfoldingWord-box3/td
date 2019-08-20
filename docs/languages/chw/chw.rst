@@ -1,0 +1,33 @@
+.. _chw:
+
+Chuwabu
+=======
+
+This language is spoken in the following countries:
+
+* MZ: Mozambique
+
+.. code-block:: yaml
+
+    ISO_639-3: chw
+    alternate_names:
+    - Chichwabo
+    - Chuwabo
+    - Chwabo
+    - Cicuabo
+    - Cuabo
+    - Cuwabo
+    - Echuabo
+    - Echuwabo
+    - Txuwabo
+    - Karungu
+    - Marale
+    anglicanized_name: Chuwabu
+    country_codes:
+    - MZ
+    gateway_language: pt
+    lang_code: chw
+    lang_direction: ltr
+    lang_name: Chuwabu
+    lang_region: Africa
+    

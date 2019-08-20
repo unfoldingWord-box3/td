@@ -1,0 +1,31 @@
+.. _dts:
+
+Toro So Dogon
+=============
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: dts
+    alternate_names:
+    - Bomu Tegu
+    - Dogoso
+    - Ibi
+    - Youga
+    - Yorno
+    - Ireli
+    - Sangha
+    anglicanized_name: Dogon, Toro So
+    country_codes:
+    - BF
+    - ML
+    gateway_language: fr
+    lang_code: dts
+    lang_direction: ltr
+    lang_name: Toro So Dogon
+    lang_region: Africa
+    

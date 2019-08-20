@@ -1,0 +1,24 @@
+.. _djd:
+
+Djamindjung
+===========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: djd
+    alternate_names:
+    - Jaminjung
+    - Ngaliwuru (Ngaliwerra)
+    anglicanized_name: Djamindjung
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: djd
+    lang_direction: ltr
+    lang_name: Djamindjung
+    lang_region: Pacific
+    

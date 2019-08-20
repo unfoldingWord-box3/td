@@ -1,0 +1,63 @@
+.. _nl:
+
+Nederlands, Vlaams
+==================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/nld>`_ identifies this language as ``nld``.
+
+This language is spoken in the following countries:
+
+* AT: Austria
+* FR: France
+* DE: Germany
+* GB: United Kingdom of Great Britain and Northern Ireland
+* NL: Netherlands
+* NZ: New Zealand
+* RW: Rwanda
+* SX: Sint Maarten (Dutch part)
+* ZA: South Africa
+* SE: Sweden
+* CH: Switzerland
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* LU: Luxembourg
+* DK: Denmark
+* AW: Aruba
+* SR: Suriname
+
+.. code-block:: yaml
+
+    ISO_639-3: nld
+    alternate_names:
+    - Nederlands
+    - Vlaams
+    - Hollands
+    - Antwerps
+    - Northern North Hollandish (Westfries)
+    anglicanized_name: Dutch
+    country_codes:
+    - AT
+    - FR
+    - DE
+    - GB
+    - NL
+    - NZ
+    - RW
+    - SX
+    - ZA
+    - SE
+    - CH
+    - US
+    - AU
+    - CA
+    - LU
+    - DK
+    - AW
+    - SR
+    gateway_language: null
+    lang_code: nl
+    lang_direction: ltr
+    lang_name: Nederlands, Vlaams
+    lang_region: Europe
+    

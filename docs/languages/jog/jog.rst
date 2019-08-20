@@ -1,0 +1,22 @@
+.. _jog:
+
+Jogi
+====
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: jog
+    alternate_names: []
+    anglicanized_name: Jogi
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: jog
+    lang_direction: ltr
+    lang_name: Jogi
+    lang_region: Asia
+    

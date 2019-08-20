@@ -1,0 +1,35 @@
+.. _lbj:
+
+Ladakhi
+=======
+
+This language is spoken in the following countries:
+
+* CN: China
+* PK: Pakistan
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: lbj
+    alternate_names:
+    - Ladak
+    - Ladaphi
+    - Ladhakhi
+    - Ladwags
+    - Ladakh Skat
+    - Sham
+    - Shamma (Lower Ladakhi)
+    - Shamskat
+    - Leh (Central Ladakhi)
+    anglicanized_name: Ladakhi
+    country_codes:
+    - CN
+    - PK
+    - IN
+    gateway_language: en
+    lang_code: lbj
+    lang_direction: ltr
+    lang_name: Ladakhi
+    lang_region: Asia
+    

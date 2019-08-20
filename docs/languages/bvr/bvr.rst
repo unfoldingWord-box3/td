@@ -1,0 +1,33 @@
+.. _bvr:
+
+Burarra
+=======
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: bvr
+    alternate_names:
+    - Anbarra
+    - Barera
+    - Bawera
+    - Burada
+    - Bureda
+    - Burera
+    - Gidjingaliya Gujingalia
+    - Gujalabiya
+    - Gun-Guragone
+    - Jikai
+    - Tchikai
+    anglicanized_name: Burarra
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: bvr
+    lang_direction: ltr
+    lang_name: Burarra
+    lang_region: Pacific
+    

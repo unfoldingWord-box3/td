@@ -1,0 +1,22 @@
+.. _spr:
+
+Saparua
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: spr
+    alternate_names: []
+    anglicanized_name: Saparua
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: spr
+    lang_direction: ltr
+    lang_name: Saparua
+    lang_region: Asia
+    

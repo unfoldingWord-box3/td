@@ -1,0 +1,30 @@
+.. _kvt:
+
+Lahta Karen
+===========
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: kvt
+    alternate_names:
+    - Kangan
+    - Kayan Lahta
+    - Khahta
+    - Lahta Karen
+    - Peu
+    - Taru
+    - Tarulakhi
+    - Yan Wohta
+    anglicanized_name: Lahta
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: kvt
+    lang_direction: ltr
+    lang_name: Lahta Karen
+    lang_region: Asia
+    

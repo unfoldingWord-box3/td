@@ -1,0 +1,27 @@
+.. _ngo:
+
+Ngoni
+=====
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: ngo
+    alternate_names:
+    - Angoni
+    - Chingoni
+    - Kingoni
+    - Kisutu
+    - Sutu
+    anglicanized_name: Ngoni
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: ngo
+    lang_direction: ltr
+    lang_name: Ngoni
+    lang_region: Africa
+    

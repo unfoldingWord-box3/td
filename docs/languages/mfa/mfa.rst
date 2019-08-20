@@ -1,0 +1,23 @@
+.. _mfa:
+
+Pattani Malay
+=============
+
+This language is spoken in the following countries:
+
+* TH: Thailand
+
+.. code-block:: yaml
+
+    ISO_639-3: mfa
+    alternate_names:
+    - Thai Islam
+    anglicanized_name: Malay, Pattani
+    country_codes:
+    - TH
+    gateway_language: th
+    lang_code: mfa
+    lang_direction: ltr
+    lang_name: Pattani Malay
+    lang_region: Asia
+    

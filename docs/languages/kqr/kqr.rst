@@ -1,0 +1,27 @@
+.. _kqr:
+
+Kimaragang
+==========
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: kqr
+    alternate_names:
+    - Kimaragan
+    - Kimaragangan
+    - Maragang
+    - Marigang
+    - Tandek (Garo)
+    anglicanized_name: Kimaragang
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: kqr
+    lang_direction: ltr
+    lang_name: Kimaragang
+    lang_region: Asia
+    

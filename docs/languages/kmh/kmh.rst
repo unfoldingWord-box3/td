@@ -1,0 +1,24 @@
+.. _kmh:
+
+Kalam
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kmh
+    alternate_names:
+    - Aforo
+    - Karam
+    anglicanized_name: Kalam
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kmh
+    lang_direction: ltr
+    lang_name: Kalam
+    lang_region: Pacific
+    

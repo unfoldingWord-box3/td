@@ -1,0 +1,98 @@
+.. _hy:
+
+Հայերեն
+==============
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/hye>`_ identifies this language as ``hye``.
+
+This language is spoken in the following countries:
+
+* AM: Armenia
+* AZ: Azerbaijan
+* BE: Belgium
+* GR: Greece
+* AR: Argentina
+* FR: France
+* DE: Germany
+* IR: Iran (Islamic Republic of)
+* IQ: Iraq
+* KZ: Kazakhstan
+* LB: Lebanon
+* GB: United Kingdom of Great Britain and Northern Ireland
+* TJ: Tajikistan
+* NL: Netherlands
+* SY: Syrian Arab Republic
+* TR: Turkey
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* GE: Georgia
+* IT: Italy
+* KG: Kyrgyzstan
+* TM: Turkmenistan
+* UZ: Uzbekistan
+* BG: Bulgaria
+
+.. code-block:: yaml
+
+    ISO_639-3: hye
+    alternate_names:
+    - Armjanski Yazyk
+    - Ena
+    - Ermeni Dili
+    - Ermenice
+    - Somkhuri
+    - Armjanski
+    - Haieren
+    - Armani
+    - Erâmani
+    - Somekhuri
+    - Armanski
+    - Erevan (Eriwan)
+    - Konstantinopel
+    - Khoi-Salmst (Khvoy)
+    - Kari
+    - Jolfâ (Dzhulfa)
+    - Hamshen (Hamschen)
+    - Ewdokia (Tokat)
+    - Crimea (Krim)
+    - Dschulfa
+    - Ararat
+    - Constantinople (Istanbul)
+    - Astrakhan (Astrachan)
+    - Astrakhân
+    - Artvin (Artwin)
+    - Dzhulfa (Dschugha)
+    anglicanized_name: Armenian
+    country_codes:
+    - AM
+    - AZ
+    - BE
+    - GR
+    - AR
+    - FR
+    - DE
+    - IR
+    - IQ
+    - KZ
+    - LB
+    - GB
+    - TJ
+    - NL
+    - SY
+    - TR
+    - US
+    - AU
+    - CA
+    - GE
+    - IT
+    - KG
+    - TM
+    - UZ
+    - BG
+    gateway_language: ru
+    lang_code: hy
+    lang_direction: ltr
+    lang_name: Հայերեն
+    lang_region: Asia
+    

@@ -1,0 +1,27 @@
+.. _rej:
+
+Rejang
+======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: rej
+    alternate_names:
+    - Djang
+    - Kepahiang (Kebanagung)
+    - Musi (Curup)
+    - Pasisir
+    - Rawas
+    anglicanized_name: Rejang
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: rej
+    lang_direction: ltr
+    lang_name: Rejang
+    lang_region: Asia
+    

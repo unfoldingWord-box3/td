@@ -1,0 +1,22 @@
+.. _fak:
+
+Fang (Cameroon)
+===============
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: fak
+    alternate_names: []
+    anglicanized_name: Fang
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: fak
+    lang_direction: ltr
+    lang_name: Fang (Cameroon)
+    lang_region: Africa
+    

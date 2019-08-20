@@ -1,0 +1,46 @@
+.. _sck:
+
+Sadri
+=====
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* NP: Nepal
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: sck
+    alternate_names:
+    - Chota Nagpuri
+    - Dikku Kaji
+    - Ganwari
+    - Gauuari
+    - Goari
+    - Jharkhandhi
+    - Nagpuri
+    - Nagpuria
+    - Sadan
+    - Sadana
+    - Sadani
+    - Sadari
+    - Sadati
+    - Sadhan
+    - Sadhari
+    - Sadna
+    - Sadrik
+    - Santri
+    - Siddri
+    - Sradri
+    anglicanized_name: Sadri
+    country_codes:
+    - BD
+    - NP
+    - IN
+    gateway_language: hi
+    lang_code: sck
+    lang_direction: ltr
+    lang_name: Sadri
+    lang_region: Asia
+    

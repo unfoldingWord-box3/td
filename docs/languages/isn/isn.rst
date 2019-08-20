@@ -1,0 +1,25 @@
+.. _isn:
+
+Isanzu
+======
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: isn
+    alternate_names:
+    - Kiisanzu
+    - Kinyihanzu
+    - Kinyisanzu
+    anglicanized_name: Isanzu
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: isn
+    lang_direction: ltr
+    lang_name: Isanzu
+    lang_region: Africa
+    

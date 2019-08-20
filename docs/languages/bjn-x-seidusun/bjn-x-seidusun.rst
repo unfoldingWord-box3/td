@@ -1,0 +1,20 @@
+.. _bjn-x-seidusun:
+
+Dayak Sei Dusun
+===============
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Dayak Sei Dusun
+    country_codes: []
+    gateway_language: id
+    lang_code: bjn-x-seidusun
+    lang_direction: ltr
+    lang_name: Dayak Sei Dusun
+    lang_region: Asia
+    

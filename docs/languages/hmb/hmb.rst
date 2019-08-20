@@ -1,0 +1,38 @@
+.. _hmb:
+
+Humburi Senni Songhay
+=====================
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: hmb
+    alternate_names:
+    - Central Songai
+    - Humburi Senni Songhay
+    - Songai
+    - Songay
+    - Songay Senni
+    - Songhai
+    - Songoi
+    - Songoy
+    - Sonrai
+    - Sonrhai
+    - Hombori Songhay
+    - Songhoy
+    - Maransé
+    - Marensé (Koroboré)
+    anglicanized_name: Songhay, Humburi Senni
+    country_codes:
+    - BF
+    - ML
+    gateway_language: fr
+    lang_code: hmb
+    lang_direction: ltr
+    lang_name: Humburi Senni Songhay
+    lang_region: Africa
+    

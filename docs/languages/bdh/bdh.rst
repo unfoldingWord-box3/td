@@ -1,0 +1,26 @@
+.. _bdh:
+
+Baka (Sudan)
+============
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: bdh
+    alternate_names:
+    - Tara Baaka
+    - Tara Baka
+    anglicanized_name: Baka
+    country_codes:
+    - SS
+    - SD
+    gateway_language: ar
+    lang_code: bdh
+    lang_direction: ltr
+    lang_name: Baka (Sudan)
+    lang_region: Africa
+    

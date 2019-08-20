@@ -1,0 +1,24 @@
+.. _szc:
+
+Semaq Beri
+==========
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: szc
+    alternate_names:
+    - Semaq Bri
+    - Semoq Beri
+    anglicanized_name: Semaq Beri
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: szc
+    lang_direction: ltr
+    lang_name: Semaq Beri
+    lang_region: Asia
+    

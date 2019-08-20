@@ -1,0 +1,28 @@
+.. _lem:
+
+Nomaande
+========
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: lem
+    alternate_names:
+    - Lemande
+    - Mande
+    - Mandi
+    - Noomaante
+    - Numand
+    - Pimenc
+    anglicanized_name: Nomaande
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: lem
+    lang_direction: ltr
+    lang_name: Nomaande
+    lang_region: Africa
+    

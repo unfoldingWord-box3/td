@@ -1,0 +1,37 @@
+.. _kpk:
+
+Kpan
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kpk
+    alternate_names:
+    - Abakan
+    - Hwaso
+    - Hwaye
+    - Ibukwo
+    - Ikpan
+    - Kpanten
+    - Kpwate
+    - Nyatso
+    - Nyonyo
+    - Yorda
+    - Kyentu
+    - Kumbo (Kpanzon)
+    - Donga (Akpanzhi)
+    - Kentu
+    - Kente (Etkye)
+    anglicanized_name: Kpan
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: kpk
+    lang_direction: ltr
+    lang_name: Kpan
+    lang_region: Africa
+    

@@ -1,0 +1,56 @@
+.. _xuu:
+
+Kxoe
+====
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+* NA: Namibia
+
+.. code-block:: yaml
+
+    ISO_639-3: xuu
+    alternate_names:
+    - '!Hukwe'
+    - Black Bushman
+    - Cazama
+    - Glanda-Khwe
+    - Kxoe
+    - Kxoedam
+    - Schekere
+    - Vazama
+    - Water Bushmen
+    - Xu
+    - Xuhwe
+    - Zama
+    - Mbarakwena
+    - Mbarakwengo
+    - Basarwa
+    - Khoe
+    - Barakwena
+    - Barakwengo
+    - Mbara Kwengo
+    - Buga-Khwe
+    - Tannekwe
+    - Gani-Khwe
+    - Bukakhwe
+    - Buga-Kxoe (||Ani-Khoe)
+    - Buga-Kxoe
+    - '||Xom-Kxoe'
+    - '||Xo-Kxoe'
+    - '||Anikxoe'
+    - '||Anikhwe'
+    - '"River Bushman"'
+    - '||Ani'
+    - Boga
+    anglicanized_name: Khwe
+    country_codes:
+    - ZM
+    - NA
+    gateway_language: en
+    lang_code: xuu
+    lang_direction: ltr
+    lang_name: Kxoe
+    lang_region: Africa
+    

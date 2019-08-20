@@ -1,0 +1,30 @@
+.. _nym:
+
+Nyamwezi
+========
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: nym
+    alternate_names:
+    - Kinyamwesi
+    - Kinyamwezi
+    - Namwezi
+    - Nyamwesi
+    - Konongo
+    - Mweri (Kiya)
+    - Sumbwa
+    - Takama (Garaganza)
+    anglicanized_name: Nyamwezi
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: nym
+    lang_direction: ltr
+    lang_name: Nyamwezi
+    lang_region: Africa
+    

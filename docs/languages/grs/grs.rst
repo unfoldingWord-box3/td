@@ -1,0 +1,25 @@
+.. _grs:
+
+Gresi
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: grs
+    alternate_names:
+    - Glesi
+    - Gresik
+    - Klesi
+    anglicanized_name: Gresi
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: grs
+    lang_direction: ltr
+    lang_name: Gresi
+    lang_region: Asia
+    

@@ -1,0 +1,43 @@
+.. _ak:
+
+Akan
+====
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/aka>`_ identifies this language as ``aka``.
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: aka
+    alternate_names:
+    - Ashante Twi
+    - Bono
+    - Dankyira
+    - Fante (Fanti)
+    - Gomua
+    - Kwawu (Kwahu)
+    - Asen
+    - Twi
+    - Akyem (Akyem Bosome)
+    - Mfantse
+    - Asanti
+    - Anomabo Fanti
+    - Akwapi
+    - Akwapem Twi
+    - Akuapem (Akuapim)
+    - Ahafo
+    - Agona
+    - Abura Fanti
+    - Asante (Achanti)
+    anglicanized_name: Akan
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: ak
+    lang_direction: ltr
+    lang_name: Akan
+    lang_region: Africa
+    

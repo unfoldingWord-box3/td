@@ -1,0 +1,28 @@
+.. _sif:
+
+Siamou
+======
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: sif
+    alternate_names:
+    - Seme
+    - Sému
+    - Siémou
+    - Siemu
+    - Syémou
+    - Bandougou
+    anglicanized_name: Siamou
+    country_codes:
+    - BF
+    gateway_language: fr
+    lang_code: sif
+    lang_direction: ltr
+    lang_name: Siamou
+    lang_region: Africa
+    

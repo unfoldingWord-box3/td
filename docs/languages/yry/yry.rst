@@ -1,0 +1,25 @@
+.. _yry:
+
+Yarluyandi
+==========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: yry
+    alternate_names:
+    - Jeljujendi
+    - Yarleeyandee
+    - Yelyuyendi
+    anglicanized_name: Yarluyandi
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: yry
+    lang_direction: ltr
+    lang_name: Yarluyandi
+    lang_region: Pacific
+    

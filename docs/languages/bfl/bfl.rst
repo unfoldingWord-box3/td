@@ -1,0 +1,35 @@
+.. _bfl:
+
+Banda-Ndélé
+=============
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+* SS: South Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: bfl
+    alternate_names:
+    - Banda of Ndélé
+    - Nyele
+    - Tambolo
+    - Ngao (Bandangao)
+    - Tombaggo
+    - Tangbago (Tambaggo)
+    - Tangago
+    - Ngau
+    - Junguru (Djingburu)
+    - Banda-Ndélé
+    - Nguru
+    anglicanized_name: Banda-Ndélé
+    country_codes:
+    - CF
+    - SS
+    gateway_language: fr
+    lang_code: bfl
+    lang_direction: ltr
+    lang_name: Banda-Ndélé
+    lang_region: Africa
+    

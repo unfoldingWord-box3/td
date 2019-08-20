@@ -1,0 +1,20 @@
+.. _ssj-x-kene:
+
+Kene
+====
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Kene
+    country_codes: []
+    gateway_language: tpi
+    lang_code: ssj-x-kene
+    lang_direction: ltr
+    lang_name: Kene
+    lang_region: Pacific
+    

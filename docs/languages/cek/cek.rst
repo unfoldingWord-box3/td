@@ -1,0 +1,43 @@
+.. _cek:
+
+Eastern Khumi Chin
+==================
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: cek
+    alternate_names:
+    - Ta-aw
+    - Ta-oo
+    - Taheunso
+    - Palyng
+    - Paru
+    - Rengsa (Namboi, Nangbwe)
+    - Uiphaw
+    - Sangtha
+    - Tahaensae
+    - Tao Cha
+    - Nisay (Nise)
+    - Kaja
+    - Aki Along
+    - Nideun (Amlai)
+    - Laungtha
+    - Asang (Kasang)
+    - Ghu
+    - Kajauk
+    - Lemi (Akelong)
+    - Likhy (Likhaeng)
+    - Maru
+    anglicanized_name: Chin, Eastern Khumi
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: cek
+    lang_direction: ltr
+    lang_name: Eastern Khumi Chin
+    lang_region: Asia
+    

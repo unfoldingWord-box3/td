@@ -1,0 +1,24 @@
+.. _bln:
+
+Southern Catanduanes Bikol
+==========================
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: bln
+    alternate_names:
+    - Southern Catanduanes Bikolano
+    - Virac
+    anglicanized_name: Bikol, Southern Catanduanes
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: bln
+    lang_direction: ltr
+    lang_name: Southern Catanduanes Bikol
+    lang_region: Asia
+    

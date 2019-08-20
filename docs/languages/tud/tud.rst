@@ -1,0 +1,24 @@
+.. _tud:
+
+Tuxá
+=====
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: tud
+    alternate_names:
+    - Todela
+    - Tusha
+    anglicanized_name: Tuxá
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: tud
+    lang_direction: ltr
+    lang_name: Tuxá
+    lang_region: Americas
+    

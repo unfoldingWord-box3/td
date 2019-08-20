@@ -1,0 +1,26 @@
+.. _mhj:
+
+Mogholi
+=======
+
+This language is spoken in the following countries:
+
+* AF: Afghanistan
+
+.. code-block:: yaml
+
+    ISO_639-3: mhj
+    alternate_names:
+    - Moghol
+    - Mogol
+    - Mogul
+    - Mongul
+    anglicanized_name: Mogholi
+    country_codes:
+    - AF
+    gateway_language: ps
+    lang_code: mhj
+    lang_direction: ltr
+    lang_name: Mogholi
+    lang_region: Asia
+    

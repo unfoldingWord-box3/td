@@ -1,0 +1,31 @@
+.. _mne:
+
+Naba
+====
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: mne
+    alternate_names:
+    - Ma
+    - Bilala (Bilaala)
+    - Medogo (Modogo)
+    - Mud
+    - Mage
+    - Kuka (Kouka)
+    - Boulala
+    - Lisi
+    - Bulala
+    anglicanized_name: Naba
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: mne
+    lang_direction: ltr
+    lang_name: Naba
+    lang_region: Africa
+    

@@ -1,0 +1,36 @@
+.. _dru:
+
+Rukai
+=====
+
+This language is spoken in the following countries:
+
+* CN: China
+* TW: Taiwan, Province of China
+
+.. code-block:: yaml
+
+    ISO_639-3: dru
+    alternate_names:
+    - Banga
+    - Bantalang
+    - Bantaurang
+    - Drukay
+    - Dukai
+    - Dyokay
+    - Kadas
+    - Rutkai
+    - Sarisen
+    - Taloma
+    - Tsalisen
+    - Tsarisen
+    anglicanized_name: Rukai
+    country_codes:
+    - CN
+    - TW
+    gateway_language: zh
+    lang_code: dru
+    lang_direction: ltr
+    lang_name: Rukai
+    lang_region: Asia
+    

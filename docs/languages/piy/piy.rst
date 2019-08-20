@@ -1,0 +1,26 @@
+.. _piy:
+
+Piya-Kwonci
+===========
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: piy
+    alternate_names:
+    - Ambandi
+    - Pia
+    - Pitiko
+    - Wurkum
+    anglicanized_name: Piya-Kwonci
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: piy
+    lang_direction: ltr
+    lang_name: Piya-Kwonci
+    lang_region: Africa
+    

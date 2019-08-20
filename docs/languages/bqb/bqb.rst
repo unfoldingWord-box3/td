@@ -1,0 +1,24 @@
+.. _bqb:
+
+Bagusa
+======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bqb
+    alternate_names:
+    - Kapeso
+    - Suaseso
+    anglicanized_name: Bagusa
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bqb
+    lang_direction: ltr
+    lang_name: Bagusa
+    lang_region: Asia
+    

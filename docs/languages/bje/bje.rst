@@ -1,0 +1,33 @@
+.. _bje:
+
+标敏方言
+============
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: bje
+    alternate_names:
+    - Biao Chao
+    - Byau Min
+    - Dongshan Biao Min
+    - Jiaogong Mian (Chao Kong Meng)
+    - Shikou
+    - Dongshan Yao
+    - Byaumin
+    - Biaomin
+    - Biao Min (Ao Yao)
+    - Biao Mien
+    - Tsaukongmeng
+    anglicanized_name: Biao-Jiao Mien
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: bje
+    lang_direction: ltr
+    lang_name: 标敏方言
+    lang_region: Asia
+    

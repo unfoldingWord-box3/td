@@ -1,0 +1,20 @@
+.. _tnh-x-wagimuda:
+
+Wagimuda
+========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Wagimuda
+    country_codes: []
+    gateway_language: tpi
+    lang_code: tnh-x-wagimuda
+    lang_direction: ltr
+    lang_name: Wagimuda
+    lang_region: Pacific
+    

@@ -1,0 +1,43 @@
+.. _hio:
+
+Tsoa
+====
+
+This language is spoken in the following countries:
+
+* ZW: Zimbabwe
+* BW: Botswana
+
+.. code-block:: yaml
+
+    ISO_639-3: hio
+    alternate_names:
+    - Chuwau
+    - Chware
+    - G||abake
+    - Gabake-Ntshori
+    - Haitshuari
+    - Hiochuwau
+    - Hiotshuwau
+    - Kwe
+    - Kwe-Etshori Kwee
+    - Kwe-Tshori
+    - Masarwa
+    - Sarwa
+    - Sesarwa
+    - Tati
+    - Tati Bushman
+    - Tshuwau
+    - Tshwa
+    - Haitshuwau
+    - Hiechware
+    anglicanized_name: Tsoa
+    country_codes:
+    - ZW
+    - BW
+    gateway_language: en
+    lang_code: hio
+    lang_direction: ltr
+    lang_name: Tsoa
+    lang_region: Africa
+    

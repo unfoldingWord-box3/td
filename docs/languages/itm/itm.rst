@@ -1,0 +1,24 @@
+.. _itm:
+
+Itu Mbon Uzo
+============
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: itm
+    alternate_names:
+    - Itu Mbon Uso
+    - Itu Mbuzo
+    anglicanized_name: Itu Mbon Uzo
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: itm
+    lang_direction: ltr
+    lang_name: Itu Mbon Uzo
+    lang_region: Africa
+    

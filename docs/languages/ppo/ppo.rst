@@ -1,0 +1,33 @@
+.. _ppo:
+
+Folopa
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ppo
+    alternate_names:
+    - Foraba
+    - Podoba
+    - Podopa
+    - Bara (Harahu)
+    - Harahui
+    - Mamisa
+    - Ro (Keai)
+    - Sesa (Ibukairu)
+    - Songu
+    - Suri
+    - Worugl
+    anglicanized_name: Folopa
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ppo
+    lang_direction: ltr
+    lang_name: Folopa
+    lang_region: Pacific
+    

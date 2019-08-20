@@ -1,0 +1,32 @@
+.. _nzm:
+
+Zeme Naga
+=========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: nzm
+    alternate_names:
+    - Arung
+    - Empui
+    - Jeme
+    - Kacha
+    - Kachcha
+    - Kutcha
+    - Mezama
+    - Sangrima
+    - Sengima
+    - Zemi
+    anglicanized_name: Naga, Zeme
+    country_codes:
+    - IN
+    gateway_language: en
+    lang_code: nzm
+    lang_direction: ltr
+    lang_name: Zeme Naga
+    lang_region: Asia
+    

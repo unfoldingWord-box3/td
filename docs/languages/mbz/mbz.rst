@@ -1,0 +1,24 @@
+.. _mbz:
+
+Amoltepec Mixtec
+================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: mbz
+    alternate_names:
+    - Mixteco de Amoltepec
+    - Western Sola de Vega Mixtec
+    anglicanized_name: Mixtec, Amoltepec
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: mbz
+    lang_direction: ltr
+    lang_name: Amoltepec Mixtec
+    lang_region: Americas
+    

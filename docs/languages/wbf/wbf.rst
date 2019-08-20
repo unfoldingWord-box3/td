@@ -1,0 +1,25 @@
+.. _wbf:
+
+Wara
+====
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: wbf
+    alternate_names:
+    - Ouala
+    - Ouara
+    - Samoe
+    anglicanized_name: Wara
+    country_codes:
+    - BF
+    gateway_language: fr
+    lang_code: wbf
+    lang_direction: ltr
+    lang_name: Wara
+    lang_region: Africa
+    

@@ -1,0 +1,23 @@
+.. _pru:
+
+Puragi
+======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: pru
+    alternate_names:
+    - Mogao
+    anglicanized_name: Puragi
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: pru
+    lang_direction: ltr
+    lang_name: Puragi
+    lang_region: Asia
+    

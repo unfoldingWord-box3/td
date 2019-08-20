@@ -1,0 +1,22 @@
+.. _opm:
+
+Oksapmin
+========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: opm
+    alternate_names: []
+    anglicanized_name: Oksapmin
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: opm
+    lang_direction: ltr
+    lang_name: Oksapmin
+    lang_region: Pacific
+    

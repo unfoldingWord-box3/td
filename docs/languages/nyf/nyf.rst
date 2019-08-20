@@ -1,0 +1,30 @@
+.. _nyf:
+
+Giryama
+=======
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: nyf
+    alternate_names:
+    - Agiryama
+    - Giriama
+    - Kigiriama
+    - Kinyika
+    - Nika
+    - Nyika
+    - Kauma (Chikauma)
+    - Ribe (Rihe)
+    anglicanized_name: Kigiryama
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: nyf
+    lang_direction: ltr
+    lang_name: Giryama
+    lang_region: Africa
+    

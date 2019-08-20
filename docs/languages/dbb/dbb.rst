@@ -1,0 +1,25 @@
+.. _dbb:
+
+Deno
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: dbb
+    alternate_names:
+    - Be
+    - Denawa
+    - Denwa
+    anglicanized_name: Deno
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: dbb
+    lang_direction: ltr
+    lang_name: Deno
+    lang_region: Africa
+    

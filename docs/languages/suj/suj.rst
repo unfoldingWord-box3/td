@@ -1,0 +1,26 @@
+.. _suj:
+
+Shubi
+=====
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: suj
+    alternate_names:
+    - Kishubi
+    - Sinja
+    - Subi
+    - Urushubi
+    anglicanized_name: Shubi
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: suj
+    lang_direction: ltr
+    lang_name: Shubi
+    lang_region: Africa
+    

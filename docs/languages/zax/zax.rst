@@ -1,0 +1,24 @@
+.. _zax:
+
+Xadani Zapotec
+==============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zax
+    alternate_names:
+    - Eastern Pochutla Zapotec
+    - Zapoteco de Santa María Xadani
+    anglicanized_name: Zapotec, Xadani
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zax
+    lang_direction: ltr
+    lang_name: Xadani Zapotec
+    lang_region: Americas
+    

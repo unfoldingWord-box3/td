@@ -1,0 +1,23 @@
+.. _hmc:
+
+Central Huishui Hmong
+=====================
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: hmc
+    alternate_names:
+    - Central Huishui Hmong
+    anglicanized_name: Miao, Central Huishui
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: hmc
+    lang_direction: ltr
+    lang_name: Central Huishui Hmong
+    lang_region: Asia
+    

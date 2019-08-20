@@ -1,0 +1,30 @@
+.. _men:
+
+Mende (Sierra Leone)
+====================
+
+This language is spoken in the following countries:
+
+* LR: Liberia
+* US: United States of America
+* SL: Sierra Leone
+
+.. code-block:: yaml
+
+    ISO_639-3: men
+    alternate_names:
+    - Boumpe
+    - Hulo
+    - Kossa
+    - Kosso
+    anglicanized_name: Mende
+    country_codes:
+    - LR
+    - US
+    - SL
+    gateway_language: en
+    lang_code: men
+    lang_direction: ltr
+    lang_name: Mende (Sierra Leone)
+    lang_region: Africa
+    

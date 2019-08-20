@@ -1,0 +1,20 @@
+.. _pha-x-pathan:
+
+Pa Than
+=======
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Pa Than
+    country_codes: []
+    gateway_language: vi
+    lang_code: pha-x-pathan
+    lang_direction: ltr
+    lang_name: Pa Than
+    lang_region: Asia
+    

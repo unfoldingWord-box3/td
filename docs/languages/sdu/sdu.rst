@@ -1,0 +1,24 @@
+.. _sdu:
+
+Sarudu
+======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: sdu
+    alternate_names:
+    - Doda'
+    - Kulu (Lariang)
+    anglicanized_name: Sarudu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: sdu
+    lang_direction: ltr
+    lang_name: Sarudu
+    lang_region: Asia
+    

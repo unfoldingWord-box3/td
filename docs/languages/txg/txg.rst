@@ -1,0 +1,22 @@
+.. _txg:
+
+Tangut
+======
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: txg
+    alternate_names: []
+    anglicanized_name: Tangut
+    country_codes:
+    - CN
+    gateway_language: null
+    lang_code: txg
+    lang_direction: ltr
+    lang_name: Tangut
+    lang_region: Asia
+    

@@ -1,0 +1,27 @@
+.. _wbq:
+
+Waddar
+======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: wbq
+    alternate_names:
+    - Od
+    - Orh
+    - Vadda Beldar
+    - Werders
+    - Wodde
+    anglicanized_name: Waddar
+    country_codes:
+    - IN
+    gateway_language: mr
+    lang_code: wbq
+    lang_direction: ltr
+    lang_name: Waddar
+    lang_region: Asia
+    

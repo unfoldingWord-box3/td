@@ -1,0 +1,27 @@
+.. _gup:
+
+Gunwinggu
+=========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: gup
+    alternate_names:
+    - Gunawitji
+    - Gunwinjgu
+    - Kuninjku
+    - Mayali
+    - Gunei (Kune)
+    anglicanized_name: Gunwinggu
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: gup
+    lang_direction: ltr
+    lang_name: Gunwinggu
+    lang_region: Pacific
+    

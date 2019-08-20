@@ -1,0 +1,22 @@
+.. _ptv:
+
+Port Vato
+=========
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: ptv
+    alternate_names: []
+    anglicanized_name: Port Vato
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: ptv
+    lang_direction: ltr
+    lang_name: Port Vato
+    lang_region: Pacific
+    

@@ -1,0 +1,20 @@
+.. _kan-x-koungaru:
+
+Koungaru
+========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Koungaru
+    country_codes: []
+    gateway_language: kn
+    lang_code: kan-x-koungaru
+    lang_direction: ltr
+    lang_name: Koungaru
+    lang_region: Asia
+    

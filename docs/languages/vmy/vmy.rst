@@ -1,0 +1,23 @@
+.. _vmy:
+
+Ayautla Mazatec
+===============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: vmy
+    alternate_names:
+    - Mazateco del Sureste
+    anglicanized_name: Mazatec, Ayautla
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: vmy
+    lang_direction: ltr
+    lang_name: Ayautla Mazatec
+    lang_region: Americas
+    

@@ -1,0 +1,22 @@
+.. _yyr:
+
+Yir Yoront
+==========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: yyr
+    alternate_names: []
+    anglicanized_name: Yir Yoront
+    country_codes:
+    - AU
+    gateway_language: null
+    lang_code: yyr
+    lang_direction: ltr
+    lang_name: Yir Yoront
+    lang_region: Pacific
+    

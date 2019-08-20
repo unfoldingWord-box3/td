@@ -1,0 +1,24 @@
+.. _dza:
+
+Tunzuii
+=======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: dza
+    alternate_names:
+    - Dugusa
+    - Itunzu
+    anglicanized_name: Tunzuii
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: dza
+    lang_direction: ltr
+    lang_name: Tunzuii
+    lang_region: Africa
+    

@@ -1,0 +1,20 @@
+.. _bkd-x-talaandig:
+
+Talaandig
+=========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes: []
+    gateway_language: ceb
+    lang_code: bkd-x-talaandig
+    lang_direction: ltr
+    lang_name: Talaandig
+    lang_region: Asia
+    

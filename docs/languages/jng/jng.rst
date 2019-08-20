@@ -1,0 +1,24 @@
+.. _jng:
+
+Yangman
+=======
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: jng
+    alternate_names:
+    - Dagoman
+    - Jungman
+    anglicanized_name: Yangman
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: jng
+    lang_direction: ltr
+    lang_name: Yangman
+    lang_region: Pacific
+    

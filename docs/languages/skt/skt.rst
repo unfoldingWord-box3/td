@@ -1,0 +1,30 @@
+.. _skt:
+
+Sakata
+======
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: skt
+    alternate_names:
+    - Kisakata
+    - Lesa
+    - Odual
+    - Saka
+    - Bai (Kibai)
+    - Dja
+    - Djia (Dia)
+    - Kidjia
+    anglicanized_name: Sakata
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: skt
+    lang_direction: ltr
+    lang_name: Sakata
+    lang_region: Africa
+    

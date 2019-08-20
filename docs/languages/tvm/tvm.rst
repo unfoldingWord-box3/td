@@ -1,0 +1,24 @@
+.. _tvm:
+
+Tela-Masbuar
+============
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: tvm
+    alternate_names:
+    - Masbuar-Tela
+    - Tela'a
+    anglicanized_name: Tela-Masbuar
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: tvm
+    lang_direction: ltr
+    lang_name: Tela-Masbuar
+    lang_region: Asia
+    

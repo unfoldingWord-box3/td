@@ -1,0 +1,28 @@
+.. _vec:
+
+Venetian
+========
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: vec
+    alternate_names:
+    - Taliano
+    - Veneto
+    - Vèneto
+    - Talian
+    - Venet
+    - Chipileño
+    anglicanized_name: Venetian
+    country_codes:
+    - IT
+    gateway_language: en
+    lang_code: vec
+    lang_direction: ltr
+    lang_name: Venetian
+    lang_region: Europe
+    

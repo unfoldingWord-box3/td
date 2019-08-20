@@ -1,0 +1,26 @@
+.. _cly:
+
+Eastern Highland Chatino
+========================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: cly
+    alternate_names:
+    - Chatino de la Zona Alta Oriental
+    - Chatino Oriental Alto
+    - Lachao-Yolotepec Chatino
+    - Sierra Oriental Chatino
+    anglicanized_name: Chatino, Eastern Highland
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: cly
+    lang_direction: ltr
+    lang_name: Eastern Highland Chatino
+    lang_region: Americas
+    

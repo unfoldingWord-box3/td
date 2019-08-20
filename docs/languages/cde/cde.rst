@@ -1,0 +1,26 @@
+.. _cde:
+
+Chenchu
+=======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: cde
+    alternate_names:
+    - Chenchucoolam
+    - Chenchwar
+    - Chenswar
+    - Choncharu
+    anglicanized_name: Chenchu
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: cde
+    lang_direction: ltr
+    lang_name: Chenchu
+    lang_region: Asia
+    

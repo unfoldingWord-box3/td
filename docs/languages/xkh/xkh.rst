@@ -1,0 +1,22 @@
+.. _xkh:
+
+Karahawyana
+===========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Karahawyana
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: xkh
+    lang_direction: ltr
+    lang_name: Karahawyana
+    lang_region: Americas
+    

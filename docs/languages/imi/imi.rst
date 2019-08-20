@@ -1,0 +1,24 @@
+.. _imi:
+
+Anamgura
+========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: imi
+    alternate_names:
+    - Ikundun
+    - Mindivi
+    anglicanized_name: Anamgura
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: imi
+    lang_direction: ltr
+    lang_name: Anamgura
+    lang_region: Pacific
+    

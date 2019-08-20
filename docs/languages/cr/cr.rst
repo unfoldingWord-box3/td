@@ -1,0 +1,24 @@
+.. _cr:
+
+ᓀᐦᐃᔭᐍᐏᐣ
+=====================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/cre>`_ identifies this language as ``cre``.
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: cre
+    alternate_names: []
+    anglicanized_name: Cree
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: cr
+    lang_direction: ltr
+    lang_name: ᓀᐦᐃᔭᐍᐏᐣ
+    lang_region: Americas
+    

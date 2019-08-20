@@ -1,0 +1,28 @@
+.. _mzh:
+
+Wichí Lhamtés Güisnay
+========================
+
+This language is spoken in the following countries:
+
+* AR: Argentina
+* PY: Paraguay
+
+.. code-block:: yaml
+
+    ISO_639-3: mzh
+    alternate_names:
+    - Güisnay
+    - Mataco
+    - Mataco Güisnay
+    - Mataco Pilcomayo
+    anglicanized_name: Wichí Lhamtés Güisnay
+    country_codes:
+    - AR
+    - PY
+    gateway_language: es-419
+    lang_code: mzh
+    lang_direction: ltr
+    lang_name: Wichí Lhamtés Güisnay
+    lang_region: Americas
+    

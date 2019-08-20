@@ -1,0 +1,49 @@
+.. _ckb:
+
+سورانی
+============
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+* IQ: Iraq
+* US: United States of America
+* JO: Jordan
+* TM: Turkmenistan
+
+.. code-block:: yaml
+
+    ISO_639-3: ckb
+    alternate_names:
+    - Kordi
+    - Korkora
+    - Kurdy
+    - Mokri
+    - Sine'i
+    - Wawa
+    - Kerkuki
+    - Warmawa
+    - Suleimani (Silemani)
+    - Southern Jafi
+    - Sanandaji (Sina'i)
+    - Sineyi
+    - Xoshnaw
+    - Pijdari
+    - Hewleri (Arbili)
+    - Garmiyani
+    - Bingird
+    - Mukri (Kordi)
+    - Rewandiz
+    anglicanized_name: Kurdish, Central
+    country_codes:
+    - IR
+    - IQ
+    - US
+    - JO
+    - TM
+    gateway_language: ar
+    lang_code: ckb
+    lang_direction: rtl
+    lang_name: سورانی
+    lang_region: Asia
+    

@@ -1,0 +1,69 @@
+.. _vi:
+
+Tiếng Việt
+==============
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/vie>`_ identifies this language as ``vie``.
+
+This language is spoken in the following countries:
+
+* CN: China
+* FR: France
+* DE: Germany
+* LA: Lao People's Democratic Republic
+* GB: United Kingdom of Great Britain and Northern Ireland
+* CZ: Czechia
+* MY: Malaysia
+* NL: Netherlands
+* NC: New Caledonia
+* NZ: New Zealand
+* TH: Thailand
+* US: United States of America
+* AU: Australia
+* KH: Cambodia
+* CA: Canada
+* VU: Vanuatu
+* UZ: Uzbekistan
+* MQ: Martinique
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: vie
+    alternate_names:
+    - Annamese
+    - Ching
+    - Gin
+    - Jing
+    - Kinh
+    - Viet
+    - Central Vietnamese (Hue)
+    - Northern Vietnamese (Hanoi)
+    - Southern Vietnamese
+    anglicanized_name: Vietnamese
+    country_codes:
+    - CN
+    - FR
+    - DE
+    - LA
+    - GB
+    - CZ
+    - MY
+    - NL
+    - NC
+    - NZ
+    - TH
+    - US
+    - AU
+    - KH
+    - CA
+    - VU
+    - UZ
+    - MQ
+    - VN
+    gateway_language: null
+    lang_code: vi
+    lang_direction: ltr
+    lang_name: Tiếng Việt
+    lang_region: Asia
+    

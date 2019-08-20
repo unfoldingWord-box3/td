@@ -1,0 +1,42 @@
+.. _aln:
+
+Gheg Albanian
+=============
+
+This language is spoken in the following countries:
+
+* BE: Belgium
+* ME: Montenegro
+* AL: Albania
+* RS: Serbia
+* MK: North Macedonia
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: aln
+    alternate_names:
+    - Northwest
+    - Southern
+    - Gheg
+    - Central
+    - Northeast
+    - Geg
+    - Guegue
+    - Shopni
+    - Shqip
+    - Shqyp
+    anglicanized_name: Albanian, Gheg
+    country_codes:
+    - BE
+    - ME
+    - AL
+    - RS
+    - MK
+    - US
+    gateway_language: en
+    lang_code: aln
+    lang_direction: ltr
+    lang_name: Gheg Albanian
+    lang_region: Europe
+    

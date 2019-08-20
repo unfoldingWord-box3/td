@@ -1,0 +1,28 @@
+.. _gbp:
+
+Gbaya-Bossangoa
+===============
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: gbp
+    alternate_names:
+    - Gbaya de Bosangoa
+    - Gbaya of Borro
+    - Gbaya of Bossangoa
+    - Gbaya-Borro
+    - Gbea
+    - Gbeya
+    anglicanized_name: Gbaya-Bossangoa
+    country_codes:
+    - CF
+    gateway_language: fr
+    lang_code: gbp
+    lang_direction: ltr
+    lang_name: Gbaya-Bossangoa
+    lang_region: Africa
+    

@@ -1,0 +1,25 @@
+.. _kps:
+
+Tehit
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kps
+    alternate_names:
+    - Kaibus
+    - Tahit
+    - Tehid
+    anglicanized_name: Tehit
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kps
+    lang_direction: ltr
+    lang_name: Tehit
+    lang_region: Asia
+    

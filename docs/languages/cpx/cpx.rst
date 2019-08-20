@@ -1,0 +1,30 @@
+.. _cpx:
+
+莆仙话
+=========
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: cpx
+    alternate_names:
+    - Henghua
+    - Hinghua
+    - Hsienyu
+    - Hsinghua
+    - Putian
+    - Putten
+    - Henghua (Hinghua)
+    - Xinghua (Hinghua)
+    anglicanized_name: Chinese, Pu-Xian
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: cpx
+    lang_direction: ltr
+    lang_name: 莆仙话
+    lang_region: Asia
+    

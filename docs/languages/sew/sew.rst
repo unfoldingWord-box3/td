@@ -1,0 +1,23 @@
+.. _sew:
+
+Sewa Bay
+========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: sew
+    alternate_names:
+    - Duau Pwata
+    anglicanized_name: Sewa Bay
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: sew
+    lang_direction: ltr
+    lang_name: Sewa Bay
+    lang_region: Pacific
+    

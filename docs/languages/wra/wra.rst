@@ -1,0 +1,22 @@
+.. _wra:
+
+Warapu
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: wra
+    alternate_names: []
+    anglicanized_name: Warapu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: wra
+    lang_direction: ltr
+    lang_name: Warapu
+    lang_region: Pacific
+    

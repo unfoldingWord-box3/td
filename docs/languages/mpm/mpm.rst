@@ -1,0 +1,24 @@
+.. _mpm:
+
+Yosondúa Mixtec
+================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: mpm
+    alternate_names:
+    - Mixteco de Santiago Yosondúa
+    - Southern Tlaxiaco Mixtec
+    anglicanized_name: Mixtec, Yosondúa
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: mpm
+    lang_direction: ltr
+    lang_name: Yosondúa Mixtec
+    lang_region: Americas
+    

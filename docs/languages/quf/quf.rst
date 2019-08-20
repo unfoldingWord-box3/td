@@ -1,0 +1,23 @@
+.. _quf:
+
+Lambayeque Quechua
+==================
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: quf
+    alternate_names:
+    - Ferreñafe
+    anglicanized_name: Quechua, Lambayeque
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: quf
+    lang_direction: ltr
+    lang_name: Lambayeque Quechua
+    lang_region: Americas
+    

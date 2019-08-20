@@ -1,0 +1,23 @@
+.. _jbk:
+
+Barikewa
+========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: jbk
+    alternate_names:
+    - Iba
+    anglicanized_name: Barikewa
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: jbk
+    lang_direction: ltr
+    lang_name: Barikewa
+    lang_region: Pacific
+    

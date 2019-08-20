@@ -1,0 +1,41 @@
+.. _bfa:
+
+Bari
+====
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+* US: United States of America
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: bfa
+    alternate_names:
+    - Beri
+    - Nyangbara (Nyambara)
+    - Pajulu
+    - Nypho
+    - Nyepu (Ngyepu)
+    - Nyepo
+    - Pöjulu (Fadjulu)
+    - Nyangwara
+    - Mondari (Mandari)
+    - Madi
+    - Ligo (Liggo)
+    - Fajulu
+    - Fajelu
+    - Nyefu
+    - Mundari
+    anglicanized_name: Bari
+    country_codes:
+    - SS
+    - US
+    - UG
+    gateway_language: ar
+    lang_code: bfa
+    lang_direction: ltr
+    lang_name: Bari
+    lang_region: Africa
+    

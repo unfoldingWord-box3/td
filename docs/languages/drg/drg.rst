@@ -1,0 +1,33 @@
+.. _drg:
+
+Rungus
+======
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: drg
+    alternate_names:
+    - Dusun Dayak
+    - Melobong Rungus
+    - Memagun
+    - Memogun
+    - Momogun
+    - Roongas
+    - Rungus Dusun
+    - Gandahon
+    - Nuluw
+    - Pilapazan (Central Rungus)
+    - Rungus Tanga
+    anglicanized_name: Rungus
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: drg
+    lang_direction: ltr
+    lang_name: Rungus
+    lang_region: Asia
+    

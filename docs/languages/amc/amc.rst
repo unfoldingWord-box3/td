@@ -1,0 +1,33 @@
+.. _amc:
+
+Amahuaca
+========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: amc
+    alternate_names:
+    - Amawaca
+    - Amawáka
+    - Amenguaca
+    - Sayacu
+    - Amaguaco
+    - Amawaka
+    - Ameuhaque
+    - Ipitineri
+    - Sayaco
+    anglicanized_name: Amahuaca
+    country_codes:
+    - BR
+    - PE
+    gateway_language: es-419
+    lang_code: amc
+    lang_direction: ltr
+    lang_name: Amahuaca
+    lang_region: Americas
+    

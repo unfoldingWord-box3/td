@@ -1,0 +1,28 @@
+.. _ktu:
+
+Kituba (Democratic Republic of Congo)
+=====================================
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: ktu
+    alternate_names:
+    - Kibulamatadi
+    - Kikongo Commercial
+    - Kikongo Simplifié
+    - Kikongo Ya Leta
+    - Kikongo-Kutuba
+    - Kileta
+    anglicanized_name: Kituba
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: ktu
+    lang_direction: ltr
+    lang_name: Kituba (Democratic Republic of Congo)
+    lang_region: Africa
+    

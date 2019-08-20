@@ -1,0 +1,22 @@
+.. _spn:
+
+Sanapaná
+=========
+
+This language is spoken in the following countries:
+
+* PY: Paraguay
+
+.. code-block:: yaml
+
+    ISO_639-3: spn
+    alternate_names: []
+    anglicanized_name: Sanapaná
+    country_codes:
+    - PY
+    gateway_language: es-419
+    lang_code: spn
+    lang_direction: ltr
+    lang_name: Sanapaná
+    lang_region: Americas
+    

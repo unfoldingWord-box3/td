@@ -1,0 +1,33 @@
+.. _bgc:
+
+Haryanvi
+========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: bgc
+    alternate_names:
+    - Bangaru
+    - Banger
+    - Bangri
+    - Bangru
+    - Chamarwa
+    - Desari
+    - Hariani
+    - Hariyani
+    - Haryani
+    - Jatu
+    - Khadar
+    anglicanized_name: Haryanvi
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: bgc
+    lang_direction: ltr
+    lang_name: Haryanvi
+    lang_region: Asia
+    

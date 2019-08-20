@@ -1,0 +1,22 @@
+.. _ukq:
+
+Ukwa
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ukq
+    alternate_names: []
+    anglicanized_name: Ukwa
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ukq
+    lang_direction: ltr
+    lang_name: Ukwa
+    lang_region: Africa
+    

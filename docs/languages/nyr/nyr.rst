@@ -1,0 +1,24 @@
+.. _nyr:
+
+Nyiha (Malawi)
+==============
+
+This language is spoken in the following countries:
+
+* MW: Malawi
+
+.. code-block:: yaml
+
+    ISO_639-3: nyr
+    alternate_names:
+    - Kinyiha
+    - Shinyiha
+    anglicanized_name: Nyiha, Malawi
+    country_codes:
+    - MW
+    gateway_language: en
+    lang_code: nyr
+    lang_direction: ltr
+    lang_name: Nyiha (Malawi)
+    lang_region: Africa
+    

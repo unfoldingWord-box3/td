@@ -1,0 +1,26 @@
+.. _crk:
+
+Plains Cree
+===========
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: crk
+    alternate_names:
+    - Western Cree
+    - Northern Alberta Cree
+    anglicanized_name: Cree, Plains
+    country_codes:
+    - US
+    - CA
+    gateway_language: en
+    lang_code: crk
+    lang_direction: ltr
+    lang_name: Plains Cree
+    lang_region: Americas
+    

@@ -1,0 +1,23 @@
+.. _zor:
+
+Rayón Zoque
+============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zor
+    alternate_names:
+    - Zoque de Rayón
+    anglicanized_name: Zoque, Rayón
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zor
+    lang_direction: ltr
+    lang_name: Rayón Zoque
+    lang_region: Americas
+    

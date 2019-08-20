@@ -1,0 +1,26 @@
+.. _mew:
+
+Maaka
+=====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: mew
+    alternate_names:
+    - Maga
+    - Magha
+    - Maha
+    - Maka
+    anglicanized_name: Maaka
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: mew
+    lang_direction: ltr
+    lang_name: Maaka
+    lang_region: Africa
+    

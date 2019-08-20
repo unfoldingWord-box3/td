@@ -1,0 +1,29 @@
+.. _glc:
+
+Bon Gula
+========
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: glc
+    alternate_names:
+    - Bon
+    - Bon Goula
+    - Bun
+    - Êeni
+    - Gula Guera
+    - Poun
+    - Taataal
+    anglicanized_name: Bon Gula
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: glc
+    lang_direction: ltr
+    lang_name: Bon Gula
+    lang_region: Africa
+    

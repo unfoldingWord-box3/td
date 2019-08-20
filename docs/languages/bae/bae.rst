@@ -1,0 +1,31 @@
+.. _bae:
+
+Baré
+=====
+
+This language is spoken in the following countries:
+
+* VE: Venezuela (Bolivarian Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: bae
+    alternate_names:
+    - Arihini
+    - Barauana
+    - Barauna
+    - Barawana
+    - Cunipusana
+    - Ihini
+    - Maldavaca
+    - Mitua
+    - Yavita
+    anglicanized_name: Baré
+    country_codes:
+    - VE
+    gateway_language: es-419
+    lang_code: bae
+    lang_direction: ltr
+    lang_name: Baré
+    lang_region: Americas
+    

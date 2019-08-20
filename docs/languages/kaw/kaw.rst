@@ -1,0 +1,22 @@
+.. _kaw:
+
+Kawi
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kaw
+    alternate_names: []
+    anglicanized_name: Kawi
+    country_codes:
+    - ID
+    gateway_language: null
+    lang_code: kaw
+    lang_direction: ltr
+    lang_name: Kawi
+    lang_region: Asia
+    

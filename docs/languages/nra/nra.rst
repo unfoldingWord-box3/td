@@ -1,0 +1,30 @@
+.. _nra:
+
+Ngom
+====
+
+This language is spoken in the following countries:
+
+* GA: Gabon
+* CG: Congo
+
+.. code-block:: yaml
+
+    ISO_639-3: nra
+    alternate_names:
+    - Angom
+    - Bangom
+    - Bangomo
+    - Ongom
+    - Ungom
+    - Ngomo
+    anglicanized_name: Ngom
+    country_codes:
+    - GA
+    - CG
+    gateway_language: fr
+    lang_code: nra
+    lang_direction: ltr
+    lang_name: Ngom
+    lang_region: Africa
+    

@@ -1,0 +1,28 @@
+.. _nyw:
+
+Nyaw
+====
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+* TH: Thailand
+
+.. code-block:: yaml
+
+    ISO_639-3: nyw
+    alternate_names:
+    - Jo
+    - Nyo
+    - Nyoh
+    - Yo
+    anglicanized_name: Nyaw
+    country_codes:
+    - LA
+    - TH
+    gateway_language: th
+    lang_code: nyw
+    lang_direction: ltr
+    lang_name: Nyaw
+    lang_region: Asia
+    

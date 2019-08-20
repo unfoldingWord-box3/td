@@ -1,0 +1,23 @@
+.. _xty:
+
+Yoloxochitl Mixtec
+==================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: xty
+    alternate_names:
+    - Mixteco de Yoloxóchitl
+    anglicanized_name: Mixtec, Yoloxóchitl
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: xty
+    lang_direction: ltr
+    lang_name: Yoloxochitl Mixtec
+    lang_region: Americas
+    

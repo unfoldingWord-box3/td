@@ -1,0 +1,23 @@
+.. _mvd:
+
+Mamboru
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mvd
+    alternate_names:
+    - Memboro
+    anglicanized_name: Mamboru
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mvd
+    lang_direction: ltr
+    lang_name: Mamboru
+    lang_region: Asia
+    

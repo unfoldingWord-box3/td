@@ -1,0 +1,30 @@
+.. _afs:
+
+Afro-Seminole Creole
+====================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: afs
+    alternate_names:
+    - Mexico Afro-Seminole
+    - Texas Afro-Seminole
+    - Afro-Seminol Criollo
+    - Afro-Seminole
+    - Black Seminole
+    - Seminole
+    anglicanized_name: Afro-Seminole Creole
+    country_codes:
+    - MX
+    - US
+    gateway_language: es-419
+    lang_code: afs
+    lang_direction: ltr
+    lang_name: Afro-Seminole Creole
+    lang_region: Americas
+    

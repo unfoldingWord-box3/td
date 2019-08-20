@@ -1,0 +1,30 @@
+.. _zmb:
+
+Zimba
+=====
+
+This language is spoken in the following countries:
+
+* MZ: Mozambique
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: zmb
+    alternate_names:
+    - Nyembombo
+    - Sole
+    - Semolo
+    - Mamba (Kyenyemamba)
+    - Binja (Soe)
+    - Semulu (Kisembombo)
+    anglicanized_name: Zimba
+    country_codes:
+    - MZ
+    - CD
+    gateway_language: fr
+    lang_code: zmb
+    lang_direction: ltr
+    lang_name: Zimba
+    lang_region: Africa
+    

@@ -1,0 +1,25 @@
+.. _czh:
+
+徽州话
+=========
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: czh
+    alternate_names:
+    - Hui
+    - Huizhou
+    - Tunxi
+    anglicanized_name: Chinese, Huizhou
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: czh
+    lang_direction: ltr
+    lang_name: 徽州话
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _egy:
+
+Egyptian (Ancient)
+==================
+
+This language is spoken in the following countries:
+
+* EG: Egypt
+
+.. code-block:: yaml
+
+    ISO_639-3: egy
+    alternate_names: []
+    anglicanized_name: Egyptian
+    country_codes:
+    - EG
+    gateway_language: null
+    lang_code: egy
+    lang_direction: ltr
+    lang_name: Egyptian (Ancient)
+    lang_region: Africa
+    

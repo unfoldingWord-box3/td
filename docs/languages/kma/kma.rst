@@ -1,0 +1,25 @@
+.. _kma:
+
+Konni
+=====
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: kma
+    alternate_names:
+    - Koma
+    - Komung
+    - Koni
+    anglicanized_name: Konni
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: kma
+    lang_direction: ltr
+    lang_name: Konni
+    lang_region: Africa
+    

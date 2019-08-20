@@ -1,0 +1,23 @@
+.. _kiy:
+
+Kirikiri
+========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kiy
+    alternate_names:
+    - Kirira
+    anglicanized_name: Kirikiri
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kiy
+    lang_direction: ltr
+    lang_name: Kirikiri
+    lang_region: Asia
+    

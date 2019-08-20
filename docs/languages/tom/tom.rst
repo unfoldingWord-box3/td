@@ -1,0 +1,28 @@
+.. _tom:
+
+Tombulu
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: tom
+    alternate_names:
+    - Minahasa
+    - Minhasa
+    - Tombalu
+    - Tombula
+    - Tombulu'
+    - Toumbulu
+    anglicanized_name: Tombulu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: tom
+    lang_direction: ltr
+    lang_name: Tombulu
+    lang_region: Asia
+    

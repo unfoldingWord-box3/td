@@ -1,0 +1,37 @@
+.. _mye:
+
+Myene
+=====
+
+This language is spoken in the following countries:
+
+* GA: Gabon
+
+.. code-block:: yaml
+
+    ISO_639-3: mye
+    alternate_names:
+    - Pangwe
+    - Pongoué
+    - Rungu
+    - Orungu (Rongo)
+    - Npongwe
+    - Npongué
+    - Nkomi (N'komi)
+    - Mpungwe
+    - Galwa (Galloa)
+    - Galua
+    - Galoa
+    - Dyumba
+    - Adyumba
+    - Ajumba (Adjumba)
+    - Mpongwe (Mpongoué)
+    anglicanized_name: Myene
+    country_codes:
+    - GA
+    gateway_language: fr
+    lang_code: mye
+    lang_direction: ltr
+    lang_name: Myene
+    lang_region: Africa
+    

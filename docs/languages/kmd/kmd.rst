@@ -1,0 +1,25 @@
+.. _kmd:
+
+Majukayang Kalinga
+==================
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: kmd
+    alternate_names:
+    - Majukayong
+    - Kalinga
+    - Madukayang
+    anglicanized_name: Kalinga, Majukayang
+    country_codes:
+    - PH
+    gateway_language: ilo
+    lang_code: kmd
+    lang_direction: ltr
+    lang_name: Majukayang Kalinga
+    lang_region: Asia
+    

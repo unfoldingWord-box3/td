@@ -56,6 +56,109 @@ https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 and pasted into Excel, then sav
 During development there is debug code which restricts actions to 
 only a few languages. This is avoid creation of 8K+ directories.
 
+# Stats
+Some analysis of input language data is available using the stats script:
+```bash
+$ python3 bin/stats.py
+
+
+
+=============== Summary ===============
+        Total number of languages: 8703
+          Total number of regions: 6
+Total number of gateway languages: 75
+
+
+
+===== Languages per Region =====
+Africa:2331
+Americas:1157
+Asia:3142
+Europe:420
+Pacific:1623
+UNKNOWN:30
+
+
+
+===== Languages per G/L =====
+UNKNOWN:402
+abs:2
+am:82
+ang:1
+apd:2
+ar:319
+as:36
+ase:3
+bgw:1
+bi:18
+bn:30
+ceb:59
+cmn:2
+csl:1
+dz:18
+en:1658
+es:21
+es-419:605
+fa:57
+fil:3
+fr:1057
+grt:2
+gu:15
+gug:1
+ha:1
+hca:1
+hi:130
+hne:11
+hu:1
+id:1035
+idb:1
+ilo:76
+ins:5
+ja:13
+jv:1
+kfk:1
+km:21
+kn:51
+ks:3
+lbj:2
+lo:59
+mai:1
+ml:27
+mn:3
+mni:11
+mnk:1
+mr:29
+ms:129
+my:105
+ne:104
+nl:25
+nsl:1
+or:18
+pa:3
+pis:68
+plt:12
+pmy:8
+pnb:3
+ps:31
+pt:267
+pt-br:5
+raj:5
+ru:132
+rwr:1
+sw:176
+ta:21
+te:68
+th:34
+ti:1
+tl:20
+tpi:1088
+tr:11
+ur:60
+vi:84
+zh:295
+$
+```
+
 # Miscellaneous
 Here is the DDL for the ISO mapping data:
 ```sql

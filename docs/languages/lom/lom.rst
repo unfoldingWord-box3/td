@@ -1,0 +1,35 @@
+.. _lom:
+
+Loma (Liberia)
+==============
+
+This language is spoken in the following countries:
+
+* LR: Liberia
+
+.. code-block:: yaml
+
+    ISO_639-3: lom
+    alternate_names:
+    - Loghoma
+    - Looma
+    - Lorma
+    - Toa
+    - Bouze
+    - Busy
+    - Buzi
+    - Briama (Bulima)
+    - Buluiema
+    - Bulyama
+    - Gbunde (Bonde)
+    - Wubomai (Wubomei)
+    - Ziema (Siama)
+    anglicanized_name: Loma
+    country_codes:
+    - LR
+    gateway_language: en
+    lang_code: lom
+    lang_direction: ltr
+    lang_name: Loma (Liberia)
+    lang_region: Africa
+    

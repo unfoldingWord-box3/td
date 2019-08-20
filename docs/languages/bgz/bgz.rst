@@ -1,0 +1,27 @@
+.. _bgz:
+
+Banggai
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bgz
+    alternate_names:
+    - Aki
+    - Banggaai
+    - Banggaiy
+    - Banggay
+    - Banggaya
+    anglicanized_name: Banggai
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bgz
+    lang_direction: ltr
+    lang_name: Banggai
+    lang_region: Asia
+    

@@ -1,0 +1,28 @@
+.. _mxx:
+
+Mahou
+=====
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: mxx
+    alternate_names:
+    - Mahu
+    - Maou
+    - Mau
+    - Mauka
+    - Mauke
+    - Baralaka (Barala)
+    anglicanized_name: Mahou
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: mxx
+    lang_direction: ltr
+    lang_name: Mahou
+    lang_region: Africa
+    

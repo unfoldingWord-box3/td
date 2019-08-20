@@ -1,7 +1,10 @@
 {
+    "pk": 1776,
     "lc": "es",
+    "ISO-639-3": "spa",
     "ln": "espa\u00f1ol",
     "ang": "Spanish",
+    "hc": "ES",
     "lr": "Europe",
     "alt": [
         "Castilian",
@@ -23,10 +26,6 @@
         "American Spanish (Chicano)",
         "Andalus\u00ed"
     ],
-    "ld": "ltr",
-    "ISO-639-3": "spa",
-    "gwcode": "es",
-    "gw": true,
     "cc": [
         "AT",
         "BE",
@@ -77,6 +76,7 @@
         "DO",
         "IE"
     ],
-    "hc": "ES",
-    "pk": 1776
+    "gw": true,
+    "ld": "ltr",
+    "gwcode": "es"
 }

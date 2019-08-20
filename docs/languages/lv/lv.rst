@@ -1,0 +1,24 @@
+.. _lv:
+
+latviešu valoda
+================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/lav>`_ identifies this language as ``lav``.
+
+This language is spoken in the following countries:
+
+* LV: Latvia
+
+.. code-block:: yaml
+
+    ISO_639-3: lav
+    alternate_names: []
+    anglicanized_name: Latvian
+    country_codes:
+    - LV
+    gateway_language: en
+    lang_code: lv
+    lang_direction: ltr
+    lang_name: latviešu valoda
+    lang_region: Europe
+    

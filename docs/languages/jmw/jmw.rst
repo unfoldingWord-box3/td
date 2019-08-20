@@ -1,0 +1,22 @@
+.. _jmw:
+
+Mouwase
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: jmw
+    alternate_names: []
+    anglicanized_name: Mouwase
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: jmw
+    lang_direction: ltr
+    lang_name: Mouwase
+    lang_region: Pacific
+    

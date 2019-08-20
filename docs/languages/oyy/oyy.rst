@@ -1,0 +1,26 @@
+.. _oyy:
+
+Oya'oya
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: oyy
+    alternate_names:
+    - Daiomuni
+    - Kuiaro
+    - Loani
+    - Simagahi
+    anglicanized_name: Oya’oya
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: oyy
+    lang_direction: ltr
+    lang_name: Oya'oya
+    lang_region: Pacific
+    

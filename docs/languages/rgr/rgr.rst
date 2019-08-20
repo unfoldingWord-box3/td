@@ -1,0 +1,23 @@
+.. _rgr:
+
+Resígaro
+=========
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: rgr
+    alternate_names:
+    - Resígero
+    anglicanized_name: Resígaro
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: rgr
+    lang_direction: ltr
+    lang_name: Resígaro
+    lang_region: Americas
+    

@@ -1,0 +1,23 @@
+.. _ila:
+
+Ile Ape
+=======
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: ila
+    alternate_names:
+    - Nusa Tadon
+    anglicanized_name: Ile Ape
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: ila
+    lang_direction: ltr
+    lang_name: Ile Ape
+    lang_region: Asia
+    

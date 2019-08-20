@@ -1,0 +1,29 @@
+.. _kvn:
+
+Border Kuna
+===========
+
+This language is spoken in the following countries:
+
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: kvn
+    alternate_names:
+    - Caiman Nuevo
+    - Colombia Cuna
+    - Cuna
+    - Paya-Pucuro
+    - Kuna de la Frontera
+    - Long Hair Cuna
+    - Paya-Pucuro Kuna
+    anglicanized_name: Kuna, Border
+    country_codes:
+    - CO
+    gateway_language: es-419
+    lang_code: kvn
+    lang_direction: ltr
+    lang_name: Border Kuna
+    lang_region: Americas
+    

@@ -1,0 +1,22 @@
+.. _slf:
+
+Swiss-Italian Sign Language
+===========================
+
+This language is spoken in the following countries:
+
+* CH: Switzerland
+
+.. code-block:: yaml
+
+    ISO_639-3: slf
+    alternate_names: []
+    anglicanized_name: Swiss-Italian Sign Language
+    country_codes:
+    - CH
+    gateway_language: en
+    lang_code: slf
+    lang_direction: ltr
+    lang_name: Swiss-Italian Sign Language
+    lang_region: Europe
+    

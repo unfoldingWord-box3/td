@@ -1,0 +1,33 @@
+.. _sop:
+
+Songe
+=====
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: sop
+    alternate_names:
+    - Kalebwe
+    - Kisongi
+    - Kisongye
+    - Luba-Songi
+    - Lusonge
+    - Northeast Luba
+    - Songye
+    - Yembe
+    - Eastern Kalebwe (Ikalebwe)
+    - Kilombeno Kibya
+    - Western Kalebwe (Esambi Kipya)
+    anglicanized_name: Songe
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: sop
+    lang_direction: ltr
+    lang_name: Songe
+    lang_region: Africa
+    

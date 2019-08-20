@@ -1,0 +1,26 @@
+.. _agw:
+
+Kahua
+=====
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: agw
+    alternate_names:
+    - Anganiwai
+    - Anganiwei
+    - Narihua
+    - Wanoni
+    anglicanized_name: Kahua
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: agw
+    lang_direction: ltr
+    lang_name: Kahua
+    lang_region: Pacific
+    

@@ -1,0 +1,24 @@
+.. _stl:
+
+Stellingwerfs
+=============
+
+This language is spoken in the following countries:
+
+* NL: Netherlands
+
+.. code-block:: yaml
+
+    ISO_639-3: stl
+    alternate_names:
+    - Stellingwarfs
+    - Stellingwerf
+    anglicanized_name: Stellingwerfs
+    country_codes:
+    - NL
+    gateway_language: nl
+    lang_code: stl
+    lang_direction: ltr
+    lang_name: Stellingwerfs
+    lang_region: Europe
+    

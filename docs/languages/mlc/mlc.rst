@@ -1,0 +1,30 @@
+.. _mlc:
+
+Cao Lan
+=======
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: mlc
+    alternate_names:
+    - Cao
+    - Caolan
+    - Lan-Sán Chi
+    - San Chay
+    - San Chi
+    - Sán-Chi
+    - Mán
+    - Man Cao-Lan
+    anglicanized_name: Cao Lan
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: mlc
+    lang_direction: ltr
+    lang_name: Cao Lan
+    lang_region: Asia
+    

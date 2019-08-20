@@ -1,0 +1,29 @@
+.. _ngj:
+
+Ngie
+====
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: ngj
+    alternate_names:
+    - Angie
+    - Baminge
+    - Baninge
+    - Mingi
+    - Ugie
+    - Ungie
+    - Mengum
+    anglicanized_name: Ngie
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: ngj
+    lang_direction: ltr
+    lang_name: Ngie
+    lang_region: Africa
+    

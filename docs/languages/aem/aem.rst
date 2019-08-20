@@ -1,0 +1,26 @@
+.. _aem:
+
+Arem
+====
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: aem
+    alternate_names:
+    - Chombrau
+    - Chomrau
+    - Umo
+    - A-Rem
+    anglicanized_name: Arem
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: aem
+    lang_direction: ltr
+    lang_name: Arem
+    lang_region: Asia
+    

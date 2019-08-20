@@ -1,0 +1,27 @@
+.. _har:
+
+Harari
+======
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: har
+    alternate_names:
+    - Adarinnya
+    - Adere
+    - Aderinya
+    - Gey Sinan
+    - Hararri
+    anglicanized_name: Harari
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: har
+    lang_direction: ltr
+    lang_name: Harari
+    lang_region: Africa
+    

@@ -1,0 +1,32 @@
+.. _sti:
+
+Bulo Stieng
+===========
+
+This language is spoken in the following countries:
+
+* KH: Cambodia
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: sti
+    alternate_names:
+    - Kajiang
+    - Budíp
+    - Northern Stieng
+    - Rangah
+    - Upper Stieng
+    - Xa-Dieng
+    - Xtieng
+    - Bulo
+    anglicanized_name: Stieng, Bulo
+    country_codes:
+    - KH
+    - VN
+    gateway_language: vi
+    lang_code: sti
+    lang_direction: ltr
+    lang_name: Bulo Stieng
+    lang_region: Asia
+    

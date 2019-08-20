@@ -80,10 +80,10 @@ for lnj in jlndata:
     #print (lc)
     ### DEBUG CODE ###
     ### only actually create a few language dirs
-    tomatch = "^(ca|en|es|gaj|dnr|tpi)$"
-    ismatch = re.search(tomatch, lc)
-    if (not ismatch) : 
-        continue
+    #tomatch = "^(ca|en|es|gaj|dnr|tpi)$"
+    #ismatch = re.search(tomatch, lc)
+    #if (not ismatch) : 
+    #    continue
 
     # lookup the gateway language
     try:
@@ -91,8 +91,8 @@ for lnj in jlndata:
     except KeyError:
         print ("No gateway language for "+lc)
         gwcode = "UNKNOWN"
-    else:
-        print ("Gateway language for "+lc+" is "+str(gwcode))
+    #else:
+    #    print ("Gateway language for "+lc+" is "+str(gwcode))
 
     # add it to the language data
     lnj["gwcode"] = gwcode
@@ -101,10 +101,10 @@ for lnj in jlndata:
     try:
         i639_code = i639_dict[lc]
     except KeyError:
-        print ("No ISO 639-3 code for "+lc)
+        #print ("No ISO 639-3 code for "+lc)
         i639_code = "UNKNOWN"
-    else:
-        print ("ISO 639-3 code for "+lc+" is "+str(i639_code))
+    #else:
+    #    print ("ISO 639-3 code for "+lc+" is "+str(i639_code))
 
     # add ISO 639-3 to the language data
     lnj["ISO-639-3"] = i639_code
@@ -150,7 +150,9 @@ for lnj in jlndata:
     fpath = path + "/" + lc + ".rst"
     with open(fpath,"w") as rst:
         rst.write(".. _%s:\n\n" % lc)
-        rst.write("%s\n%s\n\n" % (lnj["ln"], ('=' * len(lnj["ln"]))))
+        ln = lnj["ln"]
+        uln = ln.encode("utf-8")
+        rst.write("%s\n%s\n\n" % (lnj["ln"], ('=' * len(uln))))
         if len(lc) == 2:
             i639_code = lnj["ISO-639-3"]
             rst.write("%s%s%s%s%s\n\n" % (note_a,i639_code,note_b,i639_code,note_c))

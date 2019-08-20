@@ -1,0 +1,27 @@
+.. _agg:
+
+Angor
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: agg
+    alternate_names:
+    - Nai (Central Angor)
+    - Samanai (Southern Angor)
+    - Anggor
+    - Senagi
+    - Watapor
+    anglicanized_name: Angor
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: agg
+    lang_direction: ltr
+    lang_name: Angor
+    lang_region: Pacific
+    

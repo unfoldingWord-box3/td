@@ -1,0 +1,30 @@
+.. _gxx:
+
+Wè Southern
+============
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: gxx
+    alternate_names:
+    - Central Guéré
+    - Gere
+    - Guéré
+    - Zaa (Zaha)
+    - Niabo
+    - Beu (Zarabaon)
+    - Gboo (Gbobo)
+    - Neao (Neabo)
+    anglicanized_name: Wè Southern
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: gxx
+    lang_direction: ltr
+    lang_name: Wè Southern
+    lang_region: Africa
+    

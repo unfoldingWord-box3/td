@@ -1,0 +1,27 @@
+.. _dda:
+
+Dadi Dadi
+=========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: dda
+    alternate_names:
+    - Dadidadi
+    - Dardidardi
+    - Dardi-Dardi
+    - Tatitati
+    - Tharrthi-Tharrthi
+    anglicanized_name: Dadi Dadi
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: dda
+    lang_direction: ltr
+    lang_name: Dadi Dadi
+    lang_region: Pacific
+    

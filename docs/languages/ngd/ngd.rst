@@ -1,0 +1,28 @@
+.. _ngd:
+
+Ngando (Central African Republic)
+=================================
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: ngd
+    alternate_names:
+    - Bagandou
+    - Bangandou
+    - Bodzanga
+    - Dingando
+    - Ngando-Kota
+    - Dikota (Kota)
+    anglicanized_name: Ngando
+    country_codes:
+    - CF
+    gateway_language: fr
+    lang_code: ngd
+    lang_direction: ltr
+    lang_name: Ngando (Central African Republic)
+    lang_region: Africa
+    

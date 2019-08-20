@@ -1,0 +1,29 @@
+.. _pkh:
+
+Pankhu
+======
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+
+.. code-block:: yaml
+
+    ISO_639-3: pkh
+    alternate_names:
+    - Pankho
+    - Panko
+    - Paang
+    - Pang
+    - Pang Khua
+    - Pankhua
+    - Pankua
+    anglicanized_name: Pangkhua
+    country_codes:
+    - BD
+    gateway_language: bn
+    lang_code: pkh
+    lang_direction: ltr
+    lang_name: Pankhu
+    lang_region: Asia
+    

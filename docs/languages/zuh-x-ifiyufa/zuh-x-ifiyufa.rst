@@ -1,0 +1,20 @@
+.. _zuh-x-ifiyufa:
+
+Mando Ifiyufa
+=============
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Mando Ifiyufa
+    country_codes: []
+    gateway_language: tpi
+    lang_code: zuh-x-ifiyufa
+    lang_direction: ltr
+    lang_name: Mando Ifiyufa
+    lang_region: Pacific
+    

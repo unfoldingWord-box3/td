@@ -1,0 +1,22 @@
+.. _xae:
+
+Aequian
+=======
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: xae
+    alternate_names: []
+    anglicanized_name: Aequian
+    country_codes:
+    - IT
+    gateway_language: null
+    lang_code: xae
+    lang_direction: ltr
+    lang_name: Aequian
+    lang_region: Europe
+    

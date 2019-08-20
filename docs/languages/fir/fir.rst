@@ -1,0 +1,25 @@
+.. _fir:
+
+Firan
+=====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: fir
+    alternate_names:
+    - Faran
+    - Foron
+    - Yes Firan
+    anglicanized_name: Firan
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: fir
+    lang_direction: ltr
+    lang_name: Firan
+    lang_region: Africa
+    

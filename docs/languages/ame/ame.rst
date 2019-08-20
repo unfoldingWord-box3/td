@@ -1,0 +1,32 @@
+.. _ame:
+
+Yanesha'
+========
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: ame
+    alternate_names:
+    - Amage
+    - Amagues
+    - Amaje
+    - Amajo
+    - Amoishe
+    - Amueixa
+    - Amuese
+    - Amuetamo
+    - Lorenzo
+    - Omage
+    anglicanized_name: Yanesha’
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: ame
+    lang_direction: ltr
+    lang_name: Yanesha'
+    lang_region: Americas
+    

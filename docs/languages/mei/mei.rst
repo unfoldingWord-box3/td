@@ -1,0 +1,29 @@
+.. _mei:
+
+Midob
+=====
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: mei
+    alternate_names:
+    - Meidob
+    - Midobi
+    - Tid
+    - Tidda
+    - Tid-N-Aal
+    - Shelkota (Shalkota)
+    - Urrti (Uurti)
+    anglicanized_name: Midob
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: mei
+    lang_direction: ltr
+    lang_name: Midob
+    lang_region: Africa
+    

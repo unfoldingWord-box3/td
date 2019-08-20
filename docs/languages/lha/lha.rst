@@ -1,0 +1,32 @@
+.. _lha:
+
+Laha (Viet Nam)
+===============
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: lha
+    alternate_names:
+    - Khlá
+    - Khlá Don
+    - Khlá Dung
+    - Khlá Phlao
+    - Klá Dong
+    - La Ha Ung
+    - Liik
+    - Xá Chien
+    - Xá Khao
+    - Xá Lay
+    anglicanized_name: Laha
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: lha
+    lang_direction: ltr
+    lang_name: Laha (Viet Nam)
+    lang_region: Asia
+    

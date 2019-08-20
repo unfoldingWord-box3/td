@@ -1,0 +1,25 @@
+.. _paf:
+
+Paranawát
+==========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: paf
+    alternate_names:
+    - Majubim
+    - Paranauat
+    - Pawaté
+    anglicanized_name: Paranawát
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: paf
+    lang_direction: ltr
+    lang_name: Paranawát
+    lang_region: Americas
+    

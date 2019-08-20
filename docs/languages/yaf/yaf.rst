@@ -1,0 +1,25 @@
+.. _yaf:
+
+Yaka (Democratic Republic of Congo)
+===================================
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: yaf
+    alternate_names:
+    - Iaca
+    - Iaka
+    - Iyaka
+    anglicanized_name: Yaka
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: yaf
+    lang_direction: ltr
+    lang_name: Yaka (Democratic Republic of Congo)
+    lang_region: Africa
+    

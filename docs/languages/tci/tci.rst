@@ -1,0 +1,35 @@
+.. _tci:
+
+Wára
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: tci
+    alternate_names:
+    - Ara
+    - Kamindjo
+    - Rouku
+    - Tjokwai
+    - Tokwasa
+    - Upper Morehead
+    - Vara
+    - Wärä
+    - Yumbar
+    - Wèré
+    - Kómnjo
+    - Wára
+    - Anta
+    anglicanized_name: Wára
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: tci
+    lang_direction: ltr
+    lang_name: Wára
+    lang_region: Pacific
+    

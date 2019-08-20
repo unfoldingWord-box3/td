@@ -1,0 +1,23 @@
+.. _gad:
+
+Gaddang
+=======
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: gad
+    alternate_names:
+    - Cagayan
+    anglicanized_name: Gaddang
+    country_codes:
+    - PH
+    gateway_language: ilo
+    lang_code: gad
+    lang_direction: ltr
+    lang_name: Gaddang
+    lang_region: Asia
+    

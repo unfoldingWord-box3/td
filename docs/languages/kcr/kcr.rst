@@ -1,0 +1,24 @@
+.. _kcr:
+
+Katla
+=====
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: kcr
+    alternate_names:
+    - Akalak
+    - Kalak
+    anglicanized_name: Katla
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: kcr
+    lang_direction: ltr
+    lang_name: Katla
+    lang_region: Africa
+    

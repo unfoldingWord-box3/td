@@ -1,0 +1,41 @@
+.. _dv:
+
+ދިވެހި
+============
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/div>`_ identifies this language as ``div``.
+
+This language is spoken in the following countries:
+
+* FR: France
+* MV: Maldives
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: div
+    alternate_names:
+    - Dhivehi Bas
+    - Divehi
+    - Mahl
+    - Malikh
+    - Malki
+    - Divehi Bas
+    - Divehli
+    - Mali
+    - Maliku Bas (Minicoy Dialect)
+    - Fuvah Mulaku
+    - Huvadu
+    - Malé
+    - Maliku Bas
+    anglicanized_name: Divehi, Dhivehi, Maldivian
+    country_codes:
+    - FR
+    - MV
+    - IN
+    gateway_language: ta
+    lang_code: dv
+    lang_direction: rtl
+    lang_name: ދިވެހި
+    lang_region: Asia
+    

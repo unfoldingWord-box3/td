@@ -1,0 +1,26 @@
+.. _wsr:
+
+Owenia
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: wsr
+    alternate_names:
+    - Owena
+    - Owenda
+    - Waijara
+    - Waisara
+    anglicanized_name: Owenia
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: wsr
+    lang_direction: ltr
+    lang_name: Owenia
+    lang_region: Pacific
+    

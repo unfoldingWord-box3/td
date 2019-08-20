@@ -1,0 +1,43 @@
+.. _nus:
+
+Nuer
+====
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+* SS: South Sudan
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: nus
+    alternate_names:
+    - Naath
+    - Naadh
+    - Lou (Lau)
+    - Thiang (Bul)
+    - Leik
+    - Laak
+    - Kany
+    - Jikany
+    - Jikain
+    - Jagai
+    - Gawaar
+    - Eastern Nuer (Abigar)
+    - Eastern Jikany (Jekaing)
+    - Dor (Door)
+    - Door
+    - Thognaath (Thok Nath)
+    - Ji
+    anglicanized_name: Nuer
+    country_codes:
+    - ET
+    - SS
+    - US
+    gateway_language: ar
+    lang_code: nus
+    lang_direction: ltr
+    lang_name: Nuer
+    lang_region: Africa
+    

@@ -1,0 +1,33 @@
+.. _mgp:
+
+Eastern Magar
+=============
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+* NP: Nepal
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: mgp
+    alternate_names:
+    - Magari
+    - Magarkura
+    - Mangari
+    - Manggar
+    - Tanahu
+    - Nawalparasi
+    - Gorkha
+    anglicanized_name: Magar, Eastern
+    country_codes:
+    - BT
+    - NP
+    - IN
+    gateway_language: ne
+    lang_code: mgp
+    lang_direction: ltr
+    lang_name: Eastern Magar
+    lang_region: Asia
+    

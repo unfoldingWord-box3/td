@@ -1,0 +1,30 @@
+.. _tw:
+
+Twi
+===
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/twi>`_ identifies this language as ``twi``.
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+* LR: Liberia
+* GB: United Kingdom of Great Britain and Northern Ireland
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: twi
+    alternate_names: []
+    anglicanized_name: Twi
+    country_codes:
+    - GH
+    - LR
+    - GB
+    - TG
+    gateway_language: en
+    lang_code: tw
+    lang_direction: ltr
+    lang_name: Twi
+    lang_region: Africa
+    

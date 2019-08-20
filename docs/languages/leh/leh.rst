@@ -1,0 +1,29 @@
+.. _leh:
+
+Lenje
+=====
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+
+.. code-block:: yaml
+
+    ISO_639-3: leh
+    alternate_names:
+    - Chilenje
+    - Chinamukuni
+    - Ciina
+    - Lengi
+    - Lenji
+    - Mukuni
+    - Twa (Lukanga)
+    anglicanized_name: Lenje
+    country_codes:
+    - ZM
+    gateway_language: en
+    lang_code: leh
+    lang_direction: ltr
+    lang_name: Lenje
+    lang_region: Africa
+    

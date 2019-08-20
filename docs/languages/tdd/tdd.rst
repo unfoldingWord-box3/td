@@ -1,0 +1,59 @@
+.. _tdd:
+
+傣那语
+=========
+
+This language is spoken in the following countries:
+
+* CN: China
+* LA: Lao People's Democratic Republic
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: tdd
+    alternate_names:
+    - Chinese Shan
+    - Chinese Tai
+    - Dai Kong
+    - Dai Na
+    - Dai Nuea
+    - Daide
+    - Dehong Dai
+    - Tai Dehong
+    - Tai Le
+    - Tai Mao
+    - Tai Neua
+    - Tai nö
+    - Tai Nü
+    - Tai Nue
+    - Tai taü
+    - Tai-Kong
+    - Tai-Le
+    - Yunannese Shan
+    - Yunnan Shant'ou
+    - Tai Nuea
+    - Tai Kong
+    - Tai Man
+    - Tai Pong (Ka)
+    - You
+    - Taile
+    - Tai Ka
+    - Sai
+    - Menggeng (Taita)
+    - Mangshi (Debao)
+    - Mang Shi
+    - La
+    - Ruili (Meng Mao)
+    - Ya
+    anglicanized_name: Tai Nüa
+    country_codes:
+    - CN
+    - LA
+    - MM
+    gateway_language: zh
+    lang_code: tdd
+    lang_direction: ltr
+    lang_name: 傣那语
+    lang_region: Asia
+    

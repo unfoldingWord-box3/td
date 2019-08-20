@@ -1,0 +1,28 @@
+.. _dhr:
+
+Dhargari
+========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: dhr
+    alternate_names:
+    - Dal'gari
+    - Targari
+    - Tarkarri
+    - Thargari
+    - Tharrgari
+    - Tharrkari
+    anglicanized_name: Dhargari
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: dhr
+    lang_direction: ltr
+    lang_name: Dhargari
+    lang_region: Pacific
+    

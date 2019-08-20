@@ -1,0 +1,43 @@
+.. _amg:
+
+Amurdak
+=======
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: amg
+    alternate_names:
+    - Amarak
+    - Amardak
+    - A'moordiyu
+    - Amurag
+    - Amurdag
+    - Amurrag
+    - Amurrak
+    - Amurtak
+    - Amuruk
+    - Mamurug
+    - Monobar
+    - Namurug
+    - Nga:mr:rak
+    - Nga:mu:rak
+    - Ngamurag
+    - Umoreo
+    - Umoriu
+    - Umorrdak
+    - Wardadjbak
+    - Woraidbug
+    - Wureidbug
+    anglicanized_name: Amurdak
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: amg
+    lang_direction: ltr
+    lang_name: Amurdak
+    lang_region: Pacific
+    

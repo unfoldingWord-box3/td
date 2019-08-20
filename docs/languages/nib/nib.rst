@@ -1,0 +1,24 @@
+.. _nib:
+
+Nakame
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nib
+    alternate_names:
+    - North Nakame
+    - South Nakame
+    anglicanized_name: Nakame
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nib
+    lang_direction: ltr
+    lang_name: Nakame
+    lang_region: Pacific
+    

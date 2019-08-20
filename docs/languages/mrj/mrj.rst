@@ -1,0 +1,27 @@
+.. _mrj:
+
+Кырык мары
+===================
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: mrj
+    alternate_names:
+    - Cheremis
+    - Gorno-Mariy
+    - High Mari
+    - Mari-Hills
+    - Western Mari
+    anglicanized_name: Mari, Hill
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: mrj
+    lang_direction: ltr
+    lang_name: Кырык мары
+    lang_region: Europe
+    

@@ -1,0 +1,20 @@
+.. _rir-x-dayakmaliperuan:
+
+Dayak Mali Peruan
+=================
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Dayak Mali Peruan
+    country_codes: []
+    gateway_language: id
+    lang_code: rir-x-dayakmaliperuan
+    lang_direction: ltr
+    lang_name: Dayak Mali Peruan
+    lang_region: Asia
+    

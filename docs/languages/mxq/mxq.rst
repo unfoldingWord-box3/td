@@ -1,0 +1,25 @@
+.. _mxq:
+
+Juquila Mixe
+============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: mxq
+    alternate_names:
+    - South Central Mixe
+    - Juquila Mixe
+    - Ocotepec Mixe
+    anglicanized_name: Mixe, Juquila
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: mxq
+    lang_direction: ltr
+    lang_name: Juquila Mixe
+    lang_region: Americas
+    

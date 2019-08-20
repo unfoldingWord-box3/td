@@ -1,0 +1,25 @@
+.. _nur:
+
+Nukuria
+=======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nur
+    alternate_names:
+    - Fead
+    - Nahoa
+    - Nukeria
+    anglicanized_name: Nukuria
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nur
+    lang_direction: ltr
+    lang_name: Nukuria
+    lang_region: Pacific
+    

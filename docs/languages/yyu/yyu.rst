@@ -1,0 +1,22 @@
+.. _yyu:
+
+Yau (Sandaun Province)
+======================
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: yyu
+    alternate_names: []
+    anglicanized_name: Yau
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: yyu
+    lang_direction: ltr
+    lang_name: Yau (Sandaun Province)
+    lang_region: Pacific
+    

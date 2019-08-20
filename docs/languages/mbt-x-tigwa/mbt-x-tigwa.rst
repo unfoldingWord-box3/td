@@ -1,0 +1,22 @@
+.. _mbt-x-tigwa:
+
+Tigwa, Tigwahanen
+=================
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Tigwa, Tigwahanen
+    country_codes:
+    - PH
+    gateway_language: ceb
+    lang_code: mbt-x-tigwa
+    lang_direction: ltr
+    lang_name: Tigwa, Tigwahanen
+    lang_region: Asia
+    

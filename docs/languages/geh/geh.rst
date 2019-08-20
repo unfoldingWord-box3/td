@@ -1,0 +1,29 @@
+.. _geh:
+
+Hutterite German
+================
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: geh
+    alternate_names:
+    - Carinthian German
+    - Hutterian German
+    - Hutterite German
+    - Tirolean
+    - Tyrolese
+    anglicanized_name: Hutterisch
+    country_codes:
+    - US
+    - CA
+    gateway_language: en
+    lang_code: geh
+    lang_direction: ltr
+    lang_name: Hutterite German
+    lang_region: Americas
+    

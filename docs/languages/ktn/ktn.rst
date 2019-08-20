@@ -1,0 +1,23 @@
+.. _ktn:
+
+Karitiâna
+==========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: ktn
+    alternate_names:
+    - Caritiana
+    anglicanized_name: Karitiâna
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: ktn
+    lang_direction: ltr
+    lang_name: Karitiâna
+    lang_region: Americas
+    

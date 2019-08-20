@@ -1,0 +1,22 @@
+.. _shq:
+
+Sala
+====
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+
+.. code-block:: yaml
+
+    ISO_639-3: shq
+    alternate_names: []
+    anglicanized_name: Sala
+    country_codes:
+    - ZM
+    gateway_language: en
+    lang_code: shq
+    lang_direction: ltr
+    lang_name: Sala
+    lang_region: Africa
+    

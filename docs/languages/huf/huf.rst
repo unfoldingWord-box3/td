@@ -1,0 +1,24 @@
+.. _huf:
+
+Humene
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: huf
+    alternate_names:
+    - Manukolu
+    - Lagume (Lakume)
+    anglicanized_name: Humene
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: huf
+    lang_direction: ltr
+    lang_name: Humene
+    lang_region: Pacific
+    

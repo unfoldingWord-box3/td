@@ -1,0 +1,22 @@
+.. _duh:
+
+Dungra Bhil
+===========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: duh
+    alternate_names: []
+    anglicanized_name: Dungra Bhil
+    country_codes:
+    - IN
+    gateway_language: gu
+    lang_code: duh
+    lang_direction: ltr
+    lang_name: Dungra Bhil
+    lang_region: Asia
+    

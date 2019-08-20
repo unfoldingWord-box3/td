@@ -1,0 +1,26 @@
+.. _anc:
+
+Ngas
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: anc
+    alternate_names:
+    - Angas
+    - Karang
+    - Kerang
+    - Hill Angas
+    anglicanized_name: Ngas
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: anc
+    lang_direction: ltr
+    lang_name: Ngas
+    lang_region: Africa
+    

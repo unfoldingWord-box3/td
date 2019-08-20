@@ -1,0 +1,22 @@
+.. _zoh:
+
+Chimalapa Zoque
+===============
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zoh
+    alternate_names: []
+    anglicanized_name: Zoque, Chimalapa
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zoh
+    lang_direction: ltr
+    lang_name: Chimalapa Zoque
+    lang_region: Americas
+    

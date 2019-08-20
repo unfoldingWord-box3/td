@@ -1,0 +1,25 @@
+.. _too:
+
+Xicotepec De Juárez Totonac
+============================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: too
+    alternate_names:
+    - Northern Totonac
+    - Totonaco de Villa Juárez
+    - Zihuateutla Totonac
+    anglicanized_name: Totonac, Xicotepec de Juárez
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: too
+    lang_direction: ltr
+    lang_name: Xicotepec De Juárez Totonac
+    lang_region: Americas
+    

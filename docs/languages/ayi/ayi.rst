@@ -1,0 +1,26 @@
+.. _ayi:
+
+Leyigha
+=======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ayi
+    alternate_names:
+    - Asiga
+    - Ayiga
+    - Ayigha
+    - Yigha
+    anglicanized_name: Leyigha
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ayi
+    lang_direction: ltr
+    lang_name: Leyigha
+    lang_region: Africa
+    

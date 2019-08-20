@@ -1,0 +1,22 @@
+.. _ett:
+
+Etruscan
+========
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: ett
+    alternate_names: []
+    anglicanized_name: Etruscan
+    country_codes:
+    - IT
+    gateway_language: null
+    lang_code: ett
+    lang_direction: ltr
+    lang_name: Etruscan
+    lang_region: Europe
+    

@@ -1,0 +1,27 @@
+.. _kev:
+
+Kanikkaran
+==========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: kev
+    alternate_names:
+    - Kanikkar
+    - Kannikan
+    - Kannikaran
+    - Kannikharan
+    - Malampashi
+    anglicanized_name: Kanikkaran
+    country_codes:
+    - IN
+    gateway_language: ml
+    lang_code: kev
+    lang_direction: ltr
+    lang_name: Kanikkaran
+    lang_region: Asia
+    

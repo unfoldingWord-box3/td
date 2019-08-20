@@ -1,0 +1,38 @@
+.. _zu:
+
+isiZulu
+=======
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/zul>`_ identifies this language as ``zul``.
+
+This language is spoken in the following countries:
+
+* MZ: Mozambique
+* ZA: South Africa
+* ZW: Zimbabwe
+* LS: Lesotho
+* SZ: Eswatini
+* BW: Botswana
+
+.. code-block:: yaml
+
+    ISO_639-3: zul
+    alternate_names:
+    - Isizulu
+    - Kingoni
+    - Ngoni
+    - Zunda
+    anglicanized_name: Zulu
+    country_codes:
+    - MZ
+    - ZA
+    - ZW
+    - LS
+    - SZ
+    - BW
+    gateway_language: en
+    lang_code: zu
+    lang_direction: ltr
+    lang_name: isiZulu
+    lang_region: Africa
+    

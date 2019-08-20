@@ -1,0 +1,36 @@
+.. _hrm:
+
+角苗方言
+============
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: hrm
+    alternate_names:
+    - A-Hmo
+    - Bai Miao
+    - Changjiao Miao
+    - Forest Miao
+    - Hmong Khua Shua Ndrang
+    - Hmong Ndong
+    - Hmong Ndou
+    - Hmong Sou
+    - Jiao Miao
+    - Jiaojiao Miao
+    - Kha-Nzi
+    - Longhorn Miao
+    - Qing Miao
+    - White Miao
+    anglicanized_name: Miao, Horned
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: hrm
+    lang_direction: ltr
+    lang_name: 角苗方言
+    lang_region: Asia
+    

@@ -1,0 +1,34 @@
+.. _cbc:
+
+Carapana
+========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: cbc
+    alternate_names:
+    - Carapanã
+    - Mextã
+    - Carapana-Tapuya
+    - Karapaná
+    - Karapanã
+    - Karapano
+    - Mi tea
+    - Mochda
+    - Moxdoa
+    - Muxtea
+    anglicanized_name: Carapana
+    country_codes:
+    - BR
+    - CO
+    gateway_language: es-419
+    lang_code: cbc
+    lang_direction: ltr
+    lang_name: Carapana
+    lang_region: Americas
+    

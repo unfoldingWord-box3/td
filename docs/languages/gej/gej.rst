@@ -1,0 +1,34 @@
+.. _gej:
+
+Gen
+===
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: gej
+    alternate_names:
+    - Ge
+    - Gegbe
+    - Gen-Gbe
+    - Guin
+    - Mina-Gen
+    - Popo
+    - Gebe
+    - Gliji
+    - Agoi
+    - Anexo
+    anglicanized_name: Gen
+    country_codes:
+    - BJ
+    - TG
+    gateway_language: fr
+    lang_code: gej
+    lang_direction: ltr
+    lang_name: Gen
+    lang_region: Africa
+    

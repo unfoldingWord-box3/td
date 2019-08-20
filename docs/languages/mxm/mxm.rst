@@ -1,0 +1,23 @@
+.. _mxm:
+
+Meramera
+========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mxm
+    alternate_names:
+    - Ubili
+    anglicanized_name: Meramera
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mxm
+    lang_direction: ltr
+    lang_name: Meramera
+    lang_region: Pacific
+    

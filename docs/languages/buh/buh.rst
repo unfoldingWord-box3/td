@@ -1,0 +1,27 @@
+.. _buh:
+
+优诺语
+=========
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: buh
+    alternate_names:
+    - Pu No
+    - Punu
+    - Younuo
+    - Yuno
+    - Yunuo
+    anglicanized_name: Bunu, Younuo
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: buh
+    lang_direction: ltr
+    lang_name: 优诺语
+    lang_region: Asia
+    

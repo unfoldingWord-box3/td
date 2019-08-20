@@ -1,0 +1,23 @@
+.. _ard:
+
+Arabana
+=======
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: ard
+    alternate_names:
+    - Arabunna
+    anglicanized_name: Arabana
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: ard
+    lang_direction: ltr
+    lang_name: Arabana
+    lang_region: Pacific
+    

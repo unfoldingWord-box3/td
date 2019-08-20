@@ -1,0 +1,26 @@
+.. _sey:
+
+Secoya
+======
+
+This language is spoken in the following countries:
+
+* PE: Peru
+* EC: Ecuador
+
+.. code-block:: yaml
+
+    ISO_639-3: sey
+    alternate_names:
+    - Encabellao
+    - Piojé
+    anglicanized_name: Secoya
+    country_codes:
+    - PE
+    - EC
+    gateway_language: es-419
+    lang_code: sey
+    lang_direction: ltr
+    lang_name: Secoya
+    lang_region: Americas
+    

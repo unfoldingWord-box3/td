@@ -1,0 +1,28 @@
+.. _hya:
+
+Hya
+===
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: hya
+    alternate_names:
+    - Ghye
+    - Za
+    - Hwate
+    - Manta
+    - Mukta
+    - Munta
+    anglicanized_name: Hya
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: hya
+    lang_direction: ltr
+    lang_name: Hya
+    lang_region: Africa
+    

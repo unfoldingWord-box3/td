@@ -1,0 +1,29 @@
+.. _ktc:
+
+Kholok
+======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ktc
+    alternate_names:
+    - Kode
+    - Koode
+    - Kwoode
+    - Pia
+    - Pitiko
+    - Widala
+    - Wurkum
+    anglicanized_name: Kholok
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ktc
+    lang_direction: ltr
+    lang_name: Kholok
+    lang_region: Africa
+    

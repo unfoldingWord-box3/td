@@ -1,0 +1,22 @@
+.. _smt:
+
+Simte
+=====
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: smt
+    alternate_names: []
+    anglicanized_name: Simte
+    country_codes:
+    - IN
+    gateway_language: mni
+    lang_code: smt
+    lang_direction: ltr
+    lang_name: Simte
+    lang_region: Asia
+    

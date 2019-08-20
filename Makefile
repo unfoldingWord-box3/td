@@ -2,7 +2,9 @@
 #
 
 html:
-	python3 bin/dataprep.py
+	time python3 bin/dataprep.py
+	echo `date`
 	make -C docs html
-
+	echo `date`
+	
 default: html

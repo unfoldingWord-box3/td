@@ -1,0 +1,28 @@
+.. _ask:
+
+Ashkun
+======
+
+This language is spoken in the following countries:
+
+* AF: Afghanistan
+
+.. code-block:: yaml
+
+    ISO_639-3: ask
+    alternate_names:
+    - Ashkund
+    - Wamais
+    - Wamayi
+    - Suruviri (Wamai)
+    - Titin Bajaygul
+    - Ashuruviri (Kolata)
+    anglicanized_name: Ashkun
+    country_codes:
+    - AF
+    gateway_language: ps
+    lang_code: ask
+    lang_direction: ltr
+    lang_name: Ashkun
+    lang_region: Asia
+    

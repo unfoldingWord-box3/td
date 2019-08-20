@@ -1,0 +1,22 @@
+.. _hlu:
+
+Hieroglyphic Luwian
+===================
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: hlu
+    alternate_names: []
+    anglicanized_name: Hieroglyphic Luwian
+    country_codes:
+    - TR
+    gateway_language: null
+    lang_code: hlu
+    lang_direction: ltr
+    lang_name: Hieroglyphic Luwian
+    lang_region: Asia
+    

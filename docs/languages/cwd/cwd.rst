@@ -1,0 +1,22 @@
+.. _cwd:
+
+Woods Cree
+==========
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: cwd
+    alternate_names: []
+    anglicanized_name: Cree, Woods
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: cwd
+    lang_direction: ltr
+    lang_name: Woods Cree
+    lang_region: Americas
+    

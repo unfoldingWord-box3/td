@@ -1,0 +1,30 @@
+.. _rnd:
+
+Ruund
+=====
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: rnd
+    alternate_names:
+    - Chilu Wunda
+    - Muatiamvua
+    - Northern Lunda
+    - Ruwund
+    - Chiluwunda
+    - Lunda Kambove
+    - Lunda-Kamboro
+    - Luwunda
+    anglicanized_name: Ruund
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: rnd
+    lang_direction: ltr
+    lang_name: Ruund
+    lang_region: Africa
+    

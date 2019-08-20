@@ -1,0 +1,32 @@
+.. _bgr:
+
+Bawm Chin
+=========
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* IN: India
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: bgr
+    alternate_names:
+    - Bawn
+    - Bawng
+    - Bom
+    - Boam
+    - Laisaw
+    - Langkay
+    anglicanized_name: Chin, Bawm
+    country_codes:
+    - BD
+    - IN
+    - MM
+    gateway_language: as
+    lang_code: bgr
+    lang_direction: ltr
+    lang_name: Bawm Chin
+    lang_region: Asia
+    

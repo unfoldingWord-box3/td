@@ -1,0 +1,25 @@
+.. _zpi:
+
+Santa María Quiegolani Zapotec
+===============================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zpi
+    alternate_names:
+    - Quiegolani Zapotec
+    - Western Yautepec Zapotec
+    - Zapoteco de Santa María Quiegolani
+    anglicanized_name: Zapotec, Santa María Quiegolani
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zpi
+    lang_direction: ltr
+    lang_name: Santa María Quiegolani Zapotec
+    lang_region: Americas
+    

@@ -1,0 +1,25 @@
+.. _mfo:
+
+Mbe
+===
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: mfo
+    alternate_names:
+    - Ketuen
+    - Western Mbube
+    - Ekumtak
+    anglicanized_name: Mbe
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: mfo
+    lang_direction: ltr
+    lang_name: Mbe
+    lang_region: Africa
+    

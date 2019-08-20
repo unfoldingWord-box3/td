@@ -1,0 +1,30 @@
+.. _srh:
+
+塔吉克语
+============
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: srh
+    alternate_names:
+    - Saliku'er
+    - Salikur
+    - Sarikuli
+    - Sariqul
+    - Sarykoly
+    - Tadzik
+    - Tajik
+    - Tajiki
+    anglicanized_name: Sarikoli
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: srh
+    lang_direction: ltr
+    lang_name: 塔吉克语
+    lang_region: Asia
+    

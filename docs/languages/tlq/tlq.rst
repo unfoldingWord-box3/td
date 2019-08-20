@@ -1,0 +1,35 @@
+.. _tlq:
+
+Tai Loi
+=======
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: tlq
+    alternate_names:
+    - Loi
+    - Monglwe
+    - Tailoi
+    - Wakut
+    - Aw-aak
+    - Bulang-Su
+    - Khabe
+    - Kon Doi
+    - Kon Loi
+    - Muak Sa-aak
+    - Saneung Muak
+    anglicanized_name: Tai Loi
+    country_codes:
+    - LA
+    - MM
+    gateway_language: my
+    lang_code: tlq
+    lang_direction: ltr
+    lang_name: Tai Loi
+    lang_region: Asia
+    

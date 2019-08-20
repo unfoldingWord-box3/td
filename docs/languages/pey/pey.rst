@@ -1,0 +1,25 @@
+.. _pey:
+
+Petjo
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: pey
+    alternate_names:
+    - Peco'
+    - Pecok
+    - Petjoh
+    anglicanized_name: Petjo
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: pey
+    lang_direction: ltr
+    lang_name: Petjo
+    lang_region: Asia
+    

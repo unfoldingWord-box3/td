@@ -1,0 +1,24 @@
+.. _shs:
+
+Shuswap
+=======
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: shs
+    alternate_names:
+    - Secwepemc
+    - Secwepemctsín
+    anglicanized_name: Shuswap
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: shs
+    lang_direction: ltr
+    lang_name: Shuswap
+    lang_region: Americas
+    

@@ -1,0 +1,23 @@
+.. _ggg:
+
+Gurgula
+=======
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: ggg
+    alternate_names:
+    - Marwari Ghera
+    anglicanized_name: Gurgula
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: ggg
+    lang_direction: ltr
+    lang_name: Gurgula
+    lang_region: Asia
+    

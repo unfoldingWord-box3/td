@@ -1,0 +1,25 @@
+.. _zpz:
+
+Texmelucan Zapotec
+==================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zpz
+    alternate_names:
+    - Central Sola de Vega Zapotec
+    - Papabuco
+    - Zapoteco de San Lorenzo Texmelucan
+    anglicanized_name: Zapotec, Texmelucan
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zpz
+    lang_direction: ltr
+    lang_name: Texmelucan Zapotec
+    lang_region: Americas
+    

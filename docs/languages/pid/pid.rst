@@ -1,0 +1,35 @@
+.. _pid:
+
+Piaroa
+======
+
+This language is spoken in the following countries:
+
+* VE: Venezuela (Bolivarian Republic of)
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: pid
+    alternate_names:
+    - Adole
+    - Ature
+    - Guagua
+    - Kuakua
+    - Maco
+    - Quaqua Dearuwa
+    - Wo'tiheh
+    - Dearwa
+    - Deruwa
+    - Uhothha
+    - Uwotjüja
+    anglicanized_name: Piaroa
+    country_codes:
+    - VE
+    - CO
+    gateway_language: es-419
+    lang_code: pid
+    lang_direction: ltr
+    lang_name: Piaroa
+    lang_region: Americas
+    

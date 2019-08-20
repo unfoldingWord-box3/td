@@ -1,0 +1,45 @@
+.. _nso:
+
+Pedi
+====
+
+This language is spoken in the following countries:
+
+* ZA: South Africa
+* ZW: Zimbabwe
+* BW: Botswana
+
+.. code-block:: yaml
+
+    ISO_639-3: nso
+    alternate_names:
+    - Pedi
+    - Sepedi
+    - Transvaal Sotho
+    - Tau
+    - Thephalaborwa
+    - Pula
+    - Phalaborwa (Phalaburwa)
+    - Masemola (Masemula)
+    - Lubedu
+    - Lovedu
+    - Gananwa (Hananwa)
+    - Kxaxa
+    - Kutswe
+    - Koni (Kone)
+    - Khutswe (Khutswi)
+    - Kgaga (Khaga)
+    - Xananwa
+    - Dzwabo (Thabine-Roka-Nareng)
+    - Lobedu (Khelobedu)
+    anglicanized_name: Sotho, Northern
+    country_codes:
+    - ZA
+    - ZW
+    - BW
+    gateway_language: en
+    lang_code: nso
+    lang_direction: ltr
+    lang_name: Pedi
+    lang_region: Africa
+    

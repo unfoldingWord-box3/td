@@ -1,0 +1,24 @@
+.. _dtr:
+
+Lotud
+=====
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: dtr
+    alternate_names:
+    - Dusun Lotud
+    - Suang Lotud
+    anglicanized_name: Lotud
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: dtr
+    lang_direction: ltr
+    lang_name: Lotud
+    lang_region: Asia
+    

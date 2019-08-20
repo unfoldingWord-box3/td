@@ -1,0 +1,36 @@
+.. _laq:
+
+Qabiao
+======
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: laq
+    alternate_names:
+    - Bendi Lolo
+    - Ka Bao
+    - Ka Biao
+    - Kabeo
+    - Man La Qua
+    - Phubyau
+    - Pu Beo
+    - Pu Péo
+    - Pubiao
+    - Pupeo
+    - Qabiau
+    - Qaqiau
+    - Lolo
+    - Pen Ti
+    anglicanized_name: Qabiao
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: laq
+    lang_direction: ltr
+    lang_name: Qabiao
+    lang_region: Asia
+    

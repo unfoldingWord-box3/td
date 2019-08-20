@@ -1,0 +1,22 @@
+.. _mtm:
+
+Mator
+=====
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: mtm
+    alternate_names: []
+    anglicanized_name: Mator
+    country_codes:
+    - RU
+    gateway_language: null
+    lang_code: mtm
+    lang_direction: ltr
+    lang_name: Mator
+    lang_region: Europe
+    

@@ -1,0 +1,28 @@
+.. _orc:
+
+Orma
+====
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: orc
+    alternate_names:
+    - Uardai
+    - Wadai
+    - Warday
+    - Munyo (Korokoro)
+    - Munyo Yaya
+    - Waata (Sanye)
+    anglicanized_name: Orma
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: orc
+    lang_direction: ltr
+    lang_name: Orma
+    lang_region: Africa
+    

@@ -1,0 +1,27 @@
+.. _txi:
+
+Ikpeng
+======
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: txi
+    alternate_names:
+    - Chicao
+    - Tonore
+    - Tunuli
+    - Txikân
+    - Txikão
+    anglicanized_name: Ikpeng
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: txi
+    lang_direction: ltr
+    lang_name: Ikpeng
+    lang_region: Americas
+    

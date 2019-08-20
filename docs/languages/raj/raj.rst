@@ -1,0 +1,22 @@
+.. _raj:
+
+राजस्थानी
+===========================
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: raj
+    alternate_names: []
+    anglicanized_name: Rajasthani
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: raj
+    lang_direction: ltr
+    lang_name: राजस्थानी
+    lang_region: Asia
+    

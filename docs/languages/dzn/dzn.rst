@@ -1,0 +1,22 @@
+.. _dzn:
+
+Dzando
+======
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: dzn
+    alternate_names: []
+    anglicanized_name: Dzando
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: dzn
+    lang_direction: ltr
+    lang_name: Dzando
+    lang_region: Africa
+    

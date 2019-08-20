@@ -1,0 +1,25 @@
+.. _yli:
+
+Angguruk Yali
+=============
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: yli
+    alternate_names:
+    - Angguruk
+    - Northern Yali
+    - Yalimo
+    anglicanized_name: Yali, Angguruk
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: yli
+    lang_direction: ltr
+    lang_name: Angguruk Yali
+    lang_region: Asia
+    

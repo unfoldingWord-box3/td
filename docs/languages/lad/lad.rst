@@ -1,0 +1,38 @@
+.. _lad:
+
+Ladino
+======
+
+This language is spoken in the following countries:
+
+* IL: Israel
+* ES: Spain
+* TR: Turkey
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: lad
+    alternate_names:
+    - Dzhudezmo
+    - Judeo Spanish
+    - Sefardi
+    - Spanyol
+    - Haketia
+    - Hakitia
+    - Judyo
+    - Judezmo (Jidyo)
+    - Haketiya
+    - Haquetiya (Haketia)
+    anglicanized_name: Ladino
+    country_codes:
+    - IL
+    - ES
+    - TR
+    - US
+    gateway_language: en
+    lang_code: lad
+    lang_direction: ltr
+    lang_name: Ladino
+    lang_region: Asia
+    

@@ -1,0 +1,32 @@
+.. _kwn:
+
+Kwangali
+========
+
+This language is spoken in the following countries:
+
+* AO: Angola
+* NA: Namibia
+
+.. code-block:: yaml
+
+    ISO_639-3: kwn
+    alternate_names:
+    - Cuangar
+    - Kwangare
+    - Kwangari
+    - Rukwangali
+    - Sikwangali
+    - Shisambyu
+    - Sambyu (Sambio)
+    - Sambiu
+    anglicanized_name: Kwangali
+    country_codes:
+    - AO
+    - NA
+    gateway_language: en
+    lang_code: kwn
+    lang_direction: ltr
+    lang_name: Kwangali
+    lang_region: Africa
+    

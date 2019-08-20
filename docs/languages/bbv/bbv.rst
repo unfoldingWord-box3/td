@@ -1,0 +1,22 @@
+.. _bbv:
+
+Karnai
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bbv
+    alternate_names: []
+    anglicanized_name: Karnai
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bbv
+    lang_direction: ltr
+    lang_name: Karnai
+    lang_region: Pacific
+    

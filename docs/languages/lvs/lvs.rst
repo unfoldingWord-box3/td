@@ -1,0 +1,40 @@
+.. _lvs:
+
+Standard Latvian
+================
+
+This language is spoken in the following countries:
+
+* DE: Germany
+* KZ: Kazakhstan
+* GB: United Kingdom of Great Britain and Northern Ireland
+* LV: Latvia
+* SE: Sweden
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: lvs
+    alternate_names:
+    - Lettisch
+    - Lettish
+    anglicanized_name: Latvian, Standard
+    country_codes:
+    - DE
+    - KZ
+    - GB
+    - LV
+    - SE
+    - US
+    - AU
+    - CA
+    - UZ
+    gateway_language: en
+    lang_code: lvs
+    lang_direction: ltr
+    lang_name: Standard Latvian
+    lang_region: Europe
+    

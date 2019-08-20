@@ -1,0 +1,25 @@
+.. _utp:
+
+Amba (Solomon Islands)
+======================
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: utp
+    alternate_names:
+    - Aba
+    - Nembao
+    - Utupua
+    anglicanized_name: Amba
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: utp
+    lang_direction: ltr
+    lang_name: Amba (Solomon Islands)
+    lang_region: Pacific
+    

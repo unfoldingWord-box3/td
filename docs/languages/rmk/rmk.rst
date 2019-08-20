@@ -1,0 +1,23 @@
+.. _rmk:
+
+Romkun
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: rmk
+    alternate_names:
+    - Romkuin
+    anglicanized_name: Romkun
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: rmk
+    lang_direction: ltr
+    lang_name: Romkun
+    lang_region: Pacific
+    

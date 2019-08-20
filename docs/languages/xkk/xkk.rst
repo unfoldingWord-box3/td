@@ -1,0 +1,23 @@
+.. _xkk:
+
+Kaco'
+=====
+
+This language is spoken in the following countries:
+
+* KH: Cambodia
+
+.. code-block:: yaml
+
+    ISO_639-3: xkk
+    alternate_names:
+    - Kachah'
+    anglicanized_name: Kaco’
+    country_codes:
+    - KH
+    gateway_language: km
+    lang_code: xkk
+    lang_direction: ltr
+    lang_name: Kaco'
+    lang_region: Asia
+    

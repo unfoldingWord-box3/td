@@ -1,0 +1,24 @@
+.. _maq:
+
+Chiquihuitlán Mazatec
+======================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: maq
+    alternate_names:
+    - Mazateco de San Juan Chiquihuitlán
+    - Mazateco del Sur
+    anglicanized_name: Mazatec, Chiquihuitlán
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: maq
+    lang_direction: ltr
+    lang_name: Chiquihuitlán Mazatec
+    lang_region: Americas
+    

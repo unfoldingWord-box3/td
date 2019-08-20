@@ -1,0 +1,28 @@
+.. _bbw:
+
+Baba
+====
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: bbw
+    alternate_names:
+    - Baba 1
+    - Bapa
+    - Bapakum
+    - Papia
+    - Papiakum
+    - Supapya'
+    anglicanized_name: Baba
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: bbw
+    lang_direction: ltr
+    lang_name: Baba
+    lang_region: Africa
+    

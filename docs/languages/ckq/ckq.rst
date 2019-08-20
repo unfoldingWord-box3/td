@@ -1,0 +1,27 @@
+.. _ckq:
+
+Kajakse
+=======
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: ckq
+    alternate_names:
+    - Kadjakse
+    - Kajeske
+    - Kawa Tadimini
+    - Kujarke
+    - Mini
+    anglicanized_name: Kajakse
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: ckq
+    lang_direction: ltr
+    lang_name: Kajakse
+    lang_region: Africa
+    

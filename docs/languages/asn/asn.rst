@@ -1,0 +1,26 @@
+.. _asn:
+
+Xingú Asuriní
+===============
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: asn
+    alternate_names:
+    - Asuriní de Koatinema
+    - Asurini do Xingú
+    - Awaeté
+    - Awaté
+    anglicanized_name: Asurini of Xingú
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: asn
+    lang_direction: ltr
+    lang_name: Xingú Asuriní
+    lang_region: Americas
+    

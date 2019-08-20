@@ -1,0 +1,20 @@
+.. _nuv-x-extrnornuni:
+
+Extreme Northern Nuni
+=====================
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Extreme Northen Nuni
+    country_codes: []
+    gateway_language: fr
+    lang_code: nuv-x-extrnornuni
+    lang_direction: ltr
+    lang_name: Extreme Northern Nuni
+    lang_region: Africa
+    

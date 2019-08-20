@@ -1,0 +1,27 @@
+.. _vun:
+
+Vunjo
+=====
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: vun
+    alternate_names:
+    - Kivunjo
+    - Kiwunjo
+    - Wunjo
+    - Lema (Kilema)
+    - Marangu
+    anglicanized_name: Vunjo
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: vun
+    lang_direction: ltr
+    lang_name: Vunjo
+    lang_region: Africa
+    

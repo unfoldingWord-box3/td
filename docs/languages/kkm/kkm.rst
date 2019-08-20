@@ -1,0 +1,28 @@
+.. _kkm:
+
+Kiong
+=====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kkm
+    alternate_names:
+    - Akayon
+    - Äkäyön~
+    - Akoiyang
+    - Iyoniyong
+    - Okonyong
+    - Okoyong
+    anglicanized_name: Kiong
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: kkm
+    lang_direction: ltr
+    lang_name: Kiong
+    lang_region: Africa
+    

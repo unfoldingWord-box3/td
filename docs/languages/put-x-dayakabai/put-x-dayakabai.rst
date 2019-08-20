@@ -1,0 +1,20 @@
+.. _put-x-dayakabai:
+
+Dayak Abai
+==========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes: []
+    gateway_language: id
+    lang_code: put-x-dayakabai
+    lang_direction: ltr
+    lang_name: Dayak Abai
+    lang_region: Asia
+    

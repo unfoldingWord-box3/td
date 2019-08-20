@@ -1,0 +1,29 @@
+.. _kss:
+
+Southern Kisi
+=============
+
+This language is spoken in the following countries:
+
+* LR: Liberia
+* SL: Sierra Leone
+
+.. code-block:: yaml
+
+    ISO_639-3: kss
+    alternate_names:
+    - Gisi
+    - Gizi
+    - Kissi
+    - Kissien
+    - Kisi
+    anglicanized_name: Kisi, Southern
+    country_codes:
+    - LR
+    - SL
+    gateway_language: en
+    lang_code: kss
+    lang_direction: ltr
+    lang_name: Southern Kisi
+    lang_region: Africa
+    

@@ -1,0 +1,23 @@
+.. _brs:
+
+Baras
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: brs
+    alternate_names:
+    - Ende
+    anglicanized_name: Baras
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: brs
+    lang_direction: ltr
+    lang_name: Baras
+    lang_region: Asia
+    

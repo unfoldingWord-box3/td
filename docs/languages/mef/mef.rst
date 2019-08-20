@@ -1,0 +1,24 @@
+.. _mef:
+
+Megam
+=====
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+
+.. code-block:: yaml
+
+    ISO_639-3: mef
+    alternate_names:
+    - Migam
+    - Negam
+    anglicanized_name: Megam
+    country_codes:
+    - BD
+    gateway_language: bn
+    lang_code: mef
+    lang_direction: ltr
+    lang_name: Megam
+    lang_region: Asia
+    

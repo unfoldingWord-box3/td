@@ -1,0 +1,23 @@
+.. _rge:
+
+Romano-Greek
+============
+
+This language is spoken in the following countries:
+
+* GR: Greece
+
+.. code-block:: yaml
+
+    ISO_639-3: rge
+    alternate_names:
+    - Hellenoromani
+    anglicanized_name: Romano-Greek
+    country_codes:
+    - GR
+    gateway_language: en
+    lang_code: rge
+    lang_direction: ltr
+    lang_name: Romano-Greek
+    lang_region: Europe
+    

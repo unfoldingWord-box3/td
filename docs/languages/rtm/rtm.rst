@@ -1,0 +1,24 @@
+.. _rtm:
+
+Rotuman
+=======
+
+This language is spoken in the following countries:
+
+* FJ: Fiji
+
+.. code-block:: yaml
+
+    ISO_639-3: rtm
+    alternate_names:
+    - Rotuna
+    - Rutuman
+    anglicanized_name: Rotuman
+    country_codes:
+    - FJ
+    gateway_language: en
+    lang_code: rtm
+    lang_direction: ltr
+    lang_name: Rotuman
+    lang_region: Pacific
+    

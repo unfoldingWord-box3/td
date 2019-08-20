@@ -1,0 +1,23 @@
+.. _mfl:
+
+Putai
+=====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: mfl
+    alternate_names:
+    - Marghi West
+    anglicanized_name: Putai
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: mfl
+    lang_direction: ltr
+    lang_name: Putai
+    lang_region: Africa
+    

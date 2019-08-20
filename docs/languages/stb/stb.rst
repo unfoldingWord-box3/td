@@ -1,0 +1,26 @@
+.. _stb:
+
+Northern Subanen
+================
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: stb
+    alternate_names:
+    - Tuboy Subanon
+    - Miatan
+    - Piyau
+    - Salog (Salug)
+    anglicanized_name: Subanen, Northern
+    country_codes:
+    - PH
+    gateway_language: ceb
+    lang_code: stb
+    lang_direction: ltr
+    lang_name: Northern Subanen
+    lang_region: Asia
+    

@@ -1,0 +1,29 @@
+.. _xwg:
+
+Kwegu
+=====
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: xwg
+    alternate_names:
+    - Bacha
+    - Koegu
+    - Kwegi
+    - Menja
+    - Nidi
+    - Yidinich (Yidi)
+    - Yidinit
+    anglicanized_name: Kwegu
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: xwg
+    lang_direction: ltr
+    lang_name: Kwegu
+    lang_region: Africa
+    

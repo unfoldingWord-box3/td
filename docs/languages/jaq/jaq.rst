@@ -1,0 +1,29 @@
+.. _jaq:
+
+Yaqay
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: jaq
+    alternate_names:
+    - Jakai
+    - Jaqai
+    - Mapi
+    - Sohur
+    - Nambiomon-Mabur
+    anglicanized_name: Yaqay
+    country_codes:
+    - ID
+    - AU
+    gateway_language: id
+    lang_code: jaq
+    lang_direction: ltr
+    lang_name: Yaqay
+    lang_region: Asia
+    

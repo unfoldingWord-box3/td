@@ -1,0 +1,23 @@
+.. _ggw:
+
+Gogodala
+========
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ggw
+    alternate_names:
+    - Gogodara
+    anglicanized_name: Gogodala
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ggw
+    lang_direction: ltr
+    lang_name: Gogodala
+    lang_region: Pacific
+    

@@ -1,0 +1,22 @@
+.. _xbn:
+
+Kenaboi
+=======
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: xbn
+    alternate_names: []
+    anglicanized_name: Kenaboi
+    country_codes:
+    - MY
+    gateway_language: null
+    lang_code: xbn
+    lang_direction: ltr
+    lang_name: Kenaboi
+    lang_region: Asia
+    

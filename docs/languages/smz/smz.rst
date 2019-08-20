@@ -1,0 +1,25 @@
+.. _smz:
+
+Simeku
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: smz
+    alternate_names:
+    - Koopei (Kopei)
+    - Korpei
+    - Mainoki (Mainoke)
+    anglicanized_name: Simeku
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: smz
+    lang_direction: ltr
+    lang_name: Simeku
+    lang_region: Pacific
+    

@@ -1,0 +1,30 @@
+.. _nbr:
+
+Numana-Nunku-Gbantu-Numbu
+=========================
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: nbr
+    alternate_names:
+    - Sanga
+    - Kurmi
+    - Numana (Arak)
+    - Nimana
+    - Inmwen
+    - Gbantu (Gwanto)
+    - Aninka (Gwantu)
+    - Ninka
+    anglicanized_name: Numana-Nunku-Gbantu-Numbu
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: nbr
+    lang_direction: ltr
+    lang_name: Numana-Nunku-Gbantu-Numbu
+    lang_region: Africa
+    

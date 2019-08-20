@@ -1,0 +1,20 @@
+.. _jbu-x-fete:
+
+Fete
+====
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Fete
+    country_codes: []
+    gateway_language: en
+    lang_code: jbu-x-fete
+    lang_direction: ltr
+    lang_name: Fete
+    lang_region: Africa
+    

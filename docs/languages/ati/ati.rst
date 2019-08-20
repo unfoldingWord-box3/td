@@ -1,0 +1,27 @@
+.. _ati:
+
+Attié
+======
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: ati
+    alternate_names:
+    - Akie
+    - Akye
+    - Atche
+    - Atie
+    - Atshe
+    anglicanized_name: Attié
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: ati
+    lang_direction: ltr
+    lang_name: Attié
+    lang_region: Africa
+    

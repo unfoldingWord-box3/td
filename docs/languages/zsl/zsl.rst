@@ -1,0 +1,22 @@
+.. _zsl:
+
+Zambian Sign Language
+=====================
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+
+.. code-block:: yaml
+
+    ISO_639-3: zsl
+    alternate_names: []
+    anglicanized_name: Zambian Sign Language
+    country_codes:
+    - ZM
+    gateway_language: en
+    lang_code: zsl
+    lang_direction: ltr
+    lang_name: Zambian Sign Language
+    lang_region: Africa
+    

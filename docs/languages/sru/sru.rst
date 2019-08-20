@@ -1,0 +1,25 @@
+.. _sru:
+
+Suruí
+======
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: sru
+    alternate_names:
+    - Paiter
+    - Suruí de Rondônia
+    - Suruí do Jiparaná
+    anglicanized_name: Suruí
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: sru
+    lang_direction: ltr
+    lang_name: Suruí
+    lang_region: Americas
+    

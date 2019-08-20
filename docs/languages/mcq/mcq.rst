@@ -1,0 +1,25 @@
+.. _mcq:
+
+Ese
+===
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mcq
+    alternate_names:
+    - Managalasi
+    - Managulasi
+    - Numba
+    anglicanized_name: Ese
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mcq
+    lang_direction: ltr
+    lang_name: Ese
+    lang_region: Pacific
+    

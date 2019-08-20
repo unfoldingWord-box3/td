@@ -1,0 +1,25 @@
+.. _bac:
+
+Badui
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bac
+    alternate_names:
+    - Baduy
+    - Bahasa Sunda
+    - Gajebo
+    anglicanized_name: Badui
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bac
+    lang_direction: ltr
+    lang_name: Badui
+    lang_region: Asia
+    

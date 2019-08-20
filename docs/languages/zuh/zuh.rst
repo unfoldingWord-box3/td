@@ -1,0 +1,27 @@
+.. _zuh:
+
+Tokano
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: zuh
+    alternate_names:
+    - Gamuso
+    - Tokama
+    - Yufiyufa
+    - Zaka
+    - Zuhozuho
+    anglicanized_name: Tokano
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: zuh
+    lang_direction: ltr
+    lang_name: Tokano
+    lang_region: Pacific
+    

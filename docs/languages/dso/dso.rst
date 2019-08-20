@@ -1,0 +1,26 @@
+.. _dso:
+
+Desiya
+======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: dso
+    alternate_names:
+    - Deshia
+    - Desia
+    - Desiya Oriya
+    - Koraput Oriya
+    anglicanized_name: Desiya
+    country_codes:
+    - IN
+    gateway_language: or
+    lang_code: dso
+    lang_direction: ltr
+    lang_name: Desiya
+    lang_region: Asia
+    

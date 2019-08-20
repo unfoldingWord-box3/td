@@ -1,0 +1,20 @@
+.. _sgw-x-muher:
+
+Muher
+=====
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes: []
+    gateway_language: am
+    lang_code: sgw-x-muher
+    lang_direction: ltr
+    lang_name: Muher
+    lang_region: Africa
+    

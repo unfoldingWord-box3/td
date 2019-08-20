@@ -1,0 +1,22 @@
+.. _mfy:
+
+Mayo
+====
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: mfy
+    alternate_names: []
+    anglicanized_name: Mayo
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: mfy
+    lang_direction: ltr
+    lang_name: Mayo
+    lang_region: Americas
+    

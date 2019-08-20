@@ -1,0 +1,36 @@
+.. _xyy:
+
+Yorta Yorta
+===========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: xyy
+    alternate_names:
+    - Arramouro
+    - Bangerang
+    - Gunbowerooranditchgoole
+    - Gunbowers
+    - Jotijota
+    - Kwart Kwart
+    - Moira
+    - Ngarrimouro
+    - Ngarrimowro
+    - Unungun
+    - Wol-Lithiga
+    - Woollathura
+    - Yoorta
+    - Yota Yota
+    anglicanized_name: Yorta Yorta
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: xyy
+    lang_direction: ltr
+    lang_name: Yorta Yorta
+    lang_region: Pacific
+    

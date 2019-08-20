@@ -1,0 +1,24 @@
+.. _asq:
+
+Austrian Sign Language
+======================
+
+This language is spoken in the following countries:
+
+* AT: Austria
+
+.. code-block:: yaml
+
+    ISO_639-3: asq
+    alternate_names:
+    - ÖGS
+    - Österreichische Gebärdensprache
+    anglicanized_name: Austrian Sign Language
+    country_codes:
+    - AT
+    gateway_language: en
+    lang_code: asq
+    lang_direction: ltr
+    lang_name: Austrian Sign Language
+    lang_region: Europe
+    

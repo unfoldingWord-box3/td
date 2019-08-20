@@ -1,0 +1,20 @@
+.. _imo-x-imboungu:
+
+Imbo Ungu Proper
+================
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Imbo Ungu Proper
+    country_codes: []
+    gateway_language: tpi
+    lang_code: imo-x-imboungu
+    lang_direction: ltr
+    lang_name: Imbo Ungu Proper
+    lang_region: Pacific
+    

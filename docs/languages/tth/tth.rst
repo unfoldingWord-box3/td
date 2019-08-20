@@ -1,0 +1,31 @@
+.. _tth:
+
+Upper Ta'oih
+============
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: tth
+    alternate_names:
+    - Kantua
+    - Ta Hoi
+    - Ta-Oi
+    - Ta-Oy
+    - Tau Oi
+    - Tà-Oi
+    - Toi-Oi
+    - T-Oy
+    - Ha'aang (Sa'ang)
+    anglicanized_name: Ta’oih, Upper
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: tth
+    lang_direction: ltr
+    lang_name: Upper Ta'oih
+    lang_region: Asia
+    

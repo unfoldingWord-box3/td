@@ -1,0 +1,23 @@
+.. _nii:
+
+Nii
+===
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nii
+    alternate_names:
+    - Ek Nii
+    anglicanized_name: Nii
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nii
+    lang_direction: ltr
+    lang_name: Nii
+    lang_region: Pacific
+    

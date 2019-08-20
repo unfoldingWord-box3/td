@@ -1,0 +1,22 @@
+.. _bfz-x-baghlian:
+
+Baghliani
+=========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: bfz-x-baghlian
+    lang_direction: ltr
+    lang_name: Baghliani
+    lang_region: Asia
+    

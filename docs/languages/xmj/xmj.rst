@@ -1,0 +1,30 @@
+.. _xmj:
+
+Majera
+======
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: xmj
+    alternate_names:
+    - Mazera
+    - Da'a
+    - Mida'a
+    - Midah
+    - Hwalem (Holom)
+    - Majera (Mazra)
+    anglicanized_name: Majera
+    country_codes:
+    - CM
+    - TD
+    gateway_language: fr
+    lang_code: xmj
+    lang_direction: ltr
+    lang_name: Majera
+    lang_region: Africa
+    

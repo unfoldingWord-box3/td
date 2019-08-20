@@ -1,0 +1,20 @@
+.. _qaa-x-c67de8:
+
+Serawai
+=======
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes: []
+    gateway_language: null
+    lang_code: qaa-x-c67de8
+    lang_direction: ltr
+    lang_name: Serawai
+    lang_region: Asia
+    

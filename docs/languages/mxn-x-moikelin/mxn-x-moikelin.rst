@@ -1,0 +1,20 @@
+.. _mxn-x-moikelin:
+
+Moi Kelin
+=========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Moi Kelin
+    country_codes: []
+    gateway_language: id
+    lang_code: mxn-x-moikelin
+    lang_direction: ltr
+    lang_name: Moi Kelin
+    lang_region: Asia
+    

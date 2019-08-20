@@ -1,0 +1,35 @@
+.. _cjk:
+
+Chokwe
+======
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: cjk
+    alternate_names:
+    - Ciokwe
+    - Djok
+    - Kioko
+    - Quioco
+    - Shioko
+    - Tschiokloe
+    - Tshokwe
+    - Imo
+    - Tschiokwe
+    - Ukhongo
+    - Ulanda
+    anglicanized_name: Cokwe
+    country_codes:
+    - ZM
+    - AO
+    gateway_language: pt
+    lang_code: cjk
+    lang_direction: ltr
+    lang_name: Chokwe
+    lang_region: Africa
+    

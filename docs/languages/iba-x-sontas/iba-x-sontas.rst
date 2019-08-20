@@ -1,0 +1,20 @@
+.. _iba-x-sontas:
+
+Dayak Sontas
+============
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Dayak Sontas
+    country_codes: []
+    gateway_language: id
+    lang_code: iba-x-sontas
+    lang_direction: ltr
+    lang_name: Dayak Sontas
+    lang_region: Asia
+    

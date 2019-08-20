@@ -1,0 +1,22 @@
+.. _kpi:
+
+Kofei
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kpi
+    alternate_names: []
+    anglicanized_name: Kofei
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kpi
+    lang_direction: ltr
+    lang_name: Kofei
+    lang_region: Asia
+    

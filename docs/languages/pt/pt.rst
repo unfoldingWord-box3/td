@@ -1,0 +1,36 @@
+.. _pt:
+
+português
+==========
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/por>`_ identifies this language as ``por``.
+
+This language is spoken in the following countries:
+
+* PT: Portugal
+
+.. code-block:: yaml
+
+    ISO_639-3: por
+    alternate_names:
+    - Português
+    - Alentejan (Alentejano)
+    - Minhotan (Minhoto)
+    - Uruguayan Portuguese
+    - Transmontan (Transmontano)
+    - Portuñol
+    - Portunhol
+    - Madeirese (Madeirense)
+    - Brazilian Portuguese
+    - Beiran (Beirão)
+    - Algarvian (Algarvio)
+    - Azorean (Açoriano)
+    anglicanized_name: Portuguese
+    country_codes:
+    - PT
+    gateway_language: pt
+    lang_code: pt
+    lang_direction: ltr
+    lang_name: português
+    lang_region: Europe
+    

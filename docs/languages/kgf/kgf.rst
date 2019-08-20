@@ -1,0 +1,25 @@
+.. _kgf:
+
+Kube
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kgf
+    alternate_names:
+    - Hube
+    - Mongi
+    - Yoangen (Yoanggeng)
+    anglicanized_name: Kube
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kgf
+    lang_direction: ltr
+    lang_name: Kube
+    lang_region: Pacific
+    

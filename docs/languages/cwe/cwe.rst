@@ -1,0 +1,29 @@
+.. _cwe:
+
+Kwere
+=====
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: cwe
+    alternate_names:
+    - Kakwere
+    - Kikwere
+    - Kinghwele
+    - Kwele
+    - Ngwele
+    - Ng'were
+    - Tsinghwele
+    anglicanized_name: Kwere
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: cwe
+    lang_direction: ltr
+    lang_name: Kwere
+    lang_region: Africa
+    

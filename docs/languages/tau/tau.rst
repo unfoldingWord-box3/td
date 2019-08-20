@@ -1,0 +1,25 @@
+.. _tau:
+
+Upper Tanana
+============
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: tau
+    alternate_names:
+    - Nabesna
+    anglicanized_name: Tanana, Upper
+    country_codes:
+    - US
+    - CA
+    gateway_language: en
+    lang_code: tau
+    lang_direction: ltr
+    lang_name: Upper Tanana
+    lang_region: Americas
+    

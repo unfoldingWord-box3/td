@@ -1,0 +1,47 @@
+.. _cfm:
+
+Falam Chin
+==========
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: cfm
+    alternate_names:
+    - Fallam
+    - Halam Chin
+    - Hallam
+    - Tipura
+    - Falam
+    - Hallam Chin
+    - Sim
+    - Lente (Lyente)
+    - Zahau-Shimhrin
+    - Zahau
+    - Zahao (Lyen-Lyem)
+    - Yahow
+    - Tashom
+    - Taisun (Shunkla)
+    - Sunkhla
+    - Chorei
+    - Ngawn
+    - Laizo-Shimhrin
+    - Laizo (Laiso)
+    - Laizao
+    - Khualshim (Kwelshin)
+    - Kalai (Koloi)
+    - Kaipang
+    - Hualngo
+    - Mursum (Molsom)
+    anglicanized_name: Chin, Falam
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: cfm
+    lang_direction: ltr
+    lang_name: Falam Chin
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _kxt:
+
+Koiwat
+======
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kxt
+    alternate_names: []
+    anglicanized_name: Koiwat
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kxt
+    lang_direction: ltr
+    lang_name: Koiwat
+    lang_region: Pacific
+    

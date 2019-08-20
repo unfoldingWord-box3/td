@@ -1,0 +1,31 @@
+.. _ngk:
+
+Dalabon
+=======
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: ngk
+    alternate_names:
+    - Bouin
+    - Boun
+    - Buan
+    - Buin
+    - Buwan
+    - Gundangbon
+    - Nalabon
+    - Ngalabon
+    - Ngalkbon
+    anglicanized_name: Dalabon
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: ngk
+    lang_direction: ltr
+    lang_name: Dalabon
+    lang_region: Pacific
+    

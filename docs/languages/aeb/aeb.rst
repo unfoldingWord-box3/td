@@ -1,0 +1,43 @@
+.. _aeb:
+
+Tunisian Arabic
+===============
+
+This language is spoken in the following countries:
+
+* BE: Belgium
+* FR: France
+* DE: Germany
+* NL: Netherlands
+* TN: Tunisia
+* IT: Italy
+* LY: Libya
+
+.. code-block:: yaml
+
+    ISO_639-3: aeb
+    alternate_names:
+    - Sahil
+    - Sfax
+    - South-Eastern Tunisian
+    - South-Western Tunisian
+    - Tunis
+    - North-Western Tunisian
+    - Tunisian
+    - Tunisian Arabic
+    - Tunisian Darija
+    anglicanized_name: Arabic, Tunisian Spoken
+    country_codes:
+    - BE
+    - FR
+    - DE
+    - NL
+    - TN
+    - IT
+    - LY
+    gateway_language: ar
+    lang_code: aeb
+    lang_direction: rtl
+    lang_name: Tunisian Arabic
+    lang_region: Africa
+    

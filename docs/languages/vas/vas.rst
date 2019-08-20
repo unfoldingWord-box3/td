@@ -1,0 +1,36 @@
+.. _vas:
+
+Vasavi
+======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: vas
+    alternate_names:
+    - Adiwasi Bhil
+    - Ambodia Bhil
+    - Bhilori
+    - Dhogri Bhil
+    - Keski Bhil
+    - Padwi Bhilori
+    - Vasava
+    - Vasava Bhil
+    - Vasave
+    - Khatalia
+    - Kot
+    - Dogri (Dhogri)
+    - Ambodi (Ambodia)
+    - Dehvali (Kolche)
+    anglicanized_name: Vasavi
+    country_codes:
+    - IN
+    gateway_language: mr
+    lang_code: vas
+    lang_direction: ltr
+    lang_name: Vasavi
+    lang_region: Asia
+    

@@ -1,0 +1,26 @@
+.. _jab:
+
+Hyam
+====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: jab
+    alternate_names:
+    - Ham
+    - Hyamhum
+    - Jabba
+    - Jeba
+    anglicanized_name: Hyam
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: jab
+    lang_direction: ltr
+    lang_name: Hyam
+    lang_region: Africa
+    

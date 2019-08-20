@@ -1,0 +1,22 @@
+.. _urp:
+
+Uru-Pa-In
+=========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: urp
+    alternate_names: []
+    anglicanized_name: Uru-Pa-In
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: urp
+    lang_direction: ltr
+    lang_name: Uru-Pa-In
+    lang_region: Americas
+    

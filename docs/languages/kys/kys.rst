@@ -1,0 +1,23 @@
+.. _kys:
+
+Baram Kayan
+===========
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: kys
+    alternate_names:
+    - Baram Kajan
+    anglicanized_name: Kayan, Baram
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: kys
+    lang_direction: ltr
+    lang_name: Baram Kayan
+    lang_region: Asia
+    

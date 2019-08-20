@@ -1,0 +1,22 @@
+.. _tnl:
+
+Lenakel
+=======
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: tnl
+    alternate_names: []
+    anglicanized_name: Lenakel
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: tnl
+    lang_direction: ltr
+    lang_name: Lenakel
+    lang_region: Pacific
+    

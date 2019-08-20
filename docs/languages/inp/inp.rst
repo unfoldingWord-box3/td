@@ -1,0 +1,23 @@
+.. _inp:
+
+Iñapari
+========
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: inp
+    alternate_names:
+    - Inamari
+    anglicanized_name: Iñapari
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: inp
+    lang_direction: ltr
+    lang_name: Iñapari
+    lang_region: Americas
+    

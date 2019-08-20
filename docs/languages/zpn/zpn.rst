@@ -1,0 +1,25 @@
+.. _zpn:
+
+Santa Inés Yatzechi Zapotec
+============================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zpn
+    alternate_names:
+    - Southeastern Zimatlán Zapotec
+    - Zapoteco de Santa Inés Yatzechi
+    - Zapoteco de Zegache
+    anglicanized_name: Zapotec, Santa Inés Yatzechi
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zpn
+    lang_direction: ltr
+    lang_name: Santa Inés Yatzechi Zapotec
+    lang_region: Americas
+    

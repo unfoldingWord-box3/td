@@ -1,0 +1,22 @@
+.. _tkn:
+
+シマグチ
+============
+
+This language is spoken in the following countries:
+
+* JP: Japan
+
+.. code-block:: yaml
+
+    ISO_639-3: tkn
+    alternate_names: []
+    anglicanized_name: Toku-No-Shima
+    country_codes:
+    - JP
+    gateway_language: ja
+    lang_code: tkn
+    lang_direction: ltr
+    lang_name: シマグチ
+    lang_region: Asia
+    

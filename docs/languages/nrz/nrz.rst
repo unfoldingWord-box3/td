@@ -1,0 +1,25 @@
+.. _nrz:
+
+Lala
+====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nrz
+    alternate_names:
+    - Ala'ala
+    - Nara
+    - Pokau
+    anglicanized_name: Lala
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nrz
+    lang_direction: ltr
+    lang_name: Lala
+    lang_region: Pacific
+    

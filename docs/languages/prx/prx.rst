@@ -1,0 +1,29 @@
+.. _prx:
+
+Purik
+=====
+
+This language is spoken in the following countries:
+
+* CN: China
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: prx
+    alternate_names:
+    - Burig
+    - Burigskat
+    - Purigskad
+    - Purik Bhotia
+    - Purki
+    anglicanized_name: Purik
+    country_codes:
+    - CN
+    - IN
+    gateway_language: ur
+    lang_code: prx
+    lang_direction: ltr
+    lang_name: Purik
+    lang_region: Asia
+    

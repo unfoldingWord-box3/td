@@ -1,0 +1,25 @@
+.. _clm:
+
+Clallam
+=======
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: clm
+    alternate_names:
+    - Klallam
+    - Na'klallam
+    - S'klallam
+    anglicanized_name: Clallam
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: clm
+    lang_direction: ltr
+    lang_name: Clallam
+    lang_region: Americas
+    

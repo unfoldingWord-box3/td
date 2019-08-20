@@ -1,0 +1,23 @@
+.. _ktp:
+
+卡多
+======
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: ktp
+    alternate_names:
+    - Khatu
+    anglicanized_name: Kaduo
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: ktp
+    lang_direction: ltr
+    lang_name: 卡多
+    lang_region: Asia
+    

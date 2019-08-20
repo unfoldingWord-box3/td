@@ -1,0 +1,29 @@
+.. _tly:
+
+Talış dili
+============
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+* IR: Iran (Islamic Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: tly
+    alternate_names:
+    - Talesh
+    - Talish
+    - Talyshi
+    - Taleshi
+    - Talishi
+    anglicanized_name: Talysh
+    country_codes:
+    - AZ
+    - IR
+    gateway_language: ru
+    lang_code: tly
+    lang_direction: ltr
+    lang_name: Talış dili
+    lang_region: Asia
+    

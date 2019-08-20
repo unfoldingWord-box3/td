@@ -1,0 +1,26 @@
+.. _ttv:
+
+Titan
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ttv
+    alternate_names:
+    - Manus
+    - M'bunai
+    - Moanus
+    - Tito
+    anglicanized_name: Titan
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ttv
+    lang_direction: ltr
+    lang_name: Titan
+    lang_region: Pacific
+    

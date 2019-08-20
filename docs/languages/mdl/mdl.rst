@@ -1,0 +1,22 @@
+.. _mdl:
+
+Maltese Sign Language
+=====================
+
+This language is spoken in the following countries:
+
+* MT: Malta
+
+.. code-block:: yaml
+
+    ISO_639-3: mdl
+    alternate_names: []
+    anglicanized_name: Maltese Sign Language
+    country_codes:
+    - MT
+    gateway_language: en
+    lang_code: mdl
+    lang_direction: ltr
+    lang_name: Maltese Sign Language
+    lang_region: Europe
+    

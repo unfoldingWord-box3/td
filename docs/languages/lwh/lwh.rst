@@ -1,0 +1,24 @@
+.. _lwh:
+
+White Lachi
+===========
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: lwh
+    alternate_names:
+    - Lipupõ
+    - White Lachi
+    anglicanized_name: Lachi, White
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: lwh
+    lang_direction: ltr
+    lang_name: White Lachi
+    lang_region: Asia
+    

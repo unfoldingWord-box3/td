@@ -1,0 +1,27 @@
+.. _ain:
+
+アイヌ語 (Japan)
+====================
+
+This language is spoken in the following countries:
+
+* JP: Japan
+
+.. code-block:: yaml
+
+    ISO_639-3: ain
+    alternate_names:
+    - Ainu Itak
+    - Hokkaido (Ezo)
+    - Kuril (Shikotan)
+    - Sakhalin (Saghilin)
+    - Yezo
+    anglicanized_name: Ainu
+    country_codes:
+    - JP
+    gateway_language: ja
+    lang_code: ain
+    lang_direction: ltr
+    lang_name: アイヌ語 (Japan)
+    lang_region: Asia
+    

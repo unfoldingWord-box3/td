@@ -1,0 +1,20 @@
+.. _bug-x-bugisboneh:
+
+Bugis Boneh
+===========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Bugis Boneh
+    country_codes: []
+    gateway_language: id
+    lang_code: bug-x-bugisboneh
+    lang_direction: ltr
+    lang_name: Bugis Boneh
+    lang_region: Asia
+    

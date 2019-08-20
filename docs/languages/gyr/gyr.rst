@@ -1,0 +1,23 @@
+.. _gyr:
+
+Guarayu
+=======
+
+This language is spoken in the following countries:
+
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: gyr
+    alternate_names:
+    - Guarayo
+    anglicanized_name: Guarayu
+    country_codes:
+    - BO
+    gateway_language: es-419
+    lang_code: gyr
+    lang_direction: ltr
+    lang_name: Guarayu
+    lang_region: Americas
+    

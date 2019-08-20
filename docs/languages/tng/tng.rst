@@ -1,0 +1,28 @@
+.. _tng:
+
+Tobanga
+=======
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: tng
+    alternate_names:
+    - Gabri
+    - Gabri-Nord
+    - Gabri-North
+    - Northern Gabri
+    - Mande
+    - Tobanga (Deressia)
+    anglicanized_name: Tobanga
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: tng
+    lang_direction: ltr
+    lang_name: Tobanga
+    lang_region: Africa
+    

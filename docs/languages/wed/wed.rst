@@ -1,0 +1,24 @@
+.. _wed:
+
+Wedau
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: wed
+    alternate_names:
+    - Wedaun
+    - Wedawan
+    anglicanized_name: Wedau
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: wed
+    lang_direction: ltr
+    lang_name: Wedau
+    lang_region: Pacific
+    

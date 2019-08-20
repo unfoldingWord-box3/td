@@ -1,0 +1,36 @@
+.. _ahg:
+
+Qimant
+======
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: ahg
+    alternate_names:
+    - Hwarasa (Kara)
+    - Dembya
+    - Kemanat
+    - Kwolasa (Kwolacha)
+    - Qwarina
+    - Qwara
+    - Qimant (Chemant)
+    - Qemant
+    - Kimant
+    - Kemant
+    - Dembiya (Dambya)
+    - Kamant
+    - Kimanteney
+    - Western Agaw
+    anglicanized_name: Qimant
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: ahg
+    lang_direction: ltr
+    lang_name: Qimant
+    lang_region: Africa
+    

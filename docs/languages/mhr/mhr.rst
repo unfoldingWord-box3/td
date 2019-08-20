@@ -1,0 +1,40 @@
+.. _mhr:
+
+Восточный Марийский
+=====================================
+
+This language is spoken in the following countries:
+
+* KZ: Kazakhstan
+* TJ: Tajikistan
+* RU: Russian Federation
+* TM: Turkmenistan
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: mhr
+    alternate_names:
+    - Cheremis
+    - Eastern Mari
+    - Low Mari
+    - Lugovo Mari
+    - Mari
+    - Mari-Woods
+    - Sernur-Morkin
+    - Volga
+    - Yoshkar-Olin
+    - Grassland Mari (Meadow Mari)
+    anglicanized_name: Mari, Meadow
+    country_codes:
+    - KZ
+    - TJ
+    - RU
+    - TM
+    - UZ
+    gateway_language: ru
+    lang_code: mhr
+    lang_direction: ltr
+    lang_name: Восточный Марийский
+    lang_region: Europe
+    

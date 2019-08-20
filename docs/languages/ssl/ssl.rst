@@ -1,0 +1,26 @@
+.. _ssl:
+
+Western Sisaala
+===============
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: ssl
+    alternate_names:
+    - Busillu Sisala
+    - Hissala
+    - Issala
+    - Sisai
+    anglicanized_name: Sisaala, Western
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: ssl
+    lang_direction: ltr
+    lang_name: Western Sisaala
+    lang_region: Africa
+    

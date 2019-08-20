@@ -1,0 +1,22 @@
+.. _eth:
+
+Ethiopian Sign Language
+=======================
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: eth
+    alternate_names: []
+    anglicanized_name: Ethiopian Sign Language
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: eth
+    lang_direction: ltr
+    lang_name: Ethiopian Sign Language
+    lang_region: Africa
+    

@@ -1,0 +1,22 @@
+.. _mod:
+
+Mobilian
+========
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: mod
+    alternate_names: []
+    anglicanized_name: Mobilian
+    country_codes:
+    - US
+    gateway_language: null
+    lang_code: mod
+    lang_direction: ltr
+    lang_name: Mobilian
+    lang_region: Americas
+    

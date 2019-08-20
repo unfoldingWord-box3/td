@@ -1,0 +1,30 @@
+.. _ike:
+
+Eastern Canadian Inuktitut
+==========================
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: ike
+    alternate_names:
+    - Inuit
+    - Eastern Arctic Eskimo
+    - Eastern Canadian Eskimo
+    - Labrador Inuttitut
+    - Labrador Inuttut ("Labrador Eskimo")
+    - Mittimatalik ("Baffinland Eskimo")
+    - Rigolet Inuttut
+    - Tarramiut ("Quebec Eskimo")
+    anglicanized_name: Inuktitut, Eastern Canadian
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: ike
+    lang_direction: ltr
+    lang_name: Eastern Canadian Inuktitut
+    lang_region: Americas
+    

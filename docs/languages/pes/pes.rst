@@ -1,0 +1,96 @@
+.. _pes:
+
+فارسی
+==========
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+* AT: Austria
+* BE: Belgium
+* GR: Greece
+* AF: Afghanistan
+* FR: France
+* DE: Germany
+* IR: Iran (Islamic Republic of)
+* IQ: Iraq
+* IL: Israel
+* ES: Spain
+* GB: United Kingdom of Great Britain and Northern Ireland
+* OM: Oman
+* NL: Netherlands
+* NZ: New Zealand
+* PK: Pakistan
+* SY: Syrian Arab Republic
+* TR: Turkey
+* US: United States of America
+* YE: Yemen
+* AU: Australia
+* CA: Canada
+* IT: Italy
+* KW: Kuwait
+* DK: Denmark
+* TM: Turkmenistan
+* UZ: Uzbekistan
+* BH: Bahrain
+* QA: Qatar
+* AE: United Arab Emirates
+
+.. code-block:: yaml
+
+    ISO_639-3: pes
+    alternate_names:
+    - Persian
+    - New Persian
+    - Parsi
+    - West Persian
+    - Old Shirazi
+    - Abadani
+    - Yazdi
+    - Tehrani
+    - Shahrudi Kazeruni
+    - Mashadi (Meshed)
+    - Mahalhamadani
+    - Ketabi
+    - Esfahani
+    - Bandari
+    - Shirazjahromi
+    - Western
+    anglicanized_name: Persian, Iranian
+    country_codes:
+    - AZ
+    - AT
+    - BE
+    - GR
+    - AF
+    - FR
+    - DE
+    - IR
+    - IQ
+    - IL
+    - ES
+    - GB
+    - OM
+    - NL
+    - NZ
+    - PK
+    - SY
+    - TR
+    - US
+    - YE
+    - AU
+    - CA
+    - IT
+    - KW
+    - DK
+    - TM
+    - UZ
+    - BH
+    - QA
+    - AE
+    gateway_language: fa
+    lang_code: pes
+    lang_direction: rtl
+    lang_name: فارسی
+    lang_region: Asia
+    

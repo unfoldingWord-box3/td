@@ -1,0 +1,30 @@
+.. _jmc:
+
+Machame
+=======
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: jmc
+    alternate_names:
+    - Kimachame
+    - Kimashami
+    - Machambe
+    - Siha (Shira)
+    - Ng'uni
+    - Bosho
+    - Hai
+    - Masdama
+    anglicanized_name: Machame
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: jmc
+    lang_direction: ltr
+    lang_name: Machame
+    lang_region: Africa
+    

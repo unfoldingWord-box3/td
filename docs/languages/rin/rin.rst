@@ -1,0 +1,25 @@
+.. _rin:
+
+Nungu
+=====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: rin
+    alternate_names:
+    - Lindiri
+    - Rendre
+    - Rindiri
+    anglicanized_name: Nungu
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: rin
+    lang_direction: ltr
+    lang_name: Nungu
+    lang_region: Africa
+    

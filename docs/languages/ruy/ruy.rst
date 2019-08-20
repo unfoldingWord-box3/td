@@ -1,0 +1,25 @@
+.. _ruy:
+
+Mala (Nigeria)
+==============
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ruy
+    alternate_names:
+    - Amala
+    - Rumaiya
+    - Tumala
+    anglicanized_name: Mala
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ruy
+    lang_direction: ltr
+    lang_name: Mala (Nigeria)
+    lang_region: Africa
+    

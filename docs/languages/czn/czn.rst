@@ -1,0 +1,24 @@
+.. _czn:
+
+Zenzontepec Chatino
+===================
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: czn
+    alternate_names:
+    - Chatino Occidental Alto
+    - Northern Chatino
+    anglicanized_name: Chatino, Zenzontepec
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: czn
+    lang_direction: ltr
+    lang_name: Zenzontepec Chatino
+    lang_region: Americas
+    

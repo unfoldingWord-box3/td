@@ -1,0 +1,28 @@
+.. _msq:
+
+Caac
+====
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: msq
+    alternate_names:
+    - Caaac
+    - Caawac
+    - Moenebeng
+    - Mwelebeng
+    - La Conception (St. Louis)
+    - Pouébo (Pwebo)
+    anglicanized_name: Caac
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: msq
+    lang_direction: ltr
+    lang_name: Caac
+    lang_region: Pacific
+    

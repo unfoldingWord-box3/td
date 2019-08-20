@@ -1,0 +1,38 @@
+.. _gju:
+
+Gujari
+======
+
+This language is spoken in the following countries:
+
+* AF: Afghanistan
+* PK: Pakistan
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: gju
+    alternate_names:
+    - Gojri
+    - Gujuri Rajasthani
+    - Gogri
+    - Gujar
+    - Gujer
+    - Gujjari
+    - Gujuri
+    - Gurjar
+    - Hindki
+    - Kashmir Gujuri
+    - Parimu
+    - Rajasthani Gujuri
+    anglicanized_name: Gujari
+    country_codes:
+    - AF
+    - PK
+    - IN
+    gateway_language: ks
+    lang_code: gju
+    lang_direction: ltr
+    lang_name: Gujari
+    lang_region: Asia
+    

@@ -1,0 +1,23 @@
+.. _abg:
+
+Abaga
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: abg
+    alternate_names:
+    - Wagaba
+    anglicanized_name: Abaga
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: abg
+    lang_direction: ltr
+    lang_name: Abaga
+    lang_region: Pacific
+    

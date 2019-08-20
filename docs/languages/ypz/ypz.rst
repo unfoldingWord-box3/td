@@ -1,0 +1,28 @@
+.. _ypz:
+
+Phuza
+=====
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: ypz
+    alternate_names:
+    - Hei Phu
+    - Phu'a
+    - Phujitsu
+    - Phula
+    - Bujibai
+    - Dabaqi
+    anglicanized_name: Phuza
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: ypz
+    lang_direction: ltr
+    lang_name: Phuza
+    lang_region: Asia
+    

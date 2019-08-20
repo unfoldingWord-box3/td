@@ -1,0 +1,23 @@
+.. _tus:
+
+Tuscarora
+=========
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: tus
+    alternate_names:
+    - Skarohreh
+    anglicanized_name: Tuscarora
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: tus
+    lang_direction: ltr
+    lang_name: Tuscarora
+    lang_region: Americas
+    

@@ -1,0 +1,33 @@
+.. _mrr:
+
+Maria (India)
+=============
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: mrr
+    alternate_names:
+    - Hill Maria
+    - Madi
+    - Madia
+    - Madiya
+    - Modh
+    - Modi
+    - Bhamani Maria (Bhamani)
+    - Abujmariya
+    - Abujmaria (Abujhmadia)
+    - Abujmar Maria
+    - Abujhmaria
+    anglicanized_name: Maria
+    country_codes:
+    - IN
+    gateway_language: mr
+    lang_code: mrr
+    lang_direction: ltr
+    lang_name: Maria (India)
+    lang_region: Asia
+    

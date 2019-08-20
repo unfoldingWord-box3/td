@@ -1,0 +1,32 @@
+.. _nes:
+
+Bhoti Kinnauri
+==============
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: nes
+    alternate_names:
+    - Bhotea of Upper Kinnauri
+    - Bod-Skad
+    - Bud-Kat
+    - Myamkat
+    - Myamskad
+    - Nyamkat
+    - Nyamskad
+    - Puh
+    - Sangs-Rgyas
+    - Sangyas
+    anglicanized_name: Kinnauri, Bhoti
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: nes
+    lang_direction: ltr
+    lang_name: Bhoti Kinnauri
+    lang_region: Asia
+    

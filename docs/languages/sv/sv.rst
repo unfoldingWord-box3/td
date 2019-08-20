@@ -1,0 +1,61 @@
+.. _sv:
+
+svenska
+=======
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/swe>`_ identifies this language as ``swe``.
+
+This language is spoken in the following countries:
+
+* AT: Austria
+* FR: France
+* GB: United Kingdom of Great Britain and Northern Ireland
+* NO: Norway
+* SE: Sweden
+* CH: Switzerland
+* US: United States of America
+* FI: Finland
+* CA: Canada
+* DK: Denmark
+
+.. code-block:: yaml
+
+    ISO_639-3: swe
+    alternate_names:
+    - Ruotsi
+    - Svenska
+    - Eastern Swedish (Estonian Swedish)
+    - Standard Swedish
+    - Southern Swedish
+    - Southern Swedish (Scanian)
+    - Scanian (Eastern Danish)
+    - Skånska
+    - Skåne
+    - Uusimaa Swedish (Nyland Swedish)
+    - Österbotten (Ostrobothnian)
+    - Northern Swedish (Norrland)
+    - Jamska
+    - Gutniska (Gotlandic)
+    - Gutnic
+    - Finland Swedish
+    - Gutamal
+    - Dalecarlian
+    - Åland Islands Swedish
+    anglicanized_name: Swedish
+    country_codes:
+    - AT
+    - FR
+    - GB
+    - 'NO'
+    - SE
+    - CH
+    - US
+    - FI
+    - CA
+    - DK
+    gateway_language: en
+    lang_code: sv
+    lang_direction: ltr
+    lang_name: svenska
+    lang_region: Europe
+    

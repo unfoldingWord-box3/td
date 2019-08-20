@@ -1,0 +1,24 @@
+.. _pi:
+
+पाऴि
+============
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/pli>`_ identifies this language as ``pli``.
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: pli
+    alternate_names: []
+    anglicanized_name: Pāli
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: pi
+    lang_direction: ltr
+    lang_name: पाऴि
+    lang_region: Asia
+    

@@ -1,0 +1,26 @@
+.. _yln:
+
+郎念布央语
+===============
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: yln
+    alternate_names:
+    - Buozaang
+    - Buyang Zhuang
+    - Eastern Buyang
+    - E'cun Buyang
+    anglicanized_name: Buyang, Langnian
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: yln
+    lang_direction: ltr
+    lang_name: 郎念布央语
+    lang_region: Asia
+    

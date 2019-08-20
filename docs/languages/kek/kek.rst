@@ -1,0 +1,33 @@
+.. _kek:
+
+Kekchí
+=======
+
+This language is spoken in the following countries:
+
+* BZ: Belize
+* GT: Guatemala
+
+.. code-block:: yaml
+
+    ISO_639-3: kek
+    alternate_names:
+    - Cacché
+    - Ketchí
+    - Quecchí
+    - Cacche'
+    - Kekchi'
+    - Kekchí
+    - Ketchi'
+    - Quecchi'
+    - Alta Verapaz Cobán
+    anglicanized_name: Q’eqchi’
+    country_codes:
+    - BZ
+    - GT
+    gateway_language: es-419
+    lang_code: kek
+    lang_direction: ltr
+    lang_name: Kekchí
+    lang_region: Americas
+    

@@ -1,0 +1,27 @@
+.. _yan:
+
+Mayangna
+========
+
+This language is spoken in the following countries:
+
+* HN: Honduras
+* NI: Nicaragua
+
+.. code-block:: yaml
+
+    ISO_639-3: yan
+    alternate_names:
+    - Sumu
+    - Panamahka (Panamaca)
+    - Tuahka (Taguasca)
+    anglicanized_name: Mayangna
+    country_codes:
+    - HN
+    - NI
+    gateway_language: es-419
+    lang_code: yan
+    lang_direction: ltr
+    lang_name: Mayangna
+    lang_region: Americas
+    

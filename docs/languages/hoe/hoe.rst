@@ -1,0 +1,23 @@
+.. _hoe:
+
+Horom
+=====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: hoe
+    alternate_names:
+    - Kaleri
+    anglicanized_name: Horom
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: hoe
+    lang_direction: ltr
+    lang_name: Horom
+    lang_region: Africa
+    

@@ -1,0 +1,23 @@
+.. _hks:
+
+Hong Kong Sign Language
+=======================
+
+This language is spoken in the following countries:
+
+* HK: Hong Kong
+
+.. code-block:: yaml
+
+    ISO_639-3: hks
+    alternate_names:
+    - HKSL
+    anglicanized_name: Hong Kong Sign Language
+    country_codes:
+    - HK
+    gateway_language: zh
+    lang_code: hks
+    lang_direction: ltr
+    lang_name: Hong Kong Sign Language
+    lang_region: Asia
+    

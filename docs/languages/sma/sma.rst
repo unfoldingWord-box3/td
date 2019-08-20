@@ -1,0 +1,31 @@
+.. _sma:
+
+Southern Sami
+=============
+
+This language is spoken in the following countries:
+
+* NO: Norway
+* SE: Sweden
+
+.. code-block:: yaml
+
+    ISO_639-3: sma
+    alternate_names:
+    - Saami
+    - Same
+    - Samic
+    - Northern Lappish
+    - Norwegian Lapp
+    - Southern Lapp
+    - Lapp
+    anglicanized_name: Saami, South
+    country_codes:
+    - 'NO'
+    - SE
+    gateway_language: en
+    lang_code: sma
+    lang_direction: ltr
+    lang_name: Southern Sami
+    lang_region: Europe
+    

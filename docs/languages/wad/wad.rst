@@ -1,0 +1,27 @@
+.. _wad:
+
+Wandamen
+========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: wad
+    alternate_names:
+    - Bentoeni
+    - Bentuni
+    - Wandamen-Windesi
+    - Windessi
+    - Wamesa (Ubu)
+    anglicanized_name: Wandamen
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: wad
+    lang_direction: ltr
+    lang_name: Wandamen
+    lang_region: Asia
+    

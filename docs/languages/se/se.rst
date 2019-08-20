@@ -1,0 +1,40 @@
+.. _se:
+
+Davvisámegiella
+================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/sme>`_ identifies this language as ``sme``.
+
+This language is spoken in the following countries:
+
+* NO: Norway
+* SE: Sweden
+* FI: Finland
+
+.. code-block:: yaml
+
+    ISO_639-3: sme
+    alternate_names:
+    - Davvin
+    - Northern Lapp
+    - Saame
+    - Same
+    - Lapp
+    - Northern Saami
+    - Saami
+    - Sámegiella
+    - Samic
+    - Northern Lappish
+    - Norwegian Lapp
+    - Norwegian Saami
+    anglicanized_name: Northern Sami
+    country_codes:
+    - 'NO'
+    - SE
+    - FI
+    gateway_language: en
+    lang_code: se
+    lang_direction: ltr
+    lang_name: Davvisámegiella
+    lang_region: Europe
+    

@@ -1,0 +1,22 @@
+.. _ota:
+
+Osmanlı Türkçesi
+===================
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: ota
+    alternate_names: []
+    anglicanized_name: Ottoman Turkish (1500-1928)
+    country_codes:
+    - TR
+    gateway_language: null
+    lang_code: ota
+    lang_direction: ltr
+    lang_name: Osmanlı Türkçesi
+    lang_region: Asia
+    

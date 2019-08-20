@@ -1,0 +1,30 @@
+.. _vah:
+
+Varhadi-Nagpuri
+===============
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: vah
+    alternate_names:
+    - Berar Marathi
+    - Berari
+    - Dhanagari
+    - Kumbhari
+    - Madhya Pradesh Marathi
+    - Kosti (Rangari)
+    - Kunban (Kohli)
+    - Mahari (Dhedi)
+    anglicanized_name: Varhadi-Nagpuri
+    country_codes:
+    - IN
+    gateway_language: mr
+    lang_code: vah
+    lang_direction: ltr
+    lang_name: Varhadi-Nagpuri
+    lang_region: Asia
+    

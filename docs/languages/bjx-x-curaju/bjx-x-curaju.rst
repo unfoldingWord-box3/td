@@ -1,0 +1,20 @@
+.. _bjx-x-curaju:
+
+Curaju
+======
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Curaju
+    country_codes: []
+    gateway_language: ilo
+    lang_code: bjx-x-curaju
+    lang_direction: ltr
+    lang_name: Curaju
+    lang_region: Asia
+    

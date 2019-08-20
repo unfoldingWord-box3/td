@@ -1,0 +1,29 @@
+.. _lbx:
+
+Lawangan
+========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: lbx
+    alternate_names:
+    - Luwangan
+    - Northeast Barito
+    - Karau (Beloh)
+    - Pasir
+    - Bantian (Bentian)
+    - Bakoi (Lampung)
+    - Bawu (Bawo)
+    anglicanized_name: Lawangan
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: lbx
+    lang_direction: ltr
+    lang_name: Lawangan
+    lang_region: Asia
+    

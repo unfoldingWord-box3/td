@@ -1,0 +1,24 @@
+.. _bbc:
+
+Batak Toba
+==========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bbc
+    alternate_names:
+    - Batta
+    - Toba Batak
+    anglicanized_name: Batak Toba
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bbc
+    lang_direction: ltr
+    lang_name: Batak Toba
+    lang_region: Asia
+    

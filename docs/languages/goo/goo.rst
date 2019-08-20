@@ -1,0 +1,23 @@
+.. _goo:
+
+Gone Dau
+========
+
+This language is spoken in the following countries:
+
+* FJ: Fiji
+
+.. code-block:: yaml
+
+    ISO_639-3: goo
+    alternate_names:
+    - Gonedau
+    anglicanized_name: Gone Dau
+    country_codes:
+    - FJ
+    gateway_language: en
+    lang_code: goo
+    lang_direction: ltr
+    lang_name: Gone Dau
+    lang_region: Pacific
+    

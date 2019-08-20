@@ -1,0 +1,30 @@
+.. _mzk:
+
+Nigeria Mambila
+===============
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: mzk
+    alternate_names:
+    - Bang
+    - Lagubi
+    - Mabila
+    - Mambere
+    - Mambilla
+    - Nor
+    - Nor Tagbo
+    - Tongbo
+    anglicanized_name: Mambila, Nigeria
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: mzk
+    lang_direction: ltr
+    lang_name: Nigeria Mambila
+    lang_region: Africa
+    

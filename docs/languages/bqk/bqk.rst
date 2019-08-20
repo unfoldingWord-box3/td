@@ -1,0 +1,33 @@
+.. _bqk:
+
+Banda-Mbrès
+============
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+* SS: South Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: bqk
+    alternate_names:
+    - Banda of Mbrès
+    - Banda-Mbre
+    - Morouba
+    - Sabanga (Sangbanga)
+    - Moruba (Maraba)
+    - Mbere
+    - Buka (Bouka)
+    - Wada (Ouadda)
+    - Mbre (Mbele)
+    anglicanized_name: Banda-Mbrès
+    country_codes:
+    - CF
+    - SS
+    gateway_language: fr
+    lang_code: bqk
+    lang_direction: ltr
+    lang_name: Banda-Mbrès
+    lang_region: Africa
+    

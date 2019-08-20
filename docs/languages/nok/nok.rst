@@ -1,0 +1,23 @@
+.. _nok:
+
+Nooksack
+========
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: nok
+    alternate_names:
+    - Nootsack
+    anglicanized_name: Nooksack
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: nok
+    lang_direction: ltr
+    lang_name: Nooksack
+    lang_region: Americas
+    

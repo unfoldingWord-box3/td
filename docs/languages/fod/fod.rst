@@ -1,0 +1,22 @@
+.. _fod:
+
+Foodo
+=====
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+
+.. code-block:: yaml
+
+    ISO_639-3: fod
+    alternate_names: []
+    anglicanized_name: Foodo
+    country_codes:
+    - BJ
+    gateway_language: fr
+    lang_code: fod
+    lang_direction: ltr
+    lang_name: Foodo
+    lang_region: Africa
+    

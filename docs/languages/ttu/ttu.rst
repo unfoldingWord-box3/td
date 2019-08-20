@@ -1,0 +1,23 @@
+.. _ttu:
+
+Torau
+=====
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ttu
+    alternate_names:
+    - Rorovana
+    anglicanized_name: Torau
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ttu
+    lang_direction: ltr
+    lang_name: Torau
+    lang_region: Pacific
+    

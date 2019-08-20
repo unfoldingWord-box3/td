@@ -1,0 +1,24 @@
+.. _lhn:
+
+Lahanan
+=======
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: lhn
+    alternate_names:
+    - Lanan
+    - Lanun
+    anglicanized_name: Lahanan
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: lhn
+    lang_direction: ltr
+    lang_name: Lahanan
+    lang_region: Asia
+    

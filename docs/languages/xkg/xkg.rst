@@ -1,0 +1,30 @@
+.. _xkg:
+
+Gworog
+======
+
+This language is spoken in the following countries:
+
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: xkg
+    alternate_names:
+    - Kakolo
+    - Sébékoro
+    - Séféto
+    - Mogola
+    - Kamiko
+    - Jumara
+    - Guissimbiné
+    - Diéma
+    anglicanized_name: Kagoro
+    country_codes:
+    - ML
+    gateway_language: fr
+    lang_code: xkg
+    lang_direction: ltr
+    lang_name: Gworog
+    lang_region: Africa
+    

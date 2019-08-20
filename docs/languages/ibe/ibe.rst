@@ -1,0 +1,25 @@
+.. _ibe:
+
+Akpes
+=====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ibe
+    alternate_names:
+    - Ibaram-Efifa
+    - Esuku (Echuku)
+    - Akunnu (Akpes)
+    anglicanized_name: Akpes
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ibe
+    lang_direction: ltr
+    lang_name: Akpes
+    lang_region: Africa
+    

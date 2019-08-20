@@ -1,0 +1,28 @@
+.. _aks:
+
+Akaselem
+========
+
+This language is spoken in the following countries:
+
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: aks
+    alternate_names:
+    - Akasele
+    - Cemba
+    - Chamba
+    - Kamba
+    - Kasele
+    - Tchamba
+    anglicanized_name: Akaselem
+    country_codes:
+    - TG
+    gateway_language: fr
+    lang_code: aks
+    lang_direction: ltr
+    lang_name: Akaselem
+    lang_region: Africa
+    

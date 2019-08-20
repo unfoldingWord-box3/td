@@ -1,0 +1,23 @@
+.. _nyj:
+
+Nyanga
+======
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: nyj
+    alternate_names:
+    - Inyanga
+    anglicanized_name: Nyanga
+    country_codes:
+    - CD
+    gateway_language: sw
+    lang_code: nyj
+    lang_direction: ltr
+    lang_name: Nyanga
+    lang_region: Africa
+    

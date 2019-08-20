@@ -1,0 +1,26 @@
+.. _git:
+
+Gitxsan
+=======
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: git
+    alternate_names:
+    - Giklsan
+    - Gityskyan
+    - Gitsken (Western Gitsken)
+    - Gitxsan (Eastern Gitxsan)
+    anglicanized_name: Gitxsan
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: git
+    lang_direction: ltr
+    lang_name: Gitxsan
+    lang_region: Americas
+    

@@ -1,0 +1,20 @@
+.. _gon-x-mariagond:
+
+Maria Gond
+==========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Maria Gond
+    country_codes: []
+    gateway_language: or
+    lang_code: gon-x-mariagond
+    lang_direction: ltr
+    lang_name: Maria Gond
+    lang_region: Asia
+    

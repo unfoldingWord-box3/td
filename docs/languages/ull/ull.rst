@@ -1,0 +1,26 @@
+.. _ull:
+
+Ullatan
+=======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: ull
+    alternate_names:
+    - Katan
+    - Kattalan
+    - Kochuvelan
+    - Ulladan
+    anglicanized_name: Ullatan
+    country_codes:
+    - IN
+    gateway_language: ml
+    lang_code: ull
+    lang_direction: ltr
+    lang_name: Ullatan
+    lang_region: Asia
+    

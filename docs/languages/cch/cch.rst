@@ -1,0 +1,28 @@
+.. _cch:
+
+Atsam
+=====
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: cch
+    alternate_names:
+    - Cawai
+    - Cawe
+    - Cawi
+    - Chawai
+    - Chawe
+    - Chawi
+    anglicanized_name: Atsam
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: cch
+    lang_direction: ltr
+    lang_name: Atsam
+    lang_region: Africa
+    

@@ -1,0 +1,24 @@
+.. _mgl:
+
+Maleu-Kilenge
+=============
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mgl
+    alternate_names:
+    - Idne
+    - Kilenge (Kaitarolea)
+    anglicanized_name: Maleu-Kilenge
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mgl
+    lang_direction: ltr
+    lang_name: Maleu-Kilenge
+    lang_region: Pacific
+    

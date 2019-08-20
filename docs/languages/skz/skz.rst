@@ -1,0 +1,23 @@
+.. _skz:
+
+Sekar
+=====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: skz
+    alternate_names:
+    - Seka
+    anglicanized_name: Sekar
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: skz
+    lang_direction: ltr
+    lang_name: Sekar
+    lang_region: Asia
+    

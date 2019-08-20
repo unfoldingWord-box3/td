@@ -1,0 +1,22 @@
+.. _nsw:
+
+Navut
+=====
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: nsw
+    alternate_names: []
+    anglicanized_name: Navut
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: nsw
+    lang_direction: ltr
+    lang_name: Navut
+    lang_region: Pacific
+    

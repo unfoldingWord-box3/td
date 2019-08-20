@@ -1,0 +1,24 @@
+.. _hrx:
+
+Hunsrik
+=======
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: hrx
+    alternate_names:
+    - Hunsriker
+    - Rio Grand Hunsriker
+    anglicanized_name: Hunsrik
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: hrx
+    lang_direction: ltr
+    lang_name: Hunsrik
+    lang_region: Americas
+    

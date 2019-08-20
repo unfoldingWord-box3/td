@@ -1,0 +1,27 @@
+.. _nyi:
+
+Ama (Sudan)
+===========
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: nyi
+    alternate_names:
+    - Inyimang
+    - Nyima
+    - Nyiman
+    - Nyuwing
+    - Mandal (Male)
+    anglicanized_name: Ama
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: nyi
+    lang_direction: ltr
+    lang_name: Ama (Sudan)
+    lang_region: Africa
+    

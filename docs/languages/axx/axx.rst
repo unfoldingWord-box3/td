@@ -1,0 +1,28 @@
+.. _axx:
+
+Xârâgurè
+===========
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: axx
+    alternate_names:
+    - Aragure
+    - Borendy
+    - Borindi
+    - Haragure
+    - Naa Xaragure
+    - Thio
+    anglicanized_name: Xârâgurè
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: axx
+    lang_direction: ltr
+    lang_name: Xârâgurè
+    lang_region: Pacific
+    

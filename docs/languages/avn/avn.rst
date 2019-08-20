@@ -1,0 +1,26 @@
+.. _avn:
+
+Avatime
+=======
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: avn
+    alternate_names:
+    - Afatime
+    - Sia
+    - Sideme
+    - Si-ya
+    anglicanized_name: Avatime
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: avn
+    lang_direction: ltr
+    lang_name: Avatime
+    lang_region: Africa
+    

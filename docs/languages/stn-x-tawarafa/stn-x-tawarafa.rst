@@ -1,0 +1,20 @@
+.. _stn-x-tawarafa:
+
+Tawarafa
+========
+
+This language is spoken in the following countries:
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Tawarafa
+    country_codes: []
+    gateway_language: bi
+    lang_code: stn-x-tawarafa
+    lang_direction: ltr
+    lang_name: Tawarafa
+    lang_region: Pacific
+    

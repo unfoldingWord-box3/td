@@ -1,0 +1,32 @@
+.. _isi:
+
+Nkem-Nkum
+=========
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: isi
+    alternate_names:
+    - Ikangdangha
+    - Ogboja
+    - Nkum-Iborr
+    - Nkum (Alladim)
+    - Nkem (Adagom)
+    - Ishindede
+    - Ishiaya
+    - Igordori
+    - Ibil
+    - Ishibori
+    anglicanized_name: Nkem-Nkum
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: isi
+    lang_direction: ltr
+    lang_name: Nkem-Nkum
+    lang_region: Africa
+    

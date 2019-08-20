@@ -1,0 +1,24 @@
+.. _bju:
+
+Busuu
+=====
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: bju
+    alternate_names:
+    - Awa
+    - Furu
+    anglicanized_name: Busuu
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: bju
+    lang_direction: ltr
+    lang_name: Busuu
+    lang_region: Africa
+    

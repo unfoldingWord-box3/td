@@ -1,0 +1,28 @@
+.. _wfg:
+
+Yafi
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: wfg
+    alternate_names:
+    - Jafi
+    - Jafi Wagarindem
+    - Wagarindem
+    - Wargarindem
+    - Warlef
+    - Yaffi
+    anglicanized_name: Zorop
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: wfg
+    lang_direction: ltr
+    lang_name: Yafi
+    lang_region: Asia
+    

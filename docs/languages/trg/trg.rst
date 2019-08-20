@@ -1,0 +1,33 @@
+.. _trg:
+
+יהודית-תימנית
+=========================
+
+This language is spoken in the following countries:
+
+* IL: Israel
+
+.. code-block:: yaml
+
+    ISO_639-3: trg
+    alternate_names:
+    - Galihalu
+    - Lakhlokhi
+    - Lishanán
+    - Lishanid Nash Didán
+    - Persian Azerbaijan Jewish Aramaic
+    - Naghada
+    - Northern Cluster Lishán Didán (Anatolia)
+    - Salmas
+    - Southern Cluster Lishán Didán (Mahabad)
+    - Urmi
+    - Ushno
+    anglicanized_name: Lishán Didán
+    country_codes:
+    - IL
+    gateway_language: en
+    lang_code: trg
+    lang_direction: rtl
+    lang_name: יהודית-תימנית
+    lang_region: Asia
+    

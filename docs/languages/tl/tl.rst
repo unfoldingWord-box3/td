@@ -1,0 +1,49 @@
+.. _tl:
+
+Wikang Tagalog
+==============
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/tgl>`_ identifies this language as ``tgl``.
+
+This language is spoken in the following countries:
+
+* DE: Germany
+* ES: Spain
+* GB: United Kingdom of Great Britain and Northern Ireland
+* MY: Malaysia
+* OM: Oman
+* PH: Philippines
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* IT: Italy
+* KW: Kuwait
+* SG: Singapore
+* QA: Qatar
+
+.. code-block:: yaml
+
+    ISO_639-3: tgl
+    alternate_names:
+    - Puray
+    anglicanized_name: Tagalog
+    country_codes:
+    - DE
+    - ES
+    - GB
+    - MY
+    - OM
+    - PH
+    - US
+    - AU
+    - CA
+    - IT
+    - KW
+    - SG
+    - QA
+    gateway_language: tl
+    lang_code: tl
+    lang_direction: ltr
+    lang_name: Wikang Tagalog
+    lang_region: Asia
+    

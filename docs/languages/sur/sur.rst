@@ -1,0 +1,25 @@
+.. _sur:
+
+Mwaghavul
+=========
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: sur
+    alternate_names:
+    - Sura
+    - Mapun
+    - Mupun (Mapan)
+    anglicanized_name: Mwaghavul
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: sur
+    lang_direction: ltr
+    lang_name: Mwaghavul
+    lang_region: Africa
+    

@@ -1,0 +1,22 @@
+.. _quq:
+
+Quinqui
+=======
+
+This language is spoken in the following countries:
+
+* ES: Spain
+
+.. code-block:: yaml
+
+    ISO_639-3: quq
+    alternate_names: []
+    anglicanized_name: Quinqui
+    country_codes:
+    - ES
+    gateway_language: es
+    lang_code: quq
+    lang_direction: ltr
+    lang_name: Quinqui
+    lang_region: Europe
+    

@@ -1,0 +1,28 @@
+.. _bmo:
+
+Bambalang
+=========
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: bmo
+    alternate_names:
+    - Bambolang
+    - Chirambo
+    - Chrambo
+    - Mbawyakum
+    - Mboyakum
+    - Tshirambo
+    anglicanized_name: Bambalang
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: bmo
+    lang_direction: ltr
+    lang_name: Bambalang
+    lang_region: Africa
+    

@@ -1,0 +1,33 @@
+.. _kbe:
+
+Kanju
+=====
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: kbe
+    alternate_names:
+    - Gandanju
+    - Gandju
+    - Jabuda
+    - Kaantyu
+    - Kamdhue
+    - Kandju
+    - Kandyu
+    - Kanyu
+    - Karnu
+    - Neogulada
+    - Yaldiye-Ho
+    anglicanized_name: Kanju
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: kbe
+    lang_direction: ltr
+    lang_name: Kanju
+    lang_region: Pacific
+    

@@ -1,0 +1,24 @@
+.. _trm:
+
+Tregami
+=======
+
+This language is spoken in the following countries:
+
+* AF: Afghanistan
+
+.. code-block:: yaml
+
+    ISO_639-3: trm
+    alternate_names:
+    - Katar Gambir
+    - Trigami
+    anglicanized_name: Tregami
+    country_codes:
+    - AF
+    gateway_language: ps
+    lang_code: trm
+    lang_direction: ltr
+    lang_name: Tregami
+    lang_region: Asia
+    

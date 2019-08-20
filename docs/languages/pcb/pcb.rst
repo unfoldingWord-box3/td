@@ -1,0 +1,22 @@
+.. _pcb:
+
+Pear
+====
+
+This language is spoken in the following countries:
+
+* KH: Cambodia
+
+.. code-block:: yaml
+
+    ISO_639-3: pcb
+    alternate_names: []
+    anglicanized_name: Pear
+    country_codes:
+    - KH
+    gateway_language: km
+    lang_code: pcb
+    lang_direction: ltr
+    lang_name: Pear
+    lang_region: Asia
+    

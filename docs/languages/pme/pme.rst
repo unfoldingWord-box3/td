@@ -1,0 +1,26 @@
+.. _pme:
+
+Pwaamei
+=======
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: pme
+    alternate_names:
+    - Poamei
+    - Pwamei
+    - Hnaaka
+    - Yaak (Zaak)
+    anglicanized_name: Pwaamei
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: pme
+    lang_direction: ltr
+    lang_name: Pwaamei
+    lang_region: Pacific
+    

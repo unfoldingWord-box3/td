@@ -1,0 +1,22 @@
+.. _qwm:
+
+Kuman (Russia)
+==============
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: qwm
+    alternate_names: []
+    anglicanized_name: Kuman
+    country_codes:
+    - RU
+    gateway_language: null
+    lang_code: qwm
+    lang_direction: ltr
+    lang_name: Kuman (Russia)
+    lang_region: Europe
+    

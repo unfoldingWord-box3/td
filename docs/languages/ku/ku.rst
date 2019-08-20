@@ -1,0 +1,24 @@
+.. _ku:
+
+Kurdî, كوردی‎
+=====================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/kur>`_ identifies this language as ``kur``.
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: kur
+    alternate_names: []
+    anglicanized_name: Kurdish
+    country_codes:
+    - IR
+    gateway_language: null
+    lang_code: ku
+    lang_direction: rtl
+    lang_name: Kurdî, كوردی‎
+    lang_region: Asia
+    

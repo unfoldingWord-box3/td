@@ -1,0 +1,24 @@
+.. _dgb:
+
+Bunoge Dogon
+============
+
+This language is spoken in the following countries:
+
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: dgb
+    alternate_names:
+    - Budu-Tagu
+    - Korandabo
+    anglicanized_name: Dogon, Bunoge
+    country_codes:
+    - ML
+    gateway_language: fr
+    lang_code: dgb
+    lang_direction: ltr
+    lang_name: Bunoge Dogon
+    lang_region: Africa
+    

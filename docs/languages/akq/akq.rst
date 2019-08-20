@@ -1,0 +1,22 @@
+.. _akq:
+
+Ak
+==
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: akq
+    alternate_names: []
+    anglicanized_name: Ak
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: akq
+    lang_direction: ltr
+    lang_name: Ak
+    lang_region: Pacific
+    

@@ -1,0 +1,23 @@
+.. _anw:
+
+Anaang
+======
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: anw
+    alternate_names:
+    - Anang
+    anglicanized_name: Anaang
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: anw
+    lang_direction: ltr
+    lang_name: Anaang
+    lang_region: Africa
+    

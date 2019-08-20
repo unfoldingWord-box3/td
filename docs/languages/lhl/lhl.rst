@@ -1,0 +1,24 @@
+.. _lhl:
+
+Lahul Lohar
+===========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: lhl
+    alternate_names:
+    - Garas
+    - Lohar
+    anglicanized_name: Lohar, Lahul
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: lhl
+    lang_direction: ltr
+    lang_name: Lahul Lohar
+    lang_region: Asia
+    

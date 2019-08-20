@@ -1,0 +1,22 @@
+.. _gdc:
+
+Gugu Badhun
+===========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: gdc
+    alternate_names: []
+    anglicanized_name: Gugu Badhun
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: gdc
+    lang_direction: ltr
+    lang_name: Gugu Badhun
+    lang_region: Pacific
+    

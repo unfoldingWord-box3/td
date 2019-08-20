@@ -1,0 +1,23 @@
+.. _lww:
+
+Lewo
+====
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: lww
+    alternate_names:
+    - Varsu
+    anglicanized_name: Lewo
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: lww
+    lang_direction: ltr
+    lang_name: Lewo
+    lang_region: Pacific
+    

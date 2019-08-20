@@ -1,0 +1,28 @@
+.. _iyx:
+
+Yaka (Congo)
+============
+
+This language is spoken in the following countries:
+
+* GA: Gabon
+* CG: Congo
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: iyx
+    alternate_names:
+    - Iyaka
+    - West Teke
+    anglicanized_name: Yaka
+    country_codes:
+    - GA
+    - CG
+    - AO
+    gateway_language: fr
+    lang_code: iyx
+    lang_direction: ltr
+    lang_name: Yaka (Congo)
+    lang_region: Africa
+    

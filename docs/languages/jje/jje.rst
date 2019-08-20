@@ -1,0 +1,22 @@
+.. _jje:
+
+Jejueo
+======
+
+This language is spoken in the following countries:
+
+* KR: Korea, Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: jje
+    alternate_names: []
+    anglicanized_name: Jejueo
+    country_codes:
+    - KR
+    gateway_language: en
+    lang_code: jje
+    lang_direction: ltr
+    lang_name: Jejueo
+    lang_region: Asia
+    

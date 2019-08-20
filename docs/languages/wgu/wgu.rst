@@ -1,0 +1,44 @@
+.. _wgu:
+
+Wirangu
+=======
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: wgu
+    alternate_names:
+    - Jilbara
+    - Naljara
+    - Ngoleiadjara
+    - Nhawu
+    - Njangga
+    - Nonga
+    - Nyangga
+    - Tidni
+    - Tidnie
+    - Titnie
+    - Wanbiri
+    - Wangon
+    - Warrangoo
+    - Willeuroo
+    - Windakan
+    - Wirangga
+    - Wirongu
+    - Wironguwongga
+    - Wirrongu
+    - Wirrung
+    - Wirrunga
+    - Yilrea
+    anglicanized_name: Wirangu
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: wgu
+    lang_direction: ltr
+    lang_name: Wirangu
+    lang_region: Pacific
+    

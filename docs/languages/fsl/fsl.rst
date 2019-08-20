@@ -1,0 +1,30 @@
+.. _fsl:
+
+French Sign Language
+====================
+
+This language is spoken in the following countries:
+
+* FR: France
+* NE: Niger
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: fsl
+    alternate_names:
+    - FSL
+    - Langue des Signes Française
+    - LSF
+    - Marseille Sign Language (Southern French Sign Language)
+    anglicanized_name: French Sign Language
+    country_codes:
+    - FR
+    - NE
+    - TG
+    gateway_language: fr
+    lang_code: fsl
+    lang_direction: ltr
+    lang_name: French Sign Language
+    lang_region: Europe
+    

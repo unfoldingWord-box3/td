@@ -1,0 +1,22 @@
+.. _xkj:
+
+Kajali
+======
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: xkj
+    alternate_names: []
+    anglicanized_name: Kajali
+    country_codes:
+    - IR
+    gateway_language: fa
+    lang_code: xkj
+    lang_direction: ltr
+    lang_name: Kajali
+    lang_region: Asia
+    

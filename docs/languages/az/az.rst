@@ -1,0 +1,24 @@
+.. _az:
+
+azərbaycan dili
+================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/aze>`_ identifies this language as ``aze``.
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+
+.. code-block:: yaml
+
+    ISO_639-3: aze
+    alternate_names: []
+    anglicanized_name: Azerbaijani
+    country_codes:
+    - AZ
+    gateway_language: ru
+    lang_code: az
+    lang_direction: ltr
+    lang_name: azərbaycan dili
+    lang_region: Asia
+    

@@ -1,0 +1,25 @@
+.. _raq:
+
+Saam
+====
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: raq
+    alternate_names:
+    - Saam Rai
+    - Saama Kha
+    - Samakha
+    anglicanized_name: Saam
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: raq
+    lang_direction: ltr
+    lang_name: Saam
+    lang_region: Asia
+    

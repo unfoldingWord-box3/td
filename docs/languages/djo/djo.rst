@@ -1,0 +1,24 @@
+.. _djo:
+
+Jangkang
+========
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: djo
+    alternate_names:
+    - Jangkang proper
+    - Pompang
+    anglicanized_name: Jangkang
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: djo
+    lang_direction: ltr
+    lang_name: Jangkang
+    lang_region: Asia
+    

@@ -1,0 +1,26 @@
+.. _rkb:
+
+Rikbaktsa
+=========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: rkb
+    alternate_names:
+    - Aripaktsa
+    - Canoeiro
+    - Erikbatsa
+    - Erikpatsa
+    anglicanized_name: Rikbaktsa
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: rkb
+    lang_direction: ltr
+    lang_name: Rikbaktsa
+    lang_region: Americas
+    

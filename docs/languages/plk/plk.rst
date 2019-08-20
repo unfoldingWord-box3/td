@@ -1,0 +1,25 @@
+.. _plk:
+
+شینا زبان
+=================
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: plk
+    alternate_names:
+    - Kohistani
+    - Kohistyo
+    - Palasi-Kohistani
+    anglicanized_name: Shina, Kohistani
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: plk
+    lang_direction: ltr
+    lang_name: شینا زبان
+    lang_region: Asia
+    

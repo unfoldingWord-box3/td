@@ -1,0 +1,22 @@
+.. _ihw:
+
+Bidhawal
+========
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: ihw
+    alternate_names: []
+    anglicanized_name: Bidhawal
+    country_codes:
+    - AU
+    gateway_language: null
+    lang_code: ihw
+    lang_direction: ltr
+    lang_name: Bidhawal
+    lang_region: Pacific
+    

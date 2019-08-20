@@ -1,0 +1,35 @@
+.. _pwr:
+
+Powari
+======
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: pwr
+    alternate_names:
+    - Khalari
+    - Marari
+    - Bhoyari
+    - Lodhi
+    - Vyneganga Powari
+    - Kumbhari
+    - Koshti
+    - Govari of Seoni
+    - Bohoyeri
+    - Bhuria
+    - Bhoyaroo
+    - Bhoyar Powari (Bhomiyari)
+    - Bhuiyar
+    anglicanized_name: Powari
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: pwr
+    lang_direction: ltr
+    lang_name: Powari
+    lang_region: Asia
+    

@@ -1,0 +1,26 @@
+.. _tri:
+
+Trió
+=====
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+* SR: Suriname
+
+.. code-block:: yaml
+
+    ISO_639-3: tri
+    alternate_names:
+    - Tirió
+    - Tiriyó
+    anglicanized_name: Trió
+    country_codes:
+    - BR
+    - SR
+    gateway_language: nl
+    lang_code: tri
+    lang_direction: ltr
+    lang_name: Trió
+    lang_region: Americas
+    

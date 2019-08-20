@@ -1,0 +1,33 @@
+.. _to:
+
+faka Tonga
+==========
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ton>`_ identifies this language as ``ton``.
+
+This language is spoken in the following countries:
+
+* FJ: Fiji
+* NZ: New Zealand
+* TO: Tonga
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: ton
+    alternate_names:
+    - Tonga
+    anglicanized_name: Tonga (Tonga Islands)
+    country_codes:
+    - FJ
+    - NZ
+    - TO
+    - US
+    - CA
+    gateway_language: en
+    lang_code: to
+    lang_direction: ltr
+    lang_name: faka Tonga
+    lang_region: Pacific
+    

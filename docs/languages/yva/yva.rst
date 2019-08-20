@@ -1,0 +1,30 @@
+.. _yva:
+
+Yawa
+====
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: yva
+    alternate_names:
+    - Mantembu
+    - Mora
+    - Turu
+    - Unat
+    - Yapanani
+    - Yava
+    - Yawa Unat
+    - Central Yawa (Mora)
+    anglicanized_name: Yawa
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: yva
+    lang_direction: ltr
+    lang_name: Yawa
+    lang_region: Asia
+    

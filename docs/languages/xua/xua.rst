@@ -1,0 +1,25 @@
+.. _xua:
+
+Alu Kurumba
+===========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: xua
+    alternate_names:
+    - Alu Kurumba Nonstandard Kannada
+    - Hal Kurumba
+    - Pal Kurumba
+    anglicanized_name: Kurumba, Alu
+    country_codes:
+    - IN
+    gateway_language: ta
+    lang_code: xua
+    lang_direction: ltr
+    lang_name: Alu Kurumba
+    lang_region: Asia
+    

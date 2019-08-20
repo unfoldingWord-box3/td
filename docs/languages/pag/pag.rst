@@ -1,0 +1,24 @@
+.. _pag:
+
+Pangasinan
+==========
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: pag
+    alternate_names: []
+    anglicanized_name: Pangasinan
+    country_codes:
+    - PH
+    - US
+    gateway_language: ilo
+    lang_code: pag
+    lang_direction: ltr
+    lang_name: Pangasinan
+    lang_region: Asia
+    

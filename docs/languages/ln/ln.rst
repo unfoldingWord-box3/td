@@ -1,0 +1,41 @@
+.. _ln:
+
+Lingála
+========
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/lin>`_ identifies this language as ``lin``.
+
+This language is spoken in the following countries:
+
+* BE: Belgium
+* CF: Central African Republic
+* SS: South Sudan
+* US: United States of America
+* CG: Congo
+* CD: Congo, Democratic Republic of the
+* CA: Canada
+* AO: Angola
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: lin
+    alternate_names:
+    - Ngala
+    anglicanized_name: Lingala
+    country_codes:
+    - BE
+    - CF
+    - SS
+    - US
+    - CG
+    - CD
+    - CA
+    - AO
+    - UG
+    gateway_language: fr
+    lang_code: ln
+    lang_direction: ltr
+    lang_name: Lingála
+    lang_region: Africa
+    

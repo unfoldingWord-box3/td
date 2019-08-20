@@ -1,0 +1,22 @@
+.. _nkp:
+
+Niuatoputapu
+============
+
+This language is spoken in the following countries:
+
+* TO: Tonga
+
+.. code-block:: yaml
+
+    ISO_639-3: nkp
+    alternate_names: []
+    anglicanized_name: Niuatoputapu
+    country_codes:
+    - TO
+    gateway_language: null
+    lang_code: nkp
+    lang_direction: ltr
+    lang_name: Niuatoputapu
+    lang_region: Pacific
+    

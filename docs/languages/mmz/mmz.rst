@@ -1,0 +1,28 @@
+.. _mmz:
+
+Mabaale
+=======
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: mmz
+    alternate_names:
+    - Lomabaale
+    - Mabale
+    - Mbali
+    - Lobo (Balobo)
+    - Mbinga
+    - Banza
+    anglicanized_name: Mabaale
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: mmz
+    lang_direction: ltr
+    lang_name: Mabaale
+    lang_region: Africa
+    

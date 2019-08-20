@@ -1,0 +1,27 @@
+.. _kdr:
+
+Karaim
+======
+
+This language is spoken in the following countries:
+
+* LT: Lithuania
+
+.. code-block:: yaml
+
+    ISO_639-3: kdr
+    alternate_names:
+    - Turkic Karaite
+    - Karaite
+    - Trakay (Trakai)
+    - Halych (Galits)
+    - Trakai (Trakay)
+    anglicanized_name: Karaim
+    country_codes:
+    - LT
+    gateway_language: en
+    lang_code: kdr
+    lang_direction: ltr
+    lang_name: Karaim
+    lang_region: Europe
+    

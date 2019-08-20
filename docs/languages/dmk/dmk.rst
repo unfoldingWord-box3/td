@@ -1,0 +1,24 @@
+.. _dmk:
+
+ڈوماکی
+============
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: dmk
+    alternate_names:
+    - Doma
+    - Dumaki
+    anglicanized_name: Domaaki
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: dmk
+    lang_direction: ltr
+    lang_name: ڈوماکی
+    lang_region: Asia
+    

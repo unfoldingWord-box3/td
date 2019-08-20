@@ -1,0 +1,30 @@
+.. _ksp:
+
+Kaba
+====
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: ksp
+    alternate_names:
+    - Kabba
+    - Sara
+    - Sara Kaba
+    - Kaba de Baibokoum
+    - Kaba de Paoua
+    - Western Kaba
+    anglicanized_name: Kabba
+    country_codes:
+    - CF
+    - TD
+    gateway_language: fr
+    lang_code: ksp
+    lang_direction: ltr
+    lang_name: Kaba
+    lang_region: Africa
+    

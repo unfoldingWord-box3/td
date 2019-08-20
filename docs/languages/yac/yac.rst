@@ -1,0 +1,27 @@
+.. _yac:
+
+Pass Valley Yali
+================
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: yac
+    alternate_names:
+    - Abendago
+    - North Ngalik
+    - Pass Valley
+    - Western Yali
+    - Yaly
+    anglicanized_name: Yali, Pass Valley
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: yac
+    lang_direction: ltr
+    lang_name: Pass Valley Yali
+    lang_region: Asia
+    

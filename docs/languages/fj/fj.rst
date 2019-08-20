@@ -1,0 +1,54 @@
+.. _fj:
+
+vosa Vakaviti
+=============
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/fij>`_ identifies this language as ``fij``.
+
+This language is spoken in the following countries:
+
+* FJ: Fiji
+* NZ: New Zealand
+* SB: Solomon Islands
+* US: United States of America
+* CA: Canada
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: fij
+    alternate_names:
+    - Eastern Fijian
+    - Fiji
+    - Standard Fijian
+    - Northeast Vanua Levu (Dogotuki Saqani)
+    - Tavuki
+    - Tokaimalo
+    - Southeast Vanua Levu (Baumaa)
+    - Seaqaaqaa
+    - Savusavu
+    - Ono
+    - Northeast Viti Levu (Lovoni)
+    - Namena
+    - Nabalebale
+    - Mbau
+    - Labasa
+    - Korolau
+    - Kadavu (Nabukelevu)
+    - Bau (Bauan)
+    - Central Vanua Levu (Baaravi)
+    - Nav
+    anglicanized_name: Fijian
+    country_codes:
+    - FJ
+    - NZ
+    - SB
+    - US
+    - CA
+    - VU
+    gateway_language: en
+    lang_code: fj
+    lang_direction: ltr
+    lang_name: vosa Vakaviti
+    lang_region: Pacific
+    

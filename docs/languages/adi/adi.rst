@@ -1,0 +1,37 @@
+.. _adi:
+
+Adi
+===
+
+This language is spoken in the following countries:
+
+* CN: China
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: adi
+    alternate_names:
+    - Abor
+    - Adi-Bokar
+    - Bengni-Boga'er
+    - Boga'er
+    - Lhoba
+    - Lho-Pa
+    - Abhor
+    - Boga'er Luoba
+    - Luoba
+    - Komkar
+    - Pailibo
+    - Bokar (Boga'er Luoba)
+    - Bogaer Luoba
+    anglicanized_name: Adi
+    country_codes:
+    - CN
+    - IN
+    gateway_language: as
+    lang_code: adi
+    lang_direction: ltr
+    lang_name: Adi
+    lang_region: Asia
+    

@@ -1,0 +1,25 @@
+.. _cwa:
+
+Kabwa
+=====
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: cwa
+    alternate_names:
+    - Ekikabhwa
+    - Ekikabwa
+    - Kikabwa
+    anglicanized_name: Kabwa
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: cwa
+    lang_direction: ltr
+    lang_name: Kabwa
+    lang_region: Africa
+    
