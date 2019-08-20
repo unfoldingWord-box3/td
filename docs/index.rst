@@ -12,5 +12,4 @@ Test site for translationDatabase. Unless otherwise indicated, all content is ma
    :maxdepth: 3
    :caption: Languages
 
-   languages/*
    languages/*/*

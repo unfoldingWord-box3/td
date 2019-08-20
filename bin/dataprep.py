@@ -15,16 +15,16 @@ if not basedirflag :
     print ("These subdirs must exist: data, docs, and bin")
     exit()
 
-# create the "data/languages"
-datalangpath = "./data/languages"
-if not os.path.exists(datalangpath):
+# create the "docs/languages"
+docslangpath = "./docs/languages"
+if not os.path.exists(docslangpath):
     try:
-        os.mkdir(datalangpath)
+        os.mkdir(docslangpath)
     except OSError:
-        print ("Creation of directory %s failed" % datalangpath)
+        print ("Creation of directory %s failed" % docslangpath)
         exit()
     else:
-        print ("Successfully created directory %s " % datalangpath)
+        print ("Successfully created directory %s " % docslangpath)
 
 #
 # open and parse iso-639-3 tab separated values file
@@ -110,7 +110,7 @@ for lnj in jlndata:
     lnj["ISO-639-3"] = i639_code
 
     # create lang subdir if needed
-    path = datalangpath + "/" + lc
+    path = docslangpath + "/" + lc
     if not os.path.exists(path):
         try:
             os.mkdir(path)
@@ -126,9 +126,9 @@ for lnj in jlndata:
         json.dump(lnj,fpath_handle, indent=4)
 
     # next write the YAML to "lc".yaml
-    fpath = path + "/" + lc + ".yaml"
-    with open(fpath,"w") as ypath_handle:
-        yaml.dump(lnj,ypath_handle,allow_unicode=True, default_flow_style=False)
+    #fpath = path + "/" + lc + ".yaml"
+    #with open(fpath,"w") as ypath_handle:
+    #    yaml.dump(lnj,ypath_handle,allow_unicode=True, default_flow_style=False)
 
     # some boilerplate
     note_a = ".. note:: The `Ethnologue <https://www.ethnologue.com/language/"
@@ -149,7 +149,7 @@ for lnj in jlndata:
     # next write the "lc".rst page
     fpath = path + "/" + lc + ".rst"
     with open(fpath,"w") as rst:
-        rst.write(".. _%s\n\n" % lc)
+        rst.write(".. _%s:\n\n" % lc)
         rst.write("%s\n%s\n\n" % (lnj["ln"], ('=' * len(lnj["ln"]))))
         if len(lc) == 2:
             i639_code = lnj["ISO-639-3"]
@@ -161,9 +161,10 @@ for lnj in jlndata:
         friendlyMap = {}
         for i in friendlyKeys:
             friendlyMap[friendlyKeys[i]] = lnj[i]
-        y = yaml.dump(friendlyMap,allow_unicode=True, default_flow_style=False)
         rst.write(".. code-block:: yaml\n\n")
-        rst.write("%s\n\n" % y)
+        y = yaml.dump(friendlyMap,allow_unicode=True, default_flow_style=False)
+        for line in y.split('\n'):
+            rst.write("%s%s\n" % ("    ", line))
 
 
 
