@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wal",
-    "pk": 6674,
     "lc": "wal",
     "gw": false,
-    "ln": "Wolaytta",
-    "ld": "ltr",
-    "ang": "Wolaytta",
+    "ISO-639-3": "wal",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Wolaytta",
+    "pk": 6674,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Wolaytta",
     "alt": [
         "Borodda",
         "Ometo",
@@ -26,5 +26,5 @@
         "Wollamo",
         "Walamo"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

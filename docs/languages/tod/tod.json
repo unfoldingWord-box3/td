@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tod",
-    "pk": 6246,
     "lc": "tod",
     "gw": false,
-    "ln": "Toma",
-    "ld": "ltr",
-    "ang": "Toma",
+    "ISO-639-3": "tod",
     "hc": "GN",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Toma",
+    "pk": 6246,
     "cc": [
         "GN"
     ],
+    "lr": "Africa",
+    "ln": "Toma",
     "alt": [
         "Toa",
         "Toale",
@@ -25,5 +25,5 @@
         "Gizima",
         "Weima"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

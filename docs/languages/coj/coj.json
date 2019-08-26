@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "coj",
-    "pk": 1295,
     "lc": "coj",
     "gw": false,
-    "ln": "Cochimi",
-    "ld": "ltr",
-    "ang": "Cochimi",
+    "ISO-639-3": "coj",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Cochimi",
+    "pk": 1295,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Cochimi",
     "alt": [
         "Cadegome\u00f1o",
         "Cadegomo",
@@ -29,5 +29,5 @@
         "San Xavier",
         "Vigg\u00e9-Biaundo Mission"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

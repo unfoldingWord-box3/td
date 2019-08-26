@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kif",
-    "pk": 2888,
     "lc": "kif",
     "gw": false,
-    "ln": "Eastern Parbate Kham",
-    "ld": "ltr",
-    "ang": "Kham, Eastern Parbate",
+    "ISO-639-3": "kif",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Kham, Eastern Parbate",
+    "pk": 2888,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Eastern Parbate Kham",
     "alt": [
         "Eastern Parbate",
         "Nisel",
@@ -18,5 +18,5 @@
         "Nisi",
         "Nisi Kham"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

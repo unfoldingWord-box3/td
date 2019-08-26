@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "tsz",
-    "pk": 6346,
     "lc": "tsz",
     "gw": false,
-    "ln": "Purepecha",
-    "ld": "ltr",
-    "ang": "Purepecha",
+    "ISO-639-3": "tsz",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Purepecha",
+    "pk": 6346,
     "cc": [
         "MX",
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Purepecha",
     "alt": [
         "Eastern Lake Purepecha",
         "P\u2019orhe",
@@ -30,5 +30,5 @@
         "Puacuaro",
         "San Jeronimo"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

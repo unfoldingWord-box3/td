@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "asa",
-    "pk": 357,
     "lc": "asa",
     "gw": false,
-    "ln": "Asu",
-    "ld": "ltr",
-    "ang": "Asu",
+    "ISO-639-3": "asa",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Asu",
+    "pk": 357,
     "cc": [
         "KE",
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Asu",
     "alt": [
         "Athu",
         "Casu",
@@ -19,5 +19,5 @@
         "Chiasu",
         "Kipare"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

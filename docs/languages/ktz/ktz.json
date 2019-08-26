@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ktz",
-    "pk": 3181,
     "lc": "ktz",
     "gw": false,
-    "ln": "Ju/'hoan",
-    "ld": "ltr",
-    "ang": "Ju|\u2019hoan",
+    "ISO-639-3": "ktz",
     "hc": "BW",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Ju|\u2019hoan",
+    "pk": 3181,
     "cc": [
         "BW"
     ],
+    "lr": "Africa",
+    "ln": "Ju/'hoan",
     "alt": [
         "!Xo",
         "Dobe Kung",
@@ -27,5 +27,5 @@
         "Nogau (Agau)",
         "Zhu'oase"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ynq",
-    "pk": 7245,
     "lc": "ynq",
     "gw": false,
-    "ln": "Yendang",
-    "ld": "ltr",
-    "ang": "Yendang",
+    "ISO-639-3": "ynq",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Yendang",
+    "pk": 7245,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Yendang",
     "alt": [
         "Kuseki",
         "Nyandang",
@@ -19,5 +19,5 @@
         "Yendam",
         "Yundum"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

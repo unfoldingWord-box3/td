@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zna",
-    "pk": 7426,
     "lc": "zna",
     "gw": false,
-    "ln": "Zan Gula",
-    "ld": "ltr",
-    "ang": "Zan Gula",
+    "ISO-639-3": "zna",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Zan Gula",
+    "pk": 7426,
     "cc": [
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Zan Gula",
     "alt": [
         "Goula",
         "Gula Guera",
@@ -18,5 +18,5 @@
         "Moriil",
         "Morre"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

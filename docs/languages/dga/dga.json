@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dga",
-    "pk": 1490,
     "lc": "dga",
     "gw": false,
-    "ln": "Southern Dagaare",
-    "ld": "ltr",
-    "ang": "Dagaare, Southern",
+    "ISO-639-3": "dga",
     "hc": "GH",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Dagaare, Southern",
+    "pk": 1490,
     "cc": [
         "GH"
     ],
+    "lr": "Africa",
+    "ln": "Southern Dagaare",
     "alt": [
         "Dagaare",
         "Dagara",
@@ -19,5 +19,5 @@
         "Dogaari",
         "Southern Dagari"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

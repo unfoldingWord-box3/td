@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cst",
-    "pk": 1363,
     "lc": "cst",
     "gw": false,
-    "ln": "Northern Ohlone",
-    "ld": "ltr",
-    "ang": "Ohlone, Northern",
+    "ISO-639-3": "cst",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Ohlone, Northern",
+    "pk": 1363,
     "cc": [
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Northern Ohlone",
     "alt": [
         "Costanoan",
         "San Francisco",
@@ -19,5 +19,5 @@
         "Santa Cruz",
         "Santa Clara"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

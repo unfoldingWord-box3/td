@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "aun",
-    "pk": 416,
     "lc": "aun",
     "gw": false,
-    "ln": "Molmo One",
-    "ld": "ltr",
-    "ang": "One, Molmo",
+    "ISO-639-3": "aun",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "One, Molmo",
+    "pk": 416,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Molmo One",
     "alt": [
         "Aunalei",
         "Molmo",
         "Onele",
         "Oni"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

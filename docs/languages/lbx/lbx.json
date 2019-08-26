@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lbx",
-    "pk": 3376,
     "lc": "lbx",
     "gw": false,
-    "ln": "Lawangan",
-    "ld": "ltr",
-    "ang": "Lawangan",
+    "ISO-639-3": "lbx",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Lawangan",
+    "pk": 3376,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Lawangan",
     "alt": [
         "Luwangan",
         "Northeast Barito",
@@ -20,5 +20,5 @@
         "Bakoi (Lampung)",
         "Bawu (Bawo)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "czt",
-    "pk": 1419,
     "lc": "czt",
     "gw": false,
-    "ln": "Zotung Chin",
-    "ld": "ltr",
-    "ang": "Chin, Zotung",
+    "ISO-639-3": "czt",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Chin, Zotung",
+    "pk": 1419,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Zotung Chin",
     "alt": [
         "Yotun",
         "Zo Mingphuin",
         "Zobya",
         "Zotung"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

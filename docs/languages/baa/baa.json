@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "baa",
-    "pk": 489,
     "lc": "baa",
     "gw": false,
-    "ln": "Babatana",
-    "ld": "ltr",
-    "ang": "Babatana",
+    "ISO-639-3": "baa",
     "hc": "SB",
-    "lr": "Pacific",
+    "gwcode": "pis",
+    "ang": "Babatana",
+    "pk": 489,
     "cc": [
         "SB"
     ],
+    "lr": "Pacific",
+    "ln": "Babatana",
     "alt": [
         "East Choiseul",
         "Mbambatana",
@@ -22,5 +22,5 @@
         "Avas\u00f6",
         "Sisingga"
     ],
-    "gwcode": "pis"
+    "ld": "ltr"
 }

@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "yum",
-    "pk": 7302,
     "lc": "yum",
     "gw": false,
-    "ln": "Quechan",
-    "ld": "ltr",
-    "ang": "Quechan",
+    "ISO-639-3": "yum",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Quechan",
+    "pk": 7302,
     "cc": [
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Quechan",
     "alt": [
         "Kechan",
         "Quecl",
         "Yuma"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

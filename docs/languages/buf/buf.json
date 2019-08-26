@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "buf",
-    "pk": 975,
     "lc": "buf",
     "gw": false,
-    "ln": "Bushoong",
-    "ld": "ltr",
-    "ang": "Bushoong",
+    "ISO-639-3": "buf",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Bushoong",
+    "pk": 975,
     "cc": [
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Bushoong",
     "alt": [
         "Bamongo",
         "Bushong",
@@ -27,5 +27,5 @@
         "Pianga (Panga)",
         "Shoba"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

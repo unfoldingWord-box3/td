@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "aqg",
-    "pk": 327,
     "lc": "aqg",
     "gw": false,
-    "ln": "Arigidi",
-    "ld": "ltr",
-    "ang": "Arigidi",
+    "ISO-639-3": "aqg",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Arigidi",
+    "pk": 327,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Arigidi",
     "alt": [
         "North Akoko",
         "Oke-Agbe",
@@ -25,5 +25,5 @@
         "\u00d2w\u00f2n \u00ccg\u00e1s\u00ed",
         "\u00ccg\u00e1s\u00ed"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

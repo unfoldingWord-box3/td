@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "str",
-    "pk": 5868,
     "lc": "str",
     "gw": false,
-    "ln": "Straits Salish",
-    "ld": "ltr",
-    "ang": "Salish, Straits",
+    "ISO-639-3": "str",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Salish, Straits",
+    "pk": 5868,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Straits Salish",
     "alt": [
         "Northern Straits Salish",
         "Straits",
         "Semiahmoo",
         "Ts'ooke"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

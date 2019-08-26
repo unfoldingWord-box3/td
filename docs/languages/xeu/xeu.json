@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "xeu",
-    "pk": 6907,
     "lc": "xeu",
     "gw": false,
-    "ln": "Keoru-Ahia",
-    "ld": "ltr",
-    "ang": "Keoru-Ahia",
+    "ISO-639-3": "xeu",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Keoru-Ahia",
+    "pk": 6907,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Keoru-Ahia",
     "alt": [
         "Ahia",
         "Ahiave",
@@ -32,5 +32,5 @@
         "Ahia (Aheave)",
         "Keoru"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

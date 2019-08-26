@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sro",
-    "pk": 5816,
     "lc": "sro",
     "gw": false,
-    "ln": "Campidanese Sardinian",
-    "ld": "ltr",
-    "ang": "Sardinian, Campidanese",
+    "ISO-639-3": "sro",
     "hc": "IT",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Sardinian, Campidanese",
+    "pk": 5816,
     "cc": [
         "IT"
     ],
+    "lr": "Europe",
+    "ln": "Campidanese Sardinian",
     "alt": [
         "Campidanese",
         "Campidese",
@@ -19,5 +19,5 @@
         "Cagliare (Cagliari)",
         "Cagliaritan"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "ngb",
-    "pk": 4410,
     "lc": "ngb",
     "gw": false,
-    "ln": "Northern Ngbandi",
-    "ld": "ltr",
-    "ang": "Ngbandi, Northern",
+    "ISO-639-3": "ngb",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Ngbandi, Northern",
+    "pk": 4410,
     "cc": [
         "CF",
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Northern Ngbandi",
     "alt": [
         "Baza",
         "Mongwandi",
         "Ngwandi"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

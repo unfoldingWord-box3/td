@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hgm",
-    "pk": 2259,
     "lc": "hgm",
     "gw": false,
-    "ln": "Hai||om",
-    "ld": "ltr",
-    "ang": "Hai||om",
+    "ISO-639-3": "hgm",
     "hc": "NA",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Hai||om",
+    "pk": 2259,
     "cc": [
         "NA"
     ],
+    "lr": "Africa",
+    "ln": "Hai||om",
     "alt": [
         "Saan",
         "San",
@@ -21,5 +21,5 @@
         "Heikom",
         "Heikom Bushman"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

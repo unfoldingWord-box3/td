@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lbc",
-    "pk": 3358,
     "lc": "lbc",
     "gw": false,
-    "ln": "\u62c9\u73c8\u8bed",
-    "ld": "ltr",
-    "ang": "Lakkia",
+    "ISO-639-3": "lbc",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Lakkia",
+    "pk": 3358,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u62c9\u73c8\u8bed",
     "alt": [
         "Chashan Yao",
         "Lajia",
@@ -21,5 +21,5 @@
         "Tai Laka",
         "Tea Mountain Yao"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

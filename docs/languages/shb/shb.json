@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "shb",
-    "pk": 5593,
     "lc": "shb",
     "gw": false,
-    "ln": "Ninam",
-    "ld": "ltr",
-    "ang": "Ninam",
+    "ISO-639-3": "shb",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Ninam",
+    "pk": 5593,
     "cc": [
         "BR",
         "VE"
     ],
+    "lr": "Americas",
+    "ln": "Ninam",
     "alt": [
         "Xirixana",
         "Yanam",
@@ -21,5 +21,5 @@
         "Northern Ninam (Shiriana)",
         "Shirishana"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

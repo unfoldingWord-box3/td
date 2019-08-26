@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "brb",
-    "pk": 901,
     "lc": "brb",
     "gw": false,
-    "ln": "Ti\u1ebfng Br\u00e2u",
-    "ld": "ltr",
-    "ang": "Lave",
+    "ISO-639-3": "brb",
     "hc": "LA",
-    "lr": "Asia",
+    "gwcode": "lo",
+    "ang": "Lave",
+    "pk": 901,
     "cc": [
         "LA",
         "US",
         "KH"
     ],
+    "lr": "Asia",
+    "ln": "Ti\u1ebfng Br\u00e2u",
     "alt": [
         "Braou",
         "Brou",
@@ -26,5 +26,5 @@
         "Jrii",
         "Hamong"
     ],
-    "gwcode": "lo"
+    "ld": "ltr"
 }

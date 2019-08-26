@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "pis",
-    "pk": 5041,
     "lc": "pis",
     "gw": false,
-    "ln": "Pijin",
-    "ld": "ltr",
-    "ang": "Pijin",
+    "ISO-639-3": "pis",
     "hc": "SB",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Pijin",
+    "pk": 5041,
     "cc": [
         "FJ",
         "SB"
     ],
+    "lr": "Pacific",
+    "ln": "Pijin",
     "alt": [
         "Neo-Solomonic",
         "Solomons Pidgin"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "blm",
-    "pk": 767,
     "lc": "blm",
     "gw": false,
-    "ln": "Beli (Sudan)",
-    "ld": "ltr",
-    "ang": "Beli",
+    "ISO-639-3": "blm",
     "hc": "SS",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Beli",
+    "pk": 767,
     "cc": [
         "SS"
     ],
+    "lr": "Africa",
+    "ln": "Beli (Sudan)",
     "alt": [
         "Behli",
         "Beili",
@@ -18,5 +18,5 @@
         "Jur Beli",
         "Sopi (Supi)"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

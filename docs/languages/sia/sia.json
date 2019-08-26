@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "sia",
-    "pk": 5618,
     "lc": "sia",
     "gw": false,
-    "ln": "\u0411\u0430\u0431\u0438\u043d\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Saami, Akkala",
+    "ISO-639-3": "sia",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Saami, Akkala",
+    "pk": 5618,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u0411\u0430\u0431\u0438\u043d\u0441\u043a\u0438\u0439",
     "alt": [
         "Ahkkil",
         "Babino",
         "Babinsk"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

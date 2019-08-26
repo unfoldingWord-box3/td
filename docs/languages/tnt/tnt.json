@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tnt",
-    "pk": 6236,
     "lc": "tnt",
     "gw": false,
-    "ln": "Tontemboan",
-    "ld": "ltr",
-    "ang": "Tontemboan",
+    "ISO-639-3": "tnt",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Tontemboan",
+    "pk": 6236,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Tontemboan",
     "alt": [
         "Pakewa",
         "Tompakewa",
@@ -19,5 +19,5 @@
         "Matana'i-Maore'",
         "Makela'i-Maotow"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

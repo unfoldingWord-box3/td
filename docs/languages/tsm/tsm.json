@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "tsm",
-    "pk": 6335,
     "lc": "tsm",
     "gw": false,
-    "ln": "Turkish Sign Language",
-    "ld": "ltr",
-    "ang": "Turkish Sign Language",
+    "ISO-639-3": "tsm",
     "hc": "TR",
-    "lr": "Asia",
+    "gwcode": "tr",
+    "ang": "Turkish Sign Language",
+    "pk": 6335,
     "cc": [
         "AZ",
         "TR"
     ],
+    "lr": "Asia",
+    "ln": "Turkish Sign Language",
     "alt": [
         "Tid",
         "T\u00fcrk Isaret Dili",
         "T\u00fcrk \u00dd\u00fearet Dili"
     ],
-    "gwcode": "tr"
+    "ld": "ltr"
 }

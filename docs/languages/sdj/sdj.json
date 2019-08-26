@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sdj",
-    "pk": 5531,
     "lc": "sdj",
     "gw": false,
-    "ln": "Suundi",
-    "ld": "ltr",
-    "ang": "Suundi",
+    "ISO-639-3": "sdj",
     "hc": "CG",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Suundi",
+    "pk": 5531,
     "cc": [
         "CG"
     ],
+    "lr": "Africa",
+    "ln": "Suundi",
     "alt": [
         "Kissoundi",
         "Kisuundi",
@@ -19,5 +19,5 @@
         "Kisuundi kya Ngwaari",
         "Kisuundi kya Nkeleke"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

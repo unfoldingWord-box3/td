@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "gsp",
-    "pk": 2147,
     "lc": "gsp",
     "gw": false,
-    "ln": "Wasembo",
-    "ld": "ltr",
-    "ang": "Wasembo",
+    "ISO-639-3": "gsp",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Wasembo",
+    "pk": 2147,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Wasembo",
     "alt": [
         "Biapim",
         "Gusap",
         "Yankowan"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "azz",
-    "pk": 487,
     "lc": "azz",
     "gw": false,
-    "ln": "Highland Puebla Nahuatl",
-    "ld": "ltr",
-    "ang": "Nahuatl, Highland Puebla",
+    "ISO-639-3": "azz",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Nahuatl, Highland Puebla",
+    "pk": 487,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Highland Puebla Nahuatl",
     "alt": [
         "Mejicano de Zacapoaxtla",
         "N\u00e1huat de la Sierra de Puebla",
@@ -18,5 +18,5 @@
         "Sierra Puebla N\u00e1huatl",
         "Zacapoaxtla N\u00e1huat"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

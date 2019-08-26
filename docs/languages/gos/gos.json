@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gos",
-    "pk": 2107,
     "lc": "gos",
     "gw": false,
-    "ln": "Gronings",
-    "ld": "ltr",
-    "ang": "Gronings",
+    "ISO-639-3": "gos",
     "hc": "NL",
-    "lr": "Europe",
+    "gwcode": "nl",
+    "ang": "Gronings",
+    "pk": 2107,
     "cc": [
         "NL"
     ],
+    "lr": "Europe",
+    "ln": "Gronings",
     "alt": [
         "Groningen",
         "Grunnings",
@@ -19,5 +19,5 @@
         "Groningen-East Frisian (Gronings-Oostfries)",
         "Veenkoloniaals (Veen Colony)"
     ],
-    "gwcode": "nl"
+    "ld": "ltr"
 }

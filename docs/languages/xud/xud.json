@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "xud",
-    "pk": 7079,
     "lc": "xud",
     "gw": false,
-    "ln": "Umiida",
-    "ld": "ltr",
-    "ang": "Umiida",
+    "ISO-639-3": "xud",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Umiida",
+    "pk": 7079,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Umiida",
     "alt": [
         "Aobidai of Ongkarango",
         "O:ka:ta",
@@ -25,5 +25,5 @@
         "Umidi",
         "Wumide"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

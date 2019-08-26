@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "zpz",
-    "pk": 7462,
     "lc": "zpz",
     "gw": false,
-    "ln": "Texmelucan Zapotec",
-    "ld": "ltr",
-    "ang": "Zapotec, Texmelucan",
+    "ISO-639-3": "zpz",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Zapotec, Texmelucan",
+    "pk": 7462,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Texmelucan Zapotec",
     "alt": [
         "Central Sola de Vega Zapotec",
         "Papabuco",
         "Zapoteco de San Lorenzo Texmelucan"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

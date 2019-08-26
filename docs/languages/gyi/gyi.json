@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gyi",
-    "pk": 2209,
     "lc": "gyi",
     "gw": false,
-    "ln": "Gyele",
-    "ld": "ltr",
-    "ang": "Gyele",
+    "ISO-639-3": "gyi",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Gyele",
+    "pk": 2209,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Gyele",
     "alt": [
         "Babinga",
         "Bagiele",
@@ -30,5 +30,5 @@
         "Likoya",
         "Bagyeli"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

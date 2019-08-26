@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "klc",
-    "pk": 2962,
     "lc": "klc",
     "gw": false,
-    "ln": "Kolbila",
-    "ld": "ltr",
-    "ang": "Kolbila",
+    "ISO-639-3": "klc",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Kolbila",
+    "pk": 2962,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Kolbila",
     "alt": [
         "Kolbilari",
         "Kolbili",
@@ -18,5 +18,5 @@
         "Kolena",
         "Zoono"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

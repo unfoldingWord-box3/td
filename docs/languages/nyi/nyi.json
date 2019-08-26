@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nyi",
-    "pk": 4733,
     "lc": "nyi",
     "gw": false,
-    "ln": "Ama (Sudan)",
-    "ld": "ltr",
-    "ang": "Ama",
+    "ISO-639-3": "nyi",
     "hc": "SD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Ama",
+    "pk": 4733,
     "cc": [
         "SD"
     ],
+    "lr": "Africa",
+    "ln": "Ama (Sudan)",
     "alt": [
         "Inyimang",
         "Nyima",
@@ -18,5 +18,5 @@
         "Nyuwing",
         "Mandal (Male)"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

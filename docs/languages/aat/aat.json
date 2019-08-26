@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "aat",
-    "pk": 23,
     "lc": "aat",
     "gw": false,
-    "ln": "Arvanitika Albanian",
-    "ld": "ltr",
-    "ang": "Albanian, Arvanitika",
+    "ISO-639-3": "aat",
     "hc": "GR",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Albanian, Arvanitika",
+    "pk": 23,
     "cc": [
         "GR"
     ],
+    "lr": "Europe",
+    "ln": "Arvanitika Albanian",
     "alt": [
         "Arberichte",
         "Arvanitic",
         "Arvanitika"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

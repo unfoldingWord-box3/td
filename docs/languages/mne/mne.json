@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mne",
-    "pk": 3979,
     "lc": "mne",
     "gw": false,
-    "ln": "Naba",
-    "ld": "ltr",
-    "ang": "Naba",
+    "ISO-639-3": "mne",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Naba",
+    "pk": 3979,
     "cc": [
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Naba",
     "alt": [
         "Ma",
         "Bilala (Bilaala)",
@@ -22,5 +22,5 @@
         "Lisi",
         "Bulala"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

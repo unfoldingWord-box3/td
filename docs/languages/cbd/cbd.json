@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cbd",
-    "pk": 1134,
     "lc": "cbd",
     "gw": false,
-    "ln": "Carijona",
-    "ld": "ltr",
-    "ang": "Carijona",
+    "ISO-639-3": "cbd",
     "hc": "CO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Carijona",
+    "pk": 1134,
     "cc": [
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Carijona",
     "alt": [
         "Carifuna",
         "Carihona",
@@ -22,5 +22,5 @@
         "Omagua",
         "Umawa"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

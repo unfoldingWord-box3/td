@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nbu",
-    "pk": 4327,
     "lc": "nbu",
     "gw": false,
-    "ln": "Rongmei Naga",
-    "ld": "ltr",
-    "ang": "Naga, Rongmei",
+    "ISO-639-3": "nbu",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Naga, Rongmei",
+    "pk": 4327,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Rongmei Naga",
     "alt": [
         "Kabui",
         "Maruongmai",
@@ -18,5 +18,5 @@
         "Rongmai",
         "Rongmei"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

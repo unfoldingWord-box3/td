@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "met",
-    "pk": 3771,
     "lc": "met",
     "gw": false,
-    "ln": "Mato",
-    "ld": "ltr",
-    "ang": "Mato",
+    "ISO-639-3": "met",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Mato",
+    "pk": 3771,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Mato",
     "alt": [
         "Nenaya",
         "Nengaya",
@@ -18,5 +18,5 @@
         "Ramuk",
         "Tabares"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

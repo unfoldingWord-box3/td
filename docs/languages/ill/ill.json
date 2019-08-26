@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "UNKNOWN",
-    "pk": 2474,
     "lc": "ill",
     "gw": false,
-    "ln": "Iranun",
-    "ld": "ltr",
-    "ang": "Iranun",
+    "ISO-639-3": "UNKNOWN",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Iranun",
+    "pk": 2474,
     "cc": [
         "MY",
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Iranun",
     "alt": [
         "Illanoan",
         "Illanoon",
@@ -27,5 +27,5 @@
         "Ilanon",
         "Ilanum"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

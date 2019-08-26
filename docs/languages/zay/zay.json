@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zay",
-    "pk": 7354,
     "lc": "zay",
     "gw": false,
-    "ln": "Zayse-Zergulla",
-    "ld": "ltr",
-    "ang": "Zaysete",
+    "ISO-639-3": "zay",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Zaysete",
+    "pk": 7354,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Zayse-Zergulla",
     "alt": [
         "Zaisse",
         "Zayse-Zergulla",
@@ -20,5 +20,5 @@
         "Zergulla (Zargulla)",
         "Zergullinya"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

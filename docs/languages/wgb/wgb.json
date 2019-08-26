@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wgb",
-    "pk": 6724,
     "lc": "wgb",
     "gw": false,
-    "ln": "Wagawaga",
-    "ld": "ltr",
-    "ang": "Wagawaga",
+    "ISO-639-3": "wgb",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Wagawaga",
+    "pk": 6724,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Wagawaga",
     "alt": [
         "Baeaula",
         "Beauli",
@@ -18,5 +18,5 @@
         "Gibara",
         "Kilikilana"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

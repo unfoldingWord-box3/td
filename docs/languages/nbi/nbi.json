@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nbi",
-    "pk": 4316,
     "lc": "nbi",
     "gw": false,
-    "ln": "Mao Naga",
-    "ld": "ltr",
-    "ang": "Naga, Mao",
+    "ISO-639-3": "nbi",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Naga, Mao",
+    "pk": 4316,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Mao Naga",
     "alt": [
         "Emela",
         "Imemai",
@@ -22,5 +22,5 @@
         "Southern Angami",
         "Spowama"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

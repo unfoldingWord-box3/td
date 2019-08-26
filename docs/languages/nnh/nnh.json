@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nnh",
-    "pk": 4566,
     "lc": "nnh",
     "gw": false,
-    "ln": "Ngiemboon",
-    "ld": "ltr",
-    "ang": "Ngiemboon",
+    "ISO-639-3": "nnh",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Ngiemboon",
+    "pk": 4566,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Ngiemboon",
     "alt": [
         "Bamileke-Ngiemboon",
         "Bamileke-Ngyemboon",
@@ -21,5 +21,5 @@
         "Balessing",
         "Batang"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

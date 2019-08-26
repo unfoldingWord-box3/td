@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tqt",
-    "pk": 6295,
     "lc": "tqt",
     "gw": false,
-    "ln": "Western Totonac",
-    "ld": "ltr",
-    "ang": "Totonac, Ozumatl\u00e1n",
+    "ISO-639-3": "tqt",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Totonac, Ozumatl\u00e1n",
+    "pk": 6295,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Western Totonac",
     "alt": [
         "Totonaco de Ozomatl\u00e1n",
         "Totonaco del cerro Xinolate\u00b4petl",
@@ -18,5 +18,5 @@
         "Xinolate\u00b4petl Totonac",
         "Xinulajgsipij Tutunaku"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ngk",
-    "pk": 4418,
     "lc": "ngk",
     "gw": false,
-    "ln": "Dalabon",
-    "ld": "ltr",
-    "ang": "Dalabon",
+    "ISO-639-3": "ngk",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Dalabon",
+    "pk": 4418,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Dalabon",
     "alt": [
         "Bouin",
         "Boun",
@@ -22,5 +22,5 @@
         "Ngalabon",
         "Ngalkbon"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ppo",
-    "pk": 5148,
     "lc": "ppo",
     "gw": false,
-    "ln": "Folopa",
-    "ld": "ltr",
-    "ang": "Folopa",
+    "ISO-639-3": "ppo",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Folopa",
+    "pk": 5148,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Folopa",
     "alt": [
         "Foraba",
         "Podoba",
@@ -24,5 +24,5 @@
         "Suri",
         "Worugl"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

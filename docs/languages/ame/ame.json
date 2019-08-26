@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ame",
-    "pk": 238,
     "lc": "ame",
     "gw": false,
-    "ln": "Yanesha'",
-    "ld": "ltr",
-    "ang": "Yanesha\u2019",
+    "ISO-639-3": "ame",
     "hc": "PE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Yanesha\u2019",
+    "pk": 238,
     "cc": [
         "PE"
     ],
+    "lr": "Americas",
+    "ln": "Yanesha'",
     "alt": [
         "Amage",
         "Amagues",
@@ -23,5 +23,5 @@
         "Lorenzo",
         "Omage"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

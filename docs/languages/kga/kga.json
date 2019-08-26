@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kga",
-    "pk": 2836,
     "lc": "kga",
     "gw": false,
-    "ln": "Koyaga",
-    "ld": "ltr",
-    "ang": "Koyaga",
+    "ISO-639-3": "kga",
     "hc": "CI",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Koyaga",
+    "pk": 2836,
     "cc": [
         "CI"
     ],
+    "lr": "Africa",
+    "ln": "Koyaga",
     "alt": [
         "Koya",
         "Koyaa",
@@ -19,5 +19,5 @@
         "Koyaka",
         "Koyara"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

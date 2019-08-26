@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "nsm",
-    "pk": 4648,
     "lc": "nsm",
     "gw": false,
-    "ln": "Sumi Naga",
-    "ld": "ltr",
-    "ang": "Naga, Sumi",
+    "ISO-639-3": "nsm",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Naga, Sumi",
+    "pk": 4648,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Sumi Naga",
     "alt": [
         "Sema",
         "Simi",
         "Sumi",
         "Dayang (Western Sumi)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

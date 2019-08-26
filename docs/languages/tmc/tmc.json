@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tmc",
-    "pk": 6197,
     "lc": "tmc",
     "gw": false,
-    "ln": "Tumak",
-    "ld": "ltr",
-    "ang": "Tumak",
+    "ISO-639-3": "tmc",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Tumak",
+    "pk": 6197,
     "cc": [
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Tumak",
     "alt": [
         "Dije",
         "Sara Toumak",
@@ -25,5 +25,5 @@
         "Motin",
         "Motun (Mawer)"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

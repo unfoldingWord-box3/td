@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wun",
-    "pk": 6838,
     "lc": "wun",
     "gw": false,
-    "ln": "Bungu",
-    "ld": "ltr",
-    "ang": "Bungu",
+    "ISO-639-3": "wun",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Bungu",
+    "pk": 6838,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Bungu",
     "alt": [
         "Iciwungu",
         "Kibungu",
@@ -20,5 +20,5 @@
         "Maleza",
         "Mwambani"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

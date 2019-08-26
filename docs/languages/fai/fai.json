@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "fai",
-    "pk": 1818,
     "lc": "fai",
     "gw": false,
-    "ln": "Faiwol",
-    "ld": "ltr",
-    "ang": "Faiwol",
+    "ISO-639-3": "fai",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Faiwol",
+    "pk": 1818,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Faiwol",
     "alt": [
         "Angkiyakmin",
         "Faiwolmin",
         "Fegolmin",
         "Wokeimin"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ypg",
-    "pk": 7260,
     "lc": "ypg",
     "gw": false,
-    "ln": "Phola",
-    "ld": "ltr",
-    "ang": "Phola",
+    "ISO-639-3": "ypg",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Phola",
+    "pk": 7260,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "Phola",
     "alt": [
         "Bola",
         "Flowery Phula",
@@ -19,5 +19,5 @@
         "Phulepho",
         "Tsha Phula"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

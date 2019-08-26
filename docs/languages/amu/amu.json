@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "amu",
-    "pk": 253,
     "lc": "amu",
     "gw": false,
-    "ln": "Guerrero Amuzgo",
-    "ld": "ltr",
-    "ang": "Amuzgo, Guerrero",
+    "ISO-639-3": "amu",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Amuzgo, Guerrero",
+    "pk": 253,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Guerrero Amuzgo",
     "alt": [
         "Amuzgo del Norte",
         "Amuzgo del Sur",
         "Nomndaa",
         "\u00d1omndaa"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nfl",
-    "pk": 4405,
     "lc": "nfl",
     "gw": false,
-    "ln": "Ayiwo",
-    "ld": "ltr",
-    "ang": "\u00c4iwoo",
+    "ISO-639-3": "nfl",
     "hc": "SB",
-    "lr": "Pacific",
+    "gwcode": "pis",
+    "ang": "\u00c4iwoo",
+    "pk": 4405,
     "cc": [
         "SB"
     ],
+    "lr": "Pacific",
+    "ln": "Ayiwo",
     "alt": [
         "A\u00efwo",
         "Gnivo",
@@ -21,5 +21,5 @@
         "Reef Islands",
         "Reefs"
     ],
-    "gwcode": "pis"
+    "ld": "ltr"
 }

@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "yom",
-    "pk": 7253,
     "lc": "yom",
     "gw": false,
-    "ln": "Yombe",
-    "ld": "ltr",
-    "ang": "Yombe",
+    "ISO-639-3": "yom",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Yombe",
+    "pk": 7253,
     "cc": [
         "CG",
         "CD",
         "AO"
     ],
+    "lr": "Africa",
+    "ln": "Yombe",
     "alt": [
         "Ibinda",
         "Iombe",
@@ -22,5 +22,5 @@
         "Vungunya (Kivungunya)",
         "Yombe Classique"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

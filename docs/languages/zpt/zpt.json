@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "zpt",
-    "pk": 7456,
     "lc": "zpt",
     "gw": false,
-    "ln": "San Vicente Coatl\u00e1n Zapotec",
-    "ld": "ltr",
-    "ang": "Zapotec, San Vicente Coatl\u00e1n",
+    "ISO-639-3": "zpt",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Zapotec, San Vicente Coatl\u00e1n",
+    "pk": 7456,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "San Vicente Coatl\u00e1n Zapotec",
     "alt": [
         "Coatl\u00e1n Zapotec",
         "Southern Ejutla Zapotec",
         "Zapoteco de San Vicente Coatl\u00e1n"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

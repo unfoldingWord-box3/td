@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "nbe",
-    "pk": 4314,
     "lc": "nbe",
     "gw": false,
-    "ln": "Konyak Naga",
-    "ld": "ltr",
-    "ang": "Naga, Konyak",
+    "ISO-639-3": "nbe",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Naga, Konyak",
+    "pk": 4314,
     "cc": [
         "IN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Konyak Naga",
     "alt": [
         "Kanyak",
         "Konyak",
@@ -20,5 +20,5 @@
         "Lonwa",
         "Lungkhi"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

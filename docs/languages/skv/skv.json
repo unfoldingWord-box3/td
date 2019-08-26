@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "skv",
-    "pk": 5677,
     "lc": "skv",
     "gw": false,
-    "ln": "Skou",
-    "ld": "ltr",
-    "ang": "Skou",
+    "ISO-639-3": "skv",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Skou",
+    "pk": 5677,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Skou",
     "alt": [
         "Sekol",
         "Sekou",
@@ -21,5 +21,5 @@
         "Te Mawo",
         "Tumawo"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

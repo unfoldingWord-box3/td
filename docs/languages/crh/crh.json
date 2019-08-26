@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "crh",
-    "pk": 1327,
     "lc": "crh",
     "gw": false,
-    "ln": "Crimean Tatar",
-    "ld": "ltr",
-    "ang": "Crimean Tatar",
+    "ISO-639-3": "crh",
     "hc": "UA",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Crimean Tatar",
+    "pk": 1327,
     "cc": [
         "KZ",
         "TJ",
@@ -16,11 +14,13 @@
         "BG",
         "UA"
     ],
+    "lr": "Europe",
+    "ln": "Crimean Tatar",
     "alt": [
         "Crimean",
         "Crimean Turkish",
         "Northern Crimean (Crimean Nogai)",
         "Steppe Crimean"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

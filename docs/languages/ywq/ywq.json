@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ywq",
-    "pk": 7318,
     "lc": "ywq",
     "gw": false,
-    "ln": "\u6b66\u7984\u5f5d\u8bed",
-    "ld": "ltr",
-    "ang": "Yi, Wuding-Luquan",
+    "ISO-639-3": "ywq",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Yi, Wuding-Luquan",
+    "pk": 7318,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u6b66\u7984\u5f5d\u8bed",
     "alt": [
         "Black Yi",
         "Dian Dongbei Yi",
@@ -18,5 +18,5 @@
         "Nasu",
         "Wu-Lu Yi"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

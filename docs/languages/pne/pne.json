@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pne",
-    "pk": 5104,
     "lc": "pne",
     "gw": false,
-    "ln": "Western Penan",
-    "ld": "ltr",
-    "ang": "Penan, Western",
+    "ISO-639-3": "pne",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Penan, Western",
+    "pk": 5104,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Western Penan",
     "alt": [
         "Nibon",
         "Punan",
@@ -19,5 +19,5 @@
         "Bok Penan (Bok)",
         "Sipeng (Speng)"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "emn",
-    "pk": 1740,
     "lc": "emn",
     "gw": false,
-    "ln": "Eman",
-    "ld": "ltr",
-    "ang": "Eman",
+    "ISO-639-3": "emn",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Eman",
+    "pk": 1740,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Eman",
     "alt": [
         "Emane",
         "Amana",
@@ -18,5 +18,5 @@
         "Amani",
         "Elaka"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

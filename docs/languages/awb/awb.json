@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "awb",
-    "pk": 437,
     "lc": "awb",
     "gw": false,
-    "ln": "Awa (Papua New Guinea)",
-    "ld": "ltr",
-    "ang": "Awa",
+    "ISO-639-3": "awb",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Awa",
+    "pk": 437,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Awa (Papua New Guinea)",
     "alt": [
         "Mobuta",
         "Tauna",
         "Ilakia",
         "South Awa"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "trb",
-    "pk": 6300,
     "lc": "trb",
     "gw": false,
-    "ln": "Terebu",
-    "ld": "ltr",
-    "ang": "Terebu",
+    "ISO-639-3": "trb",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Terebu",
+    "pk": 6300,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Terebu",
     "alt": [
         "Terepu",
         "Turubu",
         "Turupu"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

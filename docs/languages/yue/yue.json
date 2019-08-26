@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "yue",
-    "pk": 7295,
     "lc": "yue",
     "gw": false,
-    "ln": "\u7cb5\u8a9e",
-    "ld": "ltr",
-    "ang": "Chinese, Yue",
+    "ISO-639-3": "yue",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Chinese, Yue",
+    "pk": 7295,
     "cc": [
         "BN",
         "BE",
@@ -33,6 +31,8 @@
         "DO",
         "SR"
     ],
+    "lr": "Asia",
+    "ln": "\u7cb5\u8a9e",
     "alt": [
         "Yue",
         "Yueh",
@@ -75,5 +75,5 @@
         "Seiyap",
         "Siyi (Hoisan)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

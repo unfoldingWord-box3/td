@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bqj",
-    "pk": 882,
     "lc": "bqj",
     "gw": false,
-    "ln": "Bandial",
-    "ld": "ltr",
-    "ang": "Bandial",
+    "ISO-639-3": "bqj",
     "hc": "SN",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Bandial",
+    "pk": 882,
     "cc": [
         "SN"
     ],
+    "lr": "Africa",
+    "ln": "Bandial",
     "alt": [
         "Banjaal",
         "Eegima",
@@ -19,5 +19,5 @@
         "Kujireray",
         "Kuluunaay"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

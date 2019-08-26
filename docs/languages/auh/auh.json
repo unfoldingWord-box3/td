@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "auh",
-    "pk": 410,
     "lc": "auh",
     "gw": false,
-    "ln": "Aushi",
-    "ld": "ltr",
-    "ang": "Aushi",
+    "ISO-639-3": "auh",
     "hc": "ZM",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Aushi",
+    "pk": 410,
     "cc": [
         "ZM"
     ],
+    "lr": "Africa",
+    "ln": "Aushi",
     "alt": [
         "Avaushi",
         "Ushi",
@@ -19,5 +19,5 @@
         "Vouaousi",
         "Uzhil"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

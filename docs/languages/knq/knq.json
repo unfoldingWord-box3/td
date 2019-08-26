@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "knq",
-    "pk": 3029,
     "lc": "knq",
     "gw": false,
-    "ln": "Kintaq",
-    "ld": "ltr",
-    "ang": "Kintaq",
+    "ISO-639-3": "knq",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Kintaq",
+    "pk": 3029,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Kintaq",
     "alt": [
         "Bong",
         "Kenta",
@@ -18,5 +18,5 @@
         "Kintaq Bong",
         "Kintk"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

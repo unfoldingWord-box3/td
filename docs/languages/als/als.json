@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "als",
-    "pk": 227,
     "lc": "als",
     "gw": false,
-    "ln": "Tosk Albanian",
-    "ld": "ltr",
-    "ang": "Albanian, Tosk",
+    "ISO-639-3": "als",
     "hc": "AL",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Albanian, Tosk",
+    "pk": 227,
     "cc": [
         "BE",
         "GR",
@@ -20,6 +18,8 @@
         "IT",
         "EG"
     ],
+    "lr": "Europe",
+    "ln": "Tosk Albanian",
     "alt": [
         "Cham (\u00c7am)",
         "Lab (Lab\u00ebrisht)",
@@ -34,5 +34,5 @@
         "Zhgabe",
         "Arvanitika"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

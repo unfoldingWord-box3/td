@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "vaa",
-    "pk": 6580,
     "lc": "vaa",
     "gw": false,
-    "ln": "Vaagri Booli",
-    "ld": "ltr",
-    "ang": "Vaagri Booli",
+    "ISO-639-3": "vaa",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "ta",
+    "ang": "Vaagri Booli",
+    "pk": 6580,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Vaagri Booli",
     "alt": [
         "Guvvalollu",
         "Haki Piki",
@@ -25,5 +25,5 @@
         "Wagri Vel",
         "Wogri Boli"
     ],
-    "gwcode": "ta"
+    "ld": "ltr"
 }

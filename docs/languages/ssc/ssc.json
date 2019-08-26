@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ssc",
-    "pk": 5828,
     "lc": "ssc",
     "gw": false,
-    "ln": "Suba-Simbiti",
-    "ld": "ltr",
-    "ang": "Suba-Simbiti",
+    "ISO-639-3": "ssc",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Suba-Simbiti",
+    "pk": 5828,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Suba-Simbiti",
     "alt": [
         "Kisimbiti",
         "Kisuba",
@@ -28,5 +28,5 @@
         "Iryege (Iregi)",
         "Kiroba"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

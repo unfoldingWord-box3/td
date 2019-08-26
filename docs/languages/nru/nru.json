@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nru",
-    "pk": 4636,
     "lc": "nru",
     "gw": false,
-    "ln": "\u4e1c\u90e8\u65b9\u8a00",
-    "ld": "ltr",
-    "ang": "Narua",
+    "ISO-639-3": "nru",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Narua",
+    "pk": 4636,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u4e1c\u90e8\u65b9\u8a00",
     "alt": [
         "Eastern Naxi",
         "Moso",
@@ -20,5 +20,5 @@
         "Naru",
         "Nazu"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

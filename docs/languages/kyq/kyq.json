@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kyq",
-    "pk": 3299,
     "lc": "kyq",
     "gw": false,
-    "ln": "Kenga",
-    "ld": "ltr",
-    "ang": "Kenga",
+    "ISO-639-3": "kyq",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Kenga",
+    "pk": 3299,
     "cc": [
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Kenga",
     "alt": [
         "Kenge",
         "Banala (Tar Banala)",
@@ -18,5 +18,5 @@
         "Bolong (Tar Bolongo)",
         "Cenge (Tar Cenge)"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

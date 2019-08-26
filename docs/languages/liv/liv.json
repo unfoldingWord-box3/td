@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "liv",
-    "pk": 3471,
     "lc": "liv",
     "gw": false,
-    "ln": "Liv",
-    "ld": "ltr",
-    "ang": "Liv",
+    "ISO-639-3": "liv",
     "hc": "LV",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Liv",
+    "pk": 3471,
     "cc": [
         "LV"
     ],
+    "lr": "Europe",
+    "ln": "Liv",
     "alt": [
         "Liv\u00f5 kel",
         "Livonian",
@@ -18,5 +18,5 @@
         "Raandalist",
         "Western Livonian (Kurzeme)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

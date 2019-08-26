@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "alr",
-    "pk": 226,
     "lc": "alr",
     "gw": false,
-    "ln": "\u0410\u043b\u044e\u0442\u043e\u0440\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Alutor",
+    "ISO-639-3": "alr",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Alutor",
+    "pk": 226,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u0410\u043b\u044e\u0442\u043e\u0440\u0441\u043a\u0438\u0439",
     "alt": [
         "Alutorskij (Alutor Proper)",
         "Aliutor",
         "Alyutor",
         "Olyutor"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

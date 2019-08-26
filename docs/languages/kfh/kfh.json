@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kfh",
-    "pk": 2816,
     "lc": "kfh",
     "gw": false,
-    "ln": "Kurichiya",
-    "ld": "ltr",
-    "ang": "Kurichiya",
+    "ISO-639-3": "kfh",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "ml",
+    "ang": "Kurichiya",
+    "pk": 2816,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Kurichiya",
     "alt": [
         "Kowohans",
         "Kurichchan",
@@ -20,5 +20,5 @@
         "Kunnam",
         "Wayanad"
     ],
-    "gwcode": "ml"
+    "ld": "ltr"
 }

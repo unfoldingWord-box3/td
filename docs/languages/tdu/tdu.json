@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "UNKNOWN",
-    "pk": 6048,
     "lc": "tdu",
     "gw": false,
-    "ln": "Tempasuk Dusun",
-    "ld": "ltr",
-    "ang": "Dusun, Tempasuk",
+    "ISO-639-3": "UNKNOWN",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Dusun, Tempasuk",
+    "pk": 6048,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Tempasuk Dusun",
     "alt": [
         "Kedamaian Dusun",
         "Tampasok",
@@ -19,5 +19,5 @@
         "Tempasok",
         "Tindal"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

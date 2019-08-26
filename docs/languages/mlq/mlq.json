@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "mlq",
-    "pk": 3941,
     "lc": "mlq",
     "gw": false,
-    "ln": "Western Maninkakan",
-    "ld": "ltr",
-    "ang": "Maninkakan, Western",
+    "ISO-639-3": "mlq",
     "hc": "SN",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Maninkakan, Western",
+    "pk": 3941,
     "cc": [
         "BF",
         "ML",
         "SN",
         "US"
     ],
+    "lr": "Africa",
+    "ln": "Western Maninkakan",
     "alt": [
         "Malinka",
         "Northwestern Maninka",
@@ -26,5 +26,5 @@
         "Jahanque",
         "Jahonque"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

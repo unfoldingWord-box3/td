@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tnr",
-    "pk": 6234,
     "lc": "tnr",
     "gw": false,
-    "ln": "M\u00e9nik",
-    "ld": "ltr",
-    "ang": "M\u00e9nik",
+    "ISO-639-3": "tnr",
     "hc": "SN",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "M\u00e9nik",
+    "pk": 6234,
     "cc": [
         "SN"
     ],
+    "lr": "Africa",
+    "ln": "M\u00e9nik",
     "alt": [
         "Bande",
         "Basari du Bandemba",
@@ -19,5 +19,5 @@
         "Tenda",
         "Tendanke"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "mhi",
-    "pk": 3836,
     "lc": "mhi",
     "gw": false,
-    "ln": "Ma'di",
-    "ld": "ltr",
-    "ang": "Ma\u2019di",
+    "ISO-639-3": "mhi",
     "hc": "UG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Ma\u2019di",
+    "pk": 3836,
     "cc": [
         "SS",
         "UG"
     ],
+    "lr": "Africa",
+    "ln": "Ma'di",
     "alt": [
         "Ma'adi",
         "Ma'diti",
@@ -19,5 +19,5 @@
         "Adjumani (Oyuwi)",
         "Burulo"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

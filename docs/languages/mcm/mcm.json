@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mcm",
-    "pk": 3714,
     "lc": "mcm",
     "gw": false,
-    "ln": "Malaccan Creole Portuguese",
-    "ld": "ltr",
-    "ang": "Malaccan Creole Portuguese",
+    "ISO-639-3": "mcm",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Malaccan Creole Portuguese",
+    "pk": 3714,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Malaccan Creole Portuguese",
     "alt": [
         "Bahasa Geragau",
         "Bahasa Serani",
@@ -29,5 +29,5 @@
         "Portuguese Patois",
         "Serani"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

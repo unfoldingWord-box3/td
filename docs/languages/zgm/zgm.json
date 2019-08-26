@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zgm",
-    "pk": 7371,
     "lc": "zgm",
     "gw": false,
-    "ln": "\u6c11\u8bb2",
-    "ld": "ltr",
-    "ang": "Zhuang, Minz",
+    "ISO-639-3": "zgm",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Zhuang, Minz",
+    "pk": 7371,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u6c11\u8bb2",
     "alt": [
         "Black Zhuang",
         "Bu Xiong",
@@ -21,5 +21,5 @@
         "Cuengh (Zong)",
         "Minz (Min)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

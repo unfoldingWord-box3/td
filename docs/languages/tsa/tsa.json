@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "tsa",
-    "pk": 6324,
     "lc": "tsa",
     "gw": false,
-    "ln": "Tsaangi",
-    "ld": "ltr",
-    "ang": "Tsaangi",
+    "ISO-639-3": "tsa",
     "hc": "CG",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Tsaangi",
+    "pk": 6324,
     "cc": [
         "GA",
         "CG"
     ],
+    "lr": "Africa",
+    "ln": "Tsaangi",
     "alt": [
         "Icaangi",
         "Itsangi",
@@ -22,5 +22,5 @@
         "Itsaangi",
         "Tsangi"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

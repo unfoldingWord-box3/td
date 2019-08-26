@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "fmp",
-    "pk": 1855,
     "lc": "fmp",
     "gw": false,
-    "ln": "Fe'fe'",
-    "ld": "ltr",
-    "ang": "Fe\u2019fe\u2019",
+    "ISO-639-3": "fmp",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Fe\u2019fe\u2019",
+    "pk": 1855,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Fe'fe'",
     "alt": [
         "Bafang",
         "Bamileke-Fe'fe'",
@@ -28,5 +28,5 @@
         "Fa' (Bafang)",
         "Tungi' (Fotouni)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

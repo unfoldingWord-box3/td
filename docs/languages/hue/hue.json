@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "hue",
-    "pk": 2369,
     "lc": "hue",
     "gw": false,
-    "ln": "San Francisco Del Mar Huave",
-    "ld": "ltr",
-    "ang": "Huave, San Francisco del Mar",
+    "ISO-639-3": "hue",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Huave, San Francisco del Mar",
+    "pk": 2369,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "San Francisco Del Mar Huave",
     "alt": [
         "Huave del Este"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

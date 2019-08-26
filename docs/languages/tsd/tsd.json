@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "tsd",
-    "pk": 6327,
     "lc": "tsd",
     "gw": false,
-    "ln": "Tsakonian",
-    "ld": "ltr",
-    "ang": "Tsakonian",
+    "ISO-639-3": "tsd",
     "hc": "GR",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Tsakonian",
+    "pk": 6327,
     "cc": [
         "GR"
     ],
+    "lr": "Europe",
+    "ln": "Tsakonian",
     "alt": [
         "Tsakonia",
         "Northern Tsakonian (Kastanista-Sitena)",
         "Propontis Tsakonian (Vatka-Havoutsi)",
         "Southern Tsakonian (Leonidio-Prastos)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

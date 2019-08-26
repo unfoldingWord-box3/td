@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "kru",
-    "pk": 3126,
     "lc": "kru",
     "gw": false,
-    "ln": "Kurukh",
-    "ld": "ltr",
-    "ang": "Kurux",
+    "ISO-639-3": "kru",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hne",
+    "ang": "Kurux",
+    "pk": 3126,
     "cc": [
         "BD",
         "BT",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Kurukh",
     "alt": [
         "Oraoan",
         "Uraon",
@@ -30,5 +30,5 @@
         "Morva",
         "Urang"
     ],
-    "gwcode": "hne"
+    "ld": "ltr"
 }

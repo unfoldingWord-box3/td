@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rbp",
-    "pk": 5333,
     "lc": "rbp",
     "gw": false,
-    "ln": "Barababaraba",
-    "ld": "ltr",
-    "ang": "Barababaraba",
+    "ISO-639-3": "rbp",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Barababaraba",
+    "pk": 5333,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Barababaraba",
     "alt": [
         "Baraba Baraba",
         "Baraba-Baraba",
@@ -37,5 +37,5 @@
         "Karraba",
         "Perapa-Perapa"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

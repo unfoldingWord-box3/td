@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nph",
-    "pk": 4607,
     "lc": "nph",
     "gw": false,
-    "ln": "Phom Naga",
-    "ld": "ltr",
-    "ang": "Naga, Phom",
+    "ISO-639-3": "nph",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Naga, Phom",
+    "pk": 4607,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Phom Naga",
     "alt": [
         "Assiringia",
         "Chingmengu",
@@ -19,5 +19,5 @@
         "Tamlu",
         "Tamlu Naga"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

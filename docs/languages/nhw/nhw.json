@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "nhw",
-    "pk": 4452,
     "lc": "nhw",
     "gw": false,
-    "ln": "Western Huasteca Nahuatl",
-    "ld": "ltr",
-    "ang": "Nahuatl, Western Huasteca",
+    "ISO-639-3": "nhw",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Nahuatl, Western Huasteca",
+    "pk": 4452,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Western Huasteca Nahuatl",
     "alt": [
         "N\u00e1huatl de la Huasteca Occidental",
         "N\u00e1huatl de Tamazunchale",
         "Western Huasteca Aztec",
         "Western Huasteca N\u00e1huatl"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

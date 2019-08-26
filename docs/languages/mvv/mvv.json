@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mvv",
-    "pk": 4187,
     "lc": "mvv",
     "gw": false,
-    "ln": "Tagal Murut",
-    "ld": "ltr",
-    "ang": "Tagal Murut",
+    "ISO-639-3": "mvv",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Tagal Murut",
+    "pk": 4187,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Tagal Murut",
     "alt": [
         "Semambu",
         "Semembu",
@@ -36,5 +36,5 @@
         "Sabah Muru",
         "Salalir (Sadalir)"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

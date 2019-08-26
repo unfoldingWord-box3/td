@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nkd",
-    "pk": 4497,
     "lc": "nkd",
     "gw": false,
-    "ln": "Koireng",
-    "ld": "ltr",
-    "ang": "Koireng",
+    "ISO-639-3": "nkd",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Koireng",
+    "pk": 4497,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Koireng",
     "alt": [
         "Koirng",
         "Kolren",
@@ -23,5 +23,5 @@
         "Lyengmai",
         "Quoireng"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

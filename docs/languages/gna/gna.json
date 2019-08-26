@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gna",
-    "pk": 2071,
     "lc": "gna",
     "gw": false,
-    "ln": "Kaansa",
-    "ld": "ltr",
-    "ang": "Kaansa",
+    "ISO-639-3": "gna",
     "hc": "BF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Kaansa",
+    "pk": 2071,
     "cc": [
         "BF"
     ],
+    "lr": "Africa",
+    "ln": "Kaansa",
     "alt": [
         "G\u00e3",
         "Gane",
@@ -25,5 +25,5 @@
         "Padogho",
         "Kpatogoso"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

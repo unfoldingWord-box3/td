@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "knc",
-    "pk": 3016,
     "lc": "knc",
     "gw": false,
-    "ln": "Central Kanuri",
-    "ld": "ltr",
-    "ang": "Kanuri, Central",
+    "ISO-639-3": "knc",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Kanuri, Central",
+    "pk": 3016,
     "cc": [
         "CM",
         "NE",
@@ -15,6 +13,8 @@
         "SD",
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Central Kanuri",
     "alt": [
         "Bornouan",
         "Bornouans",
@@ -38,5 +38,5 @@
         "Kaga (Kagama)",
         "Lare (Lere)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

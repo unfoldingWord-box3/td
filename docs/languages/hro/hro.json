@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hro",
-    "pk": 2349,
     "lc": "hro",
     "gw": false,
-    "ln": "Haroi",
-    "ld": "ltr",
-    "ang": "Haroi",
+    "ISO-639-3": "hro",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Haroi",
+    "pk": 2349,
     "cc": [
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Haroi",
     "alt": [
         "Aroi",
         "Bahnar Cham",
@@ -19,5 +19,5 @@
         "Hroy",
         "Hrway"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

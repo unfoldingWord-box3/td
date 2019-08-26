@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bbl",
-    "pk": 519,
     "lc": "bbl",
     "gw": false,
-    "ln": "\u10d1\u10d0\u10ea\u10d1\u10e3\u10e0\u10d8 \u10d4\u10dc\u10d0",
-    "ld": "ltr",
-    "ang": "Bats",
+    "ISO-639-3": "bbl",
     "hc": "GE",
-    "lr": "Asia",
+    "gwcode": "ru",
+    "ang": "Bats",
+    "pk": 519,
     "cc": [
         "GE"
     ],
+    "lr": "Asia",
+    "ln": "\u10d1\u10d0\u10ea\u10d1\u10e3\u10e0\u10d8 \u10d4\u10dc\u10d0",
     "alt": [
         "Bac",
         "Batsaw",
@@ -21,5 +21,5 @@
         "Tsova-Tush",
         "Tush"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

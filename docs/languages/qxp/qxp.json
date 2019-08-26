@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "qxp",
-    "pk": 5296,
     "lc": "qxp",
     "gw": false,
-    "ln": "Puno Quechua",
-    "ld": "ltr",
-    "ang": "Quechua, Puno",
+    "ISO-639-3": "qxp",
     "hc": "PE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Quechua, Puno",
+    "pk": 5296,
     "cc": [
         "PE"
     ],
+    "lr": "Americas",
+    "ln": "Puno Quechua",
     "alt": [
         "Quechua Collao",
         "Quechua Qollaw",
         "Cailloma Quechua",
         "North Bolivian Quechua"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bss",
-    "pk": 940,
     "lc": "bss",
     "gw": false,
-    "ln": "Akoose",
-    "ld": "ltr",
-    "ang": "Akoose",
+    "ISO-639-3": "bss",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Akoose",
+    "pk": 940,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Akoose",
     "alt": [
         "Akosi",
         "Bekoose",
@@ -23,5 +23,5 @@
         "Nlong",
         "Elong"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

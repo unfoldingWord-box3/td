@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "vut",
-    "pk": 6661,
     "lc": "vut",
     "gw": false,
-    "ln": "Vute",
-    "ld": "ltr",
-    "ang": "Vute",
+    "ISO-639-3": "vut",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Vute",
+    "pk": 6661,
     "cc": [
         "CM",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Vute",
     "alt": [
         "Abotee",
         "Abwetee",
@@ -46,5 +46,5 @@
         "Ngoro (Vute de Ngorro)",
         "Kumbere (Vute de Sangbe)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

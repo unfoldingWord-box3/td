@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "nhd",
-    "pk": 4436,
     "lc": "nhd",
     "gw": false,
-    "ln": "Chirip\u00e1",
-    "ld": "ltr",
-    "ang": "Guaran\u00ed, Ava",
+    "ISO-639-3": "nhd",
     "hc": "PY",
-    "lr": "Americas",
+    "gwcode": "gug",
+    "ang": "Guaran\u00ed, Ava",
+    "pk": 4436,
     "cc": [
         "BR",
         "PY"
     ],
+    "lr": "Americas",
+    "ln": "Chirip\u00e1",
     "alt": [
         "Apytare",
         "Ava Guaran\u00ed",
@@ -24,5 +24,5 @@
         "Ava",
         "Chirip\u00e1"
     ],
-    "gwcode": "gug"
+    "ld": "ltr"
 }

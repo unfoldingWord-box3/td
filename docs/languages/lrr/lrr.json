@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lrr",
-    "pk": 3589,
     "lc": "lrr",
     "gw": false,
-    "ln": "Southern Yamphu",
-    "ld": "ltr",
-    "ang": "Yamphu, Southern",
+    "ISO-639-3": "lrr",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Yamphu, Southern",
+    "pk": 3589,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Southern Yamphu",
     "alt": [
         "Lohorong",
         "Lohrung",
@@ -26,5 +26,5 @@
         "Yakkhaba Khap",
         "Yamphe (Newahang Yamphe)"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

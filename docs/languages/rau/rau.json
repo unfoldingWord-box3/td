@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rau",
-    "pk": 5324,
     "lc": "rau",
     "gw": false,
-    "ln": "Raute",
-    "ld": "ltr",
-    "ang": "Raute",
+    "ISO-639-3": "rau",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Raute",
+    "pk": 5324,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Raute",
     "alt": [
         "Boto boli",
         "Khamchi",
@@ -19,5 +19,5 @@
         "Rautya",
         "Rautye"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

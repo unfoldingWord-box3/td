@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "zaw",
-    "pk": 7352,
     "lc": "zaw",
     "gw": false,
-    "ln": "Mitla Zapotec",
-    "ld": "ltr",
-    "ang": "Zapotec, Mitla",
+    "ISO-639-3": "zaw",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Zapotec, Mitla",
+    "pk": 7352,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Mitla Zapotec",
     "alt": [
         "Didxsaj",
         "East Central Tlacolula Zapotec",
         "East Valley Zapotec",
         "Santiago Matatl\u00e1n Zapotec (Matatl\u00e1n Zapotec)"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

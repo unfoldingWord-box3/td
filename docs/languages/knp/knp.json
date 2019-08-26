@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "knp",
-    "pk": 3028,
     "lc": "knp",
     "gw": false,
-    "ln": "Kwanja",
-    "ld": "ltr",
-    "ang": "Kwanja",
+    "ISO-639-3": "knp",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Kwanja",
+    "pk": 3028,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Kwanja",
     "alt": [
         "Kondja",
         "Konja",
@@ -19,5 +19,5 @@
         "Ndung (Ndungani)",
         "Njanga (Njang)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

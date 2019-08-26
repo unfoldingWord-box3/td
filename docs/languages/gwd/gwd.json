@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gwd",
-    "pk": 2192,
     "lc": "gwd",
     "gw": false,
-    "ln": "Gawwada",
-    "ld": "ltr",
-    "ang": "Gawwada",
+    "ISO-639-3": "gwd",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Gawwada",
+    "pk": 2192,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Gawwada",
     "alt": [
         "Gauwada",
         "Gawata",
@@ -24,5 +24,5 @@
         "Gergere (K'ark'arte)",
         "Korrose"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

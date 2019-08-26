@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wbr",
-    "pk": 6701,
     "lc": "wbr",
     "gw": false,
-    "ln": "Wagdi",
-    "ld": "ltr",
-    "ang": "Wagdi",
+    "ISO-639-3": "wbr",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Wagdi",
+    "pk": 6701,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Wagdi",
     "alt": [
         "Bhili",
         "Bhilodi",
@@ -26,5 +26,5 @@
         "Wagholi",
         "Wagri"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

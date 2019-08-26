@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "fer",
-    "pk": 1833,
     "lc": "fer",
     "gw": false,
-    "ln": "Feroge",
-    "ld": "ltr",
-    "ang": "Feroge",
+    "ISO-639-3": "fer",
     "hc": "SS",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Feroge",
+    "pk": 1833,
     "cc": [
         "SS"
     ],
+    "lr": "Africa",
+    "ln": "Feroge",
     "alt": [
         "Feroghe",
         "Ferroge",
@@ -19,5 +19,5 @@
         "Kalike",
         "Kaliki"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

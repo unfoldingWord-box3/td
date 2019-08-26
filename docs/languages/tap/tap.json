@@ -1,22 +1,22 @@
 {
-    "ISO-639-3": "tap",
-    "pk": 5975,
     "lc": "tap",
     "gw": false,
-    "ln": "Taabwa",
-    "ld": "ltr",
-    "ang": "Taabwa",
+    "ISO-639-3": "tap",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Taabwa",
+    "pk": 5975,
     "cc": [
         "ZM",
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Taabwa",
     "alt": [
         "Ichitaabwa",
         "Rungu",
         "Taabua",
         "Tabwa"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

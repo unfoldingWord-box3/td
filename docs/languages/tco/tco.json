@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tco",
-    "pk": 6020,
     "lc": "tco",
     "gw": false,
-    "ln": "Taungyo",
-    "ld": "ltr",
-    "ang": "Taungyo",
+    "ISO-639-3": "tco",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Taungyo",
+    "pk": 6020,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Taungyo",
     "alt": [
         "Taru",
         "Taung-yo",
@@ -18,5 +18,5 @@
         "Twing Reu",
         "Twinreu"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

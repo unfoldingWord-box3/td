@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "clo",
-    "pk": 1256,
     "lc": "clo",
     "gw": false,
-    "ln": "Lowland Oaxaca Chontal",
-    "ld": "ltr",
-    "ang": "Chontal, Lowland Oaxaca",
+    "ISO-639-3": "clo",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Chontal, Lowland Oaxaca",
+    "pk": 1256,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Lowland Oaxaca Chontal",
     "alt": [
         "Chontal de la Costa de Oaxaca",
         "Chontal de Oaxaca de la costa",
         "Huamelula Chontal",
         "Huamelulteco"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

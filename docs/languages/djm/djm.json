@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "djm",
-    "pk": 1549,
     "lc": "djm",
     "gw": false,
-    "ln": "Jamsay Dogon",
-    "ld": "ltr",
-    "ang": "Dogon, Jamsay",
+    "ISO-639-3": "djm",
     "hc": "ML",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Dogon, Jamsay",
+    "pk": 1549,
     "cc": [
         "ML"
     ],
+    "lr": "Africa",
+    "ln": "Jamsay Dogon",
     "alt": [
         "Dyamsay Tegu",
         "Gamsaj",
@@ -20,5 +20,5 @@
         "Domno",
         "Gono"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

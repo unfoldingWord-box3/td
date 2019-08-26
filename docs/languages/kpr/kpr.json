@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kpr",
-    "pk": 3074,
     "lc": "kpr",
     "gw": false,
-    "ln": "Korafe-Yegha",
-    "ld": "ltr",
-    "ang": "Korafe-Yegha",
+    "ISO-639-3": "kpr",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Korafe-Yegha",
+    "pk": 3074,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Korafe-Yegha",
     "alt": [
         "Kailikaili",
         "Kaire",
@@ -19,5 +19,5 @@
         "Kwarafe",
         "Yegha (Mokorua)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kfs",
-    "pk": 2827,
     "lc": "kfs",
     "gw": false,
-    "ln": "Bilaspuri",
-    "ld": "ltr",
-    "ang": "Bilaspuri",
+    "ISO-639-3": "kfs",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "pnb",
+    "ang": "Bilaspuri",
+    "pk": 2827,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Bilaspuri",
     "alt": [
         "Bilaspuri Pahari",
         "Kahluri",
@@ -18,5 +18,5 @@
         "Kehluri",
         "Pacchmi"
     ],
-    "gwcode": "pnb"
+    "ld": "ltr"
 }

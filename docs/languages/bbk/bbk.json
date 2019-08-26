@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bbk",
-    "pk": 518,
     "lc": "bbk",
     "gw": false,
-    "ln": "Babanki",
-    "ld": "ltr",
-    "ang": "Babanki",
+    "ISO-639-3": "bbk",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Babanki",
+    "pk": 518,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Babanki",
     "alt": [
         "Finge",
         "Kedjom",
@@ -18,5 +18,5 @@
         "Kidzem",
         "Kidzom"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

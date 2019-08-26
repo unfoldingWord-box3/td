@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "guu",
-    "pk": 2171,
     "lc": "guu",
     "gw": false,
-    "ln": "Yanomam\u00f6",
-    "ld": "ltr",
-    "ang": "Yanomam\u00f6",
+    "ISO-639-3": "guu",
     "hc": "VE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Yanomam\u00f6",
+    "pk": 2171,
     "cc": [
         "BR",
         "VE"
     ],
+    "lr": "Americas",
+    "ln": "Yanomam\u00f6",
     "alt": [
         "Guaharibo",
         "Shaathari",
@@ -26,5 +26,5 @@
         "Western Yanomami (Padamo-Orinoco)",
         "Eastern Yanomami (Parima)"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

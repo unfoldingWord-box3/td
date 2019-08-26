@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "mir",
-    "pk": 3871,
     "lc": "mir",
     "gw": false,
-    "ln": "Isthmus Mixe",
-    "ld": "ltr",
-    "ang": "Mixe, Isthmus",
+    "ISO-639-3": "mir",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mixe, Isthmus",
+    "pk": 3871,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Isthmus Mixe",
     "alt": [
         "Eastern Mixe",
         "Guichicovi Mixe",
         "Mixe del Istmo"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

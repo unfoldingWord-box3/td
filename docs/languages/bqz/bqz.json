@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bqz",
-    "pk": 898,
     "lc": "bqz",
     "gw": false,
-    "ln": "Bakaka",
-    "ld": "ltr",
-    "ang": "Bakaka",
+    "ISO-639-3": "bqz",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Bakaka",
+    "pk": 898,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Bakaka",
     "alt": [
         "Central Mbo",
         "Miamilo",
@@ -27,5 +27,5 @@
         "Mwahet",
         "Ihobe Mboong"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

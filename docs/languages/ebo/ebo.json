@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ebo",
-    "pk": 1693,
     "lc": "ebo",
     "gw": false,
-    "ln": "Teke-Ebo",
-    "ld": "ltr",
-    "ang": "Teke-Eboo",
+    "ISO-639-3": "ebo",
     "hc": "CG",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Teke-Eboo",
+    "pk": 1693,
     "cc": [
         "CG"
     ],
+    "lr": "Africa",
+    "ln": "Teke-Ebo",
     "alt": [
         "Bamboma",
         "Boma",
@@ -23,5 +23,5 @@
         "Teke-Boma",
         "Teke-Nzikou"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

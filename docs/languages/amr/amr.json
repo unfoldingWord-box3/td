@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "amr",
-    "pk": 250,
     "lc": "amr",
     "gw": false,
-    "ln": "Amarakaeri",
-    "ld": "ltr",
-    "ang": "Amarakaeri",
+    "ISO-639-3": "amr",
     "hc": "PE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Amarakaeri",
+    "pk": 250,
     "cc": [
         "PE"
     ],
+    "lr": "Americas",
+    "ln": "Amarakaeri",
     "alt": [
         "Amaracaire",
         "Amarakaire",
         "Mashco"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

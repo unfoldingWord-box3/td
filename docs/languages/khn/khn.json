@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "khn",
-    "pk": 2869,
     "lc": "khn",
     "gw": false,
-    "ln": "Khandesi",
-    "ld": "ltr",
-    "ang": "Khandesi",
+    "ISO-639-3": "khn",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "mr",
+    "ang": "Khandesi",
+    "pk": 2869,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Khandesi",
     "alt": [
         "Dhed Gujari",
         "Khandeshi",
@@ -19,5 +19,5 @@
         "Maharashtra Bhil",
         "Kunbi (Kunbau)"
     ],
-    "gwcode": "mr"
+    "ld": "ltr"
 }

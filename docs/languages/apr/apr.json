@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "apr",
-    "pk": 316,
     "lc": "apr",
     "gw": false,
-    "ln": "Arop-Lokep",
-    "ld": "ltr",
-    "ang": "Arop-Lokep",
+    "ISO-639-3": "apr",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Arop-Lokep",
+    "pk": 316,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Arop-Lokep",
     "alt": [
         "Arop-Lukep",
         "Moromiranga",
@@ -20,5 +20,5 @@
         "Arop (Poono)",
         "Lokep (Lokewe)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

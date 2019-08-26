@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bnj",
-    "pk": 814,
     "lc": "bnj",
     "gw": false,
-    "ln": "Eastern Tawbuid",
-    "ld": "ltr",
-    "ang": "Tawbuid, Eastern",
+    "ISO-639-3": "bnj",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Tawbuid, Eastern",
+    "pk": 814,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Eastern Tawbuid",
     "alt": [
         "Bangon",
         "Barangan",
@@ -22,5 +22,5 @@
         "Taubuid",
         "Tiron"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

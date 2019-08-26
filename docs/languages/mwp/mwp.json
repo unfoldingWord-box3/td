@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mwp",
-    "pk": 4205,
     "lc": "mwp",
     "gw": false,
-    "ln": "Kala Lagaw Ya",
-    "ld": "ltr",
-    "ang": "Kala Lagaw Ya",
+    "ISO-639-3": "mwp",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Kala Lagaw Ya",
+    "pk": 4205,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Kala Lagaw Ya",
     "alt": [
         "Central Torres Strait",
         "Kala Lagau Langgus",
@@ -20,5 +20,5 @@
         "Mabuiag",
         "Yagar Yagar"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

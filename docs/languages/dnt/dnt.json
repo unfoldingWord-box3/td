@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "dnt",
-    "pk": 1588,
     "lc": "dnt",
     "gw": false,
-    "ln": "Mid Grand Valley Dani",
-    "ld": "ltr",
-    "ang": "Dani, Mid Grand Valley",
+    "ISO-639-3": "dnt",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Dani, Mid Grand Valley",
+    "pk": 1588,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Mid Grand Valley Dani",
     "alt": [
         "Baliem Valley Dani",
         "Central Grand Valley Dani",
         "Tulem"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

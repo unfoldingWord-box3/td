@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "dni",
-    "pk": 1583,
     "lc": "dni",
     "gw": false,
-    "ln": "Lower Grand Valley Dani",
-    "ld": "ltr",
-    "ang": "Dani, Lower Grand Valley",
+    "ISO-639-3": "dni",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Dani, Lower Grand Valley",
+    "pk": 1583,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Lower Grand Valley Dani",
     "alt": [
         "Kurima",
         "Lower Grand Valley Hitigima (Dani-Kurima)",
         "Lower Kimbin (Kibin)",
         "Upper Bele"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "kbp",
-    "pk": 2725,
     "lc": "kbp",
     "gw": false,
-    "ln": "Kabiy\u00e8",
-    "ld": "ltr",
-    "ang": "Kabiy\u00e8",
+    "ISO-639-3": "kbp",
     "hc": "TG",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Kabiy\u00e8",
+    "pk": 2725,
     "cc": [
         "BJ",
         "GH",
         "TG"
     ],
+    "lr": "Africa",
+    "ln": "Kabiy\u00e8",
     "alt": [
         "Cabrai",
         "Cabrais",
@@ -23,5 +23,5 @@
         "Kewe",
         "Kijang"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

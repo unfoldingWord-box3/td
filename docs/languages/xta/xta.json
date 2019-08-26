@@ -1,22 +1,22 @@
 {
-    "ISO-639-3": "xta",
-    "pk": 7055,
     "lc": "xta",
     "gw": false,
-    "ln": "Alcozauca Mixtec",
-    "ld": "ltr",
-    "ang": "Mixtec, Alcozauca",
+    "ISO-639-3": "xta",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mixtec, Alcozauca",
+    "pk": 7055,
     "cc": [
         "MX",
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Alcozauca Mixtec",
     "alt": [
         "Mixteco de Alocozauca",
         "Mixteco de Xochapa",
         "Petlacalancingo Mixtec",
         "Xochapa Mixtec"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

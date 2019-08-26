@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "fuv",
-    "pk": 1896,
     "lc": "fuv",
     "gw": false,
-    "ln": "Nigerian Fulfulde",
-    "ld": "ltr",
-    "ang": "Fulfulde, Nigerian",
+    "ISO-639-3": "fuv",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Fulfulde, Nigerian",
+    "pk": 1896,
     "cc": [
         "CM",
         "CF",
@@ -15,6 +13,8 @@
         "NG",
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Nigerian Fulfulde",
     "alt": [
         "Fulbe",
         "Peul",
@@ -29,5 +29,5 @@
         "Bororo (Aku)",
         "Jaafun"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

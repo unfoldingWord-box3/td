@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "tue",
-    "pk": 6377,
     "lc": "tue",
     "gw": false,
-    "ln": "Tuyuca",
-    "ld": "ltr",
-    "ang": "Tuyuca",
+    "ISO-639-3": "tue",
     "hc": "CO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Tuyuca",
+    "pk": 6377,
     "cc": [
         "BR",
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Tuyuca",
     "alt": [
         "Dochkafuara",
         "Doka-Poara",
@@ -20,5 +20,5 @@
         "Tuyuka",
         "Tejuca"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

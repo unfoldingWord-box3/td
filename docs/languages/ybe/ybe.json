@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ybe",
-    "pk": 7138,
     "lc": "ybe",
     "gw": false,
-    "ln": "\u897f\u90e8\u88d5\u56fa\u8bed",
-    "ld": "ltr",
-    "ang": "Yugur, West",
+    "ISO-639-3": "ybe",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Yugur, West",
+    "pk": 7138,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u897f\u90e8\u88d5\u56fa\u8bed",
     "alt": [
         "Sari Yogur",
         "Sarig",
@@ -21,5 +21,5 @@
         "Yugu",
         "Yuku"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

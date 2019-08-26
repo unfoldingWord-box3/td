@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rgu",
-    "pk": 5353,
     "lc": "rgu",
     "gw": false,
-    "ln": "Ringgou",
-    "ld": "ltr",
-    "ang": "Rikou",
+    "ISO-639-3": "rgu",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Rikou",
+    "pk": 5353,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Ringgou",
     "alt": [
         "Eastern Rote",
         "Ringgou",
@@ -21,5 +21,5 @@
         "Landu",
         "Oe Pao (Oepao)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

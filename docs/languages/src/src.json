@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "src",
-    "pk": 5806,
     "lc": "src",
     "gw": false,
-    "ln": "Logudorese Sardinian",
-    "ld": "ltr",
-    "ang": "Sardinian, Logudorese",
+    "ISO-639-3": "src",
     "hc": "IT",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Sardinian, Logudorese",
+    "pk": 5806,
     "cc": [
         "IT"
     ],
+    "lr": "Europe",
+    "ln": "Logudorese Sardinian",
     "alt": [
         "Central Sardinian",
         "Logudorese",
         "Sard",
         "Sardarese"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

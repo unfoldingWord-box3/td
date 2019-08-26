@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hru",
-    "pk": 2351,
     "lc": "hru",
     "gw": false,
-    "ln": "Hruso",
-    "ld": "ltr",
-    "ang": "Hruso",
+    "ISO-639-3": "hru",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "as",
+    "ang": "Hruso",
+    "pk": 2351,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Hruso",
     "alt": [
         "Angka",
         "Angkae",
@@ -19,5 +19,5 @@
         "Tenae",
         "Levai (Bangru)"
     ],
-    "gwcode": "as"
+    "ld": "ltr"
 }

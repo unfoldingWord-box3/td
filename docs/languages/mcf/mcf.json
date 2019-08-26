@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "mcf",
-    "pk": 3707,
     "lc": "mcf",
     "gw": false,
-    "ln": "Mats\u00e9s",
-    "ld": "ltr",
-    "ang": "Mats\u00e9s",
+    "ISO-639-3": "mcf",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt-br",
+    "ang": "Mats\u00e9s",
+    "pk": 3707,
     "cc": [
         "BR",
         "PE"
     ],
+    "lr": "Americas",
+    "ln": "Mats\u00e9s",
     "alt": [
         "Matse",
         "Mayoruna",
@@ -23,5 +23,5 @@
         "Mayiruna",
         "Mayuzuna"
     ],
-    "gwcode": "pt-br"
+    "ld": "ltr"
 }

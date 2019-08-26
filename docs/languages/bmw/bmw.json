@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bmw",
-    "pk": 802,
     "lc": "bmw",
     "gw": false,
-    "ln": "Bomwali",
-    "ld": "ltr",
-    "ang": "Bomwali",
+    "ISO-639-3": "bmw",
     "hc": "CG",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Bomwali",
+    "pk": 802,
     "cc": [
         "CM",
         "CG"
     ],
+    "lr": "Africa",
+    "ln": "Bomwali",
     "alt": [
         "Bomali",
         "Boumoali",
@@ -19,5 +19,5 @@
         "Lino",
         "Sangasanga"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

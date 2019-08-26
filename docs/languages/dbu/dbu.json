@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dbu",
-    "pk": 1457,
     "lc": "dbu",
     "gw": false,
-    "ln": "Bondum Dom Dogon",
-    "ld": "ltr",
-    "ang": "Dogon, Bondum Dom",
+    "ISO-639-3": "dbu",
     "hc": "ML",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Dogon, Bondum Dom",
+    "pk": 1457,
     "cc": [
         "ML"
     ],
+    "lr": "Africa",
+    "ln": "Bondum Dom Dogon",
     "alt": [
         "Bondum-Dom",
         "Dogon, Najamba-Kindige",
@@ -19,5 +19,5 @@
         "Dogon",
         "Najamba-Kindige"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

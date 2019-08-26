@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lva",
-    "pk": 3638,
     "lc": "lva",
     "gw": false,
-    "ln": "Maku'a",
-    "ld": "ltr",
-    "ang": "Makuva",
+    "ISO-639-3": "lva",
     "hc": "TL",
-    "lr": "Asia",
+    "gwcode": "pt",
+    "ang": "Makuva",
+    "pk": 3638,
     "cc": [
         "TL"
     ],
+    "lr": "Asia",
+    "ln": "Maku'a",
     "alt": [
         "Lovaea",
         "Lovaia",
@@ -18,5 +18,5 @@
         "Maku\u2019a",
         "Makuwa"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

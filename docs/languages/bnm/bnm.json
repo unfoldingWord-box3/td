@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bnm",
-    "pk": 817,
     "lc": "bnm",
     "gw": false,
-    "ln": "Batanga",
-    "ld": "ltr",
-    "ang": "Batanga",
+    "ISO-639-3": "bnm",
     "hc": "GQ",
-    "lr": "Africa",
+    "gwcode": "es",
+    "ang": "Batanga",
+    "pk": 817,
     "cc": [
         "CM",
         "GQ"
     ],
+    "lr": "Africa",
+    "ln": "Batanga",
     "alt": [
         "Banoho",
         "Banoo",
@@ -26,5 +26,5 @@
         "Bano'o (Banaka)",
         "Banoko"
     ],
-    "gwcode": "es"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sda",
-    "pk": 5524,
     "lc": "sda",
     "gw": false,
-    "ln": "Toraja-Sa'dan",
-    "ld": "ltr",
-    "ang": "Toraja-Sa\u2019dan",
+    "ISO-639-3": "sda",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Toraja-Sa\u2019dan",
+    "pk": 5524,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Toraja-Sa'dan",
     "alt": [
         "Sada",
         "Sadan",
@@ -26,5 +26,5 @@
         "Toraja Barat (Mappa-Pana)",
         "Rantepao (Kesu')"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

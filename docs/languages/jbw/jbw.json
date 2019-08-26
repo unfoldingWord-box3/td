@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jbw",
-    "pk": 2591,
     "lc": "jbw",
     "gw": false,
-    "ln": "Yawijibaya",
-    "ld": "ltr",
-    "ang": "Yawijibaya",
+    "ISO-639-3": "jbw",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Yawijibaya",
+    "pk": 2591,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Yawijibaya",
     "alt": [
         "Bergalgu",
         "Jadjiba",
@@ -30,5 +30,5 @@
         "Yawjibara",
         "Yawjibarra"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

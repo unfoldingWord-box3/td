@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "mux",
-    "pk": 4166,
     "lc": "mux",
     "gw": false,
-    "ln": "Bo-Ung",
-    "ld": "ltr",
-    "ang": "Bo-Ung",
+    "ISO-639-3": "mux",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Bo-Ung",
+    "pk": 4166,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Bo-Ung",
     "alt": [
         "Mboung",
         "Tembalo (Tembaglo)",
         "Ku Waru",
         "Miyemu (Miyem)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

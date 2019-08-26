@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nes",
-    "pk": 4395,
     "lc": "nes",
     "gw": false,
-    "ln": "Bhoti Kinnauri",
-    "ld": "ltr",
-    "ang": "Kinnauri, Bhoti",
+    "ISO-639-3": "nes",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Kinnauri, Bhoti",
+    "pk": 4395,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Bhoti Kinnauri",
     "alt": [
         "Bhotea of Upper Kinnauri",
         "Bod-Skad",
@@ -23,5 +23,5 @@
         "Sangs-Rgyas",
         "Sangyas"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

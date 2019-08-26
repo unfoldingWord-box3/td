@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "ybl",
-    "pk": 7143,
     "lc": "ybl",
     "gw": false,
-    "ln": "Yukuben",
-    "ld": "ltr",
-    "ang": "Yukuben",
+    "ISO-639-3": "ybl",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Yukuben",
+    "pk": 7143,
     "cc": [
         "CM",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Yukuben",
     "alt": [
         "Ayikiben",
         "Balaabe",
@@ -25,5 +25,5 @@
         "Oohum",
         "Uhumkhegi"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

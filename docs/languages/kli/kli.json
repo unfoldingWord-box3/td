@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kli",
-    "pk": 2968,
     "lc": "kli",
     "gw": false,
-    "ln": "Kalumpang",
-    "ld": "ltr",
-    "ang": "Kalumpang",
+    "ISO-639-3": "kli",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Kalumpang",
+    "pk": 2968,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Kalumpang",
     "alt": [
         "Galumpang",
         "Maki",
@@ -20,5 +20,5 @@
         "Bone Hau (Ta'da)",
         "Karataun (E'da)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

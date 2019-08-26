@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "njh",
-    "pk": 4481,
     "lc": "njh",
     "gw": false,
-    "ln": "Lotha Naga",
-    "ld": "ltr",
-    "ang": "Naga, Lotha",
+    "ISO-639-3": "njh",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Naga, Lotha",
+    "pk": 4481,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Lotha Naga",
     "alt": [
         "Chizima",
         "Choimi",
@@ -22,5 +22,5 @@
         "Tsindir",
         "Tsontsii"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

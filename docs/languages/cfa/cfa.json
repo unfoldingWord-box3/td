@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cfa",
-    "pk": 1181,
     "lc": "cfa",
     "gw": false,
-    "ln": "Dijim-Bwilim",
-    "ld": "ltr",
-    "ang": "Dikaka",
+    "ISO-639-3": "cfa",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Dikaka",
+    "pk": 1181,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Dijim-Bwilim",
     "alt": [
         "Bwilim (Fitilai)",
         "Mwana",
@@ -20,5 +20,5 @@
         "Cham",
         "Dijim (Cam)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

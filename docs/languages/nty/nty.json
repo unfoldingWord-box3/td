@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "nty",
-    "pk": 4673,
     "lc": "nty",
     "gw": false,
-    "ln": "Mantsi",
-    "ld": "ltr",
-    "ang": "Mantsi",
+    "ISO-639-3": "nty",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Mantsi",
+    "pk": 4673,
     "cc": [
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Mantsi",
     "alt": [
         "Black Lolo",
         "Flowery Lolo",
         "Lolo",
         "Red Mantsi"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

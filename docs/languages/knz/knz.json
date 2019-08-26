@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "knz",
-    "pk": 3038,
     "lc": "knz",
     "gw": false,
-    "ln": "Kalams\u00e9",
-    "ld": "ltr",
-    "ang": "Kalams\u00e9",
+    "ISO-639-3": "knz",
     "hc": "BF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Kalams\u00e9",
+    "pk": 3038,
     "cc": [
         "BF",
         "ML"
     ],
+    "lr": "Africa",
+    "ln": "Kalams\u00e9",
     "alt": [
         "Kalems\u00e9",
         "Kalenga",
@@ -21,5 +21,5 @@
         "Kasoma (East Kalams\u00e9)",
         "Logremma (Logma)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "tcz",
-    "pk": 6029,
     "lc": "tcz",
     "gw": false,
-    "ln": "Thado Chin",
-    "ld": "ltr",
-    "ang": "Chin, Thado",
+    "ISO-639-3": "tcz",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "mni",
+    "ang": "Chin, Thado",
+    "pk": 6029,
     "cc": [
         "IN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Thado Chin",
     "alt": [
         "Kuki",
         "Kuki-Thado",
@@ -22,5 +22,5 @@
         "Singson (Shingsol)",
         "Paite"
     ],
-    "gwcode": "mni"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "hae",
-    "pk": 2222,
     "lc": "hae",
     "gw": false,
-    "ln": "Eastern Oromo",
-    "ld": "ltr",
-    "ang": "Oromo, Eastern",
+    "ISO-639-3": "hae",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Oromo, Eastern",
+    "pk": 2222,
     "cc": [
         "ET",
         "CA"
     ],
+    "lr": "Africa",
+    "ln": "Eastern Oromo",
     "alt": [
         "Harar",
         "Harer",
@@ -22,5 +22,5 @@
         "Quottu",
         "Qwottu"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

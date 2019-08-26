@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bga",
-    "pk": 635,
     "lc": "bga",
     "gw": false,
-    "ln": "Gwamhi-Wuri",
-    "ld": "ltr",
-    "ang": "Gwamhi-Wuri",
+    "ISO-639-3": "bga",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Gwamhi-Wuri",
+    "pk": 635,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Gwamhi-Wuri",
     "alt": [
         "Lyase",
         "Lyase-Ne",
@@ -23,5 +23,5 @@
         "Banganci",
         "Wuri (Wuranci)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

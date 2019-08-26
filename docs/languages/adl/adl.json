@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "adl",
-    "pk": 80,
     "lc": "adl",
     "gw": false,
-    "ln": "Galo",
-    "ld": "ltr",
-    "ang": "Adi, Galo",
+    "ISO-639-3": "adl",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Adi, Galo",
+    "pk": 80,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Galo",
     "alt": [
         "Adi",
         "Adi-Gallong",
@@ -22,5 +22,5 @@
         "Pugo",
         "Karka"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

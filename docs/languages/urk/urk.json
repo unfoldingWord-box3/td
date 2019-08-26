@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "urk",
-    "pk": 6546,
     "lc": "urk",
     "gw": false,
-    "ln": "Urak Lawoi'",
-    "ld": "ltr",
-    "ang": "Urak Lawoi\u2019",
+    "ISO-639-3": "urk",
     "hc": "TH",
-    "lr": "Asia",
+    "gwcode": "th",
+    "ang": "Urak Lawoi\u2019",
+    "pk": 6546,
     "cc": [
         "TH"
     ],
+    "lr": "Asia",
+    "ln": "Urak Lawoi'",
     "alt": [
         "Chaw Talay",
         "Chawnam",
@@ -18,5 +18,5 @@
         "Lawta",
         "Orak Lawoi'"
     ],
-    "gwcode": "th"
+    "ld": "ltr"
 }

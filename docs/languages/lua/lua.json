@@ -1,22 +1,22 @@
 {
-    "ISO-639-3": "lua",
-    "pk": 3616,
     "lc": "lua",
     "gw": false,
-    "ln": "Luba-Lulua",
-    "ld": "ltr",
-    "ang": "Luba-Kasai",
+    "ISO-639-3": "lua",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Luba-Kasai",
+    "pk": 3616,
     "cc": [
         "US",
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Luba-Lulua",
     "alt": [
         "Luba-Lulua",
         "Luva",
         "Tshiluba",
         "Western Luba"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

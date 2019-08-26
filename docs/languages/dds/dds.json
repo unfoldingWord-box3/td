@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "dds",
-    "pk": 1471,
     "lc": "dds",
     "gw": false,
-    "ln": "Donno So Dogon",
-    "ld": "ltr",
-    "ang": "Dogon, Donno So",
+    "ISO-639-3": "dds",
     "hc": "ML",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Dogon, Donno So",
+    "pk": 1471,
     "cc": [
         "ML"
     ],
+    "lr": "Africa",
+    "ln": "Donno So Dogon",
     "alt": [
         "Kamba So",
         "Donno So",
         "Kamma So"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

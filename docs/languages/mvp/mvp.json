@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mvp",
-    "pk": 4181,
     "lc": "mvp",
     "gw": false,
-    "ln": "Duri",
-    "ld": "ltr",
-    "ang": "Duri",
+    "ISO-639-3": "mvp",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Duri",
+    "pk": 4181,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Duri",
     "alt": [
         "Masenrempulu",
         "Massenrempulu",
@@ -18,5 +18,5 @@
         "Cakke-Kalosi",
         "Baraka"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bhb",
-    "pk": 661,
     "lc": "bhb",
     "gw": false,
-    "ln": "Bhili",
-    "ld": "ltr",
-    "ang": "Bhili",
+    "ISO-639-3": "bhb",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "raj",
+    "ang": "Bhili",
+    "pk": 661,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Bhili",
     "alt": [
         "Bhagoria",
         "Bhil",
@@ -25,5 +25,5 @@
         "Kotali (Kotvali)",
         "Kotwalia"
     ],
-    "gwcode": "raj"
+    "ld": "ltr"
 }

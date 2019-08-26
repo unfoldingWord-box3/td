@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ebr",
-    "pk": 1694,
     "lc": "ebr",
     "gw": false,
-    "ln": "Ebri\u00e9",
-    "ld": "ltr",
-    "ang": "Ebri\u00e9",
+    "ISO-639-3": "ebr",
     "hc": "CI",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Ebri\u00e9",
+    "pk": 1694,
     "cc": [
         "CI"
     ],
+    "lr": "Africa",
+    "ln": "Ebri\u00e9",
     "alt": [
         "Cama",
         "Caman",
@@ -19,5 +19,5 @@
         "Tsama",
         "Tyama"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

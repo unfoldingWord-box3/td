@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ndx",
-    "pk": 4375,
     "lc": "ndx",
     "gw": false,
-    "ln": "Nduga",
-    "ld": "ltr",
-    "ang": "Nduga",
+    "ISO-639-3": "ndx",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Nduga",
+    "pk": 4375,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Nduga",
     "alt": [
         "Dauwa",
         "Dawa",
@@ -20,5 +20,5 @@
         "Pesechem",
         "Pesegem"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

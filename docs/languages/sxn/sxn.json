@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sxn",
-    "pk": 5932,
     "lc": "sxn",
     "gw": false,
-    "ln": "Sangir",
-    "ld": "ltr",
-    "ang": "Sangir",
+    "ISO-639-3": "sxn",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Sangir",
+    "pk": 5932,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Sangir",
     "alt": [
         "Sangi",
         "Sangih",
@@ -22,5 +22,5 @@
         "Tabukang (Tabukan)",
         "Tagulandang (Tahulandang)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

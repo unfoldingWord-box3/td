@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "aqc",
-    "pk": 325,
     "lc": "aqc",
     "gw": false,
-    "ln": "\u0410\u0440\u0447\u0438\u043d\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Archi",
+    "ISO-639-3": "aqc",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Archi",
+    "pk": 325,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u0410\u0440\u0447\u0438\u043d\u0441\u043a\u0438\u0439",
     "alt": [
         "Archib",
         "Archin",
@@ -18,5 +18,5 @@
         "Archsel",
         "Arshashdib"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

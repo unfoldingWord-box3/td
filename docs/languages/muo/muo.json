@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "muo",
-    "pk": 4158,
     "lc": "muo",
     "gw": false,
-    "ln": "Nyong",
-    "ld": "ltr",
-    "ang": "Nyong",
+    "ISO-639-3": "muo",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Nyong",
+    "pk": 4158,
     "cc": [
         "CM",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Nyong",
     "alt": [
         "Daganonga",
         "Daganyonga",
@@ -25,5 +25,5 @@
         "Teteka",
         "Yapeli"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

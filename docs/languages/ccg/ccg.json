@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "ccg",
-    "pk": 1153,
     "lc": "ccg",
     "gw": false,
-    "ln": "Samba Daka",
-    "ld": "ltr",
-    "ang": "Samba Daka",
+    "ISO-639-3": "ccg",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Samba Daka",
+    "pk": 1153,
     "cc": [
         "CM",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Samba Daka",
     "alt": [
         "Chamba Daka",
         "Daka",
@@ -26,5 +26,5 @@
         "Tikk",
         "Tsamba"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

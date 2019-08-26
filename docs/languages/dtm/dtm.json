@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dtm",
-    "pk": 1642,
     "lc": "dtm",
     "gw": false,
-    "ln": "Tomo Kan Dogon",
-    "ld": "ltr",
-    "ang": "Dogon, Tomo Kan",
+    "ISO-639-3": "dtm",
     "hc": "ML",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Dogon, Tomo Kan",
+    "pk": 1642,
     "cc": [
         "ML"
     ],
+    "lr": "Africa",
+    "ln": "Tomo Kan Dogon",
     "alt": [
         "Tomo-Kan",
         "Tie Bara",
@@ -22,5 +22,5 @@
         "Aa Bara",
         "Aa"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

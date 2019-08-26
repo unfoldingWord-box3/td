@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nha",
-    "pk": 4433,
     "lc": "nha",
     "gw": false,
-    "ln": "Nhanda",
-    "ld": "ltr",
-    "ang": "Nhanda",
+    "ISO-639-3": "nha",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Nhanda",
+    "pk": 4433,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Nhanda",
     "alt": [
         "Nanda",
         "Nanta",
@@ -18,5 +18,5 @@
         "Nubda",
         "Nunta"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

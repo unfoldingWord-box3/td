@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bee",
-    "pk": 590,
     "lc": "bee",
     "gw": false,
-    "ln": "Byangsi",
-    "ld": "ltr",
-    "ang": "Byangsi",
+    "ISO-639-3": "bee",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Byangsi",
+    "pk": 590,
     "cc": [
         "NP",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Byangsi",
     "alt": [
         "Bhotia",
         "Byangkho Lwo",
@@ -30,5 +30,5 @@
         "Yerjungkhu Boli",
         "Pang Sungkhu Boli"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

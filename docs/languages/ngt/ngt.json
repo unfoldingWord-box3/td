@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ngt",
-    "pk": 4427,
     "lc": "ngt",
     "gw": false,
-    "ln": "Ngeq",
-    "ld": "ltr",
-    "ang": "Ngeq",
+    "ISO-639-3": "ngt",
     "hc": "LA",
-    "lr": "Asia",
+    "gwcode": "lo",
+    "ang": "Ngeq",
+    "pk": 4427,
     "cc": [
         "LA"
     ],
+    "lr": "Asia",
+    "ln": "Ngeq",
     "alt": [
         "Kriang",
         "Ngae",
@@ -18,5 +18,5 @@
         "Ngeh",
         "Nkriang"
     ],
-    "gwcode": "lo"
+    "ld": "ltr"
 }

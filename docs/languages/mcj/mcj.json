@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mcj",
-    "pk": 3711,
     "lc": "mcj",
     "gw": false,
-    "ln": "Mvanip",
-    "ld": "ltr",
-    "ang": "Mvanip",
+    "ISO-639-3": "mcj",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Mvanip",
+    "pk": 3711,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Mvanip",
     "alt": [
         "Magu",
         "Mvanlip",
@@ -18,5 +18,5 @@
         "Mvanon",
         "Mvan\u00f6p"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

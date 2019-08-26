@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pcl",
-    "pk": 4967,
     "lc": "pcl",
     "gw": false,
-    "ln": "Pardhi",
-    "ld": "ltr",
-    "ang": "Pardhi",
+    "ISO-639-3": "pcl",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "mr",
+    "ang": "Pardhi",
+    "pk": 4967,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Pardhi",
     "alt": [
         "Bahelia",
         "Chita Pardhi",
@@ -22,5 +22,5 @@
         "Takankar",
         "Takia"
     ],
-    "gwcode": "mr"
+    "ld": "ltr"
 }

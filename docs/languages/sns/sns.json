@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sns",
-    "pk": 5742,
     "lc": "sns",
     "gw": false,
-    "ln": "South West Bay",
-    "ld": "ltr",
-    "ang": "Nahavaq",
+    "ISO-639-3": "sns",
     "hc": "VU",
-    "lr": "Pacific",
+    "gwcode": "fr",
+    "ang": "Nahavaq",
+    "pk": 5742,
     "cc": [
         "VU"
     ],
+    "lr": "Pacific",
+    "ln": "South West Bay",
     "alt": [
         "Labo",
         "Lamangkau",
@@ -19,5 +19,5 @@
         "Seniang",
         "Sinesip"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

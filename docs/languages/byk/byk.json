@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "byk",
-    "pk": 1072,
     "lc": "byk",
     "gw": false,
-    "ln": "\u6807\u8bdd",
-    "ld": "ltr",
-    "ang": "Biao",
+    "ISO-639-3": "byk",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Biao",
+    "pk": 1072,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u6807\u8bdd",
     "alt": [
         "Gang Bau",
         "Kang Bau",
         "Kang Beu",
         "Kang Pau"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

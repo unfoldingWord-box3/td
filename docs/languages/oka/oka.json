@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "oka",
-    "pk": 4798,
     "lc": "oka",
     "gw": false,
-    "ln": "Okanagan",
-    "ld": "ltr",
-    "ang": "Okanagan",
+    "ISO-639-3": "oka",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Okanagan",
+    "pk": 4798,
     "cc": [
         "US",
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Okanagan",
     "alt": [
         "Okanagan-Colville",
         "Okanagon",
         "Okanogan"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

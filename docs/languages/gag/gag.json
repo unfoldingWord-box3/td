@@ -1,23 +1,23 @@
 {
-    "ISO-639-3": "gag",
-    "pk": 1909,
     "lc": "gag",
     "gw": false,
-    "ln": "Gagauz",
-    "ld": "ltr",
-    "ang": "Gagauz",
+    "ISO-639-3": "gag",
     "hc": "MD",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Gagauz",
+    "pk": 1909,
     "cc": [
         "KZ",
         "TR",
         "MD",
         "BG"
     ],
+    "lr": "Europe",
+    "ln": "Gagauz",
     "alt": [
         "Gagauzi",
         "Bulgar Gagauzi",
         "Maritime Gagauzi"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

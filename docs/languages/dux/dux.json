@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dux",
-    "pk": 1672,
     "lc": "dux",
     "gw": false,
-    "ln": "Duungooma",
-    "ld": "ltr",
-    "ang": "Duungooma",
+    "ISO-639-3": "dux",
     "hc": "ML",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Duungooma",
+    "pk": 1672,
     "cc": [
         "ML"
     ],
+    "lr": "Africa",
+    "ln": "Duungooma",
     "alt": [
         "Du",
         "Duungo",
@@ -20,5 +20,5 @@
         "Samoro",
         "Western Duun"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

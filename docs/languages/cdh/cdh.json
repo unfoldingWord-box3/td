@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cdh",
-    "pk": 1164,
     "lc": "cdh",
     "gw": false,
-    "ln": "Chambeali",
-    "ld": "ltr",
-    "ang": "Chambeali",
+    "ISO-639-3": "cdh",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "ks",
+    "ang": "Chambeali",
+    "pk": 1164,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Chambeali",
     "alt": [
         "Cameali",
         "Chamaya",
@@ -18,5 +18,5 @@
         "Chamiyali Pahari",
         "Chamya"
     ],
-    "gwcode": "ks"
+    "ld": "ltr"
 }

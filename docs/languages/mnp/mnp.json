@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "mnp",
-    "pk": 3989,
     "lc": "mnp",
     "gw": false,
-    "ln": "\u95fd\u5317",
-    "ld": "ltr",
-    "ang": "Chinese, Min Bei",
+    "ISO-639-3": "mnp",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Chinese, Min Bei",
+    "pk": 3989,
     "cc": [
         "CN",
         "SG"
     ],
+    "lr": "Asia",
+    "ln": "\u95fd\u5317",
     "alt": [
         "Min Pei",
         "Northern Min",
         "Hokchia (Hockchew)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

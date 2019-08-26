@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lml",
-    "pk": 3523,
     "lc": "lml",
     "gw": false,
-    "ln": "Hano",
-    "ld": "ltr",
-    "ang": "Hano",
+    "ISO-639-3": "lml",
     "hc": "VU",
-    "lr": "Pacific",
+    "gwcode": "fr",
+    "ang": "Hano",
+    "pk": 3523,
     "cc": [
         "VU"
     ],
+    "lr": "Pacific",
+    "ln": "Hano",
     "alt": [
         "Bwatvenua",
         "Lamalanga",
@@ -20,5 +20,5 @@
         "Vunmarama",
         "Nggasai (Kasai)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

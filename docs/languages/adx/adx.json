@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "adx",
-    "pk": 89,
     "lc": "adx",
     "gw": false,
-    "ln": "\u0f68\u0f0b\u0f58\u0f51\u0f7c\u0f0b\u0f66\u0f90\u0f51\u0f0b",
-    "ld": "ltr",
-    "ang": "Tibetan, Amdo",
+    "ISO-639-3": "adx",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Tibetan, Amdo",
+    "pk": 89,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u0f68\u0f0b\u0f58\u0f51\u0f7c\u0f0b\u0f66\u0f90\u0f51\u0f0b",
     "alt": [
         "Panags",
         "Sbranag",
@@ -22,5 +22,5 @@
         "Anduo",
         "Ngambo"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

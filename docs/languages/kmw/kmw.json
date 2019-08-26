@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kmw",
-    "pk": 3009,
     "lc": "kmw",
     "gw": false,
-    "ln": "Komo (Democratic Republic of Congo)",
-    "ld": "ltr",
-    "ang": "Komo",
+    "ISO-639-3": "kmw",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Komo",
+    "pk": 3009,
     "cc": [
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Komo (Democratic Republic of Congo)",
     "alt": [
         "Kikumo",
         "Kikumu",
@@ -19,5 +19,5 @@
         "Kumu",
         "Kuumu"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

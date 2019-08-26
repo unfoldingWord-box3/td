@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kqr",
-    "pk": 3100,
     "lc": "kqr",
     "gw": false,
-    "ln": "Kimaragang",
-    "ld": "ltr",
-    "ang": "Kimaragang",
+    "ISO-639-3": "kqr",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Kimaragang",
+    "pk": 3100,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Kimaragang",
     "alt": [
         "Kimaragan",
         "Kimaragangan",
@@ -18,5 +18,5 @@
         "Marigang",
         "Tandek (Garo)"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "otd",
-    "pk": 4890,
     "lc": "otd",
     "gw": false,
-    "ln": "Ot Danum",
-    "ld": "ltr",
-    "ang": "Ot Danum",
+    "ISO-639-3": "otd",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Ot Danum",
+    "pk": 4890,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Ot Danum",
     "alt": [
         "Malahoi",
         "Uud Danum",
@@ -20,5 +20,5 @@
         "Sebaung",
         "Ulu Ai' (Da'an)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

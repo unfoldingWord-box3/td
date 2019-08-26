@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "brx",
-    "pk": 920,
     "lc": "brx",
     "gw": false,
-    "ln": "Bodo (India)",
-    "ld": "ltr",
-    "ang": "Bodo",
+    "ISO-639-3": "brx",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "as",
+    "ang": "Bodo",
+    "pk": 920,
     "cc": [
         "NP",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Bodo (India)",
     "alt": [
         "Bara",
         "Bodi",
@@ -23,5 +23,5 @@
         "Meci",
         "Mache"
     ],
-    "gwcode": "as"
+    "ld": "ltr"
 }

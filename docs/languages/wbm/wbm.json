@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "wbm",
-    "pk": 6698,
     "lc": "wbm",
     "gw": false,
-    "ln": "\u4f64\u65b9\u8a00",
-    "ld": "ltr",
-    "ang": "Wa, Vo",
+    "ISO-639-3": "wbm",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Wa, Vo",
+    "pk": 6698,
     "cc": [
         "CN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "\u4f64\u65b9\u8a00",
     "alt": [
         "Awa",
         "Kawa",
@@ -21,5 +21,5 @@
         "Wa Pwi",
         "Wakut"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jkm",
-    "pk": 2631,
     "lc": "jkm",
     "gw": false,
-    "ln": "Mobwa Karen",
-    "ld": "ltr",
-    "ang": "Karen, Mobwa",
+    "ISO-639-3": "jkm",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Karen, Mobwa",
+    "pk": 2631,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Mobwa Karen",
     "alt": [
         "Bilichi",
         "Blimaw",
@@ -19,5 +19,5 @@
         "Palachi",
         "Palakhi"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

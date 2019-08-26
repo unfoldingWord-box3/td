@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "kfr",
-    "pk": 2826,
     "lc": "kfr",
     "gw": false,
-    "ln": "Kachchi",
-    "ld": "ltr",
-    "ang": "Kachchi",
+    "ISO-639-3": "kfr",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "gu",
+    "ang": "Kachchi",
+    "pk": 2826,
     "cc": [
         "TZ",
         "MW",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Kachchi",
     "alt": [
         "Cuchi",
         "Cutch",
@@ -26,5 +26,5 @@
         "Kacchi",
         "Cutchi"
     ],
-    "gwcode": "gu"
+    "ld": "ltr"
 }

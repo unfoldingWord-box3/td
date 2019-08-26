@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gge",
-    "pk": 2001,
     "lc": "gge",
     "gw": false,
-    "ln": "Guragone",
-    "ld": "ltr",
-    "ang": "Guragone",
+    "ISO-639-3": "gge",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Guragone",
+    "pk": 2001,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Guragone",
     "alt": [
         "Gorogone",
         "Gunagoragone",
@@ -20,5 +20,5 @@
         "Gurrogone",
         "Gutjertabia"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

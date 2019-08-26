@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "atr",
-    "pk": 396,
     "lc": "atr",
     "gw": false,
-    "ln": "Waimiri-Atroari",
-    "ld": "ltr",
-    "ang": "Waimiri-Atroar\u00ed",
+    "ISO-639-3": "atr",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Waimiri-Atroar\u00ed",
+    "pk": 396,
     "cc": [
         "BR"
     ],
+    "lr": "Americas",
+    "ln": "Waimiri-Atroari",
     "alt": [
         "Atroahy",
         "Atroa\u00ed",
@@ -22,5 +22,5 @@
         "Wahmir\u00ed",
         "Waimir\u00ed (Uaimir\u00ed)"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

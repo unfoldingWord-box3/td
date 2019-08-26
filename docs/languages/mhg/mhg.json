@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mhg",
-    "pk": 3835,
     "lc": "mhg",
     "gw": false,
-    "ln": "Margu",
-    "ld": "ltr",
-    "ang": "Margu",
+    "ISO-639-3": "mhg",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Margu",
+    "pk": 3835,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Margu",
     "alt": [
         "Ajokoot",
         "Croker",
@@ -23,5 +23,5 @@
         "Yaako",
         "Yako"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

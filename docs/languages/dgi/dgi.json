@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dgi",
-    "pk": 1497,
     "lc": "dgi",
     "gw": false,
-    "ln": "Northern Dagara",
-    "ld": "ltr",
-    "ang": "Dagara, Northern",
+    "ISO-639-3": "dgi",
     "hc": "BF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Dagara, Northern",
+    "pk": 1497,
     "cc": [
         "BF"
     ],
+    "lr": "Africa",
+    "ln": "Northern Dagara",
     "alt": [
         "Dagaare",
         "Dagaari",
@@ -23,5 +23,5 @@
         "Lober (Lobr)",
         "Nura (Lawra Lobi)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

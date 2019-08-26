@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hml",
-    "pk": 2301,
     "lc": "hml",
     "gw": false,
-    "ln": "\u7f57\u6cca\u6cb3",
-    "ld": "ltr",
-    "ang": "Miao, Luopohe",
+    "ISO-639-3": "hml",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Miao, Luopohe",
+    "pk": 2301,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u7f57\u6cca\u6cb3",
     "alt": [
         "Lobohe Miao",
         "Luobo River Miao",
@@ -20,5 +20,5 @@
         "Xijia Miao",
         "Ximahe Miao"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

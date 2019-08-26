@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "mfv",
-    "pk": 3798,
     "lc": "mfv",
     "gw": false,
-    "ln": "Mandjak",
-    "ld": "ltr",
-    "ang": "Mandjak",
+    "ISO-639-3": "mfv",
     "hc": "GW",
-    "lr": "Africa",
+    "gwcode": "pt",
+    "ang": "Mandjak",
+    "pk": 3798,
     "cc": [
         "FR",
         "GM",
         "SN",
         "GW"
     ],
+    "lr": "Africa",
+    "ln": "Mandjak",
     "alt": [
         "Kanyop",
         "Mandjaque",
@@ -43,5 +43,5 @@
         "Cur (Churo)",
         "Bok (Kabok)"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

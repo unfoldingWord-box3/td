@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bmd",
-    "pk": 784,
     "lc": "bmd",
     "gw": false,
-    "ln": "Baga Manduri",
-    "ld": "ltr",
-    "ang": "Baga Manduri",
+    "ISO-639-3": "bmd",
     "hc": "GN",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Baga Manduri",
+    "pk": 784,
     "cc": [
         "GN"
     ],
+    "lr": "Africa",
+    "ln": "Baga Manduri",
     "alt": [
         "Baka",
         "Maduri",
@@ -19,5 +19,5 @@
         "Mandori",
         "Manduri"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

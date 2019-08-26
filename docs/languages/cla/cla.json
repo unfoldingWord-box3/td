@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cla",
-    "pk": 1246,
     "lc": "cla",
     "gw": false,
-    "ln": "Ron",
-    "ld": "ltr",
-    "ang": "Ron",
+    "ISO-639-3": "cla",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Ron",
+    "pk": 1246,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Ron",
     "alt": [
         "Chala",
         "Challa",
@@ -20,5 +20,5 @@
         "Bokkos (Alis I Run)",
         "Shagawu"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

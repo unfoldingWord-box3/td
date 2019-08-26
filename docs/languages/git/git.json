@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "git",
-    "pk": 2033,
     "lc": "git",
     "gw": false,
-    "ln": "Gitxsan",
-    "ld": "ltr",
-    "ang": "Gitxsan",
+    "ISO-639-3": "git",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Gitxsan",
+    "pk": 2033,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Gitxsan",
     "alt": [
         "Giklsan",
         "Gityskyan",
         "Gitsken (Western Gitsken)",
         "Gitxsan (Eastern Gitxsan)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

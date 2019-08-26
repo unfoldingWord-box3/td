@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nkf",
-    "pk": 4499,
     "lc": "nkf",
     "gw": false,
-    "ln": "Inpui Naga",
-    "ld": "ltr",
-    "ang": "Naga, Inpui",
+    "ISO-639-3": "nkf",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Naga, Inpui",
+    "pk": 4499,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Inpui Naga",
     "alt": [
         "Kabui",
         "Kabui Naga",
@@ -18,5 +18,5 @@
         "Koboi",
         "Kubai"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

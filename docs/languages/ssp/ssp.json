@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "ssp",
-    "pk": 5841,
     "lc": "ssp",
     "gw": false,
-    "ln": "Spanish Sign Language",
-    "ld": "ltr",
-    "ang": "Spanish Sign Language",
+    "ISO-639-3": "ssp",
     "hc": "ES",
-    "lr": "Europe",
+    "gwcode": "es",
+    "ang": "Spanish Sign Language",
+    "pk": 5841,
     "cc": [
         "ES",
         "HN"
     ],
+    "lr": "Europe",
+    "ln": "Spanish Sign Language",
     "alt": [
         "M\u00edmica"
     ],
-    "gwcode": "es"
+    "ld": "ltr"
 }

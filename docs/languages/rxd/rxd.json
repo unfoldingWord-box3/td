@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rxd",
-    "pk": 5453,
     "lc": "rxd",
     "gw": false,
-    "ln": "Ngardi",
-    "ld": "ltr",
-    "ang": "Ngardi",
+    "ISO-639-3": "rxd",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Ngardi",
+    "pk": 5453,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Ngardi",
     "alt": [
         "Boonara",
         "Bunara",
@@ -35,5 +35,5 @@
         "Wommana",
         "Woneiga"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

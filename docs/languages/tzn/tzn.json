@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tzn",
-    "pk": 6462,
     "lc": "tzn",
     "gw": false,
-    "ln": "Tugun",
-    "ld": "ltr",
-    "ang": "Tugun",
+    "ISO-639-3": "tzn",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Tugun",
+    "pk": 6462,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Tugun",
     "alt": [
         "Mahuan",
         "Tutunohan",
@@ -19,5 +19,5 @@
         "Ilpokil",
         "Kahailin Ilway"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

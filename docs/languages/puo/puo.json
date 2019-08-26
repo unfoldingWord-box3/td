@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "puo",
-    "pk": 5220,
     "lc": "puo",
     "gw": false,
-    "ln": "Puoc",
-    "ld": "ltr",
-    "ang": "Puoc",
+    "ISO-639-3": "puo",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Puoc",
+    "pk": 5220,
     "cc": [
         "LA",
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Puoc",
     "alt": [
         "Kha Niang",
         "Kha Puhoc",
@@ -29,5 +29,5 @@
         "Sing",
         "Xinh-Mun"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

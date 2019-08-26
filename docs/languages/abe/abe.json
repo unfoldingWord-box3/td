@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "abe",
-    "pk": 33,
     "lc": "abe",
     "gw": false,
-    "ln": "Western Abnaki",
-    "ld": "ltr",
-    "ang": "Abenaki, Western",
+    "ISO-639-3": "abe",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Abenaki, Western",
+    "pk": 33,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Western Abnaki",
     "alt": [
         "Abenaki",
         "Abenaqui",
@@ -18,5 +18,5 @@
         "Western Abnaki",
         "St. Francis"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

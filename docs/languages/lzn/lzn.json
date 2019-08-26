@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lzn",
-    "pk": 3657,
     "lc": "lzn",
     "gw": false,
-    "ln": "Leinong Naga",
-    "ld": "ltr",
-    "ang": "Naga, Leinong",
+    "ISO-639-3": "lzn",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Naga, Leinong",
+    "pk": 3657,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Leinong Naga",
     "alt": [
         "Htang Ngan",
         "Htangan",
@@ -20,5 +20,5 @@
         "Zau Dyang",
         "Southern Leinong"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

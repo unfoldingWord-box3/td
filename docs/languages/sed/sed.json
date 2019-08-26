@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "sed",
-    "pk": 5546,
     "lc": "sed",
     "gw": false,
-    "ln": "Ti\u1ebfng X\u01a1 \u0110\u0103ng",
-    "ld": "ltr",
-    "ang": "Sedang",
+    "ISO-639-3": "sed",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Sedang",
+    "pk": 5546,
     "cc": [
         "LA",
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Ti\u1ebfng X\u01a1 \u0110\u0103ng",
     "alt": [
         "Cadong",
         "Dang",
@@ -26,5 +26,5 @@
         "Xa",
         "Xodang"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

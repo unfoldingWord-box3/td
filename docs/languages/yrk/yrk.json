@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "yrk",
-    "pk": 7271,
     "lc": "yrk",
     "gw": false,
-    "ln": "\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Nenets",
+    "ISO-639-3": "yrk",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Nenets",
+    "pk": 7271,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439",
     "alt": [
         "Nenec",
         "Nenetsy",
@@ -18,5 +18,5 @@
         "Yurak",
         "Yurak Samoyed"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "atx",
-    "pk": 402,
     "lc": "atx",
     "gw": false,
-    "ln": "Arutani",
-    "ld": "ltr",
-    "ang": "Arutani",
+    "ISO-639-3": "atx",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Arutani",
+    "pk": 402,
     "cc": [
         "BR",
         "VE"
     ],
+    "lr": "Americas",
+    "ln": "Arutani",
     "alt": [
         "Aoaqui",
         "Auake",
@@ -23,5 +23,5 @@
         "Urutani",
         "Awak\u00e9"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

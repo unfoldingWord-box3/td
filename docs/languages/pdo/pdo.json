@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pdo",
-    "pk": 4976,
     "lc": "pdo",
     "gw": false,
-    "ln": "Padoe",
-    "ld": "ltr",
-    "ang": "Padoe",
+    "ISO-639-3": "pdo",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Padoe",
+    "pk": 4976,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Padoe",
     "alt": [
         "Alalao",
         "Pado-e",
@@ -19,5 +19,5 @@
         "Central Padoe",
         "Western Padoe"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

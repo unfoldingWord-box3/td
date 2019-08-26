@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ahl",
-    "pk": 153,
     "lc": "ahl",
     "gw": false,
-    "ln": "Igo",
-    "ld": "ltr",
-    "ang": "Igo",
+    "ISO-639-3": "ahl",
     "hc": "TG",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Igo",
+    "pk": 153,
     "cc": [
         "TG"
     ],
+    "lr": "Africa",
+    "ln": "Igo",
     "alt": [
         "Achlo",
         "Ago",
@@ -19,5 +19,5 @@
         "Ahonlan",
         "Anlo"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

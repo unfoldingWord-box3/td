@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "mic",
-    "pk": 3856,
     "lc": "mic",
     "gw": false,
-    "ln": "Mi'kmaq",
-    "ld": "ltr",
-    "ang": "Micmac",
+    "ISO-639-3": "mic",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Micmac",
+    "pk": 3856,
     "cc": [
         "US",
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Mi'kmaq",
     "alt": [
         "Mi'gmaq",
         "Miigmao",
@@ -20,5 +20,5 @@
         "Mi'gmaw",
         "Mi'kmaw"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

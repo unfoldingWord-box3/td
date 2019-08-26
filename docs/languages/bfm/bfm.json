@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bfm",
-    "pk": 621,
     "lc": "bfm",
     "gw": false,
-    "ln": "Mmen",
-    "ld": "ltr",
-    "ang": "Mmen",
+    "ISO-639-3": "bfm",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Mmen",
+    "pk": 621,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Mmen",
     "alt": [
         "Bafmen",
         "Bafmeng",
@@ -22,5 +22,5 @@
         "Nyos",
         "We"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tdl",
-    "pk": 6041,
     "lc": "tdl",
     "gw": false,
-    "ln": "Sur",
-    "ld": "ltr",
-    "ang": "Sur",
+    "ISO-639-3": "tdl",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Sur",
+    "pk": 6041,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Sur",
     "alt": [
         "Dishili",
         "Nsur",
@@ -18,5 +18,5 @@
         "Tapshin",
         "Tapshinawa"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

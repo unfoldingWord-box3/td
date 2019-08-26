@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "nxr",
-    "pk": 4722,
     "lc": "nxr",
     "gw": false,
-    "ln": "Ninggerum",
-    "ld": "ltr",
-    "ang": "Ninggerum",
+    "ISO-639-3": "nxr",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Ninggerum",
+    "pk": 4722,
     "cc": [
         "ID",
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Ninggerum",
     "alt": [
         "Kasiwa",
         "Kativa",
@@ -24,5 +24,5 @@
         "Obgwo",
         "Tedi"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

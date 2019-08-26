@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tic",
-    "pk": 6123,
     "lc": "tic",
     "gw": false,
-    "ln": "Tira",
-    "ld": "ltr",
-    "ang": "Tira",
+    "ISO-639-3": "tic",
     "hc": "SD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Tira",
+    "pk": 6123,
     "cc": [
         "SD"
     ],
+    "lr": "Africa",
+    "ln": "Tira",
     "alt": [
         "Lithiro",
         "Thiro",
@@ -19,5 +19,5 @@
         "Tira El Akhdar (Tira Dagig)",
         "Kinderma (Kanderma)"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

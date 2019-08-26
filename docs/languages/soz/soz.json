@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "soz",
-    "pk": 5771,
     "lc": "soz",
     "gw": false,
-    "ln": "Temi",
-    "ld": "ltr",
-    "ang": "Temi",
+    "ISO-639-3": "soz",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Temi",
+    "pk": 5771,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Temi",
     "alt": [
         "GiTemi",
         "Kisonjo",
@@ -18,5 +18,5 @@
         "Wasonjo",
         "Watemi"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rag",
-    "pk": 5310,
     "lc": "rag",
     "gw": false,
-    "ln": "Logooli",
-    "ld": "ltr",
-    "ang": "Lulogooli",
+    "ISO-639-3": "rag",
     "hc": "KE",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Lulogooli",
+    "pk": 5310,
     "cc": [
         "KE"
     ],
+    "lr": "Africa",
+    "ln": "Logooli",
     "alt": [
         "Llogole",
         "Llugule",
@@ -22,5 +22,5 @@
         "Ragoli",
         "Uluragooli"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "uuu",
-    "pk": 6571,
     "lc": "uuu",
     "gw": false,
-    "ln": "\u6fee\u6ee1",
-    "ld": "ltr",
-    "ang": "U",
+    "ISO-639-3": "uuu",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "U",
+    "pk": 6571,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u6fee\u6ee1",
     "alt": [
         "A'erwa",
         "Awa Blang",
@@ -19,5 +19,5 @@
         "Wu",
         "Wu Blang"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

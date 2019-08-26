@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ldp",
-    "pk": 3400,
     "lc": "ldp",
     "gw": false,
-    "ln": "Tso",
-    "ld": "ltr",
-    "ang": "Tso",
+    "ISO-639-3": "ldp",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Tso",
+    "pk": 3400,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Tso",
     "alt": [
         "Cibbo",
         "Cuyi Ts\u00f3",
@@ -20,5 +20,5 @@
         "Piri",
         "Ts\u00f3b\u00f3"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

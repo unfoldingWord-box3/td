@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kjn",
-    "pk": 2920,
     "lc": "kjn",
     "gw": false,
-    "ln": "Kunjen",
-    "ld": "ltr",
-    "ang": "Kunjen",
+    "ISO-639-3": "kjn",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Kunjen",
+    "pk": 2920,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Kunjen",
     "alt": [
         "Guguminjen",
         "Kukumindjen",
@@ -18,5 +18,5 @@
         "Olgol",
         "Oykangand (Ogondyan)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

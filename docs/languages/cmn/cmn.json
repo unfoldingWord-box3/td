@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "cmn",
-    "pk": 1267,
     "lc": "cmn",
     "gw": false,
-    "ln": "\u5b98\u8bdd",
-    "ld": "ltr",
-    "ang": "Chinese, Mandarin",
+    "ISO-639-3": "cmn",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Chinese, Mandarin",
+    "pk": 1267,
     "cc": [
         "DZ",
         "AT",
@@ -89,6 +87,8 @@
         "MQ",
         "AE"
     ],
+    "lr": "Asia",
+    "ln": "\u5b98\u8bdd",
     "alt": [
         "Beifang Fangyan",
         "Guanhua",
@@ -125,5 +125,5 @@
         "Lower Yangze Mandarin",
         "Kokang (Kokant)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pwn",
-    "pk": 5234,
     "lc": "pwn",
     "gw": false,
-    "ln": "Paiwan",
-    "ld": "ltr",
-    "ang": "Paiwan",
+    "ISO-639-3": "pwn",
     "hc": "TW",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Paiwan",
+    "pk": 5234,
     "cc": [
         "TW"
     ],
+    "lr": "Asia",
+    "ln": "Paiwan",
     "alt": [
         "Butanglu",
         "Kadas",
@@ -26,5 +26,5 @@
         "Stimul",
         "Tamari"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

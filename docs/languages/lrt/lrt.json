@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "lrt",
-    "pk": 3590,
     "lc": "lrt",
     "gw": false,
-    "ln": "Larantuka Malay",
-    "ld": "ltr",
-    "ang": "Malay, Larantuka",
+    "ISO-639-3": "lrt",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Malay, Larantuka",
+    "pk": 3590,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Larantuka Malay",
     "alt": [
         "Bahasa Nagi",
         "Ende Malay",
         "Melayu Larantuka",
         "Nagi"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bsy",
-    "pk": 945,
     "lc": "bsy",
     "gw": false,
-    "ln": "Sabah Bisaya",
-    "ld": "ltr",
-    "ang": "Bisaya, Sabah",
+    "ISO-639-3": "bsy",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Bisaya, Sabah",
+    "pk": 945,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Sabah Bisaya",
     "alt": [
         "Basaya",
         "Besaya",
@@ -19,5 +19,5 @@
         "Jilama Bawang",
         "Jilama Sungai"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

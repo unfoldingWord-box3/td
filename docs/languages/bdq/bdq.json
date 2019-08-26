@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bdq",
-    "pk": 575,
     "lc": "bdq",
     "gw": false,
-    "ln": "Ti\u1ebfng Ba Na",
-    "ld": "ltr",
-    "ang": "Bahnar",
+    "ISO-639-3": "bdq",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Bahnar",
+    "pk": 575,
     "cc": [
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Ti\u1ebfng Ba Na",
     "alt": [
         "Bana",
         "Bahnar Bonom (Bomam)",
@@ -18,5 +18,5 @@
         "Y-Lang",
         "Alakong (A-La Cong)"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

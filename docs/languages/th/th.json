@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "tha",
-    "pk": 6100,
     "lc": "th",
     "gw": true,
-    "ln": "\u0e44\u0e17\u0e22",
-    "ld": "ltr",
-    "ang": "Thai",
+    "ISO-639-3": "tha",
     "hc": "TH",
-    "lr": "Asia",
+    "gwcode": "th",
+    "ang": "Thai",
+    "pk": 6100,
     "cc": [
         "FR",
         "DE",
@@ -20,6 +18,8 @@
         "SG",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "\u0e44\u0e17\u0e22",
     "alt": [
         "Central Tai",
         "Siamese",
@@ -31,5 +31,5 @@
         "Khorat Thai (Korat)",
         "Siam Trang"
     ],
-    "gwcode": "th"
+    "ld": "ltr"
 }

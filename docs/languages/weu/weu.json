@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "weu",
-    "pk": 6721,
     "lc": "weu",
     "gw": false,
-    "ln": "Rawngtu Chin",
-    "ld": "ltr",
-    "ang": "Chin, Rawngtu",
+    "ISO-639-3": "weu",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Chin, Rawngtu",
+    "pk": 6721,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Rawngtu Chin",
     "alt": [
         "Rongtu",
         "Shimi",
@@ -18,5 +18,5 @@
         "Kyonnam",
         "Boishi"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

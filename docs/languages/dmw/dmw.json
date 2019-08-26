@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dmw",
-    "pk": 1576,
     "lc": "dmw",
     "gw": false,
-    "ln": "Mudburra",
-    "ld": "ltr",
-    "ang": "Mudburra",
+    "ISO-639-3": "dmw",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Mudburra",
+    "pk": 1576,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Mudburra",
     "alt": [
         "Madbara",
         "Moodburra",
@@ -23,5 +23,5 @@
         "Pinkagama",
         "Pinkagarna"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

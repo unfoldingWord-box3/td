@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "krt",
-    "pk": 3125,
     "lc": "krt",
     "gw": false,
-    "ln": "Tumari Kanuri",
-    "ld": "ltr",
-    "ang": "Kanuri, Tumari",
+    "ISO-639-3": "krt",
     "hc": "NE",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Kanuri, Tumari",
+    "pk": 3125,
     "cc": [
         "NE"
     ],
+    "lr": "Africa",
+    "ln": "Tumari Kanuri",
     "alt": [
         "Kanambu",
         "Kanembu",
         "Kubari (Kuwuri)",
         "Sugurti (Suwurti)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mej",
-    "pk": 3761,
     "lc": "mej",
     "gw": false,
-    "ln": "Meyah",
-    "ld": "ltr",
-    "ang": "Meyah",
+    "ISO-639-3": "mej",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Meyah",
+    "pk": 3761,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Meyah",
     "alt": [
         "Arfak",
         "Mansibaber",
@@ -20,5 +20,5 @@
         "Mejah",
         "Meyach"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

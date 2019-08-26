@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hmd",
-    "pk": 2293,
     "lc": "hmd",
     "gw": false,
-    "ln": "\u5927\u82b1\u82d7",
-    "ld": "ltr",
-    "ang": "Miao, Large Flowery",
+    "ISO-639-3": "hmd",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Miao, Large Flowery",
+    "pk": 2293,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u5927\u82b1\u82d7",
     "alt": [
         "A-Hmao",
         "Big Flowery Miao",
@@ -25,5 +25,5 @@
         "Northeastern Yunnan Miao",
         "Ta Hwa Miao"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "agw",
-    "pk": 143,
     "lc": "agw",
     "gw": false,
-    "ln": "Kahua",
-    "ld": "ltr",
-    "ang": "Kahua",
+    "ISO-639-3": "agw",
     "hc": "SB",
-    "lr": "Pacific",
+    "gwcode": "pis",
+    "ang": "Kahua",
+    "pk": 143,
     "cc": [
         "SB"
     ],
+    "lr": "Pacific",
+    "ln": "Kahua",
     "alt": [
         "Anganiwai",
         "Anganiwei",
         "Narihua",
         "Wanoni"
     ],
-    "gwcode": "pis"
+    "ld": "ltr"
 }

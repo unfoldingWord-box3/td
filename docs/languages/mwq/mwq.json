@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mwq",
-    "pk": 4206,
     "lc": "mwq",
     "gw": false,
-    "ln": "M\u00fcn Chin",
-    "ld": "ltr",
-    "ang": "Chin, M\u00fc\u00fcn",
+    "ISO-639-3": "mwq",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Chin, M\u00fc\u00fcn",
+    "pk": 4206,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "M\u00fcn Chin",
     "alt": [
         "Cho",
         "K'cho Chin",
@@ -21,5 +21,5 @@
         "Hmong-K'cha",
         "Hngiyung"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bjj",
-    "pk": 716,
     "lc": "bjj",
     "gw": false,
-    "ln": "Kanauji",
-    "ld": "ltr",
-    "ang": "Kanauji",
+    "ISO-639-3": "bjj",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Kanauji",
+    "pk": 716,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Kanauji",
     "alt": [
         "Bhakha",
         "Braj",
@@ -18,5 +18,5 @@
         "Dehati",
         "Kannauji"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

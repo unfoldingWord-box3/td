@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "kjp",
-    "pk": 2922,
     "lc": "kjp",
     "gw": false,
-    "ln": "Pwo Eastern Karen",
-    "ld": "ltr",
-    "ang": "Karen, Pwo Eastern",
+    "ISO-639-3": "kjp",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Karen, Pwo Eastern",
+    "pk": 2922,
     "cc": [
         "AU",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Pwo Eastern Karen",
     "alt": [
         "Moulmein Pwo Karen",
         "Phlong",
@@ -25,5 +25,5 @@
         "Ratchaburi Pwo Karen (Phetchaburi Pwo Karen)",
         "Kawkareik (Eastern Border Pwo Karen)"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

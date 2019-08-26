@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "gar",
-    "pk": 1920,
     "lc": "gar",
     "gw": false,
-    "ln": "Galeya",
-    "ld": "ltr",
-    "ang": "Galeya",
+    "ISO-639-3": "gar",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Galeya",
+    "pk": 1920,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Galeya",
     "alt": [
         "Garea",
         "Gameta",
         "Garea (Galeya)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

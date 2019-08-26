@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ksd",
-    "pk": 3136,
     "lc": "ksd",
     "gw": false,
-    "ln": "Kuanua",
-    "ld": "ltr",
-    "ang": "Kuanua",
+    "ISO-639-3": "ksd",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Kuanua",
+    "pk": 3136,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Kuanua",
     "alt": [
         "Blanche Bay",
         "Gunantuna",
@@ -20,5 +20,5 @@
         "Tuna",
         "Raluana"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

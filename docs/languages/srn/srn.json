@@ -1,23 +1,23 @@
 {
-    "ISO-639-3": "srn",
-    "pk": 5815,
     "lc": "srn",
     "gw": false,
-    "ln": "Sranan Tongo",
-    "ld": "ltr",
-    "ang": "Sranan",
+    "ISO-639-3": "srn",
     "hc": "SR",
-    "lr": "Americas",
+    "gwcode": "nl",
+    "ang": "Sranan",
+    "pk": 5815,
     "cc": [
         "GF",
         "US",
         "SR"
     ],
+    "lr": "Americas",
+    "ln": "Sranan Tongo",
     "alt": [
         "Surinaams",
         "Suriname Creole English",
         "Surinamese",
         "Taki-Taki"
     ],
-    "gwcode": "nl"
+    "ld": "ltr"
 }

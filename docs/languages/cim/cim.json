@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "cim",
-    "pk": 1214,
     "lc": "cim",
     "gw": false,
-    "ln": "Cimbrian",
-    "ld": "ltr",
-    "ang": "Cimbrian",
+    "ISO-639-3": "cim",
     "hc": "IT",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Cimbrian",
+    "pk": 1214,
     "cc": [
         "IT"
     ],
+    "lr": "Europe",
+    "ln": "Cimbrian",
     "alt": [
         "Tzimbro",
         "Zimbrisch",
         "Tredici Communi Cimbrian (Tauch)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

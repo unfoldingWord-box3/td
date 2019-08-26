@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nst",
-    "pk": 4655,
     "lc": "nst",
     "gw": false,
-    "ln": "Tase Naga",
-    "ld": "ltr",
-    "ang": "Naga, Tase",
+    "ISO-639-3": "nst",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Naga, Tase",
+    "pk": 4655,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Tase Naga",
     "alt": [
         "Cham Chang",
         "Rangpan",
@@ -59,5 +59,5 @@
         "Longphi (Longkhi)",
         "Chamchang (Kimsing)"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rej",
-    "pk": 5341,
     "lc": "rej",
     "gw": false,
-    "ln": "Rejang",
-    "ld": "ltr",
-    "ang": "Rejang",
+    "ISO-639-3": "rej",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Rejang",
+    "pk": 5341,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Rejang",
     "alt": [
         "Djang",
         "Kepahiang (Kebanagung)",
@@ -18,5 +18,5 @@
         "Pasisir",
         "Rawas"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

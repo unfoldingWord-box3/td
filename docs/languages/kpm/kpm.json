@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kpm",
-    "pk": 3071,
     "lc": "kpm",
     "gw": false,
-    "ln": "K\u01a1ho",
-    "ld": "ltr",
-    "ang": "Koho",
+    "ISO-639-3": "kpm",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Koho",
+    "pk": 3071,
     "cc": [
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "K\u01a1ho",
     "alt": [
         "Caho",
         "Co Ho",
@@ -25,5 +25,5 @@
         "Chil (Kil)",
         "Xre Nop"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

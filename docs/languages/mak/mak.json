@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mak",
-    "pk": 3667,
     "lc": "mak",
     "gw": false,
-    "ln": "Makasar",
-    "ld": "ltr",
-    "ang": "Makasar",
+    "ISO-639-3": "mak",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Makasar",
+    "pk": 3667,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Makasar",
     "alt": [
         "Goa",
         "Macassar",
@@ -26,5 +26,5 @@
         "Lakiung",
         "Turatea (Jeneponto)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

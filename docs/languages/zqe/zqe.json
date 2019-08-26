@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zqe",
-    "pk": 7463,
     "lc": "zqe",
     "gw": false,
-    "ln": "\u4e18\u5317",
-    "ld": "ltr",
-    "ang": "Zhuang, Qiubei",
+    "ISO-639-3": "zqe",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Zhuang, Qiubei",
+    "pk": 7463,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u4e18\u5317",
     "alt": [
         "Bau i",
         "Bui",
@@ -18,5 +18,5 @@
         "Northern Zhuang",
         "Qiubei Sha"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

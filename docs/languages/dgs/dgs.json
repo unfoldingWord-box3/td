@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dgs",
-    "pk": 1502,
     "lc": "dgs",
     "gw": false,
-    "ln": "Dogoso",
-    "ld": "ltr",
-    "ang": "Dogoso",
+    "ISO-639-3": "dgs",
     "hc": "BF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Dogoso",
+    "pk": 1502,
     "cc": [
         "BF"
     ],
+    "lr": "Africa",
+    "ln": "Dogoso",
     "alt": [
         "Bambadion-Dogoso",
         "Bambadion-Dokhosi\u00e9",
@@ -19,5 +19,5 @@
         "Dorhosi\u00e9-Noirs",
         "Dorossi\u00e9-Fing"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

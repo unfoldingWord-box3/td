@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gdn",
-    "pk": 1973,
     "lc": "gdn",
     "gw": false,
-    "ln": "Umanakaina",
-    "ld": "ltr",
-    "ang": "Umanakaina",
+    "ISO-639-3": "gdn",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Umanakaina",
+    "pk": 1973,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Umanakaina",
     "alt": [
         "Gvede",
         "Gweda",
@@ -18,5 +18,5 @@
         "Gwedena",
         "Umanikaina"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

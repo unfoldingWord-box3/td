@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "alq",
-    "pk": 225,
     "lc": "alq",
     "gw": false,
-    "ln": "Algonquin",
-    "ld": "ltr",
-    "ang": "Algonquin",
+    "ISO-639-3": "alq",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Algonquin",
+    "pk": 225,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Algonquin",
     "alt": [
         "Southern Algonquin (Nipissing)",
         "Northern Algonquin",
         "Algonkin",
         "Anishinaabemowin"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

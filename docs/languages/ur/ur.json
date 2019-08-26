@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "urd",
-    "pk": 6539,
     "lc": "ur",
     "gw": true,
-    "ln": "\u0627\u0631\u062f\u0648",
-    "ld": "rtl",
-    "ang": "Urdu",
+    "ISO-639-3": "urd",
     "hc": "PK",
-    "lr": "Asia",
+    "gwcode": null,
+    "ang": "Urdu",
+    "pk": 6539,
     "cc": [
         "BE",
         "AF",
@@ -35,6 +33,8 @@
         "QA",
         "AE"
     ],
+    "lr": "Asia",
+    "ln": "\u0627\u0631\u062f\u0648",
     "alt": [
         "Islami",
         "Undri",
@@ -47,5 +47,5 @@
         "Dakhini (Dakani)",
         "Deccan"
     ],
-    "gwcode": null
+    "ld": "rtl"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "agh",
-    "pk": 129,
     "lc": "agh",
     "gw": false,
-    "ln": "Ngelima",
-    "ld": "ltr",
-    "ang": "Ngelima",
+    "ISO-639-3": "agh",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Ngelima",
+    "pk": 129,
     "cc": [
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Ngelima",
     "alt": [
         "Buru (Bor)",
         "Leboro",
@@ -19,5 +19,5 @@
         "Bangelima",
         "Leangba"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gbv",
-    "pk": 1947,
     "lc": "gbv",
     "gw": false,
-    "ln": "Gbanu",
-    "ld": "ltr",
-    "ang": "Gbanu",
+    "ISO-639-3": "gbv",
     "hc": "CF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Gbanu",
+    "pk": 1947,
     "cc": [
         "CF"
     ],
+    "lr": "Africa",
+    "ln": "Gbanu",
     "alt": [
         "Banu",
         "Baguili",
@@ -18,5 +18,5 @@
         "Gbagili",
         "Gbagiri (Bagili)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

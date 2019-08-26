@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cbr",
-    "pk": 1143,
     "lc": "cbr",
     "gw": false,
-    "ln": "Cashibo-Cacataibo",
-    "ld": "ltr",
-    "ang": "Cashibo-Cacataibo",
+    "ISO-639-3": "cbr",
     "hc": "PE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Cashibo-Cacataibo",
+    "pk": 1143,
     "cc": [
         "PE"
     ],
+    "lr": "Americas",
+    "ln": "Cashibo-Cacataibo",
     "alt": [
         "Cachibo",
         "Cacibo",
@@ -19,5 +19,5 @@
         "Hagueti",
         "Managua"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

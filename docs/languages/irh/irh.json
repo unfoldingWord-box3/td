@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "irh",
-    "pk": 2508,
     "lc": "irh",
     "gw": false,
-    "ln": "Irarutu",
-    "ld": "ltr",
-    "ang": "Irarutu",
+    "ISO-639-3": "irh",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Irarutu",
+    "pk": 2508,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Irarutu",
     "alt": [
         "Arguni Bay",
         "Irahutu",
@@ -18,5 +18,5 @@
         "Kaitero",
         "Kasira"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

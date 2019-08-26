@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zhb",
-    "pk": 7375,
     "lc": "zhb",
     "gw": false,
-    "ln": "\u624e\u575d\u8bed",
-    "ld": "ltr",
-    "ang": "Zhaba",
+    "ISO-639-3": "zhb",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Zhaba",
+    "pk": 7375,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u624e\u575d\u8bed",
     "alt": [
         "Bazi",
         "Bozi",
@@ -21,5 +21,5 @@
         "Drate (Zhaba/Northern nDrapa)",
         "Drame (Zhami/Southern nDrapa)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

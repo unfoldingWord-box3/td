@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "pcd",
-    "pk": 4959,
     "lc": "pcd",
     "gw": false,
-    "ln": "Picard",
-    "ld": "ltr",
-    "ang": "Picard",
+    "ISO-639-3": "pcd",
     "hc": "FR",
-    "lr": "Europe",
+    "gwcode": "fr",
+    "ang": "Picard",
+    "pk": 4959,
     "cc": [
         "FR"
     ],
+    "lr": "Europe",
+    "ln": "Picard",
     "alt": [
         "Chtimi",
         "Rouchi",
         "Amienois (Amies)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

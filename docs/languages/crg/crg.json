@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "crg",
-    "pk": 1326,
     "lc": "crg",
     "gw": false,
-    "ln": "Michif",
-    "ld": "ltr",
-    "ang": "Michif",
+    "ISO-639-3": "crg",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Michif",
+    "pk": 1326,
     "cc": [
         "US",
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Michif",
     "alt": [
         "French Cree",
         "M\u00e9tis",
         "Mitchif"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

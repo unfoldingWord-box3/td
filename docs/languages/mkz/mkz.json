@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mkz",
-    "pk": 3925,
     "lc": "mkz",
     "gw": false,
-    "ln": "Makasae",
-    "ld": "ltr",
-    "ang": "Makasae",
+    "ISO-639-3": "mkz",
     "hc": "TL",
-    "lr": "Asia",
+    "gwcode": "pt",
+    "ang": "Makasae",
+    "pk": 3925,
     "cc": [
         "TL"
     ],
+    "lr": "Asia",
+    "ln": "Makasae",
     "alt": [
         "Ma'asae",
         "Macassai",
@@ -18,5 +18,5 @@
         "Maksae",
         "Maklere"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "sls",
-    "pk": 5695,
     "lc": "sls",
     "gw": false,
-    "ln": "Singapore Sign Language",
-    "ld": "ltr",
-    "ang": "Singapore Sign Language",
+    "ISO-639-3": "sls",
     "hc": "SG",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Singapore Sign Language",
+    "pk": 5695,
     "cc": [
         "SG"
     ],
+    "lr": "Asia",
+    "ln": "Singapore Sign Language",
     "alt": [
         "Contact Signing (Pidgin Signed English)",
         "Natural Sign Language"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

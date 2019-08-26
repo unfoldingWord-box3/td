@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bej",
-    "pk": 595,
     "lc": "bej",
     "gw": false,
-    "ln": "Beja",
-    "ld": "ltr",
-    "ang": "Bedawiyet",
+    "ISO-639-3": "bej",
     "hc": "SD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Bedawiyet",
+    "pk": 595,
     "cc": [
         "SD",
         "EG"
     ],
+    "lr": "Africa",
+    "ln": "Beja",
     "alt": [
         "Beja",
         "Bedauye",
@@ -30,5 +30,5 @@
         "Hadendoa (Hadendowa)",
         "Hadendowa"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

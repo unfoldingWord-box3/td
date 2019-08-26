@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "pfe",
-    "pk": 4999,
     "lc": "pfe",
     "gw": false,
-    "ln": "Peere",
-    "ld": "ltr",
-    "ang": "Peere",
+    "ISO-639-3": "pfe",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Peere",
+    "pk": 4999,
     "cc": [
         "CM",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Peere",
     "alt": [
         "Kotofo",
         "Kotopo",
@@ -29,5 +29,5 @@
         "Dan Muure (Kotofo)",
         "Zongbi (Djonbi)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

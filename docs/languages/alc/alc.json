@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "alc",
-    "pk": 212,
     "lc": "alc",
     "gw": false,
-    "ln": "Qawasqar",
-    "ld": "ltr",
-    "ang": "Qawasqar",
+    "ISO-639-3": "alc",
     "hc": "CL",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Qawasqar",
+    "pk": 212,
     "cc": [
         "CL"
     ],
+    "lr": "Americas",
+    "ln": "Qawasqar",
     "alt": [
         "Aksan\u00e1s (Aksana)",
         "Alacaluf",
@@ -19,5 +19,5 @@
         "Kaweskar",
         "Kawesqar"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

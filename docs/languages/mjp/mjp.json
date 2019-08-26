@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "mjp",
-    "pk": 3890,
     "lc": "mjp",
     "gw": false,
-    "ln": "Malapandaram",
-    "ld": "ltr",
-    "ang": "Malapandaram",
+    "ISO-639-3": "mjp",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "ml",
+    "ang": "Malapandaram",
+    "pk": 3890,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Malapandaram",
     "alt": [
         "Hill Pantaram",
         "Malapantaram",
         "Malepantaram",
         "Pandaram Basha"
     ],
-    "gwcode": "ml"
+    "ld": "ltr"
 }

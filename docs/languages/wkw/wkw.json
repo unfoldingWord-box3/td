@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wkw",
-    "pk": 6751,
     "lc": "wkw",
     "gw": false,
-    "ln": "Wakawaka",
-    "ld": "ltr",
-    "ang": "Wakawaka",
+    "ISO-639-3": "wkw",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Wakawaka",
+    "pk": 6751,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Wakawaka",
     "alt": [
         "Wagawaga",
         "Duungidjawu",
@@ -20,5 +20,5 @@
         "Waga-Waga",
         "Wakka"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

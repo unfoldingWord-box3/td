@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "plr",
-    "pk": 5075,
     "lc": "plr",
     "gw": false,
-    "ln": "Palaka Senoufo",
-    "ld": "ltr",
-    "ang": "S\u00e9noufo, Palaka",
+    "ISO-639-3": "plr",
     "hc": "CI",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "S\u00e9noufo, Palaka",
+    "pk": 5075,
     "cc": [
         "CI"
     ],
+    "lr": "Africa",
+    "ln": "Palaka Senoufo",
     "alt": [
         "Kpalagha",
         "Palaka",
@@ -18,5 +18,5 @@
         "Pallakha",
         "Pilara"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

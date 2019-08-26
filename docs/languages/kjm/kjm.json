@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kjm",
-    "pk": 2919,
     "lc": "kjm",
     "gw": false,
-    "ln": "Kh\u00e1ng",
-    "ld": "ltr",
-    "ang": "Kh\u00e1ng",
+    "ISO-639-3": "kjm",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Kh\u00e1ng",
+    "pk": 2919,
     "cc": [
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Kh\u00e1ng",
     "alt": [
         "Bren",
         "Hang",
@@ -36,5 +36,5 @@
         "Kh\u00e1ng Clau",
         "Xa Cau"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

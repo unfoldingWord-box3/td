@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pow",
-    "pk": 5138,
     "lc": "pow",
     "gw": false,
-    "ln": "San Felipe Otlaltepec Popoloca",
-    "ld": "ltr",
-    "ang": "Popoloca, San Felipe Otlaltepec",
+    "ISO-639-3": "pow",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Popoloca, San Felipe Otlaltepec",
+    "pk": 5138,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "San Felipe Otlaltepec Popoloca",
     "alt": [
         "Popoloca de San Felipe Otlaltepec",
         "Popoloca del Poniente",
@@ -18,5 +18,5 @@
         "Huejonapan",
         "Santa Mar\u00eda Nativitas"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

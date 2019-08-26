@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kya",
-    "pk": 3284,
     "lc": "kya",
     "gw": false,
-    "ln": "Kwaya",
-    "ld": "ltr",
-    "ang": "Kwaya",
+    "ISO-639-3": "kya",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Kwaya",
+    "pk": 3284,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Kwaya",
     "alt": [
         "Kikwaya",
         "Kirori",
@@ -22,5 +22,5 @@
         "Eciruri",
         "Kishyola"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

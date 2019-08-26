@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "akh",
-    "pk": 197,
     "lc": "akh",
     "gw": false,
-    "ln": "Angal Heneng",
-    "ld": "ltr",
-    "ang": "Angal Heneng",
+    "ISO-639-3": "akh",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Angal Heneng",
+    "pk": 197,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Angal Heneng",
     "alt": [
         "Waola (Wala)",
         "Agarar",
@@ -19,5 +19,5 @@
         "West Angal Heneng",
         "West Mendi"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

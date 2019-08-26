@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ude",
-    "pk": 6474,
     "lc": "ude",
     "gw": false,
-    "ln": "\u0423\u0434\u044d\u0433\u0435\u0439\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Udihe",
+    "ISO-639-3": "ude",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Udihe",
+    "pk": 6474,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u0423\u0434\u044d\u0433\u0435\u0439\u0441\u043a\u0438\u0439",
     "alt": [
         "Kiakala",
         "Tazy",
@@ -22,5 +22,5 @@
         "Kur-Urmi",
         "Samarga"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

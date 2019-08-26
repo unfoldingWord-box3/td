@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mud",
-    "pk": 4149,
     "lc": "mud",
     "gw": false,
-    "ln": "\u0410\u043b\u0435\u0443\u0442\u0441\u043a\u043e-\u043c\u0435\u0434\u043d\u043e\u0432\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Aleut, Mednyj",
+    "ISO-639-3": "mud",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Aleut, Mednyj",
+    "pk": 4149,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u0410\u043b\u0435\u0443\u0442\u0441\u043a\u043e-\u043c\u0435\u0434\u043d\u043e\u0432\u0441\u043a\u0438\u0439",
     "alt": [
         "Attuan",
         "Copper",
@@ -19,5 +19,5 @@
         "Creolized Attuan",
         "Medny"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

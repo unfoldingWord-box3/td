@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "mgs",
-    "pk": 3821,
     "lc": "mgs",
     "gw": false,
-    "ln": "Manda",
-    "ld": "ltr",
-    "ang": "Manda",
+    "ISO-639-3": "mgs",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Manda",
+    "pk": 3821,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Manda",
     "alt": [
         "Kimanda",
         "Kinyasa",
         "Nyasa",
         "Matumba"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

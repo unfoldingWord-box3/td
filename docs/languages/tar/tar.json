@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tar",
-    "pk": 5977,
     "lc": "tar",
     "gw": false,
-    "ln": "Central Tarahumara",
-    "ld": "ltr",
-    "ang": "Tarahumara, Central",
+    "ISO-639-3": "tar",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Tarahumara, Central",
+    "pk": 5977,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Central Tarahumara",
     "alt": [
         "Alta Tarahumara",
         "Ral\u00e1muli de la Tarahumara Alta",
@@ -18,5 +18,5 @@
         "Tarahumara de Cumbres",
         "Tarahumara del Centro"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

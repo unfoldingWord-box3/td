@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mza",
-    "pk": 4262,
     "lc": "mza",
     "gw": false,
-    "ln": "Santa Mar\u00eda Zacatepec Mixtec",
-    "ld": "ltr",
-    "ang": "Mixtec, Santa Mar\u00eda Zacatepec",
+    "ISO-639-3": "mza",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mixtec, Santa Mar\u00eda Zacatepec",
+    "pk": 4262,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Santa Mar\u00eda Zacatepec Mixtec",
     "alt": [
         "Mixteco de Santa Mar\u00eda Zacatepec",
         "Southern Putla Mixtec",
@@ -18,5 +18,5 @@
         "Zacatepec Mixtec",
         "Tacuate"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

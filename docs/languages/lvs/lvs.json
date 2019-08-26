@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "lvs",
-    "pk": 3640,
     "lc": "lvs",
     "gw": false,
-    "ln": "Standard Latvian",
-    "ld": "ltr",
-    "ang": "Latvian, Standard",
+    "ISO-639-3": "lvs",
     "hc": "LV",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Latvian, Standard",
+    "pk": 3640,
     "cc": [
         "DE",
         "KZ",
@@ -19,9 +17,11 @@
         "CA",
         "UZ"
     ],
+    "lr": "Europe",
+    "ln": "Standard Latvian",
     "alt": [
         "Lettisch",
         "Lettish"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

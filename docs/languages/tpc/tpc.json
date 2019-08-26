@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tpc",
-    "pk": 6266,
     "lc": "tpc",
     "gw": false,
-    "ln": "Azoy\u00fa Me'phaa",
-    "ld": "ltr",
-    "ang": "Me\u2019phaa, Azoy\u00fa",
+    "ISO-639-3": "tpc",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Me\u2019phaa, Azoy\u00fa",
+    "pk": 6266,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Azoy\u00fa Me'phaa",
     "alt": [
         "Azoy\u00fa Tlapanec",
         "Me'phaa",
@@ -18,5 +18,5 @@
         "Tlapaneco de Azoy\u00fa",
         "Tlapaneco del Sur"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

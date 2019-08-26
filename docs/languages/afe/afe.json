@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "afe",
-    "pk": 110,
     "lc": "afe",
     "gw": false,
-    "ln": "Putukwam",
-    "ld": "ltr",
-    "ang": "Utugwang-Irungene-Afrike",
+    "ISO-639-3": "afe",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Utugwang-Irungene-Afrike",
+    "pk": 110,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Putukwam",
     "alt": [
         "Afrike (Aferike)",
         "Mgbenege (Ngbenege)",
@@ -26,5 +26,5 @@
         "Ebe Cluster",
         "Putukwam"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jim",
-    "pk": 2622,
     "lc": "jim",
     "gw": false,
-    "ln": "Jimi (Cameroon)",
-    "ld": "ltr",
-    "ang": "Jimi",
+    "ISO-639-3": "jim",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Jimi",
+    "pk": 2622,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Jimi (Cameroon)",
     "alt": [
         "Jimjimen",
         "Um Falin",
@@ -19,5 +19,5 @@
         "Wadi (Wa'i)",
         "Zomo"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

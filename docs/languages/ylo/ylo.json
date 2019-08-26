@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ylo",
-    "pk": 7218,
     "lc": "ylo",
     "gw": false,
-    "ln": "\u7eb3\u7f57",
-    "ld": "ltr",
-    "ang": "Naluo",
+    "ISO-639-3": "ylo",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Naluo",
+    "pk": 7218,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u7eb3\u7f57",
     "alt": [
         "Gan Yi",
         "Laluo",
@@ -18,5 +18,5 @@
         "Shui Yi",
         "Shuitian"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

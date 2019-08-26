@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jud",
-    "pk": 2672,
     "lc": "jud",
     "gw": false,
-    "ln": "Worodougou",
-    "ld": "ltr",
-    "ang": "Worodougou",
+    "ISO-639-3": "jud",
     "hc": "CI",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Worodougou",
+    "pk": 2672,
     "cc": [
         "CI"
     ],
+    "lr": "Africa",
+    "ln": "Worodougou",
     "alt": [
         "Bakokan",
         "Ouorodougou",
@@ -18,5 +18,5 @@
         "Worodougoukakan",
         "Worodugu"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

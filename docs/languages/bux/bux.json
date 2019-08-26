@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bux",
-    "pk": 991,
     "lc": "bux",
     "gw": false,
-    "ln": "Boghom",
-    "ld": "ltr",
-    "ang": "Boghom",
+    "ISO-639-3": "bux",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Boghom",
+    "pk": 991,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Boghom",
     "alt": [
         "Bogghom",
         "Boghorom",
@@ -21,5 +21,5 @@
         "Burom",
         "Burum"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

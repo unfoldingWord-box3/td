@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "anu",
-    "pk": 277,
     "lc": "anu",
     "gw": false,
-    "ln": "Anuak",
-    "ld": "ltr",
-    "ang": "Anuak",
+    "ISO-639-3": "anu",
     "hc": "SS",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Anuak",
+    "pk": 277,
     "cc": [
         "ET",
         "SS",
         "US"
     ],
+    "lr": "Africa",
+    "ln": "Anuak",
     "alt": [
         "Anyuak",
         "Anywa",
@@ -27,5 +27,5 @@
         "Yembo",
         "Dho Anywaa"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

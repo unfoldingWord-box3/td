@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kle",
-    "pk": 2964,
     "lc": "kle",
     "gw": false,
-    "ln": "\u0915\u0941\u0932\u0941\u0919 (Nepal)",
-    "ld": "ltr",
-    "ang": "Kulung",
+    "ISO-639-3": "kle",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Kulung",
+    "pk": 2964,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "\u0915\u0941\u0932\u0941\u0919 (Nepal)",
     "alt": [
         "Kholung",
         "Khulung",
@@ -18,5 +18,5 @@
         "Kulu Ring",
         "Sotto Ring"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

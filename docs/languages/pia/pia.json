@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pia",
-    "pk": 5026,
     "lc": "pia",
     "gw": false,
-    "ln": "Pima Bajo",
-    "ld": "ltr",
-    "ang": "Pima Bajo",
+    "ISO-639-3": "pia",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Pima Bajo",
+    "pk": 5026,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Pima Bajo",
     "alt": [
         "Lower Piman",
         "Mountain Pima",
@@ -21,5 +21,5 @@
         "Pima del sur",
         "Sonora Pima Bajo"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

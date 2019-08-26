@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "mgd",
-    "pk": 3806,
     "lc": "mgd",
     "gw": false,
-    "ln": "Moru",
-    "ld": "ltr",
-    "ang": "Moru",
+    "ISO-639-3": "mgd",
     "hc": "SS",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Moru",
+    "pk": 3806,
     "cc": [
         "SS",
         "US",
         "UG"
     ],
+    "lr": "Africa",
+    "ln": "Moru",
     "alt": [
         "Kala Moru",
         "Wa'di"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "tuq",
-    "pk": 6387,
     "lc": "tuq",
     "gw": false,
-    "ln": "Tedaga",
-    "ld": "ltr",
-    "ang": "Tedaga",
+    "ISO-639-3": "tuq",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Tedaga",
+    "pk": 6387,
     "cc": [
         "SD",
         "TD",
         "LY"
     ],
+    "lr": "Africa",
+    "ln": "Tedaga",
     "alt": [
         "Tebu",
         "Tibbu",
@@ -24,5 +24,5 @@
         "Tuda",
         "Tudaga"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pbs",
-    "pk": 4951,
     "lc": "pbs",
     "gw": false,
-    "ln": "Central Pame",
-    "ld": "ltr",
-    "ang": "Pame, Central",
+    "ISO-639-3": "pbs",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Pame, Central",
+    "pk": 4951,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Central Pame",
     "alt": [
         "Chichimeca",
         "Pame de Santa Mar\u00eda Acapulco",
@@ -18,5 +18,5 @@
         "Southern Pame",
         "Xi'oi"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

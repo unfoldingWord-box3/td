@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "yui",
-    "pk": 7298,
     "lc": "yui",
     "gw": false,
-    "ln": "Yurut\u00ed",
-    "ld": "ltr",
-    "ang": "Wajiara",
+    "ISO-639-3": "yui",
     "hc": "CO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Wajiara",
+    "pk": 7298,
     "cc": [
         "BR",
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Yurut\u00ed",
     "alt": [
         "Juruti",
         "Juruti-Tapuia",
@@ -30,5 +30,5 @@
         "Yuruti-Tapuya",
         "Yurutiye"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jee",
-    "pk": 2598,
     "lc": "jee",
     "gw": false,
-    "ln": "Jerung",
-    "ld": "ltr",
-    "ang": "Jerung",
+    "ISO-639-3": "jee",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Jerung",
+    "pk": 2598,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Jerung",
     "alt": [
         "Jero",
         "Jero Mala",
@@ -22,5 +22,5 @@
         "Zerum",
         "Ratnawati (Sindhuli)"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

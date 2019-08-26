@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "yzk",
-    "pk": 7329,
     "lc": "yzk",
     "gw": false,
-    "ln": "Zokhuo",
-    "ld": "ltr",
-    "ang": "Zokhuo",
+    "ISO-639-3": "yzk",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Zokhuo",
+    "pk": 7329,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "Zokhuo",
     "alt": [
         "Cowtail Phula",
         "Nimitso",
@@ -23,5 +23,5 @@
         "Daxingzhai",
         "Longle"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

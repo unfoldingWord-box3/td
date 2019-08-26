@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ktc",
-    "pk": 3161,
     "lc": "ktc",
     "gw": false,
-    "ln": "Kholok",
-    "ld": "ltr",
-    "ang": "Kholok",
+    "ISO-639-3": "ktc",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Kholok",
+    "pk": 3161,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Kholok",
     "alt": [
         "Kode",
         "Koode",
@@ -20,5 +20,5 @@
         "Widala",
         "Wurkum"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

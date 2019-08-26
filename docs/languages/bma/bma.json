@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bma",
-    "pk": 781,
     "lc": "bma",
     "gw": false,
-    "ln": "Lame",
-    "ld": "ltr",
-    "ang": "Lame",
+    "ISO-639-3": "bma",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Lame",
+    "pk": 781,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Lame",
     "alt": [
         "Rufu",
         "Ruhu (Rufawa)",
@@ -24,5 +24,5 @@
         "Tugura",
         "Bomberawa"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

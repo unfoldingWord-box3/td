@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jgk",
-    "pk": 2609,
     "lc": "jgk",
     "gw": false,
-    "ln": "Gwak",
-    "ld": "ltr",
-    "ang": "Gwak",
+    "ISO-639-3": "jgk",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Gwak",
+    "pk": 2609,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Gwak",
     "alt": [
         "Jar",
         "Jaracin Kasa",
@@ -21,5 +21,5 @@
         "Jarawan Bununu",
         "Jarawan Kasa"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

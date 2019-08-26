@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ess",
-    "pk": 1786,
     "lc": "ess",
     "gw": false,
-    "ln": "Central Siberian Yupik",
-    "ld": "ltr",
-    "ang": "Yupik, Central Siberian",
+    "ISO-639-3": "ess",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Yupik, Central Siberian",
+    "pk": 1786,
     "cc": [
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Central Siberian Yupik",
     "alt": [
         "Asiatic Yupik",
         "Bering Strait",
@@ -25,5 +25,5 @@
         "Noohalit (Peekit)",
         "St. Lawrence Island Eskimo"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

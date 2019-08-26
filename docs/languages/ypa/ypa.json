@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ypa",
-    "pk": 7258,
     "lc": "ypa",
     "gw": false,
-    "ln": "Phala",
-    "ld": "ltr",
-    "ang": "Phala",
+    "ISO-639-3": "ypa",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Phala",
+    "pk": 7258,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "Phala",
     "alt": [
         "Black Phula",
         "Bola",
@@ -19,5 +19,5 @@
         "Phula",
         "Phulepho"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

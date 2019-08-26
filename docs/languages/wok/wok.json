@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wok",
-    "pk": 6796,
     "lc": "wok",
     "gw": false,
-    "ln": "Longto",
-    "ld": "ltr",
-    "ang": "Longto",
+    "ISO-639-3": "wok",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Longto",
+    "pk": 6796,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Longto",
     "alt": [
         "Boko",
         "Gobeyo",
@@ -20,5 +20,5 @@
         "Voko",
         "Woko"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

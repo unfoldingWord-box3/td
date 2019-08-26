@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bks",
-    "pk": 747,
     "lc": "bks",
     "gw": false,
-    "ln": "Northern Sorsoganon",
-    "ld": "ltr",
-    "ang": "Sorsoganon, Northern",
+    "ISO-639-3": "bks",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Sorsoganon, Northern",
+    "pk": 747,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Northern Sorsoganon",
     "alt": [
         "Northern Sorsogon",
         "Sorsogon Bicolano",
@@ -18,5 +18,5 @@
         "Masbate",
         "Sorsogon"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cfm",
-    "pk": 1184,
     "lc": "cfm",
     "gw": false,
-    "ln": "Falam Chin",
-    "ld": "ltr",
-    "ang": "Chin, Falam",
+    "ISO-639-3": "cfm",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Chin, Falam",
+    "pk": 1184,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Falam Chin",
     "alt": [
         "Fallam",
         "Halam Chin",
@@ -38,5 +38,5 @@
         "Hualngo",
         "Mursum (Molsom)"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

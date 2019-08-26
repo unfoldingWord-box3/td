@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "con",
-    "pk": 1299,
     "lc": "con",
     "gw": false,
-    "ln": "Cof\u00e1n",
-    "ld": "ltr",
-    "ang": "Cof\u00e1n",
+    "ISO-639-3": "con",
     "hc": "EC",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Cof\u00e1n",
+    "pk": 1299,
     "cc": [
         "CO",
         "EC"
     ],
+    "lr": "Americas",
+    "ln": "Cof\u00e1n",
     "alt": [
         "A'i",
         "A'ingae",
@@ -19,5 +19,5 @@
         "Kofane",
         "Kof\u00e1n"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "swj",
-    "pk": 5910,
     "lc": "swj",
     "gw": false,
-    "ln": "Sira",
-    "ld": "ltr",
-    "ang": "Sira",
+    "ISO-639-3": "swj",
     "hc": "GA",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Sira",
+    "pk": 5910,
     "cc": [
         "GA"
     ],
+    "lr": "Africa",
+    "ln": "Sira",
     "alt": [
         "Gisira",
         "Ichira",
@@ -20,5 +20,5 @@
         "Shire",
         "Yichira"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tuc",
-    "pk": 6375,
     "lc": "tuc",
     "gw": false,
-    "ln": "Mutu",
-    "ld": "ltr",
-    "ang": "Mutu",
+    "ISO-639-3": "tuc",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Mutu",
+    "pk": 6375,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Mutu",
     "alt": [
         "Saveeng",
         "Sisi",
@@ -18,5 +18,5 @@
         "Tuom",
         "Oov/Mutu"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

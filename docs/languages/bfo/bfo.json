@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "bfo",
-    "pk": 623,
     "lc": "bfo",
     "gw": false,
-    "ln": "Malba Birifor",
-    "ld": "ltr",
-    "ang": "Birifor, Malba",
+    "ISO-639-3": "bfo",
     "hc": "BF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Birifor, Malba",
+    "pk": 623,
     "cc": [
         "BF"
     ],
+    "lr": "Africa",
+    "ln": "Malba Birifor",
     "alt": [
         "Birifo",
         "Malba-Birifor",
         "Northern Birifor"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

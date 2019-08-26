@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kdl",
-    "pk": 2771,
     "lc": "kdl",
     "gw": false,
-    "ln": "Tsikimba",
-    "ld": "ltr",
-    "ang": "Tsikimba",
+    "ISO-639-3": "kdl",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Tsikimba",
+    "pk": 2771,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Tsikimba",
     "alt": [
         "Agaushi",
         "Akimba",
@@ -19,5 +19,5 @@
         "Kamberri",
         "Kimba"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

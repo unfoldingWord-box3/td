@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lcl",
-    "pk": 3384,
     "lc": "lcl",
     "gw": false,
-    "ln": "Lisela",
-    "ld": "ltr",
-    "ang": "Lisela",
+    "ISO-639-3": "lcl",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Lisela",
+    "pk": 3384,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Lisela",
     "alt": [
         "Buru",
         "Li Enyorot",
@@ -20,5 +20,5 @@
         "Lisela (Licela)",
         "Licella"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

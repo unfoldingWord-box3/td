@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bbi",
-    "pk": 516,
     "lc": "bbi",
     "gw": false,
-    "ln": "Barombi",
-    "ld": "ltr",
-    "ang": "Barombi",
+    "ISO-639-3": "bbi",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Barombi",
+    "pk": 516,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Barombi",
     "alt": [
         "Balombi",
         "Barumbi",
@@ -20,5 +20,5 @@
         "Rambi",
         "Rombi"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

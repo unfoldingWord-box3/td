@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "nyu",
-    "pk": 4744,
     "lc": "nyu",
     "gw": false,
-    "ln": "Nyungwe",
-    "ld": "ltr",
-    "ang": "Nyungwe",
+    "ISO-639-3": "nyu",
     "hc": "MZ",
-    "lr": "Africa",
+    "gwcode": "pt",
+    "ang": "Nyungwe",
+    "pk": 4744,
     "cc": [
         "MZ",
         "ZW"
     ],
+    "lr": "Africa",
+    "ln": "Nyungwe",
     "alt": [
         "Chinyungwi",
         "Cinyungwe",
@@ -20,5 +20,5 @@
         "Tete",
         "Yungwe"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

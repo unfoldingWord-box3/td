@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "kot",
-    "pk": 3053,
     "lc": "kot",
     "gw": false,
-    "ln": "Lagwan",
-    "ld": "ltr",
-    "ang": "Lagwan",
+    "ISO-639-3": "kot",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Lagwan",
+    "pk": 3053,
     "cc": [
         "CM",
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Lagwan",
     "alt": [
         "Kotoko-Logone",
         "Lagouane",
@@ -19,5 +19,5 @@
         "Logone",
         "Logone-Gana (Kotoko-Gana)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

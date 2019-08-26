@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sop",
-    "pk": 5762,
     "lc": "sop",
     "gw": false,
-    "ln": "Songe",
-    "ld": "ltr",
-    "ang": "Songe",
+    "ISO-639-3": "sop",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Songe",
+    "pk": 5762,
     "cc": [
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Songe",
     "alt": [
         "Kalebwe",
         "Kisongi",
@@ -24,5 +24,5 @@
         "Kilombeno Kibya",
         "Western Kalebwe (Esambi Kipya)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

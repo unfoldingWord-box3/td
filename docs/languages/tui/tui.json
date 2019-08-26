@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "tui",
-    "pk": 6381,
     "lc": "tui",
     "gw": false,
-    "ln": "Tupuri",
-    "ld": "ltr",
-    "ang": "Tupuri",
+    "ISO-639-3": "tui",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Tupuri",
+    "pk": 6381,
     "cc": [
         "CM",
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Tupuri",
     "alt": [
         "Dema",
         "Honya",
@@ -22,5 +22,5 @@
         "Tuburi",
         "Wina"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

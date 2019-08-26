@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "eka",
-    "pk": 1713,
     "lc": "eka",
     "gw": false,
-    "ln": "Ekajuk",
-    "ld": "ltr",
-    "ang": "Ekajuk",
+    "ISO-639-3": "eka",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Ekajuk",
+    "pk": 1713,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Ekajuk",
     "alt": [
         "Akajo",
         "Ebanimbim",
@@ -18,5 +18,5 @@
         "Esham",
         "Mfom"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

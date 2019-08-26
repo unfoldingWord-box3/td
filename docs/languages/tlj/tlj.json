@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tlj",
-    "pk": 6180,
     "lc": "tlj",
     "gw": false,
-    "ln": "Talinga-Bwisi",
-    "ld": "ltr",
-    "ang": "Talinga-Bwisi",
+    "ISO-639-3": "tlj",
     "hc": "UG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Talinga-Bwisi",
+    "pk": 6180,
     "cc": [
         "UG"
     ],
+    "lr": "Africa",
+    "ln": "Talinga-Bwisi",
     "alt": [
         "Bwisi",
         "Lubwisi",
@@ -19,5 +19,5 @@
         "Olubwisi",
         "Bwissi"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

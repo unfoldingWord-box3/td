@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bte",
-    "pk": 949,
     "lc": "bte",
     "gw": false,
-    "ln": "Gamo-Ningi",
-    "ld": "ltr",
-    "ang": "Gamo-Ningi",
+    "ISO-639-3": "bte",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Gamo-Ningi",
+    "pk": 949,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Gamo-Ningi",
     "alt": [
         "Mbotu",
         "Mbuta",
@@ -18,5 +18,5 @@
         "Buta",
         "Ba-Mbutu"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

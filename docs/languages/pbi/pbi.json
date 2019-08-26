@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pbi",
-    "pk": 4945,
     "lc": "pbi",
     "gw": false,
-    "ln": "Parkwa",
-    "ld": "ltr",
-    "ang": "Parkwa",
+    "ISO-639-3": "pbi",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Parkwa",
+    "pk": 4945,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Parkwa",
     "alt": [
         "Gwadi Parekwa",
         "Kudala",
@@ -22,5 +22,5 @@
         "Podogo",
         "Podokwo"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

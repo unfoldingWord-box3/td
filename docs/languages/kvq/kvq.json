@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kvq",
-    "pk": 3224,
     "lc": "kvq",
     "gw": false,
-    "ln": "Geba Karen",
-    "ld": "ltr",
-    "ang": "Karen, Geba",
+    "ISO-639-3": "kvq",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Karen, Geba",
+    "pk": 3224,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Geba Karen",
     "alt": [
         "Daneh",
         "Geba",
@@ -24,5 +24,5 @@
         "Sawkho",
         "Thamitaik (Sawkeepho)"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

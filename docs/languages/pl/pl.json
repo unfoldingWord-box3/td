@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "pol",
-    "pk": 5061,
     "lc": "pl",
     "gw": false,
-    "ln": "j\u0119zyk polski, polszczyzna",
-    "ld": "ltr",
-    "ang": "Polish",
+    "ISO-639-3": "pol",
     "hc": "PL",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Polish",
+    "pk": 5061,
     "cc": [
         "AT",
         "BR",
@@ -35,9 +33,11 @@
         "IE",
         "UA"
     ],
+    "lr": "Europe",
+    "ln": "j\u0119zyk polski, polszczyzna",
     "alt": [
         "Polski",
         "Polnisch"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ore",
-    "pk": 4865,
     "lc": "ore",
     "gw": false,
-    "ln": "Orej\u00f3n",
-    "ld": "ltr",
-    "ang": "Orej\u00f3n",
+    "ISO-639-3": "ore",
     "hc": "PE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Orej\u00f3n",
+    "pk": 4865,
     "cc": [
         "PE"
     ],
+    "lr": "Americas",
+    "ln": "Orej\u00f3n",
     "alt": [
         "Coto",
         "Koto",
@@ -20,5 +20,5 @@
         "Payagua",
         "Tutapi"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

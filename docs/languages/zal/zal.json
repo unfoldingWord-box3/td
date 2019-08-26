@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zal",
-    "pk": 7342,
     "lc": "zal",
     "gw": false,
-    "ln": "\u67d4\u82e5",
-    "ld": "ltr",
-    "ang": "Zauzou",
+    "ISO-639-3": "zal",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Zauzou",
+    "pk": 7342,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u67d4\u82e5",
     "alt": [
         "Jaojo",
         "Raorou",
@@ -18,5 +18,5 @@
         "Wupijiang",
         "Bijilan"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

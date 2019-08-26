@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nxq",
-    "pk": 4721,
     "lc": "nxq",
     "gw": false,
-    "ln": "\u897f\u90e8\u65b9\u8a00",
-    "ld": "ltr",
-    "ang": "Naxi",
+    "ISO-639-3": "nxq",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Naxi",
+    "pk": 4721,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u897f\u90e8\u65b9\u8a00",
     "alt": [
         "Lomi",
         "Mu",
@@ -22,5 +22,5 @@
         "Mosso",
         "Mo-Su"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

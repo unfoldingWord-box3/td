@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zyp",
-    "pk": 7499,
     "lc": "zyp",
     "gw": false,
-    "ln": "Zyphe Chin",
-    "ld": "ltr",
-    "ang": "Chin, Zyphe",
+    "ISO-639-3": "zyp",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Chin, Zyphe",
+    "pk": 7499,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Zyphe Chin",
     "alt": [
         "Vawngtu",
         "Zophei",
@@ -18,5 +18,5 @@
         "Zyphe",
         "Zo-pe"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

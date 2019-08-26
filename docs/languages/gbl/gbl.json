@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gbl",
-    "pk": 1938,
     "lc": "gbl",
     "gw": false,
-    "ln": "Gamit",
-    "ld": "ltr",
-    "ang": "Gamit",
+    "ISO-639-3": "gbl",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "gu",
+    "ang": "Gamit",
+    "pk": 1938,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Gamit",
     "alt": [
         "Gamati",
         "Gameti",
@@ -19,5 +19,5 @@
         "Gamti",
         "Gavit"
     ],
-    "gwcode": "gu"
+    "ld": "ltr"
 }

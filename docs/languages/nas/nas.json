@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "nas",
-    "pk": 4303,
     "lc": "nas",
     "gw": false,
-    "ln": "Naasioi",
-    "ld": "ltr",
-    "ang": "Naasioi",
+    "ISO-639-3": "nas",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Naasioi",
+    "pk": 4303,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Naasioi",
     "alt": [
         "Kieta",
         "Orami (Guava)",
         "Pirung (Naasioi)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

@@ -1,22 +1,22 @@
 {
-    "ISO-639-3": "bbp",
-    "pk": 523,
     "lc": "bbp",
     "gw": false,
-    "ln": "West Central Banda",
-    "ld": "ltr",
-    "ang": "Banda, West Central",
+    "ISO-639-3": "bbp",
     "hc": "CF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Banda, West Central",
+    "pk": 523,
     "cc": [
         "CF",
         "SD",
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "West Central Banda",
     "alt": [
         "Golo",
         "Wojo (Hodjo)",
         "Gbaga-Nord (Gbaga-2)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

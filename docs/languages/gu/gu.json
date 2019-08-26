@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "guj",
-    "pk": 2151,
     "lc": "gu",
     "gw": true,
-    "ln": "\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0",
-    "ld": "ltr",
-    "ang": "Gujarati",
+    "ISO-639-3": "guj",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": null,
+    "ang": "Gujarati",
+    "pk": 2151,
     "cc": [
         "BD",
         "FJ",
@@ -36,6 +34,8 @@
         "BH",
         "BI"
     ],
+    "lr": "Asia",
+    "ln": "\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0",
     "alt": [
         "Gujerathi",
         "Gujerati",
@@ -58,5 +58,5 @@
         "Jhalawadi",
         "Gramya"
     ],
-    "gwcode": null
+    "ld": "ltr"
 }

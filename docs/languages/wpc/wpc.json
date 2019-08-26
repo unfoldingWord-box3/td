@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "wpc",
-    "pk": 6804,
     "lc": "wpc",
     "gw": false,
-    "ln": "Maco",
-    "ld": "ltr",
-    "ang": "Maco",
+    "ISO-639-3": "wpc",
     "hc": "VE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Maco",
+    "pk": 6804,
     "cc": [
         "VE"
     ],
+    "lr": "Americas",
+    "ln": "Maco",
     "alt": [
         "Itoto",
         "Jojod",
         "Mako",
         "Wotuja"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

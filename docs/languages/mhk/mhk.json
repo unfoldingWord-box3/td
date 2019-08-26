@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mhk",
-    "pk": 3838,
     "lc": "mhk",
     "gw": false,
-    "ln": "Mungaka",
-    "ld": "ltr",
-    "ang": "Mungaka",
+    "ISO-639-3": "mhk",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Mungaka",
+    "pk": 3838,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Mungaka",
     "alt": [
         "Bali",
         "Li",
@@ -21,5 +21,5 @@
         "Nde (Bandeng)",
         "Ti (Bati)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

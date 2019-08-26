@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kog",
-    "pk": 3044,
     "lc": "kog",
     "gw": false,
-    "ln": "Cogui",
-    "ld": "ltr",
-    "ang": "Kogi",
+    "ISO-639-3": "kog",
     "hc": "CO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Kogi",
+    "pk": 3044,
     "cc": [
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Cogui",
     "alt": [
         "Coghui",
         "Cogui",
@@ -18,5 +18,5 @@
         "Kaggaba",
         "Kogui"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

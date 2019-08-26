@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "wos",
-    "pk": 6801,
     "lc": "wos",
     "gw": false,
-    "ln": "Hanga Hundi",
-    "ld": "ltr",
-    "ang": "Hanga Hundi",
+    "ISO-639-3": "wos",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Hanga Hundi",
+    "pk": 6801,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Hanga Hundi",
     "alt": [
         "Kwasengen",
         "West Wosera"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

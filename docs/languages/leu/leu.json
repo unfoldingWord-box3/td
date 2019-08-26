@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "leu",
-    "pk": 3421,
     "lc": "leu",
     "gw": false,
-    "ln": "Kara (Papua New Guinea)",
-    "ld": "ltr",
-    "ang": "Kara",
+    "ISO-639-3": "leu",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Kara",
+    "pk": 3421,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Kara (Papua New Guinea)",
     "alt": [
         "Lemusmus",
         "Lauan-Nonopai",
         "Luburua",
         "Ngavalus-Lossuk"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

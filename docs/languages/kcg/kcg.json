@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kcg",
-    "pk": 2742,
     "lc": "kcg",
     "gw": false,
-    "ln": "Tyap",
-    "ld": "ltr",
-    "ang": "Tyap",
+    "ISO-639-3": "kcg",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Tyap",
+    "pk": 2742,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Tyap",
     "alt": [
         "Katab",
         "Kataf",
@@ -34,5 +34,5 @@
         "Daroro",
         "Takat"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

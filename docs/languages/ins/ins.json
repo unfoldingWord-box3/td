@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "ins",
-    "pk": 2496,
     "lc": "ins",
     "gw": false,
-    "ln": "Indian Sign Language",
-    "ld": "ltr",
-    "ang": "Indian Sign Language",
+    "ISO-639-3": "ins",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Indian Sign Language",
+    "pk": 2496,
     "cc": [
         "BD",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Indian Sign Language",
     "alt": [
         "Indo-Pakistani Sign Language",
         "Urban Indian Sign Language",
@@ -19,5 +19,5 @@
         "Kolkata Sign Language",
         "Mumbai-Delhi Sign Language"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

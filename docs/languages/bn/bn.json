@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "ben",
-    "pk": 805,
     "lc": "bn",
     "gw": true,
-    "ln": "\u09ac\u09be\u0982\u09b2\u09be",
-    "ld": "ltr",
-    "ang": "Bengali, Bangla",
+    "ISO-639-3": "ben",
     "hc": "BD",
-    "lr": "Asia",
+    "gwcode": null,
+    "ang": "Bengali, Bangla",
+    "pk": 805,
     "cc": [
         "BD",
         "FR",
@@ -29,6 +27,8 @@
         "MM",
         "AE"
     ],
+    "lr": "Asia",
+    "ln": "\u09ac\u09be\u0982\u09b2\u09be",
     "alt": [
         "Bangala",
         "Bangla-Bhasa",
@@ -39,5 +39,5 @@
         "Mymensingh",
         "Noakhali"
     ],
-    "gwcode": null
+    "ld": "ltr"
 }

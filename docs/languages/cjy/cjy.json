@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "cjy",
-    "pk": 1231,
     "lc": "cjy",
     "gw": false,
-    "ln": "\u664b\u8bed",
-    "ld": "ltr",
-    "ang": "Chinese, Jinyu",
+    "ISO-639-3": "cjy",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Chinese, Jinyu",
+    "pk": 1231,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u664b\u8bed",
     "alt": [
         "Jin",
         "Jinyu",
         "Changzhi",
         "Pingyao"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

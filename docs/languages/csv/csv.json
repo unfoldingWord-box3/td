@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "csv",
-    "pk": 1364,
     "lc": "csv",
     "gw": false,
-    "ln": "Sumtu Chin",
-    "ld": "ltr",
-    "ang": "Chin, Sumtu",
+    "ISO-639-3": "csv",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Chin, Sumtu",
+    "pk": 1364,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Sumtu Chin",
     "alt": [
         "Ahmyo",
         "Chang",
@@ -19,5 +19,5 @@
         "Settu Hmyo",
         "Sungtu"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hmq",
-    "pk": 2305,
     "lc": "hmq",
     "gw": false,
-    "ln": "\u4e1c\u90e8\u571f\u8bed",
-    "ld": "ltr",
-    "ang": "Miao, Eastern Qiandong",
+    "ISO-639-3": "hmq",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Miao, Eastern Qiandong",
+    "pk": 2305,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u4e1c\u90e8\u571f\u8bed",
     "alt": [
         "Black Miao",
         "Central Miao",
@@ -20,5 +20,5 @@
         "Hei Miao",
         "Hmu"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "btn",
-    "pk": 957,
     "lc": "btn",
     "gw": false,
-    "ln": "Ratagnon",
-    "ld": "ltr",
-    "ang": "Ratagnon",
+    "ISO-639-3": "btn",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Ratagnon",
+    "pk": 957,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Ratagnon",
     "alt": [
         "Aradigi",
         "Datagnon",
@@ -18,5 +18,5 @@
         "Latagnun",
         "Latan"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

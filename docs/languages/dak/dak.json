@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "dak",
-    "pk": 1429,
     "lc": "dak",
     "gw": false,
-    "ln": "Dakota",
-    "ld": "ltr",
-    "ang": "Dakota",
+    "ISO-639-3": "dak",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Dakota",
+    "pk": 1429,
     "cc": [
         "US",
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Dakota",
     "alt": [
         "Sioux",
         "Nakota (Nakoda)",
@@ -23,5 +23,5 @@
         "Dakota (Dakhota)",
         "Nakota (Yankton)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

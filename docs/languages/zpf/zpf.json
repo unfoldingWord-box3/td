@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "zpf",
-    "pk": 7442,
     "lc": "zpf",
     "gw": false,
-    "ln": "San Pedro Quiatoni Zapotec",
-    "ld": "ltr",
-    "ang": "Zapotec, San Pedro Quiatoni",
+    "ISO-639-3": "zpf",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Zapotec, San Pedro Quiatoni",
+    "pk": 7442,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "San Pedro Quiatoni Zapotec",
     "alt": [
         "Eastern Tlacolula Zapotec",
         "Quiatoni Zapotec",
         "Zapoteco de San Pedro Quiatoni"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

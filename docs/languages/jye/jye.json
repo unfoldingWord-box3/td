@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jye",
-    "pk": 2691,
     "lc": "jye",
     "gw": false,
-    "ln": "\u05d9\u05d4\u05d5\u05d3\u05d9\u05ea-\u05ea\u05d9\u05de\u05e0\u05d9\u05ea",
-    "ld": "rtl",
-    "ang": "Arabic, Judeo-Yemeni",
+    "ISO-639-3": "jye",
     "hc": "IL",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Arabic, Judeo-Yemeni",
+    "pk": 2691,
     "cc": [
         "IL"
     ],
+    "lr": "Asia",
+    "ln": "\u05d9\u05d4\u05d5\u05d3\u05d9\u05ea-\u05ea\u05d9\u05de\u05e0\u05d9\u05ea",
     "alt": [
         "Judeo-Yemeni",
         "Yemenite Judeo-Arabic",
@@ -18,5 +18,5 @@
         "Be:da",
         "San'a"
     ],
-    "gwcode": "en"
+    "ld": "rtl"
 }

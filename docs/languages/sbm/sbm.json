@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sbm",
-    "pk": 5491,
     "lc": "sbm",
     "gw": false,
-    "ln": "Sagala",
-    "ld": "ltr",
-    "ang": "Sagala",
+    "ISO-639-3": "sbm",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Sagala",
+    "pk": 5491,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Sagala",
     "alt": [
         "Kisagala",
         "Kisagara",
@@ -20,5 +20,5 @@
         "Kwiva",
         "Nkwifiya (Kwifa)"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

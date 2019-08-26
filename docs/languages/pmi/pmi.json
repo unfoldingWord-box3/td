@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pmi",
-    "pk": 5088,
     "lc": "pmi",
     "gw": false,
-    "ln": "\u666e\u7c73\u8bed",
-    "ld": "ltr",
-    "ang": "Pumi, Northern",
+    "ISO-639-3": "pmi",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Pumi, Northern",
+    "pk": 5088,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u666e\u7c73\u8bed",
     "alt": [
         "Ch'rame",
         "Pimi",
@@ -20,5 +20,5 @@
         "Pruumi",
         "P'umi"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

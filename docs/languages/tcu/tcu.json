@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tcu",
-    "pk": 6025,
     "lc": "tcu",
     "gw": false,
-    "ln": "Southeastern Tarahumara",
-    "ld": "ltr",
-    "ang": "Tarahumara, Southeastern",
+    "ISO-639-3": "tcu",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Tarahumara, Southeastern",
+    "pk": 6025,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Southeastern Tarahumara",
     "alt": [
         "Balleza",
         "Chinat\u00fa",
@@ -19,5 +19,5 @@
         "Tarahumara del Sureste",
         "Turuachi"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

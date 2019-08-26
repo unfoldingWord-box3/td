@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "inj",
-    "pk": 2490,
     "lc": "inj",
     "gw": false,
-    "ln": "Jungle Inga",
-    "ld": "ltr",
-    "ang": "Inga, Jungle",
+    "ISO-639-3": "inj",
     "hc": "CO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Inga, Jungle",
+    "pk": 2490,
     "cc": [
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Jungle Inga",
     "alt": [
         "Ingano",
         "Lowland Inga",
         "Mocoa"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

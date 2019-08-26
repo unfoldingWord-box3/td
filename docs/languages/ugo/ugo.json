@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ugo",
-    "pk": 6487,
     "lc": "ugo",
     "gw": false,
-    "ln": "Ugong",
-    "ld": "ltr",
-    "ang": "Ugong",
+    "ISO-639-3": "ugo",
     "hc": "TH",
-    "lr": "Asia",
+    "gwcode": "th",
+    "ang": "Ugong",
+    "pk": 6487,
     "cc": [
         "TH"
     ],
+    "lr": "Asia",
+    "ln": "Ugong",
     "alt": [
         "Gong",
         "Lawa",
@@ -18,5 +18,5 @@
         "Ugong",
         "Suphanburi"
     ],
-    "gwcode": "th"
+    "ld": "ltr"
 }

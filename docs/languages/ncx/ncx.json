@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "ncx",
-    "pk": 4351,
     "lc": "ncx",
     "gw": false,
-    "ln": "Central Puebla Nahuatl",
-    "ld": "ltr",
-    "ang": "Nahuatl, Central Puebla",
+    "ISO-639-3": "ncx",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Nahuatl, Central Puebla",
+    "pk": 4351,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Central Puebla Nahuatl",
     "alt": [
         "Central Puebla Aztec",
         "N\u00e1huatl del Suroeste de Puebla",
         "Southwestern Puebla Nahuatl"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

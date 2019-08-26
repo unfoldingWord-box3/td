@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hsn",
-    "pk": 2358,
     "lc": "hsn",
     "gw": false,
-    "ln": "\u6e58",
-    "ld": "ltr",
-    "ang": "Chinese, Xiang",
+    "ISO-639-3": "hsn",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Chinese, Xiang",
+    "pk": 2358,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u6e58",
     "alt": [
         "Hsiang",
         "Hunan",
@@ -24,5 +24,5 @@
         "Shaoyang",
         "Xupu"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "mix",
-    "pk": 3876,
     "lc": "mix",
     "gw": false,
-    "ln": "Mixtepec Mixtec",
-    "ld": "ltr",
-    "ang": "Mixtec, Mixtepec",
+    "ISO-639-3": "mix",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mixtec, Mixtepec",
+    "pk": 3876,
     "cc": [
         "MX",
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Mixtepec Mixtec",
     "alt": [
         "Eastern Juxtlahuaca Mixtec",
         "Mixteco de Oeste Central",
         "Mixteco de San Juan Mixtepec"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

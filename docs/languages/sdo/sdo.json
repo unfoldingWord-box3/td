@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "sdo",
-    "pk": 5536,
     "lc": "sdo",
     "gw": false,
-    "ln": "Bukar-Sadung Bidayuh",
-    "ld": "ltr",
-    "ang": "Bidayuh, Bukar-Sadong",
+    "ISO-639-3": "sdo",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Bidayuh, Bukar-Sadong",
+    "pk": 5536,
     "cc": [
         "ID",
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Bukar-Sadung Bidayuh",
     "alt": [
         "Buka",
         "Bukar",
@@ -25,5 +25,5 @@
         "Bukar Bidayuh (Bidayah)",
         "Bukar Sadung Bidayuh"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

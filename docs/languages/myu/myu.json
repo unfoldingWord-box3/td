@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "myu",
-    "pk": 4256,
     "lc": "myu",
     "gw": false,
-    "ln": "Munduruk\u00fa",
-    "ld": "ltr",
-    "ang": "Munduruk\u00fa",
+    "ISO-639-3": "myu",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Munduruk\u00fa",
+    "pk": 4256,
     "cc": [
         "BR"
     ],
+    "lr": "Americas",
+    "ln": "Munduruk\u00fa",
     "alt": [
         "Caras-Pretas",
         "Monjoroku",
@@ -19,5 +19,5 @@
         "Pari",
         "Weidyenye"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

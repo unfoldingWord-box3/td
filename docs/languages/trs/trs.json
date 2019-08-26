@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "trs",
-    "pk": 6316,
     "lc": "trs",
     "gw": false,
-    "ln": "Chicahuaxtla Triqui",
-    "ld": "ltr",
-    "ang": "Triqui, Chicahuaxtla",
+    "ISO-639-3": "trs",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Triqui, Chicahuaxtla",
+    "pk": 6316,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Chicahuaxtla Triqui",
     "alt": [
         "Chicahuaxtla Trique",
         "Triqui Alto",
@@ -18,5 +18,5 @@
         "San Jos\u00e9 Xochistl\u00e1",
         "Santo Domingo del Estado"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

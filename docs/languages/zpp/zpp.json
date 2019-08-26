@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "zpp",
-    "pk": 7452,
     "lc": "zpp",
     "gw": false,
-    "ln": "El Alto Zapotec",
-    "ld": "ltr",
-    "ang": "Zapotec, El Alto",
+    "ISO-639-3": "zpp",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Zapotec, El Alto",
+    "pk": 7452,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "El Alto Zapotec",
     "alt": [
         "South Central Zimatlan Zapotec",
         "Zapoteco de San Pedro el Alto"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

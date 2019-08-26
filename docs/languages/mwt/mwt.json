@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "mwt",
-    "pk": 4209,
     "lc": "mwt",
     "gw": false,
-    "ln": "Moken",
-    "ld": "ltr",
-    "ang": "Moken",
+    "ISO-639-3": "mwt",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Moken",
+    "pk": 4209,
     "cc": [
         "TH",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Moken",
     "alt": [
         "Basing",
         "Chau Ko'",
@@ -27,5 +27,5 @@
         "Jait (Ja-It)",
         "Moklen"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "buy",
-    "pk": 992,
     "lc": "buy",
     "gw": false,
-    "ln": "Bullom So",
-    "ld": "ltr",
-    "ang": "Bullom So",
+    "ISO-639-3": "buy",
     "hc": "SL",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Bullom So",
+    "pk": 992,
     "cc": [
         "SL"
     ],
+    "lr": "Africa",
+    "ln": "Bullom So",
     "alt": [
         "Bolom",
         "Bulem",
@@ -20,5 +20,5 @@
         "Mandingi",
         "Northern Bullom"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

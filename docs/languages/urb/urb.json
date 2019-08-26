@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "urb",
-    "pk": 6541,
     "lc": "urb",
     "gw": false,
-    "ln": "Urub\u00fa-Kaapor",
-    "ld": "ltr",
-    "ang": "Kaapor",
+    "ISO-639-3": "urb",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Kaapor",
+    "pk": 6541,
     "cc": [
         "BR"
     ],
+    "lr": "Americas",
+    "ln": "Urub\u00fa-Kaapor",
     "alt": [
         "Caapor",
         "Ka'apor",
@@ -18,5 +18,5 @@
         "Urub\u00fa-Kaapor",
         "Urub\u00fa"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

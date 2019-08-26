@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "enb",
-    "pk": 1749,
     "lc": "enb",
     "gw": false,
-    "ln": "Markweeta",
-    "ld": "ltr",
-    "ang": "Markweeta",
+    "ISO-639-3": "enb",
     "hc": "KE",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Markweeta",
+    "pk": 1749,
     "cc": [
         "KE"
     ],
+    "lr": "Africa",
+    "ln": "Markweeta",
     "alt": [
         "Endo-Marakwet",
         "Marakuet",
         "Sambirir (Southern Markweeta)",
         "Endo (Northern Markweeta)"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

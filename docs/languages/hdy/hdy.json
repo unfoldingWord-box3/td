@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hdy",
-    "pk": 2251,
     "lc": "hdy",
     "gw": false,
-    "ln": "Hadiyya",
-    "ld": "ltr",
-    "ang": "Hadiyya",
+    "ISO-639-3": "hdy",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Hadiyya",
+    "pk": 2251,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Hadiyya",
     "alt": [
         "Adea",
         "Adiya",
@@ -18,5 +18,5 @@
         "Hadia",
         "Hadiya"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

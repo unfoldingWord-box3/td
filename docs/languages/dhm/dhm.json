@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "dhm",
-    "pk": 1511,
     "lc": "dhm",
     "gw": false,
-    "ln": "Zemba",
-    "ld": "ltr",
-    "ang": "Dhimba",
+    "ISO-639-3": "dhm",
     "hc": "AO",
-    "lr": "Africa",
+    "gwcode": "pt",
+    "ang": "Dhimba",
+    "pk": 1511,
     "cc": [
         "AO",
         "NA"
     ],
+    "lr": "Africa",
+    "ln": "Zemba",
     "alt": [
         "Chimba",
         "Dimba",
@@ -23,5 +23,5 @@
         "Himba",
         "Luzimba"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

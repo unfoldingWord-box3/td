@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "pll",
-    "pk": 5071,
     "lc": "pll",
     "gw": false,
-    "ln": "Shwe Palaung",
-    "ld": "ltr",
-    "ang": "Palaung, Shwe",
+    "ISO-639-3": "pll",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Palaung, Shwe",
+    "pk": 5071,
     "cc": [
         "CN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Shwe Palaung",
     "alt": [
         "Golden Palaung",
         "Liang Palaung",
@@ -23,5 +23,5 @@
         "Ta'ang Samlung",
         "Ywama"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

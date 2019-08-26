@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "awy",
-    "pk": 453,
     "lc": "awy",
     "gw": false,
-    "ln": "Edera Awyu",
-    "ld": "ltr",
-    "ang": "Awyu, Edera",
+    "ISO-639-3": "awy",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Awyu, Edera",
+    "pk": 453,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Edera Awyu",
     "alt": [
         "Jenimu",
         "Oser",
@@ -19,5 +19,5 @@
         "Syiagha",
         "Yenimu"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

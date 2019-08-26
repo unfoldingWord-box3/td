@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zaj",
-    "pk": 7340,
     "lc": "zaj",
     "gw": false,
-    "ln": "Zaramo",
-    "ld": "ltr",
-    "ang": "Zaramo",
+    "ISO-639-3": "zaj",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Zaramo",
+    "pk": 7340,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Zaramo",
     "alt": [
         "Dzalamo",
         "Kizaramo",
@@ -19,5 +19,5 @@
         "Zalamo",
         "Zaramu"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

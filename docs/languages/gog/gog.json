@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gog",
-    "pk": 2095,
     "lc": "gog",
     "gw": false,
-    "ln": "Gogo",
-    "ld": "ltr",
-    "ang": "Gogo",
+    "ISO-639-3": "gog",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Gogo",
+    "pk": 2095,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Gogo",
     "alt": [
         "Chigogo",
         "Kigogo",
@@ -18,5 +18,5 @@
         "Nyaugogo (Central Gogo)",
         "Tumba (East Gogo)"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

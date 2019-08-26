@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "yac",
-    "pk": 7112,
     "lc": "yac",
     "gw": false,
-    "ln": "Pass Valley Yali",
-    "ld": "ltr",
-    "ang": "Yali, Pass Valley",
+    "ISO-639-3": "yac",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Yali, Pass Valley",
+    "pk": 7112,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Pass Valley Yali",
     "alt": [
         "Abendago",
         "North Ngalik",
@@ -18,5 +18,5 @@
         "Western Yali",
         "Yaly"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

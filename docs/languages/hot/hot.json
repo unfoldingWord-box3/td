@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hot",
-    "pk": 2336,
     "lc": "hot",
     "gw": false,
-    "ln": "Hote",
-    "ld": "ltr",
-    "ang": "Hote",
+    "ISO-639-3": "hot",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Hote",
+    "pk": 2336,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Hote",
     "alt": [
         "Ho'tei",
         "Mal\u00ea",
@@ -18,5 +18,5 @@
         "Misim (Musim)",
         "Ombalei"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

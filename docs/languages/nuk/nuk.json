@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nuk",
-    "pk": 4683,
     "lc": "nuk",
     "gw": false,
-    "ln": "Nuu-chah-nulth",
-    "ld": "ltr",
-    "ang": "Nuu-chah-nulth",
+    "ISO-639-3": "nuk",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Nuu-chah-nulth",
+    "pk": 4683,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Nuu-chah-nulth",
     "alt": [
         "Aht",
         "Nootka",
@@ -19,5 +19,5 @@
         "T'aat'aaqsapa",
         "Westcoast"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

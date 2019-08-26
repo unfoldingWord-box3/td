@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "kkh",
-    "pk": 2940,
     "lc": "kkh",
     "gw": false,
-    "ln": "Kh\u00fcn",
-    "ld": "ltr",
-    "ang": "Kh\u00fcn",
+    "ISO-639-3": "kkh",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Kh\u00fcn",
+    "pk": 2940,
     "cc": [
         "TH",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Kh\u00fcn",
     "alt": [
         "Gon Shan",
         "Hkun",
@@ -23,5 +23,5 @@
         "Kang Muang",
         "Muang Lang"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "mcc",
-    "pk": 3704,
     "lc": "mcc",
     "gw": false,
-    "ln": "Bitur",
-    "ld": "ltr",
-    "ang": "Bitur",
+    "ISO-639-3": "mcc",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Bitur",
+    "pk": 3704,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Bitur",
     "alt": [
         "Bituri",
         "Dudi",
         "Mutum",
         "Paswam"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

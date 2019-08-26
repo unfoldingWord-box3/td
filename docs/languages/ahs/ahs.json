@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ahs",
-    "pk": 159,
     "lc": "ahs",
     "gw": false,
-    "ln": "Ashe",
-    "ld": "ltr",
-    "ang": "Ashe",
+    "ISO-639-3": "ahs",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Ashe",
+    "pk": 159,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Ashe",
     "alt": [
         "Uchek",
         "Unorr",
@@ -19,5 +19,5 @@
         "Koron Ache",
         "Koron Ala"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

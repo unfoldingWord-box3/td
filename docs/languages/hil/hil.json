@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "hil",
-    "pk": 2273,
     "lc": "hil",
     "gw": false,
-    "ln": "Hiligaynon",
-    "ld": "ltr",
-    "ang": "Hiligaynon",
+    "ISO-639-3": "hil",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Hiligaynon",
+    "pk": 2273,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Hiligaynon",
     "alt": [
         "Hiligainon",
         "Illogo",
         "Ilonggo",
         "Kari"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

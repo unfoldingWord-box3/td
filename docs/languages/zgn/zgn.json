@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "zgn",
-    "pk": 7372,
     "lc": "zgn",
     "gw": false,
-    "ln": "\u6842\u8fb9",
-    "ld": "ltr",
-    "ang": "Zhuang, Guibian",
+    "ISO-639-3": "zgn",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Zhuang, Guibian",
+    "pk": 7372,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u6842\u8fb9",
     "alt": [
         "Buyei",
         "Buyoi",
         "Kang Yei",
         "Northern Zhuang"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

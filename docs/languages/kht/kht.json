@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "kht",
-    "pk": 2875,
     "lc": "kht",
     "gw": false,
-    "ln": "Khamti",
-    "ld": "ltr",
-    "ang": "Khamti",
+    "ISO-639-3": "kht",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "as",
+    "ang": "Khamti",
+    "pk": 2875,
     "cc": [
         "IN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Khamti",
     "alt": [
         "Hkamti",
         "Khampti",
@@ -27,5 +27,5 @@
         "Assam Khamti",
         "Sinkaling Khamti"
     ],
-    "gwcode": "as"
+    "ld": "ltr"
 }

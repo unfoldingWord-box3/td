@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nat",
-    "pk": 4304,
     "lc": "nat",
     "gw": false,
-    "ln": "Ca\u0331hungwa\u0331rya\u0331",
-    "ld": "ltr",
-    "ang": "Cahungwarya",
+    "ISO-639-3": "nat",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Cahungwarya",
+    "pk": 4304,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Ca\u0331hungwa\u0331rya\u0331",
     "alt": [
         "Ingwe",
         "Ingwo",
@@ -19,5 +19,5 @@
         "Nkwoi",
         "Ungwe"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

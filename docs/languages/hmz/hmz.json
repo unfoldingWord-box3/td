@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hmz",
-    "pk": 2313,
     "lc": "hmz",
     "gw": false,
-    "ln": "\u6c49\u82d7\u65b9\u8a00",
-    "ld": "ltr",
-    "ang": "Sinicized Miao",
+    "ISO-639-3": "hmz",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Sinicized Miao",
+    "pk": 2313,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u6c49\u82d7\u65b9\u8a00",
     "alt": [
         "Biantou Miao",
         "Changshu Miao",
@@ -29,5 +29,5 @@
         "West of the Water Miao",
         "Wooden Comb Miao"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bze",
-    "pk": 1087,
     "lc": "bze",
     "gw": false,
-    "ln": "Jenaama Bozo",
-    "ld": "ltr",
-    "ang": "Bozo, Jenaama",
+    "ISO-639-3": "bze",
     "hc": "ML",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Bozo, Jenaama",
+    "pk": 1087,
     "cc": [
         "BF",
         "ML"
     ],
+    "lr": "Africa",
+    "ln": "Jenaama Bozo",
     "alt": [
         "Boso",
         "Corogaama",
@@ -30,5 +30,5 @@
         "Kotya (Kotyaxo)",
         "Pondori"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dta",
-    "pk": 1637,
     "lc": "dta",
     "gw": false,
-    "ln": "\u8fbe\u65a1\u5c14\u8bed",
-    "ld": "ltr",
-    "ang": "Daur",
+    "ISO-639-3": "dta",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Daur",
+    "pk": 1637,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u8fbe\u65a1\u5c14\u8bed",
     "alt": [
         "Daguor",
         "Dagur",
@@ -37,5 +37,5 @@
         "Ili",
         "Bataxan"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

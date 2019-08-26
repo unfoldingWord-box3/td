@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "mro",
-    "pk": 4084,
     "lc": "mro",
     "gw": false,
-    "ln": "Mru",
-    "ld": "ltr",
-    "ang": "Mru",
+    "ISO-639-3": "mro",
     "hc": "BD",
-    "lr": "Asia",
+    "gwcode": "bn",
+    "ang": "Mru",
+    "pk": 4084,
     "cc": [
         "BD",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Mru",
     "alt": [
         "Maru",
         "Mrung",
@@ -30,5 +30,5 @@
         "Anok",
         "Dowpreng (Doumrong)"
     ],
-    "gwcode": "bn"
+    "ld": "ltr"
 }

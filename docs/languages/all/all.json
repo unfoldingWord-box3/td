@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "all",
-    "pk": 220,
     "lc": "all",
     "gw": false,
-    "ln": "Allar",
-    "ld": "ltr",
-    "ang": "Allar",
+    "ISO-639-3": "all",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "ml",
+    "ang": "Allar",
+    "pk": 220,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Allar",
     "alt": [
         "Aalan",
         "Alan",
@@ -19,5 +19,5 @@
         "Allan",
         "Chatans"
     ],
-    "gwcode": "ml"
+    "ld": "ltr"
 }

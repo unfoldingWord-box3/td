@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bpk",
-    "pk": 860,
     "lc": "bpk",
     "gw": false,
-    "ln": "Orowe",
-    "ld": "ltr",
-    "ang": "Orowe",
+    "ISO-639-3": "bpk",
     "hc": "NC",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Orowe",
+    "pk": 860,
     "cc": [
         "NC"
     ],
+    "lr": "Pacific",
+    "ln": "Orowe",
     "alt": [
         "Abwebwe",
         "Boewe",
@@ -18,5 +18,5 @@
         "\u00d4r\u00f4\u00ea",
         "Oroe"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

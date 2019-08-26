@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "viv",
-    "pk": 6617,
     "lc": "viv",
     "gw": false,
-    "ln": "Iduna",
-    "ld": "ltr",
-    "ang": "Iduna",
+    "ISO-639-3": "viv",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Iduna",
+    "pk": 6617,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Iduna",
     "alt": [
         "Vivigana",
         "Vivigani",
@@ -18,5 +18,5 @@
         "Ufufu",
         "Waibula"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

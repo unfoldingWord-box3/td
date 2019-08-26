@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "dhs",
-    "pk": 1515,
     "lc": "dhs",
     "gw": false,
-    "ln": "Dhaiso",
-    "ld": "ltr",
-    "ang": "Dhaiso",
+    "ISO-639-3": "dhs",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Dhaiso",
+    "pk": 1515,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Dhaiso",
     "alt": [
         "Daiso",
         "Daisu",
         "Kidhaiso",
         "Segeju"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

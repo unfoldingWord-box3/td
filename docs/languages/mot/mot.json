@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "mot",
-    "pk": 4014,
     "lc": "mot",
     "gw": false,
-    "ln": "Bar\u00ed",
-    "ld": "ltr",
-    "ang": "Bar\u00ed",
+    "ISO-639-3": "mot",
     "hc": "CO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Bar\u00ed",
+    "pk": 4014,
     "cc": [
         "VE",
         "CO",
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Bar\u00ed",
     "alt": [
         "Barira",
         "Cunausaya",
@@ -20,5 +20,5 @@
         "Motil\u00f3n",
         "Motilone"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

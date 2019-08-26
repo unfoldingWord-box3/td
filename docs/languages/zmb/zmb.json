@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "zmb",
-    "pk": 7407,
     "lc": "zmb",
     "gw": false,
-    "ln": "Zimba",
-    "ld": "ltr",
-    "ang": "Zimba",
+    "ISO-639-3": "zmb",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Zimba",
+    "pk": 7407,
     "cc": [
         "MZ",
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Zimba",
     "alt": [
         "Nyembombo",
         "Sole",
@@ -20,5 +20,5 @@
         "Binja (Soe)",
         "Semulu (Kisembombo)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

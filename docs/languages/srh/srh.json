@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "srh",
-    "pk": 5810,
     "lc": "srh",
     "gw": false,
-    "ln": "\u5854\u5409\u514b\u8bed",
-    "ld": "ltr",
-    "ang": "Sarikoli",
+    "ISO-639-3": "srh",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Sarikoli",
+    "pk": 5810,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u5854\u5409\u514b\u8bed",
     "alt": [
         "Saliku'er",
         "Salikur",
@@ -21,5 +21,5 @@
         "Tajik",
         "Tajiki"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "rmg",
-    "pk": 5380,
     "lc": "rmg",
     "gw": false,
-    "ln": "Traveller Norwegian",
-    "ld": "ltr",
-    "ang": "Norwegian, Traveller",
+    "ISO-639-3": "rmg",
     "hc": "NO",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Norwegian, Traveller",
+    "pk": 5380,
     "cc": [
         "NO"
     ],
+    "lr": "Europe",
+    "ln": "Traveller Norwegian",
     "alt": [
         "Norwegian Traveller",
         "Rodi"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

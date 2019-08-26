@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bfd",
-    "pk": 612,
     "lc": "bfd",
     "gw": false,
-    "ln": "Bafut",
-    "ld": "ltr",
-    "ang": "Bafut",
+    "ISO-639-3": "bfd",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Bafut",
+    "pk": 612,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Bafut",
     "alt": [
         "Befe",
         "Bufe",
@@ -18,5 +18,5 @@
         "Fut",
         "Bufe (Afughe)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

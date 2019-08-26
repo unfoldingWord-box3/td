@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mif",
-    "pk": 3859,
     "lc": "mif",
     "gw": false,
-    "ln": "Mofu-Gudur",
-    "ld": "ltr",
-    "ang": "Mofu-Gudur",
+    "ISO-639-3": "mif",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Mofu-Gudur",
+    "pk": 3859,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Mofu-Gudur",
     "alt": [
         "Mofou",
         "Mofou de Goudour",
@@ -18,5 +18,5 @@
         "Mofu-Sud",
         "Massagal (Massakal)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "kdt",
-    "pk": 2777,
     "lc": "kdt",
     "gw": false,
-    "ln": "\u0e20\u0e32\u0e29\u0e32\u0e01\u0e39\u0e22",
-    "ld": "ltr",
-    "ang": "Kuy",
+    "ISO-639-3": "kdt",
     "hc": "TH",
-    "lr": "Asia",
+    "gwcode": "th",
+    "ang": "Kuy",
+    "pk": 2777,
     "cc": [
         "LA",
         "TH",
         "KH"
     ],
+    "lr": "Asia",
+    "ln": "\u0e20\u0e32\u0e29\u0e32\u0e01\u0e39\u0e22",
     "alt": [
         "Kuay",
         "Aouei",
@@ -38,5 +38,5 @@
         "Kuy Ak",
         "Chang (Suai Chang)"
     ],
-    "gwcode": "th"
+    "ld": "ltr"
 }

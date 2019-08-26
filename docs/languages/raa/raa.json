@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "raa",
-    "pk": 5305,
     "lc": "raa",
     "gw": false,
-    "ln": "Dungmali",
-    "ld": "ltr",
-    "ang": "Dungmali",
+    "ISO-639-3": "raa",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Dungmali",
+    "pk": 5305,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Dungmali",
     "alt": [
         "Arthare",
         "Arthare-Khesang",
@@ -19,5 +19,5 @@
         "Khesange",
         "Khesang (Khesange)"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

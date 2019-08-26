@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sad",
-    "pk": 5462,
     "lc": "sad",
     "gw": false,
-    "ln": "Sandawe",
-    "ld": "ltr",
-    "ang": "Sandawe",
+    "ISO-639-3": "sad",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Sandawe",
+    "pk": 5462,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Sandawe",
     "alt": [
         "Kisandawe",
         "Sandaui",
@@ -19,5 +19,5 @@
         "Eastern Sandawe",
         "Western Sandawe"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

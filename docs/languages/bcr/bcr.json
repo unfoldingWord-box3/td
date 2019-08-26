@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bcr",
-    "pk": 551,
     "lc": "bcr",
     "gw": false,
-    "ln": "Babine",
-    "ld": "ltr",
-    "ang": "Babine",
+    "ISO-639-3": "bcr",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Babine",
+    "pk": 551,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Babine",
     "alt": [
         "Babine Carrier",
         "Northern Carrier",
@@ -18,5 +18,5 @@
         "Babine Proper",
         "Wetsuset'en"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

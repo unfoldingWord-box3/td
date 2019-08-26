@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bfy",
-    "pk": 632,
     "lc": "bfy",
     "gw": false,
-    "ln": "Bagheli",
-    "ld": "ltr",
-    "ang": "Bagheli",
+    "ISO-639-3": "bfy",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Bagheli",
+    "pk": 632,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Bagheli",
     "alt": [
         "Bagelkhandi",
         "Bhugelkhud",
@@ -30,5 +30,5 @@
         "Kawathi",
         "Rewa"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

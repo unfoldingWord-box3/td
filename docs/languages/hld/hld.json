@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "hld",
-    "pk": 2286,
     "lc": "hld",
     "gw": false,
-    "ln": "Halang Doan",
-    "ld": "ltr",
-    "ang": "Halang Doan",
+    "ISO-639-3": "hld",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Halang Doan",
+    "pk": 2286,
     "cc": [
         "LA",
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Halang Doan",
     "alt": [
         "Doan",
         "Duan",
         "Halang Duan"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

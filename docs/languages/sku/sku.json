@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sku",
-    "pk": 5676,
     "lc": "sku",
     "gw": false,
-    "ln": "Sakao",
-    "ld": "ltr",
-    "ang": "Sakao",
+    "ISO-639-3": "sku",
     "hc": "VU",
-    "lr": "Pacific",
+    "gwcode": "fr",
+    "ang": "Sakao",
+    "pk": 5676,
     "cc": [
         "VU"
     ],
+    "lr": "Pacific",
+    "ln": "Sakao",
     "alt": [
         "Hog Harbour",
         "Klep",
@@ -18,5 +18,5 @@
         "Sakau",
         "Santo"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

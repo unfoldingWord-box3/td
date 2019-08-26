@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bnb",
-    "pk": 807,
     "lc": "bnb",
     "gw": false,
-    "ln": "Bookan",
-    "ld": "ltr",
-    "ang": "Bookan",
+    "ISO-639-3": "bnb",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Bookan",
+    "pk": 807,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Bookan",
     "alt": [
         "Baukan Murut",
         "Tangara'",
@@ -29,5 +29,5 @@
         "Pingas",
         "Bokan"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

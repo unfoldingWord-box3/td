@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "kiw",
-    "pk": 2902,
     "lc": "kiw",
     "gw": false,
-    "ln": "Northeast Kiwai",
-    "ld": "ltr",
-    "ang": "Kiwai, Northeast",
+    "ISO-639-3": "kiw",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Kiwai, Northeast",
+    "pk": 2902,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Northeast Kiwai",
     "alt": [
         "Urama-Kope",
         "Kope (Era River)",
         "Arigibi (Anigibi)",
         "Gope"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bra",
-    "pk": 900,
     "lc": "bra",
     "gw": false,
-    "ln": "Braj",
-    "ld": "ltr",
-    "ang": "Braj Bhasha",
+    "ISO-639-3": "bra",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Braj Bhasha",
+    "pk": 900,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Braj",
     "alt": [
         "Antarvedi",
         "Bijbhasha",
@@ -20,5 +20,5 @@
         "Briju",
         "Bruj"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

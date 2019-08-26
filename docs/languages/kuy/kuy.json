@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kuy",
-    "pk": 3205,
     "lc": "kuy",
     "gw": false,
-    "ln": "Kuuku-Ya'u",
-    "ld": "ltr",
-    "ang": "Kuuku-Ya\u2019u",
+    "ISO-639-3": "kuy",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Kuuku-Ya\u2019u",
+    "pk": 3205,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Kuuku-Ya'u",
     "alt": [
         "Bagadji",
         "Gugu Yau",
@@ -19,5 +19,5 @@
         "Pakadji",
         "Ya'o"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "mnf",
-    "pk": 3980,
     "lc": "mnf",
     "gw": false,
-    "ln": "Mundani",
-    "ld": "ltr",
-    "ang": "Mundani",
+    "ISO-639-3": "mnf",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Mundani",
+    "pk": 3980,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Mundani",
     "alt": [
         "Bamumbo (Bamumbu)",
         "Iguambo (Igumbo)",
         "Nko (Nkong)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

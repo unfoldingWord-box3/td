@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bpz",
-    "pk": 874,
     "lc": "bpz",
     "gw": false,
-    "ln": "Bilba",
-    "ld": "ltr",
-    "ang": "Bilba",
+    "ISO-639-3": "bpz",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Bilba",
+    "pk": 874,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Bilba",
     "alt": [
         "Belubaa",
         "Bilbaa",
@@ -22,5 +22,5 @@
         "Lelenuk",
         "Diu"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

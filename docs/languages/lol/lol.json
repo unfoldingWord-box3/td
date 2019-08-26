@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lol",
-    "pk": 3560,
     "lc": "lol",
     "gw": false,
-    "ln": "Mongo-Lotwa",
-    "ld": "ltr",
-    "ang": "Mongo-Nkundu",
+    "ISO-639-3": "lol",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Mongo-Nkundu",
+    "pk": 3560,
     "cc": [
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Mongo-Lotwa",
     "alt": [
         "Lomongo",
         "Mongo",
@@ -31,5 +31,5 @@
         "Lonkundo",
         "Longo (Bolongo)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

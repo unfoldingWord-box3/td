@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "jax",
-    "pk": 2580,
     "lc": "jax",
     "gw": false,
-    "ln": "Jambi Malay",
-    "ld": "ltr",
-    "ang": "Malay, Jambi",
+    "ISO-639-3": "jax",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Malay, Jambi",
+    "pk": 2580,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Jambi Malay",
     "alt": [
         "Batin",
         "Djambi",
         "Downstream Jambi Malay",
         "Upstream Jambi Malay"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

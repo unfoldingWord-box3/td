@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "tvl",
-    "pk": 6395,
     "lc": "tvl",
     "gw": false,
-    "ln": "Tuvalu",
-    "ld": "ltr",
-    "ang": "Tuvaluan",
+    "ISO-639-3": "tvl",
     "hc": "TV",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Tuvaluan",
+    "pk": 6395,
     "cc": [
         "FJ",
         "KI",
@@ -15,6 +13,8 @@
         "TV",
         "NR"
     ],
+    "lr": "Pacific",
+    "ln": "Tuvalu",
     "alt": [
         "Ellice",
         "Ellicean",
@@ -26,5 +26,5 @@
         "Nukulaelae",
         "Nukufetau"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

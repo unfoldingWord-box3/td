@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "kxm",
-    "pk": 3269,
     "lc": "kxm",
     "gw": false,
-    "ln": "Northern Khmer",
-    "ld": "ltr",
-    "ang": "Khmer, Northern",
+    "ISO-639-3": "kxm",
     "hc": "TH",
-    "lr": "Asia",
+    "gwcode": "th",
+    "ang": "Khmer, Northern",
+    "pk": 3269,
     "cc": [
         "TH",
         "KH"
     ],
+    "lr": "Asia",
+    "ln": "Northern Khmer",
     "alt": [
         "Khmer Lue",
         "Thailand Khmer"
     ],
-    "gwcode": "th"
+    "ld": "ltr"
 }

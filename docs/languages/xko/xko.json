@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "xko",
-    "pk": 6944,
     "lc": "xko",
     "gw": false,
-    "ln": "Kiorr",
-    "ld": "ltr",
-    "ang": "Kiorr",
+    "ISO-639-3": "xko",
     "hc": "LA",
-    "lr": "Asia",
+    "gwcode": "lo",
+    "ang": "Kiorr",
+    "pk": 6944,
     "cc": [
         "LA"
     ],
+    "lr": "Asia",
+    "ln": "Kiorr",
     "alt": [
         "Col",
         "Con",
@@ -18,5 +18,5 @@
         "Samtao",
         "Samtao 2"
     ],
-    "gwcode": "lo"
+    "ld": "ltr"
 }

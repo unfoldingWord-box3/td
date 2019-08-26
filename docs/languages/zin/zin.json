@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zin",
-    "pk": 7385,
     "lc": "zin",
     "gw": false,
-    "ln": "Zinza",
-    "ld": "ltr",
-    "ang": "Zinza",
+    "ISO-639-3": "zin",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Zinza",
+    "pk": 7385,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Zinza",
     "alt": [
         "Dzinda",
         "Dzindza",
@@ -24,5 +24,5 @@
         "Kula",
         "Longo"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

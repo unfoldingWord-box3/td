@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "stv",
-    "pk": 5872,
     "lc": "stv",
     "gw": false,
-    "ln": "Silt'e",
-    "ld": "ltr",
-    "ang": "Silt\u2019e",
+    "ISO-639-3": "stv",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Silt\u2019e",
+    "pk": 5872,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Silt'e",
     "alt": [
         "East Gurage",
         "Selti",
@@ -18,5 +18,5 @@
         "Enneqor (Inneqor)",
         "Ulbarag (Urbareg)"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "auk",
-    "pk": 413,
     "lc": "auk",
     "gw": false,
-    "ln": "Heyo",
-    "ld": "ltr",
-    "ang": "Heyo",
+    "ISO-639-3": "auk",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Heyo",
+    "pk": 413,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Heyo",
     "alt": [
         "Arima",
         "Arinua",
@@ -19,5 +19,5 @@
         "Ruruhip",
         "Wan Wan"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

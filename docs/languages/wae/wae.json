@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "wae",
-    "pk": 6668,
     "lc": "wae",
     "gw": false,
-    "ln": "Walser",
-    "ld": "ltr",
-    "ang": "Walser",
+    "ISO-639-3": "wae",
     "hc": "CH",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Walser",
+    "pk": 6668,
     "cc": [
         "CH",
         "IT"
     ],
+    "lr": "Europe",
+    "ln": "Walser",
     "alt": [
         "Walscher",
         "Titsch",
         "T\u00f6itschu"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

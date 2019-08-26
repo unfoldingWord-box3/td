@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ngo",
-    "pk": 4422,
     "lc": "ngo",
     "gw": false,
-    "ln": "Ngoni",
-    "ld": "ltr",
-    "ang": "Ngoni",
+    "ISO-639-3": "ngo",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Ngoni",
+    "pk": 4422,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Ngoni",
     "alt": [
         "Angoni",
         "Chingoni",
@@ -18,5 +18,5 @@
         "Kisutu",
         "Sutu"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

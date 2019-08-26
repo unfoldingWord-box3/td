@@ -1,22 +1,22 @@
 {
-    "ISO-639-3": "coa",
-    "pk": 1287,
     "lc": "coa",
     "gw": false,
-    "ln": "Cocos Islands Malay",
-    "ld": "ltr",
-    "ang": "Malay, Cocos Islands",
+    "ISO-639-3": "coa",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Malay, Cocos Islands",
+    "pk": 1287,
     "cc": [
         "CX",
         "MY",
         "CC"
     ],
+    "lr": "Asia",
+    "ln": "Cocos Islands Malay",
     "alt": [
         "Cocos",
         "Kokos",
         "Kukus"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

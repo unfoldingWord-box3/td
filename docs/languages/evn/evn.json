@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "evn",
-    "pk": 1804,
     "lc": "evn",
     "gw": false,
-    "ln": "\u9102\u6e29\u514b\u8bed",
-    "ld": "ltr",
-    "ang": "Evenki",
+    "ISO-639-3": "evn",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Evenki",
+    "pk": 1804,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u9102\u6e29\u514b\u8bed",
     "alt": [
         "Ewenk",
         "Ewenke",
@@ -32,5 +32,5 @@
         "Morigele (Mergel)",
         "Chenba'erhu (Old Bargu)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

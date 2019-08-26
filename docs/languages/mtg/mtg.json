@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "mtg",
-    "pk": 4127,
     "lc": "mtg",
     "gw": false,
-    "ln": "Una",
-    "ld": "ltr",
-    "ang": "Una",
+    "ISO-639-3": "mtg",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Una",
+    "pk": 4127,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Una",
     "alt": [
         "Goliath",
         "Langda",
         "Mt. Goliath",
         "Oranje-Gebergte"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

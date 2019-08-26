@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sgt",
-    "pk": 5585,
     "lc": "sgt",
     "gw": false,
-    "ln": "Brokpake",
-    "ld": "ltr",
-    "ang": "Brokpake",
+    "ISO-639-3": "sgt",
     "hc": "BT",
-    "lr": "Asia",
+    "gwcode": "dz",
+    "ang": "Brokpake",
+    "pk": 5585,
     "cc": [
         "BT"
     ],
+    "lr": "Asia",
+    "ln": "Brokpake",
     "alt": [
         "Brokpa",
         "Dakpa",
@@ -23,5 +23,5 @@
         "Mira Sagtengpa",
         "Sagtengpa"
     ],
-    "gwcode": "dz"
+    "ld": "ltr"
 }

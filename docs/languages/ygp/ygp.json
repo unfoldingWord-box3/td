@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ygp",
-    "pk": 7171,
     "lc": "ygp",
     "gw": false,
-    "ln": "\u845b\u6cfc\u8bed",
-    "ld": "ltr",
-    "ang": "Gepo",
+    "ISO-639-3": "ygp",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Gepo",
+    "pk": 7171,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u845b\u6cfc\u8bed",
     "alt": [
         "Baiyi",
         "Gepu",
@@ -22,5 +22,5 @@
         "Nasu",
         "Pingtouyi"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

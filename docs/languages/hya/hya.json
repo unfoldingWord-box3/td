@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hya",
-    "pk": 2397,
     "lc": "hya",
     "gw": false,
-    "ln": "Hya",
-    "ld": "ltr",
-    "ang": "Hya",
+    "ISO-639-3": "hya",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Hya",
+    "pk": 2397,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Hya",
     "alt": [
         "Ghye",
         "Za",
@@ -19,5 +19,5 @@
         "Mukta",
         "Munta"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

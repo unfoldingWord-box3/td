@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "aup",
-    "pk": 418,
     "lc": "aup",
     "gw": false,
-    "ln": "Makayam",
-    "ld": "ltr",
-    "ang": "Makayam",
+    "ISO-639-3": "aup",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Makayam",
+    "pk": 418,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Makayam",
     "alt": [
         "Adulu",
         "Atura",
@@ -18,5 +18,5 @@
         "Tirio",
         "Giribam"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

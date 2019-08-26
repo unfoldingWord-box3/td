@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "qvo",
-    "pk": 5278,
     "lc": "qvo",
     "gw": false,
-    "ln": "Napo Lowland Quechua",
-    "ld": "ltr",
-    "ang": "Quechua, Napo Lowland",
+    "ISO-639-3": "qvo",
     "hc": "PE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Quechua, Napo Lowland",
+    "pk": 5278,
     "cc": [
         "PE",
         "CO",
         "EC"
     ],
+    "lr": "Americas",
+    "ln": "Napo Lowland Quechua",
     "alt": [
         "Lowland Napo Quechua",
         "Ingano",
@@ -29,5 +29,5 @@
         "Santarrosino",
         "Yumbo"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

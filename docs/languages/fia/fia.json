@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "fia",
-    "pk": 1839,
     "lc": "fia",
     "gw": false,
-    "ln": "Nobiin",
-    "ld": "ltr",
-    "ang": "Nobiin",
+    "ISO-639-3": "fia",
     "hc": "SD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Nobiin",
+    "pk": 1839,
     "cc": [
         "SD",
         "EG"
     ],
+    "lr": "Africa",
+    "ln": "Nobiin",
     "alt": [
         "Fadicca",
         "Fadicha",
@@ -28,5 +28,5 @@
         "Mahass",
         "Mahas (Mahasi)"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

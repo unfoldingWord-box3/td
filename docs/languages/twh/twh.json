@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "twh",
-    "pk": 6411,
     "lc": "twh",
     "gw": false,
-    "ln": "Tai D\u00f3n",
-    "ld": "ltr",
-    "ang": "Tai D\u00f3n",
+    "ISO-639-3": "twh",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Tai D\u00f3n",
+    "pk": 6411,
     "cc": [
         "CN",
         "LA",
         "US",
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Tai D\u00f3n",
     "alt": [
         "Bai Dai",
         "Tai Jinping",
@@ -24,5 +24,5 @@
         "Th\u00e1i Tr\u00e1ng",
         "T\u00e1y Khao"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "fax",
-    "pk": 1828,
     "lc": "fax",
     "gw": false,
-    "ln": "Fala",
-    "ld": "ltr",
-    "ang": "Fala",
+    "ISO-639-3": "fax",
     "hc": "ES",
-    "lr": "Europe",
+    "gwcode": "es",
+    "ang": "Fala",
+    "pk": 1828,
     "cc": [
         "ES"
     ],
+    "lr": "Europe",
+    "ln": "Fala",
     "alt": [
         "A Fala de X\u00e1lima",
         "A Fala do X\u00e3lima",
         "Galaico-Extremaduran",
         "Chapurre\u00e1u"
     ],
-    "gwcode": "es"
+    "ld": "ltr"
 }

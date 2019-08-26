@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "coz",
-    "pk": 1307,
     "lc": "coz",
     "gw": false,
-    "ln": "Chochotec",
-    "ld": "ltr",
-    "ang": "Chocholtec",
+    "ISO-639-3": "coz",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Chocholtec",
+    "pk": 1307,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Chochotec",
     "alt": [
         "Chocho",
         "Chocholteco",
@@ -21,5 +21,5 @@
         "Chocholteco del oeste",
         "Chocholteco del sur"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

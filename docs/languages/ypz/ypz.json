@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ypz",
-    "pk": 7266,
     "lc": "ypz",
     "gw": false,
-    "ln": "Phuza",
-    "ld": "ltr",
-    "ang": "Phuza",
+    "ISO-639-3": "ypz",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Phuza",
+    "pk": 7266,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "Phuza",
     "alt": [
         "Hei Phu",
         "Phu'a",
@@ -19,5 +19,5 @@
         "Bujibai",
         "Dabaqi"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

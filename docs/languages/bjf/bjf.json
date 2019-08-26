@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bjf",
-    "pk": 712,
     "lc": "bjf",
     "gw": false,
-    "ln": "\u05dc\u05e9\u05e0\u05d9\u05d3 \u05d3\u05d9\u05e0\u05df",
-    "ld": "ltr",
-    "ang": "Barzani Jewish Neo-Aramaic",
+    "ISO-639-3": "bjf",
     "hc": "IL",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Barzani Jewish Neo-Aramaic",
+    "pk": 712,
     "cc": [
         "IL"
     ],
+    "lr": "Asia",
+    "ln": "\u05dc\u05e9\u05e0\u05d9\u05d3 \u05d3\u05d9\u05e0\u05df",
     "alt": [
         "Lishan Didan",
         "Lishan Dideni",
@@ -18,5 +18,5 @@
         "Barzan",
         "Bijil"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kgq",
-    "pk": 2849,
     "lc": "kgq",
     "gw": false,
-    "ln": "Kamoro",
-    "ld": "ltr",
-    "ang": "Kamoro",
+    "ISO-639-3": "kgq",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Kamoro",
+    "pk": 2849,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Kamoro",
     "alt": [
         "Kamora",
         "Kaokonau",
@@ -23,5 +23,5 @@
         "Umari",
         "Nanesa"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

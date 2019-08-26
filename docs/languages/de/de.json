@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "deu",
-    "pk": 1473,
     "lc": "de",
     "gw": false,
-    "ln": "Deutsch",
-    "ld": "ltr",
-    "ang": "German",
+    "ISO-639-3": "deu",
     "hc": "DE",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "German",
+    "pk": 1473,
     "cc": [
         "AT",
         "BE",
@@ -36,11 +34,13 @@
         "SG",
         "NA"
     ],
+    "lr": "Europe",
+    "ln": "Deutsch",
     "alt": [
         "Deutsch",
         "Tedesco",
         "K\u00e4rntnerisch",
         "Transylvanian"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

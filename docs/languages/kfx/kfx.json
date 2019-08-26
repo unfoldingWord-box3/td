@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kfx",
-    "pk": 2832,
     "lc": "kfx",
     "gw": false,
-    "ln": "Kullu Pahari",
-    "ld": "ltr",
-    "ang": "Pahari, Kullu",
+    "ISO-639-3": "kfx",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Pahari, Kullu",
+    "pk": 2832,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Kullu Pahari",
     "alt": [
         "Kauli",
         "Kullui",
@@ -27,5 +27,5 @@
         "Outer Seraji",
         "Saraji"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

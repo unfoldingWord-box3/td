@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "spy",
-    "pk": 5790,
     "lc": "spy",
     "gw": false,
-    "ln": "Sabaot",
-    "ld": "ltr",
-    "ang": "Sabaot",
+    "ISO-639-3": "spy",
     "hc": "KE",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Sabaot",
+    "pk": 5790,
     "cc": [
         "KE"
     ],
+    "lr": "Africa",
+    "ln": "Sabaot",
     "alt": [
         "Sebei",
         "Mt. Elgon Maasai",
@@ -23,5 +23,5 @@
         "Bong'omeek (Bong'om)",
         "Sabiiny"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

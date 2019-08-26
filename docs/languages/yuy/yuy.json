@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "yuy",
-    "pk": 7310,
     "lc": "yuy",
     "gw": false,
-    "ln": "\u4e1c\u90e8\u88d5\u56fa\u8bed",
-    "ld": "ltr",
-    "ang": "Yugur, East",
+    "ISO-639-3": "yuy",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Yugur, East",
+    "pk": 7310,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u4e1c\u90e8\u88d5\u56fa\u8bed",
     "alt": [
         "Eastern Yogor",
         "Enge'er",
@@ -22,5 +22,5 @@
         "Yugar",
         "Yugu"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "say",
-    "pk": 5477,
     "lc": "say",
     "gw": false,
-    "ln": "Zaar",
-    "ld": "ltr",
-    "ang": "Saya",
+    "ISO-639-3": "say",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Saya",
+    "pk": 5477,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Zaar",
     "alt": [
         "Sayanci",
         "Sayara",
@@ -26,5 +26,5 @@
         "Sigdi",
         "Lusa"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

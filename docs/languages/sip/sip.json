@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "sip",
-    "pk": 5630,
     "lc": "sip",
     "gw": false,
-    "ln": "Sikkimese",
-    "ld": "ltr",
-    "ang": "Sikkimese",
+    "ISO-639-3": "sip",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Sikkimese",
+    "pk": 5630,
     "cc": [
         "BT",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Sikkimese",
     "alt": [
         "Dandzongka",
         "Danjongka",
@@ -27,5 +27,5 @@
         "Sikkim Bhotia",
         "Sikkim Bhutia"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

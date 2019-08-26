@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mqj",
-    "pk": 4053,
     "lc": "mqj",
     "gw": false,
-    "ln": "Mamasa",
-    "ld": "ltr",
-    "ang": "Mamasa",
+    "ISO-639-3": "mqj",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Mamasa",
+    "pk": 4053,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Mamasa",
     "alt": [
         "Mamasa Toraja",
         "Binuang-Paki-Batetanga-Anteapi",
@@ -19,5 +19,5 @@
         "Southern Mamasa",
         "Tae'"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

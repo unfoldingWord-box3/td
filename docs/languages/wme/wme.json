@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wme",
-    "pk": 6768,
     "lc": "wme",
     "gw": false,
-    "ln": "\u0935\u093e\u092e\u094d\u092c\u0941\u0932\u0947",
-    "ld": "ltr",
-    "ang": "Wambule",
+    "ISO-639-3": "wme",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Wambule",
+    "pk": 6768,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "\u0935\u093e\u092e\u094d\u092c\u0941\u0932\u0947",
     "alt": [
         "Ambule",
         "Caurasia",
@@ -28,5 +28,5 @@
         "Udaipure",
         "Wamdyal"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

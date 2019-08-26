@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "gai",
-    "pk": 1911,
     "lc": "gai",
     "gw": false,
-    "ln": "Borei",
-    "ld": "ltr",
-    "ang": "Mbore",
+    "ISO-639-3": "gai",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Mbore",
+    "pk": 1911,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Borei",
     "alt": [
         "Borei",
         "Gamai",
         "Gamei",
         "Mborei"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

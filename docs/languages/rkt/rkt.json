@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rkt",
-    "pk": 5373,
     "lc": "rkt",
     "gw": false,
-    "ln": "Rangpuri",
-    "ld": "ltr",
-    "ang": "Rangpuri",
+    "ISO-639-3": "rkt",
     "hc": "BD",
-    "lr": "Asia",
+    "gwcode": "bn",
+    "ang": "Rangpuri",
+    "pk": 5373,
     "cc": [
         "BD"
     ],
+    "lr": "Asia",
+    "ln": "Rangpuri",
     "alt": [
         "Anchalit Bangla",
         "Bahe Bangla",
@@ -24,5 +24,5 @@
         "Rajbansi",
         "Rajbongshi"
     ],
-    "gwcode": "bn"
+    "ld": "ltr"
 }

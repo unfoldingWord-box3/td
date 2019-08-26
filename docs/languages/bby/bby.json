@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bby",
-    "pk": 532,
     "lc": "bby",
     "gw": false,
-    "ln": "Befang",
-    "ld": "ltr",
-    "ang": "Befang",
+    "ISO-639-3": "bby",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Befang",
+    "pk": 532,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Befang",
     "alt": [
         "Beba-Befang",
         "Biba-Bifang",
@@ -32,5 +32,5 @@
         "Ushaku (Mokuru)",
         "Ge"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

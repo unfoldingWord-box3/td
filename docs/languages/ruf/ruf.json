@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ruf",
-    "pk": 5435,
     "lc": "ruf",
     "gw": false,
-    "ln": "Luguru",
-    "ld": "ltr",
-    "ang": "Luguru",
+    "ISO-639-3": "ruf",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Luguru",
+    "pk": 5435,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Luguru",
     "alt": [
         "Guru",
         "Ikiruguru",
@@ -20,5 +20,5 @@
         "Lugulu",
         "Ruguru"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

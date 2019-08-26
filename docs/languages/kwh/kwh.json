@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kwh",
-    "pk": 3242,
     "lc": "kwh",
     "gw": false,
-    "ln": "Kowiai",
-    "ld": "ltr",
-    "ang": "Kowiai",
+    "ISO-639-3": "kwh",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Kowiai",
+    "pk": 3242,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Kowiai",
     "alt": [
         "Aiduma",
         "Kaiwai",
@@ -22,5 +22,5 @@
         "Adijaya",
         "Keroi"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

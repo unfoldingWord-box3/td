@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "arh",
-    "pk": 339,
     "lc": "arh",
     "gw": false,
-    "ln": "Arhuaco",
-    "ld": "ltr",
-    "ang": "Arhuaco",
+    "ISO-639-3": "arh",
     "hc": "CO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Arhuaco",
+    "pk": 339,
     "cc": [
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Arhuaco",
     "alt": [
         "Aruaco",
         "Bintucua",
@@ -23,5 +23,5 @@
         "Ikan",
         "Ike"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

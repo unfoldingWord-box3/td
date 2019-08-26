@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "luz",
-    "pk": 3636,
     "lc": "luz",
     "gw": false,
-    "ln": "\u0644\u064f\u0631\u06cc",
-    "ld": "ltr",
-    "ang": "Luri, Southern",
+    "ISO-639-3": "luz",
     "hc": "IR",
-    "lr": "Asia",
+    "gwcode": "fa",
+    "ang": "Luri, Southern",
+    "pk": 3636,
     "cc": [
         "IR"
     ],
+    "lr": "Asia",
+    "ln": "\u0644\u064f\u0631\u06cc",
     "alt": [
         "Lor",
         "Lori",
@@ -21,5 +21,5 @@
         "Shuli",
         "Yasuji (Yasichi)"
     ],
-    "gwcode": "fa"
+    "ld": "ltr"
 }

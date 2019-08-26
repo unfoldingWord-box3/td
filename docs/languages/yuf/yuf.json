@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "yuf",
-    "pk": 7296,
     "lc": "yuf",
     "gw": false,
-    "ln": "Havasupai-Walapai-Yavapai",
-    "ld": "ltr",
-    "ang": "Havasupai-Walapai-Yavapai",
+    "ISO-639-3": "yuf",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Havasupai-Walapai-Yavapai",
+    "pk": 7296,
     "cc": [
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Havasupai-Walapai-Yavapai",
     "alt": [
         "Upland Yuman",
         "Upper Colorado River Yuman",
@@ -18,5 +18,5 @@
         "Hwalb\u00e1y",
         "Walapai (Hualapai)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "spv",
-    "pk": 5788,
     "lc": "spv",
     "gw": false,
-    "ln": "Sambalpuri",
-    "ld": "ltr",
-    "ang": "Sambalpuri",
+    "ISO-639-3": "spv",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Sambalpuri",
+    "pk": 5788,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Sambalpuri",
     "alt": [
         "Dom",
         "Kosali",
@@ -18,5 +18,5 @@
         "Koshali",
         "Western Oriya"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

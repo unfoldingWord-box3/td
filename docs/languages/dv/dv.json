@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "div",
-    "pk": 1673,
     "lc": "dv",
     "gw": false,
-    "ln": "\u078b\u07a8\u0788\u07ac\u0780\u07a8",
-    "ld": "rtl",
-    "ang": "Divehi, Dhivehi, Maldivian",
+    "ISO-639-3": "div",
     "hc": "MV",
-    "lr": "Asia",
+    "gwcode": "ta",
+    "ang": "Divehi, Dhivehi, Maldivian",
+    "pk": 1673,
     "cc": [
         "FR",
         "MV",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "\u078b\u07a8\u0788\u07ac\u0780\u07a8",
     "alt": [
         "Dhivehi Bas",
         "Divehi",
@@ -28,5 +28,5 @@
         "Mal\u00e9",
         "Maliku Bas"
     ],
-    "gwcode": "ta"
+    "ld": "rtl"
 }

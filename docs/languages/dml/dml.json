@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dml",
-    "pk": 1569,
     "lc": "dml",
     "gw": false,
-    "ln": "\u062f\u0627\u0645\u06cc\u0691\u06cc",
-    "ld": "ltr",
-    "ang": "Dameli",
+    "ISO-639-3": "dml",
     "hc": "PK",
-    "lr": "Asia",
+    "gwcode": "ur",
+    "ang": "Dameli",
+    "pk": 1569,
     "cc": [
         "PK"
     ],
+    "lr": "Asia",
+    "ln": "\u062f\u0627\u0645\u06cc\u0691\u06cc",
     "alt": [
         "Damedi",
         "Damel",
@@ -19,5 +19,5 @@
         "Gidoji",
         "Gudoji"
     ],
-    "gwcode": "ur"
+    "ld": "ltr"
 }

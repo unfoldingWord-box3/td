@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "adr",
-    "pk": 84,
     "lc": "adr",
     "gw": false,
-    "ln": "Adonara",
-    "ld": "ltr",
-    "ang": "Adonara",
+    "ISO-639-3": "adr",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Adonara",
+    "pk": 84,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Adonara",
     "alt": [
         "Nusa Tadon",
         "Sagu",
         "Vaiverang",
         "Waiwerang"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

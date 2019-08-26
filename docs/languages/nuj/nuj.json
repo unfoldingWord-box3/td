@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nuj",
-    "pk": 4682,
     "lc": "nuj",
     "gw": false,
-    "ln": "Nyole",
-    "ld": "ltr",
-    "ang": "Nyole",
+    "ISO-639-3": "nuj",
     "hc": "UG",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Nyole",
+    "pk": 4682,
     "cc": [
         "UG"
     ],
+    "lr": "Africa",
+    "ln": "Nyole",
     "alt": [
         "Lunyole",
         "Nyule",
@@ -20,5 +20,5 @@
         "Menya (Lumenya)",
         "Sabi (Lusabi)"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

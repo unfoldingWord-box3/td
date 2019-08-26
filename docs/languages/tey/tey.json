@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tey",
-    "pk": 6072,
     "lc": "tey",
     "gw": false,
-    "ln": "Tulishi",
-    "ld": "ltr",
-    "ang": "Tulishi",
+    "ISO-639-3": "tey",
     "hc": "SD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Tulishi",
+    "pk": 6072,
     "cc": [
         "SD"
     ],
+    "lr": "Africa",
+    "ln": "Tulishi",
     "alt": [
         "Kuntulishi",
         "Thulishi",
@@ -21,5 +21,5 @@
         "Dar El Kabira (Logoke)",
         "Minjimmina"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

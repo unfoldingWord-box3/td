@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bwp",
-    "pk": 1032,
     "lc": "bwp",
     "gw": false,
-    "ln": "Mandobo Bawah",
-    "ld": "ltr",
-    "ang": "Mandobo Bawah",
+    "ISO-639-3": "bwp",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Mandobo Bawah",
+    "pk": 1032,
     "cc": [
         "ID",
         "PG"
     ],
+    "lr": "Asia",
+    "ln": "Mandobo Bawah",
     "alt": [
         "Dumut",
         "Kambon",
@@ -19,5 +19,5 @@
         "Nub",
         "Kaeti"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "obo",
-    "pk": 4764,
     "lc": "obo",
     "gw": false,
-    "ln": "Obo Manobo",
-    "ld": "ltr",
-    "ang": "Manobo, Obo",
+    "ISO-639-3": "obo",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "ceb",
+    "ang": "Manobo, Obo",
+    "pk": 4764,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Obo Manobo",
     "alt": [
         "Bagobo",
         "Kidapawan Manobo",
@@ -19,5 +19,5 @@
         "Magpet Manobo",
         "Marilog"
     ],
-    "gwcode": "ceb"
+    "ld": "ltr"
 }

@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "cod",
-    "pk": 1290,
     "lc": "cod",
     "gw": false,
-    "ln": "Cocama-Cocamilla",
-    "ld": "ltr",
-    "ang": "Cocama-Cocamilla",
+    "ISO-639-3": "cod",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt-br",
+    "ang": "Cocama-Cocamilla",
+    "pk": 1290,
     "cc": [
         "BR",
         "PE",
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Cocama-Cocamilla",
     "alt": [
         "Kokama",
         "Huallaga",
@@ -24,5 +24,5 @@
         "Pambadeque",
         "Xibitaona"
     ],
-    "gwcode": "pt-br"
+    "ld": "ltr"
 }

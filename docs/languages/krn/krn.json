@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "krn",
-    "pk": 3121,
     "lc": "krn",
     "gw": false,
-    "ln": "Sapo",
-    "ld": "ltr",
-    "ang": "Sapo",
+    "ISO-639-3": "krn",
     "hc": "LR",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Sapo",
+    "pk": 3121,
     "cc": [
         "LR"
     ],
+    "lr": "Africa",
+    "ln": "Sapo",
     "alt": [
         "Southern Krahn",
         "Nomopo (Nimpo)",
@@ -18,5 +18,5 @@
         "Waya (Wedjah)",
         "Kabade (Karbardae)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

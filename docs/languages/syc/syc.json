@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "syc",
-    "pk": 5940,
     "lc": "syc",
     "gw": false,
-    "ln": "Classical Syriac",
-    "ld": "ltr",
-    "ang": "Syriac",
+    "ISO-639-3": "syc",
     "hc": "TR",
-    "lr": "Asia",
+    "gwcode": "tr",
+    "ang": "Syriac",
+    "pk": 5940,
     "cc": [
         "TR"
     ],
+    "lr": "Asia",
+    "ln": "Classical Syriac",
     "alt": [
         "Ancient Syriac",
         "Classical Syriac",
@@ -18,5 +18,5 @@
         "Suryaya",
         "Suryoyo"
     ],
-    "gwcode": "tr"
+    "ld": "ltr"
 }

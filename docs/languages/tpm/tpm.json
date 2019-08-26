@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tpm",
-    "pk": 6274,
     "lc": "tpm",
     "gw": false,
-    "ln": "Tampulma",
-    "ld": "ltr",
-    "ang": "Tampulma",
+    "ISO-639-3": "tpm",
     "hc": "GH",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Tampulma",
+    "pk": 6274,
     "cc": [
         "GH"
     ],
+    "lr": "Africa",
+    "ln": "Tampulma",
     "alt": [
         "Tampele",
         "Tamplima",
@@ -19,5 +19,5 @@
         "Tampolense",
         "Tamprusi"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

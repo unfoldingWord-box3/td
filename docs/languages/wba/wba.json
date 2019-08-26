@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "wba",
-    "pk": 6689,
     "lc": "wba",
     "gw": false,
-    "ln": "Warao",
-    "ld": "ltr",
-    "ang": "Warao",
+    "ISO-639-3": "wba",
     "hc": "VE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Warao",
+    "pk": 6689,
     "cc": [
         "VE",
         "GY"
     ],
+    "lr": "Americas",
+    "ln": "Warao",
     "alt": [
         "Guarauno",
         "Warau",
         "Warrau"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

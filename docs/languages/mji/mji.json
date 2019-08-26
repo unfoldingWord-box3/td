@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "mji",
-    "pk": 3883,
     "lc": "mji",
     "gw": false,
-    "ln": "\u91d1\u95e8\u65b9\u8a00",
-    "ld": "ltr",
-    "ang": "Kim Mun",
+    "ISO-639-3": "mji",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Kim Mun",
+    "pk": 3883,
     "cc": [
         "CN",
         "LA",
         "US"
     ],
+    "lr": "Asia",
+    "ln": "\u91d1\u95e8\u65b9\u8a00",
     "alt": [
         "Chasan Yao",
         "Gem Mun",
@@ -39,5 +39,5 @@
         "Red Trouser Yao",
         "Dao Ho"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

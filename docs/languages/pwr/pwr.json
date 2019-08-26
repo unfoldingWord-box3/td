@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pwr",
-    "pk": 5236,
     "lc": "pwr",
     "gw": false,
-    "ln": "Powari",
-    "ld": "ltr",
-    "ang": "Powari",
+    "ISO-639-3": "pwr",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Powari",
+    "pk": 5236,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Powari",
     "alt": [
         "Khalari",
         "Marari",
@@ -26,5 +26,5 @@
         "Bhoyar Powari (Bhomiyari)",
         "Bhuiyar"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

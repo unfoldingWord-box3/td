@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tyu",
-    "pk": 6453,
     "lc": "tyu",
     "gw": false,
-    "ln": "Kua",
-    "ld": "ltr",
-    "ang": "Kua",
+    "ISO-639-3": "tyu",
     "hc": "BW",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Kua",
+    "pk": 6453,
     "cc": [
         "BW"
     ],
+    "lr": "Africa",
+    "ln": "Kua",
     "alt": [
         "Basarwa",
         "Cua",
@@ -18,5 +18,5 @@
         "Tyhua",
         "Tyua"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "mfz",
-    "pk": 3801,
     "lc": "mfz",
     "gw": false,
-    "ln": "Mabaan",
-    "ld": "ltr",
-    "ang": "Mabaan",
+    "ISO-639-3": "mfz",
     "hc": "SS",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Mabaan",
+    "pk": 3801,
     "cc": [
         "ET",
         "SS"
     ],
+    "lr": "Africa",
+    "ln": "Mabaan",
     "alt": [
         "Barga",
         "Gura",
@@ -22,5 +22,5 @@
         "Tungan",
         "Ulu"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

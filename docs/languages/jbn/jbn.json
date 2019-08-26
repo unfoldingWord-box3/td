@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "jbn",
-    "pk": 2586,
     "lc": "jbn",
     "gw": false,
-    "ln": "\u2d5c\u2d30\u2d4f\u2d3c\u2d53\u2d59\u2d49\u2d5c",
-    "ld": "ltr",
-    "ang": "Nafusi",
+    "ISO-639-3": "jbn",
     "hc": "LY",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Nafusi",
+    "pk": 2586,
     "cc": [
         "TN",
         "LY"
     ],
+    "lr": "Africa",
+    "ln": "\u2d5c\u2d30\u2d4f\u2d3c\u2d53\u2d59\u2d49\u2d5c",
     "alt": [
         "Djerbi",
         "Jabal Nafusi",
@@ -29,5 +29,5 @@
         "Guelili",
         "Tamezret (Duwinna)"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bkm",
-    "pk": 741,
     "lc": "bkm",
     "gw": false,
-    "ln": "Kom (Cameroon)",
-    "ld": "ltr",
-    "ang": "Kom",
+    "ISO-639-3": "bkm",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Kom",
+    "pk": 741,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Kom (Cameroon)",
     "alt": [
         "Bamekon",
         "Bikom",
@@ -19,5 +19,5 @@
         "Mbesa",
         "Mbizenaku (Itangimbesa)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "xsu",
-    "pk": 7052,
     "lc": "xsu",
     "gw": false,
-    "ln": "Sanum\u00e1",
-    "ld": "ltr",
-    "ang": "Sanum\u00e1",
+    "ISO-639-3": "xsu",
     "hc": "VE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Sanum\u00e1",
+    "pk": 7052,
     "cc": [
         "BR",
         "VE"
     ],
+    "lr": "Americas",
+    "ln": "Sanum\u00e1",
     "alt": [
         "Sanema",
         "Tsanuma",
@@ -26,5 +26,5 @@
         "Yanoma (Kohoroxitari)",
         "Yanoma (Samatali)"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

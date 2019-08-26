@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "xdy",
-    "pk": 6898,
     "lc": "xdy",
     "gw": false,
-    "ln": "Malayic Dayak",
-    "ld": "ltr",
-    "ang": "Malayic Dayak",
+    "ISO-639-3": "xdy",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Malayic Dayak",
+    "pk": 6898,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Malayic Dayak",
     "alt": [
         "Bumayoh",
         "Riam (Nibung Terjung)",
@@ -27,5 +27,5 @@
         "Banana'",
         "Payak"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

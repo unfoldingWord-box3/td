@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "msy",
-    "pk": 4118,
     "lc": "msy",
     "gw": false,
-    "ln": "Aruamu",
-    "ld": "ltr",
-    "ang": "Aruamu",
+    "ISO-639-3": "msy",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Aruamu",
+    "pk": 4118,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Aruamu",
     "alt": [
         "Ariawiai",
         "Makarub",
@@ -19,5 +19,5 @@
         "Mikarew-Ariaw",
         "Mikarup"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

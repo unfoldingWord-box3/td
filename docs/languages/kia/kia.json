@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kia",
-    "pk": 2883,
     "lc": "kia",
     "gw": false,
-    "ln": "Kim",
-    "ld": "ltr",
-    "ang": "Kim",
+    "ISO-639-3": "kia",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Kim",
+    "pk": 2883,
     "cc": [
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Kim",
     "alt": [
         "Gerep (Djouman)",
         "Kosop (Kim)",
@@ -20,5 +20,5 @@
         "Garap (\u00c9r\u00e9)",
         "Kolobo"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

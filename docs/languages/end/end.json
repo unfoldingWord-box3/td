@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "end",
-    "pk": 1751,
     "lc": "end",
     "gw": false,
-    "ln": "Ende",
-    "ld": "ltr",
-    "ang": "Ende",
+    "ISO-639-3": "end",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Ende",
+    "pk": 1751,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Ende",
     "alt": [
         "Endeh",
         "Nga'o (Ngao)",
@@ -18,5 +18,5 @@
         "Ende (Djau)",
         "West Ende"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

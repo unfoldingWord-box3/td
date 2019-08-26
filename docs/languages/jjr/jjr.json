@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jjr",
-    "pk": 2630,
     "lc": "jjr",
     "gw": false,
-    "ln": "Bankal",
-    "ld": "ltr",
-    "ang": "Bankal",
+    "ISO-639-3": "jjr",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Bankal",
+    "pk": 2630,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Bankal",
     "alt": [
         "Bankala",
         "Bankalanci",
@@ -22,5 +22,5 @@
         "Jarawan Kasa",
         "Zhar"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

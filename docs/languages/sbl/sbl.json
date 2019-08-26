@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sbl",
-    "pk": 5490,
     "lc": "sbl",
     "gw": false,
-    "ln": "Botolan Sambal",
-    "ld": "ltr",
-    "ang": "Sambal, Botolan",
+    "ISO-639-3": "sbl",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Sambal, Botolan",
+    "pk": 5490,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Botolan Sambal",
     "alt": [
         "Aeta Negrito",
         "Ayta Hambali",
@@ -18,5 +18,5 @@
         "Ayta Hambali (Hambali Botolan)",
         "Sambali Botolan"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

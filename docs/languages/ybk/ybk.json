@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ybk",
-    "pk": 7142,
     "lc": "ybk",
     "gw": false,
-    "ln": "Bokha",
-    "ld": "ltr",
-    "ang": "Bokha",
+    "ISO-639-3": "ybk",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Bokha",
+    "pk": 7142,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "Bokha",
     "alt": [
         "Akapa",
         "Aphu",
@@ -22,5 +22,5 @@
         "Lao Phula",
         "Pao Tle"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

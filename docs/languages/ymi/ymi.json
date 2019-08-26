@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ymi",
-    "pk": 7226,
     "lc": "ymi",
     "gw": false,
-    "ln": "Moji",
-    "ld": "ltr",
-    "ang": "Moji",
+    "ISO-639-3": "ymi",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Moji",
+    "pk": 7226,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "Moji",
     "alt": [
         "Flathead Phulai",
         "Muji",
@@ -19,5 +19,5 @@
         "Pingtou Phula",
         "Luchaichong"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

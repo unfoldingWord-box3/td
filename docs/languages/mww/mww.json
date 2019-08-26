@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "mww",
-    "pk": 4211,
     "lc": "mww",
     "gw": false,
-    "ln": "\u767d\u82d7\u65b9\u8a00",
-    "ld": "ltr",
-    "ang": "Hmong Daw",
+    "ISO-639-3": "mww",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Hmong Daw",
+    "pk": 4211,
     "cc": [
         "CN",
         "FR",
@@ -15,6 +13,8 @@
         "US",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "\u767d\u82d7\u65b9\u8a00",
     "alt": [
         "Bai Miao",
         "Banded Arm Hmong",
@@ -39,5 +39,5 @@
         "Hmong Gu Mba (Hmong Qua Mba)",
         "Hmong Xi (Meo Do)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

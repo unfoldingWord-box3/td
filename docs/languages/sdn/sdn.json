@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "sdn",
-    "pk": 5535,
     "lc": "sdn",
     "gw": false,
-    "ln": "Gallurese Sardinian",
-    "ld": "ltr",
-    "ang": "Sardinian, Gallurese",
+    "ISO-639-3": "sdn",
     "hc": "IT",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Sardinian, Gallurese",
+    "pk": 5535,
     "cc": [
         "IT"
     ],
+    "lr": "Europe",
+    "ln": "Gallurese Sardinian",
     "alt": [
         "Gallurese",
         "Northeastern Sardinian"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "shv",
-    "pk": 5612,
     "lc": "shv",
     "gw": false,
-    "ln": "\u0644\u063a\u0629 \u0634\u062d\u0631\u064a\u0629",
-    "ld": "ltr",
-    "ang": "Shehri",
+    "ISO-639-3": "shv",
     "hc": "OM",
-    "lr": "Asia",
+    "gwcode": "ar",
+    "ang": "Shehri",
+    "pk": 5612,
     "cc": [
         "OM",
         "SA"
     ],
+    "lr": "Asia",
+    "ln": "\u0644\u063a\u0629 \u0634\u062d\u0631\u064a\u0629",
     "alt": [
         "Ehkili",
         "Geblet",
@@ -21,5 +21,5 @@
         "Shahari",
         "Sheret"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

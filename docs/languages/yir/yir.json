@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "yir",
-    "pk": 7191,
     "lc": "yir",
     "gw": false,
-    "ln": "North Awyu",
-    "ld": "ltr",
-    "ang": "Awyu, North",
+    "ISO-639-3": "yir",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Awyu, North",
+    "pk": 7191,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "North Awyu",
     "alt": [
         "Awyu",
         "Djair",
         "Dyair",
         "Yair"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

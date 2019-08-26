@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "krj",
-    "pk": 3117,
     "lc": "krj",
     "gw": false,
-    "ln": "Kinaray-A",
-    "ld": "ltr",
-    "ang": "Kinaray-a",
+    "ISO-639-3": "krj",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Kinaray-a",
+    "pk": 3117,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Kinaray-A",
     "alt": [
         "Antique\u00f1o",
         "Ati",
@@ -22,5 +22,5 @@
         "Sulud",
         "Guimaras Island (Gimaras)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

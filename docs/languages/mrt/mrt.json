@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mrt",
-    "pk": 4089,
     "lc": "mrt",
     "gw": false,
-    "ln": "Marghi Central",
-    "ld": "ltr",
-    "ang": "Marghi Central",
+    "ISO-639-3": "mrt",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Marghi Central",
+    "pk": 4089,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Marghi Central",
     "alt": [
         "Marghi",
         "Margi",
@@ -19,5 +19,5 @@
         "Mulgwe (Malgwa)",
         "Gulak (Dzerngu)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

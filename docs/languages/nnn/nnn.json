@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nnn",
-    "pk": 4572,
     "lc": "nnn",
     "gw": false,
-    "ln": "Ngete",
-    "ld": "ltr",
-    "ang": "Ngete",
+    "ISO-639-3": "nnn",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Ngete",
+    "pk": 4572,
     "cc": [
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Ngete",
     "alt": [
         "Ka'do Nguet\u00e9",
         "Nge'd\u00e9",
@@ -18,5 +18,5 @@
         "Nguett\u00e9",
         "Zime"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

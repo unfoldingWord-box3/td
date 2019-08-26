@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ain",
-    "pk": 173,
     "lc": "ain",
     "gw": false,
-    "ln": "\u30a2\u30a4\u30cc\u8a9e (Japan)",
-    "ld": "ltr",
-    "ang": "Ainu",
+    "ISO-639-3": "ain",
     "hc": "JP",
-    "lr": "Asia",
+    "gwcode": "ja",
+    "ang": "Ainu",
+    "pk": 173,
     "cc": [
         "JP"
     ],
+    "lr": "Asia",
+    "ln": "\u30a2\u30a4\u30cc\u8a9e (Japan)",
     "alt": [
         "Ainu Itak",
         "Hokkaido (Ezo)",
@@ -18,5 +18,5 @@
         "Sakhalin (Saghilin)",
         "Yezo"
     ],
-    "gwcode": "ja"
+    "ld": "ltr"
 }

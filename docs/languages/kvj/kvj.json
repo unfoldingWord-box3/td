@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "kvj",
-    "pk": 3217,
     "lc": "kvj",
     "gw": false,
-    "ln": "Psikye",
-    "ld": "ltr",
-    "ang": "Psikye",
+    "ISO-639-3": "kvj",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Psikye",
+    "pk": 3217,
     "cc": [
         "CM",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Psikye",
     "alt": [
         "Kamsiki",
         "Kapsiki",
@@ -21,5 +21,5 @@
         "Psikye (Kamu)",
         "Oula"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "biy",
-    "pk": 707,
     "lc": "biy",
     "gw": false,
-    "ln": "Birhor",
-    "ld": "ltr",
-    "ang": "Birhor",
+    "ISO-639-3": "biy",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Birhor",
+    "pk": 707,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Birhor",
     "alt": [
         "Bihor",
         "Birhar",
@@ -20,5 +20,5 @@
         "Mankidia",
         "Mankiria"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

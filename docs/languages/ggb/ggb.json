@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "ggb",
-    "pk": 2000,
     "lc": "ggb",
     "gw": false,
-    "ln": "Gbii",
-    "ld": "ltr",
-    "ang": "Gbii",
+    "ISO-639-3": "ggb",
     "hc": "LR",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Gbii",
+    "pk": 2000,
     "cc": [
         "LR"
     ],
+    "lr": "Africa",
+    "ln": "Gbii",
     "alt": [
         "Gbee",
         "Gbi-Dowlu",
         "Kplor"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

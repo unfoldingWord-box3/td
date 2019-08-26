@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sea",
-    "pk": 5543,
     "lc": "sea",
     "gw": false,
-    "ln": "Semai",
-    "ld": "ltr",
-    "ang": "Semai",
+    "ISO-639-3": "sea",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Semai",
+    "pk": 5543,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Semai",
     "alt": [
         "Sengoi",
         "Seng'oi",
@@ -23,5 +23,5 @@
         "Tapah (Jalan Pahang)",
         "Ulu Kampar (Kampar)"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

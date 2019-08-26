@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tet",
-    "pk": 6067,
     "lc": "tet",
     "gw": false,
-    "ln": "Tetum",
-    "ld": "ltr",
-    "ang": "Tetun",
+    "ISO-639-3": "tet",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "idb",
+    "ang": "Tetun",
+    "pk": 6067,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Tetum",
     "alt": [
         "Belo",
         "Belu",
@@ -42,5 +42,5 @@
         "Plain Tetun",
         "Foho"
     ],
-    "gwcode": "idb"
+    "ld": "ltr"
 }

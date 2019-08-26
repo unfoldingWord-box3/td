@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nlk",
-    "pk": 4525,
     "lc": "nlk",
     "gw": false,
-    "ln": "Ninia Yali",
-    "ld": "ltr",
-    "ang": "Yali, Ninia",
+    "ISO-639-3": "nlk",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Yali, Ninia",
+    "pk": 4525,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Ninia Yali",
     "alt": [
         "Jal\u00e8",
         "Jaly",
@@ -19,5 +19,5 @@
         "Southern Yali",
         "Yali Selatan"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "kvd",
-    "pk": 3211,
     "lc": "kvd",
     "gw": false,
-    "ln": "Kui (Indonesia)",
-    "ld": "ltr",
-    "ang": "Kui",
+    "ISO-639-3": "kvd",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Kui",
+    "pk": 3211,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Kui (Indonesia)",
     "alt": [
         "Lerabain",
         "Kiramang (Kramang)",
         "Kui (Buraga)",
         "Lerabaing"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

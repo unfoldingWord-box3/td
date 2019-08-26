@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "eky",
-    "pk": 1723,
     "lc": "eky",
     "gw": false,
-    "ln": "Eastern Kayah",
-    "ld": "ltr",
-    "ang": "Kayah, Eastern",
+    "ISO-639-3": "eky",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Kayah, Eastern",
+    "pk": 1723,
     "cc": [
         "TH",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Eastern Kayah",
     "alt": [
         "Karenni",
         "Karennyi",
@@ -23,5 +23,5 @@
         "Lower Eastern Kayah",
         "Upper Eastern Kayah"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

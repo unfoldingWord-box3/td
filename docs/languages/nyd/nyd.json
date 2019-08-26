@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nyd",
-    "pk": 4728,
     "lc": "nyd",
     "gw": false,
-    "ln": "Nyore",
-    "ld": "ltr",
-    "ang": "Olunyole",
+    "ISO-639-3": "nyd",
     "hc": "KE",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Olunyole",
+    "pk": 4728,
     "cc": [
         "KE"
     ],
+    "lr": "Africa",
+    "ln": "Nyore",
     "alt": [
         "Lunyole",
         "Nyole",
@@ -18,5 +18,5 @@
         "Nyore",
         "Olunyore"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

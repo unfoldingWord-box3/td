@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mkg",
-    "pk": 3907,
     "lc": "mkg",
     "gw": false,
-    "ln": "\u83ab\u8bed (China)",
-    "ld": "ltr",
-    "ang": "Mak",
+    "ISO-639-3": "mkg",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Mak",
+    "pk": 3907,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u83ab\u8bed (China)",
     "alt": [
         "Mochiahua",
         "Mohua",
@@ -18,5 +18,5 @@
         "Mojiahua",
         "Ching (Cham)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

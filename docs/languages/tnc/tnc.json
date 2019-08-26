@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tnc",
-    "pk": 6221,
     "lc": "tnc",
     "gw": false,
-    "ln": "Tanimuca-Retuar\u00e3",
-    "ld": "ltr",
-    "ang": "Tanimuca-Retuar\u00e3",
+    "ISO-639-3": "tnc",
     "hc": "CO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Tanimuca-Retuar\u00e3",
+    "pk": 6221,
     "cc": [
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Tanimuca-Retuar\u00e3",
     "alt": [
         "Letuama",
         "Letuhama",
@@ -23,5 +23,5 @@
         "Uair\u00e3",
         "Ufaina"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

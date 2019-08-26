@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kxi",
-    "pk": 3265,
     "lc": "kxi",
     "gw": false,
-    "ln": "Keningau Murut",
-    "ld": "ltr",
-    "ang": "Keningau Murut",
+    "ISO-639-3": "kxi",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Keningau Murut",
+    "pk": 3265,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Keningau Murut",
     "alt": [
         "Central Murut",
         "Nabai",
@@ -20,5 +20,5 @@
         "Dabay",
         "Nebee"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

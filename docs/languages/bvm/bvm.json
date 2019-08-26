@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bvm",
-    "pk": 1006,
     "lc": "bvm",
     "gw": false,
-    "ln": "Bamunka",
-    "ld": "ltr",
-    "ang": "Bamunka",
+    "ISO-639-3": "bvm",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Bamunka",
+    "pk": 1006,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Bamunka",
     "alt": [
         "Bamunkun",
         "Mbika",
@@ -18,5 +18,5 @@
         "Ndop-Bamunka",
         "Ngiemekohke"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "ttq",
-    "pk": 6364,
     "lc": "ttq",
     "gw": false,
-    "ln": "Tawallammat Tamajaq",
-    "ld": "ltr",
-    "ang": "Tamajaq, Tawallammat",
+    "ISO-639-3": "ttq",
     "hc": "NE",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Tamajaq, Tawallammat",
+    "pk": 6364,
     "cc": [
         "ML",
         "NE",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Tawallammat Tamajaq",
     "alt": [
         "Tahoua",
         "Tajag",
@@ -33,5 +33,5 @@
         "Tawallammet Tan Dannag (Ioullemmeden)",
         "Ioullemmeden"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

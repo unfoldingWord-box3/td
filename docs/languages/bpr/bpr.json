@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bpr",
-    "pk": 867,
     "lc": "bpr",
     "gw": false,
-    "ln": "Koronadal Blaan",
-    "ld": "ltr",
-    "ang": "Blaan, Koronadal",
+    "ISO-639-3": "bpr",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "ceb",
+    "ang": "Blaan, Koronadal",
+    "pk": 867,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Koronadal Blaan",
     "alt": [
         "Baraan",
         "Bilanes",
@@ -18,5 +18,5 @@
         "Koronadal Bilaan",
         "Tagalagad"
     ],
-    "gwcode": "ceb"
+    "ld": "ltr"
 }

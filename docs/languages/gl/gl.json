@@ -1,23 +1,23 @@
 {
-    "ISO-639-3": "glg",
-    "pk": 2047,
     "lc": "gl",
     "gw": false,
-    "ln": "galego",
-    "ld": "ltr",
-    "ang": "Galician",
+    "ISO-639-3": "glg",
     "hc": "ES",
-    "lr": "Europe",
+    "gwcode": "es",
+    "ang": "Galician",
+    "pk": 2047,
     "cc": [
         "AR",
         "ES",
         "PT"
     ],
+    "lr": "Europe",
+    "ln": "galego",
     "alt": [
         "Galego",
         "Gallego",
         "Rionorese (Rionor\u00eas)",
         "Guadramilese (Guadramil\u00eas)"
     ],
-    "gwcode": "es"
+    "ld": "ltr"
 }

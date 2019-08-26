@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ngq",
-    "pk": 4424,
     "lc": "ngq",
     "gw": false,
-    "ln": "Ngurimi",
-    "ld": "ltr",
-    "ang": "Ngoreme",
+    "ISO-639-3": "ngq",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Ngoreme",
+    "pk": 4424,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Ngurimi",
     "alt": [
         "Dengurume",
         "Ikingurimi",
@@ -19,5 +19,5 @@
         "Ngurimi",
         "Nguruimi"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

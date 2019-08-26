@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nxg",
-    "pk": 4715,
     "lc": "nxg",
     "gw": false,
-    "ln": "Ngad'a",
-    "ld": "ltr",
-    "ang": "Ngad\u2019a",
+    "ISO-639-3": "nxg",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Ngad\u2019a",
+    "pk": 4715,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Ngad'a",
     "alt": [
         "Badjava",
         "Bajava",
@@ -19,5 +19,5 @@
         "Ngadha",
         "Rokka"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

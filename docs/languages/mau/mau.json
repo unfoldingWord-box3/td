@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mau",
-    "pk": 3673,
     "lc": "mau",
     "gw": false,
-    "ln": "Huautla Mazatec",
-    "ld": "ltr",
-    "ang": "Mazatec, Huautla",
+    "ISO-639-3": "mau",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mazatec, Huautla",
+    "pk": 3673,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Huautla Mazatec",
     "alt": [
         "Highland Mazatec",
         "Mazateco de Huautla de Jimenez",
@@ -19,5 +19,5 @@
         "Mazateco de presa alto",
         "Mazateco del norte"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

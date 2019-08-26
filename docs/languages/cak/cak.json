@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cak",
-    "pk": 1118,
     "lc": "cak",
     "gw": false,
-    "ln": "Kaqchikel",
-    "ld": "ltr",
-    "ang": "Kaqchikel",
+    "ISO-639-3": "cak",
     "hc": "GT",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Kaqchikel",
+    "pk": 1118,
     "cc": [
         "GT"
     ],
+    "lr": "Americas",
+    "ln": "Kaqchikel",
     "alt": [
         "Cakchiquel",
         "Kaqchiquel",
@@ -24,5 +24,5 @@
         "Eastern Cakchiquel",
         "Santo Domingo Xenacoj Cakchiquel"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

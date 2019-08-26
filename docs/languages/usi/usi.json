@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "usi",
-    "pk": 6560,
     "lc": "usi",
     "gw": false,
-    "ln": "Usui",
-    "ld": "ltr",
-    "ang": "Usoi",
+    "ISO-639-3": "usi",
     "hc": "BD",
-    "lr": "Asia",
+    "gwcode": "bn",
+    "ang": "Usoi",
+    "pk": 6560,
     "cc": [
         "BD"
     ],
+    "lr": "Asia",
+    "ln": "Usui",
     "alt": [
         "Kau Brung",
         "Unshoi",
@@ -19,5 +19,5 @@
         "Panji",
         "Joloi"
     ],
-    "gwcode": "bn"
+    "ld": "ltr"
 }

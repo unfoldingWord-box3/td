@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sfm",
-    "pk": 5568,
     "lc": "sfm",
     "gw": false,
-    "ln": "\u5c0f\u82b1\u82d7",
-    "ld": "ltr",
-    "ang": "Miao, Small Flowery",
+    "ISO-639-3": "sfm",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Miao, Small Flowery",
+    "pk": 5568,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u5c0f\u82b1\u82d7",
     "alt": [
         "Atse",
         "Ghab-Mvb Ghab-Svd",
@@ -18,5 +18,5 @@
         "Hsiao Hwa Miao",
         "Xiao Hua Miao"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

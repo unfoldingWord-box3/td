@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "mrh",
-    "pk": 4078,
     "lc": "mrh",
     "gw": false,
-    "ln": "Mara Chin",
-    "ld": "ltr",
-    "ang": "Chin, Mara",
+    "ISO-639-3": "mrh",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Chin, Mara",
+    "pk": 4078,
     "cc": [
         "IN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Mara Chin",
     "alt": [
         "Mara",
         "Maram",
@@ -19,5 +19,5 @@
         "Zao",
         "Tlongsai (Tlosai-Siaha)"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

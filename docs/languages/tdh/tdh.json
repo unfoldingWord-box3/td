@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tdh",
-    "pk": 6037,
     "lc": "tdh",
     "gw": false,
-    "ln": "Thulung",
-    "ld": "ltr",
-    "ang": "Thulung",
+    "ISO-639-3": "tdh",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Thulung",
+    "pk": 6037,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Thulung",
     "alt": [
         "Thulunge Rai",
         "Tholong Lo",
@@ -25,5 +25,5 @@
         "Eastern Thulung (Jubu Lwa)",
         "Lokhim Lwa"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

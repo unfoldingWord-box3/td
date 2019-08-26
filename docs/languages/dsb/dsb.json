@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dsb",
-    "pk": 1629,
     "lc": "dsb",
     "gw": false,
-    "ln": "Lower Sorbian",
-    "ld": "ltr",
-    "ang": "Sorbian, Lower",
+    "ISO-639-3": "dsb",
     "hc": "DE",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Sorbian, Lower",
+    "pk": 1629,
     "cc": [
         "DE"
     ],
+    "lr": "Europe",
+    "ln": "Lower Sorbian",
     "alt": [
         "Bas Sorabe",
         "Delnoserbski",
@@ -21,5 +21,5 @@
         "Niedersorbisch",
         "Wendish"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

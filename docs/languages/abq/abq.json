@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "abq",
-    "pk": 43,
     "lc": "abq",
     "gw": false,
-    "ln": "\u0430\u0431\u0430\u0437\u0430",
-    "ld": "ltr",
-    "ang": "Abaza",
+    "ISO-639-3": "abq",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Abaza",
+    "pk": 43,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u0430\u0431\u0430\u0437\u0430",
     "alt": [
         "Ashkaraua (Ashkar)",
         "Ashxar",
@@ -19,5 +19,5 @@
         "Ashuwa",
         "Ahuwa"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

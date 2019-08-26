@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bdl",
-    "pk": 570,
     "lc": "bdl",
     "gw": false,
-    "ln": "Bajo",
-    "ld": "ltr",
-    "ang": "Bajau, Indonesian",
+    "ISO-639-3": "bdl",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Bajau, Indonesian",
+    "pk": 570,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Bajo",
     "alt": [
         "Badjaw",
         "Badjo",
@@ -25,5 +25,5 @@
         "Togian 1",
         "Togian 2"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

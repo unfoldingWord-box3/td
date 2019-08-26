@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "yle",
-    "pk": 7212,
     "lc": "yle",
     "gw": false,
-    "ln": "Yele",
-    "ld": "ltr",
-    "ang": "Yele",
+    "ISO-639-3": "yle",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Yele",
+    "pk": 7212,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Yele",
     "alt": [
         "Rossel",
         "Yela",
@@ -19,5 +19,5 @@
         "Yelidnye",
         "Daminyu"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

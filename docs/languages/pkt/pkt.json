@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pkt",
-    "pk": 5059,
     "lc": "pkt",
     "gw": false,
-    "ln": "Maleng",
-    "ld": "ltr",
-    "ang": "Maleng",
+    "ISO-639-3": "pkt",
     "hc": "LA",
-    "lr": "Asia",
+    "gwcode": "lo",
+    "ang": "Maleng",
+    "pk": 5059,
     "cc": [
         "LA"
     ],
+    "lr": "Asia",
+    "ln": "Maleng",
     "alt": [
         "Maleng Kari",
         "Pakatan (Kha Pakatan)",
@@ -19,5 +19,5 @@
         "Dan Hoa",
         "Kha Phong (Kha Nam Om)"
     ],
-    "gwcode": "lo"
+    "ld": "ltr"
 }

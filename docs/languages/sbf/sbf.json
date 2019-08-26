@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sbf",
-    "pk": 5484,
     "lc": "sbf",
     "gw": false,
-    "ln": "Chabu",
-    "ld": "ltr",
-    "ang": "Shabo",
+    "ISO-639-3": "sbf",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Shabo",
+    "pk": 5484,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Chabu",
     "alt": [
         "Sabu",
         "Mekeyer",
@@ -18,5 +18,5 @@
         "Mikeyir",
         "Shako"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

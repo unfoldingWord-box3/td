@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "rou",
-    "pk": 5417,
     "lc": "rou",
     "gw": false,
-    "ln": "Runga",
-    "ld": "ltr",
-    "ang": "Runga",
+    "ISO-639-3": "rou",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Runga",
+    "pk": 5417,
     "cc": [
         "CF",
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Runga",
     "alt": [
         "Ayki",
         "Aykindang",
@@ -19,5 +19,5 @@
         "Runga de Ndele",
         "Roungo"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

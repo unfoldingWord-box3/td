@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "UNKNOWN",
-    "pk": 4,
     "lc": "pt-br",
     "gw": true,
-    "ln": "Portugu\u00eas",
-    "ld": "ltr",
-    "ang": "Brazilian Portuguese",
+    "ISO-639-3": "UNKNOWN",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt-br",
+    "ang": "Brazilian Portuguese",
+    "pk": 4,
     "cc": [
         "AT",
         "BE",
@@ -46,6 +44,8 @@
         "PT",
         "SR"
     ],
+    "lr": "Americas",
+    "ln": "Portugu\u00eas",
     "alt": [
         "Portugu\u00eas",
         "Alentejan (Alentejano)",
@@ -60,5 +60,5 @@
         "Algarvian (Algarvio)",
         "Azorean (A\u00e7oriano)"
     ],
-    "gwcode": "pt-br"
+    "ld": "ltr"
 }

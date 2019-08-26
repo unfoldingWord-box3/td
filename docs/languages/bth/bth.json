@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bth",
-    "pk": 952,
     "lc": "bth",
     "gw": false,
-    "ln": "Biatah Bidayuh",
-    "ld": "ltr",
-    "ang": "Bidayuh, Biatah",
+    "ISO-639-3": "bth",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Bidayuh, Biatah",
+    "pk": 952,
     "cc": [
         "ID",
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Biatah Bidayuh",
     "alt": [
         "Bideyu",
         "Landu",
@@ -24,5 +24,5 @@
         "Sitaang",
         "Stang (Bisitaang)"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

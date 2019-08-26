@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cur",
-    "pk": 1396,
     "lc": "cur",
     "gw": false,
-    "ln": "Chhulung",
-    "ld": "ltr",
-    "ang": "Chhulung",
+    "ISO-639-3": "cur",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Chhulung",
+    "pk": 1396,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Chhulung",
     "alt": [
         "Chhilling",
         "Chholung",
@@ -19,5 +19,5 @@
         "Chulung",
         "Ch\u00fcl\u00fcng"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

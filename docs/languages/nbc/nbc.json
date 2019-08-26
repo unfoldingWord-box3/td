@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nbc",
-    "pk": 4312,
     "lc": "nbc",
     "gw": false,
-    "ln": "Chang Naga",
-    "ld": "ltr",
-    "ang": "Naga, Chang",
+    "ISO-639-3": "nbc",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Naga, Chang",
+    "pk": 4312,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Chang Naga",
     "alt": [
         "Chang",
         "Changyanguh",
@@ -19,5 +19,5 @@
         "Mochungrr",
         "Mojung"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

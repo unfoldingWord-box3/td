@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "myg",
-    "pk": 4246,
     "lc": "myg",
     "gw": false,
-    "ln": "Manta",
-    "ld": "ltr",
-    "ang": "Manta",
+    "ISO-639-3": "myg",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Manta",
+    "pk": 4246,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Manta",
     "alt": [
         "Anta",
         "Banta",
@@ -19,5 +19,5 @@
         "Menta",
         "Tinta"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "hns",
-    "pk": 2322,
     "lc": "hns",
     "gw": false,
-    "ln": "Caribbean Hindustani",
-    "ld": "ltr",
-    "ang": "Hindustani, Sarnami",
+    "ISO-639-3": "hns",
     "hc": "SR",
-    "lr": "Americas",
+    "gwcode": "nl",
+    "ang": "Hindustani, Sarnami",
+    "pk": 2322,
     "cc": [
         "TT",
         "GY",
@@ -15,10 +13,12 @@
         "SX",
         "SR"
     ],
+    "lr": "Americas",
+    "ln": "Caribbean Hindustani",
     "alt": [
         "Aili Gaili",
         "Sarnami Hindi",
         "Sarnami Hindustani (Aili Gaili)"
     ],
-    "gwcode": "nl"
+    "ld": "ltr"
 }

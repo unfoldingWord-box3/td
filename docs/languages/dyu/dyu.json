@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "dyu",
-    "pk": 1683,
     "lc": "dyu",
     "gw": false,
-    "ln": "Dyula",
-    "ld": "ltr",
-    "ang": "Jula",
+    "ISO-639-3": "dyu",
     "hc": "CI",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Jula",
+    "pk": 1683,
     "cc": [
         "BF",
         "CI",
@@ -15,6 +13,8 @@
         "ML",
         "US"
     ],
+    "lr": "Africa",
+    "ln": "Dyula",
     "alt": [
         "Diula",
         "Djula",
@@ -24,5 +24,5 @@
         "Kong Jula",
         "Trade Jula"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

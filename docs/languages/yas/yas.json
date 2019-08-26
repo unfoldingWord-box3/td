@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "yas",
-    "pk": 7128,
     "lc": "yas",
     "gw": false,
-    "ln": "Nugunu (Cameroon)",
-    "ld": "ltr",
-    "ang": "Nugunu",
+    "ISO-639-3": "yas",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Nugunu",
+    "pk": 7128,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Nugunu (Cameroon)",
     "alt": [
         "Behie",
         "Beke",
@@ -21,5 +21,5 @@
         "Yambasa",
         "Yambassa"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

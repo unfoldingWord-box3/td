@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "kmy",
-    "pk": 3011,
     "lc": "kmy",
     "gw": false,
-    "ln": "Koma",
-    "ld": "ltr",
-    "ang": "Koma",
+    "ISO-639-3": "kmy",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Koma",
+    "pk": 3011,
     "cc": [
         "CM",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Koma",
     "alt": [
         "Kuma",
         "Yeru",
@@ -33,5 +33,5 @@
         "Koma Kampana",
         "Koma Ndera"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

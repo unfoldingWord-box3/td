@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "ojc",
-    "pk": 4792,
     "lc": "ojc",
     "gw": false,
-    "ln": "Central Ojibwa",
-    "ld": "ltr",
-    "ang": "Ojibwa, Central",
+    "ISO-639-3": "ojc",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Ojibwa, Central",
+    "pk": 4792,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Central Ojibwa",
     "alt": [
         "Central Ojibwe",
         "Ojibway",
         "Ojibwe"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

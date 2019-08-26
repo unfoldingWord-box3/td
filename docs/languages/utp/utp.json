@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "utp",
-    "pk": 6566,
     "lc": "utp",
     "gw": false,
-    "ln": "Amba (Solomon Islands)",
-    "ld": "ltr",
-    "ang": "Amba",
+    "ISO-639-3": "utp",
     "hc": "SB",
-    "lr": "Pacific",
+    "gwcode": "pis",
+    "ang": "Amba",
+    "pk": 6566,
     "cc": [
         "SB"
     ],
+    "lr": "Pacific",
+    "ln": "Amba (Solomon Islands)",
     "alt": [
         "Aba",
         "Nembao",
         "Utupua"
     ],
-    "gwcode": "pis"
+    "ld": "ltr"
 }

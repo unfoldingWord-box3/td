@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "wap",
-    "pk": 6678,
     "lc": "wap",
     "gw": false,
-    "ln": "Wapishana",
-    "ld": "ltr",
-    "ang": "Wapishana",
+    "ISO-639-3": "wap",
     "hc": "GY",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Wapishana",
+    "pk": 6678,
     "cc": [
         "BR",
         "GY"
     ],
+    "lr": "Americas",
+    "ln": "Wapishana",
     "alt": [
         "Aruma",
         "Uapixana",
@@ -28,5 +28,5 @@
         "Wapitxana",
         "Wapixana"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

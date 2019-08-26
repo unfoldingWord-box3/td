@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "pao",
-    "pk": 4927,
     "lc": "pao",
     "gw": false,
-    "ln": "Northern Paiute",
-    "ld": "ltr",
-    "ang": "Paiute, Northern",
+    "ISO-639-3": "pao",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Paiute, Northern",
+    "pk": 4927,
     "cc": [
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Northern Paiute",
     "alt": [
         "Paviotso",
         "North Northern Paiute (Mcdermitt)",
         "South Northern Paiute (Yerington-Schurz)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

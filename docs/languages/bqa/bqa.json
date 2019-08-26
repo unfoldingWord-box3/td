@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bqa",
-    "pk": 875,
     "lc": "bqa",
     "gw": false,
-    "ln": "Tchumbuli",
-    "ld": "ltr",
-    "ang": "Tchumbuli",
+    "ISO-639-3": "bqa",
     "hc": "BJ",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Tchumbuli",
+    "pk": 875,
     "cc": [
         "BJ"
     ],
+    "lr": "Africa",
+    "ln": "Tchumbuli",
     "alt": [
         "Basa",
         "Chombulon",
@@ -18,5 +18,5 @@
         "Tshummbuli",
         "Cobecha"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

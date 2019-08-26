@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "kzi",
-    "pk": 3316,
     "lc": "kzi",
     "gw": false,
-    "ln": "Kelabit",
-    "ld": "ltr",
-    "ang": "Kelabit",
+    "ISO-639-3": "kzi",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Kelabit",
+    "pk": 3316,
     "cc": [
         "ID",
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Kelabit",
     "alt": [
         "Apo Duat",
         "Kalabit",
@@ -26,5 +26,5 @@
         "Bareo (Bario)",
         "Pa' Dalih"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

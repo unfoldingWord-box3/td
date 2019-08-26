@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wgu",
-    "pk": 6727,
     "lc": "wgu",
     "gw": false,
-    "ln": "Wirangu",
-    "ld": "ltr",
-    "ang": "Wirangu",
+    "ISO-639-3": "wgu",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Wirangu",
+    "pk": 6727,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Wirangu",
     "alt": [
         "Jilbara",
         "Naljara",
@@ -35,5 +35,5 @@
         "Wirrunga",
         "Yilrea"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mmu",
-    "pk": 3968,
     "lc": "mmu",
     "gw": false,
-    "ln": "Mmaala",
-    "ld": "ltr",
-    "ang": "Mmaala",
+    "ISO-639-3": "mmu",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Mmaala",
+    "pk": 3968,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Mmaala",
     "alt": [
         "Benyi",
         "Central Yambassa",
@@ -19,5 +19,5 @@
         "Nukitia",
         "Nuenie"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bfc",
-    "pk": 611,
     "lc": "bfc",
     "gw": false,
-    "ln": "\u5317\u90e8\u65b9\u8a00",
-    "ld": "ltr",
-    "ang": "Bai, Panyi",
+    "ISO-639-3": "bfc",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Bai, Panyi",
+    "pk": 611,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u5317\u90e8\u65b9\u8a00",
     "alt": [
         "Bijang Bai",
         "Laemae",
@@ -19,5 +19,5 @@
         "Nujiang",
         "Lanping"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

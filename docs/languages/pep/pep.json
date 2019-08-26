@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pep",
-    "pk": 4992,
     "lc": "pep",
     "gw": false,
-    "ln": "Kunja",
-    "ld": "ltr",
-    "ang": "Kunja",
+    "ISO-639-3": "pep",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Kunja",
+    "pk": 4992,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Kunja",
     "alt": [
         "Lower Morehead",
         "Peremka",
@@ -18,5 +18,5 @@
         "K\u00e1m\u00e1",
         "K\u00e1nch\u00e1"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

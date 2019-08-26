@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "gdf",
-    "pk": 1965,
     "lc": "gdf",
     "gw": false,
-    "ln": "Guduf-Gava",
-    "ld": "ltr",
-    "ang": "Guduf-Gava",
+    "ISO-639-3": "gdf",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Guduf-Gava",
+    "pk": 1965,
     "cc": [
         "CM",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Guduf-Gava",
     "alt": [
         "Afkabiye",
         "Gudupe",
@@ -19,5 +19,5 @@
         "Gava (Yaghwatadaxa)",
         "Yawotataxa"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

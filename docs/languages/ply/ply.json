@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ply",
-    "pk": 5081,
     "lc": "ply",
     "gw": false,
-    "ln": "\u5df4\u7409\u8bed",
-    "ld": "ltr",
-    "ang": "Bolyu",
+    "ISO-639-3": "ply",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Bolyu",
+    "pk": 5081,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u5df4\u7409\u8bed",
     "alt": [
         "Baliu",
         "Lai",
@@ -19,5 +19,5 @@
         "Palju",
         "Polyu"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "brm",
-    "pk": 909,
     "lc": "brm",
     "gw": false,
-    "ln": "Barambu",
-    "ld": "ltr",
-    "ang": "Barambu",
+    "ISO-639-3": "brm",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Barambu",
+    "pk": 909,
     "cc": [
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Barambu",
     "alt": [
         "Abarambo",
         "Amiangba",
@@ -19,5 +19,5 @@
         "Barambo",
         "Duga"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

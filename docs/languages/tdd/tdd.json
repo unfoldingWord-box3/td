@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "tdd",
-    "pk": 6033,
     "lc": "tdd",
     "gw": false,
-    "ln": "\u50a3\u90a3\u8bed",
-    "ld": "ltr",
-    "ang": "Tai N\u00fca",
+    "ISO-639-3": "tdd",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Tai N\u00fca",
+    "pk": 6033,
     "cc": [
         "CN",
         "LA",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "\u50a3\u90a3\u8bed",
     "alt": [
         "Chinese Shan",
         "Chinese Tai",
@@ -48,5 +48,5 @@
         "Ruili (Meng Mao)",
         "Ya"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

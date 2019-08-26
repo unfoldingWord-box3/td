@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "idb",
-    "pk": 2420,
     "lc": "idb",
     "gw": false,
-    "ln": "Indo-Portuguese",
-    "ld": "ltr",
-    "ang": "Indo-Portuguese",
+    "ISO-639-3": "idb",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "gu",
+    "ang": "Indo-Portuguese",
+    "pk": 2420,
     "cc": [
         "LK",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Indo-Portuguese",
     "alt": [
         "Cannanore",
         "Cochin (Kochi)",
         "Diu"
     ],
-    "gwcode": "gu"
+    "ld": "ltr"
 }

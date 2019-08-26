@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "pac",
-    "pk": 4917,
     "lc": "pac",
     "gw": false,
-    "ln": "Pacoh",
-    "ld": "ltr",
-    "ang": "Pacoh",
+    "ISO-639-3": "pac",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Pacoh",
+    "pk": 4917,
     "cc": [
         "LA",
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Pacoh",
     "alt": [
         "Bo River Van Kieu",
         "Pokoh",
@@ -20,5 +20,5 @@
         "Pahi (Ba-Hi)",
         "Ka'do"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

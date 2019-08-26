@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "swi",
-    "pk": 5909,
     "lc": "swi",
     "gw": false,
-    "ln": "\u6c34\u8bed",
-    "ld": "ltr",
-    "ang": "Sui",
+    "ISO-639-3": "swi",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Sui",
+    "pk": 5909,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u6c34\u8bed",
     "alt": [
         "Ai Sui",
         "Sui Li",
@@ -18,5 +18,5 @@
         "Sandong (Central Sui)",
         "Southern Sui"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

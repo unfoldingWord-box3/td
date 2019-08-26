@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mjr",
-    "pk": 3892,
     "lc": "mjr",
     "gw": false,
-    "ln": "Malavedan",
-    "ld": "ltr",
-    "ang": "Malavedan",
+    "ISO-639-3": "mjr",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "ml",
+    "ang": "Malavedan",
+    "pk": 3892,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Malavedan",
     "alt": [
         "Malai Vedan",
         "Malavetan",
@@ -19,5 +19,5 @@
         "Vedans",
         "Vettava Bhasha"
     ],
-    "gwcode": "ml"
+    "ld": "ltr"
 }

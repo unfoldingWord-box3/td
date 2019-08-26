@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nlj",
-    "pk": 4524,
     "lc": "nlj",
     "gw": false,
-    "ln": "Nyali",
-    "ld": "ltr",
-    "ang": "Nyali",
+    "ISO-639-3": "nlj",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Nyali",
+    "pk": 4524,
     "cc": [
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Nyali",
     "alt": [
         "Huku",
         "Linyali",
@@ -18,5 +18,5 @@
         "Nyali-Kilo",
         "Nyari"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

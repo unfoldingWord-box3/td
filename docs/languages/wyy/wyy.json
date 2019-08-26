@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wyy",
-    "pk": 6852,
     "lc": "wyy",
     "gw": false,
-    "ln": "Western Fijian",
-    "ld": "ltr",
-    "ang": "Fijian, Western",
+    "ISO-639-3": "wyy",
     "hc": "FJ",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Fijian, Western",
+    "pk": 6852,
     "cc": [
         "FJ"
     ],
+    "lr": "Pacific",
+    "ln": "Western Fijian",
     "alt": [
         "Fiji",
         "Nadrogaa",
@@ -20,5 +20,5 @@
         "Nakoroboya",
         "Tubaniwai"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

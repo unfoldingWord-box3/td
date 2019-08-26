@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nyp",
-    "pk": 4740,
     "lc": "nyp",
     "gw": false,
-    "ln": "Nyang'i",
-    "ld": "ltr",
-    "ang": "Nyang\u2019i",
+    "ISO-639-3": "nyp",
     "hc": "UG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Nyang\u2019i",
+    "pk": 4740,
     "cc": [
         "UG"
     ],
+    "lr": "Africa",
+    "ln": "Nyang'i",
     "alt": [
         "Gyangiya",
         "Ngangea",
@@ -25,5 +25,5 @@
         "Nyuangia",
         "Upale"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

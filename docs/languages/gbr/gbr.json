@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gbr",
-    "pk": 1944,
     "lc": "gbr",
     "gw": false,
-    "ln": "Gbagyi",
-    "ld": "ltr",
-    "ang": "Gbagyi",
+    "ISO-639-3": "gbr",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Gbagyi",
+    "pk": 1944,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Gbagyi",
     "alt": [
         "East Gwari",
         "Gbagye",
@@ -21,5 +21,5 @@
         "Gyengyen",
         "Ngenge (Genge)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

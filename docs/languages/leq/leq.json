@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "leq",
-    "pk": 3417,
     "lc": "leq",
     "gw": false,
-    "ln": "Lembena",
-    "ld": "ltr",
-    "ang": "Lembena",
+    "ISO-639-3": "leq",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Lembena",
+    "pk": 3417,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Lembena",
     "alt": [
         "Lembena Pii",
         "Nanimba Pii",
         "Uyalipa Pii",
         "Wapi Pii"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

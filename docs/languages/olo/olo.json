@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "olo",
-    "pk": 4819,
     "lc": "olo",
     "gw": false,
-    "ln": "\u041b\u0438\u0432\u0432\u0438\u043a\u043e\u0432\u0441\u043a\u043e\u0435 \u043d\u0430\u0440\u0435\u0447\u0438\u0435",
-    "ld": "ltr",
-    "ang": "Livvi-Karelian",
+    "ISO-639-3": "olo",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Livvi-Karelian",
+    "pk": 4819,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u041b\u0438\u0432\u0432\u0438\u043a\u043e\u0432\u0441\u043a\u043e\u0435 \u043d\u0430\u0440\u0435\u0447\u0438\u0435",
     "alt": [
         "Aunus",
         "Livvikovian",
@@ -20,5 +20,5 @@
         "Livvikovskij Jazyk",
         "Southern Olonetsian"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "myv",
-    "pk": 4257,
     "lc": "myv",
     "gw": false,
-    "ln": "\u042d\u0440\u0437\u044f\u0301\u043d\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Erzya",
+    "ISO-639-3": "myv",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Erzya",
+    "pk": 4257,
     "cc": [
         "AZ",
         "KZ",
@@ -17,10 +15,12 @@
         "TM",
         "UZ"
     ],
+    "lr": "Europe",
+    "ln": "\u042d\u0440\u0437\u044f\u0301\u043d\u0441\u043a\u0438\u0439",
     "alt": [
         "Erzia",
         "Mordvin",
         "Mordvin-Erzya"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

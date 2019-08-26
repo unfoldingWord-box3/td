@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tfr",
-    "pk": 6076,
     "lc": "tfr",
     "gw": false,
-    "ln": "Teribe",
-    "ld": "ltr",
-    "ang": "Teribe",
+    "ISO-639-3": "tfr",
     "hc": "PA",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Teribe",
+    "pk": 6076,
     "cc": [
         "PA"
     ],
+    "lr": "Americas",
+    "ln": "Teribe",
     "alt": [
         "Terraba",
         "Naso",
@@ -19,5 +19,5 @@
         "Tiribi",
         "Tirribi"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

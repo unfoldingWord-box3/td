@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "UNKNOWN",
-    "pk": 6124,
     "lc": "tid",
     "gw": false,
-    "ln": "Tidong",
-    "ld": "ltr",
-    "ang": "Tidong",
+    "ISO-639-3": "UNKNOWN",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Tidong",
+    "pk": 6124,
     "cc": [
         "ID",
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Tidong",
     "alt": [
         "Camucones",
         "Tedong",
@@ -28,5 +28,5 @@
         "Sesayap (Sesajap)",
         "Tarakan (Terakan)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

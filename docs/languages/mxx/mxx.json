@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mxx",
-    "pk": 4237,
     "lc": "mxx",
     "gw": false,
-    "ln": "Mahou",
-    "ld": "ltr",
-    "ang": "Mahou",
+    "ISO-639-3": "mxx",
     "hc": "CI",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Mahou",
+    "pk": 4237,
     "cc": [
         "CI"
     ],
+    "lr": "Africa",
+    "ln": "Mahou",
     "alt": [
         "Mahu",
         "Maou",
@@ -19,5 +19,5 @@
         "Mauke",
         "Baralaka (Barala)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

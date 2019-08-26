@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "nso",
-    "pk": 4650,
     "lc": "nso",
     "gw": false,
-    "ln": "Pedi",
-    "ld": "ltr",
-    "ang": "Sotho, Northern",
+    "ISO-639-3": "nso",
     "hc": "ZA",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Sotho, Northern",
+    "pk": 4650,
     "cc": [
         "ZA",
         "ZW",
         "BW"
     ],
+    "lr": "Africa",
+    "ln": "Pedi",
     "alt": [
         "Pedi",
         "Sepedi",
@@ -34,5 +34,5 @@
         "Dzwabo (Thabine-Roka-Nareng)",
         "Lobedu (Khelobedu)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

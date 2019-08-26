@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "isi",
-    "pk": 2523,
     "lc": "isi",
     "gw": false,
-    "ln": "Nkem-Nkum",
-    "ld": "ltr",
-    "ang": "Nkem-Nkum",
+    "ISO-639-3": "isi",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Nkem-Nkum",
+    "pk": 2523,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Nkem-Nkum",
     "alt": [
         "Ikangdangha",
         "Ogboja",
@@ -23,5 +23,5 @@
         "Ibil",
         "Ishibori"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

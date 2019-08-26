@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hsb",
-    "pk": 2355,
     "lc": "hsb",
     "gw": false,
-    "ln": "Upper Sorbian",
-    "ld": "ltr",
-    "ang": "Sorbian, Upper",
+    "ISO-639-3": "hsb",
     "hc": "DE",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Sorbian, Upper",
+    "pk": 2355,
     "cc": [
         "DE"
     ],
+    "lr": "Europe",
+    "ln": "Upper Sorbian",
     "alt": [
         "Haut Sorabe",
         "Hornjoserbski",
@@ -19,5 +19,5 @@
         "Upper Lusatian",
         "Wendish"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

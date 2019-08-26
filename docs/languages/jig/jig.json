@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jig",
-    "pk": 2618,
     "lc": "jig",
     "gw": false,
-    "ln": "Djingili",
-    "ld": "ltr",
-    "ang": "Djingili",
+    "ISO-639-3": "jig",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Djingili",
+    "pk": 2618,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Djingili",
     "alt": [
         "Chingalee",
         "Chunguloo",
@@ -22,5 +22,5 @@
         "Tchingalee",
         "Tjingilu"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "giz",
-    "pk": 2038,
     "lc": "giz",
     "gw": false,
-    "ln": "South Giziga",
-    "ld": "ltr",
-    "ang": "Giziga, South",
+    "ISO-639-3": "giz",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Giziga, South",
+    "pk": 2038,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "South Giziga",
     "alt": [
         "Gisiga",
         "Gisika",
@@ -21,5 +21,5 @@
         "Loulou",
         "Muturwa"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

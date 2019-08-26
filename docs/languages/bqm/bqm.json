@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bqm",
-    "pk": 885,
     "lc": "bqm",
     "gw": false,
-    "ln": "Wumboko",
-    "ld": "ltr",
-    "ang": "Wumboko",
+    "ISO-639-3": "bqm",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Wumboko",
+    "pk": 885,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Wumboko",
     "alt": [
         "Bamboko",
         "Bambuku",
@@ -19,5 +19,5 @@
         "Mboko",
         "Womboko"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dri",
-    "pk": 1620,
     "lc": "dri",
     "gw": false,
-    "ln": "C'lela",
-    "ld": "ltr",
-    "ang": "C\u2019Lela",
+    "ISO-639-3": "dri",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "C\u2019Lela",
+    "pk": 1620,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "C'lela",
     "alt": [
         "Cala-Cala",
         "Chilala",
@@ -29,5 +29,5 @@
         "Northern Lela",
         "Zuru"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

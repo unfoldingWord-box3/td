@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "iii",
-    "pk": 2451,
     "lc": "ii",
     "gw": false,
-    "ln": "\ua188\ua320\ua4bf Nuosuhxop",
-    "ld": "ltr",
-    "ang": "Nuosu",
+    "ISO-639-3": "iii",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Nuosu",
+    "pk": 2451,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\ua188\ua320\ua4bf Nuosuhxop",
     "alt": [
         "Black Yi",
         "Liangshan Yi",
@@ -21,5 +21,5 @@
         "Southern Shypnra",
         "Suondi (Adu)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

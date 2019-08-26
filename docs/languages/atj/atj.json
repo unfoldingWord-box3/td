@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "atj",
-    "pk": 388,
     "lc": "atj",
     "gw": false,
-    "ln": "Atikamekw",
-    "ld": "ltr",
-    "ang": "Atikamekw",
+    "ISO-639-3": "atj",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Atikamekw",
+    "pk": 388,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Atikamekw",
     "alt": [
         "Atihkamekw",
         "Atikamek",
@@ -18,5 +18,5 @@
         "Attimewk",
         "T\u00eate de Boule"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

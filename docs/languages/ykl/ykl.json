@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ykl",
-    "pk": 7202,
     "lc": "ykl",
     "gw": false,
-    "ln": "Khlula",
-    "ld": "ltr",
-    "ang": "Khlula",
+    "ISO-639-3": "ykl",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Khlula",
+    "pk": 7202,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "Khlula",
     "alt": [
         "Alapha",
         "Black Phula",
@@ -28,5 +28,5 @@
         "Dalishu",
         "Liujing"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

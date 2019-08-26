@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "otw",
-    "pk": 4900,
     "lc": "otw",
     "gw": false,
-    "ln": "Ottawa",
-    "ld": "ltr",
-    "ang": "Ottawa",
+    "ISO-639-3": "otw",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Ottawa",
+    "pk": 4900,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Ottawa",
     "alt": [
         "Odawa",
         "Ojibway",
@@ -18,5 +18,5 @@
         "Chippewa",
         "Eastern Ojibwa"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "skr",
-    "pk": 5673,
     "lc": "skr",
     "gw": false,
-    "ln": "\u0633\u0631\u0627\u0626\u06cc\u06a9\u06cc",
-    "ld": "ltr",
-    "ang": "Saraiki",
+    "ISO-639-3": "skr",
     "hc": "PK",
-    "lr": "Asia",
+    "gwcode": "ur",
+    "ang": "Saraiki",
+    "pk": 5673,
     "cc": [
         "PK"
     ],
+    "lr": "Asia",
+    "ln": "\u0633\u0631\u0627\u0626\u06cc\u06a9\u06cc",
     "alt": [
         "Bahawalpuri",
         "Mutani",
@@ -20,5 +20,5 @@
         "Southern Panjabi",
         "Riasiti"
     ],
-    "gwcode": "ur"
+    "ld": "ltr"
 }

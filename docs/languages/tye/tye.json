@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "tye",
-    "pk": 6444,
     "lc": "tye",
     "gw": false,
-    "ln": "Kyanga",
-    "ld": "ltr",
-    "ang": "Kyanga",
+    "ISO-639-3": "tye",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Kyanga",
+    "pk": 6444,
     "cc": [
         "BJ",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Kyanga",
     "alt": [
         "Cenka",
         "Tyenga",
@@ -23,5 +23,5 @@
         "Tienga",
         "Tyanga"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

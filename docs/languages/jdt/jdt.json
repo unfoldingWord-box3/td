@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "jdt",
-    "pk": 2596,
     "lc": "jdt",
     "gw": false,
-    "ln": "\u0413\u043e\u0440\u0441\u043a\u043e-\u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Judeo-Tat",
+    "ISO-639-3": "jdt",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Judeo-Tat",
+    "pk": 2596,
     "cc": [
         "IL",
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u0413\u043e\u0440\u0441\u043a\u043e-\u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0439",
     "alt": [
         "Bik",
         "Dzhuhuric",
@@ -28,5 +28,5 @@
         "South Tat",
         "North Tat"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

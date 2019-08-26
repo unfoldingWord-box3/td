@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "wib",
-    "pk": 6733,
     "lc": "wib",
     "gw": false,
-    "ln": "Southern Toussian",
-    "ld": "ltr",
-    "ang": "Toussian, Southern",
+    "ISO-639-3": "wib",
     "hc": "BF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Toussian, Southern",
+    "pk": 6733,
     "cc": [
         "BF",
         "TG"
     ],
+    "lr": "Africa",
+    "ln": "Southern Toussian",
     "alt": [
         "Tusia",
         "Tusian",
         "Win"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

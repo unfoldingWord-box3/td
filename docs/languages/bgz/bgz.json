@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bgz",
-    "pk": 659,
     "lc": "bgz",
     "gw": false,
-    "ln": "Banggai",
-    "ld": "ltr",
-    "ang": "Banggai",
+    "ISO-639-3": "bgz",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Banggai",
+    "pk": 659,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Banggai",
     "alt": [
         "Aki",
         "Banggaai",
@@ -18,5 +18,5 @@
         "Banggay",
         "Banggaya"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

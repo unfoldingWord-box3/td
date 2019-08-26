@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kqz",
-    "pk": 3107,
     "lc": "kqz",
     "gw": false,
-    "ln": "Korana",
-    "ld": "ltr",
-    "ang": "Korana",
+    "ISO-639-3": "kqz",
     "hc": "ZA",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Korana",
+    "pk": 3107,
     "cc": [
         "ZA"
     ],
+    "lr": "Africa",
+    "ln": "Korana",
     "alt": [
         "!Kora",
         "!Ora",
@@ -18,5 +18,5 @@
         "Koranna",
         "Koraqua"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

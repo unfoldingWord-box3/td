@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "ses",
-    "pk": 5559,
     "lc": "ses",
     "gw": false,
-    "ln": "Koyraboro Senni Songhai",
-    "ld": "ltr",
-    "ang": "Songhay, Koyraboro Senni",
+    "ISO-639-3": "ses",
     "hc": "ML",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Songhay, Koyraboro Senni",
+    "pk": 5559,
     "cc": [
         "BJ",
         "BF",
@@ -15,6 +13,8 @@
         "ML",
         "NE"
     ],
+    "lr": "Africa",
+    "ln": "Koyraboro Senni Songhai",
     "alt": [
         "East Songhay",
         "Gao Songhay",
@@ -33,5 +33,5 @@
         "Gao",
         "Fulan Kirya"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

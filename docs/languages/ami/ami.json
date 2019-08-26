@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ami",
-    "pk": 241,
     "lc": "ami",
     "gw": false,
-    "ln": "Amis",
-    "ld": "ltr",
-    "ang": "Amis",
+    "ISO-639-3": "ami",
     "hc": "TW",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Amis",
+    "pk": 241,
     "cc": [
         "TW"
     ],
+    "lr": "Asia",
+    "ln": "Amis",
     "alt": [
         "Kwangfu",
         "Tavalong-Vataan (Kuangfu)",
@@ -31,5 +31,5 @@
         "Sabari",
         "Tanah"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "ngl",
-    "pk": 4419,
     "lc": "ngl",
     "gw": false,
-    "ln": "Lomwe",
-    "ld": "ltr",
-    "ang": "Lomwe",
+    "ISO-639-3": "ngl",
     "hc": "MZ",
-    "lr": "Africa",
+    "gwcode": "pt",
+    "ang": "Lomwe",
+    "pk": 4419,
     "cc": [
         "MZ",
         "MW"
     ],
+    "lr": "Africa",
+    "ln": "Lomwe",
     "alt": [
         "Acilowe",
         "Alomwe",
@@ -29,5 +29,5 @@
         "Walomwe",
         "Western Makua"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

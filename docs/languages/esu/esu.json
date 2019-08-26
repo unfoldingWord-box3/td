@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "esu",
-    "pk": 1787,
     "lc": "esu",
     "gw": false,
-    "ln": "Central Yupik",
-    "ld": "ltr",
-    "ang": "Yupik, Central",
+    "ISO-639-3": "esu",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Yupik, Central",
+    "pk": 1787,
     "cc": [
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Central Yupik",
     "alt": [
         "Central Alaskan Yupik",
         "Kuskokwim Yupik (Bethel Yupik)",
         "Cup'ik"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

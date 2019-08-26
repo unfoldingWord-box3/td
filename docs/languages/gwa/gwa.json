@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gwa",
-    "pk": 2189,
     "lc": "gwa",
     "gw": false,
-    "ln": "Mbato",
-    "ld": "ltr",
-    "ang": "Mbato",
+    "ISO-639-3": "gwa",
     "hc": "CI",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Mbato",
+    "pk": 2189,
     "cc": [
         "CI"
     ],
+    "lr": "Africa",
+    "ln": "Mbato",
     "alt": [
         "Goaa",
         "Gwa",
@@ -21,5 +21,5 @@
         "Ogwia",
         "Potu"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

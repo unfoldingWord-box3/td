@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "poy",
-    "pk": 5140,
     "lc": "poy",
     "gw": false,
-    "ln": "Pogolo",
-    "ld": "ltr",
-    "ang": "Pogolo",
+    "ISO-639-3": "poy",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Pogolo",
+    "pk": 5140,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Pogolo",
     "alt": [
         "Chipogolo",
         "Chipogoro",
@@ -18,5 +18,5 @@
         "Pogora",
         "Shpogolu"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

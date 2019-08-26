@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mem",
-    "pk": 3764,
     "lc": "mem",
     "gw": false,
-    "ln": "Mangala",
-    "ld": "ltr",
-    "ang": "Mangala",
+    "ISO-639-3": "mem",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Mangala",
+    "pk": 3764,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Mangala",
     "alt": [
         "Djawali",
         "Djuwali",
@@ -23,5 +23,5 @@
         "Minala",
         "Yalmbau"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

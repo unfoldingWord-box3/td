@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ghs",
-    "pk": 2018,
     "lc": "ghs",
     "gw": false,
-    "ln": "Guhu-Samane",
-    "ld": "ltr",
-    "ang": "Guhu-Samane",
+    "ISO-639-3": "ghs",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Guhu-Samane",
+    "pk": 2018,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Guhu-Samane",
     "alt": [
         "Bia",
         "Mid-Waria",
@@ -18,5 +18,5 @@
         "Paiawa",
         "Tahari"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "ekk",
-    "pk": 1717,
     "lc": "ekk",
     "gw": false,
-    "ln": "Standard Estonian",
-    "ld": "ltr",
-    "ang": "Estonian, Standard",
+    "ISO-639-3": "ekk",
     "hc": "EE",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Estonian, Standard",
+    "pk": 1717,
     "cc": [
         "EE",
         "KZ",
@@ -18,6 +16,8 @@
         "CA",
         "UZ"
     ],
+    "lr": "Europe",
+    "ln": "Standard Estonian",
     "alt": [
         "Eesti",
         "Tartu (Dorpat)",
@@ -28,5 +28,5 @@
         "Muly (Mulgi)",
         "Tatu"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

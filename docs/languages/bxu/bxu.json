@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bxu",
-    "pk": 1060,
     "lc": "bxu",
     "gw": false,
-    "ln": "\u5e03\u91cc\u4e9e\u7279\u8a9e",
-    "ld": "ltr",
-    "ang": "Buriat, China",
+    "ISO-639-3": "bxu",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Buriat, China",
+    "pk": 1060,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u5e03\u91cc\u4e9e\u7279\u8a9e",
     "alt": [
         "Ba'erhu-Buliyate",
         "Bargu Buriat",
@@ -22,5 +22,5 @@
         "New Bargu (Xin Ba'erhu)",
         "Old Bargu (Chen Ba'erhu)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

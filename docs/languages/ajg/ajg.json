@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "ajg",
-    "pk": 183,
     "lc": "ajg",
     "gw": false,
-    "ln": "Aja (Benin)",
-    "ld": "ltr",
-    "ang": "Aja",
+    "ISO-639-3": "ajg",
     "hc": "BJ",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Aja",
+    "pk": 183,
     "cc": [
         "BJ",
         "TG"
     ],
+    "lr": "Africa",
+    "ln": "Aja (Benin)",
     "alt": [
         "Dogo",
         "Hwe (Ehoue)",
@@ -20,5 +20,5 @@
         "Ajagbe",
         "Hw\u00e8"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

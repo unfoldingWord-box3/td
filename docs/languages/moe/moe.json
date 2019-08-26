@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "moe",
-    "pk": 4002,
     "lc": "moe",
     "gw": false,
-    "ln": "Montagnais",
-    "ld": "ltr",
-    "ang": "Montagnais",
+    "ISO-639-3": "moe",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Montagnais",
+    "pk": 4002,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Montagnais",
     "alt": [
         "Innu",
         "Innu Aimun",
         "Western Montagnais"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

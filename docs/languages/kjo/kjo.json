@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kjo",
-    "pk": 2921,
     "lc": "kjo",
     "gw": false,
-    "ln": "Harijan Kinnauri",
-    "ld": "ltr",
-    "ang": "Kinnauri, Pahari",
+    "ISO-639-3": "kjo",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Kinnauri, Pahari",
+    "pk": 2921,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Harijan Kinnauri",
     "alt": [
         "Boli",
         "Chamang Boli",
@@ -23,5 +23,5 @@
         "Harijan",
         "Kinnauri"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

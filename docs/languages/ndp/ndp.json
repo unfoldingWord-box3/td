@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ndp",
-    "pk": 4367,
     "lc": "ndp",
     "gw": false,
-    "ln": "Ndo",
-    "ld": "ltr",
-    "ang": "Ndo",
+    "ISO-639-3": "ndp",
     "hc": "UG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Ndo",
+    "pk": 4367,
     "cc": [
         "UG"
     ],
+    "lr": "Africa",
+    "ln": "Ndo",
     "alt": [
         "Ke'bu",
         "Ndu",
@@ -26,5 +26,5 @@
         "Membi (Meembi)",
         "Membitu"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

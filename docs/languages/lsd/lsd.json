@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lsd",
-    "pk": 3594,
     "lc": "lsd",
     "gw": false,
-    "ln": "\u05dc\u05e9\u05e0\u05d0 \u05d3\u05e0\u05d9",
-    "ld": "rtl",
-    "ang": "Lishana Deni",
+    "ISO-639-3": "lsd",
     "hc": "IL",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Lishana Deni",
+    "pk": 3594,
     "cc": [
         "IL"
     ],
+    "lr": "Asia",
+    "ln": "\u05dc\u05e9\u05e0\u05d0 \u05d3\u05e0\u05d9",
     "alt": [
         "Judeo-Aramaic",
         "Kurdit",
@@ -19,5 +19,5 @@
         "Shukho",
         "Barashe"
     ],
-    "gwcode": "en"
+    "ld": "rtl"
 }

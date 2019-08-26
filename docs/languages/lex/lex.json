@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "lex",
-    "pk": 3424,
     "lc": "lex",
     "gw": false,
-    "ln": "Luang",
-    "ld": "ltr",
-    "ang": "Luang",
+    "ISO-639-3": "lex",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Luang",
+    "pk": 3424,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Luang",
     "alt": [
         "Letri Lgona",
         "Lgona",
         "Literi Lagona",
         "Wetan (Wetang)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "bvu",
-    "pk": 1013,
     "lc": "bvu",
     "gw": false,
-    "ln": "Bukit Malay",
-    "ld": "ltr",
-    "ang": "Malay, Bukit",
+    "ISO-639-3": "bvu",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Malay, Bukit",
+    "pk": 1013,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Bukit Malay",
     "alt": [
         "Bukat",
         "Bukit",
         "Meratus"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

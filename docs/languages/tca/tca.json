@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "tca",
-    "pk": 6007,
     "lc": "tca",
     "gw": false,
-    "ln": "Ticuna",
-    "ld": "ltr",
-    "ang": "Ticuna",
+    "ISO-639-3": "tca",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Ticuna",
+    "pk": 6007,
     "cc": [
         "BR",
         "PE",
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Ticuna",
     "alt": [
         "Mag\u00fcta",
         "Tikuna",
@@ -20,5 +20,5 @@
         "Tucuna",
         "Tuk\u00fana"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

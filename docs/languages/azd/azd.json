@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "azd",
-    "pk": 480,
     "lc": "azd",
     "gw": false,
-    "ln": "Eastern Durango Nahuatl",
-    "ld": "ltr",
-    "ang": "Nahuatl, Eastern Durango",
+    "ISO-639-3": "azd",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Nahuatl, Eastern Durango",
+    "pk": 480,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Eastern Durango Nahuatl",
     "alt": [
         "Eastern Durango Aztec",
         "Meshikan del Este",
         "Mexicanero del Este",
         "Nahuat del Este de Durango"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

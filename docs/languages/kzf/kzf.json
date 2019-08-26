@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kzf",
-    "pk": 3314,
     "lc": "kzf",
     "gw": false,
-    "ln": "Da'a Kaili",
-    "ld": "ltr",
-    "ang": "Kaili, Da\u2019a",
+    "ISO-639-3": "kzf",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Kaili, Da\u2019a",
+    "pk": 3314,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Da'a Kaili",
     "alt": [
         "Binggi",
         "Bunggu",
@@ -20,5 +20,5 @@
         "Pekawa",
         "Da'a (Dombu)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

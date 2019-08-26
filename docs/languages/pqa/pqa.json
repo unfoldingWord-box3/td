@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pqa",
-    "pk": 5153,
     "lc": "pqa",
     "gw": false,
-    "ln": "Pa'a",
-    "ld": "ltr",
-    "ang": "Pa\u2019a",
+    "ISO-639-3": "pqa",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Pa\u2019a",
+    "pk": 5153,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Pa'a",
     "alt": [
         "Afa",
         "Afanci",
@@ -20,5 +20,5 @@
         "Pa'awa",
         "Pala"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

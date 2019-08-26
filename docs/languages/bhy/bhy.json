@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bhy",
-    "pk": 683,
     "lc": "bhy",
     "gw": false,
-    "ln": "Bhele",
-    "ld": "ltr",
-    "ang": "Bhele",
+    "ISO-639-3": "bhy",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Bhele",
+    "pk": 683,
     "cc": [
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Bhele",
     "alt": [
         "Bili",
         "Ebhele",
@@ -23,5 +23,5 @@
         "Piri",
         "Bugombe (Ebugombe)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

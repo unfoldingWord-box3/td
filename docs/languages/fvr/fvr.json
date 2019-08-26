@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "fvr",
-    "pk": 1898,
     "lc": "fvr",
     "gw": false,
-    "ln": "Fur",
-    "ld": "ltr",
-    "ang": "Fur",
+    "ISO-639-3": "fvr",
     "hc": "SD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Fur",
+    "pk": 1898,
     "cc": [
         "SD",
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Fur",
     "alt": [
         "Dala",
         "For",
@@ -32,5 +32,5 @@
         "Four",
         "Kondjara"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

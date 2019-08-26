@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hlt",
-    "pk": 2288,
     "lc": "hlt",
     "gw": false,
-    "ln": "Matu Chin",
-    "ld": "ltr",
-    "ang": "Chin, Matu",
+    "ISO-639-3": "hlt",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Chin, Matu",
+    "pk": 2288,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Matu Chin",
     "alt": [
         "Matupi",
         "Langle-Tamtlaih",
@@ -26,5 +26,5 @@
         "Ciing (Langle-Tamtlaih)",
         "Ngaleng"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

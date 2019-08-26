@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "azj",
-    "pk": 482,
     "lc": "azj",
     "gw": false,
-    "ln": "Az\u0259rbaycan dili",
-    "ld": "ltr",
-    "ang": "Azerbaijani, North",
+    "ISO-639-3": "azj",
     "hc": "AZ",
-    "lr": "Asia",
+    "gwcode": "ru",
+    "ang": "Azerbaijani, North",
+    "pk": 482,
     "cc": [
         "AZ",
         "DE",
@@ -22,6 +20,8 @@
         "TM",
         "UZ"
     ],
+    "lr": "Asia",
+    "ln": "Az\u0259rbaycan dili",
     "alt": [
         "Azerbaydzhani",
         "Azeri Turk",
@@ -32,5 +32,5 @@
         "Zakataly (Mugaly)",
         "Zaqatala (Mugaly)"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

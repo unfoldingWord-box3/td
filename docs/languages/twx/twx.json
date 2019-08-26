@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "twx",
-    "pk": 6422,
     "lc": "twx",
     "gw": false,
-    "ln": "Tewe",
-    "ld": "ltr",
-    "ang": "Tewe",
+    "ISO-639-3": "twx",
     "hc": "MZ",
-    "lr": "Africa",
+    "gwcode": "pt",
+    "ang": "Tewe",
+    "pk": 6422,
     "cc": [
         "MZ"
     ],
+    "lr": "Africa",
+    "ln": "Tewe",
     "alt": [
         "Chiute",
         "Ciute",
@@ -18,5 +18,5 @@
         "Vateve",
         "Wateve"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

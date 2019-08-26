@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ury",
-    "pk": 6556,
     "lc": "ury",
     "gw": false,
-    "ln": "Orya",
-    "ld": "ltr",
-    "ang": "Orya",
+    "ISO-639-3": "ury",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Orya",
+    "pk": 6556,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Orya",
     "alt": [
         "Oria",
         "Uria",
@@ -19,5 +19,5 @@
         "Barat (West Orya)",
         "Timur (East Orya)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

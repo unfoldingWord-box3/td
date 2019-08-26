@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lgn",
-    "pk": 3438,
     "lc": "lgn",
     "gw": false,
-    "ln": "Opuuo",
-    "ld": "ltr",
-    "ang": "Opuuo",
+    "ISO-639-3": "lgn",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Opuuo",
+    "pk": 3438,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Opuuo",
     "alt": [
         "Ansita",
         "Ciita",
@@ -28,5 +28,5 @@
         "Baruun",
         "Buldit (Barun)"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

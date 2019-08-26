@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "myy",
-    "pk": 4260,
     "lc": "myy",
     "gw": false,
-    "ln": "Macuna",
-    "ld": "ltr",
-    "ang": "Macuna",
+    "ISO-639-3": "myy",
     "hc": "CO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Macuna",
+    "pk": 4260,
     "cc": [
         "BR",
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Macuna",
     "alt": [
         "Baigana",
         "Buhagana",
@@ -31,5 +31,5 @@
         "Umua",
         "Yeba"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

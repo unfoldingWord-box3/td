@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "axk",
-    "pk": 455,
     "lc": "axk",
     "gw": false,
-    "ln": "Yaka (Central African Republic)",
-    "ld": "ltr",
-    "ang": "Yaka",
+    "ISO-639-3": "axk",
     "hc": "CF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Yaka",
+    "pk": 455,
     "cc": [
         "CF",
         "CG"
     ],
+    "lr": "Africa",
+    "ln": "Yaka (Central African Republic)",
     "alt": [
         "Aka",
         "Bek\u00e1",
@@ -29,5 +29,5 @@
         "Bambenzele (Western Aka)",
         "Moyaka"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

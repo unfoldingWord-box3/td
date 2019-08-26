@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "aar",
-    "pk": 6,
     "lc": "aa",
     "gw": false,
-    "ln": "Afaraf",
-    "ld": "ltr",
-    "ang": "Afar",
+    "ISO-639-3": "aar",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Afar",
+    "pk": 6,
     "cc": [
         "DJ",
         "ER",
@@ -15,6 +13,8 @@
         "US",
         "CA"
     ],
+    "lr": "Africa",
+    "ln": "Afaraf",
     "alt": [
         "Afaraf",
         "Danakil",
@@ -24,5 +24,5 @@
         "Qafar",
         "Baadu (Ba'adu)"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

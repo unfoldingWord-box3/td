@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "yad",
-    "pk": 7113,
     "lc": "yad",
     "gw": false,
-    "ln": "Yagua",
-    "ld": "ltr",
-    "ang": "Yagua",
+    "ISO-639-3": "yad",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt-br",
+    "ang": "Yagua",
+    "pk": 7113,
     "cc": [
         "BR",
         "PE",
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Yagua",
     "alt": [
         "Llagua",
         "Nijyam\u00ef\u00ef Nikyejaada",
@@ -20,5 +20,5 @@
         "Yava",
         "Yegua"
     ],
-    "gwcode": "pt-br"
+    "ld": "ltr"
 }

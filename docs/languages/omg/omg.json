@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "omg",
-    "pk": 4826,
     "lc": "omg",
     "gw": false,
-    "ln": "Omagua",
-    "ld": "ltr",
-    "ang": "Omagua",
+    "ISO-639-3": "omg",
     "hc": "PE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Omagua",
+    "pk": 4826,
     "cc": [
         "PE"
     ],
+    "lr": "Americas",
+    "ln": "Omagua",
     "alt": [
         "Agua",
         "Anapia",
@@ -33,5 +33,5 @@
         "Curacirari (Curazicari)",
         "Curucicuri (Curuzicari)"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

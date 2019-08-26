@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cgg",
-    "pk": 1187,
     "lc": "cgg",
     "gw": false,
-    "ln": "Chiga",
-    "ld": "ltr",
-    "ang": "Chiga",
+    "ISO-639-3": "cgg",
     "hc": "UG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Chiga",
+    "pk": 1187,
     "cc": [
         "UG"
     ],
+    "lr": "Africa",
+    "ln": "Chiga",
     "alt": [
         "Ciga",
         "Kiga",
@@ -24,5 +24,5 @@
         "RuHimba",
         "RuNyaifwe-Hororo"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

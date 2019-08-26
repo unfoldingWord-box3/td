@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "rad",
-    "pk": 5308,
     "lc": "rad",
     "gw": false,
-    "ln": "Rade",
-    "ld": "ltr",
-    "ang": "Rade",
+    "ISO-639-3": "rad",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Rade",
+    "pk": 5308,
     "cc": [
         "KH",
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Rade",
     "alt": [
         "De",
         "E-De",
@@ -23,5 +23,5 @@
         "Ndhur (Mdhur)",
         "Rde Kpa (Kpa)"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

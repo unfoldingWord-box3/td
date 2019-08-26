@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ywu",
-    "pk": 7321,
     "lc": "ywu",
     "gw": false,
-    "ln": "\u4e4c\u8499\u7eb3\u82cf\u8bed",
-    "ld": "ltr",
-    "ang": "Nasu, Wumeng",
+    "ISO-639-3": "ywu",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Nasu, Wumeng",
+    "pk": 7321,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u4e4c\u8499\u7eb3\u82cf\u8bed",
     "alt": [
         "Wumeng Yi",
         "Wusa Yi",
@@ -18,5 +18,5 @@
         "Weining Yi",
         "Hen-Ke Yi"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

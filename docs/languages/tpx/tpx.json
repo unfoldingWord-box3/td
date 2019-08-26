@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tpx",
-    "pk": 6284,
     "lc": "tpx",
     "gw": false,
-    "ln": "Acatepec Me'phaa",
-    "ld": "ltr",
-    "ang": "Me\u2019phaa, Acatepec",
+    "ISO-639-3": "tpx",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Me\u2019phaa, Acatepec",
+    "pk": 6284,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Acatepec Me'phaa",
     "alt": [
         "Acatepec Tlapanec",
         "Me'pa",
@@ -30,5 +30,5 @@
         "Huitzapula (Me'ph\u00e0\u00e0 \u00c0gu\u00e0\u00e0)",
         "Tlapaneco"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

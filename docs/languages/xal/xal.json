@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "xal",
-    "pk": 6860,
     "lc": "xal",
     "gw": false,
-    "ln": "\u041a\u0430\u043b\u043c\u044b\u0446\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Kalmyk-Oirat",
+    "ISO-639-3": "xal",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Kalmyk-Oirat",
+    "pk": 6860,
     "cc": [
         "CN",
         "RU",
@@ -15,6 +13,8 @@
         "KG",
         "UZ"
     ],
+    "lr": "Europe",
+    "ln": "\u041a\u0430\u043b\u043c\u044b\u0446\u043a\u0438\u0439",
     "alt": [
         "Weilate",
         "Western Mongol",
@@ -47,5 +47,5 @@
         "D\u00f6rb\u00f6d",
         "Oirat (Sart Qalmaq)"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

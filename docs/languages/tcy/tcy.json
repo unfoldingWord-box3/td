@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tcy",
-    "pk": 6028,
     "lc": "tcy",
     "gw": false,
-    "ln": "Tulu",
-    "ld": "ltr",
-    "ang": "Tulu",
+    "ISO-639-3": "tcy",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "kn",
+    "ang": "Tulu",
+    "pk": 6028,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Tulu",
     "alt": [
         "Tal",
         "Tallu",
@@ -31,5 +31,5 @@
         "Common Tulu",
         "Northwest Tulu (Mangalore)"
     ],
-    "gwcode": "kn"
+    "ld": "ltr"
 }

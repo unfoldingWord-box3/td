@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bgu",
-    "pk": 654,
     "lc": "bgu",
     "gw": false,
-    "ln": "Mbongno",
-    "ld": "ltr",
-    "ang": "Mbongno",
+    "ISO-639-3": "bgu",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Mbongno",
+    "pk": 654,
     "cc": [
         "CM",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Mbongno",
     "alt": [
         "Bungnu",
         "Bungun",
@@ -19,5 +19,5 @@
         "Gbunhu",
         "Kakaba"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

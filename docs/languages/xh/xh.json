@@ -1,24 +1,24 @@
 {
-    "ISO-639-3": "xho",
-    "pk": 6915,
     "lc": "xh",
     "gw": false,
-    "ln": "isiXhosa",
-    "ld": "ltr",
-    "ang": "Xhosa",
+    "ISO-639-3": "xho",
     "hc": "ZA",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Xhosa",
+    "pk": 6915,
     "cc": [
         "ZA",
         "ZW",
         "LS",
         "BW"
     ],
+    "lr": "Africa",
+    "ln": "isiXhosa",
     "alt": [
         "Isixhosa",
         "Koosa",
         "Xosa",
         "Cauzuh"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "pdc",
-    "pk": 4973,
     "lc": "pdc",
     "gw": false,
-    "ln": "Pennsylvania German",
-    "ld": "ltr",
-    "ang": "German, Pennsylvania",
+    "ISO-639-3": "pdc",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "German, Pennsylvania",
+    "pk": 4973,
     "cc": [
         "US",
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Pennsylvania German",
     "alt": [
         "Pennsylvanisch",
         "Pennsylvania Deitsh",
@@ -21,5 +21,5 @@
         "Non-Amish Pennsylvania German (Non-Plain Pennsylvania German)",
         "Non-Amish Pennsylvania German (Pennsylvanisch Deitsch)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

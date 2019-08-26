@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "scb",
-    "pk": 5506,
     "lc": "scb",
     "gw": false,
-    "ln": "Chut",
-    "ld": "ltr",
-    "ang": "Chut",
+    "ISO-639-3": "scb",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Chut",
+    "pk": 5506,
     "cc": [
         "LA",
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Chut",
     "alt": [
         "Salang",
         "Ruc (Kha Mu Gia)",
         "Tac Cui"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

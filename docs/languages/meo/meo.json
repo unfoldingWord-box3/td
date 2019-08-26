@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "meo",
-    "pk": 3766,
     "lc": "meo",
     "gw": false,
-    "ln": "Kedah Malay",
-    "ld": "ltr",
-    "ang": "Malay, Kedah",
+    "ISO-639-3": "meo",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Malay, Kedah",
+    "pk": 3766,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Kedah Malay",
     "alt": [
         "Satun Malay",
         "Kedah Malay"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

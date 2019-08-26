@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "frp",
-    "pk": 1874,
     "lc": "frp",
     "gw": false,
-    "ln": "Arpitan",
-    "ld": "ltr",
-    "ang": "Arpitan",
+    "ISO-639-3": "frp",
     "hc": "FR",
-    "lr": "Europe",
+    "gwcode": "fr",
+    "ang": "Arpitan",
+    "pk": 1874,
     "cc": [
         "FR"
     ],
+    "lr": "Europe",
+    "ln": "Arpitan",
     "alt": [
         "Patois",
         "Francoproven\u00e7al",
@@ -21,5 +21,5 @@
         "Valdostano",
         "Neuch\u00e2telois"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

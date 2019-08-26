@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "auc",
-    "pk": 407,
     "lc": "auc",
     "gw": false,
-    "ln": "Waorani",
-    "ld": "ltr",
-    "ang": "Waorani",
+    "ISO-639-3": "auc",
     "hc": "EC",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Waorani",
+    "pk": 407,
     "cc": [
         "EC"
     ],
+    "lr": "Americas",
+    "ln": "Waorani",
     "alt": [
         "Huaorani",
         "Sabela",
         "Waodani",
         "Auca"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

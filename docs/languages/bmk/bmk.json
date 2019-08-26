@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bmk",
-    "pk": 791,
     "lc": "bmk",
     "gw": false,
-    "ln": "Ghayavi",
-    "ld": "ltr",
-    "ang": "Ghayavi",
+    "ISO-639-3": "bmk",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Ghayavi",
+    "pk": 791,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Ghayavi",
     "alt": [
         "Boanai",
         "Boanaki",
@@ -18,5 +18,5 @@
         "Boinaki",
         "Galavi"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

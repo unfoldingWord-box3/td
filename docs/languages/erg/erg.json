@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "erg",
-    "pk": 1768,
     "lc": "erg",
     "gw": false,
-    "ln": "Sie",
-    "ld": "ltr",
-    "ang": "Sie",
+    "ISO-639-3": "erg",
     "hc": "VU",
-    "lr": "Pacific",
+    "gwcode": "fr",
+    "ang": "Sie",
+    "pk": 1768,
     "cc": [
         "VU"
     ],
+    "lr": "Pacific",
+    "ln": "Sie",
     "alt": [
         "Eromanga",
         "Erramanga",
@@ -19,5 +19,5 @@
         "Sie (Sorung)",
         "Yoku (Enyau)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

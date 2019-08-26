@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sib",
-    "pk": 5619,
     "lc": "sib",
     "gw": false,
-    "ln": "Sebop",
-    "ld": "ltr",
-    "ang": "Sebop",
+    "ISO-639-3": "sib",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Sebop",
+    "pk": 5619,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Sebop",
     "alt": [
         "Cebop",
         "Sabup",
@@ -19,5 +19,5 @@
         "Bah Malei (Ba Mali)",
         "Long Ekang (Long Ikang)"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

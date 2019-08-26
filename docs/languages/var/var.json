@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "var",
-    "pk": 6592,
     "lc": "var",
     "gw": false,
-    "ln": "Huarijio",
-    "ld": "ltr",
-    "ang": "Huarij\u00edo",
+    "ISO-639-3": "var",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Huarij\u00edo",
+    "pk": 6592,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Huarijio",
     "alt": [
         "Guarij\u00edo",
         "Macul\u00e1i",
@@ -22,5 +22,5 @@
         "Highland Guarij\u00edo",
         "Lowland Huarij\u00edo"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

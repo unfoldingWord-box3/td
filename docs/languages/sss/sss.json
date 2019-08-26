@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "sss",
-    "pk": 5844,
     "lc": "sss",
     "gw": false,
-    "ln": "S\u00f4",
-    "ld": "ltr",
-    "ang": "S\u00f4",
+    "ISO-639-3": "sss",
     "hc": "LA",
-    "lr": "Asia",
+    "gwcode": "lo",
+    "ang": "S\u00f4",
+    "pk": 5844,
     "cc": [
         "LA",
         "TH"
     ],
+    "lr": "Asia",
+    "ln": "S\u00f4",
     "alt": [
         "Bru",
         "Kah So",
@@ -22,5 +22,5 @@
         "Thro",
         "Kha So"
     ],
-    "gwcode": "lo"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "mfq",
-    "pk": 3793,
     "lc": "mfq",
     "gw": false,
-    "ln": "Moba",
-    "ld": "ltr",
-    "ang": "Moba",
+    "ISO-639-3": "mfq",
     "hc": "TG",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Moba",
+    "pk": 3793,
     "cc": [
         "BF",
         "TG"
     ],
+    "lr": "Africa",
+    "ln": "Moba",
     "alt": [
         "Ben",
         "Moa",
@@ -20,5 +20,5 @@
         "Lok",
         "Yanbann"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

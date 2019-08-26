@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "kpv",
-    "pk": 3078,
     "lc": "kpv",
     "gw": false,
-    "ln": "\u041a\u043e\u0301\u043c\u0438-\u0437\u044b\u0440\u044f\u0301\u043d\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Komi-Zyrian",
+    "ISO-639-3": "kpv",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Komi-Zyrian",
+    "pk": 3078,
     "cc": [
         "KZ",
         "RU",
         "UZ"
     ],
+    "lr": "Europe",
+    "ln": "\u041a\u043e\u0301\u043c\u0438-\u0437\u044b\u0440\u044f\u0301\u043d\u0441\u043a\u0438\u0439",
     "alt": [
         "Komi"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cje",
-    "pk": 1221,
     "lc": "cje",
     "gw": false,
-    "ln": "Chru",
-    "ld": "ltr",
-    "ang": "Chru",
+    "ISO-639-3": "cje",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Chru",
+    "pk": 1221,
     "cc": [
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Chru",
     "alt": [
         "Cadoe Loang",
         "Choru",
@@ -23,5 +23,5 @@
         "Seyu",
         "Noang (La-Dang)"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

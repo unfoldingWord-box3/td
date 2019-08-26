@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zkd",
-    "pk": 7391,
     "lc": "zkd",
     "gw": false,
-    "ln": "Kadu",
-    "ld": "ltr",
-    "ang": "Kadu",
+    "ISO-639-3": "zkd",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Kadu",
+    "pk": 7391,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Kadu",
     "alt": [
         "Gadu",
         "Ka'do",
@@ -21,5 +21,5 @@
         "Maw",
         "Puteik"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

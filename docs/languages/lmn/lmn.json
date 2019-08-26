@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lmn",
-    "pk": 3524,
     "lc": "lmn",
     "gw": false,
-    "ln": "Lambadi",
-    "ld": "ltr",
-    "ang": "Lambadi",
+    "ISO-639-3": "lmn",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "te",
+    "ang": "Lambadi",
+    "pk": 3524,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Lambadi",
     "alt": [
         "Bangala",
         "Banjara",
@@ -40,5 +40,5 @@
         "Andhra Pradesh Lamani (Telugu Lamani)",
         "Karnataka Lamani (Mysore Lamani)"
     ],
-    "gwcode": "te"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mca",
-    "pk": 3702,
     "lc": "mca",
     "gw": false,
-    "ln": "Maca",
-    "ld": "ltr",
-    "ang": "Maka",
+    "ISO-639-3": "mca",
     "hc": "PY",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Maka",
+    "pk": 3702,
     "cc": [
         "PY"
     ],
+    "lr": "Americas",
+    "ln": "Maca",
     "alt": [
         "Enimaca",
         "Enimaga",
@@ -18,5 +18,5 @@
         "Mak\u00e1",
         "Mak'\u00e1"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

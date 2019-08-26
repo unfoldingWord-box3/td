@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ado",
-    "pk": 82,
     "lc": "ado",
     "gw": false,
-    "ln": "Abu",
-    "ld": "ltr",
-    "ang": "Abu",
+    "ISO-639-3": "ado",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Abu",
+    "pk": 82,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Abu",
     "alt": [
         "Adjora",
         "Adjoria",
@@ -18,5 +18,5 @@
         "Auwa",
         "Sabu"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

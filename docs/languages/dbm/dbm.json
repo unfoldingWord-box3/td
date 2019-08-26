@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dbm",
-    "pk": 1450,
     "lc": "dbm",
     "gw": false,
-    "ln": "Duguri",
-    "ld": "ltr",
-    "ang": "Duguri",
+    "ISO-639-3": "dbm",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Duguri",
+    "pk": 1450,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Duguri",
     "alt": [
         "Doori",
         "Dugarwa",
@@ -18,5 +18,5 @@
         "Dugurawa",
         "Dukuri"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

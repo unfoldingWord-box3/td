@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lot",
-    "pk": 3568,
     "lc": "lot",
     "gw": false,
-    "ln": "Otuho",
-    "ld": "ltr",
-    "ang": "Otuho",
+    "ISO-639-3": "lot",
     "hc": "SS",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Otuho",
+    "pk": 3568,
     "cc": [
         "SS"
     ],
+    "lr": "Africa",
+    "ln": "Otuho",
     "alt": [
         "Latooka",
         "Lattuka",
@@ -26,5 +26,5 @@
         "Lomya (Lomia)",
         "Loudo"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

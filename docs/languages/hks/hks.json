@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "hks",
-    "pk": 2283,
     "lc": "hks",
     "gw": false,
-    "ln": "Hong Kong Sign Language",
-    "ld": "ltr",
-    "ang": "Hong Kong Sign Language",
+    "ISO-639-3": "hks",
     "hc": "HK",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Hong Kong Sign Language",
+    "pk": 2283,
     "cc": [
         "HK"
     ],
+    "lr": "Asia",
+    "ln": "Hong Kong Sign Language",
     "alt": [
         "HKSL"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

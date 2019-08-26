@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ssk",
-    "pk": 5836,
     "lc": "ssk",
     "gw": false,
-    "ln": "Sunam",
-    "ld": "ltr",
-    "ang": "Sunam",
+    "ISO-639-3": "ssk",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Sunam",
+    "pk": 5836,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Sunam",
     "alt": [
         "Central Kinnauri",
         "Sangnaur",
@@ -21,5 +21,5 @@
         "Thebor",
         "Theb\u00f6r Skadd"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

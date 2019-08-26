@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "xml",
-    "pk": 6979,
     "lc": "xml",
     "gw": false,
-    "ln": "Malaysian Sign Language",
-    "ld": "ltr",
-    "ang": "Malaysian Sign Language",
+    "ISO-639-3": "xml",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Malaysian Sign Language",
+    "pk": 6979,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Malaysian Sign Language",
     "alt": [
         "Bahasa Isyarat Malaysia"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

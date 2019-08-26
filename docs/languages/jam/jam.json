@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "jam",
-    "pk": 2574,
     "lc": "jam",
     "gw": false,
-    "ln": "Jamaican Creole English",
-    "ld": "ltr",
-    "ang": "Jamaican Creole English",
+    "ISO-639-3": "jam",
     "hc": "JM",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Jamaican Creole English",
+    "pk": 2574,
     "cc": [
         "BS",
         "CU",
@@ -18,6 +16,8 @@
         "JM",
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Jamaican Creole English",
     "alt": [
         "Southwestern Caribbean Creole English",
         "Bongo Talk",
@@ -26,5 +26,5 @@
         "Patwa",
         "Quashie Talk"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

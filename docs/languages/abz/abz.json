@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "abz",
-    "pk": 52,
     "lc": "abz",
     "gw": false,
-    "ln": "Abui",
-    "ld": "ltr",
-    "ang": "Abui",
+    "ISO-639-3": "abz",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Abui",
+    "pk": 52,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Abui",
     "alt": [
         "Abui Barat",
         "Abui Selatan",
@@ -18,5 +18,5 @@
         "Namatalaki",
         "Barawahing"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

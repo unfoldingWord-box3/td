@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bov",
-    "pk": 849,
     "lc": "bov",
     "gw": false,
-    "ln": "Tuwuli",
-    "ld": "ltr",
-    "ang": "Tuwuli",
+    "ISO-639-3": "bov",
     "hc": "GH",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Tuwuli",
+    "pk": 849,
     "cc": [
         "GH"
     ],
+    "lr": "Africa",
+    "ln": "Tuwuli",
     "alt": [
         "Bawuli",
         "Bowili",
@@ -18,5 +18,5 @@
         "Siwuri",
         "Tuwili"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

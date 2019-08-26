@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lno",
-    "pk": 3545,
     "lc": "lno",
     "gw": false,
-    "ln": "Lango (Sudan)",
-    "ld": "ltr",
-    "ang": "Lango",
+    "ISO-639-3": "lno",
     "hc": "SS",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Lango",
+    "pk": 3545,
     "cc": [
         "SS"
     ],
+    "lr": "Africa",
+    "ln": "Lango (Sudan)",
     "alt": [
         "Madial Lorwama (Okolie)",
         "Lokwaa",
@@ -18,5 +18,5 @@
         "Logire (Imotong)",
         "Logir"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "rap",
-    "pk": 5319,
     "lc": "rap",
     "gw": false,
-    "ln": "Rapanui",
-    "ld": "ltr",
-    "ang": "Rapa Nui",
+    "ISO-639-3": "rap",
     "hc": "CL",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Rapa Nui",
+    "pk": 5319,
     "cc": [
         "CL"
     ],
+    "lr": "Americas",
+    "ln": "Rapanui",
     "alt": [
         "Easter Island",
         "Pascuense",
         "Rapanui"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

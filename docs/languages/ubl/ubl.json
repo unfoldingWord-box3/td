@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ubl",
-    "pk": 6470,
     "lc": "ubl",
     "gw": false,
-    "ln": "Buhi'non Bikol",
-    "ld": "ltr",
-    "ang": "Bikol, Buhi\u2019non",
+    "ISO-639-3": "ubl",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Bikol, Buhi\u2019non",
+    "pk": 6470,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Buhi'non Bikol",
     "alt": [
         "Bikol Buhi",
         "Bo\u00een?n",
@@ -18,5 +18,5 @@
         "Buhi'non",
         "Buhi-non"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

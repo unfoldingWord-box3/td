@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "mhx",
-    "pk": 3850,
     "lc": "mhx",
     "gw": false,
-    "ln": "Lhao Vo",
-    "ld": "ltr",
-    "ang": "Lhao Vo",
+    "ISO-639-3": "mhx",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Lhao Vo",
+    "pk": 3850,
     "cc": [
         "CN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Lhao Vo",
     "alt": [
         "Diso",
         "Lang'e",
@@ -29,5 +29,5 @@
         "Lhaovo",
         "Mulu"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

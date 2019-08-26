@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gva",
-    "pk": 2177,
     "lc": "gva",
     "gw": false,
-    "ln": "Guana (Paraguay)",
-    "ld": "ltr",
-    "ang": "Guana",
+    "ISO-639-3": "gva",
     "hc": "PY",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Guana",
+    "pk": 2177,
     "cc": [
         "PY"
     ],
+    "lr": "Americas",
+    "ln": "Guana (Paraguay)",
     "alt": [
         "Cashquiha",
         "Kaskih\u00e1",
@@ -18,5 +18,5 @@
         "Echonoana",
         "Layana (Niguecactemigi)"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

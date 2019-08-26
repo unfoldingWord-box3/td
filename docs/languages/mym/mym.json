@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mym",
-    "pk": 4252,
     "lc": "mym",
     "gw": false,
-    "ln": "Me'en",
-    "ld": "ltr",
-    "ang": "Me\u2019en",
+    "ISO-639-3": "mym",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Me\u2019en",
+    "pk": 4252,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Me'en",
     "alt": [
         "Mekan",
         "Men",
@@ -22,5 +22,5 @@
         "Bodi (Mela)",
         "Banio"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

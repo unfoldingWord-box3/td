@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "zlm",
-    "pk": 7403,
     "lc": "zlm",
     "gw": false,
-    "ln": "Malay (individual language)",
-    "ld": "ltr",
-    "ang": "Malay",
+    "ISO-639-3": "zlm",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Malay",
+    "pk": 7403,
     "cc": [
         "ID",
         "MY",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Malay (individual language)",
     "alt": [
         "Bahasa Daerah",
         "Bahasa Melayu",
@@ -44,5 +44,5 @@
         "Lubu",
         "Riau islands"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

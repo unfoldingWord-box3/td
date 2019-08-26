@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nia",
-    "pk": 4456,
     "lc": "nia",
     "gw": false,
-    "ln": "Nias",
-    "ld": "ltr",
-    "ang": "Nias",
+    "ISO-639-3": "nia",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Nias",
+    "pk": 4456,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Nias",
     "alt": [
         "Nias Selatan",
         "North Nias (Gunung Sitoli)",
@@ -19,5 +19,5 @@
         "Central Nias",
         "South Nias"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

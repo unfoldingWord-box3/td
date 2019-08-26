@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "xkl",
-    "pk": 6942,
     "lc": "xkl",
     "gw": false,
-    "ln": "Mainstream Kenyah",
-    "ld": "ltr",
-    "ang": "Kenyah, Mainstream",
+    "ISO-639-3": "xkl",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Kenyah, Mainstream",
+    "pk": 6942,
     "cc": [
         "ID",
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Mainstream Kenyah",
     "alt": [
         "Highland Kenyah",
         "Usun Apau Kenyah",
@@ -33,5 +33,5 @@
         "Leppo' La'ang",
         "Leppo' Ke'"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

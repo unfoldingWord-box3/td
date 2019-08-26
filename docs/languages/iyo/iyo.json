@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "iyo",
-    "pk": 2558,
     "lc": "iyo",
     "gw": false,
-    "ln": "Mesaka",
-    "ld": "ltr",
-    "ang": "Mesaka",
+    "ISO-639-3": "iyo",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Mesaka",
+    "pk": 2558,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Mesaka",
     "alt": [
         "Banagere",
         "Iyon",
@@ -19,5 +19,5 @@
         "Messaka",
         "Batomo (Babasi)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

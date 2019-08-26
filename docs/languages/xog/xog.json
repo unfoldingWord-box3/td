@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "xog",
-    "pk": 7003,
     "lc": "xog",
     "gw": false,
-    "ln": "Soga",
-    "ld": "ltr",
-    "ang": "Soga",
+    "ISO-639-3": "xog",
     "hc": "UG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Soga",
+    "pk": 7003,
     "cc": [
         "TZ",
         "UG"
     ],
+    "lr": "Africa",
+    "ln": "Soga",
     "alt": [
         "Olusoga",
         "Nholo (Lunholo)",
@@ -29,5 +29,5 @@
         "Lulamogi",
         "Siki (Lusiginyi)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "mxs",
-    "pk": 4232,
     "lc": "mxs",
     "gw": false,
-    "ln": "Huitepec Mixtec",
-    "ld": "ltr",
-    "ang": "Mixtec, Huitepec",
+    "ISO-639-3": "mxs",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mixtec, Huitepec",
+    "pk": 4232,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Huitepec Mixtec",
     "alt": [
         "Mixteco de Huitepec",
         "Mixteco de San Antonio Huitepec",
         "Mixteco de Zaachila"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

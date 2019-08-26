@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "app",
-    "pk": 315,
     "lc": "app",
     "gw": false,
-    "ln": "Apma",
-    "ld": "ltr",
-    "ang": "Apma",
+    "ISO-639-3": "app",
     "hc": "VU",
-    "lr": "Pacific",
+    "gwcode": "fr",
+    "ang": "Apma",
+    "pk": 315,
     "cc": [
         "VU"
     ],
+    "lr": "Pacific",
+    "ln": "Apma",
     "alt": [
         "Central Raga",
         "Asuk (Asa)",
@@ -20,5 +20,5 @@
         "Suru Mwerani",
         "Suru Kavian"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

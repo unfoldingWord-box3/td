@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sgw",
-    "pk": 5587,
     "lc": "sgw",
     "gw": false,
-    "ln": "Sebat Bet Gurage",
-    "ld": "ltr",
-    "ang": "Sebat Bet Gurage",
+    "ISO-639-3": "sgw",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Sebat Bet Gurage",
+    "pk": 5587,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Sebat Bet Gurage",
     "alt": [
         "Central West Gurage",
         "Gouraghie",
@@ -23,5 +23,5 @@
         "Gyeto",
         "Izha"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

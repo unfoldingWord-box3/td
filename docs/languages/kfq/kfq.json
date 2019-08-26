@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kfq",
-    "pk": 2825,
     "lc": "kfq",
     "gw": false,
-    "ln": "Korku",
-    "ld": "ltr",
-    "ang": "Korku",
+    "ISO-639-3": "kfq",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Korku",
+    "pk": 2825,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Korku",
     "alt": [
         "Bondeya",
         "Bopchi",
@@ -22,5 +22,5 @@
         "Muwasi",
         "Bouriya"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ste",
-    "pk": 5855,
     "lc": "ste",
     "gw": false,
-    "ln": "Liana-Seti",
-    "ld": "ltr",
-    "ang": "Liana-Seti",
+    "ISO-639-3": "ste",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Liana-Seti",
+    "pk": 5855,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Liana-Seti",
     "alt": [
         "Liambata-Kobi",
         "Liana",
@@ -20,5 +20,5 @@
         "Uhei Kaclakin",
         "Uhei Kahlakim"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

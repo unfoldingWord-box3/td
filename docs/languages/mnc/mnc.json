@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mnc",
-    "pk": 3977,
     "lc": "mnc",
     "gw": false,
-    "ln": "\u6ee1\u8bed",
-    "ld": "ltr",
-    "ang": "Manchu",
+    "ISO-639-3": "mnc",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Manchu",
+    "pk": 3977,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u6ee1\u8bed",
     "alt": [
         "Man",
         "Alechuxa",
@@ -18,5 +18,5 @@
         "Jing",
         "Lalin"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

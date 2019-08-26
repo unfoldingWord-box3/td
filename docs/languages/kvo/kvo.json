@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kvo",
-    "pk": 3222,
     "lc": "kvo",
     "gw": false,
-    "ln": "Dobel",
-    "ld": "ltr",
-    "ang": "Dobel",
+    "ISO-639-3": "kvo",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Dobel",
+    "pk": 3222,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Dobel",
     "alt": [
         "Doibel",
         "Kobroor",
@@ -19,5 +19,5 @@
         "Northern Dobel",
         "Straits Dobel"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

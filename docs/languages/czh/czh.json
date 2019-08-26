@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "czh",
-    "pk": 1415,
     "lc": "czh",
     "gw": false,
-    "ln": "\u5fbd\u5dde\u8bdd",
-    "ld": "ltr",
-    "ang": "Chinese, Huizhou",
+    "ISO-639-3": "czh",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Chinese, Huizhou",
+    "pk": 1415,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u5fbd\u5dde\u8bdd",
     "alt": [
         "Hui",
         "Huizhou",
         "Tunxi"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

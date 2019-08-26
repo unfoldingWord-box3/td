@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "xii",
-    "pk": 6925,
     "lc": "xii",
     "gw": false,
-    "ln": "Xiri",
-    "ld": "ltr",
-    "ang": "Xiri",
+    "ISO-639-3": "xii",
     "hc": "ZA",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Xiri",
+    "pk": 6925,
     "cc": [
         "ZA"
     ],
+    "lr": "Africa",
+    "ln": "Xiri",
     "alt": [
         "Cape Hottentot",
         "Gri",
@@ -20,5 +20,5 @@
         "Xirikwa",
         "Xrikwa"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

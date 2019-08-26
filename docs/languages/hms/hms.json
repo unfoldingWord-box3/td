@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hms",
-    "pk": 2307,
     "lc": "hms",
     "gw": false,
-    "ln": "\u5357\u90e8\u571f\u8bed",
-    "ld": "ltr",
-    "ang": "Miao, Southern Qiandong",
+    "ISO-639-3": "hms",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Miao, Southern Qiandong",
+    "pk": 2307,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u5357\u90e8\u571f\u8bed",
     "alt": [
         "Black Miao",
         "Central Miao",
@@ -20,5 +20,5 @@
         "Southern East-Guizhou Miao",
         "Southern Hmu"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

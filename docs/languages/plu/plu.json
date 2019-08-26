@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "plu",
-    "pk": 5078,
     "lc": "plu",
     "gw": false,
-    "ln": "Palik\u00far",
-    "ld": "ltr",
-    "ang": "Palik\u00far",
+    "ISO-639-3": "plu",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Palik\u00far",
+    "pk": 5078,
     "cc": [
         "BR",
         "GF"
     ],
+    "lr": "Americas",
+    "ln": "Palik\u00far",
     "alt": [
         "Paikwene",
         "Palicur",
@@ -23,5 +23,5 @@
         "Parikurene",
         "Parinkur-lene"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "lgr",
-    "pk": 3440,
     "lc": "lgr",
     "gw": false,
-    "ln": "Lengo",
-    "ld": "ltr",
-    "ang": "Lengo",
+    "ISO-639-3": "lgr",
     "hc": "SB",
-    "lr": "Pacific",
+    "gwcode": "pis",
+    "ang": "Lengo",
+    "pk": 3440,
     "cc": [
         "SB"
     ],
+    "lr": "Pacific",
+    "ln": "Lengo",
     "alt": [
         "Doku",
         "Ruavatu",
         "Tadhimboko",
         "Ghaimuta (Ghua)"
     ],
-    "gwcode": "pis"
+    "ld": "ltr"
 }

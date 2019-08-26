@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dao",
-    "pk": 1432,
     "lc": "dao",
     "gw": false,
-    "ln": "Daai Chin",
-    "ld": "ltr",
-    "ang": "Chin, Daai",
+    "ISO-639-3": "dao",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Chin, Daai",
+    "pk": 1432,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Daai Chin",
     "alt": [
         "Dai",
         "Khyo",
@@ -26,5 +26,5 @@
         "Kanpetlet Daai (Nghngilo/Yang)",
         "Mkui"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

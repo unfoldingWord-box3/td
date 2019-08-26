@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "tvn",
-    "pk": 6397,
     "lc": "tvn",
     "gw": false,
-    "ln": "Tavoyan",
-    "ld": "ltr",
-    "ang": "Tavoyan",
+    "ISO-639-3": "tvn",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Tavoyan",
+    "pk": 6397,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Tavoyan",
     "alt": [
         "Dawai",
         "Dawe",
         "Tavoya",
         "Tawe-Tavoy"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

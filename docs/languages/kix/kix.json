@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "kix",
-    "pk": 2903,
     "lc": "kix",
     "gw": false,
-    "ln": "Khiamniungan Naga",
-    "ld": "ltr",
-    "ang": "Naga, Khiamniungan",
+    "ISO-639-3": "kix",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Naga, Khiamniungan",
+    "pk": 2903,
     "cc": [
         "IN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Khiamniungan Naga",
     "alt": [
         "Aoshedd",
         "Kalyokengnyu",
@@ -28,5 +28,5 @@
         "Thang",
         "Wolam"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

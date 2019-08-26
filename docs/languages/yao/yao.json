@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "yao",
-    "pk": 7124,
     "lc": "yao",
     "gw": false,
-    "ln": "Yao",
-    "ld": "ltr",
-    "ang": "Yao",
+    "ISO-639-3": "yao",
     "hc": "MW",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Yao",
+    "pk": 7124,
     "cc": [
         "MZ",
         "TZ",
         "ZW",
         "MW"
     ],
+    "lr": "Africa",
+    "ln": "Yao",
     "alt": [
         "Achawa",
         "Adsawa",
@@ -41,5 +41,5 @@
         "Mangochi",
         "Massaninga (Cimassaninga)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mbl",
-    "pk": 3687,
     "lc": "mbl",
     "gw": false,
-    "ln": "Maxakal\u00ed",
-    "ld": "ltr",
-    "ang": "Maxakal\u00ed",
+    "ISO-639-3": "mbl",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Maxakal\u00ed",
+    "pk": 3687,
     "cc": [
         "BR"
     ],
+    "lr": "Americas",
+    "ln": "Maxakal\u00ed",
     "alt": [
         "Caposho",
         "Cumanasho",
@@ -18,5 +18,5 @@
         "Monaxo",
         "Monocho"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

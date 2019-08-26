@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tyv",
-    "pk": 6454,
     "lc": "tyv",
     "gw": false,
-    "ln": "\u0422\u0443\u0432\u0438\u043d\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Tuva",
+    "ISO-639-3": "tyv",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Tuva",
+    "pk": 6454,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u0422\u0443\u0432\u0438\u043d\u0441\u043a\u0438\u0439",
     "alt": [
         "Diba",
         "K\u00f6k Mungak",
@@ -34,5 +34,5 @@
         "Uryankhai",
         "Northeastern Tuvin (Todzhin)"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

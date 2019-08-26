@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bmu",
-    "pk": 800,
     "lc": "bmu",
     "gw": false,
-    "ln": "Somba-Siawari",
-    "ld": "ltr",
-    "ang": "Somba-Siawari",
+    "ISO-639-3": "bmu",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Somba-Siawari",
+    "pk": 800,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Somba-Siawari",
     "alt": [
         "Bulum",
         "Burum",
@@ -18,5 +18,5 @@
         "Mindik",
         "Siawari"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

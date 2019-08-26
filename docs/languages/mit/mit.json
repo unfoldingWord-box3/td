@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "mit",
-    "pk": 3873,
     "lc": "mit",
     "gw": false,
-    "ln": "Southern Puebla Mixtec",
-    "ld": "ltr",
-    "ang": "Mixtec, Southern Puebla",
+    "ISO-639-3": "mit",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mixtec, Southern Puebla",
+    "pk": 3873,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Southern Puebla Mixtec",
     "alt": [
         "Acatl\u00e1n Mixtec",
         "Mixteco de la Frontera Puebla-Oaxaca",
         "Mixteco del Sur de Puebla"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

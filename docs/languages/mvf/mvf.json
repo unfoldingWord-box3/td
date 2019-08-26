@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "mvf",
-    "pk": 4173,
     "lc": "mvf",
     "gw": false,
-    "ln": "\u5468\u8fb9\u8499\u53e4\u8bed",
-    "ld": "ltr",
-    "ang": "Mongolian, Peripheral",
+    "ISO-639-3": "mvf",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Mongolian, Peripheral",
+    "pk": 4173,
     "cc": [
         "CN",
         "US"
     ],
+    "lr": "Asia",
+    "ln": "\u5468\u8fb9\u8499\u53e4\u8bed",
     "alt": [
         "Inner Mongolian",
         "Menggu",
@@ -43,5 +43,5 @@
         "Ke'erqin",
         "Chakhar"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "nbm",
-    "pk": 4319,
     "lc": "nbm",
     "gw": false,
-    "ln": "Ngbaka Ma'bo",
-    "ld": "ltr",
-    "ang": "Ngbaka Ma\u2019bo",
+    "ISO-639-3": "nbm",
     "hc": "CF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Ngbaka Ma\u2019bo",
+    "pk": 4319,
     "cc": [
         "CF",
         "CG"
     ],
+    "lr": "Africa",
+    "ln": "Ngbaka Ma'bo",
     "alt": [
         "Bouaka",
         "Bwaka",
@@ -25,5 +25,5 @@
         "Ngbaka Limba",
         "Gbala"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sja",
-    "pk": 5640,
     "lc": "sja",
     "gw": false,
-    "ln": "Epena",
-    "ld": "ltr",
-    "ang": "Epena",
+    "ISO-639-3": "sja",
     "hc": "CO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Epena",
+    "pk": 5640,
     "cc": [
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Epena",
     "alt": [
         "Cholo",
         "Embera",
@@ -25,5 +25,5 @@
         "Southern Epena",
         "Basurud\u00f3"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "xtb",
-    "pk": 7056,
     "lc": "xtb",
     "gw": false,
-    "ln": "Chazumba Mixtec",
-    "ld": "ltr",
-    "ang": "Mixtec, Chazumba",
+    "ISO-639-3": "xtb",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mixtec, Chazumba",
+    "pk": 7056,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Chazumba Mixtec",
     "alt": [
         "Mixteco de Chazumba",
         "Mixteco de la Frontera Puebla-Oaxaca",
         "Northern Oaxaca Mixtec"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

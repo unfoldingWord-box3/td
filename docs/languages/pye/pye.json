@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pye",
-    "pk": 5239,
     "lc": "pye",
     "gw": false,
-    "ln": "Pye Krumen",
-    "ld": "ltr",
-    "ang": "Krumen, Pye",
+    "ISO-639-3": "pye",
     "hc": "CI",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Krumen, Pye",
+    "pk": 5239,
     "cc": [
         "CI"
     ],
+    "lr": "Africa",
+    "ln": "Pye Krumen",
     "alt": [
         "Kroumen",
         "Northeastern Krumen",
@@ -20,5 +20,5 @@
         "Wluwe-Hawlo (Haoulo)",
         "Yrewe (Giriwe)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

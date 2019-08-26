@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dus",
-    "pk": 1668,
     "lc": "dus",
     "gw": false,
-    "ln": "Dumi",
-    "ld": "ltr",
-    "ang": "Dumi",
+    "ISO-639-3": "dus",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Dumi",
+    "pk": 1668,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Dumi",
     "alt": [
         "Dumi Bo'o",
         "Dumi Bro",
@@ -19,5 +19,5 @@
         "Ro'do Bo'",
         "Sotmali"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

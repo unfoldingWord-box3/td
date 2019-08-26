@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pcj",
-    "pk": 4965,
     "lc": "pcj",
     "gw": false,
-    "ln": "Parenga",
-    "ld": "ltr",
-    "ang": "Parenga",
+    "ISO-639-3": "pcj",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "or",
+    "ang": "Parenga",
+    "pk": 4965,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Parenga",
     "alt": [
         "Gorum",
         "Gorum Sama",
@@ -20,5 +20,5 @@
         "Parenji",
         "Poroja"
     ],
-    "gwcode": "or"
+    "ld": "ltr"
 }

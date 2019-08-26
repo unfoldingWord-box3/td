@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lce",
-    "pk": 3381,
     "lc": "lce",
     "gw": false,
-    "ln": "Loncong",
-    "ld": "ltr",
-    "ang": "Sekak",
+    "ISO-639-3": "lce",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Sekak",
+    "pk": 3381,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Loncong",
     "alt": [
         "Lonchong",
         "Lontjong",
@@ -19,5 +19,5 @@
         "Seka",
         "Sekah"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

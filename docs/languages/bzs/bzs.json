@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "bzs",
-    "pk": 1101,
     "lc": "bzs",
     "gw": false,
-    "ln": "Brazilian Sign Language",
-    "ld": "ltr",
-    "ang": "Brazilian Sign Language",
+    "ISO-639-3": "bzs",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Brazilian Sign Language",
+    "pk": 1101,
     "cc": [
         "BR"
     ],
+    "lr": "Americas",
+    "ln": "Brazilian Sign Language",
     "alt": [
         "LIBRAS",
         "LSB",
         "S\u00e3o Paulo Sign Language"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

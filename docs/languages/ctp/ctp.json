@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "ctp",
-    "pk": 1378,
     "lc": "ctp",
     "gw": false,
-    "ln": "Western Highland Chatino",
-    "ld": "ltr",
-    "ang": "Chatino, Western Highland",
+    "ISO-639-3": "ctp",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Chatino, Western Highland",
+    "pk": 1378,
     "cc": [
         "MX",
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Western Highland Chatino",
     "alt": [
         "Cha't-An",
         "Chatino Central",
@@ -21,5 +21,5 @@
         "San Juan Quiahije Chatino",
         "Yaitepec Chatino"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

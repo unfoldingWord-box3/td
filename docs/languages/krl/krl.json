@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "krl",
-    "pk": 3119,
     "lc": "krl",
     "gw": false,
-    "ln": "\u041a\u0430\u0440\u0435\u043b\u044c\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Karelian",
+    "ISO-639-3": "krl",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Karelian",
+    "pk": 3119,
     "cc": [
         "RU",
         "FI"
     ],
+    "lr": "Europe",
+    "ln": "\u041a\u0430\u0440\u0435\u043b\u044c\u0441\u043a\u0438\u0439",
     "alt": [
         "Karelian Proper",
         "Karely",
@@ -20,5 +20,5 @@
         "Sobstvenno-Karel'skij-Jazyk",
         "Tver (Kalinin)"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

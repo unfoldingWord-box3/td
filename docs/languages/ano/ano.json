@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ano",
-    "pk": 272,
     "lc": "ano",
     "gw": false,
-    "ln": "Andoque",
-    "ld": "ltr",
-    "ang": "Andoque",
+    "ISO-639-3": "ano",
     "hc": "CO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Andoque",
+    "pk": 272,
     "cc": [
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Andoque",
     "alt": [
         "Andoke",
         "Businka",
@@ -18,5 +18,5 @@
         "Paasi-ah\u00e1",
         "Paasiaja"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

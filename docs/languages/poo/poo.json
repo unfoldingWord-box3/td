@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "poo",
-    "pk": 5132,
     "lc": "poo",
     "gw": false,
-    "ln": "Central Pomo",
-    "ld": "ltr",
-    "ang": "Pomo, Central",
+    "ISO-639-3": "poo",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Pomo, Central",
+    "pk": 5132,
     "cc": [
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Central Pomo",
     "alt": [
         "Ballo-Kai-Pomo",
         "Cabanapo",
@@ -25,5 +25,5 @@
         "Venambakaiia",
         "Yokaia"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

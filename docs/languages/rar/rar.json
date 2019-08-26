@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "rar",
-    "pk": 5321,
     "lc": "rar",
     "gw": false,
-    "ln": "Rarotongan",
-    "ld": "ltr",
-    "ang": "Rarotongan",
+    "ISO-639-3": "rar",
     "hc": "CK",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Rarotongan",
+    "pk": 5321,
     "cc": [
         "CK",
         "NZ",
         "US",
         "PF"
     ],
+    "lr": "Pacific",
+    "ln": "Rarotongan",
     "alt": [
         "Cook Island",
         "Cook Islands Maori",
@@ -22,5 +22,5 @@
         "Rarotongan-Mangaian",
         "Rarotonga"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

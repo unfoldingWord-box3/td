@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "kjg",
-    "pk": 2913,
     "lc": "kjg",
     "gw": false,
-    "ln": "\u0e81\u0eb6\u0ea1\u0eab\u0ea1\u0eb8",
-    "ld": "ltr",
-    "ang": "Khmu",
+    "ISO-639-3": "kjg",
     "hc": "LA",
-    "lr": "Asia",
+    "gwcode": "lo",
+    "ang": "Khmu",
+    "pk": 2913,
     "cc": [
         "CN",
         "FR",
@@ -15,6 +13,8 @@
         "TH",
         "US"
     ],
+    "lr": "Asia",
+    "ln": "\u0e81\u0eb6\u0ea1\u0eab\u0ea1\u0eb8",
     "alt": [
         "Chaman",
         "Damai",
@@ -44,5 +44,5 @@
         "Xa Cau",
         "Khroong (Krong)"
     ],
-    "gwcode": "lo"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ngy",
-    "pk": 4431,
     "lc": "ngy",
     "gw": false,
-    "ln": "Tibea",
-    "ld": "ltr",
-    "ang": "Tibea",
+    "ISO-639-3": "ngy",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Tibea",
+    "pk": 4431,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Tibea",
     "alt": [
         "Djanti",
         "Minjanti",
@@ -19,5 +19,5 @@
         "Nyabea",
         "Zangnte"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

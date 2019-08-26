@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "nzb",
-    "pk": 4748,
     "lc": "nzb",
     "gw": false,
-    "ln": "Njebi",
-    "ld": "ltr",
-    "ang": "Njebi",
+    "ISO-639-3": "nzb",
     "hc": "GA",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Njebi",
+    "pk": 4748,
     "cc": [
         "GA",
         "CG"
     ],
+    "lr": "Africa",
+    "ln": "Njebi",
     "alt": [
         "Binzabi",
         "Injebi",
@@ -23,5 +23,5 @@
         "Bandzabi",
         "Ndjevi"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

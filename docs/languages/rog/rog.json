@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rog",
-    "pk": 5411,
     "lc": "rog",
     "gw": false,
-    "ln": "Ti\u1ebfng Ra Glai",
-    "ld": "ltr",
-    "ang": "Roglai, Northern",
+    "ISO-639-3": "rog",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Roglai, Northern",
+    "pk": 5411,
     "cc": [
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Ti\u1ebfng Ra Glai",
     "alt": [
         "Adlai",
         "La-Oang",
@@ -20,5 +20,5 @@
         "Rang Glai",
         "Rayglay"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

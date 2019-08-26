@@ -1,22 +1,22 @@
 {
-    "ISO-639-3": "ssh",
-    "pk": 5833,
     "lc": "ssh",
     "gw": false,
-    "ln": "\u0644\u0647\u062c\u0629 \u0642\u0628\u064a\u0644\u0629 \u0627\u0644\u0634\u062d\u0648\u062d",
-    "ld": "rtl",
-    "ang": "Arabic, Shihhi Spoken",
+    "ISO-639-3": "ssh",
     "hc": "AE",
-    "lr": "Asia",
+    "gwcode": "ar",
+    "ang": "Arabic, Shihhi Spoken",
+    "pk": 5833,
     "cc": [
         "OM",
         "AE"
     ],
+    "lr": "Asia",
+    "ln": "\u0644\u0647\u062c\u0629 \u0642\u0628\u064a\u0644\u0629 \u0627\u0644\u0634\u062d\u0648\u062d",
     "alt": [
         "Al-Shihuh",
         "Shihhi",
         "Shihu",
         "Shihuh"
     ],
-    "gwcode": "ar"
+    "ld": "rtl"
 }

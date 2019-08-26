@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "krh",
-    "pk": 3115,
     "lc": "krh",
     "gw": false,
-    "ln": "Kurama",
-    "ld": "ltr",
-    "ang": "Kurama",
+    "ISO-639-3": "krh",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Kurama",
+    "pk": 3115,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Kurama",
     "alt": [
         "Akurmi",
         "Akurumi",
@@ -19,5 +19,5 @@
         "Bukurumi",
         "Tikurami"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "gju",
-    "pk": 2042,
     "lc": "gju",
     "gw": false,
-    "ln": "Gujari",
-    "ld": "ltr",
-    "ang": "Gujari",
+    "ISO-639-3": "gju",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "ks",
+    "ang": "Gujari",
+    "pk": 2042,
     "cc": [
         "AF",
         "PK",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Gujari",
     "alt": [
         "Gojri",
         "Gujuri Rajasthani",
@@ -27,5 +27,5 @@
         "Parimu",
         "Rajasthani Gujuri"
     ],
-    "gwcode": "ks"
+    "ld": "ltr"
 }

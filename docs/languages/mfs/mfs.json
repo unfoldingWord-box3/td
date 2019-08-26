@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mfs",
-    "pk": 3795,
     "lc": "mfs",
     "gw": false,
-    "ln": "Mexican Sign Language",
-    "ld": "ltr",
-    "ang": "Mexican Sign Language",
+    "ISO-639-3": "mfs",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mexican Sign Language",
+    "pk": 3795,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Mexican Sign Language",
     "alt": [
         "Lengua de Se\u00f1as Mexicana",
         "Lenguaje de las Manos",
@@ -20,5 +20,5 @@
         "Lenguaje Manual Mexicana",
         "LSM"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

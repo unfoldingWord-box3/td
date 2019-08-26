@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "dan",
-    "pk": 1420,
     "lc": "da",
     "gw": false,
-    "ln": "dansk",
-    "ld": "ltr",
-    "ang": "Danish",
+    "ISO-639-3": "dan",
     "hc": "DK",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Danish",
+    "pk": 1420,
     "cc": [
         "FR",
         "DE",
@@ -22,6 +20,8 @@
         "DK",
         "IS"
     ],
+    "lr": "Europe",
+    "ln": "dansk",
     "alt": [
         "D\u00e4nisch",
         "Dansk",
@@ -29,5 +29,5 @@
         "Bornholmsk (Eastern Danish)",
         "S\u00f8nderjysk (Southern Jutlandic)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

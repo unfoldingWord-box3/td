@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tsu",
-    "pk": 6341,
     "lc": "tsu",
     "gw": false,
-    "ln": "Tsou",
-    "ld": "ltr",
-    "ang": "Tsou",
+    "ISO-639-3": "tsu",
     "hc": "TW",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Tsou",
+    "pk": 6341,
     "cc": [
         "TW"
     ],
+    "lr": "Asia",
+    "ln": "Tsou",
     "alt": [
         "Namakaban",
         "Niitaka",
@@ -25,5 +25,5 @@
         "Tsu-Wo",
         "Tzo"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

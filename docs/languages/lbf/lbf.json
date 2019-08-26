@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lbf",
-    "pk": 3360,
     "lc": "lbf",
     "gw": false,
-    "ln": "Tinani",
-    "ld": "ltr",
-    "ang": "Tinani",
+    "ISO-639-3": "lbf",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Tinani",
+    "pk": 3360,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Tinani",
     "alt": [
         "Bhotia of Lahul",
         "Gondla",
@@ -22,5 +22,5 @@
         "Teenan",
         "Tinan Lahuli"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

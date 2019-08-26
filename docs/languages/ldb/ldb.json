@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ldb",
-    "pk": 3390,
     "lc": "ldb",
     "gw": false,
-    "ln": "Du\u0303ya",
-    "ld": "ltr",
-    "ang": "Duya",
+    "ISO-639-3": "ldb",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Duya",
+    "pk": 3390,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Du\u0303ya",
     "alt": [
         "Adong",
         "Idun",
@@ -19,5 +19,5 @@
         "Lungu",
         "Ungu"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "rmu",
-    "pk": 5392,
     "lc": "rmu",
     "gw": false,
-    "ln": "Tavringer Romani",
-    "ld": "ltr",
-    "ang": "Romani, Tavringer",
+    "ISO-639-3": "rmu",
     "hc": "SE",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Romani, Tavringer",
+    "pk": 5392,
     "cc": [
         "SE"
     ],
+    "lr": "Europe",
+    "ln": "Tavringer Romani",
     "alt": [
         "Resande Romani",
         "Rommani",
         "Svensk Rommani",
         "Traveller Swedish"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

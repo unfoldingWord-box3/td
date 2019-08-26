@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "zpa",
-    "pk": 7437,
     "lc": "zpa",
     "gw": false,
-    "ln": "Lachiguiri Zapotec",
-    "ld": "ltr",
-    "ang": "Zapotec, Lachiguiri",
+    "ISO-639-3": "zpa",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Zapotec, Lachiguiri",
+    "pk": 7437,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Lachiguiri Zapotec",
     "alt": [
         "Northwestern Tehuantepec Zapotec",
         "Zapoteco de Santiago Lachiguiri"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

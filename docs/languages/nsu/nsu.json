@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "nsu",
-    "pk": 4656,
     "lc": "nsu",
     "gw": false,
-    "ln": "Sierra Negra Nahuatl",
-    "ld": "ltr",
-    "ang": "Nahuatl, Sierra Negra",
+    "ISO-639-3": "nsu",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Nahuatl, Sierra Negra",
+    "pk": 4656,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Sierra Negra Nahuatl",
     "alt": [
         "N\u00e1huatl de la Sierra Negra",
         "Coyomeapan",
         "Zoquitlan"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

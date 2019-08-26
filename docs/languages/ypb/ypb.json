@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ypb",
-    "pk": 7259,
     "lc": "ypb",
     "gw": false,
-    "ln": "Labo Phowa",
-    "ld": "ltr",
-    "ang": "Phowa, Labo",
+    "ISO-639-3": "ypb",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Phowa, Labo",
+    "pk": 7259,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "Labo Phowa",
     "alt": [
         "Asaheipho",
         "Asahopho",
@@ -21,5 +21,5 @@
         "White Phu",
         "Zemapho"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

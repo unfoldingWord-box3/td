@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lfa",
-    "pk": 3427,
     "lc": "lfa",
     "gw": false,
-    "ln": "Lefa",
-    "ld": "ltr",
-    "ang": "Lefa",
+    "ISO-639-3": "lfa",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Lefa",
+    "pk": 3427,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Lefa",
     "alt": [
         "Balom",
         "Fak",
@@ -19,5 +19,5 @@
         "Letia",
         "Tingong"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

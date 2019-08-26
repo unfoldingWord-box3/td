@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bms",
-    "pk": 798,
     "lc": "bms",
     "gw": false,
-    "ln": "Bilma Kanuri",
-    "ld": "ltr",
-    "ang": "Kanuri, Bilma",
+    "ISO-639-3": "bms",
     "hc": "NE",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Kanuri, Bilma",
+    "pk": 798,
     "cc": [
         "NE"
     ],
+    "lr": "Africa",
+    "ln": "Bilma Kanuri",
     "alt": [
         "Bla Bla",
         "Kanouri",
@@ -18,5 +18,5 @@
         "Bilma",
         "Fachi"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

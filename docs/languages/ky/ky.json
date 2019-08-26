@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "kir",
-    "pk": 3283,
     "lc": "ky",
     "gw": false,
-    "ln": "\u041a\u044b\u0440\u0433\u044b\u0437\u0447\u0430, \u041a\u044b\u0440\u0433\u044b\u0437 \u0442\u0438\u043b\u0438",
-    "ld": "ltr",
-    "ang": "Kyrgyz",
+    "ISO-639-3": "kir",
     "hc": "KG",
-    "lr": "Asia",
+    "gwcode": "ru",
+    "ang": "Kyrgyz",
+    "pk": 3283,
     "cc": [
         "CN",
         "AF",
@@ -20,6 +18,8 @@
         "TM",
         "UZ"
     ],
+    "lr": "Asia",
+    "ln": "\u041a\u044b\u0440\u0433\u044b\u0437\u0447\u0430, \u041a\u044b\u0440\u0433\u044b\u0437 \u0442\u0438\u043b\u0438",
     "alt": [
         "Kara",
         "Ke'erkez",
@@ -29,5 +29,5 @@
         "Northern Kyrgyz",
         "Kirghizi"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

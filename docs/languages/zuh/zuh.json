@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zuh",
-    "pk": 7489,
     "lc": "zuh",
     "gw": false,
-    "ln": "Tokano",
-    "ld": "ltr",
-    "ang": "Tokano",
+    "ISO-639-3": "zuh",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Tokano",
+    "pk": 7489,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Tokano",
     "alt": [
         "Gamuso",
         "Tokama",
@@ -18,5 +18,5 @@
         "Zaka",
         "Zuhozuho"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

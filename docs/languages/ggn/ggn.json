@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "UNKNOWN",
-    "pk": 2004,
     "lc": "ggn",
     "gw": false,
-    "ln": "Eastern Gurung",
-    "ld": "ltr",
-    "ang": "Gurung, Eastern",
+    "ISO-639-3": "UNKNOWN",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Gurung, Eastern",
+    "pk": 2004,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Eastern Gurung",
     "alt": [
         "Daduwa",
         "Gurung",
         "Lamjung Gurung",
         "Gorkha Gurung"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rbk",
-    "pk": 5331,
     "lc": "rbk",
     "gw": false,
-    "ln": "Northern Bontok",
-    "ld": "ltr",
-    "ang": "Bontok, Northern",
+    "ISO-639-3": "rbk",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "ilo",
+    "ang": "Bontok, Northern",
+    "pk": 5331,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Northern Bontok",
     "alt": [
         "Bontoc",
         "Bontoc, Central",
@@ -18,5 +18,5 @@
         "Central",
         "Northern"
     ],
-    "gwcode": "ilo"
+    "ld": "ltr"
 }

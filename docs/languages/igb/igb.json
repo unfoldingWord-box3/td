@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "igb",
-    "pk": 2438,
     "lc": "igb",
     "gw": false,
-    "ln": "Ebira",
-    "ld": "ltr",
-    "ang": "Ebira",
+    "ISO-639-3": "igb",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Ebira",
+    "pk": 2438,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Ebira",
     "alt": [
         "Egbira",
         "Egbura",
@@ -31,5 +31,5 @@
         "Biri",
         "Igu"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

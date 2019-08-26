@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "pes",
-    "pk": 4994,
     "lc": "pes",
     "gw": true,
-    "ln": "\u0641\u0627\u0631\u0633\u06cc",
-    "ld": "rtl",
-    "ang": "Persian, Iranian",
+    "ISO-639-3": "pes",
     "hc": "IR",
-    "lr": "Asia",
+    "gwcode": "fa",
+    "ang": "Persian, Iranian",
+    "pk": 4994,
     "cc": [
         "AZ",
         "AT",
@@ -40,6 +38,8 @@
         "QA",
         "AE"
     ],
+    "lr": "Asia",
+    "ln": "\u0641\u0627\u0631\u0633\u06cc",
     "alt": [
         "Persian",
         "New Persian",
@@ -58,5 +58,5 @@
         "Shirazjahromi",
         "Western"
     ],
-    "gwcode": "fa"
+    "ld": "rtl"
 }

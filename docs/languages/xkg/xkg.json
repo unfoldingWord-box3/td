@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "xkg",
-    "pk": 6937,
     "lc": "xkg",
     "gw": false,
-    "ln": "Gworog",
-    "ld": "ltr",
-    "ang": "Kagoro",
+    "ISO-639-3": "xkg",
     "hc": "ML",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Kagoro",
+    "pk": 6937,
     "cc": [
         "ML"
     ],
+    "lr": "Africa",
+    "ln": "Gworog",
     "alt": [
         "Kakolo",
         "S\u00e9b\u00e9koro",
@@ -21,5 +21,5 @@
         "Guissimbin\u00e9",
         "Di\u00e9ma"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

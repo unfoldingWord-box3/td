@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "lnl",
-    "pk": 3542,
     "lc": "lnl",
     "gw": false,
-    "ln": "South Central Banda",
-    "ld": "ltr",
-    "ang": "Banda, South Central",
+    "ISO-639-3": "lnl",
     "hc": "CF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Banda, South Central",
+    "pk": 3542,
     "cc": [
         "CF"
     ],
+    "lr": "Africa",
+    "ln": "South Central Banda",
     "alt": [
         "Ngubu",
         "Langba (Lagba)",
         "Ngbugu (Ngbougou)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

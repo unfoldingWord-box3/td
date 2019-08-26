@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nbj",
-    "pk": 4317,
     "lc": "nbj",
     "gw": false,
-    "ln": "Ngarinman",
-    "ld": "ltr",
-    "ang": "Ngarinman",
+    "ISO-639-3": "nbj",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Ngarinman",
+    "pk": 4317,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Ngarinman",
     "alt": [
         "Airiman",
         "Hainman",
@@ -19,5 +19,5 @@
         "Ngrarmun",
         "Bilinara (Pilinara)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

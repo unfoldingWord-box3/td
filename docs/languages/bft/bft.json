@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bft",
-    "pk": 628,
     "lc": "bft",
     "gw": false,
-    "ln": "\u0628\u0644\u062a\u06cc",
-    "ld": "ltr",
-    "ang": "Balti",
+    "ISO-639-3": "bft",
     "hc": "PK",
-    "lr": "Asia",
+    "gwcode": "ur",
+    "ang": "Balti",
+    "pk": 628,
     "cc": [
         "PK",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "\u0628\u0644\u062a\u06cc",
     "alt": [
         "Baltistani",
         "Bhoti of Baltistan",
@@ -19,5 +19,5 @@
         "Bhotia of Baltistan",
         "Sbalti"
     ],
-    "gwcode": "ur"
+    "ld": "ltr"
 }

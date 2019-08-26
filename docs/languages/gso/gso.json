@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gso",
-    "pk": 2146,
     "lc": "gso",
     "gw": false,
-    "ln": "Southwest Gbaya",
-    "ld": "ltr",
-    "ang": "Gbaya, Southwest",
+    "ISO-639-3": "gso",
     "hc": "CF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Gbaya, Southwest",
+    "pk": 2146,
     "cc": [
         "CF"
     ],
+    "lr": "Africa",
+    "ln": "Southwest Gbaya",
     "alt": [
         "Gbaya Sud-Ouest",
         "Mboundja (Mbunza)",
@@ -22,5 +22,5 @@
         "Bosoko (Bossouka)",
         "Bokare (Bokari)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

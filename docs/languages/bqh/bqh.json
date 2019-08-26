@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bqh",
-    "pk": 880,
     "lc": "bqh",
     "gw": false,
-    "ln": "\u767d\u9a6c\u8bed",
-    "ld": "ltr",
-    "ang": "Baima",
+    "ISO-639-3": "bqh",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Baima",
+    "pk": 880,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u767d\u9a6c\u8bed",
     "alt": [
         "Bai Ma",
         "Pe",
@@ -19,5 +19,5 @@
         "Northern Baima (Wenxian Baima)",
         "Songpan Baima"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

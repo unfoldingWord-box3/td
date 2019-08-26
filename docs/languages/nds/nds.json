@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "nds",
-    "pk": 4370,
     "lc": "nds",
     "gw": false,
-    "ln": "Low German",
-    "ld": "ltr",
-    "ang": "Saxon, Low",
+    "ISO-639-3": "nds",
     "hc": "DE",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Saxon, Low",
+    "pk": 4370,
     "cc": [
         "DE",
         "NL"
     ],
+    "lr": "Europe",
+    "ln": "Low German",
     "alt": [
         "Low German",
         "Nedderd\u00fctsch",
@@ -28,5 +28,5 @@
         "Eastphalian (Ostfaelisch)",
         "M\u00e4rkisch-Brandenburgisch"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

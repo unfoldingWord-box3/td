@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "ojb",
-    "pk": 4791,
     "lc": "ojb",
     "gw": false,
-    "ln": "Northwestern Ojibwa",
-    "ld": "ltr",
-    "ang": "Ojibwa, Northwestern",
+    "ISO-639-3": "ojb",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Ojibwa, Northwestern",
+    "pk": 4791,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Northwestern Ojibwa",
     "alt": [
         "Northern Ojibwa",
         "Ojibway",
         "Ojibwe",
         "Berens River Ojibwa (Saulteaux)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

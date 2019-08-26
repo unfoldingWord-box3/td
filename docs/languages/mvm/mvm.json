@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mvm",
-    "pk": 4178,
     "lc": "mvm",
     "gw": false,
-    "ln": "\u6728\u96c5\u8bed",
-    "ld": "ltr",
-    "ang": "Muya",
+    "ISO-639-3": "mvm",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Muya",
+    "pk": 4178,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u6728\u96c5\u8bed",
     "alt": [
         "Boba",
         "Manyak",
@@ -22,5 +22,5 @@
         "Eastern Muya",
         "Western Muya"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

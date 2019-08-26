@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "ckn",
-    "pk": 1235,
     "lc": "ckn",
     "gw": false,
-    "ln": "Kaang Chin",
-    "ld": "ltr",
-    "ang": "Chin, Kaang",
+    "ISO-639-3": "ckn",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Chin, Kaang",
+    "pk": 1235,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Kaang Chin",
     "alt": [
         "Kang",
         "Mgan",
         "M'kaang",
         "Mkan"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

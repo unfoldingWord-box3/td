@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tih",
-    "pk": 6127,
     "lc": "tih",
     "gw": false,
-    "ln": "Timugon Murut",
-    "ld": "ltr",
-    "ang": "Timugon Murut",
+    "ISO-639-3": "tih",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Timugon Murut",
+    "pk": 6127,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Timugon Murut",
     "alt": [
         "Temogun",
         "Tenom Murut",
@@ -24,5 +24,5 @@
         "Beaufort Murut (Binta')",
         "Sandiwar (Sandewar)"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

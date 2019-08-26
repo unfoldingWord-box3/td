@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "nzy",
-    "pk": 4754,
     "lc": "nzy",
     "gw": false,
-    "ln": "Nzakambay",
-    "ld": "ltr",
-    "ang": "Nzakambay",
+    "ISO-639-3": "nzy",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Nzakambay",
+    "pk": 4754,
     "cc": [
         "CM",
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Nzakambay",
     "alt": [
         "Mbay",
         "Nzak Mbai",
@@ -25,5 +25,5 @@
         "Gonge (Ngonge)",
         "Zoli"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

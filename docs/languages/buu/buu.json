@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "buu",
-    "pk": 988,
     "lc": "buu",
     "gw": false,
-    "ln": "Budu",
-    "ld": "ltr",
-    "ang": "Budu",
+    "ISO-639-3": "buu",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Budu",
+    "pk": 988,
     "cc": [
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Budu",
     "alt": [
         "Bodo",
         "Ebudu",
@@ -18,5 +18,5 @@
         "Wadimbisa (Isombi)",
         "West Bafwangada (Bafanio)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

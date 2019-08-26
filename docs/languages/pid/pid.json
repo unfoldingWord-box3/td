@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "pid",
-    "pk": 5029,
     "lc": "pid",
     "gw": false,
-    "ln": "Piaroa",
-    "ld": "ltr",
-    "ang": "Piaroa",
+    "ISO-639-3": "pid",
     "hc": "VE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Piaroa",
+    "pk": 5029,
     "cc": [
         "VE",
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Piaroa",
     "alt": [
         "Adole",
         "Ature",
@@ -25,5 +25,5 @@
         "Uhothha",
         "Uwotj\u00fcja"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

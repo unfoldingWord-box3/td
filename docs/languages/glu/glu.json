@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "glu",
-    "pk": 2055,
     "lc": "glu",
     "gw": false,
-    "ln": "Gula",
-    "ld": "ltr",
-    "ang": "Gula",
+    "ISO-639-3": "glu",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Gula",
+    "pk": 2055,
     "cc": [
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Gula",
     "alt": [
         "Bayo",
         "Goula",
@@ -22,5 +22,5 @@
         "Souka",
         "Toussa"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

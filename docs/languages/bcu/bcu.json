@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bcu",
-    "pk": 554,
     "lc": "bcu",
     "gw": false,
-    "ln": "Awad Bing",
-    "ld": "ltr",
-    "ang": "Awad Bing",
+    "ISO-639-3": "bcu",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Awad Bing",
+    "pk": 554,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Awad Bing",
     "alt": [
         "Awad Gey",
         "Bing",
@@ -19,5 +19,5 @@
         "Sengam",
         "Yori"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

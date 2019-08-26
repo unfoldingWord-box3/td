@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "nde",
-    "pk": 4353,
     "lc": "nd",
     "gw": false,
-    "ln": "isiNdebele",
-    "ld": "ltr",
-    "ang": "Northern Ndebele",
+    "ISO-639-3": "nde",
     "hc": "ZW",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Northern Ndebele",
+    "pk": 4353,
     "cc": [
         "ZM",
         "ZW",
         "BW"
     ],
+    "lr": "Africa",
+    "ln": "isiNdebele",
     "alt": [
         "Isinde'bele",
         "Northern Ndebele",
@@ -20,5 +20,5 @@
         "Tabele",
         "Tebele"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

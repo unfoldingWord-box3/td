@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "isd",
-    "pk": 2519,
     "lc": "isd",
     "gw": false,
-    "ln": "Isnag",
-    "ld": "ltr",
-    "ang": "Isnag",
+    "ISO-639-3": "isd",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Isnag",
+    "pk": 2519,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Isnag",
     "alt": [
         "Dibagat-Kabugao-Isneg",
         "Isneg",
@@ -18,5 +18,5 @@
         "Karagawan (Daragawan)",
         "Talifugu-Ripang (Tawini)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zhn",
-    "pk": 7378,
     "lc": "zhn",
     "gw": false,
-    "ln": "\u781a\u5e7f",
-    "ld": "ltr",
-    "ang": "Zhuang, Nong",
+    "ISO-639-3": "zhn",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Zhuang, Nong",
+    "pk": 7378,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u781a\u5e7f",
     "alt": [
         "Daez",
         "Kau Nong",
@@ -26,5 +26,5 @@
         "Central Zhuang",
         "Western Guangnan"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

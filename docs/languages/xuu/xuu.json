@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "xuu",
-    "pk": 7086,
     "lc": "xuu",
     "gw": false,
-    "ln": "Kxoe",
-    "ld": "ltr",
-    "ang": "Khwe",
+    "ISO-639-3": "xuu",
     "hc": "NA",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Khwe",
+    "pk": 7086,
     "cc": [
         "ZM",
         "NA"
     ],
+    "lr": "Africa",
+    "ln": "Kxoe",
     "alt": [
         "!Hukwe",
         "Black Bushman",
@@ -46,5 +46,5 @@
         "||Ani",
         "Boga"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ubu",
-    "pk": 6472,
     "lc": "ubu",
     "gw": false,
-    "ln": "Umbu-Ungu",
-    "ld": "ltr",
-    "ang": "Umbu-Ungu",
+    "ISO-639-3": "ubu",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Umbu-Ungu",
+    "pk": 6472,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Umbu-Ungu",
     "alt": [
         "Gawigl",
         "Gawil",
@@ -23,5 +23,5 @@
         "Umbu Ungu",
         "Kala (Mendo-Kala)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

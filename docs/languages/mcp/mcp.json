@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mcp",
-    "pk": 3717,
     "lc": "mcp",
     "gw": false,
-    "ln": "Makaa",
-    "ld": "ltr",
-    "ang": "Makaa",
+    "ISO-639-3": "mcp",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Makaa",
+    "pk": 3717,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Makaa",
     "alt": [
         "Mekaa",
         "South Makaa",
@@ -22,5 +22,5 @@
         "Besep",
         "Bewil"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

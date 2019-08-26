@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "itr",
-    "pk": 2539,
     "lc": "itr",
     "gw": false,
-    "ln": "Iteri",
-    "ld": "ltr",
-    "ang": "Iteri",
+    "ISO-639-3": "itr",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Iteri",
+    "pk": 2539,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Iteri",
     "alt": [
         "Alowiemino",
         "Iyo",
@@ -18,5 +18,5 @@
         "Rocky Peak",
         "Yinibu"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

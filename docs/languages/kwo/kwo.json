@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "kwo",
-    "pk": 3249,
     "lc": "kwo",
     "gw": false,
-    "ln": "Kwomtari",
-    "ld": "ltr",
-    "ang": "Kwomtari",
+    "ISO-639-3": "kwo",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Kwomtari",
+    "pk": 3249,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Kwomtari",
     "alt": [
         "Eastern Kwomtari",
         "Western Kwomtari",
         "Central Kwomtari"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

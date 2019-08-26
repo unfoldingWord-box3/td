@@ -1,22 +1,22 @@
 {
-    "ISO-639-3": "moj",
-    "pk": 4006,
     "lc": "moj",
     "gw": false,
-    "ln": "Monzombo",
-    "ld": "ltr",
-    "ang": "Monzombo",
+    "ISO-639-3": "moj",
     "hc": "CG",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Monzombo",
+    "pk": 4006,
     "cc": [
         "CF",
         "CG"
     ],
+    "lr": "Africa",
+    "ln": "Monzombo",
     "alt": [
         "Mono-Jembo",
         "Monzumbo",
         "Mondjembo",
         "Munzombo"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

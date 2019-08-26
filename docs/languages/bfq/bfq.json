@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bfq",
-    "pk": 625,
     "lc": "bfq",
     "gw": false,
-    "ln": "Badaga",
-    "ld": "ltr",
-    "ang": "Badaga",
+    "ISO-639-3": "bfq",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "ta",
+    "ang": "Badaga",
+    "pk": 625,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Badaga",
     "alt": [
         "Badag",
         "Badagu",
@@ -18,5 +18,5 @@
         "Badugu",
         "Vadagu"
     ],
-    "gwcode": "ta"
+    "ld": "ltr"
 }

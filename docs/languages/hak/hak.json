@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "hak",
-    "pk": 2228,
     "lc": "hak",
     "gw": false,
-    "ln": "\u5ba2\u5bb6\u8a9e",
-    "ld": "ltr",
-    "ang": "Chinese, Hakka",
+    "ISO-639-3": "hak",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Chinese, Hakka",
+    "pk": 2228,
     "cc": [
         "CN",
         "GF",
@@ -24,6 +22,8 @@
         "SG",
         "SR"
     ],
+    "lr": "Asia",
+    "ln": "\u5ba2\u5bb6\u8a9e",
     "alt": [
         "Hokka",
         "Ke",
@@ -50,5 +50,5 @@
         "Changting",
         "Raoping"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nsz",
-    "pk": 4661,
     "lc": "nsz",
     "gw": false,
-    "ln": "Nisenan",
-    "ld": "ltr",
-    "ang": "Nisenan",
+    "ISO-639-3": "nsz",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Nisenan",
+    "pk": 4661,
     "cc": [
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Nisenan",
     "alt": [
         "Neeshenam",
         "Nishinam",
@@ -18,5 +18,5 @@
         "Southern Maidu",
         "Wapumni"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

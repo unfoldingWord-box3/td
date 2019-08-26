@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tdg",
-    "pk": 6036,
     "lc": "tdg",
     "gw": false,
-    "ln": "Western Tamang",
-    "ld": "ltr",
-    "ang": "Tamang, Western",
+    "ISO-639-3": "tdg",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Tamang, Western",
+    "pk": 6036,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Western Tamang",
     "alt": [
         "Murmi",
         "Sain",
@@ -19,5 +19,5 @@
         "Southwestern dialect of Western Tamang",
         "Trisuli (Nuwakot)"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

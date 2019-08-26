@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "zty",
-    "pk": 7486,
     "lc": "zty",
     "gw": false,
-    "ln": "Yatee Zapotec",
-    "ld": "ltr",
-    "ang": "Zapotec, Yatee",
+    "ISO-639-3": "zty",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Zapotec, Yatee",
+    "pk": 7486,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Yatee Zapotec",
     "alt": [
         "Zapoteco de Yatee",
         "Yatee Zapotec (Zapoteco de Yatee)",
         "Lachirioag Zapotec (Lachiruaj Zapotec)",
         "San Crist\u00f3bal Lachiruaj Zapotec"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

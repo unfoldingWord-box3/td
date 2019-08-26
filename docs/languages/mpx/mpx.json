@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mpx",
-    "pk": 4043,
     "lc": "mpx",
     "gw": false,
-    "ln": "Misima-Panaeati",
-    "ld": "ltr",
-    "ang": "Misima-Panaeati",
+    "ISO-639-3": "mpx",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Misima-Panaeati",
+    "pk": 4043,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Misima-Panaeati",
     "alt": [
         "Misiman",
         "Misima-Paneati",
@@ -21,5 +21,5 @@
         "Paneyate",
         "Nasikwabw (Tokunu)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

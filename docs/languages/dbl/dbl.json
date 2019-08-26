@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dbl",
-    "pk": 1449,
     "lc": "dbl",
     "gw": false,
-    "ln": "Dyirbal",
-    "ld": "ltr",
-    "ang": "Dyirbal",
+    "ISO-639-3": "dbl",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Dyirbal",
+    "pk": 1449,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Dyirbal",
     "alt": [
         "Djirubal",
         "Dyiru",
@@ -19,5 +19,5 @@
         "Mamu",
         "Ngadjan (Ngatjan)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nuf",
-    "pk": 4679,
     "lc": "nuf",
     "gw": false,
-    "ln": "\u6012\u82cf\u8bed",
-    "ld": "ltr",
-    "ang": "Nusu",
+    "ISO-639-3": "nuf",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Nusu",
+    "pk": 4679,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u6012\u82cf\u8bed",
     "alt": [
         "Nang Tsu",
         "No Tso",
@@ -26,5 +26,5 @@
         "Tuoping",
         "Yuoduoluo"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

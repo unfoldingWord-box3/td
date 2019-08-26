@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "mnw",
-    "pk": 3995,
     "lc": "mnw",
     "gw": false,
-    "ln": "Mon",
-    "ld": "ltr",
-    "ang": "Mon",
+    "ISO-639-3": "mnw",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Mon",
+    "pk": 3995,
     "cc": [
         "TH",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Mon",
     "alt": [
         "Aleng",
         "Mou",
@@ -30,5 +30,5 @@
         "Northern Mon",
         "Ye (Mon Nya)"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

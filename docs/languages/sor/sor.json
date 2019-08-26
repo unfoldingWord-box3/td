@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sor",
-    "pk": 5764,
     "lc": "sor",
     "gw": false,
-    "ln": "Somrai",
-    "ld": "ltr",
-    "ang": "Somrai",
+    "ISO-639-3": "sor",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Somrai",
+    "pk": 5764,
     "cc": [
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Somrai",
     "alt": [
         "Sibine",
         "Somray",
@@ -20,5 +20,5 @@
         "Sounrai",
         "Sumrai"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

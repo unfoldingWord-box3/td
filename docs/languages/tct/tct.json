@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "tct",
-    "pk": 6024,
     "lc": "tct",
     "gw": false,
-    "ln": "\u4f6f\u50d9\u8bed",
-    "ld": "ltr",
-    "ang": "T\u2019en",
+    "ISO-639-3": "tct",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "T\u2019en",
+    "pk": 6024,
     "cc": [
         "CN",
         "LA"
     ],
+    "lr": "Asia",
+    "ln": "\u4f6f\u50d9\u8bed",
     "alt": [
         "Rao",
         "Rau",
@@ -22,5 +22,5 @@
         "Hedong",
         "Hexi"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

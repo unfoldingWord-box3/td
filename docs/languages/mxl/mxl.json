@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "mxl",
-    "pk": 4225,
     "lc": "mxl",
     "gw": false,
-    "ln": "Maxi Gbe",
-    "ld": "ltr",
-    "ang": "Gbe, Maxi",
+    "ISO-639-3": "mxl",
     "hc": "BJ",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Gbe, Maxi",
+    "pk": 4225,
     "cc": [
         "BJ",
         "TG"
     ],
+    "lr": "Africa",
+    "ln": "Maxi Gbe",
     "alt": [
         "Maxi",
         "Maxi-Gbe"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

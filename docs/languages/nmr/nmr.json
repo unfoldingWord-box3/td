@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nmr",
-    "pk": 4550,
     "lc": "nmr",
     "gw": false,
-    "ln": "Nimbari",
-    "ld": "ltr",
-    "ang": "Nimbari",
+    "ISO-639-3": "nmr",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Nimbari",
+    "pk": 4550,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Nimbari",
     "alt": [
         "Bari",
         "Niamniam",
@@ -18,5 +18,5 @@
         "Nyamnyam",
         "Nyam-Nyam du Mayo-Kebi"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

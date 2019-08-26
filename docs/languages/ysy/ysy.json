@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ysy",
-    "pk": 7286,
     "lc": "ysy",
     "gw": false,
-    "ln": "\u767d\u5f5d",
-    "ld": "ltr",
-    "ang": "Sanie",
+    "ISO-639-3": "ysy",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Sanie",
+    "pk": 7286,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u767d\u5f5d",
     "alt": [
         "Bai Lolo",
         "Bai Yi",
@@ -20,5 +20,5 @@
         "Shaniepu",
         "White Yi"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

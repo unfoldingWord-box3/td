@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "tsj",
-    "pk": 6332,
     "lc": "tsj",
     "gw": false,
-    "ln": "Tshangla",
-    "ld": "ltr",
-    "ang": "Tshangla",
+    "ISO-639-3": "tsj",
     "hc": "BT",
-    "lr": "Asia",
+    "gwcode": "dz",
+    "ang": "Tshangla",
+    "pk": 6332,
     "cc": [
         "CN",
         "BT"
     ],
+    "lr": "Asia",
+    "ln": "Tshangla",
     "alt": [
         "Menba",
         "Monpa",
@@ -33,5 +33,5 @@
         "Motuo",
         "Sharchopkha"
     ],
-    "gwcode": "dz"
+    "ld": "ltr"
 }

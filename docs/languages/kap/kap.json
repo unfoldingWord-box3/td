@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kap",
-    "pk": 2706,
     "lc": "kap",
     "gw": false,
-    "ln": "\u0411\u0435\u0436\u0442\u0438\u043d\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Bezhta",
+    "ISO-639-3": "kap",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Bezhta",
+    "pk": 2706,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u0411\u0435\u0436\u0442\u0438\u043d\u0441\u043a\u0438\u0439",
     "alt": [
         "Bazht'",
         "Bazht'al",
@@ -29,5 +29,5 @@
         "Kupuca",
         "Bezhta proper"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

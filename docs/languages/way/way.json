@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "way",
-    "pk": 6687,
     "lc": "way",
     "gw": false,
-    "ln": "Wayana",
-    "ld": "ltr",
-    "ang": "Wayana",
+    "ISO-639-3": "way",
     "hc": "SR",
-    "lr": "Americas",
+    "gwcode": "nl",
+    "ang": "Wayana",
+    "pk": 6687,
     "cc": [
         "BR",
         "GF",
         "SR"
     ],
+    "lr": "Americas",
+    "ln": "Wayana",
     "alt": [
         "Alukuyana",
         "Oayana",
@@ -27,5 +27,5 @@
         "Rucuyen (Roucouyenne)",
         "Urucuiana (Urucena)"
     ],
-    "gwcode": "nl"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "dup",
-    "pk": 1665,
     "lc": "dup",
     "gw": false,
-    "ln": "Duano",
-    "ld": "ltr",
-    "ang": "Duano",
+    "ISO-639-3": "dup",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Duano",
+    "pk": 1665,
     "cc": [
         "ID",
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Duano",
     "alt": [
         "Desin Dolak",
         "Desin Duano",
@@ -19,5 +19,5 @@
         "Orang Kuala",
         "Orang Laut"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

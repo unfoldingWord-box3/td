@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mzq",
-    "pk": 4277,
     "lc": "mzq",
     "gw": false,
-    "ln": "Mori Atas",
-    "ld": "ltr",
-    "ang": "Mori Atas",
+    "ISO-639-3": "mzq",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Mori Atas",
+    "pk": 4277,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Mori Atas",
     "alt": [
         "Berg-Tomori",
         "Boven-Mori",
@@ -25,5 +25,5 @@
         "Impo",
         "South Mori"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

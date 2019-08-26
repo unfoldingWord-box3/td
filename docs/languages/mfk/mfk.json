@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mfk",
-    "pk": 3787,
     "lc": "mfk",
     "gw": false,
-    "ln": "North Mofu",
-    "ld": "ltr",
-    "ang": "Mofu, North",
+    "ISO-639-3": "mfk",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Mofu, North",
+    "pk": 3787,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "North Mofu",
     "alt": [
         "Douvangar",
         "Mofu-Douvangar",
@@ -19,5 +19,5 @@
         "Wazan (Wazang)",
         "Mofu de Douroum"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

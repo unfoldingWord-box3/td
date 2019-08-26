@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tvd",
-    "pk": 6393,
     "lc": "tvd",
     "gw": false,
-    "ln": "Tsuvadi",
-    "ld": "ltr",
-    "ang": "Tsuvadi",
+    "ISO-639-3": "tvd",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Tsuvadi",
+    "pk": 6393,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Tsuvadi",
     "alt": [
         "Abadi",
         "Avadi",
@@ -20,5 +20,5 @@
         "Tsuvadi-Agadi",
         "Tsuvadi-Azozolo"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

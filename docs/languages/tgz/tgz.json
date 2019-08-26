@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tgz",
-    "pk": 6099,
     "lc": "tgz",
     "gw": false,
-    "ln": "Tagalaka",
-    "ld": "ltr",
-    "ang": "Tagalaka",
+    "ISO-639-3": "tgz",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Tagalaka",
+    "pk": 6099,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Tagalaka",
     "alt": [
         "Da:galag",
         "Dagalang",
@@ -18,5 +18,5 @@
         "Targa-lag",
         "Tarkalag"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

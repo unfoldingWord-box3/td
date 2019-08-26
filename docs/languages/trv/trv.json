@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "trv",
-    "pk": 6319,
     "lc": "trv",
     "gw": false,
-    "ln": "Taroko",
-    "ld": "ltr",
-    "ang": "Taroko",
+    "ISO-639-3": "trv",
     "hc": "TW",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Taroko",
+    "pk": 6319,
     "cc": [
         "TW"
     ],
+    "lr": "Asia",
+    "ln": "Taroko",
     "alt": [
         "Bu-Hwan",
         "Che-Hwan",
@@ -38,5 +38,5 @@
         "Tkdaya",
         "Tekedaya (Paran)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

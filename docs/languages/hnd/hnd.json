@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "hnd",
-    "pk": 2315,
     "lc": "hnd",
     "gw": false,
-    "ln": "\u06c1\u0646\u062f\u06a9\u0648",
-    "ld": "ltr",
-    "ang": "Hindko, Southern",
+    "ISO-639-3": "hnd",
     "hc": "PK",
-    "lr": "Asia",
+    "gwcode": "ur",
+    "ang": "Hindko, Southern",
+    "pk": 2315,
     "cc": [
         "PK"
     ],
+    "lr": "Asia",
+    "ln": "\u06c1\u0646\u062f\u06a9\u0648",
     "alt": [
         "Attock Hindko (Attock-Haripur Hindko)",
         "Kohat Hindko (Kohati)",
         "Peshawar Hindko (Peshawari)"
     ],
-    "gwcode": "ur"
+    "ld": "ltr"
 }

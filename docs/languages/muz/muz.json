@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "muz",
-    "pk": 4168,
     "lc": "muz",
     "gw": false,
-    "ln": "Mursi",
-    "ld": "ltr",
-    "ang": "Mursi",
+    "ISO-639-3": "muz",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Mursi",
+    "pk": 4168,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Mursi",
     "alt": [
         "Dama",
         "Merdu",
@@ -18,5 +18,5 @@
         "Murzi",
         "Murzu"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

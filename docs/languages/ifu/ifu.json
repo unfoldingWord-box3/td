@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "ifu",
-    "pk": 2435,
     "lc": "ifu",
     "gw": false,
-    "ln": "Mayoyao Ifugao",
-    "ld": "ltr",
-    "ang": "Ifugao, Mayoyao",
+    "ISO-639-3": "ifu",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "ilo",
+    "ang": "Ifugao, Mayoyao",
+    "pk": 2435,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Mayoyao Ifugao",
     "alt": [
         "Ifugaw",
         "Mayaoyaw",
         "Mayoyao"
     ],
-    "gwcode": "ilo"
+    "ld": "ltr"
 }

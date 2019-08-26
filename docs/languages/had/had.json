@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "had",
-    "pk": 2221,
     "lc": "had",
     "gw": false,
-    "ln": "Hatam",
-    "ld": "ltr",
-    "ang": "Hatam",
+    "ISO-639-3": "had",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Hatam",
+    "pk": 2221,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Hatam",
     "alt": [
         "Atam",
         "Borai",
@@ -19,5 +19,5 @@
         "Moi",
         "Moi (Moire)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

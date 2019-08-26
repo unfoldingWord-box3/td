@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "byh",
-    "pk": 1069,
     "lc": "byh",
     "gw": false,
-    "ln": "\u092d\u0941\u091c\u0947\u0932",
-    "ld": "ltr",
-    "ang": "Bhujel",
+    "ISO-639-3": "byh",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Bhujel",
+    "pk": 1069,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "\u092d\u0941\u091c\u0947\u0932",
     "alt": [
         "Bujal",
         "Bujhel",
@@ -26,5 +26,5 @@
         "Arthumpka",
         "Chanaute"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

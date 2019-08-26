@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "aly",
-    "pk": 232,
     "lc": "aly",
     "gw": false,
-    "ln": "Alyawarr",
-    "ld": "ltr",
-    "ang": "Alyawarr",
+    "ISO-639-3": "aly",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Alyawarr",
+    "pk": 232,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Alyawarr",
     "alt": [
         "Aljawara",
         "Alyawarra",
@@ -18,5 +18,5 @@
         "Iliaura",
         "Yowera"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

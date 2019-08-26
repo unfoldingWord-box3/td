@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "raw",
-    "pk": 5326,
     "lc": "raw",
     "gw": false,
-    "ln": "Rawang",
-    "ld": "ltr",
-    "ang": "Rawang",
+    "ISO-639-3": "raw",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Rawang",
+    "pk": 5326,
     "cc": [
         "CN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Rawang",
     "alt": [
         "Chiutse",
         "Ch'opa",
@@ -31,5 +31,5 @@
         "Drung",
         "Daru-Jerwang"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

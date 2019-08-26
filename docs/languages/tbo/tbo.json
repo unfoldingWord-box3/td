@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tbo",
-    "pk": 5997,
     "lc": "tbo",
     "gw": false,
-    "ln": "Tawala",
-    "ld": "ltr",
-    "ang": "Tawala",
+    "ISO-639-3": "tbo",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Tawala",
+    "pk": 5997,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Tawala",
     "alt": [
         "Tavara",
         "Tawara",
@@ -27,5 +27,5 @@
         "Wagawaga",
         "Yaleba (Ealeba)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

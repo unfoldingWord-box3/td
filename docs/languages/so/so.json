@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "som",
-    "pk": 5749,
     "lc": "so",
     "gw": false,
-    "ln": "Soomaaliga, af Soomaali",
-    "ld": "ltr",
-    "ang": "Somali",
+    "ISO-639-3": "som",
     "hc": "SO",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Somali",
+    "pk": 5749,
     "cc": [
         "DJ",
         "ER",
@@ -25,6 +23,8 @@
         "SO",
         "AE"
     ],
+    "lr": "Africa",
+    "ln": "Soomaaliga, af Soomaali",
     "alt": [
         "Common Somali",
         "Standard Somali",
@@ -35,5 +35,5 @@
         "Af-Ashraaf (Ashraaf)",
         "Issa"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

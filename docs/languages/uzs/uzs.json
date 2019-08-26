@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "uzs",
-    "pk": 6579,
     "lc": "uzs",
     "gw": false,
-    "ln": "\u0627\u0632\u0628\u06d0\u06a9 \u062a\u06cc\u0644\u06cc",
-    "ld": "ltr",
-    "ang": "Uzbek, Southern",
+    "ISO-639-3": "uzs",
     "hc": "AF",
-    "lr": "Asia",
+    "gwcode": "ps",
+    "ang": "Uzbek, Southern",
+    "pk": 6579,
     "cc": [
         "AZ",
         "AF",
@@ -15,10 +13,12 @@
         "TR",
         "US"
     ],
+    "lr": "Asia",
+    "ln": "\u0627\u0632\u0628\u06d0\u06a9 \u062a\u06cc\u0644\u06cc",
     "alt": [
         "Usbeki",
         "Uzbak",
         "Uzbeki"
     ],
-    "gwcode": "ps"
+    "ld": "ltr"
 }

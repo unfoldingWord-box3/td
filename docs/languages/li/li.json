@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lim",
-    "pk": 3453,
     "lc": "li",
     "gw": false,
-    "ln": "Limburgs",
-    "ld": "ltr",
-    "ang": "Limburgish, Limburgan, Limburger",
+    "ISO-639-3": "lim",
     "hc": "NL",
-    "lr": "Europe",
+    "gwcode": "nl",
+    "ang": "Limburgish, Limburgan, Limburger",
+    "pk": 3453,
     "cc": [
         "NL"
     ],
+    "lr": "Europe",
+    "ln": "Limburgs",
     "alt": [
         "Limberger",
         "Limburgan",
@@ -19,5 +19,5 @@
         "Limburgs",
         "Limburgs Plat"
     ],
-    "gwcode": "nl"
+    "ld": "ltr"
 }

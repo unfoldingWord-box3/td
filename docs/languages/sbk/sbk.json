@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sbk",
-    "pk": 5489,
     "lc": "sbk",
     "gw": false,
-    "ln": "Safwa",
-    "ld": "ltr",
-    "ang": "Safwa",
+    "ISO-639-3": "sbk",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Safwa",
+    "pk": 5489,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Safwa",
     "alt": [
         "Cisafwa",
         "Ishisafwa",
@@ -20,5 +20,5 @@
         "Central Safwa",
         "Guruka (Shisafwa)"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

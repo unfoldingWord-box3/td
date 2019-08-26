@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "chd",
-    "pk": 1192,
     "lc": "chd",
     "gw": false,
-    "ln": "Highland Oaxaca Chontal",
-    "ld": "ltr",
-    "ang": "Chontal, Highland Oaxaca",
+    "ISO-639-3": "chd",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Chontal, Highland Oaxaca",
+    "pk": 1192,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Highland Oaxaca Chontal",
     "alt": [
         "Chontal de la Sierra de Oaxaca",
         "Tequistlatec",
         "Chontal de Oaxaca bajo",
         "Chontal de Oaxaca alto"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

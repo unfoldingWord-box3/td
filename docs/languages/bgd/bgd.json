@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bgd",
-    "pk": 638,
     "lc": "bgd",
     "gw": false,
-    "ln": "Rathwi Bareli",
-    "ld": "ltr",
-    "ang": "Bareli, Rathwi",
+    "ISO-639-3": "bgd",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Bareli, Rathwi",
+    "pk": 638,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Rathwi Bareli",
     "alt": [
         "Barel",
         "Pauri",
@@ -19,5 +19,5 @@
         "Rathi",
         "Rathia"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

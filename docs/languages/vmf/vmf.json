@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "vmf",
-    "pk": 6632,
     "lc": "vmf",
     "gw": false,
-    "ln": "Mainfr\u00e4nkisch",
-    "ld": "ltr",
-    "ang": "Mainfr\u00e4nkisch",
+    "ISO-639-3": "vmf",
     "hc": "DE",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Mainfr\u00e4nkisch",
+    "pk": 6632,
     "cc": [
         "DE"
     ],
+    "lr": "Europe",
+    "ln": "Mainfr\u00e4nkisch",
     "alt": [
         "Franconian, Eastern",
         "Ostfr\u00e4nkisch",
@@ -18,5 +18,5 @@
         "Eastern",
         "Franconian"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

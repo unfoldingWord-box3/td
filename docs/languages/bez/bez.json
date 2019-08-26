@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bez",
-    "pk": 608,
     "lc": "bez",
     "gw": false,
-    "ln": "Bena (Tanzania)",
-    "ld": "ltr",
-    "ang": "Bena",
+    "ISO-639-3": "bez",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Bena",
+    "pk": 608,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Bena (Tanzania)",
     "alt": [
         "Ekibena",
         "Ikibena",
@@ -27,5 +27,5 @@
         "Ilembula",
         "Kilavungi (Kilavagi)"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

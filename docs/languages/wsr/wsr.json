@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "wsr",
-    "pk": 6824,
     "lc": "wsr",
     "gw": false,
-    "ln": "Owenia",
-    "ld": "ltr",
-    "ang": "Owenia",
+    "ISO-639-3": "wsr",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Owenia",
+    "pk": 6824,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Owenia",
     "alt": [
         "Owena",
         "Owenda",
         "Waijara",
         "Waisara"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

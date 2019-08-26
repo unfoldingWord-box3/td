@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "cly",
-    "pk": 1260,
     "lc": "cly",
     "gw": false,
-    "ln": "Eastern Highland Chatino",
-    "ld": "ltr",
-    "ang": "Chatino, Eastern Highland",
+    "ISO-639-3": "cly",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Chatino, Eastern Highland",
+    "pk": 1260,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Eastern Highland Chatino",
     "alt": [
         "Chatino de la Zona Alta Oriental",
         "Chatino Oriental Alto",
         "Lachao-Yolotepec Chatino",
         "Sierra Oriental Chatino"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

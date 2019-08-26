@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "zao",
-    "pk": 7344,
     "lc": "zao",
     "gw": false,
-    "ln": "Ozolotepec Zapotec",
-    "ld": "ltr",
-    "ang": "Zapotec, Ozolotepec",
+    "ISO-639-3": "zao",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Zapotec, Ozolotepec",
+    "pk": 7344,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Ozolotepec Zapotec",
     "alt": [
         "Zapoteco de Ozolotepec",
         "San Marcial Ozolotepec Zapotec",
         "San Gregorio Ozolotepec Zapotec"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

@@ -1,23 +1,23 @@
 {
-    "ISO-639-3": "tab",
-    "pk": 5964,
     "lc": "tab",
     "gw": false,
-    "ln": "\u0422\u0430\u0431\u0430\u0441\u0430\u0440\u0430\u043d\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Tabassaran",
+    "ISO-639-3": "tab",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Tabassaran",
+    "pk": 5964,
     "cc": [
         "AZ",
         "RU",
         "TM"
     ],
+    "lr": "Europe",
+    "ln": "\u0422\u0430\u0431\u0430\u0441\u0430\u0440\u0430\u043d\u0441\u043a\u0438\u0439",
     "alt": [
         "Ghumghum",
         "Tabasaran",
         "Tabasarantsy",
         "North Tabasaran (Khanag)"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

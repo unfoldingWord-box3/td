@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dav",
-    "pk": 1437,
     "lc": "dav",
     "gw": false,
-    "ln": "Taita",
-    "ld": "ltr",
-    "ang": "Dawida",
+    "ISO-639-3": "dav",
     "hc": "KE",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Dawida",
+    "pk": 1437,
     "cc": [
         "KE"
     ],
+    "lr": "Africa",
+    "ln": "Taita",
     "alt": [
         "Dabida",
         "Davida",
@@ -19,5 +19,5 @@
         "Teita",
         "Kasigau"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

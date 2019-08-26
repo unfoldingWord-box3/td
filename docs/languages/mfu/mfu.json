@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mfu",
-    "pk": 3797,
     "lc": "mfu",
     "gw": false,
-    "ln": "Mbwela",
-    "ld": "ltr",
-    "ang": "Mbwela",
+    "ISO-639-3": "mfu",
     "hc": "AO",
-    "lr": "Africa",
+    "gwcode": "pt",
+    "ang": "Mbwela",
+    "pk": 3797,
     "cc": [
         "AO"
     ],
+    "lr": "Africa",
+    "ln": "Mbwela",
     "alt": [
         "Ambuela",
         "Ambuella",
@@ -18,5 +18,5 @@
         "Mbwera",
         "Shimbwera"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

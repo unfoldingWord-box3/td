@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ers",
-    "pk": 1773,
     "lc": "ers",
     "gw": false,
-    "ln": "\u5c14\u82cf",
-    "ld": "ltr",
-    "ang": "Ersu",
+    "ISO-639-3": "ers",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Ersu",
+    "pk": 1773,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u5c14\u82cf",
     "alt": [
         "Bu'erci",
         "Bu'erzi",
@@ -26,5 +26,5 @@
         "Duoxu (Central Ersu)",
         "Lisu (Liru)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

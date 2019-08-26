@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "alz",
-    "pk": 233,
     "lc": "alz",
     "gw": false,
-    "ln": "Alur",
-    "ld": "ltr",
-    "ang": "Alur",
+    "ISO-639-3": "alz",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Alur",
+    "pk": 233,
     "cc": [
         "CD",
         "UG"
     ],
+    "lr": "Africa",
+    "ln": "Alur",
     "alt": [
         "Ngora",
         "Aloro",
@@ -22,5 +22,5 @@
         "Lur",
         "Luri"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

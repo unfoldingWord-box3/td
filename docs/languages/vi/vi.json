@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "vie",
-    "pk": 6609,
     "lc": "vi",
     "gw": true,
-    "ln": "Ti\u1ebfng Vi\u1ec7t",
-    "ld": "ltr",
-    "ang": "Vietnamese",
+    "ISO-639-3": "vie",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": null,
+    "ang": "Vietnamese",
+    "pk": 6609,
     "cc": [
         "CN",
         "FR",
@@ -29,6 +27,8 @@
         "MQ",
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Ti\u1ebfng Vi\u1ec7t",
     "alt": [
         "Annamese",
         "Ching",
@@ -40,5 +40,5 @@
         "Northern Vietnamese (Hanoi)",
         "Southern Vietnamese"
     ],
-    "gwcode": null
+    "ld": "ltr"
 }

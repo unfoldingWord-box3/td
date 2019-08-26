@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tci",
-    "pk": 6015,
     "lc": "tci",
     "gw": false,
-    "ln": "W\u00e1ra",
-    "ld": "ltr",
-    "ang": "W\u00e1ra",
+    "ISO-639-3": "tci",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "W\u00e1ra",
+    "pk": 6015,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "W\u00e1ra",
     "alt": [
         "Ara",
         "Kamindjo",
@@ -26,5 +26,5 @@
         "W\u00e1ra",
         "Anta"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

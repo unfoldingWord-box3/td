@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ulm",
-    "pk": 6512,
     "lc": "ulm",
     "gw": false,
-    "ln": "Ulumanda'",
-    "ld": "ltr",
-    "ang": "Ulumanda\u2019",
+    "ISO-639-3": "ulm",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Ulumanda\u2019",
+    "pk": 6512,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Ulumanda'",
     "alt": [
         "Awo-Sumakuyu",
         "Botteng-Tappalang",
@@ -20,5 +20,5 @@
         "Ulumandak",
         "Ulunda"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

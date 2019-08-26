@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tdr",
-    "pk": 6045,
     "lc": "tdr",
     "gw": false,
-    "ln": "T\u01a1-\u0111r\u00e1",
-    "ld": "ltr",
-    "ang": "Todrah",
+    "ISO-639-3": "tdr",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Todrah",
+    "pk": 6045,
     "cc": [
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "T\u01a1-\u0111r\u00e1",
     "alt": [
         "Didra",
         "Didrah",
@@ -19,5 +19,5 @@
         "Podra",
         "Todr\u00e1"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

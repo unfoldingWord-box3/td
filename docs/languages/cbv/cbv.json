@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cbv",
-    "pk": 1147,
     "lc": "cbv",
     "gw": false,
-    "ln": "Cacua",
-    "ld": "ltr",
-    "ang": "Cacua",
+    "ISO-639-3": "cbv",
     "hc": "CO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Cacua",
+    "pk": 1147,
     "cc": [
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Cacua",
     "alt": [
         "B\u00e1da",
         "Cakua",
@@ -22,5 +22,5 @@
         "Mac\u00fa-Paran\u00e1",
         "Wacara"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

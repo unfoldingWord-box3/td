@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "yrl",
-    "pk": 7272,
     "lc": "yrl",
     "gw": false,
-    "ln": "Nhengatu",
-    "ld": "ltr",
-    "ang": "Nhengatu",
+    "ISO-639-3": "yrl",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Nhengatu",
+    "pk": 7272,
     "cc": [
         "BR"
     ],
+    "lr": "Americas",
+    "ln": "Nhengatu",
     "alt": [
         "Coastal Tupian",
         "Geral",
@@ -24,5 +24,5 @@
         "Yeral",
         "Modern Tupi"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

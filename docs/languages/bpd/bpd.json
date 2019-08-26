@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bpd",
-    "pk": 855,
     "lc": "bpd",
     "gw": false,
-    "ln": "Banda-Banda",
-    "ld": "ltr",
-    "ang": "Banda-Banda",
+    "ISO-639-3": "bpd",
     "hc": "CF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Banda-Banda",
+    "pk": 855,
     "cc": [
         "CF",
         "SS"
     ],
+    "lr": "Africa",
+    "ln": "Banda-Banda",
     "alt": [
         "Mbi (Mbiyi)",
         "Vidri",
@@ -25,5 +25,5 @@
         "Govoro (Govhoroh)",
         "Banda of Bria"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

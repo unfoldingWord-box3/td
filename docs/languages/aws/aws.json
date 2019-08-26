@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "aws",
-    "pk": 447,
     "lc": "aws",
     "gw": false,
-    "ln": "South Awyu",
-    "ld": "ltr",
-    "ang": "Awyu, South",
+    "ISO-639-3": "aws",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Awyu, South",
+    "pk": 447,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "South Awyu",
     "alt": [
         "Jenimu",
         "Oser",
@@ -19,5 +19,5 @@
         "Syiagha",
         "Yenimu"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

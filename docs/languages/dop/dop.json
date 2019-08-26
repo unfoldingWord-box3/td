@@ -1,22 +1,22 @@
 {
-    "ISO-639-3": "dop",
-    "pk": 1604,
     "lc": "dop",
     "gw": false,
-    "ln": "Lukpa",
-    "ld": "ltr",
-    "ang": "Lukpa",
+    "ISO-639-3": "dop",
     "hc": "BJ",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Lukpa",
+    "pk": 1604,
     "cc": [
         "BJ",
         "TG"
     ],
+    "lr": "Africa",
+    "ln": "Lukpa",
     "alt": [
         "Legba",
         "Logba",
         "Lokpa",
         "Lugba"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

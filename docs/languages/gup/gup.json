@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gup",
-    "pk": 2166,
     "lc": "gup",
     "gw": false,
-    "ln": "Gunwinggu",
-    "ld": "ltr",
-    "ang": "Gunwinggu",
+    "ISO-639-3": "gup",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Gunwinggu",
+    "pk": 2166,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Gunwinggu",
     "alt": [
         "Gunawitji",
         "Gunwinjgu",
@@ -18,5 +18,5 @@
         "Mayali",
         "Gunei (Kune)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

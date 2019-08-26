@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "nsk",
-    "pk": 4646,
     "lc": "nsk",
     "gw": false,
-    "ln": "Naskapi",
-    "ld": "ltr",
-    "ang": "Naskapi",
+    "ISO-639-3": "nsk",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Naskapi",
+    "pk": 4646,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Naskapi",
     "alt": [
         "Innu Aimun",
         "Iyuw Iyimuuun",
         "Eastern Naskapi (Natuashish)",
         "Western Naskapi (Kawawachikamach)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

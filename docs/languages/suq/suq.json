@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "suq",
-    "pk": 5884,
     "lc": "suq",
     "gw": false,
-    "ln": "Suri",
-    "ld": "ltr",
-    "ang": "Suri",
+    "ISO-639-3": "suq",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Suri",
+    "pk": 5884,
     "cc": [
         "ET",
         "SS"
     ],
+    "lr": "Africa",
+    "ln": "Suri",
     "alt": [
         "Churi",
         "Dhuri",
@@ -28,5 +28,5 @@
         "Cai",
         "Terema"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

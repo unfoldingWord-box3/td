@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bmq",
-    "pk": 796,
     "lc": "bmq",
     "gw": false,
-    "ln": "Bomu",
-    "ld": "ltr",
-    "ang": "Bomu",
+    "ISO-639-3": "bmq",
     "hc": "ML",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Bomu",
+    "pk": 796,
     "cc": [
         "BF",
         "ML"
     ],
+    "lr": "Africa",
+    "ln": "Bomu",
     "alt": [
         "Bobo Oule",
         "Boomu",
@@ -24,5 +24,5 @@
         "Western Red",
         "Mao"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tbg",
-    "pk": 5990,
     "lc": "tbg",
     "gw": false,
-    "ln": "North Tairora",
-    "ld": "ltr",
-    "ang": "Tairora, North",
+    "ISO-639-3": "tbg",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Tairora, North",
+    "pk": 5990,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "North Tairora",
     "alt": [
         "Tairora",
         "Aantantara (Andandara)",
@@ -18,5 +18,5 @@
         "Arau-Varosia (Arau-Barosia)",
         "Arokaara (Arokara)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "alw",
-    "pk": 230,
     "lc": "alw",
     "gw": false,
-    "ln": "Alaba-K\u2019abeena",
-    "ld": "ltr",
-    "ang": "Alaba-K\u2019abeena",
+    "ISO-639-3": "alw",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Alaba-K\u2019abeena",
+    "pk": 230,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Alaba-K\u2019abeena",
     "alt": [
         "K'abeena",
         "Wanbasana (Alaba)",
@@ -20,5 +20,5 @@
         "K'abena",
         "Qebena"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

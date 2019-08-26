@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "vah",
-    "pk": 6584,
     "lc": "vah",
     "gw": false,
-    "ln": "Varhadi-Nagpuri",
-    "ld": "ltr",
-    "ang": "Varhadi-Nagpuri",
+    "ISO-639-3": "vah",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "mr",
+    "ang": "Varhadi-Nagpuri",
+    "pk": 6584,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Varhadi-Nagpuri",
     "alt": [
         "Berar Marathi",
         "Berari",
@@ -21,5 +21,5 @@
         "Kunban (Kohli)",
         "Mahari (Dhedi)"
     ],
-    "gwcode": "mr"
+    "ld": "ltr"
 }

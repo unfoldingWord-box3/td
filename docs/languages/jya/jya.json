@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jya",
-    "pk": 2690,
     "lc": "jya",
     "gw": false,
-    "ln": "\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f62\u0f7c\u0f44",
-    "ld": "ltr",
-    "ang": "Jiarong",
+    "ISO-639-3": "jya",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Jiarong",
+    "pk": 2690,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f62\u0f7c\u0f44",
     "alt": [
         "Chiarong",
         "Gyarong",
@@ -28,5 +28,5 @@
         "Northern Jiarong",
         "Dazang"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

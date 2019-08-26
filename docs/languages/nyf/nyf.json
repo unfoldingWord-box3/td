@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nyf",
-    "pk": 4730,
     "lc": "nyf",
     "gw": false,
-    "ln": "Giryama",
-    "ld": "ltr",
-    "ang": "Kigiryama",
+    "ISO-639-3": "nyf",
     "hc": "KE",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Kigiryama",
+    "pk": 4730,
     "cc": [
         "KE"
     ],
+    "lr": "Africa",
+    "ln": "Giryama",
     "alt": [
         "Agiryama",
         "Giriama",
@@ -21,5 +21,5 @@
         "Kauma (Chikauma)",
         "Ribe (Rihe)"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

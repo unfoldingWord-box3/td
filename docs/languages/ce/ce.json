@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "che",
-    "pk": 1174,
     "lc": "ce",
     "gw": false,
-    "ln": "\u043d\u043e\u0445\u0447\u0438\u0439\u043d \u043c\u043e\u0442\u0442",
-    "ld": "ltr",
-    "ang": "Chechen",
+    "ISO-639-3": "che",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Chechen",
+    "pk": 1174,
     "cc": [
         "AZ",
         "AT",
@@ -22,6 +20,8 @@
         "TM",
         "UZ"
     ],
+    "lr": "Europe",
+    "ln": "\u043d\u043e\u0445\u0447\u0438\u0439\u043d \u043c\u043e\u0442\u0442",
     "alt": [
         "Galancho",
         "Nokchiin Muott",
@@ -29,5 +29,5 @@
         "Akkin (Aux)",
         "Itumkala (Shatoi)"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

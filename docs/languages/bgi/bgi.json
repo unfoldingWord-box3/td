@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bgi",
-    "pk": 642,
     "lc": "bgi",
     "gw": false,
-    "ln": "Giangan",
-    "ld": "ltr",
-    "ang": "Giangan",
+    "ISO-639-3": "bgi",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "ceb",
+    "ang": "Giangan",
+    "pk": 642,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Giangan",
     "alt": [
         "Atto",
         "Bagobo",
@@ -20,5 +20,5 @@
         "Gulanga",
         "Jangan"
     ],
-    "gwcode": "ceb"
+    "ld": "ltr"
 }

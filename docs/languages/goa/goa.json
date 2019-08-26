@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "goa",
-    "pk": 2089,
     "lc": "goa",
     "gw": false,
-    "ln": "Guro",
-    "ld": "ltr",
-    "ang": "Guro",
+    "ISO-639-3": "goa",
     "hc": "CI",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Guro",
+    "pk": 2089,
     "cc": [
         "CI"
     ],
+    "lr": "Africa",
+    "ln": "Guro",
     "alt": [
         "Baba",
         "Dalo",
@@ -20,5 +20,5 @@
         "Kweni",
         "Lo"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

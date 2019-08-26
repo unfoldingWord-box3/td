@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "nun",
-    "pk": 4686,
     "lc": "nun",
     "gw": false,
-    "ln": "\u963f\u4fac\u8bed",
-    "ld": "ltr",
-    "ang": "Anong",
+    "ISO-639-3": "nun",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Anong",
+    "pk": 4686,
     "cc": [
         "CN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "\u963f\u4fac\u8bed",
     "alt": [
         "Anoong",
         "Anu",
@@ -30,5 +30,5 @@
         "Naw",
         "Nawpha"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

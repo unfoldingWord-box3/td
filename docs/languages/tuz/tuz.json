@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tuz",
-    "pk": 6391,
     "lc": "tuz",
     "gw": false,
-    "ln": "Turka",
-    "ld": "ltr",
-    "ang": "Turka",
+    "ISO-639-3": "tuz",
     "hc": "BF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Turka",
+    "pk": 6391,
     "cc": [
         "BF"
     ],
+    "lr": "Africa",
+    "ln": "Turka",
     "alt": [
         "Curama",
         "Cuuram\u00e3",
@@ -19,5 +19,5 @@
         "Turuka",
         "Tyurama"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

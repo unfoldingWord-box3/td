@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "hmi",
-    "pk": 2298,
     "lc": "hmi",
     "gw": false,
-    "ln": "Northern Huishui Hmong",
-    "ld": "ltr",
-    "ang": "Miao, Northern Huishui",
+    "ISO-639-3": "hmi",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Miao, Northern Huishui",
+    "pk": 2298,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "Northern Huishui Hmong",
     "alt": [
         "Northern Huishui Hmong"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

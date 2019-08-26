@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "roh",
-    "pk": 5374,
     "lc": "rm",
     "gw": false,
-    "ln": "rumantsch grischun",
-    "ld": "ltr",
-    "ang": "Romansh",
+    "ISO-639-3": "roh",
     "hc": "CH",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Romansh",
+    "pk": 5374,
     "cc": [
         "CH",
         "IT"
     ],
+    "lr": "Europe",
+    "ln": "rumantsch grischun",
     "alt": [
         "Rhaeto-Romance",
         "Rheto-Romance",
@@ -25,5 +25,5 @@
         "Vallader (Lower Engadine)",
         "Vorderrhein"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

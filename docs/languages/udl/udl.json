@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "udl",
-    "pk": 6478,
     "lc": "udl",
     "gw": false,
-    "ln": "Wuzlam",
-    "ld": "ltr",
-    "ang": "Wuzlam",
+    "ISO-639-3": "udl",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Wuzlam",
+    "pk": 6478,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Wuzlam",
     "alt": [
         "Mizlime",
         "Udlam",
@@ -18,5 +18,5 @@
         "Uzam",
         "Uzlam"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

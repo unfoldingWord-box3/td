@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dba",
-    "pk": 1441,
     "lc": "dba",
     "gw": false,
-    "ln": "Bangime",
-    "ld": "ltr",
-    "ang": "Bangime",
+    "ISO-639-3": "dba",
     "hc": "ML",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Bangime",
+    "pk": 1441,
     "cc": [
         "ML"
     ],
+    "lr": "Africa",
+    "ln": "Bangime",
     "alt": [
         "Bangeri Me",
         "Bangeri Me Dogon",
@@ -20,5 +20,5 @@
         "Noumandan",
         "Numadaw"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

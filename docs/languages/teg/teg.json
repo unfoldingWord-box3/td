@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "teg",
-    "pk": 6058,
     "lc": "teg",
     "gw": false,
-    "ln": "Teke-Tege",
-    "ld": "ltr",
-    "ang": "Teke-Tege",
+    "ISO-639-3": "teg",
     "hc": "GA",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Teke-Tege",
+    "pk": 6058,
     "cc": [
         "GA",
         "CG"
     ],
+    "lr": "Africa",
+    "ln": "Teke-Tege",
     "alt": [
         "Iteghe",
         "Northern Teke",
@@ -24,5 +24,5 @@
         "Teke",
         "Kateghe (Nzikini)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

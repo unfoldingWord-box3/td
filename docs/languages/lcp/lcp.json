@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "lcp",
-    "pk": 3386,
     "lc": "lcp",
     "gw": false,
-    "ln": "Western Lawa",
-    "ld": "ltr",
-    "ang": "Lawa, Western",
+    "ISO-639-3": "lcp",
     "hc": "TH",
-    "lr": "Asia",
+    "gwcode": "th",
+    "ang": "Lawa, Western",
+    "pk": 3386,
     "cc": [
         "CN",
         "TH"
     ],
+    "lr": "Asia",
+    "ln": "Western Lawa",
     "alt": [
         "Lava",
         "Lav\u00fca",
@@ -25,5 +25,5 @@
         "Northern Western Lawa",
         "Omphai"
     ],
-    "gwcode": "th"
+    "ld": "ltr"
 }

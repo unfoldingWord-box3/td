@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "onb",
-    "pk": 4837,
     "lc": "onb",
     "gw": false,
-    "ln": "\u81e8\u9ad8\u8a9e",
-    "ld": "ltr",
-    "ang": "Lingao",
+    "ISO-639-3": "onb",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Lingao",
+    "pk": 4837,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u81e8\u9ad8\u8a9e",
     "alt": [
         "B\u00ea",
         "Limkow",
@@ -20,5 +20,5 @@
         "Vo Limkou",
         "Lincheng (Lingao Proper-Dengmai)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

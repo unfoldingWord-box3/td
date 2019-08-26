@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "hnj",
-    "pk": 2319,
     "lc": "hnj",
     "gw": false,
-    "ln": "Hmong Njua",
-    "ld": "ltr",
-    "ang": "Hmong Njua",
+    "ISO-639-3": "hnj",
     "hc": "LA",
-    "lr": "Asia",
+    "gwcode": "lo",
+    "ang": "Hmong Njua",
+    "pk": 2319,
     "cc": [
         "GF",
         "LA",
@@ -15,6 +13,8 @@
         "US",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Hmong Njua",
     "alt": [
         "Blue Hmong",
         "Blue Meo",
@@ -33,5 +33,5 @@
         "Tak Miao",
         "Miao Tsi"
     ],
-    "gwcode": "lo"
+    "ld": "ltr"
 }

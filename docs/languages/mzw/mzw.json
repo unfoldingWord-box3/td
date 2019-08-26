@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mzw",
-    "pk": 4283,
     "lc": "mzw",
     "gw": false,
-    "ln": "Deg",
-    "ld": "ltr",
-    "ang": "Deg",
+    "ISO-639-3": "mzw",
     "hc": "GH",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Deg",
+    "pk": 4283,
     "cc": [
         "GH"
     ],
+    "lr": "Africa",
+    "ln": "Deg",
     "alt": [
         "Aculo",
         "Buro",
@@ -20,5 +20,5 @@
         "Mo",
         "Buru"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

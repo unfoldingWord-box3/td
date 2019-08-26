@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ong",
-    "pk": 4839,
     "lc": "ong",
     "gw": false,
-    "ln": "Olo",
-    "ld": "ltr",
-    "ang": "Olo",
+    "ISO-639-3": "ong",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Olo",
+    "pk": 4839,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Olo",
     "alt": [
         "Orlei",
         "Wapi (South Olo)",
@@ -18,5 +18,5 @@
         "Pay",
         "Payi (North Olo)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

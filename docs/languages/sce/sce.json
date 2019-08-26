@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "sce",
-    "pk": 5507,
     "lc": "sce",
     "gw": false,
-    "ln": "\u4e1c\u4e61\u8bed",
-    "ld": "ltr",
-    "ang": "Dongxiang",
+    "ISO-639-3": "sce",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Dongxiang",
+    "pk": 5507,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u4e1c\u4e61\u8bed",
     "alt": [
         "Santa",
         "Tung",
         "Tunghsiang",
         "Suonanba (Xiaonan)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

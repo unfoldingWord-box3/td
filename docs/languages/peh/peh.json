@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "peh",
-    "pk": 4985,
     "lc": "peh",
     "gw": false,
-    "ln": "\u4fdd\u5b89\u8bed",
-    "ld": "ltr",
-    "ang": "Bonan",
+    "ISO-639-3": "peh",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Bonan",
+    "pk": 4985,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u4fdd\u5b89\u8bed",
     "alt": [
         "Bao'an",
         "Baonan",
@@ -22,5 +22,5 @@
         "Jishishan (Dahejia)",
         "Tongren (Tungyen)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

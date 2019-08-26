@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gan",
-    "pk": 1916,
     "lc": "gan",
     "gw": false,
-    "ln": "\u8d1b\u8a9e",
-    "ld": "ltr",
-    "ang": "Chinese, Gan",
+    "ISO-639-3": "gan",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Chinese, Gan",
+    "pk": 1916,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u8d1b\u8a9e",
     "alt": [
         "Gan",
         "Jiangxi hua",
@@ -23,5 +23,5 @@
         "Hauiyue",
         "Dongsui"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

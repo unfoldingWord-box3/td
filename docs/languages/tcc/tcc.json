@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tcc",
-    "pk": 6009,
     "lc": "tcc",
     "gw": false,
-    "ln": "Datooga",
-    "ld": "ltr",
-    "ang": "Datooga",
+    "ISO-639-3": "tcc",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Datooga",
+    "pk": 6009,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Datooga",
     "alt": [
         "Datog",
         "Datoga",
@@ -33,5 +33,5 @@
         "Bureadiga",
         "Buraadiiga (Buradiga)"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

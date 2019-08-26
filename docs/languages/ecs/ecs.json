@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "ecs",
-    "pk": 1697,
     "lc": "ecs",
     "gw": false,
-    "ln": "Ecuadorian Sign Language",
-    "ld": "ltr",
-    "ang": "Ecuadorian Sign Language",
+    "ISO-639-3": "ecs",
     "hc": "EC",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Ecuadorian Sign Language",
+    "pk": 1697,
     "cc": [
         "EC"
     ],
+    "lr": "Americas",
+    "ln": "Ecuadorian Sign Language",
     "alt": [
         "Lengua de Se\u00f1as de Ecuador",
         "LSEC"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

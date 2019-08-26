@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lic",
-    "pk": 3456,
     "lc": "lic",
     "gw": false,
-    "ln": "\u9ece\u8bed",
-    "ld": "ltr",
-    "ang": "Hlai",
+    "ISO-639-3": "lic",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Hlai",
+    "pk": 3456,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u9ece\u8bed",
     "alt": [
         "Bli",
         "Dai",
@@ -31,5 +31,5 @@
         "Ha (Luohua-Hayan-Baoxian)",
         "Qi (Gei)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

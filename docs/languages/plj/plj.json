@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "plj",
-    "pk": 5069,
     "lc": "plj",
     "gw": false,
-    "ln": "Polci",
-    "ld": "ltr",
-    "ang": "Polci",
+    "ISO-639-3": "plj",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Polci",
+    "pk": 5069,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Polci",
     "alt": [
         "Palchi",
         "Palci",
@@ -28,5 +28,5 @@
         "Mbarmi",
         "Mbaram"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

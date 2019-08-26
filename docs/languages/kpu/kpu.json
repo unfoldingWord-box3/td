@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kpu",
-    "pk": 3077,
     "lc": "kpu",
     "gw": false,
-    "ln": "Kafoa",
-    "ld": "ltr",
-    "ang": "Kafoa",
+    "ISO-639-3": "kpu",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Kafoa",
+    "pk": 3077,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Kafoa",
     "alt": [
         "Aikoli",
         "Fanating",
@@ -18,5 +18,5 @@
         "Pailelang",
         "Ruilak"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

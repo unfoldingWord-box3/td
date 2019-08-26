@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "asr",
-    "pk": 372,
     "lc": "asr",
     "gw": false,
-    "ln": "Asuri",
-    "ld": "ltr",
-    "ang": "Asuri",
+    "ISO-639-3": "asr",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Asuri",
+    "pk": 372,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Asuri",
     "alt": [
         "Ashree",
         "Assur",
@@ -19,5 +19,5 @@
         "Brijia (Birjia)",
         "Koranti"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

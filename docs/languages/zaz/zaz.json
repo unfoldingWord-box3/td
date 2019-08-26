@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zaz",
-    "pk": 7355,
     "lc": "zaz",
     "gw": false,
-    "ln": "Zari",
-    "ld": "ltr",
-    "ang": "Zari",
+    "ISO-639-3": "zaz",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Zari",
+    "pk": 7355,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Zari",
     "alt": [
         "Zariwa",
         "Kwapm",
@@ -19,5 +19,5 @@
         "Boot",
         "Zari (Kopti)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

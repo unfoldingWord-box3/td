@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "fal",
-    "pk": 1821,
     "lc": "fal",
     "gw": false,
-    "ln": "South Fali",
-    "ld": "ltr",
-    "ang": "Fali, South",
+    "ISO-639-3": "fal",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Fali, South",
+    "pk": 1821,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "South Fali",
     "alt": [
         "Ndoudja",
         "Kaang",
@@ -23,5 +23,5 @@
         "Fali-Bele",
         "Kangu"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "dru",
-    "pk": 1627,
     "lc": "dru",
     "gw": false,
-    "ln": "Rukai",
-    "ld": "ltr",
-    "ang": "Rukai",
+    "ISO-639-3": "dru",
     "hc": "TW",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Rukai",
+    "pk": 1627,
     "cc": [
         "CN",
         "TW"
     ],
+    "lr": "Asia",
+    "ln": "Rukai",
     "alt": [
         "Banga",
         "Bantalang",
@@ -26,5 +26,5 @@
         "Tsalisen",
         "Tsarisen"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

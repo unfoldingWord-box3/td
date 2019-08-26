@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "laa",
-    "pk": 3334,
     "lc": "laa",
     "gw": false,
-    "ln": "Southern Subanen",
-    "ld": "ltr",
-    "ang": "Subanen, Southern",
+    "ISO-639-3": "laa",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "ceb",
+    "ang": "Subanen, Southern",
+    "pk": 3334,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Southern Subanen",
     "alt": [
         "Lapuyen",
         "Margosatubig",
@@ -19,5 +19,5 @@
         "Lapuyan",
         "Subanun"
     ],
-    "gwcode": "ceb"
+    "ld": "ltr"
 }

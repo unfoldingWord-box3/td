@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "thf",
-    "pk": 6104,
     "lc": "thf",
     "gw": false,
-    "ln": "Thangmi",
-    "ld": "ltr",
-    "ang": "Thangmi",
+    "ISO-639-3": "thf",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Thangmi",
+    "pk": 6104,
     "cc": [
         "CN",
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Thangmi",
     "alt": [
         "Dolakha",
         "Thangmi Kham",
@@ -20,5 +20,5 @@
         "Eastern Thangmi (Dolakha)",
         "Western Thangmi (Sindhupalchok)"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

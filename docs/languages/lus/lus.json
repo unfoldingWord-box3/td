@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "lus",
-    "pk": 3630,
     "lc": "lus",
     "gw": false,
-    "ln": "Lushai",
-    "ld": "ltr",
-    "ang": "Mizo",
+    "ISO-639-3": "lus",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Mizo",
+    "pk": 3630,
     "cc": [
         "BD",
         "IN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Lushai",
     "alt": [
         "Hualngo",
         "Lei",
@@ -26,5 +26,5 @@
         "Lusei",
         "Le"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

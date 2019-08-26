@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cnu",
-    "pk": 1283,
     "lc": "cnu",
     "gw": false,
-    "ln": "\u0644\u0647\u062c\u0629 \u0634\u0646\u0627\u0648\u064a\u0629",
-    "ld": "ltr",
-    "ang": "Chenoua",
+    "ISO-639-3": "cnu",
     "hc": "DZ",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Chenoua",
+    "pk": 1283,
     "cc": [
         "DZ"
     ],
+    "lr": "Africa",
+    "ln": "\u0644\u0647\u062c\u0629 \u0634\u0646\u0627\u0648\u064a\u0629",
     "alt": [
         "Chenoui",
         "Tachelhit",
@@ -19,5 +19,5 @@
         "Beni Menacer (Chleuh)",
         "Djebel Bissa"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

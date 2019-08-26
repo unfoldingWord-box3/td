@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "cjn",
-    "pk": 1226,
     "lc": "cjn",
     "gw": false,
-    "ln": "Chenapian",
-    "ld": "ltr",
-    "ang": "Chenapian",
+    "ISO-639-3": "cjn",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Chenapian",
+    "pk": 1226,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Chenapian",
     "alt": [
         "Chenap",
         "Tsenap",
         "Zenap"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

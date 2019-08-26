@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "aph",
-    "pk": 307,
     "lc": "aph",
     "gw": false,
-    "ln": "\u0906\u0920\u092a\u0939\u0930\u093f\u092f\u093e\u200e",
-    "ld": "ltr",
-    "ang": "Athpariya",
+    "ISO-639-3": "aph",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Athpariya",
+    "pk": 307,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "\u0906\u0920\u092a\u0939\u0930\u093f\u092f\u093e\u200e",
     "alt": [
         "Arthare",
         "Athapre",
@@ -18,5 +18,5 @@
         "Athpre",
         "Sanango Ring"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

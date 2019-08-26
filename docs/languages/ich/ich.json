@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ich",
-    "pk": 2415,
     "lc": "ich",
     "gw": false,
-    "ln": "Etkywan",
-    "ld": "ltr",
-    "ang": "Etkywan",
+    "ISO-639-3": "ich",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Etkywan",
+    "pk": 2415,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Etkywan",
     "alt": [
         "Etekwe",
         "Icen",
@@ -20,5 +20,5 @@
         "Kyato",
         "Nyidu"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

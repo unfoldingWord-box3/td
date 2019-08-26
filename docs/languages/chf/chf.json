@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "chf",
-    "pk": 1193,
     "lc": "chf",
     "gw": false,
-    "ln": "Tabasco Chontal",
-    "ld": "ltr",
-    "ang": "Chontal, Tabasco",
+    "ISO-639-3": "chf",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Chontal, Tabasco",
+    "pk": 1193,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Tabasco Chontal",
     "alt": [
         "Yocot'an",
         "Chontal de Tabasco del este",
@@ -19,5 +19,5 @@
         "Chontal de Tabasco central",
         "Chontal de Tabasco del sureste"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

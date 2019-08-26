@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "thd",
-    "pk": 6102,
     "lc": "thd",
     "gw": false,
-    "ln": "Thayore",
-    "ld": "ltr",
-    "ang": "Thayore",
+    "ISO-639-3": "thd",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Thayore",
+    "pk": 6102,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Thayore",
     "alt": [
         "Behran",
         "Gugudayor",
@@ -22,5 +22,5 @@
         "Thayorre",
         "Kuuk-Yak"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

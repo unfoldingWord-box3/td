@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "kas",
-    "pk": 3132,
     "lc": "ks",
     "gw": false,
-    "ln": "\u0915\u0936\u094d\u092e\u0940\u0930\u0940, \u0643\u0634\u0645\u064a\u0631\u064a\u200e",
-    "ld": "rtl",
-    "ang": "Kashmiri",
+    "ISO-639-3": "kas",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Kashmiri",
+    "pk": 3132,
     "cc": [
         "PK",
         "US",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "\u0915\u0936\u094d\u092e\u0940\u0930\u0940, \u0643\u0634\u0645\u064a\u0631\u064a\u200e",
     "alt": [
         "Cashmeeree",
         "Cashmiri",
@@ -27,5 +27,5 @@
         "Kistwali",
         "Poguli"
     ],
-    "gwcode": "hi"
+    "ld": "rtl"
 }

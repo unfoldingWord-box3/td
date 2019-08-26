@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "txq",
-    "pk": 6435,
     "lc": "txq",
     "gw": false,
-    "ln": "Tii",
-    "ld": "ltr",
-    "ang": "Tii",
+    "ISO-639-3": "txq",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Tii",
+    "pk": 6435,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Tii",
     "alt": [
         "Rote",
         "Rote Barat",
@@ -20,5 +20,5 @@
         "Ti",
         "Western Rote"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

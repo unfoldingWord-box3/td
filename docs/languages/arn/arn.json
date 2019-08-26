@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "arn",
-    "pk": 344,
     "lc": "arn",
     "gw": false,
-    "ln": "Mapudungun",
-    "ld": "ltr",
-    "ang": "Mapudungun",
+    "ISO-639-3": "arn",
     "hc": "CL",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mapudungun",
+    "pk": 344,
     "cc": [
         "CL",
         "AR"
     ],
+    "lr": "Americas",
+    "ln": "Mapudungun",
     "alt": [
         "Araucano",
         "Huilliche",
@@ -23,5 +23,5 @@
         "Moluche (Manzanero)",
         "Ngoluche"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

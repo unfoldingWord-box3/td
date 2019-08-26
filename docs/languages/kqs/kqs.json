@@ -1,22 +1,22 @@
 {
-    "ISO-639-3": "kqs",
-    "pk": 3101,
     "lc": "kqs",
     "gw": false,
-    "ln": "Northern Kissi",
-    "ld": "ltr",
-    "ang": "Kissi, Northern",
+    "ISO-639-3": "kqs",
     "hc": "GN",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Kissi, Northern",
+    "pk": 3101,
     "cc": [
         "GN",
         "SL"
     ],
+    "lr": "Africa",
+    "ln": "Northern Kissi",
     "alt": [
         "Gizi",
         "Kisi",
         "Kisie",
         "Kissien"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

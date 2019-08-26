@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "aas",
-    "pk": 22,
     "lc": "aas",
     "gw": false,
-    "ln": "Aas\u00e1x",
-    "ld": "ltr",
-    "ang": "Aas\u00e1x",
+    "ISO-639-3": "aas",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Aas\u00e1x",
+    "pk": 22,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Aas\u00e1x",
     "alt": [
         "As\u00e1",
         "Asak",
@@ -22,5 +22,5 @@
         "Ndorobo",
         "Aas\u00e1"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

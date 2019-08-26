@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bsk",
-    "pk": 933,
     "lc": "bsk",
     "gw": false,
-    "ln": "\u0628\u0631\u0648\u0634\u0633\u06a9\u06cc \u0632\u0628\u0627\u0646",
-    "ld": "ltr",
-    "ang": "Burushaski",
+    "ISO-639-3": "bsk",
     "hc": "PK",
-    "lr": "Asia",
+    "gwcode": "ur",
+    "ang": "Burushaski",
+    "pk": 933,
     "cc": [
         "PK"
     ],
+    "lr": "Asia",
+    "ln": "\u0628\u0631\u0648\u0634\u0633\u06a9\u06cc \u0632\u0628\u0627\u0646",
     "alt": [
         "Biltum",
         "Burucaki",
@@ -22,5 +22,5 @@
         "Nagar (Nagir)",
         "Yasin (Werchikwar)"
     ],
-    "gwcode": "ur"
+    "ld": "ltr"
 }

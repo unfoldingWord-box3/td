@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hoy",
-    "pk": 2339,
     "lc": "hoy",
     "gw": false,
-    "ln": "Holiya",
-    "ld": "ltr",
-    "ang": "Holiya",
+    "ISO-639-3": "hoy",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "kn",
+    "ang": "Holiya",
+    "pk": 2339,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Holiya",
     "alt": [
         "Golari-Kannada",
         "Holar",
@@ -19,5 +19,5 @@
         "Holian",
         "Holu"
     ],
-    "gwcode": "kn"
+    "ld": "ltr"
 }

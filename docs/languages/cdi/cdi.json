@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cdi",
-    "pk": 1165,
     "lc": "cdi",
     "gw": false,
-    "ln": "Chodri",
-    "ld": "ltr",
-    "ang": "Chodri",
+    "ISO-639-3": "cdi",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "gu",
+    "ang": "Chodri",
+    "pk": 1165,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Chodri",
     "alt": [
         "Chaudhari",
         "Chaudri",
@@ -19,5 +19,5 @@
         "Choudhary",
         "Chowdhary"
     ],
-    "gwcode": "gu"
+    "ld": "ltr"
 }

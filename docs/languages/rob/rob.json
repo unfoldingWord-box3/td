@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rob",
-    "pk": 5406,
     "lc": "rob",
     "gw": false,
-    "ln": "Tae'",
-    "ld": "ltr",
-    "ang": "Tae\u2019",
+    "ISO-639-3": "rob",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Tae\u2019",
+    "pk": 5406,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Tae'",
     "alt": [
         "East Toraja",
         "Luwu'",
@@ -23,5 +23,5 @@
         "Masamba",
         "Northeast Luwu (Bone-Bone)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

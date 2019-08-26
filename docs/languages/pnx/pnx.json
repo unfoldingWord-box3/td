@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pnx",
-    "pk": 5120,
     "lc": "pnx",
     "gw": false,
-    "ln": "Phong-Kniang",
-    "ld": "ltr",
-    "ang": "Phong-Kniang",
+    "ISO-639-3": "pnx",
     "hc": "LA",
-    "lr": "Asia",
+    "gwcode": "lo",
+    "ang": "Phong-Kniang",
+    "pk": 5120,
     "cc": [
         "LA"
     ],
+    "lr": "Asia",
+    "ln": "Phong-Kniang",
     "alt": [
         "Keneng",
         "Kenieng",
@@ -18,5 +18,5 @@
         "Lao Phong",
         "Pong 3"
     ],
-    "gwcode": "lo"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ifm",
-    "pk": 2434,
     "lc": "ifm",
     "gw": false,
-    "ln": "Teke-Fuumu",
-    "ld": "ltr",
-    "ang": "Teke-Fuumu",
+    "ISO-639-3": "ifm",
     "hc": "CG",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Teke-Fuumu",
+    "pk": 2434,
     "cc": [
         "CG"
     ],
+    "lr": "Africa",
+    "ln": "Teke-Fuumu",
     "alt": [
         "Kiteke",
         "South Central Teke",
@@ -20,5 +20,5 @@
         "Fuumu (Ifuumu)",
         "Mfumu"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

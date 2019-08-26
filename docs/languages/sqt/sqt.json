@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sqt",
-    "pk": 5801,
     "lc": "sqt",
     "gw": false,
-    "ln": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0633\u0642\u0637\u0631\u064a\u0629",
-    "ld": "ltr",
-    "ang": "Soqotri",
+    "ISO-639-3": "sqt",
     "hc": "YE",
-    "lr": "Asia",
+    "gwcode": "ar",
+    "ang": "Soqotri",
+    "pk": 5801,
     "cc": [
         "YE"
     ],
+    "lr": "Asia",
+    "ln": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0633\u0642\u0637\u0631\u064a\u0629",
     "alt": [
         "Saqatri",
         "Socotri",
@@ -18,5 +18,5 @@
         "Suqutri",
         "Abd Al-Kuri"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

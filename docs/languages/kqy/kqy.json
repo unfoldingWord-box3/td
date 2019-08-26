@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kqy",
-    "pk": 3106,
     "lc": "kqy",
     "gw": false,
-    "ln": "Koorete",
-    "ld": "ltr",
-    "ang": "Koorete",
+    "ISO-639-3": "kqy",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Koorete",
+    "pk": 3106,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Koorete",
     "alt": [
         "Amaarro",
         "Amarro",
@@ -25,5 +25,5 @@
         "North Koorete",
         "South Koorete"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

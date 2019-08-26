@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gbp",
-    "pk": 1942,
     "lc": "gbp",
     "gw": false,
-    "ln": "Gbaya-Bossangoa",
-    "ld": "ltr",
-    "ang": "Gbaya-Bossangoa",
+    "ISO-639-3": "gbp",
     "hc": "CF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Gbaya-Bossangoa",
+    "pk": 1942,
     "cc": [
         "CF"
     ],
+    "lr": "Africa",
+    "ln": "Gbaya-Bossangoa",
     "alt": [
         "Gbaya de Bosangoa",
         "Gbaya of Borro",
@@ -19,5 +19,5 @@
         "Gbea",
         "Gbeya"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

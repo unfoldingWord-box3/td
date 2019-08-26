@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "huq",
-    "pk": 2379,
     "lc": "huq",
     "gw": false,
-    "ln": "\u56de\u8f89\u8bed",
-    "ld": "ltr",
-    "ang": "Tsat",
+    "ISO-639-3": "huq",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Tsat",
+    "pk": 2379,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u56de\u8f89\u8bed",
     "alt": [
         "Hainan Cham",
         "Hui",
@@ -19,5 +19,5 @@
         "Utsat",
         "Utset"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

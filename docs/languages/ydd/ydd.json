@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "ydd",
-    "pk": 7154,
     "lc": "ydd",
     "gw": false,
-    "ln": "\u05d9\u05d9\u05d3\u05d9\u05e9 \u05d4\u05de\u05d6\u05e8\u05d7\u05d9",
-    "ld": "ltr",
-    "ang": "Yiddish, Eastern",
+    "ISO-639-3": "ydd",
     "hc": "IL",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Yiddish, Eastern",
+    "pk": 7154,
     "cc": [
         "AZ",
         "DE",
@@ -24,8 +22,10 @@
         "MD",
         "TM"
     ],
+    "lr": "Asia",
+    "ln": "\u05d9\u05d9\u05d3\u05d9\u05e9 \u05d4\u05de\u05d6\u05e8\u05d7\u05d9",
     "alt": [
         "Judeo-German"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

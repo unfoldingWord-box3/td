@@ -1,23 +1,23 @@
 {
-    "ISO-639-3": "fsl",
-    "pk": 1880,
     "lc": "fsl",
     "gw": false,
-    "ln": "French Sign Language",
-    "ld": "ltr",
-    "ang": "French Sign Language",
+    "ISO-639-3": "fsl",
     "hc": "FR",
-    "lr": "Europe",
+    "gwcode": "fr",
+    "ang": "French Sign Language",
+    "pk": 1880,
     "cc": [
         "FR",
         "NE",
         "TG"
     ],
+    "lr": "Europe",
+    "ln": "French Sign Language",
     "alt": [
         "FSL",
         "Langue des Signes Fran\u00e7aise",
         "LSF",
         "Marseille Sign Language (Southern French Sign Language)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

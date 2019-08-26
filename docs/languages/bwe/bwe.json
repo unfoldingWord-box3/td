@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bwe",
-    "pk": 1022,
     "lc": "bwe",
     "gw": false,
-    "ln": "Bwe Karen",
-    "ld": "ltr",
-    "ang": "Karen, Bwe",
+    "ISO-639-3": "bwe",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Karen, Bwe",
+    "pk": 1022,
     "cc": [
         "TH",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Bwe Karen",
     "alt": [
         "Baghi",
         "Bghai Karen",
@@ -22,5 +22,5 @@
         "Eastern Bwe Karen",
         "Western Bwe Karen"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

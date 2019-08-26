@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "snb",
-    "pk": 5727,
     "lc": "snb",
     "gw": false,
-    "ln": "Sebuyau",
-    "ld": "ltr",
-    "ang": "Sebuyau",
+    "ISO-639-3": "snb",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Sebuyau",
+    "pk": 5727,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Sebuyau",
     "alt": [
         "Sabuyan",
         "Sabuyau",
@@ -18,5 +18,5 @@
         "Sibuyan",
         "Sibuyau"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

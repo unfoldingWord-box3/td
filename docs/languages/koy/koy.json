@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "koy",
-    "pk": 3057,
     "lc": "koy",
     "gw": false,
-    "ln": "Koyukon",
-    "ld": "ltr",
-    "ang": "Koyukon",
+    "ISO-639-3": "koy",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Koyukon",
+    "pk": 3057,
     "cc": [
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Koyukon",
     "alt": [
         "Ten'a",
         "Upper Koyukon",
@@ -18,5 +18,5 @@
         "Central Koyukon",
         "Central Koyukuk River"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

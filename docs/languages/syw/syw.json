@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "syw",
-    "pk": 5949,
     "lc": "syw",
     "gw": false,
-    "ln": "\u0938\u094d\u092f\u0941\u092c\u093e",
-    "ld": "ltr",
-    "ang": "Syuba",
+    "ISO-639-3": "syw",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Syuba",
+    "pk": 5949,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "\u0938\u094d\u092f\u0941\u092c\u093e",
     "alt": [
         "Shuuba",
         "Shyuuba",
@@ -21,5 +21,5 @@
         "Yholmu",
         "Kagate Bhote"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

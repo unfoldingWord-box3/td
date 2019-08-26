@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "npa",
-    "pk": 4604,
     "lc": "npa",
     "gw": false,
-    "ln": "Nar Phu",
-    "ld": "ltr",
-    "ang": "Nar Phu",
+    "ISO-639-3": "npa",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Nar Phu",
+    "pk": 4604,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Nar Phu",
     "alt": [
         "Nar-Phu",
         "Nar (Lower Nar)",
@@ -18,5 +18,5 @@
         "Phu (Nar-T\u00f6)",
         "Upper Nar"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

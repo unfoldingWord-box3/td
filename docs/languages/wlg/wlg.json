@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "wlg",
-    "pk": 6755,
     "lc": "wlg",
     "gw": false,
-    "ln": "Kunbarlang",
-    "ld": "ltr",
-    "ang": "Kunbarlang",
+    "ISO-639-3": "wlg",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Kunbarlang",
+    "pk": 6755,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Kunbarlang",
     "alt": [
         "Gunbalang",
         "Gunbarlang",
         "Gungalang",
         "Walang"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

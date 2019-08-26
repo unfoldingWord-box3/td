@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "trp",
-    "pk": 6313,
     "lc": "trp",
     "gw": false,
-    "ln": "Kok Borok",
-    "ld": "ltr",
-    "ang": "Kok Borok",
+    "ISO-639-3": "trp",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "bn",
+    "ang": "Kok Borok",
+    "pk": 6313,
     "cc": [
         "BD",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Kok Borok",
     "alt": [
         "Tipura",
         "Kakbarak",
@@ -19,5 +19,5 @@
         "Usipi Mrung",
         "Noatia (Tipra)"
     ],
-    "gwcode": "bn"
+    "ld": "ltr"
 }

@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "lst",
-    "pk": 3605,
     "lc": "lst",
     "gw": false,
-    "ln": "Trinidad and Tobago Sign Language",
-    "ld": "ltr",
-    "ang": "Trinidad and Tobago Sign Language",
+    "ISO-639-3": "lst",
     "hc": "TT",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Trinidad and Tobago Sign Language",
+    "pk": 3605,
     "cc": [
         "TT"
     ],
+    "lr": "Americas",
+    "ln": "Trinidad and Tobago Sign Language",
     "alt": [
         "Trinidad Sign Language",
         "TSL",
         "TTSL"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

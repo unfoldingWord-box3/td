@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "xsm",
-    "pk": 7045,
     "lc": "xsm",
     "gw": false,
-    "ln": "Kasem",
-    "ld": "ltr",
-    "ang": "Kasem",
+    "ISO-639-3": "xsm",
     "hc": "BF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Kasem",
+    "pk": 7045,
     "cc": [
         "BF",
         "GH"
     ],
+    "lr": "Africa",
+    "ln": "Kasem",
     "alt": [
         "Kasena",
         "Kasim",
@@ -19,5 +19,5 @@
         "Kassena",
         "Kassene"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

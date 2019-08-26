@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bge",
-    "pk": 639,
     "lc": "bge",
     "gw": false,
-    "ln": "Bauria",
-    "ld": "ltr",
-    "ang": "Bauria",
+    "ISO-639-3": "bge",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "pnb",
+    "ang": "Bauria",
+    "pk": 639,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Bauria",
     "alt": [
         "Babri",
         "Badak",
@@ -21,5 +21,5 @@
         "Bhoria",
         "Vaghri"
     ],
-    "gwcode": "pnb"
+    "ld": "ltr"
 }

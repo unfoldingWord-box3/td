@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "csk",
-    "pk": 1355,
     "lc": "csk",
     "gw": false,
-    "ln": "Jola-Kasa",
-    "ld": "ltr",
-    "ang": "Jola-Kasa",
+    "ISO-639-3": "csk",
     "hc": "SN",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Jola-Kasa",
+    "pk": 1355,
     "cc": [
         "SN"
     ],
+    "lr": "Africa",
+    "ln": "Jola-Kasa",
     "alt": [
         "B\u00e1cuki",
         "Casa",
@@ -22,5 +22,5 @@
         "Mlomp South",
         "Oussouye"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

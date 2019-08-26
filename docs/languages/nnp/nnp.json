@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nnp",
-    "pk": 4573,
     "lc": "nnp",
     "gw": false,
-    "ln": "Wancho Naga",
-    "ld": "ltr",
-    "ang": "Naga, Wancho",
+    "ISO-639-3": "nnp",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Naga, Wancho",
+    "pk": 4573,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Wancho Naga",
     "alt": [
         "Banpara Naga",
         "Joboka",
@@ -19,5 +19,5 @@
         "Bor Muthun (Bor Mutonia)",
         "Kulung Muthun (Mithan)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

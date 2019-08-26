@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ahg",
-    "pk": 149,
     "lc": "ahg",
     "gw": false,
-    "ln": "Qimant",
-    "ld": "ltr",
-    "ang": "Qimant",
+    "ISO-639-3": "ahg",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Qimant",
+    "pk": 149,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Qimant",
     "alt": [
         "Hwarasa (Kara)",
         "Dembya",
@@ -27,5 +27,5 @@
         "Kimanteney",
         "Western Agaw"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

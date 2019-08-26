@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bru",
-    "pk": 917,
     "lc": "bru",
     "gw": false,
-    "ln": "Eastern Bru",
-    "ld": "ltr",
-    "ang": "Bru, Eastern",
+    "ISO-639-3": "bru",
     "hc": "LA",
-    "lr": "Asia",
+    "gwcode": "lo",
+    "ang": "Bru, Eastern",
+    "pk": 917,
     "cc": [
         "LA"
     ],
+    "lr": "Asia",
+    "ln": "Eastern Bru",
     "alt": [
         "Bru Tri",
         "Brou",
@@ -22,5 +22,5 @@
         "So Tri",
         "Leung"
     ],
-    "gwcode": "lo"
+    "ld": "ltr"
 }

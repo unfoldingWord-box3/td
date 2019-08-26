@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "alt",
-    "pk": 228,
     "lc": "alt",
     "gw": false,
-    "ln": "\u0413\u043e\u0440\u043d\u043e-\u0430\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0435",
-    "ld": "ltr",
-    "ang": "Altai, Southern",
+    "ISO-639-3": "alt",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Altai, Southern",
+    "pk": 228,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u0413\u043e\u0440\u043d\u043e-\u0430\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0435",
     "alt": [
         "Talangit (Chuy)",
         "Teleut",
@@ -24,5 +24,5 @@
         "Oirot",
         "Oyrot"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "sow",
-    "pk": 5768,
     "lc": "sow",
     "gw": false,
-    "ln": "Sowanda",
-    "ld": "ltr",
-    "ang": "Sowanda",
+    "ISO-639-3": "sow",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Sowanda",
+    "pk": 5768,
     "cc": [
         "ID",
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Sowanda",
     "alt": [
         "Waina-Sowanda",
         "Wanja",
@@ -19,5 +19,5 @@
         "Wina",
         "Punda-Umeda (Umada)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

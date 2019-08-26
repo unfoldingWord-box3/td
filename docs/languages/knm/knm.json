@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "knm",
-    "pk": 3025,
     "lc": "knm",
     "gw": false,
-    "ln": "Kanamar\u00ed",
-    "ld": "ltr",
-    "ang": "Kanamar\u00ed",
+    "ISO-639-3": "knm",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Kanamar\u00ed",
+    "pk": 3025,
     "cc": [
         "BR"
     ],
+    "lr": "Americas",
+    "ln": "Kanamar\u00ed",
     "alt": [
         "Canamar\u00ed",
         "Kanamar\u00e9",
@@ -18,5 +18,5 @@
         "Tshom-Djapa (Txunhu\u00e3 Dyap\u00e1)",
         "Tsohon-Djapa"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

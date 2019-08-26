@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mgi",
-    "pk": 3811,
     "lc": "mgi",
     "gw": false,
-    "ln": "Lijili",
-    "ld": "ltr",
-    "ang": "Lijili",
+    "ISO-639-3": "mgi",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Lijili",
+    "pk": 3811,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Lijili",
     "alt": [
         "Koro Lafia",
         "Koro of Lafia",
@@ -18,5 +18,5 @@
         "Megili",
         "Mijili"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

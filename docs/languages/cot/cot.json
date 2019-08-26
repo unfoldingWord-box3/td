@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "cot",
-    "pk": 1302,
     "lc": "cot",
     "gw": false,
-    "ln": "Caquinte",
-    "ld": "ltr",
-    "ang": "Caquinte",
+    "ISO-639-3": "cot",
     "hc": "PE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Caquinte",
+    "pk": 1302,
     "cc": [
         "PE"
     ],
+    "lr": "Americas",
+    "ln": "Caquinte",
     "alt": [
         "Caquinte Campa",
         "Poyenisati",
         "Cachomashiri"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

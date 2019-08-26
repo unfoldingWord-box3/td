@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tog",
-    "pk": 6248,
     "lc": "tog",
     "gw": false,
-    "ln": "Tonga (Nyasa)",
-    "ld": "ltr",
-    "ang": "Tonga",
+    "ISO-639-3": "tog",
     "hc": "MW",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Tonga",
+    "pk": 6248,
     "cc": [
         "MW"
     ],
+    "lr": "Africa",
+    "ln": "Tonga (Nyasa)",
     "alt": [
         "Chitonga",
         "Kitonga",
@@ -18,5 +18,5 @@
         "Sisya",
         "Western Nyasa"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ycl",
-    "pk": 7150,
     "lc": "ycl",
     "gw": false,
-    "ln": "\u502e\u502e\u6cfc",
-    "ld": "ltr",
-    "ang": "Lolopo",
+    "ISO-639-3": "ycl",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Lolopo",
+    "pk": 7150,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u502e\u502e\u6cfc",
     "alt": [
         "Bai Yi",
         "Central Yi",
@@ -23,5 +23,5 @@
         "Yao'an Lolopo",
         "Nanhua Lolopo"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

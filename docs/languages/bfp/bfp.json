@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bfp",
-    "pk": 624,
     "lc": "bfp",
     "gw": false,
-    "ln": "Beba",
-    "ld": "ltr",
-    "ang": "Beba",
+    "ISO-639-3": "bfp",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Beba",
+    "pk": 624,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Beba",
     "alt": [
         "Babadji",
         "Baba'zhi",
@@ -23,5 +23,5 @@
         "Mubadji",
         "Shishong"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

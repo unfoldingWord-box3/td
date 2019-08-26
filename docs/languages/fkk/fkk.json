@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "fkk",
-    "pk": 1847,
     "lc": "fkk",
     "gw": false,
-    "ln": "Kirya-Konz\u0259l",
-    "ld": "ltr",
-    "ang": "Kirya-Konzel",
+    "ISO-639-3": "fkk",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Kirya-Konzel",
+    "pk": 1847,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Kirya-Konz\u0259l",
     "alt": [
         "Fali of Kiria",
         "Fali of Kiriya",
@@ -18,5 +18,5 @@
         "Fali of Mijilu",
         "Kirya"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

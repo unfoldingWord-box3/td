@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "krw",
-    "pk": 3128,
     "lc": "krw",
     "gw": false,
-    "ln": "Western Krahn",
-    "ld": "ltr",
-    "ang": "Krahn, Western",
+    "ISO-639-3": "krw",
     "hc": "LR",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Krahn, Western",
+    "pk": 3128,
     "cc": [
         "LR"
     ],
+    "lr": "Africa",
+    "ln": "Western Krahn",
     "alt": [
         "Krahn",
         "Northern Krahn",
@@ -23,5 +23,5 @@
         "Gbaeson (Gbaison)",
         "Pewa (Peewa)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

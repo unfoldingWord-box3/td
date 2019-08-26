@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mxy",
-    "pk": 4238,
     "lc": "mxy",
     "gw": false,
-    "ln": "Southeastern Nochixtl\u00e1n Mixtec",
-    "ld": "ltr",
-    "ang": "Mixtec, Southeastern Nochixtl\u00e1n",
+    "ISO-639-3": "mxy",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mixtec, Southeastern Nochixtl\u00e1n",
+    "pk": 4238,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Southeastern Nochixtl\u00e1n Mixtec",
     "alt": [
         "Mixteco de Santo Domingo Nuxa\u00e1",
         "Mixteco del Sureste de Nochixtl\u00e1n",
@@ -18,5 +18,5 @@
         "Santa In\u00e9s de Zaragoza Mixtec",
         "Santo Domingo Nuxa\u00e1 Mixtec"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

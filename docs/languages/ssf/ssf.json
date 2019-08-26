@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ssf",
-    "pk": 5831,
     "lc": "ssf",
     "gw": false,
-    "ln": "Thao",
-    "ld": "ltr",
-    "ang": "Thao",
+    "ISO-639-3": "ssf",
     "hc": "TW",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Thao",
+    "pk": 5831,
     "cc": [
         "TW"
     ],
+    "lr": "Asia",
+    "ln": "Thao",
     "alt": [
         "Chui-Huan",
         "Chuihwan",
@@ -20,5 +20,5 @@
         "Suihwan",
         "Vulung"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

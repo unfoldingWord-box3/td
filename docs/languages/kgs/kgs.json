@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kgs",
-    "pk": 2851,
     "lc": "kgs",
     "gw": false,
-    "ln": "Kumbainggar",
-    "ld": "ltr",
-    "ang": "Kumbainggar",
+    "ISO-639-3": "kgs",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Kumbainggar",
+    "pk": 2851,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Kumbainggar",
     "alt": [
         "Baanbay",
         "Gambalamam",
@@ -18,5 +18,5 @@
         "Gumbaynggir",
         "Kumbaingeri"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

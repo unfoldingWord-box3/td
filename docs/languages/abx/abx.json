@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "abx",
-    "pk": 50,
     "lc": "abx",
     "gw": false,
-    "ln": "Inabaknon",
-    "ld": "ltr",
-    "ang": "Inabaknon",
+    "ISO-639-3": "abx",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "ceb",
+    "ang": "Inabaknon",
+    "pk": 50,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Inabaknon",
     "alt": [
         "Abaknon",
         "Abaknon Sama",
@@ -18,5 +18,5 @@
         "Kapul",
         "Sama"
     ],
-    "gwcode": "ceb"
+    "ld": "ltr"
 }

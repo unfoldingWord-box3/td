@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "mab",
-    "pk": 3660,
     "lc": "mab",
     "gw": false,
-    "ln": "Yutanduchi Mixtec",
-    "ld": "ltr",
-    "ang": "Mixtec, Yutanduchi",
+    "ISO-639-3": "mab",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mixtec, Yutanduchi",
+    "pk": 3660,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Yutanduchi Mixtec",
     "alt": [
         "Mixteco de Yutanduchi",
         "Mixteco de Yutanduchi de Guerrero",
         "Southern Nochixtlan Mixtec"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

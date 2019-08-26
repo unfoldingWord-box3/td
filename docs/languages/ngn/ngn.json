@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ngn",
-    "pk": 4421,
     "lc": "ngn",
     "gw": false,
-    "ln": "Ngwo",
-    "ld": "ltr",
-    "ang": "Ngwo",
+    "ISO-639-3": "ngn",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Ngwo",
+    "pk": 4421,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Ngwo",
     "alt": [
         "Ngunu",
         "Ngwo (Miguhni)",
@@ -18,5 +18,5 @@
         "Ikweri (Ekperi)",
         "Basa (Bassa)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

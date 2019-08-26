@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dwr",
-    "pk": 1676,
     "lc": "dwr",
     "gw": false,
-    "ln": "Dawro",
-    "ld": "ltr",
-    "ang": "Dawro",
+    "ISO-639-3": "dwr",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Dawro",
+    "pk": 1676,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Dawro",
     "alt": [
         "Cullo",
         "Dauro",
@@ -20,5 +20,5 @@
         "Kusha",
         "Kucha (Koysha)"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

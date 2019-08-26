@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "ghn",
-    "pk": 2015,
     "lc": "ghn",
     "gw": false,
-    "ln": "Ghanongga",
-    "ld": "ltr",
-    "ang": "Ghanongga",
+    "ISO-639-3": "ghn",
     "hc": "SB",
-    "lr": "Pacific",
+    "gwcode": "pis",
+    "ang": "Ghanongga",
+    "pk": 2015,
     "cc": [
         "SB"
     ],
+    "lr": "Pacific",
+    "ln": "Ghanongga",
     "alt": [
         "Ganongga",
         "Kubokota",
         "Kumbokota"
     ],
-    "gwcode": "pis"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ekm",
-    "pk": 1719,
     "lc": "ekm",
     "gw": false,
-    "ln": "Elip",
-    "ld": "ltr",
-    "ang": "Elip",
+    "ISO-639-3": "ekm",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Elip",
+    "pk": 1719,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Elip",
     "alt": [
         "Belibi",
         "Belip",
@@ -22,5 +22,5 @@
         "Nulamba",
         "Nuyambassa"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

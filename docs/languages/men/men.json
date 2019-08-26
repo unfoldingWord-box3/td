@@ -1,23 +1,23 @@
 {
-    "ISO-639-3": "men",
-    "pk": 3765,
     "lc": "men",
     "gw": false,
-    "ln": "Mende (Sierra Leone)",
-    "ld": "ltr",
-    "ang": "Mende",
+    "ISO-639-3": "men",
     "hc": "SL",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Mende",
+    "pk": 3765,
     "cc": [
         "LR",
         "US",
         "SL"
     ],
+    "lr": "Africa",
+    "ln": "Mende (Sierra Leone)",
     "alt": [
         "Boumpe",
         "Hulo",
         "Kossa",
         "Kosso"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zmt",
-    "pk": 7421,
     "lc": "zmt",
     "gw": false,
-    "ln": "Maringarr",
-    "ld": "ltr",
-    "ang": "Maringarr",
+    "ISO-639-3": "zmt",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Maringarr",
+    "pk": 7421,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Maringarr",
     "alt": [
         "Marenggar",
         "Maringa",
@@ -19,5 +19,5 @@
         "Merranunggu",
         "Warrgat"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

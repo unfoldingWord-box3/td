@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "klr",
-    "pk": 2977,
     "lc": "klr",
     "gw": false,
-    "ln": "\u0916\u093e\u0932\u093f\u0919",
-    "ld": "ltr",
-    "ang": "Khaling",
+    "ISO-639-3": "klr",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Khaling",
+    "pk": 2977,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "\u0916\u093e\u0932\u093f\u0919",
     "alt": [
         "Khael Baat",
         "Khael Bra",
@@ -19,5 +19,5 @@
         "Northern Khaling",
         "Southern Khaling"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

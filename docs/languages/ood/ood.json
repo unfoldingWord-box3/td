@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "ood",
-    "pk": 4852,
     "lc": "ood",
     "gw": false,
-    "ln": "Tohono O'odham",
-    "ld": "ltr",
-    "ang": "Tohono O\u2019odham",
+    "ISO-639-3": "ood",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Tohono O\u2019odham",
+    "pk": 4852,
     "cc": [
         "US",
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Tohono O'odham",
     "alt": [
         "Nebome",
         "Nevome",
@@ -23,5 +23,5 @@
         "Akimel O'odham (Pima)",
         "Papago"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

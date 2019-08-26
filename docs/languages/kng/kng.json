@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "kng",
-    "pk": 3020,
     "lc": "kng",
     "gw": false,
-    "ln": "Koongo",
-    "ld": "ltr",
-    "ang": "Koongo",
+    "ISO-639-3": "kng",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Koongo",
+    "pk": 3020,
     "cc": [
         "CD",
         "AO",
         "UG"
     ],
+    "lr": "Africa",
+    "ln": "Koongo",
     "alt": [
         "Congo",
         "Kikoongo",
@@ -30,5 +30,5 @@
         "Kimanyanga",
         "Kiwoyo (Cabinda)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

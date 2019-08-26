@@ -1,23 +1,23 @@
 {
-    "ISO-639-3": "gaa",
-    "pk": 1903,
     "lc": "gaa",
     "gw": false,
-    "ln": "Ga",
-    "ld": "ltr",
-    "ang": "Ga",
+    "ISO-639-3": "gaa",
     "hc": "GH",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Ga",
+    "pk": 1903,
     "cc": [
         "BJ",
         "GH",
         "TG"
     ],
+    "lr": "Africa",
+    "ln": "Ga",
     "alt": [
         "Accra",
         "Acra",
         "Amina",
         "Gain"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

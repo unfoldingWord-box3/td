@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "wes",
-    "pk": 6719,
     "lc": "wes",
     "gw": false,
-    "ln": "Cameroon Pidgin",
-    "ld": "ltr",
-    "ang": "Pidgin, Cameroon",
+    "ISO-639-3": "wes",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Pidgin, Cameroon",
+    "pk": 6719,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Cameroon Pidgin",
     "alt": [
         "Cameroon Creole English",
         "Wes Cos"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

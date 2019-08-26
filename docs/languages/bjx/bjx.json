@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bjx",
-    "pk": 729,
     "lc": "bjx",
     "gw": false,
-    "ln": "Banao Itneg",
-    "ld": "ltr",
-    "ang": "Itneg, Banao",
+    "ISO-639-3": "bjx",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "ilo",
+    "ang": "Itneg, Banao",
+    "pk": 729,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Banao Itneg",
     "alt": [
         "Banao",
         "Banaw",
@@ -21,5 +21,5 @@
         "Gubang Itneg",
         "Malibcong Banao"
     ],
-    "gwcode": "ilo"
+    "ld": "ltr"
 }

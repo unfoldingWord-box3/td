@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tkr",
-    "pk": 6163,
     "lc": "tkr",
     "gw": false,
-    "ln": "Saxur dili",
-    "ld": "ltr",
-    "ang": "Tsakhur",
+    "ISO-639-3": "tkr",
     "hc": "AZ",
-    "lr": "Asia",
+    "gwcode": "ru",
+    "ang": "Tsakhur",
+    "pk": 6163,
     "cc": [
         "AZ"
     ],
+    "lr": "Asia",
+    "ln": "Saxur dili",
     "alt": [
         "Caxur",
         "Sakhur",
@@ -25,5 +25,5 @@
         "Gelmets-Mikik (Gelmets-kurdul)",
         "Tsakh (Jinagh)"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

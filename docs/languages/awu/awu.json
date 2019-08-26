@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "awu",
-    "pk": 449,
     "lc": "awu",
     "gw": false,
-    "ln": "Central Awyu",
-    "ld": "ltr",
-    "ang": "Awyu, Central",
+    "ISO-639-3": "awu",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Awyu, Central",
+    "pk": 449,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Central Awyu",
     "alt": [
         "Ajau",
         "Auyu",
@@ -18,5 +18,5 @@
         "Awju",
         "Awya"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

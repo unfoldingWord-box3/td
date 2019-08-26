@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "klq",
-    "pk": 2976,
     "lc": "klq",
     "gw": false,
-    "ln": "Rumu",
-    "ld": "ltr",
-    "ang": "Rumu",
+    "ISO-639-3": "klq",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Rumu",
+    "pk": 2976,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Rumu",
     "alt": [
         "Dumu",
         "Kai-Iri",
@@ -19,5 +19,5 @@
         "Rumuwa",
         "Tumu"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

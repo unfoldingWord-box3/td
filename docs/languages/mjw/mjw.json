@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mjw",
-    "pk": 3897,
     "lc": "mjw",
     "gw": false,
-    "ln": "Karbi",
-    "ld": "ltr",
-    "ang": "Karbi",
+    "ISO-639-3": "mjw",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "as",
+    "ang": "Karbi",
+    "pk": 3897,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Karbi",
     "alt": [
         "Arleng Alam",
         "Karbi Karbak",
@@ -24,5 +24,5 @@
         "Mirlong",
         "Rong Kethang (Rengkhang)"
     ],
-    "gwcode": "as"
+    "ld": "ltr"
 }

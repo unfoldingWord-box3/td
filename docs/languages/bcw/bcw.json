@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bcw",
-    "pk": 556,
     "lc": "bcw",
     "gw": false,
-    "ln": "Bana",
-    "ld": "ltr",
-    "ang": "Bana",
+    "ISO-639-3": "bcw",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Bana",
+    "pk": 556,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Bana",
     "alt": [
         "Baza",
         "Ka-Bana",
@@ -19,5 +19,5 @@
         "Parole des Bana",
         "Gili (Guili)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mnv",
-    "pk": 3994,
     "lc": "mnv",
     "gw": false,
-    "ln": "Rennell-Bellona",
-    "ld": "ltr",
-    "ang": "Rennell-Bellona",
+    "ISO-639-3": "mnv",
     "hc": "SB",
-    "lr": "Pacific",
+    "gwcode": "pis",
+    "ang": "Rennell-Bellona",
+    "pk": 3994,
     "cc": [
         "SB"
     ],
+    "lr": "Pacific",
+    "ln": "Rennell-Bellona",
     "alt": [
         "Rennell",
         "Rennellese-Bellonese",
@@ -19,5 +19,5 @@
         "Munggava (Mugaba)",
         "Mungiki (Bellona)"
     ],
-    "gwcode": "pis"
+    "ld": "ltr"
 }

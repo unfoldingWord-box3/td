@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "sid",
-    "pk": 5620,
     "lc": "sid",
     "gw": false,
-    "ln": "Sidamo",
-    "ld": "ltr",
-    "ang": "Sidamo",
+    "ISO-639-3": "sid",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Sidamo",
+    "pk": 5620,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Sidamo",
     "alt": [
         "Sidaama",
         "Sidaamu Afoo",
         "Sidaminya",
         "Sid\u00e1mo 'Af\u00f3"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "und",
-    "pk": 6527,
     "lc": "und",
     "gw": false,
-    "ln": "Undetermined",
-    "ld": "ltr",
-    "ang": "",
+    "ISO-639-3": "und",
     "hc": "GW",
-    "lr": "Africa",
+    "gwcode": null,
+    "ang": "",
+    "pk": 6527,
     "cc": [
         "BS",
         "BN",
@@ -76,6 +74,8 @@
         "SR",
         "AE"
     ],
+    "lr": "Africa",
+    "ln": "Undetermined",
     "alt": [],
-    "gwcode": null
+    "ld": "ltr"
 }

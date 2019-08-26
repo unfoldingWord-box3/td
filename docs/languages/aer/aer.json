@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "aer",
-    "pk": 101,
     "lc": "aer",
     "gw": false,
-    "ln": "Eastern Arrernte",
-    "ld": "ltr",
-    "ang": "Arrernte, Eastern",
+    "ISO-639-3": "aer",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Arrernte, Eastern",
+    "pk": 101,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Eastern Arrernte",
     "alt": [
         "Akarre",
         "Antekerrepenh",
@@ -20,5 +20,5 @@
         "Arunta",
         "Eastern Aranda"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

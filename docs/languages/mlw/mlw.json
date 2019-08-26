@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mlw",
-    "pk": 3946,
     "lc": "mlw",
     "gw": false,
-    "ln": "Moloko",
-    "ld": "ltr",
-    "ang": "Moloko",
+    "ISO-639-3": "mlw",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Moloko",
+    "pk": 3946,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Moloko",
     "alt": [
         "Mokyo",
         "Molko",
@@ -18,5 +18,5 @@
         "Molkwo",
         "Molokwo"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

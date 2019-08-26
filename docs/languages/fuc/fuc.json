@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "fuc",
-    "pk": 1883,
     "lc": "fuc",
     "gw": false,
-    "ln": "Pulaar",
-    "ld": "ltr",
-    "ang": "Pulaar",
+    "ISO-639-3": "fuc",
     "hc": "SN",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Pulaar",
+    "pk": 1883,
     "cc": [
         "FR",
         "GM",
@@ -19,6 +17,8 @@
         "GN",
         "GW"
     ],
+    "lr": "Africa",
+    "ln": "Pulaar",
     "alt": [
         "Fulani",
         "Fulbe Jeeri",
@@ -44,5 +44,5 @@
         "Fula de Gabu",
         "Fula Preto"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mfn",
-    "pk": 3790,
     "lc": "mfn",
     "gw": false,
-    "ln": "Cross River Mbembe",
-    "ld": "ltr",
-    "ang": "Mbembe, Cross River",
+    "ISO-639-3": "mfn",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Mbembe, Cross River",
+    "pk": 3790,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Cross River Mbembe",
     "alt": [
         "Ekokoma",
         "Ifunubwa",
@@ -25,5 +25,5 @@
         "Osophong",
         "Osopong (Ezopong)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

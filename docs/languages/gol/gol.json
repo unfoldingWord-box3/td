@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "gol",
-    "pk": 2100,
     "lc": "gol",
     "gw": false,
-    "ln": "Gola",
-    "ld": "ltr",
-    "ang": "Gola",
+    "ISO-639-3": "gol",
     "hc": "LR",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Gola",
+    "pk": 2100,
     "cc": [
         "LR",
         "SL"
     ],
+    "lr": "Africa",
+    "ln": "Gola",
     "alt": [
         "Gula",
         "Senje (Sene)",
@@ -21,5 +21,5 @@
         "De (Deng)",
         "Managobla (Gobla)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

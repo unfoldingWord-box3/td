@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nua",
-    "pk": 4675,
     "lc": "nua",
     "gw": false,
-    "ln": "Yuanga",
-    "ld": "ltr",
-    "ang": "Yuanga",
+    "ISO-639-3": "nua",
     "hc": "NC",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Yuanga",
+    "pk": 4675,
     "cc": [
         "NC"
     ],
+    "lr": "Pacific",
+    "ln": "Yuanga",
     "alt": [
         "Bond\u00e9",
         "Gomen",
@@ -23,5 +23,5 @@
         "Thuanga (Gomen)",
         "Juanga (Bond\u00e9)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

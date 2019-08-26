@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "akl",
-    "pk": 200,
     "lc": "akl",
     "gw": false,
-    "ln": "Aklanon",
-    "ld": "ltr",
-    "ang": "Inakeanon",
+    "ISO-639-3": "akl",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Inakeanon",
+    "pk": 200,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Aklanon",
     "alt": [
         "Aklan",
         "Aklano",
         "Aklanon-Bisayan",
         "Panay"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wyb",
-    "pk": 6849,
     "lc": "wyb",
     "gw": false,
-    "ln": "Wangaaybuwan-Ngiyambaa",
-    "ld": "ltr",
-    "ang": "Wangaaybuwan-Ngiyambaa",
+    "ISO-639-3": "wyb",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Wangaaybuwan-Ngiyambaa",
+    "pk": 6849,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Wangaaybuwan-Ngiyambaa",
     "alt": [
         "Noongaburrah",
         "Wayilwan (Waljwan)",
@@ -28,5 +28,5 @@
         "Wongaibon",
         "Ngumbarr"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

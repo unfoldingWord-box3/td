@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mdx",
-    "pk": 3750,
     "lc": "mdx",
     "gw": false,
-    "ln": "Dizin",
-    "ld": "ltr",
-    "ang": "Dizin",
+    "ISO-639-3": "mdx",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Dizin",
+    "pk": 3750,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Dizin",
     "alt": [
         "Dizi-Maji",
         "Dizinog",
@@ -20,5 +20,5 @@
         "Sizi",
         "Twoyu"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

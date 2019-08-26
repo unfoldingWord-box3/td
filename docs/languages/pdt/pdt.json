@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "pdt",
-    "pk": 4977,
     "lc": "pdt",
     "gw": false,
-    "ln": "Plautdietsch",
-    "ld": "ltr",
-    "ang": "Plautdietsch",
+    "ISO-639-3": "pdt",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Plautdietsch",
+    "pk": 4977,
     "cc": [
         "BZ",
         "DE",
@@ -17,10 +15,12 @@
         "BO",
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Plautdietsch",
     "alt": [
         "German",
         "Mennonite German",
         "Mennoniten Platt"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

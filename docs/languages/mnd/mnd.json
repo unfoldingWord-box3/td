@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mnd",
-    "pk": 3978,
     "lc": "mnd",
     "gw": false,
-    "ln": "Mond\u00e9",
-    "ld": "ltr",
-    "ang": "Mond\u00e9",
+    "ISO-639-3": "mnd",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Mond\u00e9",
+    "pk": 3978,
     "cc": [
         "BR"
     ],
+    "lr": "Americas",
+    "ln": "Mond\u00e9",
     "alt": [
         "Salam\u00e3i",
         "Salamaik\u00e3",
@@ -18,5 +18,5 @@
         "Sanamaik\u00e1",
         "Sanamayk\u00e3"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

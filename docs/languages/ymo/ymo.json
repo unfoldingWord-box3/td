@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "ymo",
-    "pk": 7231,
     "lc": "ymo",
     "gw": false,
-    "ln": "Yangum Mon",
-    "ld": "ltr",
-    "ang": "Yangum Mon",
+    "ISO-639-3": "ymo",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Yangum Mon",
+    "pk": 7231,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Yangum Mon",
     "alt": [
         "Aiku",
         "Malek",
         "Menandon",
         "Minendon"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

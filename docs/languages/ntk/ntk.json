@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ntk",
-    "pk": 4665,
     "lc": "ntk",
     "gw": false,
-    "ln": "Ikoma-Nata-Isenye",
-    "ld": "ltr",
-    "ang": "Ikoma-Nata-Isenye",
+    "ISO-639-3": "ntk",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Ikoma-Nata-Isenye",
+    "pk": 4665,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Ikoma-Nata-Isenye",
     "alt": [
         "Kiikoma",
         "Kinatta",
@@ -22,5 +22,5 @@
         "Ikoma (Kiikoma)",
         "Kiisenye"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jiq",
-    "pk": 2624,
     "lc": "jiq",
     "gw": false,
-    "ln": "\u7ef0\u65af\u7532\u8bed",
-    "ld": "ltr",
-    "ang": "Lavrung",
+    "ISO-639-3": "jiq",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Lavrung",
+    "pk": 2624,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u7ef0\u65af\u7532\u8bed",
     "alt": [
         "Guanyingqiao",
         "Western Jiarong",
@@ -23,5 +23,5 @@
         "Xiaoyili",
         "Yelong"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bko",
-    "pk": 743,
     "lc": "bko",
     "gw": false,
-    "ln": "Kwa'",
-    "ld": "ltr",
-    "ang": "Kwa\u2019",
+    "ISO-639-3": "bko",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Kwa\u2019",
+    "pk": 743,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Kwa'",
     "alt": [
         "Bakoa",
         "Bakwa",
@@ -20,5 +20,5 @@
         "Kwa' (Babwa)",
         "Mipa"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

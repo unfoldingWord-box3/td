@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bun",
-    "pk": 982,
     "lc": "bun",
     "gw": false,
-    "ln": "Sherbro",
-    "ld": "ltr",
-    "ang": "Sherbro",
+    "ISO-639-3": "bun",
     "hc": "SL",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Sherbro",
+    "pk": 982,
     "cc": [
         "SL"
     ],
+    "lr": "Africa",
+    "ln": "Sherbro",
     "alt": [
         "Amampa",
         "Mampa",
@@ -19,5 +19,5 @@
         "Southern Bullom",
         "Shenge Sherbro"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

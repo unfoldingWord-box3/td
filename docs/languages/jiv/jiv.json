@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jiv",
-    "pk": 2627,
     "lc": "jiv",
     "gw": false,
-    "ln": "Shuar",
-    "ld": "ltr",
-    "ang": "Shuar",
+    "ISO-639-3": "jiv",
     "hc": "EC",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Shuar",
+    "pk": 2627,
     "cc": [
         "EC"
     ],
+    "lr": "Americas",
+    "ln": "Shuar",
     "alt": [
         "Chiwaro",
         "Jivaro",
@@ -18,5 +18,5 @@
         "Xivaro",
         "Jibaro"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

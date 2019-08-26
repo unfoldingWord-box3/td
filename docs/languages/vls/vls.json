@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "vls",
-    "pk": 6627,
     "lc": "vls",
     "gw": false,
-    "ln": "Vlaams",
-    "ld": "ltr",
-    "ang": "Vlaams",
+    "ISO-639-3": "vls",
     "hc": "BE",
-    "lr": "Europe",
+    "gwcode": "nl",
+    "ang": "Vlaams",
+    "pk": 6627,
     "cc": [
         "BE",
         "US",
         "CA"
     ],
+    "lr": "Europe",
+    "ln": "Vlaams",
     "alt": [
         "Vlaemsch",
         "Frans Vlaams (Vlaemsch)"
     ],
-    "gwcode": "nl"
+    "ld": "ltr"
 }

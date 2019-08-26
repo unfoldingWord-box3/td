@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nge",
-    "pk": 4413,
     "lc": "nge",
     "gw": false,
-    "ln": "Ngemba",
-    "ld": "ltr",
-    "ang": "Ngemba",
+    "ISO-639-3": "nge",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Ngemba",
+    "pk": 4413,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Ngemba",
     "alt": [
         "Megimba",
         "Mogimba",
@@ -35,5 +35,5 @@
         "Mankon (Bida)",
         "Alatening (Alatining)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

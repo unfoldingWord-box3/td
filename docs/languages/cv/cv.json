@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "chv",
-    "pk": 1402,
     "lc": "cv",
     "gw": false,
-    "ln": "\u0447\u04d1\u0432\u0430\u0448 \u0447\u04d7\u043b\u0445\u0438",
-    "ld": "ltr",
-    "ang": "Chuvash",
+    "ISO-639-3": "chv",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Chuvash",
+    "pk": 1402,
     "cc": [
         "KZ",
         "TJ",
@@ -16,8 +14,10 @@
         "TM",
         "UZ"
     ],
+    "lr": "Europe",
+    "ln": "\u0447\u04d1\u0432\u0430\u0448 \u0447\u04d7\u043b\u0445\u0438",
     "alt": [
         "Bulgar"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

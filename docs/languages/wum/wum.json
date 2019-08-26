@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "wum",
-    "pk": 6837,
     "lc": "wum",
     "gw": false,
-    "ln": "Wumbvu",
-    "ld": "ltr",
-    "ang": "Wumbvu",
+    "ISO-639-3": "wum",
     "hc": "GA",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Wumbvu",
+    "pk": 6837,
     "cc": [
         "GA",
         "CG"
     ],
+    "lr": "Africa",
+    "ln": "Wumbvu",
     "alt": [
         "Aka",
         "Baaka",
@@ -23,5 +23,5 @@
         "Pygmy",
         "Wumvu"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "txa",
-    "pk": 6424,
     "lc": "txa",
     "gw": false,
-    "ln": "Tombonuo",
-    "ld": "ltr",
-    "ang": "Tombonuo",
+    "ISO-639-3": "txa",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Tombonuo",
+    "pk": 6424,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Tombonuo",
     "alt": [
         "Lobu",
         "Paitan",
@@ -29,5 +29,5 @@
         "Tunbumohas",
         "Lingkabau Sugut (Linkabau)"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

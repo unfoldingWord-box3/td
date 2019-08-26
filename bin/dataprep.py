@@ -168,7 +168,7 @@ for lnj in jlndata:
             ln = '\\' + ln
         uln = ln.encode("utf-8")
             
-        rst.write("%s\n%s\n\n" % (ln, ('=' * len(uln))))
+        rst.write("%s\n%s\n\n" % (ln, ('-' * len(uln))))
         if len(lc) == 2:
             i639_code = lnj["ISO-639-3"]
             rst.write("%s%s%s%s%s\n\n" % (note_a,i639_code,note_b,i639_code,note_c))

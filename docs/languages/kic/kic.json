@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kic",
-    "pk": 2885,
     "lc": "kic",
     "gw": false,
-    "ln": "Kickapoo",
-    "ld": "ltr",
-    "ang": "Kickapoo",
+    "ISO-639-3": "kic",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Kickapoo",
+    "pk": 2885,
     "cc": [
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Kickapoo",
     "alt": [
         "Kicapoux",
         "Kicapus",
@@ -20,5 +20,5 @@
         "Quicapause",
         "Kikapoo"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

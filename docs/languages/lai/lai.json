@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "lai",
-    "pk": 3342,
     "lc": "lai",
     "gw": false,
-    "ln": "Lambya",
-    "ld": "ltr",
-    "ang": "Lambya",
+    "ISO-639-3": "lai",
     "hc": "MW",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Lambya",
+    "pk": 3342,
     "cc": [
         "TZ",
         "ZM",
         "MW"
     ],
+    "lr": "Africa",
+    "ln": "Lambya",
     "alt": [
         "Ichilambya",
         "Kilambya",
@@ -22,5 +22,5 @@
         "Ici-Rambia",
         "Iramba"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

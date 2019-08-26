@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "gwc",
-    "pk": 2191,
     "lc": "gwc",
     "gw": false,
-    "ln": "\u06af\u0627\u0648\u0631\u06cc \u0632\u0628\u0627\u0646",
-    "ld": "ltr",
-    "ang": "Kalami",
+    "ISO-639-3": "gwc",
     "hc": "PK",
-    "lr": "Asia",
+    "gwcode": "ur",
+    "ang": "Kalami",
+    "pk": 2191,
     "cc": [
         "AF",
         "PK"
     ],
+    "lr": "Asia",
+    "ln": "\u06af\u0627\u0648\u0631\u06cc \u0632\u0628\u0627\u0646",
     "alt": [
         "Bashgharik",
         "Bashkarik",
@@ -30,5 +30,5 @@
         "Lamuti (Lamti)",
         "Rajkoti (Patrak)"
     ],
-    "gwcode": "ur"
+    "ld": "ltr"
 }

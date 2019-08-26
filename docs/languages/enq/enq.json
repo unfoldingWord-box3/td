@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "enq",
-    "pk": 1758,
     "lc": "enq",
     "gw": false,
-    "ln": "Enga",
-    "ld": "ltr",
-    "ang": "Enga",
+    "ISO-639-3": "enq",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Enga",
+    "pk": 1758,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Enga",
     "alt": [
         "Caga",
         "Tchaga",
@@ -21,5 +21,5 @@
         "Maramuni (Malamuni)",
         "Sau (Sau Enga)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

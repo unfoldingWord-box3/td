@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gwn",
-    "pk": 2198,
     "lc": "gwn",
     "gw": false,
-    "ln": "Gwandara",
-    "ld": "ltr",
-    "ang": "Gwandara",
+    "ISO-639-3": "gwn",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Gwandara",
+    "pk": 2198,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Gwandara",
     "alt": [
         "Kwandara",
         "Gwandara Southern (Kyan Kyar)",
@@ -19,5 +19,5 @@
         "Gwandara Eastern (Toni)",
         "Gwandara Gitata"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

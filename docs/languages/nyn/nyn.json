@@ -1,19 +1,19 @@
 {
-    "ISO-639-3": "nyn",
-    "pk": 4738,
     "lc": "nyn",
     "gw": false,
-    "ln": "Nyankole",
-    "ld": "ltr",
-    "ang": "Nyankore",
+    "ISO-639-3": "nyn",
     "hc": "UG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Nyankore",
+    "pk": 4738,
     "cc": [
         "RW",
         "TZ",
         "UG",
         "BI"
     ],
+    "lr": "Africa",
+    "ln": "Nyankole",
     "alt": [
         "Nkole",
         "Nyankole",
@@ -21,5 +21,5 @@
         "Ulunyankole",
         "Ulunyankore"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ati",
-    "pk": 387,
     "lc": "ati",
     "gw": false,
-    "ln": "Atti\u00e9",
-    "ld": "ltr",
-    "ang": "Atti\u00e9",
+    "ISO-639-3": "ati",
     "hc": "CI",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Atti\u00e9",
+    "pk": 387,
     "cc": [
         "CI"
     ],
+    "lr": "Africa",
+    "ln": "Atti\u00e9",
     "alt": [
         "Akie",
         "Akye",
@@ -18,5 +18,5 @@
         "Atie",
         "Atshe"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

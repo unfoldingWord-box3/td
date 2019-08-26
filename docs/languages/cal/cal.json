@@ -1,22 +1,22 @@
 {
-    "ISO-639-3": "cal",
-    "pk": 1119,
     "lc": "cal",
     "gw": false,
-    "ln": "Carolinian",
-    "ld": "ltr",
-    "ang": "Carolinian",
+    "ISO-639-3": "cal",
     "hc": "MP",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Carolinian",
+    "pk": 1119,
     "cc": [
         "MP",
         "US",
         "FM"
     ],
+    "lr": "Pacific",
+    "ln": "Carolinian",
     "alt": [
         "Saipan Carolinian",
         "Southern Carolinian",
         "Gupallao"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

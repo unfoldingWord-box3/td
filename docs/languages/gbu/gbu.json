@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gbu",
-    "pk": 1946,
     "lc": "gbu",
     "gw": false,
-    "ln": "Gagadu",
-    "ld": "ltr",
-    "ang": "Gagadu",
+    "ISO-639-3": "gbu",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Gagadu",
+    "pk": 1946,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Gagadu",
     "alt": [
         "Abdedal",
         "Abiddul",
@@ -20,5 +20,5 @@
         "Kakdju",
         "Kakdjuan"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

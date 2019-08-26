@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mmw",
-    "pk": 3970,
     "lc": "mmw",
     "gw": false,
-    "ln": "Emae",
-    "ld": "ltr",
-    "ang": "Emae",
+    "ISO-639-3": "mmw",
     "hc": "VU",
-    "lr": "Pacific",
+    "gwcode": "fr",
+    "ang": "Emae",
+    "pk": 3970,
     "cc": [
         "VU"
     ],
+    "lr": "Pacific",
+    "ln": "Emae",
     "alt": [
         "Emai",
         "Emwae",
@@ -18,5 +18,5 @@
         "Mai",
         "Mwae"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

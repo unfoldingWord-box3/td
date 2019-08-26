@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "png",
-    "pk": 5105,
     "lc": "png",
     "gw": false,
-    "ln": "Pongu",
-    "ld": "ltr",
-    "ang": "Pangu",
+    "ISO-639-3": "png",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Pangu",
+    "pk": 5105,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Pongu",
     "alt": [
         "Arringeu",
         "Pongo",
@@ -18,5 +18,5 @@
         "Tarin",
         "Waga"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

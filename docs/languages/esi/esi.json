@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "esi",
-    "pk": 1779,
     "lc": "esi",
     "gw": false,
-    "ln": "North Alaskan Inupiatun",
-    "ld": "ltr",
-    "ang": "Inupiatun, North Alaskan",
+    "ISO-639-3": "esi",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Inupiatun, North Alaskan",
+    "pk": 1779,
     "cc": [
         "US",
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "North Alaskan Inupiatun",
     "alt": [
         "Inupiaq",
         "Inupiat",
@@ -25,5 +25,5 @@
         "North Slope Inupiatun",
         "Mackenzie Inupiatun"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

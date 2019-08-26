@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "aeb",
-    "pk": 92,
     "lc": "aeb",
     "gw": false,
-    "ln": "Tunisian Arabic",
-    "ld": "rtl",
-    "ang": "Arabic, Tunisian Spoken",
+    "ISO-639-3": "aeb",
     "hc": "TN",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Arabic, Tunisian Spoken",
+    "pk": 92,
     "cc": [
         "BE",
         "FR",
@@ -17,6 +15,8 @@
         "IT",
         "LY"
     ],
+    "lr": "Africa",
+    "ln": "Tunisian Arabic",
     "alt": [
         "Sahil",
         "Sfax",
@@ -28,5 +28,5 @@
         "Tunisian Arabic",
         "Tunisian Darija"
     ],
-    "gwcode": "ar"
+    "ld": "rtl"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tmk",
-    "pk": 6204,
     "lc": "tmk",
     "gw": false,
-    "ln": "Northwestern Tamang",
-    "ld": "ltr",
-    "ang": "Tamang, Northwestern",
+    "ISO-639-3": "tmk",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Tamang, Northwestern",
+    "pk": 6204,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "Northwestern Tamang",
     "alt": [
         "Kath-Bhotiya",
         "Lama Bhote",
@@ -21,5 +21,5 @@
         "Tamang Lengmo",
         "Tamang Tam"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

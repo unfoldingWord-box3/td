@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "duf",
-    "pk": 1655,
     "lc": "duf",
     "gw": false,
-    "ln": "Dumbea",
-    "ld": "ltr",
-    "ang": "Drubea",
+    "ISO-639-3": "duf",
     "hc": "NC",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Drubea",
+    "pk": 1655,
     "cc": [
         "NC"
     ],
+    "lr": "Pacific",
+    "ln": "Dumbea",
     "alt": [
         "Diubea",
         "Dubea",
@@ -19,5 +19,5 @@
         "Ndumbea",
         "Nraa Drubea"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

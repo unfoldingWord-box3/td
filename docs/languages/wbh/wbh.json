@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wbh",
-    "pk": 6693,
     "lc": "wbh",
     "gw": false,
-    "ln": "Wanda",
-    "ld": "ltr",
-    "ang": "Wanda",
+    "ISO-639-3": "wbh",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Wanda",
+    "pk": 6693,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Wanda",
     "alt": [
         "Ichiwanda",
         "Iciwanda",
@@ -19,5 +19,5 @@
         "Wandia",
         "Sichela"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

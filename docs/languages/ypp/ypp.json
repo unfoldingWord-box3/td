@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ypp",
-    "pk": 7265,
     "lc": "ypp",
     "gw": false,
-    "ln": "Phupa",
-    "ld": "ltr",
-    "ang": "Phupa",
+    "ISO-639-3": "ypp",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Phupa",
+    "pk": 7265,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "Phupa",
     "alt": [
         "Hlagho",
         "Lagh\u00ef",
@@ -30,5 +30,5 @@
         "Baiwushan",
         "Nuogumi"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mjt",
-    "pk": 3894,
     "lc": "mjt",
     "gw": false,
-    "ln": "Sauria Paharia",
-    "ld": "ltr",
-    "ang": "Sauria Paharia",
+    "ISO-639-3": "mjt",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hi",
+    "ang": "Sauria Paharia",
+    "pk": 3894,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Sauria Paharia",
     "alt": [
         "Malatri",
         "Maler",
@@ -19,5 +19,5 @@
         "Sawriya Malto",
         "Litipara (Chatgam)"
     ],
-    "gwcode": "hi"
+    "ld": "ltr"
 }

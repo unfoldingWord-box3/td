@@ -1,24 +1,24 @@
 {
-    "ISO-639-3": "pov",
-    "pk": 5137,
     "lc": "pov",
     "gw": false,
-    "ln": "Upper Guinea Crioulo",
-    "ld": "ltr",
-    "ang": "Crioulo, Upper Guinea",
+    "ISO-639-3": "pov",
     "hc": "GW",
-    "lr": "Africa",
+    "gwcode": "pt",
+    "ang": "Crioulo, Upper Guinea",
+    "pk": 5137,
     "cc": [
         "GM",
         "NL",
         "SN",
         "GW"
     ],
+    "lr": "Africa",
+    "ln": "Upper Guinea Crioulo",
     "alt": [
         "Guinea-Bissau Creole",
         "Kiryol",
         "Kriulo",
         "Portuguese Creole"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

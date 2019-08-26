@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "zyg",
-    "pk": 7496,
     "lc": "zyg",
     "gw": false,
-    "ln": "\u5f97\u9756",
-    "ld": "ltr",
-    "ang": "Zhuang, Yang",
+    "ISO-639-3": "zyg",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Zhuang, Yang",
+    "pk": 7496,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u5f97\u9756",
     "alt": [
         "De-Jing Vernacular of the Southern Dialect of the Zhuang Language",
         "Dejing Zhuang",
@@ -37,5 +37,5 @@
         "Tianpao",
         "Yang (Tuhua)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

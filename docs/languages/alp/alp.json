@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "alp",
-    "pk": 224,
     "lc": "alp",
     "gw": false,
-    "ln": "Alune",
-    "ld": "ltr",
-    "ang": "Alune",
+    "ISO-639-3": "alp",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Alune",
+    "pk": 224,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Alune",
     "alt": [
         "Central East Alune (Buriah-Weth-Laturake)",
         "Central West Alune (Niniari-Piru-Riring-Lumoli)",
@@ -19,5 +19,5 @@
         "Patasiwa Alfoeren",
         "Sapalewa"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

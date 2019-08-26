@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "bos",
-    "pk": 923,
     "lc": "bs",
     "gw": false,
-    "ln": "bosanski jezik",
-    "ld": "ltr",
-    "ang": "Bosnian",
+    "ISO-639-3": "bos",
     "hc": "BA",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Bosnian",
+    "pk": 923,
     "cc": [
         "BA",
         "DE",
@@ -19,9 +17,11 @@
         "IT",
         "IE"
     ],
+    "lr": "Europe",
+    "ln": "bosanski jezik",
     "alt": [
         "Ijekav\u00edan",
         "Ikavian"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

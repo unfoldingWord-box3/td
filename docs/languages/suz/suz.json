@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "suz",
-    "pk": 5892,
     "lc": "suz",
     "gw": false,
-    "ln": "\u0938\u0941\u0928\u0941\u0935\u093e\u0930",
-    "ld": "ltr",
-    "ang": "Sunuwar",
+    "ISO-639-3": "suz",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Sunuwar",
+    "pk": 5892,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "\u0938\u0941\u0928\u0941\u0935\u093e\u0930",
     "alt": [
         "Bhujuwar",
         "Kirati-Koits",
@@ -19,5 +19,5 @@
         "Pirthwar",
         "Sunwari"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

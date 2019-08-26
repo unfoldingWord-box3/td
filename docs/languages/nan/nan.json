@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "nan",
-    "pk": 4298,
     "lc": "nan",
     "gw": false,
-    "ln": "\u95fd\u5357\u8bed",
-    "ld": "ltr",
-    "ang": "Chinese, Min Nan",
+    "ISO-639-3": "nan",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Chinese, Min Nan",
+    "pk": 4298,
     "cc": [
         "CL",
         "CN",
@@ -21,6 +19,8 @@
         "CA",
         "SG"
     ],
+    "lr": "Asia",
+    "ln": "\u95fd\u5357\u8bed",
     "alt": [
         "Min Nan",
         "Minnan",
@@ -54,5 +54,5 @@
         "Hokkien (Amoy)",
         "Chao-Shan (Chaozhou)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "tek",
-    "pk": 6061,
     "lc": "tek",
     "gw": false,
-    "ln": "Ibali Teke",
-    "ld": "ltr",
-    "ang": "Teke, Ibali",
+    "ISO-639-3": "tek",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Teke, Ibali",
+    "pk": 6061,
     "cc": [
         "CG",
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Ibali Teke",
     "alt": [
         "Eastern Teke",
         "Ibali",
@@ -22,5 +22,5 @@
         "Tio",
         "Tyo"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mdn",
-    "pk": 3741,
     "lc": "mdn",
     "gw": false,
-    "ln": "Mbati",
-    "ld": "ltr",
-    "ang": "Mbati",
+    "ISO-639-3": "mdn",
     "hc": "CF",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Mbati",
+    "pk": 3741,
     "cc": [
         "CF"
     ],
+    "lr": "Africa",
+    "ln": "Mbati",
     "alt": [
         "Isongo",
         "Issongo",
@@ -18,5 +18,5 @@
         "Lissongo",
         "Songo"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

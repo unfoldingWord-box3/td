@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "trn",
-    "pk": 6311,
     "lc": "trn",
     "gw": false,
-    "ln": "Trinitario",
-    "ld": "ltr",
-    "ang": "Trinitario",
+    "ISO-639-3": "trn",
     "hc": "BO",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Trinitario",
+    "pk": 6311,
     "cc": [
         "BO"
     ],
+    "lr": "Americas",
+    "ln": "Trinitario",
     "alt": [
         "Mojos",
         "Moxos",
         "Loreto (Loretano)"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

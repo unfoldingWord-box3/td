@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "ium",
-    "pk": 2548,
     "lc": "ium",
     "gw": false,
-    "ln": "\u52c9\u8a9e",
-    "ld": "ltr",
-    "ang": "Iu Mien",
+    "ISO-639-3": "ium",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Iu Mien",
+    "pk": 2548,
     "cc": [
         "CN",
         "FR",
@@ -15,6 +13,8 @@
         "TH",
         "US"
     ],
+    "lr": "Asia",
+    "ln": "\u52c9\u8a9e",
     "alt": [
         "Ban Yao",
         "Highland Yao",
@@ -41,5 +41,5 @@
         "Dao Lo Gang",
         "Guoshan Yao"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

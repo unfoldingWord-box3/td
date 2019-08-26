@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "eme",
-    "pk": 1735,
     "lc": "eme",
     "gw": false,
-    "ln": "Emerillon",
-    "ld": "ltr",
-    "ang": "Emerillon",
+    "ISO-639-3": "eme",
     "hc": "GF",
-    "lr": "Americas",
+    "gwcode": "fr",
+    "ang": "Emerillon",
+    "pk": 1735,
     "cc": [
         "GF"
     ],
+    "lr": "Americas",
+    "ln": "Emerillon",
     "alt": [
         "Emere\u00f1on",
         "Emerilon",
@@ -20,5 +20,5 @@
         "Teco",
         "Teko"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

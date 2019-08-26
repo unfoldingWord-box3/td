@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nbv",
-    "pk": 4328,
     "lc": "nbv",
     "gw": false,
-    "ln": "Ngamambo",
-    "ld": "ltr",
-    "ang": "Ngamambo",
+    "ISO-639-3": "nbv",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Ngamambo",
+    "pk": 4328,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Ngamambo",
     "alt": [
         "Bafuchu",
         "Banja",
@@ -19,5 +19,5 @@
         "Nga",
         "Ngembo"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

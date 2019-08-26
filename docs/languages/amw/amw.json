@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "amw",
-    "pk": 255,
     "lc": "amw",
     "gw": false,
-    "ln": "\u0710\u072a\u0721\u071d\u072c",
-    "ld": "ltr",
-    "ang": "Western Neo-Aramaic",
+    "ISO-639-3": "amw",
     "hc": "SY",
-    "lr": "Asia",
+    "gwcode": "ar",
+    "ang": "Western Neo-Aramaic",
+    "pk": 255,
     "cc": [
         "SY"
     ],
+    "lr": "Asia",
+    "ln": "\u0710\u072a\u0721\u071d\u072c",
     "alt": [
         "Bakh'a (Bax'a)",
         "Jub-'adin (Jubb 'Adi:n)",
@@ -21,5 +21,5 @@
         "Ma'lu:la",
         "Ma'lula (Maaloula)"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

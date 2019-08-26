@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "lif",
-    "pk": 3459,
     "lc": "lif",
     "gw": false,
-    "ln": "\u0932\u093f\u092e\u094d\u092c\u0942",
-    "ld": "ltr",
-    "ang": "Limbu",
+    "ISO-639-3": "lif",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Limbu",
+    "pk": 3459,
     "cc": [
         "BT",
         "NP",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "\u0932\u093f\u092e\u094d\u092c\u0942",
     "alt": [
         "Limbo",
         "Limboo",
@@ -23,5 +23,5 @@
         "Tamorkhole (Taplejunge)",
         "Yanggrokke (Yanggruppe)"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

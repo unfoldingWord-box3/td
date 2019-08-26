@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "bfa",
-    "pk": 609,
     "lc": "bfa",
     "gw": false,
-    "ln": "Bari",
-    "ld": "ltr",
-    "ang": "Bari",
+    "ISO-639-3": "bfa",
     "hc": "SS",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Bari",
+    "pk": 609,
     "cc": [
         "SS",
         "US",
         "UG"
     ],
+    "lr": "Africa",
+    "ln": "Bari",
     "alt": [
         "Beri",
         "Nyangbara (Nyambara)",
@@ -30,5 +30,5 @@
         "Nyefu",
         "Mundari"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "cdo",
-    "pk": 1169,
     "lc": "cdo",
     "gw": false,
-    "ln": "\u95fd\u4e1c\u8bed",
-    "ld": "ltr",
-    "ang": "Chinese, Min Dong",
+    "ISO-639-3": "cdo",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Chinese, Min Dong",
+    "pk": 1169,
     "cc": [
         "CN",
         "US"
     ],
+    "lr": "Asia",
+    "ln": "\u95fd\u4e1c\u8bed",
     "alt": [
         "Eastern Min",
         "Foochow",
@@ -23,5 +23,5 @@
         "Fuchow",
         "Foochow (Fuzhou)"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

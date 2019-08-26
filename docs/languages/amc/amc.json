@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "amc",
-    "pk": 237,
     "lc": "amc",
     "gw": false,
-    "ln": "Amahuaca",
-    "ld": "ltr",
-    "ang": "Amahuaca",
+    "ISO-639-3": "amc",
     "hc": "PE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Amahuaca",
+    "pk": 237,
     "cc": [
         "BR",
         "PE"
     ],
+    "lr": "Americas",
+    "ln": "Amahuaca",
     "alt": [
         "Amawaca",
         "Amaw\u00e1ka",
@@ -23,5 +23,5 @@
         "Ipitineri",
         "Sayaco"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

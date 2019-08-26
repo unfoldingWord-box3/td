@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "aoc",
-    "pk": 285,
     "lc": "aoc",
     "gw": false,
-    "ln": "Pemon",
-    "ld": "ltr",
-    "ang": "Pemon",
+    "ISO-639-3": "aoc",
     "hc": "VE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Pemon",
+    "pk": 285,
     "cc": [
         "BR",
         "VE",
         "GY"
     ],
+    "lr": "Americas",
+    "ln": "Pemon",
     "alt": [
         "Pemong",
         "Taulip\u00e1ng",
@@ -30,5 +30,5 @@
         "Aricuna",
         "Camaracota (Ipuricoto)"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

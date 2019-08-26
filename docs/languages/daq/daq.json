@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "daq",
-    "pk": 1433,
     "lc": "daq",
     "gw": false,
-    "ln": "Dandami Maria",
-    "ld": "ltr",
-    "ang": "Maria, Dandami",
+    "ISO-639-3": "daq",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "hne",
+    "ang": "Maria, Dandami",
+    "pk": 1433,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Dandami Maria",
     "alt": [
         "Bastar Koya",
         "Bison Horn Maria",
@@ -19,5 +19,5 @@
         "Madiya",
         "Maria Gond"
     ],
-    "gwcode": "hne"
+    "ld": "ltr"
 }

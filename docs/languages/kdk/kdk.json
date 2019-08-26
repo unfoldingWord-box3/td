@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kdk",
-    "pk": 2770,
     "lc": "kdk",
     "gw": false,
-    "ln": "Num\u00e8\u00e8",
-    "ld": "ltr",
-    "ang": "Num\u00e8\u00e8",
+    "ISO-639-3": "kdk",
     "hc": "NC",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Num\u00e8\u00e8",
+    "pk": 2770,
     "cc": [
         "NC"
     ],
+    "lr": "Pacific",
+    "ln": "Num\u00e8\u00e8",
     "alt": [
         "Dialectes de l'Extreme Sud",
         "Duauru",
@@ -28,5 +28,5 @@
         "Kwenyii (Kunie)",
         "Numee (Touaouru)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

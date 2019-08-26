@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mvy",
-    "pk": 4190,
     "lc": "mvy",
     "gw": false,
-    "ln": "\u06a9\u0648\u06c1\u0633\u062a\u0627\u0646\u06cc \u0632\u0628\u0627\u0646",
-    "ld": "ltr",
-    "ang": "Kohistani, Indus",
+    "ISO-639-3": "mvy",
     "hc": "PK",
-    "lr": "Asia",
+    "gwcode": "ur",
+    "ang": "Kohistani, Indus",
+    "pk": 4190,
     "cc": [
         "PK"
     ],
+    "lr": "Asia",
+    "ln": "\u06a9\u0648\u06c1\u0633\u062a\u0627\u0646\u06cc \u0632\u0628\u0627\u0646",
     "alt": [
         "Khili",
         "Kohistani",
@@ -26,5 +26,5 @@
         "Duber-Kandia (Khili)",
         "Mani"
     ],
-    "gwcode": "ur"
+    "ld": "ltr"
 }

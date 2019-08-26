@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "idu",
-    "pk": 2428,
     "lc": "idu",
     "gw": false,
-    "ln": "Idoma",
-    "ld": "ltr",
-    "ang": "Idoma",
+    "ISO-639-3": "idu",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Idoma",
+    "pk": 2428,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Idoma",
     "alt": [
         "Idoma Central (Akpoto)",
         "Idoma South (Igumale)",
@@ -19,5 +19,5 @@
         "Ijigbam",
         "Oturkpo"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

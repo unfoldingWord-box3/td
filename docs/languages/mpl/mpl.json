@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "mpl",
-    "pk": 4031,
     "lc": "mpl",
     "gw": false,
-    "ln": "Middle Watut",
-    "ld": "ltr",
-    "ang": "Watut, Middle",
+    "ISO-639-3": "mpl",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Watut, Middle",
+    "pk": 4031,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Middle Watut",
     "alt": [
         "Maraliinan",
         "Maralinan",
         "Silisili",
         "Watut"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

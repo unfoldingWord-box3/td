@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "xon",
-    "pk": 7007,
     "lc": "xon",
     "gw": false,
-    "ln": "Konkomba",
-    "ld": "ltr",
-    "ang": "Konkomba",
+    "ISO-639-3": "xon",
     "hc": "GH",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Konkomba",
+    "pk": 7007,
     "cc": [
         "GH",
         "TG"
     ],
+    "lr": "Africa",
+    "ln": "Konkomba",
     "alt": [
         "Kpankpamba",
         "Nalong",
@@ -19,5 +19,5 @@
         "Likoonli (Likonl)",
         "Liquan"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

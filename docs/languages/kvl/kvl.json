@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kvl",
-    "pk": 3219,
     "lc": "kvl",
     "gw": false,
-    "ln": "Kayaw",
-    "ld": "ltr",
-    "ang": "Kayaw",
+    "ISO-639-3": "kvl",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Kayaw",
+    "pk": 3219,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Kayaw",
     "alt": [
         "Deleh",
         "Laku",
@@ -25,5 +25,5 @@
         "Bwe-Kayaw",
         "Prek"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "oma",
-    "pk": 4823,
     "lc": "oma",
     "gw": false,
-    "ln": "Omaha-Ponca",
-    "ld": "ltr",
-    "ang": "Omaha-Ponca",
+    "ISO-639-3": "oma",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Omaha-Ponca",
+    "pk": 4823,
     "cc": [
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Omaha-Ponca",
     "alt": [
         "Mahairi",
         "Ponka",
         "Ppankka",
         "Umanhan"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

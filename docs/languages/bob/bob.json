@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bob",
-    "pk": 832,
     "lc": "bob",
     "gw": false,
-    "ln": "Aweer",
-    "ld": "ltr",
-    "ang": "Aweer",
+    "ISO-639-3": "bob",
     "hc": "KE",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Aweer",
+    "pk": 832,
     "cc": [
         "KE"
     ],
+    "lr": "Africa",
+    "ln": "Aweer",
     "alt": [
         "Aweera",
         "Bon",
@@ -19,5 +19,5 @@
         "Wata-Bala",
         "Sanye"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

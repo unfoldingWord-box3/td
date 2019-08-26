@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bta",
-    "pk": 946,
     "lc": "bta",
     "gw": false,
-    "ln": "Bata",
-    "ld": "ltr",
-    "ang": "Bata",
+    "ISO-639-3": "bta",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Bata",
+    "pk": 946,
     "cc": [
         "CM",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Bata",
     "alt": [
         "Dii",
         "Gbwata",
@@ -34,5 +34,5 @@
         "Garoua (Garua)",
         "Wadi (Wa'i)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

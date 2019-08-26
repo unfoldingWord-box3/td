@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "nmh",
-    "pk": 4541,
     "lc": "nmh",
     "gw": false,
-    "ln": "Monsang Naga",
-    "ld": "ltr",
-    "ang": "Naga, Monsang",
+    "ISO-639-3": "nmh",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Naga, Monsang",
+    "pk": 4541,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Monsang Naga",
     "alt": [
         "Mawshang",
         "Moshang",
         "Mushang"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

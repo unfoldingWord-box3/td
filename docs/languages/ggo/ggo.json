@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "UNKNOWN",
-    "pk": 2005,
     "lc": "ggo",
     "gw": false,
-    "ln": "Southern Gondi",
-    "ld": "ltr",
-    "ang": "Gondi, Southern",
+    "ISO-639-3": "UNKNOWN",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "te",
+    "ang": "Gondi, Southern",
+    "pk": 2005,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Southern Gondi",
     "alt": [
         "Koi Gondi",
         "Telugu Gondi",
         "Nirmal (Adilabad)"
     ],
-    "gwcode": "te"
+    "ld": "ltr"
 }

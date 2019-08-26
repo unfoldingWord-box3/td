@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "yok",
-    "pk": 7251,
     "lc": "yok",
     "gw": false,
-    "ln": "Yokuts",
-    "ld": "ltr",
-    "ang": "Yokuts",
+    "ISO-639-3": "yok",
     "hc": "US",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Yokuts",
+    "pk": 7251,
     "cc": [
         "US"
     ],
+    "lr": "Americas",
+    "ln": "Yokuts",
     "alt": [
         "Choynumne",
         "Yowlumne",
@@ -21,5 +21,5 @@
         "Choinumne (Choinimne)",
         "Dumna"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

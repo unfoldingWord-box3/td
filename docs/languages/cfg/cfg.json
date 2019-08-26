@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cfg",
-    "pk": 1183,
     "lc": "cfg",
     "gw": false,
-    "ln": "Como Karim",
-    "ld": "ltr",
-    "ang": "Como Karim",
+    "ISO-639-3": "cfg",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Como Karim",
+    "pk": 1183,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Como Karim",
     "alt": [
         "Asom",
         "Chomo",
@@ -21,5 +21,5 @@
         "Shomo Karim",
         "Shomong"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

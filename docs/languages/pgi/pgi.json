@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "pgi",
-    "pk": 5004,
     "lc": "pgi",
     "gw": false,
-    "ln": "Pagi",
-    "ld": "ltr",
-    "ang": "Pagi",
+    "ISO-639-3": "pgi",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Pagi",
+    "pk": 5004,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Pagi",
     "alt": [
         "Bembi",
         "Pagei",
         "Eastern Pagi (Imbinis)",
         "Western Pagi (Bewani)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

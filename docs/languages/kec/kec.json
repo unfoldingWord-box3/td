@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kec",
-    "pk": 2785,
     "lc": "kec",
     "gw": false,
-    "ln": "Keiga",
-    "ld": "ltr",
-    "ang": "Keiga",
+    "ISO-639-3": "kec",
     "hc": "SD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Keiga",
+    "pk": 2785,
     "cc": [
         "SD"
     ],
+    "lr": "Africa",
+    "ln": "Keiga",
     "alt": [
         "Aigang",
         "Keiga-Al-Kheil",
@@ -19,5 +19,5 @@
         "Demik (Rofik)",
         "Keiga (Aigang)"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

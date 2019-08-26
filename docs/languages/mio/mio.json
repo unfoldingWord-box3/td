@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "mio",
-    "pk": 3868,
     "lc": "mio",
     "gw": false,
-    "ln": "Pinotepa Nacional Mixtec",
-    "ld": "ltr",
-    "ang": "Mixtec, Pinotepa Nacional",
+    "ISO-639-3": "mio",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mixtec, Pinotepa Nacional",
+    "pk": 3868,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Pinotepa Nacional Mixtec",
     "alt": [
         "Coastal Mixtec",
         "Lowland Jicaltepec Mixtec",
         "Mixteco de Pinotepa Nacional",
         "Western Jamiltepec Mixtec"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

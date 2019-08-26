@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "ssb",
-    "pk": 5827,
     "lc": "ssb",
     "gw": false,
-    "ln": "Southern Sama",
-    "ld": "ltr",
-    "ang": "Sama, Southern",
+    "ISO-639-3": "ssb",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Sama, Southern",
+    "pk": 5827,
     "cc": [
         "MY",
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Southern Sama",
     "alt": [
         "Southern Bajau",
         "Sama Tawi-Tawi",
@@ -40,5 +40,5 @@
         "Sama Kubang",
         "Balimbing"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

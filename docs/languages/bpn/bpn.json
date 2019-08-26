@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "bpn",
-    "pk": 863,
     "lc": "bpn",
     "gw": false,
-    "ln": "\u85fb\u654f",
-    "ld": "ltr",
-    "ang": "Dzao Min",
+    "ISO-639-3": "bpn",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Dzao Min",
+    "pk": 863,
     "cc": [
         "CN"
     ],
+    "lr": "Asia",
+    "ln": "\u85fb\u654f",
     "alt": [
         "Ba Pai Yao",
         "Yao Min",
         "Yau Min",
         "Zaomin"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "oaa",
-    "pk": 4756,
     "lc": "oaa",
     "gw": false,
-    "ln": "\u041e\u0440\u043e\u043a\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Orok",
+    "ISO-639-3": "oaa",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Orok",
+    "pk": 4756,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u041e\u0440\u043e\u043a\u0441\u043a\u0438\u0439",
     "alt": [
         "Oroc",
         "Uilta",
@@ -20,5 +20,5 @@
         "Val-Nogliki (Nogliki-Val)",
         "Northern Orok"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

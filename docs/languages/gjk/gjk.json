@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gjk",
-    "pk": 2040,
     "lc": "gjk",
     "gw": false,
-    "ln": "Kachi Koli",
-    "ld": "ltr",
-    "ang": "Koli, Kachi",
+    "ISO-639-3": "gjk",
     "hc": "PK",
-    "lr": "Asia",
+    "gwcode": "ur",
+    "ang": "Koli, Kachi",
+    "pk": 2040,
     "cc": [
         "PK"
     ],
+    "lr": "Asia",
+    "ln": "Kachi Koli",
     "alt": [
         "Kachi Gujarati",
         "Katchi",
@@ -24,5 +24,5 @@
         "Vagri (Kachi Meghwar)",
         "Rabari (Rahabari)"
     ],
-    "gwcode": "ur"
+    "ld": "ltr"
 }

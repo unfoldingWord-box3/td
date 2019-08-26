@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "vay",
-    "pk": 6596,
     "lc": "vay",
     "gw": false,
-    "ln": "\u0935\u093e\u092f\u0941",
-    "ld": "ltr",
-    "ang": "Vayu",
+    "ISO-639-3": "vay",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Vayu",
+    "pk": 6596,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "\u0935\u093e\u092f\u0941",
     "alt": [
         "Bayu",
         "Vayu",
@@ -18,5 +18,5 @@
         "Marin Khola",
         "Sindhuli"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bid",
-    "pk": 689,
     "lc": "bid",
     "gw": false,
-    "ln": "Bidiyo",
-    "ld": "ltr",
-    "ang": "Bidiyo",
+    "ISO-639-3": "bid",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Bidiyo",
+    "pk": 689,
     "cc": [
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Bidiyo",
     "alt": [
         "Bidio",
         "Bidiya",
@@ -23,5 +23,5 @@
         "Garawgino (Kafila)",
         "Jekkino (Kofilo)"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

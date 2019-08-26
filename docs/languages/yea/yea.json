@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "yea",
-    "pk": 7158,
     "lc": "yea",
     "gw": false,
-    "ln": "Ravula",
-    "ld": "ltr",
-    "ang": "Ravula",
+    "ISO-639-3": "yea",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "kn",
+    "ang": "Ravula",
+    "pk": 7158,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Ravula",
     "alt": [
         "Adiya",
         "Adiyan",
@@ -20,5 +20,5 @@
         "Yoruba",
         "Pani Yerava"
     ],
-    "gwcode": "kn"
+    "ld": "ltr"
 }

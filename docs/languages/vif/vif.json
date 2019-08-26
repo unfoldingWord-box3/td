@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "vif",
-    "pk": 6612,
     "lc": "vif",
     "gw": false,
-    "ln": "Vili",
-    "ld": "ltr",
-    "ang": "Vili",
+    "ISO-639-3": "vif",
     "hc": "CG",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Vili",
+    "pk": 6612,
     "cc": [
         "GA",
         "CG"
     ],
+    "lr": "Africa",
+    "ln": "Vili",
     "alt": [
         "Civili",
         "Fiot",
@@ -28,5 +28,5 @@
         "Civili ci Loango",
         "Kotchi"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

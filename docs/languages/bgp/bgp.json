@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bgp",
-    "pk": 649,
     "lc": "bgp",
     "gw": false,
-    "ln": "\u0628\u0644\u0648\u0686\u06cc \u0632\u0628\u0627\u0646",
-    "ld": "ltr",
-    "ang": "Balochi, Eastern",
+    "ISO-639-3": "bgp",
     "hc": "PK",
-    "lr": "Asia",
+    "gwcode": "ur",
+    "ang": "Balochi, Eastern",
+    "pk": 649,
     "cc": [
         "PK",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "\u0628\u0644\u0648\u0686\u06cc \u0632\u0628\u0627\u0646",
     "alt": [
         "Balochi",
         "Baloci",
@@ -19,5 +19,5 @@
         "Baluchi",
         "Eastern Hill Balochi"
     ],
-    "gwcode": "ur"
+    "ld": "ltr"
 }

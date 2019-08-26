@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "aqn",
-    "pk": 329,
     "lc": "aqn",
     "gw": false,
-    "ln": "Northern Alta",
-    "ld": "ltr",
-    "ang": "Alta, Northern",
+    "ISO-639-3": "aqn",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Alta, Northern",
+    "pk": 329,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Northern Alta",
     "alt": [
         "Baler Negrito",
         "Ditaylin Alta",
         "Ditaylin Dumagat",
         "Edimala"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ctn",
-    "pk": 1376,
     "lc": "ctn",
     "gw": false,
-    "ln": "\u091b\u093f\u0928\u094d\u0924\u093e\u0919\u094d",
-    "ld": "ltr",
-    "ang": "Chhintang",
+    "ISO-639-3": "ctn",
     "hc": "NP",
-    "lr": "Asia",
+    "gwcode": "ne",
+    "ang": "Chhintang",
+    "pk": 1376,
     "cc": [
         "NP"
     ],
+    "lr": "Asia",
+    "ln": "\u091b\u093f\u0928\u094d\u0924\u093e\u0919\u094d",
     "alt": [
         "Chhintange",
         "Chintang",
@@ -19,5 +19,5 @@
         "Mulgaun",
         "Sambhugaon"
     ],
-    "gwcode": "ne"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "kuj",
-    "pk": 3191,
     "lc": "kuj",
     "gw": false,
-    "ln": "Kuria",
-    "ld": "ltr",
-    "ang": "Kuria",
+    "ISO-639-3": "kuj",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Kuria",
+    "pk": 3191,
     "cc": [
         "KE",
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Kuria",
     "alt": [
         "Ekiguria",
         "Igikuria",
@@ -23,5 +23,5 @@
         "Kikuria cha Mashariki",
         "Kurye"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

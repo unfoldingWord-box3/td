@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "agy",
-    "pk": 145,
     "lc": "agy",
     "gw": false,
-    "ln": "Southern Alta",
-    "ld": "ltr",
-    "ang": "Alta, Southern",
+    "ISO-639-3": "agy",
     "hc": "PH",
-    "lr": "Asia",
+    "gwcode": "en",
+    "ang": "Alta, Southern",
+    "pk": 145,
     "cc": [
         "PH"
     ],
+    "lr": "Asia",
+    "ln": "Southern Alta",
     "alt": [
         "Baluga",
         "Ita",
@@ -20,5 +20,5 @@
         "Kabuluwen",
         "Pugot"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

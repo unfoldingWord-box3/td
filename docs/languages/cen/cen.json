@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cen",
-    "pk": 1179,
     "lc": "cen",
     "gw": false,
-    "ln": "Cen",
-    "ld": "ltr",
-    "ang": "Cen",
+    "ISO-639-3": "cen",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Cen",
+    "pk": 1179,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Cen",
     "alt": [
         "Chen",
         "Icen",
@@ -18,5 +18,5 @@
         "Icen Ibaas",
         "Ichen"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

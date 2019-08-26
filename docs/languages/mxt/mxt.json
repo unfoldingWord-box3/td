@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "mxt",
-    "pk": 4233,
     "lc": "mxt",
     "gw": false,
-    "ln": "Jamiltepec Mixtec",
-    "ld": "ltr",
-    "ang": "Mixtec, Jamiltepec",
+    "ISO-639-3": "mxt",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mixtec, Jamiltepec",
+    "pk": 4233,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Jamiltepec Mixtec",
     "alt": [
         "Eastern Jamiltepec-San Cristobal Mixtec",
         "Mixteco de Jamiltepec",
         "Mixteco de Oaxaca de Costa Central Baja",
         "Mixteco de Santa Mar\u00eda Huazolotitl\u00e1n"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

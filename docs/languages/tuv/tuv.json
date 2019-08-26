@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "tuv",
-    "pk": 6389,
     "lc": "tuv",
     "gw": false,
-    "ln": "Turkana",
-    "ld": "ltr",
-    "ang": "Turkana",
+    "ISO-639-3": "tuv",
     "hc": "KE",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Turkana",
+    "pk": 6389,
     "cc": [
         "KE",
         "SS"
     ],
+    "lr": "Africa",
+    "ln": "Turkana",
     "alt": [
         "Buma",
         "Bume",
         "Turkwana"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

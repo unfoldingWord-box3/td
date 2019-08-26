@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "btz",
-    "pk": 969,
     "lc": "btz",
     "gw": false,
-    "ln": "Alas",
-    "ld": "ltr",
-    "ang": "Batak Alas-Kluet",
+    "ISO-639-3": "btz",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Batak Alas-Kluet",
+    "pk": 969,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Alas",
     "alt": [
         "Alas-Kluet Batak",
         "Singkil (Kade-Kade)",
         "Kluet"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rai",
-    "pk": 5312,
     "lc": "rai",
     "gw": false,
-    "ln": "Ramoaaina",
-    "ld": "ltr",
-    "ang": "Ramoaaina",
+    "ISO-639-3": "rai",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Ramoaaina",
+    "pk": 5312,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Ramoaaina",
     "alt": [
         "Duke of York",
         "Ramuaina",
@@ -22,5 +22,5 @@
         "Aalawa (Aalawaa)",
         "Mioko"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

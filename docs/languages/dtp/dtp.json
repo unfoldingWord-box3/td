@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "dtp",
-    "pk": 1644,
     "lc": "dtp",
     "gw": false,
-    "ln": "Central Dusun",
-    "ld": "ltr",
-    "ang": "Dusun, Central",
+    "ISO-639-3": "dtp",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Dusun, Central",
+    "pk": 1644,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Central Dusun",
     "alt": [
         "Central Kadazan",
         "Dusan",
@@ -26,5 +26,5 @@
         "Telipok",
         "Bundu (Taginambur)"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ojs",
-    "pk": 4795,
     "lc": "ojs",
     "gw": false,
-    "ln": "Severn Ojibwa",
-    "ld": "ltr",
-    "ang": "Ojibwa, Severn",
+    "ISO-639-3": "ojs",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Ojibwa, Severn",
+    "pk": 4795,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Severn Ojibwa",
     "alt": [
         "Cree",
         "Northern Ojibwa",
@@ -19,5 +19,5 @@
         "Ojicree",
         "Oji-Cree"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

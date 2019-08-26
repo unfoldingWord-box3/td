@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "tjl",
-    "pk": 6147,
     "lc": "tjl",
     "gw": false,
-    "ln": "Tai Laing",
-    "ld": "ltr",
-    "ang": "Tai Laing",
+    "ISO-639-3": "tjl",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Tai Laing",
+    "pk": 6147,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Tai Laing",
     "alt": [
         "Red Tai",
         "Shan Bamar",
@@ -20,5 +20,5 @@
         "Tai Lang",
         "Tai Naing"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "swu",
-    "pk": 5920,
     "lc": "swu",
     "gw": false,
-    "ln": "Suwawa",
-    "ld": "ltr",
-    "ang": "Suwawa",
+    "ISO-639-3": "swu",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Suwawa",
+    "pk": 5920,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Suwawa",
     "alt": [
         "Bonda",
         "Bone",
@@ -18,5 +18,5 @@
         "Suvava",
         "Toewawa"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

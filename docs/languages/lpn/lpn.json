@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "lpn",
-    "pk": 3576,
     "lc": "lpn",
     "gw": false,
-    "ln": "Long Phuri Naga",
-    "ld": "ltr",
-    "ang": "Naga, Long Phuri",
+    "ISO-639-3": "lpn",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Naga, Long Phuri",
+    "pk": 3576,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Long Phuri Naga",
     "alt": [
         "Amimi Naga",
         "Longpfuri",
         "Longpfuru",
         "Mimi"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

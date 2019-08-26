@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nyk",
-    "pk": 4735,
     "lc": "nyk",
     "gw": false,
-    "ln": "Nyaneka",
-    "ld": "ltr",
-    "ang": "Nyaneka",
+    "ISO-639-3": "nyk",
     "hc": "AO",
-    "lr": "Africa",
+    "gwcode": "pt",
+    "ang": "Nyaneka",
+    "pk": 4735,
     "cc": [
         "AO"
     ],
+    "lr": "Africa",
+    "ln": "Nyaneka",
     "alt": [
         "Lunyaneka",
         "Nhaneca",
@@ -26,5 +26,5 @@
         "Cilenge-Musa",
         "Cipungu"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

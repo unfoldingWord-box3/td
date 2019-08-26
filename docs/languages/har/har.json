@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "har",
-    "pk": 2235,
     "lc": "har",
     "gw": false,
-    "ln": "Harari",
-    "ld": "ltr",
-    "ang": "Harari",
+    "ISO-639-3": "har",
     "hc": "ET",
-    "lr": "Africa",
+    "gwcode": "am",
+    "ang": "Harari",
+    "pk": 2235,
     "cc": [
         "ET"
     ],
+    "lr": "Africa",
+    "ln": "Harari",
     "alt": [
         "Adarinnya",
         "Adere",
@@ -18,5 +18,5 @@
         "Gey Sinan",
         "Hararri"
     ],
-    "gwcode": "am"
+    "ld": "ltr"
 }

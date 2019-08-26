@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "ake",
-    "pk": 194,
     "lc": "ake",
     "gw": false,
-    "ln": "Akawaio",
-    "ld": "ltr",
-    "ang": "Akawaio",
+    "ISO-639-3": "ake",
     "hc": "GY",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Akawaio",
+    "pk": 194,
     "cc": [
         "BR",
         "VE",
         "GY"
     ],
+    "lr": "Americas",
+    "ln": "Akawaio",
     "alt": [
         "Acahuayo",
         "Acewaio",
@@ -25,5 +25,5 @@
         "Waic\u00e1",
         "Waika"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pyu",
-    "pk": 5243,
     "lc": "pyu",
     "gw": false,
-    "ln": "Puyuma",
-    "ld": "ltr",
-    "ang": "Puyuma",
+    "ISO-639-3": "pyu",
     "hc": "TW",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Puyuma",
+    "pk": 5243,
     "cc": [
         "TW"
     ],
+    "lr": "Asia",
+    "ln": "Puyuma",
     "alt": [
         "Kadas",
         "Panapanayan",
@@ -19,5 +19,5 @@
         "Piyuma",
         "Tipun"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

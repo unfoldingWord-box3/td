@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gld",
-    "pk": 2049,
     "lc": "gld",
     "gw": false,
-    "ln": "\u041d\u0430\u043d\u0430\u0439\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Nanai",
+    "ISO-639-3": "gld",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Nanai",
+    "pk": 2049,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u041d\u0430\u043d\u0430\u0439\u0441\u043a\u0438\u0439",
     "alt": [
         "Gold",
         "Goldi",
@@ -26,5 +26,5 @@
         "Qileng (Kilen)",
         "Sungari"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

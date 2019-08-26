@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nog",
-    "pk": 4587,
     "lc": "nog",
     "gw": false,
-    "ln": "\u041d\u043e\u0433\u0430\u0439\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Nogai",
+    "ISO-639-3": "nog",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Nogai",
+    "pk": 4587,
     "cc": [
         "RU"
     ],
+    "lr": "Europe",
+    "ln": "\u041d\u043e\u0433\u0430\u0439\u0441\u043a\u0438\u0439",
     "alt": [
         "Karanogai",
         "Kubanogai",
@@ -23,5 +23,5 @@
         "White Nogai (Kuba)",
         "Black Nogai (Kara)"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "wci",
-    "pk": 6706,
     "lc": "wci",
     "gw": false,
-    "ln": "Waci Gbe",
-    "ld": "ltr",
-    "ang": "Gbe, Waci",
+    "ISO-639-3": "wci",
     "hc": "TG",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Gbe, Waci",
+    "pk": 6706,
     "cc": [
         "BJ",
         "TG"
     ],
+    "lr": "Africa",
+    "ln": "Waci Gbe",
     "alt": [
         "Waci",
         "Waci-Gbe",
@@ -19,5 +19,5 @@
         "Wachi",
         "Watyi"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

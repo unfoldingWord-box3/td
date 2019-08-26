@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "xsl",
-    "pk": 7044,
     "lc": "xsl",
     "gw": false,
-    "ln": "South Slavey",
-    "ld": "ltr",
-    "ang": "Slavey, South",
+    "ISO-639-3": "xsl",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Slavey, South",
+    "pk": 7044,
     "cc": [
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "South Slavey",
     "alt": [
         "Dene",
         "Den\u00e9",
@@ -19,5 +19,5 @@
         "Slave",
         "Slavi"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

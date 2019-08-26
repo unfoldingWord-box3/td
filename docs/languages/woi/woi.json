@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "woi",
-    "pk": 6795,
     "lc": "woi",
     "gw": false,
-    "ln": "Kamang",
-    "ld": "ltr",
-    "ang": "Kamang",
+    "ISO-639-3": "woi",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Kamang",
+    "pk": 6795,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Kamang",
     "alt": [
         "Waisika",
         "Woisika",
@@ -20,5 +20,5 @@
         "Moo",
         "Tiee"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

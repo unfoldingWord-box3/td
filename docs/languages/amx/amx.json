@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "amx",
-    "pk": 256,
     "lc": "amx",
     "gw": false,
-    "ln": "Anmatyerre",
-    "ld": "ltr",
-    "ang": "Anmatyerre",
+    "ISO-639-3": "amx",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Anmatyerre",
+    "pk": 256,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Anmatyerre",
     "alt": [
         "Anmatjirra",
         "Anmatyerr",
@@ -18,5 +18,5 @@
         "Western Anmatyerre (Kalenthelkwe)",
         "Kelenthwelkere"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

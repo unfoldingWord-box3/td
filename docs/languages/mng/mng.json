@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mng",
-    "pk": 3981,
     "lc": "mng",
     "gw": false,
-    "ln": "Eastern Mnong",
-    "ld": "ltr",
-    "ang": "Mnong, Eastern",
+    "ISO-639-3": "mng",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Mnong, Eastern",
+    "pk": 3981,
     "cc": [
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Eastern Mnong",
     "alt": [
         "Mnong Gar (Gar)",
         "Rolom",
@@ -18,5 +18,5 @@
         "Mnong Rolom (Ralam)",
         "Rlam"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "rus",
-    "pk": 5431,
     "lc": "ru",
     "gw": true,
-    "ln": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Russian",
+    "ISO-639-3": "rus",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": null,
+    "ang": "Russian",
+    "pk": 5431,
     "cc": [
         "AZ",
         "AT",
@@ -53,6 +51,8 @@
         "IE",
         "UA"
     ],
+    "lr": "Europe",
+    "ln": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
     "alt": [
         "Eluosi",
         "Olossu",
@@ -60,5 +60,5 @@
         "Russki",
         "Russit"
     ],
-    "gwcode": null
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "axx",
-    "pk": 457,
     "lc": "axx",
     "gw": false,
-    "ln": "X\u00e2r\u00e2gur\u00e8",
-    "ld": "ltr",
-    "ang": "X\u00e2r\u00e2gur\u00e8",
+    "ISO-639-3": "axx",
     "hc": "NC",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "X\u00e2r\u00e2gur\u00e8",
+    "pk": 457,
     "cc": [
         "NC"
     ],
+    "lr": "Pacific",
+    "ln": "X\u00e2r\u00e2gur\u00e8",
     "alt": [
         "Aragure",
         "Borendy",
@@ -19,5 +19,5 @@
         "Naa Xaragure",
         "Thio"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

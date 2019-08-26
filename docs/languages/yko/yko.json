@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "yko",
-    "pk": 7205,
     "lc": "yko",
     "gw": false,
-    "ln": "Yasa",
-    "ld": "ltr",
-    "ang": "Yasa",
+    "ISO-639-3": "yko",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Yasa",
+    "pk": 7205,
     "cc": [
         "CM",
         "GQ"
     ],
+    "lr": "Africa",
+    "ln": "Yasa",
     "alt": [
         "Bongwe",
         "Lyaasa",
@@ -21,5 +21,5 @@
         "Iyassa",
         "Avandje"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

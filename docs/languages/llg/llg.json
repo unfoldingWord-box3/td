@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "llg",
-    "pk": 3501,
     "lc": "llg",
     "gw": false,
-    "ln": "Lole",
-    "ld": "ltr",
-    "ang": "Lole",
+    "ISO-639-3": "llg",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Lole",
+    "pk": 3501,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Lole",
     "alt": [
         "Ba'a",
         "Ba\u00e4",
@@ -23,5 +23,5 @@
         "North Lole",
         "South Lole"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nkw",
-    "pk": 4515,
     "lc": "nkw",
     "gw": false,
-    "ln": "Nkutu",
-    "ld": "ltr",
-    "ang": "Nkutu",
+    "ISO-639-3": "nkw",
     "hc": "CD",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Nkutu",
+    "pk": 4515,
     "cc": [
         "CD"
     ],
+    "lr": "Africa",
+    "ln": "Nkutu",
     "alt": [
         "Bankutu",
         "Nkuchu",
@@ -18,5 +18,5 @@
         "Lokalo (Kalo)",
         "Saka (Losaka)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

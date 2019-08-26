@@ -1,18 +1,18 @@
 {
-    "ISO-639-3": "dnj",
-    "pk": 1584,
     "lc": "dnj",
     "gw": false,
-    "ln": "Dan",
-    "ld": "ltr",
-    "ang": "Dan",
+    "ISO-639-3": "dnj",
     "hc": "CI",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Dan",
+    "pk": 1584,
     "cc": [
         "CI",
         "LR",
         "GN"
     ],
+    "lr": "Africa",
+    "ln": "Dan",
     "alt": [
         "Da",
         "Gio",
@@ -25,5 +25,5 @@
         "Blowo (Western Dan)",
         "Gweetaawu (Eastern Dan)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

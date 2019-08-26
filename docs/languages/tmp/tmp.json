@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "UNKNOWN",
-    "pk": 6209,
     "lc": "tmp",
     "gw": false,
-    "ln": "Tai M\u00e8ne",
-    "ld": "ltr",
-    "ang": "Tai M\u00e8ne",
+    "ISO-639-3": "UNKNOWN",
     "hc": "LA",
-    "lr": "Asia",
+    "gwcode": "lo",
+    "ang": "Tai M\u00e8ne",
+    "pk": 6209,
     "cc": [
         "LA"
     ],
+    "lr": "Asia",
+    "ln": "Tai M\u00e8ne",
     "alt": [
         "Tai Maen",
         "Tai Man",
@@ -18,5 +18,5 @@
         "Tai-Maen",
         "Tay M\u00e8n\u00e8"
     ],
-    "gwcode": "lo"
+    "ld": "ltr"
 }

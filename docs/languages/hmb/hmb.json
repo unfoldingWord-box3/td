@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "hmb",
-    "pk": 2291,
     "lc": "hmb",
     "gw": false,
-    "ln": "Humburi Senni Songhay",
-    "ld": "ltr",
-    "ang": "Songhay, Humburi Senni",
+    "ISO-639-3": "hmb",
     "hc": "ML",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Songhay, Humburi Senni",
+    "pk": 2291,
     "cc": [
         "BF",
         "ML"
     ],
+    "lr": "Africa",
+    "ln": "Humburi Senni Songhay",
     "alt": [
         "Central Songai",
         "Humburi Senni Songhay",
@@ -28,5 +28,5 @@
         "Marans\u00e9",
         "Marens\u00e9 (Korobor\u00e9)"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

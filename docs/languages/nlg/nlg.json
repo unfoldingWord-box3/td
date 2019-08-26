@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "nlg",
-    "pk": 4522,
     "lc": "nlg",
     "gw": false,
-    "ln": "Gela",
-    "ld": "ltr",
-    "ang": "Gela",
+    "ISO-639-3": "nlg",
     "hc": "SB",
-    "lr": "Pacific",
+    "gwcode": "pis",
+    "ang": "Gela",
+    "pk": 4522,
     "cc": [
         "SB"
     ],
+    "lr": "Pacific",
+    "ln": "Gela",
     "alt": [
         "Florida Islands",
         "Nggela",
@@ -18,5 +18,5 @@
         "Gela Pile",
         "Sandfly"
     ],
-    "gwcode": "pis"
+    "ld": "ltr"
 }

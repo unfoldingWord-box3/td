@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rmi",
-    "pk": 5382,
     "lc": "rmi",
     "gw": false,
-    "ln": "Lomavren",
-    "ld": "ltr",
-    "ang": "Lomavren",
+    "ISO-639-3": "rmi",
     "hc": "AM",
-    "lr": "Asia",
+    "gwcode": "ru",
+    "ang": "Lomavren",
+    "pk": 5382,
     "cc": [
         "AM"
     ],
+    "lr": "Asia",
+    "ln": "Lomavren",
     "alt": [
         "Armenian Bosa",
         "Armenian Bosha",
@@ -18,5 +18,5 @@
         "Bosha",
         "Arnebuab Bisa"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "ask",
-    "pk": 366,
     "lc": "ask",
     "gw": false,
-    "ln": "Ashkun",
-    "ld": "ltr",
-    "ang": "Ashkun",
+    "ISO-639-3": "ask",
     "hc": "AF",
-    "lr": "Asia",
+    "gwcode": "ps",
+    "ang": "Ashkun",
+    "pk": 366,
     "cc": [
         "AF"
     ],
+    "lr": "Asia",
+    "ln": "Ashkun",
     "alt": [
         "Ashkund",
         "Wamais",
@@ -19,5 +19,5 @@
         "Titin Bajaygul",
         "Ashuruviri (Kolata)"
     ],
-    "gwcode": "ps"
+    "ld": "ltr"
 }

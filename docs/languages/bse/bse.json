@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bse",
-    "pk": 927,
     "lc": "bse",
     "gw": false,
-    "ln": "Wushi",
-    "ld": "ltr",
-    "ang": "Wushi",
+    "ISO-639-3": "bse",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Wushi",
+    "pk": 927,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Wushi",
     "alt": [
         "Babessi",
         "Cho' Wushike",
@@ -18,5 +18,5 @@
         "Sii",
         "Vesi"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

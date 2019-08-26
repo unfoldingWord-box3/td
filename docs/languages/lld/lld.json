@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lld",
-    "pk": 3499,
     "lc": "lld",
     "gw": false,
-    "ln": "Ladin",
-    "ld": "ltr",
-    "ang": "Ladin",
+    "ISO-639-3": "lld",
     "hc": "IT",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Ladin",
+    "pk": 3499,
     "cc": [
         "IT"
     ],
+    "lr": "Europe",
+    "ln": "Ladin",
     "alt": [
         "Dolomite",
         "Rhaeto-Romance",
@@ -23,5 +23,5 @@
         "Gardenese (Gr\u00f6dnerisch)",
         "Gr\u00fcdno"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "pua",
-    "pk": 5210,
     "lc": "pua",
     "gw": false,
-    "ln": "Western Highland Purepecha",
-    "ld": "ltr",
-    "ang": "Purepecha, Western Highland",
+    "ISO-639-3": "pua",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Purepecha, Western Highland",
+    "pk": 5210,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Western Highland Purepecha",
     "alt": [
         "P\u2019orhe",
         "P\u2019orh\u00e9pecha",
@@ -29,5 +29,5 @@
         "Nur\u00edo",
         "Pamatacuaro"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

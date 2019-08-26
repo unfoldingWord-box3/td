@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mel",
-    "pk": 3763,
     "lc": "mel",
     "gw": false,
-    "ln": "Central Melanau",
-    "ld": "ltr",
-    "ang": "Melanau, Central",
+    "ISO-639-3": "mel",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Melanau, Central",
+    "pk": 3763,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Central Melanau",
     "alt": [
         "Belana'u",
         "Milanau",
@@ -22,5 +22,5 @@
         "Oya'",
         "Mukah-Oya (Muka)"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

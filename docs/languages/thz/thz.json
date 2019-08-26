@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "thz",
-    "pk": 6120,
     "lc": "thz",
     "gw": false,
-    "ln": "Tayart Tamajeq",
-    "ld": "ltr",
-    "ang": "Tamajeq, Tayart",
+    "ISO-639-3": "thz",
     "hc": "NE",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Tamajeq, Tayart",
+    "pk": 6120,
     "cc": [
         "NE"
     ],
+    "lr": "Africa",
+    "ln": "Tayart Tamajeq",
     "alt": [
         "Amazigh",
         "Tamachek",
@@ -23,5 +23,5 @@
         "Tanassfarwat (Tamagarast)",
         "Tayart"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

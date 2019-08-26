@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "cnk",
-    "pk": 1278,
     "lc": "cnk",
     "gw": false,
-    "ln": "Khumi Chin",
-    "ld": "ltr",
-    "ang": "Chin, Khumi",
+    "ISO-639-3": "cnk",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Chin, Khumi",
+    "pk": 1278,
     "cc": [
         "BD",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Khumi Chin",
     "alt": [
         "Khuni",
         "Khweymi",
@@ -27,5 +27,5 @@
         "Southern Paletwa",
         "Yindi (Yindu)"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

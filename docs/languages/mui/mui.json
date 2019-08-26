@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mui",
-    "pk": 4153,
     "lc": "mui",
     "gw": false,
-    "ln": "Musi",
-    "ld": "ltr",
-    "ang": "Musi",
+    "ISO-639-3": "mui",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Musi",
+    "pk": 4153,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Musi",
     "alt": [
         "Palembangnese",
         "Coastal Malay",
@@ -24,5 +24,5 @@
         "Belide",
         "Lematang Ilir"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

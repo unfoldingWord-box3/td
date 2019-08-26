@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "rim",
-    "pk": 5360,
     "lc": "rim",
     "gw": false,
-    "ln": "Nyaturu",
-    "ld": "ltr",
-    "ang": "Nyaturu",
+    "ISO-639-3": "rim",
     "hc": "TZ",
-    "lr": "Africa",
+    "gwcode": "sw",
+    "ang": "Nyaturu",
+    "pk": 5360,
     "cc": [
         "TZ"
     ],
+    "lr": "Africa",
+    "ln": "Nyaturu",
     "alt": [
         "Keremi",
         "Kinyaturu",
@@ -22,5 +22,5 @@
         "Turu",
         "Girwana (Rimi)"
     ],
-    "gwcode": "sw"
+    "ld": "ltr"
 }

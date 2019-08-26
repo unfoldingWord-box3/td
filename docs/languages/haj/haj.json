@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "haj",
-    "pk": 2227,
     "lc": "haj",
     "gw": false,
-    "ln": "Hajong",
-    "ld": "ltr",
-    "ang": "Hajong",
+    "ISO-639-3": "haj",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "grt",
+    "ang": "Hajong",
+    "pk": 2227,
     "cc": [
         "BD",
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Hajong",
     "alt": [
         "Hajang",
         "Haijong",
@@ -19,5 +19,5 @@
         "Banai",
         "Dalu"
     ],
-    "gwcode": "grt"
+    "ld": "ltr"
 }

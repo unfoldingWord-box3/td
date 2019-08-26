@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "yav",
-    "pk": 7131,
     "lc": "yav",
     "gw": false,
-    "ln": "Yangben",
-    "ld": "ltr",
-    "ang": "Yangben",
+    "ISO-639-3": "yav",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Yangben",
+    "pk": 7131,
     "cc": [
         "CM"
     ],
+    "lr": "Africa",
+    "ln": "Yangben",
     "alt": [
         "Central Yambassa",
         "Kalong",
@@ -19,5 +19,5 @@
         "Nutanga",
         "Numende"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

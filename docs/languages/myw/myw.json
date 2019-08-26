@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "myw",
-    "pk": 4258,
     "lc": "myw",
     "gw": false,
-    "ln": "Muyuw",
-    "ld": "ltr",
-    "ang": "Muyuw",
+    "ISO-639-3": "myw",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Muyuw",
+    "pk": 4258,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Muyuw",
     "alt": [
         "Murua",
         "Murua Dukwayasi",
@@ -21,5 +21,5 @@
         "Muyuwa",
         "Lougaw (Gawa)"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

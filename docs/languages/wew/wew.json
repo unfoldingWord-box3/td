@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wew",
-    "pk": 6722,
     "lc": "wew",
     "gw": false,
-    "ln": "Wejewa",
-    "ld": "ltr",
-    "ang": "Wejewa",
+    "ISO-639-3": "wew",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Wejewa",
+    "pk": 6722,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Wejewa",
     "alt": [
         "Veveva",
         "Waidjewa",
@@ -21,5 +21,5 @@
         "Weyewa",
         "Lauli (Loli)"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

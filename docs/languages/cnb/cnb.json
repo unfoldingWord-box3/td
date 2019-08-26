@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "cnb",
-    "pk": 1273,
     "lc": "cnb",
     "gw": false,
-    "ln": "Chinbon Chin",
-    "ld": "ltr",
-    "ang": "Chin, Chinbon",
+    "ISO-639-3": "cnb",
     "hc": "MM",
-    "lr": "Asia",
+    "gwcode": "my",
+    "ang": "Chin, Chinbon",
+    "pk": 1273,
     "cc": [
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "Chinbon Chin",
     "alt": [
         "Chindwin Chin",
         "Chinpon",
@@ -21,5 +21,5 @@
         "Uppu",
         "\u00dctb\u00fc"
     ],
-    "gwcode": "my"
+    "ld": "ltr"
 }

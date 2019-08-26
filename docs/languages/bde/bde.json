@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "bde",
-    "pk": 563,
     "lc": "bde",
     "gw": false,
-    "ln": "Bade",
-    "ld": "ltr",
-    "ang": "Bade",
+    "ISO-639-3": "bde",
     "hc": "NG",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Bade",
+    "pk": 563,
     "cc": [
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Bade",
     "alt": [
         "Bede",
         "Gidgid",
@@ -20,5 +20,5 @@
         "Southern Bade (Bade-Kado)",
         "Western Bade (Amshi)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

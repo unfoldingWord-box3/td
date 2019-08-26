@@ -1,20 +1,20 @@
 {
-    "ISO-639-3": "fmu",
-    "pk": 1856,
     "lc": "fmu",
     "gw": false,
-    "ln": "Far Western Muria",
-    "ld": "ltr",
-    "ang": "Muria, Far Western",
+    "ISO-639-3": "fmu",
     "hc": "IN",
-    "lr": "Asia",
+    "gwcode": "mr",
+    "ang": "Muria, Far Western",
+    "pk": 1856,
     "cc": [
         "IN"
     ],
+    "lr": "Asia",
+    "ln": "Far Western Muria",
     "alt": [
         "Gondi",
         "Koitor Boli",
         "Koitori"
     ],
-    "gwcode": "mr"
+    "ld": "ltr"
 }

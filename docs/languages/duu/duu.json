@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "duu",
-    "pk": 1669,
     "lc": "duu",
     "gw": false,
-    "ln": "\u72ec\u9f99\u8bed",
-    "ld": "ltr",
-    "ang": "Drung",
+    "ISO-639-3": "duu",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Drung",
+    "pk": 1669,
     "cc": [
         "CN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "\u72ec\u9f99\u8bed",
     "alt": [
         "Derung",
         "Qiu",
@@ -27,5 +27,5 @@
         "Nu River (Nujiang Dulong)",
         "Southern Dulongjiang"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

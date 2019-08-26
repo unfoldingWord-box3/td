@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "lmo",
-    "pk": 3525,
     "lc": "lmo",
     "gw": false,
-    "ln": "Lombard",
-    "ld": "ltr",
-    "ang": "Lombard",
+    "ISO-639-3": "lmo",
     "hc": "IT",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Lombard",
+    "pk": 3525,
     "cc": [
         "CH",
         "IT"
     ],
+    "lr": "Europe",
+    "ln": "Lombard",
     "alt": [
         "Lombardo",
         "Ticinese (Tessinian)",
@@ -24,5 +24,5 @@
         "Ticinees",
         "Ticino"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

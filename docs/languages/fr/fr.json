@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "fra",
-    "pk": 1868,
     "lc": "fr",
     "gw": true,
-    "ln": "fran\u00e7ais, langue fran\u00e7aise",
-    "ld": "ltr",
-    "ang": "French",
+    "ISO-639-3": "fra",
     "hc": "FR",
-    "lr": "Europe",
+    "gwcode": null,
+    "ang": "French",
+    "pk": 1868,
     "cc": [
         "DZ",
         "AT",
@@ -41,6 +39,8 @@
         "YT",
         "MQ"
     ],
+    "lr": "Europe",
+    "ln": "fran\u00e7ais, langue fran\u00e7aise",
     "alt": [
         "Fran\u00e7ais",
         "Franc\u00e9s",
@@ -56,5 +56,5 @@
         "Acadian (Acadien)",
         "Franche-Comtois (Fribourgois)"
     ],
-    "gwcode": null
+    "ld": "ltr"
 }

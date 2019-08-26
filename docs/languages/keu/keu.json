@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "keu",
-    "pk": 2803,
     "lc": "keu",
     "gw": false,
-    "ln": "Akebu",
-    "ld": "ltr",
-    "ang": "Akebu",
+    "ISO-639-3": "keu",
     "hc": "TG",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Akebu",
+    "pk": 2803,
     "cc": [
         "TG"
     ],
+    "lr": "Africa",
+    "ln": "Akebu",
     "alt": [
         "Ak\u00e9bou",
         "Ekpeebhe",
@@ -22,5 +22,5 @@
         "kekpeeke",
         "kekpeerike"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

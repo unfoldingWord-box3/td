@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "xwe",
-    "pk": 7095,
     "lc": "xwe",
     "gw": false,
-    "ln": "Xwela Gbe",
-    "ld": "ltr",
-    "ang": "Gbe, Xwela",
+    "ISO-639-3": "xwe",
     "hc": "BJ",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Gbe, Xwela",
+    "pk": 7095,
     "cc": [
         "BJ"
     ],
+    "lr": "Africa",
+    "ln": "Xwela Gbe",
     "alt": [
         "Houeda",
         "Peda",
@@ -18,5 +18,5 @@
         "Xwela",
         "Xwela-Gba"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

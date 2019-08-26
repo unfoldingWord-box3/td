@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "asi",
-    "pk": 364,
     "lc": "asi",
     "gw": false,
-    "ln": "Buruwai",
-    "ld": "ltr",
-    "ang": "Buruwai",
+    "ISO-639-3": "asi",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Buruwai",
+    "pk": 364,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Buruwai",
     "alt": [
         "Asianara",
         "Asienara",
@@ -18,5 +18,5 @@
         "Madidwana",
         "Sabakor"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

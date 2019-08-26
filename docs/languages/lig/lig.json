@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "lig",
-    "pk": 3460,
     "lc": "lig",
     "gw": false,
-    "ln": "Ligbi",
-    "ld": "ltr",
-    "ang": "Ligbi",
+    "ISO-639-3": "lig",
     "hc": "GH",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Ligbi",
+    "pk": 3460,
     "cc": [
         "GH"
     ],
+    "lr": "Africa",
+    "ln": "Ligbi",
     "alt": [
         "Banda",
         "Jogo",
@@ -28,5 +28,5 @@
         "Dwera (Manji-Kasa)",
         "Hwela (Vwela)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

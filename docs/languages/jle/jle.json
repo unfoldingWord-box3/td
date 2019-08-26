@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "jle",
-    "pk": 2636,
     "lc": "jle",
     "gw": false,
-    "ln": "Ngile",
-    "ld": "ltr",
-    "ang": "Ngile",
+    "ISO-639-3": "jle",
     "hc": "SD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Ngile",
+    "pk": 2636,
     "cc": [
         "SD"
     ],
+    "lr": "Africa",
+    "ln": "Ngile",
     "alt": [
         "Daloka",
         "Darra",
@@ -20,5 +20,5 @@
         "Masakin Tuwal",
         "Daloka (Taloka)"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

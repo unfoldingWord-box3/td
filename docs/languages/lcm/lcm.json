@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "lcm",
-    "pk": 3385,
     "lc": "lcm",
     "gw": false,
-    "ln": "Tungag",
-    "ld": "ltr",
-    "ang": "Tungag",
+    "ISO-639-3": "lcm",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Tungag",
+    "pk": 3385,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Tungag",
     "alt": [
         "Dang",
         "Lavangai",
         "Toangai",
         "Tungak"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

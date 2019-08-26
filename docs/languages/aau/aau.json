@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "aau",
-    "pk": 24,
     "lc": "aau",
     "gw": false,
-    "ln": "Abau",
-    "ld": "ltr",
-    "ang": "Abau",
+    "ISO-639-3": "aau",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Abau",
+    "pk": 24,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Abau",
     "alt": [
         "Up-river",
         "Down-river",
@@ -18,5 +18,5 @@
         "Green River",
         "Down-river border"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

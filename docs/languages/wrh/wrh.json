@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wrh",
-    "pk": 6808,
     "lc": "wrh",
     "gw": false,
-    "ln": "Wiradhuri",
-    "ld": "ltr",
-    "ang": "Wiradhuri",
+    "ISO-639-3": "wrh",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Wiradhuri",
+    "pk": 6808,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Wiradhuri",
     "alt": [
         "Berrembeel",
         "Warandgeri",
@@ -28,5 +28,5 @@
         "Wirrai'yarrai",
         "Wordjerg"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

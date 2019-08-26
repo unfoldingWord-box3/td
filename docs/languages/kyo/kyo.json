@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kyo",
-    "pk": 3297,
     "lc": "kyo",
     "gw": false,
-    "ln": "Kelon",
-    "ld": "ltr",
-    "ang": "Klon",
+    "ISO-639-3": "kyo",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Klon",
+    "pk": 3297,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Kelon",
     "alt": [
         "Kalong",
         "Kelon",
@@ -18,5 +18,5 @@
         "Klon Bring",
         "Klon Paneia"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mcg",
-    "pk": 3708,
     "lc": "mcg",
     "gw": false,
-    "ln": "Mapoyo",
-    "ld": "ltr",
-    "ang": "Mapoyo",
+    "ISO-639-3": "mcg",
     "hc": "VE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mapoyo",
+    "pk": 3708,
     "cc": [
         "VE"
     ],
+    "lr": "Americas",
+    "ln": "Mapoyo",
     "alt": [
         "Mapayo",
         "Mapoye",
@@ -18,5 +18,5 @@
         "Nepoye",
         "Wanai"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "xby",
-    "pk": 6879,
     "lc": "xby",
     "gw": false,
-    "ln": "Batyala",
-    "ld": "ltr",
-    "ang": "Batyala",
+    "ISO-639-3": "xby",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Batyala",
+    "pk": 6879,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Batyala",
     "alt": [
         "Badjela",
         "Badtala",
@@ -27,5 +27,5 @@
         "Patyala",
         "Thoorgine"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

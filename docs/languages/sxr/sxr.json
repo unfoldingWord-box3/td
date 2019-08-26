@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "sxr",
-    "pk": 5934,
     "lc": "sxr",
     "gw": false,
-    "ln": "Saaroa",
-    "ld": "ltr",
-    "ang": "Saaroa",
+    "ISO-639-3": "sxr",
     "hc": "TW",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Saaroa",
+    "pk": 5934,
     "cc": [
         "TW"
     ],
+    "lr": "Asia",
+    "ln": "Saaroa",
     "alt": [
         "Hla'alua",
         "La'alua",
@@ -24,5 +24,5 @@
         "Shishaban",
         "Sisyaban"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

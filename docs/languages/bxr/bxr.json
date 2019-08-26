@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "bxr",
-    "pk": 1058,
     "lc": "bxr",
     "gw": false,
-    "ln": "\u0411\u0443\u0440\u044f\u0442\u0441\u043a\u0438\u0439",
-    "ld": "ltr",
-    "ang": "Buriat, Russia",
+    "ISO-639-3": "bxr",
     "hc": "RU",
-    "lr": "Europe",
+    "gwcode": "ru",
+    "ang": "Buriat, Russia",
+    "pk": 1058,
     "cc": [
         "RU",
         "UZ"
     ],
+    "lr": "Europe",
+    "ln": "\u0411\u0443\u0440\u044f\u0442\u0441\u043a\u0438\u0439",
     "alt": [
         "Buriat-Mongolian",
         "Buryat",
@@ -20,5 +20,5 @@
         "Bokhan",
         "Ekhirit-Bulagat"
     ],
-    "gwcode": "ru"
+    "ld": "ltr"
 }

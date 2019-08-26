@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "kls",
-    "pk": 2978,
     "lc": "kls",
     "gw": false,
-    "ln": "\u06a9\u0627\u0644\u0627\u0634 \u0632\u0628\u0627\u0646",
-    "ld": "ltr",
-    "ang": "Kalasha",
+    "ISO-639-3": "kls",
     "hc": "PK",
-    "lr": "Asia",
+    "gwcode": "ur",
+    "ang": "Kalasha",
+    "pk": 2978,
     "cc": [
         "PK"
     ],
+    "lr": "Asia",
+    "ln": "\u06a9\u0627\u0644\u0627\u0634 \u0632\u0628\u0627\u0646",
     "alt": [
         "Kalash",
         "Kalashamon",
@@ -20,5 +20,5 @@
         "Rumbur",
         "Southern Kalasha (Urtsun)"
     ],
-    "gwcode": "ur"
+    "ld": "ltr"
 }

@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "mcd",
-    "pk": 3705,
     "lc": "mcd",
     "gw": false,
-    "ln": "Sharanahua",
-    "ld": "ltr",
-    "ang": "Sharanahua",
+    "ISO-639-3": "mcd",
     "hc": "PE",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Sharanahua",
+    "pk": 3705,
     "cc": [
         "BR",
         "PE"
     ],
+    "lr": "Americas",
+    "ln": "Sharanahua",
     "alt": [
         "Acre Arara",
         "Arara do Acre",
@@ -20,5 +20,5 @@
         "Marinahua (Marin\u00e1wa)",
         "Mastanahua"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

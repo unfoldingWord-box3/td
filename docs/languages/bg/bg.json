@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "bul",
-    "pk": 634,
     "lc": "bg",
     "gw": false,
-    "ln": "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a",
-    "ld": "ltr",
-    "ang": "Bulgarian",
+    "ISO-639-3": "bul",
     "hc": "BG",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Bulgarian",
+    "pk": 634,
     "cc": [
         "GR",
         "DE",
@@ -24,6 +22,8 @@
         "UZ",
         "BG"
     ],
+    "lr": "Europe",
+    "ln": "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a",
     "alt": [
         "Balgarski",
         "Palitiani",
@@ -31,5 +31,5 @@
         "Pomak (Pomakci)",
         "Pomakika"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

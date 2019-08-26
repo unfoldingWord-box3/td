@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "leb",
-    "pk": 3403,
     "lc": "leb",
     "gw": false,
-    "ln": "Lala-Bisa",
-    "ld": "ltr",
-    "ang": "Lala-Bisa",
+    "ISO-639-3": "leb",
     "hc": "ZM",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Lala-Bisa",
+    "pk": 3403,
     "cc": [
         "ZM"
     ],
+    "lr": "Africa",
+    "ln": "Lala-Bisa",
     "alt": [
         "Biza-Lala",
         "Ichibisa",
@@ -22,5 +22,5 @@
         "Bisa (Ichibisa)",
         "Lala (Ichilala)"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

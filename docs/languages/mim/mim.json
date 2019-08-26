@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "mim",
-    "pk": 3866,
     "lc": "mim",
     "gw": false,
-    "ln": "Alacatlatzala Mixtec",
-    "ld": "ltr",
-    "ang": "Mixtec, Alacatlatzala",
+    "ISO-639-3": "mim",
     "hc": "MX",
-    "lr": "Americas",
+    "gwcode": "es-419",
+    "ang": "Mixtec, Alacatlatzala",
+    "pk": 3866,
     "cc": [
         "MX"
     ],
+    "lr": "Americas",
+    "ln": "Alacatlatzala Mixtec",
     "alt": [
         "Highland Guerrero Mixtec",
         "Mixteco de Alacatlatzala",
@@ -20,5 +20,5 @@
         "Atlamajalcingo del Monte",
         "Cahuatache Tototepec"
     ],
-    "gwcode": "es-419"
+    "ld": "ltr"
 }

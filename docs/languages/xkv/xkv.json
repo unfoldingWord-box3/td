@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "xkv",
-    "pk": 6951,
     "lc": "xkv",
     "gw": false,
-    "ln": "Shekgalagari",
-    "ld": "ltr",
-    "ang": "Shekgalagari",
+    "ISO-639-3": "xkv",
     "hc": "BW",
-    "lr": "Africa",
+    "gwcode": "en",
+    "ang": "Shekgalagari",
+    "pk": 6951,
     "cc": [
         "BW"
     ],
+    "lr": "Africa",
+    "ln": "Shekgalagari",
     "alt": [
         "Kgalagarhi",
         "Kgalagari",
@@ -31,5 +31,5 @@
         "Shelala",
         "Khakhae"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

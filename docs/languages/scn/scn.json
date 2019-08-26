@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "scn",
-    "pk": 5514,
     "lc": "scn",
     "gw": false,
-    "ln": "Sicilian",
-    "ld": "ltr",
-    "ang": "Sicilian",
+    "ISO-639-3": "scn",
     "hc": "IT",
-    "lr": "Europe",
+    "gwcode": "en",
+    "ang": "Sicilian",
+    "pk": 5514,
     "cc": [
         "IT"
     ],
+    "lr": "Europe",
+    "ln": "Sicilian",
     "alt": [
         "Calabro-Sicilian",
         "Sicilianu",
@@ -19,5 +19,5 @@
         "Western Sicilian (Central-Western Agrigentino)",
         "Palermo"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

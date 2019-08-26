@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "cjk",
-    "pk": 1224,
     "lc": "cjk",
     "gw": false,
-    "ln": "Chokwe",
-    "ld": "ltr",
-    "ang": "Cokwe",
+    "ISO-639-3": "cjk",
     "hc": "AO",
-    "lr": "Africa",
+    "gwcode": "pt",
+    "ang": "Cokwe",
+    "pk": 1224,
     "cc": [
         "ZM",
         "AO"
     ],
+    "lr": "Africa",
+    "ln": "Chokwe",
     "alt": [
         "Ciokwe",
         "Djok",
@@ -25,5 +25,5 @@
         "Ukhongo",
         "Ulanda"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }

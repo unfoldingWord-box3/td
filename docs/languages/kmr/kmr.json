@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "kmr",
-    "pk": 3004,
     "lc": "kmr",
     "gw": false,
-    "ln": "Northern Kurdish",
-    "ld": "ltr",
-    "ang": "Kurdish, Northern",
+    "ISO-639-3": "kmr",
     "hc": "TR",
-    "lr": "Asia",
+    "gwcode": "tr",
+    "ang": "Kurdish, Northern",
+    "pk": 3004,
     "cc": [
         "AM",
         "AZ",
@@ -32,6 +30,8 @@
         "UZ",
         "BH"
     ],
+    "lr": "Asia",
+    "ln": "Northern Kurdish",
     "alt": [
         "\u00cazd\u00eek\u00ee",
         "Kurmanc\u00ee",
@@ -62,5 +62,5 @@
         "Ashiti",
         "Marashi"
     ],
-    "gwcode": "tr"
+    "ld": "ltr"
 }

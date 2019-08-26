@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "aal",
-    "pk": 17,
     "lc": "aal",
     "gw": false,
-    "ln": "Afa\u0257\u0259",
-    "ld": "ltr",
-    "ang": "Afade",
+    "ISO-639-3": "aal",
     "hc": "CM",
-    "lr": "Africa",
+    "gwcode": "fr",
+    "ang": "Afade",
+    "pk": 17,
     "cc": [
         "CM",
         "NG"
     ],
+    "lr": "Africa",
+    "ln": "Afa\u0257\u0259",
     "alt": [
         "Afadeh",
         "Affade",
@@ -19,5 +19,5 @@
         "Kotoko",
         "Mogari"
     ],
-    "gwcode": "fr"
+    "ld": "ltr"
 }

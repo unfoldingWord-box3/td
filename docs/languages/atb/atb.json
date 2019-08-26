@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "atb",
-    "pk": 382,
     "lc": "atb",
     "gw": false,
-    "ln": "\u8f7d\u74e6",
-    "ld": "ltr",
-    "ang": "Zaiwa",
+    "ISO-639-3": "atb",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "Zaiwa",
+    "pk": 382,
     "cc": [
         "CN",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "\u8f7d\u74e6",
     "alt": [
         "Aci",
         "Aji",
@@ -27,5 +27,5 @@
         "Bengwa",
         "Longzhun"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "gvs",
-    "pk": 2188,
     "lc": "gvs",
     "gw": false,
-    "ln": "Gumawana",
-    "ld": "ltr",
-    "ang": "Gumawana",
+    "ISO-639-3": "gvs",
     "hc": "PG",
-    "lr": "Pacific",
+    "gwcode": "tpi",
+    "ang": "Gumawana",
+    "pk": 2188,
     "cc": [
         "PG"
     ],
+    "lr": "Pacific",
+    "ln": "Gumawana",
     "alt": [
         "Domdom",
         "Gumasi",
@@ -18,5 +18,5 @@
         "Kotoita",
         "Nubogeta"
     ],
-    "gwcode": "tpi"
+    "ld": "ltr"
 }

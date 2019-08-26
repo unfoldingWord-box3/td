@@ -1,13 +1,11 @@
 {
-    "ISO-639-3": "khb",
-    "pk": 2859,
     "lc": "khb",
     "gw": false,
-    "ln": "\u50a3\u4ec2\u8a9e",
-    "ld": "ltr",
-    "ang": "L\u00fc",
+    "ISO-639-3": "khb",
     "hc": "CN",
-    "lr": "Asia",
+    "gwcode": "zh",
+    "ang": "L\u00fc",
+    "pk": 2859,
     "cc": [
         "CN",
         "LA",
@@ -15,6 +13,8 @@
         "US",
         "MM"
     ],
+    "lr": "Asia",
+    "ln": "\u50a3\u4ec2\u8a9e",
     "alt": [
         "Dai",
         "Dai Le",
@@ -35,5 +35,5 @@
         "Jinghong",
         "Muang Yong"
     ],
-    "gwcode": "zh"
+    "ld": "ltr"
 }

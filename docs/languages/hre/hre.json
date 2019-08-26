@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "hre",
-    "pk": 2346,
     "lc": "hre",
     "gw": false,
-    "ln": "Ti\u1ebfng Hr\u00ea",
-    "ld": "ltr",
-    "ang": "Hre",
+    "ISO-639-3": "hre",
     "hc": "VN",
-    "lr": "Asia",
+    "gwcode": "vi",
+    "ang": "Hre",
+    "pk": 2346,
     "cc": [
         "VN"
     ],
+    "lr": "Asia",
+    "ln": "Ti\u1ebfng Hr\u00ea",
     "alt": [
         "Cham-Re",
         "Chom",
@@ -24,5 +24,5 @@
         "Kre",
         "Rabah (Tava)"
     ],
-    "gwcode": "vi"
+    "ld": "ltr"
 }

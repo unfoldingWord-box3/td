@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "wfg",
-    "pk": 6723,
     "lc": "wfg",
     "gw": false,
-    "ln": "Yafi",
-    "ld": "ltr",
-    "ang": "Zorop",
+    "ISO-639-3": "wfg",
     "hc": "ID",
-    "lr": "Asia",
+    "gwcode": "id",
+    "ang": "Zorop",
+    "pk": 6723,
     "cc": [
         "ID"
     ],
+    "lr": "Asia",
+    "ln": "Yafi",
     "alt": [
         "Jafi",
         "Jafi Wagarindem",
@@ -19,5 +19,5 @@
         "Warlef",
         "Yaffi"
     ],
-    "gwcode": "id"
+    "ld": "ltr"
 }

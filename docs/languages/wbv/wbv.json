@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "wbv",
-    "pk": 6703,
     "lc": "wbv",
     "gw": false,
-    "ln": "Wajarri",
-    "ld": "ltr",
-    "ang": "Wajarri",
+    "ISO-639-3": "wbv",
     "hc": "AU",
-    "lr": "Pacific",
+    "gwcode": "en",
+    "ang": "Wajarri",
+    "pk": 6703,
     "cc": [
         "AU"
     ],
+    "lr": "Pacific",
+    "ln": "Wajarri",
     "alt": [
         "Wadjari",
         "Wadjeri",
         "Watjari",
         "Watjarri"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

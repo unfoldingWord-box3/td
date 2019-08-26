@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "tsi",
-    "pk": 6331,
     "lc": "tsi",
     "gw": false,
-    "ln": "Tsimshian",
-    "ld": "ltr",
-    "ang": "Tsimshian",
+    "ISO-639-3": "tsi",
     "hc": "CA",
-    "lr": "Americas",
+    "gwcode": "en",
+    "ang": "Tsimshian",
+    "pk": 6331,
     "cc": [
         "US",
         "CA"
     ],
+    "lr": "Americas",
+    "ln": "Tsimshian",
     "alt": [
         "Chimmezyan",
         "Maritime Tsimshianic",
@@ -22,5 +22,5 @@
         "Coast Tsimshian (Sm'algyax)",
         "Sguxs"
     ],
-    "gwcode": "en"
+    "ld": "ltr"
 }

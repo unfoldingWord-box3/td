@@ -1,21 +1,21 @@
 {
-    "ISO-639-3": "mpk",
-    "pk": 4030,
     "lc": "mpk",
     "gw": false,
-    "ln": "Mbara (Chad)",
-    "ld": "ltr",
-    "ang": "Mbara",
+    "ISO-639-3": "mpk",
     "hc": "TD",
-    "lr": "Africa",
+    "gwcode": "ar",
+    "ang": "Mbara",
+    "pk": 4030,
     "cc": [
         "TD"
     ],
+    "lr": "Africa",
+    "ln": "Mbara (Chad)",
     "alt": [
         "G'kelendeg",
         "G'kelendeng",
         "Guelengdeng",
         "Massa de Guelengdeng"
     ],
-    "gwcode": "ar"
+    "ld": "ltr"
 }

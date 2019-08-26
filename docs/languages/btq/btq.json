@@ -1,16 +1,16 @@
 {
-    "ISO-639-3": "btq",
-    "pk": 960,
     "lc": "btq",
     "gw": false,
-    "ln": "Batek",
-    "ld": "ltr",
-    "ang": "Batek",
+    "ISO-639-3": "btq",
     "hc": "MY",
-    "lr": "Asia",
+    "gwcode": "ms",
+    "ang": "Batek",
+    "pk": 960,
     "cc": [
         "MY"
     ],
+    "lr": "Asia",
+    "ln": "Batek",
     "alt": [
         "Bateg",
         "Bateq",
@@ -22,5 +22,5 @@
         "Batek Nong (Nong)",
         "Batek Teq (Teq)"
     ],
-    "gwcode": "ms"
+    "ld": "ltr"
 }

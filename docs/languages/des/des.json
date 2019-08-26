@@ -1,17 +1,17 @@
 {
-    "ISO-639-3": "des",
-    "pk": 1487,
     "lc": "des",
     "gw": false,
-    "ln": "Desano",
-    "ld": "ltr",
-    "ang": "Desano",
+    "ISO-639-3": "des",
     "hc": "BR",
-    "lr": "Americas",
+    "gwcode": "pt",
+    "ang": "Desano",
+    "pk": 1487,
     "cc": [
         "BR",
         "CO"
     ],
+    "lr": "Americas",
+    "ln": "Desano",
     "alt": [
         "Boleka",
         "Des\u00e2na",
@@ -26,5 +26,5 @@
         "Kotedia",
         "Wira"
     ],
-    "gwcode": "pt"
+    "ld": "ltr"
 }
