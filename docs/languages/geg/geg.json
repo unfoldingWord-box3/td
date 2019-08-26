@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "geg",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1984,
-    "lr": "Africa",
     "lc": "geg",
+    "gw": false,
+    "ln": "Gengle",
+    "ld": "ltr",
+    "ang": "Gengle",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Wegele",
         "Yagele"
     ],
-    "ang": "Gengle",
-    "gwcode": "en",
-    "ln": "Gengle"
+    "gwcode": "en"
 }

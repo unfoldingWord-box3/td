@@ -3,7 +3,7 @@
 मराठी
 ===============
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/mar>`_ identifies this language as ``mar``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/mar>`__ identifies this language as ``mar``.
 
 This language is spoken in the following countries:
 
@@ -12,6 +12,8 @@ This language is spoken in the following countries:
 * ZW: Zimbabwe
 * CA: Canada
 * IN: India
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -34,7 +36,7 @@ This language is spoken in the following countries:
     - ZW
     - CA
     - IN
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: mr
     lang_direction: ltr
     lang_name: मराठी

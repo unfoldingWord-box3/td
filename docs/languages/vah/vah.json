@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vah",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6584,
-    "lr": "Asia",
     "lc": "vah",
+    "gw": false,
+    "ln": "Varhadi-Nagpuri",
+    "ld": "ltr",
+    "ang": "Varhadi-Nagpuri",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -19,7 +21,5 @@
         "Kunban (Kohli)",
         "Mahari (Dhedi)"
     ],
-    "ang": "Varhadi-Nagpuri",
-    "gwcode": "mr",
-    "ln": "Varhadi-Nagpuri"
+    "gwcode": "mr"
 }

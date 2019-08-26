@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "axg",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 454,
-    "lr": "Americas",
     "lc": "axg",
+    "gw": false,
+    "ln": "Mato Grosso Ar\u00e1ra",
+    "ld": "ltr",
+    "ang": "Ar\u00e1ra, Mato Grosso",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -13,7 +15,5 @@
         "Arara do Beirad\u00e3o",
         "Arara do Rio Branco"
     ],
-    "ang": "Ar\u00e1ra, Mato Grosso",
-    "gwcode": "pt",
-    "ln": "Mato Grosso Ar\u00e1ra"
+    "gwcode": "pt"
 }

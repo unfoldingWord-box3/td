@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "egl",
-    "hc": "IT",
-    "ld": "ltr",
     "pk": 1705,
-    "lr": "Europe",
     "lc": "egl",
+    "gw": false,
+    "ln": "Emilian",
+    "ld": "ltr",
+    "ang": "Emilian",
+    "hc": "IT",
+    "lr": "Europe",
     "cc": [
         "IT"
     ],
@@ -17,7 +19,5 @@
         "Piacentino",
         "Reggiano"
     ],
-    "ang": "Emilian",
-    "gwcode": "en",
-    "ln": "Emilian"
+    "gwcode": "en"
 }

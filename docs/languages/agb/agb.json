@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "agb",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 123,
-    "lr": "Africa",
     "lc": "agb",
+    "gw": false,
+    "ln": "Legbo",
+    "ld": "ltr",
+    "ang": "Legbo",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -16,7 +18,5 @@
         "Itigidi",
         "Leggbo"
     ],
-    "ang": "Legbo",
-    "gwcode": "en",
-    "ln": "Legbo"
+    "gwcode": "en"
 }

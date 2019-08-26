@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "snv",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 5744,
-    "lr": "Asia",
     "lc": "snv",
+    "gw": false,
+    "ln": "Sa'ban",
+    "ld": "ltr",
+    "ang": "Sa\u2019ban",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "ID",
         "MY"
@@ -13,7 +15,5 @@
     "alt": [
         "Merau"
     ],
-    "ang": "Sa\u2019ban",
-    "gwcode": "ms",
-    "ln": "Sa'ban"
+    "gwcode": "ms"
 }

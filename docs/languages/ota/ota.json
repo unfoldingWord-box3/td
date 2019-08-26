@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "ota",
-    "hc": "TR",
-    "ld": "ltr",
     "pk": 4888,
-    "lr": "Asia",
     "lc": "ota",
+    "gw": false,
+    "ln": "Osmanl\u0131 T\u00fcrk\u00e7esi",
+    "ld": "ltr",
+    "ang": "Ottoman Turkish (1500-1928)",
+    "hc": "TR",
+    "lr": "Asia",
     "cc": [
         "TR"
     ],
     "alt": [],
-    "ang": "Ottoman Turkish (1500-1928)",
-    "gwcode": "UNKNOWN",
-    "ln": "Osmanl\u0131 T\u00fcrk\u00e7esi"
+    "gwcode": null
 }

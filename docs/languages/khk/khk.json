@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "khk",
-    "hc": "MN",
-    "ld": "ltr",
     "pk": 2867,
-    "lr": "Asia",
     "lc": "khk",
+    "gw": false,
+    "ln": "Halh Mongolian",
+    "ld": "ltr",
+    "ang": "Mongolian, Halh",
+    "hc": "MN",
+    "lr": "Asia",
     "cc": [
         "AT",
         "CN",
@@ -27,7 +29,5 @@
         "Darkhat (Darhad)",
         "Darkhad"
     ],
-    "ang": "Mongolian, Halh",
-    "gwcode": "mn",
-    "ln": "Halh Mongolian"
+    "gwcode": "mn"
 }

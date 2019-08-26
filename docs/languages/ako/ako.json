@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ako",
-    "hc": "SR",
-    "ld": "ltr",
     "pk": 201,
-    "lr": "Americas",
     "lc": "ako",
+    "gw": false,
+    "ln": "Akurio",
+    "ld": "ltr",
+    "ang": "Akurio",
+    "hc": "SR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "SR"
@@ -22,7 +24,5 @@
         "Wama",
         "Wayaricuri"
     ],
-    "ang": "Akurio",
-    "gwcode": "UNKNOWN",
-    "ln": "Akurio"
+    "gwcode": "nl"
 }

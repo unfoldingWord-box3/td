@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ttp",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6363,
-    "lr": "Asia",
     "lc": "ttp",
+    "gw": false,
+    "ln": "Tombelala",
+    "ld": "ltr",
+    "ang": "Tombelala",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Belala",
         "Mbelala"
     ],
-    "ang": "Tombelala",
-    "gwcode": "id",
-    "ln": "Tombelala"
+    "gwcode": "id"
 }

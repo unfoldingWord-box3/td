@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kpo",
-    "hc": "TG",
-    "ld": "ltr",
     "pk": 3072,
-    "lr": "Africa",
     "lc": "kpo",
+    "gw": false,
+    "ln": "Ikposo",
+    "ld": "ltr",
+    "ang": "Ikposo",
+    "hc": "TG",
+    "lr": "Africa",
     "cc": [
         "GH",
         "TG"
@@ -16,7 +18,5 @@
         "Iwi (Uwi)",
         "Litime (Badou)"
     ],
-    "ang": "Ikposo",
-    "gwcode": "fr",
-    "ln": "Ikposo"
+    "gwcode": "fr"
 }

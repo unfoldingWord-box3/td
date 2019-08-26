@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zrs",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 7468,
-    "lr": "Asia",
     "lc": "zrs",
+    "gw": false,
+    "ln": "Mairasi",
+    "ld": "ltr",
+    "ang": "Mairasi",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Faranyao",
         "Kaniran"
     ],
-    "ang": "Mairasi",
-    "gwcode": "id",
-    "ln": "Mairasi"
+    "gwcode": "id"
 }

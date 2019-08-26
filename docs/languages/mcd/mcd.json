@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mcd",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 3705,
-    "lr": "Americas",
     "lc": "mcd",
+    "gw": false,
+    "ln": "Sharanahua",
+    "ld": "ltr",
+    "ang": "Sharanahua",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "BR",
         "PE"
@@ -18,7 +20,5 @@
         "Marinahua (Marin\u00e1wa)",
         "Mastanahua"
     ],
-    "ang": "Sharanahua",
-    "gwcode": "es-419",
-    "ln": "Sharanahua"
+    "gwcode": "es-419"
 }

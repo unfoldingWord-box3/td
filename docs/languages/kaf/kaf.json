@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kaf",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2698,
-    "lr": "Asia",
     "lc": "kaf",
+    "gw": false,
+    "ln": "\u5361\u5353",
+    "ld": "ltr",
+    "ang": "Katso",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Gezhuo",
         "Kazhuo"
     ],
-    "ang": "Katso",
-    "gwcode": "zh",
-    "ln": "\u5361\u5353"
+    "gwcode": "zh"
 }

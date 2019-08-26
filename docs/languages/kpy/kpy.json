@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kpy",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 3081,
-    "lr": "Europe",
     "lc": "kpy",
+    "gw": false,
+    "ln": "\u041a\u043e\u0440\u044f\u043a\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Koryak",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -16,7 +18,5 @@
         "Cavcuvenskij (Chavchuven)",
         "Kamenskij (Kamen)"
     ],
-    "ang": "Koryak",
-    "gwcode": "ru",
-    "ln": "\u041a\u043e\u0440\u044f\u043a\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

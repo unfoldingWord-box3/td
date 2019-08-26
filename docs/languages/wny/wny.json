@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wny",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6786,
-    "lr": "Pacific",
     "lc": "wny",
+    "gw": false,
+    "ln": "Wanyi",
+    "ld": "ltr",
+    "ang": "Wanyi",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -18,7 +20,5 @@
         "Wanyee",
         "Wonyee"
     ],
-    "ang": "Wanyi",
-    "gwcode": "en",
-    "ln": "Wanyi"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "rus",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 5431,
-    "lr": "Europe",
     "lc": "ru",
+    "gw": true,
+    "ln": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Russian",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "AZ",
         "AT",
@@ -58,7 +60,5 @@
         "Russki",
         "Russit"
     ],
-    "ang": "Russian",
-    "gwcode": "UNKNOWN",
-    "ln": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"
+    "gwcode": null
 }

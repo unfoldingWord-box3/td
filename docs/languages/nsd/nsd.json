@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nsd",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 4640,
-    "lr": "Asia",
     "lc": "nsd",
+    "gw": false,
+    "ln": "\u5357\u5c3c\u82cf\u8bed",
+    "ld": "ltr",
+    "ang": "Nisu, Southern",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Yuanyang Nisu",
         "Mojiang Nisu"
     ],
-    "ang": "Nisu, Southern",
-    "gwcode": "zh",
-    "ln": "\u5357\u5c3c\u82cf\u8bed"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "atb",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 382,
-    "lr": "Asia",
     "lc": "atb",
+    "gw": false,
+    "ln": "\u8f7d\u74e6",
+    "ld": "ltr",
+    "ang": "Zaiwa",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "MM"
@@ -25,7 +27,5 @@
         "Bengwa",
         "Longzhun"
     ],
-    "ang": "Zaiwa",
-    "gwcode": "zh",
-    "ln": "\u8f7d\u74e6"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gyl",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 2210,
-    "lr": "Africa",
     "lc": "gyl",
+    "gw": false,
+    "ln": "Gayil",
+    "ld": "ltr",
+    "ang": "Gayil",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -15,7 +17,5 @@
         "Gelila",
         "Northern Ari"
     ],
-    "ang": "Gayil",
-    "gwcode": "am",
-    "ln": "Gayil"
+    "gwcode": "am"
 }

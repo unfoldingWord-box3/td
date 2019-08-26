@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "haa",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 2218,
-    "lr": "Americas",
     "lc": "haa",
+    "gw": false,
+    "ln": "Han",
+    "ld": "ltr",
+    "ang": "Han",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US",
         "CA"
@@ -15,7 +17,5 @@
         "Han-Kutchin",
         "Moosehide"
     ],
-    "ang": "Han",
-    "gwcode": "en",
-    "ln": "Han"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tkt",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 6165,
-    "lr": "Asia",
     "lc": "tkt",
+    "gw": false,
+    "ln": "Kathoriya Tharu",
+    "ld": "ltr",
+    "ang": "Tharu, Kathariya",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Khatima Tharu",
         "Kathariya"
     ],
-    "ang": "Tharu, Kathariya",
-    "gwcode": "ne",
-    "ln": "Kathoriya Tharu"
+    "gwcode": "ne"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kgf",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2841,
-    "lr": "Pacific",
     "lc": "kgf",
+    "gw": false,
+    "ln": "Kube",
+    "ld": "ltr",
+    "ang": "Kube",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Mongi",
         "Yoangen (Yoanggeng)"
     ],
-    "ang": "Kube",
-    "gwcode": "tpi",
-    "ln": "Kube"
+    "gwcode": "tpi"
 }

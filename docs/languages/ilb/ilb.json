@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ilb",
-    "hc": "ZM",
-    "ld": "ltr",
     "pk": 2471,
-    "lr": "Africa",
     "lc": "ilb",
+    "gw": false,
+    "ln": "Ila",
+    "ld": "ltr",
+    "ang": "Ila",
+    "hc": "ZM",
+    "lr": "Africa",
     "cc": [
         "ZM"
     ],
@@ -14,7 +16,5 @@
         "Shukulumbwe",
         "Sukulumbwe"
     ],
-    "ang": "Ila",
-    "gwcode": "en",
-    "ln": "Ila"
+    "gwcode": "en"
 }

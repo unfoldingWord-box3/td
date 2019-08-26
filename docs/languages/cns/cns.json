@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cns",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1281,
-    "lr": "Asia",
     "lc": "cns",
+    "gw": false,
+    "ln": "Central Asmat",
+    "ld": "ltr",
+    "ang": "Asmat, Central",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Ajam (Ayam)",
         "Simai (Simay)"
     ],
-    "ang": "Asmat, Central",
-    "gwcode": "id",
-    "ln": "Central Asmat"
+    "gwcode": "id"
 }

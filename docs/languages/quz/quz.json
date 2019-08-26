@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "quz",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 5268,
-    "lr": "Americas",
     "lc": "quz",
+    "gw": false,
+    "ln": "Cusco Quechua",
+    "ld": "ltr",
+    "ang": "Quechua, Cusco",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -21,7 +23,5 @@
         "Puno Quechua",
         "Eastern Apur\u00edmac Quechua"
     ],
-    "ang": "Quechua, Cusco",
-    "gwcode": "es-419",
-    "ln": "Cusco Quechua"
+    "gwcode": "es-419"
 }

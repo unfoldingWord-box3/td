@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nkc",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4496,
-    "lr": "Africa",
     "lc": "nkc",
+    "gw": false,
+    "ln": "Nkongho",
+    "ld": "ltr",
+    "ang": "Nkongho",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -14,7 +16,5 @@
         "Lekongo",
         "Upper Mbo"
     ],
-    "ang": "Nkongho",
-    "gwcode": "fr",
-    "ln": "Nkongho"
+    "gwcode": "fr"
 }

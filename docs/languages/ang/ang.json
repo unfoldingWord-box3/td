@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "ang",
-    "hc": "GB",
-    "ld": "ltr",
     "pk": 264,
-    "lr": "Europe",
     "lc": "ang",
+    "gw": false,
+    "ln": "Old English (ca. 450-1100)",
+    "ld": "ltr",
+    "ang": "Old English",
+    "hc": "GB",
+    "lr": "Europe",
     "cc": [
         "GB"
     ],
     "alt": [],
-    "ang": "Old English",
-    "gwcode": "UNKNOWN",
-    "ln": "Old English (ca. 450-1100)"
+    "gwcode": null
 }

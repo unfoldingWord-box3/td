@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zmz",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 7425,
-    "lr": "Africa",
     "lc": "zmz",
+    "gw": false,
+    "ln": "Mbandja",
+    "ld": "ltr",
+    "ang": "Mbandja",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CF",
         "CG",
@@ -17,7 +19,5 @@
         "Mbanza",
         "Banja"
     ],
-    "ang": "Mbandja",
-    "gwcode": "fr",
-    "ln": "Mbandja"
+    "gwcode": "fr"
 }

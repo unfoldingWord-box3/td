@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mtl",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4132,
-    "lr": "Africa",
     "lc": "mtl",
+    "gw": false,
+    "ln": "Montol",
+    "ld": "ltr",
+    "ang": "Montol",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Montal",
         "Teel"
     ],
-    "ang": "Montol",
-    "gwcode": "en",
-    "ln": "Montol"
+    "gwcode": "en"
 }

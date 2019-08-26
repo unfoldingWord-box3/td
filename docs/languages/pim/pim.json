@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pim",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 5036,
-    "lr": "Americas",
     "lc": "pim",
+    "gw": false,
+    "ln": "Powhatan",
+    "ld": "ltr",
+    "ang": "Powhatan",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -13,7 +15,5 @@
         "Virginia Algonkian",
         "Virginia Algonquian"
     ],
-    "ang": "Powhatan",
-    "gwcode": "en",
-    "ln": "Powhatan"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mso",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4110,
-    "lr": "Asia",
     "lc": "mso",
+    "gw": false,
+    "ln": "Mombum",
+    "ld": "ltr",
+    "ang": "Mombum",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Kemelomsch",
         "Komolom"
     ],
-    "ang": "Mombum",
-    "gwcode": "id",
-    "ln": "Mombum"
+    "gwcode": "id"
 }

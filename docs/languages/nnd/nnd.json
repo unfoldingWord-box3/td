@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nnd",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 4562,
-    "lr": "Pacific",
     "lc": "nnd",
+    "gw": false,
+    "ln": "West Ambae",
+    "ld": "ltr",
+    "ang": "Ambae, West",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -14,7 +16,5 @@
         "Opa",
         "Nduindui (Duindui)"
     ],
-    "ang": "Ambae, West",
-    "gwcode": "fr",
-    "ln": "West Ambae"
+    "gwcode": "fr"
 }

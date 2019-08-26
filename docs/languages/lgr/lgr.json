@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lgr",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 3440,
-    "lr": "Pacific",
     "lc": "lgr",
+    "gw": false,
+    "ln": "Lengo",
+    "ld": "ltr",
+    "ang": "Lengo",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -15,7 +17,5 @@
         "Tadhimboko",
         "Ghaimuta (Ghua)"
     ],
-    "ang": "Lengo",
-    "gwcode": "UNKNOWN",
-    "ln": "Lengo"
+    "gwcode": "pis"
 }

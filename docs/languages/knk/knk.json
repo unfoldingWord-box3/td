@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "knk",
-    "hc": "SL",
-    "ld": "ltr",
     "pk": 3023,
-    "lr": "Africa",
     "lc": "knk",
+    "gw": false,
+    "ln": "Kuranko",
+    "ld": "ltr",
+    "ang": "Kuranko",
+    "hc": "SL",
+    "lr": "Africa",
     "cc": [
         "GN",
         "SL"
@@ -16,7 +18,5 @@
         "Fineriya",
         "Sankaran"
     ],
-    "ang": "Kuranko",
-    "gwcode": "en",
-    "ln": "Kuranko"
+    "gwcode": "en"
 }

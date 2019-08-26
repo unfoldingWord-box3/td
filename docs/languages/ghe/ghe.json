@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ghe",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 2011,
-    "lr": "Asia",
     "lc": "ghe",
+    "gw": false,
+    "ln": "Southern Ghale",
+    "ld": "ltr",
+    "ang": "Ghale, Southern",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Lila",
         "Ril-Lila"
     ],
-    "ang": "Ghale, Southern",
-    "gwcode": "ne",
-    "ln": "Southern Ghale"
+    "gwcode": "ne"
 }

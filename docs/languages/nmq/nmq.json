@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nmq",
-    "hc": "ZW",
-    "ld": "ltr",
     "pk": 4549,
-    "lr": "Africa",
     "lc": "nmq",
+    "gw": false,
+    "ln": "Nambya",
+    "ld": "ltr",
+    "ang": "Nambya",
+    "hc": "ZW",
+    "lr": "Africa",
     "cc": [
         "ZW"
     ],
@@ -14,7 +16,5 @@
         "Nambzya",
         "Nanzva"
     ],
-    "ang": "Nambya",
-    "gwcode": "en",
-    "ln": "Nambya"
+    "gwcode": "en"
 }

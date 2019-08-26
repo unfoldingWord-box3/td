@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wlw",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6763,
-    "lr": "Asia",
     "lc": "wlw",
+    "gw": false,
+    "ln": "Walak",
+    "ld": "ltr",
+    "ang": "Walak",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Lower Pyramid",
         "Wodo"
     ],
-    "ang": "Walak",
-    "gwcode": "id",
-    "ln": "Walak"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dig",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 1524,
-    "lr": "Africa",
     "lc": "dig",
+    "gw": false,
+    "ln": "Digo",
+    "ld": "ltr",
+    "ang": "Chidigo",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE",
         "TZ"
@@ -16,7 +18,5 @@
         "Chichinondo",
         "Chigwirani"
     ],
-    "ang": "Chidigo",
-    "gwcode": "sw",
-    "ln": "Digo"
+    "gwcode": "sw"
 }

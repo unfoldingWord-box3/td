@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "njy",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4492,
-    "lr": "Africa",
     "lc": "njy",
+    "gw": false,
+    "ln": "Njyem",
+    "ld": "ltr",
+    "ang": "Njyem",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -20,7 +22,5 @@
         "Nyem",
         "Njeme"
     ],
-    "ang": "Njyem",
-    "gwcode": "fr",
-    "ln": "Njyem"
+    "gwcode": "fr"
 }

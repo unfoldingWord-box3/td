@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xwa",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 7092,
-    "lr": "Americas",
     "lc": "xwa",
+    "gw": false,
+    "ln": "Kwaza",
+    "ld": "ltr",
+    "ang": "Kwaza",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -15,7 +17,5 @@
         "Koaya",
         "Quai\u00e1"
     ],
-    "ang": "Kwaza",
-    "gwcode": "pt",
-    "ln": "Kwaza"
+    "gwcode": "pt"
 }

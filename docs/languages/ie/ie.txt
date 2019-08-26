@@ -3,10 +3,12 @@
 Originally called Occidental; then Interlingue after WWII
 =========================================================
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/ile>`_ identifies this language as ``ile``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ile>`__ identifies this language as ``ile``.
 
-This language is spoken in the following countries:
+.. warning:: This language is not list as spoken in any countries.
 
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -14,7 +16,7 @@ This language is spoken in the following countries:
     alternate_names: []
     anglicanized_name: Interlingue
     country_codes: []
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: ie
     lang_direction: ltr
     lang_name: Originally called Occidental; then Interlingue after WWII

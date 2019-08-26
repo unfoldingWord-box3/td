@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yin",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 7188,
-    "lr": "Asia",
     "lc": "yin",
+    "gw": false,
+    "ln": "Yinchia",
+    "ld": "ltr",
+    "ang": "Yinchia",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -15,7 +17,5 @@
         "Striped Karen",
         "Yin Kya"
     ],
-    "ang": "Yinchia",
-    "gwcode": "my",
-    "ln": "Yinchia"
+    "gwcode": "my"
 }

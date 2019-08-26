@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ada",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 71,
-    "lr": "Africa",
     "lc": "ada",
+    "gw": false,
+    "ln": "Adangme",
+    "ld": "ltr",
+    "ang": "Dangme",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -13,7 +15,5 @@
         "Ada",
         "Adangme"
     ],
-    "ang": "Dangme",
-    "gwcode": "en",
-    "ln": "Adangme"
+    "gwcode": "en"
 }

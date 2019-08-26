@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kff",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2814,
-    "lr": "Asia",
     "lc": "kff",
+    "gw": false,
+    "ln": "Koya",
+    "ld": "ltr",
+    "ang": "Koya",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -30,7 +32,5 @@
         "Dorla Koya",
         "Podia Koya (Gotte Koya)"
     ],
-    "ang": "Koya",
-    "gwcode": "te",
-    "ln": "Koya"
+    "gwcode": "te"
 }

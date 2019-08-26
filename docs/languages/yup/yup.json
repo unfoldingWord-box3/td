@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yup",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 7304,
-    "lr": "Americas",
     "lc": "yup",
+    "gw": false,
+    "ln": "Yukpa",
+    "ld": "ltr",
+    "ang": "Yukpa",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "VE",
         "CO",
@@ -29,7 +31,5 @@
         "Atapshi (Yukpa norte)",
         "Wasama"
     ],
-    "ang": "Yukpa",
-    "gwcode": "es-419",
-    "ln": "Yukpa"
+    "gwcode": "es-419"
 }

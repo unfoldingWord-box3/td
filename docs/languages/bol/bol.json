@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bol",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 840,
-    "lr": "Africa",
     "lc": "bol",
+    "gw": false,
+    "ln": "Bole",
+    "ld": "ltr",
+    "ang": "Bole",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -17,7 +19,5 @@
         "Fika (Anpika)",
         "Fikankayen"
     ],
-    "ang": "Bole",
-    "gwcode": "en",
-    "ln": "Bole"
+    "gwcode": "en"
 }

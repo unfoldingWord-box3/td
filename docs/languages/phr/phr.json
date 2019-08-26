@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "phr",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 5020,
-    "lr": "Asia",
     "lc": "phr",
+    "gw": false,
+    "ln": "\u067e\u0648\u0679\u06be\u0648\u0627\u0631\u06cc",
+    "ld": "ltr",
+    "ang": "Pahari-Potwari",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "PK",
         "IN"
@@ -19,7 +21,5 @@
         "Pahari (Dhundi-Kairali)",
         "Pothwari (Potwari)"
     ],
-    "ang": "Pahari-Potwari",
-    "gwcode": "ur",
-    "ln": "\u067e\u0648\u0679\u06be\u0648\u0627\u0631\u06cc"
+    "gwcode": "ur"
 }

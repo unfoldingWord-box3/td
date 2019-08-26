@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "myr",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 4255,
-    "lr": "Americas",
     "lc": "myr",
+    "gw": false,
+    "ln": "Muniche",
+    "ld": "ltr",
+    "ang": "Muniche",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -15,7 +17,5 @@
         "Otanabe",
         "Otanave"
     ],
-    "ang": "Muniche",
-    "gwcode": "es-419",
-    "ln": "Muniche"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cdg",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1163,
-    "lr": "Asia",
     "lc": "cdg",
+    "gw": false,
+    "ln": "Chamari",
+    "ld": "ltr",
+    "ang": "Chamari",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Chambhar Boli",
         "Chambhari"
     ],
-    "ang": "Chamari",
-    "gwcode": "hi",
-    "ln": "Chamari"
+    "gwcode": "hi"
 }

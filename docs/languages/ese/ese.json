@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ese",
-    "hc": "BO",
-    "ld": "ltr",
     "pk": 1777,
-    "lr": "Americas",
     "lc": "ese",
+    "gw": false,
+    "ln": "Ese Ejja",
+    "ld": "ltr",
+    "ang": "Ese Ejja",
+    "hc": "BO",
+    "lr": "Americas",
     "cc": [
         "PE",
         "BO"
@@ -19,7 +21,5 @@
         "Ese'ejja",
         "Tambopata-Guarayo"
     ],
-    "ang": "Ese Ejja",
-    "gwcode": "es-419",
-    "ln": "Ese Ejja"
+    "gwcode": "es-419"
 }

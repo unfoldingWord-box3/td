@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jrr",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2665,
-    "lr": "Africa",
     "lc": "jrr",
+    "gw": false,
+    "ln": "Jiru",
+    "ld": "ltr",
+    "ang": "Jiru",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Wiyap",
         "Zhiru"
     ],
-    "ang": "Jiru",
-    "gwcode": "en",
-    "ln": "Jiru"
+    "gwcode": "en"
 }

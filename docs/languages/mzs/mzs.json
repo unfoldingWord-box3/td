@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mzs",
-    "hc": "MO",
-    "ld": "ltr",
     "pk": 4279,
-    "lr": "Asia",
     "lc": "mzs",
+    "gw": false,
+    "ln": "Macanese",
+    "ld": "ltr",
+    "ang": "Macanese",
+    "hc": "MO",
+    "lr": "Asia",
     "cc": [
         "MO"
     ],
@@ -15,7 +17,5 @@
         "Makista",
         "Patu\u00e1"
     ],
-    "ang": "Macanese",
-    "gwcode": "zh",
-    "ln": "Macanese"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yav",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 7131,
-    "lr": "Africa",
     "lc": "yav",
+    "gw": false,
+    "ln": "Yangben",
+    "ld": "ltr",
+    "ang": "Yangben",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -17,7 +19,5 @@
         "Nutanga",
         "Numende"
     ],
-    "ang": "Yangben",
-    "gwcode": "fr",
-    "ln": "Yangben"
+    "gwcode": "fr"
 }

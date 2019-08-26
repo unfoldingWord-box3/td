@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fin",
-    "hc": "FI",
-    "ld": "ltr",
     "pk": 1838,
-    "lr": "Europe",
     "lc": "fi",
+    "gw": false,
+    "ln": "suomi, suomen kieli",
+    "ld": "ltr",
+    "ang": "Finnish",
+    "hc": "FI",
+    "lr": "Europe",
     "cc": [
         "GB",
         "NO",
@@ -23,7 +25,5 @@
         "Savo (Savolax)",
         "Southeastern Finnish (Finnish Karelian)"
     ],
-    "ang": "Finnish",
-    "gwcode": "en",
-    "ln": "suomi, suomen kieli"
+    "gwcode": "en"
 }

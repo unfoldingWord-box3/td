@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "emk",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 1738,
-    "lr": "Africa",
     "lc": "emk",
+    "gw": false,
+    "ln": "Eastern Maninkakan",
+    "ld": "ltr",
+    "ang": "Maninkakan, Eastern",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "LR",
         "ML",
@@ -34,7 +36,5 @@
         "Wasuu",
         "Kankan Mininka"
     ],
-    "ang": "Maninkakan, Eastern",
-    "gwcode": "fr",
-    "ln": "Eastern Maninkakan"
+    "gwcode": "fr"
 }

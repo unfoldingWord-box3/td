@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jio",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2623,
-    "lr": "Asia",
     "lc": "jio",
+    "gw": false,
+    "ln": "\u52a0\u8302",
+    "ld": "ltr",
+    "ang": "Jiamao",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -15,7 +17,5 @@
         "Ku vou",
         "Tai"
     ],
-    "ang": "Jiamao",
-    "gwcode": "zh",
-    "ln": "\u52a0\u8302"
+    "gwcode": "zh"
 }

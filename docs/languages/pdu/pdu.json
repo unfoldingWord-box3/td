@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pdu",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 4978,
-    "lr": "Asia",
     "lc": "pdu",
+    "gw": false,
+    "ln": "Kayan",
+    "ld": "ltr",
+    "ang": "Kayan",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "TH",
         "MM"
@@ -20,7 +22,5 @@
         "Standard Pekon",
         "Yinbaw"
     ],
-    "ang": "Kayan",
-    "gwcode": "my",
-    "ln": "Kayan"
+    "gwcode": "my"
 }

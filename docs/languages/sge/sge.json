@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sge",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5576,
-    "lr": "Asia",
     "lc": "sge",
+    "gw": false,
+    "ln": "Segai",
+    "ld": "ltr",
+    "ang": "Segai",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Ga'ay",
         "Segayi"
     ],
-    "ang": "Segai",
-    "gwcode": "id",
-    "ln": "Segai"
+    "gwcode": "id"
 }

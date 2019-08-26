@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ncj",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4340,
-    "lr": "Americas",
     "lc": "ncj",
+    "gw": false,
+    "ln": "Northern Puebla Nahuatl",
+    "ld": "ltr",
+    "ang": "Nahuatl, Northern Puebla",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "N\u00e1huatl del Norte de Puebla",
         "North Puebla Aztec"
     ],
-    "ang": "Nahuatl, Northern Puebla",
-    "gwcode": "es-419",
-    "ln": "Northern Puebla Nahuatl"
+    "gwcode": "es-419"
 }

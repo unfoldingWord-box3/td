@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "abz",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 52,
-    "lr": "Asia",
     "lc": "abz",
+    "gw": false,
+    "ln": "Abui",
+    "ld": "ltr",
+    "ang": "Abui",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Namatalaki",
         "Barawahing"
     ],
-    "ang": "Abui",
-    "gwcode": "id",
-    "ln": "Abui"
+    "gwcode": "id"
 }

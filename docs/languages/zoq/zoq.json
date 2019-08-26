@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zoq",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7434,
-    "lr": "Americas",
     "lc": "zoq",
+    "gw": false,
+    "ln": "Tabasco Zoque",
+    "ld": "ltr",
+    "ang": "Zoque, Tabasco",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Zoque de Ayapanec",
         "Zoque de Tabasco"
     ],
-    "ang": "Zoque, Tabasco",
-    "gwcode": "es-419",
-    "ln": "Tabasco Zoque"
+    "gwcode": "es-419"
 }

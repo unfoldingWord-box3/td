@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mfq",
-    "hc": "TG",
-    "ld": "ltr",
     "pk": 3793,
-    "lr": "Africa",
     "lc": "mfq",
+    "gw": false,
+    "ln": "Moba",
+    "ld": "ltr",
+    "ang": "Moba",
+    "hc": "TG",
+    "lr": "Africa",
     "cc": [
         "BF",
         "TG"
@@ -18,7 +20,5 @@
         "Lok",
         "Yanbann"
     ],
-    "ang": "Moba",
-    "gwcode": "fr",
-    "ln": "Moba"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lbf",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3360,
-    "lr": "Asia",
     "lc": "lbf",
+    "gw": false,
+    "ln": "Tinani",
+    "ld": "ltr",
+    "ang": "Tinani",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -20,7 +22,5 @@
         "Teenan",
         "Tinan Lahuli"
     ],
-    "ang": "Tinani",
-    "gwcode": "hi",
-    "ln": "Tinani"
+    "gwcode": "hi"
 }

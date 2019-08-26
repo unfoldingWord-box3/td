@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yeu",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 7166,
-    "lr": "Asia",
     "lc": "yeu",
+    "gw": false,
+    "ln": "Yerukula",
+    "ld": "ltr",
+    "ang": "Yerukula",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -23,7 +25,5 @@
         "Yerukla",
         "Yerukula-Bhasha"
     ],
-    "ang": "Yerukula",
-    "gwcode": "te",
-    "ln": "Yerukula"
+    "gwcode": "te"
 }

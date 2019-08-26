@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "qve",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 5271,
-    "lr": "Americas",
     "lc": "qve",
+    "gw": false,
+    "ln": "Eastern Apur\u00edmac Quechua",
+    "ld": "ltr",
+    "ang": "Quechua, Eastern Apur\u00edmac",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -16,7 +18,5 @@
         "Antabamba",
         "Cotabambas"
     ],
-    "ang": "Quechua, Eastern Apur\u00edmac",
-    "gwcode": "es-419",
-    "ln": "Eastern Apur\u00edmac Quechua"
+    "gwcode": "es-419"
 }

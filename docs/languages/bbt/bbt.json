@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bbt",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 527,
-    "lr": "Africa",
     "lc": "bbt",
+    "gw": false,
+    "ln": "Mburku",
+    "ld": "ltr",
+    "ang": "Mburku",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -19,7 +21,5 @@
         "Wudufu",
         "Wuufu"
     ],
-    "ang": "Mburku",
-    "gwcode": "en",
-    "ln": "Mburku"
+    "gwcode": "en"
 }

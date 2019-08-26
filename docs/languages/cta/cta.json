@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cta",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 1368,
-    "lr": "Americas",
     "lc": "cta",
+    "gw": false,
+    "ln": "Tataltepec Chatino",
+    "ld": "ltr",
+    "ang": "Chatino, Tataltepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Chatino Occidental Bajo",
         "Lowland Chatino"
     ],
-    "ang": "Chatino, Tataltepec",
-    "gwcode": "es-419",
-    "ln": "Tataltepec Chatino"
+    "gwcode": "es-419"
 }

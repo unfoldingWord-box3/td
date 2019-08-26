@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bqu",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 893,
-    "lr": "Africa",
     "lc": "bqu",
+    "gw": false,
+    "ln": "Boguru",
+    "ld": "ltr",
+    "ang": "Boguru",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Bukur (Bukum)",
         "Bukuru"
     ],
-    "ang": "Boguru",
-    "gwcode": "fr",
-    "ln": "Boguru"
+    "gwcode": "fr"
 }

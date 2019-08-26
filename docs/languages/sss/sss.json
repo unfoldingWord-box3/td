@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sss",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 5844,
-    "lr": "Asia",
     "lc": "sss",
+    "gw": false,
+    "ln": "S\u00f4",
+    "ld": "ltr",
+    "ang": "S\u00f4",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA",
         "TH"
@@ -20,7 +22,5 @@
         "Thro",
         "Kha So"
     ],
-    "ang": "S\u00f4",
-    "gwcode": "lo",
-    "ln": "S\u00f4"
+    "gwcode": "lo"
 }

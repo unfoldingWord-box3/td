@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "url",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6547,
-    "lr": "Asia",
     "lc": "url",
+    "gw": false,
+    "ln": "Urali",
+    "ld": "ltr",
+    "ang": "Urali",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Oorazhi",
         "Urli"
     ],
-    "ang": "Urali",
-    "gwcode": "ml",
-    "ln": "Urali"
+    "gwcode": "ml"
 }

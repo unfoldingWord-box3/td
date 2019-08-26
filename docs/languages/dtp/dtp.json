@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dtp",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 1644,
-    "lr": "Asia",
     "lc": "dtp",
+    "gw": false,
+    "ln": "Central Dusun",
+    "ld": "ltr",
+    "ang": "Dusun, Central",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -24,7 +26,5 @@
         "Telipok",
         "Bundu (Taginambur)"
     ],
-    "ang": "Dusun, Central",
-    "gwcode": "ms",
-    "ln": "Central Dusun"
+    "gwcode": "ms"
 }

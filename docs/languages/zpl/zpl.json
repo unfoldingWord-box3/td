@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zpl",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7448,
-    "lr": "Americas",
     "lc": "zpl",
+    "gw": false,
+    "ln": "Lachix\u00edo Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Lachix\u00edo",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Eastern Sola de Vega Zapotec",
         "Zapoteco de Lachix\u00edo"
     ],
-    "ang": "Zapotec, Lachix\u00edo",
-    "gwcode": "es-419",
-    "ln": "Lachix\u00edo Zapotec"
+    "gwcode": "es-419"
 }

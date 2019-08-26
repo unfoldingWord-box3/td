@@ -8,6 +8,8 @@ This language is spoken in the following countries:
 * BR: Brazil
 * SR: Suriname
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: ako
@@ -26,7 +28,7 @@ This language is spoken in the following countries:
     country_codes:
     - BR
     - SR
-    gateway_language: UNKNOWN
+    gateway_language: nl
     lang_code: ako
     lang_direction: ltr
     lang_name: Akurio

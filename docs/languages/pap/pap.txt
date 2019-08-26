@@ -11,6 +11,8 @@ This language is spoken in the following countries:
 * CA: Canada
 * CW: Cura�ao
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: pap
@@ -30,7 +32,7 @@ This language is spoken in the following countries:
     - SX
     - CA
     - CW
-    gateway_language: UNKNOWN
+    gateway_language: nl
     lang_code: pap
     lang_direction: ltr
     lang_name: Papiamento

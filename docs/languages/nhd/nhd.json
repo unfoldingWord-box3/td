@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nhd",
-    "hc": "PY",
-    "ld": "ltr",
     "pk": 4436,
-    "lr": "Americas",
     "lc": "nhd",
+    "gw": false,
+    "ln": "Chirip\u00e1",
+    "ld": "ltr",
+    "ang": "Guaran\u00ed, Ava",
+    "hc": "PY",
+    "lr": "Americas",
     "cc": [
         "BR",
         "PY"
@@ -22,7 +24,5 @@
         "Ava",
         "Chirip\u00e1"
     ],
-    "ang": "Guaran\u00ed, Ava",
-    "gwcode": "UNKNOWN",
-    "ln": "Chirip\u00e1"
+    "gwcode": "gug"
 }

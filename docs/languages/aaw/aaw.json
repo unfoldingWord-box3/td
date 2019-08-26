@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aaw",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 25,
-    "lr": "Pacific",
     "lc": "aaw",
+    "gw": false,
+    "ln": "Solong",
+    "ld": "ltr",
+    "ang": "Solong",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Arawe",
         "Pililo"
     ],
-    "ang": "Solong",
-    "gwcode": "tpi",
-    "ln": "Solong"
+    "gwcode": "tpi"
 }

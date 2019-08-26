@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cps",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 1315,
-    "lr": "Asia",
     "lc": "cps",
+    "gw": false,
+    "ln": "Capiznon",
+    "ld": "ltr",
+    "ang": "Capiznon",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Capisano",
         "Capise\u00f1o"
     ],
-    "ang": "Capiznon",
-    "gwcode": "en",
-    "ln": "Capiznon"
+    "gwcode": "en"
 }

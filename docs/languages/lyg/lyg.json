@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lyg",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3653,
-    "lr": "Asia",
     "lc": "lyg",
+    "gw": false,
+    "ln": "Lyngngam",
+    "ld": "ltr",
+    "ang": "Lyngngam",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Lyngam",
         "Lyngym"
     ],
-    "ang": "Lyngngam",
-    "gwcode": "as",
-    "ln": "Lyngngam"
+    "gwcode": "as"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mil",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3865,
-    "lr": "Americas",
     "lc": "mil",
+    "gw": false,
+    "ln": "Pe\u00f1oles Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Pe\u00f1oles",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Eastern Mixtec",
         "Mixteco de Santa Mar\u00eda Pe\u00f1oles"
     ],
-    "ang": "Mixtec, Pe\u00f1oles",
-    "gwcode": "es-419",
-    "ln": "Pe\u00f1oles Mixtec"
+    "gwcode": "es-419"
 }

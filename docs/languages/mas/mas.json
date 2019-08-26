@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mas",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 3671,
-    "lr": "Africa",
     "lc": "mas",
+    "gw": false,
+    "ln": "Masai",
+    "ld": "ltr",
+    "ang": "Maasai",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE",
         "TZ"
@@ -21,7 +23,5 @@
         "L-Arusha",
         "Moitanik (Wuasinkishu)"
     ],
-    "ang": "Maasai",
-    "gwcode": "sw",
-    "ln": "Masai"
+    "gwcode": "sw"
 }

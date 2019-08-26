@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jda",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2594,
-    "lr": "Asia",
     "lc": "jda",
+    "gw": false,
+    "ln": "Jad",
+    "ld": "ltr",
+    "ang": "Jad",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Dzad",
         "Rongba"
     ],
-    "ang": "Jad",
-    "gwcode": "hi",
-    "ln": "Jad"
+    "gwcode": "hi"
 }

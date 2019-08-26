@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "awe",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 439,
-    "lr": "Americas",
     "lc": "awe",
+    "gw": false,
+    "ln": "Awet\u00ed",
+    "ld": "ltr",
+    "ang": "Awet\u00ed",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -17,7 +19,5 @@
         "Auiti",
         "Awet\u00f6"
     ],
-    "ang": "Awet\u00ed",
-    "gwcode": "pt",
-    "ln": "Awet\u00ed"
+    "gwcode": "pt"
 }

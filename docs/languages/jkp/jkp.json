@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jkp",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 2633,
-    "lr": "Asia",
     "lc": "jkp",
+    "gw": false,
+    "ln": "Paku Karen",
+    "ld": "ltr",
+    "ang": "Karen, Paku",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -20,7 +22,5 @@
         "Paku",
         "Thalwepwe"
     ],
-    "ang": "Karen, Paku",
-    "gwcode": "my",
-    "ln": "Paku Karen"
+    "gwcode": "my"
 }

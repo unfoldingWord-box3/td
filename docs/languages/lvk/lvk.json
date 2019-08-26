@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lvk",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 3639,
-    "lr": "Pacific",
     "lc": "lvk",
+    "gw": false,
+    "ln": "Lavukaleve",
+    "ld": "ltr",
+    "ang": "Lavukaleve",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -14,7 +16,5 @@
         "Laumbe",
         "Russell Island"
     ],
-    "ang": "Lavukaleve",
-    "gwcode": "UNKNOWN",
-    "ln": "Lavukaleve"
+    "gwcode": "pis"
 }

@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * ID: Indonesia
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: tet
@@ -43,7 +45,7 @@ This language is spoken in the following countries:
     anglicanized_name: Tetun
     country_codes:
     - ID
-    gateway_language: UNKNOWN
+    gateway_language: idb
     lang_code: tet
     lang_direction: ltr
     lang_name: Tetum

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cld",
-    "hc": "IQ",
-    "ld": "ltr",
     "pk": 1248,
-    "lr": "Asia",
     "lc": "cld",
+    "gw": false,
+    "ln": "\u0723\u0718\u073c\u072a\u0732\u071d\u072c",
+    "ld": "ltr",
+    "ang": "Chaldean Neo-Aramaic",
+    "hc": "IQ",
+    "lr": "Asia",
     "cc": [
         "DE",
         "IQ",
@@ -27,7 +29,5 @@
         "Sureth",
         "Shirnak-Chizre (Bohtan)"
     ],
-    "ang": "Chaldean Neo-Aramaic",
-    "gwcode": "ar",
-    "ln": "\u0723\u0718\u073c\u072a\u0732\u071d\u072c"
+    "gwcode": "ar"
 }

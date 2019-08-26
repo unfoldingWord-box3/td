@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lul",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 3623,
-    "lr": "Africa",
     "lc": "lul",
+    "gw": false,
+    "ln": "Olu'bo",
+    "ld": "ltr",
+    "ang": "Olu\u2019bo",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS",
         "SB",
@@ -19,7 +21,5 @@
         "Oluboti",
         "Ondoe"
     ],
-    "ang": "Olu\u2019bo",
-    "gwcode": "ar",
-    "ln": "Olu'bo"
+    "gwcode": "ar"
 }

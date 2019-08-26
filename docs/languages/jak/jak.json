@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jak",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 2572,
-    "lr": "Asia",
     "lc": "jak",
+    "gw": false,
+    "ln": "Jakun",
+    "ld": "ltr",
+    "ang": "Jakun",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -15,7 +17,5 @@
         "Jakud'n",
         "Orang Hulu"
     ],
-    "ang": "Jakun",
-    "gwcode": "ms",
-    "ln": "Jakun"
+    "gwcode": "ms"
 }

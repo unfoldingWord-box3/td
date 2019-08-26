@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "chk",
-    "hc": "FM",
-    "ld": "ltr",
     "pk": 1196,
-    "lr": "Pacific",
     "lc": "chk",
+    "gw": false,
+    "ln": "Chuukese",
+    "ld": "ltr",
+    "ang": "Chuukese",
+    "hc": "FM",
+    "lr": "Pacific",
     "cc": [
         "US",
         "FM"
@@ -17,7 +19,5 @@
         "Truk",
         "Trukese"
     ],
-    "ang": "Chuukese",
-    "gwcode": "en",
-    "ln": "Chuukese"
+    "gwcode": "en"
 }

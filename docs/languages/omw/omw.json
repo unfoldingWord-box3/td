@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "omw",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4835,
-    "lr": "Pacific",
     "lc": "omw",
+    "gw": false,
+    "ln": "South Tairora",
+    "ld": "ltr",
+    "ang": "Tairora, South",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -17,7 +19,5 @@
         "Vinaata-Konkompira (Pinata-Konkombira)",
         "Aatasaara (Atakara)"
     ],
-    "ang": "Tairora, South",
-    "gwcode": "tpi",
-    "ln": "South Tairora"
+    "gwcode": "tpi"
 }

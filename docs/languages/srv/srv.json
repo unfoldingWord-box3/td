@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "srv",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 5822,
-    "lr": "Asia",
     "lc": "srv",
+    "gw": false,
+    "ln": "Southern Sorsoganon",
+    "ld": "ltr",
+    "ang": "Sorsoganon, Southern",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -16,7 +18,5 @@
         "Sorsogon",
         "Waray"
     ],
-    "ang": "Sorsoganon, Southern",
-    "gwcode": "en",
-    "ln": "Southern Sorsoganon"
+    "gwcode": "en"
 }

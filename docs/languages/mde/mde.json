@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mde",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 3732,
-    "lr": "Africa",
     "lc": "mde",
+    "gw": false,
+    "ln": "Maba (Chad)",
+    "ld": "ltr",
+    "ang": "Maba",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "TD"
@@ -25,7 +27,5 @@
         "Kodroy",
         "Kondongo"
     ],
-    "ang": "Maba",
-    "gwcode": "ar",
-    "ln": "Maba (Chad)"
+    "gwcode": "ar"
 }

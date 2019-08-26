@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kgw",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2855,
-    "lr": "Asia",
     "lc": "kgw",
+    "gw": false,
+    "ln": "Karon Dori",
+    "ld": "ltr",
+    "ang": "Karon Dori",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Mari",
         "Meon"
     ],
-    "ang": "Karon Dori",
-    "gwcode": "id",
-    "ln": "Karon Dori"
+    "gwcode": "id"
 }

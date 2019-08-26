@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nfa",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4403,
-    "lr": "Asia",
     "lc": "nfa",
+    "gw": false,
+    "ln": "Dhao",
+    "ld": "ltr",
+    "ang": "Dhao",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Ndaonese",
         "Ndaundau"
     ],
-    "ang": "Dhao",
-    "gwcode": "id",
-    "ln": "Dhao"
+    "gwcode": "id"
 }

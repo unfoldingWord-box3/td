@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "abq",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 43,
-    "lr": "Europe",
     "lc": "abq",
+    "gw": false,
+    "ln": "\u0430\u0431\u0430\u0437\u0430",
+    "ld": "ltr",
+    "ang": "Abaza",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -17,7 +19,5 @@
         "Ashuwa",
         "Ahuwa"
     ],
-    "ang": "Abaza",
-    "gwcode": "ru",
-    "ln": "\u0430\u0431\u0430\u0437\u0430"
+    "gwcode": "ru"
 }

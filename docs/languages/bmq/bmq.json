@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bmq",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 796,
-    "lr": "Africa",
     "lc": "bmq",
+    "gw": false,
+    "ln": "Bomu",
+    "ld": "ltr",
+    "ang": "Bomu",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "BF",
         "ML"
@@ -22,7 +24,5 @@
         "Western Red",
         "Mao"
     ],
-    "ang": "Bomu",
-    "gwcode": "fr",
-    "ln": "Bomu"
+    "gwcode": "fr"
 }

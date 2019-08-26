@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mah",
-    "hc": "MH",
-    "ld": "ltr",
     "pk": 3828,
-    "lr": "Pacific",
     "lc": "mh",
+    "gw": false,
+    "ln": "Kajin M\u0327aje\u013c",
+    "ld": "ltr",
+    "ang": "Marshallese",
+    "hc": "MH",
+    "lr": "Pacific",
     "cc": [
         "MH",
         "US",
@@ -14,7 +16,5 @@
     "alt": [
         "Ebon"
     ],
-    "ang": "Marshallese",
-    "gwcode": "en",
-    "ln": "Kajin M\u0327aje\u013c"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "alt",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 228,
-    "lr": "Europe",
     "lc": "alt",
+    "gw": false,
+    "ln": "\u0413\u043e\u0440\u043d\u043e-\u0430\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0435",
+    "ld": "ltr",
+    "ang": "Altai, Southern",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -22,7 +24,5 @@
         "Oirot",
         "Oyrot"
     ],
-    "ang": "Altai, Southern",
-    "gwcode": "ru",
-    "ln": "\u0413\u043e\u0440\u043d\u043e-\u0430\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0435"
+    "gwcode": "ru"
 }

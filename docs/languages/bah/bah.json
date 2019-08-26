@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bah",
-    "hc": "BS",
-    "ld": "ltr",
     "pk": 495,
-    "lr": "Americas",
     "lc": "bah",
+    "gw": false,
+    "ln": "Bahamas Creole English",
+    "ld": "ltr",
+    "ang": "Bahamas Creole English",
+    "hc": "BS",
+    "lr": "Americas",
     "cc": [
         "BS",
         "US"
@@ -14,7 +16,5 @@
         "Bahamian Creole English",
         "Bahamian Dialect"
     ],
-    "ang": "Bahamas Creole English",
-    "gwcode": "en",
-    "ln": "Bahamas Creole English"
+    "gwcode": "en"
 }

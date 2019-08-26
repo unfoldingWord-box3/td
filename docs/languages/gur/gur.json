@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gur",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 2168,
-    "lr": "Africa",
     "lc": "gur",
+    "gw": false,
+    "ln": "Farefare",
+    "ld": "ltr",
+    "ang": "Farefare",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "BF",
         "GH"
@@ -30,7 +32,5 @@
         "Zuadeni",
         "Gurune (Gudeni)"
     ],
-    "ang": "Farefare",
-    "gwcode": "en",
-    "ln": "Farefare"
+    "gwcode": "en"
 }

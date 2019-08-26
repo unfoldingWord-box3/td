@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tte",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6352,
-    "lr": "Pacific",
     "lc": "tte",
+    "gw": false,
+    "ln": "Bwanabwana",
+    "ld": "ltr",
+    "ang": "Bwanabwana",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -19,7 +21,5 @@
         "Tewatewa",
         "Wale (Ware)"
     ],
-    "ang": "Bwanabwana",
-    "gwcode": "tpi",
-    "ln": "Bwanabwana"
+    "gwcode": "tpi"
 }

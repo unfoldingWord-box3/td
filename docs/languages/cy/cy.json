@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cym",
-    "hc": "GB",
-    "ld": "ltr",
     "pk": 1411,
-    "lr": "Europe",
     "lc": "cy",
+    "gw": false,
+    "ln": "Cymraeg",
+    "ld": "ltr",
+    "ang": "Welsh",
+    "hc": "GB",
+    "lr": "Europe",
     "cc": [
         "AR",
         "GB",
@@ -17,7 +19,5 @@
     "alt": [
         "Cymraeg"
     ],
-    "ang": "Welsh",
-    "gwcode": "en",
-    "ln": "Cymraeg"
+    "gwcode": "en"
 }

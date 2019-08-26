@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kea",
-    "hc": "CV",
-    "ld": "ltr",
     "pk": 2783,
-    "lr": "Africa",
     "lc": "kea",
+    "gw": false,
+    "ln": "Kabuverdianu",
+    "ld": "ltr",
+    "ang": "Kabuverdianu",
+    "hc": "CV",
+    "lr": "Africa",
     "cc": [
         "ES",
         "CA",
@@ -23,7 +25,5 @@
         "Kabuverdianu-Barlavente (Caboverdiano-Barlavento)",
         "Kabuverdianu-Sotaventu (Caboverdiano-Sotavento)"
     ],
-    "ang": "Kabuverdianu",
-    "gwcode": "en",
-    "ln": "Kabuverdianu"
+    "gwcode": "en"
 }

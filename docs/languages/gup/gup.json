@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gup",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2166,
-    "lr": "Pacific",
     "lc": "gup",
+    "gw": false,
+    "ln": "Gunwinggu",
+    "ld": "ltr",
+    "ang": "Gunwinggu",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -16,7 +18,5 @@
         "Mayali",
         "Gunei (Kune)"
     ],
-    "ang": "Gunwinggu",
-    "gwcode": "en",
-    "ln": "Gunwinggu"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sri",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 5811,
-    "lr": "Americas",
     "lc": "sri",
+    "gw": false,
+    "ln": "Siriano",
+    "ld": "ltr",
+    "ang": "Siriano",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "BR",
         "CO"
@@ -22,7 +24,5 @@
         "Si-Ra",
         "Sura Masa"
     ],
-    "ang": "Siriano",
-    "gwcode": "es-419",
-    "ln": "Siriano"
+    "gwcode": "es-419"
 }

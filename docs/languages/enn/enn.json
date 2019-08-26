@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "enn",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1756,
-    "lr": "Africa",
     "lc": "enn",
+    "gw": false,
+    "ln": "Engenni",
+    "ld": "ltr",
+    "ang": "Engenni",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Ngene",
         "Zarama"
     ],
-    "ang": "Engenni",
-    "gwcode": "en",
-    "ln": "Engenni"
+    "gwcode": "en"
 }

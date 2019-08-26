@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zty",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7486,
-    "lr": "Americas",
     "lc": "zty",
+    "gw": false,
+    "ln": "Yatee Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Yatee",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "Lachirioag Zapotec (Lachiruaj Zapotec)",
         "San Crist\u00f3bal Lachiruaj Zapotec"
     ],
-    "ang": "Zapotec, Yatee",
-    "gwcode": "es-419",
-    "ln": "Yatee Zapotec"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mke",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3905,
-    "lr": "Asia",
     "lc": "mke",
+    "gw": false,
+    "ln": "Mawchi",
+    "ld": "ltr",
+    "ang": "Mawchi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Mawchi Bhil",
         "Mowchi"
     ],
-    "ang": "Mawchi",
-    "gwcode": "mr",
-    "ln": "Mawchi"
+    "gwcode": "mr"
 }

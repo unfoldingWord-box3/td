@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yig",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7182,
-    "lr": "Asia",
     "lc": "yig",
+    "gw": false,
+    "ln": "\u4e4c\u6492\u7eb3\u82cf\u8bed",
+    "ld": "ltr",
+    "ang": "Nasu, Wusa",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -13,7 +15,5 @@
         "Eastern Yi",
         "Dafang"
     ],
-    "ang": "Nasu, Wusa",
-    "gwcode": "zh",
-    "ln": "\u4e4c\u6492\u7eb3\u82cf\u8bed"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lvu",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3641,
-    "lr": "Asia",
     "lc": "lvu",
+    "gw": false,
+    "ln": "Levuka",
+    "ld": "ltr",
+    "ang": "Levuka",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Lewuka",
         "Painara"
     ],
-    "ang": "Levuka",
-    "gwcode": "id",
-    "ln": "Levuka"
+    "gwcode": "id"
 }

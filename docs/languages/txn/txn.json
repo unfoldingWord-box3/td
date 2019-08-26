@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "txn",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6433,
-    "lr": "Asia",
     "lc": "txn",
+    "gw": false,
+    "ln": "West Tarangan",
+    "ld": "ltr",
+    "ang": "Tarangan, West",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Tarangan Barat",
         "West Trangan"
     ],
-    "ang": "Tarangan, West",
-    "gwcode": "UNKNOWN",
-    "ln": "West Tarangan"
+    "gwcode": "abs"
 }

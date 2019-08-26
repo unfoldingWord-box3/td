@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "oog",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 4853,
-    "lr": "Asia",
     "lc": "oog",
+    "gw": false,
+    "ln": "Ong",
+    "ld": "ltr",
+    "ang": "Ong",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA"
     ],
@@ -13,7 +15,5 @@
         "Hantong",
         "Tong"
     ],
-    "ang": "Ong",
-    "gwcode": "lo",
-    "ln": "Ong"
+    "gwcode": "lo"
 }

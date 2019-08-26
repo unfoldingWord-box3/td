@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * BT: Bhutan
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: npb
@@ -15,7 +17,7 @@ This language is spoken in the following countries:
     anglicanized_name: Nupbikha
     country_codes:
     - BT
-    gateway_language: UNKNOWN
+    gateway_language: dz
     lang_code: npb
     lang_direction: ltr
     lang_name: Nupbikha

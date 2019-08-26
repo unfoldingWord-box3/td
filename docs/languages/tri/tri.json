@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tri",
-    "hc": "SR",
-    "ld": "ltr",
     "pk": 6307,
-    "lr": "Americas",
     "lc": "tri",
+    "gw": false,
+    "ln": "Tri\u00f3",
+    "ld": "ltr",
+    "ang": "Tri\u00f3",
+    "hc": "SR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "SR"
@@ -14,7 +16,5 @@
         "Tiri\u00f3",
         "Tiriy\u00f3"
     ],
-    "ang": "Tri\u00f3",
-    "gwcode": "UNKNOWN",
-    "ln": "Tri\u00f3"
+    "gwcode": "nl"
 }

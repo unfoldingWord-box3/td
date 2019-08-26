@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xwg",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 7096,
-    "lr": "Africa",
     "lc": "xwg",
+    "gw": false,
+    "ln": "Kwegu",
+    "ld": "ltr",
+    "ang": "Kwegu",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -18,7 +20,5 @@
         "Yidinich (Yidi)",
         "Yidinit"
     ],
-    "ang": "Kwegu",
-    "gwcode": "am",
-    "ln": "Kwegu"
+    "gwcode": "am"
 }

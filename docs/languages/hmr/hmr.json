@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hmr",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2306,
-    "lr": "Asia",
     "lc": "hmr",
+    "gw": false,
+    "ln": "Hmar",
+    "ld": "ltr",
+    "ang": "Hmar",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Hmari",
         "Mhar"
     ],
-    "ang": "Hmar",
-    "gwcode": "UNKNOWN",
-    "ln": "Hmar"
+    "gwcode": "mni"
 }

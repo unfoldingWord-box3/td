@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "msq",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 4111,
-    "lr": "Pacific",
     "lc": "msq",
+    "gw": false,
+    "ln": "Caac",
+    "ld": "ltr",
+    "ang": "Caac",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -17,7 +19,5 @@
         "La Conception (St. Louis)",
         "Pou\u00e9bo (Pwebo)"
     ],
-    "ang": "Caac",
-    "gwcode": "en",
-    "ln": "Caac"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "prt",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 5171,
-    "lr": "Asia",
     "lc": "prt",
+    "gw": false,
+    "ln": "Phai",
+    "ld": "ltr",
+    "ang": "Prai",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "LA",
         "TH"
@@ -16,7 +18,5 @@
         "Ban Wen",
         "Pray 3"
     ],
-    "ang": "Prai",
-    "gwcode": "th",
-    "ln": "Phai"
+    "gwcode": "th"
 }

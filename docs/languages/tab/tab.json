@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tab",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 5964,
-    "lr": "Europe",
     "lc": "tab",
+    "gw": false,
+    "ln": "\u0422\u0430\u0431\u0430\u0441\u0430\u0440\u0430\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Tabassaran",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "AZ",
         "RU",
@@ -17,7 +19,5 @@
         "Tabasarantsy",
         "North Tabasaran (Khanag)"
     ],
-    "ang": "Tabassaran",
-    "gwcode": "ru",
-    "ln": "\u0422\u0430\u0431\u0430\u0441\u0430\u0440\u0430\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hrv",
-    "hc": "HR",
-    "ld": "ltr",
     "pk": 2343,
-    "lr": "Europe",
     "lc": "hr",
+    "gw": false,
+    "ln": "hrvatski jezik",
+    "ld": "ltr",
+    "ang": "Croatian",
+    "hc": "HR",
+    "lr": "Europe",
     "cc": [
         "AT",
         "BA",
@@ -27,7 +29,5 @@
         "Shtokavski (Ijekavski)",
         "Serbian"
     ],
-    "ang": "Croatian",
-    "gwcode": "en",
-    "ln": "hrvatski jezik"
+    "gwcode": "en"
 }

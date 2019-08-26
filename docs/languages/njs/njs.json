@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "njs",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4489,
-    "lr": "Asia",
     "lc": "njs",
+    "gw": false,
+    "ln": "Nisa",
+    "ld": "ltr",
+    "ang": "Nisa",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Bonefa",
         "Kerema"
     ],
-    "ang": "Nisa",
-    "gwcode": "id",
-    "ln": "Nisa"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bkh",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 736,
-    "lr": "Africa",
     "lc": "bkh",
+    "gw": false,
+    "ln": "Bakoko",
+    "ld": "ltr",
+    "ang": "Bakoko",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -24,7 +26,5 @@
         "Adie (Basoo Ba Die)",
         "Mbang (Dimbambang)"
     ],
-    "ang": "Bakoko",
-    "gwcode": "fr",
-    "ln": "Bakoko"
+    "gwcode": "fr"
 }

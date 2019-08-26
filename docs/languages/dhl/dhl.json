@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dhl",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1510,
-    "lr": "Pacific",
     "lc": "dhl",
+    "gw": false,
+    "ln": "Dhalandji",
+    "ld": "ltr",
+    "ang": "Dhalandji",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -22,7 +24,5 @@
         "Thalantji",
         "Thalanyji"
     ],
-    "ang": "Dhalandji",
-    "gwcode": "en",
-    "ln": "Dhalandji"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fwa",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 1899,
-    "lr": "Pacific",
     "lc": "fwa",
+    "gw": false,
+    "ln": "Fw\u00e2i",
+    "ld": "ltr",
+    "ang": "Fw\u00e2i",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -14,7 +16,5 @@
         "Yehen",
         "Yengen"
     ],
-    "ang": "Fw\u00e2i",
-    "gwcode": "en",
-    "ln": "Fw\u00e2i"
+    "gwcode": "en"
 }

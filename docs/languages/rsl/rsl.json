@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rsl",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 5425,
-    "lr": "Europe",
     "lc": "rsl",
+    "gw": false,
+    "ln": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0436\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u044f\u0437\u044b\u043a",
+    "ld": "ltr",
+    "ang": "Russian Sign Language",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "BY",
         "KZ",
@@ -17,7 +19,5 @@
         "UZ"
     ],
     "alt": [],
-    "ang": "Russian Sign Language",
-    "gwcode": "ru",
-    "ln": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0436\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u044f\u0437\u044b\u043a"
+    "gwcode": "ru"
 }

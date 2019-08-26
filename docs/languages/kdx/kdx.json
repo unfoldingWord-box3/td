@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kdx",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2780,
-    "lr": "Africa",
     "lc": "kdx",
+    "gw": false,
+    "ln": "Kam",
+    "ld": "ltr",
+    "ang": "Kam",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Nyiwom",
         "Yimwom"
     ],
-    "ang": "Kam",
-    "gwcode": "en",
-    "ln": "Kam"
+    "gwcode": "en"
 }

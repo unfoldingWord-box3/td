@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kjg",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 2913,
-    "lr": "Asia",
     "lc": "kjg",
+    "gw": false,
+    "ln": "\u0e81\u0eb6\u0ea1\u0eab\u0ea1\u0eb8",
+    "ld": "ltr",
+    "ang": "Khmu",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "CN",
         "FR",
@@ -42,7 +44,5 @@
         "Xa Cau",
         "Khroong (Krong)"
     ],
-    "ang": "Khmu",
-    "gwcode": "lo",
-    "ln": "\u0e81\u0eb6\u0ea1\u0eab\u0ea1\u0eb8"
+    "gwcode": "lo"
 }

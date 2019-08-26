@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "cop",
-    "hc": "EG",
-    "ld": "ltr",
     "pk": 1301,
-    "lr": "Africa",
     "lc": "cop",
+    "gw": false,
+    "ln": "\u0644\u063a\u0629 \u0642\u0628\u0637\u064a\u0629",
+    "ld": "ltr",
+    "ang": "Coptic",
+    "hc": "EG",
+    "lr": "Africa",
     "cc": [
         "EG"
     ],
     "alt": [
         "Neo-Egyptian"
     ],
-    "ang": "Coptic",
-    "gwcode": "ar",
-    "ln": "\u0644\u063a\u0629 \u0642\u0628\u0637\u064a\u0629"
+    "gwcode": "ar"
 }

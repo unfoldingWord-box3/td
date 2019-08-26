@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "shz",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 5616,
-    "lr": "Africa",
     "lc": "shz",
+    "gw": false,
+    "ln": "Syenara Senoufo",
+    "ld": "ltr",
+    "ang": "S\u00e9noufo, Syenara",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "ML"
     ],
@@ -15,7 +17,5 @@
         "Shenara",
         "Syenara"
     ],
-    "ang": "S\u00e9noufo, Syenara",
-    "gwcode": "fr",
-    "ln": "Syenara Senoufo"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bpy",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 873,
-    "lr": "Asia",
     "lc": "bpy",
+    "gw": false,
+    "ln": "Bishnupriya",
+    "ld": "ltr",
+    "ang": "Bishnupriya",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN"
@@ -19,7 +21,5 @@
         "Madai Gang (Leimanai)",
         "Madai Gang"
     ],
-    "ang": "Bishnupriya",
-    "gwcode": "bn",
-    "ln": "Bishnupriya"
+    "gwcode": "bn"
 }

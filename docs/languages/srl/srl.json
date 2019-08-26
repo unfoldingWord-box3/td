@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "srl",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5813,
-    "lr": "Asia",
     "lc": "srl",
+    "gw": false,
+    "ln": "Isirawa",
+    "ld": "ltr",
+    "ang": "Isirawa",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Saberi",
         "Saweri"
     ],
-    "ang": "Isirawa",
-    "gwcode": "id",
-    "ln": "Isirawa"
+    "gwcode": "id"
 }

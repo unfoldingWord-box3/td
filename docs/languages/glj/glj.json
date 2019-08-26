@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "glj",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 2051,
-    "lr": "Africa",
     "lc": "glj",
+    "gw": false,
+    "ln": "Gula Iro",
+    "ld": "ltr",
+    "ang": "Gula Iro",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -14,7 +16,5 @@
         "Goula Iro",
         "Pongaal (Ponaal)"
     ],
-    "ang": "Gula Iro",
-    "gwcode": "ar",
-    "ln": "Gula Iro"
+    "gwcode": "ar"
 }

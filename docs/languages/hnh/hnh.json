@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hnh",
-    "hc": "BW",
-    "ld": "ltr",
     "pk": 2317,
-    "lr": "Africa",
     "lc": "hnh",
+    "gw": false,
+    "ln": "||Ani",
+    "ld": "ltr",
+    "ang": "||Ani",
+    "hc": "BW",
+    "lr": "Africa",
     "cc": [
         "BW"
     ],
@@ -18,7 +20,5 @@
         "Ts'exa",
         "Ts'\u00e9xa"
     ],
-    "ang": "||Ani",
-    "gwcode": "en",
-    "ln": "||Ani"
+    "gwcode": "en"
 }

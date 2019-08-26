@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pav",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4934,
-    "lr": "Americas",
     "lc": "pav",
+    "gw": false,
+    "ln": "Paka\u00e1snovos",
+    "ld": "ltr",
+    "ang": "Paka\u00e1snovos",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -19,7 +21,5 @@
         "Uomo",
         "Wari"
     ],
-    "ang": "Paka\u00e1snovos",
-    "gwcode": "pt",
-    "ln": "Paka\u00e1snovos"
+    "gwcode": "pt"
 }

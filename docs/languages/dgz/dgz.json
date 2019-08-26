@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dgz",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1506,
-    "lr": "Pacific",
     "lc": "dgz",
+    "gw": false,
+    "ln": "Daga",
+    "ld": "ltr",
+    "ang": "Daga",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Lower Daga",
         "Upper Daga"
     ],
-    "ang": "Daga",
-    "gwcode": "tpi",
-    "ln": "Daga"
+    "gwcode": "tpi"
 }

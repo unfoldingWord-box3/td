@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kny",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3037,
-    "lr": "Africa",
     "lc": "kny",
+    "gw": false,
+    "ln": "Kanyok",
+    "ld": "ltr",
+    "ang": "Kanyok",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -13,7 +15,5 @@
         "Kanioka",
         "Kanyoka"
     ],
-    "ang": "Kanyok",
-    "gwcode": "fr",
-    "ln": "Kanyok"
+    "gwcode": "fr"
 }

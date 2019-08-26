@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xth",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7061,
-    "lr": "Pacific",
     "lc": "xth",
+    "gw": false,
+    "ln": "Yitha Yitha",
+    "ld": "ltr",
+    "ang": "Yitha Yitha",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -21,7 +23,5 @@
         "Yitsa",
         "Yit-tha"
     ],
-    "ang": "Yitha Yitha",
-    "gwcode": "en",
-    "ln": "Yitha Yitha"
+    "gwcode": "en"
 }

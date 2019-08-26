@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tue",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 6377,
-    "lr": "Americas",
     "lc": "tue",
+    "gw": false,
+    "ln": "Tuyuca",
+    "ld": "ltr",
+    "ang": "Tuyuca",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "BR",
         "CO"
@@ -18,7 +20,5 @@
         "Tuyuka",
         "Tejuca"
     ],
-    "ang": "Tuyuca",
-    "gwcode": "es-419",
-    "ln": "Tuyuca"
+    "gwcode": "es-419"
 }

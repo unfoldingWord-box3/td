@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gax",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 1925,
-    "lr": "Africa",
     "lc": "gax",
+    "gw": false,
+    "ln": "Borana-Arsi-Guji Oromo",
+    "ld": "ltr",
+    "ang": "Oromo, Borana-Arsi-Guji",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET",
         "KE"
@@ -21,7 +23,5 @@
         "Oromo",
         "Borana (Booran)"
     ],
-    "ang": "Oromo, Borana-Arsi-Guji",
-    "gwcode": "am",
-    "ln": "Borana-Arsi-Guji Oromo"
+    "gwcode": "am"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tik",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 6130,
-    "lr": "Africa",
     "lc": "tik",
+    "gw": false,
+    "ln": "Tikar",
+    "ld": "ltr",
+    "ang": "Tikar",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -20,7 +22,5 @@
         "Tumu",
         "Twumwu (Tikar de Bankim)"
     ],
-    "ang": "Tikar",
-    "gwcode": "fr",
-    "ln": "Tikar"
+    "gwcode": "fr"
 }

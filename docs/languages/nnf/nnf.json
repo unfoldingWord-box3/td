@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nnf",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4564,
-    "lr": "Pacific",
     "lc": "nnf",
+    "gw": false,
+    "ln": "Ngaing",
+    "ld": "ltr",
+    "ang": "Ngaing",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Eastern Ngaing",
         "Western Ngaing"
     ],
-    "ang": "Ngaing",
-    "gwcode": "tpi",
-    "ln": "Ngaing"
+    "gwcode": "tpi"
 }

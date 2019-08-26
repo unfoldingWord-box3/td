@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lch",
-    "hc": "AO",
-    "ld": "ltr",
     "pk": 3383,
-    "lr": "Africa",
     "lc": "lch",
+    "gw": false,
+    "ln": "Luchazi",
+    "ld": "ltr",
+    "ang": "Lucazi",
+    "hc": "AO",
+    "lr": "Africa",
     "cc": [
         "ZM",
         "AO",
@@ -22,7 +24,5 @@
         "Cujazi",
         "Lujasi"
     ],
-    "ang": "Lucazi",
-    "gwcode": "pt",
-    "ln": "Luchazi"
+    "gwcode": "pt"
 }

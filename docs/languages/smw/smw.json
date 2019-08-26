@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "smw",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5722,
-    "lr": "Asia",
     "lc": "smw",
+    "gw": false,
+    "ln": "Sumbawa",
+    "ld": "ltr",
+    "ang": "Sumbawa",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Semawa",
         "Sumbawarese"
     ],
-    "ang": "Sumbawa",
-    "gwcode": "id",
-    "ln": "Sumbawa"
+    "gwcode": "id"
 }

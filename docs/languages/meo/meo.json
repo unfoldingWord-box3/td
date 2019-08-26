@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "meo",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 3766,
-    "lr": "Asia",
     "lc": "meo",
+    "gw": false,
+    "ln": "Kedah Malay",
+    "ld": "ltr",
+    "ang": "Malay, Kedah",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -13,7 +15,5 @@
         "Satun Malay",
         "Kedah Malay"
     ],
-    "ang": "Malay, Kedah",
-    "gwcode": "ms",
-    "ln": "Kedah Malay"
+    "gwcode": "ms"
 }

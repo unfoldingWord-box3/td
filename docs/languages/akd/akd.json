@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "akd",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 193,
-    "lr": "Africa",
     "lc": "akd",
+    "gw": false,
+    "ln": "Ukpet-Ehom",
+    "ld": "ltr",
+    "ang": "Ukpet-Ehom",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Ukpet (Akpet)",
         "Akpet-Ehom"
     ],
-    "ang": "Ukpet-Ehom",
-    "gwcode": "en",
-    "ln": "Ukpet-Ehom"
+    "gwcode": "en"
 }

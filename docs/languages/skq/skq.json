@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "skq",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 5672,
-    "lr": "Africa",
     "lc": "skq",
+    "gw": false,
+    "ln": "Sininkere",
+    "ld": "ltr",
+    "ang": "Sininkere",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -13,7 +15,5 @@
         "Silanke",
         "Silinkere"
     ],
-    "ang": "Sininkere",
-    "gwcode": "fr",
-    "ln": "Sininkere"
+    "gwcode": "fr"
 }

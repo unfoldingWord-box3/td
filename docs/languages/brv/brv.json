@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "brv",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 918,
-    "lr": "Asia",
     "lc": "brv",
+    "gw": false,
+    "ln": "Western Bru",
+    "ld": "ltr",
+    "ang": "Bru, Western",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "TH"
     ],
@@ -14,7 +16,5 @@
         "B'ru",
         "Bruu"
     ],
-    "ang": "Bru, Western",
-    "gwcode": "th",
-    "ln": "Western Bru"
+    "gwcode": "th"
 }

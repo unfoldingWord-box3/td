@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mux",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4166,
-    "lr": "Pacific",
     "lc": "mux",
+    "gw": false,
+    "ln": "Bo-Ung",
+    "ld": "ltr",
+    "ang": "Bo-Ung",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Ku Waru",
         "Miyemu (Miyem)"
     ],
-    "ang": "Bo-Ung",
-    "gwcode": "tpi",
-    "ln": "Bo-Ung"
+    "gwcode": "tpi"
 }

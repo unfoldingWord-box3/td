@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cbc",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 1133,
-    "lr": "Americas",
     "lc": "cbc",
+    "gw": false,
+    "ln": "Carapana",
+    "ld": "ltr",
+    "ang": "Carapana",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "BR",
         "CO"
@@ -22,7 +24,5 @@
         "Moxdoa",
         "Muxtea"
     ],
-    "ang": "Carapana",
-    "gwcode": "es-419",
-    "ln": "Carapana"
+    "gwcode": "es-419"
 }

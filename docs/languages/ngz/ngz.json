@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ngz",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 4432,
-    "lr": "Africa",
     "lc": "ngz",
+    "gw": false,
+    "ln": "Ngungwel",
+    "ld": "ltr",
+    "ang": "Ngungwel",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CG"
     ],
@@ -16,7 +18,5 @@
         "Northeastern Teke",
         "Mpu (Mpumpum)"
     ],
-    "ang": "Ngungwel",
-    "gwcode": "fr",
-    "ln": "Ngungwel"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lla",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3496,
-    "lr": "Africa",
     "lc": "lla",
+    "gw": false,
+    "ln": "Lala-Roba",
+    "ld": "ltr",
+    "ang": "Lala-Roba",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Lala (Lalla)",
         "Roba (Robba)"
     ],
-    "ang": "Lala-Roba",
-    "gwcode": "en",
-    "ln": "Lala-Roba"
+    "gwcode": "en"
 }

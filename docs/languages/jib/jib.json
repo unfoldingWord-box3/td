@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jib",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2614,
-    "lr": "Africa",
     "lc": "jib",
+    "gw": false,
+    "ln": "Jibu",
+    "ld": "ltr",
+    "ang": "Jibu",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Jibanci",
         "Jibawa"
     ],
-    "ang": "Jibu",
-    "gwcode": "en",
-    "ln": "Jibu"
+    "gwcode": "en"
 }

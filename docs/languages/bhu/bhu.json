@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bhu",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 679,
-    "lr": "Asia",
     "lc": "bhu",
+    "gw": false,
+    "ln": "Bhunjia",
+    "ld": "ltr",
+    "ang": "Bhunjia",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Bhunjiya",
         "Bunjia"
     ],
-    "ang": "Bhunjia",
-    "gwcode": "hi",
-    "ln": "Bhunjia"
+    "gwcode": "hi"
 }

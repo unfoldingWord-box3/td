@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ncd",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 4334,
-    "lr": "Asia",
     "lc": "ncd",
+    "gw": false,
+    "ln": "Nachering",
+    "ld": "ltr",
+    "ang": "Nachering",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -24,7 +26,5 @@
         "Hachero",
         "Hangkula"
     ],
-    "ang": "Nachering",
-    "gwcode": "ne",
-    "ln": "Nachering"
+    "gwcode": "ne"
 }

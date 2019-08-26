@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bei",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 594,
-    "lr": "Asia",
     "lc": "bei",
+    "gw": false,
+    "ln": "Bekati'",
+    "ld": "ltr",
+    "ang": "Bakati\u2019",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Bakatiq",
         "Bekati"
     ],
-    "ang": "Bakati\u2019",
-    "gwcode": "id",
-    "ln": "Bekati'"
+    "gwcode": "id"
 }

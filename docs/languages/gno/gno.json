@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gno",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2082,
-    "lr": "Asia",
     "lc": "gno",
+    "gw": false,
+    "ln": "Northern Gondi",
+    "ld": "ltr",
+    "ang": "Gondi, Northern",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -21,7 +23,5 @@
         "Goudwal",
         "Chhindwara"
     ],
-    "ang": "Gondi, Northern",
-    "gwcode": "hi",
-    "ln": "Northern Gondi"
+    "gwcode": "hi"
 }

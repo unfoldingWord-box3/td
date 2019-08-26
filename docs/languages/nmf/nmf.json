@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nmf",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4539,
-    "lr": "Asia",
     "lc": "nmf",
+    "gw": false,
+    "ln": "Tangkhul Naga (India)",
+    "ld": "ltr",
+    "ang": "Naga, Tangkhul",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN",
         "MM"
@@ -18,7 +20,5 @@
         "Tangkhul",
         "Thangkhulm"
     ],
-    "ang": "Naga, Tangkhul",
-    "gwcode": "en",
-    "ln": "Tangkhul Naga (India)"
+    "gwcode": "en"
 }

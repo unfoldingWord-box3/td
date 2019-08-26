@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zsm",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 7472,
-    "lr": "Asia",
     "lc": "zsm",
+    "gw": false,
+    "ln": "Standard Malay",
+    "ld": "ltr",
+    "ang": "Malay, Standard",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "KM",
         "ID",
@@ -25,7 +27,5 @@
         "Bahasa Malayu",
         "Informal Malay"
     ],
-    "ang": "Malay, Standard",
-    "gwcode": "ms",
-    "ln": "Standard Malay"
+    "gwcode": "ms"
 }

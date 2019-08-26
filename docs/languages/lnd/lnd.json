@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lnd",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3538,
-    "lr": "Asia",
     "lc": "lnd",
+    "gw": false,
+    "ln": "Lundayeh",
+    "ld": "ltr",
+    "ang": "Lun Bawang",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "MY"
@@ -27,7 +29,5 @@
         "Limbang",
         "Lun Bawang (Sarawak Murut)"
     ],
-    "ang": "Lun Bawang",
-    "gwcode": "id",
-    "ln": "Lundayeh"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mgb",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 3804,
-    "lr": "Africa",
     "lc": "mgb",
+    "gw": false,
+    "ln": "Mararit",
+    "ld": "ltr",
+    "ang": "Mararit",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "TD"
@@ -19,7 +21,5 @@
         "Abou Charib (Abu Sharib)",
         "Abu Sharin"
     ],
-    "ang": "Mararit",
-    "gwcode": "ar",
-    "ln": "Mararit"
+    "gwcode": "ar"
 }

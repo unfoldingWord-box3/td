@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cip",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 1216,
-    "lr": "Americas",
     "lc": "cip",
+    "gw": false,
+    "ln": "Chiapanec",
+    "ld": "ltr",
+    "ang": "Chiapanec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Chiapaneco",
         "Chidigo"
     ],
-    "ang": "Chiapanec",
-    "gwcode": "es-419",
-    "ln": "Chiapanec"
+    "gwcode": "es-419"
 }

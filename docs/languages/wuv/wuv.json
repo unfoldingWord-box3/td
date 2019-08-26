@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wuv",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6841,
-    "lr": "Pacific",
     "lc": "wuv",
+    "gw": false,
+    "ln": "Wuvulu-Aua",
+    "ld": "ltr",
+    "ang": "Wuvulu-Aua",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Viwulu-Aua",
         "Wuvulu (Wuu)"
     ],
-    "ang": "Wuvulu-Aua",
-    "gwcode": "tpi",
-    "ln": "Wuvulu-Aua"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "afz",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 121,
-    "lr": "Asia",
     "lc": "afz",
+    "gw": false,
+    "ln": "Obokuitai",
+    "ld": "ltr",
+    "ang": "Obokuitai",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Ati",
         "Obogwitai"
     ],
-    "ang": "Obokuitai",
-    "gwcode": "id",
-    "ln": "Obokuitai"
+    "gwcode": "id"
 }

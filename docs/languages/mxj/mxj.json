@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mxj",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4223,
-    "lr": "Asia",
     "lc": "mxj",
+    "gw": false,
+    "ln": "Miju-Mishmi",
+    "ld": "ltr",
+    "ang": "Miju-Mishmi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "IN"
@@ -19,7 +21,5 @@
         "Geman Dend",
         "Geman Deng"
     ],
-    "ang": "Miju-Mishmi",
-    "gwcode": "en",
-    "ln": "Miju-Mishmi"
+    "gwcode": "en"
 }

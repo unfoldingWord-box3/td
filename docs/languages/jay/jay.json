@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jay",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2581,
-    "lr": "Pacific",
     "lc": "jay",
+    "gw": false,
+    "ln": "Yan-nhangu",
+    "ld": "ltr",
+    "ang": "Yan-nhangu",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Nangu",
         "Yanangu"
     ],
-    "ang": "Yan-nhangu",
-    "gwcode": "en",
-    "ln": "Yan-nhangu"
+    "gwcode": "en"
 }

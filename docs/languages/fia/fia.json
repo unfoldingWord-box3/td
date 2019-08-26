@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fia",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 1839,
-    "lr": "Africa",
     "lc": "fia",
+    "gw": false,
+    "ln": "Nobiin",
+    "ld": "ltr",
+    "ang": "Nobiin",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "EG"
@@ -26,7 +28,5 @@
         "Mahass",
         "Mahas (Mahasi)"
     ],
-    "ang": "Nobiin",
-    "gwcode": "ar",
-    "ln": "Nobiin"
+    "gwcode": "ar"
 }

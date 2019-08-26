@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rng",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 5400,
-    "lr": "Africa",
     "lc": "rng",
+    "gw": false,
+    "ln": "Ronga",
+    "ld": "ltr",
+    "ang": "Ronga",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ",
         "ZA"
@@ -15,7 +17,5 @@
         "Shironga",
         "Xironga"
     ],
-    "ang": "Ronga",
-    "gwcode": "pt",
-    "ln": "Ronga"
+    "gwcode": "pt"
 }

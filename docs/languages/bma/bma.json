@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bma",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 781,
-    "lr": "Africa",
     "lc": "bma",
+    "gw": false,
+    "ln": "Lame",
+    "ld": "ltr",
+    "ang": "Lame",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -22,7 +24,5 @@
         "Tugura",
         "Bomberawa"
     ],
-    "ang": "Lame",
-    "gwcode": "en",
-    "ln": "Lame"
+    "gwcode": "en"
 }

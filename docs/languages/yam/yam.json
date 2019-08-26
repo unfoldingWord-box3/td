@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yam",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 7122,
-    "lr": "Africa",
     "lc": "yam",
+    "gw": false,
+    "ln": "Yamba",
+    "ld": "ltr",
+    "ang": "Yamba",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -30,7 +32,5 @@
         "Saam",
         "Sih"
     ],
-    "ang": "Yamba",
-    "gwcode": "fr",
-    "ln": "Yamba"
+    "gwcode": "fr"
 }

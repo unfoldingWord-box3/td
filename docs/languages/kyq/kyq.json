@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kyq",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 3299,
-    "lr": "Africa",
     "lc": "kyq",
+    "gw": false,
+    "ln": "Kenga",
+    "ld": "ltr",
+    "ang": "Kenga",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -16,7 +18,5 @@
         "Bolong (Tar Bolongo)",
         "Cenge (Tar Cenge)"
     ],
-    "ang": "Kenga",
-    "gwcode": "ar",
-    "ln": "Kenga"
+    "gwcode": "ar"
 }

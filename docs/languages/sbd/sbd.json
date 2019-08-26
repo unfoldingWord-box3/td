@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sbd",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 5482,
-    "lr": "Africa",
     "lc": "sbd",
+    "gw": false,
+    "ln": "Southern Samo",
+    "ld": "ltr",
+    "ang": "Samo, Southern",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -15,7 +17,5 @@
         "Nyaana",
         "Toma (Makaa)"
     ],
-    "ang": "Samo, Southern",
-    "gwcode": "fr",
-    "ln": "Southern Samo"
+    "gwcode": "fr"
 }

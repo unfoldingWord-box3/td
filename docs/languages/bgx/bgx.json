@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bgx",
-    "hc": "TR",
-    "ld": "ltr",
     "pk": 657,
-    "lr": "Asia",
     "lc": "bgx",
+    "gw": false,
+    "ln": "Balkan Gagauz Turkish",
+    "ld": "ltr",
+    "ang": "Balkan Gagauz Turkish",
+    "hc": "TR",
+    "lr": "Asia",
     "cc": [
         "TR"
     ],
@@ -15,7 +17,5 @@
         "Gajal",
         "Yoruk"
     ],
-    "ang": "Balkan Gagauz Turkish",
-    "gwcode": "tr",
-    "ln": "Balkan Gagauz Turkish"
+    "gwcode": "tr"
 }

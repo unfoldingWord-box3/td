@@ -3,7 +3,7 @@
 Nederlands, Vlaams
 ==================
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/nld>`_ identifies this language as ``nld``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/nld>`__ identifies this language as ``nld``.
 
 This language is spoken in the following countries:
 
@@ -25,6 +25,8 @@ This language is spoken in the following countries:
 * DK: Denmark
 * AW: Aruba
 * SR: Suriname
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -55,7 +57,7 @@ This language is spoken in the following countries:
     - DK
     - AW
     - SR
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: nl
     lang_direction: ltr
     lang_name: Nederlands, Vlaams

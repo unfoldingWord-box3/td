@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bse",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 927,
-    "lr": "Africa",
     "lc": "bse",
+    "gw": false,
+    "ln": "Wushi",
+    "ld": "ltr",
+    "ang": "Wushi",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -16,7 +18,5 @@
         "Sii",
         "Vesi"
     ],
-    "ang": "Wushi",
-    "gwcode": "fr",
-    "ln": "Wushi"
+    "gwcode": "fr"
 }

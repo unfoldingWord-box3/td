@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ltg",
-    "hc": "LV",
-    "ld": "ltr",
     "pk": 3609,
-    "lr": "Europe",
     "lc": "ltg",
+    "gw": false,
+    "ln": "Latgalian",
+    "ld": "ltr",
+    "ang": "Latgalian",
+    "hc": "LV",
+    "lr": "Europe",
     "cc": [
         "LV"
     ],
@@ -13,7 +15,5 @@
         "Latgalie\u0161u",
         "High Latvian"
     ],
-    "ang": "Latgalian",
-    "gwcode": "en",
-    "ln": "Latgalian"
+    "gwcode": "en"
 }

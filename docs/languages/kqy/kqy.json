@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kqy",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 3106,
-    "lr": "Africa",
     "lc": "kqy",
+    "gw": false,
+    "ln": "Koorete",
+    "ld": "ltr",
+    "ang": "Koorete",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -23,7 +25,5 @@
         "North Koorete",
         "South Koorete"
     ],
-    "ang": "Koorete",
-    "gwcode": "am",
-    "ln": "Koorete"
+    "gwcode": "am"
 }

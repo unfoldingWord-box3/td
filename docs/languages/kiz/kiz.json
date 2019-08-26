@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kiz",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 2905,
-    "lr": "Africa",
     "lc": "kiz",
+    "gw": false,
+    "ln": "Kisi",
+    "ld": "ltr",
+    "ang": "Kisi",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -13,7 +15,5 @@
         "Kese",
         "Kikisi"
     ],
-    "ang": "Kisi",
-    "gwcode": "sw",
-    "ln": "Kisi"
+    "gwcode": "sw"
 }

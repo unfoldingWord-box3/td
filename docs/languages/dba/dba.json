@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dba",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 1441,
-    "lr": "Africa",
     "lc": "dba",
+    "gw": false,
+    "ln": "Bangime",
+    "ld": "ltr",
+    "ang": "Bangime",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "ML"
     ],
@@ -18,7 +20,5 @@
         "Noumandan",
         "Numadaw"
     ],
-    "ang": "Bangime",
-    "gwcode": "fr",
-    "ln": "Bangime"
+    "gwcode": "fr"
 }

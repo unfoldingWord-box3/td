@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fuu",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 1895,
-    "lr": "Africa",
     "lc": "fuu",
+    "gw": false,
+    "ln": "Furu",
+    "ld": "ltr",
+    "ang": "Furu",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CF",
         "CD"
@@ -16,7 +18,5 @@
         "Baguero",
         "Baguiro"
     ],
-    "ang": "Furu",
-    "gwcode": "fr",
-    "ln": "Furu"
+    "gwcode": "fr"
 }

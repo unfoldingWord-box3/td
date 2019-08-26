@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gaa",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 1903,
-    "lr": "Africa",
     "lc": "gaa",
+    "gw": false,
+    "ln": "Ga",
+    "ld": "ltr",
+    "ang": "Ga",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "GH",
@@ -17,7 +19,5 @@
         "Amina",
         "Gain"
     ],
-    "ang": "Ga",
-    "gwcode": "en",
-    "ln": "Ga"
+    "gwcode": "en"
 }

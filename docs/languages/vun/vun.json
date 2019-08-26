@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vun",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 6660,
-    "lr": "Africa",
     "lc": "vun",
+    "gw": false,
+    "ln": "Vunjo",
+    "ld": "ltr",
+    "ang": "Vunjo",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -16,7 +18,5 @@
         "Lema (Kilema)",
         "Marangu"
     ],
-    "ang": "Vunjo",
-    "gwcode": "sw",
-    "ln": "Vunjo"
+    "gwcode": "sw"
 }

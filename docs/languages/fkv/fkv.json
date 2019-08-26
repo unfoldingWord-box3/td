@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fkv",
-    "hc": "NO",
-    "ld": "ltr",
     "pk": 1848,
-    "lr": "Europe",
     "lc": "fkv",
+    "gw": false,
+    "ln": "Kven Finnish",
+    "ld": "ltr",
+    "ang": "Finnish, Kven",
+    "hc": "NO",
+    "lr": "Europe",
     "cc": [
         "NO"
     ],
@@ -13,7 +15,5 @@
         "Kven",
         "North Finnish"
     ],
-    "ang": "Finnish, Kven",
-    "gwcode": "en",
-    "ln": "Kven Finnish"
+    "gwcode": "en"
 }

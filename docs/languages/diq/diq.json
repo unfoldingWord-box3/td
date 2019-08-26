@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "diq",
-    "hc": "TR",
-    "ld": "ltr",
     "pk": 1534,
-    "lr": "Asia",
     "lc": "diq",
+    "gw": false,
+    "ln": "Dimli (individual language)",
+    "ld": "ltr",
+    "ang": "Zazaki, Southern",
+    "hc": "TR",
+    "lr": "Asia",
     "cc": [
         "TR"
     ],
@@ -20,7 +22,5 @@
         "Dumbuli (Dumbeli)",
         "Eastern Zazaki (Central Zazaki)"
     ],
-    "ang": "Zazaki, Southern",
-    "gwcode": "tr",
-    "ln": "Dimli (individual language)"
+    "gwcode": "tr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sgh",
-    "hc": "TJ",
-    "ld": "ltr",
     "pk": 5578,
-    "lr": "Asia",
     "lc": "sgh",
+    "gw": false,
+    "ln": "Shughni",
+    "ld": "ltr",
+    "ang": "Shughni",
+    "hc": "TJ",
+    "lr": "Asia",
     "cc": [
         "AF",
         "TJ"
@@ -33,7 +35,5 @@
         "Rushan",
         "Oroshor (Roshorvi)"
     ],
-    "ang": "Shughni",
-    "gwcode": "ru",
-    "ln": "Shughni"
+    "gwcode": "ru"
 }

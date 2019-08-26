@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "skm",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5668,
-    "lr": "Pacific",
     "lc": "skm",
+    "gw": false,
+    "ln": "Kutong",
+    "ld": "ltr",
+    "ang": "Kutong",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Iyot",
         "Kamdaran"
     ],
-    "ang": "Kutong",
-    "gwcode": "tpi",
-    "ln": "Kutong"
+    "gwcode": "tpi"
 }

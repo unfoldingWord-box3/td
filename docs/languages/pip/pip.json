@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pip",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 5039,
-    "lr": "Africa",
     "lc": "pip",
+    "gw": false,
+    "ln": "Pipero",
+    "ld": "ltr",
+    "ang": "Pipero",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Filiya",
         "Pipero"
     ],
-    "ang": "Pipero",
-    "gwcode": "en",
-    "ln": "Pipero"
+    "gwcode": "en"
 }

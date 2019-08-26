@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hsn",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2358,
-    "lr": "Asia",
     "lc": "hsn",
+    "gw": false,
+    "ln": "\u6e58",
+    "ld": "ltr",
+    "ang": "Chinese, Xiang",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -22,7 +24,5 @@
         "Shaoyang",
         "Xupu"
     ],
-    "ang": "Chinese, Xiang",
-    "gwcode": "zh",
-    "ln": "\u6e58"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "txi",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6430,
-    "lr": "Americas",
     "lc": "txi",
+    "gw": false,
+    "ln": "Ikpeng",
+    "ld": "ltr",
+    "ang": "Ikpeng",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -16,7 +18,5 @@
         "Txik\u00e2n",
         "Txik\u00e3o"
     ],
-    "ang": "Ikpeng",
-    "gwcode": "pt",
-    "ln": "Ikpeng"
+    "gwcode": "pt"
 }

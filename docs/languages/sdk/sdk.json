@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sdk",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5532,
-    "lr": "Pacific",
     "lc": "sdk",
+    "gw": false,
+    "ln": "Sos Kundi",
+    "ld": "ltr",
+    "ang": "Sos Kundi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Akbana",
         "Soskundi"
     ],
-    "ang": "Sos Kundi",
-    "gwcode": "tpi",
-    "ln": "Sos Kundi"
+    "gwcode": "tpi"
 }

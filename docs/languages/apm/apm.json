@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "apm",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 312,
-    "lr": "Americas",
     "lc": "apm",
+    "gw": false,
+    "ln": "Mescalero-Chiricahua Apache",
+    "ld": "ltr",
+    "ang": "Apache, Mescalero-Chiricahua",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -13,7 +15,5 @@
         "Chiricahua",
         "Mescalero"
     ],
-    "ang": "Apache, Mescalero-Chiricahua",
-    "gwcode": "en",
-    "ln": "Mescalero-Chiricahua Apache"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nwi",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 4707,
-    "lr": "Pacific",
     "lc": "nwi",
+    "gw": false,
+    "ln": "Southwest Tanna",
+    "ld": "ltr",
+    "ang": "Tanna, Southwest",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -16,7 +18,5 @@
         "Siporo",
         "Vaha"
     ],
-    "ang": "Tanna, Southwest",
-    "gwcode": "fr",
-    "ln": "Southwest Tanna"
+    "gwcode": "fr"
 }

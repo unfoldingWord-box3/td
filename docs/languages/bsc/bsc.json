@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bsc",
-    "hc": "SN",
-    "ld": "ltr",
     "pk": 926,
-    "lr": "Africa",
     "lc": "bsc",
+    "gw": false,
+    "ln": "Bassari",
+    "ld": "ltr",
+    "ang": "Oniyan",
+    "hc": "SN",
+    "lr": "Africa",
     "cc": [
         "GM",
         "SN",
@@ -26,7 +28,5 @@
         "Ane",
         "Southern Bassari"
     ],
-    "ang": "Oniyan",
-    "gwcode": "fr",
-    "ln": "Bassari"
+    "gwcode": "fr"
 }

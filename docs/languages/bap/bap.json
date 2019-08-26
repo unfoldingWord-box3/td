@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bap",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 500,
-    "lr": "Asia",
     "lc": "bap",
+    "gw": false,
+    "ln": "\u092c\u093e\u0928\u094d\u0924\u0935\u093e",
+    "ld": "ltr",
+    "ang": "Bantawa",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -25,7 +27,5 @@
         "Hatuwali (Southern Bantawa)",
         "Kiranti"
     ],
-    "ang": "Bantawa",
-    "gwcode": "ne",
-    "ln": "\u092c\u093e\u0928\u094d\u0924\u0935\u093e"
+    "gwcode": "ne"
 }

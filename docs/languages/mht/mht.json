@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mht",
-    "hc": "VE",
-    "ld": "ltr",
     "pk": 3847,
-    "lr": "Americas",
     "lc": "mht",
+    "gw": false,
+    "ln": "Mandahuaca",
+    "ld": "ltr",
+    "ang": "Mandahuaca",
+    "hc": "VE",
+    "lr": "Americas",
     "cc": [
         "BR",
         "VE"
@@ -20,7 +22,5 @@
         "Mitua",
         "Yavita"
     ],
-    "ang": "Mandahuaca",
-    "gwcode": "es-419",
-    "ln": "Mandahuaca"
+    "gwcode": "es-419"
 }

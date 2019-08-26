@@ -3,7 +3,7 @@
 অসমীয়া
 =====================
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/asm>`_ identifies this language as ``asm``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/asm>`__ identifies this language as ``asm``.
 
 This language is spoken in the following countries:
 
@@ -12,6 +12,8 @@ This language is spoken in the following countries:
 * US: United States of America
 * PF: French Polynesia
 * IN: India
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -30,7 +32,7 @@ This language is spoken in the following countries:
     - US
     - PF
     - IN
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: as
     lang_direction: ltr
     lang_name: অসমীয়া

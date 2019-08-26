@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jpr",
-    "hc": "IL",
-    "ld": "rtl",
     "pk": 2661,
-    "lr": "Asia",
     "lc": "jpr",
+    "gw": false,
+    "ln": "\u05d4\u05e4\u05e8\u05e1\u05d9\u05ea-\u05d9\u05d4\u05d5\u05d3\u05d9\u05ea",
+    "ld": "rtl",
+    "ang": "Dzhidi",
+    "hc": "IL",
+    "lr": "Asia",
     "cc": [
         "AF",
         "IR",
@@ -16,7 +18,5 @@
         "Djudi",
         "Judi"
     ],
-    "ang": "Dzhidi",
-    "gwcode": "en",
-    "ln": "\u05d4\u05e4\u05e8\u05e1\u05d9\u05ea-\u05d9\u05d4\u05d5\u05d3\u05d9\u05ea"
+    "gwcode": "en"
 }

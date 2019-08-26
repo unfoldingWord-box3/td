@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bvb",
-    "hc": "GQ",
-    "ld": "ltr",
     "pk": 995,
-    "lr": "Africa",
     "lc": "bvb",
+    "gw": false,
+    "ln": "Bube",
+    "ld": "ltr",
+    "ang": "Bube",
+    "hc": "GQ",
+    "lr": "Africa",
     "cc": [
         "GQ"
     ],
@@ -19,7 +21,5 @@
         "Ediya",
         "Fernandian"
     ],
-    "ang": "Bube",
-    "gwcode": "es",
-    "ln": "Bube"
+    "gwcode": "es"
 }

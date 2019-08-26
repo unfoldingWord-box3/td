@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mtd",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4124,
-    "lr": "Asia",
     "lc": "mtd",
+    "gw": false,
+    "ln": "Mualang",
+    "ld": "ltr",
+    "ang": "Mualang",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Mualang Ili'",
         "Mualang Ulu"
     ],
-    "ang": "Mualang",
-    "gwcode": "id",
-    "ln": "Mualang"
+    "gwcode": "id"
 }

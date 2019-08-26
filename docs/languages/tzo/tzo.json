@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tzo",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6463,
-    "lr": "Americas",
     "lc": "tzo",
+    "gw": false,
+    "ln": "Tzotzil",
+    "ld": "ltr",
+    "ang": "Tzotzil",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -20,7 +22,5 @@
         "Chamula Tzotzil",
         "Huixt\u00e1n Tzotzil (Angel Albino Corzo)"
     ],
-    "ang": "Tzotzil",
-    "gwcode": "es-419",
-    "ln": "Tzotzil"
+    "gwcode": "es-419"
 }

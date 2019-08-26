@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tob",
-    "hc": "AR",
-    "ld": "ltr",
     "pk": 6244,
-    "lr": "Americas",
     "lc": "tob",
+    "gw": false,
+    "ln": "Toba",
+    "ld": "ltr",
+    "ang": "Toba",
+    "hc": "AR",
+    "lr": "Americas",
     "cc": [
         "AR",
         "PY",
@@ -20,7 +22,5 @@
         "Takshika",
         "Toba-Qom"
     ],
-    "ang": "Toba",
-    "gwcode": "es-419",
-    "ln": "Toba"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xkn",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6943,
-    "lr": "Asia",
     "lc": "xkn",
+    "gw": false,
+    "ln": "Kayan River Kayan",
+    "ld": "ltr",
+    "ang": "Kayan, Kayan River",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Uma Laran",
         "Uma Leken"
     ],
-    "ang": "Kayan, Kayan River",
-    "gwcode": "id",
-    "ln": "Kayan River Kayan"
+    "gwcode": "id"
 }

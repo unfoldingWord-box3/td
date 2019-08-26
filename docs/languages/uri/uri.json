@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "uri",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6545,
-    "lr": "Pacific",
     "lc": "uri",
+    "gw": false,
+    "ln": "Urim",
+    "ld": "ltr",
+    "ang": "Urim",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Wan",
         "Kukwo (Kalpm)"
     ],
-    "ang": "Urim",
-    "gwcode": "tpi",
-    "ln": "Urim"
+    "gwcode": "tpi"
 }

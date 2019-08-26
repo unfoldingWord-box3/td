@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "blh",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 762,
-    "lr": "Africa",
     "lc": "blh",
+    "gw": false,
+    "ln": "Kuwaa",
+    "ld": "ltr",
+    "ang": "Kuwaa",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR"
     ],
@@ -15,7 +17,5 @@
         "Kowaao",
         "Kwaa"
     ],
-    "ang": "Kuwaa",
-    "gwcode": "en",
-    "ln": "Kuwaa"
+    "gwcode": "en"
 }

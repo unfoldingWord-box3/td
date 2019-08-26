@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xny",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7000,
-    "lr": "Pacific",
     "lc": "xny",
+    "gw": false,
+    "ln": "Nyiyaparli",
+    "ld": "ltr",
+    "ang": "Nyiyaparli",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -23,7 +25,5 @@
         "Nyiyapali",
         "Nyiypali"
     ],
-    "ang": "Nyiyaparli",
-    "gwcode": "en",
-    "ln": "Nyiyaparli"
+    "gwcode": "en"
 }

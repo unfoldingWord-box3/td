@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kxv",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3278,
-    "lr": "Asia",
     "lc": "kxv",
+    "gw": false,
+    "ln": "Kuvi",
+    "ld": "ltr",
+    "ang": "Kuvi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -21,7 +23,5 @@
         "Dongria Khond",
         "Laxmipur"
     ],
-    "ang": "Kuvi",
-    "gwcode": "or",
-    "ln": "Kuvi"
+    "gwcode": "or"
 }

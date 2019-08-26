@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "plg",
-    "hc": "AR",
-    "ld": "ltr",
     "pk": 5067,
-    "lr": "Americas",
     "lc": "plg",
+    "gw": false,
+    "ln": "Pilag\u00e1",
+    "ld": "ltr",
+    "ang": "Pilag\u00e1",
+    "hc": "AR",
+    "lr": "Americas",
     "cc": [
         "AR",
         "PY"
@@ -16,7 +18,5 @@
         "Toba del Oeste",
         "Toba-Pilag\u00e1 (Sombrero Negro)"
     ],
-    "ang": "Pilag\u00e1",
-    "gwcode": "es-419",
-    "ln": "Pilag\u00e1"
+    "gwcode": "es-419"
 }

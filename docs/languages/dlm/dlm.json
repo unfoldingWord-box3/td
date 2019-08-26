@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "dlm",
-    "hc": "HR",
-    "ld": "ltr",
     "pk": 1561,
-    "lr": "Europe",
     "lc": "dlm",
+    "gw": false,
+    "ln": "Dalmatian",
+    "ld": "ltr",
+    "ang": "Dalmatian",
+    "hc": "HR",
+    "lr": "Europe",
     "cc": [
         "HR"
     ],
     "alt": [],
-    "ang": "Dalmatian",
-    "gwcode": "UNKNOWN",
-    "ln": "Dalmatian"
+    "gwcode": null
 }

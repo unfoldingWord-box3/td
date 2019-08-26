@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wim",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6740,
-    "lr": "Pacific",
     "lc": "wim",
+    "gw": false,
+    "ln": "Wik-Mungkan",
+    "ld": "ltr",
+    "ang": "Wik-Mungkan",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Wik-Mungkhn",
         "Wik-Munkan"
     ],
-    "ang": "Wik-Mungkan",
-    "gwcode": "en",
-    "ln": "Wik-Mungkan"
+    "gwcode": "en"
 }

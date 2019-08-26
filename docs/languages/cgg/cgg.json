@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cgg",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 1187,
-    "lr": "Africa",
     "lc": "cgg",
+    "gw": false,
+    "ln": "Chiga",
+    "ld": "ltr",
+    "ang": "Chiga",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "UG"
     ],
@@ -22,7 +24,5 @@
         "RuHimba",
         "RuNyaifwe-Hororo"
     ],
-    "ang": "Chiga",
-    "gwcode": "en",
-    "ln": "Chiga"
+    "gwcode": "en"
 }

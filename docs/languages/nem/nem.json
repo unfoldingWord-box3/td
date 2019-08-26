@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nem",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 4390,
-    "lr": "Pacific",
     "lc": "nem",
+    "gw": false,
+    "ln": "Nemi",
+    "ld": "ltr",
+    "ang": "Nemi",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -13,7 +15,5 @@
         "East Coast Nemi",
         "West Coast Nemi"
     ],
-    "ang": "Nemi",
-    "gwcode": "en",
-    "ln": "Nemi"
+    "gwcode": "en"
 }

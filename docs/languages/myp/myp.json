@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "myp",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4254,
-    "lr": "Americas",
     "lc": "myp",
+    "gw": false,
+    "ln": "Pirah\u00e3",
+    "ld": "ltr",
+    "ang": "Pirah\u00e3",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -13,7 +15,5 @@
         "M\u00fara-Pirah\u00e3",
         "M\u00fara"
     ],
-    "ang": "Pirah\u00e3",
-    "gwcode": "pt",
-    "ln": "Pirah\u00e3"
+    "gwcode": "pt"
 }

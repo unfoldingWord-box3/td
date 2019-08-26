@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "khv",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 2877,
-    "lr": "Europe",
     "lc": "khv",
+    "gw": false,
+    "ln": "\u0425\u0432\u0430\u0440\u0448\u0438\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Khvarshi",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -15,7 +17,5 @@
         "Xvarshi proper",
         "Inxokvari (Inkhokvari)"
     ],
-    "ang": "Khvarshi",
-    "gwcode": "ru",
-    "ln": "\u0425\u0432\u0430\u0440\u0448\u0438\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

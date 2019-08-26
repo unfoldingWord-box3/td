@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tlm",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 6183,
-    "lr": "Pacific",
     "lc": "tlm",
+    "gw": false,
+    "ln": "Tolomako",
+    "ld": "ltr",
+    "ang": "Tolomako",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -14,7 +16,5 @@
         "Marina",
         "Tolomako-Jereviu"
     ],
-    "ang": "Tolomako",
-    "gwcode": "fr",
-    "ln": "Tolomako"
+    "gwcode": "fr"
 }

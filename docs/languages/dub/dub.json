@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dub",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1651,
-    "lr": "Asia",
     "lc": "dub",
+    "gw": false,
+    "ln": "Dubli",
+    "ld": "ltr",
+    "ang": "Dubli",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Rathod",
         "Talavia"
     ],
-    "ang": "Dubli",
-    "gwcode": "gu",
-    "ln": "Dubli"
+    "gwcode": "gu"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bcf",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 539,
-    "lr": "Pacific",
     "lc": "bcf",
+    "gw": false,
+    "ln": "Bamu",
+    "ld": "ltr",
+    "ang": "Bamu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Lower Bamu",
         "Upper Bamu (Middle Bamu)"
     ],
-    "ang": "Bamu",
-    "gwcode": "tpi",
-    "ln": "Bamu"
+    "gwcode": "tpi"
 }

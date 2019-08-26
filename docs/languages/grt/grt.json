@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "grt",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2134,
-    "lr": "Asia",
     "lc": "grt",
+    "gw": false,
+    "ln": "Garo",
+    "ld": "ltr",
+    "ang": "Garo",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN"
@@ -21,7 +23,5 @@
         "Brak",
         "A'beng (A'bengya)"
     ],
-    "ang": "Garo",
-    "gwcode": "en",
-    "ln": "Garo"
+    "gwcode": "en"
 }

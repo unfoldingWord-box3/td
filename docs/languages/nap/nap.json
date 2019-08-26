@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nap",
-    "hc": "IT",
-    "ld": "ltr",
     "pk": 4300,
-    "lr": "Europe",
     "lc": "nap",
+    "gw": false,
+    "ln": "Neapolitan",
+    "ld": "ltr",
+    "ang": "Napoletano-Calabrese",
+    "hc": "IT",
+    "lr": "Europe",
     "cc": [
         "IT"
     ],
@@ -16,7 +18,5 @@
         "Napoletano (Neapolitan)",
         "Lucanian"
     ],
-    "ang": "Napoletano-Calabrese",
-    "gwcode": "en",
-    "ln": "Neapolitan"
+    "gwcode": "en"
 }

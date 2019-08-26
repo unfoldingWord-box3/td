@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vro",
-    "hc": "EE",
-    "ld": "ltr",
     "pk": 6652,
-    "lr": "Europe",
     "lc": "vro",
+    "gw": false,
+    "ln": "V\u00f5ro",
+    "ld": "ltr",
+    "ang": "V\u00f5ro",
+    "hc": "EE",
+    "lr": "Europe",
     "cc": [
         "EE"
     ],
@@ -14,7 +16,5 @@
         "Voru",
         "V\u00f5ru"
     ],
-    "ang": "V\u00f5ro",
-    "gwcode": "en",
-    "ln": "V\u00f5ro"
+    "gwcode": "en"
 }

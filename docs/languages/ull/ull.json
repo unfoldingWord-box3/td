@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ull",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6511,
-    "lr": "Asia",
     "lc": "ull",
+    "gw": false,
+    "ln": "Ullatan",
+    "ld": "ltr",
+    "ang": "Ullatan",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Kochuvelan",
         "Ulladan"
     ],
-    "ang": "Ullatan",
-    "gwcode": "ml",
-    "ln": "Ullatan"
+    "gwcode": "ml"
 }

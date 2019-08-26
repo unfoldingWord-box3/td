@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dbj",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 1448,
-    "lr": "Asia",
     "lc": "dbj",
+    "gw": false,
+    "ln": "Ida'an",
+    "ld": "ltr",
+    "ang": "Ida\u2019an",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -20,7 +22,5 @@
         "Subpan (Sungai)",
         "Begak (Bagahak)"
     ],
-    "ang": "Ida\u2019an",
-    "gwcode": "ms",
-    "ln": "Ida'an"
+    "gwcode": "ms"
 }

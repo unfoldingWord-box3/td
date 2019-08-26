@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nxr",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4722,
-    "lr": "Pacific",
     "lc": "nxr",
+    "gw": false,
+    "ln": "Ninggerum",
+    "ld": "ltr",
+    "ang": "Ninggerum",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "ID",
         "PG"
@@ -22,7 +24,5 @@
         "Obgwo",
         "Tedi"
     ],
-    "ang": "Ninggerum",
-    "gwcode": "tpi",
-    "ln": "Ninggerum"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dgb",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 1491,
-    "lr": "Africa",
     "lc": "dgb",
+    "gw": false,
+    "ln": "Bunoge Dogon",
+    "ld": "ltr",
+    "ang": "Dogon, Bunoge",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "ML"
     ],
@@ -13,7 +15,5 @@
         "Budu-Tagu",
         "Korandabo"
     ],
-    "ang": "Dogon, Bunoge",
-    "gwcode": "fr",
-    "ln": "Bunoge Dogon"
+    "gwcode": "fr"
 }

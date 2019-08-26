@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cul",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 1392,
-    "lr": "Americas",
     "lc": "cul",
+    "gw": false,
+    "ln": "Culina",
+    "ld": "ltr",
+    "ang": "Kulina",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "PE"
@@ -20,7 +22,5 @@
         "Kulino",
         "Kurina"
     ],
-    "ang": "Kulina",
-    "gwcode": "pt",
-    "ln": "Culina"
+    "gwcode": "pt"
 }

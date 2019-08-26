@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mou",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 4015,
-    "lr": "Africa",
     "lc": "mou",
+    "gw": false,
+    "ln": "Mogum",
+    "ld": "ltr",
+    "ang": "Mogum",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -14,7 +16,5 @@
         "Kofa (Koffa)",
         "Mogum D\u00e9l\u00e9"
     ],
-    "ang": "Mogum",
-    "gwcode": "ar",
-    "ln": "Mogum"
+    "gwcode": "ar"
 }

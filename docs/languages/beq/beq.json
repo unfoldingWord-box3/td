@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "beq",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 600,
-    "lr": "Africa",
     "lc": "beq",
+    "gw": false,
+    "ln": "Beembe",
+    "ld": "ltr",
+    "ang": "Beembe",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CG"
     ],
@@ -16,7 +18,5 @@
         "Keenge (Kikeenge)",
         "kinkeenge"
     ],
-    "ang": "Beembe",
-    "gwcode": "fr",
-    "ln": "Beembe"
+    "gwcode": "fr"
 }

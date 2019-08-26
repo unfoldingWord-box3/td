@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pih",
-    "hc": "NF",
-    "ld": "ltr",
     "pk": 5033,
-    "lr": "Pacific",
     "lc": "pih",
+    "gw": false,
+    "ln": "Pitcairn-Norfolk",
+    "ld": "ltr",
+    "ang": "Pitcairn-Norfolk",
+    "hc": "NF",
+    "lr": "Pacific",
     "cc": [
         "AU",
         "PF",
@@ -16,7 +18,5 @@
         "Norfolkese",
         "Norfolk English"
     ],
-    "ang": "Pitcairn-Norfolk",
-    "gwcode": "en",
-    "ln": "Pitcairn-Norfolk"
+    "gwcode": "en"
 }

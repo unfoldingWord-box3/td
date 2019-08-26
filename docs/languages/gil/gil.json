@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gil",
-    "hc": "KI",
-    "ld": "ltr",
     "pk": 2026,
-    "lr": "Pacific",
     "lc": "gil",
+    "gw": false,
+    "ln": "Gilbertese",
+    "ld": "ltr",
+    "ang": "Kiribati",
+    "hc": "KI",
+    "lr": "Pacific",
     "cc": [
         "FJ",
         "KI",
@@ -20,7 +22,5 @@
         "I-Kiribati",
         "Nui (Nuian)"
     ],
-    "ang": "Kiribati",
-    "gwcode": "en",
-    "ln": "Gilbertese"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dbb",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1442,
-    "lr": "Africa",
     "lc": "dbb",
+    "gw": false,
+    "ln": "Deno",
+    "ld": "ltr",
+    "ang": "Deno",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Denawa",
         "Denwa"
     ],
-    "ang": "Deno",
-    "gwcode": "en",
-    "ln": "Deno"
+    "gwcode": "en"
 }

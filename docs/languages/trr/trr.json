@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "trr",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 6315,
-    "lr": "Americas",
     "lc": "trr",
+    "gw": false,
+    "ln": "Taushiro",
+    "ld": "ltr",
+    "ang": "Taushiro",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -13,7 +15,5 @@
         "Pinche",
         "Pinchi"
     ],
-    "ang": "Taushiro",
-    "gwcode": "es-419",
-    "ln": "Taushiro"
+    "gwcode": "es-419"
 }

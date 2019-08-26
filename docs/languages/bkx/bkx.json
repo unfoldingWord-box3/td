@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bkx",
-    "hc": "TL",
-    "ld": "ltr",
     "pk": 752,
-    "lr": "Asia",
     "lc": "bkx",
+    "gw": false,
+    "ln": "Baikeno",
+    "ld": "ltr",
+    "ang": "Baikeno",
+    "hc": "TL",
+    "lr": "Asia",
     "cc": [
         "TL"
     ],
@@ -28,7 +30,5 @@
         "Amnesat",
         "Nu'af"
     ],
-    "ang": "Baikeno",
-    "gwcode": "pt",
-    "ln": "Baikeno"
+    "gwcode": "pt"
 }

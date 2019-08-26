@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "mod",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 4001,
-    "lr": "Americas",
     "lc": "mod",
+    "gw": false,
+    "ln": "Mobilian",
+    "ld": "ltr",
+    "ang": "Mobilian",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
     "alt": [],
-    "ang": "Mobilian",
-    "gwcode": "UNKNOWN",
-    "ln": "Mobilian"
+    "gwcode": null
 }

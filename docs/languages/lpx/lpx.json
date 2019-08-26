@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lpx",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 3578,
-    "lr": "Africa",
     "lc": "lpx",
+    "gw": false,
+    "ln": "Lopit",
+    "ld": "ltr",
+    "ang": "Lopit",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -21,7 +23,5 @@
         "Iboni",
         "Mura"
     ],
-    "ang": "Lopit",
-    "gwcode": "en",
-    "ln": "Lopit"
+    "gwcode": "en"
 }

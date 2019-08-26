@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "shk",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 5601,
-    "lr": "Africa",
     "lc": "shk",
+    "gw": false,
+    "ln": "Shilluk",
+    "ld": "ltr",
+    "ang": "Shilluk",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS",
         "US"
@@ -16,7 +18,5 @@
         "Dhocolo",
         "Shulla"
     ],
-    "ang": "Shilluk",
-    "gwcode": "ar",
-    "ln": "Shilluk"
+    "gwcode": "ar"
 }

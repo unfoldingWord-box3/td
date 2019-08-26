@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mxw",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4236,
-    "lr": "Pacific",
     "lc": "mxw",
+    "gw": false,
+    "ln": "Namo",
+    "ld": "ltr",
+    "ang": "Namo",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Dorro",
         "Mari"
     ],
-    "ang": "Namo",
-    "gwcode": "tpi",
-    "ln": "Namo"
+    "gwcode": "tpi"
 }

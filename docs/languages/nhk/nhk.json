@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nhk",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4442,
-    "lr": "Americas",
     "lc": "nhk",
+    "gw": false,
+    "ln": "Isthmus-Cosoleacaque Nahuatl",
+    "ld": "ltr",
+    "ang": "Nahuatl, Isthmus-Cosoleacaque",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Cosoleacaque Aztec",
         "N\u00e1huatl del Istmo-Cosoleacaque"
     ],
-    "ang": "Nahuatl, Isthmus-Cosoleacaque",
-    "gwcode": "es-419",
-    "ln": "Isthmus-Cosoleacaque Nahuatl"
+    "gwcode": "es-419"
 }

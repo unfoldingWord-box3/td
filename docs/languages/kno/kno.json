@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kno",
-    "hc": "SL",
-    "ld": "ltr",
     "pk": 3027,
-    "lr": "Africa",
     "lc": "kno",
+    "gw": false,
+    "ln": "Kono (Sierra Leone)",
+    "ld": "ltr",
+    "ang": "Kono",
+    "hc": "SL",
+    "lr": "Africa",
     "cc": [
         "SL"
     ],
@@ -27,7 +29,5 @@
         "Gbane",
         "Nimi Yama"
     ],
-    "ang": "Kono",
-    "gwcode": "en",
-    "ln": "Kono (Sierra Leone)"
+    "gwcode": "en"
 }

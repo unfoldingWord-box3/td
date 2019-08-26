@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "skx",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5678,
-    "lr": "Asia",
     "lc": "skx",
+    "gw": false,
+    "ln": "Seko Padang",
+    "ld": "ltr",
+    "ang": "Seko Padang",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Wono",
         "Hono' (Wono)"
     ],
-    "ang": "Seko Padang",
-    "gwcode": "id",
-    "ln": "Seko Padang"
+    "gwcode": "id"
 }

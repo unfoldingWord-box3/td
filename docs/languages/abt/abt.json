@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "abt",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 46,
-    "lr": "Pacific",
     "lc": "abt",
+    "gw": false,
+    "ln": "Ambulas",
+    "ld": "ltr",
+    "ang": "Ambulas",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Abelam",
         "Abulas"
     ],
-    "ang": "Ambulas",
-    "gwcode": "tpi",
-    "ln": "Ambulas"
+    "gwcode": "tpi"
 }

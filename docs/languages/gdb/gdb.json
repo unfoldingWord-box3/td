@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gdb",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1961,
-    "lr": "Asia",
     "lc": "gdb",
+    "gw": false,
+    "ln": "Pottangi Ollar Gadaba",
+    "ld": "ltr",
+    "ang": "Gadaba, Pottangi Ollar",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -22,7 +24,5 @@
         "San Gadaba",
         "Sano"
     ],
-    "ang": "Gadaba, Pottangi Ollar",
-    "gwcode": "or",
-    "ln": "Pottangi Ollar Gadaba"
+    "gwcode": "or"
 }

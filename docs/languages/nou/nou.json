@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nou",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4599,
-    "lr": "Pacific",
     "lc": "nou",
+    "gw": false,
+    "ln": "Ewage-Notu",
+    "ld": "ltr",
+    "ang": "Ewage-Notu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Okena",
         "Yega (Gona)"
     ],
-    "ang": "Ewage-Notu",
-    "gwcode": "tpi",
-    "ln": "Ewage-Notu"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kup",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3197,
-    "lr": "Pacific",
     "lc": "kup",
+    "gw": false,
+    "ln": "Gunimaipa",
+    "ld": "ltr",
+    "ang": "Gunimaipa",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Gazili",
         "Hazili"
     ],
-    "ang": "Gunimaipa",
-    "gwcode": "tpi",
-    "ln": "Gunimaipa"
+    "gwcode": "tpi"
 }

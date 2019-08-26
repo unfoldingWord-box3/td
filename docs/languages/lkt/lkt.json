@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lkt",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 3494,
-    "lr": "Americas",
     "lc": "lkt",
+    "gw": false,
+    "ln": "Lakota",
+    "ld": "ltr",
+    "ang": "Lakota",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US",
         "CA"
@@ -16,7 +18,5 @@
         "Lakotiyapi",
         "Brul\u00e9"
     ],
-    "ang": "Lakota",
-    "gwcode": "en",
-    "ln": "Lakota"
+    "gwcode": "en"
 }

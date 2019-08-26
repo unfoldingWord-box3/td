@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wsk",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6823,
-    "lr": "Pacific",
     "lc": "wsk",
+    "gw": false,
+    "ln": "Waskia",
+    "ld": "ltr",
+    "ang": "Waskia",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Vaskia",
         "Woskia"
     ],
-    "ang": "Waskia",
-    "gwcode": "tpi",
-    "ln": "Waskia"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gez",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 1996,
-    "lr": "Africa",
     "lc": "gez",
+    "gw": false,
+    "ln": "Geez",
+    "ld": "ltr",
+    "ang": "Geez",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -15,7 +17,5 @@
         "Ge'ez",
         "Giiz"
     ],
-    "ang": "Geez",
-    "gwcode": "am",
-    "ln": "Geez"
+    "gwcode": "am"
 }

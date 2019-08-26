@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lea",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3402,
-    "lr": "Africa",
     "lc": "lea",
+    "gw": false,
+    "ln": "Lega-Shabunda",
+    "ld": "ltr",
+    "ang": "Lega-Shabunda",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -17,7 +19,5 @@
         "Rega",
         "Kinyamunsange (Pangi)"
     ],
-    "ang": "Lega-Shabunda",
-    "gwcode": "fr",
-    "ln": "Lega-Shabunda"
+    "gwcode": "fr"
 }

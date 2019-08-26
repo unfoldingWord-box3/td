@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "iou",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2501,
-    "lr": "Pacific",
     "lc": "iou",
+    "gw": false,
+    "ln": "Tuma-Irumu",
+    "ld": "ltr",
+    "ang": "Tuma-Irumu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Tuma",
         "Upper Irumu"
     ],
-    "ang": "Tuma-Irumu",
-    "gwcode": "tpi",
-    "ln": "Tuma-Irumu"
+    "gwcode": "tpi"
 }

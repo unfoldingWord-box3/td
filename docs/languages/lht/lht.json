@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lht",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 3451,
-    "lr": "Pacific",
     "lc": "lht",
+    "gw": false,
+    "ln": "Lo-Toga",
+    "ld": "ltr",
+    "ang": "Lo-Toga",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -14,7 +16,5 @@
         "Lo",
         "Toga"
     ],
-    "ang": "Lo-Toga",
-    "gwcode": "fr",
-    "ln": "Lo-Toga"
+    "gwcode": "fr"
 }

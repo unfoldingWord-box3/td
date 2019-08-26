@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "drl",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1621,
-    "lr": "Pacific",
     "lc": "drl",
+    "gw": false,
+    "ln": "Paakantyi",
+    "ld": "ltr",
+    "ang": "Paakantyi",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -28,7 +30,5 @@
         "Wilyaali",
         "Paaruntyi"
     ],
-    "ang": "Paakantyi",
-    "gwcode": "en",
-    "ln": "Paakantyi"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yor",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 7248,
-    "lr": "Africa",
     "lc": "yo",
+    "gw": false,
+    "ln": "Yor\u00f9b\u00e1",
+    "ld": "ltr",
+    "ang": "Yoruba",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "BF",
@@ -25,7 +27,5 @@
         "Bunu (Bini)",
         "Igbonna"
     ],
-    "ang": "Yoruba",
-    "gwcode": "en",
-    "ln": "Yor\u00f9b\u00e1"
+    "gwcode": "en"
 }

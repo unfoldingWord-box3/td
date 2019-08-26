@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lcs",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3388,
-    "lr": "Asia",
     "lc": "lcs",
+    "gw": false,
+    "ln": "Lisabata-Nuniali",
+    "ld": "ltr",
+    "ang": "Lisabata-Nuniali",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Lisabata",
         "Noniali"
     ],
-    "ang": "Lisabata-Nuniali",
-    "gwcode": "id",
-    "ln": "Lisabata-Nuniali"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tnk",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 6227,
-    "lr": "Pacific",
     "lc": "tnk",
+    "gw": false,
+    "ln": "Kwamera",
+    "ld": "ltr",
+    "ang": "Kwamera",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -13,7 +15,5 @@
         "Ncfe",
         "Nxnincfe"
     ],
-    "ang": "Kwamera",
-    "gwcode": "fr",
-    "ln": "Kwamera"
+    "gwcode": "fr"
 }

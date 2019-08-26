@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbv",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2731,
-    "lr": "Asia",
     "lc": "kbv",
+    "gw": false,
+    "ln": "Dera (Indonesia)",
+    "ld": "ltr",
+    "ang": "Dera",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "PG"
@@ -16,7 +18,5 @@
         "Mangguar",
         "Komberatoro"
     ],
-    "ang": "Dera",
-    "gwcode": "id",
-    "ln": "Dera (Indonesia)"
+    "gwcode": "id"
 }

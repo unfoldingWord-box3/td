@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sos",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 5765,
-    "lr": "Africa",
     "lc": "sos",
+    "gw": false,
+    "ln": "Seenku",
+    "ld": "ltr",
+    "ang": "Seenku",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -16,7 +18,5 @@
         "Southern Seeku (Gbeneku)",
         "Northern Seeku (Timiku)"
     ],
-    "ang": "Seenku",
-    "gwcode": "fr",
-    "ln": "Seenku"
+    "gwcode": "fr"
 }

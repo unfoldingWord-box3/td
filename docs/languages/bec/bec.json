@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bec",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 588,
-    "lr": "Africa",
     "lc": "bec",
+    "gw": false,
+    "ln": "Iceve-Maci",
+    "ld": "ltr",
+    "ang": "Iceve-Maci",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -34,7 +36,5 @@
         "Bacheve (Baceve)",
         "Maci (Kwaya)"
     ],
-    "ang": "Iceve-Maci",
-    "gwcode": "fr",
-    "ln": "Iceve-Maci"
+    "gwcode": "fr"
 }

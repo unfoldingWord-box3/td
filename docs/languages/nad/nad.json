@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4291,
-    "lr": "Pacific",
     "lc": "nad",
+    "gw": false,
+    "ln": "Nijadali",
+    "ld": "ltr",
+    "ang": "Nijadali",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -20,7 +22,5 @@
         "Nyiyabali",
         "Nyiypali"
     ],
-    "ang": "Nijadali",
-    "gwcode": "en",
-    "ln": "Nijadali"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hne",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2316,
-    "lr": "Asia",
     "lc": "hne",
+    "gw": false,
+    "ln": "Chhattisgarhi",
+    "ld": "ltr",
+    "ang": "Chhattisgarhi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -17,7 +19,5 @@
         "Bega",
         "Baigani (Baiga)"
     ],
-    "ang": "Chhattisgarhi",
-    "gwcode": "hi",
-    "ln": "Chhattisgarhi"
+    "gwcode": "hi"
 }

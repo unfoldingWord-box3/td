@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "top",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6255,
-    "lr": "Americas",
     "lc": "top",
+    "gw": false,
+    "ln": "Papantla Totonac",
+    "ld": "ltr",
+    "ang": "Totonac, Papantla",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Lowland Totonaca",
         "Totonaco de Papantla"
     ],
-    "ang": "Totonac, Papantla",
-    "gwcode": "es-419",
-    "ln": "Papantla Totonac"
+    "gwcode": "es-419"
 }

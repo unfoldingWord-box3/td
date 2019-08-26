@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gua",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2152,
-    "lr": "Africa",
     "lc": "gua",
+    "gw": false,
+    "ln": "Shiki",
+    "ld": "ltr",
+    "ang": "Shiki",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Gubawa",
         "Mashiki"
     ],
-    "ang": "Shiki",
-    "gwcode": "en",
-    "ln": "Shiki"
+    "gwcode": "en"
 }

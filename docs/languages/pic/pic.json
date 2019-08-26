@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pic",
-    "hc": "GA",
-    "ld": "ltr",
     "pk": 5028,
-    "lr": "Africa",
     "lc": "pic",
+    "gw": false,
+    "ln": "Pinji",
+    "ld": "ltr",
+    "ang": "Pinji",
+    "hc": "GA",
+    "lr": "Africa",
     "cc": [
         "GA"
     ],
@@ -15,7 +17,5 @@
         "Apinji",
         "Gapinji"
     ],
-    "ang": "Pinji",
-    "gwcode": "fr",
-    "ln": "Pinji"
+    "gwcode": "fr"
 }

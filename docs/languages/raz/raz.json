@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "raz",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5329,
-    "lr": "Asia",
     "lc": "raz",
+    "gw": false,
+    "ln": "Rahambuu",
+    "ld": "ltr",
+    "ang": "Rahambuu",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Wiaoe",
         "Wiau"
     ],
-    "ang": "Rahambuu",
-    "gwcode": "id",
-    "ln": "Rahambuu"
+    "gwcode": "id"
 }

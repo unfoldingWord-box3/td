@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yua",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7292,
-    "lr": "Americas",
     "lc": "yua",
+    "gw": false,
+    "ln": "Yucateco",
+    "ld": "ltr",
+    "ang": "Maya, Yucatec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "BZ",
         "MX",
@@ -17,7 +19,5 @@
         "Peninsular Maya",
         "Yucatan Maya"
     ],
-    "ang": "Maya, Yucatec",
-    "gwcode": "es-419",
-    "ln": "Yucateco"
+    "gwcode": "es-419"
 }

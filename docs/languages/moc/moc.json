@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "moc",
-    "hc": "AR",
-    "ld": "ltr",
     "pk": 4000,
-    "lr": "Americas",
     "lc": "moc",
+    "gw": false,
+    "ln": "Mocov\u00ed",
+    "ld": "ltr",
+    "ang": "Mocov\u00ed",
+    "hc": "AR",
+    "lr": "Americas",
     "cc": [
         "AR"
     ],
@@ -13,7 +15,5 @@
         "Mbocob\u00ed",
         "Mocob\u00ed"
     ],
-    "ang": "Mocov\u00ed",
-    "gwcode": "es-419",
-    "ln": "Mocov\u00ed"
+    "gwcode": "es-419"
 }

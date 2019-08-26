@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gox",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 2111,
-    "lr": "Africa",
     "lc": "gox",
+    "gw": false,
+    "ln": "Gobu",
+    "ld": "ltr",
+    "ang": "Gobu",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CF",
         "CD"
@@ -17,7 +19,5 @@
         "Ngobo",
         "Ngobu"
     ],
-    "ang": "Gobu",
-    "gwcode": "fr",
-    "ln": "Gobu"
+    "gwcode": "fr"
 }

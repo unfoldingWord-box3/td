@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zpz",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7462,
-    "lr": "Americas",
     "lc": "zpz",
+    "gw": false,
+    "ln": "Texmelucan Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Texmelucan",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Papabuco",
         "Zapoteco de San Lorenzo Texmelucan"
     ],
-    "ang": "Zapotec, Texmelucan",
-    "gwcode": "es-419",
-    "ln": "Texmelucan Zapotec"
+    "gwcode": "es-419"
 }

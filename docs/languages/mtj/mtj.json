@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mtj",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4130,
-    "lr": "Asia",
     "lc": "mtj",
+    "gw": false,
+    "ln": "Moskona",
+    "ld": "ltr",
+    "ang": "Moskona",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Meyah",
         "Sabena"
     ],
-    "ang": "Moskona",
-    "gwcode": "id",
-    "ln": "Moskona"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "loc",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 3552,
-    "lr": "Asia",
     "lc": "loc",
+    "gw": false,
+    "ln": "Inonhan",
+    "ld": "ltr",
+    "ang": "Inonhan",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Loocnon",
         "Unhan"
     ],
-    "ang": "Inonhan",
-    "gwcode": "en",
-    "ln": "Inonhan"
+    "gwcode": "en"
 }

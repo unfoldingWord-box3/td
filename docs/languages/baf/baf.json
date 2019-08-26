@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "baf",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 493,
-    "lr": "Africa",
     "lc": "baf",
+    "gw": false,
+    "ln": "Nubaca",
+    "ld": "ltr",
+    "ang": "Nubaca",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -19,7 +21,5 @@
         "K\u00e9lend\u00e9",
         "Nibi\u00e9g"
     ],
-    "ang": "Nubaca",
-    "gwcode": "fr",
-    "ln": "Nubaca"
+    "gwcode": "fr"
 }

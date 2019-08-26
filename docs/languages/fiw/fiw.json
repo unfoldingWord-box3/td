@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fiw",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1845,
-    "lr": "Pacific",
     "lc": "fiw",
+    "gw": false,
+    "ln": "Fiwaga",
+    "ld": "ltr",
+    "ang": "Fiwaga",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Fimaga",
         "Fiwage"
     ],
-    "ang": "Fiwaga",
-    "gwcode": "tpi",
-    "ln": "Fiwaga"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hug",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 2371,
-    "lr": "Americas",
     "lc": "hug",
+    "gw": false,
+    "ln": "Huachipaeri",
+    "ld": "ltr",
+    "ang": "Huachipaeri",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -15,7 +17,5 @@
         "Toyeri (Toyoeri)",
         "Tuyuneri"
     ],
-    "ang": "Huachipaeri",
-    "gwcode": "es-419",
-    "ln": "Huachipaeri"
+    "gwcode": "es-419"
 }

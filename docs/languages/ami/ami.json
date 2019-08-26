@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ami",
-    "hc": "TW",
-    "ld": "ltr",
     "pk": 241,
-    "lr": "Asia",
     "lc": "ami",
+    "gw": false,
+    "ln": "Amis",
+    "ld": "ltr",
+    "ang": "Amis",
+    "hc": "TW",
+    "lr": "Asia",
     "cc": [
         "TW"
     ],
@@ -29,7 +31,5 @@
         "Sabari",
         "Tanah"
     ],
-    "ang": "Amis",
-    "gwcode": "zh",
-    "ln": "Amis"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wah",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6671,
-    "lr": "Asia",
     "lc": "wah",
+    "gw": false,
+    "ln": "Watubela",
+    "ld": "ltr",
+    "ang": "Watubela",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -18,7 +20,5 @@
         "Snabi Watubela",
         "Wesi"
     ],
-    "ang": "Watubela",
-    "gwcode": "id",
-    "ln": "Watubela"
+    "gwcode": "id"
 }

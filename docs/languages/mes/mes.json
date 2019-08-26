@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mes",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 3770,
-    "lr": "Africa",
     "lc": "mes",
+    "gw": false,
+    "ln": "Masmaje",
+    "ld": "ltr",
+    "ang": "Masmaje",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -13,7 +15,5 @@
         "Masmadje",
         "Mesmedje"
     ],
-    "ang": "Masmaje",
-    "gwcode": "ar",
-    "ln": "Masmaje"
+    "gwcode": "ar"
 }

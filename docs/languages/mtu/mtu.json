@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mtu",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4141,
-    "lr": "Americas",
     "lc": "mtu",
+    "gw": false,
+    "ln": "Tututepec Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Tututepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Mixteco de Villa de Tututepec",
         "Santa Mar\u00eda Acatepec"
     ],
-    "ang": "Mixtec, Tututepec",
-    "gwcode": "es-419",
-    "ln": "Tututepec Mixtec"
+    "gwcode": "es-419"
 }

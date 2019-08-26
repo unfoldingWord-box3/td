@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bva",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 994,
-    "lr": "Africa",
     "lc": "bva",
+    "gw": false,
+    "ln": "Barein",
+    "ld": "ltr",
+    "ang": "Barein",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -14,7 +16,5 @@
         "Jelkin",
         "Sakaya (Dagne)"
     ],
-    "ang": "Barein",
-    "gwcode": "ar",
-    "ln": "Barein"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gat",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1922,
-    "lr": "Pacific",
     "lc": "gat",
+    "gw": false,
+    "ln": "Kenati",
+    "ld": "ltr",
+    "ang": "Kenati",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Ganati",
         "Kenathi"
     ],
-    "ang": "Kenati",
-    "gwcode": "tpi",
-    "ln": "Kenati"
+    "gwcode": "tpi"
 }

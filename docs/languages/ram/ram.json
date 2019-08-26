@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ram",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 5316,
-    "lr": "Americas",
     "lc": "ram",
+    "gw": false,
+    "ln": "Canela",
+    "ld": "ltr",
+    "ang": "Canela",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Apaniekra",
         "Apanjekra (Apanhecra)"
     ],
-    "ang": "Canela",
-    "gwcode": "pt",
-    "ln": "Canela"
+    "gwcode": "pt"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kil",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2893,
-    "lr": "Africa",
     "lc": "kil",
+    "gw": false,
+    "ln": "Kariya",
+    "ld": "ltr",
+    "ang": "Kariya",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -16,7 +18,5 @@
         "Vinahe",
         "Wihe"
     ],
-    "ang": "Kariya",
-    "gwcode": "en",
-    "ln": "Kariya"
+    "gwcode": "en"
 }

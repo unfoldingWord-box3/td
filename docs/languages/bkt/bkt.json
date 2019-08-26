@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bkt",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 748,
-    "lr": "Africa",
     "lc": "bkt",
+    "gw": false,
+    "ln": "Boloki",
+    "ld": "ltr",
+    "ang": "Boloki",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CG",
         "CD"
@@ -16,7 +18,5 @@
         "Buluki",
         "River Ruki"
     ],
-    "ang": "Boloki",
-    "gwcode": "fr",
-    "ln": "Boloki"
+    "gwcode": "fr"
 }

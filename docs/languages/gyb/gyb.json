@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gyb",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2205,
-    "lr": "Pacific",
     "lc": "gyb",
+    "gw": false,
+    "ln": "Garus",
+    "ld": "ltr",
+    "ang": "Garus",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Em",
         "Kurupi"
     ],
-    "ang": "Garus",
-    "gwcode": "tpi",
-    "ln": "Garus"
+    "gwcode": "tpi"
 }

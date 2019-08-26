@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gng",
-    "hc": "TG",
-    "ld": "ltr",
     "pk": 2076,
-    "lr": "Africa",
     "lc": "gng",
+    "gw": false,
+    "ln": "Ngangam",
+    "ld": "ltr",
+    "ang": "Ngangam",
+    "hc": "TG",
+    "lr": "Africa",
     "cc": [
         "TG"
     ],
@@ -20,7 +22,5 @@
         "Ngangan",
         "Motiem (Mogou)"
     ],
-    "ang": "Ngangam",
-    "gwcode": "fr",
-    "ln": "Ngangam"
+    "gwcode": "fr"
 }

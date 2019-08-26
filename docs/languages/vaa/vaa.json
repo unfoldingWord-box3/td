@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vaa",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6580,
-    "lr": "Asia",
     "lc": "vaa",
+    "gw": false,
+    "ln": "Vaagri Booli",
+    "ld": "ltr",
+    "ang": "Vaagri Booli",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -23,7 +25,5 @@
         "Wagri Vel",
         "Wogri Boli"
     ],
-    "ang": "Vaagri Booli",
-    "gwcode": "ta",
-    "ln": "Vaagri Booli"
+    "gwcode": "ta"
 }

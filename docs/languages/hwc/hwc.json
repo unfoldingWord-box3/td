@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hwc",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 2394,
-    "lr": "Americas",
     "lc": "hwc",
+    "gw": false,
+    "ln": "Hawai'i Creole English",
+    "ld": "ltr",
+    "ang": "Hawai\u2019i Pidgin",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -15,7 +17,5 @@
         "HCE",
         "Pidgin"
     ],
-    "ang": "Hawai\u2019i Pidgin",
-    "gwcode": "en",
-    "ln": "Hawai'i Creole English"
+    "gwcode": "en"
 }

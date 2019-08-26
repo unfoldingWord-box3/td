@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kpt",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 3076,
-    "lr": "Europe",
     "lc": "kpt",
+    "gw": false,
+    "ln": "\u041a\u0430\u0440\u0430\u0442\u0438\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Karata",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -20,7 +22,5 @@
         "Archo",
         "Chabakaroi"
     ],
-    "ang": "Karata",
-    "gwcode": "ru",
-    "ln": "\u041a\u0430\u0440\u0430\u0442\u0438\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

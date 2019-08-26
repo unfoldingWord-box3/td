@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ajn",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 185,
-    "lr": "Pacific",
     "lc": "ajn",
+    "gw": false,
+    "ln": "Andajin",
+    "ld": "ltr",
+    "ang": "Andajin",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Andidja",
         "Andidjara"
     ],
-    "ang": "Andajin",
-    "gwcode": "en",
-    "ln": "Andajin"
+    "gwcode": "en"
 }

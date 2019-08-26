@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zyg",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7496,
-    "lr": "Asia",
     "lc": "zyg",
+    "gw": false,
+    "ln": "\u5f97\u9756",
+    "ld": "ltr",
+    "ang": "Zhuang, Yang",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -35,7 +37,5 @@
         "Tianpao",
         "Yang (Tuhua)"
     ],
-    "ang": "Zhuang, Yang",
-    "gwcode": "zh",
-    "ln": "\u5f97\u9756"
+    "gwcode": "zh"
 }

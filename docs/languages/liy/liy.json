@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "liy",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 3474,
-    "lr": "Africa",
     "lc": "liy",
+    "gw": false,
+    "ln": "Banda-Bambari",
+    "ld": "ltr",
+    "ang": "Banda-Bambari",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF"
     ],
@@ -15,7 +17,5 @@
         "Ngapo (Ngapu)",
         "Joto (Jeto)"
     ],
-    "ang": "Banda-Bambari",
-    "gwcode": "fr",
-    "ln": "Banda-Bambari"
+    "gwcode": "fr"
 }

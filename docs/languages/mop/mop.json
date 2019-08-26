@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mop",
-    "hc": "BZ",
-    "ld": "ltr",
     "pk": 4010,
-    "lr": "Americas",
     "lc": "mop",
+    "gw": false,
+    "ln": "Mop\u00e1n Maya",
+    "ld": "ltr",
+    "ang": "Maya, Mop\u00e1n",
+    "hc": "BZ",
+    "lr": "Americas",
     "cc": [
         "BZ",
         "GT"
@@ -14,7 +16,5 @@
         "Maya Mop\u00e1n",
         "Mopane"
     ],
-    "ang": "Maya, Mop\u00e1n",
-    "gwcode": "en",
-    "ln": "Mop\u00e1n Maya"
+    "gwcode": "en"
 }

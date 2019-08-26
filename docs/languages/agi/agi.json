@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "agi",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 130,
-    "lr": "Asia",
     "lc": "agi",
+    "gw": false,
+    "ln": "Agariya",
+    "ld": "ltr",
+    "ang": "Agariya",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Agharia",
         "Agoria"
     ],
-    "ang": "Agariya",
-    "gwcode": "hi",
-    "ln": "Agariya"
+    "gwcode": "hi"
 }

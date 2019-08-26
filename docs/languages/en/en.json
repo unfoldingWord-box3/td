@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "eng",
-    "hc": "GB",
-    "ld": "ltr",
     "pk": 1747,
-    "lr": "Europe",
     "lc": "en",
+    "gw": true,
+    "ln": "English",
+    "ld": "ltr",
+    "ang": "English",
+    "hc": "GB",
+    "lr": "Europe",
     "cc": [
         "AG",
         "AO",
@@ -108,7 +110,5 @@
         "Aboriginal English",
         "African American Vernacular English (AAVE)"
     ],
-    "ang": "English",
-    "gwcode": "UNKNOWN",
-    "ln": "English"
+    "gwcode": null
 }

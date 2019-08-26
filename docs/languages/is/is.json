@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "isl",
-    "hc": "IS",
-    "ld": "ltr",
     "pk": 2516,
-    "lr": "Europe",
     "lc": "is",
+    "gw": false,
+    "ln": "\u00cdslenska",
+    "ld": "ltr",
+    "ang": "Icelandic",
+    "hc": "IS",
+    "lr": "Europe",
     "cc": [
         "US",
         "CA",
@@ -15,7 +17,5 @@
     "alt": [
         "\u00cdslenska"
     ],
-    "ang": "Icelandic",
-    "gwcode": "en",
-    "ln": "\u00cdslenska"
+    "gwcode": "en"
 }

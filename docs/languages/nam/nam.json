@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nam",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4297,
-    "lr": "Pacific",
     "lc": "nam",
+    "gw": false,
+    "ln": "Ngan'gityemerri",
+    "ld": "ltr",
+    "ang": "Ngan\u2019gityemerri",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -19,7 +21,5 @@
         "Ngangikarangurr",
         "Ngan'giwumirri (Ngangi-Wumeri)"
     ],
-    "ang": "Ngan\u2019gityemerri",
-    "gwcode": "en",
-    "ln": "Ngan'gityemerri"
+    "gwcode": "en"
 }

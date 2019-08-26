@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jei",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2601,
-    "lr": "Asia",
     "lc": "jei",
+    "gw": false,
+    "ln": "Yei",
+    "ld": "ltr",
+    "ang": "Yei",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "PG"
@@ -15,7 +17,5 @@
         "Jei",
         "Yei-Nan"
     ],
-    "ang": "Yei",
-    "gwcode": "id",
-    "ln": "Yei"
+    "gwcode": "id"
 }

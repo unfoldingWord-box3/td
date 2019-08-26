@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "emb",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1734,
-    "lr": "Asia",
     "lc": "emb",
+    "gw": false,
+    "ln": "Embaloh",
+    "ld": "ltr",
+    "ang": "Embaloh",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -22,7 +24,5 @@
         "Kalis (Kalis Dayak)",
         "Kalis Maloh"
     ],
-    "ang": "Embaloh",
-    "gwcode": "id",
-    "ln": "Embaloh"
+    "gwcode": "id"
 }

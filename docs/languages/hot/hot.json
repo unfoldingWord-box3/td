@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hot",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2336,
-    "lr": "Pacific",
     "lc": "hot",
+    "gw": false,
+    "ln": "Hote",
+    "ld": "ltr",
+    "ang": "Hote",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Misim (Musim)",
         "Ombalei"
     ],
-    "ang": "Hote",
-    "gwcode": "tpi",
-    "ln": "Hote"
+    "gwcode": "tpi"
 }

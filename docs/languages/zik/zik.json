@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zik",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 7382,
-    "lr": "Pacific",
     "lc": "zik",
+    "gw": false,
+    "ln": "Zimakani",
+    "ld": "ltr",
+    "ang": "Zimakani",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Bagwa (Begua)",
         "Mbegu"
     ],
-    "ang": "Zimakani",
-    "gwcode": "tpi",
-    "ln": "Zimakani"
+    "gwcode": "tpi"
 }

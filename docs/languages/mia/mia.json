@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mia",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 3854,
-    "lr": "Americas",
     "lc": "mia",
+    "gw": false,
+    "ln": "Miami",
+    "ld": "ltr",
+    "ang": "Miami",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -15,7 +17,5 @@
         "Miami-Myaamia",
         "Peoria"
     ],
-    "ang": "Miami",
-    "gwcode": "en",
-    "ln": "Miami"
+    "gwcode": "en"
 }

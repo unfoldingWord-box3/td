@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jng",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2651,
-    "lr": "Pacific",
     "lc": "jng",
+    "gw": false,
+    "ln": "Yangman",
+    "ld": "ltr",
+    "ang": "Yangman",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Dagoman",
         "Jungman"
     ],
-    "ang": "Yangman",
-    "gwcode": "en",
-    "ln": "Yangman"
+    "gwcode": "en"
 }

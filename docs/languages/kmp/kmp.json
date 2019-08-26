@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kmp",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3002,
-    "lr": "Africa",
     "lc": "kmp",
+    "gw": false,
+    "ln": "Gimme",
+    "ld": "ltr",
+    "ang": "Gimme",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Kompara",
         "Panbe"
     ],
-    "ang": "Gimme",
-    "gwcode": "fr",
-    "ln": "Gimme"
+    "gwcode": "fr"
 }

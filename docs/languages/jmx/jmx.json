@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jmx",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 2648,
-    "lr": "Americas",
     "lc": "jmx",
+    "gw": false,
+    "ln": "Western Juxtlahuaca Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Western Juxtlahuaca",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "San Juan Pi\u00f1as",
         "Coicoy\u00e1n"
     ],
-    "ang": "Mixtec, Western Juxtlahuaca",
-    "gwcode": "es-419",
-    "ln": "Western Juxtlahuaca Mixtec"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kfp",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2824,
-    "lr": "Asia",
     "lc": "kfp",
+    "gw": false,
+    "ln": "Korwa",
+    "ld": "ltr",
+    "ang": "Korwa",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Ernga",
         "Singli"
     ],
-    "ang": "Korwa",
-    "gwcode": "UNKNOWN",
-    "ln": "Korwa"
+    "gwcode": "hne"
 }

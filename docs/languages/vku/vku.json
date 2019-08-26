@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vku",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6625,
-    "lr": "Pacific",
     "lc": "vku",
+    "gw": false,
+    "ln": "Kurrama",
+    "ld": "ltr",
+    "ang": "Kurrama",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Korama",
         "Kurama"
     ],
-    "ang": "Kurrama",
-    "gwcode": "en",
-    "ln": "Kurrama"
+    "gwcode": "en"
 }

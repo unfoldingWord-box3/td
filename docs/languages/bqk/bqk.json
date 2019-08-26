@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bqk",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 883,
-    "lr": "Africa",
     "lc": "bqk",
+    "gw": false,
+    "ln": "Banda-Mbr\u00e8s",
+    "ld": "ltr",
+    "ang": "Banda-Mbr\u00e8s",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF",
         "SS"
@@ -21,7 +23,5 @@
         "Wada (Ouadda)",
         "Mbre (Mbele)"
     ],
-    "ang": "Banda-Mbr\u00e8s",
-    "gwcode": "fr",
-    "ln": "Banda-Mbr\u00e8s"
+    "gwcode": "fr"
 }

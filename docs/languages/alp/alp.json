@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "alp",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 224,
-    "lr": "Asia",
     "lc": "alp",
+    "gw": false,
+    "ln": "Alune",
+    "ld": "ltr",
+    "ang": "Alune",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Patasiwa Alfoeren",
         "Sapalewa"
     ],
-    "ang": "Alune",
-    "gwcode": "id",
-    "ln": "Alune"
+    "gwcode": "id"
 }

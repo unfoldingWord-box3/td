@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "oml",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4829,
-    "lr": "Africa",
     "lc": "oml",
+    "gw": false,
+    "ln": "Ombo",
+    "ld": "ltr",
+    "ang": "Ombo",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Songola",
         "Mbuli (Mbole)"
     ],
-    "ang": "Ombo",
-    "gwcode": "fr",
-    "ln": "Ombo"
+    "gwcode": "fr"
 }

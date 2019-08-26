@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "xld",
-    "hc": "TR",
-    "ld": "ltr",
     "pk": 6959,
-    "lr": "Asia",
     "lc": "xld",
+    "gw": false,
+    "ln": "Lydian",
+    "ld": "ltr",
+    "ang": "Lydian",
+    "hc": "TR",
+    "lr": "Asia",
     "cc": [
         "TR"
     ],
     "alt": [],
-    "ang": "Lydian",
-    "gwcode": "UNKNOWN",
-    "ln": "Lydian"
+    "gwcode": null
 }

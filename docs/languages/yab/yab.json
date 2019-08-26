@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yab",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 7111,
-    "lr": "Americas",
     "lc": "yab",
+    "gw": false,
+    "ln": "Yuhup",
+    "ld": "ltr",
+    "ang": "Yuhup",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -16,7 +18,5 @@
         "Y\u00ebhup",
         "Maku"
     ],
-    "ang": "Yuhup",
-    "gwcode": "pt",
-    "ln": "Yuhup"
+    "gwcode": "pt"
 }

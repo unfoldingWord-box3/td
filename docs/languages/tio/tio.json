@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tio",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6133,
-    "lr": "Pacific",
     "lc": "tio",
+    "gw": false,
+    "ln": "Teop",
+    "ld": "ltr",
+    "ang": "Teop",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Kosina Mohina",
         "Coastal Teop"
     ],
-    "ang": "Teop",
-    "gwcode": "tpi",
-    "ln": "Teop"
+    "gwcode": "tpi"
 }

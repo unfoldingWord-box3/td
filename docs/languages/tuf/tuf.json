@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tuf",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 6378,
-    "lr": "Americas",
     "lc": "tuf",
+    "gw": false,
+    "ln": "Central Tunebo",
+    "ld": "ltr",
+    "ang": "Tunebo, Central",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -15,7 +17,5 @@
         "U'wa",
         "Uwa-Tunebo"
     ],
-    "ang": "Tunebo, Central",
-    "gwcode": "es-419",
-    "ln": "Central Tunebo"
+    "gwcode": "es-419"
 }

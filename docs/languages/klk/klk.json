@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "klk",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2970,
-    "lr": "Africa",
     "lc": "klk",
+    "gw": false,
+    "ln": "Kono (Nigeria)",
+    "ld": "ltr",
+    "ang": "Kono",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Konu",
         "Kwono"
     ],
-    "ang": "Kono",
-    "gwcode": "en",
-    "ln": "Kono (Nigeria)"
+    "gwcode": "en"
 }

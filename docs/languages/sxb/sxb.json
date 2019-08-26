@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sxb",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 5925,
-    "lr": "Africa",
     "lc": "sxb",
+    "gw": false,
+    "ln": "Suba",
+    "ld": "ltr",
+    "ang": "Suba",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -13,7 +15,5 @@
         "Luo AbaSuba",
         "EgiSuba"
     ],
-    "ang": "Suba",
-    "gwcode": "sw",
-    "ln": "Suba"
+    "gwcode": "sw"
 }

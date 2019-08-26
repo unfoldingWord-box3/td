@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hch",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 2248,
-    "lr": "Americas",
     "lc": "hch",
+    "gw": false,
+    "ln": "Huichol",
+    "ld": "ltr",
+    "ang": "Huichol",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -19,7 +21,5 @@
         "Huichol del este",
         "Huichol del sur"
     ],
-    "ang": "Huichol",
-    "gwcode": "es-419",
-    "ln": "Huichol"
+    "gwcode": "es-419"
 }

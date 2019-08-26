@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ckv",
-    "hc": "TW",
-    "ld": "ltr",
     "pk": 1242,
-    "lr": "Asia",
     "lc": "ckv",
+    "gw": false,
+    "ln": "Kavalan",
+    "ld": "ltr",
+    "ang": "Kavalan",
+    "hc": "TW",
+    "lr": "Asia",
     "cc": [
         "TW"
     ],
@@ -27,7 +29,5 @@
         "Shekwan",
         "Kareovan (Kareowan)"
     ],
-    "ang": "Kavalan",
-    "gwcode": "zh",
-    "ln": "Kavalan"
+    "gwcode": "zh"
 }

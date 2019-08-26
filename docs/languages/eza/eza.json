@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "eza",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1809,
-    "lr": "Africa",
     "lc": "eza",
+    "gw": false,
+    "ln": "Ezaa",
+    "ld": "ltr",
+    "ang": "Ezaa",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Eza",
         "Ezza"
     ],
-    "ang": "Ezaa",
-    "gwcode": "en",
-    "ln": "Ezaa"
+    "gwcode": "en"
 }

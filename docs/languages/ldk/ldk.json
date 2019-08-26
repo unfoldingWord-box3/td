@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ldk",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3395,
-    "lr": "Africa",
     "lc": "ldk",
+    "gw": false,
+    "ln": "Leelau",
+    "ld": "ltr",
+    "ang": "Leelau",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Munga",
         "Munga Lelau"
     ],
-    "ang": "Leelau",
-    "gwcode": "en",
-    "ln": "Leelau"
+    "gwcode": "en"
 }

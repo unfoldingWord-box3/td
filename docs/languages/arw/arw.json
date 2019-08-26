@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "arw",
-    "hc": "SR",
-    "ld": "ltr",
     "pk": 352,
-    "lr": "Americas",
     "lc": "arw",
+    "gw": false,
+    "ln": "Arawak",
+    "ld": "ltr",
+    "ang": "Arawak",
+    "hc": "SR",
+    "lr": "Americas",
     "cc": [
         "GF",
         "VE",
@@ -17,7 +19,5 @@
         "Lokono",
         "Arowak"
     ],
-    "ang": "Arawak",
-    "gwcode": "UNKNOWN",
-    "ln": "Arawak"
+    "gwcode": "nl"
 }

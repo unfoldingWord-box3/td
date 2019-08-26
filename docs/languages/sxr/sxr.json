@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sxr",
-    "hc": "TW",
-    "ld": "ltr",
     "pk": 5934,
-    "lr": "Asia",
     "lc": "sxr",
+    "gw": false,
+    "ln": "Saaroa",
+    "ld": "ltr",
+    "ang": "Saaroa",
+    "hc": "TW",
+    "lr": "Asia",
     "cc": [
         "TW"
     ],
@@ -22,7 +24,5 @@
         "Shishaban",
         "Sisyaban"
     ],
-    "ang": "Saaroa",
-    "gwcode": "zh",
-    "ln": "Saaroa"
+    "gwcode": "zh"
 }

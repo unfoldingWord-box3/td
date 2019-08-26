@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "por",
-    "hc": "PT",
-    "ld": "ltr",
     "pk": 5196,
-    "lr": "Europe",
     "lc": "pt",
+    "gw": true,
+    "ln": "portugu\u00eas",
+    "ld": "ltr",
+    "ang": "Portuguese",
+    "hc": "PT",
+    "lr": "Europe",
     "cc": [
         "PT"
     ],
@@ -23,7 +25,5 @@
         "Algarvian (Algarvio)",
         "Azorean (A\u00e7oriano)"
     ],
-    "ang": "Portuguese",
-    "gwcode": "pt",
-    "ln": "portugu\u00eas"
+    "gwcode": "pt"
 }

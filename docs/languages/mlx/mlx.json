@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mlx",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 3947,
-    "lr": "Pacific",
     "lc": "mlx",
+    "gw": false,
+    "ln": "Malfaxal",
+    "ld": "ltr",
+    "ang": "Na\u2019ahai",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -17,7 +19,5 @@
         "Orierh (Na'ahai)",
         "Toman"
     ],
-    "ang": "Na\u2019ahai",
-    "gwcode": "fr",
-    "ln": "Malfaxal"
+    "gwcode": "fr"
 }

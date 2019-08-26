@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bje",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 711,
-    "lr": "Asia",
     "lc": "bje",
+    "gw": false,
+    "ln": "\u6807\u654f\u65b9\u8a00",
+    "ld": "ltr",
+    "ang": "Biao-Jiao Mien",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -22,7 +24,5 @@
         "Biao Mien",
         "Tsaukongmeng"
     ],
-    "ang": "Biao-Jiao Mien",
-    "gwcode": "zh",
-    "ln": "\u6807\u654f\u65b9\u8a00"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ulc",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 6506,
-    "lr": "Europe",
     "lc": "ulc",
+    "gw": false,
+    "ln": "\u0423\u043b\u044c\u0447\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Ulch",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -19,7 +21,5 @@
         "Ulchi",
         "Ulych"
     ],
-    "ang": "Ulch",
-    "gwcode": "ru",
-    "ln": "\u0423\u043b\u044c\u0447\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

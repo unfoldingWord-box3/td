@@ -3,11 +3,13 @@
 ᐊᓂᔑᓈᐯᒧᐎᓐ
 ========================
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/oji>`_ identifies this language as ``oji``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/oji>`__ identifies this language as ``oji``.
 
 This language is spoken in the following countries:
 
 * CA: Canada
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -16,7 +18,7 @@ This language is spoken in the following countries:
     anglicanized_name: Ojibwe, Ojibwa
     country_codes:
     - CA
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: oj
     lang_direction: ltr
     lang_name: ᐊᓂᔑᓈᐯᒧᐎᓐ

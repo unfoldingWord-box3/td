@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sta",
-    "hc": "ZM",
-    "ld": "ltr",
     "pk": 5852,
-    "lr": "Africa",
     "lc": "sta",
+    "gw": false,
+    "ln": "Settla",
+    "ld": "ltr",
+    "ang": "Settla",
+    "hc": "ZM",
+    "lr": "Africa",
     "cc": [
         "ZM"
     ],
@@ -13,7 +15,5 @@
         "Kisetla",
         "Kisettla"
     ],
-    "ang": "Settla",
-    "gwcode": "en",
-    "ln": "Settla"
+    "gwcode": "en"
 }

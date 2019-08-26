@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bxn",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1054,
-    "lr": "Pacific",
     "lc": "bxn",
+    "gw": false,
+    "ln": "Burduna",
+    "ld": "ltr",
+    "ang": "Burduna",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -20,7 +22,5 @@
         "Purduma",
         "Purduna"
     ],
-    "ang": "Burduna",
-    "gwcode": "en",
-    "ln": "Burduna"
+    "gwcode": "en"
 }

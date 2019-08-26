@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "niu",
-    "hc": "NU",
-    "ld": "ltr",
     "pk": 4472,
-    "lr": "Pacific",
     "lc": "niu",
+    "gw": false,
+    "ln": "Niuean",
+    "ld": "ltr",
+    "ang": "Niue",
+    "hc": "NU",
+    "lr": "Pacific",
     "cc": [
         "CK",
         "NU",
@@ -17,7 +19,5 @@
         "Niuean",
         "Niuefekai"
     ],
-    "ang": "Niue",
-    "gwcode": "en",
-    "ln": "Niuean"
+    "gwcode": "en"
 }

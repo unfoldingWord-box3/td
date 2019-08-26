@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zwa",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 7493,
-    "lr": "Africa",
     "lc": "zwa",
+    "gw": false,
+    "ln": "Zay",
+    "ld": "ltr",
+    "ang": "Zay",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -14,7 +16,5 @@
         "Lak'i",
         "Zway"
     ],
-    "ang": "Zay",
-    "gwcode": "am",
-    "ln": "Zay"
+    "gwcode": "am"
 }

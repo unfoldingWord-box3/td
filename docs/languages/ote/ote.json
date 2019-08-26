@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ote",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4891,
-    "lr": "Americas",
     "lc": "ote",
+    "gw": false,
+    "ln": "Mezquital Otomi",
+    "ld": "ltr",
+    "ang": "Otomi, Mezquital",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "H\u00f1ah\u00f1u",
         "Otom\u00ed del Valle del Mezquital"
     ],
-    "ang": "Otomi, Mezquital",
-    "gwcode": "es-419",
-    "ln": "Mezquital Otomi"
+    "gwcode": "es-419"
 }

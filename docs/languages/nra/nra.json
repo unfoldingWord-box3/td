@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nra",
-    "hc": "GA",
-    "ld": "ltr",
     "pk": 4623,
-    "lr": "Africa",
     "lc": "nra",
+    "gw": false,
+    "ln": "Ngom",
+    "ld": "ltr",
+    "ang": "Ngom",
+    "hc": "GA",
+    "lr": "Africa",
     "cc": [
         "GA",
         "CG"
@@ -18,7 +20,5 @@
         "Ungom",
         "Ngomo"
     ],
-    "ang": "Ngom",
-    "gwcode": "fr",
-    "ln": "Ngom"
+    "gwcode": "fr"
 }

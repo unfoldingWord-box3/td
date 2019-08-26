@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kge",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2840,
-    "lr": "Asia",
     "lc": "kge",
+    "gw": false,
+    "ln": "Komering",
+    "ld": "ltr",
+    "ang": "Komering",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Kayu Agung Asli",
         "Upstream Komering"
     ],
-    "ang": "Komering",
-    "gwcode": "id",
-    "ln": "Komering"
+    "gwcode": "id"
 }

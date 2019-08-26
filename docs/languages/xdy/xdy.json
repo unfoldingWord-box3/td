@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xdy",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6898,
-    "lr": "Asia",
     "lc": "xdy",
+    "gw": false,
+    "ln": "Malayic Dayak",
+    "ld": "ltr",
+    "ang": "Malayic Dayak",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -25,7 +27,5 @@
         "Banana'",
         "Payak"
     ],
-    "ang": "Malayic Dayak",
-    "gwcode": "id",
-    "ln": "Malayic Dayak"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kpl",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3070,
-    "lr": "Africa",
     "lc": "kpl",
+    "gw": false,
+    "ln": "Kpala",
+    "ld": "ltr",
+    "ang": "Kpala",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Kpwaala",
         "Kwala"
     ],
-    "ang": "Kpala",
-    "gwcode": "fr",
-    "ln": "Kpala"
+    "gwcode": "fr"
 }

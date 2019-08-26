@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "arj",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 341,
-    "lr": "Americas",
     "lc": "arj",
+    "gw": false,
+    "ln": "Arapaso",
+    "ld": "ltr",
+    "ang": "Arapaso",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Araspaso",
         "Kone\u00e1"
     ],
-    "ang": "Arapaso",
-    "gwcode": "pt",
-    "ln": "Arapaso"
+    "gwcode": "pt"
 }

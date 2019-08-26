@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nmm",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 4546,
-    "lr": "Asia",
     "lc": "nmm",
+    "gw": false,
+    "ln": "\u0919\u094d\u200d\u092f\u0947\u0936\u094d\u092f\u093e\u0919\u094d\u200d\u0924\u0947",
+    "ld": "ltr",
+    "ang": "Nyeshangte",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -19,7 +21,5 @@
         "Manangbhot",
         "Pisang"
     ],
-    "ang": "Nyeshangte",
-    "gwcode": "ne",
-    "ln": "\u0919\u094d\u200d\u092f\u0947\u0936\u094d\u092f\u093e\u0919\u094d\u200d\u0924\u0947"
+    "gwcode": "ne"
 }

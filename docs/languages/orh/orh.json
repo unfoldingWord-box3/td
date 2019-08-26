@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "orh",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 4867,
-    "lr": "Asia",
     "lc": "orh",
+    "gw": false,
+    "ln": "\u9102\u4f26\u6625\u8bed",
+    "ld": "ltr",
+    "ang": "Oroqen",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -19,7 +21,5 @@
         "Kumarchen",
         "Selpechen"
     ],
-    "ang": "Oroqen",
-    "gwcode": "zh",
-    "ln": "\u9102\u4f26\u6625\u8bed"
+    "gwcode": "zh"
 }

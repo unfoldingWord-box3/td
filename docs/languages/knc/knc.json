@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "knc",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3016,
-    "lr": "Africa",
     "lc": "knc",
+    "gw": false,
+    "ln": "Central Kanuri",
+    "ld": "ltr",
+    "ang": "Kanuri, Central",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NE",
@@ -36,7 +38,5 @@
         "Kaga (Kagama)",
         "Lare (Lere)"
     ],
-    "ang": "Kanuri, Central",
-    "gwcode": "en",
-    "ln": "Central Kanuri"
+    "gwcode": "en"
 }

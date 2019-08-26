@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rmc",
-    "hc": "CZ",
-    "ld": "ltr",
     "pk": 5377,
-    "lr": "Europe",
     "lc": "rmc",
+    "gw": false,
+    "ln": "Carpathian Romani",
+    "ld": "ltr",
+    "ang": "Romani, Carpathian",
+    "hc": "CZ",
+    "lr": "Europe",
     "cc": [
         "CY",
         "HU",
@@ -21,7 +23,5 @@
         "Romungro",
         "Selice Romani"
     ],
-    "ang": "Romani, Carpathian",
-    "gwcode": "en",
-    "ln": "Carpathian Romani"
+    "gwcode": "en"
 }

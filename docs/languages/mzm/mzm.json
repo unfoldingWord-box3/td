@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mzm",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4273,
-    "lr": "Africa",
     "lc": "mzm",
+    "gw": false,
+    "ln": "Mumuye",
+    "ld": "ltr",
+    "ang": "Mumuye",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -16,7 +18,5 @@
         "Gola (Bajama)",
         "Yaa"
     ],
-    "ang": "Mumuye",
-    "gwcode": "en",
-    "ln": "Mumuye"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yau",
-    "hc": "VE",
-    "ld": "ltr",
     "pk": 7130,
-    "lr": "Americas",
     "lc": "yau",
+    "gw": false,
+    "ln": "Yuwana",
+    "ld": "ltr",
+    "ang": "Yuwana",
+    "hc": "VE",
+    "lr": "Americas",
     "cc": [
         "VE"
     ],
@@ -19,7 +21,5 @@
         "Yoana",
         "Yuana"
     ],
-    "ang": "Yuwana",
-    "gwcode": "es-419",
-    "ln": "Yuwana"
+    "gwcode": "es-419"
 }

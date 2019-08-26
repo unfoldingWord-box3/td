@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bcg",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 540,
-    "lr": "Africa",
     "lc": "bcg",
+    "gw": false,
+    "ln": "Baga Pokur",
+    "ld": "ltr",
+    "ang": "Baga Pokur",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN"
     ],
@@ -15,7 +17,5 @@
         "Kalum",
         "Mborin"
     ],
-    "ang": "Baga Pokur",
-    "gwcode": "fr",
-    "ln": "Baga Pokur"
+    "gwcode": "fr"
 }

@@ -3,11 +3,13 @@
 فارسی
 ==========
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/fas>`_ identifies this language as ``fas``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/fas>`__ identifies this language as ``fas``.
 
 This language is spoken in the following countries:
 
 * IR: Iran (Islamic Republic of)
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -16,7 +18,7 @@ This language is spoken in the following countries:
     anglicanized_name: Persian (Farsi)
     country_codes:
     - IR
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: fa
     lang_direction: rtl
     lang_name: فارسی

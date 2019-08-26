@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "gga",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 1999,
-    "lr": "Pacific",
     "lc": "gga",
+    "gw": false,
+    "ln": "Gao",
+    "ld": "ltr",
+    "ang": "Gao",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
     "alt": [
         "Nggao"
     ],
-    "ang": "Gao",
-    "gwcode": "UNKNOWN",
-    "ln": "Gao"
+    "gwcode": "pis"
 }

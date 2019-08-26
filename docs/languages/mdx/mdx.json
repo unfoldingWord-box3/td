@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mdx",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 3750,
-    "lr": "Africa",
     "lc": "mdx",
+    "gw": false,
+    "ln": "Dizin",
+    "ld": "ltr",
+    "ang": "Dizin",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -18,7 +20,5 @@
         "Sizi",
         "Twoyu"
     ],
-    "ang": "Dizin",
-    "gwcode": "am",
-    "ln": "Dizin"
+    "gwcode": "am"
 }

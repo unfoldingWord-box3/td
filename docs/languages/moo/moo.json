@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "moo",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 4009,
-    "lr": "Asia",
     "lc": "moo",
+    "gw": false,
+    "ln": "Monom",
+    "ld": "ltr",
+    "ang": "Monom",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -14,7 +16,5 @@
         "Menam",
         "Monam"
     ],
-    "ang": "Monom",
-    "gwcode": "vi",
-    "ln": "Monom"
+    "gwcode": "vi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zpd",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7440,
-    "lr": "Americas",
     "lc": "zpd",
+    "gw": false,
+    "ln": "Southeastern Ixtl\u00e1n Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Southeastern Ixtl\u00e1n",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Yaves\u00eda Zapotec",
         "Zapoteco del Sureste de Ixtl\u00e1n"
     ],
-    "ang": "Zapotec, Southeastern Ixtl\u00e1n",
-    "gwcode": "es-419",
-    "ln": "Southeastern Ixtl\u00e1n Zapotec"
+    "gwcode": "es-419"
 }

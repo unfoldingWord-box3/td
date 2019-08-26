@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dih",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 1525,
-    "lr": "Americas",
     "lc": "dih",
+    "gw": false,
+    "ln": "Kumiai",
+    "ld": "ltr",
+    "ang": "Kumiai",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -34,7 +36,5 @@
         "Ipai",
         "Tipai"
     ],
-    "ang": "Kumiai",
-    "gwcode": "es-419",
-    "ln": "Kumiai"
+    "gwcode": "es-419"
 }

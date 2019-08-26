@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wbh",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 6693,
-    "lr": "Africa",
     "lc": "wbh",
+    "gw": false,
+    "ln": "Wanda",
+    "ld": "ltr",
+    "ang": "Wanda",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -17,7 +19,5 @@
         "Wandia",
         "Sichela"
     ],
-    "ang": "Wanda",
-    "gwcode": "sw",
-    "ln": "Wanda"
+    "gwcode": "sw"
 }

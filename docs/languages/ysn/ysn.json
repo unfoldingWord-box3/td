@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ysn",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7282,
-    "lr": "Asia",
     "lc": "ysn",
+    "gw": false,
+    "ln": "\u6492\u5c3c",
+    "ld": "ltr",
+    "ang": "Sani",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -13,7 +15,5 @@
         "Northern Sani",
         "Southern Sani"
     ],
-    "ang": "Sani",
-    "gwcode": "zh",
-    "ln": "\u6492\u5c3c"
+    "gwcode": "zh"
 }

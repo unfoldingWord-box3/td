@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gum",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 2163,
-    "lr": "Americas",
     "lc": "gum",
+    "gw": false,
+    "ln": "Guambiano",
+    "ld": "ltr",
+    "ang": "Guambiano",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -13,7 +15,5 @@
         "Guambia",
         "Moguex"
     ],
-    "ang": "Guambiano",
-    "gwcode": "es-419",
-    "ln": "Guambiano"
+    "gwcode": "es-419"
 }

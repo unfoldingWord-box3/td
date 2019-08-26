@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "clm",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 1255,
-    "lr": "Americas",
     "lc": "clm",
+    "gw": false,
+    "ln": "Clallam",
+    "ld": "ltr",
+    "ang": "Clallam",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -14,7 +16,5 @@
         "Na'klallam",
         "S'klallam"
     ],
-    "ang": "Clallam",
-    "gwcode": "en",
-    "ln": "Clallam"
+    "gwcode": "en"
 }

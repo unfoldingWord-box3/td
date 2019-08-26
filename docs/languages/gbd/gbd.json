@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gbd",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1930,
-    "lr": "Pacific",
     "lc": "gbd",
+    "gw": false,
+    "ln": "Karadjeri",
+    "ld": "ltr",
+    "ang": "Karadjeri",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -16,7 +18,5 @@
         "Guradjara",
         "Karrajarri"
     ],
-    "ang": "Karadjeri",
-    "gwcode": "en",
-    "ln": "Karadjeri"
+    "gwcode": "en"
 }

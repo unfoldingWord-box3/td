@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lme",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 3516,
-    "lr": "Africa",
     "lc": "lme",
+    "gw": false,
+    "ln": "P\u00e9v\u00e9",
+    "ld": "ltr",
+    "ang": "P\u00e9v\u00e9",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "CM",
         "TD"
@@ -18,7 +20,5 @@
         "Kado",
         "Doe (Dou\u00e9)"
     ],
-    "ang": "P\u00e9v\u00e9",
-    "gwcode": "ar",
-    "ln": "P\u00e9v\u00e9"
+    "gwcode": "ar"
 }

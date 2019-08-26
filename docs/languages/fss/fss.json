@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fss",
-    "hc": "FI",
-    "ld": "ltr",
     "pk": 1881,
-    "lr": "Europe",
     "lc": "fss",
+    "gw": false,
+    "ln": "Finland-Swedish Sign Language",
+    "ld": "ltr",
+    "ang": "Finland-Swedish Sign Language",
+    "hc": "FI",
+    "lr": "Europe",
     "cc": [
         "FI"
     ],
@@ -14,7 +16,5 @@
         "FinSSL",
         "Suomenruotsalainen Viittomakieli"
     ],
-    "ang": "Finland-Swedish Sign Language",
-    "gwcode": "en",
-    "ln": "Finland-Swedish Sign Language"
+    "gwcode": "en"
 }

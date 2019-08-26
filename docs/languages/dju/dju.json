@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dju",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1553,
-    "lr": "Pacific",
     "lc": "dju",
+    "gw": false,
+    "ln": "Kapriman",
+    "ld": "ltr",
+    "ang": "Kapriman",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Mugumute",
         "Wasare"
     ],
-    "ang": "Kapriman",
-    "gwcode": "tpi",
-    "ln": "Kapriman"
+    "gwcode": "tpi"
 }

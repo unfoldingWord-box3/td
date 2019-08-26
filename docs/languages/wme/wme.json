@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wme",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 6768,
-    "lr": "Asia",
     "lc": "wme",
+    "gw": false,
+    "ln": "\u0935\u093e\u092e\u094d\u092c\u0941\u0932\u0947",
+    "ld": "ltr",
+    "ang": "Wambule",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -26,7 +28,5 @@
         "Udaipure",
         "Wamdyal"
     ],
-    "ang": "Wambule",
-    "gwcode": "ne",
-    "ln": "\u0935\u093e\u092e\u094d\u092c\u0941\u0932\u0947"
+    "gwcode": "ne"
 }

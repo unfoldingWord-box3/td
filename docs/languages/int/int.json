@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "int",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 2497,
-    "lr": "Asia",
     "lc": "int",
+    "gw": false,
+    "ln": "Intha",
+    "ld": "ltr",
+    "ang": "Intha",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -14,7 +16,5 @@
         "Insa",
         "Naung Ma"
     ],
-    "ang": "Intha",
-    "gwcode": "my",
-    "ln": "Intha"
+    "gwcode": "my"
 }

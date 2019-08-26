@@ -9,6 +9,8 @@ This language is spoken in the following countries:
 * US: United States of America
 * CA: Canada
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: vls
@@ -20,7 +22,7 @@ This language is spoken in the following countries:
     - BE
     - US
     - CA
-    gateway_language: UNKNOWN
+    gateway_language: nl
     lang_code: vls
     lang_direction: ltr
     lang_name: Vlaams

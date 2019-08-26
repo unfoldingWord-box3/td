@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kgp",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 2848,
-    "lr": "Americas",
     "lc": "kgp",
+    "gw": false,
+    "ln": "Kaingang",
+    "ld": "ltr",
+    "ang": "Kaingang",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -16,7 +18,5 @@
         "Coroados",
         "Paran\u00e1 Kaingang"
     ],
-    "ang": "Kaingang",
-    "gwcode": "pt",
-    "ln": "Kaingang"
+    "gwcode": "pt"
 }

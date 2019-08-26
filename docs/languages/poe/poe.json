@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "poe",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 5124,
-    "lr": "Americas",
     "lc": "poe",
+    "gw": false,
+    "ln": "San Juan Atzingo Popoloca",
+    "ld": "ltr",
+    "ang": "Popoloca, San Juan Atzingo",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -17,7 +19,5 @@
         "Popoloca del Oriente",
         "Southern Popoloca"
     ],
-    "ang": "Popoloca, San Juan Atzingo",
-    "gwcode": "es-419",
-    "ln": "San Juan Atzingo Popoloca"
+    "gwcode": "es-419"
 }

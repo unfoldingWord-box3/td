@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zpx",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7460,
-    "lr": "Americas",
     "lc": "zpx",
+    "gw": false,
+    "ln": "San Baltazar Loxicha Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, San Baltazar Loxicha",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "San Balt\u00e1zar Loxicha Zapotec",
         "Zapoteco de San Balt\u00e1zar Loxicha"
     ],
-    "ang": "Zapotec, San Baltazar Loxicha",
-    "gwcode": "es-419",
-    "ln": "San Baltazar Loxicha Zapotec"
+    "gwcode": "es-419"
 }

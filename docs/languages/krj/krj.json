@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "krj",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 3117,
-    "lr": "Asia",
     "lc": "krj",
+    "gw": false,
+    "ln": "Kinaray-A",
+    "ld": "ltr",
+    "ang": "Kinaray-a",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -20,7 +22,5 @@
         "Sulud",
         "Guimaras Island (Gimaras)"
     ],
-    "ang": "Kinaray-a",
-    "gwcode": "en",
-    "ln": "Kinaray-A"
+    "gwcode": "en"
 }

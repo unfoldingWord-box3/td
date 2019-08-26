@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sgi",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 5579,
-    "lr": "Africa",
     "lc": "sgi",
+    "gw": false,
+    "ln": "Suga",
+    "ld": "ltr",
+    "ang": "Suga",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -16,7 +18,5 @@
         "Njemnjem",
         "Nyamnyam"
     ],
-    "ang": "Suga",
-    "gwcode": "fr",
-    "ln": "Suga"
+    "gwcode": "fr"
 }

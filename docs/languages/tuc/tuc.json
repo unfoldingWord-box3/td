@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tuc",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6375,
-    "lr": "Pacific",
     "lc": "tuc",
+    "gw": false,
+    "ln": "Mutu",
+    "ld": "ltr",
+    "ang": "Mutu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Tuom",
         "Oov/Mutu"
     ],
-    "ang": "Mutu",
-    "gwcode": "tpi",
-    "ln": "Mutu"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ghl",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 2014,
-    "lr": "Africa",
     "lc": "ghl",
+    "gw": false,
+    "ln": "Ghulfan",
+    "ld": "ltr",
+    "ang": "Ghulfan",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -15,7 +17,5 @@
         "Wunci",
         "Wuncimbe"
     ],
-    "ang": "Ghulfan",
-    "gwcode": "ar",
-    "ln": "Ghulfan"
+    "gwcode": "ar"
 }

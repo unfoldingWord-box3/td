@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wbr",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6701,
-    "lr": "Asia",
     "lc": "wbr",
+    "gw": false,
+    "ln": "Wagdi",
+    "ld": "ltr",
+    "ang": "Wagdi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -24,7 +26,5 @@
         "Wagholi",
         "Wagri"
     ],
-    "ang": "Wagdi",
-    "gwcode": "hi",
-    "ln": "Wagdi"
+    "gwcode": "hi"
 }

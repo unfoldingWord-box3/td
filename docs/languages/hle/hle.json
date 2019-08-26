@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hle",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2287,
-    "lr": "Asia",
     "lc": "hle",
+    "gw": false,
+    "ln": "\u52d2\u82cf",
+    "ld": "ltr",
+    "ang": "Hlersu",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Sansu",
         "Shansu"
     ],
-    "ang": "Hlersu",
-    "gwcode": "zh",
-    "ln": "\u52d2\u82cf"
+    "gwcode": "zh"
 }

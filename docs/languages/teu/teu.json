@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "teu",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 6068,
-    "lr": "Africa",
     "lc": "teu",
+    "gw": false,
+    "ln": "Soo",
+    "ld": "ltr",
+    "ang": "Soo",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "UG"
     ],
@@ -17,7 +19,5 @@
         "Moroto",
         "Napak (Mount Napak)"
     ],
-    "ang": "Soo",
-    "gwcode": "en",
-    "ln": "Soo"
+    "gwcode": "en"
 }

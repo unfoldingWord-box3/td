@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tij",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 6129,
-    "lr": "Asia",
     "lc": "tij",
+    "gw": false,
+    "ln": "Tilung",
+    "ld": "ltr",
+    "ang": "Tilung",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Tilling",
         "Tilung Blama"
     ],
-    "ang": "Tilung",
-    "gwcode": "ne",
-    "ln": "Tilung"
+    "gwcode": "ne"
 }

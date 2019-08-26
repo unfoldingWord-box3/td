@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cpb",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 1309,
-    "lr": "Americas",
     "lc": "cpb",
+    "gw": false,
+    "ln": "Ucayali-Yur\u00faa Ash\u00e9ninka",
+    "ld": "ltr",
+    "ang": "Ash\u00e9ninka, Ucayali-Yur\u00faa",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -14,7 +16,5 @@
         "Kampa",
         "Ucayali Ash\u00e9ninca"
     ],
-    "ang": "Ash\u00e9ninka, Ucayali-Yur\u00faa",
-    "gwcode": "es-419",
-    "ln": "Ucayali-Yur\u00faa Ash\u00e9ninka"
+    "gwcode": "es-419"
 }

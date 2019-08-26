@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zne",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 7427,
-    "lr": "Africa",
     "lc": "zne",
+    "gw": false,
+    "ln": "Zande (individual language)",
+    "ld": "ltr",
+    "ang": "Zande",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CF",
         "SS",
@@ -22,7 +24,5 @@
         "Zandi",
         "Makaraka (Odio)"
     ],
-    "ang": "Zande",
-    "gwcode": "fr",
-    "ln": "Zande (individual language)"
+    "gwcode": "fr"
 }

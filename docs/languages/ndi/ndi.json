@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ndi",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4361,
-    "lr": "Africa",
     "lc": "ndi",
+    "gw": false,
+    "ln": "Samba Leko",
+    "ld": "ltr",
+    "ang": "Samba Leko",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -24,7 +26,5 @@
         "Deenu (Koola)",
         "Samba Leko (Laeko)"
     ],
-    "ang": "Samba Leko",
-    "gwcode": "en",
-    "ln": "Samba Leko"
+    "gwcode": "en"
 }

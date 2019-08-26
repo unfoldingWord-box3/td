@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ndo",
-    "hc": "NA",
-    "ld": "ltr",
     "pk": 4408,
-    "lr": "Africa",
     "lc": "ng",
+    "gw": false,
+    "ln": "Owambo",
+    "ld": "ltr",
+    "ang": "Ndonga",
+    "hc": "NA",
+    "lr": "Africa",
     "cc": [
         "AO",
         "NA"
@@ -18,7 +20,5 @@
         "Otjiwambo",
         "Owambo"
     ],
-    "ang": "Ndonga",
-    "gwcode": "en",
-    "ln": "Owambo"
+    "gwcode": "en"
 }

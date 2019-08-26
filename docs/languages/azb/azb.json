@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "azb",
-    "hc": "IR",
-    "ld": "ltr",
     "pk": 479,
-    "lr": "Asia",
     "lc": "azb",
+    "gw": false,
+    "ln": "South Azerbaijani",
+    "ld": "ltr",
+    "ang": "Azerbaijani, South",
+    "hc": "IR",
+    "lr": "Asia",
     "cc": [
         "IR",
         "IQ",
@@ -22,7 +24,5 @@
         "Shahsavani (Shahseven)",
         "Aynallu (Inallu)"
     ],
-    "ang": "Azerbaijani, South",
-    "gwcode": "fa",
-    "ln": "South Azerbaijani"
+    "gwcode": "fa"
 }

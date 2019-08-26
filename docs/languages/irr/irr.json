@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "irr",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 2512,
-    "lr": "Asia",
     "lc": "irr",
+    "gw": false,
+    "ln": "Ir",
+    "ld": "ltr",
+    "ang": "Ir",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA"
     ],
@@ -13,7 +15,5 @@
         "Yiir",
         "Yir"
     ],
-    "ang": "Ir",
-    "gwcode": "lo",
-    "ln": "Ir"
+    "gwcode": "lo"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nec",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4381,
-    "lr": "Asia",
     "lc": "nec",
+    "gw": false,
+    "ln": "Nedebang",
+    "ld": "ltr",
+    "ang": "Nedebang",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Klamu",
         "N\u00e9debang"
     ],
-    "ang": "Nedebang",
-    "gwcode": "id",
-    "ln": "Nedebang"
+    "gwcode": "id"
 }

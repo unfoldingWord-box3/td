@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sks",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5674,
-    "lr": "Pacific",
     "lc": "sks",
+    "gw": false,
+    "ln": "Maia",
+    "ld": "ltr",
+    "ang": "Maia",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -18,7 +20,5 @@
         "Turutap",
         "Yakiba"
     ],
-    "ang": "Maia",
-    "gwcode": "tpi",
-    "ln": "Maia"
+    "gwcode": "tpi"
 }

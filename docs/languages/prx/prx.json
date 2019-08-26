@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "prx",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5174,
-    "lr": "Asia",
     "lc": "prx",
+    "gw": false,
+    "ln": "Purik",
+    "ld": "ltr",
+    "ang": "Purik",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "IN"
@@ -17,7 +19,5 @@
         "Purik Bhotia",
         "Purki"
     ],
-    "ang": "Purik",
-    "gwcode": "ur",
-    "ln": "Purik"
+    "gwcode": "ur"
 }

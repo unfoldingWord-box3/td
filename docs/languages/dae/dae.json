@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dae",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 1424,
-    "lr": "Africa",
     "lc": "dae",
+    "gw": false,
+    "ln": "Duupa",
+    "ld": "ltr",
+    "ang": "Duupa",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Nduupa",
         "Saa"
     ],
-    "ang": "Duupa",
-    "gwcode": "fr",
-    "ln": "Duupa"
+    "gwcode": "fr"
 }

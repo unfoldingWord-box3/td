@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hoo",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 2333,
-    "lr": "Africa",
     "lc": "hoo",
+    "gw": false,
+    "ln": "Holoholo",
+    "ld": "ltr",
+    "ang": "Holoholo",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "TZ",
         "CD"
@@ -16,7 +18,5 @@
         "Kalanga",
         "Kiholoholo"
     ],
-    "ang": "Holoholo",
-    "gwcode": "fr",
-    "ln": "Holoholo"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nma",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4534,
-    "lr": "Asia",
     "lc": "nma",
+    "gw": false,
+    "ln": "Maram Naga",
+    "ld": "ltr",
+    "ang": "Naga, Maram",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -16,7 +18,5 @@
         "Willong Circle",
         "Maram Khullen Circle"
     ],
-    "ang": "Naga, Maram",
-    "gwcode": "en",
-    "ln": "Maram Naga"
+    "gwcode": "en"
 }

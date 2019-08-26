@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ylu",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 7219,
-    "lr": "Pacific",
     "lc": "ylu",
+    "gw": false,
+    "ln": "Aribwaung",
+    "ld": "ltr",
+    "ang": "Aribwaung",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Jaloc",
         "Yalu"
     ],
-    "ang": "Aribwaung",
-    "gwcode": "tpi",
-    "ln": "Aribwaung"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tsj",
-    "hc": "BT",
-    "ld": "ltr",
     "pk": 6332,
-    "lr": "Asia",
     "lc": "tsj",
+    "gw": false,
+    "ln": "Tshangla",
+    "ld": "ltr",
+    "ang": "Tshangla",
+    "hc": "BT",
+    "lr": "Asia",
     "cc": [
         "CN",
         "BT"
@@ -31,7 +33,5 @@
         "Motuo",
         "Sharchopkha"
     ],
-    "ang": "Tshangla",
-    "gwcode": "UNKNOWN",
-    "ln": "Tshangla"
+    "gwcode": "dz"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gdo",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 1974,
-    "lr": "Europe",
     "lc": "gdo",
+    "gw": false,
+    "ln": "\u0413\u043e\u0434\u043e\u0431\u0435\u0440\u0438\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Ghodoberi",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -14,7 +16,5 @@
         "Godoberin",
         "Zibirkhali"
     ],
-    "ang": "Ghodoberi",
-    "gwcode": "ru",
-    "ln": "\u0413\u043e\u0434\u043e\u0431\u0435\u0440\u0438\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

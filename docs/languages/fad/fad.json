@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fad",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1814,
-    "lr": "Pacific",
     "lc": "fad",
+    "gw": false,
+    "ln": "Wagi",
+    "ld": "ltr",
+    "ang": "Wagi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Kamba",
         "Mis-Kemba"
     ],
-    "ang": "Wagi",
-    "gwcode": "tpi",
-    "ln": "Wagi"
+    "gwcode": "tpi"
 }

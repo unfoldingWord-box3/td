@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mwb",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4193,
-    "lr": "Pacific",
     "lc": "mwb",
+    "gw": false,
+    "ln": "Juwal",
+    "ld": "ltr",
+    "ang": "Juwal",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Tumara",
         "Tumaru"
     ],
-    "ang": "Juwal",
-    "gwcode": "tpi",
-    "ln": "Juwal"
+    "gwcode": "tpi"
 }

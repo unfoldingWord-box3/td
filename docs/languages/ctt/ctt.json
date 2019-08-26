@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ctt",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1380,
-    "lr": "Asia",
     "lc": "ctt",
+    "gw": false,
+    "ln": "Wayanad Chetti",
+    "ld": "ltr",
+    "ang": "Chetti, Wayanad",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Chetti",
         "Chetty"
     ],
-    "ang": "Chetti, Wayanad",
-    "gwcode": "ta",
-    "ln": "Wayanad Chetti"
+    "gwcode": "ta"
 }

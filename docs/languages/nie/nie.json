@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nie",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 4459,
-    "lr": "Africa",
     "lc": "nie",
+    "gw": false,
+    "ln": "Niellim",
+    "ld": "ltr",
+    "ang": "Niellim",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -17,7 +19,5 @@
         "Cuni",
         "Tchini (Cini)"
     ],
-    "ang": "Niellim",
-    "gwcode": "ar",
-    "ln": "Niellim"
+    "gwcode": "ar"
 }

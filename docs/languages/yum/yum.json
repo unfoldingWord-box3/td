@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yum",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 7302,
-    "lr": "Americas",
     "lc": "yum",
+    "gw": false,
+    "ln": "Quechan",
+    "ld": "ltr",
+    "ang": "Quechan",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -14,7 +16,5 @@
         "Quecl",
         "Yuma"
     ],
-    "ang": "Quechan",
-    "gwcode": "en",
-    "ln": "Quechan"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yxu",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7324,
-    "lr": "Pacific",
     "lc": "yxu",
+    "gw": false,
+    "ln": "Yuyu",
+    "ld": "ltr",
+    "ang": "Yuyu",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -26,7 +28,5 @@
         "Yirau",
         "You-you"
     ],
-    "ang": "Yuyu",
-    "gwcode": "en",
-    "ln": "Yuyu"
+    "gwcode": "en"
 }

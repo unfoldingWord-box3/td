@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ady",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 90,
-    "lr": "Europe",
     "lc": "ady",
+    "gw": false,
+    "ln": "\u0410\u0434\u044b\u0433\u0430\u0431\u0437\u044d",
+    "ld": "ltr",
+    "ang": "Adyghe",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "IQ",
         "IL",
@@ -32,7 +34,5 @@
         "Lower Circassian",
         "Cherkes"
     ],
-    "ang": "Adyghe",
-    "gwcode": "ru",
-    "ln": "\u0410\u0434\u044b\u0433\u0430\u0431\u0437\u044d"
+    "gwcode": "ru"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ldl",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3396,
-    "lr": "Africa",
     "lc": "ldl",
+    "gw": false,
+    "ln": "Ka\u0303a\u0303n",
+    "ld": "ltr",
+    "ang": "Kaan",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Kan",
         "Libbo"
     ],
-    "ang": "Kaan",
-    "gwcode": "en",
-    "ln": "Ka\u0303a\u0303n"
+    "gwcode": "en"
 }

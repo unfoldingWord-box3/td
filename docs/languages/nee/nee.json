@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nee",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 4383,
-    "lr": "Pacific",
     "lc": "nee",
+    "gw": false,
+    "ln": "N\u00eal\u00eamwa-Nixumwak",
+    "ld": "ltr",
+    "ang": "N\u00eal\u00eamwa-Nixumwak",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -15,7 +17,5 @@
         "Nelemwa (Nelema)",
         "Nixumwak (Fwa Kumak)"
     ],
-    "ang": "N\u00eal\u00eamwa-Nixumwak",
-    "gwcode": "en",
-    "ln": "N\u00eal\u00eamwa-Nixumwak"
+    "gwcode": "en"
 }

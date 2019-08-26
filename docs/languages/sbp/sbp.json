@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sbp",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 5494,
-    "lr": "Africa",
     "lc": "sbp",
+    "gw": false,
+    "ln": "Sangu",
+    "ld": "ltr",
+    "ang": "Sangu",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -23,7 +25,5 @@
         "South-Central Sangu (Kapunga)",
         "Western Sangu (Kilambo)"
     ],
-    "ang": "Sangu",
-    "gwcode": "sw",
-    "ln": "Sangu"
+    "gwcode": "sw"
 }

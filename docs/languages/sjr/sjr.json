@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sjr",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5651,
-    "lr": "Pacific",
     "lc": "sjr",
+    "gw": false,
+    "ln": "Siar-Lak",
+    "ld": "ltr",
+    "ang": "Siar-Lak",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Lamassa",
         "Lambom"
     ],
-    "ang": "Siar-Lak",
-    "gwcode": "tpi",
-    "ln": "Siar-Lak"
+    "gwcode": "tpi"
 }

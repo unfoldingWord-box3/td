@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kqo",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 3097,
-    "lr": "Africa",
     "lc": "kqo",
+    "gw": false,
+    "ln": "Eastern Krahn",
+    "ld": "ltr",
+    "ang": "Krahn, Eastern",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR"
     ],
@@ -16,7 +18,5 @@
         "Tchien (Chiehn)",
         "Kanneh"
     ],
-    "ang": "Krahn, Eastern",
-    "gwcode": "en",
-    "ln": "Eastern Krahn"
+    "gwcode": "en"
 }

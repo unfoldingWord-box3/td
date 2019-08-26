@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wti",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 6828,
-    "lr": "Africa",
     "lc": "wti",
+    "gw": false,
+    "ln": "Berta",
+    "ld": "ltr",
+    "ang": "Berta",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SD"
@@ -19,7 +21,5 @@
         "Wetawit",
         "Gwami"
     ],
-    "ang": "Berta",
-    "gwcode": "am",
-    "ln": "Berta"
+    "gwcode": "am"
 }

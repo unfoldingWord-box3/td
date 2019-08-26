@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mxn",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4227,
-    "lr": "Asia",
     "lc": "mxn",
+    "gw": false,
+    "ln": "Moi (Indonesia)",
+    "ld": "ltr",
+    "ang": "Moi",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Mooi",
         "Mosana"
     ],
-    "ang": "Moi",
-    "gwcode": "id",
-    "ln": "Moi (Indonesia)"
+    "gwcode": "id"
 }

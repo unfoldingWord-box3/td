@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sxw",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 5937,
-    "lr": "Africa",
     "lc": "sxw",
+    "gw": false,
+    "ln": "Saxwe Gbe",
+    "ld": "ltr",
+    "ang": "Gbe, Saxwe",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ"
     ],
@@ -19,7 +21,5 @@
         "Daxe",
         "Se"
     ],
-    "ang": "Gbe, Saxwe",
-    "gwcode": "fr",
-    "ln": "Saxwe Gbe"
+    "gwcode": "fr"
 }

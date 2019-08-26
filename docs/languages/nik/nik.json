@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nik",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4464,
-    "lr": "Asia",
     "lc": "nik",
+    "gw": false,
+    "ln": "Southern Nicobarese",
+    "ld": "ltr",
+    "ang": "Nicobarese, Southern",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Nicobara",
         "Condul (Kondul)"
     ],
-    "ang": "Nicobarese, Southern",
-    "gwcode": "en",
-    "ln": "Southern Nicobarese"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "acw",
-    "hc": "SA",
-    "ld": "rtl",
     "pk": 67,
-    "lr": "Asia",
     "lc": "acw",
+    "gw": false,
+    "ln": "\u062d\u062c\u0627\u0632\u064a",
+    "ld": "rtl",
+    "ang": "Arabic, Hijazi Spoken",
+    "hc": "SA",
+    "lr": "Asia",
     "cc": [
         "ER",
         "SA",
@@ -18,7 +20,5 @@
         "Hijazi",
         "West Arabian Colloquial Arabic"
     ],
-    "ang": "Arabic, Hijazi Spoken",
-    "gwcode": "ar",
-    "ln": "\u062d\u062c\u0627\u0632\u064a"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ztl",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7477,
-    "lr": "Americas",
     "lc": "ztl",
+    "gw": false,
+    "ln": "Lapagu\u00eda-Guivini Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Lapagu\u00eda-Guivini",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -16,7 +18,5 @@
         "Guivini",
         "Lapagu\u00eda"
     ],
-    "ang": "Zapotec, Lapagu\u00eda-Guivini",
-    "gwcode": "es-419",
-    "ln": "Lapagu\u00eda-Guivini Zapotec"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xkz",
-    "hc": "BT",
-    "ld": "ltr",
     "pk": 6955,
-    "lr": "Asia",
     "lc": "xkz",
+    "gw": false,
+    "ln": "Kurtokha",
+    "ld": "ltr",
+    "ang": "Kurtokha",
+    "hc": "BT",
+    "lr": "Asia",
     "cc": [
         "BT"
     ],
@@ -17,7 +19,5 @@
         "Kurtobikha",
         "Kurtopakha"
     ],
-    "ang": "Kurtokha",
-    "gwcode": "UNKNOWN",
-    "ln": "Kurtokha"
+    "gwcode": "dz"
 }

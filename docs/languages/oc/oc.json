@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "oci",
-    "hc": "FR",
-    "ld": "ltr",
     "pk": 4768,
-    "lr": "Europe",
     "lc": "oc",
+    "gw": false,
+    "ln": "occitan, lenga d'\u00f2c",
+    "ld": "ltr",
+    "ang": "Occitan",
+    "hc": "FR",
+    "lr": "Europe",
     "cc": [
         "FR",
         "ES",
@@ -31,7 +33,5 @@
         "Limousin (Lemosin)",
         "Aranese Occit\u00e1n"
     ],
-    "ang": "Occitan",
-    "gwcode": "fr",
-    "ln": "occitan, lenga d'\u00f2c"
+    "gwcode": "fr"
 }

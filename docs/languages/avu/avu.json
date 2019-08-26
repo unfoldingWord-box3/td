@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "avu",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 434,
-    "lr": "Africa",
     "lc": "avu",
+    "gw": false,
+    "ln": "Avokaya",
+    "ld": "ltr",
+    "ang": "Avokaya",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -18,7 +20,5 @@
         "Odziliwa",
         "Ajugu (Adjiga)"
     ],
-    "ang": "Avokaya",
-    "gwcode": "ar",
-    "ln": "Avokaya"
+    "gwcode": "ar"
 }

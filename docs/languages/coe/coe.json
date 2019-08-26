@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "coe",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 1291,
-    "lr": "Americas",
     "lc": "coe",
+    "gw": false,
+    "ln": "Koreguaje",
+    "ld": "ltr",
+    "ang": "Koreguaje",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -15,7 +17,5 @@
         "Correguaje",
         "Ko'reuaju"
     ],
-    "ang": "Koreguaje",
-    "gwcode": "es-419",
-    "ln": "Koreguaje"
+    "gwcode": "es-419"
 }

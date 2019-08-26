@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "inj",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 2490,
-    "lr": "Americas",
     "lc": "inj",
+    "gw": false,
+    "ln": "Jungle Inga",
+    "ld": "ltr",
+    "ang": "Inga, Jungle",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -14,7 +16,5 @@
         "Lowland Inga",
         "Mocoa"
     ],
-    "ang": "Inga, Jungle",
-    "gwcode": "es-419",
-    "ln": "Jungle Inga"
+    "gwcode": "es-419"
 }

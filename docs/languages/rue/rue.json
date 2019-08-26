@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rue",
-    "hc": "UA",
-    "ld": "ltr",
     "pk": 5434,
-    "lr": "Europe",
     "lc": "rue",
+    "gw": false,
+    "ln": "Rusyn",
+    "ld": "ltr",
+    "ang": "Rusyn",
+    "hc": "UA",
+    "lr": "Europe",
     "cc": [
         "PL",
         "UA"
@@ -16,7 +18,5 @@
         "Lemkovschina",
         "Rusynski"
     ],
-    "ang": "Rusyn",
-    "gwcode": "en",
-    "ln": "Rusyn"
+    "gwcode": "en"
 }

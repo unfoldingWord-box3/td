@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bnp",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 820,
-    "lr": "Pacific",
     "lc": "bnp",
+    "gw": false,
+    "ln": "Bola",
+    "ld": "ltr",
+    "ang": "Bola",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -17,7 +19,5 @@
         "Harua (Garua)",
         "Xarua"
     ],
-    "ang": "Bola",
-    "gwcode": "tpi",
-    "ln": "Bola"
+    "gwcode": "tpi"
 }

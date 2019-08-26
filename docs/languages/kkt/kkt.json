@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kkt",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 2952,
-    "lr": "Asia",
     "lc": "kkt",
+    "gw": false,
+    "ln": "Koi",
+    "ld": "ltr",
+    "ang": "Koi",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Koyee",
         "Koyu"
     ],
-    "ang": "Koi",
-    "gwcode": "ne",
-    "ln": "Koi"
+    "gwcode": "ne"
 }

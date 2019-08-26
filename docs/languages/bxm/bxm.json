@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bxm",
-    "hc": "MN",
-    "ld": "ltr",
     "pk": 1053,
-    "lr": "Asia",
     "lc": "bxm",
+    "gw": false,
+    "ln": "Mongolia Buriat",
+    "ld": "ltr",
+    "ang": "Buriat, Mongolia",
+    "hc": "MN",
+    "lr": "Asia",
     "cc": [
         "MN"
     ],
@@ -16,7 +18,5 @@
         "Mongolian Buriat",
         "Northern Mongolian"
     ],
-    "ang": "Buriat, Mongolia",
-    "gwcode": "mn",
-    "ln": "Mongolia Buriat"
+    "gwcode": "mn"
 }

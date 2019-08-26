@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bex",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 606,
-    "lr": "Africa",
     "lc": "bex",
+    "gw": false,
+    "ln": "Jur Modo",
+    "ld": "ltr",
+    "ang": "Jur Modo",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS",
         "US"
@@ -17,7 +19,5 @@
         "Modo Lali",
         "Wira"
     ],
-    "ang": "Jur Modo",
-    "gwcode": "ar",
-    "ln": "Jur Modo"
+    "gwcode": "ar"
 }

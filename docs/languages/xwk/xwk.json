@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xwk",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7097,
-    "lr": "Pacific",
     "lc": "xwk",
+    "gw": false,
+    "ln": "Wangkumara",
+    "ld": "ltr",
+    "ang": "Wangkumara",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Wangumarra",
         "Wongkumara"
     ],
-    "ang": "Wangkumara",
-    "gwcode": "en",
-    "ln": "Wangkumara"
+    "gwcode": "en"
 }

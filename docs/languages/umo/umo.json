@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "umo",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6522,
-    "lr": "Americas",
     "lc": "umo",
+    "gw": false,
+    "ln": "Umot\u00edna",
+    "ld": "ltr",
+    "ang": "Umot\u00edna",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -13,7 +15,5 @@
         "Barbados",
         "Umutina"
     ],
-    "ang": "Umot\u00edna",
-    "gwcode": "pt",
-    "ln": "Umot\u00edna"
+    "gwcode": "pt"
 }

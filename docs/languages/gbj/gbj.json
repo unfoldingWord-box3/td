@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gbj",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1936,
-    "lr": "Asia",
     "lc": "gbj",
+    "gw": false,
+    "ln": "Bodo Gadaba",
+    "ld": "ltr",
+    "ang": "Gadaba, Bodo",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -22,7 +24,5 @@
         "Kinda Raji",
         "Koraput"
     ],
-    "ang": "Gadaba, Bodo",
-    "gwcode": "or",
-    "ln": "Bodo Gadaba"
+    "gwcode": "or"
 }

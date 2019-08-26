@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dmo",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 1571,
-    "lr": "Africa",
     "lc": "dmo",
+    "gw": false,
+    "ln": "Kemezung",
+    "ld": "ltr",
+    "ang": "Kemedzung",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -14,7 +16,5 @@
         "Dzumbo",
         "Kumaju"
     ],
-    "ang": "Kemedzung",
-    "gwcode": "fr",
-    "ln": "Kemezung"
+    "gwcode": "fr"
 }

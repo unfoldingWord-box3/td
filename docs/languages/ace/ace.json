@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ace",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 56,
-    "lr": "Asia",
     "lc": "ace",
+    "gw": false,
+    "ln": "Achinese",
+    "ld": "ltr",
+    "ang": "Aceh",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Achehnese",
         "Achinese"
     ],
-    "ang": "Aceh",
-    "gwcode": "id",
-    "ln": "Achinese"
+    "gwcode": "id"
 }

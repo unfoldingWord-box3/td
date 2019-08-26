@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zmx",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 7423,
-    "lr": "Africa",
     "lc": "zmx",
+    "gw": false,
+    "ln": "Bomitaba",
+    "ld": "ltr",
+    "ang": "Bomitaba",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CG"
     ],
@@ -17,7 +19,5 @@
         "Central Bomitaba (Epena)",
         "Northern Bomitaba (Matoki)"
     ],
-    "ang": "Bomitaba",
-    "gwcode": "fr",
-    "ln": "Bomitaba"
+    "gwcode": "fr"
 }

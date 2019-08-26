@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wne",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 6778,
-    "lr": "Asia",
     "lc": "wne",
+    "gw": false,
+    "ln": "\u0648\u0646\u06cc\u0633\u06cc",
+    "ld": "ltr",
+    "ang": "Waneci",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "PK"
     ],
@@ -16,7 +18,5 @@
         "Wanechi",
         "Wanetsi"
     ],
-    "ang": "Waneci",
-    "gwcode": "ur",
-    "ln": "\u0648\u0646\u06cc\u0633\u06cc"
+    "gwcode": "ur"
 }

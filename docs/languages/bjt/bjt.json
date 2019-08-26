@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bjt",
-    "hc": "SN",
-    "ld": "ltr",
     "pk": 725,
-    "lr": "Africa",
     "lc": "bjt",
+    "gw": false,
+    "ln": "Balanta-Ganja",
+    "ld": "ltr",
+    "ang": "Balanta-Ganja",
+    "hc": "SN",
+    "lr": "Africa",
     "cc": [
         "SN"
     ],
@@ -23,7 +25,5 @@
         "Fganja (Ganja)",
         "Fjaalib (Blip)"
     ],
-    "ang": "Balanta-Ganja",
-    "gwcode": "fr",
-    "ln": "Balanta-Ganja"
+    "gwcode": "fr"
 }

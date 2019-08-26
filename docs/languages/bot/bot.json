@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bot",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 847,
-    "lr": "Africa",
     "lc": "bot",
+    "gw": false,
+    "ln": "Bongo",
+    "ld": "ltr",
+    "ang": "Bongo",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -13,7 +15,5 @@
         "Bungu",
         "Dor"
     ],
-    "ang": "Bongo",
-    "gwcode": "ar",
-    "ln": "Bongo"
+    "gwcode": "ar"
 }

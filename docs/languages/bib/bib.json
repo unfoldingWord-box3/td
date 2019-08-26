@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bib",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 687,
-    "lr": "Africa",
     "lc": "bib",
+    "gw": false,
+    "ln": "Bissa",
+    "ld": "ltr",
+    "ang": "Bisa",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF",
         "GH",
@@ -16,7 +18,5 @@
         "Baraka (Eastern Bisa)",
         "Lebir (Western Bisa)"
     ],
-    "ang": "Bisa",
-    "gwcode": "fr",
-    "ln": "Bissa"
+    "gwcode": "fr"
 }

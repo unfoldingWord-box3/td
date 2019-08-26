@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "moj",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 4006,
-    "lr": "Africa",
     "lc": "moj",
+    "gw": false,
+    "ln": "Monzombo",
+    "ld": "ltr",
+    "ang": "Monzombo",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CF",
         "CG"
@@ -16,7 +18,5 @@
         "Mondjembo",
         "Munzombo"
     ],
-    "ang": "Monzombo",
-    "gwcode": "fr",
-    "ln": "Monzombo"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mnj",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 3984,
-    "lr": "Asia",
     "lc": "mnj",
+    "gw": false,
+    "ln": "Munji",
+    "ld": "ltr",
+    "ang": "Munji",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "AF"
     ],
@@ -13,7 +15,5 @@
         "Munjigi",
         "Munjiwar"
     ],
-    "ang": "Munji",
-    "gwcode": "ps",
-    "ln": "Munji"
+    "gwcode": "ps"
 }

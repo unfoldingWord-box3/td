@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "anl",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 269,
-    "lr": "Asia",
     "lc": "anl",
+    "gw": false,
+    "ln": "Anu-Hkongso Chin",
+    "ld": "ltr",
+    "ang": "Chin, Anu-Hkongso",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -19,7 +21,5 @@
         "No",
         "Hkongso"
     ],
-    "ang": "Chin, Anu-Hkongso",
-    "gwcode": "my",
-    "ln": "Anu-Hkongso Chin"
+    "gwcode": "my"
 }

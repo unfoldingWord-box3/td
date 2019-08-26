@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rel",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 5342,
-    "lr": "Africa",
     "lc": "rel",
+    "gw": false,
+    "ln": "Rendille",
+    "ld": "ltr",
+    "ang": "Rendille",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -13,7 +15,5 @@
         "Randile",
         "Rendile"
     ],
-    "ang": "Rendille",
-    "gwcode": "sw",
-    "ln": "Rendille"
+    "gwcode": "sw"
 }

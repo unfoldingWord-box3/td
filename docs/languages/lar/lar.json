@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lar",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 3350,
-    "lr": "Africa",
     "lc": "lar",
+    "gw": false,
+    "ln": "Larteh",
+    "ld": "ltr",
+    "ang": "Larteh",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -14,7 +16,5 @@
         "Late",
         "Lete"
     ],
-    "ang": "Larteh",
-    "gwcode": "en",
-    "ln": "Larteh"
+    "gwcode": "en"
 }

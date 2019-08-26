@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wua",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6832,
-    "lr": "Pacific",
     "lc": "wua",
+    "gw": false,
+    "ln": "Wikngenchera",
+    "ld": "ltr",
+    "ang": "Wikngenchera",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -17,7 +19,5 @@
         "Wik",
         "Wik-Nantjara"
     ],
-    "ang": "Wikngenchera",
-    "gwcode": "en",
-    "ln": "Wikngenchera"
+    "gwcode": "en"
 }

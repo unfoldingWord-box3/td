@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nnz",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4580,
-    "lr": "Africa",
     "lc": "nnz",
+    "gw": false,
+    "ln": "Nda'nda'",
+    "ld": "ltr",
+    "ang": "Nda\u2019nda\u2019",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Ungameha (South Nda'nda')",
         "West Nda'nda'"
     ],
-    "ang": "Nda\u2019nda\u2019",
-    "gwcode": "fr",
-    "ln": "Nda'nda'"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cto",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 1377,
-    "lr": "Americas",
     "lc": "cto",
+    "gw": false,
+    "ln": "Ember\u00e1-Cat\u00edo",
+    "ld": "ltr",
+    "ang": "Ember\u00e1-Cat\u00edo",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -17,7 +19,5 @@
         "Cat\u00edo",
         "Epera"
     ],
-    "ang": "Ember\u00e1-Cat\u00edo",
-    "gwcode": "es-419",
-    "ln": "Ember\u00e1-Cat\u00edo"
+    "gwcode": "es-419"
 }

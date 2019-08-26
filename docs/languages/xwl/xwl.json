@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xwl",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 7098,
-    "lr": "Africa",
     "lc": "xwl",
+    "gw": false,
+    "ln": "Western Xwla Gbe",
+    "ld": "ltr",
+    "ang": "Gbe, Western Xwla",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "TG"
@@ -15,7 +17,5 @@
         "Xwla",
         "Xwla-Gbe"
     ],
-    "ang": "Gbe, Western Xwla",
-    "gwcode": "fr",
-    "ln": "Western Xwla Gbe"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mmh",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 3956,
-    "lr": "Americas",
     "lc": "mmh",
+    "gw": false,
+    "ln": "Mehin\u00e1ku",
+    "ld": "ltr",
+    "ang": "Mehin\u00e1ku",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -16,7 +18,5 @@
         "Minaco",
         "Waur\u00e1-kum\u00e1"
     ],
-    "ang": "Mehin\u00e1ku",
-    "gwcode": "pt",
-    "ln": "Mehin\u00e1ku"
+    "gwcode": "pt"
 }

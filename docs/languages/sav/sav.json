@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sav",
-    "hc": "SN",
-    "ld": "ltr",
     "pk": 5474,
-    "lr": "Africa",
     "lc": "sav",
+    "gw": false,
+    "ln": "Saafi-Saafi",
+    "ld": "ltr",
+    "ang": "Saafi-Saafi",
+    "hc": "SN",
+    "lr": "Africa",
     "cc": [
         "SN"
     ],
@@ -22,7 +24,5 @@
         "Hasab",
         "Sebikotane"
     ],
-    "ang": "Saafi-Saafi",
-    "gwcode": "fr",
-    "ln": "Saafi-Saafi"
+    "gwcode": "fr"
 }

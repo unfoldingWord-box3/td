@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kia",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 2883,
-    "lr": "Africa",
     "lc": "kia",
+    "gw": false,
+    "ln": "Kim",
+    "ld": "ltr",
+    "ang": "Kim",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -18,7 +20,5 @@
         "Garap (\u00c9r\u00e9)",
         "Kolobo"
     ],
-    "ang": "Kim",
-    "gwcode": "ar",
-    "ln": "Kim"
+    "gwcode": "ar"
 }

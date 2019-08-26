@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nps",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4612,
-    "lr": "Asia",
     "lc": "nps",
+    "gw": false,
+    "ln": "Nipsan",
+    "ld": "ltr",
+    "ang": "Nipsan",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Southern Jale",
         "Yale-Nipsan"
     ],
-    "ang": "Nipsan",
-    "gwcode": "id",
-    "ln": "Nipsan"
+    "gwcode": "id"
 }

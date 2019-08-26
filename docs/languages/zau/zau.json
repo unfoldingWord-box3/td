@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zau",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 7350,
-    "lr": "Asia",
     "lc": "zau",
+    "gw": false,
+    "ln": "Zangskari",
+    "ld": "ltr",
+    "ang": "Zangskari",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "PK",
         "IN"
@@ -14,7 +16,5 @@
         "Zanskari",
         "Zaskari"
     ],
-    "ang": "Zangskari",
-    "gwcode": "ur",
-    "ln": "Zangskari"
+    "gwcode": "ur"
 }

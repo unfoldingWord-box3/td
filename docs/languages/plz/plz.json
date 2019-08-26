@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "plz",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 5082,
-    "lr": "Asia",
     "lc": "plz",
+    "gw": false,
+    "ln": "Paluan",
+    "ld": "ltr",
+    "ang": "Paluan",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -14,7 +16,5 @@
         "Pandewan (Pandewan Murut)",
         "Makaheeliga (Makialiga)"
     ],
-    "ang": "Paluan",
-    "gwcode": "ms",
-    "ln": "Paluan"
+    "gwcode": "ms"
 }

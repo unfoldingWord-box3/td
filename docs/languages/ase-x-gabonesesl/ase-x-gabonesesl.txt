@@ -3,8 +3,10 @@
 Gabonese Sign Language
 ======================
 
-This language is spoken in the following countries:
+.. warning:: This language is not list as spoken in any countries.
 
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -12,7 +14,7 @@ This language is spoken in the following countries:
     alternate_names: []
     anglicanized_name: ''
     country_codes: []
-    gateway_language: UNKNOWN
+    gateway_language: ase
     lang_code: ase-x-gabonesesl
     lang_direction: ltr
     lang_name: Gabonese Sign Language

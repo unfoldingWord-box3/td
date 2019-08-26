@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * SY: Syrian Arab Republic
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: xhu
@@ -14,7 +16,7 @@ This language is spoken in the following countries:
     anglicanized_name: Hurrian
     country_codes:
     - SY
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: xhu
     lang_direction: ltr
     lang_name: Hurrian

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ahr",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 158,
-    "lr": "Asia",
     "lc": "ahr",
+    "gw": false,
+    "ln": "Ahirani",
+    "ld": "ltr",
+    "ang": "Ahirani",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "TR",
         "IN"
@@ -13,7 +15,5 @@
     "alt": [
         "Ahiri"
     ],
-    "ang": "Ahirani",
-    "gwcode": "mr",
-    "ln": "Ahirani"
+    "gwcode": "mr"
 }

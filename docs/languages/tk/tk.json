@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tuk",
-    "hc": "TM",
-    "ld": "rtl",
     "pk": 6152,
-    "lr": "Asia",
     "lc": "tk",
+    "gw": false,
+    "ln": "T\u00fcrkmen, \u0422\u04af\u0440\u043a\u043c\u0435\u043d",
+    "ld": "rtl",
+    "ang": "Turkmen",
+    "hc": "TM",
+    "lr": "Asia",
     "cc": [
         "AF",
         "IR",
@@ -40,7 +42,5 @@
         "Xatap",
         "Yomud (Yomut)"
     ],
-    "ang": "Turkmen",
-    "gwcode": "ru",
-    "ln": "T\u00fcrkmen, \u0422\u04af\u0440\u043a\u043c\u0435\u043d"
+    "gwcode": "ru"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yhd",
-    "hc": "IL",
-    "ld": "rtl",
     "pk": 7177,
-    "lr": "Asia",
     "lc": "yhd",
+    "gw": false,
+    "ln": "\u05e2\u05d9\u05e8\u05d0\u05e7\u05d9\u05ea \u05d9\u05d4\u05d5\u05d3\u05d9\u05ea",
+    "ld": "rtl",
+    "ang": "Arabic, Judeo-Iraqi",
+    "hc": "IL",
+    "lr": "Asia",
     "cc": [
         "IQ",
         "IL",
@@ -17,7 +19,5 @@
         "Jewish Iraqi-Baghdadi Arabic",
         "Yahudic"
     ],
-    "ang": "Arabic, Judeo-Iraqi",
-    "gwcode": "en",
-    "ln": "\u05e2\u05d9\u05e8\u05d0\u05e7\u05d9\u05ea \u05d9\u05d4\u05d5\u05d3\u05d9\u05ea"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pla",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5062,
-    "lr": "Pacific",
     "lc": "pla",
+    "gw": false,
+    "ln": "Miani",
+    "ld": "ltr",
+    "ang": "Miani",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Miani North",
         "Tani"
     ],
-    "ang": "Miani",
-    "gwcode": "tpi",
-    "ln": "Miani"
+    "gwcode": "tpi"
 }

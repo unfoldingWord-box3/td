@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mlp",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3940,
-    "lr": "Pacific",
     "lc": "mlp",
+    "gw": false,
+    "ln": "Bargam",
+    "ld": "ltr",
+    "ang": "Bargam",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Mugil",
         "Saker"
     ],
-    "ang": "Bargam",
-    "gwcode": "tpi",
-    "ln": "Bargam"
+    "gwcode": "tpi"
 }

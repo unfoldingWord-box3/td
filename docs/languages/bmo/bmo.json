@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bmo",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 794,
-    "lr": "Africa",
     "lc": "bmo",
+    "gw": false,
+    "ln": "Bambalang",
+    "ld": "ltr",
+    "ang": "Bambalang",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -17,7 +19,5 @@
         "Mboyakum",
         "Tshirambo"
     ],
-    "ang": "Bambalang",
-    "gwcode": "fr",
-    "ln": "Bambalang"
+    "gwcode": "fr"
 }

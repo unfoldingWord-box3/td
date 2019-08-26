@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kac",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 2696,
-    "lr": "Asia",
     "lc": "kac",
+    "gw": false,
+    "ln": "Kachin",
+    "ld": "ltr",
+    "ang": "Jingpho",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "CN",
         "US",
@@ -30,7 +32,5 @@
         "Dzili (Jili)",
         "Kauzhika"
     ],
-    "ang": "Jingpho",
-    "gwcode": "my",
-    "ln": "Kachin"
+    "gwcode": "my"
 }

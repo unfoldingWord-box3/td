@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fut",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 1894,
-    "lr": "Pacific",
     "lc": "fut",
+    "gw": false,
+    "ln": "Futuna-Aniwa",
+    "ld": "ltr",
+    "ang": "Futuna-Aniwa",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -15,7 +17,5 @@
         "Aniwa (Anewa)",
         "West Futuna (Fotuna)"
     ],
-    "ang": "Futuna-Aniwa",
-    "gwcode": "fr",
-    "ln": "Futuna-Aniwa"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "brd",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 902,
-    "lr": "Asia",
     "lc": "brd",
+    "gw": false,
+    "ln": "Baraamu",
+    "ld": "ltr",
+    "ang": "Baram",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Mailung",
         "Dandagaun"
     ],
-    "ang": "Baram",
-    "gwcode": "ne",
-    "ln": "Baraamu"
+    "gwcode": "ne"
 }

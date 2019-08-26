@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hoy",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2339,
-    "lr": "Asia",
     "lc": "hoy",
+    "gw": false,
+    "ln": "Holiya",
+    "ld": "ltr",
+    "ang": "Holiya",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -17,7 +19,5 @@
         "Holian",
         "Holu"
     ],
-    "ang": "Holiya",
-    "gwcode": "kn",
-    "ln": "Holiya"
+    "gwcode": "kn"
 }

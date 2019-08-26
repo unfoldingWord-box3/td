@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pbg",
-    "hc": "VE",
-    "ld": "ltr",
     "pk": 4943,
-    "lr": "Americas",
     "lc": "pbg",
+    "gw": false,
+    "ln": "Paraujano",
+    "ld": "ltr",
+    "ang": "Paraujano",
+    "hc": "VE",
+    "lr": "Americas",
     "cc": [
         "VE"
     ],
@@ -14,7 +16,5 @@
         "Anun",
         "Parahujano"
     ],
-    "ang": "Paraujano",
-    "gwcode": "es-419",
-    "ln": "Paraujano"
+    "gwcode": "es-419"
 }

@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * SD: Sudan
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: dec
@@ -22,7 +24,7 @@ This language is spoken in the following countries:
     anglicanized_name: Dagik
     country_codes:
     - SD
-    gateway_language: UNKNOWN
+    gateway_language: apd
     lang_code: dec
     lang_direction: ltr
     lang_name: Dagik

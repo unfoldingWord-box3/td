@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jiq",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2624,
-    "lr": "Asia",
     "lc": "jiq",
+    "gw": false,
+    "ln": "\u7ef0\u65af\u7532\u8bed",
+    "ld": "ltr",
+    "ang": "Lavrung",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -21,7 +23,5 @@
         "Xiaoyili",
         "Yelong"
     ],
-    "ang": "Lavrung",
-    "gwcode": "zh",
-    "ln": "\u7ef0\u65af\u7532\u8bed"
+    "gwcode": "zh"
 }

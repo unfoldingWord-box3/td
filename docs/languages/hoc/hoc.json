@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hoc",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2327,
-    "lr": "Asia",
     "lc": "hoc",
+    "gw": false,
+    "ln": "Ho",
+    "ld": "ltr",
+    "ang": "Ho",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN"
@@ -14,7 +16,5 @@
         "Bihar Ho",
         "Lanka Kol"
     ],
-    "ang": "Ho",
-    "gwcode": "hi",
-    "ln": "Ho"
+    "gwcode": "hi"
 }

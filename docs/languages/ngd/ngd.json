@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ngd",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 4412,
-    "lr": "Africa",
     "lc": "ngd",
+    "gw": false,
+    "ln": "Ngando (Central African Republic)",
+    "ld": "ltr",
+    "ang": "Ngando",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF"
     ],
@@ -17,7 +19,5 @@
         "Ngando-Kota",
         "Dikota (Kota)"
     ],
-    "ang": "Ngando",
-    "gwcode": "fr",
-    "ln": "Ngando (Central African Republic)"
+    "gwcode": "fr"
 }

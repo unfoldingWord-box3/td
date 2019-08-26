@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mnd",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 3978,
-    "lr": "Americas",
     "lc": "mnd",
+    "gw": false,
+    "ln": "Mond\u00e9",
+    "ld": "ltr",
+    "ang": "Mond\u00e9",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -16,7 +18,5 @@
         "Sanamaik\u00e1",
         "Sanamayk\u00e3"
     ],
-    "ang": "Mond\u00e9",
-    "gwcode": "pt",
-    "ln": "Mond\u00e9"
+    "gwcode": "pt"
 }

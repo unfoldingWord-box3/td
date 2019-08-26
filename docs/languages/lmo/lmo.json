@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lmo",
-    "hc": "IT",
-    "ld": "ltr",
     "pk": 3525,
-    "lr": "Europe",
     "lc": "lmo",
+    "gw": false,
+    "ln": "Lombard",
+    "ld": "ltr",
+    "ang": "Lombard",
+    "hc": "IT",
+    "lr": "Europe",
     "cc": [
         "CH",
         "IT"
@@ -22,7 +24,5 @@
         "Ticinees",
         "Ticino"
     ],
-    "ang": "Lombard",
-    "gwcode": "en",
-    "ln": "Lombard"
+    "gwcode": "en"
 }

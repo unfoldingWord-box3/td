@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "amu",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 253,
-    "lr": "Americas",
     "lc": "amu",
+    "gw": false,
+    "ln": "Guerrero Amuzgo",
+    "ld": "ltr",
+    "ang": "Amuzgo, Guerrero",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "Nomndaa",
         "\u00d1omndaa"
     ],
-    "ang": "Amuzgo, Guerrero",
-    "gwcode": "es-419",
-    "ln": "Guerrero Amuzgo"
+    "gwcode": "es-419"
 }

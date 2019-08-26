@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "uve",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 6572,
-    "lr": "Pacific",
     "lc": "uve",
+    "gw": false,
+    "ln": "West Uvean",
+    "ld": "ltr",
+    "ang": "Fagauvea",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -14,7 +16,5 @@
         "Faga-Uvea",
         "West Uvean"
     ],
-    "ang": "Fagauvea",
-    "gwcode": "en",
-    "ln": "West Uvean"
+    "gwcode": "en"
 }

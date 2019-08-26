@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "iwo",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2553,
-    "lr": "Asia",
     "lc": "iwo",
+    "gw": false,
+    "ln": "Iwur",
+    "ld": "ltr",
+    "ang": "Morop",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Dintere",
         "Nemah/Nehayah"
     ],
-    "ang": "Morop",
-    "gwcode": "id",
-    "ln": "Iwur"
+    "gwcode": "id"
 }

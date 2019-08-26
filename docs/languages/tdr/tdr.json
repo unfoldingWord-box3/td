@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tdr",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 6045,
-    "lr": "Asia",
     "lc": "tdr",
+    "gw": false,
+    "ln": "T\u01a1-\u0111r\u00e1",
+    "ld": "ltr",
+    "ang": "Todrah",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -17,7 +19,5 @@
         "Podra",
         "Todr\u00e1"
     ],
-    "ang": "Todrah",
-    "gwcode": "vi",
-    "ln": "T\u01a1-\u0111r\u00e1"
+    "gwcode": "vi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cmo",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 1268,
-    "lr": "Asia",
     "lc": "cmo",
+    "gw": false,
+    "ln": "Central Mnong",
+    "ld": "ltr",
+    "ang": "Mnong, Central",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "KH",
         "VN"
@@ -22,7 +24,5 @@
         "Dih Bri (Di-Pri)",
         "Pr\u00e9h (Pre)"
     ],
-    "ang": "Mnong, Central",
-    "gwcode": "vi",
-    "ln": "Central Mnong"
+    "gwcode": "vi"
 }

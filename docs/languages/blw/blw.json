@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "blw",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 776,
-    "lr": "Asia",
     "lc": "blw",
+    "gw": false,
+    "ln": "Balangao",
+    "ld": "ltr",
+    "ang": "Balangao",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -14,7 +16,5 @@
         "Balangaw",
         "Farangao"
     ],
-    "ang": "Balangao",
-    "gwcode": "ilo",
-    "ln": "Balangao"
+    "gwcode": "ilo"
 }

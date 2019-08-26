@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bbq",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 524,
-    "lr": "Africa",
     "lc": "bbq",
+    "gw": false,
+    "ln": "Bamali",
+    "ld": "ltr",
+    "ang": "Bamali",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -13,7 +15,5 @@
         "Chopechop",
         "Ngoobechop"
     ],
-    "ang": "Bamali",
-    "gwcode": "fr",
-    "ln": "Bamali"
+    "gwcode": "fr"
 }

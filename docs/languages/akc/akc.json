@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "akc",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 192,
-    "lr": "Asia",
     "lc": "akc",
+    "gw": false,
+    "ln": "Mpur",
+    "ld": "ltr",
+    "ang": "Mpur",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Dekwambre",
         "Ekware"
     ],
-    "ang": "Mpur",
-    "gwcode": "id",
-    "ln": "Mpur"
+    "gwcode": "id"
 }

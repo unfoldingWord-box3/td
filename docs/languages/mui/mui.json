@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mui",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4153,
-    "lr": "Asia",
     "lc": "mui",
+    "gw": false,
+    "ln": "Musi",
+    "ld": "ltr",
+    "ang": "Musi",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -22,7 +24,5 @@
         "Belide",
         "Lematang Ilir"
     ],
-    "ang": "Musi",
-    "gwcode": "id",
-    "ln": "Musi"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tds",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6046,
-    "lr": "Asia",
     "lc": "tds",
+    "gw": false,
+    "ln": "Doutai",
+    "ld": "ltr",
+    "ang": "Doutai",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Taori-So",
         "Tolitai"
     ],
-    "ang": "Doutai",
-    "gwcode": "id",
-    "ln": "Doutai"
+    "gwcode": "id"
 }

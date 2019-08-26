@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kep",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2798,
-    "lr": "Asia",
     "lc": "kep",
+    "gw": false,
+    "ln": "Kaikadi",
+    "ld": "ltr",
+    "ang": "Kaikadi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Kaikai",
         "Kokadi"
     ],
-    "ang": "Kaikadi",
-    "gwcode": "ta",
-    "ln": "Kaikadi"
+    "gwcode": "ta"
 }

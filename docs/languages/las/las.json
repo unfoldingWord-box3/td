@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "las",
-    "hc": "TG",
-    "ld": "ltr",
     "pk": 3351,
-    "lr": "Africa",
     "lc": "las",
+    "gw": false,
+    "ln": "Lama (Togo)",
+    "ld": "ltr",
+    "ang": "Lama",
+    "hc": "TG",
+    "lr": "Africa",
     "cc": [
         "TG"
     ],
@@ -15,7 +17,5 @@
         "Kande (Kante)",
         "Kadjala (Kadjalla)"
     ],
-    "ang": "Lama",
-    "gwcode": "fr",
-    "ln": "Lama (Togo)"
+    "gwcode": "fr"
 }

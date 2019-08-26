@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aem",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 98,
-    "lr": "Asia",
     "lc": "aem",
+    "gw": false,
+    "ln": "Arem",
+    "ld": "ltr",
+    "ang": "Arem",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -15,7 +17,5 @@
         "Umo",
         "A-Rem"
     ],
-    "ang": "Arem",
-    "gwcode": "vi",
-    "ln": "Arem"
+    "gwcode": "vi"
 }

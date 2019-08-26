@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mhy",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3851,
-    "lr": "Asia",
     "lc": "mhy",
+    "gw": false,
+    "ln": "Ma'anyan",
+    "ld": "ltr",
+    "ang": "Ma\u2019anyan",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Samihim (Buluh Kuning)",
         "Sihong (Siong)"
     ],
-    "ang": "Ma\u2019anyan",
-    "gwcode": "id",
-    "ln": "Ma'anyan"
+    "gwcode": "id"
 }

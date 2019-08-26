@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "daa",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 1421,
-    "lr": "Africa",
     "lc": "daa",
+    "gw": false,
+    "ln": "Dangal\u00e9at",
+    "ld": "ltr",
+    "ang": "Dangal\u00e9at",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -18,7 +20,5 @@
         "Korbo",
         "West Dangal\u00e9at (Karbo)"
     ],
-    "ang": "Dangal\u00e9at",
-    "gwcode": "ar",
-    "ln": "Dangal\u00e9at"
+    "gwcode": "ar"
 }

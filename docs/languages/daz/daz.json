@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "daz",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1440,
-    "lr": "Asia",
     "lc": "daz",
+    "gw": false,
+    "ln": "Dao",
+    "ld": "ltr",
+    "ang": "Dao",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Maniwo",
         "X-Ray"
     ],
-    "ang": "Dao",
-    "gwcode": "id",
-    "ln": "Dao"
+    "gwcode": "id"
 }

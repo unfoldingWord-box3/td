@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dis",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1536,
-    "lr": "Asia",
     "lc": "dis",
+    "gw": false,
+    "ln": "Dimasa",
+    "ld": "ltr",
+    "ang": "Dimasa",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Dimasa Kachari",
         "Hills Kachari"
     ],
-    "ang": "Dimasa",
-    "gwcode": "as",
-    "ln": "Dimasa"
+    "gwcode": "as"
 }

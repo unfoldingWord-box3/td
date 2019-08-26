@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "beg",
-    "hc": "BN",
-    "ld": "ltr",
     "pk": 592,
-    "lr": "Asia",
     "lc": "beg",
+    "gw": false,
+    "ln": "Belait",
+    "ld": "ltr",
+    "ang": "Belait",
+    "hc": "BN",
+    "lr": "Asia",
     "cc": [
         "BN"
     ],
@@ -14,7 +16,5 @@
         "Lemeting",
         "Meting"
     ],
-    "ang": "Belait",
-    "gwcode": "ms",
-    "ln": "Belait"
+    "gwcode": "ms"
 }

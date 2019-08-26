@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aec",
-    "hc": "EG",
-    "ld": "rtl",
     "pk": 93,
-    "lr": "Africa",
     "lc": "aec",
+    "gw": false,
+    "ln": "\u0644\u0647\u062c\u0629 \u0635\u0639\u064a\u062f\u064a\u0629",
+    "ld": "rtl",
+    "ang": "Arabic, Sa\u2019idi Spoken",
+    "hc": "EG",
+    "lr": "Africa",
     "cc": [
         "FR",
         "EG"
@@ -13,7 +15,5 @@
     "alt": [
         "Sa'idi"
     ],
-    "ang": "Arabic, Sa\u2019idi Spoken",
-    "gwcode": "ar",
-    "ln": "\u0644\u0647\u062c\u0629 \u0635\u0639\u064a\u062f\u064a\u0629"
+    "gwcode": "ar"
 }

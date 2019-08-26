@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nzi",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 4749,
-    "lr": "Africa",
     "lc": "nzi",
+    "gw": false,
+    "ln": "Nzima",
+    "ld": "ltr",
+    "ang": "Nzema",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -14,7 +16,5 @@
         "Nzima",
         "Evalue"
     ],
-    "ang": "Nzema",
-    "gwcode": "en",
-    "ln": "Nzima"
+    "gwcode": "en"
 }

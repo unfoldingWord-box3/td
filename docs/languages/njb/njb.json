@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "njb",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4479,
-    "lr": "Asia",
     "lc": "njb",
+    "gw": false,
+    "ln": "Nocte Naga",
+    "ld": "ltr",
+    "ang": "Naga, Nocte",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -20,7 +22,5 @@
         "Khapa",
         "Ponthai (Lamlak)"
     ],
-    "ang": "Naga, Nocte",
-    "gwcode": "en",
-    "ln": "Nocte Naga"
+    "gwcode": "en"
 }

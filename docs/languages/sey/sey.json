@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sey",
-    "hc": "EC",
-    "ld": "ltr",
     "pk": 5564,
-    "lr": "Americas",
     "lc": "sey",
+    "gw": false,
+    "ln": "Secoya",
+    "ld": "ltr",
+    "ang": "Secoya",
+    "hc": "EC",
+    "lr": "Americas",
     "cc": [
         "PE",
         "EC"
@@ -14,7 +16,5 @@
         "Encabellao",
         "Pioj\u00e9"
     ],
-    "ang": "Secoya",
-    "gwcode": "es-419",
-    "ln": "Secoya"
+    "gwcode": "es-419"
 }

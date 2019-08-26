@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mdw",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 3749,
-    "lr": "Africa",
     "lc": "mdw",
+    "gw": false,
+    "ln": "Mbosi",
+    "ld": "ltr",
+    "ang": "Mbosi",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CG"
     ],
@@ -14,7 +16,5 @@
         "Mboshe",
         "Mboshi"
     ],
-    "ang": "Mbosi",
-    "gwcode": "fr",
-    "ln": "Mbosi"
+    "gwcode": "fr"
 }

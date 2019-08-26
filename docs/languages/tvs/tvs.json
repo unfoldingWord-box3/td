@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tvs",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 6399,
-    "lr": "Africa",
     "lc": "tvs",
+    "gw": false,
+    "ln": "Taveta",
+    "ld": "ltr",
+    "ang": "Taveta",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE",
         "TZ"
@@ -15,7 +17,5 @@
         "Kitubeta",
         "Tubeta"
     ],
-    "ang": "Taveta",
-    "gwcode": "sw",
-    "ln": "Taveta"
+    "gwcode": "sw"
 }

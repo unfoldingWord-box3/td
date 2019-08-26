@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "thl",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 6108,
-    "lr": "Asia",
     "lc": "thl",
+    "gw": false,
+    "ln": "Dangaura Tharu",
+    "ld": "ltr",
+    "ang": "Tharu, Dangaura",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -20,7 +22,5 @@
         "Dangauli",
         "Dangaha (Dang)"
     ],
-    "ang": "Tharu, Dangaura",
-    "gwcode": "ne",
-    "ln": "Dangaura Tharu"
+    "gwcode": "ne"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lsm",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 3600,
-    "lr": "Africa",
     "lc": "lsm",
+    "gw": false,
+    "ln": "Saamia",
+    "ld": "ltr",
+    "ang": "Saamia",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "UG"
     ],
@@ -15,7 +17,5 @@
         "Gwe (Lugwe)",
         "Saamia (Samia)"
     ],
-    "ang": "Saamia",
-    "gwcode": "en",
-    "ln": "Saamia"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "blt",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 774,
-    "lr": "Asia",
     "lc": "blt",
+    "gw": false,
+    "ln": "Tai Dam",
+    "ld": "ltr",
+    "ang": "Tai Dam",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "FR",
@@ -31,7 +33,5 @@
         "Tay Mueai",
         "T\u00e1y Mu'\u00f2'i (Meuay)"
     ],
-    "ang": "Tai Dam",
-    "gwcode": "vi",
-    "ln": "Tai Dam"
+    "gwcode": "vi"
 }

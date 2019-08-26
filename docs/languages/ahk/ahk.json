@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ahk",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 152,
-    "lr": "Asia",
     "lc": "ahk",
+    "gw": false,
+    "ln": "Akha",
+    "ld": "ltr",
+    "ang": "Akha",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "CN",
         "LA",
@@ -29,7 +31,5 @@
         "Hka Ko",
         "Khao Ikor"
     ],
-    "ang": "Akha",
-    "gwcode": "my",
-    "ln": "Akha"
+    "gwcode": "my"
 }

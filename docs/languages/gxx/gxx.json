@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gxx",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 2203,
-    "lr": "Africa",
     "lc": "gxx",
+    "gw": false,
+    "ln": "W\u00e8 Southern",
+    "ld": "ltr",
+    "ang": "W\u00e8 Southern",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -19,7 +21,5 @@
         "Gboo (Gbobo)",
         "Neao (Neabo)"
     ],
-    "ang": "W\u00e8 Southern",
-    "gwcode": "fr",
-    "ln": "W\u00e8 Southern"
+    "gwcode": "fr"
 }

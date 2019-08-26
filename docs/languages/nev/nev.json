@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nev",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 4398,
-    "lr": "Asia",
     "lc": "nev",
+    "gw": false,
+    "ln": "Nyaheun",
+    "ld": "ltr",
+    "ang": "Nyaheun",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA"
     ],
@@ -20,7 +22,5 @@
         "Nyah\u00f6n",
         "Yaheun"
     ],
-    "ang": "Nyaheun",
-    "gwcode": "lo",
-    "ln": "Nyaheun"
+    "gwcode": "lo"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ngr",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 4425,
-    "lr": "Pacific",
     "lc": "ngr",
+    "gw": false,
+    "ln": "Engdewu",
+    "ld": "ltr",
+    "ang": "Engdewu",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -13,7 +15,5 @@
         "Nagu",
         "Nangu"
     ],
-    "ang": "Engdewu",
-    "gwcode": "UNKNOWN",
-    "ln": "Engdewu"
+    "gwcode": "pis"
 }

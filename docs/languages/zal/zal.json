@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zal",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7342,
-    "lr": "Asia",
     "lc": "zal",
+    "gw": false,
+    "ln": "\u67d4\u82e5",
+    "ld": "ltr",
+    "ang": "Zauzou",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -16,7 +18,5 @@
         "Wupijiang",
         "Bijilan"
     ],
-    "ang": "Zauzou",
-    "gwcode": "zh",
-    "ln": "\u67d4\u82e5"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cof",
-    "hc": "EC",
-    "ld": "ltr",
     "pk": 1292,
-    "lr": "Americas",
     "lc": "cof",
+    "gw": false,
+    "ln": "Colorado",
+    "ld": "ltr",
+    "ang": "Colorado",
+    "hc": "EC",
+    "lr": "Americas",
     "cc": [
         "EC"
     ],
@@ -14,7 +16,5 @@
         "Tsafiki",
         "Tsafiqui"
     ],
-    "ang": "Colorado",
-    "gwcode": "es-419",
-    "ln": "Colorado"
+    "gwcode": "es-419"
 }

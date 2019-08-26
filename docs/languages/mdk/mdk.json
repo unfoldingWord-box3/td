@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mdk",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3738,
-    "lr": "Africa",
     "lc": "mdk",
+    "gw": false,
+    "ln": "Mangbutu",
+    "ld": "ltr",
+    "ang": "Mangbutu",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Wambutu",
         "Angwe (Andali)"
     ],
-    "ang": "Mangbutu",
-    "gwcode": "fr",
-    "ln": "Mangbutu"
+    "gwcode": "fr"
 }

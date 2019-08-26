@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kmr",
-    "hc": "TR",
-    "ld": "ltr",
     "pk": 3004,
-    "lr": "Asia",
     "lc": "kmr",
+    "gw": false,
+    "ln": "Northern Kurdish",
+    "ld": "ltr",
+    "ang": "Kurdish, Northern",
+    "hc": "TR",
+    "lr": "Asia",
     "cc": [
         "AM",
         "AZ",
@@ -60,7 +62,5 @@
         "Ashiti",
         "Marashi"
     ],
-    "ang": "Kurdish, Northern",
-    "gwcode": "tr",
-    "ln": "Northern Kurdish"
+    "gwcode": "tr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mjn",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3888,
-    "lr": "Pacific",
     "lc": "mjn",
+    "gw": false,
+    "ln": "Ma (Papua New Guinea)",
+    "ld": "ltr",
+    "ang": "Ma",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Mawam",
         "Mina"
     ],
-    "ang": "Ma",
-    "gwcode": "tpi",
-    "ln": "Ma (Papua New Guinea)"
+    "gwcode": "tpi"
 }

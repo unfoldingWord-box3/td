@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wbe",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6691,
-    "lr": "Asia",
     "lc": "wbe",
+    "gw": false,
+    "ln": "Waritai",
+    "ld": "ltr",
+    "ang": "Waritai",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Wari",
         "Weretai"
     ],
-    "ang": "Waritai",
-    "gwcode": "id",
-    "ln": "Waritai"
+    "gwcode": "id"
 }

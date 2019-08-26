@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bwq",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 1033,
-    "lr": "Africa",
     "lc": "bwq",
+    "gw": false,
+    "ln": "Southern Bobo Madar\u00e9",
+    "ld": "ltr",
+    "ang": "Bobo Madar\u00e9, Southern",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -18,7 +20,5 @@
         "Syab\u00e9r\u00e9 (Sya)",
         "Zara (Bobo Dioula)"
     ],
-    "ang": "Bobo Madar\u00e9, Southern",
-    "gwcode": "fr",
-    "ln": "Southern Bobo Madar\u00e9"
+    "gwcode": "fr"
 }

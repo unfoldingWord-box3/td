@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nhx",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4453,
-    "lr": "Americas",
     "lc": "nhx",
+    "gw": false,
+    "ln": "Isthmus-Mecayapan Nahuatl",
+    "ld": "ltr",
+    "ang": "Nahuatl, Isthmus-Mecayapan",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Isthmus Aztec-Mecayapan",
         "N\u00e1huat de Mecayapan"
     ],
-    "ang": "Nahuatl, Isthmus-Mecayapan",
-    "gwcode": "es-419",
-    "ln": "Isthmus-Mecayapan Nahuatl"
+    "gwcode": "es-419"
 }

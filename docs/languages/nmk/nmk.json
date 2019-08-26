@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nmk",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 4544,
-    "lr": "Pacific",
     "lc": "nmk",
+    "gw": false,
+    "ln": "Namakura",
+    "ld": "ltr",
+    "ang": "Namakura",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -13,7 +15,5 @@
         "Namakir",
         "Makura (Emwae Island)"
     ],
-    "ang": "Namakura",
-    "gwcode": "fr",
-    "ln": "Namakura"
+    "gwcode": "fr"
 }

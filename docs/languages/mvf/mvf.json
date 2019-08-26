@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mvf",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 4173,
-    "lr": "Asia",
     "lc": "mvf",
+    "gw": false,
+    "ln": "\u5468\u8fb9\u8499\u53e4\u8bed",
+    "ld": "ltr",
+    "ang": "Mongolian, Peripheral",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "US"
@@ -41,7 +43,5 @@
         "Ke'erqin",
         "Chakhar"
     ],
-    "ang": "Mongolian, Peripheral",
-    "gwcode": "zh",
-    "ln": "\u5468\u8fb9\u8499\u53e4\u8bed"
+    "gwcode": "zh"
 }

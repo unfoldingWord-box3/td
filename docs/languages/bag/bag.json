@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bag",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 494,
-    "lr": "Africa",
     "lc": "bag",
+    "gw": false,
+    "ln": "Tuki",
+    "ld": "ltr",
+    "ang": "Tuki",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -38,7 +40,5 @@
         "Ngoro (Aki)",
         "Bunju"
     ],
-    "ang": "Tuki",
-    "gwcode": "fr",
-    "ln": "Tuki"
+    "gwcode": "fr"
 }

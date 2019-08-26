@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "usk",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 6561,
-    "lr": "Africa",
     "lc": "usk",
+    "gw": false,
+    "ln": "Usaghade",
+    "ld": "ltr",
+    "ang": "Usaghade",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -15,7 +17,5 @@
         "Usakade",
         "Usakedet"
     ],
-    "ang": "Usaghade",
-    "gwcode": "fr",
-    "ln": "Usaghade"
+    "gwcode": "fr"
 }

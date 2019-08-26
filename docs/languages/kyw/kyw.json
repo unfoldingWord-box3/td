@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kyw",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3305,
-    "lr": "Asia",
     "lc": "kyw",
+    "gw": false,
+    "ln": "Kudmali",
+    "ld": "ltr",
+    "ang": "Kudmali",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -17,7 +19,5 @@
         "Kurmali Thar",
         "Kurumali"
     ],
-    "ang": "Kudmali",
-    "gwcode": "hi",
-    "ln": "Kudmali"
+    "gwcode": "hi"
 }

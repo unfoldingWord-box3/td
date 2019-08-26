@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "itr",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2539,
-    "lr": "Pacific",
     "lc": "itr",
+    "gw": false,
+    "ln": "Iteri",
+    "ld": "ltr",
+    "ang": "Iteri",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Rocky Peak",
         "Yinibu"
     ],
-    "ang": "Iteri",
-    "gwcode": "tpi",
-    "ln": "Iteri"
+    "gwcode": "tpi"
 }

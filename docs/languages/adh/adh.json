@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "adh",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 77,
-    "lr": "Africa",
     "lc": "adh",
+    "gw": false,
+    "ln": "Adhola",
+    "ld": "ltr",
+    "ang": "Adhola",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "KE",
         "UG"
@@ -13,7 +15,5 @@
     "alt": [
         "Dhopadhola"
     ],
-    "ang": "Adhola",
-    "gwcode": "en",
-    "ln": "Adhola"
+    "gwcode": "en"
 }

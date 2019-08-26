@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "tur",
-    "hc": "TR",
-    "ld": "ltr",
     "pk": 6298,
-    "lr": "Asia",
     "lc": "tr",
+    "gw": true,
+    "ln": "T\u00fcrk\u00e7e",
+    "ld": "ltr",
+    "ang": "Turkish",
+    "hc": "TR",
+    "lr": "Asia",
     "cc": [
         "AZ",
         "AT",
@@ -48,7 +50,5 @@
         "T\u00fcrk\u00e7e",
         "T\u00fcrkisch"
     ],
-    "ang": "Turkish",
-    "gwcode": "UNKNOWN",
-    "ln": "T\u00fcrk\u00e7e"
+    "gwcode": null
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cna",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1272,
-    "lr": "Asia",
     "lc": "cna",
+    "gw": false,
+    "ln": "Changthang",
+    "ld": "ltr",
+    "ang": "Changthang",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -20,7 +22,5 @@
         "Stotpa",
         "Upper Ladakhi"
     ],
-    "ang": "Changthang",
-    "gwcode": "UNKNOWN",
-    "ln": "Changthang"
+    "gwcode": "lbj"
 }

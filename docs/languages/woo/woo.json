@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "woo",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6799,
-    "lr": "Asia",
     "lc": "woo",
+    "gw": false,
+    "ln": "Manombai",
+    "ld": "ltr",
+    "ang": "Manombai",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Wamar",
         "Wokam"
     ],
-    "ang": "Manombai",
-    "gwcode": "id",
-    "ln": "Manombai"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sba",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 5479,
-    "lr": "Africa",
     "lc": "sba",
+    "gw": false,
+    "ln": "Ngambay",
+    "ld": "ltr",
+    "ang": "Ngambay",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "TD"
@@ -21,7 +23,5 @@
         "Murum (Mouroum)",
         "Bemar (Daba de Gor\u00e9)"
     ],
-    "ang": "Ngambay",
-    "gwcode": "ar",
-    "ln": "Ngambay"
+    "gwcode": "ar"
 }

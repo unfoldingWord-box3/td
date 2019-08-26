@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lbz",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 3378,
-    "lr": "Pacific",
     "lc": "lbz",
+    "gw": false,
+    "ln": "Lardil",
+    "ld": "ltr",
+    "ang": "Lardil",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Laierdila",
         "Lardill"
     ],
-    "ang": "Lardil",
-    "gwcode": "en",
-    "ln": "Lardil"
+    "gwcode": "en"
 }

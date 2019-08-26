@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bhp",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 674,
-    "lr": "Asia",
     "lc": "bhp",
+    "gw": false,
+    "ln": "Bima",
+    "ld": "ltr",
+    "ang": "Bima",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Bimanese",
         "Sangar (Sanggar)"
     ],
-    "ang": "Bima",
-    "gwcode": "id",
-    "ln": "Bima"
+    "gwcode": "id"
 }

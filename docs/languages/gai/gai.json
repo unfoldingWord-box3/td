@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gai",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1911,
-    "lr": "Pacific",
     "lc": "gai",
+    "gw": false,
+    "ln": "Borei",
+    "ld": "ltr",
+    "ang": "Mbore",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Gamei",
         "Mborei"
     ],
-    "ang": "Mbore",
-    "gwcode": "tpi",
-    "ln": "Borei"
+    "gwcode": "tpi"
 }

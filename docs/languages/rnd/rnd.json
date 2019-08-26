@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rnd",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 5399,
-    "lr": "Africa",
     "lc": "rnd",
+    "gw": false,
+    "ln": "Ruund",
+    "ld": "ltr",
+    "ang": "Ruund",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -19,7 +21,5 @@
         "Lunda-Kamboro",
         "Luwunda"
     ],
-    "ang": "Ruund",
-    "gwcode": "fr",
-    "ln": "Ruund"
+    "gwcode": "fr"
 }

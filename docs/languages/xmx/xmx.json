@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xmx",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6988,
-    "lr": "Asia",
     "lc": "xmx",
+    "gw": false,
+    "ln": "Maden",
+    "ld": "ltr",
+    "ang": "Maden",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Sapran",
         "Kawait"
     ],
-    "ang": "Maden",
-    "gwcode": "id",
-    "ln": "Maden"
+    "gwcode": "id"
 }

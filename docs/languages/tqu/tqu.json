@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tqu",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 6296,
-    "lr": "Pacific",
     "lc": "tqu",
+    "gw": false,
+    "ln": "Touo",
+    "ld": "ltr",
+    "ang": "Touo",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -14,7 +16,5 @@
         "Lokuru",
         "Mbaniata"
     ],
-    "ang": "Touo",
-    "gwcode": "UNKNOWN",
-    "ln": "Touo"
+    "gwcode": "pis"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rgn",
-    "hc": "IT",
-    "ld": "ltr",
     "pk": 5350,
-    "lr": "Europe",
     "lc": "rgn",
+    "gw": false,
+    "ln": "Romagnol",
+    "ld": "ltr",
+    "ang": "Romagnol",
+    "hc": "IT",
+    "lr": "Europe",
     "cc": [
         "SM",
         "IT"
@@ -13,7 +15,5 @@
     "alt": [
         "Emiliano-Romagnolo"
     ],
-    "ang": "Romagnol",
-    "gwcode": "en",
-    "ln": "Romagnol"
+    "gwcode": "en"
 }

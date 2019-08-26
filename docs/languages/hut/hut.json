@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hut",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 2382,
-    "lr": "Asia",
     "lc": "hut",
+    "gw": false,
+    "ln": "Humla",
+    "ld": "ltr",
+    "ang": "Humla",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -19,7 +21,5 @@
         "La Yakba",
         "Limi"
     ],
-    "ang": "Humla",
-    "gwcode": "ne",
-    "ln": "Humla"
+    "gwcode": "ne"
 }

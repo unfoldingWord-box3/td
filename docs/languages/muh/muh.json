@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "muh",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 4152,
-    "lr": "Africa",
     "lc": "muh",
+    "gw": false,
+    "ln": "M\u00fcnd\u00fc",
+    "ld": "ltr",
+    "ang": "M\u00fcnd\u00fc",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -15,7 +17,5 @@
         "Mundo",
         "Mondu"
     ],
-    "ang": "M\u00fcnd\u00fc",
-    "gwcode": "ar",
-    "ln": "M\u00fcnd\u00fc"
+    "gwcode": "ar"
 }

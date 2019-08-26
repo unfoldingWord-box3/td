@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fao",
-    "hc": "DK",
-    "ld": "ltr",
     "pk": 1859,
-    "lr": "Europe",
     "lc": "fo",
+    "gw": false,
+    "ln": "f\u00f8royskt",
+    "ld": "ltr",
+    "ang": "Faroese",
+    "hc": "DK",
+    "lr": "Europe",
     "cc": [
         "FO",
         "DK"
@@ -13,7 +15,5 @@
     "alt": [
         "F\u00f8royskt"
     ],
-    "ang": "Faroese",
-    "gwcode": "en",
-    "ln": "f\u00f8royskt"
+    "gwcode": "en"
 }

@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * ID: Indonesia
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: txn
@@ -16,7 +18,7 @@ This language is spoken in the following countries:
     anglicanized_name: Tarangan, West
     country_codes:
     - ID
-    gateway_language: UNKNOWN
+    gateway_language: abs
     lang_code: txn
     lang_direction: ltr
     lang_name: West Tarangan

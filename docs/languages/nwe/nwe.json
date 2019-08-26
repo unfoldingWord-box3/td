@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nwe",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4706,
-    "lr": "Africa",
     "lc": "nwe",
+    "gw": false,
+    "ln": "Ngwe",
+    "ld": "ltr",
+    "ang": "Ngwe",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -16,7 +18,5 @@
         "Nwe",
         "Nweh"
     ],
-    "ang": "Ngwe",
-    "gwcode": "fr",
-    "ln": "Ngwe"
+    "gwcode": "fr"
 }

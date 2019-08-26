@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xte",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 7059,
-    "lr": "Asia",
     "lc": "xte",
+    "gw": false,
+    "ln": "Ketengban",
+    "ld": "ltr",
+    "ang": "Ketengban",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Kupel",
         "Oktengban"
     ],
-    "ang": "Ketengban",
-    "gwcode": "id",
-    "ln": "Ketengban"
+    "gwcode": "id"
 }

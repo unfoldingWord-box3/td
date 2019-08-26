@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "npo",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4611,
-    "lr": "Asia",
     "lc": "npo",
+    "gw": false,
+    "ln": "Pochuri Naga",
+    "ld": "ltr",
+    "ang": "Naga, Pochuri",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Pochuri",
         "Pochury"
     ],
-    "ang": "Naga, Pochuri",
-    "gwcode": "en",
-    "ln": "Pochuri Naga"
+    "gwcode": "en"
 }

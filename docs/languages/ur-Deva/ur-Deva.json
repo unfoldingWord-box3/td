@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 7510,
-    "lr": "Asia",
     "lc": "ur-Deva",
+    "gw": false,
+    "ln": "Urdu Devanagari script",
+    "ld": "ltr",
+    "ang": "Urdu Devanagari script",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
     "alt": [],
-    "ang": "Urdu Devanagari script",
-    "gwcode": "hi",
-    "ln": "Urdu Devanagari script"
+    "gwcode": "hi"
 }

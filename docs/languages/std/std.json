@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "std",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5854,
-    "lr": "Asia",
     "lc": "std",
+    "gw": false,
+    "ln": "Sentinel",
+    "ld": "ltr",
+    "ang": "Sentinel",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
     "alt": [
         "Sentinelese"
     ],
-    "ang": "Sentinel",
-    "gwcode": "hi",
-    "ln": "Sentinel"
+    "gwcode": "hi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ytp",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7289,
-    "lr": "Asia",
     "lc": "ytp",
+    "gw": false,
+    "ln": "Thopho",
+    "ld": "ltr",
+    "ang": "Thopho",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -15,7 +17,5 @@
         "Hei Mao Ren",
         "Phula"
     ],
-    "ang": "Thopho",
-    "gwcode": "zh",
-    "ln": "Thopho"
+    "gwcode": "zh"
 }

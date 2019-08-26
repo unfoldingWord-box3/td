@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "UNKNOWN",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4,
-    "lr": "Americas",
     "lc": "pt-br",
+    "gw": true,
+    "ln": "Portugu\u00eas",
+    "ld": "ltr",
+    "ang": "Brazilian Portuguese",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "AT",
         "BE",
@@ -58,7 +60,5 @@
         "Algarvian (Algarvio)",
         "Azorean (A\u00e7oriano)"
     ],
-    "ang": "Brazilian Portuguese",
-    "gwcode": "pt-br",
-    "ln": "Portugu\u00eas"
+    "gwcode": "pt-br"
 }

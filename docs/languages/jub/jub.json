@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jub",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2670,
-    "lr": "Africa",
     "lc": "jub",
+    "gw": false,
+    "ln": "Wannu",
+    "ld": "ltr",
+    "ang": "Wannu",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Jukun Abinsi",
         "River Jukun"
     ],
-    "ang": "Wannu",
-    "gwcode": "en",
-    "ln": "Wannu"
+    "gwcode": "en"
 }

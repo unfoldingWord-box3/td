@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ghk",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 2013,
-    "lr": "Asia",
     "lc": "ghk",
+    "gw": false,
+    "ln": "Geko Karen",
+    "ld": "ltr",
+    "ang": "Karen, Geko",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -26,7 +28,5 @@
         "Geker",
         "Thaidai (Htideh)"
     ],
-    "ang": "Karen, Geko",
-    "gwcode": "my",
-    "ln": "Geko Karen"
+    "gwcode": "my"
 }

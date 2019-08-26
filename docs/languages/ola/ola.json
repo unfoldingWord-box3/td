@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ola",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 4814,
-    "lr": "Asia",
     "lc": "ola",
+    "gw": false,
+    "ln": "Walungge",
+    "ld": "ltr",
+    "ang": "Walungge",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -20,7 +22,5 @@
         "Topke Gola (Mewa River)",
         "Ghunsa River"
     ],
-    "ang": "Walungge",
-    "gwcode": "ne",
-    "ln": "Walungge"
+    "gwcode": "ne"
 }

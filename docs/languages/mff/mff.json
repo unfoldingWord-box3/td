@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mff",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3782,
-    "lr": "Africa",
     "lc": "mff",
+    "gw": false,
+    "ln": "Naki",
+    "ld": "ltr",
+    "ang": "Naki",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Munkaf",
         "Nkap"
     ],
-    "ang": "Naki",
-    "gwcode": "fr",
-    "ln": "Naki"
+    "gwcode": "fr"
 }

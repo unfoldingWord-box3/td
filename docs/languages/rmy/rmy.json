@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rmy",
-    "hc": "RO",
-    "ld": "ltr",
     "pk": 5396,
-    "lr": "Europe",
     "lc": "rmy",
+    "gw": false,
+    "ln": "Vlax Romani",
+    "ld": "ltr",
+    "ang": "Romani, Vlax",
+    "hc": "RO",
+    "lr": "Europe",
     "cc": [
         "DZ",
         "BE",
@@ -59,7 +61,5 @@
         "Arli",
         "Kalderash (Kaldar\u00e1ri)"
     ],
-    "ang": "Romani, Vlax",
-    "gwcode": "en",
-    "ln": "Vlax Romani"
+    "gwcode": "en"
 }

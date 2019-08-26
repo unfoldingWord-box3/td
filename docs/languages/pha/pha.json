@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pha",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 5010,
-    "lr": "Asia",
     "lc": "pha",
+    "gw": false,
+    "ln": "Pa-Hng",
+    "ld": "ltr",
+    "ang": "Pa-Hng",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "VN"
@@ -25,7 +27,5 @@
         "Northern Pa-Hng",
         "Southern Pa-Hng"
     ],
-    "ang": "Pa-Hng",
-    "gwcode": "zh",
-    "ln": "Pa-Hng"
+    "gwcode": "zh"
 }

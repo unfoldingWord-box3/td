@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pot",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 5136,
-    "lr": "Americas",
     "lc": "pot",
+    "gw": false,
+    "ln": "Potawatomi",
+    "ld": "ltr",
+    "ang": "Potawatomi",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US",
         "CA"
@@ -14,7 +16,5 @@
         "Pottawottomi",
         "Pottawotomi"
     ],
-    "ang": "Potawatomi",
-    "gwcode": "en",
-    "ln": "Potawatomi"
+    "gwcode": "en"
 }

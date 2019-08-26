@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kwx",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3257,
-    "lr": "Asia",
     "lc": "kwx",
+    "gw": false,
+    "ln": "Khirwar",
+    "ld": "ltr",
+    "ang": "Khirwar",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Kherwari",
         "Khirwara"
     ],
-    "ang": "Khirwar",
-    "gwcode": "UNKNOWN",
-    "ln": "Khirwar"
+    "gwcode": "hne"
 }

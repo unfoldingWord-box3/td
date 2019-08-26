@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbp",
-    "hc": "TG",
-    "ld": "ltr",
     "pk": 2725,
-    "lr": "Africa",
     "lc": "kbp",
+    "gw": false,
+    "ln": "Kabiy\u00e8",
+    "ld": "ltr",
+    "ang": "Kabiy\u00e8",
+    "hc": "TG",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "GH",
@@ -21,7 +23,5 @@
         "Kewe",
         "Kijang"
     ],
-    "ang": "Kabiy\u00e8",
-    "gwcode": "fr",
-    "ln": "Kabiy\u00e8"
+    "gwcode": "fr"
 }

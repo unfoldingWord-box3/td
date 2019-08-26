@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jna",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2649,
-    "lr": "Asia",
     "lc": "jna",
+    "gw": false,
+    "ln": "Jangshung",
+    "ld": "ltr",
+    "ang": "Jangshung",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -19,7 +21,5 @@
         "Zangram",
         "Zhang-Zhung"
     ],
-    "ang": "Jangshung",
-    "gwcode": "UNKNOWN",
-    "ln": "Jangshung"
+    "gwcode": "kfk"
 }

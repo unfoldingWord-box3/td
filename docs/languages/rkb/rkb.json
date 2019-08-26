@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rkb",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 5369,
-    "lr": "Americas",
     "lc": "rkb",
+    "gw": false,
+    "ln": "Rikbaktsa",
+    "ld": "ltr",
+    "ang": "Rikbaktsa",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -15,7 +17,5 @@
         "Erikbatsa",
         "Erikpatsa"
     ],
-    "ang": "Rikbaktsa",
-    "gwcode": "pt",
-    "ln": "Rikbaktsa"
+    "gwcode": "pt"
 }

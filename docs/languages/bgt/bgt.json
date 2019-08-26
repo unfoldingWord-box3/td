@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bgt",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 653,
-    "lr": "Pacific",
     "lc": "bgt",
+    "gw": false,
+    "ln": "Bughotu",
+    "ld": "ltr",
+    "ang": "Bughotu",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -16,7 +18,5 @@
         "Mahaga",
         "Mbughotu"
     ],
-    "ang": "Bughotu",
-    "gwcode": "UNKNOWN",
-    "ln": "Bughotu"
+    "gwcode": "pis"
 }

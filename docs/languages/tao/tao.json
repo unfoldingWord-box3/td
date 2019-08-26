@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tao",
-    "hc": "TW",
-    "ld": "ltr",
     "pk": 5974,
-    "lr": "Asia",
     "lc": "tao",
+    "gw": false,
+    "ln": "Yami",
+    "ld": "ltr",
+    "ang": "Yami",
+    "hc": "TW",
+    "lr": "Asia",
     "cc": [
         "TW"
     ],
@@ -16,7 +18,5 @@
         "Tao",
         "Tawu"
     ],
-    "ang": "Yami",
-    "gwcode": "zh",
-    "ln": "Yami"
+    "gwcode": "zh"
 }

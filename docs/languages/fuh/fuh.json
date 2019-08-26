@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fuh",
-    "hc": "NE",
-    "ld": "ltr",
     "pk": 1887,
-    "lr": "Africa",
     "lc": "fuh",
+    "gw": false,
+    "ln": "Western Niger Fulfulde",
+    "ld": "ltr",
+    "ang": "Fulfulde, Western Niger",
+    "hc": "NE",
+    "lr": "Africa",
     "cc": [
         "BF",
         "NE"
@@ -25,7 +27,5 @@
         "Seeba-Yaga (Yaaga)",
         "Tera"
     ],
-    "ang": "Fulfulde, Western Niger",
-    "gwcode": "fr",
-    "ln": "Western Niger Fulfulde"
+    "gwcode": "fr"
 }

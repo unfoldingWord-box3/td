@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cml",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1265,
-    "lr": "Asia",
     "lc": "cml",
+    "gw": false,
+    "ln": "Campalagian",
+    "ld": "ltr",
+    "ang": "Campalagian",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Tasing",
         "Tjampalagian"
     ],
-    "ang": "Campalagian",
-    "gwcode": "id",
-    "ln": "Campalagian"
+    "gwcode": "id"
 }

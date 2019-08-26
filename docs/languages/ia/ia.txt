@@ -3,11 +3,13 @@
 Interlingua
 ===========
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/ina>`_ identifies this language as ``ina``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ina>`__ identifies this language as ``ina``.
 
 This language is spoken in the following countries:
 
 * IT: Italy
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -16,7 +18,7 @@ This language is spoken in the following countries:
     anglicanized_name: Interlingua
     country_codes:
     - IT
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: ia
     lang_direction: ltr
     lang_name: Interlingua

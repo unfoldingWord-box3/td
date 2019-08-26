@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "par",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 4930,
-    "lr": "Americas",
     "lc": "par",
+    "gw": false,
+    "ln": "Panamint",
+    "ld": "ltr",
+    "ang": "Timbisha",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -16,7 +18,5 @@
         "Panamint Shoshone",
         "T\u00fcmpisa Shoshoni"
     ],
-    "ang": "Timbisha",
-    "gwcode": "en",
-    "ln": "Panamint"
+    "gwcode": "en"
 }

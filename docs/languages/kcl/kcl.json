@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kcl",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2747,
-    "lr": "Pacific",
     "lc": "kcl",
+    "gw": false,
+    "ln": "Kela (Papua New Guinea)",
+    "ld": "ltr",
+    "ang": "Kala",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Kelana",
         "Laukanu"
     ],
-    "ang": "Kala",
-    "gwcode": "tpi",
-    "ln": "Kela (Papua New Guinea)"
+    "gwcode": "tpi"
 }

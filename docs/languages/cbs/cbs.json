@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cbs",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 1144,
-    "lr": "Americas",
     "lc": "cbs",
+    "gw": false,
+    "ln": "Cashinahua",
+    "ld": "ltr",
+    "ang": "Kashinawa",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "BR",
         "PE"
@@ -21,7 +23,5 @@
         "Caxinawa",
         "Kashinahua"
     ],
-    "ang": "Kashinawa",
-    "gwcode": "es-419",
-    "ln": "Cashinahua"
+    "gwcode": "es-419"
 }

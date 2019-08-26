@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pwm",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 5233,
-    "lr": "Asia",
     "lc": "pwm",
+    "gw": false,
+    "ln": "Molbog",
+    "ld": "ltr",
+    "ang": "Molbog",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "MY",
         "PH"
@@ -17,7 +19,5 @@
         "Banggi Island",
         "Southern Palawan"
     ],
-    "ang": "Molbog",
-    "gwcode": "en",
-    "ln": "Molbog"
+    "gwcode": "en"
 }

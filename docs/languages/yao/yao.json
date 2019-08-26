@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yao",
-    "hc": "MW",
-    "ld": "ltr",
     "pk": 7124,
-    "lr": "Africa",
     "lc": "yao",
+    "gw": false,
+    "ln": "Yao",
+    "ld": "ltr",
+    "ang": "Yao",
+    "hc": "MW",
+    "lr": "Africa",
     "cc": [
         "MZ",
         "TZ",
@@ -39,7 +41,5 @@
         "Mangochi",
         "Massaninga (Cimassaninga)"
     ],
-    "ang": "Yao",
-    "gwcode": "en",
-    "ln": "Yao"
+    "gwcode": "en"
 }

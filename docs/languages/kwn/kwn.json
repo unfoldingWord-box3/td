@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kwn",
-    "hc": "NA",
-    "ld": "ltr",
     "pk": 3248,
-    "lr": "Africa",
     "lc": "kwn",
+    "gw": false,
+    "ln": "Kwangali",
+    "ld": "ltr",
+    "ang": "Kwangali",
+    "hc": "NA",
+    "lr": "Africa",
     "cc": [
         "AO",
         "NA"
@@ -20,7 +22,5 @@
         "Sambyu (Sambio)",
         "Sambiu"
     ],
-    "ang": "Kwangali",
-    "gwcode": "en",
-    "ln": "Kwangali"
+    "gwcode": "en"
 }

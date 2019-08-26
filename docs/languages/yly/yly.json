@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yly",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 7220,
-    "lr": "Pacific",
     "lc": "yly",
+    "gw": false,
+    "ln": "Ny\u00e2layu",
+    "ld": "ltr",
+    "ang": "Nyel\u00e2yu",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -18,7 +20,5 @@
         "Arama",
         "Tiari-Balade"
     ],
-    "ang": "Nyel\u00e2yu",
-    "gwcode": "en",
-    "ln": "Ny\u00e2layu"
+    "gwcode": "en"
 }

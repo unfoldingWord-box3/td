@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lor",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 3566,
-    "lr": "Africa",
     "lc": "lor",
+    "gw": false,
+    "ln": "T\u00e9\u00e9n",
+    "ld": "ltr",
+    "ang": "T\u00e9\u00e9n",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "BF",
         "CI"
@@ -17,7 +19,5 @@
         "Tegesie",
         "T\u00e9nh\u00e9"
     ],
-    "ang": "T\u00e9\u00e9n",
-    "gwcode": "fr",
-    "ln": "T\u00e9\u00e9n"
+    "gwcode": "fr"
 }

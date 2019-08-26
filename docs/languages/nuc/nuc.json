@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nuc",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4676,
-    "lr": "Americas",
     "lc": "nuc",
+    "gw": false,
+    "ln": "Nukuini",
+    "ld": "ltr",
+    "ang": "Nukuini",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Nukini",
         "Nuquini"
     ],
-    "ang": "Nukuini",
-    "gwcode": "pt",
-    "ln": "Nukuini"
+    "gwcode": "pt"
 }

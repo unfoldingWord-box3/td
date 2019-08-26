@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * CI: C�te d'Ivoire
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: esm
@@ -14,7 +16,7 @@ This language is spoken in the following countries:
     anglicanized_name: Esuma
     country_codes:
     - CI
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: esm
     lang_direction: ltr
     lang_name: Esuma

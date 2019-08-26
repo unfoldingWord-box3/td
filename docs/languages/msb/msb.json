@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "msb",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 4097,
-    "lr": "Asia",
     "lc": "msb",
+    "gw": false,
+    "ln": "Masbatenyo",
+    "ld": "ltr",
+    "ang": "Masbatenyo",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Masbate\u00f1o",
         "Minasbate"
     ],
-    "ang": "Masbatenyo",
-    "gwcode": "en",
-    "ln": "Masbatenyo"
+    "gwcode": "en"
 }

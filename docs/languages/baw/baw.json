@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "baw",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 505,
-    "lr": "Africa",
     "lc": "baw",
+    "gw": false,
+    "ln": "Bambili-Bambui",
+    "ld": "ltr",
+    "ang": "Bambili-Bambui",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Bambui (Mbui)",
         "Mbili"
     ],
-    "ang": "Bambili-Bambui",
-    "gwcode": "fr",
-    "ln": "Bambili-Bambui"
+    "gwcode": "fr"
 }

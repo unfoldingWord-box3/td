@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nud",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4677,
-    "lr": "Pacific",
     "lc": "nud",
+    "gw": false,
+    "ln": "Ngala",
+    "ld": "ltr",
+    "ang": "Ngala",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Sogap",
         "Swagup"
     ],
-    "ang": "Ngala",
-    "gwcode": "tpi",
-    "ln": "Ngala"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aos",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 296,
-    "lr": "Asia",
     "lc": "aos",
+    "gw": false,
+    "ln": "Taikat",
+    "ld": "ltr",
+    "ang": "Taikat",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Arso",
         "Tajkat"
     ],
-    "ang": "Taikat",
-    "gwcode": "id",
-    "ln": "Taikat"
+    "gwcode": "id"
 }

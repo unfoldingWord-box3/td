@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rod",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 5408,
-    "lr": "Africa",
     "lc": "rod",
+    "gw": false,
+    "ln": "t\u00f2R\u00f3g\u00f3",
+    "ld": "ltr",
+    "ang": "Rogo",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -17,7 +19,5 @@
         "Ucanja Kamuku",
         "Urogo"
     ],
-    "ang": "Rogo",
-    "gwcode": "en",
-    "ln": "t\u00f2R\u00f3g\u00f3"
+    "gwcode": "en"
 }

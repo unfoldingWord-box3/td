@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ybh",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 7139,
-    "lr": "Asia",
     "lc": "ybh",
+    "gw": false,
+    "ln": "Yakha",
+    "ld": "ltr",
+    "ang": "Yakkha",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -20,7 +22,5 @@
         "Panchthar",
         "Southern Yakkha (Dhankuta)"
     ],
-    "ang": "Yakkha",
-    "gwcode": "ne",
-    "ln": "Yakha"
+    "gwcode": "ne"
 }

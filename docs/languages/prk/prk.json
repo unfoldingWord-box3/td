@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "prk",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 5163,
-    "lr": "Asia",
     "lc": "prk",
+    "gw": false,
+    "ln": "Parauk",
+    "ld": "ltr",
+    "ang": "Wa, Parauk",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "CN",
         "MM"
@@ -45,7 +47,5 @@
         "Dazhai",
         "Aishuai"
     ],
-    "ang": "Wa, Parauk",
-    "gwcode": "my",
-    "ln": "Parauk"
+    "gwcode": "my"
 }

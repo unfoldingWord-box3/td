@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ldj",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3394,
-    "lr": "Africa",
     "lc": "ldj",
+    "gw": false,
+    "ln": "Lemoro",
+    "ld": "ltr",
+    "ang": "Lemoro",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -16,7 +18,5 @@
         "Limoro",
         "Limorro"
     ],
-    "ang": "Lemoro",
-    "gwcode": "en",
-    "ln": "Lemoro"
+    "gwcode": "en"
 }

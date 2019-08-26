@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nni",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4567,
-    "lr": "Asia",
     "lc": "nni",
+    "gw": false,
+    "ln": "North Nuaulu",
+    "ld": "ltr",
+    "ang": "Nuaulu, North",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Nuaulu",
         "Patakai"
     ],
-    "ang": "Nuaulu, North",
-    "gwcode": "id",
-    "ln": "North Nuaulu"
+    "gwcode": "id"
 }

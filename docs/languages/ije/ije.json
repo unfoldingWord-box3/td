@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ije",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2453,
-    "lr": "Africa",
     "lc": "ije",
+    "gw": false,
+    "ln": "Biseni",
+    "ld": "ltr",
+    "ang": "Biseni",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Buseni",
         "Northeast Central Ijo"
     ],
-    "ang": "Biseni",
-    "gwcode": "en",
-    "ln": "Biseni"
+    "gwcode": "en"
 }

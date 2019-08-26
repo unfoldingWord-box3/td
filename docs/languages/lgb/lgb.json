@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lgb",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 3431,
-    "lr": "Pacific",
     "lc": "lgb",
+    "gw": false,
+    "ln": "Laghu",
+    "ld": "ltr",
+    "ang": "Laghu",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -13,7 +15,5 @@
         "Katova",
         "Lagu"
     ],
-    "ang": "Laghu",
-    "gwcode": "UNKNOWN",
-    "ln": "Laghu"
+    "gwcode": "pis"
 }

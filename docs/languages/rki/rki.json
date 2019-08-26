@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rki",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 5371,
-    "lr": "Asia",
     "lc": "rki",
+    "gw": false,
+    "ln": "Rakhine",
+    "ld": "ltr",
+    "ang": "Rakhine",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN",
@@ -25,7 +27,5 @@
         "Man Aung (Chebuda Island)",
         "Mrauk-U"
     ],
-    "ang": "Rakhine",
-    "gwcode": "my",
-    "ln": "Rakhine"
+    "gwcode": "my"
 }

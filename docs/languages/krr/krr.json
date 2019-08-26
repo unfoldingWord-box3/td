@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "krr",
-    "hc": "KH",
-    "ld": "ltr",
     "pk": 3123,
-    "lr": "Asia",
     "lc": "krr",
+    "gw": false,
+    "ln": "Kru'ng 2",
+    "ld": "ltr",
+    "ang": "Kru\u2019ng 2",
+    "hc": "KH",
+    "lr": "Asia",
     "cc": [
         "KH"
     ],
@@ -15,7 +17,5 @@
         "Lun",
         "Brao Tanap"
     ],
-    "ang": "Kru\u2019ng 2",
-    "gwcode": "km",
-    "ln": "Kru'ng 2"
+    "gwcode": "km"
 }

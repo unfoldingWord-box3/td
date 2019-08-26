@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kov",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3055,
-    "lr": "Africa",
     "lc": "kov",
+    "gw": false,
+    "ln": "Kudu-Camo",
+    "ld": "ltr",
+    "ang": "Kudu-Camo",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Kudu (Kuda)",
         "Camo (Chamo)"
     ],
-    "ang": "Kudu-Camo",
-    "gwcode": "en",
-    "ln": "Kudu-Camo"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rak",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5314,
-    "lr": "Pacific",
     "lc": "rak",
+    "gw": false,
+    "ln": "Tulu-Bohuai",
+    "ld": "ltr",
+    "ang": "Tulu-Bohuai",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -18,7 +20,5 @@
         "Tulun",
         "Tulu (Tjudun)"
     ],
-    "ang": "Tulu-Bohuai",
-    "gwcode": "tpi",
-    "ln": "Tulu-Bohuai"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bfb",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 610,
-    "lr": "Asia",
     "lc": "bfb",
+    "gw": false,
+    "ln": "Pauri Bareli",
+    "ld": "ltr",
+    "ang": "Bareli, Pauri",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Bareli",
         "Barewali"
     ],
-    "ang": "Bareli, Pauri",
-    "gwcode": "hi",
-    "ln": "Pauri Bareli"
+    "gwcode": "hi"
 }

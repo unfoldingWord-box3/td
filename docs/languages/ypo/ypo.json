@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ypo",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7264,
-    "lr": "Asia",
     "lc": "ypo",
+    "gw": false,
+    "ln": "Alo Phola",
+    "ld": "ltr",
+    "ang": "Phola, Alo",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -13,7 +15,5 @@
         "Bola",
         "Pula"
     ],
-    "ang": "Phola, Alo",
-    "gwcode": "zh",
-    "ln": "Alo Phola"
+    "gwcode": "zh"
 }

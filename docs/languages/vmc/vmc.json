@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vmc",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6629,
-    "lr": "Americas",
     "lc": "vmc",
+    "gw": false,
+    "ln": "Juxtlahuaca Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Juxtlahuaca",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Central Juxtlahuaca Mixtec",
         "Mixteco de Juxtlahuaca"
     ],
-    "ang": "Mixtec, Juxtlahuaca",
-    "gwcode": "es-419",
-    "ln": "Juxtlahuaca Mixtec"
+    "gwcode": "es-419"
 }

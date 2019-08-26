@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bxg",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 1048,
-    "lr": "Africa",
     "lc": "bxg",
+    "gw": false,
+    "ln": "Bangala",
+    "ld": "ltr",
+    "ang": "Bangala",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "SS",
         "CG",
@@ -14,7 +16,5 @@
     "alt": [
         "Ngala"
     ],
-    "ang": "Bangala",
-    "gwcode": "fr",
-    "ln": "Bangala"
+    "gwcode": "fr"
 }

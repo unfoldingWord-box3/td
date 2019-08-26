@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "spy",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 5790,
-    "lr": "Africa",
     "lc": "spy",
+    "gw": false,
+    "ln": "Sabaot",
+    "ld": "ltr",
+    "ang": "Sabaot",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -21,7 +23,5 @@
         "Bong'omeek (Bong'om)",
         "Sabiiny"
     ],
-    "ang": "Sabaot",
-    "gwcode": "sw",
-    "ln": "Sabaot"
+    "gwcode": "sw"
 }

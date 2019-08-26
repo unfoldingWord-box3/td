@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bwu",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 1037,
-    "lr": "Africa",
     "lc": "bwu",
+    "gw": false,
+    "ln": "Buli (Ghana)",
+    "ld": "ltr",
+    "ang": "Buli",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -14,7 +16,5 @@
         "Guresha",
         "Kanjaga"
     ],
-    "ang": "Buli",
-    "gwcode": "en",
-    "ln": "Buli (Ghana)"
+    "gwcode": "en"
 }

@@ -3,11 +3,13 @@
 bahasa Melayu, بهاس ملايو‎
 =====================================
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/msa>`_ identifies this language as ``msa``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/msa>`__ identifies this language as ``msa``.
 
 This language is spoken in the following countries:
 
 * MY: Malaysia
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -16,7 +18,7 @@ This language is spoken in the following countries:
     anglicanized_name: Malay
     country_codes:
     - MY
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: ms
     lang_direction: ltr
     lang_name: bahasa Melayu, بهاس ملايو‎

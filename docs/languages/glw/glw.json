@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "glw",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2056,
-    "lr": "Africa",
     "lc": "glw",
+    "gw": false,
+    "ln": "Glavda",
+    "ld": "ltr",
+    "ang": "Glavda",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -20,7 +22,5 @@
         "Glanda",
         "Ngoshie (Ngweshe)"
     ],
-    "ang": "Glavda",
-    "gwcode": "en",
-    "ln": "Glavda"
+    "gwcode": "en"
 }

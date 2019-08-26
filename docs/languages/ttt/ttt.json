@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ttt",
-    "hc": "AZ",
-    "ld": "ltr",
     "pk": 6367,
-    "lr": "Asia",
     "lc": "ttt",
+    "gw": false,
+    "ln": "Tat dili",
+    "ld": "ltr",
+    "ang": "Tat, Muslim",
+    "hc": "AZ",
+    "lr": "Asia",
     "cc": [
         "AZ",
         "IR"
@@ -17,7 +19,5 @@
         "Aruskush-Daqqushchu (Khyzy)",
         "Northern Tats"
     ],
-    "ang": "Tat, Muslim",
-    "gwcode": "ru",
-    "ln": "Tat dili"
+    "gwcode": "ru"
 }

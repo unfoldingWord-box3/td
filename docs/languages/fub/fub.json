@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fub",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 1882,
-    "lr": "Africa",
     "lc": "fub",
+    "gw": false,
+    "ln": "Adamawa Fulfulde",
+    "ld": "ltr",
+    "ang": "Fulfulde, Adamawa",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "FR",
@@ -53,7 +55,5 @@
         "Nomadic Fulfulde - Mbororoore",
         "Akuure"
     ],
-    "ang": "Fulfulde, Adamawa",
-    "gwcode": "fr",
-    "ln": "Adamawa Fulfulde"
+    "gwcode": "fr"
 }

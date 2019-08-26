@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "llp",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 3508,
-    "lr": "Pacific",
     "lc": "llp",
+    "gw": false,
+    "ln": "North Efate",
+    "ld": "ltr",
+    "ang": "Efate, North",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -15,7 +17,5 @@
         "Ngunese",
         "Tongoa"
     ],
-    "ang": "Efate, North",
-    "gwcode": "fr",
-    "ln": "North Efate"
+    "gwcode": "fr"
 }

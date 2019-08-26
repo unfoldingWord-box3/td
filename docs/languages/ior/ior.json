@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ior",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 2500,
-    "lr": "Africa",
     "lc": "ior",
+    "gw": false,
+    "ln": "Inor",
+    "ld": "ltr",
+    "ang": "Inor",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -13,7 +15,5 @@
         "Ennemor",
         "Endegeny (Enner)"
     ],
-    "ang": "Inor",
-    "gwcode": "am",
-    "ln": "Inor"
+    "gwcode": "am"
 }

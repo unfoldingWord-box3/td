@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zar",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7347,
-    "lr": "Americas",
     "lc": "zar",
+    "gw": false,
+    "ln": "Rinc\u00f3n Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Rinc\u00f3n",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Zapoteco de Yagallo",
         "Zapoteco del Rinc\u00f3n"
     ],
-    "ang": "Zapotec, Rinc\u00f3n",
-    "gwcode": "es-419",
-    "ln": "Rinc\u00f3n Zapotec"
+    "gwcode": "es-419"
 }

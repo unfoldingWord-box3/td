@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mxg",
-    "hc": "AO",
-    "ld": "ltr",
     "pk": 4220,
-    "lr": "Africa",
     "lc": "mxg",
+    "gw": false,
+    "ln": "Mbangala",
+    "ld": "ltr",
+    "ang": "Mbangala",
+    "hc": "AO",
+    "lr": "Africa",
     "cc": [
         "AO"
     ],
@@ -13,7 +15,5 @@
         "Bangala",
         "Cimbangala"
     ],
-    "ang": "Mbangala",
-    "gwcode": "pt",
-    "ln": "Mbangala"
+    "gwcode": "pt"
 }

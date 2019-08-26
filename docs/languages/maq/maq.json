@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "maq",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3670,
-    "lr": "Americas",
     "lc": "maq",
+    "gw": false,
+    "ln": "Chiquihuitl\u00e1n Mazatec",
+    "ld": "ltr",
+    "ang": "Mazatec, Chiquihuitl\u00e1n",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Mazateco de San Juan Chiquihuitl\u00e1n",
         "Mazateco del Sur"
     ],
-    "ang": "Mazatec, Chiquihuitl\u00e1n",
-    "gwcode": "es-419",
-    "ln": "Chiquihuitl\u00e1n Mazatec"
+    "gwcode": "es-419"
 }

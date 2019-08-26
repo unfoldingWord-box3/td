@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gza",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 2214,
-    "lr": "Africa",
     "lc": "gza",
+    "gw": false,
+    "ln": "Ganza",
+    "ld": "ltr",
+    "ang": "Ganza",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SD"
@@ -15,7 +17,5 @@
         "Koma",
         "Koma-Ganza"
     ],
-    "ang": "Ganza",
-    "gwcode": "ar",
-    "ln": "Ganza"
+    "gwcode": "ar"
 }

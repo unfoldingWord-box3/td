@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mmv",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 3969,
-    "lr": "Americas",
     "lc": "mmv",
+    "gw": false,
+    "ln": "Miriti",
+    "ld": "ltr",
+    "ang": "Miriti",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -15,7 +17,5 @@
         "Mirity-Tapuya",
         "Neeno\u00e1"
     ],
-    "ang": "Miriti",
-    "gwcode": "pt",
-    "ln": "Miriti"
+    "gwcode": "pt"
 }

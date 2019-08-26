@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vgr",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 6607,
-    "lr": "Asia",
     "lc": "vgr",
+    "gw": false,
+    "ln": "Vaghri",
+    "ld": "ltr",
+    "ang": "Vaghri",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "PK",
         "IN"
@@ -15,7 +17,5 @@
         "Salavta",
         "Vaghri Koli"
     ],
-    "ang": "Vaghri",
-    "gwcode": "ur",
-    "ln": "Vaghri"
+    "gwcode": "ur"
 }

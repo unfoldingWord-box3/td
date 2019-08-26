@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dot",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1608,
-    "lr": "Africa",
     "lc": "dot",
+    "gw": false,
+    "ln": "Dass",
+    "ld": "ltr",
+    "ang": "Dass",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -19,7 +21,5 @@
         "Zodi",
         "Dwat"
     ],
-    "ang": "Dass",
-    "gwcode": "en",
-    "ln": "Dass"
+    "gwcode": "en"
 }

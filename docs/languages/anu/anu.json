@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "anu",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 277,
-    "lr": "Africa",
     "lc": "anu",
+    "gw": false,
+    "ln": "Anuak",
+    "ld": "ltr",
+    "ang": "Anuak",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SS",
@@ -25,7 +27,5 @@
         "Yembo",
         "Dho Anywaa"
     ],
-    "ang": "Anuak",
-    "gwcode": "ar",
-    "ln": "Anuak"
+    "gwcode": "ar"
 }

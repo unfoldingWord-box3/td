@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bbl",
-    "hc": "GE",
-    "ld": "ltr",
     "pk": 519,
-    "lr": "Asia",
     "lc": "bbl",
+    "gw": false,
+    "ln": "\u10d1\u10d0\u10ea\u10d1\u10e3\u10e0\u10d8 \u10d4\u10dc\u10d0",
+    "ld": "ltr",
+    "ang": "Bats",
+    "hc": "GE",
+    "lr": "Asia",
     "cc": [
         "GE"
     ],
@@ -19,7 +21,5 @@
         "Tsova-Tush",
         "Tush"
     ],
-    "ang": "Bats",
-    "gwcode": "ru",
-    "ln": "\u10d1\u10d0\u10ea\u10d1\u10e3\u10e0\u10d8 \u10d4\u10dc\u10d0"
+    "gwcode": "ru"
 }

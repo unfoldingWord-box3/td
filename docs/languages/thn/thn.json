@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "thn",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6110,
-    "lr": "Asia",
     "lc": "thn",
+    "gw": false,
+    "ln": "Thachanadan",
+    "ld": "ltr",
+    "ang": "Thachanadan",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Thacchanadens",
         "Thachanad Muppans"
     ],
-    "ang": "Thachanadan",
-    "gwcode": "ml",
-    "ln": "Thachanadan"
+    "gwcode": "ml"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cen",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1179,
-    "lr": "Africa",
     "lc": "cen",
+    "gw": false,
+    "ln": "Cen",
+    "ld": "ltr",
+    "ang": "Cen",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -16,7 +18,5 @@
         "Icen Ibaas",
         "Ichen"
     ],
-    "ang": "Cen",
-    "gwcode": "en",
-    "ln": "Cen"
+    "gwcode": "en"
 }

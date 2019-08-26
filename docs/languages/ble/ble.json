@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ble",
-    "hc": "GW",
-    "ld": "ltr",
     "pk": 759,
-    "lr": "Africa",
     "lc": "ble",
+    "gw": false,
+    "ln": "Balanta-Kentohe",
+    "ld": "ltr",
+    "ang": "Balanta-Kentohe",
+    "hc": "GW",
+    "lr": "Africa",
     "cc": [
         "CA",
         "GW"
@@ -25,7 +27,5 @@
         "Queuthoe",
         "Kantohe (Kentohe)"
     ],
-    "ang": "Balanta-Kentohe",
-    "gwcode": "pt",
-    "ln": "Balanta-Kentohe"
+    "gwcode": "pt"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "drg",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 1619,
-    "lr": "Asia",
     "lc": "drg",
+    "gw": false,
+    "ln": "Rungus",
+    "ld": "ltr",
+    "ang": "Rungus",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -22,7 +24,5 @@
         "Pilapazan (Central Rungus)",
         "Rungus Tanga"
     ],
-    "ang": "Rungus",
-    "gwcode": "ms",
-    "ln": "Rungus"
+    "gwcode": "ms"
 }

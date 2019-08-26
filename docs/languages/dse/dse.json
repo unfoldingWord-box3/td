@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dse",
-    "hc": "NL",
-    "ld": "ltr",
     "pk": 1630,
-    "lr": "Europe",
     "lc": "dse",
+    "gw": false,
+    "ln": "Dutch Sign Language",
+    "ld": "ltr",
+    "ang": "Sign Language of the Netherlands",
+    "hc": "NL",
+    "lr": "Europe",
     "cc": [
         "NL"
     ],
@@ -14,7 +16,5 @@
         "NGT",
         "SLN"
     ],
-    "ang": "Sign Language of the Netherlands",
-    "gwcode": "UNKNOWN",
-    "ln": "Dutch Sign Language"
+    "gwcode": "nl"
 }

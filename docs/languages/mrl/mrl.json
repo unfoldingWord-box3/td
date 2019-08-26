@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mrl",
-    "hc": "FM",
-    "ld": "ltr",
     "pk": 4081,
-    "lr": "Pacific",
     "lc": "mrl",
+    "gw": false,
+    "ln": "Mortlockese",
+    "ld": "ltr",
+    "ang": "Mortlockese",
+    "hc": "FM",
+    "lr": "Pacific",
     "cc": [
         "FM"
     ],
@@ -13,7 +15,5 @@
         "Mortlock",
         "Nomoi"
     ],
-    "ang": "Mortlockese",
-    "gwcode": "en",
-    "ln": "Mortlockese"
+    "gwcode": "en"
 }

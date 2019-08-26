@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tvl",
-    "hc": "TV",
-    "ld": "ltr",
     "pk": 6395,
-    "lr": "Pacific",
     "lc": "tvl",
+    "gw": false,
+    "ln": "Tuvalu",
+    "ld": "ltr",
+    "ang": "Tuvaluan",
+    "hc": "TV",
+    "lr": "Pacific",
     "cc": [
         "FJ",
         "KI",
@@ -24,7 +26,5 @@
         "Nukulaelae",
         "Nukufetau"
     ],
-    "ang": "Tuvaluan",
-    "gwcode": "en",
-    "ln": "Tuvalu"
+    "gwcode": "en"
 }

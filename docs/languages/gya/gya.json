@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gya",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 2204,
-    "lr": "Africa",
     "lc": "gya",
+    "gw": false,
+    "ln": "Northwest Gbaya",
+    "ld": "ltr",
+    "ang": "Gbaya, Northwest",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CM",
         "CF",
@@ -25,7 +27,5 @@
         "Ya\u00e1yuwee (Kalla)",
         "Yaiwe"
     ],
-    "ang": "Gbaya, Northwest",
-    "gwcode": "fr",
-    "ln": "Northwest Gbaya"
+    "gwcode": "fr"
 }

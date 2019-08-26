@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mij",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3863,
-    "lr": "Africa",
     "lc": "mij",
+    "gw": false,
+    "ln": "Abar",
+    "ld": "ltr",
+    "ang": "Mungbam",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -16,7 +18,5 @@
         "Missong",
         "Munken"
     ],
-    "ang": "Mungbam",
-    "gwcode": "fr",
-    "ln": "Abar"
+    "gwcode": "fr"
 }

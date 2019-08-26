@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aln",
-    "hc": "RS",
-    "ld": "ltr",
     "pk": 222,
-    "lr": "Europe",
     "lc": "aln",
+    "gw": false,
+    "ln": "Gheg Albanian",
+    "ld": "ltr",
+    "ang": "Albanian, Gheg",
+    "hc": "RS",
+    "lr": "Europe",
     "cc": [
         "BE",
         "ME",
@@ -26,7 +28,5 @@
         "Shqip",
         "Shqyp"
     ],
-    "ang": "Albanian, Gheg",
-    "gwcode": "en",
-    "ln": "Gheg Albanian"
+    "gwcode": "en"
 }

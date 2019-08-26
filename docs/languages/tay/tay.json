@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tay",
-    "hc": "TW",
-    "ld": "ltr",
     "pk": 5982,
-    "lr": "Asia",
     "lc": "tay",
+    "gw": false,
+    "ln": "Atayal",
+    "ld": "ltr",
+    "ang": "Atayal",
+    "hc": "TW",
+    "lr": "Asia",
     "cc": [
         "TW"
     ],
@@ -23,7 +25,5 @@
         "Sqoleq (Squliq)",
         "Ts'ole' (Ci'uli')"
     ],
-    "ang": "Atayal",
-    "gwcode": "zh",
-    "ln": "Atayal"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kmq",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 3003,
-    "lr": "Africa",
     "lc": "kmq",
+    "gw": false,
+    "ln": "Kwama",
+    "ld": "ltr",
+    "ang": "Kwama",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -20,7 +22,5 @@
         "Takwama",
         "T'wa Kwama"
     ],
-    "ang": "Kwama",
-    "gwcode": "am",
-    "ln": "Kwama"
+    "gwcode": "am"
 }

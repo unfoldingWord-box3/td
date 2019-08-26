@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dhr",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1514,
-    "lr": "Pacific",
     "lc": "dhr",
+    "gw": false,
+    "ln": "Dhargari",
+    "ld": "ltr",
+    "ang": "Dhargari",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -17,7 +19,5 @@
         "Tharrgari",
         "Tharrkari"
     ],
-    "ang": "Dhargari",
-    "gwcode": "en",
-    "ln": "Dhargari"
+    "gwcode": "en"
 }

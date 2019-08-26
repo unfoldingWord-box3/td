@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ncb",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4332,
-    "lr": "Asia",
     "lc": "ncb",
+    "gw": false,
+    "ln": "Central Nicobarese",
+    "ld": "ltr",
+    "ang": "Nicobarese, Central",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -17,7 +19,5 @@
         "Tehnu",
         "Trinkut (Trinkat)"
     ],
-    "ang": "Nicobarese, Central",
-    "gwcode": "en",
-    "ln": "Central Nicobarese"
+    "gwcode": "en"
 }

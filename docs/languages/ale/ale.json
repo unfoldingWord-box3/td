@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ale",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 214,
-    "lr": "Americas",
     "lc": "ale",
+    "gw": false,
+    "ln": "Aleut",
+    "ld": "ltr",
+    "ang": "Aleut",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -21,7 +23,5 @@
         "Western Aleut (Atka)",
         "Unanghan"
     ],
-    "ang": "Aleut",
-    "gwcode": "en",
-    "ln": "Aleut"
+    "gwcode": "en"
 }

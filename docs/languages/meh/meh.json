@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "meh",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3759,
-    "lr": "Americas",
     "lc": "meh",
+    "gw": false,
+    "ln": "Southwestern Tlaxiaco Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Southwestern Tlaxiaco",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "Nuyoo Mixtec",
         "Southeastern Ocotepec Mixtec"
     ],
-    "ang": "Mixtec, Southwestern Tlaxiaco",
-    "gwcode": "es-419",
-    "ln": "Southwestern Tlaxiaco Mixtec"
+    "gwcode": "es-419"
 }

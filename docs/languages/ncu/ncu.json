@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ncu",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 4350,
-    "lr": "Africa",
     "lc": "ncu",
+    "gw": false,
+    "ln": "Chumburung",
+    "ld": "ltr",
+    "ang": "Chumburung",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -21,7 +23,5 @@
         "Lonto",
         "Northern Chumburung (Banda)"
     ],
-    "ang": "Chumburung",
-    "gwcode": "en",
-    "ln": "Chumburung"
+    "gwcode": "en"
 }

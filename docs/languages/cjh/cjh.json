@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cjh",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 1222,
-    "lr": "Americas",
     "lc": "cjh",
+    "gw": false,
+    "ln": "Upper Chehalis",
+    "ld": "ltr",
+    "ang": "Chehalis, Upper",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -13,7 +15,5 @@
         "Chehalis",
         "Kwaiailk"
     ],
-    "ang": "Chehalis, Upper",
-    "gwcode": "en",
-    "ln": "Upper Chehalis"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wlx",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 6764,
-    "lr": "Africa",
     "lc": "wlx",
+    "gw": false,
+    "ln": "Wali (Ghana)",
+    "ld": "ltr",
+    "ang": "Wali",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -15,7 +17,5 @@
         "Waali",
         "Wala"
     ],
-    "ang": "Wali",
-    "gwcode": "en",
-    "ln": "Wali (Ghana)"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nod",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 4584,
-    "lr": "Asia",
     "lc": "nod",
+    "gw": false,
+    "ln": "Northern Thai",
+    "ld": "ltr",
+    "ang": "Thai, Northern",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "LA",
         "TH"
@@ -38,7 +40,5 @@
         "Tai Yuan",
         "Western Laotian"
     ],
-    "ang": "Thai, Northern",
-    "gwcode": "th",
-    "ln": "Northern Thai"
+    "gwcode": "th"
 }

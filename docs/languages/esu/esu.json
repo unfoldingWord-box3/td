@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "esu",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 1787,
-    "lr": "Americas",
     "lc": "esu",
+    "gw": false,
+    "ln": "Central Yupik",
+    "ld": "ltr",
+    "ang": "Yupik, Central",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -14,7 +16,5 @@
         "Kuskokwim Yupik (Bethel Yupik)",
         "Cup'ik"
     ],
-    "ang": "Yupik, Central",
-    "gwcode": "en",
-    "ln": "Central Yupik"
+    "gwcode": "en"
 }

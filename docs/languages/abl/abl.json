@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "abl",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 38,
-    "lr": "Asia",
     "lc": "abl",
+    "gw": false,
+    "ln": "Lampung Nyo",
+    "ld": "ltr",
+    "ang": "Lampung Nyo",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Sukadana",
         "Lampong"
     ],
-    "ang": "Lampung Nyo",
-    "gwcode": "id",
-    "ln": "Lampung Nyo"
+    "gwcode": "id"
 }

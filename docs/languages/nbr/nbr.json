@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nbr",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4324,
-    "lr": "Africa",
     "lc": "nbr",
+    "gw": false,
+    "ln": "Numana-Nunku-Gbantu-Numbu",
+    "ld": "ltr",
+    "ang": "Numana-Nunku-Gbantu-Numbu",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -19,7 +21,5 @@
         "Aninka (Gwantu)",
         "Ninka"
     ],
-    "ang": "Numana-Nunku-Gbantu-Numbu",
-    "gwcode": "en",
-    "ln": "Numana-Nunku-Gbantu-Numbu"
+    "gwcode": "en"
 }

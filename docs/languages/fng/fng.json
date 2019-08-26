@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fng",
-    "hc": "ZA",
-    "ld": "ltr",
     "pk": 1857,
-    "lr": "Africa",
     "lc": "fng",
+    "gw": false,
+    "ln": "Fanagalo",
+    "ld": "ltr",
+    "ang": "Pidgin Bantu",
+    "hc": "ZA",
+    "lr": "Africa",
     "cc": [
         "ZA",
         "ZM"
@@ -23,7 +25,5 @@
         "Fanekolo",
         "Isikula"
     ],
-    "ang": "Pidgin Bantu",
-    "gwcode": "en",
-    "ln": "Fanagalo"
+    "gwcode": "en"
 }

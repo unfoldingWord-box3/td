@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 6101,
-    "lr": "Asia",
     "lc": "thc",
+    "gw": false,
+    "ln": "Tai Hang Tong",
+    "ld": "ltr",
+    "ang": "Tai Hang Tong",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -13,7 +15,5 @@
         "H\u00e0ng Tong",
         "T\u00e0y Mu\u00f2ng"
     ],
-    "ang": "Tai Hang Tong",
-    "gwcode": "vi",
-    "ln": "Tai Hang Tong"
+    "gwcode": "vi"
 }

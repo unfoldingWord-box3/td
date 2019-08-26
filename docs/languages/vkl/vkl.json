@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vkl",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6621,
-    "lr": "Asia",
     "lc": "vkl",
+    "gw": false,
+    "ln": "Kulisusu",
+    "ld": "ltr",
+    "ang": "Kulisusu",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Kolensusu",
         "Kolinsusu"
     ],
-    "ang": "Kulisusu",
-    "gwcode": "id",
-    "ln": "Kulisusu"
+    "gwcode": "id"
 }

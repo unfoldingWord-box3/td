@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lis",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 3469,
-    "lr": "Asia",
     "lc": "lis",
+    "gw": false,
+    "ln": "\u5088\u50f3\u8bed",
+    "ld": "ltr",
+    "ang": "Lisu",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "TH",
@@ -47,7 +49,5 @@
         "Nujiang Lisu",
         "Hua Lisu (Flowery Lisu)"
     ],
-    "ang": "Lisu",
-    "gwcode": "zh",
-    "ln": "\u5088\u50f3\u8bed"
+    "gwcode": "zh"
 }

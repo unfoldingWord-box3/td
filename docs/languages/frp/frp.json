@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "frp",
-    "hc": "FR",
-    "ld": "ltr",
     "pk": 1874,
-    "lr": "Europe",
     "lc": "frp",
+    "gw": false,
+    "ln": "Arpitan",
+    "ld": "ltr",
+    "ang": "Arpitan",
+    "hc": "FR",
+    "lr": "Europe",
     "cc": [
         "FR"
     ],
@@ -19,7 +21,5 @@
         "Valdostano",
         "Neuch\u00e2telois"
     ],
-    "ang": "Arpitan",
-    "gwcode": "fr",
-    "ln": "Arpitan"
+    "gwcode": "fr"
 }

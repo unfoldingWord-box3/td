@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tor",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 6257,
-    "lr": "Africa",
     "lc": "tor",
+    "gw": false,
+    "ln": "Vara Banda",
+    "ld": "ltr",
+    "ang": "Banda, Vara",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CF",
         "SS",
@@ -18,7 +20,5 @@
         "Vara (Vera)",
         "Vora"
     ],
-    "ang": "Banda, Vara",
-    "gwcode": "fr",
-    "ln": "Vara Banda"
+    "gwcode": "fr"
 }

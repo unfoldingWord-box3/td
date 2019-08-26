@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yle",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 7212,
-    "lr": "Pacific",
     "lc": "yle",
+    "gw": false,
+    "ln": "Yele",
+    "ld": "ltr",
+    "ang": "Yele",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -17,7 +19,5 @@
         "Yelidnye",
         "Daminyu"
     ],
-    "ang": "Yele",
-    "gwcode": "tpi",
-    "ln": "Yele"
+    "gwcode": "tpi"
 }

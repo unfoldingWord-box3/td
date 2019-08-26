@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lop",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3564,
-    "lr": "Africa",
     "lc": "lop",
+    "gw": false,
+    "ln": "Lopa",
+    "ld": "ltr",
+    "ang": "Lopa",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -17,7 +19,5 @@
         "Urcibar",
         "Ollop"
     ],
-    "ang": "Lopa",
-    "gwcode": "en",
-    "ln": "Lopa"
+    "gwcode": "en"
 }

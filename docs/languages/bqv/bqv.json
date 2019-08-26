@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bqv",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 894,
-    "lr": "Africa",
     "lc": "bqv",
+    "gw": false,
+    "ln": "Koro Wachi",
+    "ld": "ltr",
+    "ang": "Koro Wachi",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -19,7 +21,5 @@
         "Koro Miamia",
         "Koro Waci (Koro Ache)"
     ],
-    "ang": "Koro Wachi",
-    "gwcode": "en",
-    "ln": "Koro Wachi"
+    "gwcode": "en"
 }

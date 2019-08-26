@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jku",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2635,
-    "lr": "Africa",
     "lc": "jku",
+    "gw": false,
+    "ln": "Labir",
+    "ld": "ltr",
+    "ang": "Labir",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Jakanci",
         "Jaku"
     ],
-    "ang": "Labir",
-    "gwcode": "en",
-    "ln": "Labir"
+    "gwcode": "en"
 }

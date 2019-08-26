@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sib",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 5619,
-    "lr": "Asia",
     "lc": "sib",
+    "gw": false,
+    "ln": "Sebop",
+    "ld": "ltr",
+    "ang": "Sebop",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -17,7 +19,5 @@
         "Bah Malei (Ba Mali)",
         "Long Ekang (Long Ikang)"
     ],
-    "ang": "Sebop",
-    "gwcode": "ms",
-    "ln": "Sebop"
+    "gwcode": "ms"
 }

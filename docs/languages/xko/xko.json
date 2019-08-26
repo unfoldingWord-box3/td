@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xko",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 6944,
-    "lr": "Asia",
     "lc": "xko",
+    "gw": false,
+    "ln": "Kiorr",
+    "ld": "ltr",
+    "ang": "Kiorr",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA"
     ],
@@ -16,7 +18,5 @@
         "Samtao",
         "Samtao 2"
     ],
-    "ang": "Kiorr",
-    "gwcode": "lo",
-    "ln": "Kiorr"
+    "gwcode": "lo"
 }

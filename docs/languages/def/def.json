@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "def",
-    "hc": "IR",
-    "ld": "ltr",
     "pk": 1477,
-    "lr": "Asia",
     "lc": "def",
+    "gw": false,
+    "ln": "\u06af\u0648\u06cc\u0634 \u062f\u0632\u0641\u0648\u0644\u06cc",
+    "ld": "ltr",
+    "ang": "Dezfuli",
+    "hc": "IR",
+    "lr": "Asia",
     "cc": [
         "IR"
     ],
@@ -13,7 +15,5 @@
         "Dizfuli",
         "Shushtari"
     ],
-    "ang": "Dezfuli",
-    "gwcode": "fa",
-    "ln": "\u06af\u0648\u06cc\u0634 \u062f\u0632\u0641\u0648\u0644\u06cc"
+    "gwcode": "fa"
 }

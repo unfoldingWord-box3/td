@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zaa",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7331,
-    "lr": "Americas",
     "lc": "zaa",
+    "gw": false,
+    "ln": "Sierra de Ju\u00e1rez Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Sierra de Ju\u00e1rez",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "Macuiltianguis Zapotec",
         "Atepec"
     ],
-    "ang": "Zapotec, Sierra de Ju\u00e1rez",
-    "gwcode": "es-419",
-    "ln": "Sierra de Ju\u00e1rez Zapotec"
+    "gwcode": "es-419"
 }

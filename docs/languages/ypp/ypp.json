@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ypp",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7265,
-    "lr": "Asia",
     "lc": "ypp",
+    "gw": false,
+    "ln": "Phupa",
+    "ld": "ltr",
+    "ang": "Phupa",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -28,7 +30,5 @@
         "Baiwushan",
         "Nuogumi"
     ],
-    "ang": "Phupa",
-    "gwcode": "zh",
-    "ln": "Phupa"
+    "gwcode": "zh"
 }

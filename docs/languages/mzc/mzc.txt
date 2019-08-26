@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * MG: Madagascar
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: mzc
@@ -14,7 +16,7 @@ This language is spoken in the following countries:
     anglicanized_name: Madagascar Sign Language
     country_codes:
     - MG
-    gateway_language: UNKNOWN
+    gateway_language: nsl
     lang_code: mzc
     lang_direction: ltr
     lang_name: Madagascar Sign Language

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "swp",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5915,
-    "lr": "Pacific",
     "lc": "swp",
+    "gw": false,
+    "ln": "Suau",
+    "ld": "ltr",
+    "ang": "Suau",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Fife Bay",
         "Lausaha (Daui)"
     ],
-    "ang": "Suau",
-    "gwcode": "tpi",
-    "ln": "Suau"
+    "gwcode": "tpi"
 }

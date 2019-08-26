@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sed",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 5546,
-    "lr": "Asia",
     "lc": "sed",
+    "gw": false,
+    "ln": "Ti\u1ebfng X\u01a1 \u0110\u0103ng",
+    "ld": "ltr",
+    "ang": "Sedang",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "LA",
         "VN"
@@ -24,7 +26,5 @@
         "Xa",
         "Xodang"
     ],
-    "ang": "Sedang",
-    "gwcode": "vi",
-    "ln": "Ti\u1ebfng X\u01a1 \u0110\u0103ng"
+    "gwcode": "vi"
 }

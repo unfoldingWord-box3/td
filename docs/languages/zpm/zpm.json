@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zpm",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7449,
-    "lr": "Americas",
     "lc": "zpm",
+    "gw": false,
+    "ln": "Mixtepec Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Mixtepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Eastern Miahuatl\u00e1n Zapotec",
         "Zapoteco de San Juan Mixtepec"
     ],
-    "ang": "Zapotec, Mixtepec",
-    "gwcode": "es-419",
-    "ln": "Mixtepec Zapotec"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kwe",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3239,
-    "lr": "Asia",
     "lc": "kwe",
+    "gw": false,
+    "ln": "Kwerba",
+    "ld": "ltr",
+    "ang": "Kwerba",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -18,7 +20,5 @@
         "Segar Tor",
         "Tekutameso"
     ],
-    "ang": "Kwerba",
-    "gwcode": "id",
-    "ln": "Kwerba"
+    "gwcode": "id"
 }

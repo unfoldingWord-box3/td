@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "anm",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 270,
-    "lr": "Asia",
     "lc": "anm",
+    "gw": false,
+    "ln": "Anal",
+    "ld": "ltr",
+    "ang": "Anal",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN",
         "MM"
@@ -14,7 +16,5 @@
         "Namfau",
         "Mulsom"
     ],
-    "ang": "Anal",
-    "gwcode": "UNKNOWN",
-    "ln": "Anal"
+    "gwcode": "mni"
 }

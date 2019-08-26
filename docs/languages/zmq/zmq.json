@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zmq",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 7418,
-    "lr": "Africa",
     "lc": "zmq",
+    "gw": false,
+    "ln": "Mituku",
+    "ld": "ltr",
+    "ang": "Mituku",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -13,7 +15,5 @@
         "Kinya-Mituku",
         "Metoko"
     ],
-    "ang": "Mituku",
-    "gwcode": "fr",
-    "ln": "Mituku"
+    "gwcode": "fr"
 }

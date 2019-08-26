@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dup",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1665,
-    "lr": "Asia",
     "lc": "dup",
+    "gw": false,
+    "ln": "Duano",
+    "ld": "ltr",
+    "ang": "Duano",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "MY"
@@ -17,7 +19,5 @@
         "Orang Kuala",
         "Orang Laut"
     ],
-    "ang": "Duano",
-    "gwcode": "id",
-    "ln": "Duano"
+    "gwcode": "id"
 }

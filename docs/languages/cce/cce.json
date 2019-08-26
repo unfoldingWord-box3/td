@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cce",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 1152,
-    "lr": "Africa",
     "lc": "cce",
+    "gw": false,
+    "ln": "Chopi",
+    "ld": "ltr",
+    "ang": "Chopi",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ"
     ],
@@ -19,7 +21,5 @@
         "Lenge",
         "Lengue (Kilenge)"
     ],
-    "ang": "Chopi",
-    "gwcode": "pt",
-    "ln": "Chopi"
+    "gwcode": "pt"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tou",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 6259,
-    "lr": "Asia",
     "lc": "tou",
+    "gw": false,
+    "ln": "Th\u1ed5",
+    "ld": "ltr",
+    "ang": "Tho",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "LA",
         "VN"
@@ -16,7 +18,5 @@
         "Keo",
         "Cuoi Cham (Uy Lo)"
     ],
-    "ang": "Tho",
-    "gwcode": "vi",
-    "ln": "Th\u1ed5"
+    "gwcode": "vi"
 }

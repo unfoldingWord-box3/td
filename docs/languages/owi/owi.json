@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "owi",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4908,
-    "lr": "Pacific",
     "lc": "owi",
+    "gw": false,
+    "ln": "Owiniga",
+    "ld": "ltr",
+    "ang": "Owiniga",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Samo",
         "Taina"
     ],
-    "ang": "Owiniga",
-    "gwcode": "tpi",
-    "ln": "Owiniga"
+    "gwcode": "tpi"
 }

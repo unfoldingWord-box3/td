@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yan",
-    "hc": "NI",
-    "ld": "ltr",
     "pk": 7123,
-    "lr": "Americas",
     "lc": "yan",
+    "gw": false,
+    "ln": "Mayangna",
+    "ld": "ltr",
+    "ang": "Mayangna",
+    "hc": "NI",
+    "lr": "Americas",
     "cc": [
         "HN",
         "NI"
@@ -15,7 +17,5 @@
         "Panamahka (Panamaca)",
         "Tuahka (Taguasca)"
     ],
-    "ang": "Mayangna",
-    "gwcode": "es-419",
-    "ln": "Mayangna"
+    "gwcode": "es-419"
 }

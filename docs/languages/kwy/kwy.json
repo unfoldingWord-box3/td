@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kwy",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3258,
-    "lr": "Africa",
     "lc": "kwy",
+    "gw": false,
+    "ln": "San Salvador Kongo",
+    "ld": "ltr",
+    "ang": "Kongo, San Salvador",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Kikoongo",
         "Kisikongo"
     ],
-    "ang": "Kongo, San Salvador",
-    "gwcode": "fr",
-    "ln": "San Salvador Kongo"
+    "gwcode": "fr"
 }

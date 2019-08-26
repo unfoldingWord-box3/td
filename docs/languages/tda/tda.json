@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tda",
-    "hc": "NE",
-    "ld": "ltr",
     "pk": 6030,
-    "lr": "Africa",
     "lc": "tda",
+    "gw": false,
+    "ln": "Tagdal",
+    "ld": "ltr",
+    "ang": "Tagdal",
+    "hc": "NE",
+    "lr": "Africa",
     "cc": [
         "NE"
     ],
@@ -13,7 +15,5 @@
         "Air (Northern Tagdal)",
         "Azawagh (Southern Tagdal)"
     ],
-    "ang": "Tagdal",
-    "gwcode": "fr",
-    "ln": "Tagdal"
+    "gwcode": "fr"
 }

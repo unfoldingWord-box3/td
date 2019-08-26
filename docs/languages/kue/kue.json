@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kue",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3186,
-    "lr": "Pacific",
     "lc": "kue",
+    "gw": false,
+    "ln": "Kuman (Papua New Guinea)",
+    "ld": "ltr",
+    "ang": "Kuman",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Nagane (Genagane)",
         "Yongomugl"
     ],
-    "ang": "Kuman",
-    "gwcode": "tpi",
-    "ln": "Kuman (Papua New Guinea)"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "qvc",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 5270,
-    "lr": "Americas",
     "lc": "qvc",
+    "gw": false,
+    "ln": "Cajamarca Quechua",
+    "ld": "ltr",
+    "ang": "Quechua, Cajamarca",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -13,7 +15,5 @@
         "Eastern Cajamarca",
         "Western Cajamarca"
     ],
-    "ang": "Quechua, Cajamarca",
-    "gwcode": "es-419",
-    "ln": "Cajamarca Quechua"
+    "gwcode": "es-419"
 }

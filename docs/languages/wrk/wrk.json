@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wrk",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6809,
-    "lr": "Pacific",
     "lc": "wrk",
+    "gw": false,
+    "ln": "Garrwa",
+    "ld": "ltr",
+    "ang": "Garrwa",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -25,7 +27,5 @@
         "Wollongorang",
         "Wulungwara"
     ],
-    "ang": "Garrwa",
-    "gwcode": "en",
-    "ln": "Garrwa"
+    "gwcode": "en"
 }

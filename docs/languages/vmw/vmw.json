@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vmw",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 6641,
-    "lr": "Africa",
     "lc": "vmw",
+    "gw": false,
+    "ln": "Makhuwa",
+    "ld": "ltr",
+    "ang": "Makhuwa",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ"
     ],
@@ -29,7 +31,5 @@
         "Makhuwana",
         "Enlai (Mulai)"
     ],
-    "ang": "Makhuwa",
-    "gwcode": "pt",
-    "ln": "Makhuwa"
+    "gwcode": "pt"
 }

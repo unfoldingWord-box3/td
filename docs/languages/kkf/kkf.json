@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kkf",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2938,
-    "lr": "Asia",
     "lc": "kkf",
+    "gw": false,
+    "ln": "Kalaktang Monpa",
+    "ld": "ltr",
+    "ang": "Monpa, Kalaktang",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Southern Monpa",
         "Tsangla Monpa"
     ],
-    "ang": "Monpa, Kalaktang",
-    "gwcode": "en",
-    "ln": "Kalaktang Monpa"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "enh",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 1753,
-    "lr": "Europe",
     "lc": "enh",
+    "gw": false,
+    "ln": "\u042d\u043d\u0435\u0446\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Enets, Tundra",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -14,7 +16,5 @@
         "Somatu",
         "Yenisei Samoyedic"
     ],
-    "ang": "Enets, Tundra",
-    "gwcode": "ru",
-    "ln": "\u042d\u043d\u0435\u0446\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

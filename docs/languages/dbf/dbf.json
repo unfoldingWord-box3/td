@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dbf",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1445,
-    "lr": "Asia",
     "lc": "dbf",
+    "gw": false,
+    "ln": "Edopi",
+    "ld": "ltr",
+    "ang": "Edopi",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -21,7 +23,5 @@
         "Ururi",
         "Yau"
     ],
-    "ang": "Edopi",
-    "gwcode": "id",
-    "ln": "Edopi"
+    "gwcode": "id"
 }

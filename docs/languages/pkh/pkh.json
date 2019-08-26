@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pkh",
-    "hc": "BD",
-    "ld": "ltr",
     "pk": 5053,
-    "lr": "Asia",
     "lc": "pkh",
+    "gw": false,
+    "ln": "Pankhu",
+    "ld": "ltr",
+    "ang": "Pangkhua",
+    "hc": "BD",
+    "lr": "Asia",
     "cc": [
         "BD"
     ],
@@ -18,7 +20,5 @@
         "Pankhua",
         "Pankua"
     ],
-    "ang": "Pangkhua",
-    "gwcode": "bn",
-    "ln": "Pankhu"
+    "gwcode": "bn"
 }

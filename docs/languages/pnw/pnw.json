@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pnw",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 5119,
-    "lr": "Pacific",
     "lc": "pnw",
+    "gw": false,
+    "ln": "Panytyima",
+    "ld": "ltr",
+    "ang": "Panytyima",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -17,7 +19,5 @@
         "Panjtjima",
         "Panyjima"
     ],
-    "ang": "Panytyima",
-    "gwcode": "en",
-    "ln": "Panytyima"
+    "gwcode": "en"
 }

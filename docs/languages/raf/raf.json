@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "raf",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5309,
-    "lr": "Asia",
     "lc": "raf",
+    "gw": false,
+    "ln": "Western Meohang",
+    "ld": "ltr",
+    "ang": "Mewahang, Western",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -18,7 +20,5 @@
         "Western Meohang",
         "Bala (Balali)"
     ],
-    "ang": "Mewahang, Western",
-    "gwcode": "ne",
-    "ln": "Western Meohang"
+    "gwcode": "ne"
 }

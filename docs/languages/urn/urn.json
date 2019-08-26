@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "urn",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6549,
-    "lr": "Asia",
     "lc": "urn",
+    "gw": false,
+    "ln": "Uruangnirin",
+    "ld": "ltr",
+    "ang": "Uruangnirin",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Faur",
         "Tubiruasa"
     ],
-    "ang": "Uruangnirin",
-    "gwcode": "id",
-    "ln": "Uruangnirin"
+    "gwcode": "id"
 }

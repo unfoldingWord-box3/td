@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wod",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6791,
-    "lr": "Asia",
     "lc": "wod",
+    "gw": false,
+    "ln": "Wolani",
+    "ld": "ltr",
+    "ang": "Wolani",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Woda-Mo",
         "Wodani"
     ],
-    "ang": "Wolani",
-    "gwcode": "id",
-    "ln": "Wolani"
+    "gwcode": "id"
 }

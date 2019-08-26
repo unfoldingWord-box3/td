@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ole",
-    "hc": "BT",
-    "ld": "ltr",
     "pk": 4816,
-    "lr": "Asia",
     "lc": "ole",
+    "gw": false,
+    "ln": "Olekha",
+    "ld": "ltr",
+    "ang": "Olekha",
+    "hc": "BT",
+    "lr": "Asia",
     "cc": [
         "BT"
     ],
@@ -15,7 +17,5 @@
         "Monpa",
         "Ole M\u00f6npa"
     ],
-    "ang": "Olekha",
-    "gwcode": "UNKNOWN",
-    "ln": "Olekha"
+    "gwcode": "dz"
 }

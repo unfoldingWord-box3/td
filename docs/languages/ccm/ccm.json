@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "ccm",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 1157,
-    "lr": "Asia",
     "lc": "ccm",
+    "gw": false,
+    "ln": "Malaccan Creole Malay",
+    "ld": "ltr",
+    "ang": "Malaccan Creole Malay",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
     "alt": [
         "Chitties Creole Malay"
     ],
-    "ang": "Malaccan Creole Malay",
-    "gwcode": "ms",
-    "ln": "Malaccan Creole Malay"
+    "gwcode": "ms"
 }

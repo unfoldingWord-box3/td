@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mrj",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 4079,
-    "lr": "Europe",
     "lc": "mrj",
+    "gw": false,
+    "ln": "\u041a\u044b\u0440\u044b\u043a \u043c\u0430\u0440\u044b",
+    "ld": "ltr",
+    "ang": "Mari, Hill",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -16,7 +18,5 @@
         "Mari-Hills",
         "Western Mari"
     ],
-    "ang": "Mari, Hill",
-    "gwcode": "ru",
-    "ln": "\u041a\u044b\u0440\u044b\u043a \u043c\u0430\u0440\u044b"
+    "gwcode": "ru"
 }

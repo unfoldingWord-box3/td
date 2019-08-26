@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ruu",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 5444,
-    "lr": "Asia",
     "lc": "ruu",
+    "gw": false,
+    "ln": "Lanas Lobu",
+    "ld": "ltr",
+    "ang": "Lobu, Lanas",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -15,7 +17,5 @@
         "Rumanau (Romanau)",
         "Rumanau Alab"
     ],
-    "ang": "Lobu, Lanas",
-    "gwcode": "ms",
-    "ln": "Lanas Lobu"
+    "gwcode": "ms"
 }

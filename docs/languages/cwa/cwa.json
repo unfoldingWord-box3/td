@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cwa",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 1405,
-    "lr": "Africa",
     "lc": "cwa",
+    "gw": false,
+    "ln": "Kabwa",
+    "ld": "ltr",
+    "ang": "Kabwa",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -14,7 +16,5 @@
         "Ekikabwa",
         "Kikabwa"
     ],
-    "ang": "Kabwa",
-    "gwcode": "sw",
-    "ln": "Kabwa"
+    "gwcode": "sw"
 }

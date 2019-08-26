@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zmr",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7419,
-    "lr": "Pacific",
     "lc": "zmr",
+    "gw": false,
+    "ln": "Maranunggu",
+    "ld": "ltr",
+    "ang": "Maranunggu",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Merranunggu",
         "Warrgat"
     ],
-    "ang": "Maranunggu",
-    "gwcode": "en",
-    "ln": "Maranunggu"
+    "gwcode": "en"
 }

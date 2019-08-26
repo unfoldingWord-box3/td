@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aax",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 26,
-    "lr": "Asia",
     "lc": "aax",
+    "gw": false,
+    "ln": "Mandobo Atas",
+    "ld": "ltr",
+    "ang": "Mandobo Atas",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -18,7 +20,5 @@
         "Wambon",
         "Kaeti"
     ],
-    "ang": "Mandobo Atas",
-    "gwcode": "id",
-    "ln": "Mandobo Atas"
+    "gwcode": "id"
 }

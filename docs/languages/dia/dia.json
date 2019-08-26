@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dia",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1519,
-    "lr": "Pacific",
     "lc": "dia",
+    "gw": false,
+    "ln": "Dia",
+    "ld": "ltr",
+    "ang": "Dia",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Galu",
         "Metru"
     ],
-    "ang": "Dia",
-    "gwcode": "tpi",
-    "ln": "Dia"
+    "gwcode": "tpi"
 }

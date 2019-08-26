@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "nmu",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 4553,
-    "lr": "Americas",
     "lc": "nmu",
+    "gw": false,
+    "ln": "Northeast Maidu",
+    "ld": "ltr",
+    "ang": "Maidu, Northeast",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
     "alt": [
         "Mountain Maidu"
     ],
-    "ang": "Maidu, Northeast",
-    "gwcode": "en",
-    "ln": "Northeast Maidu"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yih",
-    "hc": "DE",
-    "ld": "ltr",
     "pk": 7183,
-    "lr": "Europe",
     "lc": "yih",
+    "gw": false,
+    "ln": "Western Yiddish",
+    "ld": "ltr",
+    "ang": "Yiddish, Western",
+    "hc": "DE",
+    "lr": "Europe",
     "cc": [
         "DE"
     ],
@@ -14,7 +16,5 @@
         "Yiddish",
         "Yidish"
     ],
-    "ang": "Yiddish, Western",
-    "gwcode": "en",
-    "ln": "Western Yiddish"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ahg",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 149,
-    "lr": "Africa",
     "lc": "ahg",
+    "gw": false,
+    "ln": "Qimant",
+    "ld": "ltr",
+    "ang": "Qimant",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -25,7 +27,5 @@
         "Kimanteney",
         "Western Agaw"
     ],
-    "ang": "Qimant",
-    "gwcode": "am",
-    "ln": "Qimant"
+    "gwcode": "am"
 }

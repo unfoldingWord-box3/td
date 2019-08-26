@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "alx",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 231,
-    "lr": "Pacific",
     "lc": "alx",
+    "gw": false,
+    "ln": "Amol",
+    "ld": "ltr",
+    "ang": "Amol",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Aru",
         "Eru"
     ],
-    "ang": "Amol",
-    "gwcode": "tpi",
-    "ln": "Amol"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bwf",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1023,
-    "lr": "Pacific",
     "lc": "bwf",
+    "gw": false,
+    "ln": "Boselewa",
+    "ld": "ltr",
+    "ang": "Boselewa",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Bosilewa",
         "Mwani'u"
     ],
-    "ang": "Boselewa",
-    "gwcode": "tpi",
-    "ln": "Boselewa"
+    "gwcode": "tpi"
 }

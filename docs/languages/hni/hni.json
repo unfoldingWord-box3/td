@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hni",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2318,
-    "lr": "Asia",
     "lc": "hni",
+    "gw": false,
+    "ln": "\u54c8\u5c3c\u8bed",
+    "ld": "ltr",
+    "ang": "Hani",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "LA"
@@ -21,7 +23,5 @@
         "X\u00e1 U N\u00ed",
         "Xauni"
     ],
-    "ang": "Hani",
-    "gwcode": "zh",
-    "ln": "\u54c8\u5c3c\u8bed"
+    "gwcode": "zh"
 }

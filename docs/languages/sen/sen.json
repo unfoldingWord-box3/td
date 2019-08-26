@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sen",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 5554,
-    "lr": "Africa",
     "lc": "sen",
+    "gw": false,
+    "ln": "Nanerig\u00e9 S\u00e9noufo",
+    "ld": "ltr",
+    "ang": "S\u00e9noufo, Nanerig\u00e9",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -16,7 +18,5 @@
         "Nanerg\u00e9",
         "Nanergu\u00e9"
     ],
-    "ang": "S\u00e9noufo, Nanerig\u00e9",
-    "gwcode": "fr",
-    "ln": "Nanerig\u00e9 S\u00e9noufo"
+    "gwcode": "fr"
 }

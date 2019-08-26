@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "uar",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6467,
-    "lr": "Pacific",
     "lc": "uar",
+    "gw": false,
+    "ln": "Tairuma",
+    "ld": "ltr",
+    "ang": "Tairuma",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Tairuma'a",
         "Uaripi"
     ],
-    "ang": "Tairuma",
-    "gwcode": "tpi",
-    "ln": "Tairuma"
+    "gwcode": "tpi"
 }

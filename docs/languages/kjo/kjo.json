@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kjo",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2921,
-    "lr": "Asia",
     "lc": "kjo",
+    "gw": false,
+    "ln": "Harijan Kinnauri",
+    "ld": "ltr",
+    "ang": "Kinnauri, Pahari",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -21,7 +23,5 @@
         "Harijan",
         "Kinnauri"
     ],
-    "ang": "Kinnauri, Pahari",
-    "gwcode": "hi",
-    "ln": "Harijan Kinnauri"
+    "gwcode": "hi"
 }

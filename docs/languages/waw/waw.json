@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "waw",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6685,
-    "lr": "Americas",
     "lc": "waw",
+    "gw": false,
+    "ln": "Waiwai",
+    "ld": "ltr",
+    "ang": "Waiwai",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "GY"
@@ -27,7 +29,5 @@
         "Catawian",
         "Catauian"
     ],
-    "ang": "Waiwai",
-    "gwcode": "pt",
-    "ln": "Waiwai"
+    "gwcode": "pt"
 }

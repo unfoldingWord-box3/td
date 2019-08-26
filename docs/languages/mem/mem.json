@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mem",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 3764,
-    "lr": "Pacific",
     "lc": "mem",
+    "gw": false,
+    "ln": "Mangala",
+    "ld": "ltr",
+    "ang": "Mangala",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -21,7 +23,5 @@
         "Minala",
         "Yalmbau"
     ],
-    "ang": "Mangala",
-    "gwcode": "en",
-    "ln": "Mangala"
+    "gwcode": "en"
 }

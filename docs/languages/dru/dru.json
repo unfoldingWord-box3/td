@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dru",
-    "hc": "TW",
-    "ld": "ltr",
     "pk": 1627,
-    "lr": "Asia",
     "lc": "dru",
+    "gw": false,
+    "ln": "Rukai",
+    "ld": "ltr",
+    "ang": "Rukai",
+    "hc": "TW",
+    "lr": "Asia",
     "cc": [
         "CN",
         "TW"
@@ -24,7 +26,5 @@
         "Tsalisen",
         "Tsarisen"
     ],
-    "ang": "Rukai",
-    "gwcode": "zh",
-    "ln": "Rukai"
+    "gwcode": "zh"
 }

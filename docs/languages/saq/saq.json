@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "saq",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 5470,
-    "lr": "Africa",
     "lc": "saq",
+    "gw": false,
+    "ln": "Samburu",
+    "ld": "ltr",
+    "ang": "Samburu",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -19,7 +21,5 @@
         "Njemps",
         "Chamus (Ilcamus)"
     ],
-    "ang": "Samburu",
-    "gwcode": "sw",
-    "ln": "Samburu"
+    "gwcode": "sw"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "awk",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 442,
-    "lr": "Pacific",
     "lc": "awk",
+    "gw": false,
+    "ln": "Awabakal",
+    "ld": "ltr",
+    "ang": "Awabakal",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Wonarua",
         "Cameeragal"
     ],
-    "ang": "Awabakal",
-    "gwcode": "en",
-    "ln": "Awabakal"
+    "gwcode": "en"
 }

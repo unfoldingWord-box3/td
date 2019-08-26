@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tuq",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 6387,
-    "lr": "Africa",
     "lc": "tuq",
+    "gw": false,
+    "ln": "Tedaga",
+    "ld": "ltr",
+    "ang": "Tedaga",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "TD",
@@ -22,7 +24,5 @@
         "Tuda",
         "Tudaga"
     ],
-    "ang": "Tedaga",
-    "gwcode": "ar",
-    "ln": "Tedaga"
+    "gwcode": "ar"
 }

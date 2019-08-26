@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "twd",
-    "hc": "NL",
-    "ld": "ltr",
     "pk": 6407,
-    "lr": "Europe",
     "lc": "twd",
+    "gw": false,
+    "ln": "Twents",
+    "ld": "ltr",
+    "ang": "Twents",
+    "hc": "NL",
+    "lr": "Europe",
     "cc": [
         "NL"
     ],
     "alt": [
         "Twente"
     ],
-    "ang": "Twents",
-    "gwcode": "UNKNOWN",
-    "ln": "Twents"
+    "gwcode": "nl"
 }

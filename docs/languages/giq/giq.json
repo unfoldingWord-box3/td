@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "giq",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 2030,
-    "lr": "Asia",
     "lc": "giq",
+    "gw": false,
+    "ln": "Hagei",
+    "ld": "ltr",
+    "ang": "Gelao, Green",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -17,7 +19,5 @@
         "Klau",
         "Qau"
     ],
-    "ang": "Gelao, Green",
-    "gwcode": "vi",
-    "ln": "Hagei"
+    "gwcode": "vi"
 }

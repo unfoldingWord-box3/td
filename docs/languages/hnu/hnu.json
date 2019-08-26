@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hnu",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 2323,
-    "lr": "Asia",
     "lc": "hnu",
+    "gw": false,
+    "ln": "Hung",
+    "ld": "ltr",
+    "ang": "Hung",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA"
     ],
@@ -22,7 +24,5 @@
         "Pong (Khong Kheng)",
         "Phong (Pong)"
     ],
-    "ang": "Hung",
-    "gwcode": "lo",
-    "ln": "Hung"
+    "gwcode": "lo"
 }

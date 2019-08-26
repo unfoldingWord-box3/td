@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nys",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4743,
-    "lr": "Pacific",
     "lc": "nys",
+    "gw": false,
+    "ln": "Nyunga",
+    "ld": "ltr",
+    "ang": "Nyunga",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Neo-Nyunga",
         "Nyungar"
     ],
-    "ang": "Nyunga",
-    "gwcode": "en",
-    "ln": "Nyunga"
+    "gwcode": "en"
 }

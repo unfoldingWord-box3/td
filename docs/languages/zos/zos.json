@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zos",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7436,
-    "lr": "Americas",
     "lc": "zos",
+    "gw": false,
+    "ln": "Francisco Le\u00f3n Zoque",
+    "ld": "ltr",
+    "ang": "Zoque, Francisco Le\u00f3n",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Santa Magdalena Zoque",
         "Zoque de Francisco Le\u00f3n"
     ],
-    "ang": "Zoque, Francisco Le\u00f3n",
-    "gwcode": "es-419",
-    "ln": "Francisco Le\u00f3n Zoque"
+    "gwcode": "es-419"
 }

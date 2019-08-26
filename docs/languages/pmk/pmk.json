@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "pmk",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 5090,
-    "lr": "Americas",
     "lc": "pmk",
+    "gw": false,
+    "ln": "Pamlico",
+    "ld": "ltr",
+    "ang": "Pamlico",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
     "alt": [],
-    "ang": "Pamlico",
-    "gwcode": "UNKNOWN",
-    "ln": "Pamlico"
+    "gwcode": null
 }

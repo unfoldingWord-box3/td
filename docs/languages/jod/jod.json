@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jod",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 2657,
-    "lr": "Africa",
     "lc": "jod",
+    "gw": false,
+    "ln": "Wojenaka",
+    "ld": "ltr",
+    "ang": "Wojenaka",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -19,7 +21,5 @@
         "Wassulunke",
         "Wasulu (Wassoulounka)"
     ],
-    "ang": "Wojenaka",
-    "gwcode": "fr",
-    "ln": "Wojenaka"
+    "gwcode": "fr"
 }

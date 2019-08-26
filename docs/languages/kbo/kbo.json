@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbo",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 2724,
-    "lr": "Africa",
     "lc": "kbo",
+    "gw": false,
+    "ln": "Keliko",
+    "ld": "ltr",
+    "ang": "Keliko",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS",
         "US"
@@ -15,7 +17,5 @@
         "Ma'di",
         "Maditi"
     ],
-    "ang": "Keliko",
-    "gwcode": "ar",
-    "ln": "Keliko"
+    "gwcode": "ar"
 }

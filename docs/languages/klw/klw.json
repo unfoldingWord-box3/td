@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "klw",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2982,
-    "lr": "Asia",
     "lc": "klw",
+    "gw": false,
+    "ln": "Lindu",
+    "ld": "ltr",
+    "ang": "Lindu",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Linduan",
         "Tado"
     ],
-    "ang": "Lindu",
-    "gwcode": "id",
-    "ln": "Lindu"
+    "gwcode": "id"
 }

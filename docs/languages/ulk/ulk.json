@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ulk",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6510,
-    "lr": "Pacific",
     "lc": "ulk",
+    "gw": false,
+    "ln": "Meriam",
+    "ld": "ltr",
+    "ang": "Meriam",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU",
         "PG"
@@ -18,7 +20,5 @@
         "Miriam",
         "Miriam-Mir"
     ],
-    "ang": "Meriam",
-    "gwcode": "en",
-    "ln": "Meriam"
+    "gwcode": "en"
 }

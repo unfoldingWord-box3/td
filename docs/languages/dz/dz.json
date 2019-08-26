@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dzo",
-    "hc": "BT",
-    "ld": "ltr",
     "pk": 1685,
-    "lr": "Asia",
     "lc": "dz",
+    "gw": false,
+    "ln": "\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41",
+    "ld": "ltr",
+    "ang": "Dzongkha",
+    "hc": "BT",
+    "lr": "Asia",
     "cc": [
         "BT",
         "NP",
@@ -26,7 +28,5 @@
         "Lhoskad",
         "Wang-The (Thimphu-Punakha)"
     ],
-    "ang": "Dzongkha",
-    "gwcode": "UNKNOWN",
-    "ln": "\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41"
+    "gwcode": null
 }

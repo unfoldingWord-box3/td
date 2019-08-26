@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbc",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 2713,
-    "lr": "Americas",
     "lc": "kbc",
+    "gw": false,
+    "ln": "Kadiw\u00e9u",
+    "ld": "ltr",
+    "ang": "Kadiw\u00e9u",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Ediu-Adig",
         "Mbaya-Guaikuru"
     ],
-    "ang": "Kadiw\u00e9u",
-    "gwcode": "pt",
-    "ln": "Kadiw\u00e9u"
+    "gwcode": "pt"
 }

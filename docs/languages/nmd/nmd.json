@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nmd",
-    "hc": "GA",
-    "ld": "ltr",
     "pk": 4537,
-    "lr": "Africa",
     "lc": "nmd",
+    "gw": false,
+    "ln": "Ndumu",
+    "ld": "ltr",
+    "ang": "Ndumu",
+    "hc": "GA",
+    "lr": "Africa",
     "cc": [
         "GA",
         "CG"
@@ -24,7 +26,5 @@
         "Ondoumbo",
         "Ondumbo"
     ],
-    "ang": "Ndumu",
-    "gwcode": "fr",
-    "ln": "Ndumu"
+    "gwcode": "fr"
 }

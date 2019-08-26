@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "odk",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4774,
-    "lr": "Asia",
     "lc": "odk",
+    "gw": false,
+    "ln": "Od",
+    "ld": "ltr",
+    "ang": "Od-Rajput",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "PK",
         "IN"
@@ -14,7 +16,5 @@
         "Oad",
         "Odki"
     ],
-    "ang": "Od-Rajput",
-    "gwcode": "ur",
-    "ln": "Od"
+    "gwcode": "ur"
 }

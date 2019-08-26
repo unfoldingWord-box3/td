@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yuf",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 7296,
-    "lr": "Americas",
     "lc": "yuf",
+    "gw": false,
+    "ln": "Havasupai-Walapai-Yavapai",
+    "ld": "ltr",
+    "ang": "Havasupai-Walapai-Yavapai",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -16,7 +18,5 @@
         "Hwalb\u00e1y",
         "Walapai (Hualapai)"
     ],
-    "ang": "Havasupai-Walapai-Yavapai",
-    "gwcode": "en",
-    "ln": "Havasupai-Walapai-Yavapai"
+    "gwcode": "en"
 }

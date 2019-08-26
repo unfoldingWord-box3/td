@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sqh",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 5793,
-    "lr": "Africa",
     "lc": "sqh",
+    "gw": false,
+    "ln": "Shau",
+    "ld": "ltr",
+    "ang": "Shau",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "L\u00ecsh\u00e1\u00f9",
         "Sho"
     ],
-    "ang": "Shau",
-    "gwcode": "en",
-    "ln": "Shau"
+    "gwcode": "en"
 }

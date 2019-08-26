@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ewo",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 1805,
-    "lr": "Africa",
     "lc": "ewo",
+    "gw": false,
+    "ln": "Ewondo",
+    "ld": "ltr",
+    "ang": "Ewondo",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -21,7 +23,5 @@
         "Yesoum",
         "Yezum"
     ],
-    "ang": "Ewondo",
-    "gwcode": "fr",
-    "ln": "Ewondo"
+    "gwcode": "fr"
 }

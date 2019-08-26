@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "byz",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1082,
-    "lr": "Pacific",
     "lc": "byz",
+    "gw": false,
+    "ln": "Banaro",
+    "ld": "ltr",
+    "ang": "Banaro",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Banara",
         "Waran"
     ],
-    "ang": "Banaro",
-    "gwcode": "tpi",
-    "ln": "Banaro"
+    "gwcode": "tpi"
 }

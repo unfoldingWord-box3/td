@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "beh",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 593,
-    "lr": "Africa",
     "lc": "beh",
+    "gw": false,
+    "ln": "Biali",
+    "ld": "ltr",
+    "ang": "Biali",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "BF"
@@ -24,7 +26,5 @@
         "Dassari",
         "Gouande"
     ],
-    "ang": "Biali",
-    "gwcode": "fr",
-    "ln": "Biali"
+    "gwcode": "fr"
 }

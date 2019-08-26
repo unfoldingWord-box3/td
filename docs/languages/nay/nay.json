@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nay",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4307,
-    "lr": "Pacific",
     "lc": "nay",
+    "gw": false,
+    "ln": "Narrinyeri",
+    "ld": "ltr",
+    "ang": "Narrinyeri",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Ngarrindjeri",
         "Yaralde"
     ],
-    "ang": "Narrinyeri",
-    "gwcode": "en",
-    "ln": "Narrinyeri"
+    "gwcode": "en"
 }

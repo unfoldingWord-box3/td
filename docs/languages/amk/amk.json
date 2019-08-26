@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "amk",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 243,
-    "lr": "Asia",
     "lc": "amk",
+    "gw": false,
+    "ln": "Ambai",
+    "ld": "ltr",
+    "ang": "Ambai",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Ambai (Wadapi-Laut)",
         "Ambai-Menawi"
     ],
-    "ang": "Ambai",
-    "gwcode": "pmy",
-    "ln": "Ambai"
+    "gwcode": "pmy"
 }

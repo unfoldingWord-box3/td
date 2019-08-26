@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tmb",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 6196,
-    "lr": "Pacific",
     "lc": "tmb",
+    "gw": false,
+    "ln": "Katbol",
+    "ld": "ltr",
+    "ang": "Avava",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -20,7 +22,5 @@
         "Nevaar",
         "Nevat"
     ],
-    "ang": "Avava",
-    "gwcode": "fr",
-    "ln": "Katbol"
+    "gwcode": "fr"
 }

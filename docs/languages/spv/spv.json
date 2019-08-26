@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "spv",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5788,
-    "lr": "Asia",
     "lc": "spv",
+    "gw": false,
+    "ln": "Sambalpuri",
+    "ld": "ltr",
+    "ang": "Sambalpuri",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -16,7 +18,5 @@
         "Koshali",
         "Western Oriya"
     ],
-    "ang": "Sambalpuri",
-    "gwcode": "hi",
-    "ln": "Sambalpuri"
+    "gwcode": "hi"
 }

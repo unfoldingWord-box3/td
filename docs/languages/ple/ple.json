@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ple",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5066,
-    "lr": "Asia",
     "lc": "ple",
+    "gw": false,
+    "ln": "Palu'e",
+    "ld": "ltr",
+    "ang": "Palu\u2019e",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Lu'a",
         "Paluqe"
     ],
-    "ang": "Palu\u2019e",
-    "gwcode": "id",
-    "ln": "Palu'e"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "klu",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 2980,
-    "lr": "Africa",
     "lc": "klu",
+    "gw": false,
+    "ln": "Klao",
+    "ld": "ltr",
+    "ang": "Klao",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR",
         "SL"
@@ -15,7 +17,5 @@
         "Klau",
         "Kru"
     ],
-    "ang": "Klao",
-    "gwcode": "en",
-    "ln": "Klao"
+    "gwcode": "en"
 }

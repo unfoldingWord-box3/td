@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ksa",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3133,
-    "lr": "Africa",
     "lc": "ksa",
+    "gw": false,
+    "ln": "Shuwa-Zamani",
+    "ld": "ltr",
+    "ang": "Shuwa-Zamani",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Kuzamani",
         "Rishuwa"
     ],
-    "ang": "Shuwa-Zamani",
-    "gwcode": "en",
-    "ln": "Shuwa-Zamani"
+    "gwcode": "en"
 }

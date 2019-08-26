@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hra",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2344,
-    "lr": "Asia",
     "lc": "hra",
+    "gw": false,
+    "ln": "Hrangkhol",
+    "ld": "ltr",
+    "ang": "Hrangkhol",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN",
         "MM"
@@ -14,7 +16,5 @@
         "Hrangkol",
         "Rangkhol"
     ],
-    "ang": "Hrangkhol",
-    "gwcode": "as",
-    "ln": "Hrangkhol"
+    "gwcode": "as"
 }

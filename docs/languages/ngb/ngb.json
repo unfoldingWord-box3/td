@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ngb",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4410,
-    "lr": "Africa",
     "lc": "ngb",
+    "gw": false,
+    "ln": "Northern Ngbandi",
+    "ld": "ltr",
+    "ang": "Ngbandi, Northern",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CF",
         "CD"
@@ -15,7 +17,5 @@
         "Mongwandi",
         "Ngwandi"
     ],
-    "ang": "Ngbandi, Northern",
-    "gwcode": "fr",
-    "ln": "Northern Ngbandi"
+    "gwcode": "fr"
 }

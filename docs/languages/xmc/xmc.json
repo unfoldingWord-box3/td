@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xmc",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 6971,
-    "lr": "Africa",
     "lc": "xmc",
+    "gw": false,
+    "ln": "Makhuwa-Marrevone",
+    "ld": "ltr",
+    "ang": "Makhuwa-Marrevone",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ"
     ],
@@ -21,7 +23,5 @@
         "Naharra (Enaharra)",
         "Nampamela (Empamela)"
     ],
-    "ang": "Makhuwa-Marrevone",
-    "gwcode": "pt",
-    "ln": "Makhuwa-Marrevone"
+    "gwcode": "pt"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vor",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 6649,
-    "lr": "Africa",
     "lc": "vor",
+    "gw": false,
+    "ln": "Voro",
+    "ld": "ltr",
+    "ang": "Voro",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -17,7 +19,5 @@
         "Woro",
         "Yungur"
     ],
-    "ang": "Voro",
-    "gwcode": "en",
-    "ln": "Voro"
+    "gwcode": "en"
 }

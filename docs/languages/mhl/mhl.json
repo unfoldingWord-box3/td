@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mhl",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3839,
-    "lr": "Pacific",
     "lc": "mhl",
+    "gw": false,
+    "ln": "Mauwake",
+    "ld": "ltr",
+    "ang": "Mauwake",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Mawake",
         "Ulingan"
     ],
-    "ang": "Mauwake",
-    "gwcode": "tpi",
-    "ln": "Mauwake"
+    "gwcode": "tpi"
 }

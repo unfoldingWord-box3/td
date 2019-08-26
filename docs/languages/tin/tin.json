@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tin",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 6132,
-    "lr": "Europe",
     "lc": "tin",
+    "gw": false,
+    "ln": "\u0422\u0438\u043d\u0434\u0438\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Tindi",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -15,7 +17,5 @@
         "Tindin-Echendin",
         "Angidin-Aknadin"
     ],
-    "ang": "Tindi",
-    "gwcode": "ru",
-    "ln": "\u0422\u0438\u043d\u0434\u0438\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

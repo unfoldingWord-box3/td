@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gqa",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2117,
-    "lr": "Africa",
     "lc": "gqa",
+    "gw": false,
+    "ln": "Ga'anda",
+    "ld": "ltr",
+    "ang": "Ga\u2019anda",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Makwar",
         "Mokar"
     ],
-    "ang": "Ga\u2019anda",
-    "gwcode": "en",
-    "ln": "Ga'anda"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ngs",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4426,
-    "lr": "Africa",
     "lc": "ngs",
+    "gw": false,
+    "ln": "Gvoko",
+    "ld": "ltr",
+    "ang": "Gvoko",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -22,7 +24,5 @@
         "Ngoshe Sama",
         "Ngweshe-Ndaghan"
     ],
-    "ang": "Gvoko",
-    "gwcode": "en",
-    "ln": "Gvoko"
+    "gwcode": "en"
 }

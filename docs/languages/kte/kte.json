@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kte",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 3163,
-    "lr": "Asia",
     "lc": "kte",
+    "gw": false,
+    "ln": "Nubri",
+    "ld": "ltr",
+    "ang": "Nubri",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Kutang Bhotia",
         "Larkye"
     ],
-    "ang": "Nubri",
-    "gwcode": "ne",
-    "ln": "Nubri"
+    "gwcode": "ne"
 }

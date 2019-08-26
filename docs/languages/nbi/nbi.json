@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nbi",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4316,
-    "lr": "Asia",
     "lc": "nbi",
+    "gw": false,
+    "ln": "Mao Naga",
+    "ld": "ltr",
+    "ang": "Naga, Mao",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -20,7 +22,5 @@
         "Southern Angami",
         "Spowama"
     ],
-    "ang": "Naga, Mao",
-    "gwcode": "en",
-    "ln": "Mao Naga"
+    "gwcode": "en"
 }

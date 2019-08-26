@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "keg",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 2789,
-    "lr": "Africa",
     "lc": "keg",
+    "gw": false,
+    "ln": "Tese",
+    "ld": "ltr",
+    "ang": "Tese",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -14,7 +16,5 @@
         "Keiga Jirru",
         "Teis-Umm-Danab"
     ],
-    "ang": "Tese",
-    "gwcode": "ar",
-    "ln": "Tese"
+    "gwcode": "ar"
 }

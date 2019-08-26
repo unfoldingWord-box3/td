@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "okk",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4804,
-    "lr": "Pacific",
     "lc": "okk",
+    "gw": false,
+    "ln": "Kwamtim One",
+    "ld": "ltr",
+    "ang": "One, Kwamtim",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Kwamtim",
         "Oni"
     ],
-    "ang": "One, Kwamtim",
-    "gwcode": "tpi",
-    "ln": "Kwamtim One"
+    "gwcode": "tpi"
 }

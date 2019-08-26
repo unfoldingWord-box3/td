@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bhi",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 668,
-    "lr": "Asia",
     "lc": "bhi",
+    "gw": false,
+    "ln": "Bhilali",
+    "ld": "ltr",
+    "ang": "Bhilali",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Bhilala",
         "Parya Bhilali"
     ],
-    "ang": "Bhilali",
-    "gwcode": "hi",
-    "ln": "Bhilali"
+    "gwcode": "hi"
 }

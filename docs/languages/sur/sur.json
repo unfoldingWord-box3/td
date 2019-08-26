@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sur",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 5885,
-    "lr": "Africa",
     "lc": "sur",
+    "gw": false,
+    "ln": "Mwaghavul",
+    "ld": "ltr",
+    "ang": "Mwaghavul",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Mapun",
         "Mupun (Mapan)"
     ],
-    "ang": "Mwaghavul",
-    "gwcode": "en",
-    "ln": "Mwaghavul"
+    "gwcode": "en"
 }

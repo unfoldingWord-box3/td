@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kaz",
-    "hc": "KZ",
-    "ld": "ltr",
     "pk": 2932,
-    "lr": "Asia",
     "lc": "kk",
+    "gw": false,
+    "ln": "\u049b\u0430\u0437\u0430\u049b \u0442\u0456\u043b\u0456",
+    "ld": "ltr",
+    "ang": "Kazakh",
+    "hc": "KZ",
+    "lr": "Asia",
     "cc": [
         "AZ",
         "CN",
@@ -31,7 +33,5 @@
         "Qazaq",
         "Qazaqi"
     ],
-    "ang": "Kazakh",
-    "gwcode": "ru",
-    "ln": "\u049b\u0430\u0437\u0430\u049b \u0442\u0456\u043b\u0456"
+    "gwcode": "ru"
 }

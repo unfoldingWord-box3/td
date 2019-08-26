@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "qvn",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 5277,
-    "lr": "Americas",
     "lc": "qvn",
+    "gw": false,
+    "ln": "North Jun\u00edn Quechua",
+    "ld": "ltr",
+    "ang": "Quechua, North Jun\u00edn",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -13,7 +15,5 @@
         "Jun\u00edn Quechua",
         "Tarma-Jun\u00edn Quechua"
     ],
-    "ang": "Quechua, North Jun\u00edn",
-    "gwcode": "es-419",
-    "ln": "North Jun\u00edn Quechua"
+    "gwcode": "es-419"
 }

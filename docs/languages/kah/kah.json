@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kah",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 2700,
-    "lr": "Africa",
     "lc": "kah",
+    "gw": false,
+    "ln": "Kara (Central African Republic)",
+    "ld": "ltr",
+    "ang": "Kara",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF",
         "SD"
@@ -14,7 +16,5 @@
         "Fer",
         "Fertit"
     ],
-    "ang": "Kara",
-    "gwcode": "fr",
-    "ln": "Kara (Central African Republic)"
+    "gwcode": "fr"
 }

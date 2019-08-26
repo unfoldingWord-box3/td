@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nbl",
-    "hc": "ZA",
-    "ld": "ltr",
     "pk": 4622,
-    "lr": "Africa",
     "lc": "nr",
+    "gw": false,
+    "ln": "isiNdebele",
+    "ld": "ltr",
+    "ang": "Southern Ndebele",
+    "hc": "ZA",
+    "lr": "Africa",
     "cc": [
         "ZA"
     ],
@@ -14,7 +16,5 @@
         "Nrebele",
         "Transvaal Ndebele"
     ],
-    "ang": "Southern Ndebele",
-    "gwcode": "en",
-    "ln": "isiNdebele"
+    "gwcode": "en"
 }

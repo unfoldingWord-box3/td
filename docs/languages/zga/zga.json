@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zga",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 7368,
-    "lr": "Africa",
     "lc": "zga",
+    "gw": false,
+    "ln": "Kinga",
+    "ld": "ltr",
+    "ang": "Kinga",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -13,7 +15,5 @@
         "Ekikinga",
         "Mahanji"
     ],
-    "ang": "Kinga",
-    "gwcode": "sw",
-    "ln": "Kinga"
+    "gwcode": "sw"
 }

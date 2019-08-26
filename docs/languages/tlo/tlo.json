@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tlo",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 6185,
-    "lr": "Africa",
     "lc": "tlo",
+    "gw": false,
+    "ln": "Talodi",
+    "ld": "ltr",
+    "ang": "Talodi",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -14,7 +16,5 @@
         "Gajomang",
         "Jomang"
     ],
-    "ang": "Talodi",
-    "gwcode": "ar",
-    "ln": "Talodi"
+    "gwcode": "ar"
 }

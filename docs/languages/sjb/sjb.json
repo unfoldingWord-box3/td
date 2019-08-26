@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sjb",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5641,
-    "lr": "Asia",
     "lc": "sjb",
+    "gw": false,
+    "ln": "Sajau Basap",
+    "ld": "ltr",
+    "ang": "Sajau Basap",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Sajau",
         "Sujau"
     ],
-    "ang": "Sajau Basap",
-    "gwcode": "id",
-    "ln": "Sajau Basap"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lro",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 3588,
-    "lr": "Africa",
     "lc": "lro",
+    "gw": false,
+    "ln": "Laro",
+    "ld": "ltr",
+    "ang": "Laro",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -18,7 +20,5 @@
         "Yidundili-Yigoromany",
         "Yilaru"
     ],
-    "ang": "Laro",
-    "gwcode": "ar",
-    "ln": "Laro"
+    "gwcode": "ar"
 }

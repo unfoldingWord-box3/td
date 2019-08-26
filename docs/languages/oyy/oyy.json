@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "oyy",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4913,
-    "lr": "Pacific",
     "lc": "oyy",
+    "gw": false,
+    "ln": "Oya'oya",
+    "ld": "ltr",
+    "ang": "Oya\u2019oya",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Loani",
         "Simagahi"
     ],
-    "ang": "Oya\u2019oya",
-    "gwcode": "tpi",
-    "ln": "Oya'oya"
+    "gwcode": "tpi"
 }

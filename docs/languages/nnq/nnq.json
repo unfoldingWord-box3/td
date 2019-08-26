@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nnq",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 4574,
-    "lr": "Africa",
     "lc": "nnq",
+    "gw": false,
+    "ln": "Ngindo",
+    "ld": "ltr",
+    "ang": "Ngindo",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -14,7 +16,5 @@
         "Magingo",
         "Njindo"
     ],
-    "ang": "Ngindo",
-    "gwcode": "sw",
-    "ln": "Ngindo"
+    "gwcode": "sw"
 }

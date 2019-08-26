@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bby",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 532,
-    "lr": "Africa",
     "lc": "bby",
+    "gw": false,
+    "ln": "Befang",
+    "ld": "ltr",
+    "ang": "Befang",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -30,7 +32,5 @@
         "Ushaku (Mokuru)",
         "Ge"
     ],
-    "ang": "Befang",
-    "gwcode": "fr",
-    "ln": "Befang"
+    "gwcode": "fr"
 }

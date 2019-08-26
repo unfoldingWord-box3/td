@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kuh",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3189,
-    "lr": "Africa",
     "lc": "kuh",
+    "gw": false,
+    "ln": "Kushi",
+    "ld": "ltr",
+    "ang": "Kushi",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Goji",
         "Kushe"
     ],
-    "ang": "Kushi",
-    "gwcode": "en",
-    "ln": "Kushi"
+    "gwcode": "en"
 }

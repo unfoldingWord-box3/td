@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kjy",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2930,
-    "lr": "Pacific",
     "lc": "kjy",
+    "gw": false,
+    "ln": "Erave",
+    "ld": "ltr",
+    "ang": "Erave",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Pole",
         "South Kewa"
     ],
-    "ang": "Erave",
-    "gwcode": "tpi",
-    "ln": "Erave"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kfv",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2830,
-    "lr": "Asia",
     "lc": "kfv",
+    "gw": false,
+    "ln": "Kurmukar",
+    "ld": "ltr",
+    "ang": "Kurmukar",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -17,7 +19,5 @@
         "Kumhar",
         "Umar"
     ],
-    "ang": "Kurmukar",
-    "gwcode": "as",
-    "ln": "Kurmukar"
+    "gwcode": "as"
 }

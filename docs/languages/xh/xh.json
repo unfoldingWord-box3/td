@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xho",
-    "hc": "ZA",
-    "ld": "ltr",
     "pk": 6915,
-    "lr": "Africa",
     "lc": "xh",
+    "gw": false,
+    "ln": "isiXhosa",
+    "ld": "ltr",
+    "ang": "Xhosa",
+    "hc": "ZA",
+    "lr": "Africa",
     "cc": [
         "ZA",
         "ZW",
@@ -18,7 +20,5 @@
         "Xosa",
         "Cauzuh"
     ],
-    "ang": "Xhosa",
-    "gwcode": "en",
-    "ln": "isiXhosa"
+    "gwcode": "en"
 }

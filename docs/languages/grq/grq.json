@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "grq",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2131,
-    "lr": "Pacific",
     "lc": "grq",
+    "gw": false,
+    "ln": "Gorovu",
+    "ld": "ltr",
+    "ang": "Gorovu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Gorova",
         "Yerani"
     ],
-    "ang": "Gorovu",
-    "gwcode": "tpi",
-    "ln": "Gorovu"
+    "gwcode": "tpi"
 }

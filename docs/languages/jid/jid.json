@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jid",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2616,
-    "lr": "Africa",
     "lc": "jid",
+    "gw": false,
+    "ln": "Bu",
+    "ld": "ltr",
+    "ang": "Bu",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -18,7 +20,5 @@
         "Ninkada (Jida)",
         "Bu (Abu)"
     ],
-    "ang": "Bu",
-    "gwcode": "en",
-    "ln": "Bu"
+    "gwcode": "en"
 }

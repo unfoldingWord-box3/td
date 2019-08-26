@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ore",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 4865,
-    "lr": "Americas",
     "lc": "ore",
+    "gw": false,
+    "ln": "Orej\u00f3n",
+    "ld": "ltr",
+    "ang": "Orej\u00f3n",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -18,7 +20,5 @@
         "Payagua",
         "Tutapi"
     ],
-    "ang": "Orej\u00f3n",
-    "gwcode": "es-419",
-    "ln": "Orej\u00f3n"
+    "gwcode": "es-419"
 }

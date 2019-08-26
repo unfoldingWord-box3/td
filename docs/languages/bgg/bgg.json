@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bgg",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 641,
-    "lr": "Asia",
     "lc": "bgg",
+    "gw": false,
+    "ln": "Bugun",
+    "ld": "ltr",
+    "ang": "Bugun",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Khoa",
         "Khowa"
     ],
-    "ang": "Bugun",
-    "gwcode": "hi",
-    "ln": "Bugun"
+    "gwcode": "hi"
 }

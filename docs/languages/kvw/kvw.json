@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kvw",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3230,
-    "lr": "Asia",
     "lc": "kvw",
+    "gw": false,
+    "ln": "Wersing",
+    "ld": "ltr",
+    "ang": "Wersing",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Langkuru (Mademang)",
         "Pureman"
     ],
-    "ang": "Wersing",
-    "gwcode": "id",
-    "ln": "Wersing"
+    "gwcode": "id"
 }

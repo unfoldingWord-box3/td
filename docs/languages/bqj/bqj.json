@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bqj",
-    "hc": "SN",
-    "ld": "ltr",
     "pk": 882,
-    "lr": "Africa",
     "lc": "bqj",
+    "gw": false,
+    "ln": "Bandial",
+    "ld": "ltr",
+    "ang": "Bandial",
+    "hc": "SN",
+    "lr": "Africa",
     "cc": [
         "SN"
     ],
@@ -17,7 +19,5 @@
         "Kujireray",
         "Kuluunaay"
     ],
-    "ang": "Bandial",
-    "gwcode": "fr",
-    "ln": "Bandial"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lip",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 3466,
-    "lr": "Africa",
     "lc": "lip",
+    "gw": false,
+    "ln": "Sekpele",
+    "ld": "ltr",
+    "ang": "Sekpele",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -13,7 +15,5 @@
         "Bosele",
         "Mu"
     ],
-    "ang": "Sekpele",
-    "gwcode": "en",
-    "ln": "Sekpele"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ght",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 2019,
-    "lr": "Asia",
     "lc": "ght",
+    "gw": false,
+    "ln": "Kuke",
+    "ld": "ltr",
+    "ang": "Kuke",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Kutang",
         "Kutang Ghale"
     ],
-    "ang": "Kuke",
-    "gwcode": "ne",
-    "ln": "Kuke"
+    "gwcode": "ne"
 }

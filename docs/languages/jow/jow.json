@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jow",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 2659,
-    "lr": "Africa",
     "lc": "jow",
+    "gw": false,
+    "ln": "Jowulu",
+    "ld": "ltr",
+    "ang": "Jowulu",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "BF",
         "ML"
@@ -13,7 +15,5 @@
     "alt": [
         "Samogho"
     ],
-    "ang": "Jowulu",
-    "gwcode": "fr",
-    "ln": "Jowulu"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mxf",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4219,
-    "lr": "Africa",
     "lc": "mxf",
+    "gw": false,
+    "ln": "Malgbe",
+    "ld": "ltr",
+    "ang": "Malgbe",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "TD"
@@ -23,7 +25,5 @@
         "Douguia (Dugiya)",
         "Malgbe (Goulfei)"
     ],
-    "ang": "Malgbe",
-    "gwcode": "fr",
-    "ln": "Malgbe"
+    "gwcode": "fr"
 }

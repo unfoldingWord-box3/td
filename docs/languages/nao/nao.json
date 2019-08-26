@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nao",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 4299,
-    "lr": "Asia",
     "lc": "nao",
+    "gw": false,
+    "ln": "Naaba",
+    "ld": "ltr",
+    "ang": "Naaba",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Naba",
         "Nawa Sherpa"
     ],
-    "ang": "Naaba",
-    "gwcode": "ne",
-    "ln": "Naaba"
+    "gwcode": "ne"
 }

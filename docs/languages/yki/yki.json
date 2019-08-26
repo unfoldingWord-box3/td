@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yki",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 7200,
-    "lr": "Asia",
     "lc": "yki",
+    "gw": false,
+    "ln": "Yoke",
+    "ld": "ltr",
+    "ang": "Yoke",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Yauke",
         "Yoki"
     ],
-    "ang": "Yoke",
-    "gwcode": "id",
-    "ln": "Yoke"
+    "gwcode": "id"
 }

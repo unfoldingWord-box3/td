@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "myz",
-    "hc": "IR",
-    "ld": "ltr",
     "pk": 4261,
-    "lr": "Asia",
     "lc": "myz",
+    "gw": false,
+    "ln": "Classical Mandaic",
+    "ld": "ltr",
+    "ang": "Mandaic, Classical",
+    "hc": "IR",
+    "lr": "Asia",
     "cc": [
         "IR"
     ],
     "alt": [
         "Classical Mandaean"
     ],
-    "ang": "Mandaic, Classical",
-    "gwcode": "fa",
-    "ln": "Classical Mandaic"
+    "gwcode": "fa"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ana",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 259,
-    "lr": "Americas",
     "lc": "ana",
+    "gw": false,
+    "ln": "Andaqui",
+    "ld": "ltr",
+    "ang": "Andaqui",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -14,7 +16,5 @@
         "Andaki",
         "Churuba"
     ],
-    "ang": "Andaqui",
-    "gwcode": "es-419",
-    "ln": "Andaqui"
+    "gwcode": "es-419"
 }

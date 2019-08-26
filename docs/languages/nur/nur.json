@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nur",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4690,
-    "lr": "Pacific",
     "lc": "nur",
+    "gw": false,
+    "ln": "Nukuria",
+    "ld": "ltr",
+    "ang": "Nukuria",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Nahoa",
         "Nukeria"
     ],
-    "ang": "Nukuria",
-    "gwcode": "tpi",
-    "ln": "Nukuria"
+    "gwcode": "tpi"
 }

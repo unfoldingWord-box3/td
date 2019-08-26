@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mza",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4262,
-    "lr": "Americas",
     "lc": "mza",
+    "gw": false,
+    "ln": "Santa Mar\u00eda Zacatepec Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Santa Mar\u00eda Zacatepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -16,7 +18,5 @@
         "Zacatepec Mixtec",
         "Tacuate"
     ],
-    "ang": "Mixtec, Santa Mar\u00eda Zacatepec",
-    "gwcode": "es-419",
-    "ln": "Santa Mar\u00eda Zacatepec Mixtec"
+    "gwcode": "es-419"
 }

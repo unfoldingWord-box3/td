@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "trl",
-    "hc": "GB",
-    "ld": "ltr",
     "pk": 6309,
-    "lr": "Europe",
     "lc": "trl",
+    "gw": false,
+    "ln": "Traveller Scottish",
+    "ld": "ltr",
+    "ang": "Traveller Scottish",
+    "hc": "GB",
+    "lr": "Europe",
     "cc": [
         "GB"
     ],
@@ -13,7 +15,5 @@
         "Scottish Cant",
         "Scottish Traveller Cant"
     ],
-    "ang": "Traveller Scottish",
-    "gwcode": "en",
-    "ln": "Traveller Scottish"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sjd",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 5642,
-    "lr": "Europe",
     "lc": "sjd",
+    "gw": false,
+    "ln": "\u041a\u0438\u043b\u044c\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0441\u0430\u0430\u043c\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Saami, Kildin",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -15,7 +17,5 @@
         "Kildin Lappish",
         "Lapp"
     ],
-    "ang": "Saami, Kildin",
-    "gwcode": "ru",
-    "ln": "\u041a\u0438\u043b\u044c\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0441\u0430\u0430\u043c\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

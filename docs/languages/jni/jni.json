@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jni",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2652,
-    "lr": "Africa",
     "lc": "jni",
+    "gw": false,
+    "ln": "Janji",
+    "ld": "ltr",
+    "ang": "Janji",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Jenji",
         "Tijanji"
     ],
-    "ang": "Janji",
-    "gwcode": "en",
-    "ln": "Janji"
+    "gwcode": "en"
 }

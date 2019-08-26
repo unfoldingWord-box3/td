@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pcj",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4965,
-    "lr": "Asia",
     "lc": "pcj",
+    "gw": false,
+    "ln": "Parenga",
+    "ld": "ltr",
+    "ang": "Parenga",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -18,7 +20,5 @@
         "Parenji",
         "Poroja"
     ],
-    "ang": "Parenga",
-    "gwcode": "or",
-    "ln": "Parenga"
+    "gwcode": "or"
 }

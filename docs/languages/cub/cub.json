@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cub",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 1385,
-    "lr": "Americas",
     "lc": "cub",
+    "gw": false,
+    "ln": "Cubeo",
+    "ld": "ltr",
+    "ang": "Cubeo",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "BR",
         "CO"
@@ -24,7 +26,5 @@
         "Pamiwa",
         "Hipnwa"
     ],
-    "ang": "Cubeo",
-    "gwcode": "es-419",
-    "ln": "Cubeo"
+    "gwcode": "es-419"
 }

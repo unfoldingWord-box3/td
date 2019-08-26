@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "grs",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2133,
-    "lr": "Asia",
     "lc": "grs",
+    "gw": false,
+    "ln": "Gresi",
+    "ld": "ltr",
+    "ang": "Gresi",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Gresik",
         "Klesi"
     ],
-    "ang": "Gresi",
-    "gwcode": "id",
-    "ln": "Gresi"
+    "gwcode": "id"
 }

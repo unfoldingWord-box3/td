@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rcf",
-    "hc": "RE",
-    "ld": "ltr",
     "pk": 5334,
-    "lr": "Africa",
     "lc": "rcf",
+    "gw": false,
+    "ln": "R\u00e9union Creole French",
+    "ld": "ltr",
+    "ang": "R\u00e9union Creole French",
+    "hc": "RE",
+    "lr": "Africa",
     "cc": [
         "KM",
         "FR",
@@ -14,7 +16,5 @@
         "YT"
     ],
     "alt": [],
-    "ang": "R\u00e9union Creole French",
-    "gwcode": "fr",
-    "ln": "R\u00e9union Creole French"
+    "gwcode": "fr"
 }

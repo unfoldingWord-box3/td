@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "maw",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 3675,
-    "lr": "Africa",
     "lc": "maw",
+    "gw": false,
+    "ln": "Mampruli",
+    "ld": "ltr",
+    "ang": "Mampruli",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH",
         "TG"
@@ -15,7 +17,5 @@
         "Manpelle",
         "Ngmamperli"
     ],
-    "ang": "Mampruli",
-    "gwcode": "en",
-    "ln": "Mampruli"
+    "gwcode": "en"
 }

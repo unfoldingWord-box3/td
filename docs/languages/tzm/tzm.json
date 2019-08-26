@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tzm",
-    "hc": "MA",
-    "ld": "ltr",
     "pk": 6461,
-    "lr": "Africa",
     "lc": "tzm",
+    "gw": false,
+    "ln": "\u2d5c\u2d30\u2d4e\u2d30\u2d63\u2d49\u2d56\u2d5c",
+    "ld": "ltr",
+    "ang": "Tamazight, Central Atlas",
+    "hc": "MA",
+    "lr": "Africa",
     "cc": [
         "DZ",
         "FR",
@@ -19,7 +21,5 @@
         "Shilha",
         "Tachelhit"
     ],
-    "ang": "Tamazight, Central Atlas",
-    "gwcode": "ar",
-    "ln": "\u2d5c\u2d30\u2d4e\u2d30\u2d63\u2d49\u2d56\u2d5c"
+    "gwcode": "ar"
 }

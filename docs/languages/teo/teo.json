@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "teo",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 6063,
-    "lr": "Africa",
     "lc": "teo",
+    "gw": false,
+    "ln": "Teso",
+    "ld": "ltr",
+    "ang": "Teso",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "KE",
         "UG"
@@ -19,7 +21,5 @@
         "Wamia",
         "Orom (Rom)"
     ],
-    "ang": "Teso",
-    "gwcode": "en",
-    "ln": "Teso"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pnx",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 5120,
-    "lr": "Asia",
     "lc": "pnx",
+    "gw": false,
+    "ln": "Phong-Kniang",
+    "ld": "ltr",
+    "ang": "Phong-Kniang",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA"
     ],
@@ -16,7 +18,5 @@
         "Lao Phong",
         "Pong 3"
     ],
-    "ang": "Phong-Kniang",
-    "gwcode": "lo",
-    "ln": "Phong-Kniang"
+    "gwcode": "lo"
 }

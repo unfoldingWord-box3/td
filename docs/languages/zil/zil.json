@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zil",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 7383,
-    "lr": "Africa",
     "lc": "zil",
+    "gw": false,
+    "ln": "Zialo",
+    "ld": "ltr",
+    "ang": "Zialo",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN"
     ],
@@ -14,7 +16,5 @@
         "Ziolo",
         "Ziyolo"
     ],
-    "ang": "Zialo",
-    "gwcode": "fr",
-    "ln": "Zialo"
+    "gwcode": "fr"
 }

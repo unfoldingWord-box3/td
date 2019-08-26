@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hif",
-    "hc": "FJ",
-    "ld": "ltr",
     "pk": 2267,
-    "lr": "Pacific",
     "lc": "hif",
+    "gw": false,
+    "ln": "Fiji Hindi",
+    "ld": "ltr",
+    "ang": "Hindi, Fiji",
+    "hc": "FJ",
+    "lr": "Pacific",
     "cc": [
         "FJ"
     ],
@@ -14,7 +16,5 @@
         "Fijian Hindi",
         "Fijian Hindustani"
     ],
-    "ang": "Hindi, Fiji",
-    "gwcode": "en",
-    "ln": "Fiji Hindi"
+    "gwcode": "en"
 }

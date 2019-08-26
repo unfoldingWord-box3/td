@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ngj",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4417,
-    "lr": "Africa",
     "lc": "ngj",
+    "gw": false,
+    "ln": "Ngie",
+    "ld": "ltr",
+    "ang": "Ngie",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -18,7 +20,5 @@
         "Ungie",
         "Mengum"
     ],
-    "ang": "Ngie",
-    "gwcode": "fr",
-    "ln": "Ngie"
+    "gwcode": "fr"
 }

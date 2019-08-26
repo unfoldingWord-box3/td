@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "its",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2540,
-    "lr": "Africa",
     "lc": "its",
+    "gw": false,
+    "ln": "Isekiri",
+    "ld": "ltr",
+    "ang": "Isekiri",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -20,7 +22,5 @@
         "Shekiri",
         "Warri"
     ],
-    "ang": "Isekiri",
-    "gwcode": "en",
-    "ln": "Isekiri"
+    "gwcode": "en"
 }

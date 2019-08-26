@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hio",
-    "hc": "BW",
-    "ld": "ltr",
     "pk": 2274,
-    "lr": "Africa",
     "lc": "hio",
+    "gw": false,
+    "ln": "Tsoa",
+    "ld": "ltr",
+    "ang": "Tsoa",
+    "hc": "BW",
+    "lr": "Africa",
     "cc": [
         "ZW",
         "BW"
@@ -31,7 +33,5 @@
         "Haitshuwau",
         "Hiechware"
     ],
-    "ang": "Tsoa",
-    "gwcode": "en",
-    "ln": "Tsoa"
+    "gwcode": "en"
 }

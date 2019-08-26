@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "alr",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 226,
-    "lr": "Europe",
     "lc": "alr",
+    "gw": false,
+    "ln": "\u0410\u043b\u044e\u0442\u043e\u0440\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Alutor",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -15,7 +17,5 @@
         "Alyutor",
         "Olyutor"
     ],
-    "ang": "Alutor",
-    "gwcode": "ru",
-    "ln": "\u0410\u043b\u044e\u0442\u043e\u0440\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

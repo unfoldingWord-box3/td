@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wca",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6705,
-    "lr": "Americas",
     "lc": "wca",
+    "gw": false,
+    "ln": "Yanom\u00e1mi",
+    "ld": "ltr",
+    "ang": "Yanom\u00e1mi",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -31,7 +33,5 @@
         "Yanamam (Patimitheri)",
         "Wadema"
     ],
-    "ang": "Yanom\u00e1mi",
-    "gwcode": "pt",
-    "ln": "Yanom\u00e1mi"
+    "gwcode": "pt"
 }

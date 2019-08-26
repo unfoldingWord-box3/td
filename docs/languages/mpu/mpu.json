@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mpu",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4040,
-    "lr": "Americas",
     "lc": "mpu",
+    "gw": false,
+    "ln": "Makur\u00e1p",
+    "ld": "ltr",
+    "ang": "Makur\u00e1p",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -15,7 +17,5 @@
         "Makur\u00e1pi",
         "Massaka"
     ],
-    "ang": "Makur\u00e1p",
-    "gwcode": "pt",
-    "ln": "Makur\u00e1p"
+    "gwcode": "pt"
 }

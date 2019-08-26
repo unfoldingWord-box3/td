@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "est",
-    "hc": "EE",
-    "ld": "ltr",
     "pk": 1789,
-    "lr": "Europe",
     "lc": "et",
+    "gw": false,
+    "ln": "eesti, eesti keel",
+    "ld": "ltr",
+    "ang": "Estonian",
+    "hc": "EE",
+    "lr": "Europe",
     "cc": [
         "EE"
     ],
     "alt": [],
-    "ang": "Estonian",
-    "gwcode": "UNKNOWN",
-    "ln": "eesti, eesti keel"
+    "gwcode": null
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nti",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 4663,
-    "lr": "Africa",
     "lc": "nti",
+    "gw": false,
+    "ln": "Natioro",
+    "ld": "ltr",
+    "ang": "Natioro",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -14,7 +16,5 @@
         "Natjoro",
         "Natyoro"
     ],
-    "ang": "Natioro",
-    "gwcode": "fr",
-    "ln": "Natioro"
+    "gwcode": "fr"
 }

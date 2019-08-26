@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dry",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 1628,
-    "lr": "Asia",
     "lc": "dry",
+    "gw": false,
+    "ln": "Darai",
+    "ld": "ltr",
+    "ang": "Darai",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -13,7 +15,5 @@
         "Chitwan",
         "Tanahun"
     ],
-    "ang": "Darai",
-    "gwcode": "ne",
-    "ln": "Darai"
+    "gwcode": "ne"
 }

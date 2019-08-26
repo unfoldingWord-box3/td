@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bxc",
-    "hc": "GQ",
-    "ld": "ltr",
     "pk": 1044,
-    "lr": "Africa",
     "lc": "bxc",
+    "gw": false,
+    "ln": "Molengue",
+    "ld": "ltr",
+    "ang": "Molengue",
+    "hc": "GQ",
+    "lr": "Africa",
     "cc": [
         "GQ"
     ],
@@ -13,7 +15,5 @@
         "Balengue",
         "Molendji"
     ],
-    "ang": "Molengue",
-    "gwcode": "es",
-    "ln": "Molengue"
+    "gwcode": "es"
 }

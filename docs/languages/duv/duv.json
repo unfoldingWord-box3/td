@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "duv",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1670,
-    "lr": "Asia",
     "lc": "duv",
+    "gw": false,
+    "ln": "Duvle",
+    "ld": "ltr",
+    "ang": "Duvle",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Duvre",
         "Wiri"
     ],
-    "ang": "Duvle",
-    "gwcode": "id",
-    "ln": "Duvle"
+    "gwcode": "id"
 }

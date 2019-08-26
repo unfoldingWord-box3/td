@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lkn",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 3490,
-    "lr": "Pacific",
     "lc": "lkn",
+    "gw": false,
+    "ln": "Lakon",
+    "ld": "ltr",
+    "ang": "Lakon",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -16,7 +18,5 @@
         "Togla",
         "Vure"
     ],
-    "ang": "Lakon",
-    "gwcode": "fr",
-    "ln": "Lakon"
+    "gwcode": "fr"
 }

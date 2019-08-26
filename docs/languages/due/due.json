@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "due",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 1654,
-    "lr": "Asia",
     "lc": "due",
+    "gw": false,
+    "ln": "Umiray Dumaget Agta",
+    "ld": "ltr",
+    "ang": "Agta, Umiray Dumaget",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Umiray Agta",
         "Umirey Dumagat"
     ],
-    "ang": "Agta, Umiray Dumaget",
-    "gwcode": "ilo",
-    "ln": "Umiray Dumaget Agta"
+    "gwcode": "ilo"
 }

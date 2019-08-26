@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sls",
-    "hc": "SG",
-    "ld": "ltr",
     "pk": 5695,
-    "lr": "Asia",
     "lc": "sls",
+    "gw": false,
+    "ln": "Singapore Sign Language",
+    "ld": "ltr",
+    "ang": "Singapore Sign Language",
+    "hc": "SG",
+    "lr": "Asia",
     "cc": [
         "SG"
     ],
@@ -13,7 +15,5 @@
         "Contact Signing (Pidgin Signed English)",
         "Natural Sign Language"
     ],
-    "ang": "Singapore Sign Language",
-    "gwcode": "zh",
-    "ln": "Singapore Sign Language"
+    "gwcode": "zh"
 }

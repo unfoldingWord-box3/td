@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ade",
-    "hc": "TG",
-    "ld": "ltr",
     "pk": 74,
-    "lr": "Africa",
     "lc": "ade",
+    "gw": false,
+    "ln": "Adele",
+    "ld": "ltr",
+    "ang": "Adele",
+    "hc": "TG",
+    "lr": "Africa",
     "cc": [
         "GH",
         "TG"
@@ -18,7 +20,5 @@
         "Lower Adele",
         "Upper Adele"
     ],
-    "ang": "Adele",
-    "gwcode": "fr",
-    "ln": "Adele"
+    "gwcode": "fr"
 }

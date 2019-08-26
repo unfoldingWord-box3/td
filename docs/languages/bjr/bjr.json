@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bjr",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 723,
-    "lr": "Pacific",
     "lc": "bjr",
+    "gw": false,
+    "ln": "Binumarien",
+    "ld": "ltr",
+    "ang": "Binumarien",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Binamarir",
         "Binumaria"
     ],
-    "ang": "Binumarien",
-    "gwcode": "tpi",
-    "ln": "Binumarien"
+    "gwcode": "tpi"
 }

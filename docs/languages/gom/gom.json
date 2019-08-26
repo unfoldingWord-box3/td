@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gom",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2101,
-    "lr": "Asia",
     "lc": "gom",
+    "gw": false,
+    "ln": "Goan Konkani",
+    "ld": "ltr",
+    "ang": "Konkani, Goan",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "GB",
         "MZ",
@@ -25,7 +27,5 @@
         "Kudali (Malvani)",
         "Mangalore Standard Konkani (Goan)"
     ],
-    "ang": "Konkani, Goan",
-    "gwcode": "mr",
-    "ln": "Goan Konkani"
+    "gwcode": "mr"
 }

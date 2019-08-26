@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gfk",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1997,
-    "lr": "Pacific",
     "lc": "gfk",
+    "gw": false,
+    "ln": "Patpatar",
+    "ld": "ltr",
+    "ang": "Patpatar",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Gelik",
         "Patpari"
     ],
-    "ang": "Patpatar",
-    "gwcode": "tpi",
-    "ln": "Patpatar"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ekp",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1721,
-    "lr": "Africa",
     "lc": "ekp",
+    "gw": false,
+    "ln": "Ekpeye",
+    "ld": "ltr",
+    "ang": "Ekpeye",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Ekpabya",
         "Ekpaffia"
     ],
-    "ang": "Ekpeye",
-    "gwcode": "en",
-    "ln": "Ekpeye"
+    "gwcode": "en"
 }

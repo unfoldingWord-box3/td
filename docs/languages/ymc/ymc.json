@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ymc",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7222,
-    "lr": "Asia",
     "lc": "ymc",
+    "gw": false,
+    "ln": "Southern Muji",
+    "ld": "ltr",
+    "ang": "Muji, Southern",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -25,7 +27,5 @@
         "Dazhai",
         "Gamadi"
     ],
-    "ang": "Muji, Southern",
-    "gwcode": "zh",
-    "ln": "Southern Muji"
+    "gwcode": "zh"
 }

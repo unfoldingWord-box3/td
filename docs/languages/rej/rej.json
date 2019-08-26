@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rej",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5341,
-    "lr": "Asia",
     "lc": "rej",
+    "gw": false,
+    "ln": "Rejang",
+    "ld": "ltr",
+    "ang": "Rejang",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Pasisir",
         "Rawas"
     ],
-    "ang": "Rejang",
-    "gwcode": "id",
-    "ln": "Rejang"
+    "gwcode": "id"
 }

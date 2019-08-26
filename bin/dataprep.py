@@ -26,6 +26,17 @@ if not os.path.exists(docslangpath):
     else:
         print ("Successfully created directory %s " % docslangpath)
 
+# create the "docs/regions"
+docsregionpath = "./docs/regions"
+if not os.path.exists(docsregionpath):
+    try:
+        os.mkdir(docsregionpath)
+    except OSError:
+        print ("Creation of directory %s failed" % docsregionpath)
+        exit()
+    else:
+        print ("Successfully created directory %s " % docsregionpath)
+
 #
 # open and parse iso-639-3 tab separated values file
 # 3 letter code is first column; 2 letter code (if any) is fourth
@@ -67,9 +78,11 @@ with open("data/ln_gw.json", "r") as gwfile:
 # load up the dictionary for lang and gw
 count=0
 gwdict = {}
+gwvalid = {}
 for gwj in jgwdata:
     count = count+1
     gwdict[gwj["lc_code"]] = gwj["gw_code"]
+    gwvalid[gwj["gw_code"]] = gwj["gateway_flag"]
 
 print("\n\n\nTotal in ln/gw list: "+str(count))
 
@@ -132,7 +145,7 @@ for lnj in jlndata:
 
     # some boilerplate
     note_a = ".. note:: The `Ethnologue <https://www.ethnologue.com/language/"
-    note_b = ">`_ identifies this language as ``"
+    note_b = ">`__ identifies this language as ``"
     note_c = "``."
 
     # human friendly key mapping
@@ -159,18 +172,52 @@ for lnj in jlndata:
         if len(lc) == 2:
             i639_code = lnj["ISO-639-3"]
             rst.write("%s%s%s%s%s\n\n" % (note_a,i639_code,note_b,i639_code,note_c))
-        rst.write("This language is spoken in the following countries:\n\n")
-        for i in lnj["cc"]:
-            rst.write("* %s: %s\n" % (i,cc_dict[i]))
+        
+        if len(lnj["cc"]) == 0:
+            rst.write(".. warning:: This language is not list as spoken in any countries.\n\n")
+        else:
+            rst.write("This language is spoken in the following countries:\n\n")
+            for i in lnj["cc"]:
+                rst.write("* %s: %s\n" % (i,cc_dict[i]))
         rst.write("\n")
         friendlyMap = {}
         for i in friendlyKeys:
             friendlyMap[friendlyKeys[i]] = lnj[i]
+        if not gwvalid[lnj["gwcode"]]:
+            rst.write(".. warning:: The gateway language is not valid.\n\n")
+
         rst.write(".. code-block:: yaml\n\n")
         y = yaml.dump(friendlyMap,allow_unicode=True, default_flow_style=False)
         for line in y.split('\n'):
             rst.write("%s%s\n" % ("    ", line))
 
+print("Writing region rst pages")
+# now create the region rst pages
+lc2lr = {} # directly maps lang to region
+lrcnt = {} # list of regions to drive the loop
+for lnj in jlndata:
+    lc = lnj["lc"] # here is the language code
+    lr = lnj["lr"] # here is the language code
+    if lr == "":
+        lr="UNKNOWN"
+    lc2lr[lc] = lr
+    try:
+        lrcnt[lr] = lrcnt[lr] + 1
+    except KeyError:
+        lrcnt[lr] = 1
+
+# at this point, we have a list of the regions and lang to region map
+for lr in sorted(lrcnt.keys()):
+    lrpath = docsregionpath + "/" + lr + ".rst"
+    with open(lrpath, "w") as lr_rst:
+        # page header
+        lr_rst.write(".. _%s:\n\n" % lr)
+        lr_rst.write("%s\n%s\n\n" % (lr, ('=' * len(lr))))
+        for lc in sorted(lc2lr.keys()):
+            if lc2lr[lc] == lr:
+                lr_rst.write(".. include:: ../languages/%s/%s.txt\n" % (lc,lc))
+
+    
 
 
 print("\n\n\nTotal in all lang list: "+str(count))

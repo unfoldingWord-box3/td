@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "skj",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5666,
-    "lr": "Asia",
     "lc": "skj",
+    "gw": false,
+    "ln": "Seke (Nepal)",
+    "ld": "ltr",
+    "ang": "Seke",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Tetang",
         "Chuksang"
     ],
-    "ang": "Seke",
-    "gwcode": "ne",
-    "ln": "Seke (Nepal)"
+    "gwcode": "ne"
 }

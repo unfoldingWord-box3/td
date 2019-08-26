@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "biu",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 703,
-    "lr": "Asia",
     "lc": "biu",
+    "gw": false,
+    "ln": "Biete",
+    "ld": "ltr",
+    "ang": "Biete",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Bete",
         "Biate"
     ],
-    "ang": "Biete",
-    "gwcode": "as",
-    "ln": "Biete"
+    "gwcode": "as"
 }

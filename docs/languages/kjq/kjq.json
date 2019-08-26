@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kjq",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 2923,
-    "lr": "Americas",
     "lc": "kjq",
+    "gw": false,
+    "ln": "Western Keres",
+    "ld": "ltr",
+    "ang": "Keres, Western",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -14,7 +16,5 @@
         "Acoma",
         "Laguna"
     ],
-    "ang": "Keres, Western",
-    "gwcode": "en",
-    "ln": "Western Keres"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "slc",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 5682,
-    "lr": "Americas",
     "lc": "slc",
+    "gw": false,
+    "ln": "S\u00e1liba",
+    "ld": "ltr",
+    "ang": "S\u00e1liba",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "VE",
         "CO"
@@ -13,7 +15,5 @@
     "alt": [
         "S\u00e1liva"
     ],
-    "ang": "S\u00e1liba",
-    "gwcode": "es-419",
-    "ln": "S\u00e1liba"
+    "gwcode": "es-419"
 }

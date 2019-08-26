@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "saw",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5475,
-    "lr": "Asia",
     "lc": "saw",
+    "gw": false,
+    "ln": "Sawi",
+    "ld": "ltr",
+    "ang": "Sawi",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Aejauroh",
         "Sawuy"
     ],
-    "ang": "Sawi",
-    "gwcode": "id",
-    "ln": "Sawi"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "led",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3405,
-    "lr": "Africa",
     "lc": "led",
+    "gw": false,
+    "ln": "Lendu",
+    "ld": "ltr",
+    "ang": "Lendu",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD",
         "UG"
@@ -23,7 +25,5 @@
         "Djadha (Jidha)",
         "Njawlo (Njawdha)"
     ],
-    "ang": "Lendu",
-    "gwcode": "fr",
-    "ln": "Lendu"
+    "gwcode": "fr"
 }

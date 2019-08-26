@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "beu",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 603,
-    "lr": "Asia",
     "lc": "beu",
+    "gw": false,
+    "ln": "Blagar",
+    "ld": "ltr",
+    "ang": "Blagar",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Belagar",
         "Tarang"
     ],
-    "ang": "Blagar",
-    "gwcode": "id",
-    "ln": "Blagar"
+    "gwcode": "id"
 }

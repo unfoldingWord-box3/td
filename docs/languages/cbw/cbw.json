@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cbw",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 1148,
-    "lr": "Asia",
     "lc": "cbw",
+    "gw": false,
+    "ln": "Kinabalian",
+    "ld": "ltr",
+    "ang": "Kinabalian",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Bisaya'",
         "Cabalian"
     ],
-    "ang": "Kinabalian",
-    "gwcode": "en",
-    "ln": "Kinabalian"
+    "gwcode": "en"
 }

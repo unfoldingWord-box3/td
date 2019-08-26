@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wls",
-    "hc": "WF",
-    "ld": "ltr",
     "pk": 6761,
-    "lr": "Pacific",
     "lc": "wls",
+    "gw": false,
+    "ln": "Wallisian",
+    "ld": "ltr",
+    "ang": "Wallisian",
+    "hc": "WF",
+    "lr": "Pacific",
     "cc": [
         "FJ",
         "NC",
@@ -17,7 +19,5 @@
         "Uvean",
         "Wallisien"
     ],
-    "ang": "Wallisian",
-    "gwcode": "en",
-    "ln": "Wallisian"
+    "gwcode": "en"
 }

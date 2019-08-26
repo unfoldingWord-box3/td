@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "azg",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 481,
-    "lr": "Americas",
     "lc": "azg",
+    "gw": false,
+    "ln": "San Pedro Amuzgos Amuzgo",
+    "ld": "ltr",
+    "ang": "Amuzgo, San Pedro Amuzgos",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Amuzgo de San Pedro Amuzgos",
         "Oaxaca Amuzgo"
     ],
-    "ang": "Amuzgo, San Pedro Amuzgos",
-    "gwcode": "es-419",
-    "ln": "San Pedro Amuzgos Amuzgo"
+    "gwcode": "es-419"
 }

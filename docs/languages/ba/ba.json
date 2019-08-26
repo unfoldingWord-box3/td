@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bak",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 488,
-    "lr": "Europe",
     "lc": "ba",
+    "gw": false,
+    "ln": "\u0431\u0430\u0448\u04a1\u043e\u0440\u0442 \u0442\u0435\u043b\u0435",
+    "ld": "ltr",
+    "ang": "Bashkir",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "KZ",
         "TJ",
@@ -20,7 +22,5 @@
         "Kuvakan (Mountain Bashkir)",
         "Yurmaty (Steppe Bashkir)"
     ],
-    "ang": "Bashkir",
-    "gwcode": "ru",
-    "ln": "\u0431\u0430\u0448\u04a1\u043e\u0440\u0442 \u0442\u0435\u043b\u0435"
+    "gwcode": "ru"
 }

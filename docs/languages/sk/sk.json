@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "slk",
-    "hc": "SK",
-    "ld": "ltr",
     "pk": 5656,
-    "lr": "Europe",
     "lc": "sk",
+    "gw": false,
+    "ln": "sloven\u010dina, slovensk\u00fd jazyk",
+    "ld": "ltr",
+    "ang": "Slovak",
+    "hc": "SK",
+    "lr": "Europe",
     "cc": [
         "AR",
         "CZ",
@@ -20,7 +22,5 @@
         "Slovakian",
         "Slovencina"
     ],
-    "ang": "Slovak",
-    "gwcode": "en",
-    "ln": "sloven\u010dina, slovensk\u00fd jazyk"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "twh",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 6411,
-    "lr": "Asia",
     "lc": "twh",
+    "gw": false,
+    "ln": "Tai D\u00f3n",
+    "ld": "ltr",
+    "ang": "Tai D\u00f3n",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "LA",
@@ -22,7 +24,5 @@
         "Th\u00e1i Tr\u00e1ng",
         "T\u00e1y Khao"
     ],
-    "ang": "Tai D\u00f3n",
-    "gwcode": "vi",
-    "ln": "Tai D\u00f3n"
+    "gwcode": "vi"
 }

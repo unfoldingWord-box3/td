@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bcj",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 543,
-    "lr": "Pacific",
     "lc": "bcj",
+    "gw": false,
+    "ln": "Bardi",
+    "ld": "ltr",
+    "ang": "Bardi",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Badi",
         "Bard"
     ],
-    "ang": "Bardi",
-    "gwcode": "en",
-    "ln": "Bardi"
+    "gwcode": "en"
 }

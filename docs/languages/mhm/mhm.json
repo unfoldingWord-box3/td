@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mhm",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 3840,
-    "lr": "Africa",
     "lc": "mhm",
+    "gw": false,
+    "ln": "Makhuwa-Moniga",
+    "ld": "ltr",
+    "ang": "Makhuwa-Moniga",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ"
     ],
@@ -14,7 +16,5 @@
         "Emoniga",
         "Moniga"
     ],
-    "ang": "Makhuwa-Moniga",
-    "gwcode": "pt",
-    "ln": "Makhuwa-Moniga"
+    "gwcode": "pt"
 }

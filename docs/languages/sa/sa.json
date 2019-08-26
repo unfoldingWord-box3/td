@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "san",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5458,
-    "lr": "Asia",
     "lc": "sa",
+    "gw": false,
+    "ln": "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u092e\u094d",
+    "ld": "ltr",
+    "ang": "Sanskrit (Sa\u1e41sk\u1e5bta)",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Deva vani",
         "Sanskrit bhasha"
     ],
-    "ang": "Sanskrit (Sa\u1e41sk\u1e5bta)",
-    "gwcode": "hi",
-    "ln": "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u092e\u094d"
+    "gwcode": "hi"
 }

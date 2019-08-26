@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gju",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2042,
-    "lr": "Asia",
     "lc": "gju",
+    "gw": false,
+    "ln": "Gujari",
+    "ld": "ltr",
+    "ang": "Gujari",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "AF",
         "PK",
@@ -25,7 +27,5 @@
         "Parimu",
         "Rajasthani Gujuri"
     ],
-    "ang": "Gujari",
-    "gwcode": "UNKNOWN",
-    "ln": "Gujari"
+    "gwcode": "ks"
 }

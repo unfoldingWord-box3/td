@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "plk",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 5070,
-    "lr": "Asia",
     "lc": "plk",
+    "gw": false,
+    "ln": "\u0634\u06cc\u0646\u0627 \u0632\u0628\u0627\u0646",
+    "ld": "ltr",
+    "ang": "Shina, Kohistani",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "PK"
     ],
@@ -14,7 +16,5 @@
         "Kohistyo",
         "Palasi-Kohistani"
     ],
-    "ang": "Shina, Kohistani",
-    "gwcode": "ur",
-    "ln": "\u0634\u06cc\u0646\u0627 \u0632\u0628\u0627\u0646"
+    "gwcode": "ur"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kgg",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 2842,
-    "lr": "Asia",
     "lc": "kgg",
+    "gw": false,
+    "ln": "Kusunda",
+    "ld": "ltr",
+    "ang": "Kusunda",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -15,7 +17,5 @@
         "Rolpa-Dang",
         "Gorkha"
     ],
-    "ang": "Kusunda",
-    "gwcode": "ne",
-    "ln": "Kusunda"
+    "gwcode": "ne"
 }

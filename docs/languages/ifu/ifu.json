@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ifu",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 2435,
-    "lr": "Asia",
     "lc": "ifu",
+    "gw": false,
+    "ln": "Mayoyao Ifugao",
+    "ld": "ltr",
+    "ang": "Ifugao, Mayoyao",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -14,7 +16,5 @@
         "Mayaoyaw",
         "Mayoyao"
     ],
-    "ang": "Ifugao, Mayoyao",
-    "gwcode": "ilo",
-    "ln": "Mayoyao Ifugao"
+    "gwcode": "ilo"
 }

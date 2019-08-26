@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bbj",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 517,
-    "lr": "Africa",
     "lc": "bbj",
+    "gw": false,
+    "ln": "Ghom\u00e1l\u00e1'",
+    "ld": "ltr",
+    "ang": "Ghom\u00e1l\u00e1\u2019",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -35,7 +37,5 @@
         "Fu'da",
         "Jo"
     ],
-    "ang": "Ghom\u00e1l\u00e1\u2019",
-    "gwcode": "fr",
-    "ln": "Ghom\u00e1l\u00e1'"
+    "gwcode": "fr"
 }

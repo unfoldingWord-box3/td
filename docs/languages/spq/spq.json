@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "spq",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 5783,
-    "lr": "Americas",
     "lc": "spq",
+    "gw": false,
+    "ln": "Loreto-Ucayali Spanish",
+    "ld": "ltr",
+    "ang": "Spanish, Loreto-Ucayali",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
     "alt": [
         "Jungle Spanish"
     ],
-    "ang": "Spanish, Loreto-Ucayali",
-    "gwcode": "es-419",
-    "ln": "Loreto-Ucayali Spanish"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lhi",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 3446,
-    "lr": "Asia",
     "lc": "lhi",
+    "gw": false,
+    "ln": "\u62c9\u795c\u897f\u8bed",
+    "ld": "ltr",
+    "ang": "Lahu Shi",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "LA",
@@ -24,7 +26,5 @@
         "Bakeo",
         "Banlan"
     ],
-    "ang": "Lahu Shi",
-    "gwcode": "zh",
-    "ln": "\u62c9\u795c\u897f\u8bed"
+    "gwcode": "zh"
 }

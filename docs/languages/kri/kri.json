@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kri",
-    "hc": "SL",
-    "ld": "ltr",
     "pk": 3116,
-    "lr": "Africa",
     "lc": "kri",
+    "gw": false,
+    "ln": "Krio",
+    "ld": "ltr",
+    "ang": "Krio",
+    "hc": "SL",
+    "lr": "Africa",
     "cc": [
         "GQ",
         "GM",
@@ -20,7 +22,5 @@
         "Creole",
         "Patois"
     ],
-    "ang": "Krio",
-    "gwcode": "en",
-    "ln": "Krio"
+    "gwcode": "en"
 }

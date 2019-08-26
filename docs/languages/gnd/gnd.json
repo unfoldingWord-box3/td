@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gnd",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 2074,
-    "lr": "Africa",
     "lc": "gnd",
+    "gw": false,
+    "ln": "Zulgo-Gemzek",
+    "ld": "ltr",
+    "ang": "Zulgo-Gemzek",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -18,7 +20,5 @@
         "Mineo (Minew)",
         "Zoulgo"
     ],
-    "ang": "Zulgo-Gemzek",
-    "gwcode": "fr",
-    "ln": "Zulgo-Gemzek"
+    "gwcode": "fr"
 }

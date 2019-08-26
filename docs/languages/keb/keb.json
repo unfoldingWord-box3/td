@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "keb",
-    "hc": "GA",
-    "ld": "ltr",
     "pk": 2784,
-    "lr": "Africa",
     "lc": "keb",
+    "gw": false,
+    "ln": "K\u00e9l\u00e9",
+    "ld": "ltr",
+    "ang": "K\u00e9l\u00e9",
+    "hc": "GA",
+    "lr": "Africa",
     "cc": [
         "GA",
         "CG"
@@ -14,7 +16,5 @@
         "Akele",
         "Dikele"
     ],
-    "ang": "K\u00e9l\u00e9",
-    "gwcode": "fr",
-    "ln": "K\u00e9l\u00e9"
+    "gwcode": "fr"
 }

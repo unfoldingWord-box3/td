@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xet",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6906,
-    "lr": "Americas",
     "lc": "xet",
+    "gw": false,
+    "ln": "Xet\u00e1",
+    "ld": "ltr",
+    "ang": "Xet\u00e1",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -15,7 +17,5 @@
         "Seta",
         "Sheta"
     ],
-    "ang": "Xet\u00e1",
-    "gwcode": "pt",
-    "ln": "Xet\u00e1"
+    "gwcode": "pt"
 }

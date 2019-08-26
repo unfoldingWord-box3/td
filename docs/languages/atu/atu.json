@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "atu",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 399,
-    "lr": "Africa",
     "lc": "atu",
+    "gw": false,
+    "ln": "Reel",
+    "ld": "ltr",
+    "ang": "Reel",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -16,7 +18,5 @@
         "Cieng Luai",
         "Cieng Nhyam"
     ],
-    "ang": "Reel",
-    "gwcode": "ar",
-    "ln": "Reel"
+    "gwcode": "ar"
 }

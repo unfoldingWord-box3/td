@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kyd",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3287,
-    "lr": "Asia",
     "lc": "kyd",
+    "gw": false,
+    "ln": "Karey",
+    "ld": "ltr",
+    "ang": "Karey",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Kerei",
         "Krei"
     ],
-    "ang": "Karey",
-    "gwcode": "id",
-    "ln": "Karey"
+    "gwcode": "id"
 }

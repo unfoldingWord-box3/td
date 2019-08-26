@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ldp",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3400,
-    "lr": "Africa",
     "lc": "ldp",
+    "gw": false,
+    "ln": "Tso",
+    "ld": "ltr",
+    "ang": "Tso",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -18,7 +20,5 @@
         "Piri",
         "Ts\u00f3b\u00f3"
     ],
-    "ang": "Tso",
-    "gwcode": "en",
-    "ln": "Tso"
+    "gwcode": "en"
 }

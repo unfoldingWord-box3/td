@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "run",
-    "hc": "BI",
-    "ld": "ltr",
     "pk": 5398,
-    "lr": "Africa",
     "lc": "rn",
+    "gw": false,
+    "ln": "Ikirundi",
+    "ld": "ltr",
+    "ang": "Kirundi",
+    "hc": "BI",
+    "lr": "Africa",
     "cc": [
         "KE",
         "RW",
@@ -24,7 +26,5 @@
         "Ikirundi",
         "Ikimoso (Urumoso)"
     ],
-    "ang": "Kirundi",
-    "gwcode": "sw",
-    "ln": "Ikirundi"
+    "gwcode": "sw"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cni",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 1277,
-    "lr": "Americas",
     "lc": "cni",
+    "gw": false,
+    "ln": "Ash\u00e1ninka",
+    "ld": "ltr",
+    "ang": "Ash\u00e1ninka",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -13,7 +15,5 @@
         "Ash\u00e1ninca",
         "Campa"
     ],
-    "ang": "Ash\u00e1ninka",
-    "gwcode": "es-419",
-    "ln": "Ash\u00e1ninka"
+    "gwcode": "es-419"
 }

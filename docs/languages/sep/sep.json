@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sep",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 5556,
-    "lr": "Africa",
     "lc": "sep",
+    "gw": false,
+    "ln": "S\u00ecc\u00ect\u00e9 S\u00e9noufo",
+    "ld": "ltr",
+    "ang": "S\u00e9noufo, S\u00ecc\u00ect\u00e9",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -16,7 +18,5 @@
         "Sucite",
         "Tagba"
     ],
-    "ang": "S\u00e9noufo, S\u00ecc\u00ect\u00e9",
-    "gwcode": "fr",
-    "ln": "S\u00ecc\u00ect\u00e9 S\u00e9noufo"
+    "gwcode": "fr"
 }

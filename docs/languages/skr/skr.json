@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "skr",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 5673,
-    "lr": "Asia",
     "lc": "skr",
+    "gw": false,
+    "ln": "\u0633\u0631\u0627\u0626\u06cc\u06a9\u06cc",
+    "ld": "ltr",
+    "ang": "Saraiki",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "PK"
     ],
@@ -18,7 +20,5 @@
         "Southern Panjabi",
         "Riasiti"
     ],
-    "ang": "Saraiki",
-    "gwcode": "ur",
-    "ln": "\u0633\u0631\u0627\u0626\u06cc\u06a9\u06cc"
+    "gwcode": "ur"
 }

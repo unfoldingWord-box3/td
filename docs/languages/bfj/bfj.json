@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bfj",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 618,
-    "lr": "Africa",
     "lc": "bfj",
+    "gw": false,
+    "ln": "Bafanji",
+    "ld": "ltr",
+    "ang": "Bafanji",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Chufie'",
         "Nchufie"
     ],
-    "ang": "Bafanji",
-    "gwcode": "fr",
-    "ln": "Bafanji"
+    "gwcode": "fr"
 }

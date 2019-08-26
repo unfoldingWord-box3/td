@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cos",
-    "hc": "FR",
-    "ld": "ltr",
     "pk": 1286,
-    "lr": "Europe",
     "lc": "co",
+    "gw": false,
+    "ln": "corsu, lingua corsa",
+    "ld": "ltr",
+    "ang": "Corsican",
+    "hc": "FR",
+    "lr": "Europe",
     "cc": [
         "FR"
     ],
@@ -18,7 +20,5 @@
         "Northern Corsican (Bastia)",
         "Corsos"
     ],
-    "ang": "Corsican",
-    "gwcode": "fr",
-    "ln": "corsu, lingua corsa"
+    "gwcode": "fr"
 }

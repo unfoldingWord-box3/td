@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jgo",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 2610,
-    "lr": "Africa",
     "lc": "jgo",
+    "gw": false,
+    "ln": "Ngomba",
+    "ld": "ltr",
+    "ang": "Ngomba",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Nda'a",
         "Babete (Bamete)"
     ],
-    "ang": "Ngomba",
-    "gwcode": "fr",
-    "ln": "Ngomba"
+    "gwcode": "fr"
 }

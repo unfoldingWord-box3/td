@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ysy",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7286,
-    "lr": "Asia",
     "lc": "ysy",
+    "gw": false,
+    "ln": "\u767d\u5f5d",
+    "ld": "ltr",
+    "ang": "Sanie",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -18,7 +20,5 @@
         "Shaniepu",
         "White Yi"
     ],
-    "ang": "Sanie",
-    "gwcode": "zh",
-    "ln": "\u767d\u5f5d"
+    "gwcode": "zh"
 }

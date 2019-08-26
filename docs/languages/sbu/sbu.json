@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sbu",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5499,
-    "lr": "Asia",
     "lc": "sbu",
+    "gw": false,
+    "ln": "Stod Bhoti",
+    "ld": "ltr",
+    "ang": "Stod Bhoti",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -19,7 +21,5 @@
         "Khoksar (Khoksar Bhoti)",
         "Mayar (Mayar Bhoti)"
     ],
-    "ang": "Stod Bhoti",
-    "gwcode": "hi",
-    "ln": "Stod Bhoti"
+    "gwcode": "hi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jur",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 2680,
-    "lr": "Americas",
     "lc": "jur",
+    "gw": false,
+    "ln": "Jur\u00fana",
+    "ld": "ltr",
+    "ang": "Jur\u00fana",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -15,7 +17,5 @@
         "Yudya",
         "Yur\u00fana"
     ],
-    "ang": "Jur\u00fana",
-    "gwcode": "pt",
-    "ln": "Jur\u00fana"
+    "gwcode": "pt"
 }

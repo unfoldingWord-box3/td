@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "knb",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 3015,
-    "lr": "Asia",
     "lc": "knb",
+    "gw": false,
+    "ln": "Lubuagan Kalinga",
+    "ld": "ltr",
+    "ang": "Kalinga, Lubuagan",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Balatok-Kalinga (Balatok-Itneg)",
         "Lubuagan"
     ],
-    "ang": "Kalinga, Lubuagan",
-    "gwcode": "ilo",
-    "ln": "Lubuagan Kalinga"
+    "gwcode": "ilo"
 }

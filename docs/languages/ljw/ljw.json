@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ljw",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 3480,
-    "lr": "Pacific",
     "lc": "ljw",
+    "gw": false,
+    "ln": "Yirandali",
+    "ld": "ltr",
+    "ang": "Yirandali",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -17,7 +19,5 @@
         "Yerrundulli",
         "Yerrunthully"
     ],
-    "ang": "Yirandali",
-    "gwcode": "en",
-    "ln": "Yirandali"
+    "gwcode": "en"
 }

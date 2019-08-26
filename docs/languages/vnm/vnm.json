@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vnm",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 6646,
-    "lr": "Pacific",
     "lc": "vnm",
+    "gw": false,
+    "ln": "Vinmavis",
+    "ld": "ltr",
+    "ang": "Neve\u2019ei",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -15,7 +17,5 @@
         "Nefe'ei",
         "Telag"
     ],
-    "ang": "Neve\u2019ei",
-    "gwcode": "fr",
-    "ln": "Vinmavis"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mdr",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3744,
-    "lr": "Asia",
     "lc": "mdr",
+    "gw": false,
+    "ln": "Mandar",
+    "ld": "ltr",
+    "ang": "Mandar",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Sendana (Cenrana)",
         "Tjendana"
     ],
-    "ang": "Mandar",
-    "gwcode": "id",
-    "ln": "Mandar"
+    "gwcode": "id"
 }

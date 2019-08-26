@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nsz",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 4661,
-    "lr": "Americas",
     "lc": "nsz",
+    "gw": false,
+    "ln": "Nisenan",
+    "ld": "ltr",
+    "ang": "Nisenan",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -16,7 +18,5 @@
         "Southern Maidu",
         "Wapumni"
     ],
-    "ang": "Nisenan",
-    "gwcode": "en",
-    "ln": "Nisenan"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "qua",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 5248,
-    "lr": "Americas",
     "lc": "qua",
+    "gw": false,
+    "ln": "Quapaw",
+    "ld": "ltr",
+    "ang": "Quapaw",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -15,7 +17,5 @@
         "Capa",
         "Ogaxpa"
     ],
-    "ang": "Quapaw",
-    "gwcode": "en",
-    "ln": "Quapaw"
+    "gwcode": "en"
 }

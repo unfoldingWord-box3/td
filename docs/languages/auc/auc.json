@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "auc",
-    "hc": "EC",
-    "ld": "ltr",
     "pk": 407,
-    "lr": "Americas",
     "lc": "auc",
+    "gw": false,
+    "ln": "Waorani",
+    "ld": "ltr",
+    "ang": "Waorani",
+    "hc": "EC",
+    "lr": "Americas",
     "cc": [
         "EC"
     ],
@@ -15,7 +17,5 @@
         "Waodani",
         "Auca"
     ],
-    "ang": "Waorani",
-    "gwcode": "es-419",
-    "ln": "Waorani"
+    "gwcode": "es-419"
 }

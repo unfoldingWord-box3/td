@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ipo",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2504,
-    "lr": "Pacific",
     "lc": "ipo",
+    "gw": false,
+    "ln": "Ipiko",
+    "ld": "ltr",
+    "ang": "Ipiko",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Ibigo",
         "Eva"
     ],
-    "ang": "Ipiko",
-    "gwcode": "tpi",
-    "ln": "Ipiko"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tjo",
-    "hc": "DZ",
-    "ld": "ltr",
     "pk": 6149,
-    "lr": "Africa",
     "lc": "tjo",
+    "gw": false,
+    "ln": "\u062a\u0627\u0634\u0644\u062d\u064a\u062a",
+    "ld": "ltr",
+    "ang": "Tamazight, Temacine",
+    "hc": "DZ",
+    "lr": "Africa",
     "cc": [
         "DZ"
     ],
@@ -14,7 +16,5 @@
         "Tougourt",
         "Tugurt"
     ],
-    "ang": "Tamazight, Temacine",
-    "gwcode": "ar",
-    "ln": "\u062a\u0627\u0634\u0644\u062d\u064a\u062a"
+    "gwcode": "ar"
 }

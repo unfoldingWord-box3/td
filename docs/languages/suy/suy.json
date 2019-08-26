@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "suy",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 5891,
-    "lr": "Americas",
     "lc": "suy",
+    "gw": false,
+    "ln": "Suy\u00e1",
+    "ld": "ltr",
+    "ang": "Suy\u00e1",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -15,7 +17,5 @@
         "Yaruma (Jarum\u00e1)",
         "Bei\u00e7o de Pau (Tapay\u00fana)"
     ],
-    "ang": "Suy\u00e1",
-    "gwcode": "pt",
-    "ln": "Suy\u00e1"
+    "gwcode": "pt"
 }

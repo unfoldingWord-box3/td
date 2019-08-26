@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wbk",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 6696,
-    "lr": "Asia",
     "lc": "wbk",
+    "gw": false,
+    "ln": "Kala\u1e63a-al\u00e2",
+    "ld": "ltr",
+    "ang": "Waigali",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "AF"
     ],
@@ -18,7 +20,5 @@
         "Waigeli",
         "Zhonjigali"
     ],
-    "ang": "Waigali",
-    "gwcode": "ps",
-    "ln": "Kala\u1e63a-al\u00e2"
+    "gwcode": "ps"
 }

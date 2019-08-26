@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yal",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 7121,
-    "lr": "Africa",
     "lc": "yal",
+    "gw": false,
+    "ln": "Yalunka",
+    "ld": "ltr",
+    "ang": "Yalunka",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "ML",
         "SN",
@@ -24,7 +26,5 @@
         "Jalonk\u00e9",
         "Bafing"
     ],
-    "ang": "Yalunka",
-    "gwcode": "fr",
-    "ln": "Yalunka"
+    "gwcode": "fr"
 }

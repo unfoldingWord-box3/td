@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "usa",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6558,
-    "lr": "Pacific",
     "lc": "usa",
+    "gw": false,
+    "ln": "Usarufa",
+    "ld": "ltr",
+    "ang": "Usarufa",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Usurufa",
         "Uturupa"
     ],
-    "ang": "Usarufa",
-    "gwcode": "tpi",
-    "ln": "Usarufa"
+    "gwcode": "tpi"
 }

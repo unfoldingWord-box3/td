@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kye",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 3288,
-    "lr": "Africa",
     "lc": "kye",
+    "gw": false,
+    "ln": "Krache",
+    "ld": "ltr",
+    "ang": "Krache",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -13,7 +15,5 @@
         "Kaakyi",
         "Krakye"
     ],
-    "ang": "Krache",
-    "gwcode": "en",
-    "ln": "Krache"
+    "gwcode": "en"
 }

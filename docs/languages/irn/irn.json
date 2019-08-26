@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "irn",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 2511,
-    "lr": "Americas",
     "lc": "irn",
+    "gw": false,
+    "ln": "Ir\u00e1ntxe",
+    "ld": "ltr",
+    "ang": "Ir\u00e1ntxe",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -17,7 +19,5 @@
         "Myy",
         "Ir\u00e1ntxe"
     ],
-    "ang": "Ir\u00e1ntxe",
-    "gwcode": "pt",
-    "ln": "Ir\u00e1ntxe"
+    "gwcode": "pt"
 }

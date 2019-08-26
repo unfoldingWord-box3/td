@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lez",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 3426,
-    "lr": "Europe",
     "lc": "lez",
+    "gw": false,
+    "ln": "\u041b\u0435\u0437\u0433\u0438\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Lezgi",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "AZ",
         "KZ",
@@ -32,7 +34,5 @@
         "Dashagyl-Filfil",
         "Jaba"
     ],
-    "ang": "Lezgi",
-    "gwcode": "ru",
-    "ln": "\u041b\u0435\u0437\u0433\u0438\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

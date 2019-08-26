@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "arl",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 343,
-    "lr": "Americas",
     "lc": "arl",
+    "gw": false,
+    "ln": "Arabela",
+    "ld": "ltr",
+    "ang": "Arabela",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -13,7 +15,5 @@
         "Chiripuno",
         "Chiripunu"
     ],
-    "ang": "Arabela",
-    "gwcode": "es-419",
-    "ln": "Arabela"
+    "gwcode": "es-419"
 }

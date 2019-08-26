@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "uga",
-    "hc": "SY",
-    "ld": "ltr",
     "pk": 6484,
-    "lr": "Asia",
     "lc": "uga",
+    "gw": false,
+    "ln": "Ugaritic",
+    "ld": "ltr",
+    "ang": "Ugaritic",
+    "hc": "SY",
+    "lr": "Asia",
     "cc": [
         "SY"
     ],
     "alt": [],
-    "ang": "Ugaritic",
-    "gwcode": "UNKNOWN",
-    "ln": "Ugaritic"
+    "gwcode": null
 }

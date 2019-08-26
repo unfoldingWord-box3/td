@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ibd",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2405,
-    "lr": "Pacific",
     "lc": "ibd",
+    "gw": false,
+    "ln": "Iwaidja",
+    "ld": "ltr",
+    "ang": "Iwaidja",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -18,7 +20,5 @@
         "Karadjee",
         "Limba"
     ],
-    "ang": "Iwaidja",
-    "gwcode": "en",
-    "ln": "Iwaidja"
+    "gwcode": "en"
 }

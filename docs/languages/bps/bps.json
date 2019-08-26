@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bps",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 868,
-    "lr": "Asia",
     "lc": "bps",
+    "gw": false,
+    "ln": "Sarangani Blaan",
+    "ld": "ltr",
+    "ang": "Blaan, Sarangani",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -14,7 +16,5 @@
         "Bilaan",
         "Tumanao"
     ],
-    "ang": "Blaan, Sarangani",
-    "gwcode": "ceb",
-    "ln": "Sarangani Blaan"
+    "gwcode": "ceb"
 }

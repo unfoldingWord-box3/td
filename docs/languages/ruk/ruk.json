@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ruk",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 5439,
-    "lr": "Africa",
     "lc": "ruk",
+    "gw": false,
+    "ln": "Che",
+    "ld": "ltr",
+    "ang": "Kuce",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Bache",
         "Sale"
     ],
-    "ang": "Kuce",
-    "gwcode": "en",
-    "ln": "Che"
+    "gwcode": "en"
 }

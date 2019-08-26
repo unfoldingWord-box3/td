@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nab",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4289,
-    "lr": "Americas",
     "lc": "nab",
+    "gw": false,
+    "ln": "Southern Nambiku\u00e1ra",
+    "ld": "ltr",
+    "ang": "Nambiku\u00e1ra, Southern",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -17,7 +19,5 @@
         "Saxwentesu",
         "Wakalitesu"
     ],
-    "ang": "Nambiku\u00e1ra, Southern",
-    "gwcode": "pt",
-    "ln": "Southern Nambiku\u00e1ra"
+    "gwcode": "pt"
 }

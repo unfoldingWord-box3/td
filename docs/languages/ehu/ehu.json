@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ehu",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1708,
-    "lr": "Africa",
     "lc": "ehu",
+    "gw": false,
+    "ln": "Ehueun",
+    "ld": "ltr",
+    "ang": "Ehueun",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Ekpimi",
         "Epimi"
     ],
-    "ang": "Ehueun",
-    "gwcode": "en",
-    "ln": "Ehueun"
+    "gwcode": "en"
 }

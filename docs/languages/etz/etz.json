@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "etz",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1800,
-    "lr": "Asia",
     "lc": "etz",
+    "gw": false,
+    "ln": "Semimi",
+    "ld": "ltr",
+    "ang": "Semimi",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Muri",
         "Wesrau"
     ],
-    "ang": "Semimi",
-    "gwcode": "id",
-    "ln": "Semimi"
+    "gwcode": "id"
 }

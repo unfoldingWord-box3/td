@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dcc",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1461,
-    "lr": "Asia",
     "lc": "dcc",
+    "gw": false,
+    "ln": "Deccan",
+    "ld": "ltr",
+    "ang": "Deccan",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Desi",
         "Kalvadi (Dharwar)"
     ],
-    "ang": "Deccan",
-    "gwcode": "ur",
-    "ln": "Deccan"
+    "gwcode": "ur"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "paf",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4920,
-    "lr": "Americas",
     "lc": "paf",
+    "gw": false,
+    "ln": "Paranaw\u00e1t",
+    "ld": "ltr",
+    "ang": "Paranaw\u00e1t",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Paranauat",
         "Pawat\u00e9"
     ],
-    "ang": "Paranaw\u00e1t",
-    "gwcode": "pt",
-    "ln": "Paranaw\u00e1t"
+    "gwcode": "pt"
 }

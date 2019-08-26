@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ywn",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 7317,
-    "lr": "Americas",
     "lc": "ywn",
+    "gw": false,
+    "ln": "Yawanawa",
+    "ld": "ltr",
+    "ang": "Yawanawa",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Jawanaua",
         "Yahuanahua"
     ],
-    "ang": "Yawanawa",
-    "gwcode": "pt",
-    "ln": "Yawanawa"
+    "gwcode": "pt"
 }

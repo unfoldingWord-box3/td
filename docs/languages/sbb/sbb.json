@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sbb",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 5480,
-    "lr": "Pacific",
     "lc": "sbb",
+    "gw": false,
+    "ln": "Simbo",
+    "ld": "ltr",
+    "ang": "Simbo",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -14,7 +16,5 @@
         "Mandeghughusu",
         "Sibo"
     ],
-    "ang": "Simbo",
-    "gwcode": "UNKNOWN",
-    "ln": "Simbo"
+    "gwcode": "pis"
 }

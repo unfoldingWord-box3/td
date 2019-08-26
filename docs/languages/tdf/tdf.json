@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tdf",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 6035,
-    "lr": "Asia",
     "lc": "tdf",
+    "gw": false,
+    "ln": "Talieng",
+    "ld": "ltr",
+    "ang": "Talieng",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA"
     ],
@@ -14,7 +16,5 @@
         "Tariang",
         "Triang"
     ],
-    "ang": "Talieng",
-    "gwcode": "lo",
-    "ln": "Talieng"
+    "gwcode": "lo"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bwe",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 1022,
-    "lr": "Asia",
     "lc": "bwe",
+    "gw": false,
+    "ln": "Bwe Karen",
+    "ld": "ltr",
+    "ang": "Karen, Bwe",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "TH",
         "MM"
@@ -20,7 +22,5 @@
         "Eastern Bwe Karen",
         "Western Bwe Karen"
     ],
-    "ang": "Karen, Bwe",
-    "gwcode": "my",
-    "ln": "Bwe Karen"
+    "gwcode": "my"
 }

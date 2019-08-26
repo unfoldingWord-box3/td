@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nca",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4331,
-    "lr": "Pacific",
     "lc": "nca",
+    "gw": false,
+    "ln": "Iyo",
+    "ld": "ltr",
+    "ang": "Iyo",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Naho",
         "Ndo"
     ],
-    "ang": "Iyo",
-    "gwcode": "tpi",
-    "ln": "Iyo"
+    "gwcode": "tpi"
 }

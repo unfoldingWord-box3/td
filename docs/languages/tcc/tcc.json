@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tcc",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 6009,
-    "lr": "Africa",
     "lc": "tcc",
+    "gw": false,
+    "ln": "Datooga",
+    "ld": "ltr",
+    "ang": "Datooga",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -31,7 +33,5 @@
         "Bureadiga",
         "Buraadiiga (Buradiga)"
     ],
-    "ang": "Datooga",
-    "gwcode": "sw",
-    "ln": "Datooga"
+    "gwcode": "sw"
 }

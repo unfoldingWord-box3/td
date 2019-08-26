@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bbg",
-    "hc": "GA",
-    "ld": "ltr",
     "pk": 514,
-    "lr": "Africa",
     "lc": "bbg",
+    "gw": false,
+    "ln": "Barama",
+    "ld": "ltr",
+    "ang": "Barama",
+    "hc": "GA",
+    "lr": "Africa",
     "cc": [
         "GA"
     ],
@@ -15,7 +17,5 @@
         "Gibarama",
         "Yibarambu"
     ],
-    "ang": "Barama",
-    "gwcode": "fr",
-    "ln": "Barama"
+    "gwcode": "fr"
 }

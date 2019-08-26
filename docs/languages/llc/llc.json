@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "llc",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 3498,
-    "lr": "Africa",
     "lc": "llc",
+    "gw": false,
+    "ln": "Lele (Guinea)",
+    "ld": "ltr",
+    "ang": "Lele",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN"
     ],
@@ -15,7 +17,5 @@
         "Tangalto Lele (East Lele)",
         "Yombiro Lele (North Lele)"
     ],
-    "ang": "Lele",
-    "gwcode": "fr",
-    "ln": "Lele (Guinea)"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kqc",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3085,
-    "lr": "Pacific",
     "lc": "kqc",
+    "gw": false,
+    "ln": "Doromu-Koki",
+    "ld": "ltr",
+    "ang": "Doromu-Koki",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Koki",
         "Origo"
     ],
-    "ang": "Doromu-Koki",
-    "gwcode": "tpi",
-    "ln": "Doromu-Koki"
+    "gwcode": "tpi"
 }

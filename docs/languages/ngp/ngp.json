@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ngp",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 4423,
-    "lr": "Africa",
     "lc": "ngp",
+    "gw": false,
+    "ln": "Ngulu",
+    "ld": "ltr",
+    "ang": "Ngulu",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -15,7 +17,5 @@
         "Nguru",
         "Wayomba"
     ],
-    "ang": "Ngulu",
-    "gwcode": "sw",
-    "ln": "Ngulu"
+    "gwcode": "sw"
 }

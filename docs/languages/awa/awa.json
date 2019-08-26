@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "awa",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 436,
-    "lr": "Asia",
     "lc": "awa",
+    "gw": false,
+    "ln": "Awadhi",
+    "ld": "ltr",
+    "ang": "Awadhi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "NP",
         "IN"
@@ -25,7 +27,5 @@
         "Koseli",
         "Chhatisgadhi"
     ],
-    "ang": "Awadhi",
-    "gwcode": "hi",
-    "ln": "Awadhi"
+    "gwcode": "hi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vmf",
-    "hc": "DE",
-    "ld": "ltr",
     "pk": 6632,
-    "lr": "Europe",
     "lc": "vmf",
+    "gw": false,
+    "ln": "Mainfr\u00e4nkisch",
+    "ld": "ltr",
+    "ang": "Mainfr\u00e4nkisch",
+    "hc": "DE",
+    "lr": "Europe",
     "cc": [
         "DE"
     ],
@@ -16,7 +18,5 @@
         "Eastern",
         "Franconian"
     ],
-    "ang": "Mainfr\u00e4nkisch",
-    "gwcode": "en",
-    "ln": "Mainfr\u00e4nkisch"
+    "gwcode": "en"
 }

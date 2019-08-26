@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ksf",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3138,
-    "lr": "Africa",
     "lc": "ksf",
+    "gw": false,
+    "ln": "Bafia",
+    "ld": "ltr",
+    "ang": "Bafia",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -14,7 +16,5 @@
         "Rikpa'",
         "Ripey"
     ],
-    "ang": "Bafia",
-    "gwcode": "fr",
-    "ln": "Bafia"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hat",
-    "hc": "HT",
-    "ld": "ltr",
     "pk": 2360,
-    "lr": "Americas",
     "lc": "ht",
+    "gw": false,
+    "ln": "Krey\u00f2l ayisyen",
+    "ld": "ltr",
+    "ang": "Haitian, Haitian Creole",
+    "hc": "HT",
+    "lr": "Americas",
     "cc": [
         "CU",
         "DM",
@@ -22,7 +24,5 @@
         "Creole",
         "Haitian Creole"
     ],
-    "ang": "Haitian, Haitian Creole",
-    "gwcode": "fr",
-    "ln": "Krey\u00f2l ayisyen"
+    "gwcode": "fr"
 }

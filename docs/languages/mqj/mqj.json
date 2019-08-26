@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mqj",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4053,
-    "lr": "Asia",
     "lc": "mqj",
+    "gw": false,
+    "ln": "Mamasa",
+    "ld": "ltr",
+    "ang": "Mamasa",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Southern Mamasa",
         "Tae'"
     ],
-    "ang": "Mamasa",
-    "gwcode": "id",
-    "ln": "Mamasa"
+    "gwcode": "id"
 }

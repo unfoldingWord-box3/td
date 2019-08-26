@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "knf",
-    "hc": "GW",
-    "ld": "ltr",
     "pk": 3019,
-    "lr": "Africa",
     "lc": "knf",
+    "gw": false,
+    "ln": "Mankanya",
+    "ld": "ltr",
+    "ang": "Mankanya",
+    "hc": "GW",
+    "lr": "Africa",
     "cc": [
         "GM",
         "SN",
@@ -20,7 +22,5 @@
         "Uhula",
         "Uwoh"
     ],
-    "ang": "Mankanya",
-    "gwcode": "pt",
-    "ln": "Mankanya"
+    "gwcode": "pt"
 }

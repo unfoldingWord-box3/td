@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aie",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 164,
-    "lr": "Pacific",
     "lc": "aie",
+    "gw": false,
+    "ln": "Amara",
+    "ld": "ltr",
+    "ang": "Amara",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Bibling",
         "Longa"
     ],
-    "ang": "Amara",
-    "gwcode": "tpi",
-    "ln": "Amara"
+    "gwcode": "tpi"
 }

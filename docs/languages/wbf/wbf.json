@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wbf",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 6692,
-    "lr": "Africa",
     "lc": "wbf",
+    "gw": false,
+    "ln": "Wara",
+    "ld": "ltr",
+    "ang": "Wara",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -14,7 +16,5 @@
         "Ouara",
         "Samoe"
     ],
-    "ang": "Wara",
-    "gwcode": "fr",
-    "ln": "Wara"
+    "gwcode": "fr"
 }

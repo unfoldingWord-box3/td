@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "chn",
-    "hc": "CA",
-    "ld": "ltr",
     "pk": 1199,
-    "lr": "Americas",
     "lc": "chn",
+    "gw": false,
+    "ln": "Chinook jargon",
+    "ld": "ltr",
+    "ang": "Chinook Wawa",
+    "hc": "CA",
+    "lr": "Americas",
     "cc": [
         "CA"
     ],
@@ -14,7 +16,5 @@
         "Chinook Pidgin",
         "Tsinuk Wawa"
     ],
-    "ang": "Chinook Wawa",
-    "gwcode": "en",
-    "ln": "Chinook jargon"
+    "gwcode": "en"
 }

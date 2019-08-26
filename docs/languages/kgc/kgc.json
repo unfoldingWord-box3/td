@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 2838,
-    "lr": "Asia",
     "lc": "kgc",
+    "gw": false,
+    "ln": "Kasseng",
+    "ld": "ltr",
+    "ang": "Kasseng",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA"
     ],
@@ -14,7 +16,5 @@
         "Koseng",
         "Kraseng"
     ],
-    "ang": "Kasseng",
-    "gwcode": "lo",
-    "ln": "Kasseng"
+    "gwcode": "lo"
 }

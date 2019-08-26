@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sah",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 5465,
-    "lr": "Europe",
     "lc": "sah",
+    "gw": false,
+    "ln": "\u042f\u043a\u0443\u0442\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Yakut",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "CN",
         "RU"
@@ -18,7 +20,5 @@
         "Olemkinskyi",
         "Vilyiskyi"
     ],
-    "ang": "Yakut",
-    "gwcode": "ru",
-    "ln": "\u042f\u043a\u0443\u0442\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

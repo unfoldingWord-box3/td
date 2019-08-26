@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tgb",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 6080,
-    "lr": "Asia",
     "lc": "tgb",
+    "gw": false,
+    "ln": "Tobilung",
+    "ld": "ltr",
+    "ang": "Tobilung",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -13,7 +15,5 @@
         "Tabilong",
         "Tobilang"
     ],
-    "ang": "Tobilung",
-    "gwcode": "ms",
-    "ln": "Tobilung"
+    "gwcode": "ms"
 }

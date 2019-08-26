@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cby",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 1149,
-    "lr": "Americas",
     "lc": "cby",
+    "gw": false,
+    "ln": "Carabayo",
+    "ld": "ltr",
+    "ang": "Carabayo",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -13,7 +15,5 @@
         "Yuri",
         "Amazonas Macusa"
     ],
-    "ang": "Carabayo",
-    "gwcode": "es-419",
-    "ln": "Carabayo"
+    "gwcode": "es-419"
 }

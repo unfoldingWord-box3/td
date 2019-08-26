@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mzr",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4278,
-    "lr": "Americas",
     "lc": "mzr",
+    "gw": false,
+    "ln": "Mar\u00fabo",
+    "ld": "ltr",
+    "ang": "Mar\u00fabo",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Marova",
         "Maruba"
     ],
-    "ang": "Mar\u00fabo",
-    "gwcode": "pt",
-    "ln": "Mar\u00fabo"
+    "gwcode": "pt"
 }

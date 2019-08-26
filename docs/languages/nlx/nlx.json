@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nlx",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4531,
-    "lr": "Asia",
     "lc": "nlx",
+    "gw": false,
+    "ln": "Nahali",
+    "ld": "ltr",
+    "ang": "Nahali",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Nahale",
         "Nahalia"
     ],
-    "ang": "Nahali",
-    "gwcode": "mr",
-    "ln": "Nahali"
+    "gwcode": "mr"
 }

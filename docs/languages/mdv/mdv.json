@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mdv",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3748,
-    "lr": "Americas",
     "lc": "mdv",
+    "gw": false,
+    "ln": "Santa Luc\u00eda Monteverde Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Santa Luc\u00eda Monteverde",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Mixteco de Santa Luc\u00eda Monteverde",
         "Mixteco de Yosonot\u00fa"
     ],
-    "ang": "Mixtec, Santa Luc\u00eda Monteverde",
-    "gwcode": "es-419",
-    "ln": "Santa Luc\u00eda Monteverde Mixtec"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bzz",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1108,
-    "lr": "Africa",
     "lc": "bzz",
+    "gw": false,
+    "ln": "Evant",
+    "ld": "ltr",
+    "ang": "Evant",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -18,7 +20,5 @@
         "Ovande",
         "Ovando"
     ],
-    "ang": "Evant",
-    "gwcode": "en",
-    "ln": "Evant"
+    "gwcode": "en"
 }

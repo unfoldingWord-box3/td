@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lgm",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3437,
-    "lr": "Africa",
     "lc": "lgm",
+    "gw": false,
+    "ln": "Lega-Mwenga",
+    "ld": "ltr",
+    "ang": "Lega-Mwenga",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -19,7 +21,5 @@
         "Rega",
         "Shile"
     ],
-    "ang": "Lega-Mwenga",
-    "gwcode": "fr",
-    "ln": "Lega-Mwenga"
+    "gwcode": "fr"
 }

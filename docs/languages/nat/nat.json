@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nat",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4304,
-    "lr": "Africa",
     "lc": "nat",
+    "gw": false,
+    "ln": "Ca\u0331hungwa\u0331rya\u0331",
+    "ld": "ltr",
+    "ang": "Cahungwarya",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -17,7 +19,5 @@
         "Nkwoi",
         "Ungwe"
     ],
-    "ang": "Cahungwarya",
-    "gwcode": "en",
-    "ln": "Ca\u0331hungwa\u0331rya\u0331"
+    "gwcode": "en"
 }

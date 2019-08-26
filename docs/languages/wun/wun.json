@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wun",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 6838,
-    "lr": "Africa",
     "lc": "wun",
+    "gw": false,
+    "ln": "Bungu",
+    "ld": "ltr",
+    "ang": "Bungu",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -18,7 +20,5 @@
         "Maleza",
         "Mwambani"
     ],
-    "ang": "Bungu",
-    "gwcode": "sw",
-    "ln": "Bungu"
+    "gwcode": "sw"
 }

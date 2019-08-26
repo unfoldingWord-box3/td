@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kks",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2951,
-    "lr": "Africa",
     "lc": "kks",
+    "gw": false,
+    "ln": "Giiwo",
+    "ld": "ltr",
+    "ang": "Giiwo",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Kirfi",
         "Kirifawa"
     ],
-    "ang": "Giiwo",
-    "gwcode": "en",
-    "ln": "Giiwo"
+    "gwcode": "en"
 }

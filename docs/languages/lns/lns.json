@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lns",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3546,
-    "lr": "Africa",
     "lc": "lns",
+    "gw": false,
+    "ln": "Lamnso'",
+    "ld": "ltr",
+    "ang": "Lamnso\u2019",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -22,7 +24,5 @@
         "Nso'",
         "Panso"
     ],
-    "ang": "Lamnso\u2019",
-    "gwcode": "fr",
-    "ln": "Lamnso'"
+    "gwcode": "fr"
 }

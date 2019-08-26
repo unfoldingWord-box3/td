@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mzj",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 4270,
-    "lr": "Africa",
     "lc": "mzj",
+    "gw": false,
+    "ln": "Manya",
+    "ld": "ltr",
+    "ang": "Manya",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR",
         "GN"
@@ -16,7 +18,5 @@
         "Manya Kan",
         "Koinyaka"
     ],
-    "ang": "Manya",
-    "gwcode": "en",
-    "ln": "Manya"
+    "gwcode": "en"
 }

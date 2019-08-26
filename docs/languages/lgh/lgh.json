@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lgh",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 3433,
-    "lr": "Asia",
     "lc": "lgh",
+    "gw": false,
+    "ln": "Laghuu",
+    "ld": "ltr",
+    "ang": "Laghuu",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -13,7 +15,5 @@
         "Laopa",
         "X\u00e1 Ph\u00f3"
     ],
-    "ang": "Laghuu",
-    "gwcode": "vi",
-    "ln": "Laghuu"
+    "gwcode": "vi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "agx",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 144,
-    "lr": "Europe",
     "lc": "agx",
+    "gw": false,
+    "ln": "\u0430\u0433\u044a\u0443\u043b \u0447\u04c0\u0430\u043b",
+    "ld": "ltr",
+    "ang": "Aghul",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -17,7 +19,5 @@
         "Tsirkhe",
         "Aghul-ch'al"
     ],
-    "ang": "Aghul",
-    "gwcode": "ru",
-    "ln": "\u0430\u0433\u044a\u0443\u043b \u0447\u04c0\u0430\u043b"
+    "gwcode": "ru"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "auh",
-    "hc": "ZM",
-    "ld": "ltr",
     "pk": 410,
-    "lr": "Africa",
     "lc": "auh",
+    "gw": false,
+    "ln": "Aushi",
+    "ld": "ltr",
+    "ang": "Aushi",
+    "hc": "ZM",
+    "lr": "Africa",
     "cc": [
         "ZM"
     ],
@@ -17,7 +19,5 @@
         "Vouaousi",
         "Uzhil"
     ],
-    "ang": "Aushi",
-    "gwcode": "en",
-    "ln": "Aushi"
+    "gwcode": "en"
 }

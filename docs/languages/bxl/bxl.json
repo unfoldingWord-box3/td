@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bxl",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 1052,
-    "lr": "Africa",
     "lc": "bxl",
+    "gw": false,
+    "ln": "Jalkunan",
+    "ld": "ltr",
+    "ang": "Jalkunan",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -15,7 +17,5 @@
         "Dyalanu",
         "Jalkuna"
     ],
-    "ang": "Jalkunan",
-    "gwcode": "fr",
-    "ln": "Jalkunan"
+    "gwcode": "fr"
 }

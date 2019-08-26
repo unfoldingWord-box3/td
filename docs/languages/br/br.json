@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bre",
-    "hc": "FR",
-    "ld": "ltr",
     "pk": 899,
-    "lr": "Europe",
     "lc": "br",
+    "gw": false,
+    "ln": "brezhoneg",
+    "ld": "ltr",
+    "ang": "Breton",
+    "hc": "FR",
+    "lr": "Europe",
     "cc": [
         "FR"
     ],
@@ -16,7 +18,5 @@
         "Leoneg (Leonais)",
         "Tregerieg (Tregorrois)"
     ],
-    "ang": "Breton",
-    "gwcode": "fr",
-    "ln": "brezhoneg"
+    "gwcode": "fr"
 }

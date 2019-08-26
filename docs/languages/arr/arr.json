@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "arr",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 348,
-    "lr": "Americas",
     "lc": "arr",
+    "gw": false,
+    "ln": "Karo (Brazil)",
+    "ld": "ltr",
+    "ang": "Karo",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -24,7 +26,5 @@
         "Uruk\u00fa",
         "Arara"
     ],
-    "ang": "Karo",
-    "gwcode": "pt",
-    "ln": "Karo (Brazil)"
+    "gwcode": "pt"
 }

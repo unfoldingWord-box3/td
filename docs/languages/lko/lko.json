@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lko",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 3491,
-    "lr": "Africa",
     "lc": "lko",
+    "gw": false,
+    "ln": "Khayo",
+    "ld": "ltr",
+    "ang": "Olukhayo",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -13,7 +15,5 @@
         "Khayo",
         "Xaayo"
     ],
-    "ang": "Olukhayo",
-    "gwcode": "sw",
-    "ln": "Khayo"
+    "gwcode": "sw"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "acy",
-    "hc": "CY",
-    "ld": "rtl",
     "pk": 69,
-    "lr": "Asia",
     "lc": "acy",
+    "gw": false,
+    "ln": "Cypriot Arabic",
+    "ld": "rtl",
+    "ang": "Arabic, Cypriot Spoken",
+    "hc": "CY",
+    "lr": "Asia",
     "cc": [
         "CY"
     ],
@@ -14,7 +16,5 @@
         "Maronite",
         "Sanna"
     ],
-    "ang": "Arabic, Cypriot Spoken",
-    "gwcode": "en",
-    "ln": "Cypriot Arabic"
+    "gwcode": "en"
 }

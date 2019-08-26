@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "smd",
-    "hc": "AO",
-    "ld": "ltr",
     "pk": 5706,
-    "lr": "Africa",
     "lc": "smd",
+    "gw": false,
+    "ln": "Sama",
+    "ld": "ltr",
+    "ang": "Sama",
+    "hc": "AO",
+    "lr": "Africa",
     "cc": [
         "AO"
     ],
@@ -13,7 +15,5 @@
         "Kissama",
         "Quissama"
     ],
-    "ang": "Sama",
-    "gwcode": "pt",
-    "ln": "Sama"
+    "gwcode": "pt"
 }

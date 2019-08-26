@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "koh",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 3045,
-    "lr": "Africa",
     "lc": "koh",
+    "gw": false,
+    "ln": "Koyo",
+    "ld": "ltr",
+    "ang": "Koyo",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CG"
     ],
@@ -13,7 +15,5 @@
         "Ekoyo",
         "Kouyou"
     ],
-    "ang": "Koyo",
-    "gwcode": "fr",
-    "ln": "Koyo"
+    "gwcode": "fr"
 }

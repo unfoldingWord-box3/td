@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "heg",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2255,
-    "lr": "Asia",
     "lc": "heg",
+    "gw": false,
+    "ln": "Helong",
+    "ld": "ltr",
+    "ang": "Helong",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Helong Darat (Bolok)",
         "Helong Pulau (Island Helong)"
     ],
-    "ang": "Helong",
-    "gwcode": "id",
-    "ln": "Helong"
+    "gwcode": "id"
 }

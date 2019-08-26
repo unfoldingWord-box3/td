@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dnw",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1591,
-    "lr": "Asia",
     "lc": "dnw",
+    "gw": false,
+    "ln": "Western Dani",
+    "ld": "ltr",
+    "ang": "Dani, Western",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Oeringoep",
         "Timorini"
     ],
-    "ang": "Dani, Western",
-    "gwcode": "id",
-    "ln": "Western Dani"
+    "gwcode": "id"
 }

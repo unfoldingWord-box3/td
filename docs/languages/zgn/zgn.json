@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zgn",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7372,
-    "lr": "Asia",
     "lc": "zgn",
+    "gw": false,
+    "ln": "\u6842\u8fb9",
+    "ld": "ltr",
+    "ang": "Zhuang, Guibian",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -15,7 +17,5 @@
         "Kang Yei",
         "Northern Zhuang"
     ],
-    "ang": "Zhuang, Guibian",
-    "gwcode": "zh",
-    "ln": "\u6842\u8fb9"
+    "gwcode": "zh"
 }

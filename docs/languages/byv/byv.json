@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "byv",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 1079,
-    "lr": "Africa",
     "lc": "byv",
+    "gw": false,
+    "ln": "Medumba",
+    "ld": "ltr",
+    "ang": "Medumba",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -14,7 +16,5 @@
         "Bamileke-Medumba",
         "Bangangte"
     ],
-    "ang": "Medumba",
-    "gwcode": "fr",
-    "ln": "Medumba"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gob",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 2090,
-    "lr": "Americas",
     "lc": "gob",
+    "gw": false,
+    "ln": "Playero",
+    "ld": "ltr",
+    "ang": "Playero",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -14,7 +16,5 @@
         "Rio Arauca Guahibo",
         "Guahibo Playero"
     ],
-    "ang": "Playero",
-    "gwcode": "es-419",
-    "ln": "Playero"
+    "gwcode": "es-419"
 }

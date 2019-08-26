@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bfa",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 609,
-    "lr": "Africa",
     "lc": "bfa",
+    "gw": false,
+    "ln": "Bari",
+    "ld": "ltr",
+    "ang": "Bari",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS",
         "US",
@@ -28,7 +30,5 @@
         "Nyefu",
         "Mundari"
     ],
-    "ang": "Bari",
-    "gwcode": "ar",
-    "ln": "Bari"
+    "gwcode": "ar"
 }

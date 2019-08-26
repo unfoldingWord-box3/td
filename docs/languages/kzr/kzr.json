@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kzr",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3324,
-    "lr": "Africa",
     "lc": "kzr",
+    "gw": false,
+    "ln": "Karang",
+    "ld": "ltr",
+    "ang": "Karang",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -21,7 +23,5 @@
         "Nz\u00e1k K\u00e0r\u00e1ng",
         "Ngumi"
     ],
-    "ang": "Karang",
-    "gwcode": "fr",
-    "ln": "Karang"
+    "gwcode": "fr"
 }

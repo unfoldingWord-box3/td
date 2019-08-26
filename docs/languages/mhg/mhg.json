@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mhg",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 3835,
-    "lr": "Pacific",
     "lc": "mhg",
+    "gw": false,
+    "ln": "Margu",
+    "ld": "ltr",
+    "ang": "Margu",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -21,7 +23,5 @@
         "Yaako",
         "Yako"
     ],
-    "ang": "Margu",
-    "gwcode": "en",
-    "ln": "Margu"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cwb",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 1406,
-    "lr": "Africa",
     "lc": "cwb",
+    "gw": false,
+    "ln": "Maindo",
+    "ld": "ltr",
+    "ang": "Maindo",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ"
     ],
@@ -14,7 +16,5 @@
         "Badoni",
         "Mitange"
     ],
-    "ang": "Maindo",
-    "gwcode": "pt",
-    "ln": "Maindo"
+    "gwcode": "pt"
 }

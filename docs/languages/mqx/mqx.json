@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mqx",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4067,
-    "lr": "Asia",
     "lc": "mqx",
+    "gw": false,
+    "ln": "Mamuju",
+    "ld": "ltr",
+    "ang": "Mamuju",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Mamudju",
         "Udai"
     ],
-    "ang": "Mamuju",
-    "gwcode": "id",
-    "ln": "Mamuju"
+    "gwcode": "id"
 }

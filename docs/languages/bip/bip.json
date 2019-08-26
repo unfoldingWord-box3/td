@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bip",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 699,
-    "lr": "Africa",
     "lc": "bip",
+    "gw": false,
+    "ln": "Bila",
+    "ld": "ltr",
+    "ang": "Bila",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -16,7 +18,5 @@
         "Bombi-Ngbanja",
         "Nyaku"
     ],
-    "ang": "Bila",
-    "gwcode": "fr",
-    "ln": "Bila"
+    "gwcode": "fr"
 }

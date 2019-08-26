@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cdj",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1166,
-    "lr": "Asia",
     "lc": "cdj",
+    "gw": false,
+    "ln": "Churahi",
+    "ld": "ltr",
+    "ang": "Churahi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Churahi Pahari",
         "Churai Pahari"
     ],
-    "ang": "Churahi",
-    "gwcode": "pa",
-    "ln": "Churahi"
+    "gwcode": "pa"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xes",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6905,
-    "lr": "Pacific",
     "lc": "xes",
+    "gw": false,
+    "ln": "Kesawai",
+    "ld": "ltr",
+    "ang": "Kesawai",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Kesawi",
         "Namuya"
     ],
-    "ang": "Kesawai",
-    "gwcode": "tpi",
-    "ln": "Kesawai"
+    "gwcode": "tpi"
 }

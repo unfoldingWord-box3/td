@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gaw",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1924,
-    "lr": "Pacific",
     "lc": "gaw",
+    "gw": false,
+    "ln": "Nobonob",
+    "ld": "ltr",
+    "ang": "Nobonob",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -17,7 +19,5 @@
         "Ari (A'i)",
         "Ati"
     ],
-    "ang": "Nobonob",
-    "gwcode": "tpi",
-    "ln": "Nobonob"
+    "gwcode": "tpi"
 }

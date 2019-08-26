@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sii",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5625,
-    "lr": "Asia",
     "lc": "sii",
+    "gw": false,
+    "ln": "Shom Peng",
+    "ld": "ltr",
+    "ang": "Shom Peng",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Shompen",
         "Shompeng"
     ],
-    "ang": "Shom Peng",
-    "gwcode": "hi",
-    "ln": "Shom Peng"
+    "gwcode": "hi"
 }

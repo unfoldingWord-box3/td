@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bdu",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 579,
-    "lr": "Africa",
     "lc": "bdu",
+    "gw": false,
+    "ln": "Oroko",
+    "ld": "ltr",
+    "ang": "Oroko",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -32,7 +34,5 @@
         "Kundu",
         "Lokundu (Bakundu)"
     ],
-    "ang": "Oroko",
-    "gwcode": "fr",
-    "ln": "Oroko"
+    "gwcode": "fr"
 }

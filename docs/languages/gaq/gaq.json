@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gaq",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1919,
-    "lr": "Asia",
     "lc": "gaq",
+    "gw": false,
+    "ln": "Gata'",
+    "ld": "ltr",
+    "ang": "Gata\u2019",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -18,7 +20,5 @@
         "Gta'",
         "Gta Asa"
     ],
-    "ang": "Gata\u2019",
-    "gwcode": "or",
-    "ln": "Gata'"
+    "gwcode": "or"
 }

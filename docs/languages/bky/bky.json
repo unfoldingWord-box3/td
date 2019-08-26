@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bky",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 753,
-    "lr": "Africa",
     "lc": "bky",
+    "gw": false,
+    "ln": "Bokyi",
+    "ld": "ltr",
+    "ang": "Bokyi",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -29,7 +31,5 @@
         "Abo (Abu)",
         "Erwan"
     ],
-    "ang": "Bokyi",
-    "gwcode": "en",
-    "ln": "Bokyi"
+    "gwcode": "en"
 }

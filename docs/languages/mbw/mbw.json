@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mbw",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3698,
-    "lr": "Pacific",
     "lc": "mbw",
+    "gw": false,
+    "ln": "Maring",
+    "ld": "ltr",
+    "ang": "Maring",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Mareng",
         "Yoadabe-Watoare"
     ],
-    "ang": "Maring",
-    "gwcode": "tpi",
-    "ln": "Maring"
+    "gwcode": "tpi"
 }

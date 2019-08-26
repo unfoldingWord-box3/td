@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zad",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7334,
-    "lr": "Americas",
     "lc": "zad",
+    "gw": false,
+    "ln": "Cajonos Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Cajonos",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -18,7 +20,5 @@
         "Xagac\u00eda Zapotec",
         "Yaganiza"
     ],
-    "ang": "Zapotec, Cajonos",
-    "gwcode": "es-419",
-    "ln": "Cajonos Zapotec"
+    "gwcode": "es-419"
 }

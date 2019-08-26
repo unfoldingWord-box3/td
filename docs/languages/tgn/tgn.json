@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tgn",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 6088,
-    "lr": "Asia",
     "lc": "tgn",
+    "gw": false,
+    "ln": "Tandaganon",
+    "ld": "ltr",
+    "ang": "Tandaganon",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Naturalis",
         "Tagon-on"
     ],
-    "ang": "Tandaganon",
-    "gwcode": "ceb",
-    "ln": "Tandaganon"
+    "gwcode": "ceb"
 }

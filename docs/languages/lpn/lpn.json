@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lpn",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 3576,
-    "lr": "Asia",
     "lc": "lpn",
+    "gw": false,
+    "ln": "Long Phuri Naga",
+    "ld": "ltr",
+    "ang": "Naga, Long Phuri",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -15,7 +17,5 @@
         "Longpfuru",
         "Mimi"
     ],
-    "ang": "Naga, Long Phuri",
-    "gwcode": "my",
-    "ln": "Long Phuri Naga"
+    "gwcode": "my"
 }

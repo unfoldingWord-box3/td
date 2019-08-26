@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "des",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 1487,
-    "lr": "Americas",
     "lc": "des",
+    "gw": false,
+    "ln": "Desano",
+    "ld": "ltr",
+    "ang": "Desano",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "CO"
@@ -24,7 +26,5 @@
         "Kotedia",
         "Wira"
     ],
-    "ang": "Desano",
-    "gwcode": "pt",
-    "ln": "Desano"
+    "gwcode": "pt"
 }

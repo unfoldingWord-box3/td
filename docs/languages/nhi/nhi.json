@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nhi",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4441,
-    "lr": "Americas",
     "lc": "nhi",
+    "gw": false,
+    "ln": "Zacatl\u00e1n-Ahuacatl\u00e1n-Tepetzintla Nahuatl",
+    "ld": "ltr",
+    "ang": "Nahuatl, Zacatl\u00e1n-Ahuacatl\u00e1n-Tepetzintla",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX",
         "US"
@@ -19,7 +21,5 @@
         "Tlalitzlipa Nahuatl",
         "Zacatl\u00e1n-Ahuacatl\u00e1n-Tepetzintla Nahuatl"
     ],
-    "ang": "Nahuatl, Zacatl\u00e1n-Ahuacatl\u00e1n-Tepetzintla",
-    "gwcode": "es-419",
-    "ln": "Zacatl\u00e1n-Ahuacatl\u00e1n-Tepetzintla Nahuatl"
+    "gwcode": "es-419"
 }

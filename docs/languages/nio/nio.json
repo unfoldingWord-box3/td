@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nio",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 4467,
-    "lr": "Europe",
     "lc": "nio",
+    "gw": false,
+    "ln": "\u041d\u0433\u0430\u043d\u0430\u0441\u0430\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Nganasan",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -14,7 +16,5 @@
         "Tavgi Samoyed",
         "Avam (West)"
     ],
-    "ang": "Nganasan",
-    "gwcode": "ru",
-    "ln": "\u041d\u0433\u0430\u043d\u0430\u0441\u0430\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

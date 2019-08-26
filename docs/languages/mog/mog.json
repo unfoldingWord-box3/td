@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mog",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4003,
-    "lr": "Asia",
     "lc": "mog",
+    "gw": false,
+    "ln": "Mongondow",
+    "ld": "ltr",
+    "ang": "Mongondow",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Mongondou",
         "Passi"
     ],
-    "ang": "Mongondow",
-    "gwcode": "id",
-    "ln": "Mongondow"
+    "gwcode": "id"
 }

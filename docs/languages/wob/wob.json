@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wob",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 6789,
-    "lr": "Africa",
     "lc": "wob",
+    "gw": false,
+    "ln": "W\u00e8 Northern",
+    "ld": "ltr",
+    "ang": "W\u00e8 Northern",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -15,7 +17,5 @@
         "Wob\u00e9",
         "S\u00e9mien (Gb\u00e9an)"
     ],
-    "ang": "W\u00e8 Northern",
-    "gwcode": "fr",
-    "ln": "W\u00e8 Northern"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kkx",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2956,
-    "lr": "Asia",
     "lc": "kkx",
+    "gw": false,
+    "ln": "Kohin",
+    "ld": "ltr",
+    "ang": "Kohin",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Bahasa Seruyan",
         "Seruyan"
     ],
-    "ang": "Kohin",
-    "gwcode": "id",
-    "ln": "Kohin"
+    "gwcode": "id"
 }

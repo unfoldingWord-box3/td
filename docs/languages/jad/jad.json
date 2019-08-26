@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jad",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 2567,
-    "lr": "Africa",
     "lc": "jad",
+    "gw": false,
+    "ln": "Jahanka",
+    "ld": "ltr",
+    "ang": "Jahanka",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GM",
         "ML",
@@ -21,7 +23,5 @@
         "Jahonque",
         "Jaxanka"
     ],
-    "ang": "Jahanka",
-    "gwcode": "fr",
-    "ln": "Jahanka"
+    "gwcode": "fr"
 }

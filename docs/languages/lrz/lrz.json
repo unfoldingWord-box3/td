@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lrz",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 3592,
-    "lr": "Pacific",
     "lc": "lrz",
+    "gw": false,
+    "ln": "Lemerig",
+    "ld": "ltr",
+    "ang": "Lemerig",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -15,7 +17,5 @@
         "P\u00e4k",
         "Sasar"
     ],
-    "ang": "Lemerig",
-    "gwcode": "fr",
-    "ln": "Lemerig"
+    "gwcode": "fr"
 }

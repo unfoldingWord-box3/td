@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nrb",
-    "hc": "ER",
-    "ld": "ltr",
     "pk": 4624,
-    "lr": "Africa",
     "lc": "nrb",
+    "gw": false,
+    "ln": "Nara",
+    "ld": "ltr",
+    "ang": "Nara",
+    "hc": "ER",
+    "lr": "Africa",
     "cc": [
         "ER",
         "ET"
@@ -19,7 +21,5 @@
         "Santora",
         "Higir"
     ],
-    "ang": "Nara",
-    "gwcode": "ar",
-    "ln": "Nara"
+    "gwcode": "ar"
 }

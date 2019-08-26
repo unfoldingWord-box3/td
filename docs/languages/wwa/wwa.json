@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wwa",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 6844,
-    "lr": "Africa",
     "lc": "wwa",
+    "gw": false,
+    "ln": "Waama",
+    "ld": "ltr",
+    "ang": "Waama",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "TG"
@@ -13,7 +15,5 @@
     "alt": [
         "Yoabu"
     ],
-    "ang": "Waama",
-    "gwcode": "fr",
-    "ln": "Waama"
+    "gwcode": "fr"
 }

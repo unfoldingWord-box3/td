@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aoj",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 291,
-    "lr": "Pacific",
     "lc": "aoj",
+    "gw": false,
+    "ln": "Mufian",
+    "ld": "ltr",
+    "ang": "Mufian",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Filifita (Ilahita)",
         "Supari"
     ],
-    "ang": "Mufian",
-    "gwcode": "tpi",
-    "ln": "Mufian"
+    "gwcode": "tpi"
 }

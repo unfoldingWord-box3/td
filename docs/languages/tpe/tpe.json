@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tpe",
-    "hc": "BD",
-    "ld": "ltr",
     "pk": 6267,
-    "lr": "Asia",
     "lc": "tpe",
+    "gw": false,
+    "ln": "Tippera",
+    "ld": "ltr",
+    "ang": "Tippera",
+    "hc": "BD",
+    "lr": "Asia",
     "cc": [
         "BD"
     ],
@@ -27,7 +29,5 @@
         "Kema",
         "Tongpai"
     ],
-    "ang": "Tippera",
-    "gwcode": "bn",
-    "ln": "Tippera"
+    "gwcode": "bn"
 }

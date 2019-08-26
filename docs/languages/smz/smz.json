@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "smz",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5725,
-    "lr": "Pacific",
     "lc": "smz",
+    "gw": false,
+    "ln": "Simeku",
+    "ld": "ltr",
+    "ang": "Simeku",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Korpei",
         "Mainoki (Mainoke)"
     ],
-    "ang": "Simeku",
-    "gwcode": "tpi",
-    "ln": "Simeku"
+    "gwcode": "tpi"
 }

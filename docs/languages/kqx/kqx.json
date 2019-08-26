@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kqx",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3105,
-    "lr": "Africa",
     "lc": "kqx",
+    "gw": false,
+    "ln": "Mser",
+    "ld": "ltr",
+    "ang": "Mser",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "TD"
@@ -22,7 +24,5 @@
         "Kalo (Kalakafra)",
         "Msir"
     ],
-    "ang": "Mser",
-    "gwcode": "fr",
-    "ln": "Mser"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "naj",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 4294,
-    "lr": "Africa",
     "lc": "naj",
+    "gw": false,
+    "ln": "Nalu",
+    "ld": "ltr",
+    "ang": "Nalu",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN",
         "GW"
@@ -13,7 +15,5 @@
     "alt": [
         "Nalou"
     ],
-    "ang": "Nalu",
-    "gwcode": "fr",
-    "ln": "Nalu"
+    "gwcode": "fr"
 }

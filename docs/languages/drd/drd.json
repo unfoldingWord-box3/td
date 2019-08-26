@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "drd",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1617,
-    "lr": "Asia",
     "lc": "drd",
+    "gw": false,
+    "ln": "Darmiya",
+    "ld": "ltr",
+    "ang": "Darmiya",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "NP",
         "IN"
@@ -16,7 +18,5 @@
         "Saukas",
         "Shaukas"
     ],
-    "ang": "Darmiya",
-    "gwcode": "hi",
-    "ln": "Darmiya"
+    "gwcode": "hi"
 }

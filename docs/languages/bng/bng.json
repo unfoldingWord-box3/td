@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bng",
-    "hc": "GQ",
-    "ld": "ltr",
     "pk": 812,
-    "lr": "Africa",
     "lc": "bng",
+    "gw": false,
+    "ln": "Benga",
+    "ld": "ltr",
+    "ang": "Benga",
+    "hc": "GQ",
+    "lr": "Africa",
     "cc": [
         "GQ",
         "GA"
@@ -14,7 +16,5 @@
         "Boumba",
         "Ndowe"
     ],
-    "ang": "Benga",
-    "gwcode": "es",
-    "ln": "Benga"
+    "gwcode": "es"
 }

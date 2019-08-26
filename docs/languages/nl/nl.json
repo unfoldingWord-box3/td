@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nld",
-    "hc": "NL",
-    "ld": "ltr",
     "pk": 4518,
-    "lr": "Europe",
     "lc": "nl",
+    "gw": false,
+    "ln": "Nederlands, Vlaams",
+    "ld": "ltr",
+    "ang": "Dutch",
+    "hc": "NL",
+    "lr": "Europe",
     "cc": [
         "AT",
         "FR",
@@ -33,7 +35,5 @@
         "Antwerps",
         "Northern North Hollandish (Westfries)"
     ],
-    "ang": "Dutch",
-    "gwcode": "UNKNOWN",
-    "ln": "Nederlands, Vlaams"
+    "gwcode": null
 }

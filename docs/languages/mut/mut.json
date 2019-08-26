@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mut",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4163,
-    "lr": "Asia",
     "lc": "mut",
+    "gw": false,
+    "ln": "Western Muria",
+    "ld": "ltr",
+    "ang": "Muria, Western",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Mudia",
         "Muria Gondi"
     ],
-    "ang": "Muria, Western",
-    "gwcode": "UNKNOWN",
-    "ln": "Western Muria"
+    "gwcode": "hne"
 }

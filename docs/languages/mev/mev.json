@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mev",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 3773,
-    "lr": "Africa",
     "lc": "mev",
+    "gw": false,
+    "ln": "Mano",
+    "ld": "ltr",
+    "ang": "Mano",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR",
         "GN"
@@ -16,7 +18,5 @@
         "Manon",
         "Mawe"
     ],
-    "ang": "Mano",
-    "gwcode": "en",
-    "ln": "Mano"
+    "gwcode": "en"
 }

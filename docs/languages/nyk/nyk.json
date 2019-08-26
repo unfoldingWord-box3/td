@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nyk",
-    "hc": "AO",
-    "ld": "ltr",
     "pk": 4735,
-    "lr": "Africa",
     "lc": "nyk",
+    "gw": false,
+    "ln": "Nyaneka",
+    "ld": "ltr",
+    "ang": "Nyaneka",
+    "hc": "AO",
+    "lr": "Africa",
     "cc": [
         "AO"
     ],
@@ -24,7 +26,5 @@
         "Cilenge-Musa",
         "Cipungu"
     ],
-    "ang": "Nyaneka",
-    "gwcode": "pt",
-    "ln": "Nyaneka"
+    "gwcode": "pt"
 }

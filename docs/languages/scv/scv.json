@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "scv",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 5520,
-    "lr": "Africa",
     "lc": "scv",
+    "gw": false,
+    "ln": "Sheni",
+    "ld": "ltr",
+    "ang": "Sheni",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Shani",
         "Shenanci"
     ],
-    "ang": "Sheni",
-    "gwcode": "en",
-    "ln": "Sheni"
+    "gwcode": "en"
 }

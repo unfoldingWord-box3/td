@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bkk",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 739,
-    "lr": "Asia",
     "lc": "bkk",
+    "gw": false,
+    "ln": "Brokskat",
+    "ld": "ltr",
+    "ang": "Brokskat",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Dokskat",
         "Kyango"
     ],
-    "ang": "Brokskat",
-    "gwcode": "UNKNOWN",
-    "ln": "Brokskat"
+    "gwcode": "lbj"
 }

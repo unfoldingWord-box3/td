@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "eyo",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 1808,
-    "lr": "Africa",
     "lc": "eyo",
+    "gw": false,
+    "ln": "Keiyo",
+    "ld": "ltr",
+    "ang": "Keiyo",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -13,7 +15,5 @@
         "Elgeyo",
         "Keyo"
     ],
-    "ang": "Keiyo",
-    "gwcode": "sw",
-    "ln": "Keiyo"
+    "gwcode": "sw"
 }

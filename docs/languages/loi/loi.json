@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "loi",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 3557,
-    "lr": "Africa",
     "lc": "loi",
+    "gw": false,
+    "ln": "Loma (C\u00f4te d'Ivoire)",
+    "ld": "ltr",
+    "ang": "Loma",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -15,7 +17,5 @@
         "Lomasse",
         "Malinke"
     ],
-    "ang": "Loma",
-    "gwcode": "fr",
-    "ln": "Loma (C\u00f4te d'Ivoire)"
+    "gwcode": "fr"
 }

@@ -3,11 +3,13 @@
 Limburgs
 ========
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/lim>`_ identifies this language as ``lim``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/lim>`__ identifies this language as ``lim``.
 
 This language is spoken in the following countries:
 
 * NL: Netherlands
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -22,7 +24,7 @@ This language is spoken in the following countries:
     anglicanized_name: Limburgish, Limburgan, Limburger
     country_codes:
     - NL
-    gateway_language: UNKNOWN
+    gateway_language: nl
     lang_code: li
     lang_direction: ltr
     lang_name: Limburgs

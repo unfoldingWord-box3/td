@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "srp",
-    "hc": "RS",
-    "ld": "ltr",
     "pk": 5803,
-    "lr": "Europe",
     "lc": "sr",
+    "gw": false,
+    "ln": "\u0441\u0440\u043f\u0441\u043a\u0438 \u0458\u0435\u0437\u0438\u043a",
+    "ld": "ltr",
+    "ang": "Serbian",
+    "hc": "RS",
+    "lr": "Europe",
     "cc": [
         "BE",
         "CL",
@@ -31,7 +33,5 @@
         "Shtokavski (Stokavian)",
         "Torlakian"
     ],
-    "ang": "Serbian",
-    "gwcode": "en",
-    "ln": "\u0441\u0440\u043f\u0441\u043a\u0438 \u0458\u0435\u0437\u0438\u043a"
+    "gwcode": "en"
 }

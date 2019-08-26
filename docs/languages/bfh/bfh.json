@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bfh",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 616,
-    "lr": "Pacific",
     "lc": "bfh",
+    "gw": false,
+    "ln": "Blafe",
+    "ld": "ltr",
+    "ang": "Blafe",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Mblafe",
         "R\u00e1nmo"
     ],
-    "ang": "Blafe",
-    "gwcode": "tpi",
-    "ln": "Blafe"
+    "gwcode": "tpi"
 }

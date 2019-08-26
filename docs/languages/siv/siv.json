@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "siv",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5635,
-    "lr": "Pacific",
     "lc": "siv",
+    "gw": false,
+    "ln": "Sumariup",
+    "ld": "ltr",
+    "ang": "Sumariup",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Latoma",
         "Sogoba"
     ],
-    "ang": "Sumariup",
-    "gwcode": "tpi",
-    "ln": "Sumariup"
+    "gwcode": "tpi"
 }

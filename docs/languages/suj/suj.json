@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "suj",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 5882,
-    "lr": "Africa",
     "lc": "suj",
+    "gw": false,
+    "ln": "Shubi",
+    "ld": "ltr",
+    "ang": "Shubi",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -15,7 +17,5 @@
         "Subi",
         "Urushubi"
     ],
-    "ang": "Shubi",
-    "gwcode": "sw",
-    "ln": "Shubi"
+    "gwcode": "sw"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "goi",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2097,
-    "lr": "Pacific",
     "lc": "goi",
+    "gw": false,
+    "ln": "Gobasi",
+    "ld": "ltr",
+    "ang": "Gobasi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Gobasi (Bibo)",
         "Oibae (Oiba)"
     ],
-    "ang": "Gobasi",
-    "gwcode": "tpi",
-    "ln": "Gobasi"
+    "gwcode": "tpi"
 }

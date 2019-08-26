@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mxp",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4229,
-    "lr": "Americas",
     "lc": "mxp",
+    "gw": false,
+    "ln": "Tlahuitoltepec Mixe",
+    "ld": "ltr",
+    "ang": "Mixe, Tlahuitoltepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Mixe Alto del Centro",
         "West Central Mixe"
     ],
-    "ang": "Mixe, Tlahuitoltepec",
-    "gwcode": "es-419",
-    "ln": "Tlahuitoltepec Mixe"
+    "gwcode": "es-419"
 }

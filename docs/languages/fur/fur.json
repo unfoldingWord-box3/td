@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fur",
-    "hc": "IT",
-    "ld": "ltr",
     "pk": 1893,
-    "lr": "Europe",
     "lc": "fur",
+    "gw": false,
+    "ln": "Friulian",
+    "ld": "ltr",
+    "ang": "Friulian",
+    "hc": "IT",
+    "lr": "Europe",
     "cc": [
         "IT"
     ],
@@ -16,7 +18,5 @@
         "Furlan",
         "Priulian"
     ],
-    "ang": "Friulian",
-    "gwcode": "en",
-    "ln": "Friulian"
+    "gwcode": "en"
 }

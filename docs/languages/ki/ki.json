@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kik",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 2882,
-    "lr": "Africa",
     "lc": "ki",
+    "gw": false,
+    "ln": "G\u0129k\u0169y\u0169",
+    "ld": "ltr",
+    "ang": "Kikuyu, Gikuyu",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE",
         "TZ",
@@ -22,7 +24,5 @@
         "Ndia (Southern Kirinyaga)",
         "Northern Gikuyu (Northern Murang'a)"
     ],
-    "ang": "Kikuyu, Gikuyu",
-    "gwcode": "sw",
-    "ln": "G\u0129k\u0169y\u0169"
+    "gwcode": "sw"
 }

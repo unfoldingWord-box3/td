@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gay",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1926,
-    "lr": "Asia",
     "lc": "gay",
+    "gw": false,
+    "ln": "Gayo",
+    "ld": "ltr",
+    "ang": "Gayo",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Lues",
         "Lut"
     ],
-    "ang": "Gayo",
-    "gwcode": "id",
-    "ln": "Gayo"
+    "gwcode": "id"
 }

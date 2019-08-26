@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "abo",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 41,
-    "lr": "Africa",
     "lc": "abo",
+    "gw": false,
+    "ln": "Abon",
+    "ld": "ltr",
+    "ang": "Abon",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Ab\u00f5",
         "Ba'ban"
     ],
-    "ang": "Abon",
-    "gwcode": "en",
-    "ln": "Abon"
+    "gwcode": "en"
 }

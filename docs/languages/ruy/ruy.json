@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ruy",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 5445,
-    "lr": "Africa",
     "lc": "ruy",
+    "gw": false,
+    "ln": "Mala (Nigeria)",
+    "ld": "ltr",
+    "ang": "Mala",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Rumaiya",
         "Tumala"
     ],
-    "ang": "Mala",
-    "gwcode": "en",
-    "ln": "Mala (Nigeria)"
+    "gwcode": "en"
 }

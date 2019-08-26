@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ztp",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7480,
-    "lr": "Americas",
     "lc": "ztp",
+    "gw": false,
+    "ln": "Loxicha Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Loxicha",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -18,7 +20,5 @@
         "San Agust\u00edn Loxicha",
         "San Andr\u00e9s Paxtl\u00e1n"
     ],
-    "ang": "Zapotec, Loxicha",
-    "gwcode": "es-419",
-    "ln": "Loxicha Zapotec"
+    "gwcode": "es-419"
 }

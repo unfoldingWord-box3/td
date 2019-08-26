@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ymq",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7233,
-    "lr": "Asia",
     "lc": "ymq",
+    "gw": false,
+    "ln": "Qila Muji",
+    "ld": "ltr",
+    "ang": "Muji, Qila",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Mujitsu",
         "Phutsu"
     ],
-    "ang": "Muji, Qila",
-    "gwcode": "zh",
-    "ln": "Qila Muji"
+    "gwcode": "zh"
 }

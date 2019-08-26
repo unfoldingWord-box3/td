@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "onk",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4842,
-    "lr": "Pacific",
     "lc": "onk",
+    "gw": false,
+    "ln": "Kabore One",
+    "ld": "ltr",
+    "ang": "One, Kabore",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Onele",
         "Oni"
     ],
-    "ang": "One, Kabore",
-    "gwcode": "tpi",
-    "ln": "Kabore One"
+    "gwcode": "tpi"
 }

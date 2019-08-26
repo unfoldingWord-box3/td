@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nno",
-    "hc": "SE",
-    "ld": "ltr",
     "pk": 4558,
-    "lr": "Europe",
     "lc": "nn",
+    "gw": false,
+    "ln": "Norsk nynorsk",
+    "ld": "ltr",
+    "ang": "Norwegian Nynorsk",
+    "hc": "SE",
+    "lr": "Europe",
     "cc": [
         "GB",
         "SE",
@@ -16,7 +18,5 @@
         "IS"
     ],
     "alt": [],
-    "ang": "Norwegian Nynorsk",
-    "gwcode": "UNKNOWN",
-    "ln": "Norsk nynorsk"
+    "gwcode": null
 }

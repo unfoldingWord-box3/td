@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tox",
-    "hc": "PW",
-    "ld": "ltr",
     "pk": 6262,
-    "lr": "Pacific",
     "lc": "tox",
+    "gw": false,
+    "ln": "Tobian",
+    "ld": "ltr",
+    "ang": "Tobian",
+    "hc": "PW",
+    "lr": "Pacific",
     "cc": [
         "PW"
     ],
@@ -13,7 +15,5 @@
         "Hatohobei",
         "Tobi"
     ],
-    "ang": "Tobian",
-    "gwcode": "en",
-    "ln": "Tobian"
+    "gwcode": "en"
 }

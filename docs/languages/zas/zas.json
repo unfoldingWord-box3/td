@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zas",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7348,
-    "lr": "Americas",
     "lc": "zas",
+    "gw": false,
+    "ln": "Santo Domingo Albarradas Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Santo Domingo Albarradas",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Albarradas Zapotec",
         "Zapoteco de Santo Domingo Albarradas"
     ],
-    "ang": "Zapotec, Santo Domingo Albarradas",
-    "gwcode": "es-419",
-    "ln": "Santo Domingo Albarradas Zapotec"
+    "gwcode": "es-419"
 }

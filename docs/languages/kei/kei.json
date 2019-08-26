@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kei",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2791,
-    "lr": "Asia",
     "lc": "kei",
+    "gw": false,
+    "ln": "Kei",
+    "ld": "ltr",
+    "ang": "Kei",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Veveu Evav",
         "Tanimbar Kei (Atnebar)"
     ],
-    "ang": "Kei",
-    "gwcode": "id",
-    "ln": "Kei"
+    "gwcode": "id"
 }

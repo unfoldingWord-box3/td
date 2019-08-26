@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bhf",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 665,
-    "lr": "Pacific",
     "lc": "bhf",
+    "gw": false,
+    "ln": "Odiai",
+    "ld": "ltr",
+    "ang": "Odiai",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Busa",
         "Uriai"
     ],
-    "ang": "Odiai",
-    "gwcode": "tpi",
-    "ln": "Odiai"
+    "gwcode": "tpi"
 }

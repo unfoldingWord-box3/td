@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "snd",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 5523,
-    "lr": "Asia",
     "lc": "sd",
+    "gw": false,
+    "ln": "\u0938\u093f\u0928\u094d\u0927\u0940, \u0633\u0646\u068c\u064a\u060c \u0633\u0646\u062f\u06be\u06cc\u200e",
+    "ld": "ltr",
+    "ang": "Sindhi",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "AF",
         "GB",
@@ -26,7 +28,5 @@
         "Dukslinu (Hindu Sindhi)",
         "Katiawari Kachi"
     ],
-    "ang": "Sindhi",
-    "gwcode": "ur",
-    "ln": "\u0938\u093f\u0928\u094d\u0927\u0940, \u0633\u0646\u068c\u064a\u060c \u0633\u0646\u062f\u06be\u06cc\u200e"
+    "gwcode": "ur"
 }

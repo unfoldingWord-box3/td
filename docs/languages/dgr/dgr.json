@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dgr",
-    "hc": "CA",
-    "ld": "ltr",
     "pk": 1501,
-    "lr": "Americas",
     "lc": "dgr",
+    "gw": false,
+    "ln": "Dogrib",
+    "ld": "ltr",
+    "ang": "Dogrib",
+    "hc": "CA",
+    "lr": "Americas",
     "cc": [
         "CA"
     ],
@@ -13,7 +15,5 @@
         "Central Dogrib",
         "Weledeh"
     ],
-    "ang": "Dogrib",
-    "gwcode": "en",
-    "ln": "Dogrib"
+    "gwcode": "en"
 }

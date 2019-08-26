@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gru",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 2135,
-    "lr": "Africa",
     "lc": "gru",
+    "gw": false,
+    "ln": "Kistane",
+    "ld": "ltr",
+    "ang": "Kistane",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -19,7 +21,5 @@
         "Aymellel",
         "Dobi (Dobbi)"
     ],
-    "ang": "Kistane",
-    "gwcode": "am",
-    "ln": "Kistane"
+    "gwcode": "am"
 }

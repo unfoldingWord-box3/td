@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ron",
-    "hc": "RO",
-    "ld": "ltr",
     "pk": 5405,
-    "lr": "Europe",
     "lc": "ro",
+    "gw": false,
+    "ln": "limba rom\u00e2n\u0103",
+    "ld": "ltr",
+    "ang": "Romanian",
+    "hc": "RO",
+    "lr": "Europe",
     "cc": [
         "AZ",
         "BE",
@@ -39,7 +41,5 @@
         "Walachian",
         "Boyash Romanian"
     ],
-    "ang": "Romanian",
-    "gwcode": "en",
-    "ln": "limba rom\u00e2n\u0103"
+    "gwcode": "en"
 }

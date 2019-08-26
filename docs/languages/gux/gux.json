@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gux",
-    "hc": "NE",
-    "ld": "ltr",
     "pk": 2174,
-    "lr": "Africa",
     "lc": "gux",
+    "gw": false,
+    "ln": "Gourmanch\u00e9ma",
+    "ld": "ltr",
+    "ang": "Gourmanch\u00e9ma",
+    "hc": "NE",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "BF",
@@ -26,7 +28,5 @@
         "Goulimancema",
         "Central Gourmanchema"
     ],
-    "ang": "Gourmanch\u00e9ma",
-    "gwcode": "fr",
-    "ln": "Gourmanch\u00e9ma"
+    "gwcode": "fr"
 }

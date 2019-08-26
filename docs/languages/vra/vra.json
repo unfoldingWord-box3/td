@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vra",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 6651,
-    "lr": "Pacific",
     "lc": "vra",
+    "gw": false,
+    "ln": "Vera'a",
+    "ld": "ltr",
+    "ang": "Vera\u2019a",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -13,7 +15,5 @@
         "Vatrata",
         "Vetrat"
     ],
-    "ang": "Vera\u2019a",
-    "gwcode": "fr",
-    "ln": "Vera'a"
+    "gwcode": "fr"
 }

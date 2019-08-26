@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pug",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 5215,
-    "lr": "Africa",
     "lc": "pug",
+    "gw": false,
+    "ln": "Phuie",
+    "ld": "ltr",
+    "ang": "Phuie",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -20,7 +22,5 @@
         "Pwien",
         "Pwo"
     ],
-    "ang": "Phuie",
-    "gwcode": "fr",
-    "ln": "Phuie"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "whk",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6731,
-    "lr": "Asia",
     "lc": "whk",
+    "gw": false,
+    "ln": "Wahau Kenyah",
+    "ld": "ltr",
+    "ang": "Kenyah, Wahau",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Wahau Kenya",
         "Uma' Ujok"
     ],
-    "ang": "Kenyah, Wahau",
-    "gwcode": "id",
-    "ln": "Wahau Kenyah"
+    "gwcode": "id"
 }

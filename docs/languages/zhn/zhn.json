@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zhn",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7378,
-    "lr": "Asia",
     "lc": "zhn",
+    "gw": false,
+    "ln": "\u781a\u5e7f",
+    "ld": "ltr",
+    "ang": "Zhuang, Nong",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -24,7 +26,5 @@
         "Central Zhuang",
         "Western Guangnan"
     ],
-    "ang": "Zhuang, Nong",
-    "gwcode": "zh",
-    "ln": "\u781a\u5e7f"
+    "gwcode": "zh"
 }

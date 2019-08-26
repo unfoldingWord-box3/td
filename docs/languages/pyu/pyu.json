@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pyu",
-    "hc": "TW",
-    "ld": "ltr",
     "pk": 5243,
-    "lr": "Asia",
     "lc": "pyu",
+    "gw": false,
+    "ln": "Puyuma",
+    "ld": "ltr",
+    "ang": "Puyuma",
+    "hc": "TW",
+    "lr": "Asia",
     "cc": [
         "TW"
     ],
@@ -17,7 +19,5 @@
         "Piyuma",
         "Tipun"
     ],
-    "ang": "Puyuma",
-    "gwcode": "zh",
-    "ln": "Puyuma"
+    "gwcode": "zh"
 }

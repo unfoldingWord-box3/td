@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mhe",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 3833,
-    "lr": "Asia",
     "lc": "mhe",
+    "gw": false,
+    "ln": "Besisi",
+    "ld": "ltr",
+    "ang": "Mah Meri",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -13,7 +15,5 @@
         "Cellate",
         "Betise' (Betisek)"
     ],
-    "ang": "Mah Meri",
-    "gwcode": "ms",
-    "ln": "Besisi"
+    "gwcode": "ms"
 }

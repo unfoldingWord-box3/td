@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "coj",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 1295,
-    "lr": "Americas",
     "lc": "coj",
+    "gw": false,
+    "ln": "Cochimi",
+    "ld": "ltr",
+    "ang": "Cochimi",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -27,7 +29,5 @@
         "San Xavier",
         "Vigg\u00e9-Biaundo Mission"
     ],
-    "ang": "Cochimi",
-    "gwcode": "es-419",
-    "ln": "Cochimi"
+    "gwcode": "es-419"
 }

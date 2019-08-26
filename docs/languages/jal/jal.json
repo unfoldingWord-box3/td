@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jal",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2573,
-    "lr": "Asia",
     "lc": "jal",
+    "gw": false,
+    "ln": "Yalahatan",
+    "ld": "ltr",
+    "ang": "Yalahatan",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Jahalatan",
         "Jahalatane"
     ],
-    "ang": "Yalahatan",
-    "gwcode": "id",
-    "ln": "Yalahatan"
+    "gwcode": "id"
 }

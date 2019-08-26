@@ -9,6 +9,8 @@ This language is spoken in the following countries:
 * US: United States of America
 * SR: Suriname
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: srn
@@ -22,7 +24,7 @@ This language is spoken in the following countries:
     - GF
     - US
     - SR
-    gateway_language: UNKNOWN
+    gateway_language: nl
     lang_code: srn
     lang_direction: ltr
     lang_name: Sranan Tongo

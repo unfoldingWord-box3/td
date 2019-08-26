@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mkl",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 3911,
-    "lr": "Africa",
     "lc": "mkl",
+    "gw": false,
+    "ln": "Mokole",
+    "ld": "ltr",
+    "ang": "Mokole",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ"
     ],
@@ -14,7 +16,5 @@
         "Mokoll\u00e9",
         "Mokwale"
     ],
-    "ang": "Mokole",
-    "gwcode": "fr",
-    "ln": "Mokole"
+    "gwcode": "fr"
 }

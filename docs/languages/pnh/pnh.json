@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pnh",
-    "hc": "CK",
-    "ld": "ltr",
     "pk": 5106,
-    "lr": "Pacific",
     "lc": "pnh",
+    "gw": false,
+    "ln": "Penrhyn",
+    "ld": "ltr",
+    "ang": "Penrhyn",
+    "hc": "CK",
+    "lr": "Pacific",
     "cc": [
         "CK"
     ],
@@ -14,7 +16,5 @@
         "Penrhynese",
         "Tongareva"
     ],
-    "ang": "Penrhyn",
-    "gwcode": "en",
-    "ln": "Penrhyn"
+    "gwcode": "en"
 }

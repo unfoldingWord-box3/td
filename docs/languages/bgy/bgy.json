@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bgy",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 658,
-    "lr": "Asia",
     "lc": "bgy",
+    "gw": false,
+    "ln": "Benggoi",
+    "ld": "ltr",
+    "ang": "Benggoi",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Uhei-Kaclakin",
         "Uhei-Kahlakim"
     ],
-    "ang": "Benggoi",
-    "gwcode": "id",
-    "ln": "Benggoi"
+    "gwcode": "id"
 }

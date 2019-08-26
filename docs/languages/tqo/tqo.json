@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tqo",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6291,
-    "lr": "Pacific",
     "lc": "tqo",
+    "gw": false,
+    "ln": "Toaripi",
+    "ld": "ltr",
+    "ang": "Toaripi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Toaripi (Moripi-Iokea)",
         "Moveave"
     ],
-    "ang": "Toaripi",
-    "gwcode": "tpi",
-    "ln": "Toaripi"
+    "gwcode": "tpi"
 }

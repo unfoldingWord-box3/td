@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pig",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 5032,
-    "lr": "Americas",
     "lc": "pig",
+    "gw": false,
+    "ln": "Pisabo",
+    "ld": "ltr",
+    "ang": "Pisabo",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -13,7 +15,5 @@
         "Pisagua",
         "Pisahua"
     ],
-    "ang": "Pisabo",
-    "gwcode": "es-419",
-    "ln": "Pisabo"
+    "gwcode": "es-419"
 }

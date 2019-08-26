@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "osc",
-    "hc": "IT",
-    "ld": "ltr",
     "pk": 4881,
-    "lr": "Europe",
     "lc": "osc",
+    "gw": false,
+    "ln": "Oscan",
+    "ld": "ltr",
+    "ang": "Oscan",
+    "hc": "IT",
+    "lr": "Europe",
     "cc": [
         "IT"
     ],
     "alt": [],
-    "ang": "Oscan",
-    "gwcode": "UNKNOWN",
-    "ln": "Oscan"
+    "gwcode": null
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "the",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 6103,
-    "lr": "Asia",
     "lc": "the",
+    "gw": false,
+    "ln": "\u092e\u0927\u094d\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0940\u092f \u0925\u093e\u0930\u0942",
+    "ld": "ltr",
+    "ang": "Madhya Ksetriya Tharu",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -15,7 +17,5 @@
         "Chitwaniya",
         "Nawalpuriya Tharu (Laulpuriya Tharu)"
     ],
-    "ang": "Madhya Ksetriya Tharu",
-    "gwcode": "ne",
-    "ln": "\u092e\u0927\u094d\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0940\u092f \u0925\u093e\u0930\u0942"
+    "gwcode": "ne"
 }

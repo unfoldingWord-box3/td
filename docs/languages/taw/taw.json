@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "taw",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5980,
-    "lr": "Pacific",
     "lc": "taw",
+    "gw": false,
+    "ln": "Tai",
+    "ld": "ltr",
+    "ang": "Tai",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG",
         "IN"
@@ -13,7 +15,5 @@
     "alt": [
         "Tay"
     ],
-    "ang": "Tai",
-    "gwcode": "tpi",
-    "ln": "Tai"
+    "gwcode": "tpi"
 }

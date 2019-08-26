@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "krb",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 3110,
-    "lr": "Americas",
     "lc": "krb",
+    "gw": false,
+    "ln": "Karkin",
+    "ld": "ltr",
+    "ang": "Karkin",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
     "alt": [],
-    "ang": "Karkin",
-    "gwcode": "UNKNOWN",
-    "ln": "Karkin"
+    "gwcode": null
 }

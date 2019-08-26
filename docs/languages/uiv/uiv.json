@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "uiv",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 6492,
-    "lr": "Africa",
     "lc": "uiv",
+    "gw": false,
+    "ln": "Iyive",
+    "ld": "ltr",
+    "ang": "Iyive",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -14,7 +16,5 @@
         "Yiive",
         "Asumbo"
     ],
-    "ang": "Iyive",
-    "gwcode": "fr",
-    "ln": "Iyive"
+    "gwcode": "fr"
 }

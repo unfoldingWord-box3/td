@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kqr",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 3100,
-    "lr": "Asia",
     "lc": "kqr",
+    "gw": false,
+    "ln": "Kimaragang",
+    "ld": "ltr",
+    "ang": "Kimaragang",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -16,7 +18,5 @@
         "Marigang",
         "Tandek (Garo)"
     ],
-    "ang": "Kimaragang",
-    "gwcode": "ms",
-    "ln": "Kimaragang"
+    "gwcode": "ms"
 }

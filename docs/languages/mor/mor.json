@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mor",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 4012,
-    "lr": "Africa",
     "lc": "mor",
+    "gw": false,
+    "ln": "Moro",
+    "ld": "ltr",
+    "ang": "Moro",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -14,7 +16,5 @@
         "Umm Gabralla (Toberelda)",
         "Umm Dorein (Longorban)"
     ],
-    "ang": "Moro",
-    "gwcode": "ar",
-    "ln": "Moro"
+    "gwcode": "ar"
 }

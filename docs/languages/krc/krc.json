@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "krc",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 3111,
-    "lr": "Europe",
     "lc": "krc",
+    "gw": false,
+    "ln": "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0431\u0430\u043b\u043a\u0430\u0440\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Karachay-Balkar",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "KZ",
         "RU",
@@ -22,7 +24,5 @@
         "Balkar",
         "Karachay-Baksan-Chegem"
     ],
-    "ang": "Karachay-Balkar",
-    "gwcode": "ru",
-    "ln": "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0431\u0430\u043b\u043a\u0430\u0440\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

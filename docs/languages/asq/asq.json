@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "asq",
-    "hc": "AT",
-    "ld": "ltr",
     "pk": 371,
-    "lr": "Europe",
     "lc": "asq",
+    "gw": false,
+    "ln": "Austrian Sign Language",
+    "ld": "ltr",
+    "ang": "Austrian Sign Language",
+    "hc": "AT",
+    "lr": "Europe",
     "cc": [
         "AT"
     ],
@@ -13,7 +15,5 @@
         "\u00d6GS",
         "\u00d6sterreichische Geb\u00e4rdensprache"
     ],
-    "ang": "Austrian Sign Language",
-    "gwcode": "en",
-    "ln": "Austrian Sign Language"
+    "gwcode": "en"
 }

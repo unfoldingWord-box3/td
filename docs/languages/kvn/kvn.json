@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kvn",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 3221,
-    "lr": "Americas",
     "lc": "kvn",
+    "gw": false,
+    "ln": "Border Kuna",
+    "ld": "ltr",
+    "ang": "Kuna, Border",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -18,7 +20,5 @@
         "Long Hair Cuna",
         "Paya-Pucuro Kuna"
     ],
-    "ang": "Kuna, Border",
-    "gwcode": "es-419",
-    "ln": "Border Kuna"
+    "gwcode": "es-419"
 }

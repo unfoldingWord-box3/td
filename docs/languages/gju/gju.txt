@@ -9,6 +9,8 @@ This language is spoken in the following countries:
 * PK: Pakistan
 * IN: India
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: gju
@@ -30,7 +32,7 @@ This language is spoken in the following countries:
     - AF
     - PK
     - IN
-    gateway_language: UNKNOWN
+    gateway_language: ks
     lang_code: gju
     lang_direction: ltr
     lang_name: Gujari

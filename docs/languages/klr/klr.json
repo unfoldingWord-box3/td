@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "klr",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 2977,
-    "lr": "Asia",
     "lc": "klr",
+    "gw": false,
+    "ln": "\u0916\u093e\u0932\u093f\u0919",
+    "ld": "ltr",
+    "ang": "Khaling",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -17,7 +19,5 @@
         "Northern Khaling",
         "Southern Khaling"
     ],
-    "ang": "Khaling",
-    "gwcode": "ne",
-    "ln": "\u0916\u093e\u0932\u093f\u0919"
+    "gwcode": "ne"
 }

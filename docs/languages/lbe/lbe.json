@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lbe",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 3359,
-    "lr": "Europe",
     "lc": "lbe",
+    "gw": false,
+    "ln": "\u041b\u0430\u043a\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Lak",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "AZ",
         "RU",
@@ -25,7 +27,5 @@
         "Kayalin-Mashikin",
         "Balxar-Calakan (Balkar-Tsalakan)"
     ],
-    "ang": "Lak",
-    "gwcode": "ru",
-    "ln": "\u041b\u0430\u043a\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

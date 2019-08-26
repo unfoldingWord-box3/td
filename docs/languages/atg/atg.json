@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "atg",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 386,
-    "lr": "Africa",
     "lc": "atg",
+    "gw": false,
+    "ln": "Ivbie North-Okpela-Arhe",
+    "ld": "ltr",
+    "ang": "Ivbie North-Okpela-Arhe",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -17,7 +19,5 @@
         "Arhe (Ate)",
         "Atte"
     ],
-    "ang": "Ivbie North-Okpela-Arhe",
-    "gwcode": "en",
-    "ln": "Ivbie North-Okpela-Arhe"
+    "gwcode": "en"
 }

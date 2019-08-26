@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mlf",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 3931,
-    "lr": "Asia",
     "lc": "mlf",
+    "gw": false,
+    "ln": "Mal",
+    "ld": "ltr",
+    "ang": "Mal",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA"
     ],
@@ -17,7 +19,5 @@
         "T'in",
         "Ht'in"
     ],
-    "ang": "Mal",
-    "gwcode": "lo",
-    "ln": "Mal"
+    "gwcode": "lo"
 }

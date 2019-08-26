@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mhc",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3831,
-    "lr": "Americas",
     "lc": "mhc",
+    "gw": false,
+    "ln": "Mocho",
+    "ld": "ltr",
+    "ang": "Mocho",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Qato'k",
         "Tuzanteco (Muchu')"
     ],
-    "ang": "Mocho",
-    "gwcode": "es-419",
-    "ln": "Mocho"
+    "gwcode": "es-419"
 }

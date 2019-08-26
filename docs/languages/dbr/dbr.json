@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dbr",
-    "hc": "SO",
-    "ld": "ltr",
     "pk": 1455,
-    "lr": "Africa",
     "lc": "dbr",
+    "gw": false,
+    "ln": "Dabarre",
+    "ld": "ltr",
+    "ang": "Dabarre",
+    "hc": "SO",
+    "lr": "Africa",
     "cc": [
         "SO"
     ],
@@ -13,7 +15,5 @@
         "Af-Dabarre",
         "Iroole (Af-Iroole)"
     ],
-    "ang": "Dabarre",
-    "gwcode": "ar",
-    "ln": "Dabarre"
+    "gwcode": "ar"
 }

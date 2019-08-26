@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xtd",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7058,
-    "lr": "Americas",
     "lc": "xtd",
+    "gw": false,
+    "ln": "Diuxi-Tilantongo Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Diuxi-Tilantongo",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Mixteco de Diuxi-Tilantongo",
         "Mixteco del Este Central"
     ],
-    "ang": "Mixtec, Diuxi-Tilantongo",
-    "gwcode": "es-419",
-    "ln": "Diuxi-Tilantongo Mixtec"
+    "gwcode": "es-419"
 }

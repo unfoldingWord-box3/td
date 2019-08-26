@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kui",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 3190,
-    "lr": "Americas",
     "lc": "kui",
+    "gw": false,
+    "ln": "Kuik\u00faro-Kalap\u00e1lo",
+    "ld": "ltr",
+    "ang": "Kuik\u00faro-Kalap\u00e1lo",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -20,7 +22,5 @@
         "Matip\u00fa",
         "Nahukw\u00e1"
     ],
-    "ang": "Kuik\u00faro-Kalap\u00e1lo",
-    "gwcode": "pt",
-    "ln": "Kuik\u00faro-Kalap\u00e1lo"
+    "gwcode": "pt"
 }

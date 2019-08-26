@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gye",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2207,
-    "lr": "Africa",
     "lc": "gye",
+    "gw": false,
+    "ln": "Gyem",
+    "ld": "ltr",
+    "ang": "Gyem",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Gemawa",
         "Gyemawa"
     ],
-    "ang": "Gyem",
-    "gwcode": "en",
-    "ln": "Gyem"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "how",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2338,
-    "lr": "Asia",
     "lc": "how",
+    "gw": false,
+    "ln": "Honi",
+    "ld": "ltr",
+    "ang": "Honi",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -16,7 +18,5 @@
         "Uni",
         "Woni"
     ],
-    "ang": "Honi",
-    "gwcode": "zh",
-    "ln": "Honi"
+    "gwcode": "zh"
 }

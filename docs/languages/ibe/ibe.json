@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ibe",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2406,
-    "lr": "Africa",
     "lc": "ibe",
+    "gw": false,
+    "ln": "Akpes",
+    "ld": "ltr",
+    "ang": "Akpes",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Esuku (Echuku)",
         "Akunnu (Akpes)"
     ],
-    "ang": "Akpes",
-    "gwcode": "en",
-    "ln": "Akpes"
+    "gwcode": "en"
 }

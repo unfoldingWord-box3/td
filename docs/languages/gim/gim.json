@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "gim",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2027,
-    "lr": "Pacific",
     "lc": "gim",
+    "gw": false,
+    "ln": "Gimi (Eastern Highlands)",
+    "ld": "ltr",
+    "ang": "Gimi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
     "alt": [
         "West Gimi (Gouno)"
     ],
-    "ang": "Gimi",
-    "gwcode": "tpi",
-    "ln": "Gimi (Eastern Highlands)"
+    "gwcode": "tpi"
 }

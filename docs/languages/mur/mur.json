@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mur",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 4161,
-    "lr": "Africa",
     "lc": "mur",
+    "gw": false,
+    "ln": "Murle",
+    "ld": "ltr",
+    "ang": "Murle",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SS"
@@ -23,7 +25,5 @@
         "Ngalam",
         "Olam (Bangalam)"
     ],
-    "ang": "Murle",
-    "gwcode": "ar",
-    "ln": "Murle"
+    "gwcode": "ar"
 }

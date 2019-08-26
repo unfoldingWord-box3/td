@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yrn",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7274,
-    "lr": "Asia",
     "lc": "yrn",
+    "gw": false,
+    "ln": "\u96c5\u90ce\u5e03\u592e\u8bed",
+    "ld": "ltr",
+    "ang": "Yerong",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -27,7 +29,5 @@
         "Yang Khyung",
         "Yerong Buyang"
     ],
-    "ang": "Yerong",
-    "gwcode": "zh",
-    "ln": "\u96c5\u90ce\u5e03\u592e\u8bed"
+    "gwcode": "zh"
 }

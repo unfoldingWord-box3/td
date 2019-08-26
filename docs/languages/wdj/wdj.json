@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wdj",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6709,
-    "lr": "Pacific",
     "lc": "wdj",
+    "gw": false,
+    "ln": "Wadjiginy",
+    "ld": "ltr",
+    "ang": "Wadjiginy",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Patjtjamalh",
         "Pungupungu (Kandjerramal)"
     ],
-    "ang": "Wadjiginy",
-    "gwcode": "en",
-    "ln": "Wadjiginy"
+    "gwcode": "en"
 }

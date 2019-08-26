@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kkp",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2948,
-    "lr": "Pacific",
     "lc": "kkp",
+    "gw": false,
+    "ln": "Gugubera",
+    "ld": "ltr",
+    "ang": "Gugubera",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -17,7 +19,5 @@
         "Kukubera",
         "Paperyn"
     ],
-    "ang": "Gugubera",
-    "gwcode": "en",
-    "ln": "Gugubera"
+    "gwcode": "en"
 }

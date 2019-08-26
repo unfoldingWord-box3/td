@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lnu",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3547,
-    "lr": "Africa",
     "lc": "lnu",
+    "gw": false,
+    "ln": "Longuda",
+    "ld": "ltr",
+    "ang": "Longuda",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -24,7 +26,5 @@
         "Nya Ceriya (Banjiram)",
         "Cirimba"
     ],
-    "ang": "Longuda",
-    "gwcode": "en",
-    "ln": "Longuda"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wbt",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6702,
-    "lr": "Pacific",
     "lc": "wbt",
+    "gw": false,
+    "ln": "Wanman",
+    "ld": "ltr",
+    "ang": "Wanman",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Nyaani",
         "Warnman"
     ],
-    "ang": "Wanman",
-    "gwcode": "en",
-    "ln": "Wanman"
+    "gwcode": "en"
 }

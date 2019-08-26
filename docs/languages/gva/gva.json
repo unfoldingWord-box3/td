@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gva",
-    "hc": "PY",
-    "ld": "ltr",
     "pk": 2177,
-    "lr": "Americas",
     "lc": "gva",
+    "gw": false,
+    "ln": "Guana (Paraguay)",
+    "ld": "ltr",
+    "ang": "Guana",
+    "hc": "PY",
+    "lr": "Americas",
     "cc": [
         "PY"
     ],
@@ -16,7 +18,5 @@
         "Echonoana",
         "Layana (Niguecactemigi)"
     ],
-    "ang": "Guana",
-    "gwcode": "es-419",
-    "ln": "Guana (Paraguay)"
+    "gwcode": "es-419"
 }

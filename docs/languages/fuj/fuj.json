@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fuj",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 1889,
-    "lr": "Africa",
     "lc": "fuj",
+    "gw": false,
+    "ln": "Ko",
+    "ld": "ltr",
+    "ang": "Ko",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -14,7 +16,5 @@
         "Fungur",
         "Kau (Ko)"
     ],
-    "ang": "Ko",
-    "gwcode": "ar",
-    "ln": "Ko"
+    "gwcode": "ar"
 }

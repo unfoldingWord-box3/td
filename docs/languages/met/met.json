@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "met",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3771,
-    "lr": "Pacific",
     "lc": "met",
+    "gw": false,
+    "ln": "Mato",
+    "ld": "ltr",
+    "ang": "Mato",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Ramuk",
         "Tabares"
     ],
-    "ang": "Mato",
-    "gwcode": "tpi",
-    "ln": "Mato"
+    "gwcode": "tpi"
 }

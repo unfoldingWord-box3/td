@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "blv",
-    "hc": "AO",
-    "ld": "ltr",
     "pk": 775,
-    "lr": "Africa",
     "lc": "blv",
+    "gw": false,
+    "ln": "Bolo",
+    "ld": "ltr",
+    "ang": "Bolo",
+    "hc": "AO",
+    "lr": "Africa",
     "cc": [
         "AO"
     ],
@@ -14,7 +16,5 @@
         "Libolo",
         "Lubolo"
     ],
-    "ang": "Bolo",
-    "gwcode": "pt",
-    "ln": "Bolo"
+    "gwcode": "pt"
 }

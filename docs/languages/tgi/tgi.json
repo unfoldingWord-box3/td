@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tgi",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6086,
-    "lr": "Pacific",
     "lc": "tgi",
+    "gw": false,
+    "ln": "Lawunuia",
+    "ld": "ltr",
+    "ang": "Lawunuia",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Nagarige",
         "Naghareghe"
     ],
-    "ang": "Lawunuia",
-    "gwcode": "tpi",
-    "ln": "Lawunuia"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zrg",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 7465,
-    "lr": "Asia",
     "lc": "zrg",
+    "gw": false,
+    "ln": "Mirgan",
+    "ld": "ltr",
+    "ang": "Mirgan",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -21,7 +23,5 @@
         "Nabarang Pur",
         "Umerkote"
     ],
-    "ang": "Mirgan",
-    "gwcode": "hi",
-    "ln": "Mirgan"
+    "gwcode": "hi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tsn",
-    "hc": "BW",
-    "ld": "ltr",
     "pk": 6218,
-    "lr": "Africa",
     "lc": "tn",
+    "gw": false,
+    "ln": "Setswana",
+    "ld": "ltr",
+    "ang": "Tswana",
+    "hc": "BW",
+    "lr": "Africa",
     "cc": [
         "ZA",
         "US",
@@ -29,7 +31,5 @@
         "Tlahaping (Tlapi)",
         "Ngwatu (Ngwato)"
     ],
-    "ang": "Tswana",
-    "gwcode": "en",
-    "ln": "Setswana"
+    "gwcode": "en"
 }

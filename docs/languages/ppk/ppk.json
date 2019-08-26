@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ppk",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5144,
-    "lr": "Asia",
     "lc": "ppk",
+    "gw": false,
+    "ln": "Uma",
+    "ld": "ltr",
+    "ang": "Uma",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -22,7 +24,5 @@
         "Southern Uma (Aria)",
         "Tobaku (Dompa)"
     ],
-    "ang": "Uma",
-    "gwcode": "id",
-    "ln": "Uma"
+    "gwcode": "id"
 }

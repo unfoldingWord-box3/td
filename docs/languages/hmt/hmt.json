@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hmt",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2308,
-    "lr": "Pacific",
     "lc": "hmt",
+    "gw": false,
+    "ln": "Hamtai",
+    "ld": "ltr",
+    "ang": "Hamtai",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Watut",
         "Kukukuku"
     ],
-    "ang": "Hamtai",
-    "gwcode": "tpi",
-    "ln": "Hamtai"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kru",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3126,
-    "lr": "Asia",
     "lc": "kru",
+    "gw": false,
+    "ln": "Kurukh",
+    "ld": "ltr",
+    "ang": "Kurux",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "BT",
@@ -28,7 +30,5 @@
         "Morva",
         "Urang"
     ],
-    "ang": "Kurux",
-    "gwcode": "UNKNOWN",
-    "ln": "Kurukh"
+    "gwcode": "hne"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "umb",
-    "hc": "AO",
-    "ld": "ltr",
     "pk": 6517,
-    "lr": "Africa",
     "lc": "umb",
+    "gw": false,
+    "ln": "Umbundu",
+    "ld": "ltr",
+    "ang": "Umbundu",
+    "hc": "AO",
+    "lr": "Africa",
     "cc": [
         "AO"
     ],
@@ -19,7 +21,5 @@
         "South Mbundu",
         "Umbundo"
     ],
-    "ang": "Umbundu",
-    "gwcode": "pt",
-    "ln": "Umbundu"
+    "gwcode": "pt"
 }

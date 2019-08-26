@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dah",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1426,
-    "lr": "Pacific",
     "lc": "dah",
+    "gw": false,
+    "ln": "Gwahatike",
+    "ld": "ltr",
+    "ang": "Gwahatike",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Dahating",
         "Gwatike"
     ],
-    "ang": "Gwahatike",
-    "gwcode": "tpi",
-    "ln": "Gwahatike"
+    "gwcode": "tpi"
 }

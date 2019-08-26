@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "blp",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 770,
-    "lr": "Pacific",
     "lc": "blp",
+    "gw": false,
+    "ln": "Blablanga",
+    "ld": "ltr",
+    "ang": "Blablanga",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -13,7 +15,5 @@
         "Gema",
         "Goi"
     ],
-    "ang": "Blablanga",
-    "gwcode": "UNKNOWN",
-    "ln": "Blablanga"
+    "gwcode": "pis"
 }

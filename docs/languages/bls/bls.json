@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bls",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 773,
-    "lr": "Asia",
     "lc": "bls",
+    "gw": false,
+    "ln": "Balaesang",
+    "ld": "ltr",
+    "ang": "Balaesang",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Balaisang",
         "Pajo"
     ],
-    "ang": "Balaesang",
-    "gwcode": "id",
-    "ln": "Balaesang"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ayr",
-    "hc": "BO",
-    "ld": "ltr",
     "pk": 472,
-    "lr": "Americas",
     "lc": "ayr",
+    "gw": false,
+    "ln": "Central Aymara",
+    "ld": "ltr",
+    "ang": "Aymara, Central",
+    "hc": "BO",
+    "lr": "Americas",
     "cc": [
         "CL",
         "AR",
@@ -13,7 +15,5 @@
         "BO"
     ],
     "alt": [],
-    "ang": "Aymara, Central",
-    "gwcode": "es-419",
-    "ln": "Central Aymara"
+    "gwcode": "es-419"
 }

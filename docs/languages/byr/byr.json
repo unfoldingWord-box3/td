@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "byr",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1077,
-    "lr": "Pacific",
     "lc": "byr",
+    "gw": false,
+    "ln": "Baruya",
+    "ld": "ltr",
+    "ang": "Yipma",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Yipma",
         "Usirampia (Wuzuraabya)"
     ],
-    "ang": "Yipma",
-    "gwcode": "tpi",
-    "ln": "Baruya"
+    "gwcode": "tpi"
 }

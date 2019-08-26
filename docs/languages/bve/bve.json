@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bve",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 998,
-    "lr": "Asia",
     "lc": "bve",
+    "gw": false,
+    "ln": "Berau Malay",
+    "ld": "ltr",
+    "ang": "Malay, Berau",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Berau",
         "Merau Malay"
     ],
-    "ang": "Malay, Berau",
-    "gwcode": "id",
-    "ln": "Berau Malay"
+    "gwcode": "id"
 }

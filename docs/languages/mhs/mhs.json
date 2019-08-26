@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mhs",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3846,
-    "lr": "Asia",
     "lc": "mhs",
+    "gw": false,
+    "ln": "Buru (Indonesia)",
+    "ld": "ltr",
+    "ang": "Buru",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -20,7 +22,5 @@
         "Central Buru (Rana)",
         "Wae Kabo"
     ],
-    "ang": "Buru",
-    "gwcode": "id",
-    "ln": "Buru (Indonesia)"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bmh",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 788,
-    "lr": "Pacific",
     "lc": "bmh",
+    "gw": false,
+    "ln": "Kein",
+    "ld": "ltr",
+    "ang": "Kein",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Sigau",
         "Sog"
     ],
-    "ang": "Kein",
-    "gwcode": "tpi",
-    "ln": "Kein"
+    "gwcode": "tpi"
 }

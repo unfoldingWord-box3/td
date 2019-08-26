@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dkr",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 1556,
-    "lr": "Asia",
     "lc": "dkr",
+    "gw": false,
+    "ln": "Kuijau",
+    "ld": "ltr",
+    "ang": "Kuijau",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -24,7 +26,5 @@
         "Tidung",
         "Tindal"
     ],
-    "ang": "Kuijau",
-    "gwcode": "ms",
-    "ln": "Kuijau"
+    "gwcode": "ms"
 }

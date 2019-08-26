@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lbn",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 3367,
-    "lr": "Asia",
     "lc": "lbn",
+    "gw": false,
+    "ln": "Lamet",
+    "ld": "ltr",
+    "ang": "Lamet",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA",
         "TH",
@@ -18,7 +20,5 @@
         "Rmeet",
         "Kamet"
     ],
-    "ang": "Lamet",
-    "gwcode": "lo",
-    "ln": "Lamet"
+    "gwcode": "lo"
 }

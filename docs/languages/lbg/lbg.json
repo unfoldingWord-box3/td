@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lbg",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 3361,
-    "lr": "Asia",
     "lc": "lbg",
+    "gw": false,
+    "ln": "Laopang",
+    "ld": "ltr",
+    "ang": "Laopang",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "CN",
         "LA"
@@ -13,7 +15,5 @@
     "alt": [
         "Laopa"
     ],
-    "ang": "Laopang",
-    "gwcode": "lo",
-    "ln": "Laopang"
+    "gwcode": "lo"
 }

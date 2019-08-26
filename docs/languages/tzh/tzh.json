@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tzh",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6458,
-    "lr": "Americas",
     "lc": "tzh",
+    "gw": false,
+    "ln": "Tzeltal",
+    "ld": "ltr",
+    "ang": "Tzeltal",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -24,7 +26,5 @@
         "Tzeltal del oriente",
         "Amatenango del Valle"
     ],
-    "ang": "Tzeltal",
-    "gwcode": "es-419",
-    "ln": "Tzeltal"
+    "gwcode": "es-419"
 }

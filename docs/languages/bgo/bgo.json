@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bgo",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 648,
-    "lr": "Africa",
     "lc": "bgo",
+    "gw": false,
+    "ln": "Baga Koga",
+    "ld": "ltr",
+    "ang": "Baga Koga",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN"
     ],
@@ -14,7 +16,5 @@
         "Koba",
         "Koga"
     ],
-    "ang": "Baga Koga",
-    "gwcode": "fr",
-    "ln": "Baga Koga"
+    "gwcode": "fr"
 }

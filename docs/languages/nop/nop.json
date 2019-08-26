@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nop",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4595,
-    "lr": "Pacific",
     "lc": "nop",
+    "gw": false,
+    "ln": "Numanggang",
+    "ld": "ltr",
+    "ang": "Numanggang",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -18,7 +20,5 @@
         "Numangang",
         "Sugu"
     ],
-    "ang": "Numanggang",
-    "gwcode": "tpi",
-    "ln": "Numanggang"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "syn",
-    "hc": "IR",
-    "ld": "ltr",
     "pk": 5945,
-    "lr": "Asia",
     "lc": "syn",
+    "gw": false,
+    "ln": "\u0632\u0628\u0627\u0646 \u0633\u0646\u0627\u06cc\u0627",
+    "ld": "ltr",
+    "ang": "Senaya",
+    "hc": "IR",
+    "lr": "Asia",
     "cc": [
         "IR",
         "US"
@@ -19,7 +21,5 @@
         "Soray",
         "Sray"
     ],
-    "ang": "Senaya",
-    "gwcode": "fa",
-    "ln": "\u0632\u0628\u0627\u0646 \u0633\u0646\u0627\u06cc\u0627"
+    "gwcode": "fa"
 }

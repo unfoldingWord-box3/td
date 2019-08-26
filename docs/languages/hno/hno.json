@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hno",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 2321,
-    "lr": "Asia",
     "lc": "hno",
+    "gw": false,
+    "ln": "Northern Hindko",
+    "ld": "ltr",
+    "ang": "Hindko, Northern",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "PK"
     ],
@@ -15,7 +17,5 @@
         "Kagani",
         "Kaghani"
     ],
-    "ang": "Hindko, Northern",
-    "gwcode": "ur",
-    "ln": "Northern Hindko"
+    "gwcode": "ur"
 }

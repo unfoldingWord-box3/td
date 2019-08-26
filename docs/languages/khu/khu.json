@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "khu",
-    "hc": "AO",
-    "ld": "ltr",
     "pk": 2876,
-    "lr": "Africa",
     "lc": "khu",
+    "gw": false,
+    "ln": "Nkhumbi",
+    "ld": "ltr",
+    "ang": "Nkumbi",
+    "hc": "AO",
+    "lr": "Africa",
     "cc": [
         "AO"
     ],
@@ -17,7 +19,5 @@
         "Otjingumbi",
         "Nkumbi-mulondo"
     ],
-    "ang": "Nkumbi",
-    "gwcode": "pt",
-    "ln": "Nkhumbi"
+    "gwcode": "pt"
 }

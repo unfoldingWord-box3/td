@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bwy",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 1040,
-    "lr": "Africa",
     "lc": "bwy",
+    "gw": false,
+    "ln": "Cwi Bwamu",
+    "ld": "ltr",
+    "ang": "Bwamu, Cwi",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -14,7 +16,5 @@
         "Cwi",
         "Twi"
     ],
-    "ang": "Bwamu, Cwi",
-    "gwcode": "fr",
-    "ln": "Cwi Bwamu"
+    "gwcode": "fr"
 }

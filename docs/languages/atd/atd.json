@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "atd",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 384,
-    "lr": "Asia",
     "lc": "atd",
+    "gw": false,
+    "ln": "Ata Manobo",
+    "ld": "ltr",
+    "ang": "Manobo, Ata",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -14,7 +16,5 @@
         "Atao Manobo",
         "Langilan"
     ],
-    "ang": "Manobo, Ata",
-    "gwcode": "en",
-    "ln": "Ata Manobo"
+    "gwcode": "en"
 }

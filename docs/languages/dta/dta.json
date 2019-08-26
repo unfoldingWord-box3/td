@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dta",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 1637,
-    "lr": "Asia",
     "lc": "dta",
+    "gw": false,
+    "ln": "\u8fbe\u65a1\u5c14\u8bed",
+    "ld": "ltr",
+    "ang": "Daur",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -35,7 +37,5 @@
         "Ili",
         "Bataxan"
     ],
-    "ang": "Daur",
-    "gwcode": "zh",
-    "ln": "\u8fbe\u65a1\u5c14\u8bed"
+    "gwcode": "zh"
 }

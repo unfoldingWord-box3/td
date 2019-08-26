@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nkn",
-    "hc": "AO",
-    "ld": "ltr",
     "pk": 4506,
-    "lr": "Africa",
     "lc": "nkn",
+    "gw": false,
+    "ln": "Nkangala",
+    "ld": "ltr",
+    "ang": "Nkangala",
+    "hc": "AO",
+    "lr": "Africa",
     "cc": [
         "AO"
     ],
@@ -13,7 +15,5 @@
         "Cangala",
         "Ngangala"
     ],
-    "ang": "Nkangala",
-    "gwcode": "en",
-    "ln": "Nkangala"
+    "gwcode": "en"
 }

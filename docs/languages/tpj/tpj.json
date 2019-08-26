@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tpj",
-    "hc": "PY",
-    "ld": "ltr",
     "pk": 6271,
-    "lr": "Americas",
     "lc": "tpj",
+    "gw": false,
+    "ln": "Tapiet\u00e9",
+    "ld": "ltr",
+    "ang": "\u00d1andeva",
+    "hc": "PY",
+    "lr": "Americas",
     "cc": [
         "PY"
     ],
@@ -17,7 +19,5 @@
         "Yanaigua",
         "Guasurango"
     ],
-    "ang": "\u00d1andeva",
-    "gwcode": "es-419",
-    "ln": "Tapiet\u00e9"
+    "gwcode": "es-419"
 }

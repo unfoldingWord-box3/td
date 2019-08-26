@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cfa",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1181,
-    "lr": "Africa",
     "lc": "cfa",
+    "gw": false,
+    "ln": "Dijim-Bwilim",
+    "ld": "ltr",
+    "ang": "Dikaka",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -18,7 +20,5 @@
         "Cham",
         "Dijim (Cam)"
     ],
-    "ang": "Dikaka",
-    "gwcode": "en",
-    "ln": "Dijim-Bwilim"
+    "gwcode": "en"
 }

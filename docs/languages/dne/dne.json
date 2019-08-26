@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dne",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 1581,
-    "lr": "Africa",
     "lc": "dne",
+    "gw": false,
+    "ln": "Ndendeule",
+    "ld": "ltr",
+    "ang": "Ndendeule",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -14,7 +16,5 @@
         "Kindendeuli",
         "Ndendeuli"
     ],
-    "ang": "Ndendeule",
-    "gwcode": "sw",
-    "ln": "Ndendeule"
+    "gwcode": "sw"
 }

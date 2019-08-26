@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tlr",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 6188,
-    "lr": "Pacific",
     "lc": "tlr",
+    "gw": false,
+    "ln": "Talise",
+    "ld": "ltr",
+    "ang": "Talise",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -13,7 +15,5 @@
         "Talisi",
         "Koo (Inakona)"
     ],
-    "ang": "Talise",
-    "gwcode": "UNKNOWN",
-    "ln": "Talise"
+    "gwcode": "pis"
 }

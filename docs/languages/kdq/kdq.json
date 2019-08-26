@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kdq",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2775,
-    "lr": "Asia",
     "lc": "kdq",
+    "gw": false,
+    "ln": "Koch",
+    "ld": "ltr",
+    "ang": "Koch",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN"
@@ -21,7 +23,5 @@
         "Margan",
         "Margan (Dasgaya)"
     ],
-    "ang": "Koch",
-    "gwcode": "en",
-    "ln": "Koch"
+    "gwcode": "en"
 }

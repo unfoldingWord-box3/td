@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yae",
-    "hc": "VE",
-    "ld": "ltr",
     "pk": 7114,
-    "lr": "Americas",
     "lc": "yae",
+    "gw": false,
+    "ln": "Pum\u00e9",
+    "ld": "ltr",
+    "ang": "Pum\u00e9",
+    "hc": "VE",
+    "lr": "Americas",
     "cc": [
         "VE"
     ],
@@ -14,7 +16,5 @@
         "Yaruru",
         "Yuap\u00edn"
     ],
-    "ang": "Pum\u00e9",
-    "gwcode": "es-419",
-    "ln": "Pum\u00e9"
+    "gwcode": "es-419"
 }

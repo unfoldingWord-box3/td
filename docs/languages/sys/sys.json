@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sys",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 5948,
-    "lr": "Africa",
     "lc": "sys",
+    "gw": false,
+    "ln": "Sinyar",
+    "ld": "ltr",
+    "ang": "Sinyar",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "TD"
@@ -19,7 +21,5 @@
         "Taar Shamyan",
         "Zimirra"
     ],
-    "ang": "Sinyar",
-    "gwcode": "ar",
-    "ln": "Sinyar"
+    "gwcode": "ar"
 }

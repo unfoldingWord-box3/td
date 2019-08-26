@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dio",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1532,
-    "lr": "Africa",
     "lc": "dio",
+    "gw": false,
+    "ln": "Dibo",
+    "ld": "ltr",
+    "ang": "Dibo",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -16,7 +18,5 @@
         "Zhitako",
         "Zitako"
     ],
-    "ang": "Dibo",
-    "gwcode": "en",
-    "ln": "Dibo"
+    "gwcode": "en"
 }

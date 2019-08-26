@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bju",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 726,
-    "lr": "Africa",
     "lc": "bju",
+    "gw": false,
+    "ln": "Busuu",
+    "ld": "ltr",
+    "ang": "Busuu",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -13,7 +15,5 @@
         "Awa",
         "Furu"
     ],
-    "ang": "Busuu",
-    "gwcode": "fr",
-    "ln": "Busuu"
+    "gwcode": "fr"
 }

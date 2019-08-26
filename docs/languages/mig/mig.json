@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mig",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3860,
-    "lr": "Americas",
     "lc": "mig",
+    "gw": false,
+    "ln": "San Miguel El Grande Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, San Miguel el Grande",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Mixteco de San Pedro Molinos",
         "Mixteco del Sur Bajo"
     ],
-    "ang": "Mixtec, San Miguel el Grande",
-    "gwcode": "es-419",
-    "ln": "San Miguel El Grande Mixtec"
+    "gwcode": "es-419"
 }

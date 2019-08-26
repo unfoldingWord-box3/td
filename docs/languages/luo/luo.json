@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "luo",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 3626,
-    "lr": "Africa",
     "lc": "luo",
+    "gw": false,
+    "ln": "Luo (Kenya and Tanzania)",
+    "ld": "ltr",
+    "ang": "Dholuo",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE",
         "TZ",
@@ -17,7 +19,5 @@
         "Kavirondo",
         "Kidjaluo"
     ],
-    "ang": "Dholuo",
-    "gwcode": "sw",
-    "ln": "Luo (Kenya and Tanzania)"
+    "gwcode": "sw"
 }

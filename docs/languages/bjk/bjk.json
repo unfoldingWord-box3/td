@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bjk",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 717,
-    "lr": "Pacific",
     "lc": "bjk",
+    "gw": false,
+    "ln": "Barok",
+    "ld": "ltr",
+    "ang": "Barok",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Komalu",
         "Kulubi"
     ],
-    "ang": "Barok",
-    "gwcode": "tpi",
-    "ln": "Barok"
+    "gwcode": "tpi"
 }

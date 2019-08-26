@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "anr",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 275,
-    "lr": "Asia",
     "lc": "anr",
+    "gw": false,
+    "ln": "Andh",
+    "ld": "ltr",
+    "ang": "Andh",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Andha",
         "Andhi"
     ],
-    "ang": "Andh",
-    "gwcode": "mr",
-    "ln": "Andh"
+    "gwcode": "mr"
 }

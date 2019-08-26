@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kyc",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3286,
-    "lr": "Pacific",
     "lc": "kyc",
+    "gw": false,
+    "ln": "Kyaka",
+    "ld": "ltr",
+    "ang": "Kyaka",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Baiyer",
         "Enga-Kyaka"
     ],
-    "ang": "Kyaka",
-    "gwcode": "tpi",
-    "ln": "Kyaka"
+    "gwcode": "tpi"
 }

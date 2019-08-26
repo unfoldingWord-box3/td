@@ -3,7 +3,7 @@
 தமிழ்
 ===============
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/tam>`_ identifies this language as ``tam``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/tam>`__ identifies this language as ``tam``.
 
 This language is spoken in the following countries:
 
@@ -27,6 +27,8 @@ This language is spoken in the following countries:
 * MM: Myanmar
 * BH: Bahrain
 * QA: Qatar
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -60,7 +62,7 @@ This language is spoken in the following countries:
     - MM
     - BH
     - QA
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: ta
     lang_direction: ltr
     lang_name: தமிழ்

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nco",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4345,
-    "lr": "Pacific",
     "lc": "nco",
+    "gw": false,
+    "ln": "Sibe",
+    "ld": "ltr",
+    "ang": "Sibe",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -17,7 +19,5 @@
         "Laagasi'",
         "Welipe'"
     ],
-    "ang": "Sibe",
-    "gwcode": "tpi",
-    "ln": "Sibe"
+    "gwcode": "tpi"
 }

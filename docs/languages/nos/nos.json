@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nos",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 4597,
-    "lr": "Asia",
     "lc": "nos",
+    "gw": false,
+    "ln": "\u4e1c\u5c3c\u82cf\u8bed",
+    "ld": "ltr",
+    "ang": "Nisu, Eastern",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "LA"
@@ -14,7 +16,5 @@
         "Shiping-Jianshui Nisu",
         "Shiping-Jianshui Yi"
     ],
-    "ang": "Nisu, Eastern",
-    "gwcode": "zh",
-    "ln": "\u4e1c\u5c3c\u82cf\u8bed"
+    "gwcode": "zh"
 }

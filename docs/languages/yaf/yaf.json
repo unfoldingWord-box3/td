@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yaf",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 7115,
-    "lr": "Africa",
     "lc": "yaf",
+    "gw": false,
+    "ln": "Yaka (Democratic Republic of Congo)",
+    "ld": "ltr",
+    "ang": "Yaka",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Iaka",
         "Iyaka"
     ],
-    "ang": "Yaka",
-    "gwcode": "fr",
-    "ln": "Yaka (Democratic Republic of Congo)"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jkm",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 2631,
-    "lr": "Asia",
     "lc": "jkm",
+    "gw": false,
+    "ln": "Mobwa Karen",
+    "ld": "ltr",
+    "ang": "Karen, Mobwa",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -17,7 +19,5 @@
         "Palachi",
         "Palakhi"
     ],
-    "ang": "Karen, Mobwa",
-    "gwcode": "my",
-    "ln": "Mobwa Karen"
+    "gwcode": "my"
 }

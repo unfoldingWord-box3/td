@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dtr",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 1645,
-    "lr": "Asia",
     "lc": "dtr",
+    "gw": false,
+    "ln": "Lotud",
+    "ld": "ltr",
+    "ang": "Lotud",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -13,7 +15,5 @@
         "Dusun Lotud",
         "Suang Lotud"
     ],
-    "ang": "Lotud",
-    "gwcode": "ms",
-    "ln": "Lotud"
+    "gwcode": "ms"
 }

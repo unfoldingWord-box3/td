@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pkb",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 5050,
-    "lr": "Africa",
     "lc": "pkb",
+    "gw": false,
+    "ln": "Pokomo",
+    "ld": "ltr",
+    "ang": "Kipfokomo",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -16,7 +18,5 @@
         "Pfokomo",
         "Upper Pokomo"
     ],
-    "ang": "Kipfokomo",
-    "gwcode": "sw",
-    "ln": "Pokomo"
+    "gwcode": "sw"
 }

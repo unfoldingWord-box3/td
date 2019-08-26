@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mjz",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 3900,
-    "lr": "Asia",
     "lc": "mjz",
+    "gw": false,
+    "ln": "Majhi",
+    "ld": "ltr",
+    "ang": "Majhi",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP",
         "IN"
@@ -16,7 +18,5 @@
         "Manthali",
         "Rajgaun"
     ],
-    "ang": "Majhi",
-    "gwcode": "ne",
-    "ln": "Majhi"
+    "gwcode": "ne"
 }

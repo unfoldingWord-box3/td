@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rkh",
-    "hc": "CK",
-    "ld": "ltr",
     "pk": 5370,
-    "lr": "Pacific",
     "lc": "rkh",
+    "gw": false,
+    "ln": "Rakahanga-Manihiki",
+    "ld": "ltr",
+    "ang": "Rakahanga-Manihiki",
+    "hc": "CK",
+    "lr": "Pacific",
     "cc": [
         "CK",
         "NZ"
@@ -13,7 +15,5 @@
     "alt": [
         "Manihiki-Rakahanga"
     ],
-    "ang": "Rakahanga-Manihiki",
-    "gwcode": "en",
-    "ln": "Rakahanga-Manihiki"
+    "gwcode": "en"
 }

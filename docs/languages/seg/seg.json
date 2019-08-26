@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "seg",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 5549,
-    "lr": "Africa",
     "lc": "seg",
+    "gw": false,
+    "ln": "Segeju",
+    "ld": "ltr",
+    "ang": "Segeju",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -14,7 +16,5 @@
         "Sageju",
         "Sengeju"
     ],
-    "ang": "Segeju",
-    "gwcode": "sw",
-    "ln": "Segeju"
+    "gwcode": "sw"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "amg",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 240,
-    "lr": "Pacific",
     "lc": "amg",
+    "gw": false,
+    "ln": "Amurdak",
+    "ld": "ltr",
+    "ang": "Amurdak",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -32,7 +34,5 @@
         "Woraidbug",
         "Wureidbug"
     ],
-    "ang": "Amurdak",
-    "gwcode": "en",
-    "ln": "Amurdak"
+    "gwcode": "en"
 }

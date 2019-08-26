@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bgk",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 644,
-    "lr": "Asia",
     "lc": "bgk",
+    "gw": false,
+    "ln": "Bit",
+    "ld": "ltr",
+    "ang": "Bit",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "CN",
         "LA"
@@ -21,7 +23,5 @@
         "Buxinhua",
         "Khbit"
     ],
-    "ang": "Bit",
-    "gwcode": "lo",
-    "ln": "Bit"
+    "gwcode": "lo"
 }

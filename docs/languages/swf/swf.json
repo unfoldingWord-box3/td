@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "swf",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 5906,
-    "lr": "Africa",
     "lc": "swf",
+    "gw": false,
+    "ln": "Sere",
+    "ld": "ltr",
+    "ang": "Sere",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -20,7 +22,5 @@
         "Sili",
         "Siri"
     ],
-    "ang": "Sere",
-    "gwcode": "fr",
-    "ln": "Sere"
+    "gwcode": "fr"
 }

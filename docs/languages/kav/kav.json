@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kav",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 2708,
-    "lr": "Americas",
     "lc": "kav",
+    "gw": false,
+    "ln": "Katuk\u00edna",
+    "ld": "ltr",
+    "ang": "Katuk\u00edna",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -16,7 +18,5 @@
         "Pid\u00e1-Djap\u00e1",
         "Cutiadapa (Kutia-Dyapa)"
     ],
-    "ang": "Katuk\u00edna",
-    "gwcode": "pt",
-    "ln": "Katuk\u00edna"
+    "gwcode": "pt"
 }

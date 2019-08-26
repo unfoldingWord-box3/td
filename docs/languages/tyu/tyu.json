@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tyu",
-    "hc": "BW",
-    "ld": "ltr",
     "pk": 6453,
-    "lr": "Africa",
     "lc": "tyu",
+    "gw": false,
+    "ln": "Kua",
+    "ld": "ltr",
+    "ang": "Kua",
+    "hc": "BW",
+    "lr": "Africa",
     "cc": [
         "BW"
     ],
@@ -16,7 +18,5 @@
         "Tyhua",
         "Tyua"
     ],
-    "ang": "Kua",
-    "gwcode": "en",
-    "ln": "Kua"
+    "gwcode": "en"
 }

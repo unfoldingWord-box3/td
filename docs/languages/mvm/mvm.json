@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mvm",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 4178,
-    "lr": "Asia",
     "lc": "mvm",
+    "gw": false,
+    "ln": "\u6728\u96c5\u8bed",
+    "ld": "ltr",
+    "ang": "Muya",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -20,7 +22,5 @@
         "Eastern Muya",
         "Western Muya"
     ],
-    "ang": "Muya",
-    "gwcode": "zh",
-    "ln": "\u6728\u96c5\u8bed"
+    "gwcode": "zh"
 }

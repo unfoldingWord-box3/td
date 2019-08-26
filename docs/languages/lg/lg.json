@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lug",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 3429,
-    "lr": "Africa",
     "lc": "lg",
+    "gw": false,
+    "ln": "Luganda",
+    "ld": "ltr",
+    "ang": "Ganda",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "KE",
         "TZ",
@@ -19,7 +21,5 @@
         "Sese (Olusese)",
         "Vuma (Luvuma)"
     ],
-    "ang": "Ganda",
-    "gwcode": "en",
-    "ln": "Luganda"
+    "gwcode": "en"
 }

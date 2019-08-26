@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bxa",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 1042,
-    "lr": "Pacific",
     "lc": "bxa",
+    "gw": false,
+    "ln": "Tairaha",
+    "ld": "ltr",
+    "ang": "Tairaha",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -14,7 +16,5 @@
         "Rawo (Ravo)",
         "Haununu (Hauhunu)"
     ],
-    "ang": "Tairaha",
-    "gwcode": "UNKNOWN",
-    "ln": "Tairaha"
+    "gwcode": "pis"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kzn",
-    "hc": "MW",
-    "ld": "ltr",
     "pk": 3320,
-    "lr": "Africa",
     "lc": "kzn",
+    "gw": false,
+    "ln": "Kokola",
+    "ld": "ltr",
+    "ang": "Kokola",
+    "hc": "MW",
+    "lr": "Africa",
     "cc": [
         "MZ",
         "MW"
@@ -13,7 +15,5 @@
     "alt": [
         "Kokhola"
     ],
-    "ang": "Kokola",
-    "gwcode": "en",
-    "ln": "Kokola"
+    "gwcode": "en"
 }

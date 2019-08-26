@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bkr",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 746,
-    "lr": "Asia",
     "lc": "bkr",
+    "gw": false,
+    "ln": "Bakumpai",
+    "ld": "ltr",
+    "ang": "Bakumpai",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Mengkatip (Mangkatip)",
         "Oloh Mengkatip"
     ],
-    "ang": "Bakumpai",
-    "gwcode": "id",
-    "ln": "Bakumpai"
+    "gwcode": "id"
 }

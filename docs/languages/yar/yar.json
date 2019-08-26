@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yar",
-    "hc": "VE",
-    "ld": "ltr",
     "pk": 7127,
-    "lr": "Americas",
     "lc": "yar",
+    "gw": false,
+    "ln": "Yabarana",
+    "ld": "ltr",
+    "ang": "Yabarana",
+    "hc": "VE",
+    "lr": "Americas",
     "cc": [
         "VE"
     ],
@@ -17,7 +19,5 @@
         "Curasicana (Orechicano)",
         "Guayqueri"
     ],
-    "ang": "Yabarana",
-    "gwcode": "es-419",
-    "ln": "Yabarana"
+    "gwcode": "es-419"
 }

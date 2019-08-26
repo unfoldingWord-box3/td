@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "knt",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 3032,
-    "lr": "Americas",
     "lc": "knt",
+    "gw": false,
+    "ln": "Panoan Katuk\u00edna",
+    "ld": "ltr",
+    "ang": "Katuk\u00edna, Panoan",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -17,7 +19,5 @@
         "Arara-Shawanawa (Shawanawa-Arara)",
         "Sanainawa (Saninawacana)"
     ],
-    "ang": "Katuk\u00edna, Panoan",
-    "gwcode": "pt",
-    "ln": "Panoan Katuk\u00edna"
+    "gwcode": "pt"
 }

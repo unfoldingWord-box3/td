@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "otb",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 4889,
-    "lr": "Asia",
     "lc": "otb",
+    "gw": false,
+    "ln": "Old Tibetan",
+    "ld": "ltr",
+    "ang": "Old Tibetan",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
     "alt": [],
-    "ang": "Old Tibetan",
-    "gwcode": "UNKNOWN",
-    "ln": "Old Tibetan"
+    "gwcode": null
 }

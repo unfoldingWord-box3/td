@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "emi",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1737,
-    "lr": "Pacific",
     "lc": "emi",
+    "gw": false,
+    "ln": "Mussau-Emira",
+    "ld": "ltr",
+    "ang": "Mussau-Emira",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Musau-Emira",
         "Mussau"
     ],
-    "ang": "Mussau-Emira",
-    "gwcode": "tpi",
-    "ln": "Mussau-Emira"
+    "gwcode": "tpi"
 }

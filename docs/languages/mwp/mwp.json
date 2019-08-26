@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mwp",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4205,
-    "lr": "Pacific",
     "lc": "mwp",
+    "gw": false,
+    "ln": "Kala Lagaw Ya",
+    "ld": "ltr",
+    "ang": "Kala Lagaw Ya",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -18,7 +20,5 @@
         "Mabuiag",
         "Yagar Yagar"
     ],
-    "ang": "Kala Lagaw Ya",
-    "gwcode": "en",
-    "ln": "Kala Lagaw Ya"
+    "gwcode": "en"
 }

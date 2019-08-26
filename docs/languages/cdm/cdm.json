@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cdm",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 1167,
-    "lr": "Asia",
     "lc": "cdm",
+    "gw": false,
+    "ln": "Chepang",
+    "ld": "ltr",
+    "ang": "Chepang",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -13,7 +15,5 @@
         "Praja Bhasa",
         "Tsepang"
     ],
-    "ang": "Chepang",
-    "gwcode": "ne",
-    "ln": "Chepang"
+    "gwcode": "ne"
 }

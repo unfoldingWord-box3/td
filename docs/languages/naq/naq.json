@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "naq",
-    "hc": "NA",
-    "ld": "ltr",
     "pk": 4301,
-    "lr": "Africa",
     "lc": "naq",
+    "gw": false,
+    "ln": "Khoekhoe",
+    "ld": "ltr",
+    "ang": "Khoekhoe",
+    "hc": "NA",
+    "lr": "Africa",
     "cc": [
         "ZA",
         "BW",
@@ -37,7 +39,5 @@
         "Khoeknoegowap",
         "Khoi"
     ],
-    "ang": "Khoekhoe",
-    "gwcode": "en",
-    "ln": "Khoekhoe"
+    "gwcode": "en"
 }

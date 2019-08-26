@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "mya",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 4240,
-    "lr": "Asia",
     "lc": "my",
+    "gw": true,
+    "ln": "\u1017\u1019\u102c\u1005\u102c",
+    "ld": "ltr",
+    "ang": "Burmese",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "BD",
         "DE",
@@ -31,7 +33,5 @@
         "Beik (Merguese)",
         "Bamar"
     ],
-    "ang": "Burmese",
-    "gwcode": "UNKNOWN",
-    "ln": "\u1017\u1019\u102c\u1005\u102c"
+    "gwcode": null
 }

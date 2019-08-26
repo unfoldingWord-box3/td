@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bao",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 499,
-    "lr": "Americas",
     "lc": "bao",
+    "gw": false,
+    "ln": "Waimaha",
+    "ld": "ltr",
+    "ang": "Waimaha",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "BR",
         "CO"
@@ -19,7 +21,5 @@
         "Eastern Waimaha",
         "Pamoa Bara"
     ],
-    "ang": "Waimaha",
-    "gwcode": "es-419",
-    "ln": "Waimaha"
+    "gwcode": "es-419"
 }

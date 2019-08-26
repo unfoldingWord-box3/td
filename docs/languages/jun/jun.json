@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jun",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2677,
-    "lr": "Asia",
     "lc": "jun",
+    "gw": false,
+    "ln": "Juang",
+    "ld": "ltr",
+    "ang": "Juang",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Patua",
         "Puttooas"
     ],
-    "ang": "Juang",
-    "gwcode": "or",
-    "ln": "Juang"
+    "gwcode": "or"
 }

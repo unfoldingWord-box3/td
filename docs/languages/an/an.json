@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "arg",
-    "hc": "ES",
-    "ld": "ltr",
     "pk": 258,
-    "lr": "Europe",
     "lc": "an",
+    "gw": false,
+    "ln": "aragon\u00e9s",
+    "ld": "ltr",
+    "ang": "Aragonese",
+    "hc": "ES",
+    "lr": "Europe",
     "cc": [
         "ES"
     ],
@@ -29,7 +31,5 @@
         "Bergot\u00e9s",
         "Fobano"
     ],
-    "ang": "Aragonese",
-    "gwcode": "es",
-    "ln": "aragon\u00e9s"
+    "gwcode": "es"
 }

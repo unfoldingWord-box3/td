@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ibn",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2410,
-    "lr": "Africa",
     "lc": "ibn",
+    "gw": false,
+    "ln": "Ibino",
+    "ld": "ltr",
+    "ang": "Ibino",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Ibeno",
         "Ibuno"
     ],
-    "ang": "Ibino",
-    "gwcode": "en",
-    "ln": "Ibino"
+    "gwcode": "en"
 }

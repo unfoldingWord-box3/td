@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mzw",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 4283,
-    "lr": "Africa",
     "lc": "mzw",
+    "gw": false,
+    "ln": "Deg",
+    "ld": "ltr",
+    "ang": "Deg",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -18,7 +20,5 @@
         "Mo",
         "Buru"
     ],
-    "ang": "Deg",
-    "gwcode": "en",
-    "ln": "Deg"
+    "gwcode": "en"
 }

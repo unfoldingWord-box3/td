@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pmt",
-    "hc": "PF",
-    "ld": "ltr",
     "pk": 5097,
-    "lr": "Pacific",
     "lc": "pmt",
+    "gw": false,
+    "ln": "Tuamotuan",
+    "ld": "ltr",
+    "ang": "Tuamotuan",
+    "hc": "PF",
+    "lr": "Pacific",
     "cc": [
         "PF"
     ],
@@ -14,7 +16,5 @@
         "Fangatau (Tupitimoake)",
         "Parata (Putahi)"
     ],
-    "ang": "Tuamotuan",
-    "gwcode": "fr",
-    "ln": "Tuamotuan"
+    "gwcode": "fr"
 }

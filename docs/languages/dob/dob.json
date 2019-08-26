@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dob",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1594,
-    "lr": "Pacific",
     "lc": "dob",
+    "gw": false,
+    "ln": "Dobu",
+    "ld": "ltr",
+    "ang": "Dobu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -17,7 +19,5 @@
         "Roboda",
         "Sanaroa"
     ],
-    "ang": "Dobu",
-    "gwcode": "tpi",
-    "ln": "Dobu"
+    "gwcode": "tpi"
 }

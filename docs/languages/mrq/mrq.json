@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mrq",
-    "hc": "PF",
-    "ld": "ltr",
     "pk": 4086,
-    "lr": "Pacific",
     "lc": "mrq",
+    "gw": false,
+    "ln": "North Marquesan",
+    "ld": "ltr",
+    "ang": "Marquesan, North",
+    "hc": "PF",
+    "lr": "Pacific",
     "cc": [
         "US",
         "PF"
@@ -13,7 +15,5 @@
     "alt": [
         "Eo 'Enana"
     ],
-    "ang": "Marquesan, North",
-    "gwcode": "fr",
-    "ln": "North Marquesan"
+    "gwcode": "fr"
 }

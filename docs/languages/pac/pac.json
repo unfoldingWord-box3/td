@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pac",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 4917,
-    "lr": "Asia",
     "lc": "pac",
+    "gw": false,
+    "ln": "Pacoh",
+    "ld": "ltr",
+    "ang": "Pacoh",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "LA",
         "VN"
@@ -18,7 +20,5 @@
         "Pahi (Ba-Hi)",
         "Ka'do"
     ],
-    "ang": "Pacoh",
-    "gwcode": "vi",
-    "ln": "Pacoh"
+    "gwcode": "vi"
 }

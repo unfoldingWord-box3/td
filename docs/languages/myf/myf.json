@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "myf",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 4245,
-    "lr": "Africa",
     "lc": "myf",
+    "gw": false,
+    "ln": "Bambassi",
+    "ld": "ltr",
+    "ang": "Bambassi",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -17,7 +19,5 @@
         "Northern Mao",
         "Siggoyo"
     ],
-    "ang": "Bambassi",
-    "gwcode": "am",
-    "ln": "Bambassi"
+    "gwcode": "am"
 }

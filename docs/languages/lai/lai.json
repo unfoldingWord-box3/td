@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lai",
-    "hc": "MW",
-    "ld": "ltr",
     "pk": 3342,
-    "lr": "Africa",
     "lc": "lai",
+    "gw": false,
+    "ln": "Lambya",
+    "ld": "ltr",
+    "ang": "Lambya",
+    "hc": "MW",
+    "lr": "Africa",
     "cc": [
         "TZ",
         "ZM",
@@ -20,7 +22,5 @@
         "Ici-Rambia",
         "Iramba"
     ],
-    "ang": "Lambya",
-    "gwcode": "en",
-    "ln": "Lambya"
+    "gwcode": "en"
 }

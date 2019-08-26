@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mfp",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3792,
-    "lr": "Asia",
     "lc": "mfp",
+    "gw": false,
+    "ln": "Makassar Malay",
+    "ld": "ltr",
+    "ang": "Malay, Makassar",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Sulsel Indonesian",
         "Ujung Pandang Indonesian"
     ],
-    "ang": "Malay, Makassar",
-    "gwcode": "id",
-    "ln": "Makassar Malay"
+    "gwcode": "id"
 }

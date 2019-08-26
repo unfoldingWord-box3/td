@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "roe",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5409,
-    "lr": "Pacific",
     "lc": "roe",
+    "gw": false,
+    "ln": "Ronji",
+    "ld": "ltr",
+    "ang": "Ronji",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Gali",
         "Roinji"
     ],
-    "ang": "Ronji",
-    "gwcode": "tpi",
-    "ln": "Ronji"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kqp",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 3098,
-    "lr": "Africa",
     "lc": "kqp",
+    "gw": false,
+    "ln": "Kimr\u00e9",
+    "ld": "ltr",
+    "ang": "Kimr\u00e9",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -16,7 +18,5 @@
         "Kimruwa (Kimr\u00e9)",
         "Kim-Ruwa"
     ],
-    "ang": "Kimr\u00e9",
-    "gwcode": "ar",
-    "ln": "Kimr\u00e9"
+    "gwcode": "ar"
 }

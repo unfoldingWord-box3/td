@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "crs",
-    "hc": "SC",
-    "ld": "ltr",
     "pk": 1337,
-    "lr": "Africa",
     "lc": "crs",
+    "gw": false,
+    "ln": "Seselwa Creole French",
+    "ld": "ltr",
+    "ang": "Seselwa Creole French",
+    "hc": "SC",
+    "lr": "Africa",
     "cc": [
         "KE",
         "GB",
@@ -21,7 +23,5 @@
         "Seychelles Creole French",
         "Seychellois Creole"
     ],
-    "ang": "Seselwa Creole French",
-    "gwcode": "fr",
-    "ln": "Seselwa Creole French"
+    "gwcode": "fr"
 }

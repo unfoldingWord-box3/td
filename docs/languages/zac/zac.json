@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zac",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7333,
-    "lr": "Americas",
     "lc": "zac",
+    "gw": false,
+    "ln": "Ocotl\u00e1n Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Ocotl\u00e1n",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Ocotl\u00e1n Oeste Zapotec",
         "Zapoteco del Poniente de Ocotl\u00e1n"
     ],
-    "ang": "Zapotec, Ocotl\u00e1n",
-    "gwcode": "es-419",
-    "ln": "Ocotl\u00e1n Zapotec"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yej",
-    "hc": "IL",
-    "ld": "rtl",
     "pk": 7161,
-    "lr": "Asia",
     "lc": "yej",
+    "gw": false,
+    "ln": "\u05d9\u05d5\u05d5\u05e0\u05d9\u05d8\u05d9\u05e7\u05d4",
+    "ld": "rtl",
+    "ang": "Yevanic",
+    "hc": "IL",
+    "lr": "Asia",
     "cc": [
         "IL"
     ],
@@ -13,7 +15,5 @@
         "Judeo-Greek",
         "Yevanitika"
     ],
-    "ang": "Yevanic",
-    "gwcode": "en",
-    "ln": "\u05d9\u05d5\u05d5\u05e0\u05d9\u05d8\u05d9\u05e7\u05d4"
+    "gwcode": "en"
 }

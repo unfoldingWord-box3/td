@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bme",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 785,
-    "lr": "Africa",
     "lc": "bme",
+    "gw": false,
+    "ln": "Limassa",
+    "ld": "ltr",
+    "ang": "Limassa",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF"
     ],
@@ -13,7 +15,5 @@
         "Bamassa",
         "Bomasa"
     ],
-    "ang": "Limassa",
-    "gwcode": "fr",
-    "ln": "Limassa"
+    "gwcode": "fr"
 }

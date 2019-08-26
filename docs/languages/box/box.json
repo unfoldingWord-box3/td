@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "box",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 851,
-    "lr": "Africa",
     "lc": "box",
+    "gw": false,
+    "ln": "Buamu",
+    "ld": "ltr",
+    "ang": "Buamu",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -14,7 +16,5 @@
         "Eastern Bobo Wule",
         "Red Bobo"
     ],
-    "ang": "Buamu",
-    "gwcode": "fr",
-    "ln": "Buamu"
+    "gwcode": "fr"
 }

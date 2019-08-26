@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nct",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4349,
-    "lr": "Asia",
     "lc": "nct",
+    "gw": false,
+    "ln": "Chothe Naga",
+    "ld": "ltr",
+    "ang": "Naga, Chothe",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Chothe",
         "Chowte"
     ],
-    "ang": "Naga, Chothe",
-    "gwcode": "en",
-    "ln": "Chothe Naga"
+    "gwcode": "en"
 }

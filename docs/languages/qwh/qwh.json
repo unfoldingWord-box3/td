@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "qwh",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 5286,
-    "lr": "Americas",
     "lc": "qwh",
+    "gw": false,
+    "ln": "Huaylas Ancash Quechua",
+    "ld": "ltr",
+    "ang": "Quechua, Huaylas Ancash",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -13,7 +15,5 @@
         "Huaraz Quechua",
         "Huailas (Huaylas)"
     ],
-    "ang": "Quechua, Huaylas Ancash",
-    "gwcode": "es-419",
-    "ln": "Huaylas Ancash Quechua"
+    "gwcode": "es-419"
 }

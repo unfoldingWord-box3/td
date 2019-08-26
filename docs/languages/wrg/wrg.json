@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wrg",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6807,
-    "lr": "Pacific",
     "lc": "wrg",
+    "gw": false,
+    "ln": "Warungu",
+    "ld": "ltr",
+    "ang": "Warungu",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Gugu-Badhun",
         "Warrungu"
     ],
-    "ang": "Warungu",
-    "gwcode": "en",
-    "ln": "Warungu"
+    "gwcode": "en"
 }

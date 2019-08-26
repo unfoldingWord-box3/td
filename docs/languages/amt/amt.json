@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "amt",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 252,
-    "lr": "Pacific",
     "lc": "amt",
+    "gw": false,
+    "ln": "Amto",
+    "ld": "ltr",
+    "ang": "Amto",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
     "alt": [],
-    "ang": "Amto",
-    "gwcode": "tpi",
-    "ln": "Amto"
+    "gwcode": "tpi"
 }

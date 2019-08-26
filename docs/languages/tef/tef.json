@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tef",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6057,
-    "lr": "Asia",
     "lc": "tef",
+    "gw": false,
+    "ln": "Teressa",
+    "ld": "ltr",
+    "ang": "Teressa",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Bompoka (Bompaka)",
         "Pauhut"
     ],
-    "ang": "Teressa",
-    "gwcode": "hi",
-    "ln": "Teressa"
+    "gwcode": "hi"
 }

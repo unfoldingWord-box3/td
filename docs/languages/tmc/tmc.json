@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tmc",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 6197,
-    "lr": "Africa",
     "lc": "tmc",
+    "gw": false,
+    "ln": "Tumak",
+    "ld": "ltr",
+    "ang": "Tumak",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -23,7 +25,5 @@
         "Motin",
         "Motun (Mawer)"
     ],
-    "ang": "Tumak",
-    "gwcode": "ar",
-    "ln": "Tumak"
+    "gwcode": "ar"
 }

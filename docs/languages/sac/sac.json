@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sac",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 5461,
-    "lr": "Americas",
     "lc": "sac",
+    "gw": false,
+    "ln": "Meskwaki",
+    "ld": "ltr",
+    "ang": "Meskwaki",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -13,7 +15,5 @@
         "Sac and Fox",
         "Sauk-Fox"
     ],
-    "ang": "Meskwaki",
-    "gwcode": "en",
-    "ln": "Meskwaki"
+    "gwcode": "en"
 }

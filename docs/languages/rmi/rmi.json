@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rmi",
-    "hc": "AM",
-    "ld": "ltr",
     "pk": 5382,
-    "lr": "Asia",
     "lc": "rmi",
+    "gw": false,
+    "ln": "Lomavren",
+    "ld": "ltr",
+    "ang": "Lomavren",
+    "hc": "AM",
+    "lr": "Asia",
     "cc": [
         "AM"
     ],
@@ -16,7 +18,5 @@
         "Bosha",
         "Arnebuab Bisa"
     ],
-    "ang": "Lomavren",
-    "gwcode": "ru",
-    "ln": "Lomavren"
+    "gwcode": "ru"
 }

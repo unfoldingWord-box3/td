@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "toi",
-    "hc": "ZM",
-    "ld": "ltr",
     "pk": 6250,
-    "lr": "Africa",
     "lc": "toi",
+    "gw": false,
+    "ln": "Tonga (Zambia)",
+    "ld": "ltr",
+    "ang": "Tonga",
+    "hc": "ZM",
+    "lr": "Africa",
     "cc": [
         "ZM",
         "ZW"
@@ -18,7 +20,5 @@
         "Toka (Southern Tonga)",
         "We"
     ],
-    "ang": "Tonga",
-    "gwcode": "en",
-    "ln": "Tonga (Zambia)"
+    "gwcode": "en"
 }

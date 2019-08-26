@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pto",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 5201,
-    "lr": "Americas",
     "lc": "pto",
+    "gw": false,
+    "ln": "Zo'\u00e9",
+    "ld": "ltr",
+    "ang": "Zo\u2019\u00e9",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -15,7 +17,5 @@
         "Putur\u00fa",
         "Tup\u00ed of Cuminapanema"
     ],
-    "ang": "Zo\u2019\u00e9",
-    "gwcode": "pt",
-    "ln": "Zo'\u00e9"
+    "gwcode": "pt"
 }

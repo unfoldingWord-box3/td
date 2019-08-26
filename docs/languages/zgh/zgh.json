@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "zgh",
-    "hc": "MA",
-    "ld": "ltr",
     "pk": 7370,
-    "lr": "Africa",
     "lc": "zgh",
+    "gw": false,
+    "ln": "\u2d5c\u2d30\u2d4e\u2d30\u2d63\u2d49\u2d56\u2d5c \u2d5c\u2d30\u2d4f\u2d30\u2d61\u2d30\u2d62\u2d5c",
+    "ld": "ltr",
+    "ang": "Tamazight, Standard Moroccan",
+    "hc": "MA",
+    "lr": "Africa",
     "cc": [
         "MA"
     ],
     "alt": [
         "Amazighe standard marocain"
     ],
-    "ang": "Tamazight, Standard Moroccan",
-    "gwcode": "ar",
-    "ln": "\u2d5c\u2d30\u2d4e\u2d30\u2d63\u2d49\u2d56\u2d5c \u2d5c\u2d30\u2d4f\u2d30\u2d61\u2d30\u2d62\u2d5c"
+    "gwcode": "ar"
 }

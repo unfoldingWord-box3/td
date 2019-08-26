@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "waa",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 6664,
-    "lr": "Americas",
     "lc": "waa",
+    "gw": false,
+    "ln": "Walla Walla",
+    "ld": "ltr",
+    "ang": "Walla Walla",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -13,7 +15,5 @@
         "Ichishk\u00edin",
         "Northeast Sahaptin"
     ],
-    "ang": "Walla Walla",
-    "gwcode": "en",
-    "ln": "Walla Walla"
+    "gwcode": "en"
 }

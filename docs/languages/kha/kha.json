@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kha",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2858,
-    "lr": "Asia",
     "lc": "kha",
+    "gw": false,
+    "ln": "Khasi",
+    "ld": "ltr",
+    "ang": "Khasi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN"
@@ -24,7 +26,5 @@
         "Sohra",
         "Khasi (Cherrapunji)"
     ],
-    "ang": "Khasi",
-    "gwcode": "bn",
-    "ln": "Khasi"
+    "gwcode": "bn"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "qxl",
-    "hc": "EC",
-    "ld": "ltr",
     "pk": 5293,
-    "lr": "Americas",
     "lc": "qxl",
+    "gw": false,
+    "ln": "Salasaca Highland Quichua",
+    "ld": "ltr",
+    "ang": "Quichua, Salasaca Highland",
+    "hc": "EC",
+    "lr": "Americas",
     "cc": [
         "EC"
     ],
@@ -14,7 +16,5 @@
         "Tungurahua Highland Quichua",
         "Tungurahua Quichua"
     ],
-    "ang": "Quichua, Salasaca Highland",
-    "gwcode": "es-419",
-    "ln": "Salasaca Highland Quichua"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bgr",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 651,
-    "lr": "Asia",
     "lc": "bgr",
+    "gw": false,
+    "ln": "Bawm Chin",
+    "ld": "ltr",
+    "ang": "Chin, Bawm",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN",
@@ -19,7 +21,5 @@
         "Laisaw",
         "Langkay"
     ],
-    "ang": "Chin, Bawm",
-    "gwcode": "as",
-    "ln": "Bawm Chin"
+    "gwcode": "as"
 }

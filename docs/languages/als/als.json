@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "als",
-    "hc": "AL",
-    "ld": "ltr",
     "pk": 227,
-    "lr": "Europe",
     "lc": "als",
+    "gw": false,
+    "ln": "Tosk Albanian",
+    "ld": "ltr",
+    "ang": "Albanian, Tosk",
+    "hc": "AL",
+    "lr": "Europe",
     "cc": [
         "BE",
         "GR",
@@ -32,7 +34,5 @@
         "Zhgabe",
         "Arvanitika"
     ],
-    "ang": "Albanian, Tosk",
-    "gwcode": "en",
-    "ln": "Tosk Albanian"
+    "gwcode": "en"
 }

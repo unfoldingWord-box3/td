@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hrc",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2345,
-    "lr": "Pacific",
     "lc": "hrc",
+    "gw": false,
+    "ln": "Niwer Mil",
+    "ld": "ltr",
+    "ang": "Niwer Mil",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Tanga",
         "Tangga"
     ],
-    "ang": "Niwer Mil",
-    "gwcode": "tpi",
-    "ln": "Niwer Mil"
+    "gwcode": "tpi"
 }

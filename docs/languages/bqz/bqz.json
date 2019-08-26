@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bqz",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 898,
-    "lr": "Africa",
     "lc": "bqz",
+    "gw": false,
+    "ln": "Bakaka",
+    "ld": "ltr",
+    "ang": "Bakaka",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -25,7 +27,5 @@
         "Mwahet",
         "Ihobe Mboong"
     ],
-    "ang": "Bakaka",
-    "gwcode": "fr",
-    "ln": "Bakaka"
+    "gwcode": "fr"
 }

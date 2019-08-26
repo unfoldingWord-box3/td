@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rhp",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5355,
-    "lr": "Pacific",
     "lc": "rhp",
+    "gw": false,
+    "ln": "Yahang",
+    "ld": "ltr",
+    "ang": "Yahang",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Ruruhip",
         "Ya'unk"
     ],
-    "ang": "Yahang",
-    "gwcode": "tpi",
-    "ln": "Yahang"
+    "gwcode": "tpi"
 }

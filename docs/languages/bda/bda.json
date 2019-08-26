@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bda",
-    "hc": "SN",
-    "ld": "ltr",
     "pk": 559,
-    "lr": "Africa",
     "lc": "bda",
+    "gw": false,
+    "ln": "Bayot",
+    "ld": "ltr",
+    "ang": "Bayot",
+    "hc": "SN",
+    "lr": "Africa",
     "cc": [
         "SN"
     ],
@@ -16,7 +18,5 @@
         "Jola Bayote",
         "Baiote"
     ],
-    "ang": "Bayot",
-    "gwcode": "fr",
-    "ln": "Bayot"
+    "gwcode": "fr"
 }

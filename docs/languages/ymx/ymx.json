@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ymx",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7236,
-    "lr": "Asia",
     "lc": "ymx",
+    "gw": false,
+    "ln": "Northern Muji",
+    "ld": "ltr",
+    "ang": "Muji, Northern",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Hlaka Mujima",
         "Phula"
     ],
-    "ang": "Muji, Northern",
-    "gwcode": "zh",
-    "ln": "Northern Muji"
+    "gwcode": "zh"
 }

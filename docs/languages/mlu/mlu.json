@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mlu",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 3944,
-    "lr": "Pacific",
     "lc": "mlu",
+    "gw": false,
+    "ln": "To'abaita",
+    "ld": "ltr",
+    "ang": "To\u2019abaita",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -15,7 +17,5 @@
         "To'ambaita",
         "Toqabaqita"
     ],
-    "ang": "To\u2019abaita",
-    "gwcode": "UNKNOWN",
-    "ln": "To'abaita"
+    "gwcode": "pis"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sju",
-    "hc": "SE",
-    "ld": "ltr",
     "pk": 5654,
-    "lr": "Europe",
     "lc": "sju",
+    "gw": false,
+    "ln": "Ume Sami",
+    "ld": "ltr",
+    "ang": "Saami, Ume",
+    "hc": "SE",
+    "lr": "Europe",
     "cc": [
         "SE"
     ],
@@ -14,7 +16,5 @@
         "Ume",
         "Lapp"
     ],
-    "ang": "Saami, Ume",
-    "gwcode": "en",
-    "ln": "Ume Sami"
+    "gwcode": "en"
 }

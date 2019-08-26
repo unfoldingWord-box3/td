@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mis",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 3872,
-    "lr": "Asia",
     "lc": "mis",
+    "gw": false,
+    "ln": "Uncoded languages",
+    "ld": "ltr",
+    "ang": "",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "GY",
@@ -15,7 +17,5 @@
         "KH"
     ],
     "alt": [],
-    "ang": "",
-    "gwcode": "UNKNOWN",
-    "ln": "Uncoded languages"
+    "gwcode": null
 }

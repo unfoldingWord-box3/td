@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pma",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 5083,
-    "lr": "Pacific",
     "lc": "pma",
+    "gw": false,
+    "ln": "Paama",
+    "ld": "ltr",
+    "ang": "Paama",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -14,7 +16,5 @@
         "Paamese",
         "Pauma"
     ],
-    "ang": "Paama",
-    "gwcode": "fr",
-    "ln": "Paama"
+    "gwcode": "fr"
 }

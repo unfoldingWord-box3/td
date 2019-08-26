@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "irk",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 2510,
-    "lr": "Africa",
     "lc": "irk",
+    "gw": false,
+    "ln": "Iraqw",
+    "ld": "ltr",
+    "ang": "Iraqw",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -15,7 +17,5 @@
         "Kiiraqw",
         "Mbulunge"
     ],
-    "ang": "Iraqw",
-    "gwcode": "sw",
-    "ln": "Iraqw"
+    "gwcode": "sw"
 }

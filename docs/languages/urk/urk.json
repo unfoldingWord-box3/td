@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "urk",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 6546,
-    "lr": "Asia",
     "lc": "urk",
+    "gw": false,
+    "ln": "Urak Lawoi'",
+    "ld": "ltr",
+    "ang": "Urak Lawoi\u2019",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "TH"
     ],
@@ -16,7 +18,5 @@
         "Lawta",
         "Orak Lawoi'"
     ],
-    "ang": "Urak Lawoi\u2019",
-    "gwcode": "th",
-    "ln": "Urak Lawoi'"
+    "gwcode": "th"
 }

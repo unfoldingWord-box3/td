@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wni",
-    "hc": "KM",
-    "ld": "ltr",
     "pk": 6780,
-    "lr": "Africa",
     "lc": "wni",
+    "gw": false,
+    "ln": "Ndzwani Comorian",
+    "ld": "ltr",
+    "ang": "Comorian, Ndzwani",
+    "hc": "KM",
+    "lr": "Africa",
     "cc": [
         "KM",
         "YT"
@@ -16,7 +18,5 @@
         "Comoro",
         "Komoro"
     ],
-    "ang": "Comorian, Ndzwani",
-    "gwcode": "ar",
-    "ln": "Ndzwani Comorian"
+    "gwcode": "ar"
 }

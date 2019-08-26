@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jul",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 2675,
-    "lr": "Asia",
     "lc": "jul",
+    "gw": false,
+    "ln": "Jirel",
+    "ld": "ltr",
+    "ang": "Jirel",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Jirial",
         "Ziral"
     ],
-    "ang": "Jirel",
-    "gwcode": "ne",
-    "ln": "Jirel"
+    "gwcode": "ne"
 }

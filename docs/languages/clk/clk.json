@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "clk",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1253,
-    "lr": "Asia",
     "lc": "clk",
+    "gw": false,
+    "ln": "Idu-Mishmi",
+    "ld": "ltr",
+    "ang": "Idu-Mishmi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "IN"
@@ -24,7 +26,5 @@
         "Yidu Luoba",
         "Chulikotta"
     ],
-    "ang": "Idu-Mishmi",
-    "gwcode": "as",
-    "ln": "Idu-Mishmi"
+    "gwcode": "as"
 }

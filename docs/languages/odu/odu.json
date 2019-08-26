@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "odu",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4776,
-    "lr": "Africa",
     "lc": "odu",
+    "gw": false,
+    "ln": "Odual",
+    "ld": "ltr",
+    "ang": "Odual",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Saka",
         "Arughunya"
     ],
-    "ang": "Odual",
-    "gwcode": "en",
-    "ln": "Odual"
+    "gwcode": "en"
 }

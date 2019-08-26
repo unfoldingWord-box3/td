@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tvw",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6402,
-    "lr": "Asia",
     "lc": "tvw",
+    "gw": false,
+    "ln": "Sedoa",
+    "ld": "ltr",
+    "ang": "Sedoa",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Tawailia",
         "Topobaria"
     ],
-    "ang": "Sedoa",
-    "gwcode": "id",
-    "ln": "Sedoa"
+    "gwcode": "id"
 }

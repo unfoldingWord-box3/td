@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nbb",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4311,
-    "lr": "Africa",
     "lc": "nbb",
+    "gw": false,
+    "ln": "Ndoe",
+    "ld": "ltr",
+    "ang": "Ndoe",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Balep (Anep)",
         "Anyep"
     ],
-    "ang": "Ndoe",
-    "gwcode": "en",
-    "ln": "Ndoe"
+    "gwcode": "en"
 }

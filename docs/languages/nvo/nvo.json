@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nvo",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4702,
-    "lr": "Africa",
     "lc": "nvo",
+    "gw": false,
+    "ln": "Nyokon",
+    "ld": "ltr",
+    "ang": "Nyokon",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Ni Nyo'o",
         "Nyo'on"
     ],
-    "ang": "Nyokon",
-    "gwcode": "fr",
-    "ln": "Nyokon"
+    "gwcode": "fr"
 }

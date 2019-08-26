@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hud",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2368,
-    "lr": "Asia",
     "lc": "hud",
+    "gw": false,
+    "ln": "Huaulu",
+    "ld": "ltr",
+    "ang": "Huaulu",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Alakamat",
         "Bahasa Asli"
     ],
-    "ang": "Huaulu",
-    "gwcode": "id",
-    "ln": "Huaulu"
+    "gwcode": "id"
 }

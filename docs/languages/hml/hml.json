@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hml",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2301,
-    "lr": "Asia",
     "lc": "hml",
+    "gw": false,
+    "ln": "\u7f57\u6cca\u6cb3",
+    "ld": "ltr",
+    "ang": "Miao, Luopohe",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -18,7 +20,5 @@
         "Xijia Miao",
         "Ximahe Miao"
     ],
-    "ang": "Miao, Luopohe",
-    "gwcode": "zh",
-    "ln": "\u7f57\u6cca\u6cb3"
+    "gwcode": "zh"
 }

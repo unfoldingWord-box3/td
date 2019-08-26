@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bau",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 503,
-    "lr": "Africa",
     "lc": "bau",
+    "gw": false,
+    "ln": "Bada (Nigeria)",
+    "ld": "ltr",
+    "ang": "Mbat",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG",
         "TD"
@@ -27,7 +29,5 @@
         "Gyanggyang",
         "Mbat (Gagdi-Gum)"
     ],
-    "ang": "Mbat",
-    "gwcode": "en",
-    "ln": "Bada (Nigeria)"
+    "gwcode": "en"
 }

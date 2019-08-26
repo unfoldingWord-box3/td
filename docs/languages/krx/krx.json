@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "krx",
-    "hc": "SN",
-    "ld": "ltr",
     "pk": 3129,
-    "lr": "Africa",
     "lc": "krx",
+    "gw": false,
+    "ln": "Karon",
+    "ld": "ltr",
+    "ang": "Karon",
+    "hc": "SN",
+    "lr": "Africa",
     "cc": [
         "SN"
     ],
@@ -16,7 +18,5 @@
         "Kaloon",
         "Kouloonaay"
     ],
-    "ang": "Karon",
-    "gwcode": "fr",
-    "ln": "Karon"
+    "gwcode": "fr"
 }

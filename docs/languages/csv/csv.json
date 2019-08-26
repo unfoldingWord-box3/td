@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "csv",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 1364,
-    "lr": "Asia",
     "lc": "csv",
+    "gw": false,
+    "ln": "Sumtu Chin",
+    "ld": "ltr",
+    "ang": "Chin, Sumtu",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -17,7 +19,5 @@
         "Settu Hmyo",
         "Sungtu"
     ],
-    "ang": "Chin, Sumtu",
-    "gwcode": "my",
-    "ln": "Sumtu Chin"
+    "gwcode": "my"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mdi",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3736,
-    "lr": "Africa",
     "lc": "mdi",
+    "gw": false,
+    "ln": "Mamvu",
+    "ld": "ltr",
+    "ang": "Mamvu",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -13,7 +15,5 @@
         "Momvu",
         "Mamvu (Momfu)"
     ],
-    "ang": "Mamvu",
-    "gwcode": "fr",
-    "ln": "Mamvu"
+    "gwcode": "fr"
 }

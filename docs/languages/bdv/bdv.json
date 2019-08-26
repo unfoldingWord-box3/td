@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bdv",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 580,
-    "lr": "Asia",
     "lc": "bdv",
+    "gw": false,
+    "ln": "Bodo Parja",
+    "ld": "ltr",
+    "ang": "Bodo Parja",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -23,7 +25,5 @@
         "Poroja",
         "Sodia Parja"
     ],
-    "ang": "Bodo Parja",
-    "gwcode": "or",
-    "ln": "Bodo Parja"
+    "gwcode": "or"
 }

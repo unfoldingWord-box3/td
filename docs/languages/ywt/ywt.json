@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ywt",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7320,
-    "lr": "Asia",
     "lc": "ywt",
+    "gw": false,
+    "ln": "\u4e2d\u814a\u7f57\u8bed",
+    "ld": "ltr",
+    "ang": "Lalo, Central",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -16,7 +18,5 @@
         "Misapa",
         "Xishanba Lalo"
     ],
-    "ang": "Lalo, Central",
-    "gwcode": "zh",
-    "ln": "\u4e2d\u814a\u7f57\u8bed"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bjf",
-    "hc": "IL",
-    "ld": "ltr",
     "pk": 712,
-    "lr": "Asia",
     "lc": "bjf",
+    "gw": false,
+    "ln": "\u05dc\u05e9\u05e0\u05d9\u05d3 \u05d3\u05d9\u05e0\u05df",
+    "ld": "ltr",
+    "ang": "Barzani Jewish Neo-Aramaic",
+    "hc": "IL",
+    "lr": "Asia",
     "cc": [
         "IL"
     ],
@@ -16,7 +18,5 @@
         "Barzan",
         "Bijil"
     ],
-    "ang": "Barzani Jewish Neo-Aramaic",
-    "gwcode": "en",
-    "ln": "\u05dc\u05e9\u05e0\u05d9\u05d3 \u05d3\u05d9\u05e0\u05df"
+    "gwcode": "en"
 }

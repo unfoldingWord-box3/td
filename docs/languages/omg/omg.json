@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "omg",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 4826,
-    "lr": "Americas",
     "lc": "omg",
+    "gw": false,
+    "ln": "Omagua",
+    "ld": "ltr",
+    "ang": "Omagua",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -31,7 +33,5 @@
         "Curacirari (Curazicari)",
         "Curucicuri (Curuzicari)"
     ],
-    "ang": "Omagua",
-    "gwcode": "es-419",
-    "ln": "Omagua"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kfb",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2810,
-    "lr": "Asia",
     "lc": "kfb",
+    "gw": false,
+    "ln": "Northwestern Kolami",
+    "ld": "ltr",
+    "ang": "Kolami, Northwestern",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -16,7 +18,5 @@
         "Kolmi",
         "Kulme"
     ],
-    "ang": "Kolami, Northwestern",
-    "gwcode": "mr",
-    "ln": "Northwestern Kolami"
+    "gwcode": "mr"
 }

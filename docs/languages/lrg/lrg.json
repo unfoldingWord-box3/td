@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lrg",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 3582,
-    "lr": "Pacific",
     "lc": "lrg",
+    "gw": false,
+    "ln": "Laragia",
+    "ld": "ltr",
+    "ang": "Laragia",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Larakia",
         "Larakiya"
     ],
-    "ang": "Laragia",
-    "gwcode": "en",
-    "ln": "Laragia"
+    "gwcode": "en"
 }

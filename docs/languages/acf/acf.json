@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "acf",
-    "hc": "LC",
-    "ld": "ltr",
     "pk": 57,
-    "lr": "Americas",
     "lc": "acf",
+    "gw": false,
+    "ln": "Saint Lucian Creole French",
+    "ld": "ltr",
+    "ang": "Saint Lucian Creole French",
+    "hc": "LC",
+    "lr": "Americas",
     "cc": [
         "DM",
         "TT",
@@ -21,7 +23,5 @@
         "Grenadian Creole French",
         "Kw\u00e9y\u00f2l"
     ],
-    "ang": "Saint Lucian Creole French",
-    "gwcode": "en",
-    "ln": "Saint Lucian Creole French"
+    "gwcode": "en"
 }

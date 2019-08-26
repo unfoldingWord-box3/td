@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pck",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4966,
-    "lr": "Asia",
     "lc": "pck",
+    "gw": false,
+    "ln": "Paite Chin",
+    "ld": "ltr",
+    "ang": "Chin, Paite",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -25,7 +27,5 @@
         "Bukpi (Bukpui)",
         "Lousau"
     ],
-    "ang": "Chin, Paite",
-    "gwcode": "UNKNOWN",
-    "ln": "Paite Chin"
+    "gwcode": "mni"
 }

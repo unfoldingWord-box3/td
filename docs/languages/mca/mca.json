@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mca",
-    "hc": "PY",
-    "ld": "ltr",
     "pk": 3702,
-    "lr": "Americas",
     "lc": "mca",
+    "gw": false,
+    "ln": "Maca",
+    "ld": "ltr",
+    "ang": "Maka",
+    "hc": "PY",
+    "lr": "Americas",
     "cc": [
         "PY"
     ],
@@ -16,7 +18,5 @@
         "Mak\u00e1",
         "Mak'\u00e1"
     ],
-    "ang": "Maka",
-    "gwcode": "es-419",
-    "ln": "Maca"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mmu",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3968,
-    "lr": "Africa",
     "lc": "mmu",
+    "gw": false,
+    "ln": "Mmaala",
+    "ld": "ltr",
+    "ang": "Mmaala",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -17,7 +19,5 @@
         "Nukitia",
         "Nuenie"
     ],
-    "ang": "Mmaala",
-    "gwcode": "fr",
-    "ln": "Mmaala"
+    "gwcode": "fr"
 }

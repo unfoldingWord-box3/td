@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cbt",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 1145,
-    "lr": "Americas",
     "lc": "cbt",
+    "gw": false,
+    "ln": "Chayahuita",
+    "ld": "ltr",
+    "ang": "Chayahuita",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -21,7 +23,5 @@
         "Shayabit",
         "Tshaahui"
     ],
-    "ang": "Chayahuita",
-    "gwcode": "es-419",
-    "ln": "Chayahuita"
+    "gwcode": "es-419"
 }

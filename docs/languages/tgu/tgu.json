@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tgu",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6095,
-    "lr": "Pacific",
     "lc": "tgu",
+    "gw": false,
+    "ln": "Tanggu",
+    "ld": "ltr",
+    "ang": "Tanggu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Tanggum",
         "Tangu"
     ],
-    "ang": "Tanggu",
-    "gwcode": "tpi",
-    "ln": "Tanggu"
+    "gwcode": "tpi"
 }

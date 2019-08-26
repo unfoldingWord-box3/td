@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pms",
-    "hc": "IT",
-    "ld": "ltr",
     "pk": 5096,
-    "lr": "Europe",
     "lc": "pms",
+    "gw": false,
+    "ln": "Piemontese",
+    "ld": "ltr",
+    "ang": "Piemontese",
+    "hc": "IT",
+    "lr": "Europe",
     "cc": [
         "IT"
     ],
@@ -15,7 +17,5 @@
         "High Piemontese (Alto Piemontese)",
         "Low Piemontese (Basso Piemontese)"
     ],
-    "ang": "Piemontese",
-    "gwcode": "en",
-    "ln": "Piemontese"
+    "gwcode": "en"
 }

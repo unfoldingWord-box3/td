@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kvv",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3229,
-    "lr": "Asia",
     "lc": "kvv",
+    "gw": false,
+    "ln": "Kola",
+    "ld": "ltr",
+    "ang": "Kola",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Marlasi",
         "Warilau"
     ],
-    "ang": "Kola",
-    "gwcode": "id",
-    "ln": "Kola"
+    "gwcode": "id"
 }

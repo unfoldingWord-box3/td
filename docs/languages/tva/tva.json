@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tva",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 6392,
-    "lr": "Pacific",
     "lc": "tva",
+    "gw": false,
+    "ln": "Vaghua",
+    "ld": "ltr",
+    "ang": "Vaghua",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -14,7 +16,5 @@
         "Tavula",
         "Vagua"
     ],
-    "ang": "Vaghua",
-    "gwcode": "UNKNOWN",
-    "ln": "Vaghua"
+    "gwcode": "pis"
 }

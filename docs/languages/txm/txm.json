@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "txm",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6432,
-    "lr": "Asia",
     "lc": "txm",
+    "gw": false,
+    "ln": "Tomini",
+    "ld": "ltr",
+    "ang": "Tomini",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Tiadje",
         "Tialo"
     ],
-    "ang": "Tomini",
-    "gwcode": "id",
-    "ln": "Tomini"
+    "gwcode": "id"
 }

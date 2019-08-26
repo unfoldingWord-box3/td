@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pbc",
-    "hc": "GY",
-    "ld": "ltr",
     "pk": 4940,
-    "lr": "Americas",
     "lc": "pbc",
+    "gw": false,
+    "ln": "Patamona",
+    "ld": "ltr",
+    "ang": "Patamona",
+    "hc": "GY",
+    "lr": "Americas",
     "cc": [
         "BR",
         "GY"
@@ -15,7 +17,5 @@
         "Ingariko",
         "Kapon"
     ],
-    "ang": "Patamona",
-    "gwcode": "es-419",
-    "ln": "Patamona"
+    "gwcode": "es-419"
 }

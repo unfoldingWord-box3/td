@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aml",
-    "hc": "BD",
-    "ld": "ltr",
     "pk": 244,
-    "lr": "Asia",
     "lc": "aml",
+    "gw": false,
+    "ln": "War-Jaintia",
+    "ld": "ltr",
+    "ang": "War-Jaintia",
+    "hc": "BD",
+    "lr": "Asia",
     "cc": [
         "BD"
     ],
@@ -15,7 +17,5 @@
         "Khasi",
         "War"
     ],
-    "ang": "War-Jaintia",
-    "gwcode": "bn",
-    "ln": "War-Jaintia"
+    "gwcode": "bn"
 }

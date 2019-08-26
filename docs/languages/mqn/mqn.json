@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mqn",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4057,
-    "lr": "Asia",
     "lc": "mqn",
+    "gw": false,
+    "ln": "Moronene",
+    "ld": "ltr",
+    "ang": "Moronene",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Rumbia",
         "Tokotu'a (Kabaena)"
     ],
-    "ang": "Moronene",
-    "gwcode": "id",
-    "ln": "Moronene"
+    "gwcode": "id"
 }

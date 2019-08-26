@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "erg",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 1768,
-    "lr": "Pacific",
     "lc": "erg",
+    "gw": false,
+    "ln": "Sie",
+    "ld": "ltr",
+    "ang": "Sie",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -17,7 +19,5 @@
         "Sie (Sorung)",
         "Yoku (Enyau)"
     ],
-    "ang": "Sie",
-    "gwcode": "fr",
-    "ln": "Sie"
+    "gwcode": "fr"
 }

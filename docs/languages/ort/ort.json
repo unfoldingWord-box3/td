@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ort",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4872,
-    "lr": "Asia",
     "lc": "ort",
+    "gw": false,
+    "ln": "Adivasi Oriya",
+    "ld": "ltr",
+    "ang": "Oriya, Adivasi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Kotiya",
         "Tribal Oriya"
     ],
-    "ang": "Oriya, Adivasi",
-    "gwcode": "or",
-    "ln": "Adivasi Oriya"
+    "gwcode": "or"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nnm",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4571,
-    "lr": "Pacific",
     "lc": "nnm",
+    "gw": false,
+    "ln": "Namia",
+    "ld": "ltr",
+    "ang": "Namia",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Nemia",
         "Yellow River"
     ],
-    "ang": "Namia",
-    "gwcode": "tpi",
-    "ln": "Namia"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tga",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 6079,
-    "lr": "Africa",
     "lc": "tga",
+    "gw": false,
+    "ln": "Sagalla",
+    "ld": "ltr",
+    "ang": "Sagalla",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -15,7 +17,5 @@
         "Sagala",
         "Saghala"
     ],
-    "ang": "Sagalla",
-    "gwcode": "sw",
-    "ln": "Sagalla"
+    "gwcode": "sw"
 }

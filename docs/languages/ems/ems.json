@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ems",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 1742,
-    "lr": "Americas",
     "lc": "ems",
+    "gw": false,
+    "ln": "Pacific Gulf Yupik",
+    "ld": "ltr",
+    "ang": "Yupik, Pacific Gulf",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -20,7 +22,5 @@
         "Sugpiak Eskimo",
         "Sugpiaq Eskimo"
     ],
-    "ang": "Yupik, Pacific Gulf",
-    "gwcode": "en",
-    "ln": "Pacific Gulf Yupik"
+    "gwcode": "en"
 }

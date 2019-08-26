@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wrp",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6814,
-    "lr": "Asia",
     "lc": "wrp",
+    "gw": false,
+    "ln": "Waropen",
+    "ld": "ltr",
+    "ang": "Waropen",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Wonti",
         "Worpen"
     ],
-    "ang": "Waropen",
-    "gwcode": "id",
-    "ln": "Waropen"
+    "gwcode": "id"
 }

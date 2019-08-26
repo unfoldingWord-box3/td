@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kos",
-    "hc": "FM",
-    "ld": "ltr",
     "pk": 3052,
-    "lr": "Pacific",
     "lc": "kos",
+    "gw": false,
+    "ln": "Kosraean",
+    "ld": "ltr",
+    "ang": "Kosraean",
+    "hc": "FM",
+    "lr": "Pacific",
     "cc": [
         "US",
         "NR",
@@ -15,7 +17,5 @@
         "Kosrae",
         "Kusaie"
     ],
-    "ang": "Kosraean",
-    "gwcode": "en",
-    "ln": "Kosraean"
+    "gwcode": "en"
 }

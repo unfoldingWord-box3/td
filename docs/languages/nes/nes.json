@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nes",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4395,
-    "lr": "Asia",
     "lc": "nes",
+    "gw": false,
+    "ln": "Bhoti Kinnauri",
+    "ld": "ltr",
+    "ang": "Kinnauri, Bhoti",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -21,7 +23,5 @@
         "Sangs-Rgyas",
         "Sangyas"
     ],
-    "ang": "Kinnauri, Bhoti",
-    "gwcode": "hi",
-    "ln": "Bhoti Kinnauri"
+    "gwcode": "hi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kiw",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2902,
-    "lr": "Pacific",
     "lc": "kiw",
+    "gw": false,
+    "ln": "Northeast Kiwai",
+    "ld": "ltr",
+    "ang": "Kiwai, Northeast",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Arigibi (Anigibi)",
         "Gope"
     ],
-    "ang": "Kiwai, Northeast",
-    "gwcode": "tpi",
-    "ln": "Northeast Kiwai"
+    "gwcode": "tpi"
 }

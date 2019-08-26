@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lsa",
-    "hc": "IR",
-    "ld": "ltr",
     "pk": 3593,
-    "lr": "Asia",
     "lc": "lsa",
+    "gw": false,
+    "ln": "Lasgerdi",
+    "ld": "ltr",
+    "ang": "Lasgerdi",
+    "hc": "IR",
+    "lr": "Asia",
     "cc": [
         "IR"
     ],
@@ -14,7 +16,5 @@
         "Lasjerdi",
         "L\u00e4sjerdi"
     ],
-    "ang": "Lasgerdi",
-    "gwcode": "fa",
-    "ln": "Lasgerdi"
+    "gwcode": "fa"
 }

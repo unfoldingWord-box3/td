@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "saz",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5478,
-    "lr": "Asia",
     "lc": "saz",
+    "gw": false,
+    "ln": "Saurashtra",
+    "ld": "ltr",
+    "ang": "Saurashtra",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Sourashtra",
         "Sowrashtra"
     ],
-    "ang": "Saurashtra",
-    "gwcode": "ta",
-    "ln": "Saurashtra"
+    "gwcode": "ta"
 }

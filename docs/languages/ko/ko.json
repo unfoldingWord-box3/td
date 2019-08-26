@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kor",
-    "hc": "KR",
-    "ld": "ltr",
     "pk": 3039,
-    "lr": "Asia",
     "lc": "ko",
+    "gw": false,
+    "ln": "\ud55c\uad6d\uc5b4, \uc870\uc120\uc5b4",
+    "ld": "ltr",
+    "ang": "Korean",
+    "hc": "KR",
+    "lr": "Asia",
     "cc": [
         "BR",
         "CN",
@@ -55,7 +57,5 @@
         "South Ch'ungch'ong",
         "Hangeul"
     ],
-    "ang": "Korean",
-    "gwcode": "en",
-    "ln": "\ud55c\uad6d\uc5b4, \uc870\uc120\uc5b4"
+    "gwcode": "en"
 }

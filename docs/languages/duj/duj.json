@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1659,
-    "lr": "Pacific",
     "lc": "duj",
+    "gw": false,
+    "ln": "Dhuwal",
+    "ld": "ltr",
+    "ang": "Dhuwal",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Wulamba",
         "Datiwuy (Daatiwuy)"
     ],
-    "ang": "Dhuwal",
-    "gwcode": "en",
-    "ln": "Dhuwal"
+    "gwcode": "en"
 }

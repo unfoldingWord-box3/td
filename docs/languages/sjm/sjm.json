@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sjm",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 5647,
-    "lr": "Asia",
     "lc": "sjm",
+    "gw": false,
+    "ln": "Mapun",
+    "ld": "ltr",
+    "ang": "Mapun",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "MY",
         "PH"
@@ -22,7 +24,5 @@
         "Cagayano",
         "Orang"
     ],
-    "ang": "Mapun",
-    "gwcode": "en",
-    "ln": "Mapun"
+    "gwcode": "en"
 }

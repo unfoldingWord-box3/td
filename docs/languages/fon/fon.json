@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fon",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 1863,
-    "lr": "Africa",
     "lc": "fon",
+    "gw": false,
+    "ln": "Fon",
+    "ld": "ltr",
+    "ang": "Fon",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "GA",
@@ -24,7 +26,5 @@
         "Gbekon",
         "Kpase"
     ],
-    "ang": "Fon",
-    "gwcode": "fr",
-    "ln": "Fon"
+    "gwcode": "fr"
 }

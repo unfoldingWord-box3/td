@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nfd",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4404,
-    "lr": "Africa",
     "lc": "nfd",
+    "gw": false,
+    "ln": "Ahwai",
+    "ld": "ltr",
+    "ang": "Ahwai",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -17,7 +19,5 @@
         "Tari",
         "Ningon"
     ],
-    "ang": "Ahwai",
-    "gwcode": "en",
-    "ln": "Ahwai"
+    "gwcode": "en"
 }

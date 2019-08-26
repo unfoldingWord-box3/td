@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kti",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3166,
-    "lr": "Asia",
     "lc": "kti",
+    "gw": false,
+    "ln": "North Muyu",
+    "ld": "ltr",
+    "ang": "Muyu, North",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -22,7 +24,5 @@
         "Toemoetoe (Are)",
         "Kanggewot"
     ],
-    "ang": "Muyu, North",
-    "gwcode": "id",
-    "ln": "North Muyu"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "luc",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 3617,
-    "lr": "Africa",
     "lc": "luc",
+    "gw": false,
+    "ln": "Aringa",
+    "ld": "ltr",
+    "ang": "Aringa",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "SS",
         "UG"
@@ -13,7 +15,5 @@
     "alt": [
         "Low Lugbara"
     ],
-    "ang": "Aringa",
-    "gwcode": "en",
-    "ln": "Aringa"
+    "gwcode": "en"
 }

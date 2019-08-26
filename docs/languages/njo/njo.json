@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "njo",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4487,
-    "lr": "Asia",
     "lc": "njo",
+    "gw": false,
+    "ln": "Ao Naga",
+    "ld": "ltr",
+    "ang": "Naga, Ao",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -20,7 +22,5 @@
         "Chongli (Chungli)",
         "Dordar (Yacham)"
     ],
-    "ang": "Naga, Ao",
-    "gwcode": "en",
-    "ln": "Ao Naga"
+    "gwcode": "en"
 }

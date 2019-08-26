@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gau",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1923,
-    "lr": "Asia",
     "lc": "gau",
+    "gw": false,
+    "ln": "Mudhili Gadaba",
+    "ld": "ltr",
+    "ang": "Gadaba, Mudhili",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Kondekar",
         "Kondko"
     ],
-    "ang": "Gadaba, Mudhili",
-    "gwcode": "te",
-    "ln": "Mudhili Gadaba"
+    "gwcode": "te"
 }

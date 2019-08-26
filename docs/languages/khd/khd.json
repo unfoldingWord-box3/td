@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "khd",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2861,
-    "lr": "Asia",
     "lc": "khd",
+    "gw": false,
+    "ln": "B\u00e4di Kanum",
+    "ld": "ltr",
+    "ang": "Kanum, B\u00e4di",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Kenume",
         "Knwne"
     ],
-    "ang": "Kanum, B\u00e4di",
-    "gwcode": "id",
-    "ln": "B\u00e4di Kanum"
+    "gwcode": "id"
 }

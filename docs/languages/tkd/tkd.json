@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tkd",
-    "hc": "TL",
-    "ld": "ltr",
     "pk": 6155,
-    "lr": "Asia",
     "lc": "tkd",
+    "gw": false,
+    "ln": "Tukudede",
+    "ld": "ltr",
+    "ang": "Tukudede",
+    "hc": "TL",
+    "lr": "Asia",
     "cc": [
         "TL"
     ],
@@ -16,7 +18,5 @@
         "Tukude",
         "Keha (Keia)"
     ],
-    "ang": "Tukudede",
-    "gwcode": "pt",
-    "ln": "Tukudede"
+    "gwcode": "pt"
 }

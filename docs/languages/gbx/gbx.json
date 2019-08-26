@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gbx",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 1949,
-    "lr": "Africa",
     "lc": "gbx",
+    "gw": false,
+    "ln": "Eastern Xwla Gbe",
+    "ld": "ltr",
+    "ang": "Gbe, Eastern Xwla",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ"
     ],
@@ -19,7 +21,5 @@
         "Popo",
         "Xwla"
     ],
-    "ang": "Gbe, Eastern Xwla",
-    "gwcode": "fr",
-    "ln": "Eastern Xwla Gbe"
+    "gwcode": "fr"
 }

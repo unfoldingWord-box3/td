@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "soa",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 5750,
-    "lr": "Asia",
     "lc": "soa",
+    "gw": false,
+    "ln": "Thai Song",
+    "ld": "ltr",
+    "ang": "Thai Song",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "TH"
     ],
@@ -13,7 +15,5 @@
         "Lao Song",
         "Song"
     ],
-    "ang": "Thai Song",
-    "gwcode": "th",
-    "ln": "Thai Song"
+    "gwcode": "th"
 }

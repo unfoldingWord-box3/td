@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sts",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 5869,
-    "lr": "Asia",
     "lc": "sts",
+    "gw": false,
+    "ln": "Shumashti",
+    "ld": "ltr",
+    "ang": "Shumashti",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "AF",
         "PK"
@@ -13,7 +15,5 @@
     "alt": [
         "Shumasht"
     ],
-    "ang": "Shumashti",
-    "gwcode": "ps",
-    "ln": "Shumashti"
+    "gwcode": "ps"
 }

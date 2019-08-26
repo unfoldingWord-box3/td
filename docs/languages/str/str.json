@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "str",
-    "hc": "CA",
-    "ld": "ltr",
     "pk": 5868,
-    "lr": "Americas",
     "lc": "str",
+    "gw": false,
+    "ln": "Straits Salish",
+    "ld": "ltr",
+    "ang": "Salish, Straits",
+    "hc": "CA",
+    "lr": "Americas",
     "cc": [
         "CA"
     ],
@@ -15,7 +17,5 @@
         "Semiahmoo",
         "Ts'ooke"
     ],
-    "ang": "Salish, Straits",
-    "gwcode": "en",
-    "ln": "Straits Salish"
+    "gwcode": "en"
 }

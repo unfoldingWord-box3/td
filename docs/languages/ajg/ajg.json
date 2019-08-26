@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ajg",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 183,
-    "lr": "Africa",
     "lc": "ajg",
+    "gw": false,
+    "ln": "Aja (Benin)",
+    "ld": "ltr",
+    "ang": "Aja",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "TG"
@@ -18,7 +20,5 @@
         "Ajagbe",
         "Hw\u00e8"
     ],
-    "ang": "Aja",
-    "gwcode": "fr",
-    "ln": "Aja (Benin)"
+    "gwcode": "fr"
 }

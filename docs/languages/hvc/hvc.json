@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hvc",
-    "hc": "HT",
-    "ld": "ltr",
     "pk": 2388,
-    "lr": "Americas",
     "lc": "hvc",
+    "gw": false,
+    "ln": "Haitian Vodoun Culture Language",
+    "ld": "ltr",
+    "ang": "Haitian Vodoun Culture Language",
+    "hc": "HT",
+    "lr": "Americas",
     "cc": [
         "HT"
     ],
@@ -13,7 +15,5 @@
         "Langaj",
         "Langay"
     ],
-    "ang": "Haitian Vodoun Culture Language",
-    "gwcode": "fr",
-    "ln": "Haitian Vodoun Culture Language"
+    "gwcode": "fr"
 }

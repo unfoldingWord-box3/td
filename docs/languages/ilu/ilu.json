@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ilu",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2477,
-    "lr": "Asia",
     "lc": "ilu",
+    "gw": false,
+    "ln": "Ili'uun",
+    "ld": "ltr",
+    "ang": "Ili\u2019uun",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -23,7 +25,5 @@
         "Eray",
         "Nabar"
     ],
-    "ang": "Ili\u2019uun",
-    "gwcode": "id",
-    "ln": "Ili'uun"
+    "gwcode": "id"
 }

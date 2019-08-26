@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "psd",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 5180,
-    "lr": "Americas",
     "lc": "psd",
+    "gw": false,
+    "ln": "Plains Indian Sign Language",
+    "ld": "ltr",
+    "ang": "Plains Indian Sign Language",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -14,7 +16,5 @@
         "Far Northern Plains Indian Sign Language",
         "North Central Plains Indian Sign Language"
     ],
-    "ang": "Plains Indian Sign Language",
-    "gwcode": "en",
-    "ln": "Plains Indian Sign Language"
+    "gwcode": "en"
 }

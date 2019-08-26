@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zim",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 7384,
-    "lr": "Africa",
     "lc": "zim",
+    "gw": false,
+    "ln": "Mesme",
+    "ld": "ltr",
+    "ang": "Mesme",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -14,7 +16,5 @@
         "Djiwe",
         "Zime of K\u00e9lo"
     ],
-    "ang": "Mesme",
-    "gwcode": "ar",
-    "ln": "Mesme"
+    "gwcode": "ar"
 }

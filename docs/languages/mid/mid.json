@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mid",
-    "hc": "IQ",
-    "ld": "ltr",
     "pk": 3857,
-    "lr": "Asia",
     "lc": "mid",
+    "gw": false,
+    "ln": "\u0631\u0637\u0646\u0629",
+    "ld": "ltr",
+    "ang": "Mandaic",
+    "hc": "IQ",
+    "lr": "Asia",
     "cc": [
         "IQ"
     ],
@@ -21,7 +23,5 @@
         "Shushtar (Shustar)",
         "Ahwaz (Ahvaz)"
     ],
-    "ang": "Mandaic",
-    "gwcode": "ar",
-    "ln": "\u0631\u0637\u0646\u0629"
+    "gwcode": "ar"
 }

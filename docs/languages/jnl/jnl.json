@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jnl",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2654,
-    "lr": "Asia",
     "lc": "jnl",
+    "gw": false,
+    "ln": "Rawat",
+    "ld": "ltr",
+    "ang": "Rawat",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "NP",
         "IN"
@@ -21,7 +23,5 @@
         "Raji",
         "Raut"
     ],
-    "ang": "Rawat",
-    "gwcode": "hi",
-    "ln": "Rawat"
+    "gwcode": "hi"
 }

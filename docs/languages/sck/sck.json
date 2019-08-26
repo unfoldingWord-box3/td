@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sck",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5512,
-    "lr": "Asia",
     "lc": "sck",
+    "gw": false,
+    "ln": "Sadri",
+    "ld": "ltr",
+    "ang": "Sadri",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "NP",
@@ -33,7 +35,5 @@
         "Siddri",
         "Sradri"
     ],
-    "ang": "Sadri",
-    "gwcode": "hi",
-    "ln": "Sadri"
+    "gwcode": "hi"
 }

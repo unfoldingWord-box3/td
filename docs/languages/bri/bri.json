@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bri",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 906,
-    "lr": "Africa",
     "lc": "bri",
+    "gw": false,
+    "ln": "Mokpwe",
+    "ld": "ltr",
+    "ang": "Mokpwe",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -24,7 +26,5 @@
         "Vakweli",
         "Vambeng"
     ],
-    "ang": "Mokpwe",
-    "gwcode": "fr",
-    "ln": "Mokpwe"
+    "gwcode": "fr"
 }

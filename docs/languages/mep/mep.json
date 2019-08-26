@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mep",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 3767,
-    "lr": "Pacific",
     "lc": "mep",
+    "gw": false,
+    "ln": "Miriwung",
+    "ld": "ltr",
+    "ang": "Miriwung",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Miriwun",
         "Mirung"
     ],
-    "ang": "Miriwung",
-    "gwcode": "en",
-    "ln": "Miriwung"
+    "gwcode": "en"
 }

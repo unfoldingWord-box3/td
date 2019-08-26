@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wam",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 6675,
-    "lr": "Americas",
     "lc": "wam",
+    "gw": false,
+    "ln": "Wampanoag",
+    "ld": "ltr",
+    "ang": "Wampanoag",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -14,7 +16,5 @@
         "Massachusetts",
         "Natick"
     ],
-    "ang": "Wampanoag",
-    "gwcode": "en",
-    "ln": "Wampanoag"
+    "gwcode": "en"
 }

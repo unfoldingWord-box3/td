@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "oki",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 4803,
-    "lr": "Africa",
     "lc": "oki",
+    "gw": false,
+    "ln": "Okiek",
+    "ld": "ltr",
+    "ang": "Okiek",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -17,7 +19,5 @@
         "Ndorobo",
         "Sogoo (Sokoo)"
     ],
-    "ang": "Okiek",
-    "gwcode": "sw",
-    "ln": "Okiek"
+    "gwcode": "sw"
 }

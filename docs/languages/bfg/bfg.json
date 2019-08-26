@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bfg",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 615,
-    "lr": "Asia",
     "lc": "bfg",
+    "gw": false,
+    "ln": "Busang Kayan",
+    "ld": "ltr",
+    "ang": "Kayan, Busang",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Kajang",
         "Belayan"
     ],
-    "ang": "Kayan, Busang",
-    "gwcode": "id",
-    "ln": "Busang Kayan"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "faa",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1812,
-    "lr": "Pacific",
     "lc": "faa",
+    "gw": false,
+    "ln": "Fasu",
+    "ld": "ltr",
+    "ang": "Fasu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Namome (Namumi)",
         "Namuni"
     ],
-    "ang": "Fasu",
-    "gwcode": "tpi",
-    "ln": "Fasu"
+    "gwcode": "tpi"
 }

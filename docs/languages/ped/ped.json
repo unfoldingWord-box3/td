@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ped",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4981,
-    "lr": "Pacific",
     "lc": "ped",
+    "gw": false,
+    "ln": "Mala (Papua New Guinea)",
+    "ld": "ltr",
+    "ang": "Mala",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -19,7 +21,5 @@
         "Pai",
         "Pay"
     ],
-    "ang": "Mala",
-    "gwcode": "tpi",
-    "ln": "Mala (Papua New Guinea)"
+    "gwcode": "tpi"
 }

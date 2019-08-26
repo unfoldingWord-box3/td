@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "teh",
-    "hc": "AR",
-    "ld": "ltr",
     "pk": 6059,
-    "lr": "Americas",
     "lc": "teh",
+    "gw": false,
+    "ln": "Tehuelche",
+    "ld": "ltr",
+    "ang": "Tehuelche",
+    "hc": "AR",
+    "lr": "Americas",
     "cc": [
         "AR"
     ],
@@ -17,7 +19,5 @@
         "Gununa-Kena",
         "Inaquen"
     ],
-    "ang": "Tehuelche",
-    "gwcode": "es-419",
-    "ln": "Tehuelche"
+    "gwcode": "es-419"
 }

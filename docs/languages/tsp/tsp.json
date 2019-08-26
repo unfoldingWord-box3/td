@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tsp",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 6336,
-    "lr": "Africa",
     "lc": "tsp",
+    "gw": false,
+    "ln": "Northern Toussian",
+    "ld": "ltr",
+    "ang": "Toussian, Northern",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -15,7 +17,5 @@
         "Tru",
         "Ter"
     ],
-    "ang": "Toussian, Northern",
-    "gwcode": "fr",
-    "ln": "Northern Toussian"
+    "gwcode": "fr"
 }

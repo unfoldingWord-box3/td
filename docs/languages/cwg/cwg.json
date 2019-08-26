@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cwg",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 1409,
-    "lr": "Asia",
     "lc": "cwg",
+    "gw": false,
+    "ln": "Chewong",
+    "ld": "ltr",
+    "ang": "Cheq Wong",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -17,7 +19,5 @@
         "Chuba",
         "Siwang"
     ],
-    "ang": "Cheq Wong",
-    "gwcode": "ms",
-    "ln": "Chewong"
+    "gwcode": "ms"
 }

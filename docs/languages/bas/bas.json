@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bas",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 502,
-    "lr": "Africa",
     "lc": "bas",
+    "gw": false,
+    "ln": "Basa (Cameroon)",
+    "ld": "ltr",
+    "ang": "Basaa",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -21,7 +23,5 @@
         "Northern Mbene",
         "Tupen"
     ],
-    "ang": "Basaa",
-    "gwcode": "fr",
-    "ln": "Basa (Cameroon)"
+    "gwcode": "fr"
 }

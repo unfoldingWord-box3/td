@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tuo",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6386,
-    "lr": "Americas",
     "lc": "tuo",
+    "gw": false,
+    "ln": "Tucano",
+    "ld": "ltr",
+    "ang": "Tucano",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "CO"
@@ -28,7 +30,5 @@
         "Papihua",
         "Wasona (Uasona)"
     ],
-    "ang": "Tucano",
-    "gwcode": "pt",
-    "ln": "Tucano"
+    "gwcode": "pt"
 }

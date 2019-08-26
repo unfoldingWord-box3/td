@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tfn",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 6074,
-    "lr": "Americas",
     "lc": "tfn",
+    "gw": false,
+    "ln": "Tanaina",
+    "ld": "ltr",
+    "ang": "Tanaina",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -13,7 +15,5 @@
         "Dena'ina",
         "Kinayskiy"
     ],
-    "ang": "Tanaina",
-    "gwcode": "en",
-    "ln": "Tanaina"
+    "gwcode": "en"
 }

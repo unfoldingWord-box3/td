@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pah",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4922,
-    "lr": "Americas",
     "lc": "pah",
+    "gw": false,
+    "ln": "Tenharim",
+    "ld": "ltr",
+    "ang": "Tenharim",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -19,7 +21,5 @@
         "Kagwahiv (Kawaib)",
         "Tenharim (Tenharem)"
     ],
-    "ang": "Tenharim",
-    "gwcode": "pt",
-    "ln": "Tenharim"
+    "gwcode": "pt"
 }

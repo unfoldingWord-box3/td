@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mgg",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3809,
-    "lr": "Africa",
     "lc": "mgg",
+    "gw": false,
+    "ln": "Mpumpong",
+    "ld": "ltr",
+    "ang": "Mpumpong",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -31,7 +33,5 @@
         "Bageto (Baagato)",
         "Mendzime"
     ],
-    "ang": "Mpumpong",
-    "gwcode": "fr",
-    "ln": "Mpumpong"
+    "gwcode": "fr"
 }

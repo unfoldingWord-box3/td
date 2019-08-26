@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ntu",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 4670,
-    "lr": "Pacific",
     "lc": "ntu",
+    "gw": false,
+    "ln": "Nat\u00fcgu",
+    "ld": "ltr",
+    "ang": "Nat\u00fcgu",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -15,7 +17,5 @@
         "Northern Santa Cruz",
         "Ndeni (Deni)"
     ],
-    "ang": "Nat\u00fcgu",
-    "gwcode": "UNKNOWN",
-    "ln": "Nat\u00fcgu"
+    "gwcode": "pis"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tnb",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 6220,
-    "lr": "Americas",
     "lc": "tnb",
+    "gw": false,
+    "ln": "Western Tunebo",
+    "ld": "ltr",
+    "ang": "Tunebo, Western",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -13,7 +15,5 @@
         "Aguas Blancas",
         "U'wa"
     ],
-    "ang": "Tunebo, Western",
-    "gwcode": "es-419",
-    "ln": "Western Tunebo"
+    "gwcode": "es-419"
 }

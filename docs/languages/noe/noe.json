@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "noe",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4585,
-    "lr": "Asia",
     "lc": "noe",
+    "gw": false,
+    "ln": "Nimadi",
+    "ld": "ltr",
+    "ang": "Nimadi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Nimari",
         "Nimiadi"
     ],
-    "ang": "Nimadi",
-    "gwcode": "hi",
-    "ln": "Nimadi"
+    "gwcode": "hi"
 }

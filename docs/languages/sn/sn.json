@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sna",
-    "hc": "ZW",
-    "ld": "ltr",
     "pk": 5726,
-    "lr": "Africa",
     "lc": "sn",
+    "gw": false,
+    "ln": "chiShona",
+    "ld": "ltr",
+    "ang": "Shona",
+    "hc": "ZW",
+    "lr": "Africa",
     "cc": [
         "MZ",
         "ZA",
@@ -33,7 +35,5 @@
         "Wazezuru",
         "Makorekore"
     ],
-    "ang": "Shona",
-    "gwcode": "en",
-    "ln": "chiShona"
+    "gwcode": "en"
 }

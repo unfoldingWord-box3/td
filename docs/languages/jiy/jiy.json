@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jiy",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2628,
-    "lr": "Asia",
     "lc": "jiy",
+    "gw": false,
+    "ln": "\u8865\u8fdc\u57fa\u8bfa\u8bed",
+    "ld": "ltr",
+    "ang": "Jinuo, Buyuan",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -13,7 +15,5 @@
         "Buyuan",
         "Jino"
     ],
-    "ang": "Jinuo, Buyuan",
-    "gwcode": "zh",
-    "ln": "\u8865\u8fdc\u57fa\u8bfa\u8bed"
+    "gwcode": "zh"
 }

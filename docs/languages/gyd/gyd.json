@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gyd",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2206,
-    "lr": "Pacific",
     "lc": "gyd",
+    "gw": false,
+    "ln": "Kayardild",
+    "ld": "ltr",
+    "ang": "Kayardild",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -17,7 +19,5 @@
         "Kaiadilt",
         "Malununda"
     ],
-    "ang": "Kayardild",
-    "gwcode": "en",
-    "ln": "Kayardild"
+    "gwcode": "en"
 }

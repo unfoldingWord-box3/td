@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rjs",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5367,
-    "lr": "Asia",
     "lc": "rjs",
+    "gw": false,
+    "ln": "Rajbanshi",
+    "ld": "ltr",
+    "ang": "Rajbanshi",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -15,7 +17,5 @@
         "Koche",
         "Rajbansi"
     ],
-    "ang": "Rajbanshi",
-    "gwcode": "ne",
-    "ln": "Rajbanshi"
+    "gwcode": "ne"
 }

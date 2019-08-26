@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kod",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3041,
-    "lr": "Asia",
     "lc": "kod",
+    "gw": false,
+    "ln": "Kodi",
+    "ld": "ltr",
+    "ang": "Kodi",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Kudi",
         "Nggaro (Nggaura)"
     ],
-    "ang": "Kodi",
-    "gwcode": "id",
-    "ln": "Kodi"
+    "gwcode": "id"
 }

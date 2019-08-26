@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bpx",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 872,
-    "lr": "Asia",
     "lc": "bpx",
+    "gw": false,
+    "ln": "Palya Bareli",
+    "ld": "ltr",
+    "ang": "Bareli, Palya",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Palodi",
         "Palya Bareli"
     ],
-    "ang": "Bareli, Palya",
-    "gwcode": "hi",
-    "ln": "Palya Bareli"
+    "gwcode": "hi"
 }

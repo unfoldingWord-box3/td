@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nzk",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 4750,
-    "lr": "Africa",
     "lc": "nzk",
+    "gw": false,
+    "ln": "Nzakara",
+    "ld": "ltr",
+    "ang": "Nzakara",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF"
     ],
@@ -15,7 +17,5 @@
         "Sakara",
         "Zakara"
     ],
-    "ang": "Nzakara",
-    "gwcode": "fr",
-    "ln": "Nzakara"
+    "gwcode": "fr"
 }

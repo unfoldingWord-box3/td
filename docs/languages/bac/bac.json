@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bac",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 491,
-    "lr": "Asia",
     "lc": "bac",
+    "gw": false,
+    "ln": "Badui",
+    "ld": "ltr",
+    "ang": "Badui",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Bahasa Sunda",
         "Gajebo"
     ],
-    "ang": "Badui",
-    "gwcode": "id",
-    "ln": "Badui"
+    "gwcode": "id"
 }

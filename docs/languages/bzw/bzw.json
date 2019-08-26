@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bzw",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1105,
-    "lr": "Africa",
     "lc": "bzw",
+    "gw": false,
+    "ln": "Basa (Nigeria)",
+    "ld": "ltr",
+    "ang": "Basa",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "NG"
@@ -19,7 +21,5 @@
         "Bassa-Komo",
         "Bassa-Kwomu"
     ],
-    "ang": "Basa",
-    "gwcode": "en",
-    "ln": "Basa (Nigeria)"
+    "gwcode": "en"
 }

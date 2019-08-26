@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dnn",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 1586,
-    "lr": "Africa",
     "lc": "dnn",
+    "gw": false,
+    "ln": "Dz\u00f9\u00f9ngoo",
+    "ld": "ltr",
+    "ang": "Dz\u00f9\u00f9ngoo",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -19,7 +21,5 @@
         "Kpangoo (Samorogouan)",
         "Kpeengo"
     ],
-    "ang": "Dz\u00f9\u00f9ngoo",
-    "gwcode": "fr",
-    "ln": "Dz\u00f9\u00f9ngoo"
+    "gwcode": "fr"
 }

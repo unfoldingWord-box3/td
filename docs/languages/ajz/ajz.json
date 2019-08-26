@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ajz",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 189,
-    "lr": "Asia",
     "lc": "ajz",
+    "gw": false,
+    "ln": "Amri Karbi",
+    "ld": "ltr",
+    "ang": "Amri Karbi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Upper Amri",
         "Lower Amri"
     ],
-    "ang": "Amri Karbi",
-    "gwcode": "as",
-    "ln": "Amri Karbi"
+    "gwcode": "as"
 }

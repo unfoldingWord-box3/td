@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ynu",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 7247,
-    "lr": "Americas",
     "lc": "ynu",
+    "gw": false,
+    "ln": "Yahuna",
+    "ld": "ltr",
+    "ang": "Yahuna",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -15,7 +17,5 @@
         "Ya\u00fana",
         "Yayuna"
     ],
-    "ang": "Yahuna",
-    "gwcode": "es-419",
-    "ln": "Yahuna"
+    "gwcode": "es-419"
 }

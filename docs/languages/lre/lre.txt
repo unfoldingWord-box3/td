@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * CA: Canada
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: lre
@@ -14,7 +16,7 @@ This language is spoken in the following countries:
     anglicanized_name: Laurentian
     country_codes:
     - CA
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: lre
     lang_direction: ltr
     lang_name: Laurentian

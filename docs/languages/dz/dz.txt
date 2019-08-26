@@ -3,13 +3,15 @@
 རྫོང་ཁ
 ==================
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/dzo>`_ identifies this language as ``dzo``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/dzo>`__ identifies this language as ``dzo``.
 
 This language is spoken in the following countries:
 
 * BT: Bhutan
 * NP: Nepal
 * IN: India
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -33,7 +35,7 @@ This language is spoken in the following countries:
     - BT
     - NP
     - IN
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: dz
     lang_direction: ltr
     lang_name: རྫོང་ཁ

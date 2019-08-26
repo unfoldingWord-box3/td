@@ -3,7 +3,7 @@
 Bahasa Indonesia
 ================
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/ind>`_ identifies this language as ``ind``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ind>`__ identifies this language as ``ind``.
 
 This language is spoken in the following countries:
 
@@ -15,6 +15,8 @@ This language is spoken in the following countries:
 * AU: Australia
 * CA: Canada
 * SG: Singapore
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -30,7 +32,7 @@ This language is spoken in the following countries:
     - AU
     - CA
     - SG
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: id
     lang_direction: ltr
     lang_name: Bahasa Indonesia

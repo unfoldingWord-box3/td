@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nja",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4478,
-    "lr": "Africa",
     "lc": "nja",
+    "gw": false,
+    "ln": "Nzanyi",
+    "ld": "ltr",
+    "ang": "Nzanyi",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -26,7 +28,5 @@
         "Jenge",
         "Njeing"
     ],
-    "ang": "Nzanyi",
-    "gwcode": "en",
-    "ln": "Nzanyi"
+    "gwcode": "en"
 }

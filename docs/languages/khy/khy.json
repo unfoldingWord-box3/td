@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "khy",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 2880,
-    "lr": "Africa",
     "lc": "khy",
+    "gw": false,
+    "ln": "Kele (Democratic Republic of Congo)",
+    "ld": "ltr",
+    "ang": "Kele",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Likelo",
         "Lokele"
     ],
-    "ang": "Kele",
-    "gwcode": "fr",
-    "ln": "Kele (Democratic Republic of Congo)"
+    "gwcode": "fr"
 }

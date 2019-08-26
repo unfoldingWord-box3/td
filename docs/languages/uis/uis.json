@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "uis",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6491,
-    "lr": "Pacific",
     "lc": "uis",
+    "gw": false,
+    "ln": "Uisai",
+    "ld": "ltr",
+    "ang": "Uisai",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Kugala",
         "Kukuinu"
     ],
-    "ang": "Uisai",
-    "gwcode": "tpi",
-    "ln": "Uisai"
+    "gwcode": "tpi"
 }

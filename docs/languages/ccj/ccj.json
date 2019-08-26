@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ccj",
-    "hc": "GW",
-    "ld": "ltr",
     "pk": 1155,
-    "lr": "Africa",
     "lc": "ccj",
+    "gw": false,
+    "ln": "Kasanga",
+    "ld": "ltr",
+    "ang": "Kasanga",
+    "hc": "GW",
+    "lr": "Africa",
     "cc": [
         "GW"
     ],
@@ -14,7 +16,5 @@
         "I-Hadja",
         "Kassanga"
     ],
-    "ang": "Kasanga",
-    "gwcode": "pt",
-    "ln": "Kasanga"
+    "gwcode": "pt"
 }

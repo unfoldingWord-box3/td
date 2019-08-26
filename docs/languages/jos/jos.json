@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jos",
-    "hc": "JO",
-    "ld": "ltr",
     "pk": 2658,
-    "lr": "Asia",
     "lc": "jos",
+    "gw": false,
+    "ln": "Jordanian Sign Language",
+    "ld": "ltr",
+    "ang": "Jordanian Sign Language",
+    "hc": "JO",
+    "lr": "Asia",
     "cc": [
         "JO"
     ],
@@ -13,7 +15,5 @@
         "LIU",
         "Lughat il-Ishaarah il-Urduniyyah"
     ],
-    "ang": "Jordanian Sign Language",
-    "gwcode": "ar",
-    "ln": "Jordanian Sign Language"
+    "gwcode": "ar"
 }

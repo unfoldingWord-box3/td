@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "srx",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5823,
-    "lr": "Asia",
     "lc": "srx",
+    "gw": false,
+    "ln": "Sirmauri",
+    "ld": "ltr",
+    "ang": "Sirmauri",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -16,7 +18,5 @@
         "Sirmuri",
         "Dharthi (Giriwari)"
     ],
-    "ang": "Sirmauri",
-    "gwcode": "hi",
-    "ln": "Sirmauri"
+    "gwcode": "hi"
 }

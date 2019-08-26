@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "csi",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 1353,
-    "lr": "Americas",
     "lc": "csi",
+    "gw": false,
+    "ln": "Coast Miwok",
+    "ld": "ltr",
+    "ang": "Miwok, Coast",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -14,7 +16,5 @@
         "Marin Miwok",
         "Bodega"
     ],
-    "ang": "Miwok, Coast",
-    "gwcode": "en",
-    "ln": "Coast Miwok"
+    "gwcode": "en"
 }

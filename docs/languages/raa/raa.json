@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "raa",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5305,
-    "lr": "Asia",
     "lc": "raa",
+    "gw": false,
+    "ln": "Dungmali",
+    "ld": "ltr",
+    "ang": "Dungmali",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -17,7 +19,5 @@
         "Khesange",
         "Khesang (Khesange)"
     ],
-    "ang": "Dungmali",
-    "gwcode": "ne",
-    "ln": "Dungmali"
+    "gwcode": "ne"
 }

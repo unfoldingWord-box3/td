@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wow",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6802,
-    "lr": "Asia",
     "lc": "wow",
+    "gw": false,
+    "ln": "Wawonii",
+    "ld": "ltr",
+    "ang": "Wawonii",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Wowonii",
         "Menui (Manoei)"
     ],
-    "ang": "Wawonii",
-    "gwcode": "id",
-    "ln": "Wawonii"
+    "gwcode": "id"
 }

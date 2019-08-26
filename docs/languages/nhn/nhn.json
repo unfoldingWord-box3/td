@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nhn",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4444,
-    "lr": "Americas",
     "lc": "nhn",
+    "gw": false,
+    "ln": "Central Nahuatl",
+    "ld": "ltr",
+    "ang": "Nahuatl, Central",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "N\u00e1huatl del Centro",
         "Tlaxcala-Puebla Nahuatl"
     ],
-    "ang": "Nahuatl, Central",
-    "gwcode": "es-419",
-    "ln": "Central Nahuatl"
+    "gwcode": "es-419"
 }

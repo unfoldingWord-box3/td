@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wmd",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6767,
-    "lr": "Americas",
     "lc": "wmd",
+    "gw": false,
+    "ln": "Mamaind\u00e9",
+    "ld": "ltr",
+    "ang": "Mamaind\u00e9",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -13,7 +15,5 @@
         "Negarot\u00e9",
         "Tawende"
     ],
-    "ang": "Mamaind\u00e9",
-    "gwcode": "pt",
-    "ln": "Mamaind\u00e9"
+    "gwcode": "pt"
 }

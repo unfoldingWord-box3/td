@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hal",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 2229,
-    "lr": "Asia",
     "lc": "hal",
+    "gw": false,
+    "ln": "Halang",
+    "ld": "ltr",
+    "ang": "Halang",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "LA",
         "VN"
@@ -14,7 +16,5 @@
         "Koyong",
         "Salang"
     ],
-    "ang": "Halang",
-    "gwcode": "vi",
-    "ln": "Halang"
+    "gwcode": "vi"
 }

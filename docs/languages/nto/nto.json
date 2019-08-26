@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nto",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4667,
-    "lr": "Africa",
     "lc": "nto",
+    "gw": false,
+    "ln": "Ntomba",
+    "ld": "ltr",
+    "ang": "Ntomba",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Ntumba",
         "Nkole"
     ],
-    "ang": "Ntomba",
-    "gwcode": "fr",
-    "ln": "Ntomba"
+    "gwcode": "fr"
 }

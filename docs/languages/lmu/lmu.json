@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lmu",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 3529,
-    "lr": "Pacific",
     "lc": "lmu",
+    "gw": false,
+    "ln": "Lamenu",
+    "ld": "ltr",
+    "ang": "Lamenu",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -16,7 +18,5 @@
         "Galokumali",
         "Galoparua"
     ],
-    "ang": "Lamenu",
-    "gwcode": "fr",
-    "ln": "Lamenu"
+    "gwcode": "fr"
 }

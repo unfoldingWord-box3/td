@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "djd",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1544,
-    "lr": "Pacific",
     "lc": "djd",
+    "gw": false,
+    "ln": "Djamindjung",
+    "ld": "ltr",
+    "ang": "Djamindjung",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Jaminjung",
         "Ngaliwuru (Ngaliwerra)"
     ],
-    "ang": "Djamindjung",
-    "gwcode": "en",
-    "ln": "Djamindjung"
+    "gwcode": "en"
 }

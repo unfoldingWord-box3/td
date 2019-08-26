@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kdr",
-    "hc": "LT",
-    "ld": "ltr",
     "pk": 2776,
-    "lr": "Europe",
     "lc": "kdr",
+    "gw": false,
+    "ln": "Karaim",
+    "ld": "ltr",
+    "ang": "Karaim",
+    "hc": "LT",
+    "lr": "Europe",
     "cc": [
         "LT"
     ],
@@ -16,7 +18,5 @@
         "Halych (Galits)",
         "Trakai (Trakay)"
     ],
-    "ang": "Karaim",
-    "gwcode": "en",
-    "ln": "Karaim"
+    "gwcode": "en"
 }

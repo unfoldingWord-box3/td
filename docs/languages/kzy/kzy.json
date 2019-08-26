@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kzy",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3331,
-    "lr": "Africa",
     "lc": "kzy",
+    "gw": false,
+    "ln": "Kango (Tshopo District)",
+    "ld": "ltr",
+    "ang": "Kango",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -17,7 +19,5 @@
         "Dibatchua",
         "Kibatchua"
     ],
-    "ang": "Kango",
-    "gwcode": "fr",
-    "ln": "Kango (Tshopo District)"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "swu",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5920,
-    "lr": "Asia",
     "lc": "swu",
+    "gw": false,
+    "ln": "Suwawa",
+    "ld": "ltr",
+    "ang": "Suwawa",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Suvava",
         "Toewawa"
     ],
-    "ang": "Suwawa",
-    "gwcode": "id",
-    "ln": "Suwawa"
+    "gwcode": "id"
 }

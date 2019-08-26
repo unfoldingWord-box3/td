@@ -4,6 +4,7 @@
 html:
 	#time python3 bin/dataprep.py
 	echo `date`
+	rm -rf docs/_build
 	time make -C docs html
 	echo `date`
 	

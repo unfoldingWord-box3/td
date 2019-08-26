@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 3226,
-    "lr": "Pacific",
     "lc": "kvs",
+    "gw": false,
+    "ln": "Kunggara",
+    "ld": "ltr",
+    "ang": "Kunggara",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Gunggara",
         "Kunggera"
     ],
-    "ang": "Kunggara",
-    "gwcode": "en",
-    "ln": "Kunggara"
+    "gwcode": "en"
 }

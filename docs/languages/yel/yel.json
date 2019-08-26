@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yel",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 7162,
-    "lr": "Africa",
     "lc": "yel",
+    "gw": false,
+    "ln": "Yela",
+    "ld": "ltr",
+    "ang": "Yela",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -13,7 +15,5 @@
         "Boyela",
         "Kutu"
     ],
-    "ang": "Yela",
-    "gwcode": "fr",
-    "ln": "Yela"
+    "gwcode": "fr"
 }

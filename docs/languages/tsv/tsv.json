@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tsv",
-    "hc": "GA",
-    "ld": "ltr",
     "pk": 6342,
-    "lr": "Africa",
     "lc": "tsv",
+    "gw": false,
+    "ln": "Tsogo",
+    "ld": "ltr",
+    "ang": "Tsogo",
+    "hc": "GA",
+    "lr": "Africa",
     "cc": [
         "GA"
     ],
@@ -13,7 +15,5 @@
         "Getsogo",
         "Ghetsogo"
     ],
-    "ang": "Tsogo",
-    "gwcode": "fr",
-    "ln": "Tsogo"
+    "gwcode": "fr"
 }

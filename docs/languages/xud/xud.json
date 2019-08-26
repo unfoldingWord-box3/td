@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xud",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7079,
-    "lr": "Pacific",
     "lc": "xud",
+    "gw": false,
+    "ln": "Umiida",
+    "ld": "ltr",
+    "ang": "Umiida",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -23,7 +25,5 @@
         "Umidi",
         "Wumide"
     ],
-    "ang": "Umiida",
-    "gwcode": "en",
-    "ln": "Umiida"
+    "gwcode": "en"
 }

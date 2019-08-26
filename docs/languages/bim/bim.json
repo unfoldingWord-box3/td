@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bim",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 696,
-    "lr": "Africa",
     "lc": "bim",
+    "gw": false,
+    "ln": "Bimoba",
+    "ld": "ltr",
+    "ang": "Bimoba",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -13,7 +15,5 @@
         "Moar",
         "Moor"
     ],
-    "ang": "Bimoba",
-    "gwcode": "en",
-    "ln": "Bimoba"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tbr",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 5999,
-    "lr": "Africa",
     "lc": "tbr",
+    "gw": false,
+    "ln": "Tumtum",
+    "ld": "ltr",
+    "ang": "Tumtum",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -14,7 +16,5 @@
         "Kurondi",
         "Talassa (Talasa)"
     ],
-    "ang": "Tumtum",
-    "gwcode": "ar",
-    "ln": "Tumtum"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sje",
-    "hc": "SE",
-    "ld": "ltr",
     "pk": 5643,
-    "lr": "Europe",
     "lc": "sje",
+    "gw": false,
+    "ln": "Pite Sami",
+    "ld": "ltr",
+    "ang": "Saami, Pite",
+    "hc": "SE",
+    "lr": "Europe",
     "cc": [
         "SE"
     ],
@@ -15,7 +17,5 @@
         "Arjeplog Saami",
         "Saami"
     ],
-    "ang": "Saami, Pite",
-    "gwcode": "en",
-    "ln": "Pite Sami"
+    "gwcode": "en"
 }

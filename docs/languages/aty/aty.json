@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aty",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 403,
-    "lr": "Pacific",
     "lc": "aty",
+    "gw": false,
+    "ln": "Aneityum",
+    "ld": "ltr",
+    "ang": "Aneityum",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -14,7 +16,5 @@
         "Aneiteumese",
         "Anejom"
     ],
-    "ang": "Aneityum",
-    "gwcode": "fr",
-    "ln": "Aneityum"
+    "gwcode": "fr"
 }

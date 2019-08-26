@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ddi",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1466,
-    "lr": "Pacific",
     "lc": "ddi",
+    "gw": false,
+    "ln": "West Goodenough",
+    "ld": "ltr",
+    "ang": "Goodenough, West",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Miyalabi",
         "Molata"
     ],
-    "ang": "Goodenough, West",
-    "gwcode": "tpi",
-    "ln": "West Goodenough"
+    "gwcode": "tpi"
 }

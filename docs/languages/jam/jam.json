@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jam",
-    "hc": "JM",
-    "ld": "ltr",
     "pk": 2574,
-    "lr": "Americas",
     "lc": "jam",
+    "gw": false,
+    "ln": "Jamaican Creole English",
+    "ld": "ltr",
+    "ang": "Jamaican Creole English",
+    "hc": "JM",
+    "lr": "Americas",
     "cc": [
         "BS",
         "CU",
@@ -24,7 +26,5 @@
         "Patwa",
         "Quashie Talk"
     ],
-    "ang": "Jamaican Creole English",
-    "gwcode": "en",
-    "ln": "Jamaican Creole English"
+    "gwcode": "en"
 }

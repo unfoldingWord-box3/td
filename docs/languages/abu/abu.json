@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "abu",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 47,
-    "lr": "Africa",
     "lc": "abu",
+    "gw": false,
+    "ln": "Abure",
+    "ld": "ltr",
+    "ang": "Abure",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -15,7 +17,5 @@
         "Abule",
         "Akaplass"
     ],
-    "ang": "Abure",
-    "gwcode": "fr",
-    "ln": "Abure"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xtc",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 7057,
-    "lr": "Africa",
     "lc": "xtc",
+    "gw": false,
+    "ln": "Katcha-Kadugli-Miri",
+    "ld": "ltr",
+    "ang": "Katcha-Kadugli-Miri",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -18,7 +20,5 @@
         "Tolubi",
         "Katcha (Dholubi)"
     ],
-    "ang": "Katcha-Kadugli-Miri",
-    "gwcode": "ar",
-    "ln": "Katcha-Kadugli-Miri"
+    "gwcode": "ar"
 }

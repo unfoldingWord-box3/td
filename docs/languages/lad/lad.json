@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lad",
-    "hc": "IL",
-    "ld": "ltr",
     "pk": 3337,
-    "lr": "Asia",
     "lc": "lad",
+    "gw": false,
+    "ln": "Ladino",
+    "ld": "ltr",
+    "ang": "Ladino",
+    "hc": "IL",
+    "lr": "Asia",
     "cc": [
         "IL",
         "ES",
@@ -24,7 +26,5 @@
         "Haketiya",
         "Haquetiya (Haketia)"
     ],
-    "ang": "Ladino",
-    "gwcode": "en",
-    "ln": "Ladino"
+    "gwcode": "en"
 }

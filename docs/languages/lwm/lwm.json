@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lwm",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 3647,
-    "lr": "Asia",
     "lc": "lwm",
+    "gw": false,
+    "ln": "Laomian",
+    "ld": "ltr",
+    "ang": "Laomian",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Guba",
         "Lawmeh"
     ],
-    "ang": "Laomian",
-    "gwcode": "zh",
-    "ln": "Laomian"
+    "gwcode": "zh"
 }

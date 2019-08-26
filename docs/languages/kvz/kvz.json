@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kvz",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3233,
-    "lr": "Asia",
     "lc": "kvz",
+    "gw": false,
+    "ln": "Tsakwambo",
+    "ld": "ltr",
+    "ang": "Tsaukambo",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Kotog\u00fct",
         "Tsokwambo"
     ],
-    "ang": "Tsaukambo",
-    "gwcode": "id",
-    "ln": "Tsakwambo"
+    "gwcode": "id"
 }

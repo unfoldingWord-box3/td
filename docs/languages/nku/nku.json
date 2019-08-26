@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nku",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 4513,
-    "lr": "Africa",
     "lc": "nku",
+    "gw": false,
+    "ln": "Bouna Kulango",
+    "ld": "ltr",
+    "ang": "Kulango, Bouna",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -17,7 +19,5 @@
         "Bouna Koulango",
         "Buna Kulango"
     ],
-    "ang": "Kulango, Bouna",
-    "gwcode": "fr",
-    "ln": "Bouna Kulango"
+    "gwcode": "fr"
 }

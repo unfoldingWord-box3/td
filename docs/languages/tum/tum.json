@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tum",
-    "hc": "MW",
-    "ld": "ltr",
     "pk": 6384,
-    "lr": "Africa",
     "lc": "tum",
+    "gw": false,
+    "ln": "Tumbuka",
+    "ld": "ltr",
+    "ang": "Tumbuka",
+    "hc": "MW",
+    "lr": "Africa",
     "cc": [
         "TZ",
         "ZM",
@@ -27,7 +29,5 @@
         "Ngoni (Magodi)",
         "Fililwa (Filirwa)"
     ],
-    "ang": "Tumbuka",
-    "gwcode": "en",
-    "ln": "Tumbuka"
+    "gwcode": "en"
 }

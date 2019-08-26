@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dby",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1460,
-    "lr": "Pacific",
     "lc": "dby",
+    "gw": false,
+    "ln": "Dibiyaso",
+    "ld": "ltr",
+    "ang": "Dibiyaso",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Dibiasu",
         "Pikiwa"
     ],
-    "ang": "Dibiyaso",
-    "gwcode": "tpi",
-    "ln": "Dibiyaso"
+    "gwcode": "tpi"
 }

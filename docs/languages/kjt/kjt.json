@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kjt",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 2926,
-    "lr": "Asia",
     "lc": "kjt",
+    "gw": false,
+    "ln": "Phrae Pwo Karen",
+    "ld": "ltr",
+    "ang": "Karen, Phrae Pwo",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "TH"
     ],
@@ -15,7 +17,5 @@
         "Prae",
         "Pwo Phrae"
     ],
-    "ang": "Karen, Phrae Pwo",
-    "gwcode": "th",
-    "ln": "Phrae Pwo Karen"
+    "gwcode": "th"
 }

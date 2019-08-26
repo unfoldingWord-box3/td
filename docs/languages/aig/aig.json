@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aig",
-    "hc": "AG",
-    "ld": "ltr",
     "pk": 166,
-    "lr": "Americas",
     "lc": "aig",
+    "gw": false,
+    "ln": "Antigua and Barbuda Creole English",
+    "ld": "ltr",
+    "ang": "Antigua and Barbuda Creole English",
+    "hc": "AG",
+    "lr": "Americas",
     "cc": [
         "MS",
         "SX",
@@ -20,7 +22,5 @@
         "Kittitian Creole English",
         "Sint Maarten Creole English"
     ],
-    "ang": "Antigua and Barbuda Creole English",
-    "gwcode": "en",
-    "ln": "Antigua and Barbuda Creole English"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gwt",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 2200,
-    "lr": "Asia",
     "lc": "gwt",
+    "gw": false,
+    "ln": "Gawar-Bati",
+    "ld": "ltr",
+    "ang": "Gawar-Bati",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "AF"
     ],
@@ -17,7 +19,5 @@
         "Satre",
         "Gowar-Bati"
     ],
-    "ang": "Gawar-Bati",
-    "gwcode": "ps",
-    "ln": "Gawar-Bati"
+    "gwcode": "ps"
 }

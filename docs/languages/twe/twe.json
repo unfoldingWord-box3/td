@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "twe",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6408,
-    "lr": "Asia",
     "lc": "twe",
+    "gw": false,
+    "ln": "Tewa (Indonesia)",
+    "ld": "ltr",
+    "ang": "Teiwa",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Tewa",
         "Lebang"
     ],
-    "ang": "Teiwa",
-    "gwcode": "id",
-    "ln": "Tewa (Indonesia)"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gia",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2020,
-    "lr": "Pacific",
     "lc": "gia",
+    "gw": false,
+    "ln": "Kitja",
+    "ld": "ltr",
+    "ang": "Kitja",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Gidja",
         "Kidja"
     ],
-    "ang": "Kitja",
-    "gwcode": "en",
-    "ln": "Kitja"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mcq",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3718,
-    "lr": "Pacific",
     "lc": "mcq",
+    "gw": false,
+    "ln": "Ese",
+    "ld": "ltr",
+    "ang": "Ese",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Managulasi",
         "Numba"
     ],
-    "ang": "Ese",
-    "gwcode": "tpi",
-    "ln": "Ese"
+    "gwcode": "tpi"
 }

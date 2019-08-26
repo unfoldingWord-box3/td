@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gih",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2025,
-    "lr": "Pacific",
     "lc": "gih",
+    "gw": false,
+    "ln": "Githabul",
+    "ld": "ltr",
+    "ang": "Githabul",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -22,7 +24,5 @@
         "Kuttibul",
         "Noowidal"
     ],
-    "ang": "Githabul",
-    "gwcode": "en",
-    "ln": "Githabul"
+    "gwcode": "en"
 }

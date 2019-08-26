@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dgw",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1504,
-    "lr": "Pacific",
     "lc": "dgw",
+    "gw": false,
+    "ln": "Daungwurrung",
+    "ld": "ltr",
+    "ang": "Daungwurrung",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -16,7 +18,5 @@
         "Taungurung",
         "Thagawurung"
     ],
-    "ang": "Daungwurrung",
-    "gwcode": "en",
-    "ln": "Daungwurrung"
+    "gwcode": "en"
 }

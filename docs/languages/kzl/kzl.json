@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kzl",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3318,
-    "lr": "Asia",
     "lc": "kzl",
+    "gw": false,
+    "ln": "Kayeli",
+    "ld": "ltr",
+    "ang": "Kayeli",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -19,7 +21,5 @@
         "Lumaete (Lumaiti)",
         "Lumara"
     ],
-    "ang": "Kayeli",
-    "gwcode": "id",
-    "ln": "Kayeli"
+    "gwcode": "id"
 }

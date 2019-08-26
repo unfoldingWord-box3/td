@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ymk",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 7227,
-    "lr": "Africa",
     "lc": "ymk",
+    "gw": false,
+    "ln": "Makwe",
+    "ld": "ltr",
+    "ang": "Makwe",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ",
         "TZ"
@@ -16,7 +18,5 @@
         "Palma",
         "Coastal Makwe (Palma)"
     ],
-    "ang": "Makwe",
-    "gwcode": "pt",
-    "ln": "Makwe"
+    "gwcode": "pt"
 }

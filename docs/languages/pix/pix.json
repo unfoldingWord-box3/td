@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pix",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5045,
-    "lr": "Pacific",
     "lc": "pix",
+    "gw": false,
+    "ln": "Piu",
+    "ld": "ltr",
+    "ang": "Piu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Lanzog",
         "Sanbiau"
     ],
-    "ang": "Piu",
-    "gwcode": "tpi",
-    "ln": "Piu"
+    "gwcode": "tpi"
 }

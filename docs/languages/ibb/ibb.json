@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ibb",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2404,
-    "lr": "Africa",
     "lc": "ibb",
+    "gw": false,
+    "ln": "Ibibio",
+    "ld": "ltr",
+    "ang": "Ibibio",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "GQ",
@@ -13,7 +15,5 @@
         "NG"
     ],
     "alt": [],
-    "ang": "Ibibio",
-    "gwcode": "en",
-    "ln": "Ibibio"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aoe",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 287,
-    "lr": "Pacific",
     "lc": "aoe",
+    "gw": false,
+    "ln": "Angal Enen",
+    "ld": "ltr",
+    "ang": "Angal Enen",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "South Angal Heneng",
         "South Mendi"
     ],
-    "ang": "Angal Enen",
-    "gwcode": "tpi",
-    "ln": "Angal Enen"
+    "gwcode": "tpi"
 }

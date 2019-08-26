@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lik",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3463,
-    "lr": "Africa",
     "lc": "lik",
+    "gw": false,
+    "ln": "Lika",
+    "ld": "ltr",
+    "ang": "Lika",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -16,7 +18,5 @@
         "Lik\u00f3 (Ik\u00f3)",
         "Lilik\u00e1 (Lik\u00e1)"
     ],
-    "ang": "Lika",
-    "gwcode": "fr",
-    "ln": "Lika"
+    "gwcode": "fr"
 }

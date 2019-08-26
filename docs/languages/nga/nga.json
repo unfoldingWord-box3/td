@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nga",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4409,
-    "lr": "Africa",
     "lc": "nga",
+    "gw": false,
+    "ln": "Ngbaka",
+    "ld": "ltr",
+    "ang": "Ngbaka",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CF",
         "CG",
@@ -15,7 +17,5 @@
         "Ngbaka Gbaya",
         "Ngbaka Minangende"
     ],
-    "ang": "Ngbaka",
-    "gwcode": "fr",
-    "ln": "Ngbaka"
+    "gwcode": "fr"
 }

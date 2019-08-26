@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bqb",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 876,
-    "lr": "Asia",
     "lc": "bqb",
+    "gw": false,
+    "ln": "Bagusa",
+    "ld": "ltr",
+    "ang": "Bagusa",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Kapeso",
         "Suaseso"
     ],
-    "ang": "Bagusa",
-    "gwcode": "id",
-    "ln": "Bagusa"
+    "gwcode": "id"
 }

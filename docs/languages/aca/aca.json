@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aca",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 53,
-    "lr": "Americas",
     "lc": "aca",
+    "gw": false,
+    "ln": "Achagua",
+    "ld": "ltr",
+    "ang": "Achagua",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -13,7 +15,5 @@
         "Ajagua",
         "Xagua"
     ],
-    "ang": "Achagua",
-    "gwcode": "es-419",
-    "ln": "Achagua"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nxa",
-    "hc": "TL",
-    "ld": "ltr",
     "pk": 4712,
-    "lr": "Asia",
     "lc": "nxa",
+    "gw": false,
+    "ln": "Nauete",
+    "ld": "ltr",
+    "ang": "Nauete",
+    "hc": "TL",
+    "lr": "Asia",
     "cc": [
         "TL"
     ],
@@ -16,7 +18,5 @@
         "Nauote",
         "Nauoti"
     ],
-    "ang": "Nauete",
-    "gwcode": "pt",
-    "ln": "Nauete"
+    "gwcode": "pt"
 }

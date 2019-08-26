@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xac",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6855,
-    "lr": "Asia",
     "lc": "xac",
+    "gw": false,
+    "ln": "Kachari",
+    "ld": "ltr",
+    "ang": "Kachari",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Cachari",
         "Plains Kachari"
     ],
-    "ang": "Kachari",
-    "gwcode": "as",
-    "ln": "Kachari"
+    "gwcode": "as"
 }

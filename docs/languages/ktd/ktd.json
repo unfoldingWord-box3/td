@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ktd",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 3162,
-    "lr": "Pacific",
     "lc": "ktd",
+    "gw": false,
+    "ln": "Kokata",
+    "ld": "ltr",
+    "ang": "Kokata",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -22,7 +24,5 @@
         "Wanggamadu",
         "Wongamardu"
     ],
-    "ang": "Kokata",
-    "gwcode": "en",
-    "ln": "Kokata"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jvn",
-    "hc": "SR",
-    "ld": "ltr",
     "pk": 2688,
-    "lr": "Americas",
     "lc": "jvn",
+    "gw": false,
+    "ln": "Caribbean Javanese",
+    "ld": "ltr",
+    "ang": "Javanese, Suriname",
+    "hc": "SR",
+    "lr": "Americas",
     "cc": [
         "GF",
         "SR"
@@ -13,7 +15,5 @@
     "alt": [
         "Suriname Javanese"
     ],
-    "ang": "Javanese, Suriname",
-    "gwcode": "UNKNOWN",
-    "ln": "Caribbean Javanese"
+    "gwcode": "nl"
 }

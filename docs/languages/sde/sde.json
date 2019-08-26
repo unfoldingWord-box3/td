@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sde",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 5527,
-    "lr": "Africa",
     "lc": "sde",
+    "gw": false,
+    "ln": "Kuvori",
+    "ld": "ltr",
+    "ang": "Surubu",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Srubu",
         "Zurubu"
     ],
-    "ang": "Surubu",
-    "gwcode": "en",
-    "ln": "Kuvori"
+    "gwcode": "en"
 }

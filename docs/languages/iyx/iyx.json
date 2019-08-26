@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "iyx",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 2559,
-    "lr": "Africa",
     "lc": "iyx",
+    "gw": false,
+    "ln": "Yaka (Congo)",
+    "ld": "ltr",
+    "ang": "Yaka",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "GA",
         "CG",
@@ -15,7 +17,5 @@
         "Iyaka",
         "West Teke"
     ],
-    "ang": "Yaka",
-    "gwcode": "fr",
-    "ln": "Yaka (Congo)"
+    "gwcode": "fr"
 }

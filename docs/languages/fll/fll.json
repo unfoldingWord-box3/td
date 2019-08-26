@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fll",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 1852,
-    "lr": "Africa",
     "lc": "fll",
+    "gw": false,
+    "ln": "North Fali",
+    "ld": "ltr",
+    "ang": "Fali, North",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -17,7 +19,5 @@
         "Fali-Bossoum",
         "Peske"
     ],
-    "ang": "Fali, North",
-    "gwcode": "fr",
-    "ln": "North Fali"
+    "gwcode": "fr"
 }

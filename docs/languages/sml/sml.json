@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sml",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 5712,
-    "lr": "Asia",
     "lc": "sml",
+    "gw": false,
+    "ln": "Central Sama",
+    "ld": "ltr",
+    "ang": "Sama, Central",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "MY",
         "PH"
@@ -22,7 +24,5 @@
         "Sama Tabawan",
         "Sama Laminusa"
     ],
-    "ang": "Sama, Central",
-    "gwcode": "ceb",
-    "ln": "Central Sama"
+    "gwcode": "ceb"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dzg",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 1687,
-    "lr": "Africa",
     "lc": "dzg",
+    "gw": false,
+    "ln": "Dazaga",
+    "ld": "ltr",
+    "ang": "Dazaga",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "NE",
         "TD"
@@ -18,7 +20,5 @@
         "Dazza",
         "Kashirda"
     ],
-    "ang": "Dazaga",
-    "gwcode": "ar",
-    "ln": "Dazaga"
+    "gwcode": "ar"
 }

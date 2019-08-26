@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bug",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 976,
-    "lr": "Asia",
     "lc": "bug",
+    "gw": false,
+    "ln": "Buginese",
+    "ld": "ltr",
+    "ang": "Bugis",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "MY",
@@ -39,7 +41,5 @@
         "Bone (Dua Boccoe)",
         "Pasangkayu (Ugi Riawa)"
     ],
-    "ang": "Bugis",
-    "gwcode": "id",
-    "ln": "Buginese"
+    "gwcode": "id"
 }

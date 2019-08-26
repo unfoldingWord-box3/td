@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kyz",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 3308,
-    "lr": "Americas",
     "lc": "kyz",
+    "gw": false,
+    "ln": "Kayab\u00ed",
+    "ld": "ltr",
+    "ang": "Kayab\u00ed",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -15,7 +17,5 @@
         "Maquiri",
         "Parua"
     ],
-    "ang": "Kayab\u00ed",
-    "gwcode": "pt",
-    "ln": "Kayab\u00ed"
+    "gwcode": "pt"
 }

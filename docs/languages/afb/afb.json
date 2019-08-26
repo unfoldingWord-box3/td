@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "afb",
-    "hc": "KW",
-    "ld": "rtl",
     "pk": 108,
-    "lr": "Asia",
     "lc": "afb",
+    "gw": false,
+    "ln": "\u062e\u0644\u064a\u062c\u064a",
+    "ld": "rtl",
+    "ang": "Arabic, Gulf Spoken",
+    "hc": "KW",
+    "lr": "Asia",
     "cc": [
         "IR",
         "OM",
@@ -31,7 +33,5 @@
         "Qatari",
         "Gulf Spoken"
     ],
-    "ang": "Arabic, Gulf Spoken",
-    "gwcode": "ar",
-    "ln": "\u062e\u0644\u064a\u062c\u064a"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "fra",
-    "hc": "FR",
-    "ld": "ltr",
     "pk": 1868,
-    "lr": "Europe",
     "lc": "fr",
+    "gw": true,
+    "ln": "fran\u00e7ais, langue fran\u00e7aise",
+    "ld": "ltr",
+    "ang": "French",
+    "hc": "FR",
+    "lr": "Europe",
     "cc": [
         "DZ",
         "AT",
@@ -54,7 +56,5 @@
         "Acadian (Acadien)",
         "Franche-Comtois (Fribourgois)"
     ],
-    "ang": "French",
-    "gwcode": "UNKNOWN",
-    "ln": "fran\u00e7ais, langue fran\u00e7aise"
+    "gwcode": null
 }

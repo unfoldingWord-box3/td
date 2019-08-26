@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hye",
-    "hc": "AM",
-    "ld": "ltr",
     "pk": 2396,
-    "lr": "Asia",
     "lc": "hy",
+    "gw": false,
+    "ln": "\u0540\u0561\u0575\u0565\u0580\u0565\u0576",
+    "ld": "ltr",
+    "ang": "Armenian",
+    "hc": "AM",
+    "lr": "Asia",
     "cc": [
         "AM",
         "AZ",
@@ -61,7 +63,5 @@
         "Artvin (Artwin)",
         "Dzhulfa (Dschugha)"
     ],
-    "ang": "Armenian",
-    "gwcode": "ru",
-    "ln": "\u0540\u0561\u0575\u0565\u0580\u0565\u0576"
+    "gwcode": "ru"
 }

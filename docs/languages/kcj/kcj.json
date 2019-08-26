@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kcj",
-    "hc": "GW",
-    "ld": "ltr",
     "pk": 2745,
-    "lr": "Africa",
     "lc": "kcj",
+    "gw": false,
+    "ln": "Kobiana",
+    "ld": "ltr",
+    "ang": "Kobiana",
+    "hc": "GW",
+    "lr": "Africa",
     "cc": [
         "GW"
     ],
@@ -13,7 +15,5 @@
         "Buy",
         "Uboi"
     ],
-    "ang": "Kobiana",
-    "gwcode": "pt",
-    "ln": "Kobiana"
+    "gwcode": "pt"
 }

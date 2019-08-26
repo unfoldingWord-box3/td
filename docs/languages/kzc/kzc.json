@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kzc",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 3311,
-    "lr": "Africa",
     "lc": "kzc",
+    "gw": false,
+    "ln": "Bondoukou Kulango",
+    "ld": "ltr",
+    "ang": "Kulango, Bondoukou",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI",
         "GH"
@@ -18,7 +20,5 @@
         "Nkuraeng",
         "Nkurange"
     ],
-    "ang": "Kulango, Bondoukou",
-    "gwcode": "fr",
-    "ln": "Bondoukou Kulango"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mxh",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4221,
-    "lr": "Africa",
     "lc": "mxh",
+    "gw": false,
+    "ln": "Mvuba",
+    "ld": "ltr",
+    "ang": "Mvuba",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -16,7 +18,5 @@
         "Mvuba-A",
         "Obiye"
     ],
-    "ang": "Mvuba",
-    "gwcode": "fr",
-    "ln": "Mvuba"
+    "gwcode": "fr"
 }

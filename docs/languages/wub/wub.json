@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wub",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6833,
-    "lr": "Pacific",
     "lc": "wub",
+    "gw": false,
+    "ln": "Wunambal",
+    "ld": "ltr",
+    "ang": "Wunambal",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -18,7 +20,5 @@
         "Yeidji",
         "Yeithi"
     ],
-    "ang": "Wunambal",
-    "gwcode": "en",
-    "ln": "Wunambal"
+    "gwcode": "en"
 }

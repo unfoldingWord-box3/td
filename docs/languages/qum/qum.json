@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "qum",
-    "hc": "GT",
-    "ld": "ltr",
     "pk": 5258,
-    "lr": "Americas",
     "lc": "qum",
+    "gw": false,
+    "ln": "Sipacapense",
+    "ld": "ltr",
+    "ang": "Sipakapense",
+    "hc": "GT",
+    "lr": "Americas",
     "cc": [
         "GT"
     ],
@@ -14,7 +16,5 @@
         "Sipacape\u00f1o",
         "Sipacapense"
     ],
-    "ang": "Sipakapense",
-    "gwcode": "es-419",
-    "ln": "Sipacapense"
+    "gwcode": "es-419"
 }

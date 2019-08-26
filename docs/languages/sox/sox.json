@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sox",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 5769,
-    "lr": "Africa",
     "lc": "sox",
+    "gw": false,
+    "ln": "Swo",
+    "ld": "ltr",
+    "ang": "Swo",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "S\u00f4",
         "Sso"
     ],
-    "ang": "Swo",
-    "gwcode": "fr",
-    "ln": "Swo"
+    "gwcode": "fr"
 }

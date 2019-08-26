@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bja",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 709,
-    "lr": "Africa",
     "lc": "bja",
+    "gw": false,
+    "ln": "Budza",
+    "ld": "ltr",
+    "ang": "Budza",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -17,7 +19,5 @@
         "Limbudza",
         "Mbudja"
     ],
-    "ang": "Budza",
-    "gwcode": "fr",
-    "ln": "Budza"
+    "gwcode": "fr"
 }

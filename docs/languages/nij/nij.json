@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nij",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4463,
-    "lr": "Asia",
     "lc": "nij",
+    "gw": false,
+    "ln": "Ngaju",
+    "ld": "ltr",
+    "ang": "Ngaju",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -22,7 +24,5 @@
         "Katingan Ngawa",
         "Mantangai (Oloh Mangtangai)"
     ],
-    "ang": "Ngaju",
-    "gwcode": "id",
-    "ln": "Ngaju"
+    "gwcode": "id"
 }

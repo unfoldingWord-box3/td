@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "trj",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 6308,
-    "lr": "Africa",
     "lc": "trj",
+    "gw": false,
+    "ln": "Toram",
+    "ld": "ltr",
+    "ang": "Toram",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -13,7 +15,5 @@
         "Torom",
         "Torum"
     ],
-    "ang": "Toram",
-    "gwcode": "ar",
-    "ln": "Toram"
+    "gwcode": "ar"
 }

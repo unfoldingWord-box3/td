@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pgk",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 5005,
-    "lr": "Pacific",
     "lc": "pgk",
+    "gw": false,
+    "ln": "Rerep",
+    "ld": "ltr",
+    "ang": "Rerep",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -13,7 +15,5 @@
         "Pangkumu",
         "Pangkumu Bay"
     ],
-    "ang": "Rerep",
-    "gwcode": "fr",
-    "ln": "Rerep"
+    "gwcode": "fr"
 }

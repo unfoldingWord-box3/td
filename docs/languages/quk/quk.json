@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "quk",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 5256,
-    "lr": "Americas",
     "lc": "quk",
+    "gw": false,
+    "ln": "Chachapoyas Quechua",
+    "ld": "ltr",
+    "ang": "Quechua, Chachapoyas",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -16,7 +18,5 @@
         "Grenada-Mendoza (East Chachapoyas)",
         "Llakwash Chachapoyas"
     ],
-    "ang": "Quechua, Chachapoyas",
-    "gwcode": "es-419",
-    "ln": "Chachapoyas Quechua"
+    "gwcode": "es-419"
 }

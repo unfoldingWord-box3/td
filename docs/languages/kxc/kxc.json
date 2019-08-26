@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kxc",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 3261,
-    "lr": "Africa",
     "lc": "kxc",
+    "gw": false,
+    "ln": "Konso",
+    "ld": "ltr",
+    "ang": "Konso",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET",
         "KE"
@@ -22,7 +24,5 @@
         "Duuro",
         "Kholme"
     ],
-    "ang": "Konso",
-    "gwcode": "am",
-    "ln": "Konso"
+    "gwcode": "am"
 }

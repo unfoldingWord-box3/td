@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "any",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 281,
-    "lr": "Africa",
     "lc": "any",
+    "gw": false,
+    "ln": "Anyin",
+    "ld": "ltr",
+    "ang": "Anyin",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI",
         "GH"
@@ -17,7 +19,5 @@
         "Sanvi",
         "Aowin (Brissa)"
     ],
-    "ang": "Anyin",
-    "gwcode": "fr",
-    "ln": "Anyin"
+    "gwcode": "fr"
 }

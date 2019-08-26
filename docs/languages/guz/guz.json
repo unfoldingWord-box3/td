@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "guz",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 2175,
-    "lr": "Africa",
     "lc": "guz",
+    "gw": false,
+    "ln": "Gusii",
+    "ld": "ltr",
+    "ang": "Ekegusii",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE",
         "TZ"
@@ -15,7 +17,5 @@
         "Kosova",
         "Kisii"
     ],
-    "ang": "Ekegusii",
-    "gwcode": "sw",
-    "ln": "Gusii"
+    "gwcode": "sw"
 }

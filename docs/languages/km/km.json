@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "khm",
-    "hc": "KH",
-    "ld": "ltr",
     "pk": 2986,
-    "lr": "Asia",
     "lc": "km",
+    "gw": true,
+    "ln": "\u1781\u17d2\u1798\u17c2\u179a, \u1781\u17c1\u1798\u179a\u1797\u17b6\u179f\u17b6, \u1797\u17b6\u179f\u17b6\u1781\u17d2\u1798\u17c2\u179a",
+    "ld": "ltr",
+    "ang": "Khmer",
+    "hc": "KH",
+    "lr": "Asia",
     "cc": [
         "FR",
         "DE",
@@ -32,7 +34,5 @@
         "Khmer Keh (Stung Treng)",
         "Khmer Krom (Southern)"
     ],
-    "ang": "Khmer",
-    "gwcode": "UNKNOWN",
-    "ln": "\u1781\u17d2\u1798\u17c2\u179a, \u1781\u17c1\u1798\u179a\u1797\u17b6\u179f\u17b6, \u1797\u17b6\u179f\u17b6\u1781\u17d2\u1798\u17c2\u179a"
+    "gwcode": null
 }

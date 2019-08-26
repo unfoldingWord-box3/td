@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "oma",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 4823,
-    "lr": "Americas",
     "lc": "oma",
+    "gw": false,
+    "ln": "Omaha-Ponca",
+    "ld": "ltr",
+    "ang": "Omaha-Ponca",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -15,7 +17,5 @@
         "Ppankka",
         "Umanhan"
     ],
-    "ang": "Omaha-Ponca",
-    "gwcode": "en",
-    "ln": "Omaha-Ponca"
+    "gwcode": "en"
 }

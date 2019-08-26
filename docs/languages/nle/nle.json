@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nle",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 4521,
-    "lr": "Africa",
     "lc": "nle",
+    "gw": false,
+    "ln": "East Nyala",
+    "ld": "ltr",
+    "ang": "Nyala",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -13,7 +15,5 @@
         "East",
         "East Nyala"
     ],
-    "ang": "Nyala",
-    "gwcode": "sw",
-    "ln": "East Nyala"
+    "gwcode": "sw"
 }

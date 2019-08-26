@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kat",
-    "hc": "GE",
-    "ld": "ltr",
     "pk": 2693,
-    "lr": "Asia",
     "lc": "ka",
+    "gw": false,
+    "ln": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8",
+    "ld": "ltr",
+    "ang": "Georgian",
+    "hc": "GE",
+    "lr": "Asia",
     "cc": [
         "AZ",
         "BE",
@@ -33,7 +35,5 @@
         "Racha-Lexchxum (Lechkhum)",
         "Xevsur (Kheysur)"
     ],
-    "ang": "Georgian",
-    "gwcode": "ru",
-    "ln": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    "gwcode": "ru"
 }

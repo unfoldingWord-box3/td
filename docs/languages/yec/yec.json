@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yec",
-    "hc": "DE",
-    "ld": "ltr",
     "pk": 7159,
-    "lr": "Europe",
     "lc": "yec",
+    "gw": false,
+    "ln": "Yeniche",
+    "ld": "ltr",
+    "ang": "Yeniche",
+    "hc": "DE",
+    "lr": "Europe",
     "cc": [
         "DE"
     ],
@@ -14,7 +16,5 @@
         "Jenisch",
         "Yenishe"
     ],
-    "ang": "Yeniche",
-    "gwcode": "en",
-    "ln": "Yeniche"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nji",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4482,
-    "lr": "Pacific",
     "lc": "nji",
+    "gw": false,
+    "ln": "Gudanji",
+    "ld": "ltr",
+    "ang": "Gudanji",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Ngarnga",
         "Binbinka"
     ],
-    "ang": "Gudanji",
-    "gwcode": "en",
-    "ln": "Gudanji"
+    "gwcode": "en"
 }

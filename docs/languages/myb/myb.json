@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "myb",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 4241,
-    "lr": "Africa",
     "lc": "myb",
+    "gw": false,
+    "ln": "Mbay",
+    "ld": "ltr",
+    "ang": "Mbay",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "CM",
         "CF",
@@ -20,7 +22,5 @@
         "Ngoka (Mbang)",
         "Kan (Mbay-Kan)"
     ],
-    "ang": "Mbay",
-    "gwcode": "ar",
-    "ln": "Mbay"
+    "gwcode": "ar"
 }

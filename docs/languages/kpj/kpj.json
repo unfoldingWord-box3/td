@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kpj",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 3068,
-    "lr": "Americas",
     "lc": "kpj",
+    "gw": false,
+    "ln": "Karaj\u00e1",
+    "ld": "ltr",
+    "ang": "Karaj\u00e1",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -20,7 +22,5 @@
         "Java\u00e9 (Javahe)",
         "Karaj\u00e1"
     ],
-    "ang": "Karaj\u00e1",
-    "gwcode": "pt",
-    "ln": "Karaj\u00e1"
+    "gwcode": "pt"
 }

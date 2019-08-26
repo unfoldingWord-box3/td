@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mad",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3661,
-    "lr": "Asia",
     "lc": "mad",
+    "gw": false,
+    "ln": "Madurese",
+    "ld": "ltr",
+    "ang": "Madura",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "SG"
@@ -21,7 +23,5 @@
         "Bangkalan (Bangkalon)",
         "Bawean (Boyanese)"
     ],
-    "ang": "Madura",
-    "gwcode": "id",
-    "ln": "Madurese"
+    "gwcode": "id"
 }

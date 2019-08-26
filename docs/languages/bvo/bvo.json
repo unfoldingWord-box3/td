@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bvo",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 1008,
-    "lr": "Africa",
     "lc": "bvo",
+    "gw": false,
+    "ln": "Bolgo",
+    "ld": "ltr",
+    "ang": "Bolgo",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -13,7 +15,5 @@
         "Bolgo Dugag (Small Bolgo)",
         "Bolgo Kubar (Big Bolgo)"
     ],
-    "ang": "Bolgo",
-    "gwcode": "ar",
-    "ln": "Bolgo"
+    "gwcode": "ar"
 }

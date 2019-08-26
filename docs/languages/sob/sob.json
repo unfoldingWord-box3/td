@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sob",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5751,
-    "lr": "Asia",
     "lc": "sob",
+    "gw": false,
+    "ln": "Sobei",
+    "ld": "ltr",
+    "ang": "Sobei",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Imasi",
         "Liki"
     ],
-    "ang": "Sobei",
-    "gwcode": "id",
-    "ln": "Sobei"
+    "gwcode": "id"
 }

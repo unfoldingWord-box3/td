@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "pnt",
-    "hc": "GR",
-    "ld": "ltr",
     "pk": 5116,
-    "lr": "Europe",
     "lc": "pnt",
+    "gw": false,
+    "ln": "Pontic",
+    "ld": "ltr",
+    "ang": "Pontic",
+    "hc": "GR",
+    "lr": "Europe",
     "cc": [
         "GR"
     ],
     "alt": [
         "Pontic Greek"
     ],
-    "ang": "Pontic",
-    "gwcode": "en",
-    "ln": "Pontic"
+    "gwcode": "en"
 }

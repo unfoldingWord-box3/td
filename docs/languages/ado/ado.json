@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ado",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 82,
-    "lr": "Pacific",
     "lc": "ado",
+    "gw": false,
+    "ln": "Abu",
+    "ld": "ltr",
+    "ang": "Abu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Auwa",
         "Sabu"
     ],
-    "ang": "Abu",
-    "gwcode": "tpi",
-    "ln": "Abu"
+    "gwcode": "tpi"
 }

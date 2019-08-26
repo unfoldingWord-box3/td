@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "seq",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 5557,
-    "lr": "Africa",
     "lc": "seq",
+    "gw": false,
+    "ln": "Senara S\u00e9noufo",
+    "ld": "ltr",
+    "ang": "S\u00e9noufo, Senara",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -13,7 +15,5 @@
         "Niangolo",
         "S\u00e9noufo"
     ],
-    "ang": "S\u00e9noufo, Senara",
-    "gwcode": "fr",
-    "ln": "Senara S\u00e9noufo"
+    "gwcode": "fr"
 }

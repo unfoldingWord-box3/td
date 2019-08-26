@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cac",
-    "hc": "GT",
-    "ld": "ltr",
     "pk": 1112,
-    "lr": "Americas",
     "lc": "cac",
+    "gw": false,
+    "ln": "Chuj",
+    "ld": "ltr",
+    "ang": "Chuj",
+    "hc": "GT",
+    "lr": "Americas",
     "cc": [
         "GT",
         "US"
@@ -17,7 +19,5 @@
         "Chuje",
         "Chapai"
     ],
-    "ang": "Chuj",
-    "gwcode": "es-419",
-    "ln": "Chuj"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bhj",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 669,
-    "lr": "Asia",
     "lc": "bhj",
+    "gw": false,
+    "ln": "Bahing",
+    "ld": "ltr",
+    "ang": "Bahing",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -18,7 +20,5 @@
         "Moblocha",
         "Hangu"
     ],
-    "ang": "Bahing",
-    "gwcode": "ne",
-    "ln": "Bahing"
+    "gwcode": "ne"
 }

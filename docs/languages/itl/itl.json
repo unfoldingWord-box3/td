@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "itl",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 2536,
-    "lr": "Europe",
     "lc": "itl",
+    "gw": false,
+    "ln": "\u0418\u0442\u0435\u043b\u044c\u043c\u0435\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Itelmen",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -16,7 +18,5 @@
         "Western Itelmen",
         "Xajrjuzovo"
     ],
-    "ang": "Itelmen",
-    "gwcode": "ru",
-    "ln": "\u0418\u0442\u0435\u043b\u044c\u043c\u0435\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

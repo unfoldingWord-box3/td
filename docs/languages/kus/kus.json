@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kus",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 3199,
-    "lr": "Africa",
     "lc": "kus",
+    "gw": false,
+    "ln": "Kusaal",
+    "ld": "ltr",
+    "ang": "Kusaal",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "BF",
         "GH"
@@ -21,7 +23,5 @@
         "Tonde (Toende)",
         "Western Kusaal"
     ],
-    "ang": "Kusaal",
-    "gwcode": "en",
-    "ln": "Kusaal"
+    "gwcode": "en"
 }

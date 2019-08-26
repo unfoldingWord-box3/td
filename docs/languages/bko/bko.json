@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bko",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 743,
-    "lr": "Africa",
     "lc": "bko",
+    "gw": false,
+    "ln": "Kwa'",
+    "ld": "ltr",
+    "ang": "Kwa\u2019",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -18,7 +20,5 @@
         "Kwa' (Babwa)",
         "Mipa"
     ],
-    "ang": "Kwa\u2019",
-    "gwcode": "fr",
-    "ln": "Kwa'"
+    "gwcode": "fr"
 }

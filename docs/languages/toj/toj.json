@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "toj",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6251,
-    "lr": "Americas",
     "lc": "toj",
+    "gw": false,
+    "ln": "Tojolabal",
+    "ld": "ltr",
+    "ang": "Tojolabal",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Cha\u00f1abal",
         "Comiteco"
     ],
-    "ang": "Tojolabal",
-    "gwcode": "es-419",
-    "ln": "Tojolabal"
+    "gwcode": "es-419"
 }

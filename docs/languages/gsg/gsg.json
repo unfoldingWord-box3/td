@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gsg",
-    "hc": "DE",
-    "ld": "ltr",
     "pk": 2142,
-    "lr": "Europe",
     "lc": "gsg",
+    "gw": false,
+    "ln": "German Sign Language",
+    "ld": "ltr",
+    "ang": "German Sign Language",
+    "hc": "DE",
+    "lr": "Europe",
     "cc": [
         "DE"
     ],
@@ -13,7 +15,5 @@
         "Deutsche Geb\u00e4rdensprache",
         "Dgs"
     ],
-    "ang": "German Sign Language",
-    "gwcode": "en",
-    "ln": "German Sign Language"
+    "gwcode": "en"
 }

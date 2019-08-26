@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "los",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3567,
-    "lr": "Pacific",
     "lc": "los",
+    "gw": false,
+    "ln": "Loniu",
+    "ld": "ltr",
+    "ang": "Loniu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Lonio",
         "Ndroku"
     ],
-    "ang": "Loniu",
-    "gwcode": "tpi",
-    "ln": "Loniu"
+    "gwcode": "tpi"
 }

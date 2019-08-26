@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ium",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2548,
-    "lr": "Asia",
     "lc": "ium",
+    "gw": false,
+    "ln": "\u52c9\u8a9e",
+    "ld": "ltr",
+    "ang": "Iu Mien",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "FR",
@@ -39,7 +41,5 @@
         "Dao Lo Gang",
         "Guoshan Yao"
     ],
-    "ang": "Iu Mien",
-    "gwcode": "zh",
-    "ln": "\u52c9\u8a9e"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "qvj",
-    "hc": "EC",
-    "ld": "ltr",
     "pk": 5274,
-    "lr": "Americas",
     "lc": "qvj",
+    "gw": false,
+    "ln": "Loja Highland Quichua",
+    "ld": "ltr",
+    "ang": "Quichua, Loja Highland",
+    "hc": "EC",
+    "lr": "Americas",
     "cc": [
         "EC"
     ],
@@ -13,7 +15,5 @@
         "Loja Quichua",
         "Saraguro Quichua"
     ],
-    "ang": "Quichua, Loja Highland",
-    "gwcode": "es-419",
-    "ln": "Loja Highland Quichua"
+    "gwcode": "es-419"
 }

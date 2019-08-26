@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ton",
-    "hc": "TO",
-    "ld": "ltr",
     "pk": 6243,
-    "lr": "Pacific",
     "lc": "to",
+    "gw": false,
+    "ln": "faka Tonga",
+    "ld": "ltr",
+    "ang": "Tonga (Tonga Islands)",
+    "hc": "TO",
+    "lr": "Pacific",
     "cc": [
         "FJ",
         "NZ",
@@ -16,7 +18,5 @@
     "alt": [
         "Tonga"
     ],
-    "ang": "Tonga (Tonga Islands)",
-    "gwcode": "en",
-    "ln": "faka Tonga"
+    "gwcode": "en"
 }

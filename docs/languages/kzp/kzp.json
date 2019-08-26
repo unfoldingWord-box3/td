@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kzp",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3322,
-    "lr": "Asia",
     "lc": "kzp",
+    "gw": false,
+    "ln": "Kaidipang",
+    "ld": "ltr",
+    "ang": "Kaidipang",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Kaidipang (Kaidipan)",
         "Kodipang"
     ],
-    "ang": "Kaidipang",
-    "gwcode": "id",
-    "ln": "Kaidipang"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "msw",
-    "hc": "GW",
-    "ld": "ltr",
     "pk": 4116,
-    "lr": "Africa",
     "lc": "msw",
+    "gw": false,
+    "ln": "Mansoanka",
+    "ld": "ltr",
+    "ang": "Mansoanka",
+    "hc": "GW",
+    "lr": "Africa",
     "cc": [
         "GM",
         "GW"
@@ -16,7 +18,5 @@
         "Maswanka",
         "Sua"
     ],
-    "ang": "Mansoanka",
-    "gwcode": "pt",
-    "ln": "Mansoanka"
+    "gwcode": "pt"
 }

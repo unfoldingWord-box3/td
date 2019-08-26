@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "shg",
-    "hc": "BW",
-    "ld": "ltr",
     "pk": 5597,
-    "lr": "Africa",
     "lc": "shg",
+    "gw": false,
+    "ln": "Shua",
+    "ld": "ltr",
+    "ang": "Shua",
+    "hc": "BW",
+    "lr": "Africa",
     "cc": [
         "BW"
     ],
@@ -31,7 +33,5 @@
         "||'Aiye (|Aaye)",
         "Danisi (Danisa)"
     ],
-    "ang": "Shua",
-    "gwcode": "en",
-    "ln": "Shua"
+    "gwcode": "en"
 }

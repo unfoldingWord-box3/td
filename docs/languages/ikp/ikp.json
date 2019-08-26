@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ikp",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2463,
-    "lr": "Africa",
     "lc": "ikp",
+    "gw": false,
+    "ln": "Ikpeshi",
+    "ld": "ltr",
+    "ang": "Ikpeshi",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Ekpeshe",
         "Ikpeshe"
     ],
-    "ang": "Ikpeshi",
-    "gwcode": "en",
-    "ln": "Ikpeshi"
+    "gwcode": "en"
 }

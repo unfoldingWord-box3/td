@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nal",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4296,
-    "lr": "Pacific",
     "lc": "nal",
+    "gw": false,
+    "ln": "Nalik",
+    "ld": "ltr",
+    "ang": "Nalik",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Fessoa",
         "Lugagon"
     ],
-    "ang": "Nalik",
-    "gwcode": "tpi",
-    "ln": "Nalik"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "guq",
-    "hc": "PY",
-    "ld": "ltr",
     "pk": 2167,
-    "lr": "Americas",
     "lc": "guq",
+    "gw": false,
+    "ln": "Ach\u00e9",
+    "ld": "ltr",
+    "ang": "Ach\u00e9",
+    "hc": "PY",
+    "lr": "Americas",
     "cc": [
         "PY"
     ],
@@ -20,7 +22,5 @@
         "Ache pur\u00e4",
         "Ache wa"
     ],
-    "ang": "Ach\u00e9",
-    "gwcode": "es-419",
-    "ln": "Ach\u00e9"
+    "gwcode": "es-419"
 }

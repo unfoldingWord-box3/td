@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lig",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 3460,
-    "lr": "Africa",
     "lc": "lig",
+    "gw": false,
+    "ln": "Ligbi",
+    "ld": "ltr",
+    "ang": "Ligbi",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -26,7 +28,5 @@
         "Dwera (Manji-Kasa)",
         "Hwela (Vwela)"
     ],
-    "ang": "Ligbi",
-    "gwcode": "en",
-    "ln": "Ligbi"
+    "gwcode": "en"
 }

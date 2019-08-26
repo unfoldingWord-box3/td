@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jav",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2686,
-    "lr": "Asia",
     "lc": "jv",
+    "gw": false,
+    "ln": "basa Jawa",
+    "ld": "ltr",
+    "ang": "Javanese",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "CX",
@@ -22,7 +24,5 @@
         "Surabaya",
         "Solo"
     ],
-    "ang": "Javanese",
-    "gwcode": "id",
-    "ln": "basa Jawa"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sho",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 5605,
-    "lr": "Africa",
     "lc": "sho",
+    "gw": false,
+    "ln": "Shanga",
+    "ld": "ltr",
+    "ang": "Shanga",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Shonga",
         "Shongawa"
     ],
-    "ang": "Shanga",
-    "gwcode": "en",
-    "ln": "Shanga"
+    "gwcode": "en"
 }

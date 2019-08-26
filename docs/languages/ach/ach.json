@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ach",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 58,
-    "lr": "Africa",
     "lc": "ach",
+    "gw": false,
+    "ln": "Acoli",
+    "ld": "ltr",
+    "ang": "Acholi",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "SS",
         "UG"
@@ -24,7 +26,5 @@
         "Shuli",
         "Lwoo"
     ],
-    "ang": "Acholi",
-    "gwcode": "en",
-    "ln": "Acoli"
+    "gwcode": "en"
 }

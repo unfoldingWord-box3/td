@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dbn",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1451,
-    "lr": "Asia",
     "lc": "dbn",
+    "gw": false,
+    "ln": "Duriankere",
+    "ld": "ltr",
+    "ang": "Duriankere",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Esaro",
         "Sailen"
     ],
-    "ang": "Duriankere",
-    "gwcode": "id",
-    "ln": "Duriankere"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ril",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 5359,
-    "lr": "Asia",
     "lc": "ril",
+    "gw": false,
+    "ln": "Riang (Myanmar)",
+    "ld": "ltr",
+    "ang": "Riang",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "CN",
         "MM"
@@ -33,7 +35,5 @@
         "Na'ang",
         "Xiaoan'gou"
     ],
-    "ang": "Riang",
-    "gwcode": "my",
-    "ln": "Riang (Myanmar)"
+    "gwcode": "my"
 }

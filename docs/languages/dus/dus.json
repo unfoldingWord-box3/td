@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dus",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 1668,
-    "lr": "Asia",
     "lc": "dus",
+    "gw": false,
+    "ln": "Dumi",
+    "ld": "ltr",
+    "ang": "Dumi",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -17,7 +19,5 @@
         "Ro'do Bo'",
         "Sotmali"
     ],
-    "ang": "Dumi",
-    "gwcode": "ne",
-    "ln": "Dumi"
+    "gwcode": "ne"
 }

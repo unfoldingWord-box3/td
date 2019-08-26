@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ypa",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7258,
-    "lr": "Asia",
     "lc": "ypa",
+    "gw": false,
+    "ln": "Phala",
+    "ld": "ltr",
+    "ang": "Phala",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -17,7 +19,5 @@
         "Phula",
         "Phulepho"
     ],
-    "ang": "Phala",
-    "gwcode": "zh",
-    "ln": "Phala"
+    "gwcode": "zh"
 }

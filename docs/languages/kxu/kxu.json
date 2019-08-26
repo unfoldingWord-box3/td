@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kxu",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3277,
-    "lr": "Asia",
     "lc": "kxu",
+    "gw": false,
+    "ln": "Kui (India)",
+    "ld": "ltr",
+    "ang": "Kui",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -18,7 +20,5 @@
         "Kuinga",
         "Kuy"
     ],
-    "ang": "Kui",
-    "gwcode": "or",
-    "ln": "Kui (India)"
+    "gwcode": "or"
 }

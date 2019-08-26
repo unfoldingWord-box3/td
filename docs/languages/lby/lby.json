@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lby",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 3377,
-    "lr": "Pacific",
     "lc": "lby",
+    "gw": false,
+    "ln": "Lamu-Lamu",
+    "ld": "ltr",
+    "ang": "Lamu-Lamu",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Lamulamul",
         "Mba Rumbathama"
     ],
-    "ang": "Lamu-Lamu",
-    "gwcode": "en",
-    "ln": "Lamu-Lamu"
+    "gwcode": "en"
 }

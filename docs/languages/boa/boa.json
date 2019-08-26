@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "boa",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 831,
-    "lr": "Americas",
     "lc": "boa",
+    "gw": false,
+    "ln": "Bora",
+    "ld": "ltr",
+    "ang": "Bora",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "BR",
         "PE",
@@ -17,7 +19,5 @@
         "Mir\u00e3nia",
         "Meamuyna"
     ],
-    "ang": "Bora",
-    "gwcode": "es-419",
-    "ln": "Bora"
+    "gwcode": "es-419"
 }

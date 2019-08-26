@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "huh",
-    "hc": "CL",
-    "ld": "ltr",
     "pk": 2372,
-    "lr": "Americas",
     "lc": "huh",
+    "gw": false,
+    "ln": "Huilliche",
+    "ld": "ltr",
+    "ang": "Huilliche",
+    "hc": "CL",
+    "lr": "Americas",
     "cc": [
         "CL"
     ],
@@ -13,7 +15,5 @@
         "Huiliche",
         "Veliche"
     ],
-    "ang": "Huilliche",
-    "gwcode": "es-419",
-    "ln": "Huilliche"
+    "gwcode": "es-419"
 }

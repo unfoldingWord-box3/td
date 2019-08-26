@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kxh",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 3264,
-    "lr": "Africa",
     "lc": "kxh",
+    "gw": false,
+    "ln": "Karo (Ethiopia)",
+    "ld": "ltr",
+    "ang": "Karo",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -14,7 +16,5 @@
         "Kere",
         "Kerre"
     ],
-    "ang": "Karo",
-    "gwcode": "am",
-    "ln": "Karo (Ethiopia)"
+    "gwcode": "am"
 }

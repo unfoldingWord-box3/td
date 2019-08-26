@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bic",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 688,
-    "lr": "Pacific",
     "lc": "bic",
+    "gw": false,
+    "ln": "Bikaru",
+    "ld": "ltr",
+    "ang": "Bikaru",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Bugalu",
         "Pikaru"
     ],
-    "ang": "Bikaru",
-    "gwcode": "tpi",
-    "ln": "Bikaru"
+    "gwcode": "tpi"
 }

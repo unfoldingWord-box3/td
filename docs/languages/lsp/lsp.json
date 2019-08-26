@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "lsp",
-    "hc": "PA",
-    "ld": "ltr",
     "pk": 3602,
-    "lr": "Americas",
     "lc": "lsp",
+    "gw": false,
+    "ln": "Panamanian Sign Language",
+    "ld": "ltr",
+    "ang": "Panamanian Sign Language",
+    "hc": "PA",
+    "lr": "Americas",
     "cc": [
         "PA"
     ],
     "alt": [
         "Lengua de se\u00f1as paname\u00f1as"
     ],
-    "ang": "Panamanian Sign Language",
-    "gwcode": "es-419",
-    "ln": "Panamanian Sign Language"
+    "gwcode": "es-419"
 }

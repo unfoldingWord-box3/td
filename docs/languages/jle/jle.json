@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jle",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 2636,
-    "lr": "Africa",
     "lc": "jle",
+    "gw": false,
+    "ln": "Ngile",
+    "ld": "ltr",
+    "ang": "Ngile",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -18,7 +20,5 @@
         "Masakin Tuwal",
         "Daloka (Taloka)"
     ],
-    "ang": "Ngile",
-    "gwcode": "ar",
-    "ln": "Ngile"
+    "gwcode": "ar"
 }

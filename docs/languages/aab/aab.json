@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aab",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 8,
-    "lr": "Africa",
     "lc": "aab",
+    "gw": false,
+    "ln": "Alumu-Tesu",
+    "ld": "ltr",
+    "ang": "Alumu-Tesu",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Arum-Chessu",
         "Arum-Tesu"
     ],
-    "ang": "Alumu-Tesu",
-    "gwcode": "en",
-    "ln": "Alumu-Tesu"
+    "gwcode": "en"
 }

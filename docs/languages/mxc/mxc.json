@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mxc",
-    "hc": "ZW",
-    "ld": "ltr",
     "pk": 4216,
-    "lr": "Africa",
     "lc": "mxc",
+    "gw": false,
+    "ln": "Manyika",
+    "ld": "ltr",
+    "ang": "Manyika",
+    "hc": "ZW",
+    "lr": "Africa",
     "cc": [
         "MZ",
         "ZW"
@@ -17,7 +19,5 @@
         "Wanyika",
         "Bocha (Boka)"
     ],
-    "ang": "Manyika",
-    "gwcode": "en",
-    "ln": "Manyika"
+    "gwcode": "en"
 }

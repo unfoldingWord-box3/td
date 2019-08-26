@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tyh",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 6445,
-    "lr": "Asia",
     "lc": "tyh",
+    "gw": false,
+    "ln": "\u01a0 \u0110u",
+    "ld": "ltr",
+    "ang": "O\u2019du",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "LA",
         "VN"
@@ -18,7 +20,5 @@
         "Tay Hat",
         "O Du"
     ],
-    "ang": "O\u2019du",
-    "gwcode": "vi",
-    "ln": "\u01a0 \u0110u"
+    "gwcode": "vi"
 }

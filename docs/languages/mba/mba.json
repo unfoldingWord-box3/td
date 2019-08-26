@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mba",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 3678,
-    "lr": "Asia",
     "lc": "mba",
+    "gw": false,
+    "ln": "Higaonon",
+    "ld": "ltr",
+    "ang": "Higaonon",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Higaunon",
         "Misamis Higaonon Manobo"
     ],
-    "ang": "Higaonon",
-    "gwcode": "ceb",
-    "ln": "Higaonon"
+    "gwcode": "ceb"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jaq",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2576,
-    "lr": "Asia",
     "lc": "jaq",
+    "gw": false,
+    "ln": "Yaqay",
+    "ld": "ltr",
+    "ang": "Yaqay",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "AU"
@@ -17,7 +19,5 @@
         "Sohur",
         "Nambiomon-Mabur"
     ],
-    "ang": "Yaqay",
-    "gwcode": "id",
-    "ln": "Yaqay"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kee",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 2787,
-    "lr": "Americas",
     "lc": "kee",
+    "gw": false,
+    "ln": "Eastern Keres",
+    "ld": "ltr",
+    "ang": "Keres, Eastern",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -13,7 +15,5 @@
         "Eastern Keres Pueblo",
         "Rio Grande Keresan"
     ],
-    "ang": "Keres, Eastern",
-    "gwcode": "en",
-    "ln": "Eastern Keres"
+    "gwcode": "en"
 }

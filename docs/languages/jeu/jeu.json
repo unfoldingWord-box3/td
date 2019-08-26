@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jeu",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 2607,
-    "lr": "Africa",
     "lc": "jeu",
+    "gw": false,
+    "ln": "Jonkor Bourmataguil",
+    "ld": "ltr",
+    "ang": "Jonkor Bourmataguil",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -13,7 +15,5 @@
         "Djongor Bourmataguil",
         "Karakir"
     ],
-    "ang": "Jonkor Bourmataguil",
-    "gwcode": "ar",
-    "ln": "Jonkor Bourmataguil"
+    "gwcode": "ar"
 }

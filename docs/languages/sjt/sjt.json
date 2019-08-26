@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sjt",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 5653,
-    "lr": "Europe",
     "lc": "sjt",
+    "gw": false,
+    "ln": "\u0419\u043e\u043a\u0430\u043d\u044c\u0433\u0441\u043a\u043e-\u0441\u0430\u0430\u043c\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Saami, Ter",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -14,7 +16,5 @@
         "Lapp",
         "Ter Lappish"
     ],
-    "ang": "Saami, Ter",
-    "gwcode": "ru",
-    "ln": "\u0419\u043e\u043a\u0430\u043d\u044c\u0433\u0441\u043a\u043e-\u0441\u0430\u0430\u043c\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

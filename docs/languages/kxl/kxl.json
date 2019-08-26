@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kxl",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 3268,
-    "lr": "Asia",
     "lc": "kxl",
+    "gw": false,
+    "ln": "\u0915\u0941\u0921\u093c\u0941\u0916\u093c",
+    "ld": "ltr",
+    "ang": "Kurux, Nepali",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -20,7 +22,5 @@
         "Uraon",
         "Uraw"
     ],
-    "ang": "Kurux, Nepali",
-    "gwcode": "ne",
-    "ln": "\u0915\u0941\u0921\u093c\u0941\u0916\u093c"
+    "gwcode": "ne"
 }

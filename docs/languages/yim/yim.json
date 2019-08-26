@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yim",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 7187,
-    "lr": "Asia",
     "lc": "yim",
+    "gw": false,
+    "ln": "Yimchungru Naga",
+    "ld": "ltr",
+    "ang": "Naga, Yimchungru",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN",
         "MM"
@@ -18,7 +20,5 @@
         "Yimchungre",
         "Yimchungru"
     ],
-    "ang": "Naga, Yimchungru",
-    "gwcode": "en",
-    "ln": "Yimchungru Naga"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mdf",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 3733,
-    "lr": "Europe",
     "lc": "mdf",
+    "gw": false,
+    "ln": "\u041c\u043e\u043a\u0448\u0430\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Moksha",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -15,7 +17,5 @@
         "Mordov",
         "Mordvin-Moksha"
     ],
-    "ang": "Moksha",
-    "gwcode": "ru",
-    "ln": "\u041c\u043e\u043a\u0448\u0430\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

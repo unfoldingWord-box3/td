@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vmj",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6635,
-    "lr": "Americas",
     "lc": "vmj",
+    "gw": false,
+    "ln": "Ixtayutla Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Ixtayutla",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Mixteco de Santiago Ixtayutla",
         "Northeastern Jamiltepec Mixtec"
     ],
-    "ang": "Mixtec, Ixtayutla",
-    "gwcode": "es-419",
-    "ln": "Ixtayutla Mixtec"
+    "gwcode": "es-419"
 }

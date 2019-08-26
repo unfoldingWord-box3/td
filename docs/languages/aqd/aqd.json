@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aqd",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 326,
-    "lr": "Africa",
     "lc": "aqd",
+    "gw": false,
+    "ln": "Ampari Dogon",
+    "ld": "ltr",
+    "ang": "Dogon, Ampari",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "ML"
     ],
@@ -14,7 +16,5 @@
         "Ampari",
         "Pignari"
     ],
-    "ang": "Dogon, Ampari",
-    "gwcode": "fr",
-    "ln": "Ampari Dogon"
+    "gwcode": "fr"
 }

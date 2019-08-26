@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vmp",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6638,
-    "lr": "Americas",
     "lc": "vmp",
+    "gw": false,
+    "ln": "Soyaltepec Mazatec",
+    "ld": "ltr",
+    "ang": "Mazatec, Soyaltepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Mazateco de Temascal",
         "Mazateco del Noreste"
     ],
-    "ang": "Mazatec, Soyaltepec",
-    "gwcode": "es-419",
-    "ln": "Soyaltepec Mazatec"
+    "gwcode": "es-419"
 }

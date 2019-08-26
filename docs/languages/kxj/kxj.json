@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kxj",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 3266,
-    "lr": "Africa",
     "lc": "kxj",
+    "gw": false,
+    "ln": "Kulfa",
+    "ld": "ltr",
+    "ang": "Kulfa",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -15,7 +17,5 @@
         "Kaba So",
         "Bara"
     ],
-    "ang": "Kulfa",
-    "gwcode": "ar",
-    "ln": "Kulfa"
+    "gwcode": "ar"
 }

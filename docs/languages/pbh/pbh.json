@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pbh",
-    "hc": "VE",
-    "ld": "ltr",
     "pk": 4944,
-    "lr": "Americas",
     "lc": "pbh",
+    "gw": false,
+    "ln": "E'\u00f1apa Woromaipu",
+    "ld": "ltr",
+    "ang": "E\u2019\u00f1apa Woromaipu",
+    "hc": "VE",
+    "lr": "Americas",
     "cc": [
         "VE"
     ],
@@ -17,7 +19,5 @@
         "Panare",
         "Panari"
     ],
-    "ang": "E\u2019\u00f1apa Woromaipu",
-    "gwcode": "es-419",
-    "ln": "E'\u00f1apa Woromaipu"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lhp",
-    "hc": "BT",
-    "ld": "ltr",
     "pk": 3450,
-    "lr": "Asia",
     "lc": "lhp",
+    "gw": false,
+    "ln": "Lhokpu",
+    "ld": "ltr",
+    "ang": "Lhokpu",
+    "hc": "BT",
+    "lr": "Asia",
     "cc": [
         "BT"
     ],
@@ -13,7 +15,5 @@
         "Lhobikha",
         "Taba-Damey-Bikha"
     ],
-    "ang": "Lhokpu",
-    "gwcode": "UNKNOWN",
-    "ln": "Lhokpu"
+    "gwcode": "dz"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bkq",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 745,
-    "lr": "Americas",
     "lc": "bkq",
+    "gw": false,
+    "ln": "Bakair\u00ed",
+    "ld": "ltr",
+    "ang": "Bakair\u00ed",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -13,7 +15,5 @@
         "Bacair\u00ed",
         "Kur\u00e2"
     ],
-    "ang": "Bakair\u00ed",
-    "gwcode": "pt",
-    "ln": "Bakair\u00ed"
+    "gwcode": "pt"
 }

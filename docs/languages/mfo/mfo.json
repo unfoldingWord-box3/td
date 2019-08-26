@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mfo",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3791,
-    "lr": "Africa",
     "lc": "mfo",
+    "gw": false,
+    "ln": "Mbe",
+    "ld": "ltr",
+    "ang": "Mbe",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Western Mbube",
         "Ekumtak"
     ],
-    "ang": "Mbe",
-    "gwcode": "en",
-    "ln": "Mbe"
+    "gwcode": "en"
 }

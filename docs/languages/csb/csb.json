@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "csb",
-    "hc": "PL",
-    "ld": "ltr",
     "pk": 1346,
-    "lr": "Europe",
     "lc": "csb",
+    "gw": false,
+    "ln": "Kashubian",
+    "ld": "ltr",
+    "ang": "Kashubian",
+    "hc": "PL",
+    "lr": "Europe",
     "cc": [
         "PL"
     ],
@@ -14,7 +16,5 @@
         "Cassubian",
         "Kaszubski"
     ],
-    "ang": "Kashubian",
-    "gwcode": "en",
-    "ln": "Kashubian"
+    "gwcode": "en"
 }

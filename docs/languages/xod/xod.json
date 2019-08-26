@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xod",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 7002,
-    "lr": "Asia",
     "lc": "xod",
+    "gw": false,
+    "ln": "Kokoda",
+    "ld": "ltr",
+    "ang": "Kokoda",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Kasuweri (Komudago)",
         "Negri Besar (Negeri Besar)"
     ],
-    "ang": "Kokoda",
-    "gwcode": "id",
-    "ln": "Kokoda"
+    "gwcode": "id"
 }

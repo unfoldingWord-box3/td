@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nsm",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4648,
-    "lr": "Asia",
     "lc": "nsm",
+    "gw": false,
+    "ln": "Sumi Naga",
+    "ld": "ltr",
+    "ang": "Naga, Sumi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Sumi",
         "Dayang (Western Sumi)"
     ],
-    "ang": "Naga, Sumi",
-    "gwcode": "en",
-    "ln": "Sumi Naga"
+    "gwcode": "en"
 }

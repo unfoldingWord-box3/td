@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pcf",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4961,
-    "lr": "Asia",
     "lc": "pcf",
+    "gw": false,
+    "ln": "Paliyan",
+    "ld": "ltr",
+    "ang": "Paliyan",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -24,7 +26,5 @@
         "Karavazhi",
         "Mala Pulayan (Hill Pulaya)"
     ],
-    "ang": "Paliyan",
-    "gwcode": "ml",
-    "ln": "Paliyan"
+    "gwcode": "ml"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tyi",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 6446,
-    "lr": "Africa",
     "lc": "tyi",
+    "gw": false,
+    "ln": "Teke-Tsaayi",
+    "ld": "ltr",
+    "ang": "Teke-Tsaayi",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CG"
     ],
@@ -15,7 +17,5 @@
         "Tsaye",
         "Tsayi"
     ],
-    "ang": "Teke-Tsaayi",
-    "gwcode": "fr",
-    "ln": "Teke-Tsaayi"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bod",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 830,
-    "lr": "Asia",
     "lc": "bo",
+    "gw": false,
+    "ln": "\u0f56\u0f7c\u0f51\u0f0b\u0f61\u0f72\u0f42",
+    "ld": "ltr",
+    "ang": "Tibetan Standard, Tibetan, Central",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "BT",
@@ -49,7 +51,5 @@
         "Dartsemdo (Tatsienlu)",
         "Paurong"
     ],
-    "ang": "Tibetan Standard, Tibetan, Central",
-    "gwcode": "zh",
-    "ln": "\u0f56\u0f7c\u0f51\u0f0b\u0f61\u0f72\u0f42"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wbp",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6699,
-    "lr": "Pacific",
     "lc": "wbp",
+    "gw": false,
+    "ln": "Warlpiri",
+    "ld": "ltr",
+    "ang": "Warlpiri",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -19,7 +21,5 @@
         "Walmama",
         "Walpiri"
     ],
-    "ang": "Warlpiri",
-    "gwcode": "en",
-    "ln": "Warlpiri"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fry",
-    "hc": "NL",
-    "ld": "ltr",
     "pk": 1901,
-    "lr": "Europe",
     "lc": "fy",
+    "gw": false,
+    "ln": "Frysk",
+    "ld": "ltr",
+    "ang": "Western Frisian",
+    "hc": "NL",
+    "lr": "Europe",
     "cc": [
         "NL",
         "CA"
@@ -18,7 +20,5 @@
         "S\u00fadhoeksk",
         "W\u00e2ldfrysk"
     ],
-    "ang": "Western Frisian",
-    "gwcode": "UNKNOWN",
-    "ln": "Frysk"
+    "gwcode": "nl"
 }

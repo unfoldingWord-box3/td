@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "oue",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4906,
-    "lr": "Pacific",
     "lc": "oue",
+    "gw": false,
+    "ln": "Oune",
+    "ld": "ltr",
+    "ang": "Oune",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Eivo 3",
         "Ounge"
     ],
-    "ang": "Oune",
-    "gwcode": "tpi",
-    "ln": "Oune"
+    "gwcode": "tpi"
 }

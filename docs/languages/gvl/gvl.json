@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gvl",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 2182,
-    "lr": "Africa",
     "lc": "gvl",
+    "gw": false,
+    "ln": "Gulay",
+    "ld": "ltr",
+    "ang": "Gulay",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -17,7 +19,5 @@
         "Gulei",
         "Pen (Peni)"
     ],
-    "ang": "Gulay",
-    "gwcode": "ar",
-    "ln": "Gulay"
+    "gwcode": "ar"
 }

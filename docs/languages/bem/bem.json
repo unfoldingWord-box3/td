@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bem",
-    "hc": "ZM",
-    "ld": "ltr",
     "pk": 597,
-    "lr": "Africa",
     "lc": "bem",
+    "gw": false,
+    "ln": "Bemba (Zambia)",
+    "ld": "ltr",
+    "ang": "Bemba",
+    "hc": "ZM",
+    "lr": "Africa",
     "cc": [
         "TZ",
         "ZM",
@@ -20,7 +22,5 @@
         "Lomotua (Lomotwa)",
         "Lunda (Luapula)"
     ],
-    "ang": "Bemba",
-    "gwcode": "en",
-    "ln": "Bemba (Zambia)"
+    "gwcode": "en"
 }

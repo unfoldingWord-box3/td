@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "myy",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 4260,
-    "lr": "Americas",
     "lc": "myy",
+    "gw": false,
+    "ln": "Macuna",
+    "ld": "ltr",
+    "ang": "Macuna",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "BR",
         "CO"
@@ -29,7 +31,5 @@
         "Umua",
         "Yeba"
     ],
-    "ang": "Macuna",
-    "gwcode": "es-419",
-    "ln": "Macuna"
+    "gwcode": "es-419"
 }

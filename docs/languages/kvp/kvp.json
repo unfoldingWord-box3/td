@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kvp",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3223,
-    "lr": "Asia",
     "lc": "kvp",
+    "gw": false,
+    "ln": "Kompane",
+    "ld": "ltr",
+    "ang": "Kompane",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Komfana",
         "Kongampani"
     ],
-    "ang": "Kompane",
-    "gwcode": "id",
-    "ln": "Kompane"
+    "gwcode": "id"
 }

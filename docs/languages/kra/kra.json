@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kra",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 3109,
-    "lr": "Asia",
     "lc": "kra",
+    "gw": false,
+    "ln": "Kumhali",
+    "ld": "ltr",
+    "ang": "Kumhali",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -19,7 +21,5 @@
         "Palpa",
         "Arghakhanchi"
     ],
-    "ang": "Kumhali",
-    "gwcode": "ne",
-    "ln": "Kumhali"
+    "gwcode": "ne"
 }

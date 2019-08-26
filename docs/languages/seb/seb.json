@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "seb",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 5544,
-    "lr": "Africa",
     "lc": "seb",
+    "gw": false,
+    "ln": "Shempire Senoufo",
+    "ld": "ltr",
+    "ang": "S\u00e9noufo, Shempire",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -14,7 +16,5 @@
         "Syempire",
         "Gbajere"
     ],
-    "ang": "S\u00e9noufo, Shempire",
-    "gwcode": "fr",
-    "ln": "Shempire Senoufo"
+    "gwcode": "fr"
 }

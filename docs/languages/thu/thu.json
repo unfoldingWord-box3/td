@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "thu",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 6116,
-    "lr": "Africa",
     "lc": "thu",
+    "gw": false,
+    "ln": "Thuri",
+    "ld": "ltr",
+    "ang": "Thuri",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -23,7 +25,5 @@
         "Bodho (Dembo)",
         "Dhe Boodho"
     ],
-    "ang": "Thuri",
-    "gwcode": "ar",
-    "ln": "Thuri"
+    "gwcode": "ar"
 }

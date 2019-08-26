@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rav",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5325,
-    "lr": "Asia",
     "lc": "rav",
+    "gw": false,
+    "ln": "Sampang",
+    "ld": "ltr",
+    "ang": "Sampang",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -19,7 +21,5 @@
         "Sangpang Gun",
         "Sangpang Kha"
     ],
-    "ang": "Sampang",
-    "gwcode": "ne",
-    "ln": "Sampang"
+    "gwcode": "ne"
 }

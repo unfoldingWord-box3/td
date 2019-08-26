@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xom",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 7006,
-    "lr": "Africa",
     "lc": "xom",
+    "gw": false,
+    "ln": "Komo (Sudan)",
+    "ld": "ltr",
+    "ang": "Komo",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SD"
@@ -20,7 +22,5 @@
         "Hayahaya",
         "Aru"
     ],
-    "ang": "Komo",
-    "gwcode": "ar",
-    "ln": "Komo (Sudan)"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "agr",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 138,
-    "lr": "Americas",
     "lc": "agr",
+    "gw": false,
+    "ln": "Aguaruna",
+    "ld": "ltr",
+    "ang": "Aguaruna",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -14,7 +16,5 @@
         "Ahuaj\u00fan",
         "Awaj\u00fan"
     ],
-    "ang": "Aguaruna",
-    "gwcode": "es-419",
-    "ln": "Aguaruna"
+    "gwcode": "es-419"
 }

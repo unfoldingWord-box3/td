@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dir",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1535,
-    "lr": "Africa",
     "lc": "dir",
+    "gw": false,
+    "ln": "Dirim",
+    "ld": "ltr",
+    "ang": "Dirim",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Dirin",
         "Dirrim"
     ],
-    "ang": "Dirim",
-    "gwcode": "en",
-    "ln": "Dirim"
+    "gwcode": "en"
 }

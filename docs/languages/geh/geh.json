@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "geh",
-    "hc": "CA",
-    "ld": "ltr",
     "pk": 1985,
-    "lr": "Americas",
     "lc": "geh",
+    "gw": false,
+    "ln": "Hutterite German",
+    "ld": "ltr",
+    "ang": "Hutterisch",
+    "hc": "CA",
+    "lr": "Americas",
     "cc": [
         "US",
         "CA"
@@ -17,7 +19,5 @@
         "Tirolean",
         "Tyrolese"
     ],
-    "ang": "Hutterisch",
-    "gwcode": "en",
-    "ln": "Hutterite German"
+    "gwcode": "en"
 }

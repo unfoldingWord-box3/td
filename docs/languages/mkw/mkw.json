@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mkw",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 3922,
-    "lr": "Africa",
     "lc": "mkw",
+    "gw": false,
+    "ln": "Kituba (Congo)",
+    "ld": "ltr",
+    "ang": "Kituba",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CG"
     ],
@@ -13,7 +15,5 @@
         "Kikoongo",
         "Munukutuba"
     ],
-    "ang": "Kituba",
-    "gwcode": "fr",
-    "ln": "Kituba (Congo)"
+    "gwcode": "fr"
 }

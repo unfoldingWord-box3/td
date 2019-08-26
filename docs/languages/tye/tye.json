@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tye",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 6444,
-    "lr": "Africa",
     "lc": "tye",
+    "gw": false,
+    "ln": "Kyanga",
+    "ld": "ltr",
+    "ang": "Kyanga",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "NG"
@@ -21,7 +23,5 @@
         "Tienga",
         "Tyanga"
     ],
-    "ang": "Kyanga",
-    "gwcode": "en",
-    "ln": "Kyanga"
+    "gwcode": "en"
 }

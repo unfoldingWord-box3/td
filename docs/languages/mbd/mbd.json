@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mbd",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 3681,
-    "lr": "Asia",
     "lc": "mbd",
+    "gw": false,
+    "ln": "Dibabawon Manobo",
+    "ld": "ltr",
+    "ang": "Manobo, Dibabawon",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -14,7 +16,5 @@
         "Dibabaon",
         "Mandaya"
     ],
-    "ang": "Manobo, Dibabawon",
-    "gwcode": "en",
-    "ln": "Dibabawon Manobo"
+    "gwcode": "en"
 }

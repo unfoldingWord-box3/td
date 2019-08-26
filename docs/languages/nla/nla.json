@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nla",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4519,
-    "lr": "Africa",
     "lc": "nla",
+    "gw": false,
+    "ln": "Ngombale",
+    "ld": "ltr",
+    "ang": "Ngombale",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Bamessingue (Bassing)",
         "Nchobela"
     ],
-    "ang": "Ngombale",
-    "gwcode": "fr",
-    "ln": "Ngombale"
+    "gwcode": "fr"
 }

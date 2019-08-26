@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "awb",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 437,
-    "lr": "Pacific",
     "lc": "awb",
+    "gw": false,
+    "ln": "Awa (Papua New Guinea)",
+    "ld": "ltr",
+    "ang": "Awa",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Ilakia",
         "South Awa"
     ],
-    "ang": "Awa",
-    "gwcode": "tpi",
-    "ln": "Awa (Papua New Guinea)"
+    "gwcode": "tpi"
 }

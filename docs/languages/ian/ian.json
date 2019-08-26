@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ian",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2401,
-    "lr": "Pacific",
     "lc": "ian",
+    "gw": false,
+    "ln": "Iatmul",
+    "ld": "ltr",
+    "ang": "Iatmul",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Gepma Kwundi",
         "Ngepma Kwundi"
     ],
-    "ang": "Iatmul",
-    "gwcode": "tpi",
-    "ln": "Iatmul"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bhd",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 663,
-    "lr": "Asia",
     "lc": "bhd",
+    "gw": false,
+    "ln": "Bhadrawahi",
+    "ld": "ltr",
+    "ang": "Bhadrawahi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -19,7 +21,5 @@
         "Bhadri",
         "Padari (Padar)"
     ],
-    "ang": "Bhadrawahi",
-    "gwcode": "UNKNOWN",
-    "ln": "Bhadrawahi"
+    "gwcode": "ks"
 }

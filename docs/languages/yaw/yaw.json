@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yaw",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 7132,
-    "lr": "Americas",
     "lc": "yaw",
+    "gw": false,
+    "ln": "Yawalapit\u00ed",
+    "ld": "ltr",
+    "ang": "Yawalapit\u00ed",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -13,7 +15,5 @@
         "Jaulapiti",
         "Yaulapiti"
     ],
-    "ang": "Yawalapit\u00ed",
-    "gwcode": "pt",
-    "ln": "Yawalapit\u00ed"
+    "gwcode": "pt"
 }

@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "wmo",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6771,
-    "lr": "Pacific",
     "lc": "wmo",
+    "gw": false,
+    "ln": "Wom (Papua New Guinea)",
+    "ld": "ltr",
+    "ang": "Wom",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
     "alt": [
         "Wam"
     ],
-    "ang": "Wom",
-    "gwcode": "tpi",
-    "ln": "Wom (Papua New Guinea)"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bbo",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 522,
-    "lr": "Africa",
     "lc": "bbo",
+    "gw": false,
+    "ln": "Northern Bobo Madar\u00e9",
+    "ld": "ltr",
+    "ang": "Konab\u00e9r\u00e9",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF",
         "ML"
@@ -23,7 +25,5 @@
         "San",
         "Sankuma (Sarokama)"
     ],
-    "ang": "Konab\u00e9r\u00e9",
-    "gwcode": "fr",
-    "ln": "Northern Bobo Madar\u00e9"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kqk",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 3093,
-    "lr": "Africa",
     "lc": "kqk",
+    "gw": false,
+    "ln": "Kotafon Gbe",
+    "ld": "ltr",
+    "ang": "Gbe, Kotafon",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ"
     ],
@@ -13,7 +15,5 @@
         "Ko",
         "Kogbe"
     ],
-    "ang": "Gbe, Kotafon",
-    "gwcode": "fr",
-    "ln": "Kotafon Gbe"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ttw",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 6370,
-    "lr": "Asia",
     "lc": "ttw",
+    "gw": false,
+    "ln": "Long Wat",
+    "ld": "ltr",
+    "ang": "Long Wat",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -13,7 +15,5 @@
         "Tutoh Kenya",
         "Tutoh Kenyah"
     ],
-    "ang": "Long Wat",
-    "gwcode": "ms",
-    "ln": "Long Wat"
+    "gwcode": "ms"
 }

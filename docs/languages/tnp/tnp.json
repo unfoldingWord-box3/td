@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tnp",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 6232,
-    "lr": "Pacific",
     "lc": "tnp",
+    "gw": false,
+    "ln": "Whitesands",
+    "ld": "ltr",
+    "ang": "Whitesands",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -14,7 +16,5 @@
         "Whitsands",
         "Weasisi (Wassisi)"
     ],
-    "ang": "Whitesands",
-    "gwcode": "fr",
-    "ln": "Whitesands"
+    "gwcode": "fr"
 }

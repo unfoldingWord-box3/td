@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mgq",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 3819,
-    "lr": "Africa",
     "lc": "mgq",
+    "gw": false,
+    "ln": "Malila",
+    "ld": "ltr",
+    "ang": "Malila",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -15,7 +17,5 @@
         "Malilia",
         "Shimalilia"
     ],
-    "ang": "Malila",
-    "gwcode": "sw",
-    "ln": "Malila"
+    "gwcode": "sw"
 }

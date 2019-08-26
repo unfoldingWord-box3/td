@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hpo",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 2341,
-    "lr": "Asia",
     "lc": "hpo",
+    "gw": false,
+    "ln": "Hpon",
+    "ld": "ltr",
+    "ang": "Hpon",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -19,7 +21,5 @@
         "North Hpon",
         "South Hpon"
     ],
-    "ang": "Hpon",
-    "gwcode": "my",
-    "ln": "Hpon"
+    "gwcode": "my"
 }

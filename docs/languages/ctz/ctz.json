@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ctz",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 1382,
-    "lr": "Americas",
     "lc": "ctz",
+    "gw": false,
+    "ln": "Zacatepec Chatino",
+    "ld": "ltr",
+    "ang": "Chatino, Zacatepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Chatino de San Marcos Zacatepec",
         "Chatino de Zacatepec"
     ],
-    "ang": "Chatino, Zacatepec",
-    "gwcode": "es-419",
-    "ln": "Zacatepec Chatino"
+    "gwcode": "es-419"
 }

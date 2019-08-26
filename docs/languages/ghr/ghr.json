@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ghr",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 2017,
-    "lr": "Asia",
     "lc": "ghr",
+    "gw": false,
+    "ln": "Ghera",
+    "ld": "ltr",
+    "ang": "Ghera",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "PK"
     ],
@@ -13,7 +15,5 @@
         "Bara",
         "Sindhi Ghera"
     ],
-    "ang": "Ghera",
-    "gwcode": "ur",
-    "ln": "Ghera"
+    "gwcode": "ur"
 }

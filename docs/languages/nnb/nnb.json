@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nnb",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4560,
-    "lr": "Africa",
     "lc": "nnb",
+    "gw": false,
+    "ln": "Nande",
+    "ld": "ltr",
+    "ang": "Nande",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD",
         "UG"
@@ -29,7 +31,5 @@
         "Ekisongoora (Nyangala)",
         "Sanza (Ekisanza)"
     ],
-    "ang": "Nande",
-    "gwcode": "fr",
-    "ln": "Nande"
+    "gwcode": "fr"
 }

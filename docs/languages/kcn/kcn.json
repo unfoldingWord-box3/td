@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kcn",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 2749,
-    "lr": "Africa",
     "lc": "kcn",
+    "gw": false,
+    "ln": "Nubi",
+    "ld": "ltr",
+    "ang": "Nubi",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "KE",
         "UG"
@@ -14,7 +16,5 @@
         "Kinubi",
         "Ki-Nubi"
     ],
-    "ang": "Nubi",
-    "gwcode": "en",
-    "ln": "Nubi"
+    "gwcode": "en"
 }

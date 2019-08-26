@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fuf",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 1886,
-    "lr": "Africa",
     "lc": "fuf",
+    "gw": false,
+    "ln": "Pular",
+    "ld": "ltr",
+    "ang": "Pular",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "ML",
         "SN",
@@ -26,7 +28,5 @@
         "Fula",
         "Futa"
     ],
-    "ang": "Pular",
-    "gwcode": "fr",
-    "ln": "Pular"
+    "gwcode": "fr"
 }

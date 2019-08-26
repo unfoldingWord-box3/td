@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pae",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4919,
-    "lr": "Africa",
     "lc": "pae",
+    "gw": false,
+    "ln": "Pagibete",
+    "ld": "ltr",
+    "ang": "Pagibete",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -20,7 +22,5 @@
         "Ndundusana (Egejo)",
         "Egezo"
     ],
-    "ang": "Pagibete",
-    "gwcode": "fr",
-    "ln": "Pagibete"
+    "gwcode": "fr"
 }

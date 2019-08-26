@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gir",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 2031,
-    "lr": "Asia",
     "lc": "gir",
+    "gw": false,
+    "ln": "\u7ea2\u4ee1\u4f6c\u8bed",
+    "ld": "ltr",
+    "ang": "Gelao, Red",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -13,7 +15,5 @@
         "Vandu Gelao",
         "Voa D\u00ea"
     ],
-    "ang": "Gelao, Red",
-    "gwcode": "vi",
-    "ln": "\u7ea2\u4ee1\u4f6c\u8bed"
+    "gwcode": "vi"
 }

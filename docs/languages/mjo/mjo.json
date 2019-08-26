@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mjo",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3889,
-    "lr": "Asia",
     "lc": "mjo",
+    "gw": false,
+    "ln": "Malankuravan",
+    "ld": "ltr",
+    "ang": "Malankuravan",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Malakkuravan",
         "Male Kuravan"
     ],
-    "ang": "Malankuravan",
-    "gwcode": "ml",
-    "ln": "Malankuravan"
+    "gwcode": "ml"
 }

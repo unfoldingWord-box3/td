@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tiv",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 6139,
-    "lr": "Africa",
     "lc": "tiv",
+    "gw": false,
+    "ln": "Tiv",
+    "ld": "ltr",
+    "ang": "Tiv",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -13,7 +15,5 @@
     "alt": [
         "Munshi"
     ],
-    "ang": "Tiv",
-    "gwcode": "en",
-    "ln": "Tiv"
+    "gwcode": "en"
 }

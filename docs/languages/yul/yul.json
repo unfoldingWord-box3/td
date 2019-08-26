@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yul",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 7301,
-    "lr": "Africa",
     "lc": "yul",
+    "gw": false,
+    "ln": "Yulu",
+    "ld": "ltr",
+    "ang": "Yulu",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF",
         "SD"
@@ -13,7 +15,5 @@
     "alt": [
         "Youlou"
     ],
-    "ang": "Yulu",
-    "gwcode": "fr",
-    "ln": "Yulu"
+    "gwcode": "fr"
 }

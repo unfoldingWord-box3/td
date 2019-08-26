@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tnh",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6225,
-    "lr": "Pacific",
     "lc": "tnh",
+    "gw": false,
+    "ln": "Maiani",
+    "ld": "ltr",
+    "ang": "Maiani",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Tani",
         "Wagimuda"
     ],
-    "ang": "Maiani",
-    "gwcode": "tpi",
-    "ln": "Maiani"
+    "gwcode": "tpi"
 }

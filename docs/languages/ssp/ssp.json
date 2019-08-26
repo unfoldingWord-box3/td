@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ssp",
-    "hc": "ES",
-    "ld": "ltr",
     "pk": 5841,
-    "lr": "Europe",
     "lc": "ssp",
+    "gw": false,
+    "ln": "Spanish Sign Language",
+    "ld": "ltr",
+    "ang": "Spanish Sign Language",
+    "hc": "ES",
+    "lr": "Europe",
     "cc": [
         "ES",
         "HN"
@@ -13,7 +15,5 @@
     "alt": [
         "M\u00edmica"
     ],
-    "ang": "Spanish Sign Language",
-    "gwcode": "es",
-    "ln": "Spanish Sign Language"
+    "gwcode": "es"
 }

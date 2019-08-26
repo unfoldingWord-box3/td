@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kpk",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3069,
-    "lr": "Africa",
     "lc": "kpk",
+    "gw": false,
+    "ln": "Kpan",
+    "ld": "ltr",
+    "ang": "Kpan",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -26,7 +28,5 @@
         "Kentu",
         "Kente (Etkye)"
     ],
-    "ang": "Kpan",
-    "gwcode": "en",
-    "ln": "Kpan"
+    "gwcode": "en"
 }

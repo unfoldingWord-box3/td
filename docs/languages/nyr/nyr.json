@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nyr",
-    "hc": "MW",
-    "ld": "ltr",
     "pk": 4742,
-    "lr": "Africa",
     "lc": "nyr",
+    "gw": false,
+    "ln": "Nyiha (Malawi)",
+    "ld": "ltr",
+    "ang": "Nyiha, Malawi",
+    "hc": "MW",
+    "lr": "Africa",
     "cc": [
         "MW"
     ],
@@ -13,7 +15,5 @@
         "Kinyiha",
         "Shinyiha"
     ],
-    "ang": "Nyiha, Malawi",
-    "gwcode": "en",
-    "ln": "Nyiha (Malawi)"
+    "gwcode": "en"
 }

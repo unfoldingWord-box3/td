@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ngw",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4429,
-    "lr": "Africa",
     "lc": "ngw",
+    "gw": false,
+    "ln": "Ngwaba",
+    "ld": "ltr",
+    "ang": "Ngwaba",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Goba",
         "Gombi"
     ],
-    "ang": "Ngwaba",
-    "gwcode": "en",
-    "ln": "Ngwaba"
+    "gwcode": "en"
 }

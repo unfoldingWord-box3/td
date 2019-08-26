@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "air",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 177,
-    "lr": "Asia",
     "lc": "air",
+    "gw": false,
+    "ln": "Airoran",
+    "ld": "ltr",
+    "ang": "Airoran",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Aeroran",
         "Iriemkena"
     ],
-    "ang": "Airoran",
-    "gwcode": "id",
-    "ln": "Airoran"
+    "gwcode": "id"
 }

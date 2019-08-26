@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "prd",
-    "hc": "IR",
-    "ld": "ltr",
     "pk": 5157,
-    "lr": "Asia",
     "lc": "prd",
+    "gw": false,
+    "ln": "Parsi-Dari",
+    "ld": "ltr",
+    "ang": "Parsi-Dari",
+    "hc": "IR",
+    "lr": "Asia",
     "cc": [
         "IR"
     ],
@@ -14,7 +16,5 @@
         "Parsee-Dari",
         "Parsi"
     ],
-    "ang": "Parsi-Dari",
-    "gwcode": "fa",
-    "ln": "Parsi-Dari"
+    "gwcode": "fa"
 }

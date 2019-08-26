@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "miz",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3878,
-    "lr": "Americas",
     "lc": "miz",
+    "gw": false,
+    "ln": "Coatzospan Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Coatzospan",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Mixteco de San Juan Coatzospan",
         "Teotitl\u00e1n Mixtec"
     ],
-    "ang": "Mixtec, Coatzospan",
-    "gwcode": "es-419",
-    "ln": "Coatzospan Mixtec"
+    "gwcode": "es-419"
 }

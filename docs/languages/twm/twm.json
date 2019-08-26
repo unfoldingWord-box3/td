@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "twm",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6413,
-    "lr": "Asia",
     "lc": "twm",
+    "gw": false,
+    "ln": "Tawang Monpa",
+    "ld": "ltr",
+    "ang": "Monpa, Tawang",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "IN"
@@ -34,7 +36,5 @@
         "Northern Cuona",
         "Southern Cuona"
     ],
-    "ang": "Monpa, Tawang",
-    "gwcode": "en",
-    "ln": "Tawang Monpa"
+    "gwcode": "en"
 }

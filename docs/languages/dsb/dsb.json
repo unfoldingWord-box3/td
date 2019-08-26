@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dsb",
-    "hc": "DE",
-    "ld": "ltr",
     "pk": 1629,
-    "lr": "Europe",
     "lc": "dsb",
+    "gw": false,
+    "ln": "Lower Sorbian",
+    "ld": "ltr",
+    "ang": "Sorbian, Lower",
+    "hc": "DE",
+    "lr": "Europe",
     "cc": [
         "DE"
     ],
@@ -19,7 +21,5 @@
         "Niedersorbisch",
         "Wendish"
     ],
-    "ang": "Sorbian, Lower",
-    "gwcode": "en",
-    "ln": "Lower Sorbian"
+    "gwcode": "en"
 }

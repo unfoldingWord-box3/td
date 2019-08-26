@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xbi",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6873,
-    "lr": "Pacific",
     "lc": "xbi",
+    "gw": false,
+    "ln": "Kombio",
+    "ld": "ltr",
+    "ang": "Kombio",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "North Kombio (Mwi)",
         "East Kombio (Wampurun)"
     ],
-    "ang": "Kombio",
-    "gwcode": "tpi",
-    "ln": "Kombio"
+    "gwcode": "tpi"
 }

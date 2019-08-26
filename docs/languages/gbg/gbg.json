@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gbg",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 1933,
-    "lr": "Africa",
     "lc": "gbg",
+    "gw": false,
+    "ln": "Gbanziri",
+    "ld": "ltr",
+    "ang": "Gbanziri",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF",
         "CG"
@@ -14,7 +16,5 @@
         "Gbandere",
         "Gbanzili"
     ],
-    "ang": "Gbanziri",
-    "gwcode": "fr",
-    "ln": "Gbanziri"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "acp",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 61,
-    "lr": "Africa",
     "lc": "acp",
+    "gw": false,
+    "ln": "Eastern Acipa",
+    "ld": "ltr",
+    "ang": "Acipa, Eastern",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -18,7 +20,5 @@
         "Sagamuk",
         "Zubazuba"
     ],
-    "ang": "Acipa, Eastern",
-    "gwcode": "en",
-    "ln": "Eastern Acipa"
+    "gwcode": "en"
 }

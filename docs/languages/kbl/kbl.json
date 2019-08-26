@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbl",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 2721,
-    "lr": "Africa",
     "lc": "kbl",
+    "gw": false,
+    "ln": "Kanembu",
+    "ld": "ltr",
+    "ang": "Kanembu",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "NE",
         "NG",
@@ -15,7 +17,5 @@
         "Kanambu",
         "Kanuri"
     ],
-    "ang": "Kanembu",
-    "gwcode": "ar",
-    "ln": "Kanembu"
+    "gwcode": "ar"
 }

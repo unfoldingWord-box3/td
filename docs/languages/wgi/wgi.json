@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wgi",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6725,
-    "lr": "Pacific",
     "lc": "wgi",
+    "gw": false,
+    "ln": "Wahgi",
+    "ld": "ltr",
+    "ang": "Wahgi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Kup-Minj (Kumai)",
         "Mid-Wahgi"
     ],
-    "ang": "Wahgi",
-    "gwcode": "tpi",
-    "ln": "Wahgi"
+    "gwcode": "tpi"
 }

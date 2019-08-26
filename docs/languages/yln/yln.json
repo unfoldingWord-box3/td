@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yln",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7217,
-    "lr": "Asia",
     "lc": "yln",
+    "gw": false,
+    "ln": "\u90ce\u5ff5\u5e03\u592e\u8bed",
+    "ld": "ltr",
+    "ang": "Buyang, Langnian",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -15,7 +17,5 @@
         "Eastern Buyang",
         "E'cun Buyang"
     ],
-    "ang": "Buyang, Langnian",
-    "gwcode": "zh",
-    "ln": "\u90ce\u5ff5\u5e03\u592e\u8bed"
+    "gwcode": "zh"
 }

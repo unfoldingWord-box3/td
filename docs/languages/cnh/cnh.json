@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cnh",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 1276,
-    "lr": "Asia",
     "lc": "cnh",
+    "gw": false,
+    "ln": "Haka Chin",
+    "ld": "ltr",
+    "ang": "Chin, Haka",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -17,7 +19,5 @@
         "Hakha",
         "Klangklang (Thlantlang)"
     ],
-    "ang": "Chin, Haka",
-    "gwcode": "my",
-    "ln": "Haka Chin"
+    "gwcode": "my"
 }

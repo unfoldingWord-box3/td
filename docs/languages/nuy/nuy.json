@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nuy",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4697,
-    "lr": "Pacific",
     "lc": "nuy",
+    "gw": false,
+    "ln": "Nunggubuyu",
+    "ld": "ltr",
+    "ang": "Nunggubuyu",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Wubuy",
         "Yingkwira"
     ],
-    "ang": "Nunggubuyu",
-    "gwcode": "en",
-    "ln": "Nunggubuyu"
+    "gwcode": "en"
 }

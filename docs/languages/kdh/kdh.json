@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kdh",
-    "hc": "TG",
-    "ld": "ltr",
     "pk": 2767,
-    "lr": "Africa",
     "lc": "kdh",
+    "gw": false,
+    "ln": "Tem",
+    "ld": "ltr",
+    "ang": "Tem",
+    "hc": "TG",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "GH",
@@ -19,7 +21,5 @@
         "Timu",
         "Temba"
     ],
-    "ang": "Tem",
-    "gwcode": "fr",
-    "ln": "Tem"
+    "gwcode": "fr"
 }

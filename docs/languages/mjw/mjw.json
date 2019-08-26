@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mjw",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3897,
-    "lr": "Asia",
     "lc": "mjw",
+    "gw": false,
+    "ln": "Karbi",
+    "ld": "ltr",
+    "ang": "Karbi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -22,7 +24,5 @@
         "Mirlong",
         "Rong Kethang (Rengkhang)"
     ],
-    "ang": "Karbi",
-    "gwcode": "as",
-    "ln": "Karbi"
+    "gwcode": "as"
 }

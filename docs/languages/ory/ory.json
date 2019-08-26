@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ory",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4877,
-    "lr": "Asia",
     "lc": "ory",
+    "gw": false,
+    "ln": "Oriya (individual language)",
+    "ld": "ltr",
+    "ang": "Oriya",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "US",
@@ -25,7 +27,5 @@
         "Western Oriya (Sambalpuri)",
         "Mughalbandi (Oriya Proper)"
     ],
-    "ang": "Oriya",
-    "gwcode": "hi",
-    "ln": "Oriya (individual language)"
+    "gwcode": "hi"
 }

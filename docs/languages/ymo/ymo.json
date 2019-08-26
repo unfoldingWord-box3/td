@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ymo",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 7231,
-    "lr": "Pacific",
     "lc": "ymo",
+    "gw": false,
+    "ln": "Yangum Mon",
+    "ld": "ltr",
+    "ang": "Yangum Mon",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Menandon",
         "Minendon"
     ],
-    "ang": "Yangum Mon",
-    "gwcode": "tpi",
-    "ln": "Yangum Mon"
+    "gwcode": "tpi"
 }

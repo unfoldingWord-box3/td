@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "npg",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 4606,
-    "lr": "Asia",
     "lc": "npg",
+    "gw": false,
+    "ln": "Ponyo-Gongwang Naga",
+    "ld": "ltr",
+    "ang": "Naga, Ponyo-Gongwang",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -18,7 +20,5 @@
         "Solo",
         "Tsawlaw"
     ],
-    "ang": "Naga, Ponyo-Gongwang",
-    "gwcode": "my",
-    "ln": "Ponyo-Gongwang Naga"
+    "gwcode": "my"
 }

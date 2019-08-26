@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sdz",
-    "hc": "NL",
-    "ld": "ltr",
     "pk": 5541,
-    "lr": "Europe",
     "lc": "sdz",
+    "gw": false,
+    "ln": "Sallands",
+    "ld": "ltr",
+    "ang": "Sallands",
+    "hc": "NL",
+    "lr": "Europe",
     "cc": [
         "NL"
     ],
@@ -13,7 +15,5 @@
         "Sallan",
         "Salland"
     ],
-    "ang": "Sallands",
-    "gwcode": "UNKNOWN",
-    "ln": "Sallands"
+    "gwcode": "nl"
 }

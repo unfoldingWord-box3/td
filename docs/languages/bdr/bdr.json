@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bdr",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 576,
-    "lr": "Asia",
     "lc": "bdr",
+    "gw": false,
+    "ln": "West Coast Bajau",
+    "ld": "ltr",
+    "ang": "Bajau, West Coast",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -14,7 +16,5 @@
         "West Coast Bajao",
         "West Coast Bajaw"
     ],
-    "ang": "Bajau, West Coast",
-    "gwcode": "ms",
-    "ln": "West Coast Bajau"
+    "gwcode": "ms"
 }

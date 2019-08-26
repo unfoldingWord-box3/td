@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gec",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 1982,
-    "lr": "Africa",
     "lc": "gec",
+    "gw": false,
+    "ln": "Gboloo Grebo",
+    "ld": "ltr",
+    "ang": "Grebo, Gboloo",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR"
     ],
@@ -14,7 +16,5 @@
         "Gboloo",
         "Tuobo"
     ],
-    "ang": "Grebo, Gboloo",
-    "gwcode": "en",
-    "ln": "Gboloo Grebo"
+    "gwcode": "en"
 }

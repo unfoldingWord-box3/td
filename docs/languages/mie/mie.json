@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mie",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3858,
-    "lr": "Americas",
     "lc": "mie",
+    "gw": false,
+    "ln": "Ocotepec Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Ocotepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Mixteco de Sierra Sur Noroeste",
         "Ocotepec Mixtec"
     ],
-    "ang": "Mixtec, Ocotepec",
-    "gwcode": "es-419",
-    "ln": "Ocotepec Mixtec"
+    "gwcode": "es-419"
 }

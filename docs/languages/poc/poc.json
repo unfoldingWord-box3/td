@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "poc",
-    "hc": "GT",
-    "ld": "ltr",
     "pk": 5123,
-    "lr": "Americas",
     "lc": "poc",
+    "gw": false,
+    "ln": "Poqomam",
+    "ld": "ltr",
+    "ang": "Poqomam",
+    "hc": "GT",
+    "lr": "Americas",
     "cc": [
         "GT"
     ],
@@ -16,7 +18,5 @@
         "Southern Poqomam (Pal\u00edn Pocomam)",
         "Central Poqomam"
     ],
-    "ang": "Poqomam",
-    "gwcode": "es-419",
-    "ln": "Poqomam"
+    "gwcode": "es-419"
 }

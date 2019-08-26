@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "auk",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 413,
-    "lr": "Pacific",
     "lc": "auk",
+    "gw": false,
+    "ln": "Heyo",
+    "ld": "ltr",
+    "ang": "Heyo",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -17,7 +19,5 @@
         "Ruruhip",
         "Wan Wan"
     ],
-    "ang": "Heyo",
-    "gwcode": "tpi",
-    "ln": "Heyo"
+    "gwcode": "tpi"
 }

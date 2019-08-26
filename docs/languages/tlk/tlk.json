@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tlk",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6181,
-    "lr": "Asia",
     "lc": "tlk",
+    "gw": false,
+    "ln": "Taloki",
+    "ld": "ltr",
+    "ang": "Taloki",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Talloki",
         "Taluki"
     ],
-    "ang": "Taloki",
-    "gwcode": "id",
-    "ln": "Taloki"
+    "gwcode": "id"
 }

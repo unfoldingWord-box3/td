@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nnn",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 4572,
-    "lr": "Africa",
     "lc": "nnn",
+    "gw": false,
+    "ln": "Ngete",
+    "ld": "ltr",
+    "ang": "Ngete",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -16,7 +18,5 @@
         "Nguett\u00e9",
         "Zime"
     ],
-    "ang": "Ngete",
-    "gwcode": "ar",
-    "ln": "Ngete"
+    "gwcode": "ar"
 }

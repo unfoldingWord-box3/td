@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rai",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5312,
-    "lr": "Pacific",
     "lc": "rai",
+    "gw": false,
+    "ln": "Ramoaaina",
+    "ld": "ltr",
+    "ang": "Ramoaaina",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -20,7 +22,5 @@
         "Aalawa (Aalawaa)",
         "Mioko"
     ],
-    "ang": "Ramoaaina",
-    "gwcode": "tpi",
-    "ln": "Ramoaaina"
+    "gwcode": "tpi"
 }

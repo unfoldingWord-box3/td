@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "xep",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6903,
-    "lr": "Americas",
     "lc": "xep",
+    "gw": false,
+    "ln": "Epi-Olmec",
+    "ld": "ltr",
+    "ang": "Epi-Olmec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
     "alt": [],
-    "ang": "Epi-Olmec",
-    "gwcode": "UNKNOWN",
-    "ln": "Epi-Olmec"
+    "gwcode": null
 }

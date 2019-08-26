@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "chh",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 1194,
-    "lr": "Americas",
     "lc": "chh",
+    "gw": false,
+    "ln": "Chinook",
+    "ld": "ltr",
+    "ang": "Chinook",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -13,7 +15,5 @@
         "Lower Chinook",
         "Klatsop (Tlatsop)"
     ],
-    "ang": "Chinook",
-    "gwcode": "en",
-    "ln": "Chinook"
+    "gwcode": "en"
 }

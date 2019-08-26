@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mpz",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 4044,
-    "lr": "Asia",
     "lc": "mpz",
+    "gw": false,
+    "ln": "Mpi",
+    "ld": "ltr",
+    "ang": "Mpi",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "TH"
     ],
@@ -14,7 +16,5 @@
         "Ban Sakoen",
         "Ban Dong"
     ],
-    "ang": "Mpi",
-    "gwcode": "th",
-    "ln": "Mpi"
+    "gwcode": "th"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bcp",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 549,
-    "lr": "Africa",
     "lc": "bcp",
+    "gw": false,
+    "ln": "Bali (Democratic Republic of Congo)",
+    "ld": "ltr",
+    "ang": "Bali",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -16,7 +18,5 @@
         "Libaali",
         "Bakundumu"
     ],
-    "ang": "Bali",
-    "gwcode": "fr",
-    "ln": "Bali (Democratic Republic of Congo)"
+    "gwcode": "fr"
 }

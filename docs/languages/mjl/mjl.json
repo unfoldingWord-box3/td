@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mjl",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3886,
-    "lr": "Asia",
     "lc": "mjl",
+    "gw": false,
+    "ln": "Mandeali",
+    "ld": "ltr",
+    "ang": "Mandeali",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Mandi",
         "Pahari Mandiyali"
     ],
-    "ang": "Mandeali",
-    "gwcode": "hi",
-    "ln": "Mandeali"
+    "gwcode": "hi"
 }

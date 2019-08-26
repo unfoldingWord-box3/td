@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "azm",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 483,
-    "lr": "Americas",
     "lc": "azm",
+    "gw": false,
+    "ln": "Ipalapa Amuzgo",
+    "ld": "ltr",
+    "ang": "Amuzgo, Ipalapa",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Amuzgo Bajo del Este",
         "J\u00f1unda"
     ],
-    "ang": "Amuzgo, Ipalapa",
-    "gwcode": "es-419",
-    "ln": "Ipalapa Amuzgo"
+    "gwcode": "es-419"
 }

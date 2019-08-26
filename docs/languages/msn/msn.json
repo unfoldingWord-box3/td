@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "msn",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 4109,
-    "lr": "Pacific",
     "lc": "msn",
+    "gw": false,
+    "ln": "Vur\u00ebs",
+    "ld": "ltr",
+    "ang": "Vur\u00ebs",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -15,7 +17,5 @@
         "Mosina",
         "Mwesen (Mosin)"
     ],
-    "ang": "Vur\u00ebs",
-    "gwcode": "fr",
-    "ln": "Vur\u00ebs"
+    "gwcode": "fr"
 }

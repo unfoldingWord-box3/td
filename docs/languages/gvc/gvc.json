@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gvc",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 2178,
-    "lr": "Americas",
     "lc": "gvc",
+    "gw": false,
+    "ln": "Guanano",
+    "ld": "ltr",
+    "ang": "Guanano",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "CO"
@@ -21,7 +23,5 @@
         "Uanano",
         "Wanana"
     ],
-    "ang": "Guanano",
-    "gwcode": "pt",
-    "ln": "Guanano"
+    "gwcode": "pt"
 }

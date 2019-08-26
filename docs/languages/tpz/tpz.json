@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tpz",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6286,
-    "lr": "Pacific",
     "lc": "tpz",
+    "gw": false,
+    "ln": "Tinputz",
+    "ld": "ltr",
+    "ang": "Tinputz",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Wasoi",
         "Vado"
     ],
-    "ang": "Tinputz",
-    "gwcode": "tpi",
-    "ln": "Tinputz"
+    "gwcode": "tpi"
 }

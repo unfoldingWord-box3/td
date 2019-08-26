@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "oin",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4789,
-    "lr": "Pacific",
     "lc": "oin",
+    "gw": false,
+    "ln": "Inebu One",
+    "ld": "ltr",
+    "ang": "One, Inebu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Onele",
         "Oni"
     ],
-    "ang": "One, Inebu",
-    "gwcode": "tpi",
-    "ln": "Inebu One"
+    "gwcode": "tpi"
 }

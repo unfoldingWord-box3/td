@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zia",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 7380,
-    "lr": "Pacific",
     "lc": "zia",
+    "gw": false,
+    "ln": "Zia",
+    "ld": "ltr",
+    "ang": "Zia",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Lower Waria",
         "Ziya"
     ],
-    "ang": "Zia",
-    "gwcode": "tpi",
-    "ln": "Zia"
+    "gwcode": "tpi"
 }

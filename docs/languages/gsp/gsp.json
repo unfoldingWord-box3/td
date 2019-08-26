@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gsp",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2147,
-    "lr": "Pacific",
     "lc": "gsp",
+    "gw": false,
+    "ln": "Wasembo",
+    "ld": "ltr",
+    "ang": "Wasembo",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Gusap",
         "Yankowan"
     ],
-    "ang": "Wasembo",
-    "gwcode": "tpi",
-    "ln": "Wasembo"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ahh",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 150,
-    "lr": "Asia",
     "lc": "ahh",
+    "gw": false,
+    "ln": "Aghu",
+    "ld": "ltr",
+    "ang": "Aghu",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Djair",
         "Dyair"
     ],
-    "ang": "Aghu",
-    "gwcode": "id",
-    "ln": "Aghu"
+    "gwcode": "id"
 }

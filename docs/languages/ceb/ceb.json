@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "ceb",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 1176,
-    "lr": "Asia",
     "lc": "ceb",
+    "gw": true,
+    "ln": "Cebuano",
+    "ld": "ltr",
+    "ang": "Cebuano",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH",
         "US"
@@ -18,7 +20,5 @@
         "Sugbuhanon",
         "Visayan"
     ],
-    "ang": "Cebuano",
-    "gwcode": "en",
-    "ln": "Cebuano"
+    "gwcode": "en"
 }

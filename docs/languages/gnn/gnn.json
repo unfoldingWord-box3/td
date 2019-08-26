@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gnn",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2081,
-    "lr": "Pacific",
     "lc": "gnn",
+    "gw": false,
+    "ln": "Gumatj",
+    "ld": "ltr",
+    "ang": "Gumatj",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Gumait",
         "Gumaj"
     ],
-    "ang": "Gumatj",
-    "gwcode": "en",
-    "ln": "Gumatj"
+    "gwcode": "en"
 }

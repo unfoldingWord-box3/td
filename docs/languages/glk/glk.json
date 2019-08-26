@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "glk",
-    "hc": "IR",
-    "ld": "rtl",
     "pk": 2052,
-    "lr": "Asia",
     "lc": "glk",
+    "gw": false,
+    "ln": "\u0632\u0628\u0627\u0646 \u06af\u06cc\u0644\u06a9\u06cc",
+    "ld": "rtl",
+    "ang": "Gilaki",
+    "hc": "IR",
+    "lr": "Asia",
     "cc": [
         "IR"
     ],
@@ -22,7 +24,5 @@
         "Fumani",
         "Lahijani"
     ],
-    "ang": "Gilaki",
-    "gwcode": "fa",
-    "ln": "\u0632\u0628\u0627\u0646 \u06af\u06cc\u0644\u06a9\u06cc"
+    "gwcode": "fa"
 }

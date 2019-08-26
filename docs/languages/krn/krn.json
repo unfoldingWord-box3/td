@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "krn",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 3121,
-    "lr": "Africa",
     "lc": "krn",
+    "gw": false,
+    "ln": "Sapo",
+    "ld": "ltr",
+    "ang": "Sapo",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR"
     ],
@@ -16,7 +18,5 @@
         "Waya (Wedjah)",
         "Kabade (Karbardae)"
     ],
-    "ang": "Sapo",
-    "gwcode": "en",
-    "ln": "Sapo"
+    "gwcode": "en"
 }

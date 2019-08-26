@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tea",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 6053,
-    "lr": "Asia",
     "lc": "tea",
+    "gw": false,
+    "ln": "Temiar",
+    "ld": "ltr",
+    "ang": "Temiar",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -18,7 +20,5 @@
         "Tembe' (Tembi)",
         "Po-Klo (Sakai Bukit of Temongoh)"
     ],
-    "ang": "Temiar",
-    "gwcode": "ms",
-    "ln": "Temiar"
+    "gwcode": "ms"
 }

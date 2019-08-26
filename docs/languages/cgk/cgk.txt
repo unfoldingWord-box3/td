@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * BT: Bhutan
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: cgk
@@ -18,7 +20,7 @@ This language is spoken in the following countries:
     anglicanized_name: Chocangacakha
     country_codes:
     - BT
-    gateway_language: UNKNOWN
+    gateway_language: dz
     lang_code: cgk
     lang_direction: ltr
     lang_name: Chocangacakha

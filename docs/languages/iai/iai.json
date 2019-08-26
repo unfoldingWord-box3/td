@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "iai",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 2400,
-    "lr": "Pacific",
     "lc": "iai",
+    "gw": false,
+    "ln": "Iaai",
+    "ld": "ltr",
+    "ang": "Iaai",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -13,7 +15,5 @@
         "Hwen Iaai",
         "Yai"
     ],
-    "ang": "Iaai",
-    "gwcode": "en",
-    "ln": "Iaai"
+    "gwcode": "en"
 }

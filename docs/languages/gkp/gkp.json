@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gkp",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 2046,
-    "lr": "Africa",
     "lc": "gkp",
+    "gw": false,
+    "ln": "Guinea Kpelle",
+    "ld": "ltr",
+    "ang": "Kpelle, Guinea",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN"
     ],
@@ -28,7 +30,5 @@
         "Gbali",
         "Central Kpelle"
     ],
-    "ang": "Kpelle, Guinea",
-    "gwcode": "fr",
-    "ln": "Guinea Kpelle"
+    "gwcode": "fr"
 }

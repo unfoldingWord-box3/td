@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nin",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4466,
-    "lr": "Africa",
     "lc": "nin",
+    "gw": false,
+    "ln": "Ninzo",
+    "ld": "ltr",
+    "ang": "Ninzo",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -20,7 +22,5 @@
         "Kwasu",
         "Nunzo"
     ],
-    "ang": "Ninzo",
-    "gwcode": "en",
-    "ln": "Ninzo"
+    "gwcode": "en"
 }

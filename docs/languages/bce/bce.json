@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bce",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 538,
-    "lr": "Africa",
     "lc": "bce",
+    "gw": false,
+    "ln": "Bamenyam",
+    "ld": "ltr",
+    "ang": "Bamenyam",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Mengambo",
         "Pamenyan"
     ],
-    "ang": "Bamenyam",
-    "gwcode": "fr",
-    "ln": "Bamenyam"
+    "gwcode": "fr"
 }

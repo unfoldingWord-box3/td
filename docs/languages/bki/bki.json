@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bki",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 737,
-    "lr": "Pacific",
     "lc": "bki",
+    "gw": false,
+    "ln": "Baki",
+    "ld": "ltr",
+    "ang": "Baki",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -13,7 +15,5 @@
         "Burumba",
         "Paki"
     ],
-    "ang": "Baki",
-    "gwcode": "fr",
-    "ln": "Baki"
+    "gwcode": "fr"
 }

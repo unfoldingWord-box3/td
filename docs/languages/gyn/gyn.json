@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gyn",
-    "hc": "GY",
-    "ld": "ltr",
     "pk": 2212,
-    "lr": "Americas",
     "lc": "gyn",
+    "gw": false,
+    "ln": "Guyanese Creole English",
+    "ld": "ltr",
+    "ang": "Guyanese Creole English",
+    "hc": "GY",
+    "lr": "Americas",
     "cc": [
         "GF",
         "GY",
@@ -16,7 +18,5 @@
         "Creolese",
         "Guyanese Creole"
     ],
-    "ang": "Guyanese Creole English",
-    "gwcode": "es-419",
-    "ln": "Guyanese Creole English"
+    "gwcode": "es-419"
 }

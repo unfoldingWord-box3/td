@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lna",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 3536,
-    "lr": "Africa",
     "lc": "lna",
+    "gw": false,
+    "ln": "Langbashe",
+    "ld": "ltr",
+    "ang": "Langbashe",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF"
     ],
@@ -15,7 +17,5 @@
         "Langbwasse",
         "Langwasi"
     ],
-    "ang": "Langbashe",
-    "gwcode": "fr",
-    "ln": "Langbashe"
+    "gwcode": "fr"
 }

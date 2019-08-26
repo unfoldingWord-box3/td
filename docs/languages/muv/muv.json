@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "muv",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4165,
-    "lr": "Asia",
     "lc": "muv",
+    "gw": false,
+    "ln": "Muthuvan",
+    "ld": "ltr",
+    "ang": "Muthuvan",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -20,7 +22,5 @@
         "Tamil Muthuvan",
         "Western Muthuvan (Malayalam Muthuvan)"
     ],
-    "ang": "Muthuvan",
-    "gwcode": "ml",
-    "ln": "Muthuvan"
+    "gwcode": "ml"
 }

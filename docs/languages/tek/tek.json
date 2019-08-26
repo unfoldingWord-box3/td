@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tek",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 6061,
-    "lr": "Africa",
     "lc": "tek",
+    "gw": false,
+    "ln": "Ibali Teke",
+    "ld": "ltr",
+    "ang": "Teke, Ibali",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CG",
         "CD"
@@ -20,7 +22,5 @@
         "Tio",
         "Tyo"
     ],
-    "ang": "Teke, Ibali",
-    "gwcode": "fr",
-    "ln": "Ibali Teke"
+    "gwcode": "fr"
 }

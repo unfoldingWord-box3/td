@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yph",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7261,
-    "lr": "Asia",
     "lc": "yph",
+    "gw": false,
+    "ln": "Phupha",
+    "ld": "ltr",
+    "ang": "Phupha",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Phupho",
         "Tsapho"
     ],
-    "ang": "Phupha",
-    "gwcode": "zh",
-    "ln": "Phupha"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xuu",
-    "hc": "NA",
-    "ld": "ltr",
     "pk": 7086,
-    "lr": "Africa",
     "lc": "xuu",
+    "gw": false,
+    "ln": "Kxoe",
+    "ld": "ltr",
+    "ang": "Khwe",
+    "hc": "NA",
+    "lr": "Africa",
     "cc": [
         "ZM",
         "NA"
@@ -44,7 +46,5 @@
         "||Ani",
         "Boga"
     ],
-    "ang": "Khwe",
-    "gwcode": "en",
-    "ln": "Kxoe"
+    "gwcode": "en"
 }

@@ -3,13 +3,15 @@
 Bislama
 =======
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/bis>`_ identifies this language as ``bis``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/bis>`__ identifies this language as ``bis``.
 
 This language is spoken in the following countries:
 
 * NC: New Caledonia
 * SB: Solomon Islands
 * VU: Vanuatu
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -21,7 +23,7 @@ This language is spoken in the following countries:
     - NC
     - SB
     - VU
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: bi
     lang_direction: ltr
     lang_name: Bislama

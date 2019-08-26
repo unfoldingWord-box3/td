@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "itm",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2537,
-    "lr": "Africa",
     "lc": "itm",
+    "gw": false,
+    "ln": "Itu Mbon Uzo",
+    "ld": "ltr",
+    "ang": "Itu Mbon Uzo",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Itu Mbon Uso",
         "Itu Mbuzo"
     ],
-    "ang": "Itu Mbon Uzo",
-    "gwcode": "en",
-    "ln": "Itu Mbon Uzo"
+    "gwcode": "en"
 }

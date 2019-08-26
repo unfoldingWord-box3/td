@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "byg",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 1068,
-    "lr": "Africa",
     "lc": "byg",
+    "gw": false,
+    "ln": "Baygo",
+    "ld": "ltr",
+    "ang": "Baygo",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -17,7 +19,5 @@
         "B\u00e9og\u00e9",
         "Beygo"
     ],
-    "ang": "Baygo",
-    "gwcode": "ar",
-    "ln": "Baygo"
+    "gwcode": "ar"
 }

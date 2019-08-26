@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nym",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 4737,
-    "lr": "Africa",
     "lc": "nym",
+    "gw": false,
+    "ln": "Nyamwezi",
+    "ld": "ltr",
+    "ang": "Nyamwezi",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -19,7 +21,5 @@
         "Sumbwa",
         "Takama (Garaganza)"
     ],
-    "ang": "Nyamwezi",
-    "gwcode": "sw",
-    "ln": "Nyamwezi"
+    "gwcode": "sw"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fni",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 1858,
-    "lr": "Africa",
     "lc": "fni",
+    "gw": false,
+    "ln": "Fania",
+    "ld": "ltr",
+    "ang": "Fania",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "TD"
@@ -19,7 +21,5 @@
         "Kobe",
         "Mana"
     ],
-    "ang": "Fania",
-    "gwcode": "ar",
-    "ln": "Fania"
+    "gwcode": "ar"
 }

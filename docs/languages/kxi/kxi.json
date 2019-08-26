@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kxi",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 3265,
-    "lr": "Asia",
     "lc": "kxi",
+    "gw": false,
+    "ln": "Keningau Murut",
+    "ld": "ltr",
+    "ang": "Keningau Murut",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -18,7 +20,5 @@
         "Dabay",
         "Nebee"
     ],
-    "ang": "Keningau Murut",
-    "gwcode": "ms",
-    "ln": "Keningau Murut"
+    "gwcode": "ms"
 }

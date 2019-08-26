@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "awc",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 438,
-    "lr": "Africa",
     "lc": "awc",
+    "gw": false,
+    "ln": "Cicipu",
+    "ld": "ltr",
+    "ang": "Cicipu",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -21,7 +23,5 @@
         "Ticuhun (Kakihum)",
         "Tidipo (Kadonho)"
     ],
-    "ang": "Cicipu",
-    "gwcode": "en",
-    "ln": "Cicipu"
+    "gwcode": "en"
 }

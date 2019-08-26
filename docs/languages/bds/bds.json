@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bds",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 577,
-    "lr": "Africa",
     "lc": "bds",
+    "gw": false,
+    "ln": "Burunge",
+    "ld": "ltr",
+    "ang": "Burunge",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -14,7 +16,5 @@
         "Burungi",
         "Kiburunge"
     ],
-    "ang": "Burunge",
-    "gwcode": "sw",
-    "ln": "Burunge"
+    "gwcode": "sw"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mdp",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3742,
-    "lr": "Africa",
     "lc": "mdp",
+    "gw": false,
+    "ln": "Mbala",
+    "ld": "ltr",
+    "ang": "Mbala",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -13,7 +15,5 @@
         "Gimbala",
         "Rumbala"
     ],
-    "ang": "Mbala",
-    "gwcode": "fr",
-    "ln": "Mbala"
+    "gwcode": "fr"
 }

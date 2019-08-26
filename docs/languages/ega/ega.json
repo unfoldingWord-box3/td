@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ega",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 1704,
-    "lr": "Africa",
     "lc": "ega",
+    "gw": false,
+    "ln": "Ega",
+    "ld": "ltr",
+    "ang": "Ega",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -13,7 +15,5 @@
         "Di\u00e9s",
         "Egwa"
     ],
-    "ang": "Ega",
-    "gwcode": "fr",
-    "ln": "Ega"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bhs",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 677,
-    "lr": "Africa",
     "lc": "bhs",
+    "gw": false,
+    "ln": "Buwal",
+    "ld": "ltr",
+    "ang": "Buwal",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -13,7 +15,5 @@
         "Bual",
         "Ma Buwal"
     ],
-    "ang": "Buwal",
-    "gwcode": "fr",
-    "ln": "Buwal"
+    "gwcode": "fr"
 }

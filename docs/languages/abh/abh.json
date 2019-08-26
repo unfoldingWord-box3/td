@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "abh",
-    "hc": "TJ",
-    "ld": "rtl",
     "pk": 36,
-    "lr": "Asia",
     "lc": "abh",
+    "gw": false,
+    "ln": "Tajiki Arabic",
+    "ld": "rtl",
+    "ang": "Arabic, Tajiki Spoken",
+    "hc": "TJ",
+    "lr": "Asia",
     "cc": [
         "AF",
         "TJ",
@@ -20,7 +22,5 @@
         "Jugari",
         "Tajiji Arabic"
     ],
-    "ang": "Arabic, Tajiki Spoken",
-    "gwcode": "ru",
-    "ln": "Tajiki Arabic"
+    "gwcode": "ru"
 }

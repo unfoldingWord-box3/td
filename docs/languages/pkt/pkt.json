@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pkt",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 5059,
-    "lr": "Asia",
     "lc": "pkt",
+    "gw": false,
+    "ln": "Maleng",
+    "ld": "ltr",
+    "ang": "Maleng",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA"
     ],
@@ -17,7 +19,5 @@
         "Dan Hoa",
         "Kha Phong (Kha Nam Om)"
     ],
-    "ang": "Maleng",
-    "gwcode": "lo",
-    "ln": "Maleng"
+    "gwcode": "lo"
 }

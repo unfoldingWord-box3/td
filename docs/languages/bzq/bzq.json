@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bzq",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1099,
-    "lr": "Asia",
     "lc": "bzq",
+    "gw": false,
+    "ln": "Buli (Indonesia)",
+    "ld": "ltr",
+    "ang": "Buli",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Wayamli (Jawanli)",
         "Wajamli"
     ],
-    "ang": "Buli",
-    "gwcode": "id",
-    "ln": "Buli (Indonesia)"
+    "gwcode": "id"
 }

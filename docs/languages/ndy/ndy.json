@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ndy",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 4376,
-    "lr": "Africa",
     "lc": "ndy",
+    "gw": false,
+    "ln": "Lutos",
+    "ld": "ltr",
+    "ang": "Lutos",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF",
         "TD"
@@ -21,7 +23,5 @@
         "Luto",
         "Nduka (Ndouka)"
     ],
-    "ang": "Lutos",
-    "gwcode": "fr",
-    "ln": "Lutos"
+    "gwcode": "fr"
 }

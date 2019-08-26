@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "icr",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 2417,
-    "lr": "Americas",
     "lc": "icr",
+    "gw": false,
+    "ln": "Islander Creole English",
+    "ld": "ltr",
+    "ang": "Islander Creole English",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -13,7 +15,5 @@
         "Bende",
         "San Andr\u00e9s Creole"
     ],
-    "ang": "Islander Creole English",
-    "gwcode": "es-419",
-    "ln": "Islander Creole English"
+    "gwcode": "es-419"
 }

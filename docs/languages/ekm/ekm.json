@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ekm",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 1719,
-    "lr": "Africa",
     "lc": "ekm",
+    "gw": false,
+    "ln": "Elip",
+    "ld": "ltr",
+    "ang": "Elip",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -20,7 +22,5 @@
         "Nulamba",
         "Nuyambassa"
     ],
-    "ang": "Elip",
-    "gwcode": "fr",
-    "ln": "Elip"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mbm",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 3688,
-    "lr": "Africa",
     "lc": "mbm",
+    "gw": false,
+    "ln": "Ombamba",
+    "ld": "ltr",
+    "ang": "Ombamba",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "GA",
         "CG"
@@ -17,7 +19,5 @@
         "Mbamba",
         "Obamba"
     ],
-    "ang": "Ombamba",
-    "gwcode": "fr",
-    "ln": "Ombamba"
+    "gwcode": "fr"
 }

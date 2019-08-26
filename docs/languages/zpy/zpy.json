@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zpy",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7461,
-    "lr": "Americas",
     "lc": "zpy",
+    "gw": false,
+    "ln": "Mazaltepec Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Mazaltepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Etla Zapotec",
         "Zapoteco de Santo Tom\u00e1s Mazaltepec"
     ],
-    "ang": "Zapotec, Mazaltepec",
-    "gwcode": "es-419",
-    "ln": "Mazaltepec Zapotec"
+    "gwcode": "es-419"
 }

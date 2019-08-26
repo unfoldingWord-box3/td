@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bav",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 504,
-    "lr": "Africa",
     "lc": "bav",
+    "gw": false,
+    "ln": "Vengo",
+    "ld": "ltr",
+    "ang": "Vengo",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -18,7 +20,5 @@
         "Vengi",
         "Vengoo"
     ],
-    "ang": "Vengo",
-    "gwcode": "fr",
-    "ln": "Vengo"
+    "gwcode": "fr"
 }

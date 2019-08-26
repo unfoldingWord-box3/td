@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lra",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 3579,
-    "lr": "Asia",
     "lc": "lra",
+    "gw": false,
+    "ln": "Rara Bakati'",
+    "ld": "ltr",
+    "ang": "Bakati\u2019, Rara",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "ID",
         "MY"
@@ -18,7 +20,5 @@
         "Luru",
         "Bina'e"
     ],
-    "ang": "Bakati\u2019, Rara",
-    "gwcode": "ms",
-    "ln": "Rara Bakati'"
+    "gwcode": "ms"
 }

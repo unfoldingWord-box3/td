@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "amh",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 234,
-    "lr": "Africa",
     "lc": "am",
+    "gw": true,
+    "ln": "\u12a0\u121b\u122d\u129b",
+    "ld": "ltr",
+    "ang": "Amharic",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "DJ",
         "ER",
@@ -23,7 +25,5 @@
         "Ethiopian",
         "Falasha"
     ],
-    "ang": "Amharic",
-    "gwcode": "en",
-    "ln": "\u12a0\u121b\u122d\u129b"
+    "gwcode": "en"
 }

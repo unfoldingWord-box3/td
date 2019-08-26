@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "eus",
-    "hc": "ES",
-    "ld": "ltr",
     "pk": 1801,
-    "lr": "Europe",
     "lc": "eu",
+    "gw": false,
+    "ln": "euskara, euskera",
+    "ld": "ltr",
+    "ang": "Basque",
+    "hc": "ES",
+    "lr": "Europe",
     "cc": [
         "CL",
         "FR",
@@ -36,7 +38,5 @@
         "Lapurdiera",
         "Suberoan"
     ],
-    "ang": "Basque",
-    "gwcode": "es",
-    "ln": "euskara, euskera"
+    "gwcode": "es"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mvp",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4181,
-    "lr": "Asia",
     "lc": "mvp",
+    "gw": false,
+    "ln": "Duri",
+    "ld": "ltr",
+    "ang": "Duri",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Cakke-Kalosi",
         "Baraka"
     ],
-    "ang": "Duri",
-    "gwcode": "id",
-    "ln": "Duri"
+    "gwcode": "id"
 }

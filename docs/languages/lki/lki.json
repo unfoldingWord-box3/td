@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lki",
-    "hc": "IR",
-    "ld": "rtl",
     "pk": 3487,
-    "lr": "Asia",
     "lc": "lki",
+    "gw": false,
+    "ln": "\u0644\u06d5\u06a9\u06cc",
+    "ld": "rtl",
+    "ang": "Laki",
+    "hc": "IR",
+    "lr": "Asia",
     "cc": [
         "IR",
         "IQ"
@@ -13,7 +15,5 @@
     "alt": [
         "Alaki"
     ],
-    "ang": "Laki",
-    "gwcode": "fa",
-    "ln": "\u0644\u06d5\u06a9\u06cc"
+    "gwcode": "fa"
 }

@@ -8,6 +8,8 @@ This language is spoken in the following countries:
 * IN: India
 * MM: Myanmar
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: anm
@@ -18,7 +20,7 @@ This language is spoken in the following countries:
     country_codes:
     - IN
     - MM
-    gateway_language: UNKNOWN
+    gateway_language: mni
     lang_code: anm
     lang_direction: ltr
     lang_name: Anal

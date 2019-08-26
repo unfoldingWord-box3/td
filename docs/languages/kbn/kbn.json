@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbn",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 2723,
-    "lr": "Africa",
     "lc": "kbn",
+    "gw": false,
+    "ln": "Kare (Central African Republic)",
+    "ld": "ltr",
+    "ang": "Kare",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CM",
         "CF"
@@ -15,7 +17,5 @@
         "Karr\u00e9",
         "Tale (Tali)"
     ],
-    "ang": "Kare",
-    "gwcode": "fr",
-    "ln": "Kare (Central African Republic)"
+    "gwcode": "fr"
 }

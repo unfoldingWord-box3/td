@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mek",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3762,
-    "lr": "Pacific",
     "lc": "mek",
+    "gw": false,
+    "ln": "Mekeo",
+    "ld": "ltr",
+    "ang": "Mekeo",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Mekeo-Kovio",
         "Northwest Mekeo (Kovio)"
     ],
-    "ang": "Mekeo",
-    "gwcode": "tpi",
-    "ln": "Mekeo"
+    "gwcode": "tpi"
 }

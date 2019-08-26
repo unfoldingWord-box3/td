@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kky",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2957,
-    "lr": "Pacific",
     "lc": "kky",
+    "gw": false,
+    "ln": "Guguyimidjir",
+    "ld": "ltr",
+    "ang": "Guguyimidjir",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -17,7 +19,5 @@
         "Koko Imudji",
         "Kukuyimidir"
     ],
-    "ang": "Guguyimidjir",
-    "gwcode": "en",
-    "ln": "Guguyimidjir"
+    "gwcode": "en"
 }

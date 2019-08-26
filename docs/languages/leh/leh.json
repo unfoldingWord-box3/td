@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "leh",
-    "hc": "ZM",
-    "ld": "ltr",
     "pk": 3408,
-    "lr": "Africa",
     "lc": "leh",
+    "gw": false,
+    "ln": "Lenje",
+    "ld": "ltr",
+    "ang": "Lenje",
+    "hc": "ZM",
+    "lr": "Africa",
     "cc": [
         "ZM"
     ],
@@ -18,7 +20,5 @@
         "Mukuni",
         "Twa (Lukanga)"
     ],
-    "ang": "Lenje",
-    "gwcode": "en",
-    "ln": "Lenje"
+    "gwcode": "en"
 }

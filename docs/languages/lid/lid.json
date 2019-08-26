@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lid",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3457,
-    "lr": "Pacific",
     "lc": "lid",
+    "gw": false,
+    "ln": "Nyindrou",
+    "ld": "ltr",
+    "ang": "Nyindrou",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Nyada",
         "Salien"
     ],
-    "ang": "Nyindrou",
-    "gwcode": "tpi",
-    "ln": "Nyindrou"
+    "gwcode": "tpi"
 }

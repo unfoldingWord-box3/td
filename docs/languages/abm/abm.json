@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "abm",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 39,
-    "lr": "Africa",
     "lc": "abm",
+    "gw": false,
+    "ln": "Abanyom",
+    "ld": "ltr",
+    "ang": "Abanyom",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Bofon",
         "Mbofon"
     ],
-    "ang": "Abanyom",
-    "gwcode": "en",
-    "ln": "Abanyom"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kad",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2697,
-    "lr": "Africa",
     "lc": "kad",
+    "gw": false,
+    "ln": "Adara",
+    "ld": "ltr",
+    "ang": "Adara",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -16,7 +18,5 @@
         "Misiyen",
         "Misiyo"
     ],
-    "ang": "Adara",
-    "gwcode": "en",
-    "ln": "Adara"
+    "gwcode": "en"
 }

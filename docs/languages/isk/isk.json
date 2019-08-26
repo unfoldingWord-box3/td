@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "isk",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 2524,
-    "lr": "Asia",
     "lc": "isk",
+    "gw": false,
+    "ln": "\u0161ko\u0161mi z\u0259v\u016fk",
+    "ld": "ltr",
+    "ang": "Ishkashimi",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "AF",
         "TJ"
@@ -15,7 +17,5 @@
         "Ishkashim",
         "Ishkashmi"
     ],
-    "ang": "Ishkashimi",
-    "gwcode": "ps",
-    "ln": "\u0161ko\u0161mi z\u0259v\u016fk"
+    "gwcode": "ps"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cji",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 1223,
-    "lr": "Europe",
     "lc": "cji",
+    "gw": false,
+    "ln": "\u0427\u0430\u043c\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Chamalal",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -18,7 +20,5 @@
         "Gadyri (Gachitl-Kvankhi)",
         "Tsumada"
     ],
-    "ang": "Chamalal",
-    "gwcode": "ru",
-    "ln": "\u0427\u0430\u043c\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

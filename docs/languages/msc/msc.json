@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "msc",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 4098,
-    "lr": "Africa",
     "lc": "msc",
+    "gw": false,
+    "ln": "Sankaran Maninka",
+    "ld": "ltr",
+    "ang": "Maninka, Sankaran",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN"
     ],
@@ -13,7 +15,5 @@
         "Faranah",
         "Sankarankan"
     ],
-    "ang": "Maninka, Sankaran",
-    "gwcode": "fr",
-    "ln": "Sankaran Maninka"
+    "gwcode": "fr"
 }

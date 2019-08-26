@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mlr",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3942,
-    "lr": "Africa",
     "lc": "mlr",
+    "gw": false,
+    "ln": "Vame",
+    "ld": "ltr",
+    "ang": "Vame",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -13,7 +15,5 @@
         "Maslava",
         "Hurzo"
     ],
-    "ang": "Vame",
-    "gwcode": "fr",
-    "ln": "Vame"
+    "gwcode": "fr"
 }

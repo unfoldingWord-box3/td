@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kgy",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2857,
-    "lr": "Asia",
     "lc": "kgy",
+    "gw": false,
+    "ln": "\u5409\u9686",
+    "ld": "ltr",
+    "ang": "Kyerung",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "NP"
@@ -15,7 +17,5 @@
         "Gyirong",
         "Kyirung"
     ],
-    "ang": "Kyerung",
-    "gwcode": "zh",
-    "ln": "\u5409\u9686"
+    "gwcode": "zh"
 }

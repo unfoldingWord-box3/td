@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "seo",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5555,
-    "lr": "Pacific",
     "lc": "seo",
+    "gw": false,
+    "ln": "Suarmin",
+    "ld": "ltr",
+    "ang": "Suarmin",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Akiapmin",
         "Duranmin"
     ],
-    "ang": "Suarmin",
-    "gwcode": "tpi",
-    "ln": "Suarmin"
+    "gwcode": "tpi"
 }

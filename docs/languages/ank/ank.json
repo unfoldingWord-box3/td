@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ank",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 268,
-    "lr": "Africa",
     "lc": "ank",
+    "gw": false,
+    "ln": "Goemai",
+    "ld": "ltr",
+    "ang": "Goemai",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Ankwei",
         "Kemai"
     ],
-    "ang": "Goemai",
-    "gwcode": "en",
-    "ln": "Goemai"
+    "gwcode": "en"
 }

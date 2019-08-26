@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ipi",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2503,
-    "lr": "Pacific",
     "lc": "ipi",
+    "gw": false,
+    "ln": "Ipili",
+    "ld": "ltr",
+    "ang": "Ipili",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Paiela",
         "Porgera"
     ],
-    "ang": "Ipili",
-    "gwcode": "tpi",
-    "ln": "Ipili"
+    "gwcode": "tpi"
 }

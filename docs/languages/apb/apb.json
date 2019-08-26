@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "apb",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 301,
-    "lr": "Pacific",
     "lc": "apb",
+    "gw": false,
+    "ln": "Sa'a",
+    "ld": "ltr",
+    "ang": "Sa\u2019a",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -15,7 +17,5 @@
         "South Malaita",
         "Uki Ni Masi (Ugi)"
     ],
-    "ang": "Sa\u2019a",
-    "gwcode": "UNKNOWN",
-    "ln": "Sa'a"
+    "gwcode": "pis"
 }

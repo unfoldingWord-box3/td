@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "coo",
-    "hc": "CA",
-    "ld": "ltr",
     "pk": 1300,
-    "lr": "Americas",
     "lc": "coo",
+    "gw": false,
+    "ln": "Comox",
+    "ld": "ltr",
+    "ang": "Comox",
+    "hc": "CA",
+    "lr": "Americas",
     "cc": [
         "CA"
     ],
@@ -14,7 +16,5 @@
         "Klahoose",
         "Mainland Comox (Homalco)"
     ],
-    "ang": "Comox",
-    "gwcode": "en",
-    "ln": "Comox"
+    "gwcode": "en"
 }

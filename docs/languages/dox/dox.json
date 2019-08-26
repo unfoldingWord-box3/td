@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dox",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 1611,
-    "lr": "Africa",
     "lc": "dox",
+    "gw": false,
+    "ln": "Bussa",
+    "ld": "ltr",
+    "ang": "Bussa",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -24,7 +26,5 @@
         "Musiye",
         "Orase"
     ],
-    "ang": "Bussa",
-    "gwcode": "am",
-    "ln": "Bussa"
+    "gwcode": "am"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "crw",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 1340,
-    "lr": "Asia",
     "lc": "crw",
+    "gw": false,
+    "ln": "Chrau",
+    "ld": "ltr",
+    "ang": "Chrau",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -16,7 +18,5 @@
         "Dor (Doro)",
         "Jro"
     ],
-    "ang": "Chrau",
-    "gwcode": "vi",
-    "ln": "Chrau"
+    "gwcode": "vi"
 }

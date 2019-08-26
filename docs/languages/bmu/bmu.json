@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bmu",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 800,
-    "lr": "Pacific",
     "lc": "bmu",
+    "gw": false,
+    "ln": "Somba-Siawari",
+    "ld": "ltr",
+    "ang": "Somba-Siawari",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Mindik",
         "Siawari"
     ],
-    "ang": "Somba-Siawari",
-    "gwcode": "tpi",
-    "ln": "Somba-Siawari"
+    "gwcode": "tpi"
 }

@@ -19,6 +19,11 @@ Then run the build script.
 
     make
 
+NOTE: For region approach, `conf.py` changed to include:
+```python
+import sys; sys.setrecursionlimit(3200)
+```
+
 
 ## Data Preparation
 
@@ -34,17 +39,19 @@ current tD production website as follows:
     - Or use direct link: https://td.unfoldingword.org/langnames.json
 - `data/ln_gw.json`: this is created by the following SQL against the tD Postgres database:
     ```sql
-    select u.code lc_code,g.code as gw_code 
+    select u.code lc_code,g.code as gw_code
+    , g.gateway_flag 
     from uw_language u 
     left outer join uw_language g 
     on u.gateway_language_id = g.id
-    where g.gateway_flag = true
+    --where g.gateway_flag = true
     order by u.code
     ```
     - using DBeaver, the result set is exported as JSON. Exporting notes:
         - Toggle off the setting `Print table name`
         - Use encoding UTF-8
         - Toggle off setting to "Insert BOM"
+    - note that this returns a flag indicating whether the gateway language specified is valid. This will help identify these cases in the generated webpages.
 - `data/iso-639-3.tsv` has mapping between 2 and 3 letter codes. From:
 https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab. See below for DDL (intended to be imported into a database table). ISO 639-1 is the two character standard and 639-3 is the three character one.
 - `data/cc.csv` has ISO 3166 alpha-2 country codes. This copied from 

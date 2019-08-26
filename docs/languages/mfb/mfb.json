@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mfb",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3778,
-    "lr": "Asia",
     "lc": "mfb",
+    "gw": false,
+    "ln": "Bangka",
+    "ld": "ltr",
+    "ang": "Bangka",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -19,7 +21,5 @@
         "Central Bangka",
         "Lom (Belom)"
     ],
-    "ang": "Bangka",
-    "gwcode": "id",
-    "ln": "Bangka"
+    "gwcode": "id"
 }

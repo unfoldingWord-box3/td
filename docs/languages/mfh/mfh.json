@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mfh",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3784,
-    "lr": "Africa",
     "lc": "mfh",
+    "gw": false,
+    "ln": "Matal",
+    "ld": "ltr",
+    "ang": "Matal",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Muktele",
         "Muktile"
     ],
-    "ang": "Matal",
-    "gwcode": "fr",
-    "ln": "Matal"
+    "gwcode": "fr"
 }

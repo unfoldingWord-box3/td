@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gwj",
-    "hc": "BW",
-    "ld": "ltr",
     "pk": 2197,
-    "lr": "Africa",
     "lc": "gwj",
+    "gw": false,
+    "ln": "|Gwi",
+    "ld": "ltr",
+    "ang": "|Gwi",
+    "hc": "BW",
+    "lr": "Africa",
     "cc": [
         "BW"
     ],
@@ -15,7 +17,5 @@
         "G|wikhwe",
         "Gcwi"
     ],
-    "ang": "|Gwi",
-    "gwcode": "en",
-    "ln": "|Gwi"
+    "gwcode": "en"
 }

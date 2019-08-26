@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xav",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6867,
-    "lr": "Americas",
     "lc": "xav",
+    "gw": false,
+    "ln": "Xav\u00e1nte",
+    "ld": "ltr",
+    "ang": "Xav\u00e1nte",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -20,7 +22,5 @@
         "Shavante",
         "Tapacua"
     ],
-    "ang": "Xav\u00e1nte",
-    "gwcode": "pt",
-    "ln": "Xav\u00e1nte"
+    "gwcode": "pt"
 }

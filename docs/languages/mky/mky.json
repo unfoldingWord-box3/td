@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mky",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3924,
-    "lr": "Asia",
     "lc": "mky",
+    "gw": false,
+    "ln": "East Makian",
+    "ld": "ltr",
+    "ang": "Makian, East",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Makian Timur",
         "Kayoa (Kajoa)"
     ],
-    "ang": "Makian, East",
-    "gwcode": "id",
-    "ln": "East Makian"
+    "gwcode": "id"
 }

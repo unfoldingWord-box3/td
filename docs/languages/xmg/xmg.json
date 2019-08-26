@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xmg",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 6975,
-    "lr": "Africa",
     "lc": "xmg",
+    "gw": false,
+    "ln": "Mengaka",
+    "ld": "ltr",
+    "ang": "Mengaka",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -16,7 +18,5 @@
         "Megaka",
         "Bamendjing (Bamendjin)"
     ],
-    "ang": "Mengaka",
-    "gwcode": "fr",
-    "ln": "Mengaka"
+    "gwcode": "fr"
 }

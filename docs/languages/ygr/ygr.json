@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ygr",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 7172,
-    "lr": "Pacific",
     "lc": "ygr",
+    "gw": false,
+    "ln": "Yagaria",
+    "ld": "ltr",
+    "ang": "Yagaria",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Hira",
         "Hua (Huva)"
     ],
-    "ang": "Yagaria",
-    "gwcode": "tpi",
-    "ln": "Yagaria"
+    "gwcode": "tpi"
 }

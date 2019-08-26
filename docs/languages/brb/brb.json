@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "brb",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 901,
-    "lr": "Asia",
     "lc": "brb",
+    "gw": false,
+    "ln": "Ti\u1ebfng Br\u00e2u",
+    "ld": "ltr",
+    "ang": "Lave",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA",
         "US",
@@ -24,7 +26,5 @@
         "Jrii",
         "Hamong"
     ],
-    "ang": "Lave",
-    "gwcode": "lo",
-    "ln": "Ti\u1ebfng Br\u00e2u"
+    "gwcode": "lo"
 }

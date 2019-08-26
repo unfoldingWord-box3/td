@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gbm",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1939,
-    "lr": "Asia",
     "lc": "gbm",
+    "gw": false,
+    "ln": "Garhwali",
+    "ld": "ltr",
+    "ang": "Garhwali",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -29,7 +31,5 @@
         "Srinagari",
         "Tehri (Gangapariya)"
     ],
-    "ang": "Garhwali",
-    "gwcode": "hi",
-    "ln": "Garhwali"
+    "gwcode": "hi"
 }

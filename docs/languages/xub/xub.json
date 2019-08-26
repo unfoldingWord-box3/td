@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xub",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 7078,
-    "lr": "Asia",
     "lc": "xub",
+    "gw": false,
+    "ln": "Betta Kurumba",
+    "ld": "ltr",
+    "ang": "Kurumba, Betta",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Kadu Kurumba",
         "Urali Kurumba"
     ],
-    "ang": "Kurumba, Betta",
-    "gwcode": "ta",
-    "ln": "Betta Kurumba"
+    "gwcode": "ta"
 }

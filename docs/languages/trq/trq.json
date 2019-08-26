@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "trq",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6314,
-    "lr": "Americas",
     "lc": "trq",
+    "gw": false,
+    "ln": "San Mart\u00edn Itunyoso Triqui",
+    "ld": "ltr",
+    "ang": "Triqui, San Mart\u00edn Itunyoso",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Triqui Alto",
         "Triqui de San Mart\u00edn Itunyoso"
     ],
-    "ang": "Triqui, San Mart\u00edn Itunyoso",
-    "gwcode": "es-419",
-    "ln": "San Mart\u00edn Itunyoso Triqui"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aae",
-    "hc": "IT",
-    "ld": "ltr",
     "pk": 11,
-    "lr": "Europe",
     "lc": "aae",
+    "gw": false,
+    "ln": "Arb\u00ebresh\u00eb Albanian",
+    "ld": "ltr",
+    "ang": "Albanian, Arb\u00ebresh\u00eb",
+    "hc": "IT",
+    "lr": "Europe",
     "cc": [
         "GR",
         "IT"
@@ -14,7 +16,5 @@
         "Arb\u00ebresh\u00eb",
         "Molise Albanian"
     ],
-    "ang": "Albanian, Arb\u00ebresh\u00eb",
-    "gwcode": "en",
-    "ln": "Arb\u00ebresh\u00eb Albanian"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "agg",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 128,
-    "lr": "Pacific",
     "lc": "agg",
+    "gw": false,
+    "ln": "Angor",
+    "ld": "ltr",
+    "ang": "Angor",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Senagi",
         "Watapor"
     ],
-    "ang": "Angor",
-    "gwcode": "tpi",
-    "ln": "Angor"
+    "gwcode": "tpi"
 }

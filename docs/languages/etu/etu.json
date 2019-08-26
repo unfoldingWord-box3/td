@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "etu",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1798,
-    "lr": "Africa",
     "lc": "etu",
+    "gw": false,
+    "ln": "Ejagham",
+    "ld": "ltr",
+    "ang": "Ejagham",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -22,7 +24,5 @@
         "Ekin",
         "Aqua"
     ],
-    "ang": "Ejagham",
-    "gwcode": "en",
-    "ln": "Ejagham"
+    "gwcode": "en"
 }

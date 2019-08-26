@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sny",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5747,
-    "lr": "Pacific",
     "lc": "sny",
+    "gw": false,
+    "ln": "Saniyo-Hiyewe",
+    "ld": "ltr",
+    "ang": "Saniyo-Hiyewe",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Hiyowe (Hiowe)",
         "Saniyo (Sanio)"
     ],
-    "ang": "Saniyo-Hiyewe",
-    "gwcode": "tpi",
-    "ln": "Saniyo-Hiyewe"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kzi",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 3316,
-    "lr": "Asia",
     "lc": "kzi",
+    "gw": false,
+    "ln": "Kelabit",
+    "ld": "ltr",
+    "ang": "Kelabit",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "ID",
         "MY"
@@ -24,7 +26,5 @@
         "Bareo (Bario)",
         "Pa' Dalih"
     ],
-    "ang": "Kelabit",
-    "gwcode": "ms",
-    "ln": "Kelabit"
+    "gwcode": "ms"
 }

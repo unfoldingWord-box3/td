@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "buc",
-    "hc": "YT",
-    "ld": "ltr",
     "pk": 972,
-    "lr": "Africa",
     "lc": "buc",
+    "gw": false,
+    "ln": "Bushi",
+    "ld": "ltr",
+    "ang": "Bushi",
+    "hc": "YT",
+    "lr": "Africa",
     "cc": [
         "KM",
         "MG",
@@ -19,7 +21,5 @@
         "Shibushi",
         "Shibushi Shimaore"
     ],
-    "ang": "Bushi",
-    "gwcode": "fr",
-    "ln": "Bushi"
+    "gwcode": "fr"
 }

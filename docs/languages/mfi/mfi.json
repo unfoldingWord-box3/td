@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mfi",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3785,
-    "lr": "Africa",
     "lc": "mfi",
+    "gw": false,
+    "ln": "Wandala",
+    "ld": "ltr",
+    "ang": "Wandala",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -24,7 +26,5 @@
         "Gamargu (Gamergou)",
         "Mora Massif"
     ],
-    "ang": "Wandala",
-    "gwcode": "fr",
-    "ln": "Wandala"
+    "gwcode": "fr"
 }

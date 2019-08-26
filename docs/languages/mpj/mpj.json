@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mpj",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4029,
-    "lr": "Pacific",
     "lc": "mpj",
+    "gw": false,
+    "ln": "Martu Wangka",
+    "ld": "ltr",
+    "ang": "Martu Wangka",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -28,7 +30,5 @@
         "Kadaddjara",
         "Kiadjara"
     ],
-    "ang": "Martu Wangka",
-    "gwcode": "en",
-    "ln": "Martu Wangka"
+    "gwcode": "en"
 }

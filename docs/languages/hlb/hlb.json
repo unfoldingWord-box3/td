@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hlb",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2285,
-    "lr": "Asia",
     "lc": "hlb",
+    "gw": false,
+    "ln": "Halbi",
+    "ld": "ltr",
+    "ang": "Halbi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -22,7 +24,5 @@
         "Muri (Muria)",
         "Kawari"
     ],
-    "ang": "Halbi",
-    "gwcode": "hi",
-    "ln": "Halbi"
+    "gwcode": "hi"
 }

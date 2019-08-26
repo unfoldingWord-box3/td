@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "urz",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6557,
-    "lr": "Americas",
     "lc": "urz",
+    "gw": false,
+    "ln": "Uru-Eu-Wau-Wau",
+    "ld": "ltr",
+    "ang": "Uru-Eu-Wau-Wau",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -15,7 +17,5 @@
         "Kagwahiva",
         "Uruewawau"
     ],
-    "ang": "Uru-Eu-Wau-Wau",
-    "gwcode": "pt",
-    "ln": "Uru-Eu-Wau-Wau"
+    "gwcode": "pt"
 }

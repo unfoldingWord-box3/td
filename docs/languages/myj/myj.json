@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "myj",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 4249,
-    "lr": "Africa",
     "lc": "myj",
+    "gw": false,
+    "ln": "Mangayat",
+    "ld": "ltr",
+    "ang": "Mangayat",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -14,7 +16,5 @@
         "Mangaya",
         "Mongaiyat"
     ],
-    "ang": "Mangayat",
-    "gwcode": "ar",
-    "ln": "Mangayat"
+    "gwcode": "ar"
 }

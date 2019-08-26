@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "xtp",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7068,
-    "lr": "Americas",
     "lc": "xtp",
+    "gw": false,
+    "ln": "San Miguel Piedras Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, San Miguel Piedras",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
     "alt": [
         "Mixteco de San Miguel Piedras"
     ],
-    "ang": "Mixtec, San Miguel Piedras",
-    "gwcode": "es-419",
-    "ln": "San Miguel Piedras Mixtec"
+    "gwcode": "es-419"
 }

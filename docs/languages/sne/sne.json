@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sne",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 5729,
-    "lr": "Asia",
     "lc": "sne",
+    "gw": false,
+    "ln": "Bau Bidayuh",
+    "ld": "ltr",
+    "ang": "Bidayuh, Bau",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -23,7 +25,5 @@
         "Singai (Bisingai)",
         "Singgai"
     ],
-    "ang": "Bidayuh, Bau",
-    "gwcode": "ms",
-    "ln": "Bau Bidayuh"
+    "gwcode": "ms"
 }

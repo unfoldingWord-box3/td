@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "irx",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2514,
-    "lr": "Asia",
     "lc": "irx",
+    "gw": false,
+    "ln": "Kamberau",
+    "ld": "ltr",
+    "ang": "Kamberau",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Kambrau",
         "Kamrau"
     ],
-    "ang": "Kamberau",
-    "gwcode": "id",
-    "ln": "Kamberau"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zab",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7332,
-    "lr": "Americas",
     "lc": "zab",
+    "gw": false,
+    "ln": "San Juan Guelav\u00eda Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, San Juan Guelav\u00eda",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX",
         "US"
@@ -18,7 +20,5 @@
         "San Mart\u00edn Tilcajete Zapotec",
         "San Lucas Quiavini Zapotec"
     ],
-    "ang": "Zapotec, San Juan Guelav\u00eda",
-    "gwcode": "es-419",
-    "ln": "San Juan Guelav\u00eda Zapotec"
+    "gwcode": "es-419"
 }

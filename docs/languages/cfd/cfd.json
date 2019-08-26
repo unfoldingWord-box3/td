@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cfd",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1182,
-    "lr": "Africa",
     "lc": "cfd",
+    "gw": false,
+    "ln": "Cara",
+    "ld": "ltr",
+    "ang": "Cara",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -19,7 +21,5 @@
         "Teriya",
         "Terri"
     ],
-    "ang": "Cara",
-    "gwcode": "en",
-    "ln": "Cara"
+    "gwcode": "en"
 }

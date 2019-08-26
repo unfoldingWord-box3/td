@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sxe",
-    "hc": "GA",
-    "ld": "ltr",
     "pk": 5927,
-    "lr": "Africa",
     "lc": "sxe",
+    "gw": false,
+    "ln": "Sighu",
+    "ld": "ltr",
+    "ang": "Sighu",
+    "hc": "GA",
+    "lr": "Africa",
     "cc": [
         "GA"
     ],
@@ -13,7 +15,5 @@
         "Lesighu",
         "Mississiou"
     ],
-    "ang": "Sighu",
-    "gwcode": "fr",
-    "ln": "Sighu"
+    "gwcode": "fr"
 }

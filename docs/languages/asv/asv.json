@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "asv",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 376,
-    "lr": "Africa",
     "lc": "asv",
+    "gw": false,
+    "ln": "Asoa",
+    "ld": "ltr",
+    "ang": "Asoa",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Asuati",
         "Aka"
     ],
-    "ang": "Asoa",
-    "gwcode": "fr",
-    "ln": "Asoa"
+    "gwcode": "fr"
 }

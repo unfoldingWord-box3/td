@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bxj",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1050,
-    "lr": "Pacific",
     "lc": "bxj",
+    "gw": false,
+    "ln": "Bayungu",
+    "ld": "ltr",
+    "ang": "Bayungu",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -19,7 +21,5 @@
         "Pajungu",
         "Payungu"
     ],
-    "ang": "Bayungu",
-    "gwcode": "en",
-    "ln": "Bayungu"
+    "gwcode": "en"
 }

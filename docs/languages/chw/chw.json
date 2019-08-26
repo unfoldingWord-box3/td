@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "chw",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 1204,
-    "lr": "Africa",
     "lc": "chw",
+    "gw": false,
+    "ln": "Chuwabu",
+    "ld": "ltr",
+    "ang": "Chuwabu",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ"
     ],
@@ -22,7 +24,5 @@
         "Karungu",
         "Marale"
     ],
-    "ang": "Chuwabu",
-    "gwcode": "pt",
-    "ln": "Chuwabu"
+    "gwcode": "pt"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tdd",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 6033,
-    "lr": "Asia",
     "lc": "tdd",
+    "gw": false,
+    "ln": "\u50a3\u90a3\u8bed",
+    "ld": "ltr",
+    "ang": "Tai N\u00fca",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "LA",
@@ -46,7 +48,5 @@
         "Ruili (Meng Mao)",
         "Ya"
     ],
-    "ang": "Tai N\u00fca",
-    "gwcode": "zh",
-    "ln": "\u50a3\u90a3\u8bed"
+    "gwcode": "zh"
 }

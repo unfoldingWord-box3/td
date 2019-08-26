@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dho",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1513,
-    "lr": "Asia",
     "lc": "dho",
+    "gw": false,
+    "ln": "Dhodia",
+    "ld": "ltr",
+    "ang": "Dhodia",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -16,7 +18,5 @@
         "Dhowari",
         "Doria"
     ],
-    "ang": "Dhodia",
-    "gwcode": "gu",
-    "ln": "Dhodia"
+    "gwcode": "gu"
 }

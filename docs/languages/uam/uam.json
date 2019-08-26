@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "uam",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6465,
-    "lr": "Americas",
     "lc": "uam",
+    "gw": false,
+    "ln": "Uamu\u00e9",
+    "ld": "ltr",
+    "ang": "Uamu\u00e9",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Atikum",
         "Huamu\u00ea"
     ],
-    "ang": "Uamu\u00e9",
-    "gwcode": "pt",
-    "ln": "Uamu\u00e9"
+    "gwcode": "pt"
 }

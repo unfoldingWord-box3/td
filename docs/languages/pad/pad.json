@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pad",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4918,
-    "lr": "Americas",
     "lc": "pad",
+    "gw": false,
+    "ln": "Paumar\u00ed",
+    "ld": "ltr",
+    "ang": "Paumar\u00ed",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Kurukuru (Curucuru)",
         "Paumarm (Pammari)"
     ],
-    "ang": "Paumar\u00ed",
-    "gwcode": "pt",
-    "ln": "Paumar\u00ed"
+    "gwcode": "pt"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ama",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 235,
-    "lr": "Americas",
     "lc": "ama",
+    "gw": false,
+    "ln": "Amanay\u00e9",
+    "ld": "ltr",
+    "ang": "Amanay\u00e9",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -18,7 +20,5 @@
         "Manaze",
         "Manazo"
     ],
-    "ang": "Amanay\u00e9",
-    "gwcode": "pt",
-    "ln": "Amanay\u00e9"
+    "gwcode": "pt"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fmp",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 1855,
-    "lr": "Africa",
     "lc": "fmp",
+    "gw": false,
+    "ln": "Fe'fe'",
+    "ld": "ltr",
+    "ang": "Fe\u2019fe\u2019",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -26,7 +28,5 @@
         "Fa' (Bafang)",
         "Tungi' (Fotouni)"
     ],
-    "ang": "Fe\u2019fe\u2019",
-    "gwcode": "fr",
-    "ln": "Fe'fe'"
+    "gwcode": "fr"
 }

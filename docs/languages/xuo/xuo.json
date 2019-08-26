@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xuo",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 7083,
-    "lr": "Africa",
     "lc": "xuo",
+    "gw": false,
+    "ln": "Kuo",
+    "ld": "ltr",
+    "ang": "Kuo",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "CM",
         "TD"
@@ -14,7 +16,5 @@
         "Ko",
         "Koh"
     ],
-    "ang": "Kuo",
-    "gwcode": "ar",
-    "ln": "Kuo"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bdh",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 566,
-    "lr": "Africa",
     "lc": "bdh",
+    "gw": false,
+    "ln": "Baka (Sudan)",
+    "ld": "ltr",
+    "ang": "Baka",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS",
         "SD"
@@ -14,7 +16,5 @@
         "Tara Baaka",
         "Tara Baka"
     ],
-    "ang": "Baka",
-    "gwcode": "ar",
-    "ln": "Baka (Sudan)"
+    "gwcode": "ar"
 }

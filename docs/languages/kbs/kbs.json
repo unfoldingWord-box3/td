@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbs",
-    "hc": "GA",
-    "ld": "ltr",
     "pk": 2728,
-    "lr": "Africa",
     "lc": "kbs",
+    "gw": false,
+    "ln": "Kande",
+    "ld": "ltr",
+    "ang": "Kande",
+    "hc": "GA",
+    "lr": "Africa",
     "cc": [
         "GA"
     ],
@@ -13,7 +15,5 @@
         "Kanda",
         "Okande"
     ],
-    "ang": "Kande",
-    "gwcode": "fr",
-    "ln": "Kande"
+    "gwcode": "fr"
 }

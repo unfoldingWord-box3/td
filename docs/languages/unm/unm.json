@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "unm",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 6531,
-    "lr": "Americas",
     "lc": "unm",
+    "gw": false,
+    "ln": "Unami",
+    "ld": "ltr",
+    "ang": "Unami",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -14,7 +16,5 @@
         "Lenape",
         "Lenni-Lenape"
     ],
-    "ang": "Unami",
-    "gwcode": "en",
-    "ln": "Unami"
+    "gwcode": "en"
 }

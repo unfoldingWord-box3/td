@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "iti",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 2534,
-    "lr": "Asia",
     "lc": "iti",
+    "gw": false,
+    "ln": "Inlaod Itneg",
+    "ld": "ltr",
+    "ang": "Itneg, Inlaod",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Tinggian",
         "Tinguian"
     ],
-    "ang": "Itneg, Inlaod",
-    "gwcode": "ilo",
-    "ln": "Inlaod Itneg"
+    "gwcode": "ilo"
 }

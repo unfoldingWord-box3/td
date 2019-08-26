@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mce",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3706,
-    "lr": "Americas",
     "lc": "mce",
+    "gw": false,
+    "ln": "Itundujia Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Itundujia",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Eastern Putla Mixtec",
         "Mixteco de Santa Cruz Itundujia"
     ],
-    "ang": "Mixtec, Itundujia",
-    "gwcode": "es-419",
-    "ln": "Itundujia Mixtec"
+    "gwcode": "es-419"
 }

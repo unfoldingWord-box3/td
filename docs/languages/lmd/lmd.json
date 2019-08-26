@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lmd",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 3515,
-    "lr": "Africa",
     "lc": "lmd",
+    "gw": false,
+    "ln": "Lumun",
+    "ld": "ltr",
+    "ang": "Lumun",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -13,7 +15,5 @@
         "Kuku-Lumun",
         "Lomon"
     ],
-    "ang": "Lumun",
-    "gwcode": "ar",
-    "ln": "Lumun"
+    "gwcode": "ar"
 }

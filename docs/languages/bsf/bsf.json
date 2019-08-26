@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bsf",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 928,
-    "lr": "Africa",
     "lc": "bsf",
+    "gw": false,
+    "ln": "Bauchi",
+    "ld": "ltr",
+    "ang": "Bauchi",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Kushi",
         "Madaka (Adeka)"
     ],
-    "ang": "Bauchi",
-    "gwcode": "en",
-    "ln": "Bauchi"
+    "gwcode": "en"
 }

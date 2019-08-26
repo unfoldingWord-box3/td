@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ndc",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 4356,
-    "lr": "Africa",
     "lc": "ndc",
+    "gw": false,
+    "ln": "Ndau",
+    "ld": "ltr",
+    "ang": "Ndau",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ",
         "TH",
@@ -42,7 +44,5 @@
         "Atonga",
         "Chichanga"
     ],
-    "ang": "Ndau",
-    "gwcode": "pt",
-    "ln": "Ndau"
+    "gwcode": "pt"
 }

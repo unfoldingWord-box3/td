@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tif",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6125,
-    "lr": "Pacific",
     "lc": "tif",
+    "gw": false,
+    "ln": "Tifal",
+    "ld": "ltr",
+    "ang": "Tifal",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Tifalmin",
         "Asbalmin"
     ],
-    "ang": "Tifal",
-    "gwcode": "tpi",
-    "ln": "Tifal"
+    "gwcode": "tpi"
 }

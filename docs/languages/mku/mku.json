@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mku",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 3920,
-    "lr": "Africa",
     "lc": "mku",
+    "gw": false,
+    "ln": "Konyanka Maninka",
+    "ld": "ltr",
+    "ang": "Maninka, Konyanka",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN"
     ],
@@ -18,7 +20,5 @@
         "Woroduu",
         "Gbasando"
     ],
-    "ang": "Maninka, Konyanka",
-    "gwcode": "fr",
-    "ln": "Konyanka Maninka"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ala",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 211,
-    "lr": "Africa",
     "lc": "ala",
+    "gw": false,
+    "ln": "Alago",
+    "ld": "ltr",
+    "ang": "Alago",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Argo",
         "Idoma Nokwu"
     ],
-    "ang": "Alago",
-    "gwcode": "en",
-    "ln": "Alago"
+    "gwcode": "en"
 }

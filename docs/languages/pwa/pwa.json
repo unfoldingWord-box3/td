@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pwa",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5229,
-    "lr": "Pacific",
     "lc": "pwa",
+    "gw": false,
+    "ln": "Pawaia",
+    "ld": "ltr",
+    "ang": "Pawaia",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -17,7 +19,5 @@
         "Uri",
         "Aurama (Turoha)"
     ],
-    "ang": "Pawaia",
-    "gwcode": "tpi",
-    "ln": "Pawaia"
+    "gwcode": "tpi"
 }

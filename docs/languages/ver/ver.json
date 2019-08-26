@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ver",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 6606,
-    "lr": "Africa",
     "lc": "ver",
+    "gw": false,
+    "ln": "Mom Jango",
+    "ld": "ltr",
+    "ang": "Mom Jango",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -16,7 +18,5 @@
         "Were",
         "Momi (Ziri)"
     ],
-    "ang": "Mom Jango",
-    "gwcode": "en",
-    "ln": "Mom Jango"
+    "gwcode": "en"
 }

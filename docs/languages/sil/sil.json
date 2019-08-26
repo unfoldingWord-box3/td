@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sil",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 5628,
-    "lr": "Africa",
     "lc": "sil",
+    "gw": false,
+    "ln": "Tumulung Sisaala",
+    "ld": "ltr",
+    "ang": "Sisaala, Tumulung",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -17,7 +19,5 @@
         "Sisala Tumu",
         "Gil Bagale (Galebagla)"
     ],
-    "ang": "Sisaala, Tumulung",
-    "gwcode": "en",
-    "ln": "Tumulung Sisaala"
+    "gwcode": "en"
 }

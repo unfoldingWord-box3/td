@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xmb",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 6970,
-    "lr": "Africa",
     "lc": "xmb",
+    "gw": false,
+    "ln": "Mbonga",
+    "ld": "ltr",
+    "ang": "Mbonga",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -13,7 +15,5 @@
     "alt": [
         "Mboa"
     ],
-    "ang": "Mbonga",
-    "gwcode": "fr",
-    "ln": "Mbonga"
+    "gwcode": "fr"
 }

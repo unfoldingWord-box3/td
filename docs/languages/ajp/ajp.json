@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ajp",
-    "hc": "JO",
-    "ld": "rtl",
     "pk": 186,
-    "lr": "Asia",
     "lc": "ajp",
+    "gw": false,
+    "ln": "South Levantine Arabic",
+    "ld": "rtl",
+    "ang": "Arabic, South Levantine Spoken",
+    "hc": "JO",
+    "lr": "Asia",
     "cc": [
         "ER",
         "FR",
@@ -31,7 +33,5 @@
         "South Levantine Arabic",
         "Bedawi"
     ],
-    "ang": "Arabic, South Levantine Spoken",
-    "gwcode": "ar",
-    "ln": "South Levantine Arabic"
+    "gwcode": "ar"
 }

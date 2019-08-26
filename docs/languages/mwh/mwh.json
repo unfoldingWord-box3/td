@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mwh",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4198,
-    "lr": "Pacific",
     "lc": "mwh",
+    "gw": false,
+    "ln": "Mouk-Aria",
+    "ld": "ltr",
+    "ang": "Mouk-Aria",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Aria-Mouk",
         "Mouk (Mok)"
     ],
-    "ang": "Mouk-Aria",
-    "gwcode": "tpi",
-    "ln": "Mouk-Aria"
+    "gwcode": "tpi"
 }

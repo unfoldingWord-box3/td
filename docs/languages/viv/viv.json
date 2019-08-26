@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "viv",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6617,
-    "lr": "Pacific",
     "lc": "viv",
+    "gw": false,
+    "ln": "Iduna",
+    "ld": "ltr",
+    "ang": "Iduna",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Ufufu",
         "Waibula"
     ],
-    "ang": "Iduna",
-    "gwcode": "tpi",
-    "ln": "Iduna"
+    "gwcode": "tpi"
 }

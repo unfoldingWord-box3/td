@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bzu",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1103,
-    "lr": "Asia",
     "lc": "bzu",
+    "gw": false,
+    "ln": "Burmeso",
+    "ld": "ltr",
+    "ang": "Burmeso",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -18,7 +20,5 @@
         "Monau",
         "Taurap"
     ],
-    "ang": "Burmeso",
-    "gwcode": "id",
-    "ln": "Burmeso"
+    "gwcode": "id"
 }

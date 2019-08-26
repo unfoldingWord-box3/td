@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mfj",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3786,
-    "lr": "Africa",
     "lc": "mfj",
+    "gw": false,
+    "ln": "Mefele",
+    "ld": "ltr",
+    "ang": "Mefele",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -17,7 +19,5 @@
         "Serak (Sirak)",
         "Shugule (Chougoule)"
     ],
-    "ang": "Mefele",
-    "gwcode": "fr",
-    "ln": "Mefele"
+    "gwcode": "fr"
 }

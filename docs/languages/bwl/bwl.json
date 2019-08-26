@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bwl",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 1028,
-    "lr": "Africa",
     "lc": "bwl",
+    "gw": false,
+    "ln": "Bwela",
+    "ld": "ltr",
+    "ang": "Bwela",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -13,7 +15,5 @@
         "Buela",
         "Lingi"
     ],
-    "ang": "Bwela",
-    "gwcode": "fr",
-    "ln": "Bwela"
+    "gwcode": "fr"
 }

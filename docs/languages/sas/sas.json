@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sas",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5471,
-    "lr": "Asia",
     "lc": "sas",
+    "gw": false,
+    "ln": "Sasak",
+    "ld": "ltr",
+    "ang": "Sasak",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -18,7 +20,5 @@
         "Kuto-Kute (North Sasak)",
         "Central West Sasak"
     ],
-    "ang": "Sasak",
-    "gwcode": "id",
-    "ln": "Sasak"
+    "gwcode": "id"
 }

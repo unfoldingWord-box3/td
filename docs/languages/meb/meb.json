@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "meb",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3754,
-    "lr": "Pacific",
     "lc": "meb",
+    "gw": false,
+    "ln": "Ikobi",
+    "ld": "ltr",
+    "ang": "Ikobi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -18,7 +20,5 @@
         "Upper Kikori Kaser",
         "Upper Turama-Kaser"
     ],
-    "ang": "Ikobi",
-    "gwcode": "tpi",
-    "ln": "Ikobi"
+    "gwcode": "tpi"
 }

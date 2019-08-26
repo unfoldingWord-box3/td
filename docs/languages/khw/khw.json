@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "khw",
-    "hc": "PK",
-    "ld": "rtl",
     "pk": 2878,
-    "lr": "Asia",
     "lc": "khw",
+    "gw": false,
+    "ln": "\u06a9\u0647\u0648\u0648\u0627\u0631",
+    "ld": "rtl",
+    "ang": "Khowar",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "AF",
         "PK"
@@ -20,7 +22,5 @@
         "Patu",
         "Qashqari"
     ],
-    "ang": "Khowar",
-    "gwcode": "ur",
-    "ln": "\u06a9\u0647\u0648\u0648\u0627\u0631"
+    "gwcode": "ur"
 }

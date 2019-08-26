@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wep",
-    "hc": "DE",
-    "ld": "ltr",
     "pk": 6717,
-    "lr": "Europe",
     "lc": "wep",
+    "gw": false,
+    "ln": "Westphalien",
+    "ld": "ltr",
+    "ang": "Westphalien",
+    "hc": "DE",
+    "lr": "Europe",
     "cc": [
         "DE"
     ],
@@ -13,7 +15,5 @@
         "Westfaelisch",
         "Westf\u00e4lisch"
     ],
-    "ang": "Westphalien",
-    "gwcode": "en",
-    "ln": "Westphalien"
+    "gwcode": "en"
 }

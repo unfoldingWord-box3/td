@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nkb",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4495,
-    "lr": "Asia",
     "lc": "nkb",
+    "gw": false,
+    "ln": "Khoibu Naga",
+    "ld": "ltr",
+    "ang": "Naga, Khoibu",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Khoibu Maring",
         "Khoibu Maring Naga"
     ],
-    "ang": "Naga, Khoibu",
-    "gwcode": "en",
-    "ln": "Khoibu Naga"
+    "gwcode": "en"
 }

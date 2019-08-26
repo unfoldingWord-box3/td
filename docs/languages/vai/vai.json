@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vai",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 6585,
-    "lr": "Africa",
     "lc": "vai",
+    "gw": false,
+    "ln": "Vai",
+    "ld": "ltr",
+    "ang": "Vai",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR",
         "SL"
@@ -16,7 +18,5 @@
         "Vei",
         "Vy"
     ],
-    "ang": "Vai",
-    "gwcode": "en",
-    "ln": "Vai"
+    "gwcode": "en"
 }

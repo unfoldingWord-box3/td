@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "thq",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 6112,
-    "lr": "Asia",
     "lc": "thq",
+    "gw": false,
+    "ln": "\u092e\u0927\u094d\u092f-\u092a\u0942\u0930\u094d\u0935\u093f\u092f\u093e \u0925\u093e\u0930\u0942",
+    "ld": "ltr",
+    "ang": "Tharu, Kochila",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -19,7 +21,5 @@
         "Mahottari",
         "Dhanusa"
     ],
-    "ang": "Tharu, Kochila",
-    "gwcode": "ne",
-    "ln": "\u092e\u0927\u094d\u092f-\u092a\u0942\u0930\u094d\u0935\u093f\u092f\u093e \u0925\u093e\u0930\u0942"
+    "gwcode": "ne"
 }

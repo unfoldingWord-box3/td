@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nfr",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 4406,
-    "lr": "Africa",
     "lc": "nfr",
+    "gw": false,
+    "ln": "Nafaanra",
+    "ld": "ltr",
+    "ang": "Nafaanra",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -17,7 +19,5 @@
         "Nafana",
         "Pantera-Fantera"
     ],
-    "ang": "Nafaanra",
-    "gwcode": "en",
-    "ln": "Nafaanra"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "emp",
-    "hc": "PA",
-    "ld": "ltr",
     "pk": 1741,
-    "lr": "Americas",
     "lc": "emp",
+    "gw": false,
+    "ln": "Northern Ember\u00e1",
+    "ld": "ltr",
+    "ang": "Ember\u00e1, Northern",
+    "hc": "PA",
+    "lr": "Americas",
     "cc": [
         "PA",
         "CO"
@@ -27,7 +29,5 @@
         "Eer\u00e3",
         "Empera"
     ],
-    "ang": "Ember\u00e1, Northern",
-    "gwcode": "es-419",
-    "ln": "Northern Ember\u00e1"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "css",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 1362,
-    "lr": "Americas",
     "lc": "css",
+    "gw": false,
+    "ln": "Southern Ohlone",
+    "ld": "ltr",
+    "ang": "Ohlone, Southern",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -16,7 +18,5 @@
         "San Carlos",
         "Costanoan"
     ],
-    "ang": "Ohlone, Southern",
-    "gwcode": "en",
-    "ln": "Southern Ohlone"
+    "gwcode": "en"
 }

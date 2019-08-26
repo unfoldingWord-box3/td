@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "phw",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5024,
-    "lr": "Asia",
     "lc": "phw",
+    "gw": false,
+    "ln": "Phangduwali",
+    "ld": "ltr",
+    "ang": "Phangduwali",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -13,7 +15,5 @@
         "Phangduvali",
         "Phangduwali Poti"
     ],
-    "ang": "Phangduwali",
-    "gwcode": "ne",
-    "ln": "Phangduwali"
+    "gwcode": "ne"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "iqu",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 2505,
-    "lr": "Americas",
     "lc": "iqu",
+    "gw": false,
+    "ln": "Iquito",
+    "ld": "ltr",
+    "ang": "Iquito",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -18,7 +20,5 @@
         "Quiturran",
         "Pintuyacu"
     ],
-    "ang": "Iquito",
-    "gwcode": "es-419",
-    "ln": "Iquito"
+    "gwcode": "es-419"
 }

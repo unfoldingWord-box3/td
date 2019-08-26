@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "muk",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 4155,
-    "lr": "Asia",
     "lc": "muk",
+    "gw": false,
+    "ln": "Mugom",
+    "ld": "ltr",
+    "ang": "Mugom",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -19,7 +21,5 @@
         "Kar-ket",
         "Karmarong (Karani)"
     ],
-    "ang": "Mugom",
-    "gwcode": "ne",
-    "ln": "Mugom"
+    "gwcode": "ne"
 }

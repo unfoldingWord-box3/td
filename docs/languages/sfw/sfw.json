@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sfw",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 5570,
-    "lr": "Africa",
     "lc": "sfw",
+    "gw": false,
+    "ln": "Sehwi",
+    "ld": "ltr",
+    "ang": "Sehwi",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -13,7 +15,5 @@
         "Asahyue",
         "Sefwi"
     ],
-    "ang": "Sehwi",
-    "gwcode": "en",
-    "ln": "Sehwi"
+    "gwcode": "en"
 }

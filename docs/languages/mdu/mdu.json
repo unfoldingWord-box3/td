@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mdu",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 3747,
-    "lr": "Africa",
     "lc": "mdu",
+    "gw": false,
+    "ln": "Mboko",
+    "ld": "ltr",
+    "ang": "Mboko",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CG"
     ],
@@ -13,7 +15,5 @@
         "Mboxo",
         "Mbuku"
     ],
-    "ang": "Mboko",
-    "gwcode": "fr",
-    "ln": "Mboko"
+    "gwcode": "fr"
 }

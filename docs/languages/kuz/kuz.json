@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kuz",
-    "hc": "CL",
-    "ld": "ltr",
     "pk": 3206,
-    "lr": "Americas",
     "lc": "kuz",
+    "gw": false,
+    "ln": "Kunza",
+    "ld": "ltr",
+    "ang": "Kunza",
+    "hc": "CL",
+    "lr": "Americas",
     "cc": [
         "CL"
     ],
@@ -15,7 +17,5 @@
         "Lipe",
         "Ulipe"
     ],
-    "ang": "Kunza",
-    "gwcode": "es-419",
-    "ln": "Kunza"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "qux",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 5266,
-    "lr": "Americas",
     "lc": "qux",
+    "gw": false,
+    "ln": "Yauyos Quechua",
+    "ld": "ltr",
+    "ang": "Quechua, Yauyos",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -15,7 +17,5 @@
         "Tana-Lincha (Lincha)",
         "Tom\u00e1s-Alis (Alis)"
     ],
-    "ang": "Quechua, Yauyos",
-    "gwcode": "es-419",
-    "ln": "Yauyos Quechua"
+    "gwcode": "es-419"
 }

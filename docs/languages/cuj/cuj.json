@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cuj",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 1390,
-    "lr": "Americas",
     "lc": "cuj",
+    "gw": false,
+    "ln": "Mashco Piro",
+    "ld": "ltr",
+    "ang": "Mashco Piro",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -14,7 +16,5 @@
         "Cujare\u00f1o",
         "Mashco"
     ],
-    "ang": "Mashco Piro",
-    "gwcode": "es-419",
-    "ln": "Mashco Piro"
+    "gwcode": "es-419"
 }

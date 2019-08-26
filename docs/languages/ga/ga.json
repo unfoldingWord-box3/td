@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gle",
-    "hc": "IE",
-    "ld": "ltr",
     "pk": 1902,
-    "lr": "Europe",
     "lc": "ga",
+    "gw": false,
+    "ln": "Gaeilge",
+    "ld": "ltr",
+    "ang": "Irish",
+    "hc": "IE",
+    "lr": "Europe",
     "cc": [
         "US",
         "CA",
@@ -19,7 +21,5 @@
         "Munster-Leinster (Southern Irish)",
         "Connacht (Western Irish)"
     ],
-    "ang": "Irish",
-    "gwcode": "en",
-    "ln": "Gaeilge"
+    "gwcode": "en"
 }

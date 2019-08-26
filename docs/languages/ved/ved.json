@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ved",
-    "hc": "LK",
-    "ld": "ltr",
     "pk": 6601,
-    "lr": "Asia",
     "lc": "ved",
+    "gw": false,
+    "ln": "Veddah",
+    "ld": "ltr",
+    "ang": "Veddah",
+    "hc": "LK",
+    "lr": "Asia",
     "cc": [
         "LK"
     ],
@@ -18,7 +20,5 @@
         "Weda",
         "Weddo"
     ],
-    "ang": "Veddah",
-    "gwcode": "ta",
-    "ln": "Veddah"
+    "gwcode": "ta"
 }

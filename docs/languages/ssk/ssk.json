@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ssk",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5836,
-    "lr": "Asia",
     "lc": "ssk",
+    "gw": false,
+    "ln": "Sunam",
+    "ld": "ltr",
+    "ang": "Sunam",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -19,7 +21,5 @@
         "Thebor",
         "Theb\u00f6r Skadd"
     ],
-    "ang": "Sunam",
-    "gwcode": "hi",
-    "ln": "Sunam"
+    "gwcode": "hi"
 }

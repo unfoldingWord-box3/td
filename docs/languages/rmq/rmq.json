@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rmq",
-    "hc": "ES",
-    "ld": "ltr",
     "pk": 5389,
-    "lr": "Europe",
     "lc": "rmq",
+    "gw": false,
+    "ln": "Cal\u00f3",
+    "ld": "ltr",
+    "ang": "Cal\u00f3",
+    "hc": "ES",
+    "lr": "Europe",
     "cc": [
         "BR",
         "FR",
@@ -20,7 +22,5 @@
         "Lusitano-Romani",
         "Portuguese Cal\u00e3o (Cal\u00e3o)"
     ],
-    "ang": "Cal\u00f3",
-    "gwcode": "es",
-    "ln": "Cal\u00f3"
+    "gwcode": "es"
 }

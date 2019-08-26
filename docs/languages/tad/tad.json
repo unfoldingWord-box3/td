@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tad",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5966,
-    "lr": "Asia",
     "lc": "tad",
+    "gw": false,
+    "ln": "Tause",
+    "ld": "ltr",
+    "ang": "Tause",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Darha",
         "Doa"
     ],
-    "ang": "Tause",
-    "gwcode": "id",
-    "ln": "Tause"
+    "gwcode": "id"
 }

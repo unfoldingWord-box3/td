@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "muo",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4158,
-    "lr": "Africa",
     "lc": "muo",
+    "gw": false,
+    "ln": "Nyong",
+    "ld": "ltr",
+    "ang": "Nyong",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -23,7 +25,5 @@
         "Teteka",
         "Yapeli"
     ],
-    "ang": "Nyong",
-    "gwcode": "fr",
-    "ln": "Nyong"
+    "gwcode": "fr"
 }

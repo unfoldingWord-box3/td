@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xwr",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 7100,
-    "lr": "Asia",
     "lc": "xwr",
+    "gw": false,
+    "ln": "Kwerba Mamberamo",
+    "ld": "ltr",
+    "ang": "Kwerba Mamberamo",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Nopukw",
         "Tatsewalem"
     ],
-    "ang": "Kwerba Mamberamo",
-    "gwcode": "id",
-    "ln": "Kwerba Mamberamo"
+    "gwcode": "id"
 }

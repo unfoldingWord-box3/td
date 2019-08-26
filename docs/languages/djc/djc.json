@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "djc",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 1543,
-    "lr": "Africa",
     "lc": "djc",
+    "gw": false,
+    "ln": "Dar Daju Daju",
+    "ld": "ltr",
+    "ang": "Daju, Dar Daju",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -21,7 +23,5 @@
         "Bardangal",
         "Eref"
     ],
-    "ang": "Daju, Dar Daju",
-    "gwcode": "ar",
-    "ln": "Dar Daju Daju"
+    "gwcode": "ar"
 }

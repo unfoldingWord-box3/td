@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gdx",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1979,
-    "lr": "Asia",
     "lc": "gdx",
+    "gw": false,
+    "ln": "Godwari",
+    "ld": "ltr",
+    "ang": "Godwari",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Sirohi",
         "Balvi"
     ],
-    "ang": "Godwari",
-    "gwcode": "UNKNOWN",
-    "ln": "Godwari"
+    "gwcode": "rwr"
 }

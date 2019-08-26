@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fud",
-    "hc": "WF",
-    "ld": "ltr",
     "pk": 1884,
-    "lr": "Pacific",
     "lc": "fud",
+    "gw": false,
+    "ln": "East Futuna",
+    "ld": "ltr",
+    "ang": "Futuna, East",
+    "hc": "WF",
+    "lr": "Pacific",
     "cc": [
         "NC",
         "WF"
@@ -14,7 +16,5 @@
         "Futunian",
         "East Futunan"
     ],
-    "ang": "Futuna, East",
-    "gwcode": "en",
-    "ln": "East Futuna"
+    "gwcode": "en"
 }

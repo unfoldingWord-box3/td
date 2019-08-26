@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pho",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 5018,
-    "lr": "Asia",
     "lc": "pho",
+    "gw": false,
+    "ln": "Phunoi",
+    "ld": "ltr",
+    "ang": "Phunoi",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "LA",
         "TH"
@@ -16,7 +18,5 @@
         "Punoi",
         "Sinsali"
     ],
-    "ang": "Phunoi",
-    "gwcode": "lo",
-    "ln": "Phunoi"
+    "gwcode": "lo"
 }

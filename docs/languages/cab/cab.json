@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cab",
-    "hc": "HN",
-    "ld": "ltr",
     "pk": 1111,
-    "lr": "Americas",
     "lc": "cab",
+    "gw": false,
+    "ln": "Garifuna",
+    "ld": "ltr",
+    "ang": "Garifuna",
+    "hc": "HN",
+    "lr": "Americas",
     "cc": [
         "VC",
         "GT",
@@ -22,7 +24,5 @@
         "Eastern Garifuna",
         "Western Garifuna"
     ],
-    "ang": "Garifuna",
-    "gwcode": "es-419",
-    "ln": "Garifuna"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bwj",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 1026,
-    "lr": "Africa",
     "lc": "bwj",
+    "gw": false,
+    "ln": "L\u00e1\u00e1 L\u00e1\u00e1 Bwamu",
+    "ld": "ltr",
+    "ang": "Bwamu, L\u00e1\u00e1 L\u00e1\u00e1",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -13,7 +15,5 @@
         "K\u00e0denb\u00e0",
         "Yere"
     ],
-    "ang": "Bwamu, L\u00e1\u00e1 L\u00e1\u00e1",
-    "gwcode": "fr",
-    "ln": "L\u00e1\u00e1 L\u00e1\u00e1 Bwamu"
+    "gwcode": "fr"
 }

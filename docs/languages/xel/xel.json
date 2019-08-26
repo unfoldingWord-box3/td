@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xel",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 6901,
-    "lr": "Africa",
     "lc": "xel",
+    "gw": false,
+    "ln": "Kelo",
+    "ld": "ltr",
+    "ang": "Kelo",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -14,7 +16,5 @@
         "Ndu-Faa-Keelo",
         "Tornasi"
     ],
-    "ang": "Kelo",
-    "gwcode": "ar",
-    "ln": "Kelo"
+    "gwcode": "ar"
 }

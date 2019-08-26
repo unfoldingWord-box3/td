@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nnr",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4575,
-    "lr": "Pacific",
     "lc": "nnr",
+    "gw": false,
+    "ln": "Narungga",
+    "ld": "ltr",
+    "ang": "Narungga",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -18,7 +20,5 @@
         "Narrangu",
         "Adjabdurah (Adjahdurah)"
     ],
-    "ang": "Narungga",
-    "gwcode": "en",
-    "ln": "Narungga"
+    "gwcode": "en"
 }

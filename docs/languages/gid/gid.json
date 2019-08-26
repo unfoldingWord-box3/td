@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gid",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 2023,
-    "lr": "Africa",
     "lc": "gid",
+    "gw": false,
+    "ln": "Gidar",
+    "ld": "ltr",
+    "ang": "Gidar",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "TD"
@@ -16,7 +18,5 @@
         "Guidar",
         "Kada"
     ],
-    "ang": "Gidar",
-    "gwcode": "fr",
-    "ln": "Gidar"
+    "gwcode": "fr"
 }

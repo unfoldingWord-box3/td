@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nby",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4330,
-    "lr": "Pacific",
     "lc": "nby",
+    "gw": false,
+    "ln": "Ningera",
+    "ld": "ltr",
+    "ang": "Ningera",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Negira",
         "Ninggera"
     ],
-    "ang": "Ningera",
-    "gwcode": "tpi",
-    "ln": "Ningera"
+    "gwcode": "tpi"
 }

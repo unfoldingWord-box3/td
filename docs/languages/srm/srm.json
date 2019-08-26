@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "srm",
-    "hc": "SR",
-    "ld": "ltr",
     "pk": 5814,
-    "lr": "Americas",
     "lc": "srm",
+    "gw": false,
+    "ln": "Saramaccan",
+    "ld": "ltr",
+    "ang": "Saramaccan",
+    "hc": "SR",
+    "lr": "Americas",
     "cc": [
         "GF",
         "SR"
@@ -15,7 +17,5 @@
         "Matawari (Matawai)",
         "Matoewari"
     ],
-    "ang": "Saramaccan",
-    "gwcode": "UNKNOWN",
-    "ln": "Saramaccan"
+    "gwcode": "nl"
 }

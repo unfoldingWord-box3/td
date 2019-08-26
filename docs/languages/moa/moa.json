@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "moa",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 3999,
-    "lr": "Africa",
     "lc": "moa",
+    "gw": false,
+    "ln": "Mwan",
+    "ld": "ltr",
+    "ang": "Mwan",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -16,7 +18,5 @@
         "Muana",
         "Mwa"
     ],
-    "ang": "Mwan",
-    "gwcode": "fr",
-    "ln": "Mwan"
+    "gwcode": "fr"
 }

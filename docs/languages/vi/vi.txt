@@ -3,7 +3,7 @@
 Tiếng Việt
 ==============
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/vie>`_ identifies this language as ``vie``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/vie>`__ identifies this language as ``vie``.
 
 This language is spoken in the following countries:
 
@@ -26,6 +26,8 @@ This language is spoken in the following countries:
 * UZ: Uzbekistan
 * MQ: Martinique
 * VN: Viet Nam
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -61,7 +63,7 @@ This language is spoken in the following countries:
     - UZ
     - MQ
     - VN
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: vi
     lang_direction: ltr
     lang_name: Tiếng Việt

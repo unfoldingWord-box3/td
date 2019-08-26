@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kwc",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 3237,
-    "lr": "Africa",
     "lc": "kwc",
+    "gw": false,
+    "ln": "Likwala",
+    "ld": "ltr",
+    "ang": "Likwala",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CG"
     ],
@@ -14,7 +16,5 @@
         "Kwala",
         "Likouala"
     ],
-    "ang": "Likwala",
-    "gwcode": "fr",
-    "ln": "Likwala"
+    "gwcode": "fr"
 }

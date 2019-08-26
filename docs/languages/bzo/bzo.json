@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bzo",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 1097,
-    "lr": "Africa",
     "lc": "bzo",
+    "gw": false,
+    "ln": "Bozaba",
+    "ld": "ltr",
+    "ang": "Bozaba",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -13,7 +15,5 @@
         "Budzaba",
         "Buzaba"
     ],
-    "ang": "Bozaba",
-    "gwcode": "fr",
-    "ln": "Bozaba"
+    "gwcode": "fr"
 }

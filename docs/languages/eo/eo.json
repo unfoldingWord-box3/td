@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "epo",
-    "hc": "PL",
-    "ld": "ltr",
     "pk": 1764,
-    "lr": "Europe",
     "lc": "eo",
+    "gw": false,
+    "ln": "Esperanto",
+    "ld": "ltr",
+    "ang": "Esperanto",
+    "hc": "PL",
+    "lr": "Europe",
     "cc": [
         "PL"
     ],
@@ -13,7 +15,5 @@
         "Eo",
         "La Lingvo Internacia"
     ],
-    "ang": "Esperanto",
-    "gwcode": "en",
-    "ln": "Esperanto"
+    "gwcode": "en"
 }

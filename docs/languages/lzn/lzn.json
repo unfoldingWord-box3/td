@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lzn",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 3657,
-    "lr": "Asia",
     "lc": "lzn",
+    "gw": false,
+    "ln": "Leinong Naga",
+    "ld": "ltr",
+    "ang": "Naga, Leinong",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -18,7 +20,5 @@
         "Zau Dyang",
         "Southern Leinong"
     ],
-    "ang": "Naga, Leinong",
-    "gwcode": "my",
-    "ln": "Leinong Naga"
+    "gwcode": "my"
 }

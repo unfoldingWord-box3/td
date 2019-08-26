@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ald",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 213,
-    "lr": "Africa",
     "lc": "ald",
+    "gw": false,
+    "ln": "Alladian",
+    "ld": "ltr",
+    "ang": "Alladian",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -14,7 +16,5 @@
         "Allagia",
         "Allagian"
     ],
-    "ang": "Alladian",
-    "gwcode": "fr",
-    "ln": "Alladian"
+    "gwcode": "fr"
 }

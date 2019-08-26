@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kto",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3171,
-    "lr": "Pacific",
     "lc": "kto",
+    "gw": false,
+    "ln": "Kuot",
+    "ld": "ltr",
+    "ang": "Kuot",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Kuat",
         "Panaras"
     ],
-    "ang": "Kuot",
-    "gwcode": "tpi",
-    "ln": "Kuot"
+    "gwcode": "tpi"
 }

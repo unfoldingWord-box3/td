@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ckl",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1234,
-    "lr": "Africa",
     "lc": "ckl",
+    "gw": false,
+    "ln": "Cibak",
+    "ld": "ltr",
+    "ang": "Kibaku",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -20,7 +22,5 @@
         "Kikuk",
         "Kyibaku"
     ],
-    "ang": "Kibaku",
-    "gwcode": "en",
-    "ln": "Cibak"
+    "gwcode": "en"
 }

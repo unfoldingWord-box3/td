@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "lao",
-    "hc": "LA",
-    "ld": "ltr",
     "pk": 3549,
-    "lr": "Asia",
     "lc": "lo",
+    "gw": true,
+    "ln": "\u0e9e\u0eb2\u0eaa\u0eb2\u0ea5\u0eb2\u0ea7",
+    "ld": "ltr",
+    "ang": "Laotian",
+    "hc": "LA",
+    "lr": "Asia",
     "cc": [
         "AR",
         "FR",
@@ -32,7 +34,5 @@
         "Savannakhet (Suwannakhet)",
         "Vientiane (Wiang Jan)"
     ],
-    "ang": "Laotian",
-    "gwcode": "UNKNOWN",
-    "ln": "\u0e9e\u0eb2\u0eaa\u0eb2\u0ea5\u0eb2\u0ea7"
+    "gwcode": null
 }

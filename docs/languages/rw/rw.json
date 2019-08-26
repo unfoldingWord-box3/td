@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kin",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 5447,
-    "lr": "Africa",
     "lc": "rw",
+    "gw": false,
+    "ln": "Ikinyarwanda",
+    "ld": "ltr",
+    "ang": "Kinyarwanda",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "RW",
         "TZ",
@@ -39,7 +41,5 @@
         "Lera",
         "Tshogo"
     ],
-    "ang": "Kinyarwanda",
-    "gwcode": "sw",
-    "ln": "Ikinyarwanda"
+    "gwcode": "sw"
 }

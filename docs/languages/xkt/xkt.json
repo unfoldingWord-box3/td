@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xkt",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 6949,
-    "lr": "Africa",
     "lc": "xkt",
+    "gw": false,
+    "ln": "Kantosi",
+    "ld": "ltr",
+    "ang": "Kantosi",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -15,7 +17,5 @@
         "Yare",
         "Yarsi"
     ],
-    "ang": "Kantosi",
-    "gwcode": "en",
-    "ln": "Kantosi"
+    "gwcode": "en"
 }

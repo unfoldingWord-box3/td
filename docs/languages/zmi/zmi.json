@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zmi",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 7411,
-    "lr": "Asia",
     "lc": "zmi",
+    "gw": false,
+    "ln": "Negeri Sembilan Malay",
+    "ld": "ltr",
+    "ang": "Negeri Sembilan Malay",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -13,7 +15,5 @@
         "Malaysian Minangkabau",
         "Ulu Muar Malay"
     ],
-    "ang": "Negeri Sembilan Malay",
-    "gwcode": "ms",
-    "ln": "Negeri Sembilan Malay"
+    "gwcode": "ms"
 }

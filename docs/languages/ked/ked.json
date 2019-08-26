@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ked",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 2786,
-    "lr": "Africa",
     "lc": "ked",
+    "gw": false,
+    "ln": "Kerewe",
+    "ld": "ltr",
+    "ang": "Kerewe",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -14,7 +16,5 @@
         "Kerebe",
         "Kikwere"
     ],
-    "ang": "Kerewe",
-    "gwcode": "sw",
-    "ln": "Kerewe"
+    "gwcode": "sw"
 }

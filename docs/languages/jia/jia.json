@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jia",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 2613,
-    "lr": "Africa",
     "lc": "jia",
+    "gw": false,
+    "ln": "Jina",
+    "ld": "ltr",
+    "ang": "Jina",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -16,7 +18,5 @@
         "Tchide (Sede)",
         "Jina (Zine)"
     ],
-    "ang": "Jina",
-    "gwcode": "fr",
-    "ln": "Jina"
+    "gwcode": "fr"
 }

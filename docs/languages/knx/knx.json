@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "knx",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3036,
-    "lr": "Asia",
     "lc": "knx",
+    "gw": false,
+    "ln": "Kendayan",
+    "ld": "ltr",
+    "ang": "Kendayan",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "MY"
@@ -22,7 +24,5 @@
         "Selako",
         "Silakau"
     ],
-    "ang": "Kendayan",
-    "gwcode": "id",
-    "ln": "Kendayan"
+    "gwcode": "id"
 }

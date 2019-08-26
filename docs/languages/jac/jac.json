@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jac",
-    "hc": "GT",
-    "ld": "ltr",
     "pk": 2566,
-    "lr": "Americas",
     "lc": "jac",
+    "gw": false,
+    "ln": "Popti'",
+    "ld": "ltr",
+    "ang": "Jakalteko",
+    "hc": "GT",
+    "lr": "Americas",
     "cc": [
         "GT",
         "US"
@@ -17,7 +19,5 @@
         "Western Jacalteco",
         "Western Jakalteko (Western Jacaltec)"
     ],
-    "ang": "Jakalteko",
-    "gwcode": "es-419",
-    "ln": "Popti'"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "era",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1767,
-    "lr": "Asia",
     "lc": "era",
+    "gw": false,
+    "ln": "Eravallan",
+    "ld": "ltr",
+    "ang": "Eravallan",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Villu Vedan",
         "Vilvedan"
     ],
-    "ang": "Eravallan",
-    "gwcode": "ta",
-    "ln": "Eravallan"
+    "gwcode": "ta"
 }

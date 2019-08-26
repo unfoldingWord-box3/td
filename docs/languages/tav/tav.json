@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tav",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 5979,
-    "lr": "Americas",
     "lc": "tav",
+    "gw": false,
+    "ln": "Tatuyo",
+    "ld": "ltr",
+    "ang": "Tatuyo",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -17,7 +19,5 @@
         "Sura",
         "Tatutapuyo"
     ],
-    "ang": "Tatuyo",
-    "gwcode": "es-419",
-    "ln": "Tatuyo"
+    "gwcode": "es-419"
 }

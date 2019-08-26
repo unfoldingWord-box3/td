@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yzk",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7329,
-    "lr": "Asia",
     "lc": "yzk",
+    "gw": false,
+    "ln": "Zokhuo",
+    "ld": "ltr",
+    "ang": "Zokhuo",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -21,7 +23,5 @@
         "Daxingzhai",
         "Longle"
     ],
-    "ang": "Zokhuo",
-    "gwcode": "zh",
-    "ln": "Zokhuo"
+    "gwcode": "zh"
 }

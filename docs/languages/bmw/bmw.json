@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bmw",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 802,
-    "lr": "Africa",
     "lc": "bmw",
+    "gw": false,
+    "ln": "Bomwali",
+    "ld": "ltr",
+    "ang": "Bomwali",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "CG"
@@ -17,7 +19,5 @@
         "Lino",
         "Sangasanga"
     ],
-    "ang": "Bomwali",
-    "gwcode": "fr",
-    "ln": "Bomwali"
+    "gwcode": "fr"
 }

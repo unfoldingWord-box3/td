@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "inh",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 2489,
-    "lr": "Europe",
     "lc": "inh",
+    "gw": false,
+    "ln": "\u0418\u043d\u0433\u0443\u0448\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Ingush",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "KZ",
         "RU"
@@ -17,7 +19,5 @@
         "Kisti",
         "Kistin"
     ],
-    "ang": "Ingush",
-    "gwcode": "ru",
-    "ln": "\u0418\u043d\u0433\u0443\u0448\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

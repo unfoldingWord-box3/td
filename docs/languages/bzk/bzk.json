@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bzk",
-    "hc": "NI",
-    "ld": "ltr",
     "pk": 1093,
-    "lr": "Americas",
     "lc": "bzk",
+    "gw": false,
+    "ln": "Nicaragua Creole English",
+    "ld": "ltr",
+    "ang": "Nicaragua Creole English",
+    "hc": "NI",
+    "lr": "Americas",
     "cc": [
         "NI"
     ],
@@ -14,7 +16,5 @@
         "Rama Cay Creole English",
         "Bluefields Creole English"
     ],
-    "ang": "Nicaragua Creole English",
-    "gwcode": "es-419",
-    "ln": "Nicaragua Creole English"
+    "gwcode": "es-419"
 }

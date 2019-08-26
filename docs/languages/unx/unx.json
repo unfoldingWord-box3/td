@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "unx",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6535,
-    "lr": "Asia",
     "lc": "unx",
+    "gw": false,
+    "ln": "Munda",
+    "ld": "ltr",
+    "ang": "Munda",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "NP",
@@ -16,7 +18,5 @@
         "Heriki",
         "Killi"
     ],
-    "ang": "Munda",
-    "gwcode": "bn",
-    "ln": "Munda"
+    "gwcode": "bn"
 }

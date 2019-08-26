@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 3317,
-    "lr": "Asia",
     "lc": "kzj",
+    "gw": false,
+    "ln": "Coastal Kadazan",
+    "ld": "ltr",
+    "ang": "Kadazan, Coastal",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -15,7 +17,5 @@
         "Papar Kadazan",
         "Penampang Kadazan"
     ],
-    "ang": "Kadazan, Coastal",
-    "gwcode": "ms",
-    "ln": "Coastal Kadazan"
+    "gwcode": "ms"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gol",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 2100,
-    "lr": "Africa",
     "lc": "gol",
+    "gw": false,
+    "ln": "Gola",
+    "ld": "ltr",
+    "ang": "Gola",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR",
         "SL"
@@ -19,7 +21,5 @@
         "De (Deng)",
         "Managobla (Gobla)"
     ],
-    "ang": "Gola",
-    "gwcode": "en",
-    "ln": "Gola"
+    "gwcode": "en"
 }

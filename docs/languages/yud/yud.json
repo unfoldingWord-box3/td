@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yud",
-    "hc": "IL",
-    "ld": "rtl",
     "pk": 7294,
-    "lr": "Asia",
     "lc": "yud",
+    "gw": false,
+    "ln": "\u05d8\u05e8\u05d9\u05e4\u05d5\u05dc\u05d9\u05d8\u05d0\u05d9\u05ea \u05d9\u05d4\u05d5\u05d3\u05d9\u05ea",
+    "ld": "rtl",
+    "ang": "Arabic, Judeo-Tripolitanian",
+    "hc": "IL",
+    "lr": "Asia",
     "cc": [
         "IL"
     ],
@@ -15,7 +17,5 @@
         "Tripolitanian Judeo-Arabic",
         "Yudi"
     ],
-    "ang": "Arabic, Judeo-Tripolitanian",
-    "gwcode": "en",
-    "ln": "\u05d8\u05e8\u05d9\u05e4\u05d5\u05dc\u05d9\u05d8\u05d0\u05d9\u05ea \u05d9\u05d4\u05d5\u05d3\u05d9\u05ea"
+    "gwcode": "en"
 }

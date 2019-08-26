@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yaj",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 7119,
-    "lr": "Africa",
     "lc": "yaj",
+    "gw": false,
+    "ln": "Banda-Yangere",
+    "ld": "ltr",
+    "ang": "Banda-Yangere",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF"
     ],
@@ -13,7 +15,5 @@
         "Yangere",
         "Yanguere"
     ],
-    "ang": "Banda-Yangere",
-    "gwcode": "fr",
-    "ln": "Banda-Yangere"
+    "gwcode": "fr"
 }

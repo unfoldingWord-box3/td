@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mtv",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4142,
-    "lr": "Pacific",
     "lc": "mtv",
+    "gw": false,
+    "ln": "Asaro'o",
+    "ld": "ltr",
+    "ang": "Asaro\u2019o",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Morafa",
         "Molet"
     ],
-    "ang": "Asaro\u2019o",
-    "gwcode": "tpi",
-    "ln": "Asaro'o"
+    "gwcode": "tpi"
 }

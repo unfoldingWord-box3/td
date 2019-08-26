@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "idb",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2420,
-    "lr": "Asia",
     "lc": "idb",
+    "gw": false,
+    "ln": "Indo-Portuguese",
+    "ld": "ltr",
+    "ang": "Indo-Portuguese",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "LK",
         "IN"
@@ -15,7 +17,5 @@
         "Cochin (Kochi)",
         "Diu"
     ],
-    "ang": "Indo-Portuguese",
-    "gwcode": "gu",
-    "ln": "Indo-Portuguese"
+    "gwcode": "gu"
 }

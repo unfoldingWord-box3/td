@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "shx",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 5614,
-    "lr": "Asia",
     "lc": "shx",
+    "gw": false,
+    "ln": "\u5c71\u5ba2\u8a71",
+    "ld": "ltr",
+    "ang": "She",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Lianhua (Western She)",
         "Luofu (Eastern She)"
     ],
-    "ang": "She",
-    "gwcode": "zh",
-    "ln": "\u5c71\u5ba2\u8a71"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bso",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 936,
-    "lr": "Africa",
     "lc": "bso",
+    "gw": false,
+    "ln": "Buso",
+    "ld": "ltr",
+    "ang": "Buso",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -14,7 +16,5 @@
         "Busso",
         "Dam de Bousso"
     ],
-    "ang": "Buso",
-    "gwcode": "ar",
-    "ln": "Buso"
+    "gwcode": "ar"
 }

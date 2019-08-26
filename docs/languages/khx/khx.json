@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "khx",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 2879,
-    "lr": "Africa",
     "lc": "khx",
+    "gw": false,
+    "ln": "Kanu",
+    "ld": "ltr",
+    "ang": "Kanu",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Kano",
         "Likanu"
     ],
-    "ang": "Kanu",
-    "gwcode": "fr",
-    "ln": "Kanu"
+    "gwcode": "fr"
 }

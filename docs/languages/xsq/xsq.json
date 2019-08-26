@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xsq",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 7049,
-    "lr": "Africa",
     "lc": "xsq",
+    "gw": false,
+    "ln": "Makhuwa-Saka",
+    "ld": "ltr",
+    "ang": "Makhuwa-Saka",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ"
     ],
@@ -19,7 +21,5 @@
         "Rati (Erati)",
         "Saka (Esaaka)"
     ],
-    "ang": "Makhuwa-Saka",
-    "gwcode": "pt",
-    "ln": "Makhuwa-Saka"
+    "gwcode": "pt"
 }

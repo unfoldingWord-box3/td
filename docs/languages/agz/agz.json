@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "agz",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 146,
-    "lr": "Asia",
     "lc": "agz",
+    "gw": false,
+    "ln": "Mt. Iriga Agta",
+    "ld": "ltr",
+    "ang": "Agta, Mt. Iriga",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -14,7 +16,5 @@
         "Mt. Iriga Negrito",
         "San Ramon Inagta"
     ],
-    "ang": "Agta, Mt. Iriga",
-    "gwcode": "ilo",
-    "ln": "Mt. Iriga Agta"
+    "gwcode": "ilo"
 }

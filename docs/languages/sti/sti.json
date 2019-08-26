@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sti",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 5859,
-    "lr": "Asia",
     "lc": "sti",
+    "gw": false,
+    "ln": "Bulo Stieng",
+    "ld": "ltr",
+    "ang": "Stieng, Bulo",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "KH",
         "VN"
@@ -20,7 +22,5 @@
         "Xtieng",
         "Bulo"
     ],
-    "ang": "Stieng, Bulo",
-    "gwcode": "vi",
-    "ln": "Bulo Stieng"
+    "gwcode": "vi"
 }

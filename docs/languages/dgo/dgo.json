@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dgo",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1500,
-    "lr": "Asia",
     "lc": "dgo",
+    "gw": false,
+    "ln": "Dogri (individual language)",
+    "ld": "ltr",
+    "ang": "Dogri",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "PK",
         "IN"
@@ -20,7 +22,5 @@
         "Hindi Dogri",
         "Tokkaru"
     ],
-    "ang": "Dogri",
-    "gwcode": "ur",
-    "ln": "Dogri (individual language)"
+    "gwcode": "ur"
 }

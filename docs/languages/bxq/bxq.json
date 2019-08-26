@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bxq",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1057,
-    "lr": "Africa",
     "lc": "bxq",
+    "gw": false,
+    "ln": "Beele",
+    "ld": "ltr",
+    "ang": "Beele",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Bele",
         "Bellawa"
     ],
-    "ang": "Beele",
-    "gwcode": "en",
-    "ln": "Beele"
+    "gwcode": "en"
 }

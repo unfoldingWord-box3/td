@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "szc",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 5954,
-    "lr": "Asia",
     "lc": "szc",
+    "gw": false,
+    "ln": "Semaq Beri",
+    "ld": "ltr",
+    "ang": "Semaq Beri",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -13,7 +15,5 @@
         "Semaq Bri",
         "Semoq Beri"
     ],
-    "ang": "Semaq Beri",
-    "gwcode": "ms",
-    "ln": "Semaq Beri"
+    "gwcode": "ms"
 }

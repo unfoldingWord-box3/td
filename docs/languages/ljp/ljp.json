@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ljp",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3479,
-    "lr": "Asia",
     "lc": "ljp",
+    "gw": false,
+    "ln": "Lampung Api",
+    "ld": "ltr",
+    "ang": "Lampung Api",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "BN",
         "ID"
@@ -21,7 +23,5 @@
         "Kru'i",
         "Krui (Kroe)"
     ],
-    "ang": "Lampung Api",
-    "gwcode": "id",
-    "ln": "Lampung Api"
+    "gwcode": "id"
 }

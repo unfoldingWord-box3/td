@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hol",
-    "hc": "AO",
-    "ld": "ltr",
     "pk": 2332,
-    "lr": "Africa",
     "lc": "hol",
+    "gw": false,
+    "ln": "Holu",
+    "ld": "ltr",
+    "ang": "Holu",
+    "hc": "AO",
+    "lr": "Africa",
     "cc": [
         "AO"
     ],
@@ -13,7 +15,5 @@
         "Holo",
         "Kiholu"
     ],
-    "ang": "Holu",
-    "gwcode": "pt",
-    "ln": "Holu"
+    "gwcode": "pt"
 }

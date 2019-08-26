@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "lda",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 3389,
-    "lr": "Africa",
     "lc": "lda",
+    "gw": false,
+    "ln": "Kla-Dan",
+    "ld": "ltr",
+    "ang": "Kla-Dan",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
     "alt": [],
-    "ang": "Kla-Dan",
-    "gwcode": "fr",
-    "ln": "Kla-Dan"
+    "gwcode": "fr"
 }

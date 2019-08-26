@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sgu",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5586,
-    "lr": "Asia",
     "lc": "sgu",
+    "gw": false,
+    "ln": "Salas",
+    "ld": "ltr",
+    "ang": "Salas",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Liambata",
         "Salas Gunung"
     ],
-    "ang": "Salas",
-    "gwcode": "id",
-    "ln": "Salas"
+    "gwcode": "id"
 }

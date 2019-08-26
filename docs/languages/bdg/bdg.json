@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bdg",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 565,
-    "lr": "Asia",
     "lc": "bdg",
+    "gw": false,
+    "ln": "Bonggi",
+    "ld": "ltr",
+    "ang": "Bonggi",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -14,7 +16,5 @@
         "Banggi",
         "Banggi Dusun"
     ],
-    "ang": "Bonggi",
-    "gwcode": "ms",
-    "ln": "Bonggi"
+    "gwcode": "ms"
 }

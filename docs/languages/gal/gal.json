@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gal",
-    "hc": "TL",
-    "ld": "ltr",
     "pk": 1914,
-    "lr": "Asia",
     "lc": "gal",
+    "gw": false,
+    "ln": "Galolen",
+    "ld": "ltr",
+    "ang": "Galolen",
+    "hc": "TL",
+    "lr": "Asia",
     "cc": [
         "ID",
         "TL"
@@ -27,7 +29,5 @@
         "Wetar (Iliwaki)",
         "Ilputih"
     ],
-    "ang": "Galolen",
-    "gwcode": "pt",
-    "ln": "Galolen"
+    "gwcode": "pt"
 }

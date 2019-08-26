@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "puo",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 5220,
-    "lr": "Asia",
     "lc": "puo",
+    "gw": false,
+    "ln": "Puoc",
+    "ld": "ltr",
+    "ang": "Puoc",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "LA",
         "VN"
@@ -27,7 +29,5 @@
         "Sing",
         "Xinh-Mun"
     ],
-    "ang": "Puoc",
-    "gwcode": "vi",
-    "ln": "Puoc"
+    "gwcode": "vi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ura",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 6540,
-    "lr": "Americas",
     "lc": "ura",
+    "gw": false,
+    "ln": "Urarina",
+    "ld": "ltr",
+    "ang": "Urarina",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -14,7 +16,5 @@
         "Shimacu",
         "Simacu"
     ],
-    "ang": "Urarina",
-    "gwcode": "es-419",
-    "ln": "Urarina"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gbw",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1948,
-    "lr": "Pacific",
     "lc": "gbw",
+    "gw": false,
+    "ln": "Gabi-Gabi",
+    "ld": "ltr",
+    "ang": "Gabi-Gabi",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -32,7 +34,5 @@
         "Karbi",
         "Maiba"
     ],
-    "ang": "Gabi-Gabi",
-    "gwcode": "en",
-    "ln": "Gabi-Gabi"
+    "gwcode": "en"
 }

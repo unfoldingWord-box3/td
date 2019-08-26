@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aso",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 369,
-    "lr": "Pacific",
     "lc": "aso",
+    "gw": false,
+    "ln": "Dano",
+    "ld": "ltr",
+    "ang": "Dano",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Asaro",
         "Upper Asaro"
     ],
-    "ang": "Dano",
-    "gwcode": "tpi",
-    "ln": "Dano"
+    "gwcode": "tpi"
 }

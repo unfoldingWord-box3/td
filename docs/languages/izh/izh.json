@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "izh",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 2560,
-    "lr": "Europe",
     "lc": "izh",
+    "gw": false,
+    "ln": "\u0418\u0436\u043e\u0440\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Ingrian",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -16,7 +18,5 @@
         "Izhorian",
         "Oredezh (Upper Luzh)"
     ],
-    "ang": "Ingrian",
-    "gwcode": "ru",
-    "ln": "\u0418\u0436\u043e\u0440\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

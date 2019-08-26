@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pem",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4990,
-    "lr": "Africa",
     "lc": "pem",
+    "gw": false,
+    "ln": "Phende",
+    "ld": "ltr",
+    "ang": "Phende",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -16,7 +18,5 @@
         "Pindi",
         "Pinji"
     ],
-    "ang": "Phende",
-    "gwcode": "fr",
-    "ln": "Phende"
+    "gwcode": "fr"
 }

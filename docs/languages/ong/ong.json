@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ong",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4839,
-    "lr": "Pacific",
     "lc": "ong",
+    "gw": false,
+    "ln": "Olo",
+    "ld": "ltr",
+    "ang": "Olo",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Pay",
         "Payi (North Olo)"
     ],
-    "ang": "Olo",
-    "gwcode": "tpi",
-    "ln": "Olo"
+    "gwcode": "tpi"
 }

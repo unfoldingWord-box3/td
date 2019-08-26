@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "shp",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 5606,
-    "lr": "Americas",
     "lc": "shp",
+    "gw": false,
+    "ln": "Shipibo-Conibo",
+    "ld": "ltr",
+    "ang": "Shipibo-Conibo",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -17,7 +19,5 @@
         "Shetebo (Manoita)",
         "Shipibo (Alto Ucayali)"
     ],
-    "ang": "Shipibo-Conibo",
-    "gwcode": "es-419",
-    "ln": "Shipibo-Conibo"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kot",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3053,
-    "lr": "Africa",
     "lc": "kot",
+    "gw": false,
+    "ln": "Lagwan",
+    "ld": "ltr",
+    "ang": "Lagwan",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "TD"
@@ -17,7 +19,5 @@
         "Logone",
         "Logone-Gana (Kotoko-Gana)"
     ],
-    "ang": "Lagwan",
-    "gwcode": "fr",
-    "ln": "Lagwan"
+    "gwcode": "fr"
 }

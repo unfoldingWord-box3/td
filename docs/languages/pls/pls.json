@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pls",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 5076,
-    "lr": "Americas",
     "lc": "pls",
+    "gw": false,
+    "ln": "San Marcos Tlacoyalco Popoloca",
+    "ld": "ltr",
+    "ang": "Popoloca, San Marcos Tlacoyalco",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Popoloca de San Marcos Tlalcoyalco",
         "Popoluca del Norte"
     ],
-    "ang": "Popoloca, San Marcos Tlacoyalco",
-    "gwcode": "es-419",
-    "ln": "San Marcos Tlacoyalco Popoloca"
+    "gwcode": "es-419"
 }

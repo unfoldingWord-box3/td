@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ngu",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4428,
-    "lr": "Americas",
     "lc": "ngu",
+    "gw": false,
+    "ln": "Guerrero Nahuatl",
+    "ld": "ltr",
+    "ang": "Nahuatl, Guerrero",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Guerrero Aztec",
         "N\u00e1huatl de Guerrero"
     ],
-    "ang": "Nahuatl, Guerrero",
-    "gwcode": "es-419",
-    "ln": "Guerrero Nahuatl"
+    "gwcode": "es-419"
 }

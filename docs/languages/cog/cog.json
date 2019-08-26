@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cog",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 1293,
-    "lr": "Asia",
     "lc": "cog",
+    "gw": false,
+    "ln": "\u0e20\u0e32\u0e29\u0e32\u0e0a\u0e2d\u0e07",
+    "ld": "ltr",
+    "ang": "Chong",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "TH",
         "KH"
@@ -15,7 +17,5 @@
         "Shong",
         "Xong"
     ],
-    "ang": "Chong",
-    "gwcode": "th",
-    "ln": "\u0e20\u0e32\u0e29\u0e32\u0e0a\u0e2d\u0e07"
+    "gwcode": "th"
 }

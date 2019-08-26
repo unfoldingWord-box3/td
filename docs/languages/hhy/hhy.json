@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hhy",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2263,
-    "lr": "Pacific",
     "lc": "hhy",
+    "gw": false,
+    "ln": "Hoyahoya",
+    "ld": "ltr",
+    "ang": "Hoyahoya",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Hoya Hoya",
         "Matakaia Hoyahoya"
     ],
-    "ang": "Hoyahoya",
-    "gwcode": "tpi",
-    "ln": "Hoyahoya"
+    "gwcode": "tpi"
 }

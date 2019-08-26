@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bof",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 834,
-    "lr": "Africa",
     "lc": "bof",
+    "gw": false,
+    "ln": "Bolon",
+    "ld": "ltr",
+    "ang": "Bolon",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF",
         "ML"
@@ -18,7 +20,5 @@
         "White Bolon (Southern Bolon)",
         "Black Bolon (Northern Bolon)"
     ],
-    "ang": "Bolon",
-    "gwcode": "fr",
-    "ln": "Bolon"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yat",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 7129,
-    "lr": "Africa",
     "lc": "yat",
+    "gw": false,
+    "ln": "Yambeta",
+    "ld": "ltr",
+    "ang": "Yambeta",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -16,7 +18,5 @@
         "Kibum",
         "Nedek (Begi-Nibum)"
     ],
-    "ang": "Yambeta",
-    "gwcode": "fr",
-    "ln": "Yambeta"
+    "gwcode": "fr"
 }

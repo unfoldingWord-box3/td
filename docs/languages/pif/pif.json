@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pif",
-    "hc": "FM",
-    "ld": "ltr",
     "pk": 5031,
-    "lr": "Pacific",
     "lc": "pif",
+    "gw": false,
+    "ln": "Pingelapese",
+    "ld": "ltr",
+    "ang": "Pingelapese",
+    "hc": "FM",
+    "lr": "Pacific",
     "cc": [
         "FM"
     ],
@@ -13,7 +15,5 @@
         "Pingelap",
         "Pingilapese"
     ],
-    "ang": "Pingelapese",
-    "gwcode": "en",
-    "ln": "Pingelapese"
+    "gwcode": "en"
 }

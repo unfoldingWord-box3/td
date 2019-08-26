@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kaj",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2702,
-    "lr": "Africa",
     "lc": "kaj",
+    "gw": false,
+    "ln": "Jju",
+    "ld": "ltr",
+    "ang": "Jju",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Kaje",
         "Kajji"
     ],
-    "ang": "Jju",
-    "gwcode": "en",
-    "ln": "Jju"
+    "gwcode": "en"
 }

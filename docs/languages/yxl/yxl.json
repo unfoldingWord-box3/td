@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yxl",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7322,
-    "lr": "Pacific",
     "lc": "yxl",
+    "gw": false,
+    "ln": "Yardliyawarra",
+    "ld": "ltr",
+    "ang": "Yardliyawarra",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -25,7 +27,5 @@
         "Yaldikowera",
         "Yardliwarra"
     ],
-    "ang": "Yardliyawarra",
-    "gwcode": "en",
-    "ln": "Yardliyawarra"
+    "gwcode": "en"
 }

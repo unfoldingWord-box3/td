@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mbr",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 3693,
-    "lr": "Americas",
     "lc": "mbr",
+    "gw": false,
+    "ln": "Nukak Mak\u00fa",
+    "ld": "ltr",
+    "ang": "Nukak Mak\u00fa",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -14,7 +16,5 @@
         "Maczsa",
         "Nukak"
     ],
-    "ang": "Nukak Mak\u00fa",
-    "gwcode": "es-419",
-    "ln": "Nukak Mak\u00fa"
+    "gwcode": "es-419"
 }

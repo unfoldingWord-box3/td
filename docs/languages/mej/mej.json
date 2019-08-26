@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mej",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3761,
-    "lr": "Asia",
     "lc": "mej",
+    "gw": false,
+    "ln": "Meyah",
+    "ld": "ltr",
+    "ang": "Meyah",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -18,7 +20,5 @@
         "Mejah",
         "Meyach"
     ],
-    "ang": "Meyah",
-    "gwcode": "id",
-    "ln": "Meyah"
+    "gwcode": "id"
 }

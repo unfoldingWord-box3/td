@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dni",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1583,
-    "lr": "Asia",
     "lc": "dni",
+    "gw": false,
+    "ln": "Lower Grand Valley Dani",
+    "ld": "ltr",
+    "ang": "Dani, Lower Grand Valley",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Lower Kimbin (Kibin)",
         "Upper Bele"
     ],
-    "ang": "Dani, Lower Grand Valley",
-    "gwcode": "id",
-    "ln": "Lower Grand Valley Dani"
+    "gwcode": "id"
 }

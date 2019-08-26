@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "neb",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 4380,
-    "lr": "Africa",
     "lc": "neb",
+    "gw": false,
+    "ln": "Toura (C\u00f4te d'Ivoire)",
+    "ld": "ltr",
+    "ang": "Toura",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -14,7 +16,5 @@
         "Ween",
         "Guse"
     ],
-    "ang": "Toura",
-    "gwcode": "fr",
-    "ln": "Toura (C\u00f4te d'Ivoire)"
+    "gwcode": "fr"
 }

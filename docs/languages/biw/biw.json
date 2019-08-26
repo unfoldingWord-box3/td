@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "biw",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 705,
-    "lr": "Africa",
     "lc": "biw",
+    "gw": false,
+    "ln": "Kol (Cameroon)",
+    "ld": "ltr",
+    "ang": "Kol",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -18,7 +20,5 @@
         "Kol South",
         "Bikele"
     ],
-    "ang": "Kol",
-    "gwcode": "fr",
-    "ln": "Kol (Cameroon)"
+    "gwcode": "fr"
 }

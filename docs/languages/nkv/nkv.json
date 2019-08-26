@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nkv",
-    "hc": "MW",
-    "ld": "ltr",
     "pk": 4514,
-    "lr": "Africa",
     "lc": "nkv",
+    "gw": false,
+    "ln": "Nyika (Malawi and Zambia)",
+    "ld": "ltr",
+    "ang": "Nyika",
+    "hc": "MW",
+    "lr": "Africa",
     "cc": [
         "ZM",
         "MW"
@@ -14,7 +16,5 @@
         "Chinyika",
         "Kinyika"
     ],
-    "ang": "Nyika",
-    "gwcode": "en",
-    "ln": "Nyika (Malawi and Zambia)"
+    "gwcode": "en"
 }

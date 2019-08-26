@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mcp",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3717,
-    "lr": "Africa",
     "lc": "mcp",
+    "gw": false,
+    "ln": "Makaa",
+    "ld": "ltr",
+    "ang": "Makaa",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -20,7 +22,5 @@
         "Besep",
         "Bewil"
     ],
-    "ang": "Makaa",
-    "gwcode": "fr",
-    "ln": "Makaa"
+    "gwcode": "fr"
 }

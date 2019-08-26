@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mdd",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3731,
-    "lr": "Africa",
     "lc": "mdd",
+    "gw": false,
+    "ln": "Mbum",
+    "ld": "ltr",
+    "ang": "Mbum",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "CF",
@@ -25,7 +27,5 @@
         "Kepere",
         "Kpere"
     ],
-    "ang": "Mbum",
-    "gwcode": "fr",
-    "ln": "Mbum"
+    "gwcode": "fr"
 }

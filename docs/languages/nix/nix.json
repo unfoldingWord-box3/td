@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nix",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4475,
-    "lr": "Africa",
     "lc": "nix",
+    "gw": false,
+    "ln": "Hema",
+    "ld": "ltr",
+    "ang": "Hema",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD",
         "UG"
@@ -19,7 +21,5 @@
         "Runyoro",
         "Southern Hema"
     ],
-    "ang": "Hema",
-    "gwcode": "fr",
-    "ln": "Hema"
+    "gwcode": "fr"
 }

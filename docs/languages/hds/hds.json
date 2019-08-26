@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hds",
-    "hc": "HN",
-    "ld": "ltr",
     "pk": 2250,
-    "lr": "Americas",
     "lc": "hds",
+    "gw": false,
+    "ln": "Honduras Sign Language",
+    "ld": "ltr",
+    "ang": "Honduras Sign Language",
+    "hc": "HN",
+    "lr": "Americas",
     "cc": [
         "HN"
     ],
@@ -14,7 +16,5 @@
         "Lengua de Se\u00f1as Hondure\u00f1as",
         "LESHO"
     ],
-    "ang": "Honduras Sign Language",
-    "gwcode": "es-419",
-    "ln": "Honduras Sign Language"
+    "gwcode": "es-419"
 }

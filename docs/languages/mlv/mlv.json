@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mlv",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 3945,
-    "lr": "Pacific",
     "lc": "mlv",
+    "gw": false,
+    "ln": "Motlav",
+    "ld": "ltr",
+    "ang": "Mwotlap",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -14,7 +16,5 @@
         "Dagmel",
         "Valuwa"
     ],
-    "ang": "Mwotlap",
-    "gwcode": "fr",
-    "ln": "Motlav"
+    "gwcode": "fr"
 }

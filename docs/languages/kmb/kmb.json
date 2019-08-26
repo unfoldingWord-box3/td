@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kmb",
-    "hc": "AO",
-    "ld": "ltr",
     "pk": 2988,
-    "lr": "Africa",
     "lc": "kmb",
+    "gw": false,
+    "ln": "Kimbundu",
+    "ld": "ltr",
+    "ang": "Kimbundu",
+    "hc": "AO",
+    "lr": "Africa",
     "cc": [
         "AO"
     ],
@@ -27,7 +29,5 @@
         "Mbaka (Ambaquista)",
         "Mbamba (Bambeiro)"
     ],
-    "ang": "Kimbundu",
-    "gwcode": "pt",
-    "ln": "Kimbundu"
+    "gwcode": "pt"
 }

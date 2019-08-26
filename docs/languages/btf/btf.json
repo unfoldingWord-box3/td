@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "btf",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 950,
-    "lr": "Africa",
     "lc": "btf",
+    "gw": false,
+    "ln": "Birgit",
+    "ld": "ltr",
+    "ang": "Birgit",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -14,7 +16,5 @@
         "Berguid",
         "Birgid"
     ],
-    "ang": "Birgit",
-    "gwcode": "ar",
-    "ln": "Birgit"
+    "gwcode": "ar"
 }

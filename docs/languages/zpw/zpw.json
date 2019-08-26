@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zpw",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7459,
-    "lr": "Americas",
     "lc": "zpw",
+    "gw": false,
+    "ln": "Zaniza Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Zaniza",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Western Sola de Vega Zapotec",
         "Zapoteco de Santa Mar\u00eda Zaniza"
     ],
-    "ang": "Zapotec, Zaniza",
-    "gwcode": "es-419",
-    "ln": "Zaniza Zapotec"
+    "gwcode": "es-419"
 }

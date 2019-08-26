@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "knp",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3028,
-    "lr": "Africa",
     "lc": "knp",
+    "gw": false,
+    "ln": "Kwanja",
+    "ld": "ltr",
+    "ang": "Kwanja",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -17,7 +19,5 @@
         "Ndung (Ndungani)",
         "Njanga (Njang)"
     ],
-    "ang": "Kwanja",
-    "gwcode": "fr",
-    "ln": "Kwanja"
+    "gwcode": "fr"
 }

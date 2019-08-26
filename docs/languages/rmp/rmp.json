@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rmp",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5388,
-    "lr": "Pacific",
     "lc": "rmp",
+    "gw": false,
+    "ln": "Rempi",
+    "ld": "ltr",
+    "ang": "Rempi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Erempi",
         "Rempin"
     ],
-    "ang": "Rempi",
-    "gwcode": "tpi",
-    "ln": "Rempi"
+    "gwcode": "tpi"
 }

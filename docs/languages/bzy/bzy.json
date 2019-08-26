@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bzy",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1107,
-    "lr": "Africa",
     "lc": "bzy",
+    "gw": false,
+    "ln": "Obanliku",
+    "ld": "ltr",
+    "ang": "Obanliku",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -14,7 +16,5 @@
         "Abanliku",
         "Bisu (Gayi)"
     ],
-    "ang": "Obanliku",
-    "gwcode": "en",
-    "ln": "Obanliku"
+    "gwcode": "en"
 }

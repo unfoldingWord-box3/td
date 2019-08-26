@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "noa",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 4582,
-    "lr": "Americas",
     "lc": "noa",
+    "gw": false,
+    "ln": "Woun Meu",
+    "ld": "ltr",
+    "ang": "Woun Meu",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "PA",
         "CO"
@@ -20,7 +22,5 @@
         "Nonama",
         "Wounmeu"
     ],
-    "ang": "Woun Meu",
-    "gwcode": "es-419",
-    "ln": "Woun Meu"
+    "gwcode": "es-419"
 }

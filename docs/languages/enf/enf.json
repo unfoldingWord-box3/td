@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "enf",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 1752,
-    "lr": "Europe",
     "lc": "enf",
+    "gw": false,
+    "ln": "\u042d\u043d\u0435\u0446\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Enets, Forest",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -14,7 +16,5 @@
         "Pe-Bae",
         "Yenisei Samoyedic"
     ],
-    "ang": "Enets, Forest",
-    "gwcode": "ru",
-    "ln": "\u042d\u043d\u0435\u0446\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

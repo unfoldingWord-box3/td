@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nus",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 4691,
-    "lr": "Africa",
     "lc": "nus",
+    "gw": false,
+    "ln": "Nuer",
+    "ld": "ltr",
+    "ang": "Nuer",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SS",
@@ -30,7 +32,5 @@
         "Thognaath (Thok Nath)",
         "Ji"
     ],
-    "ang": "Nuer",
-    "gwcode": "ar",
-    "ln": "Nuer"
+    "gwcode": "ar"
 }

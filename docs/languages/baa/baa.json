@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "baa",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 489,
-    "lr": "Pacific",
     "lc": "baa",
+    "gw": false,
+    "ln": "Babatana",
+    "ld": "ltr",
+    "ang": "Babatana",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -20,7 +22,5 @@
         "Avas\u00f6",
         "Sisingga"
     ],
-    "ang": "Babatana",
-    "gwcode": "UNKNOWN",
-    "ln": "Babatana"
+    "gwcode": "pis"
 }

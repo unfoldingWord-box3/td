@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ycn",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 7151,
-    "lr": "Americas",
     "lc": "ycn",
+    "gw": false,
+    "ln": "Yucuna",
+    "ld": "ltr",
+    "ang": "Yucuna",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -14,7 +16,5 @@
         "Yucuna-Matapi",
         "Yukuna"
     ],
-    "ang": "Yucuna",
-    "gwcode": "es-419",
-    "ln": "Yucuna"
+    "gwcode": "es-419"
 }

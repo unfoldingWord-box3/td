@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rup",
-    "hc": "GR",
-    "ld": "ltr",
     "pk": 5441,
-    "lr": "Europe",
     "lc": "rup",
+    "gw": false,
+    "ln": "Macedo-Romanian",
+    "ld": "ltr",
+    "ang": "Aromanian",
+    "hc": "GR",
+    "lr": "Europe",
     "cc": [
         "GR",
         "AL"
@@ -22,7 +24,5 @@
         "Romanian",
         "Macedo Romania"
     ],
-    "ang": "Aromanian",
-    "gwcode": "en",
-    "ln": "Macedo-Romanian"
+    "gwcode": "en"
 }

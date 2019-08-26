@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cua",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 1384,
-    "lr": "Asia",
     "lc": "cua",
+    "gw": false,
+    "ln": "Ti\u1ebfng Co",
+    "ld": "ltr",
+    "ang": "Cua",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -21,7 +23,5 @@
         "Kol (Co)",
         "Yot"
     ],
-    "ang": "Cua",
-    "gwcode": "vi",
-    "ln": "Ti\u1ebfng Co"
+    "gwcode": "vi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cnc",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 1274,
-    "lr": "Asia",
     "lc": "cnc",
+    "gw": false,
+    "ln": "C\u00f4\u00f4ng",
+    "ld": "ltr",
+    "ang": "C\u00f4\u00f4ng",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -15,7 +17,5 @@
         "Xa Xam",
         "Xa Xeng"
     ],
-    "ang": "C\u00f4\u00f4ng",
-    "gwcode": "vi",
-    "ln": "C\u00f4\u00f4ng"
+    "gwcode": "vi"
 }

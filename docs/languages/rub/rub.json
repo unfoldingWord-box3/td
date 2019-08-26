@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rub",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 5432,
-    "lr": "Africa",
     "lc": "rub",
+    "gw": false,
+    "ln": "Gungu",
+    "ld": "ltr",
+    "ang": "Gungu",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "UG"
     ],
@@ -13,7 +15,5 @@
         "Lugungu",
         "Rugungu"
     ],
-    "ang": "Gungu",
-    "gwcode": "en",
-    "ln": "Gungu"
+    "gwcode": "en"
 }

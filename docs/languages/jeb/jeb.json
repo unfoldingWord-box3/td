@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jeb",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 2597,
-    "lr": "Americas",
     "lc": "jeb",
+    "gw": false,
+    "ln": "Jebero",
+    "ld": "ltr",
+    "ang": "Jebero",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -15,7 +17,5 @@
         "Xebero",
         "Xihuila"
     ],
-    "ang": "Jebero",
-    "gwcode": "es-419",
-    "ln": "Jebero"
+    "gwcode": "es-419"
 }

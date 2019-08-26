@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lui",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 3620,
-    "lr": "Americas",
     "lc": "lui",
+    "gw": false,
+    "ln": "Luiseno",
+    "ld": "ltr",
+    "ang": "Luise\u00f1o",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -16,7 +18,5 @@
         "Agachemem",
         "Ajachema"
     ],
-    "ang": "Luise\u00f1o",
-    "gwcode": "en",
-    "ln": "Luiseno"
+    "gwcode": "en"
 }

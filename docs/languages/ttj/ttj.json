@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ttj",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 6357,
-    "lr": "Africa",
     "lc": "ttj",
+    "gw": false,
+    "ln": "Tooro",
+    "ld": "ltr",
+    "ang": "Tooro",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "UG"
     ],
@@ -15,7 +17,5 @@
         "Toro",
         "Rutuku"
     ],
-    "ang": "Tooro",
-    "gwcode": "en",
-    "ln": "Tooro"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kyk",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 3294,
-    "lr": "Asia",
     "lc": "kyk",
+    "gw": false,
+    "ln": "Kamayo",
+    "ld": "ltr",
+    "ang": "Kamayo",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -16,7 +18,5 @@
         "Kinadi",
         "Kinamayo"
     ],
-    "ang": "Kamayo",
-    "gwcode": "ceb",
-    "ln": "Kamayo"
+    "gwcode": "ceb"
 }

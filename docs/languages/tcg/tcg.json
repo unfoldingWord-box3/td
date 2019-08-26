@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tcg",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6013,
-    "lr": "Asia",
     "lc": "tcg",
+    "gw": false,
+    "ln": "Tamagario",
+    "ld": "ltr",
+    "ang": "Tamagario",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Wagow",
         "Wiyagar"
     ],
-    "ang": "Tamagario",
-    "gwcode": "id",
-    "ln": "Tamagario"
+    "gwcode": "id"
 }

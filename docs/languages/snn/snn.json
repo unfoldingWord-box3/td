@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "snn",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 5737,
-    "lr": "Americas",
     "lc": "snn",
+    "gw": false,
+    "ln": "Siona",
+    "ld": "ltr",
+    "ang": "Siona",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO",
         "EC"
@@ -22,7 +24,5 @@
         "Zeona",
         "Baicoca"
     ],
-    "ang": "Siona",
-    "gwcode": "es-419",
-    "ln": "Siona"
+    "gwcode": "es-419"
 }

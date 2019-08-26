@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tcu",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6025,
-    "lr": "Americas",
     "lc": "tcu",
+    "gw": false,
+    "ln": "Southeastern Tarahumara",
+    "ld": "ltr",
+    "ang": "Tarahumara, Southeastern",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -17,7 +19,5 @@
         "Tarahumara del Sureste",
         "Turuachi"
     ],
-    "ang": "Tarahumara, Southeastern",
-    "gwcode": "es-419",
-    "ln": "Southeastern Tarahumara"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbr",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 2727,
-    "lr": "Africa",
     "lc": "kbr",
+    "gw": false,
+    "ln": "Kafa",
+    "ld": "ltr",
+    "ang": "Kafa",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -18,7 +20,5 @@
         "Manjo",
         "Bosha (Garo)"
     ],
-    "ang": "Kafa",
-    "gwcode": "am",
-    "ln": "Kafa"
+    "gwcode": "am"
 }

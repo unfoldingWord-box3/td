@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tjg",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6145,
-    "lr": "Asia",
     "lc": "tjg",
+    "gw": false,
+    "ln": "Tunjung",
+    "ld": "ltr",
+    "ang": "Tunjung",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Tunjung Dayak",
         "Tunjung (Tunjung Tengah)"
     ],
-    "ang": "Tunjung",
-    "gwcode": "id",
-    "ln": "Tunjung"
+    "gwcode": "id"
 }

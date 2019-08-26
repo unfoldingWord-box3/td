@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xmz",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6989,
-    "lr": "Asia",
     "lc": "xmz",
+    "gw": false,
+    "ln": "Mori Bawah",
+    "ld": "ltr",
+    "ang": "Mori Bawah",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -23,7 +25,5 @@
         "Karunsi'e (Karonsie)",
         "Nuha (Soroako)"
     ],
-    "ang": "Mori Bawah",
-    "gwcode": "id",
-    "ln": "Mori Bawah"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xkf",
-    "hc": "BT",
-    "ld": "ltr",
     "pk": 6936,
-    "lr": "Asia",
     "lc": "xkf",
+    "gw": false,
+    "ln": "Khengkha",
+    "ld": "ltr",
+    "ang": "Khengkha",
+    "hc": "BT",
+    "lr": "Asia",
     "cc": [
         "BT"
     ],
@@ -20,7 +22,5 @@
         "Upper Kheng",
         "Middle Kheng"
     ],
-    "ang": "Khengkha",
-    "gwcode": "UNKNOWN",
-    "ln": "Khengkha"
+    "gwcode": "dz"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xns",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6998,
-    "lr": "Asia",
     "lc": "xns",
+    "gw": false,
+    "ln": "Kanashi",
+    "ld": "ltr",
+    "ang": "Kanashi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Kanasi",
         "Malani"
     ],
-    "ang": "Kanashi",
-    "gwcode": "hi",
-    "ln": "Kanashi"
+    "gwcode": "hi"
 }

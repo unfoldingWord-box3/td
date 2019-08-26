@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "adz",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 91,
-    "lr": "Pacific",
     "lc": "adz",
+    "gw": false,
+    "ln": "Adzera",
+    "ld": "ltr",
+    "ang": "Adzera",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -19,7 +21,5 @@
         "Atzera",
         "Azera"
     ],
-    "ang": "Adzera",
-    "gwcode": "tpi",
-    "ln": "Adzera"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "drb",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 1615,
-    "lr": "Africa",
     "lc": "drb",
+    "gw": false,
+    "ln": "Dair",
+    "ld": "ltr",
+    "ang": "Dair",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -14,7 +16,5 @@
         "Daier",
         "Thaminyi"
     ],
-    "ang": "Dair",
-    "gwcode": "ar",
-    "ln": "Dair"
+    "gwcode": "ar"
 }

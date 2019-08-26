@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ktv",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 3177,
-    "lr": "Asia",
     "lc": "ktv",
+    "gw": false,
+    "ln": "Eastern Katu",
+    "ld": "ltr",
+    "ang": "Katu, Eastern",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "LA",
         "VN"
@@ -13,7 +15,5 @@
     "alt": [
         "High Katu"
     ],
-    "ang": "Katu, Eastern",
-    "gwcode": "vi",
-    "ln": "Eastern Katu"
+    "gwcode": "vi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hac",
-    "hc": "IR",
-    "ld": "ltr",
     "pk": 2220,
-    "lr": "Asia",
     "lc": "hac",
+    "gw": false,
+    "ln": "\u06af\u06c6\u0631\u0627\u0646\u06cc",
+    "ld": "ltr",
+    "ang": "Gurani",
+    "hc": "IR",
+    "lr": "Asia",
     "cc": [
         "IR"
     ],
@@ -28,7 +30,5 @@
         "Hawrami",
         "Gurani (Gorani)"
     ],
-    "ang": "Gurani",
-    "gwcode": "fa",
-    "ln": "\u06af\u06c6\u0631\u0627\u0646\u06cc"
+    "gwcode": "fa"
 }

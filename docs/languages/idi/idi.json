@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "idi",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2424,
-    "lr": "Pacific",
     "lc": "idi",
+    "gw": false,
+    "ln": "Idi",
+    "ld": "ltr",
+    "ang": "Idi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Dimisi",
         "Dimsisi"
     ],
-    "ang": "Idi",
-    "gwcode": "tpi",
-    "ln": "Idi"
+    "gwcode": "tpi"
 }

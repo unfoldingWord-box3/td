@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zpb",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7438,
-    "lr": "Americas",
     "lc": "zpb",
+    "gw": false,
+    "ln": "Yautepec Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Yautepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Northwestern Yautepec Zapotec",
         "Zapoteco de San Bartolo Yautepec"
     ],
-    "ang": "Zapotec, Yautepec",
-    "gwcode": "es-419",
-    "ln": "Yautepec Zapotec"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tso",
-    "hc": "ZA",
-    "ld": "ltr",
     "pk": 6323,
-    "lr": "Africa",
     "lc": "ts",
+    "gw": false,
+    "ln": "Xitsonga",
+    "ld": "ltr",
+    "ang": "Tsonga",
+    "hc": "ZA",
+    "lr": "Africa",
     "cc": [
         "MZ",
         "ZA",
@@ -35,7 +37,5 @@
         "Bila (Vila)",
         "Changana (Changa)"
     ],
-    "ang": "Tsonga",
-    "gwcode": "en",
-    "ln": "Xitsonga"
+    "gwcode": "en"
 }

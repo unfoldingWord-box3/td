@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pld",
-    "hc": "GB",
-    "ld": "ltr",
     "pk": 5065,
-    "lr": "Europe",
     "lc": "pld",
+    "gw": false,
+    "ln": "Polari",
+    "ld": "ltr",
+    "ang": "Polari",
+    "hc": "GB",
+    "lr": "Europe",
     "cc": [
         "GB"
     ],
@@ -16,7 +18,5 @@
         "Parlary",
         "Parlyaree"
     ],
-    "ang": "Polari",
-    "gwcode": "en",
-    "ln": "Polari"
+    "gwcode": "en"
 }

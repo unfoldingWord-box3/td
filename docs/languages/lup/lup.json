@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lup",
-    "hc": "GA",
-    "ld": "ltr",
     "pk": 3627,
-    "lr": "Africa",
     "lc": "lup",
+    "gw": false,
+    "ln": "Lumbu",
+    "ld": "ltr",
+    "ang": "Lumbu",
+    "hc": "GA",
+    "lr": "Africa",
     "cc": [
         "GA",
         "CG"
@@ -14,7 +16,5 @@
         "Ilumbu",
         "Baloumbou"
     ],
-    "ang": "Lumbu",
-    "gwcode": "fr",
-    "ln": "Lumbu"
+    "gwcode": "fr"
 }

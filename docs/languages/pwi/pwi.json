@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pwi",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 5232,
-    "lr": "Americas",
     "lc": "pwi",
+    "gw": false,
+    "ln": "Patwin",
+    "ld": "ltr",
+    "ang": "Patwin",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -13,7 +15,5 @@
         "Southern Wintun",
         "Wintu"
     ],
-    "ang": "Patwin",
-    "gwcode": "en",
-    "ln": "Patwin"
+    "gwcode": "en"
 }

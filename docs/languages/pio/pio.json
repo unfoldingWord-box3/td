@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pio",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 5038,
-    "lr": "Americas",
     "lc": "pio",
+    "gw": false,
+    "ln": "Piapoco",
+    "ld": "ltr",
+    "ang": "Piapoco",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "VE",
         "CO",
@@ -20,7 +22,5 @@
         "Wen\u00e9wika",
         "Yapoco"
     ],
-    "ang": "Piapoco",
-    "gwcode": "es-419",
-    "ln": "Piapoco"
+    "gwcode": "es-419"
 }

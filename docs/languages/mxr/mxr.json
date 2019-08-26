@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mxr",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 4231,
-    "lr": "Asia",
     "lc": "mxr",
+    "gw": false,
+    "ln": "Murik (Malaysia)",
+    "ld": "ltr",
+    "ang": "Murik",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -13,7 +15,5 @@
         "Long Banyok (Banyok)",
         "Long Semiang (Semiang)"
     ],
-    "ang": "Murik",
-    "gwcode": "ms",
-    "ln": "Murik (Malaysia)"
+    "gwcode": "ms"
 }

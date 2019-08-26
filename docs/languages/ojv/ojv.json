@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ojv",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 4796,
-    "lr": "Pacific",
     "lc": "ojv",
+    "gw": false,
+    "ln": "Ontong Java",
+    "ld": "ltr",
+    "ang": "Ontong Java",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -15,7 +17,5 @@
         "Luangiua",
         "Luaniua"
     ],
-    "ang": "Ontong Java",
-    "gwcode": "UNKNOWN",
-    "ln": "Ontong Java"
+    "gwcode": "pis"
 }

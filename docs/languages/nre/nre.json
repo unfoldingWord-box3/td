@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nre",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4626,
-    "lr": "Asia",
     "lc": "nre",
+    "gw": false,
+    "ln": "Southern Rengma Naga",
+    "ld": "ltr",
+    "ang": "Naga, Southern Rengma",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -22,7 +24,5 @@
         "Western Rengma",
         "Azonyu (Nzonyu)"
     ],
-    "ang": "Naga, Southern Rengma",
-    "gwcode": "en",
-    "ln": "Southern Rengma Naga"
+    "gwcode": "en"
 }

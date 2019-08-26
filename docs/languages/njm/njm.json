@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "njm",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4485,
-    "lr": "Asia",
     "lc": "njm",
+    "gw": false,
+    "ln": "Angami Naga",
+    "ld": "ltr",
+    "ang": "Naga, Angami",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -21,7 +23,5 @@
         "Chakroma (Western Angami)",
         "Tengima (Kohima)"
     ],
-    "ang": "Naga, Angami",
-    "gwcode": "en",
-    "ln": "Angami Naga"
+    "gwcode": "en"
 }

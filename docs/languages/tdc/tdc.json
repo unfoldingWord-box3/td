@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tdc",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 6032,
-    "lr": "Americas",
     "lc": "tdc",
+    "gw": false,
+    "ln": "Ember\u00e1-Tad\u00f3",
+    "ld": "ltr",
+    "ang": "Ember\u00e1-Tad\u00f3",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -13,7 +15,5 @@
         "Cholo",
         "\u00cap\u00eara"
     ],
-    "ang": "Ember\u00e1-Tad\u00f3",
-    "gwcode": "es-419",
-    "ln": "Ember\u00e1-Tad\u00f3"
+    "gwcode": "es-419"
 }

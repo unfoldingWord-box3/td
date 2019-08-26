@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "quw",
-    "hc": "EC",
-    "ld": "ltr",
     "pk": 5265,
-    "lr": "Americas",
     "lc": "quw",
+    "gw": false,
+    "ln": "Tena Lowland Quichua",
+    "ld": "ltr",
+    "ang": "Quichua, Tena Lowland",
+    "hc": "EC",
+    "lr": "Americas",
     "cc": [
         "EC"
     ],
@@ -13,7 +15,5 @@
         "Napo Kichwa",
         "Yumbo"
     ],
-    "ang": "Quichua, Tena Lowland",
-    "gwcode": "es-419",
-    "ln": "Tena Lowland Quichua"
+    "gwcode": "es-419"
 }

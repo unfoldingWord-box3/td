@@ -3,11 +3,13 @@
 پښتو
 ========
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/pus>`_ identifies this language as ``pus``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/pus>`__ identifies this language as ``pus``.
 
 This language is spoken in the following countries:
 
 * AF: Afghanistan
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -16,7 +18,7 @@ This language is spoken in the following countries:
     anglicanized_name: Pashto, Pushto
     country_codes:
     - AF
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: ps
     lang_direction: rtl
     lang_name: پښتو

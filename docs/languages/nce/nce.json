@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nce",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4335,
-    "lr": "Pacific",
     "lc": "nce",
+    "gw": false,
+    "ln": "Yale",
+    "ld": "ltr",
+    "ang": "Yale",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Yade",
         "Yar\u00eb"
     ],
-    "ang": "Yale",
-    "gwcode": "tpi",
-    "ln": "Yale"
+    "gwcode": "tpi"
 }

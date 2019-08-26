@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pcl",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4967,
-    "lr": "Asia",
     "lc": "pcl",
+    "gw": false,
+    "ln": "Pardhi",
+    "ld": "ltr",
+    "ang": "Pardhi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -20,7 +22,5 @@
         "Takankar",
         "Takia"
     ],
-    "ang": "Pardhi",
-    "gwcode": "mr",
-    "ln": "Pardhi"
+    "gwcode": "mr"
 }

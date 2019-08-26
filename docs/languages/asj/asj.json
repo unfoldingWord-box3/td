@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "asj",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 365,
-    "lr": "Africa",
     "lc": "asj",
+    "gw": false,
+    "ln": "Sari",
+    "ld": "ltr",
+    "ang": "Sari",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Saari",
         "Sali"
     ],
-    "ang": "Sari",
-    "gwcode": "fr",
-    "ln": "Sari"
+    "gwcode": "fr"
 }

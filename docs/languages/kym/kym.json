@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kym",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 3295,
-    "lr": "Africa",
     "lc": "kym",
+    "gw": false,
+    "ln": "Kpatili",
+    "ld": "ltr",
+    "ang": "Kpatili",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF"
     ],
@@ -14,7 +16,5 @@
         "Kpatiri",
         "Ngindere"
     ],
-    "ang": "Kpatili",
-    "gwcode": "fr",
-    "ln": "Kpatili"
+    "gwcode": "fr"
 }

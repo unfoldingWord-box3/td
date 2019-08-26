@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sly",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5700,
-    "lr": "Asia",
     "lc": "sly",
+    "gw": false,
+    "ln": "Selayar",
+    "ld": "ltr",
+    "ang": "Selayar",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Siladja",
         "Silajara"
     ],
-    "ang": "Selayar",
-    "gwcode": "id",
-    "ln": "Selayar"
+    "gwcode": "id"
 }

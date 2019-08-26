@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pab",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4916,
-    "lr": "Americas",
     "lc": "pab",
+    "gw": false,
+    "ln": "Parec\u00eds",
+    "ld": "ltr",
+    "ang": "Parec\u00eds",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -16,7 +18,5 @@
         "Pares\u00ed",
         "Paress\u00ed"
     ],
-    "ang": "Parec\u00eds",
-    "gwcode": "pt",
-    "ln": "Parec\u00eds"
+    "gwcode": "pt"
 }

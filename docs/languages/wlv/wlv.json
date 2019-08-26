@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wlv",
-    "hc": "AR",
-    "ld": "ltr",
     "pk": 6762,
-    "lr": "Americas",
     "lc": "wlv",
+    "gw": false,
+    "ln": "Wich\u00ed Lhamt\u00e9s Vejoz",
+    "ld": "ltr",
+    "ang": "Wich\u00ed Lhamt\u00e9s Vejoz",
+    "hc": "AR",
+    "lr": "Americas",
     "cc": [
         "AR"
     ],
@@ -15,7 +17,5 @@
         "Mataco Vejoz",
         "Bermejo Vejoz"
     ],
-    "ang": "Wich\u00ed Lhamt\u00e9s Vejoz",
-    "gwcode": "es-419",
-    "ln": "Wich\u00ed Lhamt\u00e9s Vejoz"
+    "gwcode": "es-419"
 }

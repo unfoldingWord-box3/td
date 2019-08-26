@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rji",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5366,
-    "lr": "Asia",
     "lc": "rji",
+    "gw": false,
+    "ln": "Raji",
+    "ld": "ltr",
+    "ang": "Raji",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -19,7 +21,5 @@
         "Purbiya",
         "Barh Bandale"
     ],
-    "ang": "Raji",
-    "gwcode": "ne",
-    "ln": "Raji"
+    "gwcode": "ne"
 }

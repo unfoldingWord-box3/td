@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "muz",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 4168,
-    "lr": "Africa",
     "lc": "muz",
+    "gw": false,
+    "ln": "Mursi",
+    "ld": "ltr",
+    "ang": "Mursi",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -16,7 +18,5 @@
         "Murzi",
         "Murzu"
     ],
-    "ang": "Mursi",
-    "gwcode": "am",
-    "ln": "Mursi"
+    "gwcode": "am"
 }

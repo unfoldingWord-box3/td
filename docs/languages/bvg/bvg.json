@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bvg",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 1000,
-    "lr": "Africa",
     "lc": "bvg",
+    "gw": false,
+    "ln": "Bonkeng",
+    "ld": "ltr",
+    "ang": "Bonkeng",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -14,7 +16,5 @@
         "Bonkenge",
         "Bonkeng-Pendia"
     ],
-    "ang": "Bonkeng",
-    "gwcode": "fr",
-    "ln": "Bonkeng"
+    "gwcode": "fr"
 }

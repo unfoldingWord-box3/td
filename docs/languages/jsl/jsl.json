@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jsl",
-    "hc": "JP",
-    "ld": "ltr",
     "pk": 2668,
-    "lr": "Asia",
     "lc": "jsl",
+    "gw": false,
+    "ln": "\u65e5\u672c\u624b\u8a71",
+    "ld": "ltr",
+    "ang": "Japanese Sign Language",
+    "hc": "JP",
+    "lr": "Asia",
     "cc": [
         "JP"
     ],
@@ -13,7 +15,5 @@
         "Shuwa",
         "Temane"
     ],
-    "ang": "Japanese Sign Language",
-    "gwcode": "UNKNOWN",
-    "ln": "\u65e5\u672c\u624b\u8a71"
+    "gwcode": "ja"
 }

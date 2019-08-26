@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tuz",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 6391,
-    "lr": "Africa",
     "lc": "tuz",
+    "gw": false,
+    "ln": "Turka",
+    "ld": "ltr",
+    "ang": "Turka",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -17,7 +19,5 @@
         "Turuka",
         "Tyurama"
     ],
-    "ang": "Turka",
-    "gwcode": "fr",
-    "ln": "Turka"
+    "gwcode": "fr"
 }

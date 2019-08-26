@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mlc",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 3929,
-    "lr": "Asia",
     "lc": "mlc",
+    "gw": false,
+    "ln": "Cao Lan",
+    "ld": "ltr",
+    "ang": "Cao Lan",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -19,7 +21,5 @@
         "M\u00e1n",
         "Man Cao-Lan"
     ],
-    "ang": "Cao Lan",
-    "gwcode": "vi",
-    "ln": "Cao Lan"
+    "gwcode": "vi"
 }

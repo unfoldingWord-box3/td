@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aug",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 409,
-    "lr": "Africa",
     "lc": "aug",
+    "gw": false,
+    "ln": "Aguna",
+    "ld": "ltr",
+    "ang": "Aguna",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ"
     ],
@@ -15,7 +17,5 @@
         "Agunagbe",
         "Agunan\u00fd"
     ],
-    "ang": "Aguna",
-    "gwcode": "fr",
-    "ln": "Aguna"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mox",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4018,
-    "lr": "Pacific",
     "lc": "mox",
+    "gw": false,
+    "ln": "Molima",
+    "ld": "ltr",
+    "ang": "Molima",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Salakahadi",
         "Tola'ai"
     ],
-    "ang": "Molima",
-    "gwcode": "tpi",
-    "ln": "Molima"
+    "gwcode": "tpi"
 }

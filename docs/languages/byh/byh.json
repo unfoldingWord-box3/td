@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "byh",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 1069,
-    "lr": "Asia",
     "lc": "byh",
+    "gw": false,
+    "ln": "\u092d\u0941\u091c\u0947\u0932",
+    "ld": "ltr",
+    "ang": "Bhujel",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -24,7 +26,5 @@
         "Arthumpka",
         "Chanaute"
     ],
-    "ang": "Bhujel",
-    "gwcode": "ne",
-    "ln": "\u092d\u0941\u091c\u0947\u0932"
+    "gwcode": "ne"
 }

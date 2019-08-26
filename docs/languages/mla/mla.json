@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mla",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 3927,
-    "lr": "Pacific",
     "lc": "mla",
+    "gw": false,
+    "ln": "Malo",
+    "ld": "ltr",
+    "ang": "Malo",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -14,7 +16,5 @@
         "Tamambo",
         "Ataripoe (South Malo)"
     ],
-    "ang": "Malo",
-    "gwcode": "fr",
-    "ln": "Malo"
+    "gwcode": "fr"
 }

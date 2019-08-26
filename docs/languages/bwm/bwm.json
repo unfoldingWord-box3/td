@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bwm",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1029,
-    "lr": "Pacific",
     "lc": "bwm",
+    "gw": false,
+    "ln": "Biwat",
+    "ld": "ltr",
+    "ang": "Biwat",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Munduguma",
         "Mundugumor"
     ],
-    "ang": "Biwat",
-    "gwcode": "tpi",
-    "ln": "Biwat"
+    "gwcode": "tpi"
 }

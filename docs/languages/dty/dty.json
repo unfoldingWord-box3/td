@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dty",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 1649,
-    "lr": "Asia",
     "lc": "dty",
+    "gw": false,
+    "ln": "\u0921\u094b\u091f\u0947\u0932\u0940",
+    "ld": "ltr",
+    "ang": "Dotyali",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -13,7 +15,5 @@
         "Dotali",
         "Doteli"
     ],
-    "ang": "Dotyali",
-    "gwcode": "ne",
-    "ln": "\u0921\u094b\u091f\u0947\u0932\u0940"
+    "gwcode": "ne"
 }

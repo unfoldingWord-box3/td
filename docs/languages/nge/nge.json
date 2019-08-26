@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nge",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4413,
-    "lr": "Africa",
     "lc": "nge",
+    "gw": false,
+    "ln": "Ngemba",
+    "ld": "ltr",
+    "ang": "Ngemba",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -33,7 +35,5 @@
         "Mankon (Bida)",
         "Alatening (Alatining)"
     ],
-    "ang": "Ngemba",
-    "gwcode": "fr",
-    "ln": "Ngemba"
+    "gwcode": "fr"
 }

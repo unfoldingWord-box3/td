@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbx",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2733,
-    "lr": "Pacific",
     "lc": "kbx",
+    "gw": false,
+    "ln": "Ap Ma",
+    "ld": "ltr",
+    "ang": "Ap Ma",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Ap Ma Botin",
         "Kambot"
     ],
-    "ang": "Ap Ma",
-    "gwcode": "tpi",
-    "ln": "Ap Ma"
+    "gwcode": "tpi"
 }

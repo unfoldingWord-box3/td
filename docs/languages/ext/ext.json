@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ext",
-    "hc": "ES",
-    "ld": "ltr",
     "pk": 1806,
-    "lr": "Europe",
     "lc": "ext",
+    "gw": false,
+    "ln": "Extremaduran",
+    "ld": "ltr",
+    "ang": "Extremaduran",
+    "hc": "ES",
+    "lr": "Europe",
     "cc": [
         "ES"
     ],
@@ -20,7 +22,5 @@
         "Northern Extremaduran (Artu Ehtreme\u00f1u)",
         "Southern Extremaduran (Bahu Ehtreme\u00f1u)"
     ],
-    "ang": "Extremaduran",
-    "gwcode": "es",
-    "ln": "Extremaduran"
+    "gwcode": "es"
 }

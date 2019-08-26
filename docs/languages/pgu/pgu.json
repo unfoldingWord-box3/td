@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pgu",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5009,
-    "lr": "Asia",
     "lc": "pgu",
+    "gw": false,
+    "ln": "Pagu",
+    "ld": "ltr",
+    "ang": "Pagu",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Pagoe",
         "Toliwiku (Toliliko)"
     ],
-    "ang": "Pagu",
-    "gwcode": "id",
-    "ln": "Pagu"
+    "gwcode": "id"
 }

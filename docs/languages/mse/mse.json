@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mse",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 4100,
-    "lr": "Africa",
     "lc": "mse",
+    "gw": false,
+    "ln": "Musey",
+    "ld": "ltr",
+    "ang": "Musey",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "CM",
         "TD"
@@ -25,7 +27,5 @@
         "Mussoy",
         "Bananna Ho Ho"
     ],
-    "ang": "Musey",
-    "gwcode": "ar",
-    "ln": "Musey"
+    "gwcode": "ar"
 }

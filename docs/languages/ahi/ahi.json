@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ahi",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 151,
-    "lr": "Africa",
     "lc": "ahi",
+    "gw": false,
+    "ln": "Tiagbamrin Aizi",
+    "ld": "ltr",
+    "ang": "Aizi, Tiagbamrin",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -14,7 +16,5 @@
         "L\u00e9l\u00e9mrin",
         "Tiagba"
     ],
-    "ang": "Aizi, Tiagbamrin",
-    "gwcode": "fr",
-    "ln": "Tiagbamrin Aizi"
+    "gwcode": "fr"
 }

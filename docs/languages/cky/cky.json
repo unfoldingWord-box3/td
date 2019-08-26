@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cky",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1244,
-    "lr": "Africa",
     "lc": "cky",
+    "gw": false,
+    "ln": "Cakfem-Mushere",
+    "ld": "ltr",
+    "ang": "Cakfem-Mushere",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Chokfem",
         "Kadim-Kaban"
     ],
-    "ang": "Cakfem-Mushere",
-    "gwcode": "en",
-    "ln": "Cakfem-Mushere"
+    "gwcode": "en"
 }

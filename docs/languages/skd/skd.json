@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "skd",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 5660,
-    "lr": "Americas",
     "lc": "skd",
+    "gw": false,
+    "ln": "Southern Sierra Miwok",
+    "ld": "ltr",
+    "ang": "Miwok, Southern Sierra",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -21,7 +23,5 @@
         "Talutui",
         "Yosemite"
     ],
-    "ang": "Miwok, Southern Sierra",
-    "gwcode": "en",
-    "ln": "Southern Sierra Miwok"
+    "gwcode": "en"
 }

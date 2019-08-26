@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "apd",
-    "hc": "SD",
-    "ld": "rtl",
     "pk": 303,
-    "lr": "Africa",
     "lc": "apd",
+    "gw": false,
+    "ln": "\u0644\u0647\u062c\u0629 \u0633\u0648\u062f\u0627\u0646\u064a\u0629",
+    "ld": "rtl",
+    "ang": "Arabic, Sudanese Spoken",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "ER",
         "ET",
@@ -29,7 +31,5 @@
         "Sudanese Arabic",
         "North Kordofan Arabic"
     ],
-    "ang": "Arabic, Sudanese Spoken",
-    "gwcode": "ar",
-    "ln": "\u0644\u0647\u062c\u0629 \u0633\u0648\u062f\u0627\u0646\u064a\u0629"
+    "gwcode": "ar"
 }

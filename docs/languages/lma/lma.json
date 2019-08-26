@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lma",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 3513,
-    "lr": "Africa",
     "lc": "lma",
+    "gw": false,
+    "ln": "East Limba",
+    "ld": "ltr",
+    "ang": "Limba, East",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN",
         "SL"
@@ -17,7 +19,5 @@
         "Southern Limba (Biriwa-Saroko-Kalantuba-Sunko)",
         "Northern Limba (Ke-Woya-Yaka)"
     ],
-    "ang": "Limba, East",
-    "gwcode": "fr",
-    "ln": "East Limba"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kts",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3174,
-    "lr": "Asia",
     "lc": "kts",
+    "gw": false,
+    "ln": "South Muyu",
+    "ld": "ltr",
+    "ang": "Muyu, South",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -22,7 +24,5 @@
         "Yongkom",
         "Yongom"
     ],
-    "ang": "Muyu, South",
-    "gwcode": "id",
-    "ln": "South Muyu"
+    "gwcode": "id"
 }

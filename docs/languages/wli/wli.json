@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wli",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6756,
-    "lr": "Asia",
     "lc": "wli",
+    "gw": false,
+    "ln": "Waioli",
+    "ld": "ltr",
+    "ang": "Waioli",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Wajoli",
         "Wayoli"
     ],
-    "ang": "Waioli",
-    "gwcode": "id",
-    "ln": "Waioli"
+    "gwcode": "id"
 }

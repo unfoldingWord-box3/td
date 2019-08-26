@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ewe",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 1699,
-    "lr": "Africa",
     "lc": "ee",
+    "gw": false,
+    "ln": "E\u028begbe",
+    "ld": "ltr",
+    "ang": "Ewe",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "BF",
@@ -39,7 +41,5 @@
         "Agu",
         "Awlan"
     ],
-    "ang": "Ewe",
-    "gwcode": "en",
-    "ln": "E\u028begbe"
+    "gwcode": "en"
 }

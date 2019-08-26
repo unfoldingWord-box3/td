@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mym",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 4252,
-    "lr": "Africa",
     "lc": "mym",
+    "gw": false,
+    "ln": "Me'en",
+    "ld": "ltr",
+    "ang": "Me\u2019en",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -20,7 +22,5 @@
         "Bodi (Mela)",
         "Banio"
     ],
-    "ang": "Me\u2019en",
-    "gwcode": "am",
-    "ln": "Me'en"
+    "gwcode": "am"
 }

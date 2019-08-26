@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gog",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 2095,
-    "lr": "Africa",
     "lc": "gog",
+    "gw": false,
+    "ln": "Gogo",
+    "ld": "ltr",
+    "ang": "Gogo",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -16,7 +18,5 @@
         "Nyaugogo (Central Gogo)",
         "Tumba (East Gogo)"
     ],
-    "ang": "Gogo",
-    "gwcode": "sw",
-    "ln": "Gogo"
+    "gwcode": "sw"
 }

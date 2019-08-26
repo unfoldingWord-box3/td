@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mlm",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 3937,
-    "lr": "Asia",
     "lc": "mlm",
+    "gw": false,
+    "ln": "\u4eeb\u4f6c",
+    "ld": "ltr",
+    "ang": "Mulam",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -18,7 +20,5 @@
         "Muliao",
         "Mulou"
     ],
-    "ang": "Mulam",
-    "gwcode": "zh",
-    "ln": "\u4eeb\u4f6c"
+    "gwcode": "zh"
 }

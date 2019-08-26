@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mnv",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 3994,
-    "lr": "Pacific",
     "lc": "mnv",
+    "gw": false,
+    "ln": "Rennell-Bellona",
+    "ld": "ltr",
+    "ang": "Rennell-Bellona",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -17,7 +19,5 @@
         "Munggava (Mugaba)",
         "Mungiki (Bellona)"
     ],
-    "ang": "Rennell-Bellona",
-    "gwcode": "UNKNOWN",
-    "ln": "Rennell-Bellona"
+    "gwcode": "pis"
 }

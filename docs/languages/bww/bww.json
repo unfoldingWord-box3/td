@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bww",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 1038,
-    "lr": "Africa",
     "lc": "bww",
+    "gw": false,
+    "ln": "Bwa",
+    "ld": "ltr",
+    "ang": "Bwa",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -20,7 +22,5 @@
         "Bati (Baati)",
         "Leboa-Le"
     ],
-    "ang": "Bwa",
-    "gwcode": "fr",
-    "ln": "Bwa"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "omt",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 4834,
-    "lr": "Africa",
     "lc": "omt",
+    "gw": false,
+    "ln": "Omotik",
+    "ld": "ltr",
+    "ang": "Omotik",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -14,7 +16,5 @@
         "Omotic",
         "Ndorobo"
     ],
-    "ang": "Omotik",
-    "gwcode": "sw",
-    "ln": "Omotik"
+    "gwcode": "sw"
 }

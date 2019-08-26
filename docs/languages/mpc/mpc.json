@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mpc",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4023,
-    "lr": "Pacific",
     "lc": "mpc",
+    "gw": false,
+    "ln": "Mangarayi",
+    "ld": "ltr",
+    "ang": "Mangarayi",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -17,7 +19,5 @@
         "Mungerry",
         "Ngarrabadji"
     ],
-    "ang": "Mangarayi",
-    "gwcode": "en",
-    "ln": "Mangarayi"
+    "gwcode": "en"
 }

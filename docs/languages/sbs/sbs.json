@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sbs",
-    "hc": "NA",
-    "ld": "ltr",
     "pk": 5497,
-    "lr": "Africa",
     "lc": "sbs",
+    "gw": false,
+    "ln": "Subiya",
+    "ld": "ltr",
+    "ang": "Kuhane",
+    "hc": "NA",
+    "lr": "Africa",
     "cc": [
         "ZM",
         "BW",
@@ -24,7 +26,5 @@
         "Ciikuhane",
         "Mbalangwe"
     ],
-    "ang": "Kuhane",
-    "gwcode": "en",
-    "ln": "Subiya"
+    "gwcode": "en"
 }

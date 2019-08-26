@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bdd",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 562,
-    "lr": "Pacific",
     "lc": "bdd",
+    "gw": false,
+    "ln": "Bunama",
+    "ld": "ltr",
+    "ang": "Bunama",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Kerorogea",
         "Lomitawa"
     ],
-    "ang": "Bunama",
-    "gwcode": "tpi",
-    "ln": "Bunama"
+    "gwcode": "tpi"
 }

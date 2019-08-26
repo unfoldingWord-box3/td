@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "glh",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 2050,
-    "lr": "Asia",
     "lc": "glh",
+    "gw": false,
+    "ln": "Northwest Pashai",
+    "ld": "ltr",
+    "ang": "Pashai, Northwest",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "AF"
     ],
@@ -13,7 +15,5 @@
         "Pashai",
         "Wadau"
     ],
-    "ang": "Pashai, Northwest",
-    "gwcode": "ps",
-    "ln": "Northwest Pashai"
+    "gwcode": "ps"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ldo",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3399,
-    "lr": "Africa",
     "lc": "ldo",
+    "gw": false,
+    "ln": "Loo",
+    "ld": "ltr",
+    "ang": "Loo",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Shungo",
         "Shunhu"
     ],
-    "ang": "Loo",
-    "gwcode": "en",
-    "ln": "Loo"
+    "gwcode": "en"
 }

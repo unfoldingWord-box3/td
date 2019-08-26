@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "thk",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 6107,
-    "lr": "Africa",
     "lc": "thk",
+    "gw": false,
+    "ln": "Tharaka",
+    "ld": "ltr",
+    "ang": "Kitharaka",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -17,7 +19,5 @@
         "Gatue (North Tharaka)",
         "Igoki"
     ],
-    "ang": "Kitharaka",
-    "gwcode": "sw",
-    "ln": "Tharaka"
+    "gwcode": "sw"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "czt",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 1419,
-    "lr": "Asia",
     "lc": "czt",
+    "gw": false,
+    "ln": "Zotung Chin",
+    "ld": "ltr",
+    "ang": "Chin, Zotung",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -15,7 +17,5 @@
         "Zobya",
         "Zotung"
     ],
-    "ang": "Chin, Zotung",
-    "gwcode": "my",
-    "ln": "Zotung Chin"
+    "gwcode": "my"
 }

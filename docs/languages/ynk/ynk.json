@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ynk",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 7241,
-    "lr": "Europe",
     "lc": "ynk",
+    "gw": false,
+    "ln": "\u041d\u0430\u0443\u043a\u0430\u0301\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Yupik, Naukan",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -13,7 +15,5 @@
         "Naukan",
         "Naukanski"
     ],
-    "ang": "Yupik, Naukan",
-    "gwcode": "ru",
-    "ln": "\u041d\u0430\u0443\u043a\u0430\u0301\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

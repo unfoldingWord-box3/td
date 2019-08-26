@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "tbs",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6000,
-    "lr": "Pacific",
     "lc": "tbs",
+    "gw": false,
+    "ln": "Tanguat",
+    "ld": "ltr",
+    "ang": "Tanguat",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
     "alt": [],
-    "ang": "Tanguat",
-    "gwcode": "tpi",
-    "ln": "Tanguat"
+    "gwcode": "tpi"
 }

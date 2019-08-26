@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nho",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4445,
-    "lr": "Pacific",
     "lc": "nho",
+    "gw": false,
+    "ln": "Takuu",
+    "ld": "ltr",
+    "ang": "Takuu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Tau",
         "Tauu"
     ],
-    "ang": "Takuu",
-    "gwcode": "tpi",
-    "ln": "Takuu"
+    "gwcode": "tpi"
 }

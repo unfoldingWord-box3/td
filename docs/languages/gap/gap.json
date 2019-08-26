@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gap",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1918,
-    "lr": "Pacific",
     "lc": "gap",
+    "gw": false,
+    "ln": "Gal",
+    "ld": "ltr",
+    "ang": "Gal",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Baimak",
         "Weim"
     ],
-    "ang": "Gal",
-    "gwcode": "tpi",
-    "ln": "Gal"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ddj",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1467,
-    "lr": "Pacific",
     "lc": "ddj",
+    "gw": false,
+    "ln": "Jaru",
+    "ld": "ltr",
+    "ang": "Jaru",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "AU",
         "PG"
@@ -15,7 +17,5 @@
         "Tjaru",
         "Wawari"
     ],
-    "ang": "Jaru",
-    "gwcode": "en",
-    "ln": "Jaru"
+    "gwcode": "en"
 }

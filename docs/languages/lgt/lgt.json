@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lgt",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3441,
-    "lr": "Pacific",
     "lc": "lgt",
+    "gw": false,
+    "ln": "Pahi",
+    "ld": "ltr",
+    "ang": "Pahi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Riahoma",
         "Wansum"
     ],
-    "ang": "Pahi",
-    "gwcode": "tpi",
-    "ln": "Pahi"
+    "gwcode": "tpi"
 }

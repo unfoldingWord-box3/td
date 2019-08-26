@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tcb",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 6008,
-    "lr": "Americas",
     "lc": "tcb",
+    "gw": false,
+    "ln": "Tanacross",
+    "ld": "ltr",
+    "ang": "Tanacross",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -13,7 +15,5 @@
         "Healy Lake",
         "Mansfield-Ketchumstuck"
     ],
-    "ang": "Tanacross",
-    "gwcode": "en",
-    "ln": "Tanacross"
+    "gwcode": "en"
 }

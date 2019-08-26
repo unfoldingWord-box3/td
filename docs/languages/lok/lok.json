@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lok",
-    "hc": "SL",
-    "ld": "ltr",
     "pk": 3559,
-    "lr": "Africa",
     "lc": "lok",
+    "gw": false,
+    "ln": "Loko",
+    "ld": "ltr",
+    "ang": "Loko",
+    "hc": "SL",
+    "lr": "Africa",
     "cc": [
         "GN",
         "SL"
@@ -13,7 +15,5 @@
     "alt": [
         "Landogo"
     ],
-    "ang": "Loko",
-    "gwcode": "en",
-    "ln": "Loko"
+    "gwcode": "en"
 }

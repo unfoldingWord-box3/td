@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ygw",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 7175,
-    "lr": "Pacific",
     "lc": "ygw",
+    "gw": false,
+    "ln": "Yagwoia",
+    "ld": "ltr",
+    "ang": "Yagwoia",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -18,7 +20,5 @@
         "Hiqwase",
         "Gwase"
     ],
-    "ang": "Yagwoia",
-    "gwcode": "tpi",
-    "ln": "Yagwoia"
+    "gwcode": "tpi"
 }

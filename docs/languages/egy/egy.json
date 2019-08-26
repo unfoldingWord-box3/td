@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "egy",
-    "hc": "EG",
-    "ld": "ltr",
     "pk": 1707,
-    "lr": "Africa",
     "lc": "egy",
+    "gw": false,
+    "ln": "Egyptian (Ancient)",
+    "ld": "ltr",
+    "ang": "Egyptian",
+    "hc": "EG",
+    "lr": "Africa",
     "cc": [
         "EG"
     ],
     "alt": [],
-    "ang": "Egyptian",
-    "gwcode": "UNKNOWN",
-    "ln": "Egyptian (Ancient)"
+    "gwcode": null
 }

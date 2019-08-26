@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "lab",
-    "hc": "GR",
-    "ld": "ltr",
     "pk": 3335,
-    "lr": "Europe",
     "lc": "lab",
+    "gw": false,
+    "ln": "Linear A",
+    "ld": "ltr",
+    "ang": "Linear A",
+    "hc": "GR",
+    "lr": "Europe",
     "cc": [
         "GR"
     ],
     "alt": [],
-    "ang": "Linear A",
-    "gwcode": "UNKNOWN",
-    "ln": "Linear A"
+    "gwcode": null
 }

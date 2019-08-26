@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gla",
-    "hc": "GB",
-    "ld": "ltr",
     "pk": 1959,
-    "lr": "Europe",
     "lc": "gd",
+    "gw": false,
+    "ln": "G\u00e0idhlig",
+    "ld": "ltr",
+    "ang": "Scottish Gaelic, Gaelic",
+    "hc": "GB",
+    "lr": "Europe",
     "cc": [
         "GB",
         "US"
@@ -15,7 +17,5 @@
         "G\u00e0idhlig",
         "Scots Gaelic"
     ],
-    "ang": "Scottish Gaelic, Gaelic",
-    "gwcode": "en",
-    "ln": "G\u00e0idhlig"
+    "gwcode": "en"
 }

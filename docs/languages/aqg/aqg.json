@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aqg",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 327,
-    "lr": "Africa",
     "lc": "aqg",
+    "gw": false,
+    "ln": "Arigidi",
+    "ld": "ltr",
+    "ang": "Arigidi",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -23,7 +25,5 @@
         "\u00d2w\u00f2n \u00ccg\u00e1s\u00ed",
         "\u00ccg\u00e1s\u00ed"
     ],
-    "ang": "Arigidi",
-    "gwcode": "en",
-    "ln": "Arigidi"
+    "gwcode": "en"
 }

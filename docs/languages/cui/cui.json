@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cui",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 1389,
-    "lr": "Americas",
     "lc": "cui",
+    "gw": false,
+    "ln": "Cuiba",
+    "ld": "ltr",
+    "ang": "Cuiba",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "VE",
         "CO"
@@ -22,7 +24,5 @@
         "Amaruwa (Amorua)",
         "Wupiwi"
     ],
-    "ang": "Cuiba",
-    "gwcode": "es-419",
-    "ln": "Cuiba"
+    "gwcode": "es-419"
 }

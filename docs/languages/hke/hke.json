@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hke",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 2281,
-    "lr": "Africa",
     "lc": "hke",
+    "gw": false,
+    "ln": "Hunde",
+    "ld": "ltr",
+    "ang": "Hunde",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -13,7 +15,5 @@
         "Kobi",
         "Rukobi"
     ],
-    "ang": "Hunde",
-    "gwcode": "fr",
-    "ln": "Hunde"
+    "gwcode": "fr"
 }

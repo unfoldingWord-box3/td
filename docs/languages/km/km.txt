@@ -3,7 +3,7 @@
 ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ
 ======================================================================
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/khm>`_ identifies this language as ``khm``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/khm>`__ identifies this language as ``khm``.
 
 This language is spoken in the following countries:
 
@@ -16,6 +16,8 @@ This language is spoken in the following countries:
 * AU: Australia
 * KH: Cambodia
 * CA: Canada
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -45,7 +47,7 @@ This language is spoken in the following countries:
     - AU
     - KH
     - CA
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: km
     lang_direction: ltr
     lang_name: ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bjv",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 727,
-    "lr": "Africa",
     "lc": "bjv",
+    "gw": false,
+    "ln": "Bedjond",
+    "ld": "ltr",
+    "ang": "Bedjond",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -18,7 +20,5 @@
         "Mbay Bejondo",
         "Nangnda"
     ],
-    "ang": "Bedjond",
-    "gwcode": "ar",
-    "ln": "Bedjond"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nas",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4303,
-    "lr": "Pacific",
     "lc": "nas",
+    "gw": false,
+    "ln": "Naasioi",
+    "ld": "ltr",
+    "ang": "Naasioi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Orami (Guava)",
         "Pirung (Naasioi)"
     ],
-    "ang": "Naasioi",
-    "gwcode": "tpi",
-    "ln": "Naasioi"
+    "gwcode": "tpi"
 }

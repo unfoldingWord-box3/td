@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zro",
-    "hc": "EC",
-    "ld": "ltr",
     "pk": 7467,
-    "lr": "Americas",
     "lc": "zro",
+    "gw": false,
+    "ln": "Z\u00e1paro",
+    "ld": "ltr",
+    "ang": "Z\u00e1paro",
+    "hc": "EC",
+    "lr": "Americas",
     "cc": [
         "EC"
     ],
@@ -14,7 +16,5 @@
         "S\u00e1para",
         "Z\u00e1para"
     ],
-    "ang": "Z\u00e1paro",
-    "gwcode": "es-419",
-    "ln": "Z\u00e1paro"
+    "gwcode": "es-419"
 }

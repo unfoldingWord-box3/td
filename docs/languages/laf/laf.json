@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "laf",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 3339,
-    "lr": "Africa",
     "lc": "laf",
+    "gw": false,
+    "ln": "Lafofa",
+    "ld": "ltr",
+    "ang": "Lafofa",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -15,7 +17,5 @@
         "Jebel Tekeim (Jebel)",
         "Tegem"
     ],
-    "ang": "Lafofa",
-    "gwcode": "ar",
-    "ln": "Lafofa"
+    "gwcode": "ar"
 }

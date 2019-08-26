@@ -3,8 +3,10 @@
 Cote d'Ivoire Sign Language
 ===========================
 
-This language is spoken in the following countries:
+.. warning:: This language is not list as spoken in any countries.
 
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -12,7 +14,7 @@ This language is spoken in the following countries:
     alternate_names: []
     anglicanized_name: Cote d'Ivoire
     country_codes: []
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: ase-x-cotedivosl
     lang_direction: ltr
     lang_name: Cote d'Ivoire Sign Language

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "saf",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 5464,
-    "lr": "Africa",
     "lc": "saf",
+    "gw": false,
+    "ln": "Safaliba",
+    "ld": "ltr",
+    "ang": "Safaliba",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -14,7 +16,5 @@
         "Safalba",
         "Safali"
     ],
-    "ang": "Safaliba",
-    "gwcode": "en",
-    "ln": "Safaliba"
+    "gwcode": "en"
 }

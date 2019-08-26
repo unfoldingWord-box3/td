@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "tpi",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6270,
-    "lr": "Pacific",
     "lc": "tpi",
+    "gw": true,
+    "ln": "Tok Pisin",
+    "ld": "ltr",
+    "ang": "Tok Pisin",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "SB",
         "US",
@@ -19,7 +21,5 @@
         "Pidgin",
         "Pisin"
     ],
-    "ang": "Tok Pisin",
-    "gwcode": "UNKNOWN",
-    "ln": "Tok Pisin"
+    "gwcode": null
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "krp",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3122,
-    "lr": "Africa",
     "lc": "krp",
+    "gw": false,
+    "ln": "Korop",
+    "ld": "ltr",
+    "ang": "Korop",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -17,7 +19,5 @@
         "Ododop",
         "Kurop"
     ],
-    "ang": "Korop",
-    "gwcode": "en",
-    "ln": "Korop"
+    "gwcode": "en"
 }

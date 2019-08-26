@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "net",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4396,
-    "lr": "Pacific",
     "lc": "net",
+    "gw": false,
+    "ln": "Nete",
+    "ld": "ltr",
+    "ang": "Nete",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Malamauda",
         "Malaumanda"
     ],
-    "ang": "Nete",
-    "gwcode": "tpi",
-    "ln": "Nete"
+    "gwcode": "tpi"
 }

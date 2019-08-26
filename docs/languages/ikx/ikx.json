@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ikx",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 2468,
-    "lr": "Africa",
     "lc": "ikx",
+    "gw": false,
+    "ln": "Ik",
+    "ld": "ltr",
+    "ang": "Ik",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "KE",
         "UG"
@@ -20,7 +22,5 @@
         "Teuso",
         "Teuth"
     ],
-    "ang": "Ik",
-    "gwcode": "en",
-    "ln": "Ik"
+    "gwcode": "en"
 }

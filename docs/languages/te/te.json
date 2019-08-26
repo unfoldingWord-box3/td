@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "tel",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6052,
-    "lr": "Asia",
     "lc": "te",
+    "gw": true,
+    "ln": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+    "ld": "ltr",
+    "ang": "Telugu",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "LK",
@@ -32,7 +34,5 @@
         "Vishakhapatnam",
         "Yanadi (Yenadi)"
     ],
-    "ang": "Telugu",
-    "gwcode": "UNKNOWN",
-    "ln": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    "gwcode": null
 }

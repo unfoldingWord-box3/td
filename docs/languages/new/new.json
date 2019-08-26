@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "new",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 4399,
-    "lr": "Asia",
     "lc": "new",
+    "gw": false,
+    "ln": "\u0928\u0947\u0935\u093e\u0903 \u092d\u093e\u092f\u094d",
+    "ld": "ltr",
+    "ang": "Newar",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -20,7 +22,5 @@
         "Pyang Gaon",
         "Sindhupalchok Pahri (Pahari)"
     ],
-    "ang": "Newar",
-    "gwcode": "ne",
-    "ln": "\u0928\u0947\u0935\u093e\u0903 \u092d\u093e\u092f\u094d"
+    "gwcode": "ne"
 }

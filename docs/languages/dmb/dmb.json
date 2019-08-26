@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dmb",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 1564,
-    "lr": "Africa",
     "lc": "dmb",
+    "gw": false,
+    "ln": "Mombo Dogon",
+    "ld": "ltr",
+    "ang": "Dogon, Mombo",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "ML"
     ],
@@ -14,7 +16,5 @@
         "Kolu-so",
         "Pignari"
     ],
-    "ang": "Dogon, Mombo",
-    "gwcode": "fr",
-    "ln": "Mombo Dogon"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kck",
-    "hc": "ZW",
-    "ld": "ltr",
     "pk": 2746,
-    "lr": "Africa",
     "lc": "kck",
+    "gw": false,
+    "ln": "Kalanga",
+    "ld": "ltr",
+    "ang": "Kalanga",
+    "hc": "ZW",
+    "lr": "Africa",
     "cc": [
         "ZW",
         "BW"
@@ -29,7 +31,5 @@
         "Banyai",
         "Limima"
     ],
-    "ang": "Kalanga",
-    "gwcode": "en",
-    "ln": "Kalanga"
+    "gwcode": "en"
 }

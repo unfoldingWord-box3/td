@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ydg",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 7156,
-    "lr": "Asia",
     "lc": "ydg",
+    "gw": false,
+    "ln": "\u06cc\u062f\u063a\u06c1",
+    "ld": "ltr",
+    "ang": "Yidgha",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "PK"
     ],
@@ -15,7 +17,5 @@
         "Yudga",
         "Yudgha"
     ],
-    "ang": "Yidgha",
-    "gwcode": "ur",
-    "ln": "\u06cc\u062f\u063a\u06c1"
+    "gwcode": "ur"
 }

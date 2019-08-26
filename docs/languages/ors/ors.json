@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ors",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 4871,
-    "lr": "Asia",
     "lc": "ors",
+    "gw": false,
+    "ln": "Orang Seletar",
+    "ld": "ltr",
+    "ang": "Orang Seletar",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY",
         "SG"
@@ -13,7 +15,5 @@
     "alt": [
         "Orang Laut"
     ],
-    "ang": "Orang Seletar",
-    "gwcode": "ms",
-    "ln": "Orang Seletar"
+    "gwcode": "ms"
 }

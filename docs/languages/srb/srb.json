@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "srb",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5805,
-    "lr": "Asia",
     "lc": "srb",
+    "gw": false,
+    "ln": "Sora",
+    "ld": "ltr",
+    "ang": "Sora",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -20,7 +22,5 @@
         "Soura",
         "Swara"
     ],
-    "ang": "Sora",
-    "gwcode": "or",
-    "ln": "Sora"
+    "gwcode": "or"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "phl",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 5015,
-    "lr": "Asia",
     "lc": "phl",
+    "gw": false,
+    "ln": "\u067e\u06be\u0627\u0644\u0648\u0644\u06c1 \u0632\u0628\u0627\u0646",
+    "ld": "ltr",
+    "ang": "Palula",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "PK"
     ],
@@ -16,7 +18,5 @@
         "Phalulo",
         "Northern Palula"
     ],
-    "ang": "Palula",
-    "gwcode": "ur",
-    "ln": "\u067e\u06be\u0627\u0644\u0648\u0644\u06c1 \u0632\u0628\u0627\u0646"
+    "gwcode": "ur"
 }

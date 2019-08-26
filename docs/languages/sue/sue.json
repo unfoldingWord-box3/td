@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sue",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5879,
-    "lr": "Pacific",
     "lc": "sue",
+    "gw": false,
+    "ln": "Suena",
+    "ld": "ltr",
+    "ang": "Suena",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Yarawi",
         "Yema"
     ],
-    "ang": "Suena",
-    "gwcode": "tpi",
-    "ln": "Suena"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dme",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 1566,
-    "lr": "Africa",
     "lc": "dme",
+    "gw": false,
+    "ln": "Dugwor",
+    "ld": "ltr",
+    "ang": "Dugwor",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -16,7 +18,5 @@
         "Tchakidjebe",
         "Mikere"
     ],
-    "ang": "Dugwor",
-    "gwcode": "fr",
-    "ln": "Dugwor"
+    "gwcode": "fr"
 }

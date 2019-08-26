@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rmo",
-    "hc": "RS",
-    "ld": "ltr",
     "pk": 5387,
-    "lr": "Europe",
     "lc": "rmo",
+    "gw": false,
+    "ln": "Sinte Romani",
+    "ld": "ltr",
+    "ang": "Romani, Sinte",
+    "hc": "RS",
+    "lr": "Europe",
     "cc": [
         "AT",
         "HR",
@@ -27,7 +29,5 @@
         "Manuche (Manouche)",
         "Manush"
     ],
-    "ang": "Romani, Sinte",
-    "gwcode": "en",
-    "ln": "Sinte Romani"
+    "gwcode": "en"
 }

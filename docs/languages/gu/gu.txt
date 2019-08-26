@@ -3,7 +3,7 @@
 ગુજરાતી
 =====================
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/guj>`_ identifies this language as ``guj``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/guj>`__ identifies this language as ``guj``.
 
 This language is spoken in the following countries:
 
@@ -33,6 +33,8 @@ This language is spoken in the following countries:
 * MM: Myanmar
 * BH: Bahrain
 * BI: Burundi
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -86,7 +88,7 @@ This language is spoken in the following countries:
     - MM
     - BH
     - BI
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: gu
     lang_direction: ltr
     lang_name: ગુજરાતી

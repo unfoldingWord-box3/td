@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ats",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 397,
-    "lr": "Americas",
     "lc": "ats",
+    "gw": false,
+    "ln": "Gros Ventre",
+    "ld": "ltr",
+    "ang": "Gros Ventre",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -18,7 +20,5 @@
         "Gros Ventres",
         "White Clay People"
     ],
-    "ang": "Gros Ventre",
-    "gwcode": "en",
-    "ln": "Gros Ventre"
+    "gwcode": "en"
 }

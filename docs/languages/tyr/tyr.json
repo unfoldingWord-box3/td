@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tyr",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 6450,
-    "lr": "Asia",
     "lc": "tyr",
+    "gw": false,
+    "ln": "T\u00e1y-M\u00f4c-Ch\u00e2u",
+    "ld": "ltr",
+    "ang": "Tai Daeng",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "LA",
         "VN"
@@ -21,7 +23,5 @@
         "Tai Rouge",
         "T\u00e1y-M\u00f4c-Ch\u00e2u"
     ],
-    "ang": "Tai Daeng",
-    "gwcode": "vi",
-    "ln": "T\u00e1y-M\u00f4c-Ch\u00e2u"
+    "gwcode": "vi"
 }

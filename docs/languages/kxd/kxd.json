@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kxd",
-    "hc": "BN",
-    "ld": "ltr",
     "pk": 3262,
-    "lr": "Asia",
     "lc": "kxd",
+    "gw": false,
+    "ln": "Brunei",
+    "ld": "ltr",
+    "ang": "Brunei",
+    "hc": "BN",
+    "lr": "Asia",
     "cc": [
         "BN",
         "MY",
@@ -26,7 +28,5 @@
         "Kadaian (Kadayan)",
         "Kedien"
     ],
-    "ang": "Brunei",
-    "gwcode": "ms",
-    "ln": "Brunei"
+    "gwcode": "ms"
 }

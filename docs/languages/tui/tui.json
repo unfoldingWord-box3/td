@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tui",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 6381,
-    "lr": "Africa",
     "lc": "tui",
+    "gw": false,
+    "ln": "Tupuri",
+    "ld": "ltr",
+    "ang": "Tupuri",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "TD"
@@ -20,7 +22,5 @@
         "Tuburi",
         "Wina"
     ],
-    "ang": "Tupuri",
-    "gwcode": "fr",
-    "ln": "Tupuri"
+    "gwcode": "fr"
 }

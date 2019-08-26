@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kfd",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2812,
-    "lr": "Asia",
     "lc": "kfd",
+    "gw": false,
+    "ln": "Korra Koraga",
+    "ld": "ltr",
+    "ang": "Koraga, Korra",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -18,7 +20,5 @@
         "Onti",
         "Tappu"
     ],
-    "ang": "Koraga, Korra",
-    "gwcode": "kn",
-    "ln": "Korra Koraga"
+    "gwcode": "kn"
 }

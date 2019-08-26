@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jet",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2606,
-    "lr": "Pacific",
     "lc": "jet",
+    "gw": false,
+    "ln": "Manem",
+    "ld": "ltr",
+    "ang": "Manem",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "ID",
         "PG"
@@ -16,7 +18,5 @@
         "Wembi",
         "Yeti"
     ],
-    "ang": "Manem",
-    "gwcode": "tpi",
-    "ln": "Manem"
+    "gwcode": "tpi"
 }

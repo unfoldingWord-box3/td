@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zag",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 7337,
-    "lr": "Africa",
     "lc": "zag",
+    "gw": false,
+    "ln": "Zaghawa",
+    "ld": "ltr",
+    "ang": "Zaghawa",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "TD",
@@ -33,7 +35,5 @@
         "Awe",
         "Kube"
     ],
-    "ang": "Zaghawa",
-    "gwcode": "ar",
-    "ln": "Zaghawa"
+    "gwcode": "ar"
 }

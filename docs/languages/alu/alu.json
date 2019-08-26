@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "alu",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 229,
-    "lr": "Pacific",
     "lc": "alu",
+    "gw": false,
+    "ln": "'Are'are",
+    "ld": "ltr",
+    "ang": "\u2019Are\u2019are",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -13,7 +15,5 @@
         "Are'are",
         "Marau (Marau Sound)"
     ],
-    "ang": "\u2019Are\u2019are",
-    "gwcode": "UNKNOWN",
-    "ln": "'Are'are"
+    "gwcode": "pis"
 }

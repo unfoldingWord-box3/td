@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "maa",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3659,
-    "lr": "Americas",
     "lc": "maa",
+    "gw": false,
+    "ln": "San Jer\u00f3nimo Tec\u00f3atl Mazatec",
+    "ld": "ltr",
+    "ang": "Mazatec, San Jer\u00f3nimo Tec\u00f3atl",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -23,7 +25,5 @@
         "Santa Ana Ateixtlahuaca Mazatec",
         "Santa Cruz Acatepec Mazatec"
     ],
-    "ang": "Mazatec, San Jer\u00f3nimo Tec\u00f3atl",
-    "gwcode": "es-419",
-    "ln": "San Jer\u00f3nimo Tec\u00f3atl Mazatec"
+    "gwcode": "es-419"
 }

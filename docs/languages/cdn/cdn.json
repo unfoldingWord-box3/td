@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cdn",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1168,
-    "lr": "Asia",
     "lc": "cdn",
+    "gw": false,
+    "ln": "Chaudangsi",
+    "ld": "ltr",
+    "ang": "Chaudangsi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "NP",
         "IN"
@@ -19,7 +21,5 @@
         "Shaukas",
         "Tsaudangsi"
     ],
-    "ang": "Chaudangsi",
-    "gwcode": "hi",
-    "ln": "Chaudangsi"
+    "gwcode": "hi"
 }

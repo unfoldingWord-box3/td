@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mcb",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 3703,
-    "lr": "Americas",
     "lc": "mcb",
+    "gw": false,
+    "ln": "Machiguenga",
+    "ld": "ltr",
+    "ang": "Machiguenga",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -14,7 +16,5 @@
         "Matsiganga",
         "Matsigenka"
     ],
-    "ang": "Machiguenga",
-    "gwcode": "es-419",
-    "ln": "Machiguenga"
+    "gwcode": "es-419"
 }

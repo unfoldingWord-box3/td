@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mbo",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3690,
-    "lr": "Africa",
     "lc": "mbo",
+    "gw": false,
+    "ln": "Mbo (Cameroon)",
+    "ld": "ltr",
+    "ang": "Mbo",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -18,7 +20,5 @@
         "Kekem (Nlembuu)",
         "Melong (Eho Mbo)"
     ],
-    "ang": "Mbo",
-    "gwcode": "fr",
-    "ln": "Mbo (Cameroon)"
+    "gwcode": "fr"
 }

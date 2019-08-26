@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "alz",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 233,
-    "lr": "Africa",
     "lc": "alz",
+    "gw": false,
+    "ln": "Alur",
+    "ld": "ltr",
+    "ang": "Alur",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD",
         "UG"
@@ -20,7 +22,5 @@
         "Lur",
         "Luri"
     ],
-    "ang": "Alur",
-    "gwcode": "fr",
-    "ln": "Alur"
+    "gwcode": "fr"
 }

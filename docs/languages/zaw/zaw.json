@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zaw",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7352,
-    "lr": "Americas",
     "lc": "zaw",
+    "gw": false,
+    "ln": "Mitla Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Mitla",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "East Valley Zapotec",
         "Santiago Matatl\u00e1n Zapotec (Matatl\u00e1n Zapotec)"
     ],
-    "ang": "Zapotec, Mitla",
-    "gwcode": "es-419",
-    "ln": "Mitla Zapotec"
+    "gwcode": "es-419"
 }

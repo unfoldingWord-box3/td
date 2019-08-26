@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "spa",
-    "hc": "ES",
-    "ld": "ltr",
     "pk": 1776,
-    "lr": "Europe",
     "lc": "es",
+    "gw": true,
+    "ln": "espa\u00f1ol",
+    "ld": "ltr",
+    "ang": "Spanish",
+    "hc": "ES",
+    "lr": "Europe",
     "cc": [
         "AT",
         "BE",
@@ -76,7 +78,5 @@
         "American Spanish (Chicano)",
         "Andalus\u00ed"
     ],
-    "ang": "Spanish",
-    "gwcode": "es",
-    "ln": "espa\u00f1ol"
+    "gwcode": "es"
 }

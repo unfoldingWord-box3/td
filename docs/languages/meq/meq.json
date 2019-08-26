@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "meq",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3768,
-    "lr": "Africa",
     "lc": "meq",
+    "gw": false,
+    "ln": "Merey",
+    "ld": "ltr",
+    "ang": "Merey",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -14,7 +16,5 @@
         "Meri",
         "Mofu de M\u00e9ri"
     ],
-    "ang": "Merey",
-    "gwcode": "fr",
-    "ln": "Merey"
+    "gwcode": "fr"
 }

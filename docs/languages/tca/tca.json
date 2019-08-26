@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tca",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6007,
-    "lr": "Americas",
     "lc": "tca",
+    "gw": false,
+    "ln": "Ticuna",
+    "ld": "ltr",
+    "ang": "Ticuna",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "PE",
@@ -18,7 +20,5 @@
         "Tucuna",
         "Tuk\u00fana"
     ],
-    "ang": "Ticuna",
-    "gwcode": "pt",
-    "ln": "Ticuna"
+    "gwcode": "pt"
 }

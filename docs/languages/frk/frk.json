@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "frk",
-    "hc": "DE",
-    "ld": "ltr",
     "pk": 1871,
-    "lr": "Europe",
     "lc": "frk",
+    "gw": false,
+    "ln": "Frankish",
+    "ld": "ltr",
+    "ang": "Frankish",
+    "hc": "DE",
+    "lr": "Europe",
     "cc": [
         "DE"
     ],
     "alt": [],
-    "ang": "Frankish",
-    "gwcode": "UNKNOWN",
-    "ln": "Frankish"
+    "gwcode": null
 }

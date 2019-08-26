@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mls",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 3943,
-    "lr": "Africa",
     "lc": "mls",
+    "gw": false,
+    "ln": "Masalit",
+    "ld": "ltr",
+    "ang": "Masalit",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "TD"
@@ -19,7 +21,5 @@
         "Massolit",
         "Masaltang"
     ],
-    "ang": "Masalit",
-    "gwcode": "ar",
-    "ln": "Masalit"
+    "gwcode": "ar"
 }

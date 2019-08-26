@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "qvz",
-    "hc": "EC",
-    "ld": "ltr",
     "pk": 5283,
-    "lr": "Americas",
     "lc": "qvz",
+    "gw": false,
+    "ln": "Northern Pastaza Quichua",
+    "ld": "ltr",
+    "ang": "Quichua, Northern Pastaza",
+    "hc": "EC",
+    "lr": "Americas",
     "cc": [
         "PE",
         "EC"
@@ -18,7 +20,5 @@
         "Sarayacu Quichua",
         "Bobonaza"
     ],
-    "ang": "Quichua, Northern Pastaza",
-    "gwcode": "es-419",
-    "ln": "Northern Pastaza Quichua"
+    "gwcode": "es-419"
 }

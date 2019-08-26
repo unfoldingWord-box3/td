@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "shl",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5602,
-    "lr": "Asia",
     "lc": "shl",
+    "gw": false,
+    "ln": "Shendu",
+    "ld": "ltr",
+    "ang": "Shendu",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN"
@@ -16,7 +18,5 @@
         "Sandu",
         "Shandu"
     ],
-    "ang": "Shendu",
-    "gwcode": "en",
-    "ln": "Shendu"
+    "gwcode": "en"
 }

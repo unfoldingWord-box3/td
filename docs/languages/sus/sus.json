@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sus",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 5886,
-    "lr": "Africa",
     "lc": "sus",
+    "gw": false,
+    "ln": "Susu",
+    "ld": "ltr",
+    "ang": "Susu",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "SN",
         "GN",
@@ -20,7 +22,5 @@
         "Sosu",
         "Sousou"
     ],
-    "ang": "Susu",
-    "gwcode": "fr",
-    "ln": "Susu"
+    "gwcode": "fr"
 }

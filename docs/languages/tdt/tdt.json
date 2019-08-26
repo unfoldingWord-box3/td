@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tdt",
-    "hc": "TL",
-    "ld": "ltr",
     "pk": 6047,
-    "lr": "Asia",
     "lc": "tdt",
+    "gw": false,
+    "ln": "Tetun Dili",
+    "ld": "ltr",
+    "ang": "Tetun Dili",
+    "hc": "TL",
+    "lr": "Asia",
     "cc": [
         "ID",
         "TL"
@@ -17,7 +19,5 @@
         "Tetum Pra\u00e7a",
         "Tetun"
     ],
-    "ang": "Tetun Dili",
-    "gwcode": "pt",
-    "ln": "Tetun Dili"
+    "gwcode": "pt"
 }

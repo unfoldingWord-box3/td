@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "rmm",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5385,
-    "lr": "Asia",
     "lc": "rmm",
+    "gw": false,
+    "ln": "Roma",
+    "ld": "ltr",
+    "ang": "Roma",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
     "alt": [
         "Romang"
     ],
-    "ang": "Roma",
-    "gwcode": "id",
-    "ln": "Roma"
+    "gwcode": "id"
 }

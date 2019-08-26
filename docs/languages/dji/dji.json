@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dji",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1546,
-    "lr": "Pacific",
     "lc": "dji",
+    "gw": false,
+    "ln": "Djinang",
+    "ld": "ltr",
+    "ang": "Djinang",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Jandijinung",
         "Wulaki (Wurlaki)"
     ],
-    "ang": "Djinang",
-    "gwcode": "en",
-    "ln": "Djinang"
+    "gwcode": "en"
 }

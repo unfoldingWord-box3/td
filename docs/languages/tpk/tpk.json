@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tpk",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6272,
-    "lr": "Americas",
     "lc": "tpk",
+    "gw": false,
+    "ln": "Tupinikin",
+    "ld": "ltr",
+    "ang": "Tupinikin",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Tupinikim",
         "Tupiniquim"
     ],
-    "ang": "Tupinikin",
-    "gwcode": "pt",
-    "ln": "Tupinikin"
+    "gwcode": "pt"
 }

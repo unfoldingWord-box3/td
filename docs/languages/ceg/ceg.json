@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ceg",
-    "hc": "PY",
-    "ld": "ltr",
     "pk": 1177,
-    "lr": "Americas",
     "lc": "ceg",
+    "gw": false,
+    "ln": "Chamacoco",
+    "ld": "ltr",
+    "ang": "Chamacoco",
+    "hc": "PY",
+    "lr": "Americas",
     "cc": [
         "BR",
         "PY"
@@ -16,7 +18,5 @@
         "Yshyro",
         "Tomaraho"
     ],
-    "ang": "Chamacoco",
-    "gwcode": "es-419",
-    "ln": "Chamacoco"
+    "gwcode": "es-419"
 }

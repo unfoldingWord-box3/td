@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fuq",
-    "hc": "NE",
-    "ld": "ltr",
     "pk": 1892,
-    "lr": "Africa",
     "lc": "fuq",
+    "gw": false,
+    "ln": "Central-Eastern Niger Fulfulde",
+    "ld": "ltr",
+    "ang": "Fulfulde, Central-Eastern Niger",
+    "hc": "NE",
+    "lr": "Africa",
     "cc": [
         "NE",
         "NG"
@@ -17,7 +19,5 @@
         "Peul",
         "Peulh"
     ],
-    "ang": "Fulfulde, Central-Eastern Niger",
-    "gwcode": "fr",
-    "ln": "Central-Eastern Niger Fulfulde"
+    "gwcode": "fr"
 }

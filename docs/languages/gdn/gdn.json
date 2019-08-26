@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gdn",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1973,
-    "lr": "Pacific",
     "lc": "gdn",
+    "gw": false,
+    "ln": "Umanakaina",
+    "ld": "ltr",
+    "ang": "Umanakaina",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Gwedena",
         "Umanikaina"
     ],
-    "ang": "Umanakaina",
-    "gwcode": "tpi",
-    "ln": "Umanakaina"
+    "gwcode": "tpi"
 }

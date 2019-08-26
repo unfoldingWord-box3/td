@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lac",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3336,
-    "lr": "Americas",
     "lc": "lac",
+    "gw": false,
+    "ln": "Lacandon",
+    "ld": "ltr",
+    "ang": "Lacandon",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Lacanj\u00e1",
         "Naj\u00e1"
     ],
-    "ang": "Lacandon",
-    "gwcode": "es-419",
-    "ln": "Lacandon"
+    "gwcode": "es-419"
 }

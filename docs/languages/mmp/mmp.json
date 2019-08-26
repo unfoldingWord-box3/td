@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mmp",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3964,
-    "lr": "Pacific",
     "lc": "mmp",
+    "gw": false,
+    "ln": "Siawi",
+    "ld": "ltr",
+    "ang": "Siawi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Siafli",
         "Siwai"
     ],
-    "ang": "Siawi",
-    "gwcode": "tpi",
-    "ln": "Siawi"
+    "gwcode": "tpi"
 }

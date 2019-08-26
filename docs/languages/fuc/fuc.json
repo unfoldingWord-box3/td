@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fuc",
-    "hc": "SN",
-    "ld": "ltr",
     "pk": 1883,
-    "lr": "Africa",
     "lc": "fuc",
+    "gw": false,
+    "ln": "Pulaar",
+    "ld": "ltr",
+    "ang": "Pulaar",
+    "hc": "SN",
+    "lr": "Africa",
     "cc": [
         "FR",
         "GM",
@@ -42,7 +44,5 @@
         "Fula de Gabu",
         "Fula Preto"
     ],
-    "ang": "Pulaar",
-    "gwcode": "fr",
-    "ln": "Pulaar"
+    "gwcode": "fr"
 }

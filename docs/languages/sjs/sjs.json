@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sjs",
-    "hc": "MA",
-    "ld": "ltr",
     "pk": 5652,
-    "lr": "Africa",
     "lc": "sjs",
+    "gw": false,
+    "ln": "\u0623\u0645\u0627\u0632\u064a\u063a\u064a\u0629 \u0635\u0646\u0647\u0627\u062c\u0629",
+    "ld": "ltr",
+    "ang": "Senhaja Berber",
+    "hc": "MA",
+    "lr": "Africa",
     "cc": [
         "MA"
     ],
@@ -29,7 +31,5 @@
         "Tamazight n Jbala",
         "Tasenhajit"
     ],
-    "ang": "Senhaja Berber",
-    "gwcode": "ar",
-    "ln": "\u0623\u0645\u0627\u0632\u064a\u063a\u064a\u0629 \u0635\u0646\u0647\u0627\u062c\u0629"
+    "gwcode": "ar"
 }

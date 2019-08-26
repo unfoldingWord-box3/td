@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "kan",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3013,
-    "lr": "Asia",
     "lc": "kn",
+    "gw": true,
+    "ln": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
+    "ld": "ltr",
+    "ang": "Kannada",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "MY",
         "US",
@@ -23,7 +25,5 @@
         "Kumta",
         "Nanjangud"
     ],
-    "ang": "Kannada",
-    "gwcode": "UNKNOWN",
-    "ln": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca1"
+    "gwcode": null
 }

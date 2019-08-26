@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rmf",
-    "hc": "FI",
-    "ld": "ltr",
     "pk": 5379,
-    "lr": "Europe",
     "lc": "rmf",
+    "gw": false,
+    "ln": "Kalo Finnish Romani",
+    "ld": "ltr",
+    "ang": "Romani, Kalo Finnish",
+    "hc": "FI",
+    "lr": "Europe",
     "cc": [
         "SE",
         "FI"
@@ -15,7 +17,5 @@
         "Gypsy",
         "Kal\u00e9"
     ],
-    "ang": "Romani, Kalo Finnish",
-    "gwcode": "en",
-    "ln": "Kalo Finnish Romani"
+    "gwcode": "en"
 }

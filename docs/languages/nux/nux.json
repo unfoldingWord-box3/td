@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nux",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4696,
-    "lr": "Pacific",
     "lc": "nux",
+    "gw": false,
+    "ln": "Mehek",
+    "ld": "ltr",
+    "ang": "Mehek",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Indinogosima",
         "Me'ek"
     ],
-    "ang": "Mehek",
-    "gwcode": "tpi",
-    "ln": "Mehek"
+    "gwcode": "tpi"
 }

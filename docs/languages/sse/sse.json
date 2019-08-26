@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sse",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 5830,
-    "lr": "Asia",
     "lc": "sse",
+    "gw": false,
+    "ln": "Balangingi",
+    "ld": "ltr",
+    "ang": "Sama, Balangingih",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "MY",
         "PH"
@@ -31,7 +33,5 @@
         "Sibuguey (Batuan)",
         "Lutangan (Lutango)"
     ],
-    "ang": "Sama, Balangingih",
-    "gwcode": "en",
-    "ln": "Balangingi"
+    "gwcode": "en"
 }

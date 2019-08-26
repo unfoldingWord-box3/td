@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nlg",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 4522,
-    "lr": "Pacific",
     "lc": "nlg",
+    "gw": false,
+    "ln": "Gela",
+    "ld": "ltr",
+    "ang": "Gela",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -16,7 +18,5 @@
         "Gela Pile",
         "Sandfly"
     ],
-    "ang": "Gela",
-    "gwcode": "UNKNOWN",
-    "ln": "Gela"
+    "gwcode": "pis"
 }

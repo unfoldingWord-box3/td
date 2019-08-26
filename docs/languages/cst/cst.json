@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cst",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 1363,
-    "lr": "Americas",
     "lc": "cst",
+    "gw": false,
+    "ln": "Northern Ohlone",
+    "ld": "ltr",
+    "ang": "Ohlone, Northern",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -17,7 +19,5 @@
         "Santa Cruz",
         "Santa Clara"
     ],
-    "ang": "Ohlone, Northern",
-    "gwcode": "en",
-    "ln": "Northern Ohlone"
+    "gwcode": "en"
 }

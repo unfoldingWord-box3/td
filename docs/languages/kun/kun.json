@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kun",
-    "hc": "ER",
-    "ld": "ltr",
     "pk": 3195,
-    "lr": "Africa",
     "lc": "kun",
+    "gw": false,
+    "ln": "Kunama",
+    "ld": "ltr",
+    "ang": "Kunama",
+    "hc": "ER",
+    "lr": "Africa",
     "cc": [
         "ER",
         "ET",
@@ -37,7 +39,5 @@
         "Barka (Berka)",
         "Bitama (Bitaama)"
     ],
-    "ang": "Kunama",
-    "gwcode": "ar",
-    "ln": "Kunama"
+    "gwcode": "ar"
 }

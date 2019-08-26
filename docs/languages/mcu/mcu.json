@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mcu",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3722,
-    "lr": "Africa",
     "lc": "mcu",
+    "gw": false,
+    "ln": "Cameroon Mambila",
+    "ld": "ltr",
+    "ang": "Mambila, Cameroon",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -25,7 +27,5 @@
         "Ju Naare (Mambila de Gembu)",
         "Langa"
     ],
-    "ang": "Mambila, Cameroon",
-    "gwcode": "fr",
-    "ln": "Cameroon Mambila"
+    "gwcode": "fr"
 }

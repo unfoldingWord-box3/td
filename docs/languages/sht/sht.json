@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sht",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 5610,
-    "lr": "Americas",
     "lc": "sht",
+    "gw": false,
+    "ln": "Shasta",
+    "ld": "ltr",
+    "ang": "Shasta",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -13,7 +15,5 @@
         "Sastean",
         "Shastan"
     ],
-    "ang": "Shasta",
-    "gwcode": "en",
-    "ln": "Shasta"
+    "gwcode": "en"
 }

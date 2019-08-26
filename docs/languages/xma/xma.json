@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xma",
-    "hc": "SO",
-    "ld": "ltr",
     "pk": 6969,
-    "lr": "Africa",
     "lc": "xma",
+    "gw": false,
+    "ln": "Mushungulu",
+    "ld": "ltr",
+    "ang": "Mushungulu",
+    "hc": "SO",
+    "lr": "Africa",
     "cc": [
         "SO"
     ],
@@ -13,7 +15,5 @@
         "Kimushungulu",
         "Mushunguli"
     ],
-    "ang": "Mushungulu",
-    "gwcode": "ar",
-    "ln": "Mushungulu"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gaf",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1908,
-    "lr": "Pacific",
     "lc": "gaf",
+    "gw": false,
+    "ln": "Gende",
+    "ld": "ltr",
+    "ang": "Gende",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Gendeka",
         "Gene"
     ],
-    "ang": "Gende",
-    "gwcode": "tpi",
-    "ln": "Gende"
+    "gwcode": "tpi"
 }

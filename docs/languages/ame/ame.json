@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ame",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 238,
-    "lr": "Americas",
     "lc": "ame",
+    "gw": false,
+    "ln": "Yanesha'",
+    "ld": "ltr",
+    "ang": "Yanesha\u2019",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -21,7 +23,5 @@
         "Lorenzo",
         "Omage"
     ],
-    "ang": "Yanesha\u2019",
-    "gwcode": "es-419",
-    "ln": "Yanesha'"
+    "gwcode": "es-419"
 }

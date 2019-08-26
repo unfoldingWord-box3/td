@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bif",
-    "hc": "GW",
-    "ld": "ltr",
     "pk": 691,
-    "lr": "Africa",
     "lc": "bif",
+    "gw": false,
+    "ln": "Biafada",
+    "ld": "ltr",
+    "ang": "Biafada",
+    "hc": "GW",
+    "lr": "Africa",
     "cc": [
         "GW"
     ],
@@ -16,7 +18,5 @@
         "Dfola",
         "Fada"
     ],
-    "ang": "Biafada",
-    "gwcode": "pt",
-    "ln": "Biafada"
+    "gwcode": "pt"
 }

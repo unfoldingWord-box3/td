@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dii",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 1526,
-    "lr": "Africa",
     "lc": "dii",
+    "gw": false,
+    "ln": "Dimbong",
+    "ld": "ltr",
+    "ang": "Dimbong",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -19,7 +21,5 @@
         "Mbong",
         "Palong"
     ],
-    "ang": "Dimbong",
-    "gwcode": "fr",
-    "ln": "Dimbong"
+    "gwcode": "fr"
 }

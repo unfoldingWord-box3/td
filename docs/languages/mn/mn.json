@@ -1,16 +1,16 @@
 {
-    "gw": true,
     "ISO-639-3": "mon",
-    "hc": "MN",
-    "ld": "ltr",
     "pk": 3974,
-    "lr": "Asia",
     "lc": "mn",
+    "gw": true,
+    "ln": "\u041c\u043e\u043d\u0433\u043e\u043b \u0445\u044d\u043b",
+    "ld": "ltr",
+    "ang": "Mongolian",
+    "hc": "MN",
+    "lr": "Asia",
     "cc": [
         "MN"
     ],
     "alt": [],
-    "ang": "Mongolian",
-    "gwcode": "UNKNOWN",
-    "ln": "\u041c\u043e\u043d\u0433\u043e\u043b \u0445\u044d\u043b"
+    "gwcode": null
 }

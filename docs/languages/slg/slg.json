@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "slg",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5686,
-    "lr": "Asia",
     "lc": "slg",
+    "gw": false,
+    "ln": "Selungai Murut",
+    "ld": "ltr",
+    "ang": "Selungai Murut",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "MY"
@@ -13,7 +15,5 @@
     "alt": [
         "Murut"
     ],
-    "ang": "Selungai Murut",
-    "gwcode": "id",
-    "ln": "Selungai Murut"
+    "gwcode": "id"
 }

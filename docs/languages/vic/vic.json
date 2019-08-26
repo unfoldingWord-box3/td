@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vic",
-    "hc": "VI",
-    "ld": "ltr",
     "pk": 6610,
-    "lr": "Americas",
     "lc": "vic",
+    "gw": false,
+    "ln": "Virgin Islands Creole English",
+    "ld": "ltr",
+    "ang": "Virgin Islands Creole English",
+    "hc": "VI",
+    "lr": "Americas",
     "cc": [
         "AI",
         "DM",
@@ -24,7 +26,5 @@
         "Saba Creole English",
         "Statia Creole English"
     ],
-    "ang": "Virgin Islands Creole English",
-    "gwcode": "en",
-    "ln": "Virgin Islands Creole English"
+    "gwcode": "en"
 }

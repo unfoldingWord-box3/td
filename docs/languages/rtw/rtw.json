@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rtw",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5430,
-    "lr": "Asia",
     "lc": "rtw",
+    "gw": false,
+    "ln": "Rathawi",
+    "ld": "ltr",
+    "ang": "Rathawi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Kohelia",
         "Rathwi"
     ],
-    "ang": "Rathawi",
-    "gwcode": "gu",
-    "ln": "Rathawi"
+    "gwcode": "gu"
 }

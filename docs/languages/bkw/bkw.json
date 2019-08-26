@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bkw",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 751,
-    "lr": "Africa",
     "lc": "bkw",
+    "gw": false,
+    "ln": "Bekwel",
+    "ld": "ltr",
+    "ang": "Bekwel",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "GA",
@@ -23,7 +25,5 @@
         "Ebaa",
         "Mebeeza"
     ],
-    "ang": "Bekwel",
-    "gwcode": "fr",
-    "ln": "Bekwel"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bdn",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 572,
-    "lr": "Africa",
     "lc": "bdn",
+    "gw": false,
+    "ln": "Baldemu",
+    "ld": "ltr",
+    "ang": "Baldemu",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -13,7 +15,5 @@
         "Baldare",
         "Mbazla"
     ],
-    "ang": "Baldemu",
-    "gwcode": "fr",
-    "ln": "Baldemu"
+    "gwcode": "fr"
 }

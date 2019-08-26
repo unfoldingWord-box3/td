@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sag",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 5571,
-    "lr": "Africa",
     "lc": "sg",
+    "gw": false,
+    "ln": "y\u00e2ng\u00e2 t\u00ee s\u00e4ng\u00f6",
+    "ld": "ltr",
+    "ang": "Sango",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF",
         "TD",
@@ -14,7 +16,5 @@
     "alt": [
         "Sangho"
     ],
-    "ang": "Sango",
-    "gwcode": "fr",
-    "ln": "y\u00e2ng\u00e2 t\u00ee s\u00e4ng\u00f6"
+    "gwcode": "fr"
 }

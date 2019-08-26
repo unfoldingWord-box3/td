@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "muq",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 4160,
-    "lr": "Asia",
     "lc": "muq",
+    "gw": false,
+    "ln": "\u4e1c\u90e8\u6b21\u65b9\u8a00",
+    "ld": "ltr",
+    "ang": "Miao, Eastern Xiangxi",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -20,7 +22,5 @@
         "Red Meo",
         "Red Miao"
     ],
-    "ang": "Miao, Eastern Xiangxi",
-    "gwcode": "zh",
-    "ln": "\u4e1c\u90e8\u6b21\u65b9\u8a00"
+    "gwcode": "zh"
 }

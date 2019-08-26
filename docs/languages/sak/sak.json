@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sak",
-    "hc": "GA",
-    "ld": "ltr",
     "pk": 5467,
-    "lr": "Africa",
     "lc": "sak",
+    "gw": false,
+    "ln": "Sake",
+    "ld": "ltr",
+    "ang": "Sake",
+    "hc": "GA",
+    "lr": "Africa",
     "cc": [
         "GA"
     ],
@@ -13,7 +15,5 @@
         "Asake",
         "Shake"
     ],
-    "ang": "Sake",
-    "gwcode": "fr",
-    "ln": "Sake"
+    "gwcode": "fr"
 }

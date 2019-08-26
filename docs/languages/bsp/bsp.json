@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bsp",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 937,
-    "lr": "Africa",
     "lc": "bsp",
+    "gw": false,
+    "ln": "Baga Sitemu",
+    "ld": "ltr",
+    "ang": "Baga Sitemu",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN"
     ],
@@ -16,7 +18,5 @@
         "Stem Baga",
         "Tchitem"
     ],
-    "ang": "Baga Sitemu",
-    "gwcode": "fr",
-    "ln": "Baga Sitemu"
+    "gwcode": "fr"
 }

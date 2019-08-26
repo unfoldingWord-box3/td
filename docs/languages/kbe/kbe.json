@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbe",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2715,
-    "lr": "Pacific",
     "lc": "kbe",
+    "gw": false,
+    "ln": "Kanju",
+    "ld": "ltr",
+    "ang": "Kanju",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -22,7 +24,5 @@
         "Neogulada",
         "Yaldiye-Ho"
     ],
-    "ang": "Kanju",
-    "gwcode": "en",
-    "ln": "Kanju"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nez",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 4402,
-    "lr": "Americas",
     "lc": "nez",
+    "gw": false,
+    "ln": "Nez Perce",
+    "ld": "ltr",
+    "ang": "Nez Perce",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -15,7 +17,5 @@
         "Downriver",
         "Upriver"
     ],
-    "ang": "Nez Perce",
-    "gwcode": "en",
-    "ln": "Nez Perce"
+    "gwcode": "en"
 }

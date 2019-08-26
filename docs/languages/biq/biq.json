@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "biq",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 700,
-    "lr": "Pacific",
     "lc": "biq",
+    "gw": false,
+    "ln": "Bipi",
+    "ld": "ltr",
+    "ang": "Bipi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
     "alt": [
         "Sisi-Bipi"
     ],
-    "ang": "Bipi",
-    "gwcode": "tpi",
-    "ln": "Bipi"
+    "gwcode": "tpi"
 }

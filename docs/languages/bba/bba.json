@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bba",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 508,
-    "lr": "Africa",
     "lc": "bba",
+    "gw": false,
+    "ln": "Baatonum",
+    "ld": "ltr",
+    "ang": "Baatonum",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "BF",
@@ -31,7 +33,5 @@
         "Borgu",
         "Zana"
     ],
-    "ang": "Baatonum",
-    "gwcode": "fr",
-    "ln": "Baatonum"
+    "gwcode": "fr"
 }

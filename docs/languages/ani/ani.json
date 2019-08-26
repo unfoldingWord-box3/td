@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ani",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 266,
-    "lr": "Europe",
     "lc": "ani",
+    "gw": false,
+    "ln": "\u0410\u043d\u0434\u0438\u0439\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Andi",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -21,7 +23,5 @@
         "Lower Andi/South Andi",
         "Upper Andi/North Andi (Andi)"
     ],
-    "ang": "Andi",
-    "gwcode": "ru",
-    "ln": "\u0410\u043d\u0434\u0438\u0439\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

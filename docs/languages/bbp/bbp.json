@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bbp",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 523,
-    "lr": "Africa",
     "lc": "bbp",
+    "gw": false,
+    "ln": "West Central Banda",
+    "ld": "ltr",
+    "ang": "Banda, West Central",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF",
         "SD",
@@ -16,7 +18,5 @@
         "Wojo (Hodjo)",
         "Gbaga-Nord (Gbaga-2)"
     ],
-    "ang": "Banda, West Central",
-    "gwcode": "fr",
-    "ln": "West Central Banda"
+    "gwcode": "fr"
 }

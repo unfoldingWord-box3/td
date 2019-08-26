@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cng",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 1275,
-    "lr": "Asia",
     "lc": "cng",
+    "gw": false,
+    "ln": "Northern Qiang",
+    "ld": "ltr",
+    "ang": "Qiang, Northern",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -13,7 +15,5 @@
         "Ch'iang",
         "Mawo"
     ],
-    "ang": "Qiang, Northern",
-    "gwcode": "zh",
-    "ln": "Northern Qiang"
+    "gwcode": "zh"
 }

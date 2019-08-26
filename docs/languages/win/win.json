@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "win",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 6741,
-    "lr": "Americas",
     "lc": "win",
+    "gw": false,
+    "ln": "Ho-Chunk",
+    "ld": "ltr",
+    "ang": "Ho-Chunk",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -15,7 +17,5 @@
         "Hocank",
         "Hochank"
     ],
-    "ang": "Ho-Chunk",
-    "gwcode": "en",
-    "ln": "Ho-Chunk"
+    "gwcode": "en"
 }

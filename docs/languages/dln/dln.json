@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dln",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1562,
-    "lr": "Asia",
     "lc": "dln",
+    "gw": false,
+    "ln": "Darlong",
+    "ld": "ltr",
+    "ang": "Darlong",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN"
@@ -13,7 +15,5 @@
     "alt": [
         "Dalong"
     ],
-    "ang": "Darlong",
-    "gwcode": "as",
-    "ln": "Darlong"
+    "gwcode": "as"
 }

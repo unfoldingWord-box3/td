@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ots",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4898,
-    "lr": "Americas",
     "lc": "ots",
+    "gw": false,
+    "ln": "Estado de M\u00e9xico Otomi",
+    "ld": "ltr",
+    "ang": "Otomi, Estado de M\u00e9xico",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -16,7 +18,5 @@
         "State of Mexico Otomi",
         "San Felipe Santiago Otom\u00ed"
     ],
-    "ang": "Otomi, Estado de M\u00e9xico",
-    "gwcode": "es-419",
-    "ln": "Estado de M\u00e9xico Otomi"
+    "gwcode": "es-419"
 }

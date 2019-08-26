@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cia",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1208,
-    "lr": "Asia",
     "lc": "cia",
+    "gw": false,
+    "ln": "Cia-Cia",
+    "ld": "ltr",
+    "ang": "Cia-Cia",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -18,7 +20,5 @@
         "Southern Butung",
         "Sampolawa (Mambulu-Laporo)"
     ],
-    "ang": "Cia-Cia",
-    "gwcode": "id",
-    "ln": "Cia-Cia"
+    "gwcode": "id"
 }

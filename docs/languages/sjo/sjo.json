@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sjo",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 5649,
-    "lr": "Asia",
     "lc": "sjo",
+    "gw": false,
+    "ln": "\u9521\u4f2f\u8bed",
+    "ld": "ltr",
+    "ang": "Xibe",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -15,7 +17,5 @@
         "Sibo",
         "Xibo"
     ],
-    "ang": "Xibe",
-    "gwcode": "zh",
-    "ln": "\u9521\u4f2f\u8bed"
+    "gwcode": "zh"
 }

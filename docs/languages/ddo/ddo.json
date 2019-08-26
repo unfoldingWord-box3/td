@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ddo",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 1469,
-    "lr": "Europe",
     "lc": "ddo",
+    "gw": false,
+    "ln": "\u0446\u0435\u0437\u0439\u0430\u0441 \u043c\u0435\u0446",
+    "ld": "ltr",
+    "ang": "Tsez",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -17,7 +19,5 @@
         "Tsuntin",
         "Sahada"
     ],
-    "ang": "Tsez",
-    "gwcode": "ru",
-    "ln": "\u0446\u0435\u0437\u0439\u0430\u0441 \u043c\u0435\u0446"
+    "gwcode": "ru"
 }

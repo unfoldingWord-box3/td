@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lyn",
-    "hc": "ZM",
-    "ld": "ltr",
     "pk": 3654,
-    "lr": "Africa",
     "lc": "lyn",
+    "gw": false,
+    "ln": "Luyana",
+    "ld": "ltr",
+    "ang": "Luyana",
+    "hc": "ZM",
+    "lr": "Africa",
     "cc": [
         "ZM",
         "AO",
@@ -19,7 +21,5 @@
         "Rouyi",
         "Kwanga"
     ],
-    "ang": "Luyana",
-    "gwcode": "en",
-    "ln": "Luyana"
+    "gwcode": "en"
 }

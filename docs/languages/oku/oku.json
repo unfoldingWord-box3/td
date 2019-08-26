@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "oku",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4811,
-    "lr": "Africa",
     "lc": "oku",
+    "gw": false,
+    "ln": "Oku",
+    "ld": "ltr",
+    "ang": "Oku",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -17,7 +19,5 @@
         "Ukfwo",
         "Uku"
     ],
-    "ang": "Oku",
-    "gwcode": "fr",
-    "ln": "Oku"
+    "gwcode": "fr"
 }

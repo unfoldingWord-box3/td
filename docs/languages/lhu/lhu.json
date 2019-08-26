@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lhu",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 3452,
-    "lr": "Asia",
     "lc": "lhu",
+    "gw": false,
+    "ln": "\u62c9\u795c\u8bed",
+    "ld": "ltr",
+    "ang": "Lahu",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "LA",
@@ -44,7 +46,5 @@
         "Khucong",
         "Northern Lahu"
     ],
-    "ang": "Lahu",
-    "gwcode": "zh",
-    "ln": "\u62c9\u795c\u8bed"
+    "gwcode": "zh"
 }

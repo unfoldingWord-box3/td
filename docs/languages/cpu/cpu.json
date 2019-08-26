@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cpu",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 1316,
-    "lr": "Americas",
     "lc": "cpu",
+    "gw": false,
+    "ln": "Pichis Ash\u00e9ninka",
+    "ld": "ltr",
+    "ang": "Ash\u00e9ninka, Pichis",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "BR",
         "PE"
@@ -14,7 +16,5 @@
         "Pichis Ash\u00e9ninca",
         "Pichis Campa"
     ],
-    "ang": "Ash\u00e9ninka, Pichis",
-    "gwcode": "es-419",
-    "ln": "Pichis Ash\u00e9ninka"
+    "gwcode": "es-419"
 }

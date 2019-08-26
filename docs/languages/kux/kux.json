@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kux",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 3204,
-    "lr": "Pacific",
     "lc": "kux",
+    "gw": false,
+    "ln": "Kukatja",
+    "ld": "ltr",
+    "ang": "Kukatja",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Gugadja",
         "Kukaja"
     ],
-    "ang": "Kukatja",
-    "gwcode": "en",
-    "ln": "Kukatja"
+    "gwcode": "en"
 }

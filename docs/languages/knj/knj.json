@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "knj",
-    "hc": "GT",
-    "ld": "ltr",
     "pk": 3022,
-    "lr": "Americas",
     "lc": "knj",
+    "gw": false,
+    "ln": "Western Kanjobal",
+    "ld": "ltr",
+    "ang": "Akateko",
+    "hc": "GT",
+    "lr": "Americas",
     "cc": [
         "GT"
     ],
@@ -19,7 +21,5 @@
         "Western Q'anjob'al",
         "Kanjobal de San Miguel Acat\u00e1n"
     ],
-    "ang": "Akateko",
-    "gwcode": "es-419",
-    "ln": "Western Kanjobal"
+    "gwcode": "es-419"
 }

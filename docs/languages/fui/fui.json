@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fui",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 1888,
-    "lr": "Africa",
     "lc": "fui",
+    "gw": false,
+    "ln": "Bagirmi Fulfulde",
+    "ld": "ltr",
+    "ang": "Fulfulde, Bagirmi",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "CF",
         "TD"
@@ -14,7 +16,5 @@
         "Baghirmi Peul",
         "Bagirmi Fula"
     ],
-    "ang": "Fulfulde, Bagirmi",
-    "gwcode": "ar",
-    "ln": "Bagirmi Fulfulde"
+    "gwcode": "ar"
 }

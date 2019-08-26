@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bhm",
-    "hc": "OM",
-    "ld": "ltr",
     "pk": 671,
-    "lr": "Asia",
     "lc": "bhm",
+    "gw": false,
+    "ln": "\u0644\u063a\u0629 \u0628\u0627\u062b\u0627\u0631\u064a\u0629",
+    "ld": "ltr",
+    "ang": "Bathari",
+    "hc": "OM",
+    "lr": "Asia",
     "cc": [
         "OM"
     ],
@@ -15,7 +17,5 @@
         "Bautahari",
         "Botahari"
     ],
-    "ang": "Bathari",
-    "gwcode": "ar",
-    "ln": "\u0644\u063a\u0629 \u0628\u0627\u062b\u0627\u0631\u064a\u0629"
+    "gwcode": "ar"
 }

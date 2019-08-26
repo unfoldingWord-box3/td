@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xtj",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7063,
-    "lr": "Americas",
     "lc": "xtj",
+    "gw": false,
+    "ln": "San Juan Teita Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, San Juan Teita",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Mixteco de San Juan Teita",
         "Teita Mixtec"
     ],
-    "ang": "Mixtec, San Juan Teita",
-    "gwcode": "es-419",
-    "ln": "San Juan Teita Mixtec"
+    "gwcode": "es-419"
 }

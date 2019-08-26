@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ase",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 361,
-    "lr": "Americas",
     "lc": "ase",
+    "gw": false,
+    "ln": "American Sign Language",
+    "ld": "ltr",
+    "ang": "American Sign Language",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "ML",
         "US",
@@ -16,7 +18,5 @@
         "ASL",
         "Tactile ASL (TASL)"
     ],
-    "ang": "American Sign Language",
-    "gwcode": "en",
-    "ln": "American Sign Language"
+    "gwcode": "en"
 }

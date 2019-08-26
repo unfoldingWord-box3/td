@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mwn",
-    "hc": "ZM",
-    "ld": "ltr",
     "pk": 4203,
-    "lr": "Africa",
     "lc": "mwn",
+    "gw": false,
+    "ln": "Nyamwanga",
+    "ld": "ltr",
+    "ang": "Nyamwanga",
+    "hc": "ZM",
+    "lr": "Africa",
     "cc": [
         "TZ",
         "ZM"
@@ -20,7 +22,5 @@
         "Inamwanga",
         "Tambo (Tembo)"
     ],
-    "ang": "Nyamwanga",
-    "gwcode": "en",
-    "ln": "Nyamwanga"
+    "gwcode": "en"
 }

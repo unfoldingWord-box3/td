@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tbx",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6004,
-    "lr": "Pacific",
     "lc": "tbx",
+    "gw": false,
+    "ln": "Kapin",
+    "ld": "ltr",
+    "ang": "Kapin",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Tayek",
         "Garawa (Gawawa)"
     ],
-    "ang": "Kapin",
-    "gwcode": "tpi",
-    "ln": "Kapin"
+    "gwcode": "tpi"
 }

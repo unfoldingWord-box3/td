@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ndl",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4364,
-    "lr": "Africa",
     "lc": "ndl",
+    "gw": false,
+    "ln": "Ndolo",
+    "ld": "ltr",
+    "ang": "Ndolo",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Ndoolo",
         "Tando"
     ],
-    "ang": "Ndolo",
-    "gwcode": "fr",
-    "ln": "Ndolo"
+    "gwcode": "fr"
 }

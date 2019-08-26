@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "ccl",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 1156,
-    "lr": "Africa",
     "lc": "ccl",
+    "gw": false,
+    "ln": "Cutchi-Swahili",
+    "ld": "ltr",
+    "ang": "Cutchi-Swahili",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
     "alt": [
         "Asian Swahili"
     ],
-    "ang": "Cutchi-Swahili",
-    "gwcode": "sw",
-    "ln": "Cutchi-Swahili"
+    "gwcode": "sw"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aka",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 190,
-    "lr": "Africa",
     "lc": "ak",
+    "gw": false,
+    "ln": "Akan",
+    "ld": "ltr",
+    "ang": "Akan",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -30,7 +32,5 @@
         "Abura Fanti",
         "Asante (Achanti)"
     ],
-    "ang": "Akan",
-    "gwcode": "en",
-    "ln": "Akan"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kby",
-    "hc": "NE",
-    "ld": "ltr",
     "pk": 2734,
-    "lr": "Africa",
     "lc": "kby",
+    "gw": false,
+    "ln": "Manga Kanuri",
+    "ld": "ltr",
+    "ang": "Kanuri, Manga",
+    "hc": "NE",
+    "lr": "Africa",
     "cc": [
         "NE",
         "NG"
@@ -14,7 +16,5 @@
         "Kanouri",
         "Kanoury"
     ],
-    "ang": "Kanuri, Manga",
-    "gwcode": "fr",
-    "ln": "Manga Kanuri"
+    "gwcode": "fr"
 }

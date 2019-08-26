@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bxd",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 1045,
-    "lr": "Asia",
     "lc": "bxd",
+    "gw": false,
+    "ln": "\u6ce2\u62c9",
+    "ld": "ltr",
+    "ang": "Pela",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -15,7 +17,5 @@
         "Pala",
         "Polo"
     ],
-    "ang": "Pela",
-    "gwcode": "zh",
-    "ln": "\u6ce2\u62c9"
+    "gwcode": "zh"
 }

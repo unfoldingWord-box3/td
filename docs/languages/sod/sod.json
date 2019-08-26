@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sod",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 5753,
-    "lr": "Africa",
     "lc": "sod",
+    "gw": false,
+    "ln": "Songoora",
+    "ld": "ltr",
+    "ang": "Songoora",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Songola",
         "Gengele (Kegengele)"
     ],
-    "ang": "Songoora",
-    "gwcode": "fr",
-    "ln": "Songoora"
+    "gwcode": "fr"
 }

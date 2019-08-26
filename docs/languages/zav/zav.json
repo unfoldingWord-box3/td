@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zav",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7351,
-    "lr": "Americas",
     "lc": "zav",
+    "gw": false,
+    "ln": "Yatzachi Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Yatzachi",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Villa Alta Zapotec",
         "Zapoteco de Yatzachi"
     ],
-    "ang": "Zapotec, Yatzachi",
-    "gwcode": "es-419",
-    "ln": "Yatzachi Zapotec"
+    "gwcode": "es-419"
 }

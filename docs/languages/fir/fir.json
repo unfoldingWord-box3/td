@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fir",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1843,
-    "lr": "Africa",
     "lc": "fir",
+    "gw": false,
+    "ln": "Firan",
+    "ld": "ltr",
+    "ang": "Firan",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Foron",
         "Yes Firan"
     ],
-    "ang": "Firan",
-    "gwcode": "en",
-    "ln": "Firan"
+    "gwcode": "en"
 }

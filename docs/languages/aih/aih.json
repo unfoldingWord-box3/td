@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aih",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 167,
-    "lr": "Asia",
     "lc": "aih",
+    "gw": false,
+    "ln": "\u9526\u8bdd",
+    "ld": "ltr",
+    "ang": "Ai-Cham",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -15,7 +17,5 @@
         "Jin",
         "Jinhua"
     ],
-    "ang": "Ai-Cham",
-    "gwcode": "zh",
-    "ln": "\u9526\u8bdd"
+    "gwcode": "zh"
 }

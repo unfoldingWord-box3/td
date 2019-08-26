@@ -3,11 +3,13 @@
 Монгол хэл
 ===================
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/mon>`_ identifies this language as ``mon``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/mon>`__ identifies this language as ``mon``.
 
 This language is spoken in the following countries:
 
 * MN: Mongolia
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -16,7 +18,7 @@ This language is spoken in the following countries:
     anglicanized_name: Mongolian
     country_codes:
     - MN
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: mn
     lang_direction: ltr
     lang_name: Монгол хэл

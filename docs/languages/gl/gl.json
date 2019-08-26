@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "glg",
-    "hc": "ES",
-    "ld": "ltr",
     "pk": 2047,
-    "lr": "Europe",
     "lc": "gl",
+    "gw": false,
+    "ln": "galego",
+    "ld": "ltr",
+    "ang": "Galician",
+    "hc": "ES",
+    "lr": "Europe",
     "cc": [
         "AR",
         "ES",
@@ -17,7 +19,5 @@
         "Rionorese (Rionor\u00eas)",
         "Guadramilese (Guadramil\u00eas)"
     ],
-    "ang": "Galician",
-    "gwcode": "es",
-    "ln": "galego"
+    "gwcode": "es"
 }

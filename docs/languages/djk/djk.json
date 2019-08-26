@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "djk",
-    "hc": "SR",
-    "ld": "ltr",
     "pk": 1548,
-    "lr": "Americas",
     "lc": "djk",
+    "gw": false,
+    "ln": "Eastern Maroon Creole",
+    "ld": "ltr",
+    "ang": "Aukan",
+    "hc": "SR",
+    "lr": "Americas",
     "cc": [
         "GF",
         "GY",
@@ -31,7 +33,5 @@
         "\"Djoeka\"",
         "Ndyuka"
     ],
-    "ang": "Aukan",
-    "gwcode": "UNKNOWN",
-    "ln": "Eastern Maroon Creole"
+    "gwcode": "nl"
 }

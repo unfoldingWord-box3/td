@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vmq",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6639,
-    "lr": "Americas",
     "lc": "vmq",
+    "gw": false,
+    "ln": "Soyaltepec Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Soyaltepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Mixteco de San Bartolo Soyaltepec",
         "Mixteco del Noreste Bajo"
     ],
-    "ang": "Mixtec, Soyaltepec",
-    "gwcode": "es-419",
-    "ln": "Soyaltepec Mixtec"
+    "gwcode": "es-419"
 }

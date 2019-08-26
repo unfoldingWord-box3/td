@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "shi",
-    "hc": "MA",
-    "ld": "ltr",
     "pk": 5599,
-    "lr": "Africa",
     "lc": "shi",
+    "gw": false,
+    "ln": "\u2d5c\u2d30\u2d59\u2d53\u2d59\u2d59\u2d49\u2d5c",
+    "ld": "ltr",
+    "ang": "Tachelhit",
+    "hc": "MA",
+    "lr": "Africa",
     "cc": [
         "DZ",
         "FR",
@@ -26,7 +28,5 @@
         "Sus",
         "Susiua (Sousse)"
     ],
-    "ang": "Tachelhit",
-    "gwcode": "ar",
-    "ln": "\u2d5c\u2d30\u2d59\u2d53\u2d59\u2d59\u2d49\u2d5c"
+    "gwcode": "ar"
 }

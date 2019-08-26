@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pko",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 5055,
-    "lr": "Africa",
     "lc": "pko",
+    "gw": false,
+    "ln": "P\u00f6koot",
+    "ld": "ltr",
+    "ang": "P\u00f6koot",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE",
         "UG"
@@ -18,7 +20,5 @@
         "East Pokot",
         "West Pokot"
     ],
-    "ang": "P\u00f6koot",
-    "gwcode": "sw",
-    "ln": "P\u00f6koot"
+    "gwcode": "sw"
 }

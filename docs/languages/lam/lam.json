@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lam",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3346,
-    "lr": "Africa",
     "lc": "lam",
+    "gw": false,
+    "ln": "Lamba",
+    "ld": "ltr",
+    "ang": "Lamba",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "ZM",
         "CD"
@@ -14,7 +16,5 @@
         "Chilamba",
         "Ichilamba"
     ],
-    "ang": "Lamba",
-    "gwcode": "en",
-    "ln": "Lamba"
+    "gwcode": "en"
 }

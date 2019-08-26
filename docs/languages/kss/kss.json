@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kss",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 3151,
-    "lr": "Africa",
     "lc": "kss",
+    "gw": false,
+    "ln": "Southern Kisi",
+    "ld": "ltr",
+    "ang": "Kisi, Southern",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR",
         "SL"
@@ -17,7 +19,5 @@
         "Kissien",
         "Kisi"
     ],
-    "ang": "Kisi, Southern",
-    "gwcode": "en",
-    "ln": "Southern Kisi"
+    "gwcode": "en"
 }

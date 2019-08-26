@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "myw",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4258,
-    "lr": "Pacific",
     "lc": "myw",
+    "gw": false,
+    "ln": "Muyuw",
+    "ld": "ltr",
+    "ang": "Muyuw",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -19,7 +21,5 @@
         "Muyuwa",
         "Lougaw (Gawa)"
     ],
-    "ang": "Muyuw",
-    "gwcode": "tpi",
-    "ln": "Muyuw"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ypm",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7262,
-    "lr": "Asia",
     "lc": "ypm",
+    "gw": false,
+    "ln": "Phuma",
+    "ld": "ltr",
+    "ang": "Phuma",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -19,7 +21,5 @@
         "Shaoji Phula",
         "Sifter Basket Phula"
     ],
-    "ang": "Phuma",
-    "gwcode": "zh",
-    "ln": "Phuma"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "swb",
-    "hc": "YT",
-    "ld": "ltr",
     "pk": 5904,
-    "lr": "Africa",
     "lc": "swb",
+    "gw": false,
+    "ln": "Maore Comorian",
+    "ld": "ltr",
+    "ang": "Comorian, Maore",
+    "hc": "YT",
+    "lr": "Africa",
     "cc": [
         "FR",
         "MG",
@@ -20,7 +22,5 @@
         "Maore",
         "Comorian"
     ],
-    "ang": "Comorian, Maore",
-    "gwcode": "fr",
-    "ln": "Maore Comorian"
+    "gwcode": "fr"
 }

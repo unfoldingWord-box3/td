@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "blb",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 756,
-    "lr": "Pacific",
     "lc": "blb",
+    "gw": false,
+    "ln": "Bilua",
+    "ld": "ltr",
+    "ang": "Bilua",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -13,7 +15,5 @@
         "Mbilua",
         "Vella Lavella"
     ],
-    "ang": "Bilua",
-    "gwcode": "UNKNOWN",
-    "ln": "Bilua"
+    "gwcode": "pis"
 }

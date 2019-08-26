@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gkn",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2045,
-    "lr": "Africa",
     "lc": "gkn",
+    "gw": false,
+    "ln": "Gokana",
+    "ld": "ltr",
+    "ang": "Gokana",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Bomu",
         "Dere"
     ],
-    "ang": "Gokana",
-    "gwcode": "en",
-    "ln": "Gokana"
+    "gwcode": "en"
 }

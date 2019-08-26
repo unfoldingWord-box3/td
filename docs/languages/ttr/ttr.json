@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ttr",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 6365,
-    "lr": "Africa",
     "lc": "ttr",
+    "gw": false,
+    "ln": "Tera",
+    "ld": "ltr",
+    "ang": "Tera",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -19,7 +21,5 @@
         "Ghuna",
         "Nyimatli (Nimalto)"
     ],
-    "ang": "Tera",
-    "gwcode": "en",
-    "ln": "Tera"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dhn",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1512,
-    "lr": "Asia",
     "lc": "dhn",
+    "gw": false,
+    "ln": "Dhanki",
+    "ld": "ltr",
+    "ang": "Dhanki",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -17,7 +19,5 @@
         "Kakachhu-Ki Boli",
         "Tadvi Bhil"
     ],
-    "ang": "Dhanki",
-    "gwcode": "gu",
-    "ln": "Dhanki"
+    "gwcode": "gu"
 }

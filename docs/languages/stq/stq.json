@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "stq",
-    "hc": "DE",
-    "ld": "ltr",
     "pk": 5867,
-    "lr": "Europe",
     "lc": "stq",
+    "gw": false,
+    "ln": "Saterfriesisch",
+    "ld": "ltr",
+    "ang": "Saterfriesisch",
+    "hc": "DE",
+    "lr": "Europe",
     "cc": [
         "DE"
     ],
@@ -15,7 +17,5 @@
         "Saterlandic Frisian",
         "Saterl\u00e4ndisch"
     ],
-    "ang": "Saterfriesisch",
-    "gwcode": "en",
-    "ln": "Saterfriesisch"
+    "gwcode": "en"
 }

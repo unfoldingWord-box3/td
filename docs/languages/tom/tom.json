@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tom",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6253,
-    "lr": "Asia",
     "lc": "tom",
+    "gw": false,
+    "ln": "Tombulu",
+    "ld": "ltr",
+    "ang": "Tombulu",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Tombulu'",
         "Toumbulu"
     ],
-    "ang": "Tombulu",
-    "gwcode": "id",
-    "ln": "Tombulu"
+    "gwcode": "id"
 }

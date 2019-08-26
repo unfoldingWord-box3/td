@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "iba",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 2403,
-    "lr": "Asia",
     "lc": "iba",
+    "gw": false,
+    "ln": "Iban",
+    "ld": "ltr",
+    "ang": "Iban",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "BN",
         "ID",
@@ -24,7 +26,5 @@
         "Banjur",
         "Maung"
     ],
-    "ang": "Iban",
-    "gwcode": "ms",
-    "ln": "Iban"
+    "gwcode": "ms"
 }

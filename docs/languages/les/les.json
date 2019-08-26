@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "les",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3419,
-    "lr": "Africa",
     "lc": "les",
+    "gw": false,
+    "ln": "Lese",
+    "ld": "ltr",
+    "ang": "Lese",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -21,7 +23,5 @@
         "Arumbi (Upstream Lese)",
         "Ndese (Lese Dese)"
     ],
-    "ang": "Lese",
-    "gwcode": "fr",
-    "ln": "Lese"
+    "gwcode": "fr"
 }

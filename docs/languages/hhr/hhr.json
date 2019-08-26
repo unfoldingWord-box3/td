@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hhr",
-    "hc": "SN",
-    "ld": "ltr",
     "pk": 2262,
-    "lr": "Africa",
     "lc": "hhr",
+    "gw": false,
+    "ln": "Kerak",
+    "ld": "ltr",
+    "ang": "Kerak",
+    "hc": "SN",
+    "lr": "Africa",
     "cc": [
         "SN"
     ],
@@ -14,7 +16,5 @@
         "Keerak",
         "Keeraku"
     ],
-    "ang": "Kerak",
-    "gwcode": "fr",
-    "ln": "Kerak"
+    "gwcode": "fr"
 }

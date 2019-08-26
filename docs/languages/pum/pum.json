@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pum",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5219,
-    "lr": "Asia",
     "lc": "pum",
+    "gw": false,
+    "ln": "\u092a\u0941\u092e\u093e",
+    "ld": "ltr",
+    "ang": "Puma",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Puma La",
         "Puma Pima"
     ],
-    "ang": "Puma",
-    "gwcode": "ne",
-    "ln": "\u092a\u0941\u092e\u093e"
+    "gwcode": "ne"
 }

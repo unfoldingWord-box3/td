@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "blz",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 779,
-    "lr": "Asia",
     "lc": "blz",
+    "gw": false,
+    "ln": "Balantak",
+    "ld": "ltr",
+    "ang": "Balantak",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Balanta",
         "Kosian"
     ],
-    "ang": "Balantak",
-    "gwcode": "id",
-    "ln": "Balantak"
+    "gwcode": "id"
 }

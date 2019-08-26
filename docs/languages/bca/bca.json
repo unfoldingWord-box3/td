@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bca",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 534,
-    "lr": "Asia",
     "lc": "bca",
+    "gw": false,
+    "ln": "\u767d\u8bed",
+    "ld": "ltr",
+    "ang": "Bai, Central",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -20,7 +22,5 @@
         "Eryuan",
         "Yunlong"
     ],
-    "ang": "Bai, Central",
-    "gwcode": "zh",
-    "ln": "\u767d\u8bed"
+    "gwcode": "zh"
 }

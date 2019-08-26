@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "guo",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 2165,
-    "lr": "Americas",
     "lc": "guo",
+    "gw": false,
+    "ln": "Guayabero",
+    "ld": "ltr",
+    "ang": "Guayabero",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -15,7 +17,5 @@
         "M\u00edtua",
         "M\u00edtus"
     ],
-    "ang": "Guayabero",
-    "gwcode": "es-419",
-    "ln": "Guayabero"
+    "gwcode": "es-419"
 }

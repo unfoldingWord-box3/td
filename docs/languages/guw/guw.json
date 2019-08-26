@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "guw",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 2173,
-    "lr": "Africa",
     "lc": "guw",
+    "gw": false,
+    "ln": "Gun",
+    "ld": "ltr",
+    "ang": "Gun",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "GA",
@@ -25,7 +27,5 @@
         "Seto",
         "Toli"
     ],
-    "ang": "Gun",
-    "gwcode": "fr",
-    "ln": "Gun"
+    "gwcode": "fr"
 }

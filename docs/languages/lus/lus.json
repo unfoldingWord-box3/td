@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lus",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3630,
-    "lr": "Asia",
     "lc": "lus",
+    "gw": false,
+    "ln": "Lushai",
+    "ld": "ltr",
+    "ang": "Mizo",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN",
@@ -24,7 +26,5 @@
         "Lusei",
         "Le"
     ],
-    "ang": "Mizo",
-    "gwcode": "en",
-    "ln": "Lushai"
+    "gwcode": "en"
 }

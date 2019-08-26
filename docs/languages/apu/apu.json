@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "apu",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 319,
-    "lr": "Americas",
     "lc": "apu",
+    "gw": false,
+    "ln": "Apurin\u00e3",
+    "ld": "ltr",
+    "ang": "Apurin\u00e3",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Kangite",
         "Popengare"
     ],
-    "ang": "Apurin\u00e3",
-    "gwcode": "pt",
-    "ln": "Apurin\u00e3"
+    "gwcode": "pt"
 }

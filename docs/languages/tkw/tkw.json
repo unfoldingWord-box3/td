@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tkw",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 6168,
-    "lr": "Pacific",
     "lc": "tkw",
+    "gw": false,
+    "ln": "Teanu",
+    "ld": "ltr",
+    "ang": "Teanu",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -13,7 +15,5 @@
         "Buma",
         "Puma"
     ],
-    "ang": "Teanu",
-    "gwcode": "UNKNOWN",
-    "ln": "Teanu"
+    "gwcode": "pis"
 }

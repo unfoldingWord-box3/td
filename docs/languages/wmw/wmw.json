@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wmw",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 6774,
-    "lr": "Africa",
     "lc": "wmw",
+    "gw": false,
+    "ln": "Mwani",
+    "ld": "ltr",
+    "ang": "Mwani",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ"
     ],
@@ -20,7 +22,5 @@
         "Quissanga",
         "Wibo (Kiwibo)"
     ],
-    "ang": "Mwani",
-    "gwcode": "pt",
-    "ln": "Mwani"
+    "gwcode": "pt"
 }

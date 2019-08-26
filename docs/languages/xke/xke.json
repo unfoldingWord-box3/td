@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xke",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6935,
-    "lr": "Asia",
     "lc": "xke",
+    "gw": false,
+    "ln": "Kereho",
+    "ld": "ltr",
+    "ang": "Kereho",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Seputan",
         "Uheng (Kereho-Uheng)"
     ],
-    "ang": "Kereho",
-    "gwcode": "id",
-    "ln": "Kereho"
+    "gwcode": "id"
 }

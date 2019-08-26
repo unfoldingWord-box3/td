@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "clu",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 1258,
-    "lr": "Asia",
     "lc": "clu",
+    "gw": false,
+    "ln": "Caluyanun",
+    "ld": "ltr",
+    "ang": "Caluyanun",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Caluyanen",
         "Caluyanhon"
     ],
-    "ang": "Caluyanun",
-    "gwcode": "tl",
-    "ln": "Caluyanun"
+    "gwcode": "tl"
 }

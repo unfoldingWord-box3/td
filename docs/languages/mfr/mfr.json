@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mfr",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 3794,
-    "lr": "Pacific",
     "lc": "mfr",
+    "gw": false,
+    "ln": "Marithiel",
+    "ld": "ltr",
+    "ang": "Marithiel",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -18,7 +20,5 @@
         "Brinken",
         "Mare-Ammu (Mari-Ammu)"
     ],
-    "ang": "Marithiel",
-    "gwcode": "en",
-    "ln": "Marithiel"
+    "gwcode": "en"
 }

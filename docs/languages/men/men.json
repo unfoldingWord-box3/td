@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "men",
-    "hc": "SL",
-    "ld": "ltr",
     "pk": 3765,
-    "lr": "Africa",
     "lc": "men",
+    "gw": false,
+    "ln": "Mende (Sierra Leone)",
+    "ld": "ltr",
+    "ang": "Mende",
+    "hc": "SL",
+    "lr": "Africa",
     "cc": [
         "LR",
         "US",
@@ -17,7 +19,5 @@
         "Kossa",
         "Kosso"
     ],
-    "ang": "Mende",
-    "gwcode": "en",
-    "ln": "Mende (Sierra Leone)"
+    "gwcode": "en"
 }

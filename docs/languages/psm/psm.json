@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "psm",
-    "hc": "BO",
-    "ld": "ltr",
     "pk": 5186,
-    "lr": "Americas",
     "lc": "psm",
+    "gw": false,
+    "ln": "Pauserna",
+    "ld": "ltr",
+    "ang": "Pauserna",
+    "hc": "BO",
+    "lr": "Americas",
     "cc": [
         "BO"
     ],
@@ -14,7 +16,5 @@
         "Paucerne",
         "Pauserna-Guarasugw\u00e9"
     ],
-    "ang": "Pauserna",
-    "gwcode": "es-419",
-    "ln": "Pauserna"
+    "gwcode": "es-419"
 }

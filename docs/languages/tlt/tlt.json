@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tlt",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6190,
-    "lr": "Asia",
     "lc": "tlt",
+    "gw": false,
+    "ln": "Teluti",
+    "ld": "ltr",
+    "ang": "Teluti",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -18,7 +20,5 @@
         "Tehua",
         "West Teluti (Haya)"
     ],
-    "ang": "Teluti",
-    "gwcode": "id",
-    "ln": "Teluti"
+    "gwcode": "id"
 }

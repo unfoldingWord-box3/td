@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "njl",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 4484,
-    "lr": "Africa",
     "lc": "njl",
+    "gw": false,
+    "ln": "Njalgulgule",
+    "ld": "ltr",
+    "ang": "Njalgulgule",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -18,7 +20,5 @@
         "Nyolge",
         "Nyoolne"
     ],
-    "ang": "Njalgulgule",
-    "gwcode": "ar",
-    "ln": "Njalgulgule"
+    "gwcode": "ar"
 }

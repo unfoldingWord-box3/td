@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbb",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 2712,
-    "lr": "Americas",
     "lc": "kbb",
+    "gw": false,
+    "ln": "Kaxui\u00e2na",
+    "ld": "ltr",
+    "ang": "Kaxui\u00e2na",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -18,7 +20,5 @@
         "Warikiana",
         "Warikyana"
     ],
-    "ang": "Kaxui\u00e2na",
-    "gwcode": "pt",
-    "ln": "Kaxui\u00e2na"
+    "gwcode": "pt"
 }

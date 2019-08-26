@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ssy",
-    "hc": "ER",
-    "ld": "ltr",
     "pk": 5849,
-    "lr": "Africa",
     "lc": "ssy",
+    "gw": false,
+    "ln": "Saho",
+    "ld": "ltr",
+    "ang": "Saho",
+    "hc": "ER",
+    "lr": "Africa",
     "cc": [
         "ER",
         "ET"
@@ -16,7 +18,5 @@
         "Shiho",
         "Shoho"
     ],
-    "ang": "Saho",
-    "gwcode": "ar",
-    "ln": "Saho"
+    "gwcode": "ar"
 }

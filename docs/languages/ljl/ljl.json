@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ljl",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3478,
-    "lr": "Asia",
     "lc": "ljl",
+    "gw": false,
+    "ln": "Li'o",
+    "ld": "ltr",
+    "ang": "Li\u2019o",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Lionese",
         "Tanah Kunu"
     ],
-    "ang": "Li\u2019o",
-    "gwcode": "id",
-    "ln": "Li'o"
+    "gwcode": "id"
 }

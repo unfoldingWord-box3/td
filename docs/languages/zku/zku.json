@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "zku",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7399,
-    "lr": "Pacific",
     "lc": "zku",
+    "gw": false,
+    "ln": "Kaurna",
+    "ld": "ltr",
+    "ang": "Kaurna",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
     "alt": [],
-    "ang": "Kaurna",
-    "gwcode": "UNKNOWN",
-    "ln": "Kaurna"
+    "gwcode": null
 }

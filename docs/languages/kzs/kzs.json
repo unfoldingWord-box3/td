@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kzs",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 3325,
-    "lr": "Asia",
     "lc": "kzs",
+    "gw": false,
+    "ln": "Sugut Dusun",
+    "ld": "ltr",
+    "ang": "Dusun, Sugut",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -17,7 +19,5 @@
         "Tanggal",
         "Tilau-Ilau"
     ],
-    "ang": "Dusun, Sugut",
-    "gwcode": "ms",
-    "ln": "Sugut Dusun"
+    "gwcode": "ms"
 }

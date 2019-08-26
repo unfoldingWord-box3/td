@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bzf",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1088,
-    "lr": "Pacific",
     "lc": "bzf",
+    "gw": false,
+    "ln": "Boikin",
+    "ld": "ltr",
+    "ang": "Boikin",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Nucum",
         "Yengoru"
     ],
-    "ang": "Boikin",
-    "gwcode": "tpi",
-    "ln": "Boikin"
+    "gwcode": "tpi"
 }

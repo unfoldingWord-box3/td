@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tli",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 6179,
-    "lr": "Americas",
     "lc": "tli",
+    "gw": false,
+    "ln": "Tlingit",
+    "ld": "ltr",
+    "ang": "Tlingit",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US",
         "CA"
@@ -15,7 +17,5 @@
         "Kolosh",
         "Tlinkit"
     ],
-    "ang": "Tlingit",
-    "gwcode": "en",
-    "ln": "Tlingit"
+    "gwcode": "en"
 }

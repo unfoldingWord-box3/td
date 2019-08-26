@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mcv",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3723,
-    "lr": "Pacific",
     "lc": "mcv",
+    "gw": false,
+    "ln": "Minanibai",
+    "ld": "ltr",
+    "ang": "Minanibai",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Hei",
         "Pepeha"
     ],
-    "ang": "Minanibai",
-    "gwcode": "tpi",
-    "ln": "Minanibai"
+    "gwcode": "tpi"
 }

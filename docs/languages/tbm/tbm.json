@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tbm",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 5995,
-    "lr": "Africa",
     "lc": "tbm",
+    "gw": false,
+    "ln": "Tagbu",
+    "ld": "ltr",
+    "ang": "Tagbu",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -13,7 +15,5 @@
         "Tagba",
         "Tagbo"
     ],
-    "ang": "Tagbu",
-    "gwcode": "fr",
-    "ln": "Tagbu"
+    "gwcode": "fr"
 }

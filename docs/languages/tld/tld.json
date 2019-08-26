@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tld",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6175,
-    "lr": "Asia",
     "lc": "tld",
+    "gw": false,
+    "ln": "Talaud",
+    "ld": "ltr",
+    "ang": "Talaud",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -19,7 +21,5 @@
         "Karakelong",
         "Lirang (Salebabu)"
     ],
-    "ang": "Talaud",
-    "gwcode": "id",
-    "ln": "Talaud"
+    "gwcode": "id"
 }

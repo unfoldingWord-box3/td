@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "asg",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 363,
-    "lr": "Africa",
     "lc": "asg",
+    "gw": false,
+    "ln": "Cishingini",
+    "ld": "ltr",
+    "ang": "Cishingini",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -22,7 +24,5 @@
         "Maunchi",
         "Mawanchi"
     ],
-    "ang": "Cishingini",
-    "gwcode": "en",
-    "ln": "Cishingini"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "mar",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4070,
-    "lr": "Asia",
     "lc": "mr",
+    "gw": true,
+    "ln": "\u092e\u0930\u093e\u0920\u0940",
+    "ld": "ltr",
+    "ang": "Marathi (Mar\u0101\u1e6dh\u012b)",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IL",
         "US",
@@ -25,7 +27,5 @@
         "Nagpuri Marathi",
         "Kasargod"
     ],
-    "ang": "Marathi (Mar\u0101\u1e6dh\u012b)",
-    "gwcode": "UNKNOWN",
-    "ln": "\u092e\u0930\u093e\u0920\u0940"
+    "gwcode": null
 }

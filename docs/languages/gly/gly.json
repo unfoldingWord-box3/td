@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gly",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 2057,
-    "lr": "Africa",
     "lc": "gly",
+    "gw": false,
+    "ln": "Gule",
+    "ld": "ltr",
+    "ang": "Gule",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -14,7 +16,5 @@
         "Fecakomodiyo",
         "Hamej"
     ],
-    "ang": "Gule",
-    "gwcode": "ar",
-    "ln": "Gule"
+    "gwcode": "ar"
 }

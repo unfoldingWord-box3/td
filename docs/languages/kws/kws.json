@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kws",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3252,
-    "lr": "Africa",
     "lc": "kws",
+    "gw": false,
+    "ln": "Kwese",
+    "ld": "ltr",
+    "ang": "Kwese",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Pindi",
         "Ukwese"
     ],
-    "ang": "Kwese",
-    "gwcode": "fr",
-    "ln": "Kwese"
+    "gwcode": "fr"
 }

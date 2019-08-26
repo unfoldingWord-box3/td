@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bsa",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 924,
-    "lr": "Asia",
     "lc": "bsa",
+    "gw": false,
+    "ln": "Abinomn",
+    "ld": "ltr",
+    "ang": "Abinomn",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Foya",
         "Baso"
     ],
-    "ang": "Abinomn",
-    "gwcode": "id",
-    "ln": "Abinomn"
+    "gwcode": "id"
 }

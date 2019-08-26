@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pmf",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5086,
-    "lr": "Asia",
     "lc": "pmf",
+    "gw": false,
+    "ln": "Pamona",
+    "ld": "ltr",
+    "ang": "Pamona",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -20,7 +22,5 @@
         "Laiwonu (Iba)",
         "Rapangkaka (Aria)"
     ],
-    "ang": "Pamona",
-    "gwcode": "id",
-    "ln": "Pamona"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bnx",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 827,
-    "lr": "Africa",
     "lc": "bnx",
+    "gw": false,
+    "ln": "Bangubangu",
+    "ld": "ltr",
+    "ang": "Bangubangu",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Nonda",
         "Sanzi"
     ],
-    "ang": "Bangubangu",
-    "gwcode": "fr",
-    "ln": "Bangubangu"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nuo",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 4687,
-    "lr": "Asia",
     "lc": "nuo",
+    "gw": false,
+    "ln": "Ti\u1ebfng Ngu\u1ed3n",
+    "ld": "ltr",
+    "ang": "Ngu\u00f4n",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "LA",
         "VN"
@@ -13,7 +15,5 @@
     "alt": [
         "Ngouan"
     ],
-    "ang": "Ngu\u00f4n",
-    "gwcode": "vi",
-    "ln": "Ti\u1ebfng Ngu\u1ed3n"
+    "gwcode": "vi"
 }

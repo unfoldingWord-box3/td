@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lzl",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 3656,
-    "lr": "Pacific",
     "lc": "lzl",
+    "gw": false,
+    "ln": "Litzlitz",
+    "ld": "ltr",
+    "ang": "Litzlitz",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -16,7 +18,5 @@
         "Naman",
         "Netensal"
     ],
-    "ang": "Litzlitz",
-    "gwcode": "fr",
-    "ln": "Litzlitz"
+    "gwcode": "fr"
 }

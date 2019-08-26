@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ymi",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7226,
-    "lr": "Asia",
     "lc": "ymi",
+    "gw": false,
+    "ln": "Moji",
+    "ld": "ltr",
+    "ang": "Moji",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -17,7 +19,5 @@
         "Pingtou Phula",
         "Luchaichong"
     ],
-    "ang": "Moji",
-    "gwcode": "zh",
-    "ln": "Moji"
+    "gwcode": "zh"
 }

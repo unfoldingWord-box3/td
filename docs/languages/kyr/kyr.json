@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kyr",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 3300,
-    "lr": "Americas",
     "lc": "kyr",
+    "gw": false,
+    "ln": "Kuru\u00e1ya",
+    "ld": "ltr",
+    "ang": "Kuru\u00e1ya",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Curuaia",
         "Kuruaia"
     ],
-    "ang": "Kuru\u00e1ya",
-    "gwcode": "pt",
-    "ln": "Kuru\u00e1ya"
+    "gwcode": "pt"
 }

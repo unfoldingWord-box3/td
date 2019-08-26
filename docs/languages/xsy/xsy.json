@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xsy",
-    "hc": "TW",
-    "ld": "ltr",
     "pk": 7054,
-    "lr": "Asia",
     "lc": "xsy",
+    "gw": false,
+    "ln": "Saisiyat",
+    "ld": "ltr",
+    "ang": "Saisiyat",
+    "hc": "TW",
+    "lr": "Asia",
     "cc": [
         "TW"
     ],
@@ -22,7 +24,5 @@
         "Taai (North Saiset)",
         "Tungho (South Saiset)"
     ],
-    "ang": "Saisiyat",
-    "gwcode": "zh",
-    "ln": "Saisiyat"
+    "gwcode": "zh"
 }

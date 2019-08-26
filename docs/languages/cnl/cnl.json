@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cnl",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 1279,
-    "lr": "Americas",
     "lc": "cnl",
+    "gw": false,
+    "ln": "Lalana Chinantec",
+    "ld": "ltr",
+    "ang": "Chinantec, Lalana",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Chinanteco de San Juan Lalana",
         "Chinanteco del Sureste Bajo"
     ],
-    "ang": "Chinantec, Lalana",
-    "gwcode": "es-419",
-    "ln": "Lalana Chinantec"
+    "gwcode": "es-419"
 }

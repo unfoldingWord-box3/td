@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mfz",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 3801,
-    "lr": "Africa",
     "lc": "mfz",
+    "gw": false,
+    "ln": "Mabaan",
+    "ld": "ltr",
+    "ang": "Mabaan",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SS"
@@ -20,7 +22,5 @@
         "Tungan",
         "Ulu"
     ],
-    "ang": "Mabaan",
-    "gwcode": "ar",
-    "ln": "Mabaan"
+    "gwcode": "ar"
 }

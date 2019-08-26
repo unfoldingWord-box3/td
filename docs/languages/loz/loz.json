@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "loz",
-    "hc": "ZM",
-    "ld": "ltr",
     "pk": 3573,
-    "lr": "Africa",
     "lc": "loz",
+    "gw": false,
+    "ln": "Lozi",
+    "ld": "ltr",
+    "ang": "Lozi",
+    "hc": "ZM",
+    "lr": "Africa",
     "cc": [
         "ZM",
         "ZW",
@@ -21,7 +23,5 @@
         "Tozvi",
         "Rotvi"
     ],
-    "ang": "Lozi",
-    "gwcode": "en",
-    "ln": "Lozi"
+    "gwcode": "en"
 }

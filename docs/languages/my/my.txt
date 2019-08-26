@@ -3,7 +3,7 @@
 ဗမာစာ
 ===============
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/mya>`_ identifies this language as ``mya``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/mya>`__ identifies this language as ``mya``.
 
 This language is spoken in the following countries:
 
@@ -19,6 +19,8 @@ This language is spoken in the following countries:
 * CA: Canada
 * IN: India
 * MM: Myanmar
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -47,7 +49,7 @@ This language is spoken in the following countries:
     - CA
     - IN
     - MM
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: my
     lang_direction: ltr
     lang_name: ဗမာစာ

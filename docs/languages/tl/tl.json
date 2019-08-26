@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "tgl",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 6171,
-    "lr": "Asia",
     "lc": "tl",
+    "gw": true,
+    "ln": "Wikang Tagalog",
+    "ld": "ltr",
+    "ang": "Tagalog",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "DE",
         "ES",
@@ -24,7 +26,5 @@
     "alt": [
         "Puray"
     ],
-    "ang": "Tagalog",
-    "gwcode": "tl",
-    "ln": "Wikang Tagalog"
+    "gwcode": "tl"
 }

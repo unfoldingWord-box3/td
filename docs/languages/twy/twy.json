@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "twy",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6423,
-    "lr": "Asia",
     "lc": "twy",
+    "gw": false,
+    "ln": "Tawoyan",
+    "ld": "ltr",
+    "ang": "Tawoyan",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Tawoyan Dayak",
         "Tewoyan"
     ],
-    "ang": "Tawoyan",
-    "gwcode": "id",
-    "ln": "Tawoyan"
+    "gwcode": "id"
 }

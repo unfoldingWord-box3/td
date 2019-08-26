@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lij",
-    "hc": "IT",
-    "ld": "ltr",
     "pk": 3462,
-    "lr": "Europe",
     "lc": "lij",
+    "gw": false,
+    "ln": "Ligurian",
+    "ld": "ltr",
+    "ang": "Ligurian",
+    "hc": "IT",
+    "lr": "Europe",
     "cc": [
         "MC",
         "IT"
@@ -18,7 +20,5 @@
         "Mon\u00e9gasque (Munegasc)",
         "Ventimigliese"
     ],
-    "ang": "Ligurian",
-    "gwcode": "en",
-    "ln": "Ligurian"
+    "gwcode": "en"
 }

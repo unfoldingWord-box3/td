@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "doc",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 1595,
-    "lr": "Asia",
     "lc": "doc",
+    "gw": false,
+    "ln": "\u5317\u4f97\u8a9e",
+    "ld": "ltr",
+    "ang": "Dong, Northern",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -16,7 +18,5 @@
         "Tung",
         "Tung-Chia"
     ],
-    "ang": "Dong, Northern",
-    "gwcode": "zh",
-    "ln": "\u5317\u4f97\u8a9e"
+    "gwcode": "zh"
 }

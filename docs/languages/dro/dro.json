@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dro",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 1623,
-    "lr": "Asia",
     "lc": "dro",
+    "gw": false,
+    "ln": "Daro-Matu Melanau",
+    "ld": "ltr",
+    "ang": "Melanau, Daro-Matu",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -14,7 +16,5 @@
         "Ngaleng",
         "Matu (Langle-Tamtlaih)"
     ],
-    "ang": "Melanau, Daro-Matu",
-    "gwcode": "ms",
-    "ln": "Daro-Matu Melanau"
+    "gwcode": "ms"
 }

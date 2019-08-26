@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tae",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 5967,
-    "lr": "Americas",
     "lc": "tae",
+    "gw": false,
+    "ln": "Tariana",
+    "ld": "ltr",
+    "ang": "Tariana",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "CO"
@@ -17,7 +19,5 @@
         "Tar\u00eena",
         "Tari\u00e1na"
     ],
-    "ang": "Tariana",
-    "gwcode": "pt",
-    "ln": "Tariana"
+    "gwcode": "pt"
 }

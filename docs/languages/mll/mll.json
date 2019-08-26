@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mll",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 3936,
-    "lr": "Pacific",
     "lc": "mll",
+    "gw": false,
+    "ln": "Malua Bay",
+    "ld": "ltr",
+    "ang": "Malua Bay",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -13,7 +15,5 @@
         "Espiegle Bay",
         "Middle Nambas"
     ],
-    "ang": "Malua Bay",
-    "gwcode": "fr",
-    "ln": "Malua Bay"
+    "gwcode": "fr"
 }

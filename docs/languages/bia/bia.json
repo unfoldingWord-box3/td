@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bia",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 686,
-    "lr": "Pacific",
     "lc": "bia",
+    "gw": false,
+    "ln": "Badimaya",
+    "ld": "ltr",
+    "ang": "Badimaya",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Parti-Maya",
         "Widimaya"
     ],
-    "ang": "Badimaya",
-    "gwcode": "en",
-    "ln": "Badimaya"
+    "gwcode": "en"
 }

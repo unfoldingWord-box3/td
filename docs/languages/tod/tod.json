@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tod",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 6246,
-    "lr": "Africa",
     "lc": "tod",
+    "gw": false,
+    "ln": "Toma",
+    "ld": "ltr",
+    "ang": "Toma",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN"
     ],
@@ -23,7 +25,5 @@
         "Gizima",
         "Weima"
     ],
-    "ang": "Toma",
-    "gwcode": "fr",
-    "ln": "Toma"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tsz",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6346,
-    "lr": "Americas",
     "lc": "tsz",
+    "gw": false,
+    "ln": "Purepecha",
+    "ld": "ltr",
+    "ang": "Purepecha",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX",
         "US"
@@ -28,7 +30,5 @@
         "Puacuaro",
         "San Jeronimo"
     ],
-    "ang": "Purepecha",
-    "gwcode": "es-419",
-    "ln": "Purepecha"
+    "gwcode": "es-419"
 }

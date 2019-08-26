@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "daq",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1433,
-    "lr": "Asia",
     "lc": "daq",
+    "gw": false,
+    "ln": "Dandami Maria",
+    "ld": "ltr",
+    "ang": "Maria, Dandami",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -17,7 +19,5 @@
         "Madiya",
         "Maria Gond"
     ],
-    "ang": "Maria, Dandami",
-    "gwcode": "UNKNOWN",
-    "ln": "Dandami Maria"
+    "gwcode": "hne"
 }

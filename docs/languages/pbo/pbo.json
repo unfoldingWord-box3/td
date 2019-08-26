@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pbo",
-    "hc": "GW",
-    "ld": "ltr",
     "pk": 4948,
-    "lr": "Africa",
     "lc": "pbo",
+    "gw": false,
+    "ln": "Papel",
+    "ld": "ltr",
+    "ang": "Papel",
+    "hc": "GW",
+    "lr": "Africa",
     "cc": [
         "SN",
         "GW"
@@ -16,7 +18,5 @@
         "Papei",
         "Pepel"
     ],
-    "ang": "Papel",
-    "gwcode": "pt",
-    "ln": "Papel"
+    "gwcode": "pt"
 }

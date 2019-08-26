@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "oub",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 4905,
-    "lr": "Africa",
     "lc": "oub",
+    "gw": false,
+    "ln": "Glio-Oubi",
+    "ld": "ltr",
+    "ang": "Glio-Oubi",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR"
     ],
@@ -13,7 +15,5 @@
         "Oubi",
         "Ubi"
     ],
-    "ang": "Glio-Oubi",
-    "gwcode": "en",
-    "ln": "Glio-Oubi"
+    "gwcode": "en"
 }

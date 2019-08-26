@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ygp",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7171,
-    "lr": "Asia",
     "lc": "ygp",
+    "gw": false,
+    "ln": "\u845b\u6cfc\u8bed",
+    "ld": "ltr",
+    "ang": "Gepo",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -20,7 +22,5 @@
         "Nasu",
         "Pingtouyi"
     ],
-    "ang": "Gepo",
-    "gwcode": "zh",
-    "ln": "\u845b\u6cfc\u8bed"
+    "gwcode": "zh"
 }

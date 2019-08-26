@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yby",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 7148,
-    "lr": "Pacific",
     "lc": "yby",
+    "gw": false,
+    "ln": "Yaweyuha",
+    "ld": "ltr",
+    "ang": "Yaweyuha",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Yabiyufa",
         "Yawiyuha"
     ],
-    "ang": "Yaweyuha",
-    "gwcode": "tpi",
-    "ln": "Yaweyuha"
+    "gwcode": "tpi"
 }

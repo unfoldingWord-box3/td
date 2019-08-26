@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kvj",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3217,
-    "lr": "Africa",
     "lc": "kvj",
+    "gw": false,
+    "ln": "Psikye",
+    "ld": "ltr",
+    "ang": "Psikye",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -19,7 +21,5 @@
         "Psikye (Kamu)",
         "Oula"
     ],
-    "ang": "Psikye",
-    "gwcode": "fr",
-    "ln": "Psikye"
+    "gwcode": "fr"
 }

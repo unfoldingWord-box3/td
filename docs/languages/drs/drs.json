@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "drs",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 1625,
-    "lr": "Africa",
     "lc": "drs",
+    "gw": false,
+    "ln": "Gedeo",
+    "ld": "ltr",
+    "ang": "Gedeo",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -17,7 +19,5 @@
         "Deresa",
         "Geddeo"
     ],
-    "ang": "Gedeo",
-    "gwcode": "am",
-    "ln": "Gedeo"
+    "gwcode": "am"
 }

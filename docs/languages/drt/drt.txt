@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * NL: Netherlands
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: drt
@@ -17,7 +19,7 @@ This language is spoken in the following countries:
     anglicanized_name: Drents
     country_codes:
     - NL
-    gateway_language: UNKNOWN
+    gateway_language: nl
     lang_code: drt
     lang_direction: ltr
     lang_name: Drents

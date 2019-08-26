@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "liu",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 3470,
-    "lr": "Africa",
     "lc": "liu",
+    "gw": false,
+    "ln": "Logorik",
+    "ld": "ltr",
+    "ang": "Logorik",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -13,7 +15,5 @@
         "Tallau (Talau)",
         "Talo"
     ],
-    "ang": "Logorik",
-    "gwcode": "ar",
-    "ln": "Logorik"
+    "gwcode": "ar"
 }

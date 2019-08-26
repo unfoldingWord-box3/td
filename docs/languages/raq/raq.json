@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "raq",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5320,
-    "lr": "Asia",
     "lc": "raq",
+    "gw": false,
+    "ln": "Saam",
+    "ld": "ltr",
+    "ang": "Saam",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Saama Kha",
         "Samakha"
     ],
-    "ang": "Saam",
-    "gwcode": "ne",
-    "ln": "Saam"
+    "gwcode": "ne"
 }

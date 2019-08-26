@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bfl",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 620,
-    "lr": "Africa",
     "lc": "bfl",
+    "gw": false,
+    "ln": "Banda-Nd\u00e9l\u00e9",
+    "ld": "ltr",
+    "ang": "Banda-Nd\u00e9l\u00e9",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF",
         "SS"
@@ -23,7 +25,5 @@
         "Banda-Nd\u00e9l\u00e9",
         "Nguru"
     ],
-    "ang": "Banda-Nd\u00e9l\u00e9",
-    "gwcode": "fr",
-    "ln": "Banda-Nd\u00e9l\u00e9"
+    "gwcode": "fr"
 }

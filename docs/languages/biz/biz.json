@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "biz",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 708,
-    "lr": "Africa",
     "lc": "biz",
+    "gw": false,
+    "ln": "Baloi",
+    "ld": "ltr",
+    "ang": "Baloi",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Rebu",
         "Dzamba (Jamba)"
     ],
-    "ang": "Baloi",
-    "gwcode": "fr",
-    "ln": "Baloi"
+    "gwcode": "fr"
 }

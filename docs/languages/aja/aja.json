@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aja",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 182,
-    "lr": "Africa",
     "lc": "aja",
+    "gw": false,
+    "ln": "Aja (Sudan)",
+    "ld": "ltr",
+    "ang": "Aja",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -13,7 +15,5 @@
         "Adja",
         "Ajja"
     ],
-    "ang": "Aja",
-    "gwcode": "ar",
-    "ln": "Aja (Sudan)"
+    "gwcode": "ar"
 }

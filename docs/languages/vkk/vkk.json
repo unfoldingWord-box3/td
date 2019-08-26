@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vkk",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6620,
-    "lr": "Asia",
     "lc": "vkk",
+    "gw": false,
+    "ln": "Kaur",
+    "ld": "ltr",
+    "ang": "Kaur",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Ka'ur",
         "Mulak"
     ],
-    "ang": "Kaur",
-    "gwcode": "id",
-    "ln": "Kaur"
+    "gwcode": "id"
 }

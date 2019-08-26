@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "txx",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 6440,
-    "lr": "Asia",
     "lc": "txx",
+    "gw": false,
+    "ln": "Tatana",
+    "ld": "ltr",
+    "ang": "Tatana",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -13,7 +15,5 @@
         "Tatana'",
         "Tatanaq"
     ],
-    "ang": "Tatana",
-    "gwcode": "ms",
-    "ln": "Tatana"
+    "gwcode": "ms"
 }

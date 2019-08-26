@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kja",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2907,
-    "lr": "Asia",
     "lc": "kja",
+    "gw": false,
+    "ln": "Mlap",
+    "ld": "ltr",
+    "ang": "Mlap",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Kwansu-Bonggrang",
         "Malf"
     ],
-    "ang": "Mlap",
-    "gwcode": "id",
-    "ln": "Mlap"
+    "gwcode": "id"
 }

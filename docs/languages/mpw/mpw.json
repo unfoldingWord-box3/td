@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mpw",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4042,
-    "lr": "Americas",
     "lc": "mpw",
+    "gw": false,
+    "ln": "Mapidian",
+    "ld": "ltr",
+    "ang": "Mapidian",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "Maiopitian",
         "Maopityan"
     ],
-    "ang": "Mapidian",
-    "gwcode": "pt",
-    "ln": "Mapidian"
+    "gwcode": "pt"
 }

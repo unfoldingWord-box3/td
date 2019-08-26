@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mua",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 4146,
-    "lr": "Africa",
     "lc": "mua",
+    "gw": false,
+    "ln": "Mundang",
+    "ld": "ltr",
+    "ang": "Mundang",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "CM",
         "TD"
@@ -27,7 +29,5 @@
         "Zasing (Djasing)",
         "Mbana"
     ],
-    "ang": "Mundang",
-    "gwcode": "ar",
-    "ln": "Mundang"
+    "gwcode": "ar"
 }

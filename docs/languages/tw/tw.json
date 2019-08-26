@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "twi",
-    "hc": "TG",
-    "ld": "ltr",
     "pk": 6403,
-    "lr": "Africa",
     "lc": "tw",
+    "gw": false,
+    "ln": "Twi",
+    "ld": "ltr",
+    "ang": "Twi",
+    "hc": "TG",
+    "lr": "Africa",
     "cc": [
         "GH",
         "LR",
@@ -13,7 +15,5 @@
         "TG"
     ],
     "alt": [],
-    "ang": "Twi",
-    "gwcode": "en",
-    "ln": "Twi"
+    "gwcode": "en"
 }

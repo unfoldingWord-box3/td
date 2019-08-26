@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bkc",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 732,
-    "lr": "Africa",
     "lc": "bkc",
+    "gw": false,
+    "ln": "Baka (Cameroon)",
+    "ld": "ltr",
+    "ang": "Baka",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "GA"
@@ -18,7 +20,5 @@
         "Pygmees Baka",
         "Pygmees de l'Est"
     ],
-    "ang": "Baka",
-    "gwcode": "fr",
-    "ln": "Baka (Cameroon)"
+    "gwcode": "fr"
 }

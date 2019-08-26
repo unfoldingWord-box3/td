@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ybn",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 7145,
-    "lr": "Americas",
     "lc": "ybn",
+    "gw": false,
+    "ln": "Yaba\u00e2na",
+    "ld": "ltr",
+    "ang": "Yaba\u00e2na",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -13,7 +15,5 @@
         "Jabaana",
         "Yabarana"
     ],
-    "ang": "Yaba\u00e2na",
-    "gwcode": "pt",
-    "ln": "Yaba\u00e2na"
+    "gwcode": "pt"
 }

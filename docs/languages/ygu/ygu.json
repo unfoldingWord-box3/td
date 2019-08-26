@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ygu",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7174,
-    "lr": "Pacific",
     "lc": "ygu",
+    "gw": false,
+    "ln": "Yugul",
+    "ld": "ltr",
+    "ang": "Yugul",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -18,7 +20,5 @@
         "Yookull",
         "Yukul"
     ],
-    "ang": "Yugul",
-    "gwcode": "en",
-    "ln": "Yugul"
+    "gwcode": "en"
 }

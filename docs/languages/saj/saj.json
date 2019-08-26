@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "saj",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5466,
-    "lr": "Asia",
     "lc": "saj",
+    "gw": false,
+    "ln": "Sahu",
+    "ld": "ltr",
+    "ang": "Sahu",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Sa'u",
         "Pa'disua (Palisua)"
     ],
-    "ang": "Sahu",
-    "gwcode": "id",
-    "ln": "Sahu"
+    "gwcode": "id"
 }

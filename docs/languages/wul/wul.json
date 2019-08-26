@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wul",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6836,
-    "lr": "Asia",
     "lc": "wul",
+    "gw": false,
+    "ln": "Silimo",
+    "ld": "ltr",
+    "ang": "Silimo",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "Usak",
         "Wulik"
     ],
-    "ang": "Silimo",
-    "gwcode": "id",
-    "ln": "Silimo"
+    "gwcode": "id"
 }

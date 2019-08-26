@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kke",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 2937,
-    "lr": "Africa",
     "lc": "kke",
+    "gw": false,
+    "ln": "Kakabe",
+    "ld": "ltr",
+    "ang": "Kakabe",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN"
     ],
@@ -19,7 +21,5 @@
         "Sokotoro Kakabe",
         "Wure-Maninka"
     ],
-    "ang": "Kakabe",
-    "gwcode": "fr",
-    "ln": "Kakabe"
+    "gwcode": "fr"
 }

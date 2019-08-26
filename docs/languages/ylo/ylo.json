@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ylo",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7218,
-    "lr": "Asia",
     "lc": "ylo",
+    "gw": false,
+    "ln": "\u7eb3\u7f57",
+    "ld": "ltr",
+    "ang": "Naluo",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -16,7 +18,5 @@
         "Shui Yi",
         "Shuitian"
     ],
-    "ang": "Naluo",
-    "gwcode": "zh",
-    "ln": "\u7eb3\u7f57"
+    "gwcode": "zh"
 }

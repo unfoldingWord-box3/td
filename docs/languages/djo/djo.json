@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "djo",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1551,
-    "lr": "Asia",
     "lc": "djo",
+    "gw": false,
+    "ln": "Jangkang",
+    "ld": "ltr",
+    "ang": "Jangkang",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Jangkang proper",
         "Pompang"
     ],
-    "ang": "Jangkang",
-    "gwcode": "id",
-    "ln": "Jangkang"
+    "gwcode": "id"
 }

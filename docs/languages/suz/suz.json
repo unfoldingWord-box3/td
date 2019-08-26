@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "suz",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5892,
-    "lr": "Asia",
     "lc": "suz",
+    "gw": false,
+    "ln": "\u0938\u0941\u0928\u0941\u0935\u093e\u0930",
+    "ld": "ltr",
+    "ang": "Sunuwar",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -17,7 +19,5 @@
         "Pirthwar",
         "Sunwari"
     ],
-    "ang": "Sunuwar",
-    "gwcode": "ne",
-    "ln": "\u0938\u0941\u0928\u0941\u0935\u093e\u0930"
+    "gwcode": "ne"
 }

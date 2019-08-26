@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ths",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 6114,
-    "lr": "Asia",
     "lc": "ths",
+    "gw": false,
+    "ln": "Thakali",
+    "ld": "ltr",
+    "ang": "Thakali",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -19,7 +21,5 @@
         "Tukuche (Tamhang Thakali)",
         "Marpha (Puntan Thakali)"
     ],
-    "ang": "Thakali",
-    "gwcode": "ne",
-    "ln": "Thakali"
+    "gwcode": "ne"
 }

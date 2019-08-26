@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "bow",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 850,
-    "lr": "Pacific",
     "lc": "bow",
+    "gw": false,
+    "ln": "Rema",
+    "ld": "ltr",
+    "ang": "Rema",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
     "alt": [
         "Bothar"
     ],
-    "ang": "Rema",
-    "gwcode": "tpi",
-    "ln": "Rema"
+    "gwcode": "tpi"
 }

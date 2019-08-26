@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "njz",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4493,
-    "lr": "Asia",
     "lc": "njz",
+    "gw": false,
+    "ln": "Nyishi",
+    "ld": "ltr",
+    "ang": "Nyishi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -19,7 +21,5 @@
         "Nissi",
         "Nyising"
     ],
-    "ang": "Nyishi",
-    "gwcode": "en",
-    "ln": "Nyishi"
+    "gwcode": "en"
 }

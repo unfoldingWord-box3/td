@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bxe",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 1046,
-    "lr": "Africa",
     "lc": "bxe",
+    "gw": false,
+    "ln": "Birale",
+    "ld": "ltr",
+    "ang": "Ongota",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -14,7 +16,5 @@
         "Birelle",
         "Shanqilla"
     ],
-    "ang": "Ongota",
-    "gwcode": "am",
-    "ln": "Birale"
+    "gwcode": "am"
 }

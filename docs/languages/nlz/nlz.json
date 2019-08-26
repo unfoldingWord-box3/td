@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nlz",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 4533,
-    "lr": "Pacific",
     "lc": "nlz",
+    "gw": false,
+    "ln": "Nal\u00f6go",
+    "ld": "ltr",
+    "ang": "Nal\u00f6go",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -14,7 +16,5 @@
         "Nea",
         "Southern Santa Cruz"
     ],
-    "ang": "Nal\u00f6go",
-    "gwcode": "UNKNOWN",
-    "ln": "Nal\u00f6go"
+    "gwcode": "pis"
 }

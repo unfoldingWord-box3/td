@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gek",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1988,
-    "lr": "Africa",
     "lc": "gek",
+    "gw": false,
+    "ln": "Yiwom",
+    "ld": "ltr",
+    "ang": "Ywom",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Gerkawa",
         "Gurka"
     ],
-    "ang": "Ywom",
-    "gwcode": "en",
-    "ln": "Yiwom"
+    "gwcode": "en"
 }

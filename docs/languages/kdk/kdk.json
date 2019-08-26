@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kdk",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 2770,
-    "lr": "Pacific",
     "lc": "kdk",
+    "gw": false,
+    "ln": "Num\u00e8\u00e8",
+    "ld": "ltr",
+    "ang": "Num\u00e8\u00e8",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -26,7 +28,5 @@
         "Kwenyii (Kunie)",
         "Numee (Touaouru)"
     ],
-    "ang": "Num\u00e8\u00e8",
-    "gwcode": "en",
-    "ln": "Num\u00e8\u00e8"
+    "gwcode": "en"
 }

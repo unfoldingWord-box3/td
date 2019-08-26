@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bpl",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 861,
-    "lr": "Pacific",
     "lc": "bpl",
+    "gw": false,
+    "ln": "Broome Pearling Lugger Pidgin",
+    "ld": "ltr",
+    "ang": "Broome Pearling Lugger Pidgin",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Koepang Talk",
         "Malay Talk"
     ],
-    "ang": "Broome Pearling Lugger Pidgin",
-    "gwcode": "en",
-    "ln": "Broome Pearling Lugger Pidgin"
+    "gwcode": "en"
 }

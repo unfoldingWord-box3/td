@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ife",
-    "hc": "TG",
-    "ld": "ltr",
     "pk": 2432,
-    "lr": "Africa",
     "lc": "ife",
+    "gw": false,
+    "ln": "If\u00e8",
+    "ld": "ltr",
+    "ang": "If\u00e8",
+    "hc": "TG",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "TG"
@@ -18,7 +20,5 @@
         "Ede Ife",
         "Ana-If\u00e9"
     ],
-    "ang": "If\u00e8",
-    "gwcode": "fr",
-    "ln": "If\u00e8"
+    "gwcode": "fr"
 }

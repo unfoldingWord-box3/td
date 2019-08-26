@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "btj",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 954,
-    "lr": "Asia",
     "lc": "btj",
+    "gw": false,
+    "ln": "Bacanese Malay",
+    "ld": "ltr",
+    "ang": "Malay, Bacanese",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Bacan",
         "Batjan"
     ],
-    "ang": "Malay, Bacanese",
-    "gwcode": "id",
-    "ln": "Bacanese Malay"
+    "gwcode": "id"
 }

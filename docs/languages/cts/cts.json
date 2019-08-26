@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cts",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 1379,
-    "lr": "Asia",
     "lc": "cts",
+    "gw": false,
+    "ln": "Northern Catanduanes Bikol",
+    "ld": "ltr",
+    "ang": "Bikol, Northern Catanduanes",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Northern Catanduanes Bicolano",
         "Pandan"
     ],
-    "ang": "Bikol, Northern Catanduanes",
-    "gwcode": "en",
-    "ln": "Northern Catanduanes Bikol"
+    "gwcode": "en"
 }

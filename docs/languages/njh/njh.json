@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "njh",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4481,
-    "lr": "Asia",
     "lc": "njh",
+    "gw": false,
+    "ln": "Lotha Naga",
+    "ld": "ltr",
+    "ang": "Naga, Lotha",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -20,7 +22,5 @@
         "Tsindir",
         "Tsontsii"
     ],
-    "ang": "Naga, Lotha",
-    "gwcode": "en",
-    "ln": "Lotha Naga"
+    "gwcode": "en"
 }

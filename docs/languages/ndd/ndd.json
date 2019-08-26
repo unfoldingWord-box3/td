@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ndd",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4357,
-    "lr": "Africa",
     "lc": "ndd",
+    "gw": false,
+    "ln": "Nde-Nsele-Nta",
+    "ld": "ltr",
+    "ang": "Nde-Nsele-Nta",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -19,7 +21,5 @@
         "Nta (Afunatam)",
         "Mbofon"
     ],
-    "ang": "Nde-Nsele-Nta",
-    "gwcode": "en",
-    "ln": "Nde-Nsele-Nta"
+    "gwcode": "en"
 }

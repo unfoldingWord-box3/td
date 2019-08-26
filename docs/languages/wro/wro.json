@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wro",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6813,
-    "lr": "Pacific",
     "lc": "wro",
+    "gw": false,
+    "ln": "Worrorra",
+    "ld": "ltr",
+    "ang": "Worrorra",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -20,7 +22,5 @@
         "Wurora",
         "Yangibaia"
     ],
-    "ang": "Worrorra",
-    "gwcode": "en",
-    "ln": "Worrorra"
+    "gwcode": "en"
 }

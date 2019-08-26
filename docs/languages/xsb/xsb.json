@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xsb",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 7038,
-    "lr": "Asia",
     "lc": "xsb",
+    "gw": false,
+    "ln": "Sambal",
+    "ld": "ltr",
+    "ang": "Sambal",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -17,7 +19,5 @@
         "Masinloc",
         "Santa Cruz"
     ],
-    "ang": "Sambal",
-    "gwcode": "en",
-    "ln": "Sambal"
+    "gwcode": "en"
 }

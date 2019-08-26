@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ner",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4394,
-    "lr": "Asia",
     "lc": "ner",
+    "gw": false,
+    "ln": "Yahadian",
+    "ld": "ltr",
+    "ang": "Yahadian",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Jahadian",
         "Yabin Yahadian"
     ],
-    "ang": "Yahadian",
-    "gwcode": "id",
-    "ln": "Yahadian"
+    "gwcode": "id"
 }

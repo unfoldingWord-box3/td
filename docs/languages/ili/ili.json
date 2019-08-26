@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ili",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2472,
-    "lr": "Asia",
     "lc": "ili",
+    "gw": false,
+    "ln": "\u4f0a\u7281\u571f\u5c14\u514b\u8bed",
+    "ld": "ltr",
+    "ang": "Ili Turki",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -15,7 +17,5 @@
         "Tu'erke",
         "T'urk"
     ],
-    "ang": "Ili Turki",
-    "gwcode": "zh",
-    "ln": "\u4f0a\u7281\u571f\u5c14\u514b\u8bed"
+    "gwcode": "zh"
 }

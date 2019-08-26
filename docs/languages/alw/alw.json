@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "alw",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 230,
-    "lr": "Africa",
     "lc": "alw",
+    "gw": false,
+    "ln": "Alaba-K\u2019abeena",
+    "ld": "ltr",
+    "ang": "Alaba-K\u2019abeena",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -18,7 +20,5 @@
         "K'abena",
         "Qebena"
     ],
-    "ang": "Alaba-K\u2019abeena",
-    "gwcode": "am",
-    "ln": "Alaba-K\u2019abeena"
+    "gwcode": "am"
 }

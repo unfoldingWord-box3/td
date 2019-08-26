@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jat",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 2578,
-    "lr": "Asia",
     "lc": "jat",
+    "gw": false,
+    "ln": "Jakati",
+    "ld": "ltr",
+    "ang": "",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "AF"
     ],
@@ -17,7 +19,5 @@
         "Kayani",
         "Musali"
     ],
-    "ang": "",
-    "gwcode": "fa",
-    "ln": "Jakati"
+    "gwcode": "fa"
 }

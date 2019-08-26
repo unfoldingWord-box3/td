@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bvi",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 1002,
-    "lr": "Africa",
     "lc": "bvi",
+    "gw": false,
+    "ln": "Belanda Viri",
+    "ld": "ltr",
+    "ang": "Belanda Viri",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -19,7 +21,5 @@
         "Mvegumba",
         "Viri"
     ],
-    "ang": "Belanda Viri",
-    "gwcode": "ar",
-    "ln": "Belanda Viri"
+    "gwcode": "ar"
 }

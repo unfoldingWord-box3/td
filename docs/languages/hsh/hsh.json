@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hsh",
-    "hc": "HU",
-    "ld": "ltr",
     "pk": 2356,
-    "lr": "Europe",
     "lc": "hsh",
+    "gw": false,
+    "ln": "Hungarian Sign Language",
+    "ld": "ltr",
+    "ang": "Hungarian Sign Language",
+    "hc": "HU",
+    "lr": "Europe",
     "cc": [
         "HU"
     ],
@@ -13,7 +15,5 @@
         "Magyar Jelnyelv",
         "Magyarorsz\u00e1gi jelnyelv"
     ],
-    "ang": "Hungarian Sign Language",
-    "gwcode": "en",
-    "ln": "Hungarian Sign Language"
+    "gwcode": "en"
 }

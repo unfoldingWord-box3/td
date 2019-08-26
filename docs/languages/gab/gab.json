@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gab",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 1904,
-    "lr": "Africa",
     "lc": "gab",
+    "gw": false,
+    "ln": "Gabri",
+    "ld": "ltr",
+    "ang": "Gabri",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -15,7 +17,5 @@
         "Ngabre",
         "Southern Gabri"
     ],
-    "ang": "Gabri",
-    "gwcode": "ar",
-    "ln": "Gabri"
+    "gwcode": "ar"
 }

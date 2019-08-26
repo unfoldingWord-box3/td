@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mwv",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4210,
-    "lr": "Asia",
     "lc": "mwv",
+    "gw": false,
+    "ln": "Mentawai",
+    "ld": "ltr",
+    "ang": "Mentawai",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Mentawi",
         "Pagai"
     ],
-    "ang": "Mentawai",
-    "gwcode": "id",
-    "ln": "Mentawai"
+    "gwcode": "id"
 }

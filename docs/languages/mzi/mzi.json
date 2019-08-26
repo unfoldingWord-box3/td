@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mzi",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4269,
-    "lr": "Americas",
     "lc": "mzi",
+    "gw": false,
+    "ln": "Ixcatl\u00e1n Mazatec",
+    "ld": "ltr",
+    "ang": "Mazatec, Ixcatl\u00e1n",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Mazateco de presa bajo",
         "Mazateco de San Pedro Ixcatl\u00e1n"
     ],
-    "ang": "Mazatec, Ixcatl\u00e1n",
-    "gwcode": "es-419",
-    "ln": "Ixcatl\u00e1n Mazatec"
+    "gwcode": "es-419"
 }

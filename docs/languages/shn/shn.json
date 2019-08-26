@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "shn",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 5604,
-    "lr": "Asia",
     "lc": "shn",
+    "gw": false,
+    "ln": "Shan",
+    "ld": "ltr",
+    "ang": "Shan",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "LA",
         "TH",
@@ -37,7 +39,5 @@
         "Tai Mao (Mao Shan)",
         "Nge\""
     ],
-    "ang": "Shan",
-    "gwcode": "my",
-    "ln": "Shan"
+    "gwcode": "my"
 }

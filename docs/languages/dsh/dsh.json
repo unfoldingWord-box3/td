@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dsh",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 1631,
-    "lr": "Africa",
     "lc": "dsh",
+    "gw": false,
+    "ln": "Daasanach",
+    "ld": "ltr",
+    "ang": "Daasanach",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET",
         "KE",
@@ -34,7 +36,5 @@
         "Russia",
         "Shangilla"
     ],
-    "ang": "Daasanach",
-    "gwcode": "am",
-    "ln": "Daasanach"
+    "gwcode": "am"
 }

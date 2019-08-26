@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tig",
-    "hc": "ER",
-    "ld": "ltr",
     "pk": 6126,
-    "lr": "Africa",
     "lc": "tig",
+    "gw": false,
+    "ln": "Tigre",
+    "ld": "ltr",
+    "ang": "Tigr\u00e9",
+    "hc": "ER",
+    "lr": "Africa",
     "cc": [
         "ER",
         "GB",
@@ -26,7 +28,5 @@
         "Marya Kayah",
         "Dahalik"
     ],
-    "ang": "Tigr\u00e9",
-    "gwcode": "ar",
-    "ln": "Tigre"
+    "gwcode": "ar"
 }

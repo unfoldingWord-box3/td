@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "svm",
-    "hc": "IT",
-    "ld": "ltr",
     "pk": 5899,
-    "lr": "Europe",
     "lc": "svm",
+    "gw": false,
+    "ln": "Slavomolisano",
+    "ld": "ltr",
+    "ang": "Slavomolisano",
+    "hc": "IT",
+    "lr": "Europe",
     "cc": [
         "IT"
     ],
@@ -15,7 +17,5 @@
         "Na\u0161 jezik",
         "Slavic of Molise"
     ],
-    "ang": "Slavomolisano",
-    "gwcode": "en",
-    "ln": "Slavomolisano"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hus",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 2381,
-    "lr": "Americas",
     "lc": "hus",
+    "gw": false,
+    "ln": "Huastec",
+    "ld": "ltr",
+    "ang": "Huastec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "San Luis Potosi Huastec (Potosino Huastec)",
         "Southeastern Huastec (Huasteco de San Francisco Chontla)"
     ],
-    "ang": "Huastec",
-    "gwcode": "es-419",
-    "ln": "Huastec"
+    "gwcode": "es-419"
 }

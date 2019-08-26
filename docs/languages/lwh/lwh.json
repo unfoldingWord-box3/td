@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lwh",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 3645,
-    "lr": "Asia",
     "lc": "lwh",
+    "gw": false,
+    "ln": "White Lachi",
+    "ld": "ltr",
+    "ang": "Lachi, White",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -13,7 +15,5 @@
         "Lipup\u00f5",
         "White Lachi"
     ],
-    "ang": "Lachi, White",
-    "gwcode": "vi",
-    "ln": "White Lachi"
+    "gwcode": "vi"
 }

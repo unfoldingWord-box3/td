@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tmw",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 6216,
-    "lr": "Asia",
     "lc": "tmw",
+    "gw": false,
+    "ln": "Temuan",
+    "ld": "ltr",
+    "ang": "Temuan",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -22,7 +24,5 @@
         "Blanda",
         "Berembun (Birmun)"
     ],
-    "ang": "Temuan",
-    "gwcode": "ms",
-    "ln": "Temuan"
+    "gwcode": "ms"
 }

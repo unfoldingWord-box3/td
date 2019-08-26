@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "abn",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 40,
-    "lr": "Africa",
     "lc": "abn",
+    "gw": false,
+    "ln": "Abua",
+    "ld": "ltr",
+    "ang": "Abua",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Otapha (Otabha)",
         "Abuan"
     ],
-    "ang": "Abua",
-    "gwcode": "en",
-    "ln": "Abua"
+    "gwcode": "en"
 }

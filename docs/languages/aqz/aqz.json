@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aqz",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 333,
-    "lr": "Americas",
     "lc": "aqz",
+    "gw": false,
+    "ln": "Akuntsu",
+    "ld": "ltr",
+    "ang": "Akuntsu",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -13,7 +15,5 @@
         "Akunsu",
         "Akuntsun"
     ],
-    "ang": "Akuntsu",
-    "gwcode": "pt",
-    "ln": "Akuntsu"
+    "gwcode": "pt"
 }

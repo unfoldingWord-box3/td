@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cdy",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 1172,
-    "lr": "Asia",
     "lc": "cdy",
+    "gw": false,
+    "ln": "\u8336\u6d1e\u8a9e",
+    "ld": "ltr",
+    "ang": "Chadong",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Chadonghua",
         "Chadongyu"
     ],
-    "ang": "Chadong",
-    "gwcode": "zh",
-    "ln": "\u8336\u6d1e\u8a9e"
+    "gwcode": "zh"
 }

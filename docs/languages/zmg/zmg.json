@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zmg",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7410,
-    "lr": "Pacific",
     "lc": "zmg",
+    "gw": false,
+    "ln": "Marti Ke",
+    "ld": "ltr",
+    "ang": "Marti Ke",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Magati-Ge",
         "Mati Ke"
     ],
-    "ang": "Marti Ke",
-    "gwcode": "en",
-    "ln": "Marti Ke"
+    "gwcode": "en"
 }

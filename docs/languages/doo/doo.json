@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "doo",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 1603,
-    "lr": "Africa",
     "lc": "doo",
+    "gw": false,
+    "ln": "Dongo",
+    "ld": "ltr",
+    "ang": "Dongo",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -13,7 +15,5 @@
         "Donga",
         "Dongo Ko"
     ],
-    "ang": "Dongo",
-    "gwcode": "fr",
-    "ln": "Dongo"
+    "gwcode": "fr"
 }

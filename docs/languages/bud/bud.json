@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bud",
-    "hc": "TG",
-    "ld": "ltr",
     "pk": 973,
-    "lr": "Africa",
     "lc": "bud",
+    "gw": false,
+    "ln": "Ntcham",
+    "ld": "ltr",
+    "ang": "Ntcham",
+    "hc": "TG",
+    "lr": "Africa",
     "cc": [
         "GH",
         "TG"
@@ -20,7 +22,5 @@
         "Tobote",
         "Dipiitil"
     ],
-    "ang": "Ntcham",
-    "gwcode": "fr",
-    "ln": "Ntcham"
+    "gwcode": "fr"
 }

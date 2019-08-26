@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "prs",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 5170,
-    "lr": "Asia",
     "lc": "prs",
+    "gw": false,
+    "ln": "\u062f\u0631\u06cc",
+    "ld": "ltr",
+    "ang": "Dari",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "BE",
         "AF",
@@ -32,7 +34,5 @@
         "Madaglashti",
         "Tangshew (Tangshuri)"
     ],
-    "ang": "Dari",
-    "gwcode": "fa",
-    "ln": "\u062f\u0631\u06cc"
+    "gwcode": "fa"
 }

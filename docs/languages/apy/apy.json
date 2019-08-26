@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "apy",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 323,
-    "lr": "Americas",
     "lc": "apy",
+    "gw": false,
+    "ln": "Apala\u00ed",
+    "ld": "ltr",
+    "ang": "Apala\u00ed",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -13,7 +15,5 @@
         "Apalay",
         "Aparai"
     ],
-    "ang": "Apala\u00ed",
-    "gwcode": "pt",
-    "ln": "Apala\u00ed"
+    "gwcode": "pt"
 }

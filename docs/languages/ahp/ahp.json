@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ahp",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 157,
-    "lr": "Africa",
     "lc": "ahp",
+    "gw": false,
+    "ln": "Aproumu Aizi",
+    "ld": "ltr",
+    "ang": "Aizi, Aproumu",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -16,7 +18,5 @@
         "Aprwe",
         "Oprou"
     ],
-    "ang": "Aizi, Aproumu",
-    "gwcode": "fr",
-    "ln": "Aproumu Aizi"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "neh",
-    "hc": "BT",
-    "ld": "ltr",
     "pk": 4386,
-    "lr": "Asia",
     "lc": "neh",
+    "gw": false,
+    "ln": "Nyenkha",
+    "ld": "ltr",
+    "ang": "Nyenkha",
+    "hc": "BT",
+    "lr": "Asia",
     "cc": [
         "BT"
     ],
@@ -15,7 +17,5 @@
         "Mangdhika",
         "Mangsdekha"
     ],
-    "ang": "Nyenkha",
-    "gwcode": "UNKNOWN",
-    "ln": "Nyenkha"
+    "gwcode": "dz"
 }

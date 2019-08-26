@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bok",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 839,
-    "lr": "Africa",
     "lc": "bok",
+    "gw": false,
+    "ln": "Bonjo",
+    "ld": "ltr",
+    "ang": "Bonjo",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CG"
     ],
@@ -13,7 +15,5 @@
         "Impfondo",
         "Mbonzo"
     ],
-    "ang": "Bonjo",
-    "gwcode": "fr",
-    "ln": "Bonjo"
+    "gwcode": "fr"
 }

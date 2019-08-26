@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pap",
-    "hc": "CW",
-    "ld": "ltr",
     "pk": 4928,
-    "lr": "Americas",
     "lc": "pap",
+    "gw": false,
+    "ln": "Papiamento",
+    "ld": "ltr",
+    "ang": "Papiamentu",
+    "hc": "CW",
+    "lr": "Americas",
     "cc": [
         "DE",
         "NL",
@@ -23,7 +25,5 @@
         "Papiments",
         "Papia Mentaie"
     ],
-    "ang": "Papiamentu",
-    "gwcode": "UNKNOWN",
-    "ln": "Papiamento"
+    "gwcode": "nl"
 }

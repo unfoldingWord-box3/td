@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nyy",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 4746,
-    "lr": "Africa",
     "lc": "nyy",
+    "gw": false,
+    "ln": "Nyakyusa-Ngonde",
+    "ld": "ltr",
+    "ang": "Nyakyusa-Ngonde",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ",
         "MW"
@@ -29,7 +31,5 @@
         "Selya (Salya)",
         "Mwamba (Lungulu)"
     ],
-    "ang": "Nyakyusa-Ngonde",
-    "gwcode": "sw",
-    "ln": "Nyakyusa-Ngonde"
+    "gwcode": "sw"
 }

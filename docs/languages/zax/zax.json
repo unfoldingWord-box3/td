@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zax",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7353,
-    "lr": "Americas",
     "lc": "zax",
+    "gw": false,
+    "ln": "Xadani Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Xadani",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Eastern Pochutla Zapotec",
         "Zapoteco de Santa Mar\u00eda Xadani"
     ],
-    "ang": "Zapotec, Xadani",
-    "gwcode": "es-419",
-    "ln": "Xadani Zapotec"
+    "gwcode": "es-419"
 }

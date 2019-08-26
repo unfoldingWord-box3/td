@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mnx",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3996,
-    "lr": "Asia",
     "lc": "mnx",
+    "gw": false,
+    "ln": "Manikion",
+    "ld": "ltr",
+    "ang": "Manikion",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Sogh",
         "Sougb"
     ],
-    "ang": "Manikion",
-    "gwcode": "id",
-    "ln": "Manikion"
+    "gwcode": "id"
 }

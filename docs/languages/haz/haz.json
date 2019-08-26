@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "haz",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 2241,
-    "lr": "Asia",
     "lc": "haz",
+    "gw": false,
+    "ln": "\u0622\u0632\u0631\u06af\u06cc",
+    "ld": "ltr",
+    "ang": "Hazaragi",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "AF",
         "PK",
@@ -17,7 +19,5 @@
         "Hezareh",
         "Hezare'i"
     ],
-    "ang": "Hazaragi",
-    "gwcode": "ps",
-    "ln": "\u0622\u0632\u0631\u06af\u06cc"
+    "gwcode": "ps"
 }

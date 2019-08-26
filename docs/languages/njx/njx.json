@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "njx",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 4491,
-    "lr": "Africa",
     "lc": "njx",
+    "gw": false,
+    "ln": "Kunyi",
+    "ld": "ltr",
+    "ang": "Kunyi",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CG"
     ],
@@ -14,7 +16,5 @@
         "Kugni",
         "Nyaanga (Kinyaanga)"
     ],
-    "ang": "Kunyi",
-    "gwcode": "fr",
-    "ln": "Kunyi"
+    "gwcode": "fr"
 }

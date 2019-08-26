@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gbr",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1944,
-    "lr": "Africa",
     "lc": "gbr",
+    "gw": false,
+    "ln": "Gbagyi",
+    "ld": "ltr",
+    "ang": "Gbagyi",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -19,7 +21,5 @@
         "Gyengyen",
         "Ngenge (Genge)"
     ],
-    "ang": "Gbagyi",
-    "gwcode": "en",
-    "ln": "Gbagyi"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sth",
-    "hc": "IE",
-    "ld": "ltr",
     "pk": 5858,
-    "lr": "Europe",
     "lc": "sth",
+    "gw": false,
+    "ln": "Shelta",
+    "ld": "ltr",
+    "ang": "Shelta",
+    "hc": "IE",
+    "lr": "Europe",
     "cc": [
         "GB",
         "IE"
@@ -17,7 +19,5 @@
         "Sheldru",
         "The Cant"
     ],
-    "ang": "Shelta",
-    "gwcode": "en",
-    "ln": "Shelta"
+    "gwcode": "en"
 }

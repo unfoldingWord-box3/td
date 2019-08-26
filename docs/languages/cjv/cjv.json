@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cjv",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1230,
-    "lr": "Pacific",
     "lc": "cjv",
+    "gw": false,
+    "ln": "Chuave",
+    "ld": "ltr",
+    "ang": "Chuave",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Tjuave",
         "Sua"
     ],
-    "ang": "Chuave",
-    "gwcode": "tpi",
-    "ln": "Chuave"
+    "gwcode": "tpi"
 }

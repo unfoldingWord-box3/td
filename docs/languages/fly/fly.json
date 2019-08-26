@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fly",
-    "hc": "ZA",
-    "ld": "ltr",
     "pk": 1854,
-    "lr": "Africa",
     "lc": "fly",
+    "gw": false,
+    "ln": "Flaaitaal",
+    "ld": "ltr",
+    "ang": "Flaaitaal",
+    "hc": "ZA",
+    "lr": "Africa",
     "cc": [
         "ZA"
     ],
@@ -13,7 +15,5 @@
         "Flaai Taal",
         "Fly Taal"
     ],
-    "ang": "Flaaitaal",
-    "gwcode": "en",
-    "ln": "Flaaitaal"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pbv",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4954,
-    "lr": "Asia",
     "lc": "pbv",
+    "gw": false,
+    "ln": "Pnar",
+    "ld": "ltr",
+    "ang": "Pnar",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN"
@@ -13,7 +15,5 @@
     "alt": [
         "Jaintia (Synteng)"
     ],
-    "ang": "Pnar",
-    "gwcode": "en",
-    "ln": "Pnar"
+    "gwcode": "en"
 }

@@ -3,7 +3,7 @@
 ಕನ್ನಡ
 ===============
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/kan>`_ identifies this language as ``kan``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/kan>`__ identifies this language as ``kan``.
 
 This language is spoken in the following countries:
 
@@ -12,6 +12,8 @@ This language is spoken in the following countries:
 * CA: Canada
 * IN: India
 * SG: Singapore
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -32,7 +34,7 @@ This language is spoken in the following countries:
     - CA
     - IN
     - SG
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: kn
     lang_direction: ltr
     lang_name: ಕನ್ನಡ

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bwg",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 1024,
-    "lr": "Africa",
     "lc": "bwg",
+    "gw": false,
+    "ln": "Barwe",
+    "ld": "ltr",
+    "ang": "Barwe",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ"
     ],
@@ -13,7 +15,5 @@
         "Balke",
         "Cibalke"
     ],
-    "ang": "Barwe",
-    "gwcode": "pt",
-    "ln": "Barwe"
+    "gwcode": "pt"
 }

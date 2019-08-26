@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mpg",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 4026,
-    "lr": "Africa",
     "lc": "mpg",
+    "gw": false,
+    "ln": "Marba",
+    "ld": "ltr",
+    "ang": "Marba",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -16,7 +18,5 @@
         "Maraba",
         "Monogoy"
     ],
-    "ang": "Marba",
-    "gwcode": "ar",
-    "ln": "Marba"
+    "gwcode": "ar"
 }

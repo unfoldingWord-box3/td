@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mjh",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 3882,
-    "lr": "Africa",
     "lc": "mjh",
+    "gw": false,
+    "ln": "Mwera",
+    "ld": "ltr",
+    "ang": "Mwera",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -14,7 +16,5 @@
         "Nyanza",
         "Nyasa"
     ],
-    "ang": "Mwera",
-    "gwcode": "sw",
-    "ln": "Mwera"
+    "gwcode": "sw"
 }

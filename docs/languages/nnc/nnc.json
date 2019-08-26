@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nnc",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 4561,
-    "lr": "Africa",
     "lc": "nnc",
+    "gw": false,
+    "ln": "Nancere",
+    "ld": "ltr",
+    "ang": "Nancere",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -21,7 +23,5 @@
         "Mire",
         "Nancere du Centre"
     ],
-    "ang": "Nancere",
-    "gwcode": "ar",
-    "ln": "Nancere"
+    "gwcode": "ar"
 }

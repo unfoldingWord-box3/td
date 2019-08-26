@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "amj",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 242,
-    "lr": "Africa",
     "lc": "amj",
+    "gw": false,
+    "ln": "Amdang",
+    "ld": "ltr",
+    "ang": "Amdang",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "TD"
@@ -17,7 +19,5 @@
         "Mime",
         "Mututu"
     ],
-    "ang": "Amdang",
-    "gwcode": "ar",
-    "ln": "Amdang"
+    "gwcode": "ar"
 }

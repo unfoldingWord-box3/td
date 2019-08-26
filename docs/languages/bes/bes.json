@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bes",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 601,
-    "lr": "Africa",
     "lc": "bes",
+    "gw": false,
+    "ln": "Besme",
+    "ld": "ltr",
+    "ang": "Besme",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -17,7 +19,5 @@
         "Huner",
         "Unar"
     ],
-    "ang": "Besme",
-    "gwcode": "ar",
-    "ln": "Besme"
+    "gwcode": "ar"
 }

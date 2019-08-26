@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sax",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 5476,
-    "lr": "Pacific",
     "lc": "sax",
+    "gw": false,
+    "ln": "Sa",
+    "ld": "ltr",
+    "ang": "Sa",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -13,7 +15,5 @@
         "Saa",
         "Ponorwal (South Raga)"
     ],
-    "ang": "Sa",
-    "gwcode": "fr",
-    "ln": "Sa"
+    "gwcode": "fr"
 }

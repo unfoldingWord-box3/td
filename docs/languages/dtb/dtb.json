@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dtb",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 1638,
-    "lr": "Asia",
     "lc": "dtb",
+    "gw": false,
+    "ln": "Labuk-Kinabatangan Kadazan",
+    "ld": "ltr",
+    "ang": "Kadazan, Labuk-Kinabatangan",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -21,7 +23,5 @@
         "Mangkak",
         "Mangkok"
     ],
-    "ang": "Kadazan, Labuk-Kinabatangan",
-    "gwcode": "ms",
-    "ln": "Labuk-Kinabatangan Kadazan"
+    "gwcode": "ms"
 }

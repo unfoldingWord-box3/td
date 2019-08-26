@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ocu",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4772,
-    "lr": "Americas",
     "lc": "ocu",
+    "gw": false,
+    "ln": "Atzingo Matlatzinca",
+    "ld": "ltr",
+    "ang": "Matlatzinca, Atzingo",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -16,7 +18,5 @@
         "Tlahuica",
         "Tlahura"
     ],
-    "ang": "Matlatzinca, Atzingo",
-    "gwcode": "es-419",
-    "ln": "Atzingo Matlatzinca"
+    "gwcode": "es-419"
 }

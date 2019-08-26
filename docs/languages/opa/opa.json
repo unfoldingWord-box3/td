@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "opa",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 4857,
-    "lr": "Africa",
     "lc": "opa",
+    "gw": false,
+    "ln": "Okpamheri",
+    "ld": "ltr",
+    "ang": "Okpamheri",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -16,7 +18,5 @@
         "Emhalhe (Emarle)",
         "Ibilo"
     ],
-    "ang": "Okpamheri",
-    "gwcode": "en",
-    "ln": "Okpamheri"
+    "gwcode": "en"
 }

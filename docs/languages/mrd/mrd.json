@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mrd",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 4074,
-    "lr": "Asia",
     "lc": "mrd",
+    "gw": false,
+    "ln": "Western Magar",
+    "ld": "ltr",
+    "ang": "Magar, Western",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -17,7 +19,5 @@
         "Palpa",
         "Syangja"
     ],
-    "ang": "Magar, Western",
-    "gwcode": "ne",
-    "ln": "Western Magar"
+    "gwcode": "ne"
 }

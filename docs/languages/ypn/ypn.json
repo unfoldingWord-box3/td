@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ypn",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7263,
-    "lr": "Asia",
     "lc": "ypn",
+    "gw": false,
+    "ln": "Ani Phowa",
+    "ld": "ltr",
+    "ang": "Phowa, Ani",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -20,7 +22,5 @@
         "Dayongsheng",
         "Xibeile"
     ],
-    "ang": "Phowa, Ani",
-    "gwcode": "zh",
-    "ln": "Ani Phowa"
+    "gwcode": "zh"
 }

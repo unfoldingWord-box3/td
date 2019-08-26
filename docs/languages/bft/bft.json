@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bft",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 628,
-    "lr": "Asia",
     "lc": "bft",
+    "gw": false,
+    "ln": "\u0628\u0644\u062a\u06cc",
+    "ld": "ltr",
+    "ang": "Balti",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "PK",
         "IN"
@@ -17,7 +19,5 @@
         "Bhotia of Baltistan",
         "Sbalti"
     ],
-    "ang": "Balti",
-    "gwcode": "ur",
-    "ln": "\u0628\u0644\u062a\u06cc"
+    "gwcode": "ur"
 }

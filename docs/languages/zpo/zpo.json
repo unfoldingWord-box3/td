@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zpo",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7451,
-    "lr": "Americas",
     "lc": "zpo",
+    "gw": false,
+    "ln": "Amatl\u00e1n Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Amatl\u00e1n",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -16,7 +18,5 @@
         "San Crist\u00f3bal Amatl\u00e1n",
         "San Francisco Logueche"
     ],
-    "ang": "Zapotec, Amatl\u00e1n",
-    "gwcode": "es-419",
-    "ln": "Amatl\u00e1n Zapotec"
+    "gwcode": "es-419"
 }

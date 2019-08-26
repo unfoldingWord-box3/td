@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "doy",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 1612,
-    "lr": "Africa",
     "lc": "doy",
+    "gw": false,
+    "ln": "Dompo",
+    "ld": "ltr",
+    "ang": "Dompo",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -13,7 +15,5 @@
         "Dumpo",
         "Ndmpo"
     ],
-    "ang": "Dompo",
-    "gwcode": "en",
-    "ln": "Dompo"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "won",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 6798,
-    "lr": "Africa",
     "lc": "won",
+    "gw": false,
+    "ln": "Wongo",
+    "ld": "ltr",
+    "ang": "Wongo",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -16,7 +18,5 @@
         "Tukkongo",
         "Tukongo"
     ],
-    "ang": "Wongo",
-    "gwcode": "fr",
-    "ln": "Wongo"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tbg",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5990,
-    "lr": "Pacific",
     "lc": "tbg",
+    "gw": false,
+    "ln": "North Tairora",
+    "ld": "ltr",
+    "ang": "Tairora, North",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Arau-Varosia (Arau-Barosia)",
         "Arokaara (Arokara)"
     ],
-    "ang": "Tairora, North",
-    "gwcode": "tpi",
-    "ln": "North Tairora"
+    "gwcode": "tpi"
 }

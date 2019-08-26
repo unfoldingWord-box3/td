@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mvv",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 4187,
-    "lr": "Asia",
     "lc": "mvv",
+    "gw": false,
+    "ln": "Tagal Murut",
+    "ld": "ltr",
+    "ang": "Tagal Murut",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -34,7 +36,5 @@
         "Sabah Muru",
         "Salalir (Sadalir)"
     ],
-    "ang": "Tagal Murut",
-    "gwcode": "ms",
-    "ln": "Tagal Murut"
+    "gwcode": "ms"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tyv",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 6454,
-    "lr": "Europe",
     "lc": "tyv",
+    "gw": false,
+    "ln": "\u0422\u0443\u0432\u0438\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Tuva",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -32,7 +34,5 @@
         "Uryankhai",
         "Northeastern Tuvin (Todzhin)"
     ],
-    "ang": "Tuva",
-    "gwcode": "ru",
-    "ln": "\u0422\u0443\u0432\u0438\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

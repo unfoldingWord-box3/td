@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mct",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3721,
-    "lr": "Africa",
     "lc": "mct",
+    "gw": false,
+    "ln": "Mengisa",
+    "ld": "ltr",
+    "ang": "Mengisa",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Leti",
         "Njowe"
     ],
-    "ang": "Mengisa",
-    "gwcode": "fr",
-    "ln": "Mengisa"
+    "gwcode": "fr"
 }

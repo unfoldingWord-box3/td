@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lgz",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3443,
-    "lr": "Africa",
     "lc": "lgz",
+    "gw": false,
+    "ln": "Ligenza",
+    "ld": "ltr",
+    "ang": "Ligenza",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Gendja",
         "Gendza-Bali"
     ],
-    "ang": "Ligenza",
-    "gwcode": "fr",
-    "ln": "Ligenza"
+    "gwcode": "fr"
 }

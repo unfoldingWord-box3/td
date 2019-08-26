@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "trx",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 6321,
-    "lr": "Asia",
     "lc": "trx",
+    "gw": false,
+    "ln": "Tringgus-Sembaan Bidayuh",
+    "ld": "ltr",
+    "ang": "Bidayuh, Tringgus-Sembaan",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -14,7 +16,5 @@
         "Mbaan (Bimbaan)",
         "Sembaan"
     ],
-    "ang": "Bidayuh, Tringgus-Sembaan",
-    "gwcode": "ms",
-    "ln": "Tringgus-Sembaan Bidayuh"
+    "gwcode": "ms"
 }

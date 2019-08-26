@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tly",
-    "hc": "AZ",
-    "ld": "ltr",
     "pk": 6194,
-    "lr": "Asia",
     "lc": "tly",
+    "gw": false,
+    "ln": "Tal\u0131\u015f dili",
+    "ld": "ltr",
+    "ang": "Talysh",
+    "hc": "AZ",
+    "lr": "Asia",
     "cc": [
         "AZ",
         "IR"
@@ -17,7 +19,5 @@
         "Taleshi",
         "Talishi"
     ],
-    "ang": "Talysh",
-    "gwcode": "ru",
-    "ln": "Tal\u0131\u015f dili"
+    "gwcode": "ru"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mmy",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 3972,
-    "lr": "Africa",
     "lc": "mmy",
+    "gw": false,
+    "ln": "Migaama",
+    "ld": "ltr",
+    "ang": "Migaama",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -19,7 +21,5 @@
         "Telfane",
         "Dambiya (Ndambiya)"
     ],
-    "ang": "Migaama",
-    "gwcode": "ar",
-    "ln": "Migaama"
+    "gwcode": "ar"
 }

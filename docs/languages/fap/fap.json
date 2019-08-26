@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fap",
-    "hc": "SN",
-    "ld": "ltr",
     "pk": 1824,
-    "lr": "Africa",
     "lc": "fap",
+    "gw": false,
+    "ln": "Palor",
+    "ld": "ltr",
+    "ang": "Palor",
+    "hc": "SN",
+    "lr": "Africa",
     "cc": [
         "SN"
     ],
@@ -20,7 +22,5 @@
         "Ba'ol",
         "Kajor"
     ],
-    "ang": "Palor",
-    "gwcode": "fr",
-    "ln": "Palor"
+    "gwcode": "fr"
 }

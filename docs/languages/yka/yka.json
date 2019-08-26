@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yka",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 7198,
-    "lr": "Asia",
     "lc": "yka",
+    "gw": false,
+    "ln": "Yakan",
+    "ld": "ltr",
+    "ang": "Yakan",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "MY",
         "PH"
@@ -13,7 +15,5 @@
     "alt": [
         "Yacan"
     ],
-    "ang": "Yakan",
-    "gwcode": "en",
-    "ln": "Yakan"
+    "gwcode": "en"
 }

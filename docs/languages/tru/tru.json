@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tru",
-    "hc": "TR",
-    "ld": "ltr",
     "pk": 6318,
-    "lr": "Asia",
     "lc": "tru",
+    "gw": false,
+    "ln": "\u071b\u0718\u072a\u071d\u0710",
+    "ld": "ltr",
+    "ang": "Turoyo",
+    "hc": "TR",
+    "lr": "Asia",
     "cc": [
         "DE",
         "IQ",
@@ -22,7 +24,5 @@
         "Turani",
         "S\u00fcryani"
     ],
-    "ang": "Turoyo",
-    "gwcode": "tr",
-    "ln": "\u071b\u0718\u072a\u071d\u0710"
+    "gwcode": "tr"
 }

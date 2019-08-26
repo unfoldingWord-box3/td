@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yah",
-    "hc": "TJ",
-    "ld": "ltr",
     "pk": 7117,
-    "lr": "Asia",
     "lc": "yah",
+    "gw": false,
+    "ln": "Yazgulyam",
+    "ld": "ltr",
+    "ang": "Yazgulyam",
+    "hc": "TJ",
+    "lr": "Asia",
     "cc": [
         "TJ"
     ],
@@ -15,7 +17,5 @@
         "Yazgulam",
         "Yazgulyami"
     ],
-    "ang": "Yazgulyam",
-    "gwcode": "ru",
-    "ln": "Yazgulyam"
+    "gwcode": "ru"
 }

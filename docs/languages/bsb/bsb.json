@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bsb",
-    "hc": "BN",
-    "ld": "ltr",
     "pk": 925,
-    "lr": "Asia",
     "lc": "bsb",
+    "gw": false,
+    "ln": "Brunei Bisaya",
+    "ld": "ltr",
+    "ang": "Bisaya, Brunei",
+    "hc": "BN",
+    "lr": "Asia",
     "cc": [
         "BN",
         "MY"
@@ -27,7 +29,5 @@
         "Sarawak Bisaya",
         "Sarawak Bisaya (Bisaya')"
     ],
-    "ang": "Bisaya, Brunei",
-    "gwcode": "ms",
-    "ln": "Brunei Bisaya"
+    "gwcode": "ms"
 }

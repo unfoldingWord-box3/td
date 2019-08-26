@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gey",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 1995,
-    "lr": "Africa",
     "lc": "gey",
+    "gw": false,
+    "ln": "Enya",
+    "ld": "ltr",
+    "ang": "Enya",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Genya",
         "Tsheenya"
     ],
-    "ang": "Enya",
-    "gwcode": "fr",
-    "ln": "Enya"
+    "gwcode": "fr"
 }

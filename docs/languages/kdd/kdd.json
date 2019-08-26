@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kdd",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2763,
-    "lr": "Pacific",
     "lc": "kdd",
+    "gw": false,
+    "ln": "Yankunytjatjara",
+    "ld": "ltr",
+    "ang": "Yankunytjatjara",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Yankunjtjatjarra",
         "Yankuntatjara"
     ],
-    "ang": "Yankunytjatjara",
-    "gwcode": "en",
-    "ln": "Yankunytjatjara"
+    "gwcode": "en"
 }

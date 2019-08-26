@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "myu",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4256,
-    "lr": "Americas",
     "lc": "myu",
+    "gw": false,
+    "ln": "Munduruk\u00fa",
+    "ld": "ltr",
+    "ang": "Munduruk\u00fa",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -17,7 +19,5 @@
         "Pari",
         "Weidyenye"
     ],
-    "ang": "Munduruk\u00fa",
-    "gwcode": "pt",
-    "ln": "Munduruk\u00fa"
+    "gwcode": "pt"
 }

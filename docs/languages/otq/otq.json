@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "otq",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4896,
-    "lr": "Americas",
     "lc": "otq",
+    "gw": false,
+    "ln": "Quer\u00e9taro Otomi",
+    "ld": "ltr",
+    "ang": "Otomi, Quer\u00e9taro",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "Otom\u00ed de Quer\u00e9taro",
         "Western Otomi"
     ],
-    "ang": "Otomi, Quer\u00e9taro",
-    "gwcode": "es-419",
-    "ln": "Quer\u00e9taro Otomi"
+    "gwcode": "es-419"
 }

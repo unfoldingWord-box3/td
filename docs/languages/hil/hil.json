@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hil",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 2273,
-    "lr": "Asia",
     "lc": "hil",
+    "gw": false,
+    "ln": "Hiligaynon",
+    "ld": "ltr",
+    "ang": "Hiligaynon",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -15,7 +17,5 @@
         "Ilonggo",
         "Kari"
     ],
-    "ang": "Hiligaynon",
-    "gwcode": "en",
-    "ln": "Hiligaynon"
+    "gwcode": "en"
 }

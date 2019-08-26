@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xra",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 7028,
-    "lr": "Americas",
     "lc": "xra",
+    "gw": false,
+    "ln": "Krah\u00f4",
+    "ld": "ltr",
+    "ang": "Krah\u00f4",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -13,7 +15,5 @@
         "Cra\u00f4",
         "Kra\u00f4"
     ],
-    "ang": "Krah\u00f4",
-    "gwcode": "pt",
-    "ln": "Krah\u00f4"
+    "gwcode": "pt"
 }

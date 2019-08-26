@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pbi",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4945,
-    "lr": "Africa",
     "lc": "pbi",
+    "gw": false,
+    "ln": "Parkwa",
+    "ld": "ltr",
+    "ang": "Parkwa",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -20,7 +22,5 @@
         "Podogo",
         "Podokwo"
     ],
-    "ang": "Parkwa",
-    "gwcode": "fr",
-    "ln": "Parkwa"
+    "gwcode": "fr"
 }

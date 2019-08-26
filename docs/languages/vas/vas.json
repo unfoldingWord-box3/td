@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vas",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6593,
-    "lr": "Asia",
     "lc": "vas",
+    "gw": false,
+    "ln": "Vasavi",
+    "ld": "ltr",
+    "ang": "Vasavi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -25,7 +27,5 @@
         "Ambodi (Ambodia)",
         "Dehvali (Kolche)"
     ],
-    "ang": "Vasavi",
-    "gwcode": "mr",
-    "ln": "Vasavi"
+    "gwcode": "mr"
 }

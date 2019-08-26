@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "boz",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 853,
-    "lr": "Africa",
     "lc": "boz",
+    "gw": false,
+    "ln": "Ti\u00e9yaxo Bozo",
+    "ld": "ltr",
+    "ang": "Bozo, Tieyaxo",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "ML"
     ],
@@ -19,7 +21,5 @@
         "Tigu\u00e9makho",
         "Tyeyaxo"
     ],
-    "ang": "Bozo, Tieyaxo",
-    "gwcode": "fr",
-    "ln": "Ti\u00e9yaxo Bozo"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "irh",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2508,
-    "lr": "Asia",
     "lc": "irh",
+    "gw": false,
+    "ln": "Irarutu",
+    "ld": "ltr",
+    "ang": "Irarutu",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Kaitero",
         "Kasira"
     ],
-    "ang": "Irarutu",
-    "gwcode": "id",
-    "ln": "Irarutu"
+    "gwcode": "id"
 }

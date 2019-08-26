@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pwn",
-    "hc": "TW",
-    "ld": "ltr",
     "pk": 5234,
-    "lr": "Asia",
     "lc": "pwn",
+    "gw": false,
+    "ln": "Paiwan",
+    "ld": "ltr",
+    "ang": "Paiwan",
+    "hc": "TW",
+    "lr": "Asia",
     "cc": [
         "TW"
     ],
@@ -24,7 +26,5 @@
         "Stimul",
         "Tamari"
     ],
-    "ang": "Paiwan",
-    "gwcode": "zh",
-    "ln": "Paiwan"
+    "gwcode": "zh"
 }

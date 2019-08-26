@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "unr",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6533,
-    "lr": "Asia",
     "lc": "unr",
+    "gw": false,
+    "ln": "Mundari",
+    "ld": "ltr",
+    "ang": "Mundari",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -24,7 +26,5 @@
         "Bhumij Thar",
         "Bhumij (Bhumij Munda)"
     ],
-    "ang": "Mundari",
-    "gwcode": "bn",
-    "ln": "Mundari"
+    "gwcode": "bn"
 }

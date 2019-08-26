@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dak",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 1429,
-    "lr": "Americas",
     "lc": "dak",
+    "gw": false,
+    "ln": "Dakota",
+    "ld": "ltr",
+    "ang": "Dakota",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US",
         "CA"
@@ -21,7 +23,5 @@
         "Dakota (Dakhota)",
         "Nakota (Yankton)"
     ],
-    "ang": "Dakota",
-    "gwcode": "en",
-    "ln": "Dakota"
+    "gwcode": "en"
 }

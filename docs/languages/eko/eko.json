@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "eko",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 1720,
-    "lr": "Africa",
     "lc": "eko",
+    "gw": false,
+    "ln": "Koti",
+    "ld": "ltr",
+    "ang": "Koti",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ"
     ],
@@ -21,7 +23,5 @@
         "Esangaje",
         "Esakaji"
     ],
-    "ang": "Koti",
-    "gwcode": "pt",
-    "ln": "Koti"
+    "gwcode": "pt"
 }

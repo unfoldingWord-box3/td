@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kqh",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 3090,
-    "lr": "Africa",
     "lc": "kqh",
+    "gw": false,
+    "ln": "Kisankasa",
+    "ld": "ltr",
+    "ang": "Kisankasa",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -13,7 +15,5 @@
         "Dorobo",
         "Ndorobo"
     ],
-    "ang": "Kisankasa",
-    "gwcode": "sw",
-    "ln": "Kisankasa"
+    "gwcode": "sw"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mrr",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4087,
-    "lr": "Asia",
     "lc": "mrr",
+    "gw": false,
+    "ln": "Maria (India)",
+    "ld": "ltr",
+    "ang": "Maria",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -22,7 +24,5 @@
         "Abujmar Maria",
         "Abujhmaria"
     ],
-    "ang": "Maria",
-    "gwcode": "mr",
-    "ln": "Maria (India)"
+    "gwcode": "mr"
 }

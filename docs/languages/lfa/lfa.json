@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lfa",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3427,
-    "lr": "Africa",
     "lc": "lfa",
+    "gw": false,
+    "ln": "Lefa",
+    "ld": "ltr",
+    "ang": "Lefa",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -17,7 +19,5 @@
         "Letia",
         "Tingong"
     ],
-    "ang": "Lefa",
-    "gwcode": "fr",
-    "ln": "Lefa"
+    "gwcode": "fr"
 }

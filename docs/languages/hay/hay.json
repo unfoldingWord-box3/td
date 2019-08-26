@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hay",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 2240,
-    "lr": "Africa",
     "lc": "hay",
+    "gw": false,
+    "ln": "Haya",
+    "ld": "ltr",
+    "ang": "Haya",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ",
         "UG"
@@ -19,7 +21,5 @@
         "Ganda-Kiaka",
         "Kyamutwara"
     ],
-    "ang": "Haya",
-    "gwcode": "sw",
-    "ln": "Haya"
+    "gwcode": "sw"
 }

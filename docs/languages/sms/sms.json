@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sms",
-    "hc": "FI",
-    "ld": "ltr",
     "pk": 5718,
-    "lr": "Europe",
     "lc": "sms",
+    "gw": false,
+    "ln": "Skolt Sami",
+    "ld": "ltr",
+    "ang": "Saami, Skolt",
+    "hc": "FI",
+    "lr": "Europe",
     "cc": [
         "FI"
     ],
@@ -21,7 +23,5 @@
         "Saam",
         "Skolt"
     ],
-    "ang": "Saami, Skolt",
-    "gwcode": "en",
-    "ln": "Skolt Sami"
+    "gwcode": "en"
 }

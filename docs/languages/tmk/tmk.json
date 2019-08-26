@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tmk",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 6204,
-    "lr": "Asia",
     "lc": "tmk",
+    "gw": false,
+    "ln": "Northwestern Tamang",
+    "ld": "ltr",
+    "ang": "Tamang, Northwestern",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -19,7 +21,5 @@
         "Tamang Lengmo",
         "Tamang Tam"
     ],
-    "ang": "Tamang, Northwestern",
-    "gwcode": "ne",
-    "ln": "Northwestern Tamang"
+    "gwcode": "ne"
 }

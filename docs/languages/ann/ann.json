@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ann",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 271,
-    "lr": "Africa",
     "lc": "ann",
+    "gw": false,
+    "ln": "Obolo",
+    "ld": "ltr",
+    "ang": "Obolo",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Andoni",
         "Andonni"
     ],
-    "ang": "Obolo",
-    "gwcode": "en",
-    "ln": "Obolo"
+    "gwcode": "en"
 }

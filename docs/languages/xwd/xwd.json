@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xwd",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7094,
-    "lr": "Pacific",
     "lc": "xwd",
+    "gw": false,
+    "ln": "Wadi Wadi",
+    "ld": "ltr",
+    "ang": "Wadi Wadi",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -22,7 +24,5 @@
         "Woonyi",
         "Wotti-wotti"
     ],
-    "ang": "Wadi Wadi",
-    "gwcode": "en",
-    "ln": "Wadi Wadi"
+    "gwcode": "en"
 }

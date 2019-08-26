@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bst",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 941,
-    "lr": "Africa",
     "lc": "bst",
+    "gw": false,
+    "ln": "Basketo",
+    "ld": "ltr",
+    "ang": "Basketo",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -13,7 +15,5 @@
         "Baskatta",
         "Mesketo"
     ],
-    "ang": "Basketo",
-    "gwcode": "am",
-    "ln": "Basketo"
+    "gwcode": "am"
 }

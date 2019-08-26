@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbu",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 2730,
-    "lr": "Asia",
     "lc": "kbu",
+    "gw": false,
+    "ln": "Kabutra",
+    "ld": "ltr",
+    "ang": "Kabutra",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "PK"
     ],
@@ -13,7 +15,5 @@
         "Nat",
         "Natra"
     ],
-    "ang": "Kabutra",
-    "gwcode": "ur",
-    "ln": "Kabutra"
+    "gwcode": "ur"
 }

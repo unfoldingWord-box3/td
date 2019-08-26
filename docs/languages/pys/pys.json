@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pys",
-    "hc": "PY",
-    "ld": "ltr",
     "pk": 5242,
-    "lr": "Americas",
     "lc": "pys",
+    "gw": false,
+    "ln": "Paraguayan Sign Language",
+    "ld": "ltr",
+    "ang": "Paraguayan Sign Language",
+    "hc": "PY",
+    "lr": "Americas",
     "cc": [
         "PY"
     ],
@@ -14,7 +16,5 @@
         "Lengua de se\u00f1as paraguaya",
         "LSPY"
     ],
-    "ang": "Paraguayan Sign Language",
-    "gwcode": "es-419",
-    "ln": "Paraguayan Sign Language"
+    "gwcode": "es-419"
 }

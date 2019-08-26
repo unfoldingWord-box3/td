@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xed",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 6900,
-    "lr": "Africa",
     "lc": "xed",
+    "gw": false,
+    "ln": "Hdi",
+    "ld": "ltr",
+    "ang": "Hdi",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -19,7 +21,5 @@
         "Turu",
         "Tur (Ftour)"
     ],
-    "ang": "Hdi",
-    "gwcode": "fr",
-    "ln": "Hdi"
+    "gwcode": "fr"
 }

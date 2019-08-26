@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xnz",
-    "hc": "EG",
-    "ld": "ltr",
     "pk": 7001,
-    "lr": "Africa",
     "lc": "xnz",
+    "gw": false,
+    "ln": "Kenzi",
+    "ld": "ltr",
+    "ang": "Mattokki",
+    "hc": "EG",
+    "lr": "Africa",
     "cc": [
         "SD",
         "EG"
@@ -18,7 +20,5 @@
         "Kunuzi",
         "Mattokki"
     ],
-    "ang": "Mattokki",
-    "gwcode": "ar",
-    "ln": "Kenzi"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pey",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4996,
-    "lr": "Asia",
     "lc": "pey",
+    "gw": false,
+    "ln": "Petjo",
+    "ld": "ltr",
+    "ang": "Petjo",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Pecok",
         "Petjoh"
     ],
-    "ang": "Petjo",
-    "gwcode": "id",
-    "ln": "Petjo"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "urt",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6553,
-    "lr": "Pacific",
     "lc": "urt",
+    "gw": false,
+    "ln": "Urat",
+    "ld": "ltr",
+    "ang": "Urat",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Wasep Ngau (North Urat)",
         "Wusyep Yihre (Central Urat)"
     ],
-    "ang": "Urat",
-    "gwcode": "tpi",
-    "ln": "Urat"
+    "gwcode": "tpi"
 }

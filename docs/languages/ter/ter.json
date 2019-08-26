@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ter",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 6065,
-    "lr": "Americas",
     "lc": "ter",
+    "gw": false,
+    "ln": "Tereno",
+    "ld": "ltr",
+    "ang": "Ter\u00eana",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -13,7 +15,5 @@
         "Etelena",
         "Tereno"
     ],
-    "ang": "Ter\u00eana",
-    "gwcode": "pt",
-    "ln": "Tereno"
+    "gwcode": "pt"
 }

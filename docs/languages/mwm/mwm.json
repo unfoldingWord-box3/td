@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mwm",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 4202,
-    "lr": "Africa",
     "lc": "mwm",
+    "gw": false,
+    "ln": "Sar",
+    "ld": "ltr",
+    "ang": "Sar",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -17,7 +19,5 @@
         "Majingai (Madja Ngai)",
         "Majinngay"
     ],
-    "ang": "Sar",
-    "gwcode": "ar",
-    "ln": "Sar"
+    "gwcode": "ar"
 }

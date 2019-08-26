@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tir",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 6121,
-    "lr": "Africa",
     "lc": "ti",
+    "gw": false,
+    "ln": "\u1275\u130d\u122d\u129b",
+    "ld": "ltr",
+    "ang": "Tigrinya",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "DJ",
         "ER",
@@ -18,7 +20,5 @@
         "Tigray",
         "Falashas"
     ],
-    "ang": "Tigrinya",
-    "gwcode": "am",
-    "ln": "\u1275\u130d\u122d\u129b"
+    "gwcode": "am"
 }

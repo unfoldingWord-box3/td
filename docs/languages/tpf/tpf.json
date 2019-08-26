@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tpf",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6268,
-    "lr": "Asia",
     "lc": "tpf",
+    "gw": false,
+    "ln": "Tarpia",
+    "ld": "ltr",
+    "ang": "Tarpia",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Sufrai",
         "Tarfia"
     ],
-    "ang": "Tarpia",
-    "gwcode": "id",
-    "ln": "Tarpia"
+    "gwcode": "id"
 }

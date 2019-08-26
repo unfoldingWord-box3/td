@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * ID: Indonesia
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: UNKNOWN
@@ -14,7 +16,7 @@ This language is spoken in the following countries:
     anglicanized_name: ''
     country_codes:
     - ID
-    gateway_language: UNKNOWN
+    gateway_language: jv
     lang_code: jav-x-jawatimur
     lang_direction: ltr
     lang_name: Jawa Timur

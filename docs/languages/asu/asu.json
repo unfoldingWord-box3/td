@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "asu",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 375,
-    "lr": "Americas",
     "lc": "asu",
+    "gw": false,
+    "ln": "Tocantins Asurini",
+    "ld": "ltr",
+    "ang": "Asurini, Tocantins",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -16,7 +18,5 @@
         "Asurin\u00ed do Tocantins",
         "Asurin\u00ed do Trocar\u00e1"
     ],
-    "ang": "Asurini, Tocantins",
-    "gwcode": "pt",
-    "ln": "Tocantins Asurini"
+    "gwcode": "pt"
 }

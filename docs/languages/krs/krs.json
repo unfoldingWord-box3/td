@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "krs",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 3124,
-    "lr": "Africa",
     "lc": "krs",
+    "gw": false,
+    "ln": "Kresh",
+    "ld": "ltr",
+    "ang": "Kresh",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -22,7 +24,5 @@
         "Gbaya-Ngbongbo (Kresh-Hofra)",
         "Gbaya-Ndogo (Kresh-Ndogo)"
     ],
-    "ang": "Kresh",
-    "gwcode": "ar",
-    "ln": "Kresh"
+    "gwcode": "ar"
 }

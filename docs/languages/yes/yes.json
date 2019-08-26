@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yes",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 7164,
-    "lr": "Africa",
     "lc": "yes",
+    "gw": false,
+    "ln": "Nyankpa",
+    "ld": "ltr",
+    "ang": "Nyankpa",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -19,7 +21,5 @@
         "Ogbom (Buzi)",
         "Ejung (Panda)"
     ],
-    "ang": "Nyankpa",
-    "gwcode": "en",
-    "ln": "Nyankpa"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bui",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 978,
-    "lr": "Africa",
     "lc": "bui",
+    "gw": false,
+    "ln": "Bongili",
+    "ld": "ltr",
+    "ang": "Bongili",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "CG"
     ],
@@ -14,7 +16,5 @@
         "Bungili",
         "Bungiri"
     ],
-    "ang": "Bongili",
-    "gwcode": "fr",
-    "ln": "Bongili"
+    "gwcode": "fr"
 }

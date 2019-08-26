@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ykn",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7204,
-    "lr": "Asia",
     "lc": "ykn",
+    "gw": false,
+    "ln": "\u8de8\u6069\u65af\u8bdd",
+    "ld": "ltr",
+    "ang": "Kua-nsi",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Kua'ensi",
         "Kua'eshi"
     ],
-    "ang": "Kua-nsi",
-    "gwcode": "zh",
-    "ln": "\u8de8\u6069\u65af\u8bdd"
+    "gwcode": "zh"
 }

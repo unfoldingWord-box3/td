@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cll",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 1254,
-    "lr": "Africa",
     "lc": "cll",
+    "gw": false,
+    "ln": "Chala",
+    "ld": "ltr",
+    "ang": "Chala",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -13,7 +15,5 @@
         "Cala",
         "Tshala"
     ],
-    "ang": "Chala",
-    "gwcode": "en",
-    "ln": "Chala"
+    "gwcode": "en"
 }

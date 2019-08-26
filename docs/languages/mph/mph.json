@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mph",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4027,
-    "lr": "Pacific",
     "lc": "mph",
+    "gw": false,
+    "ln": "Maung",
+    "ld": "ltr",
+    "ang": "Maung",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Mawng",
         "Mawung"
     ],
-    "ang": "Maung",
-    "gwcode": "en",
-    "ln": "Maung"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nfu",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4407,
-    "lr": "Africa",
     "lc": "nfu",
+    "gw": false,
+    "ln": "Mfumte",
+    "ld": "ltr",
+    "ang": "Mfumte",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -14,7 +16,5 @@
         "Koffa (Kofa)",
         "Lus"
     ],
-    "ang": "Mfumte",
-    "gwcode": "fr",
-    "ln": "Mfumte"
+    "gwcode": "fr"
 }

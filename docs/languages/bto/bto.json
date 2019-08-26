@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bto",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 958,
-    "lr": "Asia",
     "lc": "bto",
+    "gw": false,
+    "ln": "Rinconada Bikol",
+    "ld": "ltr",
+    "ang": "Bikol, Rinconada",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -15,7 +17,5 @@
         "Bicolano",
         "Iriga"
     ],
-    "ang": "Bikol, Rinconada",
-    "gwcode": "tl",
-    "ln": "Rinconada Bikol"
+    "gwcode": "tl"
 }

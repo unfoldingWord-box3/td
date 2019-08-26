@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jml",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 2643,
-    "lr": "Asia",
     "lc": "jml",
+    "gw": false,
+    "ln": "Jumli",
+    "ld": "ltr",
+    "ang": "Jumli",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -21,7 +23,5 @@
         "Chaudhabis",
         "Asi"
     ],
-    "ang": "Jumli",
-    "gwcode": "ne",
-    "ln": "Jumli"
+    "gwcode": "ne"
 }

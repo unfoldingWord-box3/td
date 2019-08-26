@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "amw",
-    "hc": "SY",
-    "ld": "ltr",
     "pk": 255,
-    "lr": "Asia",
     "lc": "amw",
+    "gw": false,
+    "ln": "\u0710\u072a\u0721\u071d\u072c",
+    "ld": "ltr",
+    "ang": "Western Neo-Aramaic",
+    "hc": "SY",
+    "lr": "Asia",
     "cc": [
         "SY"
     ],
@@ -19,7 +21,5 @@
         "Ma'lu:la",
         "Ma'lula (Maaloula)"
     ],
-    "ang": "Western Neo-Aramaic",
-    "gwcode": "ar",
-    "ln": "\u0710\u072a\u0721\u071d\u072c"
+    "gwcode": "ar"
 }

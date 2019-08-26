@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "skh",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5664,
-    "lr": "Asia",
     "lc": "skh",
+    "gw": false,
+    "ln": "Sikule",
+    "ld": "ltr",
+    "ang": "Sikule",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Sikhule",
         "Wali Banuah"
     ],
-    "ang": "Sikule",
-    "gwcode": "id",
-    "ln": "Sikule"
+    "gwcode": "id"
 }

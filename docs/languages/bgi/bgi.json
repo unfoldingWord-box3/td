@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bgi",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 642,
-    "lr": "Asia",
     "lc": "bgi",
+    "gw": false,
+    "ln": "Giangan",
+    "ld": "ltr",
+    "ang": "Giangan",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -18,7 +20,5 @@
         "Gulanga",
         "Jangan"
     ],
-    "ang": "Giangan",
-    "gwcode": "ceb",
-    "ln": "Giangan"
+    "gwcode": "ceb"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cmr",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 1269,
-    "lr": "Asia",
     "lc": "cmr",
+    "gw": false,
+    "ln": "Mro-Khimi Chin",
+    "ld": "ltr",
+    "ang": "Chin, Mro-Khimi",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -25,7 +27,5 @@
         "Arang (Ahraing Khami)",
         "Xata"
     ],
-    "ang": "Chin, Mro-Khimi",
-    "gwcode": "my",
-    "ln": "Mro-Khimi Chin"
+    "gwcode": "my"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "way",
-    "hc": "SR",
-    "ld": "ltr",
     "pk": 6687,
-    "lr": "Americas",
     "lc": "way",
+    "gw": false,
+    "ln": "Wayana",
+    "ld": "ltr",
+    "ang": "Wayana",
+    "hc": "SR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "GF",
@@ -25,7 +27,5 @@
         "Rucuyen (Roucouyenne)",
         "Urucuiana (Urucena)"
     ],
-    "ang": "Wayana",
-    "gwcode": "UNKNOWN",
-    "ln": "Wayana"
+    "gwcode": "nl"
 }

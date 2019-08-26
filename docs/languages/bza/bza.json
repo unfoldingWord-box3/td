@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bza",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 1083,
-    "lr": "Africa",
     "lc": "bza",
+    "gw": false,
+    "ln": "Bandi",
+    "ld": "ltr",
+    "ang": "Bandi",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR",
         "GN"
@@ -16,7 +18,5 @@
         "Gbandi",
         "Gbunde"
     ],
-    "ang": "Bandi",
-    "gwcode": "en",
-    "ln": "Bandi"
+    "gwcode": "en"
 }

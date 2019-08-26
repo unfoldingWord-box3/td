@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mmr",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 3966,
-    "lr": "Asia",
     "lc": "mmr",
+    "gw": false,
+    "ln": "\u897f\u90e8\u6b21\u65b9\u8a00",
+    "ld": "ltr",
+    "ang": "Miao, Western Xiangxi",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -21,7 +23,5 @@
         "Western Ghao-Xong",
         "Western West-Hunan Miao"
     ],
-    "ang": "Miao, Western Xiangxi",
-    "gwcode": "zh",
-    "ln": "\u897f\u90e8\u6b21\u65b9\u8a00"
+    "gwcode": "zh"
 }

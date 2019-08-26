@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "poo",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 5132,
-    "lr": "Americas",
     "lc": "poo",
+    "gw": false,
+    "ln": "Central Pomo",
+    "ld": "ltr",
+    "ang": "Pomo, Central",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -23,7 +25,5 @@
         "Venambakaiia",
         "Yokaia"
     ],
-    "ang": "Pomo, Central",
-    "gwcode": "en",
-    "ln": "Central Pomo"
+    "gwcode": "en"
 }

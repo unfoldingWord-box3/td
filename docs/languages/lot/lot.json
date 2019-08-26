@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lot",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 3568,
-    "lr": "Africa",
     "lc": "lot",
+    "gw": false,
+    "ln": "Otuho",
+    "ld": "ltr",
+    "ang": "Otuho",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -24,7 +26,5 @@
         "Lomya (Lomia)",
         "Loudo"
     ],
-    "ang": "Otuho",
-    "gwcode": "ar",
-    "ln": "Otuho"
+    "gwcode": "ar"
 }

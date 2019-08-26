@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "snk",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 5734,
-    "lr": "Africa",
     "lc": "snk",
+    "gw": false,
+    "ln": "Soninke",
+    "ld": "ltr",
+    "ang": "Soninke",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "BF",
         "GM",
@@ -48,7 +50,5 @@
         "Toubakai",
         "Wakore"
     ],
-    "ang": "Soninke",
-    "gwcode": "fr",
-    "ln": "Soninke"
+    "gwcode": "fr"
 }

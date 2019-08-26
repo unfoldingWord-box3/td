@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kig",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 2889,
-    "lr": "Asia",
     "lc": "kig",
+    "gw": false,
+    "ln": "Kimaama",
+    "ld": "ltr",
+    "ang": "Kimaghima",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Kimaghama",
         "Teri-Kalwasch"
     ],
-    "ang": "Kimaghima",
-    "gwcode": "id",
-    "ln": "Kimaama"
+    "gwcode": "id"
 }

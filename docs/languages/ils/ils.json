@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ils",
-    "hc": "IT",
-    "ld": "ltr",
     "pk": 2476,
-    "lr": "Europe",
     "lc": "ils",
+    "gw": false,
+    "ln": "International Sign",
+    "ld": "ltr",
+    "ang": "International Sign",
+    "hc": "IT",
+    "lr": "Europe",
     "cc": [
         "IT"
     ],
@@ -13,7 +15,5 @@
         "Gestuno",
         "International Sign Language"
     ],
-    "ang": "International Sign",
-    "gwcode": "en",
-    "ln": "International Sign"
+    "gwcode": "en"
 }

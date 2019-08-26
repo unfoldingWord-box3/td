@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nqg",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 4615,
-    "lr": "Africa",
     "lc": "nqg",
+    "gw": false,
+    "ln": "Southern Nago",
+    "ld": "ltr",
+    "ang": "Nago, Southern",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ"
     ],
@@ -15,7 +17,5 @@
         "Nagot",
         "Nagots"
     ],
-    "ang": "Nago, Southern",
-    "gwcode": "fr",
-    "ln": "Southern Nago"
+    "gwcode": "fr"
 }

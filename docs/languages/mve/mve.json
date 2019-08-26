@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mve",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 4172,
-    "lr": "Asia",
     "lc": "mve",
+    "gw": false,
+    "ln": "\u0645\u0627\u0631\u0648\u0627\u0631\u064a (Pakistan)",
+    "ld": "ltr",
+    "ang": "Marwari",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "PK"
     ],
@@ -15,7 +17,5 @@
         "Merwari",
         "Rajasthani"
     ],
-    "ang": "Marwari",
-    "gwcode": "ur",
-    "ln": "\u0645\u0627\u0631\u0648\u0627\u0631\u064a (Pakistan)"
+    "gwcode": "ur"
 }

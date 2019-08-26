@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tmf",
-    "hc": "PY",
-    "ld": "ltr",
     "pk": 6200,
-    "lr": "Americas",
     "lc": "tmf",
+    "gw": false,
+    "ln": "Toba-Maskoy",
+    "ld": "ltr",
+    "ang": "Toba-Maskoy",
+    "hc": "PY",
+    "lr": "Americas",
     "cc": [
         "PY"
     ],
@@ -16,7 +18,5 @@
         "Quilyilhrayrom",
         "Toba of Paraguay"
     ],
-    "ang": "Toba-Maskoy",
-    "gwcode": "es-419",
-    "ln": "Toba-Maskoy"
+    "gwcode": "es-419"
 }

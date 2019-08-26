@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cag",
-    "hc": "PY",
-    "ld": "ltr",
     "pk": 1116,
-    "lr": "Americas",
     "lc": "cag",
+    "gw": false,
+    "ln": "Nivacl\u00e9",
+    "ld": "ltr",
+    "ang": "Nivacl\u00e9",
+    "hc": "PY",
+    "lr": "Americas",
     "cc": [
         "AR",
         "PY"
@@ -21,7 +23,5 @@
         "Churup\u00ed",
         "Forest Nivacl\u00e9"
     ],
-    "ang": "Nivacl\u00e9",
-    "gwcode": "es-419",
-    "ln": "Nivacl\u00e9"
+    "gwcode": "es-419"
 }

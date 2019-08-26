@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kwb",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3236,
-    "lr": "Africa",
     "lc": "kwb",
+    "gw": false,
+    "ln": "Kwa",
+    "ld": "ltr",
+    "ang": "Kwa",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Baa",
         "Kwah"
     ],
-    "ang": "Kwa",
-    "gwcode": "en",
-    "ln": "Kwa"
+    "gwcode": "en"
 }

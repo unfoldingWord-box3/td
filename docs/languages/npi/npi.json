@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "npi",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 4608,
-    "lr": "Asia",
     "lc": "npi",
+    "gw": false,
+    "ln": "\u0928\u0947\u092a\u093e\u0932\u0940 (individual language)",
+    "ld": "ltr",
+    "ang": "Nepali",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "BD",
         "BN",
@@ -32,7 +34,5 @@
         "Baitadeli (Baitadi)",
         "Bajurali (Bajura)"
     ],
-    "ang": "Nepali",
-    "gwcode": "ne",
-    "ln": "\u0928\u0947\u092a\u093e\u0932\u0940 (individual language)"
+    "gwcode": "ne"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "agv",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 142,
-    "lr": "Asia",
     "lc": "agv",
+    "gw": false,
+    "ln": "Remontado Dumagat",
+    "ld": "ltr",
+    "ang": "Dumagat, Remontado",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -15,7 +17,5 @@
         "Sinauna",
         "Sinauna Tagalog"
     ],
-    "ang": "Dumagat, Remontado",
-    "gwcode": "ilo",
-    "ln": "Remontado Dumagat"
+    "gwcode": "ilo"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aol",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 293,
-    "lr": "Asia",
     "lc": "aol",
+    "gw": false,
+    "ln": "Alor",
+    "ld": "ltr",
+    "ang": "Alor",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Baranusa",
         "Muna"
     ],
-    "ang": "Alor",
-    "gwcode": "id",
-    "ln": "Alor"
+    "gwcode": "id"
 }

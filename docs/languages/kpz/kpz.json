@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kpz",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 3082,
-    "lr": "Africa",
     "lc": "kpz",
+    "gw": false,
+    "ln": "Kupsabiny",
+    "ld": "ltr",
+    "ang": "Kupsapiiny",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "SD",
         "UG"
@@ -17,7 +19,5 @@
         "Kongasis",
         "Kween (Sor)"
     ],
-    "ang": "Kupsapiiny",
-    "gwcode": "en",
-    "ln": "Kupsabiny"
+    "gwcode": "en"
 }

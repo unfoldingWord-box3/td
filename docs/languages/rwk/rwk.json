@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rwk",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 5449,
-    "lr": "Africa",
     "lc": "rwk",
+    "gw": false,
+    "ln": "Rwa",
+    "ld": "ltr",
+    "ang": "Rwa",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -15,7 +17,5 @@
         "Rwo",
         "Kihai (Meru)"
     ],
-    "ang": "Rwa",
-    "gwcode": "sw",
-    "ln": "Rwa"
+    "gwcode": "sw"
 }

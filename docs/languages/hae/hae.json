@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hae",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 2222,
-    "lr": "Africa",
     "lc": "hae",
+    "gw": false,
+    "ln": "Eastern Oromo",
+    "ld": "ltr",
+    "ang": "Oromo, Eastern",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET",
         "CA"
@@ -20,7 +22,5 @@
         "Quottu",
         "Qwottu"
     ],
-    "ang": "Oromo, Eastern",
-    "gwcode": "am",
-    "ln": "Eastern Oromo"
+    "gwcode": "am"
 }

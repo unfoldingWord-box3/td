@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xbr",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6877,
-    "lr": "Asia",
     "lc": "xbr",
+    "gw": false,
+    "ln": "Kambera",
+    "ld": "ltr",
+    "ang": "Kambera",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -23,7 +25,5 @@
         "Waijelo",
         "Mangili-Waijelo (Rindi)"
     ],
-    "ang": "Kambera",
-    "gwcode": "id",
-    "ln": "Kambera"
+    "gwcode": "id"
 }

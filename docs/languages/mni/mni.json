@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mni",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3983,
-    "lr": "Asia",
     "lc": "mni",
+    "gw": false,
+    "ln": "Manipuri",
+    "ld": "ltr",
+    "ang": "Meitei",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN",
@@ -30,7 +32,5 @@
         "Hindu Meitei",
         "Panal"
     ],
-    "ang": "Meitei",
-    "gwcode": "en",
-    "ln": "Manipuri"
+    "gwcode": "en"
 }

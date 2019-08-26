@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jum",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 2676,
-    "lr": "Africa",
     "lc": "jum",
+    "gw": false,
+    "ln": "Jumjum",
+    "ld": "ltr",
+    "ang": "Jumjum",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -14,7 +16,5 @@
         "Olga",
         "Wadega"
     ],
-    "ang": "Jumjum",
-    "gwcode": "ar",
-    "ln": "Jumjum"
+    "gwcode": "ar"
 }

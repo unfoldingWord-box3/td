@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "krv",
-    "hc": "KH",
-    "ld": "ltr",
     "pk": 3127,
-    "lr": "Asia",
     "lc": "krv",
+    "gw": false,
+    "ln": "Kavet",
+    "ld": "ltr",
+    "ang": "Kavet",
+    "hc": "KH",
+    "lr": "Asia",
     "cc": [
         "KH"
     ],
@@ -13,7 +15,5 @@
         "Khvek",
         "Kowet"
     ],
-    "ang": "Kavet",
-    "gwcode": "km",
-    "ln": "Kavet"
+    "gwcode": "km"
 }

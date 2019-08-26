@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "niv",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 4473,
-    "lr": "Europe",
     "lc": "niv",
+    "gw": false,
+    "ln": "\u041d\u0438\u0432\u0445\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Gilyak",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -13,7 +15,5 @@
         "Nivkh",
         "Nivkhi"
     ],
-    "ang": "Gilyak",
-    "gwcode": "ru",
-    "ln": "\u041d\u0438\u0432\u0445\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

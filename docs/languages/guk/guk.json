@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "guk",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 2161,
-    "lr": "Africa",
     "lc": "guk",
+    "gw": false,
+    "ln": "Gumuz",
+    "ld": "ltr",
+    "ang": "Gumuz",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SD"
@@ -40,7 +42,5 @@
         "Agalo",
         "Guba"
     ],
-    "ang": "Gumuz",
-    "gwcode": "am",
-    "ln": "Gumuz"
+    "gwcode": "am"
 }

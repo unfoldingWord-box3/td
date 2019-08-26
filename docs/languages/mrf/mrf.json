@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mrf",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4076,
-    "lr": "Asia",
     "lc": "mrf",
+    "gw": false,
+    "ln": "Elseng",
+    "ld": "ltr",
+    "ang": "Elseng",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Tabu",
         "Morwap"
     ],
-    "ang": "Elseng",
-    "gwcode": "id",
-    "ln": "Elseng"
+    "gwcode": "id"
 }

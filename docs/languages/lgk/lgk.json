@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lgk",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 3435,
-    "lr": "Pacific",
     "lc": "lgk",
+    "gw": false,
+    "ln": "Lingarak",
+    "ld": "ltr",
+    "ang": "Neverver",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -15,7 +17,5 @@
         "Wuli",
         "Mindu"
     ],
-    "ang": "Neverver",
-    "gwcode": "fr",
-    "ln": "Lingarak"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "scb",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 5506,
-    "lr": "Asia",
     "lc": "scb",
+    "gw": false,
+    "ln": "Chut",
+    "ld": "ltr",
+    "ang": "Chut",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "LA",
         "VN"
@@ -15,7 +17,5 @@
         "Ruc (Kha Mu Gia)",
         "Tac Cui"
     ],
-    "ang": "Chut",
-    "gwcode": "vi",
-    "ln": "Chut"
+    "gwcode": "vi"
 }

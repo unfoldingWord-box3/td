@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "diz",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 1541,
-    "lr": "Africa",
     "lc": "diz",
+    "gw": false,
+    "ln": "Ding",
+    "ld": "ltr",
+    "ang": "Ding",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Din",
         "Dzing"
     ],
-    "ang": "Ding",
-    "gwcode": "fr",
-    "ln": "Ding"
+    "gwcode": "fr"
 }

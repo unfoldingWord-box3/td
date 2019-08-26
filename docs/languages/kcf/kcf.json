@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kcf",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2741,
-    "lr": "Africa",
     "lc": "kcf",
+    "gw": false,
+    "ln": "Ukaan",
+    "ld": "ltr",
+    "ang": "Ukaan",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -21,7 +23,5 @@
         "Iisheu",
         "Ijion (Iinno)"
     ],
-    "ang": "Ukaan",
-    "gwcode": "en",
-    "ln": "Ukaan"
+    "gwcode": "en"
 }

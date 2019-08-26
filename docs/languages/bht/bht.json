@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bht",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 678,
-    "lr": "Asia",
     "lc": "bht",
+    "gw": false,
+    "ln": "Bhattiyali",
+    "ld": "ltr",
+    "ang": "Bhattiyali",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Bhatiali Pahari",
         "Bhatiyali"
     ],
-    "ang": "Bhattiyali",
-    "gwcode": "hi",
-    "ln": "Bhattiyali"
+    "gwcode": "hi"
 }

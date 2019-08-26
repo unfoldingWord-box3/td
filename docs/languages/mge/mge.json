@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mge",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 3807,
-    "lr": "Africa",
     "lc": "mge",
+    "gw": false,
+    "ln": "Mango",
+    "ld": "ltr",
+    "ang": "Mango",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -14,7 +16,5 @@
         "Mbay Doba",
         "Mongo"
     ],
-    "ang": "Mango",
-    "gwcode": "ar",
-    "ln": "Mango"
+    "gwcode": "ar"
 }

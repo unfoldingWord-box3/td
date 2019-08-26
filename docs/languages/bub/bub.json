@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bub",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 971,
-    "lr": "Africa",
     "lc": "bub",
+    "gw": false,
+    "ln": "Bua",
+    "ld": "ltr",
+    "ang": "Bua",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -14,7 +16,5 @@
         "Boa",
         "Bwa"
     ],
-    "ang": "Bua",
-    "gwcode": "ar",
-    "ln": "Bua"
+    "gwcode": "ar"
 }

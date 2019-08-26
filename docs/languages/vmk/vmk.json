@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vmk",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 6636,
-    "lr": "Africa",
     "lc": "vmk",
+    "gw": false,
+    "ln": "Makhuwa-Shirima",
+    "ld": "ltr",
+    "ang": "Makhuwa-Shirima",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ"
     ],
@@ -18,7 +20,5 @@
         "Shirima",
         "West Makua"
     ],
-    "ang": "Makhuwa-Shirima",
-    "gwcode": "pt",
-    "ln": "Makhuwa-Shirima"
+    "gwcode": "pt"
 }

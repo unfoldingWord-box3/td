@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ryu",
-    "hc": "JP",
-    "ld": "ltr",
     "pk": 5457,
-    "lr": "Asia",
     "lc": "ryu",
+    "gw": false,
+    "ln": "\u6c96\u7e04\u53e3/\u30a6\u30c1\u30ca\u30fc\u30b0\u30c1",
+    "ld": "ltr",
+    "ang": "Okinawan, Central",
+    "hc": "JP",
+    "lr": "Asia",
     "cc": [
         "JP",
         "US",
@@ -14,7 +16,5 @@
     "alt": [
         "Luchu"
     ],
-    "ang": "Okinawan, Central",
-    "gwcode": "UNKNOWN",
-    "ln": "\u6c96\u7e04\u53e3/\u30a6\u30c1\u30ca\u30fc\u30b0\u30c1"
+    "gwcode": "ja"
 }

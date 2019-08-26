@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cpo",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 1314,
-    "lr": "Africa",
     "lc": "cpo",
+    "gw": false,
+    "ln": "Kpeego",
+    "ld": "ltr",
+    "ang": "Kpeego",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -14,7 +16,5 @@
         "Noumoukan",
         "Numu"
     ],
-    "ang": "Kpeego",
-    "gwcode": "fr",
-    "ln": "Kpeego"
+    "gwcode": "fr"
 }

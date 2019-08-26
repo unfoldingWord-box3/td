@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jic",
-    "hc": "HN",
-    "ld": "ltr",
     "pk": 2615,
-    "lr": "Americas",
     "lc": "jic",
+    "gw": false,
+    "ln": "Tol",
+    "ld": "ltr",
+    "ang": "Tol",
+    "hc": "HN",
+    "lr": "Americas",
     "cc": [
         "HN"
     ],
@@ -13,7 +15,5 @@
         "Tolpan",
         "Xicaque"
     ],
-    "ang": "Tol",
-    "gwcode": "es-419",
-    "ln": "Tol"
+    "gwcode": "es-419"
 }

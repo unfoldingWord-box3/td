@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tcs",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6023,
-    "lr": "Pacific",
     "lc": "tcs",
+    "gw": false,
+    "ln": "Torres Strait Creole",
+    "ld": "ltr",
+    "ang": "Torres Strait Creole",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -16,7 +18,5 @@
         "West Torres",
         "Yumplatok"
     ],
-    "ang": "Torres Strait Creole",
-    "gwcode": "en",
-    "ln": "Torres Strait Creole"
+    "gwcode": "en"
 }

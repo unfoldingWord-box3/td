@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "xxm",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7103,
-    "lr": "Pacific",
     "lc": "xxm",
+    "gw": false,
+    "ln": "Minkin",
+    "ld": "ltr",
+    "ang": "Minkin",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
     "alt": [],
-    "ang": "Minkin",
-    "gwcode": "UNKNOWN",
-    "ln": "Minkin"
+    "gwcode": null
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nib",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4457,
-    "lr": "Pacific",
     "lc": "nib",
+    "gw": false,
+    "ln": "Nakame",
+    "ld": "ltr",
+    "ang": "Nakame",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "North Nakame",
         "South Nakame"
     ],
-    "ang": "Nakame",
-    "gwcode": "tpi",
-    "ln": "Nakame"
+    "gwcode": "tpi"
 }

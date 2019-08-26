@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rgk",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5349,
-    "lr": "Asia",
     "lc": "rgk",
+    "gw": false,
+    "ln": "Rangkas",
+    "ld": "ltr",
+    "ang": "Rangkas",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -18,7 +20,5 @@
         "Saukiya Khun",
         "Shaukas"
     ],
-    "ang": "Rangkas",
-    "gwcode": "hi",
-    "ln": "Rangkas"
+    "gwcode": "hi"
 }

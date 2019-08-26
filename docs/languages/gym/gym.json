@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gym",
-    "hc": "PA",
-    "ld": "ltr",
     "pk": 2211,
-    "lr": "Americas",
     "lc": "gym",
+    "gw": false,
+    "ln": "Ng\u00e4bere",
+    "ld": "ltr",
+    "ang": "Ng\u00e4bere",
+    "hc": "PA",
+    "lr": "Americas",
     "cc": [
         "PA",
         "CR"
@@ -16,7 +18,5 @@
         "Eastern Guaym\u00ed (Chiriqu\u00ed)",
         "Tol\u00e9"
     ],
-    "ang": "Ng\u00e4bere",
-    "gwcode": "es-419",
-    "ln": "Ng\u00e4bere"
+    "gwcode": "es-419"
 }

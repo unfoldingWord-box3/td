@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "udu",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 6480,
-    "lr": "Africa",
     "lc": "udu",
+    "gw": false,
+    "ln": "Uduk",
+    "ld": "ltr",
+    "ang": "Uduk",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SD",
@@ -19,7 +21,5 @@
         "Othan",
         "Twampa"
     ],
-    "ang": "Uduk",
-    "gwcode": "ar",
-    "ln": "Uduk"
+    "gwcode": "ar"
 }

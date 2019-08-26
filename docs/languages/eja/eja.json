@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "eja",
-    "hc": "GW",
-    "ld": "ltr",
     "pk": 1712,
-    "lr": "Africa",
     "lc": "eja",
+    "gw": false,
+    "ln": "Ejamat",
+    "ld": "ltr",
+    "ang": "Jola-Felupe",
+    "hc": "GW",
+    "lr": "Africa",
     "cc": [
         "GW"
     ],
@@ -19,7 +21,5 @@
         "Flup",
         "Fulup"
     ],
-    "ang": "Jola-Felupe",
-    "gwcode": "pt",
-    "ln": "Ejamat"
+    "gwcode": "pt"
 }

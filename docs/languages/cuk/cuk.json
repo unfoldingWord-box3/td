@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cuk",
-    "hc": "PA",
-    "ld": "ltr",
     "pk": 1391,
-    "lr": "Americas",
     "lc": "cuk",
+    "gw": false,
+    "ln": "San Blas Kuna",
+    "ld": "ltr",
+    "ang": "Kuna, San Blas",
+    "hc": "PA",
+    "lr": "Americas",
     "cc": [
         "PA"
     ],
@@ -15,7 +17,5 @@
         "Bayano (Alto Bayano)",
         "Maje"
     ],
-    "ang": "Kuna, San Blas",
-    "gwcode": "es-419",
-    "ln": "San Blas Kuna"
+    "gwcode": "es-419"
 }

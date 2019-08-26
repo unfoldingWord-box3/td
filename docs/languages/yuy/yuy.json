@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yuy",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7310,
-    "lr": "Asia",
     "lc": "yuy",
+    "gw": false,
+    "ln": "\u4e1c\u90e8\u88d5\u56fa\u8bed",
+    "ld": "ltr",
+    "ang": "Yugur, East",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -20,7 +22,5 @@
         "Yugar",
         "Yugu"
     ],
-    "ang": "Yugur, East",
-    "gwcode": "zh",
-    "ln": "\u4e1c\u90e8\u88d5\u56fa\u8bed"
+    "gwcode": "zh"
 }

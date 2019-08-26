@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aew",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 104,
-    "lr": "Pacific",
     "lc": "aew",
+    "gw": false,
+    "ln": "Ambakich",
+    "ld": "ltr",
+    "ang": "Ambakich",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Southern Ambakich",
         "Porapora"
     ],
-    "ang": "Ambakich",
-    "gwcode": "tpi",
-    "ln": "Ambakich"
+    "gwcode": "tpi"
 }

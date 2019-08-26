@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hla",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2284,
-    "lr": "Pacific",
     "lc": "hla",
+    "gw": false,
+    "ln": "Halia",
+    "ld": "ltr",
+    "ang": "Halia",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Touloun (Tulon)",
         "Tulun"
     ],
-    "ang": "Halia",
-    "gwcode": "tpi",
-    "ln": "Halia"
+    "gwcode": "tpi"
 }

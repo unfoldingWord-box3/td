@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "psa",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5178,
-    "lr": "Asia",
     "lc": "psa",
+    "gw": false,
+    "ln": "Asue Awyu",
+    "ld": "ltr",
+    "ang": "Awyu, Asue",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Miaro Awyu",
         "Pisa"
     ],
-    "ang": "Awyu, Asue",
-    "gwcode": "id",
-    "ln": "Asue Awyu"
+    "gwcode": "id"
 }

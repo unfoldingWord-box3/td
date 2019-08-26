@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gqi",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2118,
-    "lr": "Asia",
     "lc": "gqi",
+    "gw": false,
+    "ln": "\u8cb4\u74ca",
+    "ld": "ltr",
+    "ang": "Guiqiong",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Guiqiang",
         "Yutong"
     ],
-    "ang": "Guiqiong",
-    "gwcode": "zh",
-    "ln": "\u8cb4\u74ca"
+    "gwcode": "zh"
 }

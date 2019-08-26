@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ree",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 5338,
-    "lr": "Asia",
     "lc": "ree",
+    "gw": false,
+    "ln": "Rejang Kayan",
+    "ld": "ltr",
+    "ang": "Kayan, Rejang",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -13,7 +15,5 @@
         "Rejang Kajan",
         "Long Kehobo (Uma Poh)"
     ],
-    "ang": "Kayan, Rejang",
-    "gwcode": "ms",
-    "ln": "Rejang Kayan"
+    "gwcode": "ms"
 }

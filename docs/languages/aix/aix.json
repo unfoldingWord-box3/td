@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aix",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 180,
-    "lr": "Pacific",
     "lc": "aix",
+    "gw": false,
+    "ln": "Aighon",
+    "ld": "ltr",
+    "ang": "Aighon",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Apsokok (Psohoh)",
         "Psokok"
     ],
-    "ang": "Aighon",
-    "gwcode": "tpi",
-    "ln": "Aighon"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bsi",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 931,
-    "lr": "Africa",
     "lc": "bsi",
+    "gw": false,
+    "ln": "Bassossi",
+    "ld": "ltr",
+    "ang": "Bassossi",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -21,7 +23,5 @@
         "Swose",
         "Mienge (Lower Mbo)"
     ],
-    "ang": "Bassossi",
-    "gwcode": "fr",
-    "ln": "Bassossi"
+    "gwcode": "fr"
 }

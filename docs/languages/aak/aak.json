@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "aak",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 16,
-    "lr": "Pacific",
     "lc": "aak",
+    "gw": false,
+    "ln": "Ankave",
+    "ld": "ltr",
+    "ang": "Ankave",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
     "alt": [
         "Angave"
     ],
-    "ang": "Ankave",
-    "gwcode": "tpi",
-    "ln": "Ankave"
+    "gwcode": "tpi"
 }

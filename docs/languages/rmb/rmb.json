@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rmb",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 5376,
-    "lr": "Pacific",
     "lc": "rmb",
+    "gw": false,
+    "ln": "Rembarunga",
+    "ld": "ltr",
+    "ang": "Rembarunga",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Rembarranga",
         "Rembarrunga"
     ],
-    "ang": "Rembarunga",
-    "gwcode": "en",
-    "ln": "Rembarunga"
+    "gwcode": "en"
 }

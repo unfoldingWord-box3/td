@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tng",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 6224,
-    "lr": "Africa",
     "lc": "tng",
+    "gw": false,
+    "ln": "Tobanga",
+    "ld": "ltr",
+    "ang": "Tobanga",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -17,7 +19,5 @@
         "Mande",
         "Tobanga (Deressia)"
     ],
-    "ang": "Tobanga",
-    "gwcode": "ar",
-    "ln": "Tobanga"
+    "gwcode": "ar"
 }

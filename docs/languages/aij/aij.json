@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aij",
-    "hc": "IL",
-    "ld": "rtl",
     "pk": 169,
-    "lr": "Asia",
     "lc": "aij",
+    "gw": false,
+    "ln": "\u05dc\u05e9\u05e0\u05d9\u05d3 \u05e0\u05e9\u05df",
+    "ld": "rtl",
+    "ang": "Lishanid Noshan",
+    "hc": "IL",
+    "lr": "Asia",
     "cc": [
         "IL"
     ],
@@ -20,7 +22,5 @@
         "Ranye",
         "Arbel (Arbil)"
     ],
-    "ang": "Lishanid Noshan",
-    "gwcode": "en",
-    "ln": "\u05dc\u05e9\u05e0\u05d9\u05d3 \u05e0\u05e9\u05df"
+    "gwcode": "en"
 }

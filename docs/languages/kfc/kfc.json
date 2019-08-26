@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kfc",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2811,
-    "lr": "Asia",
     "lc": "kfc",
+    "gw": false,
+    "ln": "Konda-Dora",
+    "ld": "ltr",
+    "ang": "Konda-Dora",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Porja",
         "Konda-Dora (Konda)"
     ],
-    "ang": "Konda-Dora",
-    "gwcode": "te",
-    "ln": "Konda-Dora"
+    "gwcode": "te"
 }

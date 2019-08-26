@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lwo",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 3648,
-    "lr": "Africa",
     "lc": "lwo",
+    "gw": false,
+    "ln": "Luwo",
+    "ld": "ltr",
+    "ang": "Luwo",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -17,7 +19,5 @@
         "Jur Lwo",
         "Lwo"
     ],
-    "ang": "Luwo",
-    "gwcode": "ar",
-    "ln": "Luwo"
+    "gwcode": "ar"
 }

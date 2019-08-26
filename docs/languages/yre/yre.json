@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yre",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 7269,
-    "lr": "Africa",
     "lc": "yre",
+    "gw": false,
+    "ln": "Yaour\u00e9",
+    "ld": "ltr",
+    "ang": "Yaour\u00e9",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -14,7 +16,5 @@
         "Yohowr\u00e9",
         "Your\u00e9"
     ],
-    "ang": "Yaour\u00e9",
-    "gwcode": "fr",
-    "ln": "Yaour\u00e9"
+    "gwcode": "fr"
 }

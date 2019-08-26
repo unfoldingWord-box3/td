@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mhj",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 3837,
-    "lr": "Asia",
     "lc": "mhj",
+    "gw": false,
+    "ln": "Mogholi",
+    "ld": "ltr",
+    "ang": "Mogholi",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "AF"
     ],
@@ -15,7 +17,5 @@
         "Mogul",
         "Mongul"
     ],
-    "ang": "Mogholi",
-    "gwcode": "ps",
-    "ln": "Mogholi"
+    "gwcode": "ps"
 }

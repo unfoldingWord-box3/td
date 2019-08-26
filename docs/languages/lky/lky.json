@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lky",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 3495,
-    "lr": "Africa",
     "lc": "lky",
+    "gw": false,
+    "ln": "Lokoya",
+    "ld": "ltr",
+    "ang": "Lokoya",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -21,7 +23,5 @@
         "Owoi",
         "Oxoriok"
     ],
-    "ang": "Lokoya",
-    "gwcode": "ar",
-    "ln": "Lokoya"
+    "gwcode": "ar"
 }

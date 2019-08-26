@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yea",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 7158,
-    "lr": "Asia",
     "lc": "yea",
+    "gw": false,
+    "ln": "Ravula",
+    "ld": "ltr",
+    "ang": "Ravula",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -18,7 +20,5 @@
         "Yoruba",
         "Pani Yerava"
     ],
-    "ang": "Ravula",
-    "gwcode": "kn",
-    "ln": "Ravula"
+    "gwcode": "kn"
 }

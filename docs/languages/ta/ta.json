@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "tam",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5962,
-    "lr": "Asia",
     "lc": "ta",
+    "gw": true,
+    "ln": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+    "ld": "ltr",
+    "ang": "Tamil",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "FR",
         "DE",
@@ -36,7 +38,5 @@
         "Tamili",
         "Madurai"
     ],
-    "ang": "Tamil",
-    "gwcode": "UNKNOWN",
-    "ln": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    "gwcode": null
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pid",
-    "hc": "VE",
-    "ld": "ltr",
     "pk": 5029,
-    "lr": "Americas",
     "lc": "pid",
+    "gw": false,
+    "ln": "Piaroa",
+    "ld": "ltr",
+    "ang": "Piaroa",
+    "hc": "VE",
+    "lr": "Americas",
     "cc": [
         "VE",
         "CO"
@@ -23,7 +25,5 @@
         "Uhothha",
         "Uwotj\u00fcja"
     ],
-    "ang": "Piaroa",
-    "gwcode": "es-419",
-    "ln": "Piaroa"
+    "gwcode": "es-419"
 }

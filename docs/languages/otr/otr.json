@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "otr",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 4897,
-    "lr": "Africa",
     "lc": "otr",
+    "gw": false,
+    "ln": "Otoro",
+    "ld": "ltr",
+    "ang": "Otoro",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -20,7 +22,5 @@
         "Dugujur",
         "Dukwara"
     ],
-    "ang": "Otoro",
-    "gwcode": "ar",
-    "ln": "Otoro"
+    "gwcode": "ar"
 }

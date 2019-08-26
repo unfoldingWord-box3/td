@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tpq",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6278,
-    "lr": "Asia",
     "lc": "tpq",
+    "gw": false,
+    "ln": "Tukpa",
+    "ld": "ltr",
+    "ang": "Tukpa",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Nesang",
         "Nyam-kat"
     ],
-    "ang": "Tukpa",
-    "gwcode": "hi",
-    "ln": "Tukpa"
+    "gwcode": "hi"
 }

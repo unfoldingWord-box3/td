@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rob",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5406,
-    "lr": "Asia",
     "lc": "rob",
+    "gw": false,
+    "ln": "Tae'",
+    "ld": "ltr",
+    "ang": "Tae\u2019",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -21,7 +23,5 @@
         "Masamba",
         "Northeast Luwu (Bone-Bone)"
     ],
-    "ang": "Tae\u2019",
-    "gwcode": "id",
-    "ln": "Tae'"
+    "gwcode": "id"
 }

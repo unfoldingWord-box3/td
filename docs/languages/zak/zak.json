@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zak",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 7341,
-    "lr": "Africa",
     "lc": "zak",
+    "gw": false,
+    "ln": "Zanaki",
+    "ld": "ltr",
+    "ang": "Zanaki",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -14,7 +16,5 @@
         "Ikizanaki",
         "Kizanaki"
     ],
-    "ang": "Zanaki",
-    "gwcode": "sw",
-    "ln": "Zanaki"
+    "gwcode": "sw"
 }

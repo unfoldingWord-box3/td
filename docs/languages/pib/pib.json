@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pib",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 5027,
-    "lr": "Americas",
     "lc": "pib",
+    "gw": false,
+    "ln": "Yine",
+    "ld": "ltr",
+    "ang": "Yine",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -18,7 +20,5 @@
         "Piro",
         "Simirinche"
     ],
-    "ang": "Yine",
-    "gwcode": "es-419",
-    "ln": "Yine"
+    "gwcode": "es-419"
 }

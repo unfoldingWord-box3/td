@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kek",
-    "hc": "GT",
-    "ld": "ltr",
     "pk": 2793,
-    "lr": "Americas",
     "lc": "kek",
+    "gw": false,
+    "ln": "Kekch\u00ed",
+    "ld": "ltr",
+    "ang": "Q\u2019eqchi\u2019",
+    "hc": "GT",
+    "lr": "Americas",
     "cc": [
         "BZ",
         "GT"
@@ -21,7 +23,5 @@
         "Quecchi'",
         "Alta Verapaz Cob\u00e1n"
     ],
-    "ang": "Q\u2019eqchi\u2019",
-    "gwcode": "es-419",
-    "ln": "Kekch\u00ed"
+    "gwcode": "es-419"
 }

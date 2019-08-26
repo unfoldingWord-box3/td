@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "scl",
-    "hc": "PK",
-    "ld": "ltr",
     "pk": 5513,
-    "lr": "Asia",
     "lc": "scl",
+    "gw": false,
+    "ln": "\u0634\u06cc\u0646\u0627",
+    "ld": "ltr",
+    "ang": "Shina",
+    "hc": "PK",
+    "lr": "Asia",
     "cc": [
         "AF",
         "PK",
@@ -32,7 +34,5 @@
         "Gilgit",
         "Gilgiti (Bagrote)"
     ],
-    "ang": "Shina",
-    "gwcode": "ur",
-    "ln": "\u0634\u06cc\u0646\u0627"
+    "gwcode": "ur"
 }

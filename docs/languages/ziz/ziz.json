@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ziz",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 7388,
-    "lr": "Africa",
     "lc": "ziz",
+    "gw": false,
+    "ln": "Zizilivakan",
+    "ld": "ltr",
+    "ang": "Zizilivakan",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -18,7 +20,5 @@
         "Jilvu",
         "Zhilvu"
     ],
-    "ang": "Zizilivakan",
-    "gwcode": "en",
-    "ln": "Zizilivakan"
+    "gwcode": "en"
 }

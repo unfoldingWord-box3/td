@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "asn",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 368,
-    "lr": "Americas",
     "lc": "asn",
+    "gw": false,
+    "ln": "Xing\u00fa Asurin\u00ed",
+    "ld": "ltr",
+    "ang": "Asurini of Xing\u00fa",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -15,7 +17,5 @@
         "Awaet\u00e9",
         "Awat\u00e9"
     ],
-    "ang": "Asurini of Xing\u00fa",
-    "gwcode": "pt",
-    "ln": "Xing\u00fa Asurin\u00ed"
+    "gwcode": "pt"
 }

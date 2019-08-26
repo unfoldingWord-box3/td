@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gou",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 2109,
-    "lr": "Africa",
     "lc": "gou",
+    "gw": false,
+    "ln": "Gavar",
+    "ld": "ltr",
+    "ang": "Gavar",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -16,7 +18,5 @@
         "Ma-Gavar",
         "Rtchi"
     ],
-    "ang": "Gavar",
-    "gwcode": "fr",
-    "ln": "Gavar"
+    "gwcode": "fr"
 }

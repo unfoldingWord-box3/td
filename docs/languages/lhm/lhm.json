@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lhm",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 3448,
-    "lr": "Asia",
     "lc": "lhm",
+    "gw": false,
+    "ln": "\u0932\u094d\u0939\u094b\u092e\u0940",
+    "ld": "ltr",
+    "ang": "Lhomi",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -17,7 +19,5 @@
         "Kar Bhote",
         "Kath Bhote"
     ],
-    "ang": "Lhomi",
-    "gwcode": "ne",
-    "ln": "\u0932\u094d\u0939\u094b\u092e\u0940"
+    "gwcode": "ne"
 }

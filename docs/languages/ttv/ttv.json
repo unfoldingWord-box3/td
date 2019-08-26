@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ttv",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6369,
-    "lr": "Pacific",
     "lc": "ttv",
+    "gw": false,
+    "ln": "Titan",
+    "ld": "ltr",
+    "ang": "Titan",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Moanus",
         "Tito"
     ],
-    "ang": "Titan",
-    "gwcode": "tpi",
-    "ln": "Titan"
+    "gwcode": "tpi"
 }

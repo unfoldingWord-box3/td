@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nse",
-    "hc": "ZM",
-    "ld": "ltr",
     "pk": 4641,
-    "lr": "Africa",
     "lc": "nse",
+    "gw": false,
+    "ln": "Nsenga",
+    "ld": "ltr",
+    "ang": "Nsenga",
+    "hc": "ZM",
+    "lr": "Africa",
     "cc": [
         "MZ",
         "ZM"
@@ -15,7 +17,5 @@
         "Senga",
         "Ngoni (Mpezeni)"
     ],
-    "ang": "Nsenga",
-    "gwcode": "en",
-    "ln": "Nsenga"
+    "gwcode": "en"
 }

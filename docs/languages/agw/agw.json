@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "agw",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 143,
-    "lr": "Pacific",
     "lc": "agw",
+    "gw": false,
+    "ln": "Kahua",
+    "ld": "ltr",
+    "ang": "Kahua",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -15,7 +17,5 @@
         "Narihua",
         "Wanoni"
     ],
-    "ang": "Kahua",
-    "gwcode": "UNKNOWN",
-    "ln": "Kahua"
+    "gwcode": "pis"
 }

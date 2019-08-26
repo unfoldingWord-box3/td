@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vau",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 6594,
-    "lr": "Africa",
     "lc": "vau",
+    "gw": false,
+    "ln": "Vanuma",
+    "ld": "ltr",
+    "ang": "Vanuma",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Livanuma",
         "Nyali-Tchabi"
     ],
-    "ang": "Vanuma",
-    "gwcode": "fr",
-    "ln": "Vanuma"
+    "gwcode": "fr"
 }

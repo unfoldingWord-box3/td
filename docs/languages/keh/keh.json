@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "keh",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2790,
-    "lr": "Pacific",
     "lc": "keh",
+    "gw": false,
+    "ln": "Keak",
+    "ld": "ltr",
+    "ang": "Keak",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Tshuosh",
         "Tshwosh"
     ],
-    "ang": "Keak",
-    "gwcode": "tpi",
-    "ln": "Keak"
+    "gwcode": "tpi"
 }

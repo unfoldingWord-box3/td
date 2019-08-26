@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cuw",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 1400,
-    "lr": "Asia",
     "lc": "cuw",
+    "gw": false,
+    "ln": "Chukwa",
+    "ld": "ltr",
+    "ang": "Chukwa",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Pohing",
         "Pohing Kha"
     ],
-    "ang": "Chukwa",
-    "gwcode": "ne",
-    "ln": "Chukwa"
+    "gwcode": "ne"
 }

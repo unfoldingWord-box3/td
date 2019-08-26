@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vmz",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6644,
-    "lr": "Americas",
     "lc": "vmz",
+    "gw": false,
+    "ln": "Mazatl\u00e1n Mazatec",
+    "ld": "ltr",
+    "ang": "Mazatec, Mazatl\u00e1n",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -20,7 +22,5 @@
         "San Antonio Eloxochitl\u00e1n Mazatec (Mazateco de Eloxochitl\u00e1n)",
         "San Lucas Zoquiapan Mazatec"
     ],
-    "ang": "Mazatec, Mazatl\u00e1n",
-    "gwcode": "es-419",
-    "ln": "Mazatl\u00e1n Mazatec"
+    "gwcode": "es-419"
 }

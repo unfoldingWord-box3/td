@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "brn",
-    "hc": "CR",
-    "ld": "ltr",
     "pk": 910,
-    "lr": "Americas",
     "lc": "brn",
+    "gw": false,
+    "ln": "Boruca",
+    "ld": "ltr",
+    "ang": "Boruca",
+    "hc": "CR",
+    "lr": "Americas",
     "cc": [
         "CR"
     ],
@@ -15,7 +17,5 @@
         "Brunka",
         "Burunca"
     ],
-    "ang": "Boruca",
-    "gwcode": "es-419",
-    "ln": "Boruca"
+    "gwcode": "es-419"
 }

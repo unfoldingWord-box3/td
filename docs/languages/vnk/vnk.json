@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vnk",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 6645,
-    "lr": "Pacific",
     "lc": "vnk",
+    "gw": false,
+    "ln": "Vano",
+    "ld": "ltr",
+    "ang": "Lovono",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -15,7 +17,5 @@
         "Vanikolo",
         "Vano"
     ],
-    "ang": "Lovono",
-    "gwcode": "UNKNOWN",
-    "ln": "Vano"
+    "gwcode": "pis"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ckq",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 1237,
-    "lr": "Africa",
     "lc": "ckq",
+    "gw": false,
+    "ln": "Kajakse",
+    "ld": "ltr",
+    "ang": "Kajakse",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -16,7 +18,5 @@
         "Kujarke",
         "Mini"
     ],
-    "ang": "Kajakse",
-    "gwcode": "ar",
-    "ln": "Kajakse"
+    "gwcode": "ar"
 }

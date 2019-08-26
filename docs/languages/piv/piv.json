@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "piv",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 5043,
-    "lr": "Pacific",
     "lc": "piv",
+    "gw": false,
+    "ln": "Pileni",
+    "ld": "ltr",
+    "ang": "Vaeakau-Taumako",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -13,7 +15,5 @@
         "Pilheni",
         "Taumako (Duff)"
     ],
-    "ang": "Vaeakau-Taumako",
-    "gwcode": "UNKNOWN",
-    "ln": "Pileni"
+    "gwcode": "pis"
 }

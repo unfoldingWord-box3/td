@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mpb",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4022,
-    "lr": "Pacific",
     "lc": "mpb",
+    "gw": false,
+    "ln": "Mullukmulluk",
+    "ld": "ltr",
+    "ang": "Mullukmulluk",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Ngolak-Wonga",
         "Nguluwongga"
     ],
-    "ang": "Mullukmulluk",
-    "gwcode": "en",
-    "ln": "Mullukmulluk"
+    "gwcode": "en"
 }

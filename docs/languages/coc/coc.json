@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "coc",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 1289,
-    "lr": "Americas",
     "lc": "coc",
+    "gw": false,
+    "ln": "Cocopa",
+    "ld": "ltr",
+    "ang": "Cocopa",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX",
         "US"
@@ -20,7 +22,5 @@
         "Kikima",
         "Kwikapa"
     ],
-    "ang": "Cocopa",
-    "gwcode": "es-419",
-    "ln": "Cocopa"
+    "gwcode": "es-419"
 }

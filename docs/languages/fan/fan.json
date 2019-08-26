@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fan",
-    "hc": "GQ",
-    "ld": "ltr",
     "pk": 1823,
-    "lr": "Africa",
     "lc": "fan",
+    "gw": false,
+    "ln": "Fang (Equatorial Guinea)",
+    "ld": "ltr",
+    "ang": "Fang",
+    "hc": "GQ",
+    "lr": "Africa",
     "cc": [
         "CM",
         "GQ",
@@ -22,7 +24,5 @@
         "Ntoumou (Ntumu)",
         "Okak (Ntumu)"
     ],
-    "ang": "Fang",
-    "gwcode": "es",
-    "ln": "Fang (Equatorial Guinea)"
+    "gwcode": "es"
 }

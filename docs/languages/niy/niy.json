@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "niy",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4476,
-    "lr": "Africa",
     "lc": "niy",
+    "gw": false,
+    "ln": "Ngiti",
+    "ld": "ltr",
+    "ang": "Ngiti",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -17,7 +19,5 @@
         "Lendu-Sud",
         "Ngeti"
     ],
-    "ang": "Ngiti",
-    "gwcode": "fr",
-    "ln": "Ngiti"
+    "gwcode": "fr"
 }

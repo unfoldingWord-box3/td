@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nmn",
-    "hc": "BW",
-    "ld": "ltr",
     "pk": 4547,
-    "lr": "Africa",
     "lc": "nmn",
+    "gw": false,
+    "ln": "!X\u00f3\u00f5",
+    "ld": "ltr",
+    "ang": "!X\u00f3\u00f5",
+    "hc": "BW",
+    "lr": "Africa",
     "cc": [
         "ZA",
         "BW"
@@ -33,7 +35,5 @@
         "Khatia",
         "|Kusi"
     ],
-    "ang": "!X\u00f3\u00f5",
-    "gwcode": "en",
-    "ln": "!X\u00f3\u00f5"
+    "gwcode": "en"
 }

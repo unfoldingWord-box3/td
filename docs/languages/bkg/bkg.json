@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bkg",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 735,
-    "lr": "Africa",
     "lc": "bkg",
+    "gw": false,
+    "ln": "Buraka",
+    "ld": "ltr",
+    "ang": "Buraka",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF"
     ],
@@ -14,7 +16,5 @@
         "Bouraka",
         "Bolaka"
     ],
-    "ang": "Buraka",
-    "gwcode": "fr",
-    "ln": "Buraka"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "uvh",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6573,
-    "lr": "Pacific",
     "lc": "uvh",
+    "gw": false,
+    "ln": "Uri",
+    "ld": "ltr",
+    "ang": "Uri",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Uri Vehees",
         "Urii"
     ],
-    "ang": "Uri",
-    "gwcode": "tpi",
-    "ln": "Uri"
+    "gwcode": "tpi"
 }

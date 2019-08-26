@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lap",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 3348,
-    "lr": "Africa",
     "lc": "lap",
+    "gw": false,
+    "ln": "Laka (Chad)",
+    "ld": "ltr",
+    "ang": "Laka",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "CF",
         "TD"
@@ -13,7 +15,5 @@
     "alt": [
         "Kabba Laka"
     ],
-    "ang": "Laka",
-    "gwcode": "ar",
-    "ln": "Laka (Chad)"
+    "gwcode": "ar"
 }

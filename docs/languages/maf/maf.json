@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "maf",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3663,
-    "lr": "Africa",
     "lc": "maf",
+    "gw": false,
+    "ln": "Mafa",
+    "ld": "ltr",
+    "ang": "Mafa",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -25,7 +27,5 @@
         "Soulede",
         "West Mafa (Magoumaz)"
     ],
-    "ang": "Mafa",
-    "gwcode": "fr",
-    "ln": "Mafa"
+    "gwcode": "fr"
 }

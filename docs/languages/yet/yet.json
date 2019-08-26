@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yet",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 7165,
-    "lr": "Asia",
     "lc": "yet",
+    "gw": false,
+    "ln": "Yetfa",
+    "ld": "ltr",
+    "ang": "Yetfa",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "PG"
@@ -14,7 +16,5 @@
         "Biaksi",
         "Inisine"
     ],
-    "ang": "Yetfa",
-    "gwcode": "id",
-    "ln": "Yetfa"
+    "gwcode": "id"
 }

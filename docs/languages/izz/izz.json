@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "izz",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2562,
-    "lr": "Africa",
     "lc": "izz",
+    "gw": false,
+    "ln": "Izii",
+    "ld": "ltr",
+    "ang": "Izii",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Izi",
         "Izzi"
     ],
-    "ang": "Izii",
-    "gwcode": "en",
-    "ln": "Izii"
+    "gwcode": "en"
 }

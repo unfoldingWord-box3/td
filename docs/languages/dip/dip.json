@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dip",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 1533,
-    "lr": "Africa",
     "lc": "dip",
+    "gw": false,
+    "ln": "Northeastern Dinka",
+    "ld": "ltr",
+    "ang": "Dinka, Northeastern",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -27,7 +29,5 @@
         "Bowom",
         "Ngok-Sobat (Jok)"
     ],
-    "ang": "Dinka, Northeastern",
-    "gwcode": "ar",
-    "ln": "Northeastern Dinka"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bld",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 758,
-    "lr": "Asia",
     "lc": "bld",
+    "gw": false,
+    "ln": "Bolango",
+    "ld": "ltr",
+    "ang": "Bolango",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -21,7 +23,5 @@
         "Diu",
         "Kattinggola"
     ],
-    "ang": "Bolango",
-    "gwcode": "id",
-    "ln": "Bolango"
+    "gwcode": "id"
 }

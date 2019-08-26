@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ven",
-    "hc": "ZA",
-    "ld": "ltr",
     "pk": 6599,
-    "lr": "Africa",
     "lc": "ve",
+    "gw": false,
+    "ln": "Tshiven\u1e13a",
+    "ld": "ltr",
+    "ang": "Venda",
+    "hc": "ZA",
+    "lr": "Africa",
     "cc": [
         "ZA",
         "ZW"
@@ -20,7 +22,5 @@
         "Guvhu",
         "Manda"
     ],
-    "ang": "Venda",
-    "gwcode": "en",
-    "ln": "Tshiven\u1e13a"
+    "gwcode": "en"
 }

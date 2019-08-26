@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kyg",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3290,
-    "lr": "Pacific",
     "lc": "kyg",
+    "gw": false,
+    "ln": "Keyagana",
+    "ld": "ltr",
+    "ang": "Keyagana",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Keigana",
         "Ke'yagana"
     ],
-    "ang": "Keyagana",
-    "gwcode": "tpi",
-    "ln": "Keyagana"
+    "gwcode": "tpi"
 }

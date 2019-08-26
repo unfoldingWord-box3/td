@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nih",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 4461,
-    "lr": "Africa",
     "lc": "nih",
+    "gw": false,
+    "ln": "Nyiha (Tanzania)",
+    "ld": "ltr",
+    "ang": "Nyiha, Tanzania",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -19,7 +21,5 @@
         "Mbozi",
         "Sumbawanga"
     ],
-    "ang": "Nyiha, Tanzania",
-    "gwcode": "sw",
-    "ln": "Nyiha (Tanzania)"
+    "gwcode": "sw"
 }

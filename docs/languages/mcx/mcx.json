@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mcx",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 3725,
-    "lr": "Africa",
     "lc": "mcx",
+    "gw": false,
+    "ln": "Mpiemo",
+    "ld": "ltr",
+    "ang": "Mpiemo",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CM",
         "CF"
@@ -20,7 +22,5 @@
         "Bidjuki (Bidjouki)",
         "Jasoa (Jasua)"
     ],
-    "ang": "Mpiemo",
-    "gwcode": "fr",
-    "ln": "Mpiemo"
+    "gwcode": "fr"
 }

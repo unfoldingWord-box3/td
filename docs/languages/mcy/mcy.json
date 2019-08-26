@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mcy",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3726,
-    "lr": "Pacific",
     "lc": "mcy",
+    "gw": false,
+    "ln": "South Watut",
+    "ld": "ltr",
+    "ang": "Watut, South",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Dangal (Danggal)",
         "Maralango (Maralangko)"
     ],
-    "ang": "Watut, South",
-    "gwcode": "tpi",
-    "ln": "South Watut"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mag",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3664,
-    "lr": "Asia",
     "lc": "mag",
+    "gw": false,
+    "ln": "Magahi",
+    "ld": "ltr",
+    "ang": "Magahi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -21,7 +23,5 @@
         "Megahi",
         "Central Magahi"
     ],
-    "ang": "Magahi",
-    "gwcode": "hi",
-    "ln": "Magahi"
+    "gwcode": "hi"
 }

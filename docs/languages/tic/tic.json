@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tic",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 6123,
-    "lr": "Africa",
     "lc": "tic",
+    "gw": false,
+    "ln": "Tira",
+    "ld": "ltr",
+    "ang": "Tira",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -17,7 +19,5 @@
         "Tira El Akhdar (Tira Dagig)",
         "Kinderma (Kanderma)"
     ],
-    "ang": "Tira",
-    "gwcode": "ar",
-    "ln": "Tira"
+    "gwcode": "ar"
 }

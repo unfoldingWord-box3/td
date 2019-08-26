@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dgs",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 1502,
-    "lr": "Africa",
     "lc": "dgs",
+    "gw": false,
+    "ln": "Dogoso",
+    "ld": "ltr",
+    "ang": "Dogoso",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -17,7 +19,5 @@
         "Dorhosi\u00e9-Noirs",
         "Dorossi\u00e9-Fing"
     ],
-    "ang": "Dogoso",
-    "gwcode": "fr",
-    "ln": "Dogoso"
+    "gwcode": "fr"
 }

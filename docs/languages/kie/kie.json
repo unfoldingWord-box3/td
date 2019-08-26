@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kie",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 2887,
-    "lr": "Africa",
     "lc": "kie",
+    "gw": false,
+    "ln": "Kibet",
+    "ld": "ltr",
+    "ang": "Kibet",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -17,7 +19,5 @@
         "Muro",
         "Murru (Mourro)"
     ],
-    "ang": "Kibet",
-    "gwcode": "ar",
-    "ln": "Kibet"
+    "gwcode": "ar"
 }

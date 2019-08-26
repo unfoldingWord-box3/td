@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tcz",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6029,
-    "lr": "Asia",
     "lc": "tcz",
+    "gw": false,
+    "ln": "Thado Chin",
+    "ld": "ltr",
+    "ang": "Chin, Thado",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN",
         "MM"
@@ -20,7 +22,5 @@
         "Singson (Shingsol)",
         "Paite"
     ],
-    "ang": "Chin, Thado",
-    "gwcode": "UNKNOWN",
-    "ln": "Thado Chin"
+    "gwcode": "mni"
 }

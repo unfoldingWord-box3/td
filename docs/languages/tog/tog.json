@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tog",
-    "hc": "MW",
-    "ld": "ltr",
     "pk": 6248,
-    "lr": "Africa",
     "lc": "tog",
+    "gw": false,
+    "ln": "Tonga (Nyasa)",
+    "ld": "ltr",
+    "ang": "Tonga",
+    "hc": "MW",
+    "lr": "Africa",
     "cc": [
         "MW"
     ],
@@ -16,7 +18,5 @@
         "Sisya",
         "Western Nyasa"
     ],
-    "ang": "Tonga",
-    "gwcode": "en",
-    "ln": "Tonga (Nyasa)"
+    "gwcode": "en"
 }

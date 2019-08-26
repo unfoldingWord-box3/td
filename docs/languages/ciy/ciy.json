@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ciy",
-    "hc": "VE",
-    "ld": "ltr",
     "pk": 1219,
-    "lr": "Americas",
     "lc": "ciy",
+    "gw": false,
+    "ln": "Chaima",
+    "ld": "ltr",
+    "ang": "Chaima",
+    "hc": "VE",
+    "lr": "Americas",
     "cc": [
         "VE"
     ],
@@ -15,7 +17,5 @@
         "Sayma",
         "Warapiche"
     ],
-    "ang": "Chaima",
-    "gwcode": "es-419",
-    "ln": "Chaima"
+    "gwcode": "es-419"
 }

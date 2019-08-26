@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "snf",
-    "hc": "SN",
-    "ld": "ltr",
     "pk": 5730,
-    "lr": "Africa",
     "lc": "snf",
+    "gw": false,
+    "ln": "Noon",
+    "ld": "ltr",
+    "ang": "Noon",
+    "hc": "SN",
+    "lr": "Africa",
     "cc": [
         "SN"
     ],
@@ -15,7 +17,5 @@
         "Serer",
         "Serer-Noon"
     ],
-    "ang": "Noon",
-    "gwcode": "fr",
-    "ln": "Noon"
+    "gwcode": "fr"
 }

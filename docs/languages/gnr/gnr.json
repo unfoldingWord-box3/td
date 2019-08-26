@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gnr",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 2084,
-    "lr": "Pacific",
     "lc": "gnr",
+    "gw": false,
+    "ln": "Gureng Gureng",
+    "ld": "ltr",
+    "ang": "Gureng Gureng",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Gureng-Gureng",
         "Gurreng Gurreng"
     ],
-    "ang": "Gureng Gureng",
-    "gwcode": "en",
-    "ln": "Gureng Gureng"
+    "gwcode": "en"
 }

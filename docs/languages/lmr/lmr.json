@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lmr",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3528,
-    "lr": "Asia",
     "lc": "lmr",
+    "gw": false,
+    "ln": "Lamalera",
+    "ld": "ltr",
+    "ang": "Lamalera",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Lebatukan",
         "Mulan"
     ],
-    "ang": "Lamalera",
-    "gwcode": "id",
-    "ln": "Lamalera"
+    "gwcode": "id"
 }

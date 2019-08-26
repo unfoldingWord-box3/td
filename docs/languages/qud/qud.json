@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "qud",
-    "hc": "EC",
-    "ld": "ltr",
     "pk": 5251,
-    "lr": "Americas",
     "lc": "qud",
+    "gw": false,
+    "ln": "Calder\u00f3n Highland Quichua",
+    "ld": "ltr",
+    "ang": "Quichua, Calder\u00f3n Highland",
+    "hc": "EC",
+    "lr": "Americas",
     "cc": [
         "EC"
     ],
@@ -14,7 +16,5 @@
         "Cayambe Quichua",
         "Pichincha Quichua"
     ],
-    "ang": "Quichua, Calder\u00f3n Highland",
-    "gwcode": "es-419",
-    "ln": "Calder\u00f3n Highland Quichua"
+    "gwcode": "es-419"
 }

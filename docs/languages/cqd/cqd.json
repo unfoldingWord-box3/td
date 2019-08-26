@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cqd",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 1319,
-    "lr": "Asia",
     "lc": "cqd",
+    "gw": false,
+    "ln": "\u82d7\u8bed\u5ddd\u9ed4\u6ec7\u65b9\u8a00",
+    "ld": "ltr",
+    "ang": "Miao, Chuanqiandian Cluster",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -17,7 +19,5 @@
         "Western Miao",
         "Hmon"
     ],
-    "ang": "Miao, Chuanqiandian Cluster",
-    "gwcode": "zh",
-    "ln": "\u82d7\u8bed\u5ddd\u9ed4\u6ec7\u65b9\u8a00"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "azn",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 484,
-    "lr": "Americas",
     "lc": "azn",
+    "gw": false,
+    "ln": "Western Durango Nahuatl",
+    "ld": "ltr",
+    "ang": "Nahuatl, Western Durango",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "Nahuat del Occidente en Durango y Nayarit",
         "Western Durango Aztec"
     ],
-    "ang": "Nahuatl, Western Durango",
-    "gwcode": "es-419",
-    "ln": "Western Durango Nahuatl"
+    "gwcode": "es-419"
 }

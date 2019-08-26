@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aku",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 207,
-    "lr": "Africa",
     "lc": "aku",
+    "gw": false,
+    "ln": "Ukum",
+    "ld": "ltr",
+    "ang": "Akum",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -13,7 +15,5 @@
         "Anyar",
         "Okum"
     ],
-    "ang": "Akum",
-    "gwcode": "fr",
-    "ln": "Ukum"
+    "gwcode": "fr"
 }

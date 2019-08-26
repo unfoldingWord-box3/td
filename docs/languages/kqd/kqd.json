@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kqd",
-    "hc": "IQ",
-    "ld": "ltr",
     "pk": 3086,
-    "lr": "Asia",
     "lc": "kqd",
+    "gw": false,
+    "ln": "\u0723\u0718\u072a\u072c",
+    "ld": "ltr",
+    "ang": "Koy Sanjaq Surat",
+    "hc": "IQ",
+    "lr": "Asia",
     "cc": [
         "IQ"
     ],
@@ -15,7 +17,5 @@
         "Koy Sanjaq Sooret",
         "Koy Sanjaq Soorit"
     ],
-    "ang": "Koy Sanjaq Surat",
-    "gwcode": "ar",
-    "ln": "\u0723\u0718\u072a\u072c"
+    "gwcode": "ar"
 }

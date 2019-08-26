@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "suc",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 5878,
-    "lr": "Asia",
     "lc": "suc",
+    "gw": false,
+    "ln": "Western Subanon",
+    "ld": "ltr",
+    "ang": "Subanon, Western",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Siocon",
         "Western Kolibugan (Western Kalibugan)"
     ],
-    "ang": "Subanon, Western",
-    "gwcode": "en",
-    "ln": "Western Subanon"
+    "gwcode": "en"
 }

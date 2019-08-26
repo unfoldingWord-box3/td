@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lay",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 3355,
-    "lr": "Asia",
     "lc": "lay",
+    "gw": false,
+    "ln": "Lama Bai",
+    "ld": "ltr",
+    "ang": "Bai, Lama",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -13,7 +15,5 @@
         "Lan-Bi Bai",
         "Northern Bai"
     ],
-    "ang": "Bai, Lama",
-    "gwcode": "zh",
-    "ln": "Lama Bai"
+    "gwcode": "zh"
 }

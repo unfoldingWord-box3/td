@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "khq",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 2872,
-    "lr": "Africa",
     "lc": "khq",
+    "gw": false,
+    "ln": "Koyra Chiini Songhay",
+    "ld": "ltr",
+    "ang": "Songhay, Koyra Chiini",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "LA",
         "ML"
@@ -25,7 +27,5 @@
         "Djenn\u00e9 Chiini",
         "Koyra Chiini"
     ],
-    "ang": "Songhay, Koyra Chiini",
-    "gwcode": "fr",
-    "ln": "Koyra Chiini Songhay"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pna",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 5101,
-    "lr": "Asia",
     "lc": "pna",
+    "gw": false,
+    "ln": "Punan Bah-Biau",
+    "ld": "ltr",
+    "ang": "Penan, Bah-Biau",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -14,7 +16,5 @@
         "Punan",
         "Punan Bah (Punan Ba)"
     ],
-    "ang": "Penan, Bah-Biau",
-    "gwcode": "ms",
-    "ln": "Punan Bah-Biau"
+    "gwcode": "ms"
 }

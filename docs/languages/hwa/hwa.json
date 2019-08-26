@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hwa",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 2393,
-    "lr": "Africa",
     "lc": "hwa",
+    "gw": false,
+    "ln": "Wan\u00e9",
+    "ld": "ltr",
+    "ang": "Wan\u00e9",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -13,7 +15,5 @@
         "Hwane",
         "Ngwan\u00e9"
     ],
-    "ang": "Wan\u00e9",
-    "gwcode": "fr",
-    "ln": "Wan\u00e9"
+    "gwcode": "fr"
 }

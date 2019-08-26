@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tmn",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6207,
-    "lr": "Asia",
     "lc": "tmn",
+    "gw": false,
+    "ln": "Dayak Taman Kapuas",
+    "ld": "ltr",
+    "ang": "Dayak Taman Kapuas",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Dayak Taman",
         "Taman Dayak"
     ],
-    "ang": "Dayak Taman Kapuas",
-    "gwcode": "id",
-    "ln": "Dayak Taman Kapuas"
+    "gwcode": "id"
 }

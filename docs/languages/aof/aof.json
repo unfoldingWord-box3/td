@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aof",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 288,
-    "lr": "Pacific",
     "lc": "aof",
+    "gw": false,
+    "ln": "Bragat",
+    "ld": "ltr",
+    "ang": "Bragat",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Alauagat",
         "Yauan"
     ],
-    "ang": "Bragat",
-    "gwcode": "tpi",
-    "ln": "Bragat"
+    "gwcode": "tpi"
 }

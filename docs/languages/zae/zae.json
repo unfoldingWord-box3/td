@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zae",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7335,
-    "lr": "Americas",
     "lc": "zae",
+    "gw": false,
+    "ln": "Yareni Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Yareni",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "Zapoteco de Santa Ana Yareni",
         "Zapoteco de Teococuilco de Marcos P\u00e9rez"
     ],
-    "ang": "Zapotec, Yareni",
-    "gwcode": "es-419",
-    "ln": "Yareni Zapotec"
+    "gwcode": "es-419"
 }

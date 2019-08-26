@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tsc",
-    "hc": "MZ",
-    "ld": "ltr",
     "pk": 6326,
-    "lr": "Africa",
     "lc": "tsc",
+    "gw": false,
+    "ln": "Tswa",
+    "ld": "ltr",
+    "ang": "Tswa",
+    "hc": "MZ",
+    "lr": "Africa",
     "cc": [
         "MZ",
         "ZA",
@@ -29,7 +31,5 @@
         "Xidzivi",
         "Khambani"
     ],
-    "ang": "Tswa",
-    "gwcode": "pt",
-    "ln": "Tswa"
+    "gwcode": "pt"
 }

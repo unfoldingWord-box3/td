@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nke",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 4498,
-    "lr": "Pacific",
     "lc": "nke",
+    "gw": false,
+    "ln": "Duke",
+    "ld": "ltr",
+    "ang": "Duke",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -14,7 +16,5 @@
         "Ndughore",
         "Nduke"
     ],
-    "ang": "Duke",
-    "gwcode": "UNKNOWN",
-    "ln": "Duke"
+    "gwcode": "pis"
 }

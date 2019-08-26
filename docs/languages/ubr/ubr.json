@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ubr",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6471,
-    "lr": "Pacific",
     "lc": "ubr",
+    "gw": false,
+    "ln": "Ubir",
+    "ld": "ltr",
+    "ang": "Ubir",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Kubiri",
         "Ubiri"
     ],
-    "ang": "Ubir",
-    "gwcode": "tpi",
-    "ln": "Ubir"
+    "gwcode": "tpi"
 }

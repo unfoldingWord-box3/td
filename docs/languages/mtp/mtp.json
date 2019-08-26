@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mtp",
-    "hc": "BO",
-    "ld": "ltr",
     "pk": 4136,
-    "lr": "Americas",
     "lc": "mtp",
+    "gw": false,
+    "ln": "Wich\u00ed Lhamt\u00e9s Nocten",
+    "ld": "ltr",
+    "ang": "Wich\u00ed Lhamt\u00e9s Nocten",
+    "hc": "BO",
+    "lr": "Americas",
     "cc": [
         "AR",
         "BO"
@@ -19,7 +21,5 @@
         "Noct\u00e9n",
         "Mataco"
     ],
-    "ang": "Wich\u00ed Lhamt\u00e9s Nocten",
-    "gwcode": "es-419",
-    "ln": "Wich\u00ed Lhamt\u00e9s Nocten"
+    "gwcode": "es-419"
 }

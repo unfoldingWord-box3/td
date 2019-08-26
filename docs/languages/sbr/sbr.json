@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sbr",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5496,
-    "lr": "Asia",
     "lc": "sbr",
+    "gw": false,
+    "ln": "Sembakung Murut",
+    "ld": "ltr",
+    "ang": "Sembakung Murut",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "MY"
@@ -21,7 +23,5 @@
         "Tidong",
         "Tidung"
     ],
-    "ang": "Sembakung Murut",
-    "gwcode": "id",
-    "ln": "Sembakung Murut"
+    "gwcode": "id"
 }

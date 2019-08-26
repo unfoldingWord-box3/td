@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kxf",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 3263,
-    "lr": "Asia",
     "lc": "kxf",
+    "gw": false,
+    "ln": "Manumanaw Karen",
+    "ld": "ltr",
+    "ang": "Manumanaw",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -19,7 +21,5 @@
         "Doloso",
         "Tawkhu"
     ],
-    "ang": "Manumanaw",
-    "gwcode": "my",
-    "ln": "Manumanaw Karen"
+    "gwcode": "my"
 }

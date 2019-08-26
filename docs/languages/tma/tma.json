@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tma",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 6195,
-    "lr": "Africa",
     "lc": "tma",
+    "gw": false,
+    "ln": "Tama (Chad)",
+    "ld": "ltr",
+    "ang": "Tama",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "TD"
@@ -16,7 +18,5 @@
         "Tamot",
         "Mileere (Milerinka)"
     ],
-    "ang": "Tama",
-    "gwcode": "ar",
-    "ln": "Tama (Chad)"
+    "gwcode": "ar"
 }

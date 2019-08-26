@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "are",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 338,
-    "lr": "Pacific",
     "lc": "are",
+    "gw": false,
+    "ln": "Western Arrarnta",
+    "ld": "ltr",
+    "ang": "Arrarnta, Western",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Western Aranda",
         "Akerre (Akara)"
     ],
-    "ang": "Arrarnta, Western",
-    "gwcode": "en",
-    "ln": "Western Arrarnta"
+    "gwcode": "en"
 }

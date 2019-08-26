@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dur",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 1667,
-    "lr": "Africa",
     "lc": "dur",
+    "gw": false,
+    "ln": "Dii",
+    "ld": "ltr",
+    "ang": "Dii",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -18,7 +20,5 @@
         "Saakye",
         "Sagzee (Saadje)"
     ],
-    "ang": "Dii",
-    "gwcode": "fr",
-    "ln": "Dii"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tsm",
-    "hc": "TR",
-    "ld": "ltr",
     "pk": 6335,
-    "lr": "Asia",
     "lc": "tsm",
+    "gw": false,
+    "ln": "Turkish Sign Language",
+    "ld": "ltr",
+    "ang": "Turkish Sign Language",
+    "hc": "TR",
+    "lr": "Asia",
     "cc": [
         "AZ",
         "TR"
@@ -15,7 +17,5 @@
         "T\u00fcrk Isaret Dili",
         "T\u00fcrk \u00dd\u00fearet Dili"
     ],
-    "ang": "Turkish Sign Language",
-    "gwcode": "tr",
-    "ln": "Turkish Sign Language"
+    "gwcode": "tr"
 }

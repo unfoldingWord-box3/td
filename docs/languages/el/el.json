@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ell",
-    "hc": "GR",
-    "ld": "ltr",
     "pk": 1724,
-    "lr": "Europe",
     "lc": "el",
+    "gw": false,
+    "ln": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac",
+    "ld": "ltr",
+    "ang": "Greek (modern)",
+    "hc": "GR",
+    "lr": "Europe",
     "cc": [
         "AT",
         "CY",
@@ -35,7 +37,5 @@
         "Tavro-Rumeic",
         "Mariupol Greek (Crimeo-Rumeic)"
     ],
-    "ang": "Greek (modern)",
-    "gwcode": "en",
-    "ln": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    "gwcode": "en"
 }

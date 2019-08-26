@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xmj",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 6977,
-    "lr": "Africa",
     "lc": "xmj",
+    "gw": false,
+    "ln": "Majera",
+    "ld": "ltr",
+    "ang": "Majera",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "TD"
@@ -18,7 +20,5 @@
         "Hwalem (Holom)",
         "Majera (Mazra)"
     ],
-    "ang": "Majera",
-    "gwcode": "fr",
-    "ln": "Majera"
+    "gwcode": "fr"
 }

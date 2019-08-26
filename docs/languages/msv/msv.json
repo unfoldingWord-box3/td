@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "msv",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4115,
-    "lr": "Africa",
     "lc": "msv",
+    "gw": false,
+    "ln": "Maslam",
+    "ld": "ltr",
+    "ang": "Maslam",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "TD"
@@ -16,7 +18,5 @@
         "Maslam (Maltam)",
         "Sao (Sahu)"
     ],
-    "ang": "Maslam",
-    "gwcode": "fr",
-    "ln": "Maslam"
+    "gwcode": "fr"
 }

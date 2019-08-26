@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bev",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 604,
-    "lr": "Africa",
     "lc": "bev",
+    "gw": false,
+    "ln": "Daloa B\u00e9t\u00e9",
+    "ld": "ltr",
+    "ang": "B\u00e9t\u00e9, Daloa",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -13,7 +15,5 @@
         "Daloua B\u00e9t\u00e9",
         "Northern B\u00e9t\u00e9"
     ],
-    "ang": "B\u00e9t\u00e9, Daloa",
-    "gwcode": "fr",
-    "ln": "Daloa B\u00e9t\u00e9"
+    "gwcode": "fr"
 }

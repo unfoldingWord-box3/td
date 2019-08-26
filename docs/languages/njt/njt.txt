@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * SR: Suriname
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: njt
@@ -14,7 +16,7 @@ This language is spoken in the following countries:
     anglicanized_name: Ndyuka-Trio Pidgin
     country_codes:
     - SR
-    gateway_language: UNKNOWN
+    gateway_language: nl
     lang_code: njt
     lang_direction: ltr
     lang_name: Ndyuka-Trio Pidgin

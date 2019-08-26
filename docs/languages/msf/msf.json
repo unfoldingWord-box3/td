@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "msf",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4101,
-    "lr": "Asia",
     "lc": "msf",
+    "gw": false,
+    "ln": "Mekwei",
+    "ld": "ltr",
+    "ang": "Mekwei",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -20,7 +22,5 @@
         "Munkei",
         "Waipu"
     ],
-    "ang": "Mekwei",
-    "gwcode": "id",
-    "ln": "Mekwei"
+    "gwcode": "id"
 }

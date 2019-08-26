@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "smc",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5705,
-    "lr": "Pacific",
     "lc": "smc",
+    "gw": false,
+    "ln": "Som",
+    "ld": "ltr",
+    "ang": "Som",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Dinanget",
         "Somm"
     ],
-    "ang": "Som",
-    "gwcode": "tpi",
-    "ln": "Som"
+    "gwcode": "tpi"
 }

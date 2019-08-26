@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cae",
-    "hc": "SN",
-    "ld": "ltr",
     "pk": 1114,
-    "lr": "Africa",
     "lc": "cae",
+    "gw": false,
+    "ln": "Lehar",
+    "ld": "ltr",
+    "ang": "Laalaa",
+    "hc": "SN",
+    "lr": "Africa",
     "cc": [
         "SN"
     ],
@@ -13,7 +15,5 @@
         "Lehar",
         "Serer"
     ],
-    "ang": "Laalaa",
-    "gwcode": "fr",
-    "ln": "Lehar"
+    "gwcode": "fr"
 }

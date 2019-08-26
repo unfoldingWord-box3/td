@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bae",
-    "hc": "VE",
-    "ld": "ltr",
     "pk": 492,
-    "lr": "Americas",
     "lc": "bae",
+    "gw": false,
+    "ln": "Bar\u00e9",
+    "ld": "ltr",
+    "ang": "Bar\u00e9",
+    "hc": "VE",
+    "lr": "Americas",
     "cc": [
         "VE"
     ],
@@ -20,7 +22,5 @@
         "Mitua",
         "Yavita"
     ],
-    "ang": "Bar\u00e9",
-    "gwcode": "es-419",
-    "ln": "Bar\u00e9"
+    "gwcode": "es-419"
 }

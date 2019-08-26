@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kft",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2828,
-    "lr": "Asia",
     "lc": "kft",
+    "gw": false,
+    "ln": "Kanjari",
+    "ld": "ltr",
+    "ang": "Kanjari",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -15,7 +17,5 @@
         "Kangri",
         "Kanjri"
     ],
-    "ang": "Kanjari",
-    "gwcode": "hi",
-    "ln": "Kanjari"
+    "gwcode": "hi"
 }

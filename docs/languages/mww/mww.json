@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mww",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 4211,
-    "lr": "Asia",
     "lc": "mww",
+    "gw": false,
+    "ln": "\u767d\u82d7\u65b9\u8a00",
+    "ld": "ltr",
+    "ang": "Hmong Daw",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "FR",
@@ -37,7 +39,5 @@
         "Hmong Gu Mba (Hmong Qua Mba)",
         "Hmong Xi (Meo Do)"
     ],
-    "ang": "Hmong Daw",
-    "gwcode": "zh",
-    "ln": "\u767d\u82d7\u65b9\u8a00"
+    "gwcode": "zh"
 }

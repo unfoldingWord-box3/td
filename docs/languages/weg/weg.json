@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "weg",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6712,
-    "lr": "Pacific",
     "lc": "weg",
+    "gw": false,
+    "ln": "Wergaia",
+    "ld": "ltr",
+    "ang": "Wergaia",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Wimmera",
         "Worgaia"
     ],
-    "ang": "Wergaia",
-    "gwcode": "en",
-    "ln": "Wergaia"
+    "gwcode": "en"
 }

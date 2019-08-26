@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tbt",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 6001,
-    "lr": "Africa",
     "lc": "tbt",
+    "gw": false,
+    "ln": "Tembo (Kitembo)",
+    "ld": "ltr",
+    "ang": "Tembo",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Nyabungu",
         "Tembo (Kitembo)"
     ],
-    "ang": "Tembo",
-    "gwcode": "fr",
-    "ln": "Tembo (Kitembo)"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "avi",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 429,
-    "lr": "Africa",
     "lc": "avi",
+    "gw": false,
+    "ln": "Avikam",
+    "ld": "ltr",
+    "ang": "Avikam",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -16,7 +18,5 @@
         "Kwakwa",
         "Lahu"
     ],
-    "ang": "Avikam",
-    "gwcode": "fr",
-    "ln": "Avikam"
+    "gwcode": "fr"
 }

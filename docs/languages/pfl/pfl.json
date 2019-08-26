@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pfl",
-    "hc": "DE",
-    "ld": "ltr",
     "pk": 5000,
-    "lr": "Europe",
     "lc": "pfl",
+    "gw": false,
+    "ln": "Pfaelzisch",
+    "ld": "ltr",
+    "ang": "Pfaelzisch",
+    "hc": "DE",
+    "lr": "Europe",
     "cc": [
         "DE"
     ],
@@ -13,7 +15,5 @@
         "Pf\u00e4lzisch",
         "Pf\u00e4lzische"
     ],
-    "ang": "Pfaelzisch",
-    "gwcode": "en",
-    "ln": "Pfaelzisch"
+    "gwcode": "en"
 }

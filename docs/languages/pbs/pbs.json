@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pbs",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4951,
-    "lr": "Americas",
     "lc": "pbs",
+    "gw": false,
+    "ln": "Central Pame",
+    "ld": "ltr",
+    "ang": "Pame, Central",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -16,7 +18,5 @@
         "Southern Pame",
         "Xi'oi"
     ],
-    "ang": "Pame, Central",
-    "gwcode": "es-419",
-    "ln": "Central Pame"
+    "gwcode": "es-419"
 }

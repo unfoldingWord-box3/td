@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xky",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 6954,
-    "lr": "Asia",
     "lc": "xky",
+    "gw": false,
+    "ln": "Uma' Lasan",
+    "ld": "ltr",
+    "ang": "Uma\u2019 Lasan",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -18,7 +20,5 @@
         "Western Kenya",
         "Uma' Baka"
     ],
-    "ang": "Uma\u2019 Lasan",
-    "gwcode": "ms",
-    "ln": "Uma' Lasan"
+    "gwcode": "ms"
 }

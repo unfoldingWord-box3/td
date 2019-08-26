@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tjl",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 6147,
-    "lr": "Asia",
     "lc": "tjl",
+    "gw": false,
+    "ln": "Tai Laing",
+    "ld": "ltr",
+    "ang": "Tai Laing",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -18,7 +20,5 @@
         "Tai Lang",
         "Tai Naing"
     ],
-    "ang": "Tai Laing",
-    "gwcode": "my",
-    "ln": "Tai Laing"
+    "gwcode": "my"
 }

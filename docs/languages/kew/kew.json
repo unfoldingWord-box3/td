@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "kew",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2805,
-    "lr": "Pacific",
     "lc": "kew",
+    "gw": false,
+    "ln": "West Kewa",
+    "ld": "ltr",
+    "ang": "Kewa, West",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
     "alt": [
         "Pasuma"
     ],
-    "ang": "Kewa, West",
-    "gwcode": "tpi",
-    "ln": "West Kewa"
+    "gwcode": "tpi"
 }

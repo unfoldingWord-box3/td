@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nen",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 4391,
-    "lr": "Pacific",
     "lc": "nen",
+    "gw": false,
+    "ln": "Nengone",
+    "ld": "ltr",
+    "ang": "Nengone",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -13,7 +15,5 @@
         "Iwatenu",
         "Pene Nengone"
     ],
-    "ang": "Nengone",
-    "gwcode": "en",
-    "ln": "Nengone"
+    "gwcode": "en"
 }

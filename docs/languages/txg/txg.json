@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "txg",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 6428,
-    "lr": "Asia",
     "lc": "txg",
+    "gw": false,
+    "ln": "Tangut",
+    "ld": "ltr",
+    "ang": "Tangut",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
     "alt": [],
-    "ang": "Tangut",
-    "gwcode": "UNKNOWN",
-    "ln": "Tangut"
+    "gwcode": null
 }

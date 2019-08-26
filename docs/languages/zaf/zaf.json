@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zaf",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 7336,
-    "lr": "Americas",
     "lc": "zaf",
+    "gw": false,
+    "ln": "Ayoquesco Zapotec",
+    "ld": "ltr",
+    "ang": "Zapotec, Ayoquesco",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Western Ejutla Zapotec",
         "Zapoteco de Santa Mar\u00eda Ayoquesco"
     ],
-    "ang": "Zapotec, Ayoquesco",
-    "gwcode": "es-419",
-    "ln": "Ayoquesco Zapotec"
+    "gwcode": "es-419"
 }

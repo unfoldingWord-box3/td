@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mbz",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3701,
-    "lr": "Americas",
     "lc": "mbz",
+    "gw": false,
+    "ln": "Amoltepec Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Amoltepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Mixteco de Amoltepec",
         "Western Sola de Vega Mixtec"
     ],
-    "ang": "Mixtec, Amoltepec",
-    "gwcode": "es-419",
-    "ln": "Amoltepec Mixtec"
+    "gwcode": "es-419"
 }

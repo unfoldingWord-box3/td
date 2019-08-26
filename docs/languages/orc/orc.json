@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "orc",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 4864,
-    "lr": "Africa",
     "lc": "orc",
+    "gw": false,
+    "ln": "Orma",
+    "ld": "ltr",
+    "ang": "Orma",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -17,7 +19,5 @@
         "Munyo Yaya",
         "Waata (Sanye)"
     ],
-    "ang": "Orma",
-    "gwcode": "sw",
-    "ln": "Orma"
+    "gwcode": "sw"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tsb",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 6325,
-    "lr": "Africa",
     "lc": "tsb",
+    "gw": false,
+    "ln": "Tsamai",
+    "ld": "ltr",
+    "ang": "Tsamai",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -20,7 +22,5 @@
         "Tsamako",
         "Ts'amay"
     ],
-    "ang": "Tsamai",
-    "gwcode": "am",
-    "ln": "Tsamai"
+    "gwcode": "am"
 }

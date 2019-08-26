@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "qva",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 5269,
-    "lr": "Americas",
     "lc": "qva",
+    "gw": false,
+    "ln": "Ambo-Pasco Quechua",
+    "ld": "ltr",
+    "ang": "Quechua, Ambo-Pasco",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
     "alt": [
         "San Rafael-Huariaca Quechua"
     ],
-    "ang": "Quechua, Ambo-Pasco",
-    "gwcode": "es-419",
-    "ln": "Ambo-Pasco Quechua"
+    "gwcode": "es-419"
 }

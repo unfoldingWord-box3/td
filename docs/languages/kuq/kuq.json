@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kuq",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 3198,
-    "lr": "Americas",
     "lc": "kuq",
+    "gw": false,
+    "ln": "Karipuna",
+    "ld": "ltr",
+    "ang": "Karipuna",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -21,7 +23,5 @@
         "Karipun\u00e1 de Rond\u00f4nia",
         "Karipun\u00e1 do Guapor\u00e9"
     ],
-    "ang": "Karipuna",
-    "gwcode": "pt",
-    "ln": "Karipuna"
+    "gwcode": "pt"
 }

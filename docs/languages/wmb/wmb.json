@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wmb",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6765,
-    "lr": "Pacific",
     "lc": "wmb",
+    "gw": false,
+    "ln": "Wambaya",
+    "ld": "ltr",
+    "ang": "Wambaya",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -18,7 +20,5 @@
         "Yumpia",
         "Binbinga (Binbinka)"
     ],
-    "ang": "Wambaya",
-    "gwcode": "en",
-    "ln": "Wambaya"
+    "gwcode": "en"
 }

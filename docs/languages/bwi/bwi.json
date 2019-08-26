@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bwi",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 1025,
-    "lr": "Americas",
     "lc": "bwi",
+    "gw": false,
+    "ln": "Baniwa",
+    "ld": "ltr",
+    "ang": "Baniwa",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "VE"
@@ -19,7 +21,5 @@
         "Kohoroxitari",
         "Maniba"
     ],
-    "ang": "Baniwa",
-    "gwcode": "pt",
-    "ln": "Baniwa"
+    "gwcode": "pt"
 }

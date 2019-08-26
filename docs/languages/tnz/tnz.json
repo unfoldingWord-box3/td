@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tnz",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 6242,
-    "lr": "Asia",
     "lc": "tnz",
+    "gw": false,
+    "ln": "Ten'edn",
+    "ld": "ltr",
+    "ang": "Tonga",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "TH"
     ],
@@ -13,7 +15,5 @@
         "Mos Tean-ean",
         "Mos"
     ],
-    "ang": "Tonga",
-    "gwcode": "th",
-    "ln": "Ten'edn"
+    "gwcode": "th"
 }

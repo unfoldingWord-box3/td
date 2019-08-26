@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gda",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1960,
-    "lr": "Asia",
     "lc": "gda",
+    "gw": false,
+    "ln": "Gade Lohar",
+    "ld": "ltr",
+    "ang": "Lohar, Gade",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -27,7 +29,5 @@
         "Panchal Lohar",
         "Rajput Lohar"
     ],
-    "ang": "Lohar, Gade",
-    "gwcode": "UNKNOWN",
-    "ln": "Gade Lohar"
+    "gwcode": "raj"
 }

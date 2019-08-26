@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tsg",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 6329,
-    "lr": "Asia",
     "lc": "tsg",
+    "gw": false,
+    "ln": "Tausug",
+    "ld": "ltr",
+    "ang": "Tausug",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "MY",
         "PH"
@@ -24,7 +26,5 @@
         "Bahasa Sug",
         "Sinug"
     ],
-    "ang": "Tausug",
-    "gwcode": "en",
-    "ln": "Tausug"
+    "gwcode": "en"
 }

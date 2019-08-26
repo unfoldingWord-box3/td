@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gvs",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2188,
-    "lr": "Pacific",
     "lc": "gvs",
+    "gw": false,
+    "ln": "Gumawana",
+    "ld": "ltr",
+    "ang": "Gumawana",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Kotoita",
         "Nubogeta"
     ],
-    "ang": "Gumawana",
-    "gwcode": "tpi",
-    "ln": "Gumawana"
+    "gwcode": "tpi"
 }

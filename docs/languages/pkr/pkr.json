@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pkr",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5057,
-    "lr": "Asia",
     "lc": "pkr",
+    "gw": false,
+    "ln": "Attapady Kurumba",
+    "ld": "ltr",
+    "ang": "Kurumba, Attapady",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Kurumba",
         "Pal Kurumba"
     ],
-    "ang": "Kurumba, Attapady",
-    "gwcode": "hi",
-    "ln": "Attapady Kurumba"
+    "gwcode": "hi"
 }

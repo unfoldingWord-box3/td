@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cpn",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 1313,
-    "lr": "Africa",
     "lc": "cpn",
+    "gw": false,
+    "ln": "Cherepon",
+    "ld": "ltr",
+    "ang": "Cherepon",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -14,7 +16,5 @@
         "Kyerepong",
         "Okere"
     ],
-    "ang": "Cherepon",
-    "gwcode": "en",
-    "ln": "Cherepon"
+    "gwcode": "en"
 }

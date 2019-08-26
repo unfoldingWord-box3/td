@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cra",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 1322,
-    "lr": "Africa",
     "lc": "cra",
+    "gw": false,
+    "ln": "Chara",
+    "ld": "ltr",
+    "ang": "Chara",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -13,7 +15,5 @@
         "Ciara",
         "Buch'a"
     ],
-    "ang": "Chara",
-    "gwcode": "am",
-    "ln": "Chara"
+    "gwcode": "am"
 }

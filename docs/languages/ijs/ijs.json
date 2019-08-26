@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ijs",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2456,
-    "lr": "Africa",
     "lc": "ijs",
+    "gw": false,
+    "ln": "Southeast Ijo",
+    "ld": "ltr",
+    "ang": "Ijo, Southeast",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -18,7 +20,5 @@
         "Ijo",
         "Nembe (Nimbe)"
     ],
-    "ang": "Ijo, Southeast",
-    "gwcode": "en",
-    "ln": "Southeast Ijo"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cdz",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1173,
-    "lr": "Asia",
     "lc": "cdz",
+    "gw": false,
+    "ln": "Koda",
+    "ld": "ltr",
+    "ang": "Koda",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN"
@@ -19,7 +21,5 @@
         "Mudi",
         "Mudikora"
     ],
-    "ang": "Koda",
-    "gwcode": "bn",
-    "ln": "Koda"
+    "gwcode": "bn"
 }

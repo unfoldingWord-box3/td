@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nof",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4586,
-    "lr": "Pacific",
     "lc": "nof",
+    "gw": false,
+    "ln": "Nomane",
+    "ld": "ltr",
+    "ang": "Nomane",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Kewo-Meba (Nomane)",
         "Meine"
     ],
-    "ang": "Nomane",
-    "gwcode": "tpi",
-    "ln": "Nomane"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "six",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5637,
-    "lr": "Pacific",
     "lc": "six",
+    "gw": false,
+    "ln": "Sumau",
+    "ld": "ltr",
+    "ang": "Sumau",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Kari",
         "Sumau-Garia"
     ],
-    "ang": "Sumau",
-    "gwcode": "tpi",
-    "ln": "Sumau"
+    "gwcode": "tpi"
 }

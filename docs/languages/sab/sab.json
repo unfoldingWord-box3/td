@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sab",
-    "hc": "PA",
-    "ld": "ltr",
     "pk": 5460,
-    "lr": "Americas",
     "lc": "sab",
+    "gw": false,
+    "ln": "Buglere",
+    "ld": "ltr",
+    "ang": "Buglere",
+    "hc": "PA",
+    "lr": "Americas",
     "cc": [
         "PA"
     ],
@@ -20,7 +22,5 @@
         "Nortenyo",
         "Veraguas Sabanero"
     ],
-    "ang": "Buglere",
-    "gwcode": "es-419",
-    "ln": "Buglere"
+    "gwcode": "es-419"
 }

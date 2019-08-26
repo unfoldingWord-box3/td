@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tti",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6356,
-    "lr": "Asia",
     "lc": "tti",
+    "gw": false,
+    "ln": "Tobati",
+    "ld": "ltr",
+    "ang": "Tobati",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -18,7 +20,5 @@
         "Yautefa",
         "Yotafa"
     ],
-    "ang": "Tobati",
-    "gwcode": "id",
-    "ln": "Tobati"
+    "gwcode": "id"
 }

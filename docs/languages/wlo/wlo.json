@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wlo",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 6759,
-    "lr": "Asia",
     "lc": "wlo",
+    "gw": false,
+    "ln": "Wolio",
+    "ld": "ltr",
+    "ang": "Wolio",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "MY"
@@ -16,7 +18,5 @@
         "Butonese",
         "Butung"
     ],
-    "ang": "Wolio",
-    "gwcode": "id",
-    "ln": "Wolio"
+    "gwcode": "id"
 }

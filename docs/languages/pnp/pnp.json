@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pnp",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5112,
-    "lr": "Asia",
     "lc": "pnp",
+    "gw": false,
+    "ln": "Pancana",
+    "ld": "ltr",
+    "ang": "Pancana",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Kalende (Lawele)",
         "Kapontori (Akido)"
     ],
-    "ang": "Pancana",
-    "gwcode": "id",
-    "ln": "Pancana"
+    "gwcode": "id"
 }

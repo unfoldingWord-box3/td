@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mpd",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 4024,
-    "lr": "Americas",
     "lc": "mpd",
+    "gw": false,
+    "ln": "Machinere",
+    "ld": "ltr",
+    "ang": "Machinere",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -16,7 +18,5 @@
         "Manitener\u00ed",
         "Maxin\u00e9ri"
     ],
-    "ang": "Machinere",
-    "gwcode": "pt",
-    "ln": "Machinere"
+    "gwcode": "pt"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ktt",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3175,
-    "lr": "Asia",
     "lc": "ktt",
+    "gw": false,
+    "ln": "Ketum",
+    "ld": "ltr",
+    "ang": "Ketum",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Kitum",
         "Wambon-Ketum"
     ],
-    "ang": "Ketum",
-    "gwcode": "id",
-    "ln": "Ketum"
+    "gwcode": "id"
 }

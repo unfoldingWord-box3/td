@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mfk",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 3787,
-    "lr": "Africa",
     "lc": "mfk",
+    "gw": false,
+    "ln": "North Mofu",
+    "ld": "ltr",
+    "ang": "Mofu, North",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -17,7 +19,5 @@
         "Wazan (Wazang)",
         "Mofu de Douroum"
     ],
-    "ang": "Mofu, North",
-    "gwcode": "fr",
-    "ln": "North Mofu"
+    "gwcode": "fr"
 }

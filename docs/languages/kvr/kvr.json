@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kvr",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3225,
-    "lr": "Asia",
     "lc": "kvr",
+    "gw": false,
+    "ln": "Kerinci",
+    "ld": "ltr",
+    "ang": "Kerinci",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Kerinchi",
         "Kinchai"
     ],
-    "ang": "Kerinci",
-    "gwcode": "id",
-    "ln": "Kerinci"
+    "gwcode": "id"
 }

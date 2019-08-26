@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mug",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4151,
-    "lr": "Africa",
     "lc": "mug",
+    "gw": false,
+    "ln": "Musgu",
+    "ld": "ltr",
+    "ang": "Musgu",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM",
         "TD"
@@ -32,7 +34,5 @@
         "Musgum-Pouss",
         "Vlum"
     ],
-    "ang": "Musgu",
-    "gwcode": "fr",
-    "ln": "Musgu"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fue",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 1885,
-    "lr": "Africa",
     "lc": "fue",
+    "gw": false,
+    "ln": "Borgu Fulfulde",
+    "ld": "ltr",
+    "ang": "Fulfulde, Borgu",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "TG"
@@ -20,7 +22,5 @@
         "Djougoure (Juguure)",
         "Korakuure"
     ],
-    "ang": "Fulfulde, Borgu",
-    "gwcode": "fr",
-    "ln": "Borgu Fulfulde"
+    "gwcode": "fr"
 }

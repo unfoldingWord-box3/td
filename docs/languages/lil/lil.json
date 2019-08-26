@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lil",
-    "hc": "CA",
-    "ld": "ltr",
     "pk": 3464,
-    "lr": "Americas",
     "lc": "lil",
+    "gw": false,
+    "ln": "Lillooet",
+    "ld": "ltr",
+    "ang": "Lillooet",
+    "hc": "CA",
+    "lr": "Americas",
     "cc": [
         "CA"
     ],
@@ -14,7 +16,5 @@
         "Upper Lillooet",
         "Lower Lillooet"
     ],
-    "ang": "Lillooet",
-    "gwcode": "en",
-    "ln": "Lillooet"
+    "gwcode": "en"
 }

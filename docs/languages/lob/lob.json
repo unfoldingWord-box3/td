@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lob",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 3551,
-    "lr": "Africa",
     "lc": "lob",
+    "gw": false,
+    "ln": "Lobi",
+    "ld": "ltr",
+    "ang": "Lobi",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF",
         "GH"
@@ -14,7 +16,5 @@
         "Lobiri",
         "Miwa"
     ],
-    "ang": "Lobi",
-    "gwcode": "fr",
-    "ln": "Lobi"
+    "gwcode": "fr"
 }

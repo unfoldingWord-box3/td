@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bwx",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 1039,
-    "lr": "Asia",
     "lc": "bwx",
+    "gw": false,
+    "ln": "\u5e03\u52aa\u8bed",
+    "ld": "ltr",
+    "ang": "Bunu, Bu-Nao",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -25,7 +27,5 @@
         "Bunuo (Pu No)",
         "Numao (Hong Yao)"
     ],
-    "ang": "Bunu, Bu-Nao",
-    "gwcode": "zh",
-    "ln": "\u5e03\u52aa\u8bed"
+    "gwcode": "zh"
 }

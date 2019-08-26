@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mnc",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 3977,
-    "lr": "Asia",
     "lc": "mnc",
+    "gw": false,
+    "ln": "\u6ee1\u8bed",
+    "ld": "ltr",
+    "ang": "Manchu",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -16,7 +18,5 @@
         "Jing",
         "Lalin"
     ],
-    "ang": "Manchu",
-    "gwcode": "zh",
-    "ln": "\u6ee1\u8bed"
+    "gwcode": "zh"
 }

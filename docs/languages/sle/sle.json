@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sle",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5684,
-    "lr": "Asia",
     "lc": "sle",
+    "gw": false,
+    "ln": "Sholaga",
+    "ld": "ltr",
+    "ang": "Sholaga",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -18,7 +20,5 @@
         "Solanayakkans",
         "Soliga"
     ],
-    "ang": "Sholaga",
-    "gwcode": "kn",
-    "ln": "Sholaga"
+    "gwcode": "kn"
 }

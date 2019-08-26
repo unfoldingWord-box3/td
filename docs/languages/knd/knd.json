@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "knd",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3017,
-    "lr": "Asia",
     "lc": "knd",
+    "gw": false,
+    "ln": "Konda",
+    "ld": "ltr",
+    "ang": "Konda",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Yabin",
         "Yabin-Konda"
     ],
-    "ang": "Konda",
-    "gwcode": "id",
-    "ln": "Konda"
+    "gwcode": "id"
 }

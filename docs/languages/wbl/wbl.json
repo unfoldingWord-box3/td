@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wbl",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 6697,
-    "lr": "Asia",
     "lc": "wbl",
+    "gw": false,
+    "ln": "Khikwor",
+    "ld": "ltr",
+    "ang": "Wakhi",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "CN",
         "AF",
@@ -20,7 +22,5 @@
         "Wakhigi",
         "Guhjali"
     ],
-    "ang": "Wakhi",
-    "gwcode": "ps",
-    "ln": "Khikwor"
+    "gwcode": "ps"
 }

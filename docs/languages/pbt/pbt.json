@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pbt",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 4952,
-    "lr": "Asia",
     "lc": "pbt",
+    "gw": false,
+    "ln": "\u067e\u069a\u062a\u0648",
+    "ld": "ltr",
+    "ang": "Pashto, Southern",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "AF",
         "IR",
@@ -26,7 +28,5 @@
         "Pakhtoo",
         "Pakhtu"
     ],
-    "ang": "Pashto, Southern",
-    "gwcode": "ps",
-    "ln": "\u067e\u069a\u062a\u0648"
+    "gwcode": "ps"
 }

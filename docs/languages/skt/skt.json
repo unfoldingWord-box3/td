@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "skt",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 5675,
-    "lr": "Africa",
     "lc": "skt",
+    "gw": false,
+    "ln": "Sakata",
+    "ld": "ltr",
+    "ang": "Sakata",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -19,7 +21,5 @@
         "Djia (Dia)",
         "Kidjia"
     ],
-    "ang": "Sakata",
-    "gwcode": "fr",
-    "ln": "Sakata"
+    "gwcode": "fr"
 }

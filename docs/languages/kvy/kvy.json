@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kvy",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 3232,
-    "lr": "Asia",
     "lc": "kvy",
+    "gw": false,
+    "ln": "Yintale Karen",
+    "ld": "ltr",
+    "ang": "Yintale",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -18,7 +20,5 @@
         "Bawlake",
         "Wa Awng"
     ],
-    "ang": "Yintale",
-    "gwcode": "my",
-    "ln": "Yintale Karen"
+    "gwcode": "my"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gbn",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 1940,
-    "lr": "Africa",
     "lc": "gbn",
+    "gw": false,
+    "ln": "Mo'da",
+    "ld": "ltr",
+    "ang": "Mo\u2019da",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -15,7 +17,5 @@
         "Gweri",
         "Muda"
     ],
-    "ang": "Mo\u2019da",
-    "gwcode": "ar",
-    "ln": "Mo'da"
+    "gwcode": "ar"
 }

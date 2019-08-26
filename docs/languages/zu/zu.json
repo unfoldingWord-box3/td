@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zul",
-    "hc": "ZA",
-    "ld": "ltr",
     "pk": 7487,
-    "lr": "Africa",
     "lc": "zu",
+    "gw": false,
+    "ln": "isiZulu",
+    "ld": "ltr",
+    "ang": "Zulu",
+    "hc": "ZA",
+    "lr": "Africa",
     "cc": [
         "MZ",
         "ZA",
@@ -20,7 +22,5 @@
         "Ngoni",
         "Zunda"
     ],
-    "ang": "Zulu",
-    "gwcode": "en",
-    "ln": "isiZulu"
+    "gwcode": "en"
 }

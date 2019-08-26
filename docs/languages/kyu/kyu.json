@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kyu",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 3303,
-    "lr": "Asia",
     "lc": "kyu",
+    "gw": false,
+    "ln": "Western Kayah",
+    "ld": "ltr",
+    "ang": "Kayah, Western",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -24,7 +26,5 @@
         "Dawtama",
         "Wan Cheh"
     ],
-    "ang": "Kayah, Western",
-    "gwcode": "my",
-    "ln": "Western Kayah"
+    "gwcode": "my"
 }

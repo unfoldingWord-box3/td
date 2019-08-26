@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aup",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 418,
-    "lr": "Pacific",
     "lc": "aup",
+    "gw": false,
+    "ln": "Makayam",
+    "ld": "ltr",
+    "ang": "Makayam",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -16,7 +18,5 @@
         "Tirio",
         "Giribam"
     ],
-    "ang": "Makayam",
-    "gwcode": "tpi",
-    "ln": "Makayam"
+    "gwcode": "tpi"
 }

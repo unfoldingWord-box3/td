@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bzd",
-    "hc": "CR",
-    "ld": "ltr",
     "pk": 1086,
-    "lr": "Americas",
     "lc": "bzd",
+    "gw": false,
+    "ln": "Bribri",
+    "ld": "ltr",
+    "ang": "Bribri",
+    "hc": "CR",
+    "lr": "Americas",
     "cc": [
         "PA",
         "CR"
@@ -13,7 +15,5 @@
     "alt": [
         "Talamanca"
     ],
-    "ang": "Bribri",
-    "gwcode": "es-419",
-    "ln": "Bribri"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lmi",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3520,
-    "lr": "Africa",
     "lc": "lmi",
+    "gw": false,
+    "ln": "Lombi",
+    "ld": "ltr",
+    "ang": "Lombi",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Rombi",
         "Rumli"
     ],
-    "ang": "Lombi",
-    "gwcode": "fr",
-    "ln": "Lombi"
+    "gwcode": "fr"
 }

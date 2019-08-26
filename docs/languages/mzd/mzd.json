@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mzd",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4265,
-    "lr": "Africa",
     "lc": "mzd",
+    "gw": false,
+    "ln": "Malimba",
+    "ld": "ltr",
+    "ang": "Malimba",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -15,7 +17,5 @@
         "Mudima",
         "Mulimba"
     ],
-    "ang": "Malimba",
-    "gwcode": "fr",
-    "ln": "Malimba"
+    "gwcode": "fr"
 }

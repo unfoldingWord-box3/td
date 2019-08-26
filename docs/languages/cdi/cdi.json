@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cdi",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 1165,
-    "lr": "Asia",
     "lc": "cdi",
+    "gw": false,
+    "ln": "Chodri",
+    "ld": "ltr",
+    "ang": "Chodri",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -17,7 +19,5 @@
         "Choudhary",
         "Chowdhary"
     ],
-    "ang": "Chodri",
-    "gwcode": "gu",
-    "ln": "Chodri"
+    "gwcode": "gu"
 }

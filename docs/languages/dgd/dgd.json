@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dgd",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 1493,
-    "lr": "Africa",
     "lc": "dgd",
+    "gw": false,
+    "ln": "Dagaari Dioula",
+    "ld": "ltr",
+    "ang": "Dagaari Dioula",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -16,7 +18,5 @@
         "Wala",
         "Yari"
     ],
-    "ang": "Dagaari Dioula",
-    "gwcode": "fr",
-    "ln": "Dagaari Dioula"
+    "gwcode": "fr"
 }

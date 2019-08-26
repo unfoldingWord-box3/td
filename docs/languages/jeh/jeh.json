@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jeh",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 2600,
-    "lr": "Asia",
     "lc": "jeh",
+    "gw": false,
+    "ln": "Jeh",
+    "ld": "ltr",
+    "ang": "Jeh",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "LA",
         "VN"
@@ -16,7 +18,5 @@
         "Yeh",
         "Jeh Bri La (Bri-La)"
     ],
-    "ang": "Jeh",
-    "gwcode": "vi",
-    "ln": "Jeh"
+    "gwcode": "vi"
 }

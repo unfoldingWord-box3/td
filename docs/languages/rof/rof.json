@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rof",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 5410,
-    "lr": "Africa",
     "lc": "rof",
+    "gw": false,
+    "ln": "Rombo",
+    "ld": "ltr",
+    "ang": "Rombo",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -13,7 +15,5 @@
         "Kirombo",
         "Usseri"
     ],
-    "ang": "Rombo",
-    "gwcode": "sw",
-    "ln": "Rombo"
+    "gwcode": "sw"
 }

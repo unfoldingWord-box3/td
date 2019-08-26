@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bzi",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 1091,
-    "lr": "Asia",
     "lc": "bzi",
+    "gw": false,
+    "ln": "Bisu",
+    "ld": "ltr",
+    "ang": "Bisu",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "TH"
     ],
@@ -22,7 +24,5 @@
         "Huaipa",
         "Lanmeng"
     ],
-    "ang": "Bisu",
-    "gwcode": "th",
-    "ln": "Bisu"
+    "gwcode": "th"
 }

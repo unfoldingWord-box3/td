@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pbf",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4942,
-    "lr": "Americas",
     "lc": "pbf",
+    "gw": false,
+    "ln": "Coyotepec Popoloca",
+    "ld": "ltr",
+    "ang": "Popoloca, Coyotepec",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "San Mateo Zoyamazalco Popoloca",
         "San Vicente Coyotepec Popoloca"
     ],
-    "ang": "Popoloca, Coyotepec",
-    "gwcode": "es-419",
-    "ln": "Coyotepec Popoloca"
+    "gwcode": "es-419"
 }

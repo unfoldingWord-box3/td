@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dop",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 1604,
-    "lr": "Africa",
     "lc": "dop",
+    "gw": false,
+    "ln": "Lukpa",
+    "ld": "ltr",
+    "ang": "Lukpa",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "TG"
@@ -16,7 +18,5 @@
         "Lokpa",
         "Lugba"
     ],
-    "ang": "Lukpa",
-    "gwcode": "fr",
-    "ln": "Lukpa"
+    "gwcode": "fr"
 }

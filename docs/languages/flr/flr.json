@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "flr",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 1853,
-    "lr": "Africa",
     "lc": "flr",
+    "gw": false,
+    "ln": "Fuliiru",
+    "ld": "ltr",
+    "ang": "Fuliiru",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Fuliru",
         "Kifuliiru"
     ],
-    "ang": "Fuliiru",
-    "gwcode": "fr",
-    "ln": "Fuliiru"
+    "gwcode": "fr"
 }

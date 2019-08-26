@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hum",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 2376,
-    "lr": "Africa",
     "lc": "hum",
+    "gw": false,
+    "ln": "Hungana",
+    "ld": "ltr",
+    "ang": "Hungana",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Hungaan",
         "Hunganna"
     ],
-    "ang": "Hungana",
-    "gwcode": "fr",
-    "ln": "Hungana"
+    "gwcode": "fr"
 }

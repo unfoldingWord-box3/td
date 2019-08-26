@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xni",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6994,
-    "lr": "Pacific",
     "lc": "xni",
+    "gw": false,
+    "ln": "Ngarigu",
+    "ld": "ltr",
+    "ang": "Ngarigu",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -28,7 +30,5 @@
         "Ngaryo",
         "Nguramal"
     ],
-    "ang": "Ngarigu",
-    "gwcode": "en",
-    "ln": "Ngarigu"
+    "gwcode": "en"
 }

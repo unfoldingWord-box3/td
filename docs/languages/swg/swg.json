@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "swg",
-    "hc": "DE",
-    "ld": "ltr",
     "pk": 5907,
-    "lr": "Europe",
     "lc": "swg",
+    "gw": false,
+    "ln": "Swabian",
+    "ld": "ltr",
+    "ang": "Swabian",
+    "hc": "DE",
+    "lr": "Europe",
     "cc": [
         "DE"
     ],
@@ -14,7 +16,5 @@
         "Schwaebisch",
         "Suabian"
     ],
-    "ang": "Swabian",
-    "gwcode": "en",
-    "ln": "Swabian"
+    "gwcode": "en"
 }

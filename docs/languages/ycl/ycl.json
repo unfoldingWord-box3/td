@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ycl",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7150,
-    "lr": "Asia",
     "lc": "ycl",
+    "gw": false,
+    "ln": "\u502e\u502e\u6cfc",
+    "ld": "ltr",
+    "ang": "Lolopo",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -21,7 +23,5 @@
         "Yao'an Lolopo",
         "Nanhua Lolopo"
     ],
-    "ang": "Lolopo",
-    "gwcode": "zh",
-    "ln": "\u502e\u502e\u6cfc"
+    "gwcode": "zh"
 }

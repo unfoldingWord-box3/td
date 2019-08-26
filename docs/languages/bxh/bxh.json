@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bxh",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1049,
-    "lr": "Pacific",
     "lc": "bxh",
+    "gw": false,
+    "ln": "Buhutu",
+    "ld": "ltr",
+    "ang": "Buhutu",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Siasiada",
         "Yaleba"
     ],
-    "ang": "Buhutu",
-    "gwcode": "tpi",
-    "ln": "Buhutu"
+    "gwcode": "tpi"
 }

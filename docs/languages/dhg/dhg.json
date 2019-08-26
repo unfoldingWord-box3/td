@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dhg",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1508,
-    "lr": "Pacific",
     "lc": "dhg",
+    "gw": false,
+    "ln": "Dhangu",
+    "ld": "ltr",
+    "ang": "Djangu",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -23,7 +25,5 @@
         "Warumeri",
         "Gaalpu (Kalbu)"
     ],
-    "ang": "Djangu",
-    "gwcode": "en",
-    "ln": "Dhangu"
+    "gwcode": "en"
 }

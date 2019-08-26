@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tdb",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 6031,
-    "lr": "Asia",
     "lc": "tdb",
+    "gw": false,
+    "ln": "Panchpargania",
+    "ld": "ltr",
+    "ang": "Panchpargania",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -21,7 +23,5 @@
         "Temoral",
         "Tumariya"
     ],
-    "ang": "Panchpargania",
-    "gwcode": "hi",
-    "ln": "Panchpargania"
+    "gwcode": "hi"
 }

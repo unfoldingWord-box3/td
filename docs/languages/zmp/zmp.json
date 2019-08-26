@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zmp",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 7417,
-    "lr": "Africa",
     "lc": "zmp",
+    "gw": false,
+    "ln": "Mpuono",
+    "ld": "ltr",
+    "ang": "Mpuono",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Mbuun",
         "Mpuun (Gimbunda)"
     ],
-    "ang": "Mpuono",
-    "gwcode": "fr",
-    "ln": "Mpuono"
+    "gwcode": "fr"
 }

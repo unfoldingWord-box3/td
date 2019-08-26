@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bzg",
-    "hc": "TW",
-    "ld": "ltr",
     "pk": 1089,
-    "lr": "Asia",
     "lc": "bzg",
+    "gw": false,
+    "ln": "Babuza",
+    "ld": "ltr",
+    "ang": "Babuza",
+    "hc": "TW",
+    "lr": "Asia",
     "cc": [
         "TW"
     ],
@@ -15,7 +17,5 @@
         "Favorlangsch",
         "Jaborlang"
     ],
-    "ang": "Babuza",
-    "gwcode": "zh",
-    "ln": "Babuza"
+    "gwcode": "zh"
 }

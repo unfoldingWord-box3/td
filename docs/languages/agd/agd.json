@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "agd",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 125,
-    "lr": "Pacific",
     "lc": "agd",
+    "gw": false,
+    "ln": "Agarabi",
+    "ld": "ltr",
+    "ang": "Agarabi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Agarabe",
         "Bare"
     ],
-    "ang": "Agarabi",
-    "gwcode": "tpi",
-    "ln": "Agarabi"
+    "gwcode": "tpi"
 }

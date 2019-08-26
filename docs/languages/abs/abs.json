@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "abs",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 45,
-    "lr": "Asia",
     "lc": "abs",
+    "gw": false,
+    "ln": "Ambonese Malay",
+    "ld": "ltr",
+    "ang": "Malay, Ambonese",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID",
         "NL"
@@ -16,7 +18,5 @@
         "Malayu Ambon",
         "Moluccan (Maluku) Malay"
     ],
-    "ang": "Malay, Ambonese",
-    "gwcode": "id",
-    "ln": "Ambonese Malay"
+    "gwcode": "id"
 }

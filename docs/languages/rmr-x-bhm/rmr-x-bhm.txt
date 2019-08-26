@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * HU: Hungary
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: UNKNOWN
@@ -14,7 +16,7 @@ This language is spoken in the following countries:
     anglicanized_name: ''
     country_codes:
     - HU
-    gateway_language: UNKNOWN
+    gateway_language: hu
     lang_code: rmr-x-bhm
     lang_direction: ltr
     lang_name: Hungarian Muntean Bayash

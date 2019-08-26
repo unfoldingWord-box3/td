@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "liq",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 3467,
-    "lr": "Africa",
     "lc": "liq",
+    "gw": false,
+    "ln": "Libido",
+    "ld": "ltr",
+    "ang": "Libido",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -13,7 +15,5 @@
         "Marako",
         "Maraqo"
     ],
-    "ang": "Libido",
-    "gwcode": "am",
-    "ln": "Libido"
+    "gwcode": "am"
 }

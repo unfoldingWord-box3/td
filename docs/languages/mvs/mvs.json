@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mvs",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4184,
-    "lr": "Asia",
     "lc": "mvs",
+    "gw": false,
+    "ln": "Massep",
+    "ld": "ltr",
+    "ang": "Massep",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Potafa",
         "Wotaf"
     ],
-    "ang": "Massep",
-    "gwcode": "id",
-    "ln": "Massep"
+    "gwcode": "id"
 }

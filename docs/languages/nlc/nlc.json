@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nlc",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4520,
-    "lr": "Asia",
     "lc": "nlc",
+    "gw": false,
+    "ln": "Nalca",
+    "ld": "ltr",
+    "ang": "Nalca",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Naltje",
         "Naltya"
     ],
-    "ang": "Nalca",
-    "gwcode": "id",
-    "ln": "Nalca"
+    "gwcode": "id"
 }

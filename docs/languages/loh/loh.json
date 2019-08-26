@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "loh",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 3556,
-    "lr": "Africa",
     "lc": "loh",
+    "gw": false,
+    "ln": "Narim",
+    "ld": "ltr",
+    "ang": "Narim",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -17,7 +19,5 @@
         "Longarim",
         "Nariim"
     ],
-    "ang": "Narim",
-    "gwcode": "ar",
-    "ln": "Narim"
+    "gwcode": "ar"
 }

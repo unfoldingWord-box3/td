@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gib",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2021,
-    "lr": "Africa",
     "lc": "gib",
+    "gw": false,
+    "ln": "Gibanawa",
+    "ld": "ltr",
+    "ang": "Gibanawa",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Gimbanawa",
         "Jega"
     ],
-    "ang": "Gibanawa",
-    "gwcode": "en",
-    "ln": "Gibanawa"
+    "gwcode": "en"
 }

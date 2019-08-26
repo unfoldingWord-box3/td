@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "acu",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 65,
-    "lr": "Americas",
     "lc": "acu",
+    "gw": false,
+    "ln": "Achuar-Shiwiar",
+    "ld": "ltr",
+    "ang": "Achuar-Shiwiar",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE",
         "EC"
@@ -19,7 +21,5 @@
         "Maina",
         "Mayna"
     ],
-    "ang": "Achuar-Shiwiar",
-    "gwcode": "es-419",
-    "ln": "Achuar-Shiwiar"
+    "gwcode": "es-419"
 }

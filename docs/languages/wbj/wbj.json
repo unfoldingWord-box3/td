@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wbj",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 6695,
-    "lr": "Africa",
     "lc": "wbj",
+    "gw": false,
+    "ln": "Alagwa",
+    "ld": "ltr",
+    "ang": "Alagwa",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -19,7 +21,5 @@
         "Kialagwa",
         "Kichase"
     ],
-    "ang": "Alagwa",
-    "gwcode": "sw",
-    "ln": "Alagwa"
+    "gwcode": "sw"
 }

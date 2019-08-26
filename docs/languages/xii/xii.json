@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xii",
-    "hc": "ZA",
-    "ld": "ltr",
     "pk": 6925,
-    "lr": "Africa",
     "lc": "xii",
+    "gw": false,
+    "ln": "Xiri",
+    "ld": "ltr",
+    "ang": "Xiri",
+    "hc": "ZA",
+    "lr": "Africa",
     "cc": [
         "ZA"
     ],
@@ -18,7 +20,5 @@
         "Xirikwa",
         "Xrikwa"
     ],
-    "ang": "Xiri",
-    "gwcode": "en",
-    "ln": "Xiri"
+    "gwcode": "en"
 }

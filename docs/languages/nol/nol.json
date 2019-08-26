@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nol",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 4592,
-    "lr": "Americas",
     "lc": "nol",
+    "gw": false,
+    "ln": "Nomlaki",
+    "ld": "ltr",
+    "ang": "Nomlaki",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -14,7 +16,5 @@
         "Wintu",
         "Wintun"
     ],
-    "ang": "Nomlaki",
-    "gwcode": "en",
-    "ln": "Nomlaki"
+    "gwcode": "en"
 }

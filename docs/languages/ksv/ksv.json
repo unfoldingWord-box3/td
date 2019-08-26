@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ksv",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3154,
-    "lr": "Africa",
     "lc": "ksv",
+    "gw": false,
+    "ln": "Kusu",
+    "ld": "ltr",
+    "ang": "Kusu",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -16,7 +18,5 @@
         "Kutsu",
         "Lokutsu"
     ],
-    "ang": "Kusu",
-    "gwcode": "fr",
-    "ln": "Kusu"
+    "gwcode": "fr"
 }

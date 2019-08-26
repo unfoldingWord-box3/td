@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ayb",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 460,
-    "lr": "Africa",
     "lc": "ayb",
+    "gw": false,
+    "ln": "Ayizo Gbe",
+    "ld": "ltr",
+    "ang": "Gbe, Ayizo",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ"
     ],
@@ -17,7 +19,5 @@
         "Ayizo-Tori",
         "Kadagbe (Kada-Gbe)"
     ],
-    "ang": "Gbe, Ayizo",
-    "gwcode": "fr",
-    "ln": "Ayizo Gbe"
+    "gwcode": "fr"
 }

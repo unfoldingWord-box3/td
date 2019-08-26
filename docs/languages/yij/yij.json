@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yij",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7185,
-    "lr": "Pacific",
     "lc": "yij",
+    "gw": false,
+    "ln": "Yindjibarndi",
+    "ld": "ltr",
+    "ang": "Yindjibarndi",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Jindjibandi",
         "Yinjtjipartnti"
     ],
-    "ang": "Yindjibarndi",
-    "gwcode": "en",
-    "ln": "Yindjibarndi"
+    "gwcode": "en"
 }

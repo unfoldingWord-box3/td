@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lts",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 3613,
-    "lr": "Africa",
     "lc": "lts",
+    "gw": false,
+    "ln": "Tachoni",
+    "ld": "ltr",
+    "ang": "Lutachoni",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -13,7 +15,5 @@
         "Tachoni",
         "Tatsoni"
     ],
-    "ang": "Lutachoni",
-    "gwcode": "sw",
-    "ln": "Tachoni"
+    "gwcode": "sw"
 }

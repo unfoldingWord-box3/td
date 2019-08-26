@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gwx",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 2202,
-    "lr": "Africa",
     "lc": "gwx",
+    "gw": false,
+    "ln": "Gua",
+    "ld": "ltr",
+    "ang": "Gua",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -15,7 +17,5 @@
         "Gwa",
         "Anu (Anum)"
     ],
-    "ang": "Gua",
-    "gwcode": "en",
-    "ln": "Gua"
+    "gwcode": "en"
 }

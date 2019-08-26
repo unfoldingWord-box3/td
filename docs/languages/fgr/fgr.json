@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fgr",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 1837,
-    "lr": "Africa",
     "lc": "fgr",
+    "gw": false,
+    "ln": "Fongoro",
+    "ld": "ltr",
+    "ang": "Fongoro",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "TD"
@@ -14,7 +16,5 @@
         "Gele",
         "Kole"
     ],
-    "ang": "Fongoro",
-    "gwcode": "ar",
-    "ln": "Fongoro"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tbi",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 5991,
-    "lr": "Africa",
     "lc": "tbi",
+    "gw": false,
+    "ln": "Gaam",
+    "ld": "ltr",
+    "ang": "Gaam",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SD"
@@ -26,7 +28,5 @@
         "Kulelek",
         "Soda (Tao)"
     ],
-    "ang": "Gaam",
-    "gwcode": "ar",
-    "ln": "Gaam"
+    "gwcode": "ar"
 }

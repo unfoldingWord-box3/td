@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cja",
-    "hc": "KH",
-    "ld": "ltr",
     "pk": 1220,
-    "lr": "Asia",
     "lc": "cja",
+    "gw": false,
+    "ln": "T\u00e2y Ch\u0103m",
+    "ld": "ltr",
+    "ang": "Cham, Western",
+    "hc": "KH",
+    "lr": "Asia",
     "cc": [
         "LA",
         "US",
@@ -18,7 +20,5 @@
         "Tjam",
         "Chiem"
     ],
-    "ang": "Cham, Western",
-    "gwcode": "km",
-    "ln": "T\u00e2y Ch\u0103m"
+    "gwcode": "km"
 }

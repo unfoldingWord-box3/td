@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "iow",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 2502,
-    "lr": "Americas",
     "lc": "iow",
+    "gw": false,
+    "ln": "Iowa-Oto",
+    "ld": "ltr",
+    "ang": "Iowa-Oto",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -19,7 +21,5 @@
         "Iowa (Baxoje)",
         "Jiwere"
     ],
-    "ang": "Iowa-Oto",
-    "gwcode": "en",
-    "ln": "Iowa-Oto"
+    "gwcode": "en"
 }

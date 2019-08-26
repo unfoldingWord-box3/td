@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lcm",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3385,
-    "lr": "Pacific",
     "lc": "lcm",
+    "gw": false,
+    "ln": "Tungag",
+    "ld": "ltr",
+    "ang": "Tungag",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Toangai",
         "Tungak"
     ],
-    "ang": "Tungag",
-    "gwcode": "tpi",
-    "ln": "Tungag"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mit",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3873,
-    "lr": "Americas",
     "lc": "mit",
+    "gw": false,
+    "ln": "Southern Puebla Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Southern Puebla",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Mixteco de la Frontera Puebla-Oaxaca",
         "Mixteco del Sur de Puebla"
     ],
-    "ang": "Mixtec, Southern Puebla",
-    "gwcode": "es-419",
-    "ln": "Southern Puebla Mixtec"
+    "gwcode": "es-419"
 }

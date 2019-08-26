@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ntm",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 4666,
-    "lr": "Africa",
     "lc": "ntm",
+    "gw": false,
+    "ln": "Nateni",
+    "ld": "ltr",
+    "ang": "Nateni",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ"
     ],
@@ -15,7 +17,5 @@
         "Nateni (Natemba)",
         "Kunteni (Kuntemba)"
     ],
-    "ang": "Nateni",
-    "gwcode": "fr",
-    "ln": "Nateni"
+    "gwcode": "fr"
 }

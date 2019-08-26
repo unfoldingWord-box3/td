@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dre",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 1618,
-    "lr": "Asia",
     "lc": "dre",
+    "gw": false,
+    "ln": "Dolpo",
+    "ld": "ltr",
+    "ang": "Dolpo",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -15,7 +17,5 @@
         "Dolpike",
         "Phoke Dolpa"
     ],
-    "ang": "Dolpo",
-    "gwcode": "ne",
-    "ln": "Dolpo"
+    "gwcode": "ne"
 }

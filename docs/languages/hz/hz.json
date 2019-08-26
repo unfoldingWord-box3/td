@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "her",
-    "hc": "NA",
-    "ld": "ltr",
     "pk": 2398,
-    "lr": "Africa",
     "lc": "hz",
+    "gw": false,
+    "ln": "Otjiherero",
+    "ld": "ltr",
+    "ang": "Herero",
+    "hc": "NA",
+    "lr": "Africa",
     "cc": [
         "AO",
         "BW",
@@ -15,7 +17,5 @@
         "Ochiherero",
         "Otjiherero"
     ],
-    "ang": "Herero",
-    "gwcode": "en",
-    "ln": "Otjiherero"
+    "gwcode": "en"
 }

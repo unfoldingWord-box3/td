@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bsh",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 930,
-    "lr": "Asia",
     "lc": "bsh",
+    "gw": false,
+    "ln": "Kati",
+    "ld": "ltr",
+    "ang": "Kati",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "AF",
         "PK"
@@ -19,7 +21,5 @@
         "Ramgulviri",
         "Western Kativiri"
     ],
-    "ang": "Kati",
-    "gwcode": "ps",
-    "ln": "Kati"
+    "gwcode": "ps"
 }

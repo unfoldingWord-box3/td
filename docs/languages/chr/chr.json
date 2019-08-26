@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "chr",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 1203,
-    "lr": "Americas",
     "lc": "chr",
+    "gw": false,
+    "ln": "Cherokee",
+    "ld": "ltr",
+    "ang": "Cherokee",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -19,7 +21,5 @@
         "Elati (Eastern Cherokee)",
         "Lower Cherokee"
     ],
-    "ang": "Cherokee",
-    "gwcode": "en",
-    "ln": "Cherokee"
+    "gwcode": "en"
 }

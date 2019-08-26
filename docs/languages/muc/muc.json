@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "muc",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4148,
-    "lr": "Africa",
     "lc": "muc",
+    "gw": false,
+    "ln": "Ajumbu",
+    "ld": "ltr",
+    "ang": "Ajumbu",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -13,7 +15,5 @@
         "Ajuh Mbuh",
         "Lung (Mesem)"
     ],
-    "ang": "Ajumbu",
-    "gwcode": "fr",
-    "ln": "Ajumbu"
+    "gwcode": "fr"
 }

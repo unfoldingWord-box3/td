@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "esn",
-    "hc": "SV",
-    "ld": "ltr",
     "pk": 1783,
-    "lr": "Americas",
     "lc": "esn",
+    "gw": false,
+    "ln": "Salvadoran Sign Language",
+    "ld": "ltr",
+    "ang": "Salvadoran Sign Language",
+    "hc": "SV",
+    "lr": "Americas",
     "cc": [
         "SV"
     ],
@@ -14,7 +16,5 @@
         "Lengua de Se\u00f1as Salvadore\u00f1as",
         "LESSA"
     ],
-    "ang": "Salvadoran Sign Language",
-    "gwcode": "es-419",
-    "ln": "Salvadoran Sign Language"
+    "gwcode": "es-419"
 }

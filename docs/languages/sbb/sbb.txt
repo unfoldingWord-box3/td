@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * SB: Solomon Islands
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: sbb
@@ -17,7 +19,7 @@ This language is spoken in the following countries:
     anglicanized_name: Simbo
     country_codes:
     - SB
-    gateway_language: UNKNOWN
+    gateway_language: pis
     lang_code: sbb
     lang_direction: ltr
     lang_name: Simbo

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pee",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4982,
-    "lr": "Asia",
     "lc": "pee",
+    "gw": false,
+    "ln": "Taje",
+    "ld": "ltr",
+    "ang": "Taje",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Lole",
         "Petapa"
     ],
-    "ang": "Taje",
-    "gwcode": "id",
-    "ln": "Taje"
+    "gwcode": "id"
 }

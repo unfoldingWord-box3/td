@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tzj",
-    "hc": "GT",
-    "ld": "ltr",
     "pk": 6459,
-    "lr": "Americas",
     "lc": "tzj",
+    "gw": false,
+    "ln": "Tz'utujil",
+    "ld": "ltr",
+    "ang": "Tz\u2019utujil",
+    "hc": "GT",
+    "lr": "Americas",
     "cc": [
         "GT"
     ],
@@ -15,7 +17,5 @@
         "Tzutuhil",
         "Tzutujil Oriental"
     ],
-    "ang": "Tz\u2019utujil",
-    "gwcode": "es-419",
-    "ln": "Tz'utujil"
+    "gwcode": "es-419"
 }

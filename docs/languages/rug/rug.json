@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rug",
-    "hc": "SB",
-    "ld": "ltr",
     "pk": 5436,
-    "lr": "Pacific",
     "lc": "rug",
+    "gw": false,
+    "ln": "Roviana",
+    "ld": "ltr",
+    "ang": "Roviana",
+    "hc": "SB",
+    "lr": "Pacific",
     "cc": [
         "SB"
     ],
@@ -14,7 +16,5 @@
         "Rubiana",
         "Ruviana"
     ],
-    "ang": "Roviana",
-    "gwcode": "UNKNOWN",
-    "ln": "Roviana"
+    "gwcode": "pis"
 }

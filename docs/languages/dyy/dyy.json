@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dyy",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1684,
-    "lr": "Pacific",
     "lc": "dyy",
+    "gw": false,
+    "ln": "Dyaabugay",
+    "ld": "ltr",
+    "ang": "Dyaabugay",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -32,7 +34,5 @@
         "Njakali (Nyagali)",
         "Nyakali"
     ],
-    "ang": "Dyaabugay",
-    "gwcode": "en",
-    "ln": "Dyaabugay"
+    "gwcode": "en"
 }

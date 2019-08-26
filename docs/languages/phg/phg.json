@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "phg",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 5012,
-    "lr": "Asia",
     "lc": "phg",
+    "gw": false,
+    "ln": "Phuong",
+    "ld": "ltr",
+    "ang": "Phuong",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -13,7 +15,5 @@
         "Phuang",
         "Phuong Catang"
     ],
-    "ang": "Phuong",
-    "gwcode": "vi",
-    "ln": "Phuong"
+    "gwcode": "vi"
 }

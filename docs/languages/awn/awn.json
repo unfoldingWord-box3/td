@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "awn",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 444,
-    "lr": "Africa",
     "lc": "awn",
+    "gw": false,
+    "ln": "Awngi",
+    "ld": "ltr",
+    "ang": "Awngi",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET",
         "IL"
@@ -27,7 +29,5 @@
         "Kunf\u00e4l (Northern Awngi)",
         "Kwolla"
     ],
-    "ang": "Awngi",
-    "gwcode": "am",
-    "ln": "Awngi"
+    "gwcode": "am"
 }

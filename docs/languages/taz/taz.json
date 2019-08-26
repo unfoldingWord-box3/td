@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "taz",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 5983,
-    "lr": "Africa",
     "lc": "taz",
+    "gw": false,
+    "ln": "Tocho",
+    "ld": "ltr",
+    "ang": "Tocho",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -13,7 +15,5 @@
         "Tacho",
         "Toicho"
     ],
-    "ang": "Tocho",
-    "gwcode": "ar",
-    "ln": "Tocho"
+    "gwcode": "ar"
 }

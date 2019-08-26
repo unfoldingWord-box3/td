@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wlc",
-    "hc": "KM",
-    "ld": "ltr",
     "pk": 6753,
-    "lr": "Africa",
     "lc": "wlc",
+    "gw": false,
+    "ln": "Mwali Comorian",
+    "ld": "ltr",
+    "ang": "Comorian, Mwali",
+    "hc": "KM",
+    "lr": "Africa",
     "cc": [
         "KM"
     ],
@@ -14,7 +16,5 @@
         "Comoro",
         "Komoro"
     ],
-    "ang": "Comorian, Mwali",
-    "gwcode": "ar",
-    "ln": "Mwali Comorian"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nmy",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 4556,
-    "lr": "Asia",
     "lc": "nmy",
+    "gw": false,
+    "ln": "\u7d0d\u6728\u4f9d\u8a9e",
+    "ld": "ltr",
+    "ang": "Namuyi",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -15,7 +17,5 @@
         "Western Namuyi",
         "Eastern Namuyi"
     ],
-    "ang": "Namuyi",
-    "gwcode": "zh",
-    "ln": "\u7d0d\u6728\u4f9d\u8a9e"
+    "gwcode": "zh"
 }

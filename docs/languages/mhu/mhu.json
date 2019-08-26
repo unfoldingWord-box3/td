@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mhu",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3848,
-    "lr": "Asia",
     "lc": "mhu",
+    "gw": false,
+    "ln": "Digaro-Mishmi",
+    "ld": "ltr",
+    "ang": "Digaro-Mishmi",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "CN",
         "IN"
@@ -20,7 +22,5 @@
         "Taraon",
         "Taying"
     ],
-    "ang": "Digaro-Mishmi",
-    "gwcode": "as",
-    "ln": "Digaro-Mishmi"
+    "gwcode": "as"
 }

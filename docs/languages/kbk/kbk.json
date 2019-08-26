@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kbk",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2720,
-    "lr": "Pacific",
     "lc": "kbk",
+    "gw": false,
+    "ln": "Grass Koiari",
+    "ld": "ltr",
+    "ang": "Koiari, Grass",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Lahada",
         "Omani"
     ],
-    "ang": "Koiari, Grass",
-    "gwcode": "tpi",
-    "ln": "Grass Koiari"
+    "gwcode": "tpi"
 }

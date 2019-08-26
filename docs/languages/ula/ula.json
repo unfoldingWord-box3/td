@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ula",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 6504,
-    "lr": "Africa",
     "lc": "ula",
+    "gw": false,
+    "ln": "Fungwa",
+    "ld": "ltr",
+    "ang": "Fungwa",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Ula",
         "Ura"
     ],
-    "ang": "Fungwa",
-    "gwcode": "en",
-    "ln": "Fungwa"
+    "gwcode": "en"
 }

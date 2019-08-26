@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yta",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7287,
-    "lr": "Asia",
     "lc": "yta",
+    "gw": false,
+    "ln": "\u4ed6\u9c81",
+    "ld": "ltr",
+    "ang": "Talu",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Taliu",
         "Tazhi"
     ],
-    "ang": "Talu",
-    "gwcode": "zh",
-    "ln": "\u4ed6\u9c81"
+    "gwcode": "zh"
 }

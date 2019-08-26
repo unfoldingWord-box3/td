@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yzg",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7328,
-    "lr": "Asia",
     "lc": "yzg",
+    "gw": false,
+    "ln": "\u5ce8\u9a6c\u5e03\u592e\u8bed",
+    "ld": "ltr",
+    "ang": "Buyang, E\u2019ma",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -16,7 +18,5 @@
         "Funing Buyang",
         "Langjia Buyang"
     ],
-    "ang": "Buyang, E\u2019ma",
-    "gwcode": "zh",
-    "ln": "\u5ce8\u9a6c\u5e03\u592e\u8bed"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kve",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 3212,
-    "lr": "Asia",
     "lc": "kve",
+    "gw": false,
+    "ln": "Kalabakan",
+    "ld": "ltr",
+    "ang": "Kalabakan",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -14,7 +16,5 @@
         "Tawau Murut",
         "Tidung"
     ],
-    "ang": "Kalabakan",
-    "gwcode": "ms",
-    "ln": "Kalabakan"
+    "gwcode": "ms"
 }

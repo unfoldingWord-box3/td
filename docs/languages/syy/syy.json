@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "syy",
-    "hc": "IL",
-    "ld": "ltr",
     "pk": 5951,
-    "lr": "Asia",
     "lc": "syy",
+    "gw": false,
+    "ln": "\u05e9\u05e4\u05ea \u05d4\u05e1\u05d9\u05de\u05e0\u05d9\u05dd \u05e9\u05dc \u05e9\u05d1\u05d8 \u05d0-\u05e1\u05d9\u05d9\u05d3",
+    "ld": "ltr",
+    "ang": "Al-Sayyid Bedouin Sign Language",
+    "hc": "IL",
+    "lr": "Asia",
     "cc": [
         "IL"
     ],
     "alt": [
         "ABSL"
     ],
-    "ang": "Al-Sayyid Bedouin Sign Language",
-    "gwcode": "en",
-    "ln": "\u05e9\u05e4\u05ea \u05d4\u05e1\u05d9\u05de\u05e0\u05d9\u05dd \u05e9\u05dc \u05e9\u05d1\u05d8 \u05d0-\u05e1\u05d9\u05d9\u05d3"
+    "gwcode": "en"
 }

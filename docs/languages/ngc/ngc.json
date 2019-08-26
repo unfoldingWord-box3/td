@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ngc",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4411,
-    "lr": "Africa",
     "lc": "ngc",
+    "gw": false,
+    "ln": "Ngombe (Democratic Republic of Congo)",
+    "ld": "ltr",
+    "ang": "Ngombe",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Binja (Binza)",
         "Libindja"
     ],
-    "ang": "Ngombe",
-    "gwcode": "fr",
-    "ln": "Ngombe (Democratic Republic of Congo)"
+    "gwcode": "fr"
 }

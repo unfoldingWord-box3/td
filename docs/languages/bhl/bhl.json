@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bhl",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 670,
-    "lr": "Pacific",
     "lc": "bhl",
+    "gw": false,
+    "ln": "Bimin",
+    "ld": "ltr",
+    "ang": "Bimin",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Nimtep Weng",
         "Bim"
     ],
-    "ang": "Bimin",
-    "gwcode": "tpi",
-    "ln": "Bimin"
+    "gwcode": "tpi"
 }

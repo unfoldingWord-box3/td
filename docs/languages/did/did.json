@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "did",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 1522,
-    "lr": "Africa",
     "lc": "did",
+    "gw": false,
+    "ln": "Didinga",
+    "ld": "ltr",
+    "ang": "Didinga",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "SS"
     ],
@@ -15,7 +17,5 @@
         "Toi",
         "Xaroxa"
     ],
-    "ang": "Didinga",
-    "gwcode": "ar",
-    "ln": "Didinga"
+    "gwcode": "ar"
 }

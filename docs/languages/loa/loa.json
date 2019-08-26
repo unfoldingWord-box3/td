@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "loa",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3550,
-    "lr": "Asia",
     "lc": "loa",
+    "gw": false,
+    "ln": "Loloda",
+    "ld": "ltr",
+    "ang": "Loloda",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Loda",
         "North Loloda"
     ],
-    "ang": "Loloda",
-    "gwcode": "id",
-    "ln": "Loloda"
+    "gwcode": "id"
 }

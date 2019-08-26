@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "neq",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4393,
-    "lr": "Americas",
     "lc": "neq",
+    "gw": false,
+    "ln": "North Central Mixe",
+    "ld": "ltr",
+    "ang": "Mixe, North Central",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -20,7 +22,5 @@
         "Puxmetec\u00e1n",
         "Mixe de San Juan Cotzoc\u00f3n"
     ],
-    "ang": "Mixe, North Central",
-    "gwcode": "es-419",
-    "ln": "North Central Mixe"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mwg",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4197,
-    "lr": "Pacific",
     "lc": "mwg",
+    "gw": false,
+    "ln": "Aiklep",
+    "ld": "ltr",
+    "ang": "Aiklep",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Kaul",
         "Moewehafen"
     ],
-    "ang": "Aiklep",
-    "gwcode": "tpi",
-    "ln": "Aiklep"
+    "gwcode": "tpi"
 }

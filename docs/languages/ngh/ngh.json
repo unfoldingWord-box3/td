@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ngh",
-    "hc": "ZA",
-    "ld": "ltr",
     "pk": 4415,
-    "lr": "Africa",
     "lc": "ngh",
+    "gw": false,
+    "ln": "N|u",
+    "ld": "ltr",
+    "ang": "N|u",
+    "hc": "ZA",
+    "lr": "Africa",
     "cc": [
         "ZA"
     ],
@@ -20,7 +22,5 @@
         "||Ng!ke (||Ng)",
         "|'Auni"
     ],
-    "ang": "N|u",
-    "gwcode": "en",
-    "ln": "N|u"
+    "gwcode": "en"
 }

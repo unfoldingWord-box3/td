@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bqy",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 897,
-    "lr": "Asia",
     "lc": "bqy",
+    "gw": false,
+    "ln": "Bengkala Sign Language",
+    "ld": "ltr",
+    "ang": "Bengkala Sign Language",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Benkala Sign Language",
         "Kata Kolok"
     ],
-    "ang": "Bengkala Sign Language",
-    "gwcode": "id",
-    "ln": "Bengkala Sign Language"
+    "gwcode": "id"
 }

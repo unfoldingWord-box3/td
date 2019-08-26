@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bdq",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 575,
-    "lr": "Asia",
     "lc": "bdq",
+    "gw": false,
+    "ln": "Ti\u1ebfng Ba Na",
+    "ld": "ltr",
+    "ang": "Bahnar",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -16,7 +18,5 @@
         "Y-Lang",
         "Alakong (A-La Cong)"
     ],
-    "ang": "Bahnar",
-    "gwcode": "vi",
-    "ln": "Ti\u1ebfng Ba Na"
+    "gwcode": "vi"
 }

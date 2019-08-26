@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tde",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 6034,
-    "lr": "Africa",
     "lc": "tde",
+    "gw": false,
+    "ln": "Tiranige Diga Dogon",
+    "ld": "ltr",
+    "ang": "Dogon, Tiranige Diga",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "ML"
     ],
@@ -13,7 +15,5 @@
         "Duleri",
         "Duleri Dom"
     ],
-    "ang": "Dogon, Tiranige Diga",
-    "gwcode": "fr",
-    "ln": "Tiranige Diga Dogon"
+    "gwcode": "fr"
 }

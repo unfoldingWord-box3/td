@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lsr",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3603,
-    "lr": "Pacific",
     "lc": "lsr",
+    "gw": false,
+    "ln": "Aruop",
+    "ld": "ltr",
+    "ang": "Aruop",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Lauisaranga",
         "Lau'u"
     ],
-    "ang": "Aruop",
-    "gwcode": "tpi",
-    "ln": "Aruop"
+    "gwcode": "tpi"
 }

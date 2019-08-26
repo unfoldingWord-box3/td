@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nhe",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4437,
-    "lr": "Americas",
     "lc": "nhe",
+    "gw": false,
+    "ln": "Eastern Huasteca Nahuatl",
+    "ld": "ltr",
+    "ang": "Nahuatl, Eastern Huasteca",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "N\u00e1huatl de la Huasteca Oriental",
         "Southeastern Huasteca Nahuatl"
     ],
-    "ang": "Nahuatl, Eastern Huasteca",
-    "gwcode": "es-419",
-    "ln": "Eastern Huasteca Nahuatl"
+    "gwcode": "es-419"
 }

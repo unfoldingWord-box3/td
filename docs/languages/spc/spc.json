@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "spc",
-    "hc": "VE",
-    "ld": "ltr",
     "pk": 5773,
-    "lr": "Americas",
     "lc": "spc",
+    "gw": false,
+    "ln": "Sap\u00e9",
+    "ld": "ltr",
+    "ang": "Sap\u00e9",
+    "hc": "VE",
+    "lr": "Americas",
     "cc": [
         "VE"
     ],
@@ -15,7 +17,5 @@
         "Kali\u00e1na",
         "Kariana"
     ],
-    "ang": "Sap\u00e9",
-    "gwcode": "es-419",
-    "ln": "Sap\u00e9"
+    "gwcode": "es-419"
 }

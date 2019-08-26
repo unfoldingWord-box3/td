@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "itz",
-    "hc": "GT",
-    "ld": "ltr",
     "pk": 2546,
-    "lr": "Americas",
     "lc": "itz",
+    "gw": false,
+    "ln": "Itz\u00e1",
+    "ld": "ltr",
+    "ang": "Itza\u2019",
+    "hc": "GT",
+    "lr": "Americas",
     "cc": [
         "GT"
     ],
@@ -15,7 +17,5 @@
         "Pet\u00e9n Itza' Maya",
         "Yucatec Maya"
     ],
-    "ang": "Itza\u2019",
-    "gwcode": "es-419",
-    "ln": "Itz\u00e1"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pez",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 4997,
-    "lr": "Asia",
     "lc": "pez",
+    "gw": false,
+    "ln": "Eastern Penan",
+    "ld": "ltr",
+    "ang": "Penan, Eastern",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "BN",
         "MY"
@@ -22,7 +24,5 @@
         "Penan Lusong (Lusong)",
         "Penan Lanying"
     ],
-    "ang": "Penan, Eastern",
-    "gwcode": "ms",
-    "ln": "Eastern Penan"
+    "gwcode": "ms"
 }

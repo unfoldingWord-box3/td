@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aga",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 122,
-    "lr": "Americas",
     "lc": "aga",
+    "gw": false,
+    "ln": "Aguano",
+    "ld": "ltr",
+    "ang": "Aguano",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -15,7 +17,5 @@
         "Santa Crucino",
         "Uguano"
     ],
-    "ang": "Aguano",
-    "gwcode": "es-419",
-    "ln": "Aguano"
+    "gwcode": "es-419"
 }

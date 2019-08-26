@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nrm",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 4632,
-    "lr": "Asia",
     "lc": "nrm",
+    "gw": false,
+    "ln": "Narom",
+    "ld": "ltr",
+    "ang": "Narom",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -15,7 +17,5 @@
         "Bakong",
         "Dali'"
     ],
-    "ang": "Narom",
-    "gwcode": "ms",
-    "ln": "Narom"
+    "gwcode": "ms"
 }

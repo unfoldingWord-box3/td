@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "psn",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5187,
-    "lr": "Asia",
     "lc": "psn",
+    "gw": false,
+    "ln": "Panasuan",
+    "ld": "ltr",
+    "ang": "Panasuan",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "To Pamosean",
         "To Panasean"
     ],
-    "ang": "Panasuan",
-    "gwcode": "id",
-    "ln": "Panasuan"
+    "gwcode": "id"
 }

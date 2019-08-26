@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hdn",
-    "hc": "CA",
-    "ld": "ltr",
     "pk": 2249,
-    "lr": "Americas",
     "lc": "hdn",
+    "gw": false,
+    "ln": "Northern Haida",
+    "ld": "ltr",
+    "ang": "Haida, Northern",
+    "hc": "CA",
+    "lr": "Americas",
     "cc": [
         "US",
         "CA"
@@ -13,7 +15,5 @@
     "alt": [
         "Masset"
     ],
-    "ang": "Haida, Northern",
-    "gwcode": "en",
-    "ln": "Northern Haida"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "loo",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3563,
-    "lr": "Africa",
     "lc": "loo",
+    "gw": false,
+    "ln": "Lombo",
+    "ld": "ltr",
+    "ang": "Lombo",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Turumbu",
         "Ulumbu"
     ],
-    "ang": "Lombo",
-    "gwcode": "fr",
-    "ln": "Lombo"
+    "gwcode": "fr"
 }

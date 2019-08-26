@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gdq",
-    "hc": "YE",
-    "ld": "ltr",
     "pk": 1975,
-    "lr": "Asia",
     "lc": "gdq",
+    "gw": false,
+    "ln": "\u0644\u063a\u0629 \u0645\u0647\u0631\u064a\u0629",
+    "ld": "ltr",
+    "ang": "Mehri",
+    "hc": "YE",
+    "lr": "Asia",
     "cc": [
         "OM",
         "SA",
@@ -16,7 +18,5 @@
         "Eastern Mehri (Mehriyot)",
         "Western Mehri (Mehriyet)"
     ],
-    "ang": "Mehri",
-    "gwcode": "ar",
-    "ln": "\u0644\u063a\u0629 \u0645\u0647\u0631\u064a\u0629"
+    "gwcode": "ar"
 }

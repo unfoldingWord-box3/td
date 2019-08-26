@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "itb",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 2532,
-    "lr": "Asia",
     "lc": "itb",
+    "gw": false,
+    "ln": "Binongan Itneg",
+    "ld": "ltr",
+    "ang": "Itneg, Binongan",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -13,7 +15,5 @@
         "Tingguian",
         "Tinguian"
     ],
-    "ang": "Itneg, Binongan",
-    "gwcode": "ilo",
-    "ln": "Binongan Itneg"
+    "gwcode": "ilo"
 }

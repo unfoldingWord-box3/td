@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ski",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 5665,
-    "lr": "Asia",
     "lc": "ski",
+    "gw": false,
+    "ln": "Sika",
+    "ld": "ltr",
+    "ang": "Sika",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -19,7 +21,5 @@
         "South Coast Sikka",
         "Sara Krowe (Central Sikka)"
     ],
-    "ang": "Sika",
-    "gwcode": "id",
-    "ln": "Sika"
+    "gwcode": "id"
 }

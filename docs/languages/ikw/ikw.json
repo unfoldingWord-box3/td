@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ikw",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2467,
-    "lr": "Africa",
     "lc": "ikw",
+    "gw": false,
+    "ln": "Ikwere",
+    "ld": "ltr",
+    "ang": "Ikwere",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Ikwerre",
         "Obio-Akpo"
     ],
-    "ang": "Ikwere",
-    "gwcode": "en",
-    "ln": "Ikwere"
+    "gwcode": "en"
 }

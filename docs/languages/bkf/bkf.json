@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bkf",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 734,
-    "lr": "Africa",
     "lc": "bkf",
+    "gw": false,
+    "ln": "Beeke",
+    "ld": "ltr",
+    "ang": "Beeke",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -13,7 +15,5 @@
         "Beke",
         "Ibeeke"
     ],
-    "ang": "Beeke",
-    "gwcode": "fr",
-    "ln": "Beeke"
+    "gwcode": "fr"
 }

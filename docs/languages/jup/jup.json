@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jup",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 2679,
-    "lr": "Americas",
     "lc": "jup",
+    "gw": false,
+    "ln": "Hupd\u00eb",
+    "ld": "ltr",
+    "ang": "Hupd\u00eb",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "CO"
@@ -21,7 +23,5 @@
         "Mak\u00fa-Hupd\u00e1",
         "Hupd\u00eb"
     ],
-    "ang": "Hupd\u00eb",
-    "gwcode": "pt",
-    "ln": "Hupd\u00eb"
+    "gwcode": "pt"
 }

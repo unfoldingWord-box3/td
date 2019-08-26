@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gaz",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 1927,
-    "lr": "Africa",
     "lc": "gaz",
+    "gw": false,
+    "ln": "West Central Oromo",
+    "ld": "ltr",
+    "ang": "Oromo, West Central",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SD",
@@ -18,7 +20,5 @@
         "Oromoo",
         "Galla"
     ],
-    "ang": "Oromo, West Central",
-    "gwcode": "am",
-    "ln": "West Central Oromo"
+    "gwcode": "am"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ktw",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 3178,
-    "lr": "Americas",
     "lc": "ktw",
+    "gw": false,
+    "ln": "Kato",
+    "ld": "ltr",
+    "ang": "Kato",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -15,7 +17,5 @@
         "Kai Po-Mo",
         "Tlokeang"
     ],
-    "ang": "Kato",
-    "gwcode": "en",
-    "ln": "Kato"
+    "gwcode": "en"
 }

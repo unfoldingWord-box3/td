@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "crl",
-    "hc": "CA",
-    "ld": "ltr",
     "pk": 1331,
-    "lr": "Americas",
     "lc": "crl",
+    "gw": false,
+    "ln": "Northern East Cree",
+    "ld": "ltr",
+    "ang": "Cree, Northern East",
+    "hc": "CA",
+    "lr": "Americas",
     "cc": [
         "CA"
     ],
@@ -13,7 +15,5 @@
         "Eastern James Bay Cree Northern Dialect",
         "James Bay Cree Northern"
     ],
-    "ang": "Cree, Northern East",
-    "gwcode": "en",
-    "ln": "Northern East Cree"
+    "gwcode": "en"
 }

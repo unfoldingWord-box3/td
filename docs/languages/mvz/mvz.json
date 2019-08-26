@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mvz",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 4191,
-    "lr": "Africa",
     "lc": "mvz",
+    "gw": false,
+    "ln": "Mesqan",
+    "ld": "ltr",
+    "ang": "Mesqan",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET"
     ],
@@ -13,7 +15,5 @@
         "Masqan",
         "Meskan"
     ],
-    "ang": "Mesqan",
-    "gwcode": "am",
-    "ln": "Mesqan"
+    "gwcode": "am"
 }

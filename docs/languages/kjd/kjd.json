@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kjd",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 2910,
-    "lr": "Pacific",
     "lc": "kjd",
+    "gw": false,
+    "ln": "Southern Kiwai",
+    "ld": "ltr",
+    "ang": "Kiwai, Southern",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Coast Kiwai",
         "Island Kiwai (Bamu Kiwai)"
     ],
-    "ang": "Kiwai, Southern",
-    "gwcode": "tpi",
-    "ln": "Southern Kiwai"
+    "gwcode": "tpi"
 }

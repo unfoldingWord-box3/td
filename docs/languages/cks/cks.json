@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cks",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 1239,
-    "lr": "Pacific",
     "lc": "cks",
+    "gw": false,
+    "ln": "Tayo",
+    "ld": "ltr",
+    "ang": "Tayo",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -13,7 +15,5 @@
         "Patois",
         "Patois de St-Louis"
     ],
-    "ang": "Tayo",
-    "gwcode": "en",
-    "ln": "Tayo"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lmj",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3521,
-    "lr": "Asia",
     "lc": "lmj",
+    "gw": false,
+    "ln": "West Lembata",
+    "ld": "ltr",
+    "ang": "Lembata, West",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Labalekan",
         "Mingar"
     ],
-    "ang": "Lembata, West",
-    "gwcode": "id",
-    "ln": "West Lembata"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kez",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2808,
-    "lr": "Africa",
     "lc": "kez",
+    "gw": false,
+    "ln": "Kukele",
+    "ld": "ltr",
+    "ang": "Kukele",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Bakele",
         "Ukele"
     ],
-    "ang": "Kukele",
-    "gwcode": "en",
-    "ln": "Kukele"
+    "gwcode": "en"
 }

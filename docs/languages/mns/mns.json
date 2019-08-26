@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mns",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 3992,
-    "lr": "Europe",
     "lc": "mns",
+    "gw": false,
+    "ln": "\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Mansi",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -28,7 +30,5 @@
         "Upper Lozyvin",
         "Pelym"
     ],
-    "ang": "Mansi",
-    "gwcode": "ru",
-    "ln": "\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bon",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 842,
-    "lr": "Pacific",
     "lc": "bon",
+    "gw": false,
+    "ln": "Bine",
+    "ld": "ltr",
+    "ang": "Bine",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Pine",
         "Boze-Giringarede"
     ],
-    "ang": "Bine",
-    "gwcode": "tpi",
-    "ln": "Bine"
+    "gwcode": "tpi"
 }

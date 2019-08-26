@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ahl",
-    "hc": "TG",
-    "ld": "ltr",
     "pk": 153,
-    "lr": "Africa",
     "lc": "ahl",
+    "gw": false,
+    "ln": "Igo",
+    "ld": "ltr",
+    "ang": "Igo",
+    "hc": "TG",
+    "lr": "Africa",
     "cc": [
         "TG"
     ],
@@ -17,7 +19,5 @@
         "Ahonlan",
         "Anlo"
     ],
-    "ang": "Igo",
-    "gwcode": "fr",
-    "ln": "Igo"
+    "gwcode": "fr"
 }

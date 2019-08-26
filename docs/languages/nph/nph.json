@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nph",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4607,
-    "lr": "Asia",
     "lc": "nph",
+    "gw": false,
+    "ln": "Phom Naga",
+    "ld": "ltr",
+    "ang": "Naga, Phom",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -17,7 +19,5 @@
         "Tamlu",
         "Tamlu Naga"
     ],
-    "ang": "Naga, Phom",
-    "gwcode": "en",
-    "ln": "Phom Naga"
+    "gwcode": "en"
 }

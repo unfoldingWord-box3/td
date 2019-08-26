@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gnk",
-    "hc": "BW",
-    "ld": "ltr",
     "pk": 2079,
-    "lr": "Africa",
     "lc": "gnk",
+    "gw": false,
+    "ln": "\u01c1Gana",
+    "ld": "ltr",
+    "ang": "||Gana",
+    "hc": "BW",
+    "lr": "Africa",
     "cc": [
         "BW"
     ],
@@ -20,7 +22,5 @@
         "|Khess\u00e1khoe",
         "G||aa"
     ],
-    "ang": "||Gana",
-    "gwcode": "en",
-    "ln": "\u01c1Gana"
+    "gwcode": "en"
 }

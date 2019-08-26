@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wnc",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6777,
-    "lr": "Pacific",
     "lc": "wnc",
+    "gw": false,
+    "ln": "Wantoat",
+    "ld": "ltr",
+    "ang": "Wantoat",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Wapu (Leron)",
         "Yagawak (Kandomin)"
     ],
-    "ang": "Wantoat",
-    "gwcode": "tpi",
-    "ln": "Wantoat"
+    "gwcode": "tpi"
 }

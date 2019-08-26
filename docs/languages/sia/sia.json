@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sia",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 5618,
-    "lr": "Europe",
     "lc": "sia",
+    "gw": false,
+    "ln": "\u0411\u0430\u0431\u0438\u043d\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Saami, Akkala",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -14,7 +16,5 @@
         "Babino",
         "Babinsk"
     ],
-    "ang": "Saami, Akkala",
-    "gwcode": "ru",
-    "ln": "\u0411\u0430\u0431\u0438\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fax",
-    "hc": "ES",
-    "ld": "ltr",
     "pk": 1828,
-    "lr": "Europe",
     "lc": "fax",
+    "gw": false,
+    "ln": "Fala",
+    "ld": "ltr",
+    "ang": "Fala",
+    "hc": "ES",
+    "lr": "Europe",
     "cc": [
         "ES"
     ],
@@ -15,7 +17,5 @@
         "Galaico-Extremaduran",
         "Chapurre\u00e1u"
     ],
-    "ang": "Fala",
-    "gwcode": "es",
-    "ln": "Fala"
+    "gwcode": "es"
 }

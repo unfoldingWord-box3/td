@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xda",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 6895,
-    "lr": "Pacific",
     "lc": "xda",
+    "gw": false,
+    "ln": "Darkinyung",
+    "ld": "ltr",
+    "ang": "Darkinyung",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -17,7 +19,5 @@
         "Darkinung",
         "Darknung"
     ],
-    "ang": "Darkinyung",
-    "gwcode": "en",
-    "ln": "Darkinyung"
+    "gwcode": "en"
 }

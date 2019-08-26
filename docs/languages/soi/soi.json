@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "soi",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5757,
-    "lr": "Asia",
     "lc": "soi",
+    "gw": false,
+    "ln": "Sonha",
+    "ld": "ltr",
+    "ang": "Sonha",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Sunah",
         "Sunha"
     ],
-    "ang": "Sonha",
-    "gwcode": "ne",
-    "ln": "Sonha"
+    "gwcode": "ne"
 }

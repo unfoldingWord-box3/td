@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gde",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1964,
-    "lr": "Africa",
     "lc": "gde",
+    "gw": false,
+    "ln": "Gude",
+    "ld": "ltr",
+    "ang": "Gude",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "CM",
         "NG"
@@ -23,7 +25,5 @@
         "Tcheke",
         "Mapuda"
     ],
-    "ang": "Gude",
-    "gwcode": "en",
-    "ln": "Gude"
+    "gwcode": "en"
 }

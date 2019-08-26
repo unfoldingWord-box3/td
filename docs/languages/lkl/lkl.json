@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lkl",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3489,
-    "lr": "Pacific",
     "lc": "lkl",
+    "gw": false,
+    "ln": "Laeko-Libuat",
+    "ld": "ltr",
+    "ang": "Laeko-Libuat",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Laeko",
         "Laeko-Limbuat"
     ],
-    "ang": "Laeko-Libuat",
-    "gwcode": "tpi",
-    "ln": "Laeko-Libuat"
+    "gwcode": "tpi"
 }

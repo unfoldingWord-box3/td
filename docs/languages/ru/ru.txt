@@ -3,7 +3,7 @@
 Русский
 ==============
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/rus>`_ identifies this language as ``rus``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/rus>`__ identifies this language as ``rus``.
 
 This language is spoken in the following countries:
 
@@ -50,6 +50,8 @@ This language is spoken in the following countries:
 * BG: Bulgaria
 * IE: Ireland
 * UA: Ukraine
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -105,7 +107,7 @@ This language is spoken in the following countries:
     - BG
     - IE
     - UA
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: ru
     lang_direction: ltr
     lang_name: Русский

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sci",
-    "hc": "LK",
-    "ld": "ltr",
     "pk": 5511,
-    "lr": "Asia",
     "lc": "sci",
+    "gw": false,
+    "ln": "Sri Lankan Creole Malay",
+    "ld": "ltr",
+    "ang": "Sri Lankan Creole Malay",
+    "hc": "LK",
+    "lr": "Asia",
     "cc": [
         "LK"
     ],
@@ -14,7 +16,5 @@
         "Melayu Bahasa",
         "Sri Lankan Malay"
     ],
-    "ang": "Sri Lankan Creole Malay",
-    "gwcode": "ta",
-    "ln": "Sri Lankan Creole Malay"
+    "gwcode": "ta"
 }

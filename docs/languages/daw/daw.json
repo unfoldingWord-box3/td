@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "daw",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 1438,
-    "lr": "Asia",
     "lc": "daw",
+    "gw": false,
+    "ln": "Davawenyo",
+    "ld": "ltr",
+    "ang": "Davawenyo",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -14,7 +16,5 @@
         "Davawe\u00f1o",
         "Matino"
     ],
-    "ang": "Davawenyo",
-    "gwcode": "ceb",
-    "ln": "Davawenyo"
+    "gwcode": "ceb"
 }

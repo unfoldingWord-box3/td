@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ces",
-    "hc": "CZ",
-    "ld": "ltr",
     "pk": 1344,
-    "lr": "Europe",
     "lc": "cs",
+    "gw": false,
+    "ln": "\u010de\u0161tina, \u010desk\u00fd jazyk",
+    "ld": "ltr",
+    "ang": "Czech",
+    "hc": "CZ",
+    "lr": "Europe",
     "cc": [
         "AT",
         "AR",
@@ -24,7 +26,5 @@
         "Cestina",
         "Lach (Yalach)"
     ],
-    "ang": "Czech",
-    "gwcode": "en",
-    "ln": "\u010de\u0161tina, \u010desk\u00fd jazyk"
+    "gwcode": "en"
 }

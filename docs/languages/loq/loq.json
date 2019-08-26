@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "loq",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3565,
-    "lr": "Africa",
     "lc": "loq",
+    "gw": false,
+    "ln": "Lobala",
+    "ld": "ltr",
+    "ang": "Lobala",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CG",
         "CD"
@@ -13,7 +15,5 @@
     "alt": [
         "Likoka"
     ],
-    "ang": "Lobala",
-    "gwcode": "fr",
-    "ln": "Lobala"
+    "gwcode": "fr"
 }

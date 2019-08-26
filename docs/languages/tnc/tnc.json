@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tnc",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 6221,
-    "lr": "Americas",
     "lc": "tnc",
+    "gw": false,
+    "ln": "Tanimuca-Retuar\u00e3",
+    "ld": "ltr",
+    "ang": "Tanimuca-Retuar\u00e3",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -21,7 +23,5 @@
         "Uair\u00e3",
         "Ufaina"
     ],
-    "ang": "Tanimuca-Retuar\u00e3",
-    "gwcode": "es-419",
-    "ln": "Tanimuca-Retuar\u00e3"
+    "gwcode": "es-419"
 }

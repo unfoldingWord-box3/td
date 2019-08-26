@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "huu",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 2383,
-    "lr": "Americas",
     "lc": "huu",
+    "gw": false,
+    "ln": "Murui Huitoto",
+    "ld": "ltr",
+    "ang": "Huitoto, Murui",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -14,7 +16,5 @@
         "Witoto",
         "Mica"
     ],
-    "ang": "Huitoto, Murui",
-    "gwcode": "es-419",
-    "ln": "Murui Huitoto"
+    "gwcode": "es-419"
 }

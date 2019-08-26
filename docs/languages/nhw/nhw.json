@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nhw",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4452,
-    "lr": "Americas",
     "lc": "nhw",
+    "gw": false,
+    "ln": "Western Huasteca Nahuatl",
+    "ld": "ltr",
+    "ang": "Nahuatl, Western Huasteca",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "Western Huasteca Aztec",
         "Western Huasteca N\u00e1huatl"
     ],
-    "ang": "Nahuatl, Western Huasteca",
-    "gwcode": "es-419",
-    "ln": "Western Huasteca Nahuatl"
+    "gwcode": "es-419"
 }

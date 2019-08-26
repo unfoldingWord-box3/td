@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "xpr",
-    "hc": "IR",
-    "ld": "ltr",
     "pk": 7022,
-    "lr": "Asia",
     "lc": "xpr",
+    "gw": false,
+    "ln": "Parthian",
+    "ld": "ltr",
+    "ang": "Parthian",
+    "hc": "IR",
+    "lr": "Asia",
     "cc": [
         "IR"
     ],
     "alt": [],
-    "ang": "Parthian",
-    "gwcode": "UNKNOWN",
-    "ln": "Parthian"
+    "gwcode": null
 }

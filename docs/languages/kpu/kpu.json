@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kpu",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3077,
-    "lr": "Asia",
     "lc": "kpu",
+    "gw": false,
+    "ln": "Kafoa",
+    "ld": "ltr",
+    "ang": "Kafoa",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Pailelang",
         "Ruilak"
     ],
-    "ang": "Kafoa",
-    "gwcode": "id",
-    "ln": "Kafoa"
+    "gwcode": "id"
 }

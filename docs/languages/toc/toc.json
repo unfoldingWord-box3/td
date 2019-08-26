@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "toc",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6245,
-    "lr": "Americas",
     "lc": "toc",
+    "gw": false,
+    "ln": "Coyutla Totonac",
+    "ld": "ltr",
+    "ang": "Totonac, Coyutla",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Totonaco de Coyutla",
         "Cerro Grande Totonac"
     ],
-    "ang": "Totonac, Coyutla",
-    "gwcode": "es-419",
-    "ln": "Coyutla Totonac"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mbh",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3683,
-    "lr": "Pacific",
     "lc": "mbh",
+    "gw": false,
+    "ln": "Mangseng",
+    "ld": "ltr",
+    "ang": "Mangseng",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Maseki",
         "Marapu"
     ],
-    "ang": "Mangseng",
-    "gwcode": "tpi",
-    "ln": "Mangseng"
+    "gwcode": "tpi"
 }

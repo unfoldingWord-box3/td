@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "emx",
-    "hc": "FR",
-    "ld": "ltr",
     "pk": 1745,
-    "lr": "Europe",
     "lc": "emx",
+    "gw": false,
+    "ln": "Erromintxela",
+    "ld": "ltr",
+    "ang": "Erromintxela",
+    "hc": "FR",
+    "lr": "Europe",
     "cc": [
         "FR"
     ],
@@ -13,7 +15,5 @@
         "Basque Cal\u00f3",
         "Cal\u00f3 Vasco"
     ],
-    "ang": "Erromintxela",
-    "gwcode": "fr",
-    "ln": "Erromintxela"
+    "gwcode": "fr"
 }

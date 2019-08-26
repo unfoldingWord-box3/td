@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "suq",
-    "hc": "ET",
-    "ld": "ltr",
     "pk": 5884,
-    "lr": "Africa",
     "lc": "suq",
+    "gw": false,
+    "ln": "Suri",
+    "ld": "ltr",
+    "ang": "Suri",
+    "hc": "ET",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SS"
@@ -26,7 +28,5 @@
         "Cai",
         "Terema"
     ],
-    "ang": "Suri",
-    "gwcode": "am",
-    "ln": "Suri"
+    "gwcode": "am"
 }

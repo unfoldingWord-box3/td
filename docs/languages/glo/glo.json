@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "glo",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2053,
-    "lr": "Africa",
     "lc": "glo",
+    "gw": false,
+    "ln": "Galambu",
+    "ld": "ltr",
+    "ang": "Galambu",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Galambi",
         "Galembi"
     ],
-    "ang": "Galambu",
-    "gwcode": "en",
-    "ln": "Galambu"
+    "gwcode": "en"
 }

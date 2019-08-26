@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nly",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4532,
-    "lr": "Pacific",
     "lc": "nly",
+    "gw": false,
+    "ln": "Nyamal",
+    "ld": "ltr",
+    "ang": "Nyamal",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -16,7 +18,5 @@
         "Njamarl",
         "Nyamel"
     ],
-    "ang": "Nyamal",
-    "gwcode": "en",
-    "ln": "Nyamal"
+    "gwcode": "en"
 }

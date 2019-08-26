@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lmk",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3522,
-    "lr": "Asia",
     "lc": "lmk",
+    "gw": false,
+    "ln": "Lamkang",
+    "ld": "ltr",
+    "ang": "Lamkang",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Hiroi-Lamgang",
         "Lamgang"
     ],
-    "ang": "Lamkang",
-    "gwcode": "UNKNOWN",
-    "ln": "Lamkang"
+    "gwcode": "mni"
 }

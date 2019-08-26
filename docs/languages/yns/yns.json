@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yns",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 7246,
-    "lr": "Africa",
     "lc": "yns",
+    "gw": false,
+    "ln": "Yansi",
+    "ld": "ltr",
+    "ang": "Yansi",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -17,7 +19,5 @@
         "Yanzi",
         "Yeei (Yey)"
     ],
-    "ang": "Yansi",
-    "gwcode": "fr",
-    "ln": "Yansi"
+    "gwcode": "fr"
 }

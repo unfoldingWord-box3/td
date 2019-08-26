@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gdu",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 1978,
-    "lr": "Africa",
     "lc": "gdu",
+    "gw": false,
+    "ln": "Gudu",
+    "ld": "ltr",
+    "ang": "Gudu",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Gudo",
         "Gutu"
     ],
-    "ang": "Gudu",
-    "gwcode": "en",
-    "ln": "Gudu"
+    "gwcode": "en"
 }

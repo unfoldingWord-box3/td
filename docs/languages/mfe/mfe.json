@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mfe",
-    "hc": "MU",
-    "ld": "ltr",
     "pk": 3781,
-    "lr": "Africa",
     "lc": "mfe",
+    "gw": false,
+    "ln": "Morisyen",
+    "ld": "ltr",
+    "ang": "Morisyen",
+    "hc": "MU",
+    "lr": "Africa",
     "cc": [
         "FR",
         "KE",
@@ -22,7 +24,5 @@
         "Mauritius Creole French",
         "Maurysen"
     ],
-    "ang": "Morisyen",
-    "gwcode": "fr",
-    "ln": "Morisyen"
+    "gwcode": "fr"
 }

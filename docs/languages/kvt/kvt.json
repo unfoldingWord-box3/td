@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kvt",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 3227,
-    "lr": "Asia",
     "lc": "kvt",
+    "gw": false,
+    "ln": "Lahta Karen",
+    "ld": "ltr",
+    "ang": "Lahta",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -19,7 +21,5 @@
         "Tarulakhi",
         "Yan Wohta"
     ],
-    "ang": "Lahta",
-    "gwcode": "my",
-    "ln": "Lahta Karen"
+    "gwcode": "my"
 }

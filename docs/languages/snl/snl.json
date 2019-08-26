@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "snl",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 5735,
-    "lr": "Asia",
     "lc": "snl",
+    "gw": false,
+    "ln": "Sangil",
+    "ld": "ltr",
+    "ang": "Sangil",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -14,7 +16,5 @@
         "Sangir\u00e9",
         "Sarangani"
     ],
-    "ang": "Sangil",
-    "gwcode": "ceb",
-    "ln": "Sangil"
+    "gwcode": "ceb"
 }

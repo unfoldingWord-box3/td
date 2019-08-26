@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "buq",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 985,
-    "lr": "Pacific",
     "lc": "buq",
+    "gw": false,
+    "ln": "Brem",
+    "ld": "ltr",
+    "ang": "Brem",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Bunabun",
         "Bunubun"
     ],
-    "ang": "Brem",
-    "gwcode": "tpi",
-    "ln": "Brem"
+    "gwcode": "tpi"
 }

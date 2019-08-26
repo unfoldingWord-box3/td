@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ruz",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 5446,
-    "lr": "Africa",
     "lc": "ruz",
+    "gw": false,
+    "ln": "Ruma",
+    "ld": "ltr",
+    "ang": "Ruma",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -14,7 +16,5 @@
         "Rurama",
         "Turama"
     ],
-    "ang": "Ruma",
-    "gwcode": "en",
-    "ln": "Ruma"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lwl",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 3646,
-    "lr": "Asia",
     "lc": "lwl",
+    "gw": false,
+    "ln": "\u0e20\u0e32\u0e29\u0e32\u0e40\u0e25\u0e2d\u0e40\u0e27\u0e37\u0e2d\u0e30\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01",
+    "ld": "ltr",
+    "ang": "Lawa, Eastern",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "TH"
     ],
@@ -15,7 +17,5 @@
         "Bo Luang",
         "Bo Sangae"
     ],
-    "ang": "Lawa, Eastern",
-    "gwcode": "th",
-    "ln": "\u0e20\u0e32\u0e29\u0e32\u0e40\u0e25\u0e2d\u0e40\u0e27\u0e37\u0e2d\u0e30\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01"
+    "gwcode": "th"
 }

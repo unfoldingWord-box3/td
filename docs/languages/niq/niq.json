@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "niq",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 4468,
-    "lr": "Africa",
     "lc": "niq",
+    "gw": false,
+    "ln": "Nandi",
+    "ld": "ltr",
+    "ang": "Nandi",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -13,7 +15,5 @@
         "Cemual",
         "Naandi"
     ],
-    "ang": "Nandi",
-    "gwcode": "sw",
-    "ln": "Nandi"
+    "gwcode": "sw"
 }

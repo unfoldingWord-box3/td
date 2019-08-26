@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ksd",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3136,
-    "lr": "Pacific",
     "lc": "ksd",
+    "gw": false,
+    "ln": "Kuanua",
+    "ld": "ltr",
+    "ang": "Kuanua",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -18,7 +20,5 @@
         "Tuna",
         "Raluana"
     ],
-    "ang": "Kuanua",
-    "gwcode": "tpi",
-    "ln": "Kuanua"
+    "gwcode": "tpi"
 }

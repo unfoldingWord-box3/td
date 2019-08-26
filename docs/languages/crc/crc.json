@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "crc",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 1324,
-    "lr": "Pacific",
     "lc": "crc",
+    "gw": false,
+    "ln": "Lonwolwol",
+    "ld": "ltr",
+    "ang": "Lonwolwol",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -15,7 +17,5 @@
         "Fanting",
         "West Ambrym"
     ],
-    "ang": "Lonwolwol",
-    "gwcode": "fr",
-    "ln": "Lonwolwol"
+    "gwcode": "fr"
 }

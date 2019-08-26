@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bzs",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 1101,
-    "lr": "Americas",
     "lc": "bzs",
+    "gw": false,
+    "ln": "Brazilian Sign Language",
+    "ld": "ltr",
+    "ang": "Brazilian Sign Language",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -14,7 +16,5 @@
         "LSB",
         "S\u00e3o Paulo Sign Language"
     ],
-    "ang": "Brazilian Sign Language",
-    "gwcode": "pt",
-    "ln": "Brazilian Sign Language"
+    "gwcode": "pt"
 }

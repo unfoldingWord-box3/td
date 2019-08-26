@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tvu",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 6401,
-    "lr": "Africa",
     "lc": "tvu",
+    "gw": false,
+    "ln": "Tunen",
+    "ld": "ltr",
+    "ang": "Tunen",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -25,7 +27,5 @@
         "Tufombo (Logananga)",
         "Tuling"
     ],
-    "ang": "Tunen",
-    "gwcode": "fr",
-    "ln": "Tunen"
+    "gwcode": "fr"
 }

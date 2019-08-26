@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nda",
-    "hc": "CG",
-    "ld": "ltr",
     "pk": 4354,
-    "lr": "Africa",
     "lc": "nda",
+    "gw": false,
+    "ln": "Ndasa",
+    "ld": "ltr",
+    "ang": "Ndasa",
+    "hc": "CG",
+    "lr": "Africa",
     "cc": [
         "GA",
         "CG"
@@ -15,7 +17,5 @@
         "Ndash",
         "Ndassa"
     ],
-    "ang": "Ndasa",
-    "gwcode": "fr",
-    "ln": "Ndasa"
+    "gwcode": "fr"
 }

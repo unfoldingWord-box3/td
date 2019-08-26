@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nck",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 4341,
-    "lr": "Pacific",
     "lc": "nck",
+    "gw": false,
+    "ln": "Nakara",
+    "ld": "ltr",
+    "ang": "Nakara",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Nagara",
         "Nakkara"
     ],
-    "ang": "Nakara",
-    "gwcode": "en",
-    "ln": "Nakara"
+    "gwcode": "en"
 }

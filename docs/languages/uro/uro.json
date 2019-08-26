@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "uro",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6550,
-    "lr": "Pacific",
     "lc": "uro",
+    "gw": false,
+    "ln": "Ura (Papua New Guinea)",
+    "ld": "ltr",
+    "ang": "Ura",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Uramit",
         "Uramot"
     ],
-    "ang": "Ura",
-    "gwcode": "tpi",
-    "ln": "Ura (Papua New Guinea)"
+    "gwcode": "tpi"
 }

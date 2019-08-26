@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kqn",
-    "hc": "ZM",
-    "ld": "ltr",
     "pk": 3096,
-    "lr": "Africa",
     "lc": "kqn",
+    "gw": false,
+    "ln": "Kaonde",
+    "ld": "ltr",
+    "ang": "Kaonde",
+    "hc": "ZM",
+    "lr": "Africa",
     "cc": [
         "ZM"
     ],
@@ -15,7 +17,5 @@
         "Kawonde",
         "Luba Kaonde"
     ],
-    "ang": "Kaonde",
-    "gwcode": "en",
-    "ln": "Kaonde"
+    "gwcode": "en"
 }

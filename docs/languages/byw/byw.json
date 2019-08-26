@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "byw",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 1080,
-    "lr": "Asia",
     "lc": "byw",
+    "gw": false,
+    "ln": "Belhariya",
+    "ld": "ltr",
+    "ang": "Belhariya",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -16,7 +18,5 @@
         "Athpariya",
         "Belhare"
     ],
-    "ang": "Belhariya",
-    "gwcode": "ne",
-    "ln": "Belhariya"
+    "gwcode": "ne"
 }

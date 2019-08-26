@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bew",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 605,
-    "lr": "Asia",
     "lc": "bew",
+    "gw": false,
+    "ln": "Betawi",
+    "ld": "ltr",
+    "ang": "Betawi",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Jakarta Malay",
         "Melayu Jakarte"
     ],
-    "ang": "Betawi",
-    "gwcode": "id",
-    "ln": "Betawi"
+    "gwcode": "id"
 }

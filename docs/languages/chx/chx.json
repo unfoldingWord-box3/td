@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "chx",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 1205,
-    "lr": "Asia",
     "lc": "chx",
+    "gw": false,
+    "ln": "Chantyal",
+    "ld": "ltr",
+    "ang": "Chantyal",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -15,7 +17,5 @@
         "Chhantel",
         "Khamkura"
     ],
-    "ang": "Chantyal",
-    "gwcode": "ne",
-    "ln": "Chantyal"
+    "gwcode": "ne"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xsr",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 7050,
-    "lr": "Asia",
     "lc": "xsr",
+    "gw": false,
+    "ln": "\u0936\u0947\u0930\u094d\u092a\u093e",
+    "ld": "ltr",
+    "ang": "Sherpa",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "BT",
         "NP",
@@ -24,7 +26,5 @@
         "East Sherpa (Dolakha)",
         "North Sherpa (Khumbu)"
     ],
-    "ang": "Sherpa",
-    "gwcode": "ne",
-    "ln": "\u0936\u0947\u0930\u094d\u092a\u093e"
+    "gwcode": "ne"
 }

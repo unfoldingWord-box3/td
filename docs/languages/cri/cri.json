@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cri",
-    "hc": "ST",
-    "ld": "ltr",
     "pk": 1328,
-    "lr": "Africa",
     "lc": "cri",
+    "gw": false,
+    "ln": "S\u00e3otomense",
+    "ld": "ltr",
+    "ang": "S\u00e3otomense",
+    "hc": "ST",
+    "lr": "Africa",
     "cc": [
         "GQ",
         "ST"
@@ -15,7 +17,5 @@
         "Santomense",
         "S\u00e3o Tomense"
     ],
-    "ang": "S\u00e3otomense",
-    "gwcode": "pt",
-    "ln": "S\u00e3otomense"
+    "gwcode": "pt"
 }

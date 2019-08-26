@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "blk",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 765,
-    "lr": "Asia",
     "lc": "blk",
+    "gw": false,
+    "ln": "Pa'o Karen",
+    "ld": "ltr",
+    "ang": "Pa\u2019o",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "TH",
         "MM"
@@ -21,7 +23,5 @@
         "Taungtu",
         "Southern Pa'o"
     ],
-    "ang": "Pa\u2019o",
-    "gwcode": "my",
-    "ln": "Pa'o Karen"
+    "gwcode": "my"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nri",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4629,
-    "lr": "Asia",
     "lc": "nri",
+    "gw": false,
+    "ln": "Chokri Naga",
+    "ld": "ltr",
+    "ang": "Naga, Chokri",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -16,7 +18,5 @@
         "Chokri",
         "Eastern Angami"
     ],
-    "ang": "Naga, Chokri",
-    "gwcode": "en",
-    "ln": "Chokri Naga"
+    "gwcode": "en"
 }

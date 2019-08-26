@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zzj",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7501,
-    "lr": "Asia",
     "lc": "zzj",
+    "gw": false,
+    "ln": "\u5de6\u6c5f",
+    "ld": "ltr",
+    "ang": "Zhuang, Zuojiang",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -19,7 +21,5 @@
         "Zhuangyu nanbu fangyan Zuojiang tuyu",
         "Nung Chao"
     ],
-    "ang": "Zhuang, Zuojiang",
-    "gwcode": "zh",
-    "ln": "\u5de6\u6c5f"
+    "gwcode": "zh"
 }

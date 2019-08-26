@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "udi",
-    "hc": "AZ",
-    "ld": "ltr",
     "pk": 6476,
-    "lr": "Asia",
     "lc": "udi",
+    "gw": false,
+    "ln": "Udi dili",
+    "ld": "ltr",
+    "ang": "Udi",
+    "hc": "AZ",
+    "lr": "Asia",
     "cc": [
         "AZ"
     ],
@@ -17,7 +19,5 @@
         "Nizh",
         "Oghuz (Vartashen)"
     ],
-    "ang": "Udi",
-    "gwcode": "ru",
-    "ln": "Udi dili"
+    "gwcode": "ru"
 }

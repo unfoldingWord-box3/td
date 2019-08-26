@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kow",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3056,
-    "lr": "Africa",
     "lc": "kow",
+    "gw": false,
+    "ln": "Kugama",
+    "ld": "ltr",
+    "ang": "Kugama",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Yamale",
         "Yamalo"
     ],
-    "ang": "Kugama",
-    "gwcode": "en",
-    "ln": "Kugama"
+    "gwcode": "en"
 }

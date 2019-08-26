@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mkx",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 3923,
-    "lr": "Asia",
     "lc": "mkx",
+    "gw": false,
+    "ln": "Kinamiging Manobo",
+    "ld": "ltr",
+    "ang": "Manobo, Kinamiging",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -15,7 +17,5 @@
         "Kinamigin",
         "Manobo"
     ],
-    "ang": "Manobo, Kinamiging",
-    "gwcode": "ceb",
-    "ln": "Kinamiging Manobo"
+    "gwcode": "ceb"
 }

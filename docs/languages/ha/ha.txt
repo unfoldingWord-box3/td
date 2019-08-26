@@ -3,7 +3,7 @@
 (Hausa) هَوُسَ
 ====================
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/hau>`_ identifies this language as ``hau``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/hau>`__ identifies this language as ``hau``.
 
 This language is spoken in the following countries:
 
@@ -24,6 +24,8 @@ This language is spoken in the following countries:
 * CG: Congo
 * CA: Canada
 * GN: Guinea
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -56,7 +58,7 @@ This language is spoken in the following countries:
     - CG
     - CA
     - GN
-    gateway_language: UNKNOWN
+    gateway_language: null
     lang_code: ha
     lang_direction: ltr
     lang_name: (Hausa) هَوُسَ

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tsd",
-    "hc": "GR",
-    "ld": "ltr",
     "pk": 6327,
-    "lr": "Europe",
     "lc": "tsd",
+    "gw": false,
+    "ln": "Tsakonian",
+    "ld": "ltr",
+    "ang": "Tsakonian",
+    "hc": "GR",
+    "lr": "Europe",
     "cc": [
         "GR"
     ],
@@ -15,7 +17,5 @@
         "Propontis Tsakonian (Vatka-Havoutsi)",
         "Southern Tsakonian (Leonidio-Prastos)"
     ],
-    "ang": "Tsakonian",
-    "gwcode": "en",
-    "ln": "Tsakonian"
+    "gwcode": "en"
 }

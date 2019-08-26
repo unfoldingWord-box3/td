@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tts",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 6366,
-    "lr": "Asia",
     "lc": "tts",
+    "gw": false,
+    "ln": "Northeastern Thai",
+    "ld": "ltr",
+    "ang": "Thai, Northeastern",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "LA",
         "TH"
@@ -19,7 +21,5 @@
         "Kaleung",
         "Kaloeng"
     ],
-    "ang": "Thai, Northeastern",
-    "gwcode": "th",
-    "ln": "Northeastern Thai"
+    "gwcode": "th"
 }

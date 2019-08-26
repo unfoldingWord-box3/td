@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "smx",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 5723,
-    "lr": "Africa",
     "lc": "smx",
+    "gw": false,
+    "ln": "Samba",
+    "ld": "ltr",
+    "ang": "Samba",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Tsamba",
         "Usamba"
     ],
-    "ang": "Samba",
-    "gwcode": "fr",
-    "ln": "Samba"
+    "gwcode": "fr"
 }

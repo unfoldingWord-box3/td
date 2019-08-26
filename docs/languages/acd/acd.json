@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "acd",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 55,
-    "lr": "Africa",
     "lc": "acd",
+    "gw": false,
+    "ln": "Gikyode",
+    "ld": "ltr",
+    "ang": "Gikyode",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -14,7 +16,5 @@
         "Gichode",
         "Kyode"
     ],
-    "ang": "Gikyode",
-    "gwcode": "en",
-    "ln": "Gikyode"
+    "gwcode": "en"
 }

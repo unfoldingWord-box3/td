@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tbo",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5997,
-    "lr": "Pacific",
     "lc": "tbo",
+    "gw": false,
+    "ln": "Tawala",
+    "ld": "ltr",
+    "ang": "Tawala",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -25,7 +27,5 @@
         "Wagawaga",
         "Yaleba (Ealeba)"
     ],
-    "ang": "Tawala",
-    "gwcode": "tpi",
-    "ln": "Tawala"
+    "gwcode": "tpi"
 }

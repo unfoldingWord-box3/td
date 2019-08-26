@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rar",
-    "hc": "CK",
-    "ld": "ltr",
     "pk": 5321,
-    "lr": "Pacific",
     "lc": "rar",
+    "gw": false,
+    "ln": "Rarotongan",
+    "ld": "ltr",
+    "ang": "Rarotongan",
+    "hc": "CK",
+    "lr": "Pacific",
     "cc": [
         "CK",
         "NZ",
@@ -20,7 +22,5 @@
         "Rarotongan-Mangaian",
         "Rarotonga"
     ],
-    "ang": "Rarotongan",
-    "gwcode": "en",
-    "ln": "Rarotongan"
+    "gwcode": "en"
 }

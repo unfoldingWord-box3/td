@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pea",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4979,
-    "lr": "Asia",
     "lc": "pea",
+    "gw": false,
+    "ln": "Peranakan Indonesian",
+    "ld": "ltr",
+    "ang": "Indonesian, Peranakan",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Chinese Indonesian",
         "Peranakan"
     ],
-    "ang": "Indonesian, Peranakan",
-    "gwcode": "id",
-    "ln": "Peranakan Indonesian"
+    "gwcode": "id"
 }

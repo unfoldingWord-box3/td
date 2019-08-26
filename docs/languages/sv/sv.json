@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "swe",
-    "hc": "SE",
-    "ld": "ltr",
     "pk": 5893,
-    "lr": "Europe",
     "lc": "sv",
+    "gw": false,
+    "ln": "svenska",
+    "ld": "ltr",
+    "ang": "Swedish",
+    "hc": "SE",
+    "lr": "Europe",
     "cc": [
         "AT",
         "FR",
@@ -39,7 +41,5 @@
         "Dalecarlian",
         "\u00c5land Islands Swedish"
     ],
-    "ang": "Swedish",
-    "gwcode": "en",
-    "ln": "svenska"
+    "gwcode": "en"
 }

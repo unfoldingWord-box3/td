@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lum",
-    "hc": "AO",
-    "ld": "ltr",
     "pk": 3624,
-    "lr": "Africa",
     "lc": "lum",
+    "gw": false,
+    "ln": "Luimbi",
+    "ld": "ltr",
+    "ang": "Luimbi",
+    "hc": "AO",
+    "lr": "Africa",
     "cc": [
         "AO"
     ],
@@ -15,7 +17,5 @@
         "Lwimbe",
         "Lwimbi"
     ],
-    "ang": "Luimbi",
-    "gwcode": "pt",
-    "ln": "Luimbi"
+    "gwcode": "pt"
 }

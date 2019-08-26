@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bmj",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 790,
-    "lr": "Asia",
     "lc": "bmj",
+    "gw": false,
+    "ln": "Bote-Majhi",
+    "ld": "ltr",
+    "ang": "Bote",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -13,7 +15,5 @@
         "Pakhe-Bote",
         "Pani-Bote"
     ],
-    "ang": "Bote",
-    "gwcode": "ne",
-    "ln": "Bote-Majhi"
+    "gwcode": "ne"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rui",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 5438,
-    "lr": "Africa",
     "lc": "rui",
+    "gw": false,
+    "ln": "Rufiji",
+    "ld": "ltr",
+    "ang": "Rufiji",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -14,7 +16,5 @@
         "Kiruihi",
         "Ruihi"
     ],
-    "ang": "Rufiji",
-    "gwcode": "sw",
-    "ln": "Rufiji"
+    "gwcode": "sw"
 }

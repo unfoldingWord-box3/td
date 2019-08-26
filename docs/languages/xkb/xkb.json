@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "xkb",
-    "hc": "BJ",
-    "ld": "ltr",
     "pk": 6932,
-    "lr": "Africa",
     "lc": "xkb",
+    "gw": false,
+    "ln": "Northern Nago",
+    "ld": "ltr",
+    "ang": "Nago, Northern",
+    "hc": "BJ",
+    "lr": "Africa",
     "cc": [
         "BJ",
         "TG"
@@ -19,7 +21,5 @@
         "Ede Nago",
         "Manigri-Kambol\u00e9"
     ],
-    "ang": "Nago, Northern",
-    "gwcode": "fr",
-    "ln": "Northern Nago"
+    "gwcode": "fr"
 }

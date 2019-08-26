@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "llg",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3501,
-    "lr": "Asia",
     "lc": "llg",
+    "gw": false,
+    "ln": "Lole",
+    "ld": "ltr",
+    "ang": "Lole",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -21,7 +23,5 @@
         "North Lole",
         "South Lole"
     ],
-    "ang": "Lole",
-    "gwcode": "id",
-    "ln": "Lole"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "roh",
-    "hc": "CH",
-    "ld": "ltr",
     "pk": 5374,
-    "lr": "Europe",
     "lc": "rm",
+    "gw": false,
+    "ln": "rumantsch grischun",
+    "ld": "ltr",
+    "ang": "Romansh",
+    "hc": "CH",
+    "lr": "Europe",
     "cc": [
         "CH",
         "IT"
@@ -23,7 +25,5 @@
         "Vallader (Lower Engadine)",
         "Vorderrhein"
     ],
-    "ang": "Romansh",
-    "gwcode": "en",
-    "ln": "rumantsch grischun"
+    "gwcode": "en"
 }

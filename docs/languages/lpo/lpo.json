@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lpo",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 3577,
-    "lr": "Asia",
     "lc": "lpo",
+    "gw": false,
+    "ln": "\u91cc\u6cfc",
+    "ld": "ltr",
+    "ang": "Lipo",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -16,7 +18,5 @@
         "Eastern Lipo",
         "Western Lipo"
     ],
-    "ang": "Lipo",
-    "gwcode": "zh",
-    "ln": "\u91cc\u6cfc"
+    "gwcode": "zh"
 }

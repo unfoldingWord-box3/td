@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "otz",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 4903,
-    "lr": "Americas",
     "lc": "otz",
+    "gw": false,
+    "ln": "Ixtenco Otomi",
+    "ld": "ltr",
+    "ang": "Otomi, Ixtenco",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Otom\u00ed de Ixtenco",
         "Southeastern Otom\u00ed"
     ],
-    "ang": "Otomi, Ixtenco",
-    "gwcode": "es-419",
-    "ln": "Ixtenco Otomi"
+    "gwcode": "es-419"
 }

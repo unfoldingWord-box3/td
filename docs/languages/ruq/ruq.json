@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ruq",
-    "hc": "GR",
-    "ld": "ltr",
     "pk": 5442,
-    "lr": "Europe",
     "lc": "ruq",
+    "gw": false,
+    "ln": "Megleno Romanian",
+    "ld": "ltr",
+    "ang": "Romanian, Megleno",
+    "hc": "GR",
+    "lr": "Europe",
     "cc": [
         "GR"
     ],
@@ -13,7 +15,5 @@
         "Meglenite",
         "Meglenitic"
     ],
-    "ang": "Romanian, Megleno",
-    "gwcode": "en",
-    "ln": "Megleno Romanian"
+    "gwcode": "en"
 }

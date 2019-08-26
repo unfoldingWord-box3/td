@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kki",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 2941,
-    "lr": "Africa",
     "lc": "kki",
+    "gw": false,
+    "ln": "Kagulu",
+    "ld": "ltr",
+    "ang": "Kagulu",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -19,7 +21,5 @@
         "Mangehele",
         "Tumba"
     ],
-    "ang": "Kagulu",
-    "gwcode": "sw",
-    "ln": "Kagulu"
+    "gwcode": "sw"
 }

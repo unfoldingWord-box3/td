@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cat",
-    "hc": "ES",
-    "ld": "ltr",
     "pk": 1109,
-    "lr": "Europe",
     "lc": "ca",
+    "gw": false,
+    "ln": "catal\u00e0",
+    "ld": "ltr",
+    "ang": "Catalan",
+    "hc": "ES",
+    "lr": "Europe",
     "cc": [
         "AR",
         "FR",
@@ -35,7 +37,5 @@
         "Balearic (Balear)",
         "Mallorqui"
     ],
-    "ang": "Catalan",
-    "gwcode": "es",
-    "ln": "catal\u00e0"
+    "gwcode": "es"
 }

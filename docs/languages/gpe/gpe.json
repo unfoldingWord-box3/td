@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gpe",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 2115,
-    "lr": "Africa",
     "lc": "gpe",
+    "gw": false,
+    "ln": "Ghanaian Pidgin English",
+    "ld": "ltr",
+    "ang": "Ghanaian Pidgin English",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -15,7 +17,5 @@
         "Pidgin",
         "Pidgin English"
     ],
-    "ang": "Ghanaian Pidgin English",
-    "gwcode": "en",
-    "ln": "Ghanaian Pidgin English"
+    "gwcode": "en"
 }

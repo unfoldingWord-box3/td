@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kpm",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 3071,
-    "lr": "Asia",
     "lc": "kpm",
+    "gw": false,
+    "ln": "K\u01a1ho",
+    "ld": "ltr",
+    "ang": "Koho",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -23,7 +25,5 @@
         "Chil (Kil)",
         "Xre Nop"
     ],
-    "ang": "Koho",
-    "gwcode": "vi",
-    "ln": "K\u01a1ho"
+    "gwcode": "vi"
 }

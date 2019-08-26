@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lha",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 3444,
-    "lr": "Asia",
     "lc": "lha",
+    "gw": false,
+    "ln": "Laha (Viet Nam)",
+    "ld": "ltr",
+    "ang": "Laha",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -21,7 +23,5 @@
         "X\u00e1 Khao",
         "X\u00e1 Lay"
     ],
-    "ang": "Laha",
-    "gwcode": "vi",
-    "ln": "Laha (Viet Nam)"
+    "gwcode": "vi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "duk",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1660,
-    "lr": "Pacific",
     "lc": "duk",
+    "gw": false,
+    "ln": "Uyajitaya",
+    "ld": "ltr",
+    "ang": "Uyajitaya",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -18,7 +20,5 @@
         "Xuyadzitaya",
         "Yabatia"
     ],
-    "ang": "Uyajitaya",
-    "gwcode": "tpi",
-    "ln": "Uyajitaya"
+    "gwcode": "tpi"
 }

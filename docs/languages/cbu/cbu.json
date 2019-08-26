@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cbu",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 1146,
-    "lr": "Americas",
     "lc": "cbu",
+    "gw": false,
+    "ln": "Candoshi-Shapra",
+    "ld": "ltr",
+    "ang": "Candoshi-Shapra",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -16,7 +18,5 @@
         "Murato",
         "Chapara (Shapra)"
     ],
-    "ang": "Candoshi-Shapra",
-    "gwcode": "es-419",
-    "ln": "Candoshi-Shapra"
+    "gwcode": "es-419"
 }

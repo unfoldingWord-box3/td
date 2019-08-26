@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "toq",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 6256,
-    "lr": "Africa",
     "lc": "toq",
+    "gw": false,
+    "ln": "Toposa",
+    "ld": "ltr",
+    "ang": "Toposa",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SS",
@@ -18,7 +20,5 @@
         "Taposa",
         "Topotha"
     ],
-    "ang": "Toposa",
-    "gwcode": "ar",
-    "ln": "Toposa"
+    "gwcode": "ar"
 }

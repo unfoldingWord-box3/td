@@ -1,18 +1,18 @@
 {
-    "gw": false,
     "ISO-639-3": "apw",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 321,
-    "lr": "Americas",
     "lc": "apw",
+    "gw": false,
+    "ln": "Western Apache",
+    "ld": "ltr",
+    "ang": "Apache, Western",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
     "alt": [
         "Coyotero"
     ],
-    "ang": "Apache, Western",
-    "gwcode": "en",
-    "ln": "Western Apache"
+    "gwcode": "en"
 }

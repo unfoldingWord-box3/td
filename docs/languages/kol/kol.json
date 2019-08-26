@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kol",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3048,
-    "lr": "Pacific",
     "lc": "kol",
+    "gw": false,
+    "ln": "Kol (Papua New Guinea)",
+    "ld": "ltr",
+    "ang": "Kol",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Kole",
         "Kol (Nakgaktai)"
     ],
-    "ang": "Kol",
-    "gwcode": "tpi",
-    "ln": "Kol (Papua New Guinea)"
+    "gwcode": "tpi"
 }

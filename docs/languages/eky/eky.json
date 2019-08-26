@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "eky",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 1723,
-    "lr": "Asia",
     "lc": "eky",
+    "gw": false,
+    "ln": "Eastern Kayah",
+    "ld": "ltr",
+    "ang": "Kayah, Eastern",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "TH",
         "MM"
@@ -21,7 +23,5 @@
         "Lower Eastern Kayah",
         "Upper Eastern Kayah"
     ],
-    "ang": "Kayah, Eastern",
-    "gwcode": "my",
-    "ln": "Eastern Kayah"
+    "gwcode": "my"
 }

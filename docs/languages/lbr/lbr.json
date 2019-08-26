@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lbr",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 3370,
-    "lr": "Asia",
     "lc": "lbr",
+    "gw": false,
+    "ln": "Lohorung",
+    "ld": "ltr",
+    "ang": "Lohorung",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -17,7 +19,5 @@
         "Northern Lorung",
         "Biksit (Bikshi)"
     ],
-    "ang": "Lohorung",
-    "gwcode": "ne",
-    "ln": "Lohorung"
+    "gwcode": "ne"
 }

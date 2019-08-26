@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "loy",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 3572,
-    "lr": "Asia",
     "lc": "loy",
+    "gw": false,
+    "ln": "\u0932\u094d\u0939\u094b\u0935\u093e",
+    "ld": "ltr",
+    "ang": "Lhowa",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -23,7 +25,5 @@
         "Baragaun",
         "Baragaunle (Baragaon)"
     ],
-    "ang": "Lhowa",
-    "gwcode": "ne",
-    "ln": "\u0932\u094d\u0939\u094b\u0935\u093e"
+    "gwcode": "ne"
 }

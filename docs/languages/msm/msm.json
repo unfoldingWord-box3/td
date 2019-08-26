@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "msm",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 4108,
-    "lr": "Asia",
     "lc": "msm",
+    "gw": false,
+    "ln": "Agusan Manobo",
+    "ld": "ltr",
+    "ang": "Manobo, Agusan",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -14,7 +16,5 @@
         "Omayamnon",
         "Surigao"
     ],
-    "ang": "Manobo, Agusan",
-    "gwcode": "ceb",
-    "ln": "Agusan Manobo"
+    "gwcode": "ceb"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "soh",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 5756,
-    "lr": "Africa",
     "lc": "soh",
+    "gw": false,
+    "ln": "Aka",
+    "ld": "ltr",
+    "ang": "Aka",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -14,7 +16,5 @@
         "Jebels Sillok",
         "Sillok"
     ],
-    "ang": "Aka",
-    "gwcode": "ar",
-    "ln": "Aka"
+    "gwcode": "ar"
 }

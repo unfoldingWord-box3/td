@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ata",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 381,
-    "lr": "Pacific",
     "lc": "ata",
+    "gw": false,
+    "ln": "Pele-Ata",
+    "ld": "ltr",
+    "ang": "Pele-Ata",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Uasilau",
         "Wasi"
     ],
-    "ang": "Pele-Ata",
-    "gwcode": "tpi",
-    "ln": "Pele-Ata"
+    "gwcode": "tpi"
 }

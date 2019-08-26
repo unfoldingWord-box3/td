@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ssl",
-    "hc": "GH",
-    "ld": "ltr",
     "pk": 5837,
-    "lr": "Africa",
     "lc": "ssl",
+    "gw": false,
+    "ln": "Western Sisaala",
+    "ld": "ltr",
+    "ang": "Sisaala, Western",
+    "hc": "GH",
+    "lr": "Africa",
     "cc": [
         "GH"
     ],
@@ -15,7 +17,5 @@
         "Issala",
         "Sisai"
     ],
-    "ang": "Sisaala, Western",
-    "gwcode": "en",
-    "ln": "Western Sisaala"
+    "gwcode": "en"
 }

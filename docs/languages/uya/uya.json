@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "uya",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 6576,
-    "lr": "Africa",
     "lc": "uya",
+    "gw": false,
+    "ln": "Doko-Uyanga",
+    "ld": "ltr",
+    "ang": "Doko-Uyanga",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Iko",
         "Uyanga"
     ],
-    "ang": "Doko-Uyanga",
-    "gwcode": "en",
-    "ln": "Doko-Uyanga"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "flh",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1850,
-    "lr": "Asia",
     "lc": "flh",
+    "gw": false,
+    "ln": "Foau",
+    "ld": "ltr",
+    "ang": "Foau",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Abawiri",
         "Doa"
     ],
-    "ang": "Foau",
-    "gwcode": "id",
-    "ln": "Foau"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mec",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 3755,
-    "lr": "Pacific",
     "lc": "mec",
+    "gw": false,
+    "ln": "Mara",
+    "ld": "ltr",
+    "ang": "Mara",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -15,7 +17,5 @@
         "Mala",
         "Marra"
     ],
-    "ang": "Mara",
-    "gwcode": "en",
-    "ln": "Mara"
+    "gwcode": "en"
 }

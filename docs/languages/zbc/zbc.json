@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zbc",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 7356,
-    "lr": "Asia",
     "lc": "zbc",
+    "gw": false,
+    "ln": "Central Berawan",
+    "ld": "ltr",
+    "ang": "Berawan, Central",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY"
     ],
@@ -14,7 +16,5 @@
         "Batu Belah Berawan",
         "Long Teru Berawan"
     ],
-    "ang": "Berawan, Central",
-    "gwcode": "ms",
-    "ln": "Central Berawan"
+    "gwcode": "ms"
 }

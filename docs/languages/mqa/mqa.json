@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mqa",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4045,
-    "lr": "Asia",
     "lc": "mqa",
+    "gw": false,
+    "ln": "Maba (Indonesia)",
+    "ld": "ltr",
+    "ang": "Maba",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Bitjoli",
         "Ingli"
     ],
-    "ang": "Maba",
-    "gwcode": "id",
-    "ln": "Maba (Indonesia)"
+    "gwcode": "id"
 }

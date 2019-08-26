@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "giw",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2035,
-    "lr": "Asia",
     "lc": "giw",
+    "gw": false,
+    "ln": "\u9752\u4ee1\u4f6c\u8bed",
+    "ld": "ltr",
+    "ang": "Duoluo, White Gelao",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -17,7 +19,5 @@
         "T\u00fa Du",
         "Tu'lu"
     ],
-    "ang": "Duoluo, White Gelao",
-    "gwcode": "zh",
-    "ln": "\u9752\u4ee1\u4f6c\u8bed"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ria",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5356,
-    "lr": "Asia",
     "lc": "ria",
+    "gw": false,
+    "ln": "Riang (India)",
+    "ld": "ltr",
+    "ang": "Riang",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "BD",
         "IN"
@@ -15,7 +17,5 @@
         "Reang",
         "Tipra"
     ],
-    "ang": "Riang",
-    "gwcode": "bn",
-    "ln": "Riang (India)"
+    "gwcode": "bn"
 }

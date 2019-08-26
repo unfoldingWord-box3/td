@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "muy",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 4167,
-    "lr": "Africa",
     "lc": "muy",
+    "gw": false,
+    "ln": "Muyang",
+    "ld": "ltr",
+    "ang": "Muyang",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -16,7 +18,5 @@
         "Myau",
         "Myenge"
     ],
-    "ang": "Muyang",
-    "gwcode": "fr",
-    "ln": "Muyang"
+    "gwcode": "fr"
 }

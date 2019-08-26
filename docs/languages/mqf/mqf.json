@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mqf",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4049,
-    "lr": "Asia",
     "lc": "mqf",
+    "gw": false,
+    "ln": "Momuna",
+    "ld": "ltr",
+    "ang": "Momuna",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Somahai",
         "Sumohai"
     ],
-    "ang": "Momuna",
-    "gwcode": "id",
-    "ln": "Momuna"
+    "gwcode": "id"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "srq",
-    "hc": "BO",
-    "ld": "ltr",
     "pk": 5817,
-    "lr": "Americas",
     "lc": "srq",
+    "gw": false,
+    "ln": "Sirion\u00f3",
+    "ld": "ltr",
+    "ang": "Sirion\u00f3",
+    "hc": "BO",
+    "lr": "Americas",
     "cc": [
         "BO"
     ],
@@ -13,7 +15,5 @@
         "Mbia Chee",
         "Mbya"
     ],
-    "ang": "Sirion\u00f3",
-    "gwcode": "es-419",
-    "ln": "Sirion\u00f3"
+    "gwcode": "es-419"
 }

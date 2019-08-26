@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kas",
-    "hc": "IN",
-    "ld": "rtl",
     "pk": 3132,
-    "lr": "Asia",
     "lc": "ks",
+    "gw": false,
+    "ln": "\u0915\u0936\u094d\u092e\u0940\u0930\u0940, \u0643\u0634\u0645\u064a\u0631\u064a\u200e",
+    "ld": "rtl",
+    "ang": "Kashmiri",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "PK",
         "US",
@@ -25,7 +27,5 @@
         "Kistwali",
         "Poguli"
     ],
-    "ang": "Kashmiri",
-    "gwcode": "hi",
-    "ln": "\u0915\u0936\u094d\u092e\u0940\u0930\u0940, \u0643\u0634\u0645\u064a\u0631\u064a\u200e"
+    "gwcode": "hi"
 }

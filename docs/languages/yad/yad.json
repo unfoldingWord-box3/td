@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yad",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 7113,
-    "lr": "Americas",
     "lc": "yad",
+    "gw": false,
+    "ln": "Yagua",
+    "ld": "ltr",
+    "ang": "Yagua",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "PE",
@@ -18,7 +20,5 @@
         "Yava",
         "Yegua"
     ],
-    "ang": "Yagua",
-    "gwcode": "pt-br",
-    "ln": "Yagua"
+    "gwcode": "pt-br"
 }

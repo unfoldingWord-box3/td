@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cir",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 1217,
-    "lr": "Pacific",
     "lc": "cir",
+    "gw": false,
+    "ln": "Tiri",
+    "ld": "ltr",
+    "ang": "T\u00eer\u00ee",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -21,7 +23,5 @@
         "Hameha",
         "M\u00e9a (Ha Mea)"
     ],
-    "ang": "T\u00eer\u00ee",
-    "gwcode": "en",
-    "ln": "Tiri"
+    "gwcode": "en"
 }

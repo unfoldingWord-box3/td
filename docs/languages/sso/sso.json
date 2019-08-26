@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sso",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5840,
-    "lr": "Pacific",
     "lc": "sso",
+    "gw": false,
+    "ln": "Sissano",
+    "ld": "ltr",
+    "ang": "Sissano",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Sinano",
         "Sisano"
     ],
-    "ang": "Sissano",
-    "gwcode": "tpi",
-    "ln": "Sissano"
+    "gwcode": "tpi"
 }

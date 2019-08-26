@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bjo",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 721,
-    "lr": "Africa",
     "lc": "bjo",
+    "gw": false,
+    "ln": "Mid-Southern Banda",
+    "ld": "ltr",
+    "ang": "Banda, Mid-Southern",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF",
         "SS"
@@ -18,7 +20,5 @@
         "Yakpwa",
         "Yakwa"
     ],
-    "ang": "Banda, Mid-Southern",
-    "gwcode": "fr",
-    "ln": "Mid-Southern Banda"
+    "gwcode": "fr"
 }

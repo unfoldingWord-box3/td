@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mda",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3728,
-    "lr": "Africa",
     "lc": "mda",
+    "gw": false,
+    "ln": "Mada (Nigeria)",
+    "ld": "ltr",
+    "ang": "Mada",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -13,7 +15,5 @@
         "Madda",
         "Yidda"
     ],
-    "ang": "Mada",
-    "gwcode": "en",
-    "ln": "Mada (Nigeria)"
+    "gwcode": "en"
 }

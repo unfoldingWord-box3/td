@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dyu",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 1683,
-    "lr": "Africa",
     "lc": "dyu",
+    "gw": false,
+    "ln": "Dyula",
+    "ld": "ltr",
+    "ang": "Jula",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "BF",
         "CI",
@@ -22,7 +24,5 @@
         "Kong Jula",
         "Trade Jula"
     ],
-    "ang": "Jula",
-    "gwcode": "fr",
-    "ln": "Dyula"
+    "gwcode": "fr"
 }

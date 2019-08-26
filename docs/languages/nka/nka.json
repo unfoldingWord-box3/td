@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nka",
-    "hc": "ZM",
-    "ld": "ltr",
     "pk": 4494,
-    "lr": "Africa",
     "lc": "nka",
+    "gw": false,
+    "ln": "Nkoya",
+    "ld": "ltr",
+    "ang": "Nkoya",
+    "hc": "ZM",
+    "lr": "Africa",
     "cc": [
         "ZM"
     ],
@@ -15,7 +17,5 @@
         "Mbwera",
         "Shimbwera"
     ],
-    "ang": "Nkoya",
-    "gwcode": "en",
-    "ln": "Nkoya"
+    "gwcode": "en"
 }

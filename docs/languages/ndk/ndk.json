@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ndk",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4363,
-    "lr": "Africa",
     "lc": "ndk",
+    "gw": false,
+    "ln": "Ndaka",
+    "ld": "ltr",
+    "ang": "Ndaka",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -13,7 +15,5 @@
         "Indaaka",
         "Ndaaka"
     ],
-    "ang": "Ndaka",
-    "gwcode": "fr",
-    "ln": "Ndaka"
+    "gwcode": "fr"
 }

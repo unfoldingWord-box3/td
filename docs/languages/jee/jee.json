@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jee",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 2598,
-    "lr": "Asia",
     "lc": "jee",
+    "gw": false,
+    "ln": "Jerung",
+    "ld": "ltr",
+    "ang": "Jerung",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -20,7 +22,5 @@
         "Zerum",
         "Ratnawati (Sindhuli)"
     ],
-    "ang": "Jerung",
-    "gwcode": "ne",
-    "ln": "Jerung"
+    "gwcode": "ne"
 }

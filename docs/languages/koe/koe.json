@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "koe",
-    "hc": "SS",
-    "ld": "ltr",
     "pk": 3042,
-    "lr": "Africa",
     "lc": "koe",
+    "gw": false,
+    "ln": "Kacipo-Balesi",
+    "ld": "ltr",
+    "ang": "Kacipo-Balesi",
+    "hc": "SS",
+    "lr": "Africa",
     "cc": [
         "ET",
         "SS"
@@ -16,7 +18,5 @@
         "Zelmamu",
         "Zulmamu"
     ],
-    "ang": "Kacipo-Balesi",
-    "gwcode": "am",
-    "ln": "Kacipo-Balesi"
+    "gwcode": "am"
 }

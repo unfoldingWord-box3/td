@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mmm",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 3961,
-    "lr": "Pacific",
     "lc": "mmm",
+    "gw": false,
+    "ln": "Maii",
+    "ld": "ltr",
+    "ang": "Maii",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -14,7 +16,5 @@
         "Mafilau",
         "Mkir"
     ],
-    "ang": "Maii",
-    "gwcode": "fr",
-    "ln": "Maii"
+    "gwcode": "fr"
 }

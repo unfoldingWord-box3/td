@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "arh",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 339,
-    "lr": "Americas",
     "lc": "arh",
+    "gw": false,
+    "ln": "Arhuaco",
+    "ld": "ltr",
+    "ang": "Arhuaco",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -21,7 +23,5 @@
         "Ikan",
         "Ike"
     ],
-    "ang": "Arhuaco",
-    "gwcode": "es-419",
-    "ln": "Arhuaco"
+    "gwcode": "es-419"
 }

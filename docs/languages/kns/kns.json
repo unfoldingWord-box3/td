@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kns",
-    "hc": "MY",
-    "ld": "ltr",
     "pk": 3031,
-    "lr": "Asia",
     "lc": "kns",
+    "gw": false,
+    "ln": "Kensiu",
+    "ld": "ltr",
+    "ang": "Kensiu",
+    "hc": "MY",
+    "lr": "Asia",
     "cc": [
         "MY",
         "TH"
@@ -39,7 +41,5 @@
         "Ijoh (Ijok)",
         "Kensiu Siong (Siong)"
     ],
-    "ang": "Kensiu",
-    "gwcode": "ms",
-    "ln": "Kensiu"
+    "gwcode": "ms"
 }

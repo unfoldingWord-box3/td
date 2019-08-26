@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "luj",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 3621,
-    "lr": "Africa",
     "lc": "luj",
+    "gw": false,
+    "ln": "Luna",
+    "ld": "ltr",
+    "ang": "Luna",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Kuba",
         "Northern Luba"
     ],
-    "ang": "Luna",
-    "gwcode": "fr",
-    "ln": "Luna"
+    "gwcode": "fr"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mrb",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 4072,
-    "lr": "Pacific",
     "lc": "mrb",
+    "gw": false,
+    "ln": "Marino",
+    "ld": "ltr",
+    "ang": "Marino",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -14,7 +16,5 @@
         "North Maewo",
         "Sunwadia"
     ],
-    "ang": "Marino",
-    "gwcode": "fr",
-    "ln": "Marino"
+    "gwcode": "fr"
 }

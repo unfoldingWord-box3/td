@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kxk",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 3267,
-    "lr": "Asia",
     "lc": "kxk",
+    "gw": false,
+    "ln": "Zayein Karen",
+    "ld": "ltr",
+    "ang": "Zayein",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -14,7 +16,5 @@
         "Khaungtou",
         "Zayein Karen"
     ],
-    "ang": "Zayein",
-    "gwcode": "my",
-    "ln": "Zayein Karen"
+    "gwcode": "my"
 }

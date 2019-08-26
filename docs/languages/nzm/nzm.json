@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nzm",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4751,
-    "lr": "Asia",
     "lc": "nzm",
+    "gw": false,
+    "ln": "Zeme Naga",
+    "ld": "ltr",
+    "ang": "Naga, Zeme",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -21,7 +23,5 @@
         "Sengima",
         "Zemi"
     ],
-    "ang": "Naga, Zeme",
-    "gwcode": "en",
-    "ln": "Zeme Naga"
+    "gwcode": "en"
 }

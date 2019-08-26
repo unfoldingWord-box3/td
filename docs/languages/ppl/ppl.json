@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ppl",
-    "hc": "SV",
-    "ld": "ltr",
     "pk": 5145,
-    "lr": "Americas",
     "lc": "ppl",
+    "gw": false,
+    "ln": "Pipil",
+    "ld": "ltr",
+    "ang": "Pipil",
+    "hc": "SV",
+    "lr": "Americas",
     "cc": [
         "SV"
     ],
@@ -14,7 +16,5 @@
         "Nawat",
         "Nicarao"
     ],
-    "ang": "Pipil",
-    "gwcode": "es-419",
-    "ln": "Pipil"
+    "gwcode": "es-419"
 }

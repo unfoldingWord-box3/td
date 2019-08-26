@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hmj",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 2299,
-    "lr": "Asia",
     "lc": "hmj",
+    "gw": false,
+    "ln": "\u5bb6\u8bed",
+    "ld": "ltr",
+    "ang": "Ge",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -23,7 +25,5 @@
         "Gho-mhon",
         "Keh Deo"
     ],
-    "ang": "Ge",
-    "gwcode": "zh",
-    "ln": "\u5bb6\u8bed"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "jut",
-    "hc": "DK",
-    "ld": "ltr",
     "pk": 2682,
-    "lr": "Europe",
     "lc": "jut",
+    "gw": false,
+    "ln": "Jutish",
+    "ld": "ltr",
+    "ang": "Jutish",
+    "hc": "DK",
+    "lr": "Europe",
     "cc": [
         "DK"
     ],
@@ -14,7 +16,5 @@
         "Jysk",
         "Western Danish"
     ],
-    "ang": "Jutish",
-    "gwcode": "en",
-    "ln": "Jutish"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nlo",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 4527,
-    "lr": "Africa",
     "lc": "nlo",
+    "gw": false,
+    "ln": "Ngul",
+    "ld": "ltr",
+    "ang": "Ngul",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -15,7 +17,5 @@
         "Nguli",
         "Ngulu"
     ],
-    "ang": "Ngul",
-    "gwcode": "fr",
-    "ln": "Ngul"
+    "gwcode": "fr"
 }

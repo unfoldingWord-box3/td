@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "awi",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 441,
-    "lr": "Pacific",
     "lc": "awi",
+    "gw": false,
+    "ln": "Aekyom",
+    "ld": "ltr",
+    "ang": "Aekyom",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Awin",
         "West Awin"
     ],
-    "ang": "Aekyom",
-    "gwcode": "tpi",
-    "ln": "Aekyom"
+    "gwcode": "tpi"
 }

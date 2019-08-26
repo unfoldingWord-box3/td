@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mfv",
-    "hc": "GW",
-    "ld": "ltr",
     "pk": 3798,
-    "lr": "Africa",
     "lc": "mfv",
+    "gw": false,
+    "ln": "Mandjak",
+    "ld": "ltr",
+    "ang": "Mandjak",
+    "hc": "GW",
+    "lr": "Africa",
     "cc": [
         "FR",
         "GM",
@@ -41,7 +43,5 @@
         "Cur (Churo)",
         "Bok (Kabok)"
     ],
-    "ang": "Mandjak",
-    "gwcode": "pt",
-    "ln": "Mandjak"
+    "gwcode": "pt"
 }

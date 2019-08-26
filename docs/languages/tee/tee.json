@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tee",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 6056,
-    "lr": "Americas",
     "lc": "tee",
+    "gw": false,
+    "ln": "Huehuetla Tepehua",
+    "ld": "ltr",
+    "ang": "Tepehua, Huehuetla",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -13,7 +15,5 @@
         "Tepehua de Hidalgo",
         "Tepehua de Huehuetla"
     ],
-    "ang": "Tepehua, Huehuetla",
-    "gwcode": "es-419",
-    "ln": "Huehuetla Tepehua"
+    "gwcode": "es-419"
 }

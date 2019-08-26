@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ybi",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 7140,
-    "lr": "Asia",
     "lc": "ybi",
+    "gw": false,
+    "ln": "Yamphu",
+    "ld": "ltr",
+    "ang": "Yamphu",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Yamphu Kha",
         "Yamphu Rai"
     ],
-    "ang": "Yamphu",
-    "gwcode": "ne",
-    "ln": "Yamphu"
+    "gwcode": "ne"
 }

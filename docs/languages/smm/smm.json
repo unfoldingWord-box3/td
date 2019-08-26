@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "smm",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5713,
-    "lr": "Asia",
     "lc": "smm",
+    "gw": false,
+    "ln": "Musasa",
+    "ld": "ltr",
+    "ang": "Musasa",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -14,7 +16,5 @@
         "Rishaidep",
         "Bantar"
     ],
-    "ang": "Musasa",
-    "gwcode": "ne",
-    "ln": "Musasa"
+    "gwcode": "ne"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "bis",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 685,
-    "lr": "Pacific",
     "lc": "bi",
+    "gw": true,
+    "ln": "Bislama",
+    "ld": "ltr",
+    "ang": "Bislama",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "NC",
         "SB",
@@ -14,7 +16,5 @@
     "alt": [
         "Bichelamar"
     ],
-    "ang": "Bislama",
-    "gwcode": "UNKNOWN",
-    "ln": "Bislama"
+    "gwcode": null
 }

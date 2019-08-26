@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nki",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4502,
-    "lr": "Asia",
     "lc": "nki",
+    "gw": false,
+    "ln": "Thangal Naga",
+    "ld": "ltr",
+    "ang": "Naga, Thangal",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -21,7 +23,5 @@
         "Thanggal",
         "Tukaimi"
     ],
-    "ang": "Naga, Thangal",
-    "gwcode": "en",
-    "ln": "Thangal Naga"
+    "gwcode": "en"
 }

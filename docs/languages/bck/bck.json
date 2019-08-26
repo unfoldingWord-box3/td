@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bck",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 544,
-    "lr": "Pacific",
     "lc": "bck",
+    "gw": false,
+    "ln": "Bunaba",
+    "ld": "ltr",
+    "ang": "Bunaba",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Punapa",
         "Punuba"
     ],
-    "ang": "Bunaba",
-    "gwcode": "en",
-    "ln": "Bunaba"
+    "gwcode": "en"
 }

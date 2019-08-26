@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kxo",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 3271,
-    "lr": "Americas",
     "lc": "kxo",
+    "gw": false,
+    "ln": "Kano\u00e9",
+    "ld": "ltr",
+    "ang": "Kano\u00e9",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR"
     ],
@@ -21,7 +23,5 @@
         "Kapixan\u00e1",
         "Koaratira"
     ],
-    "ang": "Kano\u00e9",
-    "gwcode": "pt",
-    "ln": "Kano\u00e9"
+    "gwcode": "pt"
 }

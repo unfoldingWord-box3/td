@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tsu",
-    "hc": "TW",
-    "ld": "ltr",
     "pk": 6341,
-    "lr": "Asia",
     "lc": "tsu",
+    "gw": false,
+    "ln": "Tsou",
+    "ld": "ltr",
+    "ang": "Tsou",
+    "hc": "TW",
+    "lr": "Asia",
     "cc": [
         "TW"
     ],
@@ -23,7 +25,5 @@
         "Tsu-Wo",
         "Tzo"
     ],
-    "ang": "Tsou",
-    "gwcode": "zh",
-    "ln": "Tsou"
+    "gwcode": "zh"
 }

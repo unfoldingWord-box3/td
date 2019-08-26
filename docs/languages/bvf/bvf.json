@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bvf",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 999,
-    "lr": "Africa",
     "lc": "bvf",
+    "gw": false,
+    "ln": "Boor",
+    "ld": "ltr",
+    "ang": "Boor",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "TD"
     ],
@@ -13,7 +15,5 @@
         "Bwara",
         "Damraw"
     ],
-    "ang": "Boor",
-    "gwcode": "ar",
-    "ln": "Boor"
+    "gwcode": "ar"
 }

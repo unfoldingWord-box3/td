@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mip",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 3869,
-    "lr": "Americas",
     "lc": "mip",
+    "gw": false,
+    "ln": "Apasco-Apoala Mixtec",
+    "ld": "ltr",
+    "ang": "Mixtec, Apasco-Apoala",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -15,7 +17,5 @@
         "Mixteco de Santiago Apoala",
         "Northern Nochixtl\u00e1n Mixtec"
     ],
-    "ang": "Mixtec, Apasco-Apoala",
-    "gwcode": "es-419",
-    "ln": "Apasco-Apoala Mixtec"
+    "gwcode": "es-419"
 }

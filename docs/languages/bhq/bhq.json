@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bhq",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 675,
-    "lr": "Asia",
     "lc": "bhq",
+    "gw": false,
+    "ln": "Tukang Besi South",
+    "ld": "ltr",
+    "ang": "Tukang Besi South",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -16,7 +18,5 @@
         "Bonerate",
         "Tomea (Tomia)"
     ],
-    "ang": "Tukang Besi South",
-    "gwcode": "id",
-    "ln": "Tukang Besi South"
+    "gwcode": "id"
 }

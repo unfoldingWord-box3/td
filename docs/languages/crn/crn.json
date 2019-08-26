@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "crn",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 1333,
-    "lr": "Americas",
     "lc": "crn",
+    "gw": false,
+    "ln": "El Nayar Cora",
+    "ld": "ltr",
+    "ang": "Cora, El Nayar",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX",
         "US"
@@ -21,7 +23,5 @@
         "Presidio de los Reyes Cora (Cora preside\u00f1o)",
         "San Francisco Cora (Cora francisque\u00f1o)"
     ],
-    "ang": "Cora, El Nayar",
-    "gwcode": "es-419",
-    "ln": "El Nayar Cora"
+    "gwcode": "es-419"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gry",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 2139,
-    "lr": "Africa",
     "lc": "gry",
+    "gw": false,
+    "ln": "Barclayville Grebo",
+    "ld": "ltr",
+    "ang": "Grebo, Barclayville",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR"
     ],
@@ -13,7 +15,5 @@
         "Wedebo Grebo",
         "Kplebo"
     ],
-    "ang": "Grebo, Barclayville",
-    "gwcode": "en",
-    "ln": "Barclayville Grebo"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mbv",
-    "hc": "GN",
-    "ld": "ltr",
     "pk": 3697,
-    "lr": "Africa",
     "lc": "mbv",
+    "gw": false,
+    "ln": "Mbulungish",
+    "ld": "ltr",
+    "ang": "Mbulungish",
+    "hc": "GN",
+    "lr": "Africa",
     "cc": [
         "GN"
     ],
@@ -17,7 +19,5 @@
         "Longich",
         "Monshon"
     ],
-    "ang": "Mbulungish",
-    "gwcode": "fr",
-    "ln": "Mbulungish"
+    "gwcode": "fr"
 }

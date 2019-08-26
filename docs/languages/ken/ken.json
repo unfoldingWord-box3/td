@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ken",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 2796,
-    "lr": "Africa",
     "lc": "ken",
+    "gw": false,
+    "ln": "Kenyang",
+    "ld": "ltr",
+    "ang": "Kenyang",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -25,7 +27,5 @@
         "Bakoni (Kicwe)",
         "Northern Balong"
     ],
-    "ang": "Kenyang",
-    "gwcode": "fr",
-    "ln": "Kenyang"
+    "gwcode": "fr"
 }

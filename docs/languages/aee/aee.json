@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aee",
-    "hc": "AF",
-    "ld": "ltr",
     "pk": 95,
-    "lr": "Asia",
     "lc": "aee",
+    "gw": false,
+    "ln": "Northeast Pashai",
+    "ld": "ltr",
+    "ang": "Pashai, Northeast",
+    "hc": "AF",
+    "lr": "Asia",
     "cc": [
         "AF"
     ],
@@ -14,7 +16,5 @@
         "Chalas (Chilas)",
         "Pashai"
     ],
-    "ang": "Pashai, Northeast",
-    "gwcode": "ps",
-    "ln": "Northeast Pashai"
+    "gwcode": "ps"
 }

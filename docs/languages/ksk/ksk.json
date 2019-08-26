@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ksk",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 3143,
-    "lr": "Americas",
     "lc": "ksk",
+    "gw": false,
+    "ln": "Kansa",
+    "ld": "ltr",
+    "ang": "Kansa",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -14,7 +16,5 @@
         "Kaw",
         "Konze"
     ],
-    "ang": "Kansa",
-    "gwcode": "en",
-    "ln": "Kansa"
+    "gwcode": "en"
 }

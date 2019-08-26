@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "oka",
-    "hc": "CA",
-    "ld": "ltr",
     "pk": 4798,
-    "lr": "Americas",
     "lc": "oka",
+    "gw": false,
+    "ln": "Okanagan",
+    "ld": "ltr",
+    "ang": "Okanagan",
+    "hc": "CA",
+    "lr": "Americas",
     "cc": [
         "US",
         "CA"
@@ -15,7 +17,5 @@
         "Okanagon",
         "Okanogan"
     ],
-    "ang": "Okanagan",
-    "gwcode": "en",
-    "ln": "Okanagan"
+    "gwcode": "en"
 }

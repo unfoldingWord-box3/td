@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "zmf",
-    "hc": "CD",
-    "ld": "ltr",
     "pk": 7409,
-    "lr": "Africa",
     "lc": "zmf",
+    "gw": false,
+    "ln": "Mfinu",
+    "ld": "ltr",
+    "ang": "Mfinu",
+    "hc": "CD",
+    "lr": "Africa",
     "cc": [
         "CD"
     ],
@@ -14,7 +16,5 @@
         "Funika",
         "Mfununga"
     ],
-    "ang": "Mfinu",
-    "gwcode": "fr",
-    "ln": "Mfinu"
+    "gwcode": "fr"
 }

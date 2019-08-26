@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "msx",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 4117,
-    "lr": "Pacific",
     "lc": "msx",
+    "gw": false,
+    "ln": "Moresada",
+    "ld": "ltr",
+    "ang": "Moresada",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -13,7 +15,5 @@
         "Murisapa",
         "Murusapa-Sarewa"
     ],
-    "ang": "Moresada",
-    "gwcode": "tpi",
-    "ln": "Moresada"
+    "gwcode": "tpi"
 }

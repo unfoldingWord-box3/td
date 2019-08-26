@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pnv",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 5118,
-    "lr": "Pacific",
     "lc": "pnv",
+    "gw": false,
+    "ln": "Pinigura",
+    "ld": "ltr",
+    "ang": "Pinigura",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -13,7 +15,5 @@
         "Binigura",
         "Pinikura"
     ],
-    "ang": "Pinigura",
-    "gwcode": "en",
-    "ln": "Pinigura"
+    "gwcode": "en"
 }

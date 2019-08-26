@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dms",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 1573,
-    "lr": "Asia",
     "lc": "dms",
+    "gw": false,
+    "ln": "Dampelas",
+    "ld": "ltr",
+    "ang": "Dampelas",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -13,7 +15,5 @@
         "Dampelasa",
         "Dian"
     ],
-    "ang": "Dampelas",
-    "gwcode": "id",
-    "ln": "Dampelas"
+    "gwcode": "id"
 }

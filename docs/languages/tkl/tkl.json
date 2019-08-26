@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tkl",
-    "hc": "TK",
-    "ld": "ltr",
     "pk": 6158,
-    "lr": "Pacific",
     "lc": "tkl",
+    "gw": false,
+    "ln": "Tokelau",
+    "ld": "ltr",
+    "ang": "Tokelauan",
+    "hc": "TK",
+    "lr": "Pacific",
     "cc": [
         "NZ",
         "TK",
@@ -14,7 +16,5 @@
     "alt": [
         "Tokelau"
     ],
-    "ang": "Tokelauan",
-    "gwcode": "en",
-    "ln": "Tokelau"
+    "gwcode": "en"
 }

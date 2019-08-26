@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "mal",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3926,
-    "lr": "Asia",
     "lc": "ml",
+    "gw": true,
+    "ln": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+    "ld": "ltr",
+    "ang": "Malayalam",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IL",
         "LK",
@@ -34,7 +36,5 @@
         "Kasargod",
         "Moplah (Mapilla)"
     ],
-    "ang": "Malayalam",
-    "gwcode": "UNKNOWN",
-    "ln": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02"
+    "gwcode": null
 }

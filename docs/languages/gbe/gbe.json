@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gbe",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 1931,
-    "lr": "Pacific",
     "lc": "gbe",
+    "gw": false,
+    "ln": "Niksek",
+    "ld": "ltr",
+    "ang": "Niksek",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Gabiano (Kabiano)",
         "Meiyari (\"Paka\")"
     ],
-    "ang": "Niksek",
-    "gwcode": "tpi",
-    "ln": "Niksek"
+    "gwcode": "tpi"
 }

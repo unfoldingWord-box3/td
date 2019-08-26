@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hub",
-    "hc": "PE",
-    "ld": "ltr",
     "pk": 2366,
-    "lr": "Americas",
     "lc": "hub",
+    "gw": false,
+    "ln": "Huambisa",
+    "ld": "ltr",
+    "ang": "Huambisa",
+    "hc": "PE",
+    "lr": "Americas",
     "cc": [
         "PE"
     ],
@@ -13,7 +15,5 @@
         "Huambiza",
         "Wambisa"
     ],
-    "ang": "Huambisa",
-    "gwcode": "es-419",
-    "ln": "Huambisa"
+    "gwcode": "es-419"
 }

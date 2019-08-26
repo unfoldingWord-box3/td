@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "smq",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 5716,
-    "lr": "Pacific",
     "lc": "smq",
+    "gw": false,
+    "ln": "Samo",
+    "ld": "ltr",
+    "ang": "Samo",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Nomad",
         "Supei"
     ],
-    "ang": "Samo",
-    "gwcode": "tpi",
-    "ln": "Samo"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ckt",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 1240,
-    "lr": "Europe",
     "lc": "ckt",
+    "gw": false,
+    "ln": "\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Chukchi",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -16,7 +18,5 @@
         "Chukot",
         "Luoravetlan"
     ],
-    "ang": "Chukchi",
-    "gwcode": "ru",
-    "ln": "\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

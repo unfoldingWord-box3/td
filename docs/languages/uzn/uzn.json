@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "uzn",
-    "hc": "UZ",
-    "ld": "ltr",
     "pk": 6578,
-    "lr": "Asia",
     "lc": "uzn",
+    "gw": false,
+    "ln": "Northern Uzbek",
+    "ld": "ltr",
+    "ang": "Uzbek, Northern",
+    "hc": "UZ",
+    "lr": "Asia",
     "cc": [
         "CN",
         "KZ",
@@ -28,7 +30,5 @@
         "Andizhan",
         "Fergana"
     ],
-    "ang": "Uzbek, Northern",
-    "gwcode": "ru",
-    "ln": "Northern Uzbek"
+    "gwcode": "ru"
 }

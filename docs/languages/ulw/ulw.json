@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ulw",
-    "hc": "NI",
-    "ld": "ltr",
     "pk": 6515,
-    "lr": "Americas",
     "lc": "ulw",
+    "gw": false,
+    "ln": "Ulwa",
+    "ld": "ltr",
+    "ang": "Ulwa",
+    "hc": "NI",
+    "lr": "Americas",
     "cc": [
         "NI"
     ],
@@ -13,7 +15,5 @@
         "Ul\u00faa",
         "Woolwa"
     ],
-    "ang": "Ulwa",
-    "gwcode": "es-419",
-    "ln": "Ulwa"
+    "gwcode": "es-419"
 }

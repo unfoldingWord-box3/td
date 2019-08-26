@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rau",
-    "hc": "NP",
-    "ld": "ltr",
     "pk": 5324,
-    "lr": "Asia",
     "lc": "rau",
+    "gw": false,
+    "ln": "Raute",
+    "ld": "ltr",
+    "ang": "Raute",
+    "hc": "NP",
+    "lr": "Asia",
     "cc": [
         "NP"
     ],
@@ -17,7 +19,5 @@
         "Rautya",
         "Rautye"
     ],
-    "ang": "Raute",
-    "gwcode": "ne",
-    "ln": "Raute"
+    "gwcode": "ne"
 }

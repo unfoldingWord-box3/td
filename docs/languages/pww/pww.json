@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pww",
-    "hc": "TH",
-    "ld": "ltr",
     "pk": 5237,
-    "lr": "Asia",
     "lc": "pww",
+    "gw": false,
+    "ln": "Pwo Northern Karen",
+    "ld": "ltr",
+    "ang": "Karen, Pwo Northern",
+    "hc": "TH",
+    "lr": "Asia",
     "cc": [
         "TH"
     ],
@@ -13,7 +15,5 @@
         "Phlong",
         "Omkoi (Hod)"
     ],
-    "ang": "Karen, Pwo Northern",
-    "gwcode": "th",
-    "ln": "Pwo Northern Karen"
+    "gwcode": "th"
 }

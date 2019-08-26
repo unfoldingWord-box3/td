@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bhw",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 681,
-    "lr": "Asia",
     "lc": "bhw",
+    "gw": false,
+    "ln": "Biak",
+    "ld": "ltr",
+    "ang": "Biak",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -19,7 +21,5 @@
         "Nufoor",
         "Sampori (Mokmer)"
     ],
-    "ang": "Biak",
-    "gwcode": "id",
-    "ln": "Biak"
+    "gwcode": "id"
 }

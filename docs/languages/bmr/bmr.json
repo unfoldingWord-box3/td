@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bmr",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 797,
-    "lr": "Americas",
     "lc": "bmr",
+    "gw": false,
+    "ln": "Muinane",
+    "ld": "ltr",
+    "ang": "Muinane",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "CO"
     ],
@@ -14,7 +16,5 @@
         "Muinana",
         "Muinani"
     ],
-    "ang": "Muinane",
-    "gwcode": "es-419",
-    "ln": "Muinane"
+    "gwcode": "es-419"
 }

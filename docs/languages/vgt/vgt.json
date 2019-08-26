@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vgt",
-    "hc": "BE",
-    "ld": "ltr",
     "pk": 6608,
-    "lr": "Europe",
     "lc": "vgt",
+    "gw": false,
+    "ln": "Vlaamse Gebarentaal",
+    "ld": "ltr",
+    "ang": "Flemish Sign Language",
+    "hc": "BE",
+    "lr": "Europe",
     "cc": [
         "BE"
     ],
@@ -17,7 +19,5 @@
         "Antwerpen (Antwerp)",
         "Limburg (Limburg)"
     ],
-    "ang": "Flemish Sign Language",
-    "gwcode": "UNKNOWN",
-    "ln": "Vlaamse Gebarentaal"
+    "gwcode": "nl"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "iri",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 2509,
-    "lr": "Africa",
     "lc": "iri",
+    "gw": false,
+    "ln": "Irigwe",
+    "ld": "ltr",
+    "ang": "Irigwe",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -20,7 +22,5 @@
         "Nyango",
         "Rigwe"
     ],
-    "ang": "Irigwe",
-    "gwcode": "en",
-    "ln": "Irigwe"
+    "gwcode": "en"
 }

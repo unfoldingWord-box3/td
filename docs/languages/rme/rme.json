@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rme",
-    "hc": "GB",
-    "ld": "ltr",
     "pk": 5378,
-    "lr": "Europe",
     "lc": "rme",
+    "gw": false,
+    "ln": "Angloromani",
+    "ld": "ltr",
+    "ang": "Angloromani",
+    "hc": "GB",
+    "lr": "Europe",
     "cc": [
         "GB",
         "AU"
@@ -18,7 +20,5 @@
         "Romanichal",
         "Romanis"
     ],
-    "ang": "Angloromani",
-    "gwcode": "en",
-    "ln": "Angloromani"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "cal",
-    "hc": "MP",
-    "ld": "ltr",
     "pk": 1119,
-    "lr": "Pacific",
     "lc": "cal",
+    "gw": false,
+    "ln": "Carolinian",
+    "ld": "ltr",
+    "ang": "Carolinian",
+    "hc": "MP",
+    "lr": "Pacific",
     "cc": [
         "MP",
         "US",
@@ -16,7 +18,5 @@
         "Southern Carolinian",
         "Gupallao"
     ],
-    "ang": "Carolinian",
-    "gwcode": "en",
-    "ln": "Carolinian"
+    "gwcode": "en"
 }

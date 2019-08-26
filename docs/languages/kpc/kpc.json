@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kpc",
-    "hc": "CO",
-    "ld": "ltr",
     "pk": 3061,
-    "lr": "Americas",
     "lc": "kpc",
+    "gw": false,
+    "ln": "Curripaco",
+    "ld": "ltr",
+    "ang": "Curripaco",
+    "hc": "CO",
+    "lr": "Americas",
     "cc": [
         "BR",
         "VE",
@@ -39,7 +41,5 @@
         "Unhun (Cadauapuritana)",
         "Waliperi (Veliperi)"
     ],
-    "ang": "Curripaco",
-    "gwcode": "es-419",
-    "ln": "Curripaco"
+    "gwcode": "es-419"
 }

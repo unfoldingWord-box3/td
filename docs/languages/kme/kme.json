@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kme",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 2991,
-    "lr": "Africa",
     "lc": "kme",
+    "gw": false,
+    "ln": "Bakole",
+    "ld": "ltr",
+    "ang": "Bakole",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -14,7 +16,5 @@
         "Bamusso",
         "Kole"
     ],
-    "ang": "Bakole",
-    "gwcode": "fr",
-    "ln": "Bakole"
+    "gwcode": "fr"
 }

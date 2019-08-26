@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "hc": "SL",
-    "ld": "ltr",
     "pk": 3120,
-    "lr": "Africa",
     "lc": "krm",
+    "gw": false,
+    "ln": "Krim",
+    "ld": "ltr",
+    "ang": "Krim",
+    "hc": "SL",
+    "lr": "Africa",
     "cc": [
         "SL"
     ],
@@ -15,7 +17,5 @@
         "Kirim",
         "Kittim"
     ],
-    "ang": "Krim",
-    "gwcode": "en",
-    "ln": "Krim"
+    "gwcode": "en"
 }

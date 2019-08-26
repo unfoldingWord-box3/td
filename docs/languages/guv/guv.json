@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 2172,
-    "lr": "Africa",
     "lc": "guv",
+    "gw": false,
+    "ln": "Gey",
+    "ld": "ltr",
+    "ang": "Gey",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -13,7 +15,5 @@
         "Gewe",
         "Gueve"
     ],
-    "ang": "Gey",
-    "gwcode": "fr",
-    "ln": "Gey"
+    "gwcode": "fr"
 }

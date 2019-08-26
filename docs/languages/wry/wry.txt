@@ -7,6 +7,8 @@ This language is spoken in the following countries:
 
 * IN: India
 
+.. warning:: The gateway language is not valid.
+
 .. code-block:: yaml
 
     ISO_639-3: wry
@@ -15,7 +17,7 @@ This language is spoken in the following countries:
     anglicanized_name: Merwari
     country_codes:
     - IN
-    gateway_language: UNKNOWN
+    gateway_language: raj
     lang_code: wry
     lang_direction: ltr
     lang_name: Merwari

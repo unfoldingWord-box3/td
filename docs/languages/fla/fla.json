@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fla",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 1849,
-    "lr": "Americas",
     "lc": "fla",
+    "gw": false,
+    "ln": "Kalispel-Pend d'Oreille",
+    "ld": "ltr",
+    "ang": "Kalispel-Pend d\u2019Oreille",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -15,7 +17,5 @@
         "Kalispel-Flathead",
         "Pend D'oreille"
     ],
-    "ang": "Kalispel-Pend d\u2019Oreille",
-    "gwcode": "en",
-    "ln": "Kalispel-Pend d'Oreille"
+    "gwcode": "en"
 }

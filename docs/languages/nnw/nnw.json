@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nnw",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 4579,
-    "lr": "Africa",
     "lc": "nnw",
+    "gw": false,
+    "ln": "Southern Nuni",
+    "ld": "ltr",
+    "ang": "Nuni, Southern",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -19,7 +21,5 @@
         "Nuruma",
         "Basinyari (Sundoni)"
     ],
-    "ang": "Nuni, Southern",
-    "gwcode": "fr",
-    "ln": "Southern Nuni"
+    "gwcode": "fr"
 }

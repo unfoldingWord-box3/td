@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "huy",
-    "hc": "IL",
-    "ld": "ltr",
     "pk": 2386,
-    "lr": "Asia",
     "lc": "huy",
+    "gw": false,
+    "ln": "\u05d9\u05d4\u05d5\u05d3\u05d9\u05d5\u05ea\u05d0",
+    "ld": "ltr",
+    "ang": "Hulaul\u00e1",
+    "hc": "IL",
+    "lr": "Asia",
     "cc": [
         "IR",
         "IL"
@@ -20,7 +22,5 @@
         "Lishana Axni",
         "Lishana Noshan"
     ],
-    "ang": "Hulaul\u00e1",
-    "gwcode": "en",
-    "ln": "\u05d9\u05d4\u05d5\u05d3\u05d9\u05d5\u05ea\u05d0"
+    "gwcode": "en"
 }

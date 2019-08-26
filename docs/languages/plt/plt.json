@@ -1,11 +1,13 @@
 {
-    "gw": true,
     "ISO-639-3": "plt",
-    "hc": "MG",
-    "ld": "ltr",
     "pk": 5077,
-    "lr": "Africa",
     "lc": "plt",
+    "gw": true,
+    "ln": "Plateau Malagasy",
+    "ld": "ltr",
+    "ang": "Malagasy, Plateau",
+    "hc": "MG",
+    "lr": "Africa",
     "cc": [
         "KM",
         "FR",
@@ -23,7 +25,5 @@
         "Vakinankaritra",
         "Merina"
     ],
-    "ang": "Malagasy, Plateau",
-    "gwcode": "plt",
-    "ln": "Plateau Malagasy"
+    "gwcode": "plt"
 }

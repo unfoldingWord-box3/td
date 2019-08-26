@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "crq",
-    "hc": "AR",
-    "ld": "ltr",
     "pk": 1335,
-    "lr": "Americas",
     "lc": "crq",
+    "gw": false,
+    "ln": "Iyo'wujwa Chorote",
+    "ld": "ltr",
+    "ang": "Chorote, Iyo\u2019wujwa",
+    "hc": "AR",
+    "lr": "Americas",
     "cc": [
         "AR",
         "PY"
@@ -22,7 +24,5 @@
         "Chorote (Iyowujwa)",
         "Yow\u00fawa"
     ],
-    "ang": "Chorote, Iyo\u2019wujwa",
-    "gwcode": "es-419",
-    "ln": "Iyo'wujwa Chorote"
+    "gwcode": "es-419"
 }

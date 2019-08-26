@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "suk",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 5883,
-    "lr": "Africa",
     "lc": "suk",
+    "gw": false,
+    "ln": "Sukuma",
+    "ld": "ltr",
+    "ang": "Sukuma",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ",
         "CA"
@@ -13,7 +15,5 @@
     "alt": [
         "Gwe (Kigwe)"
     ],
-    "ang": "Sukuma",
-    "gwcode": "sw",
-    "ln": "Sukuma"
+    "gwcode": "sw"
 }

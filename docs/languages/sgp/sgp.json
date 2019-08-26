@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sgp",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5582,
-    "lr": "Asia",
     "lc": "sgp",
+    "gw": false,
+    "ln": "Singpho",
+    "ld": "ltr",
+    "ang": "Singpho",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Kachin",
         "Sing-Fo"
     ],
-    "ang": "Singpho",
-    "gwcode": "as",
-    "ln": "Singpho"
+    "gwcode": "as"
 }

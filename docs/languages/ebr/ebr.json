@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ebr",
-    "hc": "CI",
-    "ld": "ltr",
     "pk": 1694,
-    "lr": "Africa",
     "lc": "ebr",
+    "gw": false,
+    "ln": "Ebri\u00e9",
+    "ld": "ltr",
+    "ang": "Ebri\u00e9",
+    "hc": "CI",
+    "lr": "Africa",
     "cc": [
         "CI"
     ],
@@ -17,7 +19,5 @@
         "Tsama",
         "Tyama"
     ],
-    "ang": "Ebri\u00e9",
-    "gwcode": "fr",
-    "ln": "Ebri\u00e9"
+    "gwcode": "fr"
 }

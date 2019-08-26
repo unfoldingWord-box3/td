@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sch",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 5510,
-    "lr": "Asia",
     "lc": "sch",
+    "gw": false,
+    "ln": "Sakachep",
+    "ld": "ltr",
+    "ang": "Sakachep",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -13,7 +15,5 @@
         "Sankechep",
         "Thangkachep"
     ],
-    "ang": "Sakachep",
-    "gwcode": "as",
-    "ln": "Sakachep"
+    "gwcode": "as"
 }

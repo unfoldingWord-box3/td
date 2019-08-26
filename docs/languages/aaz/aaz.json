@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aaz",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 27,
-    "lr": "Asia",
     "lc": "aaz",
+    "gw": false,
+    "ln": "Amarasi",
+    "ld": "ltr",
+    "ang": "Amarasi",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Timor Amarasi",
         "Uab Meto"
     ],
-    "ang": "Amarasi",
-    "gwcode": "id",
-    "ln": "Amarasi"
+    "gwcode": "id"
 }

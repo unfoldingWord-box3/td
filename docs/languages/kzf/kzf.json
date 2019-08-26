@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kzf",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3314,
-    "lr": "Asia",
     "lc": "kzf",
+    "gw": false,
+    "ln": "Da'a Kaili",
+    "ld": "ltr",
+    "ang": "Kaili, Da\u2019a",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -18,7 +20,5 @@
         "Pekawa",
         "Da'a (Dombu)"
     ],
-    "ang": "Kaili, Da\u2019a",
-    "gwcode": "id",
-    "ln": "Da'a Kaili"
+    "gwcode": "id"
 }

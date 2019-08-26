@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mrk",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 4080,
-    "lr": "Pacific",
     "lc": "mrk",
+    "gw": false,
+    "ln": "Hmwaveke",
+    "ld": "ltr",
+    "ang": "Hmwaveke",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -14,7 +16,5 @@
         "Faa Ceta",
         "Moaveke"
     ],
-    "ang": "Hmwaveke",
-    "gwcode": "en",
-    "ln": "Hmwaveke"
+    "gwcode": "en"
 }

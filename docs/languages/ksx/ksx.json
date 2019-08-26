@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ksx",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3156,
-    "lr": "Asia",
     "lc": "ksx",
+    "gw": false,
+    "ln": "Kedang",
+    "ld": "ltr",
+    "ang": "Kedang",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -15,7 +17,5 @@
         "K\u00e9dang",
         "Kedangese"
     ],
-    "ang": "Kedang",
-    "gwcode": "id",
-    "ln": "Kedang"
+    "gwcode": "id"
 }

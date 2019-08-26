@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "stj",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 5860,
-    "lr": "Africa",
     "lc": "stj",
+    "gw": false,
+    "ln": "Matya Samo",
+    "ld": "ltr",
+    "ang": "Samo, Matya",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -17,7 +19,5 @@
         "West Central Goe",
         "S\u00e3"
     ],
-    "ang": "Samo, Matya",
-    "gwcode": "fr",
-    "ln": "Matya Samo"
+    "gwcode": "fr"
 }

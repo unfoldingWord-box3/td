@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nbm",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 4319,
-    "lr": "Africa",
     "lc": "nbm",
+    "gw": false,
+    "ln": "Ngbaka Ma'bo",
+    "ld": "ltr",
+    "ang": "Ngbaka Ma\u2019bo",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF",
         "CG"
@@ -23,7 +25,5 @@
         "Ngbaka Limba",
         "Gbala"
     ],
-    "ang": "Ngbaka Ma\u2019bo",
-    "gwcode": "fr",
-    "ln": "Ngbaka Ma'bo"
+    "gwcode": "fr"
 }

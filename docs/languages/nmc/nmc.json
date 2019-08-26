@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "nmc",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 4536,
-    "lr": "Africa",
     "lc": "nmc",
+    "gw": false,
+    "ln": "Ngam",
+    "ld": "ltr",
+    "ang": "Ngam",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "CF",
         "TD"
@@ -16,7 +18,5 @@
         "Ngamh",
         "Sarngam"
     ],
-    "ang": "Ngam",
-    "gwcode": "ar",
-    "ln": "Ngam"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yiv",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7195,
-    "lr": "Asia",
     "lc": "yiv",
+    "gw": false,
+    "ln": "\u5317\u5c3c\u82cf\u8bed",
+    "ld": "ltr",
+    "ang": "Nisu, Northern",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -14,7 +16,5 @@
         "Nasu",
         "Nisu"
     ],
-    "ang": "Nisu, Northern",
-    "gwcode": "zh",
-    "ln": "\u5317\u5c3c\u82cf\u8bed"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kcm",
-    "hc": "CF",
-    "ld": "ltr",
     "pk": 2748,
-    "lr": "Africa",
     "lc": "kcm",
+    "gw": false,
+    "ln": "Gula (Central African Republic)",
+    "ld": "ltr",
+    "ang": "Gula",
+    "hc": "CF",
+    "lr": "Africa",
     "cc": [
         "CF",
         "SD"
@@ -25,7 +27,5 @@
         "Nguru (Bubu)",
         "Sar (Sara)"
     ],
-    "ang": "Gula",
-    "gwcode": "fr",
-    "ln": "Gula (Central African Republic)"
+    "gwcode": "fr"
 }

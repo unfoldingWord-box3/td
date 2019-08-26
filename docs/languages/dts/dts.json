@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dts",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 1646,
-    "lr": "Africa",
     "lc": "dts",
+    "gw": false,
+    "ln": "Toro So Dogon",
+    "ld": "ltr",
+    "ang": "Dogon, Toro So",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "BF",
         "ML"
@@ -19,7 +21,5 @@
         "Ireli",
         "Sangha"
     ],
-    "ang": "Dogon, Toro So",
-    "gwcode": "fr",
-    "ln": "Toro So Dogon"
+    "gwcode": "fr"
 }

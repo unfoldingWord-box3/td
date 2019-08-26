@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "koo",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 3049,
-    "lr": "Africa",
     "lc": "koo",
+    "gw": false,
+    "ln": "Konzo",
+    "ld": "ltr",
+    "ang": "Konzo",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "UG"
     ],
@@ -19,7 +21,5 @@
         "Lusongora",
         "Sanza (Ekisanza)"
     ],
-    "ang": "Konzo",
-    "gwcode": "en",
-    "ln": "Konzo"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mkt",
-    "hc": "NC",
-    "ld": "ltr",
     "pk": 3919,
-    "lr": "Pacific",
     "lc": "mkt",
+    "gw": false,
+    "ln": "Vamale",
+    "ld": "ltr",
+    "ang": "Vamale",
+    "hc": "NC",
+    "lr": "Pacific",
     "cc": [
         "NC"
     ],
@@ -13,7 +15,5 @@
         "Moaeke",
         "Pamale"
     ],
-    "ang": "Vamale",
-    "gwcode": "en",
-    "ln": "Vamale"
+    "gwcode": "en"
 }

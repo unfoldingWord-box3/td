@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "dau",
-    "hc": "TD",
-    "ld": "ltr",
     "pk": 1436,
-    "lr": "Africa",
     "lc": "dau",
+    "gw": false,
+    "ln": "Dar Sila Daju",
+    "ld": "ltr",
+    "ang": "Daju, Dar Sila",
+    "hc": "TD",
+    "lr": "Africa",
     "cc": [
         "SD",
         "TD"
@@ -19,7 +21,5 @@
         "Dajou",
         "Daju"
     ],
-    "ang": "Daju, Dar Sila",
-    "gwcode": "ar",
-    "ln": "Dar Sila Daju"
+    "gwcode": "ar"
 }

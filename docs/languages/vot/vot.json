@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "vot",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 6650,
-    "lr": "Europe",
     "lc": "vot",
+    "gw": false,
+    "ln": "\u0412\u043e\u0434\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Vod",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -16,7 +18,5 @@
         "Votic",
         "Votish"
     ],
-    "ang": "Vod",
-    "gwcode": "ru",
-    "ln": "\u0412\u043e\u0434\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

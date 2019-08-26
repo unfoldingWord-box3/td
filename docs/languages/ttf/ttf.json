@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ttf",
-    "hc": "CM",
-    "ld": "ltr",
     "pk": 6353,
-    "lr": "Africa",
     "lc": "ttf",
+    "gw": false,
+    "ln": "Tuotomb",
+    "ld": "ltr",
+    "ang": "Tuotomb",
+    "hc": "CM",
+    "lr": "Africa",
     "cc": [
         "CM"
     ],
@@ -14,7 +16,5 @@
         "Ponek",
         "Tuotom"
     ],
-    "ang": "Tuotomb",
-    "gwcode": "fr",
-    "ln": "Tuotomb"
+    "gwcode": "fr"
 }

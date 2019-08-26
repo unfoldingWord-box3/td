@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yok",
-    "hc": "US",
-    "ld": "ltr",
     "pk": 7251,
-    "lr": "Americas",
     "lc": "yok",
+    "gw": false,
+    "ln": "Yokuts",
+    "ld": "ltr",
+    "ang": "Yokuts",
+    "hc": "US",
+    "lr": "Americas",
     "cc": [
         "US"
     ],
@@ -19,7 +21,5 @@
         "Choinumne (Choinimne)",
         "Dumna"
     ],
-    "ang": "Yokuts",
-    "gwcode": "en",
-    "ln": "Yokuts"
+    "gwcode": "en"
 }

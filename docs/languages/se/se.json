@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sme",
-    "hc": "NO",
-    "ld": "ltr",
     "pk": 5542,
-    "lr": "Europe",
     "lc": "se",
+    "gw": false,
+    "ln": "Davvis\u00e1megiella",
+    "ld": "ltr",
+    "ang": "Northern Sami",
+    "hc": "NO",
+    "lr": "Europe",
     "cc": [
         "NO",
         "SE",
@@ -25,7 +27,5 @@
         "Norwegian Lapp",
         "Norwegian Saami"
     ],
-    "ang": "Northern Sami",
-    "gwcode": "en",
-    "ln": "Davvis\u00e1megiella"
+    "gwcode": "en"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ykl",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 7202,
-    "lr": "Asia",
     "lc": "ykl",
+    "gw": false,
+    "ln": "Khlula",
+    "ld": "ltr",
+    "ang": "Khlula",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -26,7 +28,5 @@
         "Dalishu",
         "Liujing"
     ],
-    "ang": "Khlula",
-    "gwcode": "zh",
-    "ln": "Khlula"
+    "gwcode": "zh"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ltz",
-    "hc": "LU",
-    "ld": "ltr",
     "pk": 3356,
-    "lr": "Europe",
     "lc": "lb",
+    "gw": false,
+    "ln": "L\u00ebtzebuergesch",
+    "ld": "ltr",
+    "ang": "Luxembourgish, Letzeburgesch",
+    "hc": "LU",
+    "lr": "Europe",
     "cc": [
         "BE",
         "FR",
@@ -23,7 +25,5 @@
         "Luxembourgish",
         "Luxemburgish"
     ],
-    "ang": "Luxembourgish, Letzeburgesch",
-    "gwcode": "en",
-    "ln": "L\u00ebtzebuergesch"
+    "gwcode": "en"
 }

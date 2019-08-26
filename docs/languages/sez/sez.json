@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sez",
-    "hc": "MM",
-    "ld": "ltr",
     "pk": 5565,
-    "lr": "Asia",
     "lc": "sez",
+    "gw": false,
+    "ln": "Senthang Chin",
+    "ld": "ltr",
+    "ang": "Chin, Senthang",
+    "hc": "MM",
+    "lr": "Asia",
     "cc": [
         "MM"
     ],
@@ -20,7 +22,5 @@
         "Central Senthang (Bungzung)",
         "Shonshe"
     ],
-    "ang": "Chin, Senthang",
-    "gwcode": "my",
-    "ln": "Senthang Chin"
+    "gwcode": "my"
 }

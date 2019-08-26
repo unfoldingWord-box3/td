@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ldb",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 3390,
-    "lr": "Africa",
     "lc": "ldb",
+    "gw": false,
+    "ln": "Du\u0303ya",
+    "ld": "ltr",
+    "ang": "Duya",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -17,7 +19,5 @@
         "Lungu",
         "Ungu"
     ],
-    "ang": "Duya",
-    "gwcode": "en",
-    "ln": "Du\u0303ya"
+    "gwcode": "en"
 }

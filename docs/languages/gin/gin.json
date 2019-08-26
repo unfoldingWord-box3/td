@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gin",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 2028,
-    "lr": "Europe",
     "lc": "gin",
+    "gw": false,
+    "ln": "\u0413\u0438\u043d\u0443\u0445\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Hinukh",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "RU"
     ],
@@ -15,7 +17,5 @@
         "Ginux",
         "Hinux"
     ],
-    "ang": "Hinukh",
-    "gwcode": "ru",
-    "ln": "\u0413\u0438\u043d\u0443\u0445\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

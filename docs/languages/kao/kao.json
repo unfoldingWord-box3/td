@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kao",
-    "hc": "ML",
-    "ld": "ltr",
     "pk": 2705,
-    "lr": "Africa",
     "lc": "kao",
+    "gw": false,
+    "ln": "Xaasongaxango",
+    "ld": "ltr",
+    "ang": "Xaasongaxango",
+    "hc": "ML",
+    "lr": "Africa",
     "cc": [
         "GM",
         "ML",
@@ -27,7 +29,5 @@
         "K\u00e9ni\u00e9ba Maninka",
         "Jahanka"
     ],
-    "ang": "Xaasongaxango",
-    "gwcode": "fr",
-    "ln": "Xaasongaxango"
+    "gwcode": "fr"
 }

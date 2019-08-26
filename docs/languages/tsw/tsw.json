@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tsw",
-    "hc": "NG",
-    "ld": "ltr",
     "pk": 6343,
-    "lr": "Africa",
     "lc": "tsw",
+    "gw": false,
+    "ln": "Tsishingini",
+    "ld": "ltr",
+    "ang": "Tsishingini",
+    "hc": "NG",
+    "lr": "Africa",
     "cc": [
         "NG"
     ],
@@ -15,7 +17,5 @@
         "Kamberchi",
         "Kamberri"
     ],
-    "ang": "Tsishingini",
-    "gwcode": "en",
-    "ln": "Tsishingini"
+    "gwcode": "en"
 }

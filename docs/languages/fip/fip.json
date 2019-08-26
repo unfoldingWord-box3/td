@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "fip",
-    "hc": "TZ",
-    "ld": "ltr",
     "pk": 1842,
-    "lr": "Africa",
     "lc": "fip",
+    "gw": false,
+    "ln": "Fipa",
+    "ld": "ltr",
+    "ang": "Fipa",
+    "hc": "TZ",
+    "lr": "Africa",
     "cc": [
         "TZ"
     ],
@@ -18,7 +20,5 @@
         "Northern Fipa (Kandaasi)",
         "Sukuuma"
     ],
-    "ang": "Fipa",
-    "gwcode": "sw",
-    "ln": "Fipa"
+    "gwcode": "sw"
 }

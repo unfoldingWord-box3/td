@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kgo",
-    "hc": "SD",
-    "ld": "ltr",
     "pk": 2847,
-    "lr": "Africa",
     "lc": "kgo",
+    "gw": false,
+    "ln": "Krongo",
+    "ld": "ltr",
+    "ang": "Krongo",
+    "hc": "SD",
+    "lr": "Africa",
     "cc": [
         "SD"
     ],
@@ -16,7 +18,5 @@
         "Kurungu",
         "Tabanya"
     ],
-    "ang": "Krongo",
-    "gwcode": "ar",
-    "ln": "Krongo"
+    "gwcode": "ar"
 }

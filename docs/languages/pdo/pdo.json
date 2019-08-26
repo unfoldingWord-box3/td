@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pdo",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 4976,
-    "lr": "Asia",
     "lc": "pdo",
+    "gw": false,
+    "ln": "Padoe",
+    "ld": "ltr",
+    "ang": "Padoe",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -17,7 +19,5 @@
         "Central Padoe",
         "Western Padoe"
     ],
-    "ang": "Padoe",
-    "gwcode": "id",
-    "ln": "Padoe"
+    "gwcode": "id"
 }

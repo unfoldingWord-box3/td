@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pam",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 4926,
-    "lr": "Asia",
     "lc": "pam",
+    "gw": false,
+    "ln": "Pampanga",
+    "ld": "ltr",
+    "ang": "Pampangan",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH",
         "US",
@@ -16,7 +18,5 @@
         "Pampango",
         "Pampangue\u00f1o"
     ],
-    "ang": "Pampangan",
-    "gwcode": "en",
-    "ln": "Pampanga"
+    "gwcode": "en"
 }

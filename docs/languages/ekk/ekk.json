@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ekk",
-    "hc": "EE",
-    "ld": "ltr",
     "pk": 1717,
-    "lr": "Europe",
     "lc": "ekk",
+    "gw": false,
+    "ln": "Standard Estonian",
+    "ld": "ltr",
+    "ang": "Estonian, Standard",
+    "hc": "EE",
+    "lr": "Europe",
     "cc": [
         "EE",
         "KZ",
@@ -26,7 +28,5 @@
         "Muly (Mulgi)",
         "Tatu"
     ],
-    "ang": "Estonian, Standard",
-    "gwcode": "en",
-    "ln": "Standard Estonian"
+    "gwcode": "en"
 }

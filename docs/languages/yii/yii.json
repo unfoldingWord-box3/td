@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "yii",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 7184,
-    "lr": "Pacific",
     "lc": "yii",
+    "gw": false,
+    "ln": "Yidiny",
+    "ld": "ltr",
+    "ang": "Yidiny",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -37,7 +39,5 @@
         "Yitintyi",
         "Yukkaburra"
     ],
-    "ang": "Yidiny",
-    "gwcode": "en",
-    "ln": "Yidiny"
+    "gwcode": "en"
 }

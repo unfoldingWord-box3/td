@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "wer",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 6718,
-    "lr": "Pacific",
     "lc": "wer",
+    "gw": false,
+    "ln": "Weri",
+    "ld": "ltr",
+    "ang": "Weri",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -14,7 +16,5 @@
         "Weli",
         "Sim"
     ],
-    "ang": "Weri",
-    "gwcode": "tpi",
-    "ln": "Weri"
+    "gwcode": "tpi"
 }

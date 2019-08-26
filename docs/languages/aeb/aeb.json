@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "aeb",
-    "hc": "TN",
-    "ld": "rtl",
     "pk": 92,
-    "lr": "Africa",
     "lc": "aeb",
+    "gw": false,
+    "ln": "Tunisian Arabic",
+    "ld": "rtl",
+    "ang": "Arabic, Tunisian Spoken",
+    "hc": "TN",
+    "lr": "Africa",
     "cc": [
         "BE",
         "FR",
@@ -26,7 +28,5 @@
         "Tunisian Arabic",
         "Tunisian Darija"
     ],
-    "ang": "Arabic, Tunisian Spoken",
-    "gwcode": "ar",
-    "ln": "Tunisian Arabic"
+    "gwcode": "ar"
 }

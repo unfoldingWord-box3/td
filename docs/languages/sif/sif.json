@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "sif",
-    "hc": "BF",
-    "ld": "ltr",
     "pk": 5622,
-    "lr": "Africa",
     "lc": "sif",
+    "gw": false,
+    "ln": "Siamou",
+    "ld": "ltr",
+    "ang": "Siamou",
+    "hc": "BF",
+    "lr": "Africa",
     "cc": [
         "BF"
     ],
@@ -17,7 +19,5 @@
         "Sy\u00e9mou",
         "Bandougou"
     ],
-    "ang": "Siamou",
-    "gwcode": "fr",
-    "ln": "Siamou"
+    "gwcode": "fr"
 }

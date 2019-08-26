@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "hoj",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 2331,
-    "lr": "Asia",
     "lc": "hoj",
+    "gw": false,
+    "ln": "Hadothi",
+    "ld": "ltr",
+    "ang": "Haroti",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Hadothi",
         "Hadoti"
     ],
-    "ang": "Haroti",
-    "gwcode": "hi",
-    "ln": "Hadothi"
+    "gwcode": "hi"
 }

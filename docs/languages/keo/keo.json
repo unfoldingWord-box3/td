@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "keo",
-    "hc": "UG",
-    "ld": "ltr",
     "pk": 2797,
-    "lr": "Africa",
     "lc": "keo",
+    "gw": false,
+    "ln": "Kakwa",
+    "ld": "ltr",
+    "ang": "Kakwa",
+    "hc": "UG",
+    "lr": "Africa",
     "cc": [
         "SS",
         "UG"
@@ -16,7 +18,5 @@
         "Kakwak",
         "Kwakwak"
     ],
-    "ang": "Kakwa",
-    "gwcode": "en",
-    "ln": "Kakwa"
+    "gwcode": "en"
 }

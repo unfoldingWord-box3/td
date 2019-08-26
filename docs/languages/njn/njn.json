@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "njn",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 4486,
-    "lr": "Asia",
     "lc": "njn",
+    "gw": false,
+    "ln": "Liangmai Naga",
+    "ld": "ltr",
+    "ang": "Naga, Liangmai",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -17,7 +19,5 @@
         "Lyangmay",
         "Lyengmai"
     ],
-    "ang": "Naga, Liangmai",
-    "gwcode": "en",
-    "ln": "Liangmai Naga"
+    "gwcode": "en"
 }

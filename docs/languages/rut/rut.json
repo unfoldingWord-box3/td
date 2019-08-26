@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "rut",
-    "hc": "RU",
-    "ld": "ltr",
     "pk": 5443,
-    "lr": "Europe",
     "lc": "rut",
+    "gw": false,
+    "ln": "\u0420\u0443\u0442\u0443\u043b\u044c\u0441\u043a\u0438\u0439",
+    "ld": "ltr",
+    "ang": "Rutul",
+    "hc": "RU",
+    "lr": "Europe",
     "cc": [
         "AZ",
         "RU"
@@ -26,7 +28,5 @@
         "Ixrek",
         "South Rutul (Borch)"
     ],
-    "ang": "Rutul",
-    "gwcode": "ru",
-    "ln": "\u0420\u0443\u0442\u0443\u043b\u044c\u0441\u043a\u0438\u0439"
+    "gwcode": "ru"
 }

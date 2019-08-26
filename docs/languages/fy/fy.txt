@@ -3,12 +3,14 @@
 Frysk
 =====
 
-.. note:: The `Ethnologue <https://www.ethnologue.com/language/fry>`_ identifies this language as ``fry``.
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/fry>`__ identifies this language as ``fry``.
 
 This language is spoken in the following countries:
 
 * NL: Netherlands
 * CA: Canada
+
+.. warning:: The gateway language is not valid.
 
 .. code-block:: yaml
 
@@ -24,7 +26,7 @@ This language is spoken in the following countries:
     country_codes:
     - NL
     - CA
-    gateway_language: UNKNOWN
+    gateway_language: nl
     lang_code: fy
     lang_direction: ltr
     lang_name: Frysk

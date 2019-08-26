@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "lsh",
-    "hc": "IN",
-    "ld": "ltr",
     "pk": 3597,
-    "lr": "Asia",
     "lc": "lsh",
+    "gw": false,
+    "ln": "Lish",
+    "ld": "ltr",
+    "ang": "Lish",
+    "hc": "IN",
+    "lr": "Asia",
     "cc": [
         "IN"
     ],
@@ -14,7 +16,5 @@
         "Lishpa",
         "Monpa"
     ],
-    "ang": "Lish",
-    "gwcode": "hi",
-    "ln": "Lish"
+    "gwcode": "hi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "pir",
-    "hc": "BR",
-    "ld": "ltr",
     "pk": 5040,
-    "lr": "Americas",
     "lc": "pir",
+    "gw": false,
+    "ln": "Piratapuyo",
+    "ld": "ltr",
+    "ang": "Piratapuyo",
+    "hc": "BR",
+    "lr": "Americas",
     "cc": [
         "BR",
         "CO"
@@ -21,7 +23,5 @@
         "Waina",
         "Urubu-Tapuya"
     ],
-    "ang": "Piratapuyo",
-    "gwcode": "pt",
-    "ln": "Piratapuyo"
+    "gwcode": "pt"
 }

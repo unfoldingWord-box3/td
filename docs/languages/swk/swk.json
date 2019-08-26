@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "swk",
-    "hc": "MW",
-    "ld": "ltr",
     "pk": 5911,
-    "lr": "Africa",
     "lc": "swk",
+    "gw": false,
+    "ln": "Malawi Sena",
+    "ld": "ltr",
+    "ang": "Sena, Malawi",
+    "hc": "MW",
+    "lr": "Africa",
     "cc": [
         "MW"
     ],
@@ -14,7 +16,5 @@
         "Cisena",
         "Chimanganja"
     ],
-    "ang": "Sena, Malawi",
-    "gwcode": "en",
-    "ln": "Malawi Sena"
+    "gwcode": "en"
 }

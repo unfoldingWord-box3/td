@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mdb",
-    "hc": "PG",
-    "ld": "ltr",
     "pk": 3729,
-    "lr": "Pacific",
     "lc": "mdb",
+    "gw": false,
+    "ln": "Morigi",
+    "ld": "ltr",
+    "ang": "Morigi",
+    "hc": "PG",
+    "lr": "Pacific",
     "cc": [
         "PG"
     ],
@@ -15,7 +17,5 @@
         "Turama River Kiwai",
         "Wariadai"
     ],
-    "ang": "Morigi",
-    "gwcode": "tpi",
-    "ln": "Morigi"
+    "gwcode": "tpi"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gbo",
-    "hc": "LR",
-    "ld": "ltr",
     "pk": 1941,
-    "lr": "Africa",
     "lc": "gbo",
+    "gw": false,
+    "ln": "Northern Grebo",
+    "ld": "ltr",
+    "ang": "Grebo, Northern",
+    "hc": "LR",
+    "lr": "Africa",
     "cc": [
         "LR"
     ],
@@ -15,7 +17,5 @@
         "Gbepo (Gbeapo)",
         "Fopo-Bua"
     ],
-    "ang": "Grebo, Northern",
-    "gwcode": "en",
-    "ln": "Northern Grebo"
+    "gwcode": "en"
 }

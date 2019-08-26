@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "mkj",
-    "hc": "FM",
-    "ld": "ltr",
     "pk": 3909,
-    "lr": "Pacific",
     "lc": "mkj",
+    "gw": false,
+    "ln": "Mokilese",
+    "ld": "ltr",
+    "ang": "Mokilese",
+    "hc": "FM",
+    "lr": "Pacific",
     "cc": [
         "US",
         "FM"
@@ -15,7 +17,5 @@
         "Mwoakilese",
         "Mwoakiloa"
     ],
-    "ang": "Mokilese",
-    "gwcode": "en",
-    "ln": "Mokilese"
+    "gwcode": "en"
 }

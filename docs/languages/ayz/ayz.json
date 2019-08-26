@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ayz",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 476,
-    "lr": "Asia",
     "lc": "ayz",
+    "gw": false,
+    "ln": "Mai Brat",
+    "ld": "ltr",
+    "ang": "Mai Brat",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -19,7 +21,5 @@
         "Maybrat",
         "Mey Brat"
     ],
-    "ang": "Mai Brat",
-    "gwcode": "id",
-    "ln": "Mai Brat"
+    "gwcode": "id"
 }

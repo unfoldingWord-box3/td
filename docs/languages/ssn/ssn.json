@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ssn",
-    "hc": "KE",
-    "ld": "ltr",
     "pk": 5839,
-    "lr": "Africa",
     "lc": "ssn",
+    "gw": false,
+    "ln": "Waata",
+    "ld": "ltr",
+    "ang": "Waata",
+    "hc": "KE",
+    "lr": "Africa",
     "cc": [
         "KE"
     ],
@@ -16,7 +18,5 @@
         "Waat",
         "Wasanye"
     ],
-    "ang": "Waata",
-    "gwcode": "sw",
-    "ln": "Waata"
+    "gwcode": "sw"
 }

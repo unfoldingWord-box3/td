@@ -1,16 +1,16 @@
 {
-    "gw": false,
     "ISO-639-3": "svx",
-    "hc": "LT",
-    "ld": "ltr",
     "pk": 5902,
-    "lr": "Europe",
     "lc": "svx",
+    "gw": false,
+    "ln": "Skalvian",
+    "ld": "ltr",
+    "ang": "Slalvian",
+    "hc": "LT",
+    "lr": "Europe",
     "cc": [
         "LT"
     ],
     "alt": [],
-    "ang": "Slalvian",
-    "gwcode": "UNKNOWN",
-    "ln": "Skalvian"
+    "gwcode": null
 }

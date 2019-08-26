@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ctu",
-    "hc": "MX",
-    "ld": "ltr",
     "pk": 1381,
-    "lr": "Americas",
     "lc": "ctu",
+    "gw": false,
+    "ln": "Chol",
+    "ld": "ltr",
+    "ang": "Chol",
+    "hc": "MX",
+    "lr": "Americas",
     "cc": [
         "MX"
     ],
@@ -14,7 +16,5 @@
         "Chol de Tila (Ch'ol del noroeste)",
         "Chol de Tumbal\u00e1 (Ch'ol del sureste)"
     ],
-    "ang": "Chol",
-    "gwcode": "es-419",
-    "ln": "Chol"
+    "gwcode": "es-419"
 }

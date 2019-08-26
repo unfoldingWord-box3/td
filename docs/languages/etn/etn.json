@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "etn",
-    "hc": "VU",
-    "ld": "ltr",
     "pk": 1793,
-    "lr": "Pacific",
     "lc": "etn",
+    "gw": false,
+    "ln": "Eton (Vanuatu)",
+    "ld": "ltr",
+    "ang": "Eton",
+    "hc": "VU",
+    "lr": "Pacific",
     "cc": [
         "VU"
     ],
@@ -13,7 +15,5 @@
         "Eastern Efate",
         "Epwau"
     ],
-    "ang": "Eton",
-    "gwcode": "fr",
-    "ln": "Eton (Vanuatu)"
+    "gwcode": "fr"
 }

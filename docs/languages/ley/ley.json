@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "ley",
-    "hc": "ID",
-    "ld": "ltr",
     "pk": 3425,
-    "lr": "Asia",
     "lc": "ley",
+    "gw": false,
+    "ln": "Lemolang",
+    "ld": "ltr",
+    "ang": "Lemolang",
+    "hc": "ID",
+    "lr": "Asia",
     "cc": [
         "ID"
     ],
@@ -14,7 +16,5 @@
         "Limola",
         "Limolang"
     ],
-    "ang": "Lemolang",
-    "gwcode": "id",
-    "ln": "Lemolang"
+    "gwcode": "id"
 }

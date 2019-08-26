@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "tji",
-    "hc": "CN",
-    "ld": "ltr",
     "pk": 6146,
-    "lr": "Asia",
     "lc": "tji",
+    "gw": false,
+    "ln": "\u571f\u5bb6\u8bed",
+    "ld": "ltr",
+    "ang": "Tujia, Northern",
+    "hc": "CN",
+    "lr": "Asia",
     "cc": [
         "CN"
     ],
@@ -13,7 +15,5 @@
         "Tuchia",
         "Tudja"
     ],
-    "ang": "Tujia, Northern",
-    "gwcode": "zh",
-    "ln": "\u571f\u5bb6\u8bed"
+    "gwcode": "zh"
 }

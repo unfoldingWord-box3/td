@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "gho",
-    "hc": "MA",
-    "ld": "ltr",
     "pk": 2016,
-    "lr": "Africa",
     "lc": "gho",
+    "gw": false,
+    "ln": "\u2d56\u2d53\u2d4e\u2d30\u2d54\u2d30",
+    "ld": "ltr",
+    "ang": "Ghomara",
+    "hc": "MA",
+    "lr": "Africa",
     "cc": [
         "MA"
     ],
@@ -14,7 +16,5 @@
         "Taghumarit",
         "Tamazight"
     ],
-    "ang": "Ghomara",
-    "gwcode": "ar",
-    "ln": "\u2d56\u2d53\u2d4e\u2d30\u2d54\u2d30"
+    "gwcode": "ar"
 }

@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "kxy",
-    "hc": "VN",
-    "ld": "ltr",
     "pk": 3281,
-    "lr": "Asia",
     "lc": "kxy",
+    "gw": false,
+    "ln": "Kayong",
+    "ld": "ltr",
+    "ang": "Kayong",
+    "hc": "VN",
+    "lr": "Asia",
     "cc": [
         "VN"
     ],
@@ -14,7 +16,5 @@
         "Kagiuong",
         "Katang"
     ],
-    "ang": "Kayong",
-    "gwcode": "vi",
-    "ln": "Kayong"
+    "gwcode": "vi"
 }

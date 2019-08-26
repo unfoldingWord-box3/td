@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "djr",
-    "hc": "AU",
-    "ld": "ltr",
     "pk": 1552,
-    "lr": "Pacific",
     "lc": "djr",
+    "gw": false,
+    "ln": "Djambarrpuyngu",
+    "ld": "ltr",
+    "ang": "Djambarrpuyngu",
+    "hc": "AU",
+    "lr": "Pacific",
     "cc": [
         "AU"
     ],
@@ -14,7 +16,5 @@
         "Jambapuing",
         "Jambapuingo"
     ],
-    "ang": "Djambarrpuyngu",
-    "gwcode": "en",
-    "ln": "Djambarrpuyngu"
+    "gwcode": "en"
 }

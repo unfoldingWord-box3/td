@@ -1,11 +1,13 @@
 {
-    "gw": false,
     "ISO-639-3": "bya",
-    "hc": "PH",
-    "ld": "ltr",
     "pk": 1063,
-    "lr": "Asia",
     "lc": "bya",
+    "gw": false,
+    "ln": "Batak",
+    "ld": "ltr",
+    "ang": "Batak",
+    "hc": "PH",
+    "lr": "Asia",
     "cc": [
         "PH"
     ],
@@ -14,7 +16,5 @@
         "Palawan Batak",
         "Tinitianes"
     ],
-    "ang": "Batak",
-    "gwcode": "en",
-    "ln": "Batak"
+    "gwcode": "en"
 }
