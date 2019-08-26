@@ -1,11 +1,14 @@
 {
-    "pk": 4866,
-    "lc": "org",
+    "gw": false,
     "ISO-639-3": "org",
-    "ln": "Oring",
-    "ang": "Oring",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4866,
     "lr": "Africa",
+    "lc": "org",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Koring",
         "Orri",
@@ -14,10 +17,7 @@
         "Ufia (Utonkon)",
         "Ufiom (Effium)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Oring",
+    "gwcode": "en",
+    "ln": "Oring"
 }

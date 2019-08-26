@@ -1,18 +1,18 @@
 {
-    "pk": 2389,
-    "lc": "hve",
+    "gw": false,
     "ISO-639-3": "hve",
-    "ln": "San Dionisio Del Mar Huave",
-    "ang": "Huave, San Dionisio del Mar",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 2389,
     "lr": "Americas",
-    "alt": [
-        "Huave del Este"
-    ],
+    "lc": "hve",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Huave del Este"
+    ],
+    "ang": "Huave, San Dionisio del Mar",
+    "gwcode": "es-419",
+    "ln": "San Dionisio Del Mar Huave"
 }

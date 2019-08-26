@@ -1,11 +1,15 @@
 {
-    "pk": 5550,
-    "lc": "seh",
+    "gw": false,
     "ISO-639-3": "seh",
-    "ln": "Sena",
-    "ang": "Sena",
     "hc": "MZ",
+    "ld": "ltr",
+    "pk": 5550,
     "lr": "Africa",
+    "lc": "seh",
+    "cc": [
+        "MZ",
+        "ZW"
+    ],
     "alt": [
         "Chisena",
         "Cisena",
@@ -20,11 +24,7 @@
         "Bangwe (South Sena)",
         "Rue (Chirue)"
     ],
-    "cc": [
-        "MZ",
-        "ZW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Sena",
+    "gwcode": "pt",
+    "ln": "Sena"
 }

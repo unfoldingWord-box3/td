@@ -1,20 +1,20 @@
 {
-    "pk": 7058,
-    "lc": "xtd",
+    "gw": false,
     "ISO-639-3": "xtd",
-    "ln": "Diuxi-Tilantongo Mixtec",
-    "ang": "Mixtec, Diuxi-Tilantongo",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7058,
     "lr": "Americas",
+    "lc": "xtd",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Central Nochistl\u00e1n Mixtec",
         "Mixteco de Diuxi-Tilantongo",
         "Mixteco del Este Central"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Diuxi-Tilantongo",
+    "gwcode": "es-419",
+    "ln": "Diuxi-Tilantongo Mixtec"
 }

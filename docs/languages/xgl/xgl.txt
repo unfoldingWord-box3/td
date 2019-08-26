@@ -1,0 +1,22 @@
+.. _xgl:
+
+Galindan
+========
+
+This language is spoken in the following countries:
+
+* PL: Poland
+
+.. code-block:: yaml
+
+    ISO_639-3: xgl
+    alternate_names: []
+    anglicanized_name: Galindan
+    country_codes:
+    - PL
+    gateway_language: UNKNOWN
+    lang_code: xgl
+    lang_direction: ltr
+    lang_name: Galindan
+    lang_region: Europe
+    

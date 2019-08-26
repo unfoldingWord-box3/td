@@ -1,11 +1,14 @@
 {
-    "pk": 6865,
-    "lc": "xat",
+    "gw": false,
     "ISO-639-3": "xat",
-    "ln": "Katawixi",
-    "ang": "Katawixi",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 6865,
     "lr": "Americas",
+    "lc": "xat",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Catauichi",
         "Catauixi",
@@ -13,10 +16,7 @@
         "Catawixi",
         "Jacare\u00faba"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Katawixi",
+    "gwcode": "pt",
+    "ln": "Katawixi"
 }

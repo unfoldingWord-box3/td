@@ -1,19 +1,19 @@
 {
-    "pk": 2356,
-    "lc": "hsh",
+    "gw": false,
     "ISO-639-3": "hsh",
-    "ln": "Hungarian Sign Language",
-    "ang": "Hungarian Sign Language",
     "hc": "HU",
+    "ld": "ltr",
+    "pk": 2356,
     "lr": "Europe",
+    "lc": "hsh",
+    "cc": [
+        "HU"
+    ],
     "alt": [
         "Magyar Jelnyelv",
         "Magyarorsz\u00e1gi jelnyelv"
     ],
-    "cc": [
-        "HU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Hungarian Sign Language",
+    "gwcode": "en",
+    "ln": "Hungarian Sign Language"
 }

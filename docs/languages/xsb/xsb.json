@@ -1,11 +1,14 @@
 {
-    "pk": 7038,
-    "lc": "xsb",
+    "gw": false,
     "ISO-639-3": "xsb",
-    "ln": "Sambal",
-    "ang": "Sambal",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 7038,
     "lr": "Asia",
+    "lc": "xsb",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Sambali",
         "Tina",
@@ -14,10 +17,7 @@
         "Masinloc",
         "Santa Cruz"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Sambal",
+    "gwcode": "en",
+    "ln": "Sambal"
 }

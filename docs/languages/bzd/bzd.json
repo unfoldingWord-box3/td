@@ -1,19 +1,19 @@
 {
-    "pk": 1086,
-    "lc": "bzd",
+    "gw": false,
     "ISO-639-3": "bzd",
-    "ln": "Bribri",
-    "ang": "Bribri",
     "hc": "CR",
+    "ld": "ltr",
+    "pk": 1086,
     "lr": "Americas",
-    "alt": [
-        "Talamanca"
-    ],
+    "lc": "bzd",
     "cc": [
         "PA",
         "CR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Talamanca"
+    ],
+    "ang": "Bribri",
+    "gwcode": "es-419",
+    "ln": "Bribri"
 }

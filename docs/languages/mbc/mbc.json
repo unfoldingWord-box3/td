@@ -1,11 +1,16 @@
 {
-    "pk": 3680,
-    "lc": "mbc",
+    "gw": false,
     "ISO-639-3": "mbc",
-    "ln": "Macushi",
-    "ang": "Macushi",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 3680,
     "lr": "Americas",
+    "lc": "mbc",
+    "cc": [
+        "BR",
+        "VE",
+        "GY"
+    ],
     "alt": [
         "Macusi",
         "Makusi",
@@ -14,12 +19,7 @@
         "Teweya",
         "Macussi"
     ],
-    "cc": [
-        "BR",
-        "VE",
-        "GY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Macushi",
+    "gwcode": "pt",
+    "ln": "Macushi"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 4174,
-    "lc": "mvg",
+    "gw": false,
     "ISO-639-3": "mvg",
-    "ln": "Yucua\u00f1e Mixtec",
-    "ang": "Mixtec, Yucua\u00f1e",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4174,
     "lr": "Americas",
+    "lc": "mvg",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Mixteco de San Bartolom\u00e9 Yucua\u00f1e",
         "Mixteco del Sureste Central"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Yucua\u00f1e",
+    "gwcode": "es-419",
+    "ln": "Yucua\u00f1e Mixtec"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 4549,
-    "lc": "nmq",
+    "gw": false,
     "ISO-639-3": "nmq",
-    "ln": "Nambya",
-    "ang": "Nambya",
     "hc": "ZW",
+    "ld": "ltr",
+    "pk": 4549,
     "lr": "Africa",
+    "lc": "nmq",
+    "cc": [
+        "ZW"
+    ],
     "alt": [
         "Chinambya",
         "Nambzya",
         "Nanzva"
     ],
-    "cc": [
-        "ZW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nambya",
+    "gwcode": "en",
+    "ln": "Nambya"
 }

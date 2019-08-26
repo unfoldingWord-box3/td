@@ -1,19 +1,19 @@
 {
-    "pk": 359,
-    "lc": "asc",
+    "gw": false,
     "ISO-639-3": "asc",
-    "ln": "Casuarina Coast Asmat",
-    "ang": "Asmat, Casuarina Coast",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 359,
     "lr": "Asia",
+    "lc": "asc",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kaweinag",
         "Sapan (Safan)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Asmat, Casuarina Coast",
+    "gwcode": "id",
+    "ln": "Casuarina Coast Asmat"
 }

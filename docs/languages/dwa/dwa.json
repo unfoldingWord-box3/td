@@ -1,20 +1,20 @@
 {
-    "pk": 1675,
-    "lc": "dwa",
+    "gw": false,
     "ISO-639-3": "dwa",
-    "ln": "Diri",
-    "ang": "Diri",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1675,
     "lr": "Africa",
+    "lc": "dwa",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Diriya",
         "Dirya",
         "Diryawa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Diri",
+    "gwcode": "en",
+    "ln": "Diri"
 }

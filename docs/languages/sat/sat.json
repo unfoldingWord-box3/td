@@ -1,11 +1,17 @@
 {
-    "pk": 5472,
-    "lc": "sat",
+    "gw": false,
     "ISO-639-3": "sat",
-    "ln": "Santali",
-    "ang": "Santhali",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5472,
     "lr": "Asia",
+    "lc": "sat",
+    "cc": [
+        "BD",
+        "BT",
+        "NP",
+        "IN"
+    ],
     "alt": [
         "Har",
         "Hor",
@@ -22,13 +28,7 @@
         "Mahali (Mahle)",
         "Karmali (Khole)"
     ],
-    "cc": [
-        "BD",
-        "BT",
-        "NP",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Santhali",
+    "gwcode": "hi",
+    "ln": "Santali"
 }

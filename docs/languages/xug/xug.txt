@@ -1,0 +1,22 @@
+.. _xug:
+
+山原言葉
+============
+
+This language is spoken in the following countries:
+
+* JP: Japan
+
+.. code-block:: yaml
+
+    ISO_639-3: xug
+    alternate_names: []
+    anglicanized_name: Kunigami
+    country_codes:
+    - JP
+    gateway_language: UNKNOWN
+    lang_code: xug
+    lang_direction: ltr
+    lang_name: 山原言葉
+    lang_region: Asia
+    

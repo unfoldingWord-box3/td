@@ -1,18 +1,18 @@
 {
-    "pk": 5172,
-    "lc": "pru",
+    "gw": false,
     "ISO-639-3": "pru",
-    "ln": "Puragi",
-    "ang": "Puragi",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5172,
     "lr": "Asia",
-    "alt": [
-        "Mogao"
-    ],
+    "lc": "pru",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Mogao"
+    ],
+    "ang": "Puragi",
+    "gwcode": "id",
+    "ln": "Puragi"
 }

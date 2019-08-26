@@ -1,11 +1,14 @@
 {
-    "pk": 3149,
-    "lc": "ksq",
+    "gw": false,
     "ISO-639-3": "ksq",
-    "ln": "Kwaami",
-    "ang": "Kwaami",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3149,
     "lr": "Africa",
+    "lc": "ksq",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Komawa",
         "Kwam",
@@ -13,10 +16,7 @@
         "Kwami",
         "Kwom"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kwaami",
+    "gwcode": "en",
+    "ln": "Kwaami"
 }

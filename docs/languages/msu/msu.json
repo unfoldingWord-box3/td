@@ -1,18 +1,18 @@
 {
-    "pk": 4114,
-    "lc": "msu",
+    "gw": false,
     "ISO-639-3": "msu",
-    "ln": "Musom",
-    "ang": "Musom",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4114,
     "lr": "Pacific",
-    "alt": [
-        "Misatik"
-    ],
+    "lc": "msu",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Misatik"
+    ],
+    "ang": "Musom",
+    "gwcode": "tpi",
+    "ln": "Musom"
 }

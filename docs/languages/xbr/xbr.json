@@ -1,11 +1,14 @@
 {
-    "pk": 6877,
-    "lc": "xbr",
+    "gw": false,
     "ISO-639-3": "xbr",
-    "ln": "Kambera",
-    "ang": "Kambera",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6877,
     "lr": "Asia",
+    "lc": "xbr",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "East Sumba",
         "East Sumbanese",
@@ -20,10 +23,7 @@
         "Waijelo",
         "Mangili-Waijelo (Rindi)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kambera",
+    "gwcode": "id",
+    "ln": "Kambera"
 }

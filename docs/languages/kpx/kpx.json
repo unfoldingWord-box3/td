@@ -1,18 +1,18 @@
 {
-    "pk": 3080,
-    "lc": "kpx",
+    "gw": false,
     "ISO-639-3": "kpx",
-    "ln": "Mountain Koiali",
-    "ang": "Koiali, Mountain",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3080,
     "lr": "Pacific",
-    "alt": [
-        "Mountain Koiari"
-    ],
+    "lc": "kpx",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Mountain Koiari"
+    ],
+    "ang": "Koiali, Mountain",
+    "gwcode": "tpi",
+    "ln": "Mountain Koiali"
 }

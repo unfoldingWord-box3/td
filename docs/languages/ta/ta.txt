@@ -1,0 +1,68 @@
+.. _ta:
+
+தமிழ்
+===============
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/tam>`_ identifies this language as ``tam``.
+
+This language is spoken in the following countries:
+
+* FR: France
+* DE: Germany
+* LK: Sri Lanka
+* GB: United Kingdom of Great Britain and Northern Ireland
+* CX: Christmas Island
+* MY: Malaysia
+* OM: Oman
+* NL: Netherlands
+* SC: Seychelles
+* TH: Thailand
+* US: United States of America
+* KH: Cambodia
+* CA: Canada
+* KW: Kuwait
+* MV: Maldives
+* IN: India
+* SG: Singapore
+* MM: Myanmar
+* BH: Bahrain
+* QA: Qatar
+
+.. code-block:: yaml
+
+    ISO_639-3: tam
+    alternate_names:
+    - Damulian
+    - Tamal
+    - Tamalsan
+    - Tambul
+    - Tamili
+    - Madurai
+    anglicanized_name: Tamil
+    country_codes:
+    - FR
+    - DE
+    - LK
+    - GB
+    - CX
+    - MY
+    - OM
+    - NL
+    - SC
+    - TH
+    - US
+    - KH
+    - CA
+    - KW
+    - MV
+    - IN
+    - SG
+    - MM
+    - BH
+    - QA
+    gateway_language: UNKNOWN
+    lang_code: ta
+    lang_direction: ltr
+    lang_name: தமிழ்
+    lang_region: Asia
+    

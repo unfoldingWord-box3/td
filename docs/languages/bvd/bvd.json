@@ -1,18 +1,18 @@
 {
-    "pk": 997,
-    "lc": "bvd",
+    "gw": false,
     "ISO-639-3": "bvd",
-    "ln": "Baeggu",
-    "ang": "Baeggu",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 997,
     "lr": "Pacific",
-    "alt": [
-        "Mbaenggu"
-    ],
+    "lc": "bvd",
     "cc": [
         "SB"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "alt": [
+        "Mbaenggu"
+    ],
+    "ang": "Baeggu",
+    "gwcode": "UNKNOWN",
+    "ln": "Baeggu"
 }

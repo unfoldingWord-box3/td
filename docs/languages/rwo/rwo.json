@@ -1,19 +1,19 @@
 {
-    "pk": 5451,
-    "lc": "rwo",
+    "gw": false,
     "ISO-639-3": "rwo",
-    "ln": "Rawa",
-    "ang": "Rawa",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5451,
     "lr": "Pacific",
+    "lc": "rwo",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Erawa",
         "Erewa"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Rawa",
+    "gwcode": "tpi",
+    "ln": "Rawa"
 }

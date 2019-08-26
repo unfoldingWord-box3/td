@@ -1,11 +1,14 @@
 {
-    "pk": 6914,
-    "lc": "xgu",
+    "gw": false,
     "ISO-639-3": "xgu",
-    "ln": "Unggumi",
-    "ang": "Unggumi",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6914,
     "lr": "Pacific",
+    "lc": "xgu",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Ngarangari",
         "Ong Komi",
@@ -14,10 +17,7 @@
         "Ungumi",
         "Wongkomi"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Unggumi",
+    "gwcode": "en",
+    "ln": "Unggumi"
 }

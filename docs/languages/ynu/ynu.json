@@ -1,21 +1,21 @@
 {
-    "pk": 7247,
-    "lc": "ynu",
+    "gw": false,
     "ISO-639-3": "ynu",
-    "ln": "Yahuna",
-    "ang": "Yahuna",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 7247,
     "lr": "Americas",
+    "lc": "ynu",
+    "cc": [
+        "CO"
+    ],
     "alt": [
         "Datuana",
         "Opaina",
         "Ya\u00fana",
         "Yayuna"
     ],
-    "cc": [
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Yahuna",
+    "gwcode": "es-419",
+    "ln": "Yahuna"
 }

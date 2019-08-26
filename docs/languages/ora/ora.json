@@ -1,19 +1,19 @@
 {
-    "pk": 4863,
-    "lc": "ora",
+    "gw": false,
     "ISO-639-3": "ora",
-    "ln": "Oroha",
-    "ang": "Oroha",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 4863,
     "lr": "Pacific",
+    "lc": "ora",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Mara Ma-Siki",
         "Oraha"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Oroha",
+    "gwcode": "UNKNOWN",
+    "ln": "Oroha"
 }

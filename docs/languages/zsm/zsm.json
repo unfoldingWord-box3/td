@@ -1,19 +1,11 @@
 {
-    "pk": 7472,
-    "lc": "zsm",
+    "gw": false,
     "ISO-639-3": "zsm",
-    "ln": "Standard Malay",
-    "ang": "Malay, Standard",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 7472,
     "lr": "Asia",
-    "alt": [
-        "Formal Malay",
-        "Malayu",
-        "Melayu",
-        "Melayu Baku",
-        "Bahasa Malayu",
-        "Informal Malay"
-    ],
+    "lc": "zsm",
     "cc": [
         "KM",
         "ID",
@@ -25,7 +17,15 @@
         "SG",
         "YT"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "alt": [
+        "Formal Malay",
+        "Malayu",
+        "Melayu",
+        "Melayu Baku",
+        "Bahasa Malayu",
+        "Informal Malay"
+    ],
+    "ang": "Malay, Standard",
+    "gwcode": "ms",
+    "ln": "Standard Malay"
 }

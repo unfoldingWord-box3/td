@@ -1,11 +1,15 @@
 {
-    "pk": 1116,
-    "lc": "cag",
+    "gw": false,
     "ISO-639-3": "cag",
-    "ln": "Nivacl\u00e9",
-    "ang": "Nivacl\u00e9",
     "hc": "PY",
+    "ld": "ltr",
+    "pk": 1116,
     "lr": "Americas",
+    "lc": "cag",
+    "cc": [
+        "AR",
+        "PY"
+    ],
     "alt": [
         "Ashlushlay",
         "Chulupe",
@@ -17,11 +21,7 @@
         "Churup\u00ed",
         "Forest Nivacl\u00e9"
     ],
-    "cc": [
-        "AR",
-        "PY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Nivacl\u00e9",
+    "gwcode": "es-419",
+    "ln": "Nivacl\u00e9"
 }

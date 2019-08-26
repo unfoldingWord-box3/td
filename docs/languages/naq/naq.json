@@ -1,11 +1,16 @@
 {
-    "pk": 4301,
-    "lc": "naq",
+    "gw": false,
     "ISO-639-3": "naq",
-    "ln": "Khoekhoe",
-    "ang": "Khoekhoe",
     "hc": "NA",
+    "ld": "ltr",
+    "pk": 4301,
     "lr": "Africa",
+    "lc": "naq",
+    "cc": [
+        "ZA",
+        "BW",
+        "NA"
+    ],
     "alt": [
         "Berdama",
         "Bergdamara",
@@ -32,12 +37,7 @@
         "Khoeknoegowap",
         "Khoi"
     ],
-    "cc": [
-        "ZA",
-        "BW",
-        "NA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Khoekhoe",
+    "gwcode": "en",
+    "ln": "Khoekhoe"
 }

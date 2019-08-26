@@ -1,11 +1,14 @@
 {
-    "pk": 2030,
-    "lc": "giq",
+    "gw": false,
     "ISO-639-3": "giq",
-    "ln": "Hagei",
-    "ang": "Gelao, Green",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 2030,
     "lr": "Asia",
+    "lc": "giq",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Hakei",
         "Cape Draping Gelao",
@@ -14,10 +17,7 @@
         "Klau",
         "Qau"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Gelao, Green",
+    "gwcode": "vi",
+    "ln": "Hagei"
 }

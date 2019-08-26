@@ -1,19 +1,19 @@
 {
-    "pk": 5570,
-    "lc": "sfw",
+    "gw": false,
     "ISO-639-3": "sfw",
-    "ln": "Sehwi",
-    "ang": "Sehwi",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 5570,
     "lr": "Africa",
+    "lc": "sfw",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Asahyue",
         "Sefwi"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Sehwi",
+    "gwcode": "en",
+    "ln": "Sehwi"
 }

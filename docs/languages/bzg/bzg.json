@@ -1,21 +1,21 @@
 {
-    "pk": 1089,
-    "lc": "bzg",
+    "gw": false,
     "ISO-639-3": "bzg",
-    "ln": "Babuza",
-    "ang": "Babuza",
     "hc": "TW",
+    "ld": "ltr",
+    "pk": 1089,
     "lr": "Asia",
+    "lc": "bzg",
+    "cc": [
+        "TW"
+    ],
     "alt": [
         "Babusa",
         "Favorlang",
         "Favorlangsch",
         "Jaborlang"
     ],
-    "cc": [
-        "TW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Babuza",
+    "gwcode": "zh",
+    "ln": "Babuza"
 }

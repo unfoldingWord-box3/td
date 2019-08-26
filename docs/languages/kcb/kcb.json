@@ -1,18 +1,18 @@
 {
-    "pk": 2737,
-    "lc": "kcb",
+    "gw": false,
     "ISO-639-3": "kcb",
-    "ln": "Kawacha",
-    "ang": "Kawacha",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2737,
     "lr": "Pacific",
-    "alt": [
-        "Kawatsa"
-    ],
+    "lc": "kcb",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Kawatsa"
+    ],
+    "ang": "Kawacha",
+    "gwcode": "tpi",
+    "ln": "Kawacha"
 }

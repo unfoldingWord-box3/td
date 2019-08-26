@@ -1,11 +1,15 @@
 {
-    "pk": 2196,
-    "lc": "gwi",
+    "gw": false,
     "ISO-639-3": "gwi",
-    "ln": "Gwich\u02bcin",
-    "ang": "Gwich\u2019in",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 2196,
     "lr": "Americas",
+    "lc": "gwi",
+    "cc": [
+        "US",
+        "CA"
+    ],
     "alt": [
         "Kutchin",
         "Loucheux",
@@ -14,11 +18,7 @@
         "Fort Yukon Gwich'in",
         "Takudh"
     ],
-    "cc": [
-        "US",
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gwich\u2019in",
+    "gwcode": "en",
+    "ln": "Gwich\u02bcin"
 }

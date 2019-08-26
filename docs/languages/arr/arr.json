@@ -1,11 +1,14 @@
 {
-    "pk": 348,
-    "lc": "arr",
+    "gw": false,
     "ISO-639-3": "arr",
-    "ln": "Karo (Brazil)",
-    "ang": "Karo",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 348,
     "lr": "Americas",
+    "lc": "arr",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Ar\u00e1ra",
         "Ar\u00e1ra de Rondonia",
@@ -21,10 +24,7 @@
         "Uruk\u00fa",
         "Arara"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Karo",
+    "gwcode": "pt",
+    "ln": "Karo (Brazil)"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 405,
-    "lc": "aua",
+    "gw": false,
     "ISO-639-3": "aua",
-    "ln": "Asumboa",
-    "ang": "Asumboa",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 405,
     "lr": "Pacific",
+    "lc": "aua",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Asumbua",
         "Asumuo"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Asumboa",
+    "gwcode": "UNKNOWN",
+    "ln": "Asumboa"
 }

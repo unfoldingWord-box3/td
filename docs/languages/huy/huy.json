@@ -1,11 +1,15 @@
 {
-    "pk": 2386,
-    "lc": "huy",
+    "gw": false,
     "ISO-639-3": "huy",
-    "ln": "\u05d9\u05d4\u05d5\u05d3\u05d9\u05d5\u05ea\u05d0",
-    "ang": "Hulaul\u00e1",
     "hc": "IL",
+    "ld": "ltr",
+    "pk": 2386,
     "lr": "Asia",
+    "lc": "huy",
+    "cc": [
+        "IR",
+        "IL"
+    ],
     "alt": [
         "Aramit",
         "Galiglu",
@@ -16,11 +20,7 @@
         "Lishana Axni",
         "Lishana Noshan"
     ],
-    "cc": [
-        "IR",
-        "IL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Hulaul\u00e1",
+    "gwcode": "en",
+    "ln": "\u05d9\u05d4\u05d5\u05d3\u05d9\u05d5\u05ea\u05d0"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 4520,
-    "lc": "nlc",
+    "gw": false,
     "ISO-639-3": "nlc",
-    "ln": "Nalca",
-    "ang": "Nalca",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4520,
     "lr": "Asia",
+    "lc": "nlc",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Hmanggona",
         "Hmonono",
@@ -13,10 +16,7 @@
         "Naltje",
         "Naltya"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Nalca",
+    "gwcode": "id",
+    "ln": "Nalca"
 }

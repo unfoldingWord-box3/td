@@ -1,18 +1,18 @@
 {
-    "pk": 3379,
-    "lc": "lcc",
+    "gw": false,
     "ISO-639-3": "lcc",
-    "ln": "Legenyem",
-    "ang": "Legenyem",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3379,
     "lr": "Asia",
-    "alt": [
-        "Laganyan"
-    ],
+    "lc": "lcc",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Laganyan"
+    ],
+    "ang": "Legenyem",
+    "gwcode": "id",
+    "ln": "Legenyem"
 }

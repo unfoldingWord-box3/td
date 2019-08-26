@@ -1,11 +1,14 @@
 {
-    "pk": 4466,
-    "lc": "nin",
+    "gw": false,
     "ISO-639-3": "nin",
-    "ln": "Ninzo",
-    "ang": "Ninzo",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4466,
     "lr": "Africa",
+    "lc": "nin",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Akiza",
         "Amar Tita",
@@ -17,10 +20,7 @@
         "Kwasu",
         "Nunzo"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ninzo",
+    "gwcode": "en",
+    "ln": "Ninzo"
 }

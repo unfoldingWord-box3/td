@@ -1,19 +1,19 @@
 {
-    "pk": 5817,
-    "lc": "srq",
+    "gw": false,
     "ISO-639-3": "srq",
-    "ln": "Sirion\u00f3",
-    "ang": "Sirion\u00f3",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 5817,
     "lr": "Americas",
+    "lc": "srq",
+    "cc": [
+        "BO"
+    ],
     "alt": [
         "Mbia Chee",
         "Mbya"
     ],
-    "cc": [
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Sirion\u00f3",
+    "gwcode": "es-419",
+    "ln": "Sirion\u00f3"
 }

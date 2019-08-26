@@ -1,11 +1,15 @@
 {
-    "pk": 1887,
-    "lc": "fuh",
+    "gw": false,
     "ISO-639-3": "fuh",
-    "ln": "Western Niger Fulfulde",
-    "ang": "Fulfulde, Western Niger",
     "hc": "NE",
+    "ld": "ltr",
+    "pk": 1887,
     "lr": "Africa",
+    "lc": "fuh",
+    "cc": [
+        "BF",
+        "NE"
+    ],
     "alt": [
         "Fulfulde",
         "Peul",
@@ -21,11 +25,7 @@
         "Seeba-Yaga (Yaaga)",
         "Tera"
     ],
-    "cc": [
-        "BF",
-        "NE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Fulfulde, Western Niger",
+    "gwcode": "fr",
+    "ln": "Western Niger Fulfulde"
 }

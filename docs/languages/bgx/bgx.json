@@ -1,21 +1,21 @@
 {
-    "pk": 657,
-    "lc": "bgx",
+    "gw": false,
     "ISO-639-3": "bgx",
-    "ln": "Balkan Gagauz Turkish",
-    "ang": "Balkan Gagauz Turkish",
     "hc": "TR",
+    "ld": "ltr",
+    "pk": 657,
     "lr": "Asia",
+    "lc": "bgx",
+    "cc": [
+        "TR"
+    ],
     "alt": [
         "Balkan Turkic",
         "Yuruk (Konyar)",
         "Gajal",
         "Yoruk"
     ],
-    "cc": [
-        "TR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tr"
+    "ang": "Balkan Gagauz Turkish",
+    "gwcode": "tr",
+    "ln": "Balkan Gagauz Turkish"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 1047,
-    "lc": "bxf",
+    "gw": false,
     "ISO-639-3": "bxf",
-    "ln": "Bilur",
-    "ang": "Minigir",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1047,
     "lr": "Pacific",
-    "alt": [
-        "Birar"
-    ],
+    "lc": "bxf",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Birar"
+    ],
+    "ang": "Minigir",
+    "gwcode": "tpi",
+    "ln": "Bilur"
 }

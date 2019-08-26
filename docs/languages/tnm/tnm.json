@@ -1,11 +1,14 @@
 {
-    "pk": 6229,
-    "lc": "tnm",
+    "gw": false,
     "ISO-639-3": "tnm",
-    "ln": "Tabla",
-    "ang": "Tabla",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6229,
     "lr": "Asia",
+    "lc": "tnm",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Jakari",
         "Tabi",
@@ -13,10 +16,7 @@
         "Tanahmerah 2",
         "Yokari"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tabla",
+    "gwcode": "id",
+    "ln": "Tabla"
 }

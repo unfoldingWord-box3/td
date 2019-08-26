@@ -1,11 +1,14 @@
 {
-    "pk": 4479,
-    "lc": "njb",
+    "gw": false,
     "ISO-639-3": "njb",
-    "ln": "Nocte Naga",
-    "ang": "Naga, Nocte",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4479,
     "lr": "Asia",
+    "lc": "njb",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Borduria",
         "Jaipuria",
@@ -17,10 +20,7 @@
         "Khapa",
         "Ponthai (Lamlak)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Nocte",
+    "gwcode": "en",
+    "ln": "Nocte Naga"
 }

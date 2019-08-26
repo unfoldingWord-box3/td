@@ -1,21 +1,21 @@
 {
-    "pk": 6976,
-    "lc": "xmh",
+    "gw": false,
     "ISO-639-3": "xmh",
-    "ln": "Kuku-Muminh",
-    "ang": "Kuku-Muminh",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6976,
     "lr": "Pacific",
+    "lc": "xmh",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Kugu",
         "Kugu-Muminh",
         "Wik Muminh",
         "Wik-Mumin"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kuku-Muminh",
+    "gwcode": "en",
+    "ln": "Kuku-Muminh"
 }

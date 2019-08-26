@@ -1,20 +1,20 @@
 {
-    "pk": 2320,
-    "lc": "hnn",
+    "gw": false,
     "ISO-639-3": "hnn",
-    "ln": "Hanunoo",
-    "ang": "Hanunoo",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2320,
     "lr": "Asia",
+    "lc": "hnn",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Hanonoo",
         "Sorsogonon",
         "Gubatnon (Gubat)"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Hanunoo",
+    "gwcode": "en",
+    "ln": "Hanunoo"
 }

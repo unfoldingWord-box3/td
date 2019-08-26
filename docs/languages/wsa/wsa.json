@@ -1,20 +1,20 @@
 {
-    "pk": 6821,
-    "lc": "wsa",
+    "gw": false,
     "ISO-639-3": "wsa",
-    "ln": "Warembori",
-    "ang": "Warembori",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6821,
     "lr": "Asia",
+    "lc": "wsa",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Waremboivoro",
         "Warenbori",
         "Bonoi Buroro"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Warembori",
+    "gwcode": "id",
+    "ln": "Warembori"
 }

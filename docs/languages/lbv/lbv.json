@@ -1,19 +1,19 @@
 {
-    "pk": 3374,
-    "lc": "lbv",
+    "gw": false,
     "ISO-639-3": "lbv",
-    "ln": "Lavatbura-Lamusong",
-    "ang": "Lavatbura-Lamusong",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3374,
     "lr": "Pacific",
+    "lc": "lbv",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Lamasong",
         "Lamusong (Lamasong)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Lavatbura-Lamusong",
+    "gwcode": "tpi",
+    "ln": "Lavatbura-Lamusong"
 }

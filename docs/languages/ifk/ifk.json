@@ -1,21 +1,21 @@
 {
-    "pk": 2433,
-    "lc": "ifk",
+    "gw": false,
     "ISO-639-3": "ifk",
-    "ln": "Tuwali Ifugao",
-    "ang": "Ifugao, Tuwali",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2433,
     "lr": "Asia",
+    "lc": "ifk",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Gilipanes",
         "Ifugaw",
         "Kiangan Ifugao",
         "Quiangan"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ifugao, Tuwali",
+    "gwcode": "en",
+    "ln": "Tuwali Ifugao"
 }

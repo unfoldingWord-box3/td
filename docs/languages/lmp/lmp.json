@@ -1,11 +1,14 @@
 {
-    "pk": 3526,
-    "lc": "lmp",
+    "gw": false,
     "ISO-639-3": "lmp",
-    "ln": "Limbum",
-    "ang": "Limbum",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3526,
     "lr": "Africa",
+    "lc": "lmp",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bojiin",
         "Limbom",
@@ -18,10 +21,7 @@
         "Nsungni",
         "Wimbum"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Limbum",
+    "gwcode": "fr",
+    "ln": "Limbum"
 }

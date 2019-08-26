@@ -1,11 +1,14 @@
 {
-    "pk": 3208,
-    "lc": "kva",
+    "gw": false,
     "ISO-639-3": "kva",
-    "ln": "\u0411\u0430\u0433\u0432\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439",
-    "ang": "Bagvalal",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 3208,
     "lr": "Europe",
+    "lc": "kva",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Bagulal",
         "Bagvalin",
@@ -17,10 +20,7 @@
         "Tlissi-Tlibisho",
         "Tlondoda-Khushtada"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Bagvalal",
+    "gwcode": "ru",
+    "ln": "\u0411\u0430\u0433\u0432\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439"
 }

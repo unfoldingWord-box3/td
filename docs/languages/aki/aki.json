@@ -1,18 +1,18 @@
 {
-    "pk": 198,
-    "lc": "aki",
+    "gw": false,
     "ISO-639-3": "aki",
-    "ln": "Aiome",
-    "ang": "Aiome",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 198,
     "lr": "Pacific",
-    "alt": [
-        "Ayom"
-    ],
+    "lc": "aki",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Ayom"
+    ],
+    "ang": "Aiome",
+    "gwcode": "tpi",
+    "ln": "Aiome"
 }

@@ -1,0 +1,24 @@
+.. _gmb:
+
+Gula'alaa
+=========
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: gmb
+    alternate_names:
+    - Kwai
+    - Ngongosila
+    anglicanized_name: Gula’alaa
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: gmb
+    lang_direction: ltr
+    lang_name: Gula'alaa
+    lang_region: Pacific
+    

@@ -1,11 +1,14 @@
 {
-    "pk": 3485,
-    "lc": "lke",
+    "gw": false,
     "ISO-639-3": "lke",
-    "ln": "Kenyi",
-    "ang": "Kenye",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 3485,
     "lr": "Africa",
+    "lc": "lke",
+    "cc": [
+        "UG"
+    ],
     "alt": [
         "Lukenhe",
         "Lukenye",
@@ -13,10 +16,7 @@
         "Lukenye-Lukooli",
         "Lukenye-Ludebede"
     ],
-    "cc": [
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kenye",
+    "gwcode": "en",
+    "ln": "Kenyi"
 }

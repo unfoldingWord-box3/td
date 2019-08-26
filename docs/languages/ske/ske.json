@@ -1,18 +1,18 @@
 {
-    "pk": 5661,
-    "lc": "ske",
+    "gw": false,
     "ISO-639-3": "ske",
-    "ln": "Seke (Vanuatu)",
-    "ang": "Seke",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 5661,
     "lr": "Pacific",
-    "alt": [
-        "Ske"
-    ],
+    "lc": "ske",
     "cc": [
         "VU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Ske"
+    ],
+    "ang": "Seke",
+    "gwcode": "fr",
+    "ln": "Seke (Vanuatu)"
 }

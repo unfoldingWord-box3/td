@@ -1,20 +1,20 @@
 {
-    "pk": 3133,
-    "lc": "ksa",
+    "gw": false,
     "ISO-639-3": "ksa",
-    "ln": "Shuwa-Zamani",
-    "ang": "Shuwa-Zamani",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3133,
     "lr": "Africa",
+    "lc": "ksa",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kauru",
         "Kuzamani",
         "Rishuwa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Shuwa-Zamani",
+    "gwcode": "en",
+    "ln": "Shuwa-Zamani"
 }

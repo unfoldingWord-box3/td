@@ -1,20 +1,20 @@
 {
-    "pk": 3336,
-    "lc": "lac",
+    "gw": false,
     "ISO-639-3": "lac",
-    "ln": "Lacandon",
-    "ang": "Lacandon",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 3336,
     "lr": "Americas",
+    "lc": "lac",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Lacand\u00f3n",
         "Lacanj\u00e1",
         "Naj\u00e1"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Lacandon",
+    "gwcode": "es-419",
+    "ln": "Lacandon"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 6173,
-    "lc": "tlb",
+    "gw": false,
     "ISO-639-3": "tlb",
-    "ln": "Tobelo",
-    "ang": "Tobelo",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6173,
     "lr": "Asia",
-    "alt": [
-        "Tobelo (Heleworuru)"
-    ],
+    "lc": "tlb",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Tobelo (Heleworuru)"
+    ],
+    "ang": "Tobelo",
+    "gwcode": "id",
+    "ln": "Tobelo"
 }

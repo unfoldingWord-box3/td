@@ -1,21 +1,21 @@
 {
-    "pk": 1461,
-    "lc": "dcc",
+    "gw": false,
     "ISO-639-3": "dcc",
-    "ln": "Deccan",
-    "ang": "Deccan",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1461,
     "lr": "Asia",
+    "lc": "dcc",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Dakini",
         "Deccani",
         "Desi",
         "Kalvadi (Dharwar)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Deccan",
+    "gwcode": "ur",
+    "ln": "Deccan"
 }

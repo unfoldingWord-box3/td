@@ -1,11 +1,14 @@
 {
-    "pk": 578,
-    "lc": "bdt",
+    "gw": false,
     "ISO-639-3": "bdt",
-    "ln": "Bokoto",
-    "ang": "Bhogoto",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 578,
     "lr": "Africa",
+    "lc": "bdt",
+    "cc": [
+        "CF"
+    ],
     "alt": [
         "Bhokoto",
         "Bogodo",
@@ -14,10 +17,7 @@
         "Bokpoto",
         "Gbaya of Boda (Gbaya de Boda)"
     ],
-    "cc": [
-        "CF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bhogoto",
+    "gwcode": "fr",
+    "ln": "Bokoto"
 }

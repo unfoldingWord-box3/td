@@ -1,18 +1,18 @@
 {
-    "pk": 7485,
-    "lc": "ztx",
+    "gw": false,
     "ISO-639-3": "ztx",
-    "ln": "Zaachila Zapotec",
-    "ang": "Zapotec, Zaachila",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7485,
     "lr": "Americas",
-    "alt": [
-        "San Raymundo Jalpan Zapotec"
-    ],
+    "lc": "ztx",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "San Raymundo Jalpan Zapotec"
+    ],
+    "ang": "Zapotec, Zaachila",
+    "gwcode": "es-419",
+    "ln": "Zaachila Zapotec"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 810,
-    "lc": "bne",
+    "gw": false,
     "ISO-639-3": "bne",
-    "ln": "Bintauna",
-    "ang": "Bintauna",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 810,
     "lr": "Asia",
+    "lc": "bne",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Bintaoena",
         "Bintawoena",
         "Bitaoena"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Bintauna",
+    "gwcode": "id",
+    "ln": "Bintauna"
 }

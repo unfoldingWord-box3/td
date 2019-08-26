@@ -1,19 +1,19 @@
 {
-    "pk": 2592,
-    "lc": "jcs",
+    "gw": false,
     "ISO-639-3": "jcs",
-    "ln": "Jamaican Country Sign Language",
-    "ang": "Jamaican Country Sign Language",
     "hc": "JM",
+    "ld": "ltr",
+    "pk": 2592,
     "lr": "Americas",
+    "lc": "jcs",
+    "cc": [
+        "JM"
+    ],
     "alt": [
         "Country Sign",
         "Konchri Sain"
     ],
-    "cc": [
-        "JM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Jamaican Country Sign Language",
+    "gwcode": "en",
+    "ln": "Jamaican Country Sign Language"
 }

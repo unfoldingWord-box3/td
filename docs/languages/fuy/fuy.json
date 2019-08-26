@@ -1,19 +1,19 @@
 {
-    "pk": 1897,
-    "lc": "fuy",
+    "gw": false,
     "ISO-639-3": "fuy",
-    "ln": "Fuyuge",
-    "ang": "Fuyuge",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1897,
     "lr": "Pacific",
+    "lc": "fuy",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Fuyughe",
         "Mafulu"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Fuyuge",
+    "gwcode": "tpi",
+    "ln": "Fuyuge"
 }

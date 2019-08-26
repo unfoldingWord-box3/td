@@ -1,11 +1,14 @@
 {
-    "pk": 1796,
-    "lc": "ets",
+    "gw": false,
     "ISO-639-3": "ets",
-    "ln": "Yekhee",
-    "ang": "Yekhee",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1796,
     "lr": "Africa",
+    "lc": "ets",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Afenmai",
         "Etsako",
@@ -16,10 +19,7 @@
         "South Ibie (South Ivbie)",
         "Uwepa-Uwano (Weppa Wano)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yekhee",
+    "gwcode": "en",
+    "ln": "Yekhee"
 }

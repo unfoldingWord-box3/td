@@ -1,18 +1,18 @@
 {
-    "pk": 6676,
-    "lc": "wan",
+    "gw": false,
     "ISO-639-3": "wan",
-    "ln": "Wan",
-    "ang": "Wan",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 6676,
     "lr": "Africa",
-    "alt": [
-        "Nwa"
-    ],
+    "lc": "wan",
     "cc": [
         "CI"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Nwa"
+    ],
+    "ang": "Wan",
+    "gwcode": "fr",
+    "ln": "Wan"
 }

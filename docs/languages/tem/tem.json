@@ -1,11 +1,15 @@
 {
-    "pk": 6062,
-    "lc": "tem",
+    "gw": false,
     "ISO-639-3": "tem",
-    "ln": "Timne",
-    "ang": "Themne",
     "hc": "SL",
+    "ld": "ltr",
+    "pk": 6062,
     "lr": "Africa",
+    "lc": "tem",
+    "cc": [
+        "GN",
+        "SL"
+    ],
     "alt": [
         "Temen",
         "Timene",
@@ -13,11 +17,7 @@
         "Timne",
         "Western Temne (Pil)"
     ],
-    "cc": [
-        "GN",
-        "SL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Themne",
+    "gwcode": "en",
+    "ln": "Timne"
 }

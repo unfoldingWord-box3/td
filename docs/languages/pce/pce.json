@@ -1,11 +1,15 @@
 {
-    "pk": 4960,
-    "lc": "pce",
+    "gw": false,
     "ISO-639-3": "pce",
-    "ln": "Ruching Palaung",
-    "ang": "Palaung, Ruching",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 4960,
     "lr": "Asia",
+    "lc": "pce",
+    "cc": [
+        "CN",
+        "MM"
+    ],
     "alt": [
         "Bulai",
         "Da'ang",
@@ -21,11 +25,7 @@
         "Ta-Ang",
         "Rulai"
     ],
-    "cc": [
-        "CN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Palaung, Ruching",
+    "gwcode": "my",
+    "ln": "Ruching Palaung"
 }

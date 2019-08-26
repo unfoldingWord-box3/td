@@ -1,11 +1,19 @@
 {
-    "pk": 4725,
-    "lc": "ny",
+    "gw": false,
     "ISO-639-3": "nya",
-    "ln": "chiChe\u0175a, chinyanja",
-    "ang": "Chichewa, Chewa, Nyanja",
     "hc": "MW",
+    "ld": "ltr",
+    "pk": 4725,
     "lr": "Africa",
+    "lc": "ny",
+    "cc": [
+        "MZ",
+        "TZ",
+        "ZM",
+        "ZW",
+        "MW",
+        "SZ"
+    ],
     "alt": [
         "Chewa",
         "Chinyanja",
@@ -28,15 +36,7 @@
         "Manganja (Cimanganja)",
         "Cicewa"
     ],
-    "cc": [
-        "MZ",
-        "TZ",
-        "ZM",
-        "ZW",
-        "MW",
-        "SZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Chichewa, Chewa, Nyanja",
+    "gwcode": "en",
+    "ln": "chiChe\u0175a, chinyanja"
 }

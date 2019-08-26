@@ -1,11 +1,14 @@
 {
-    "pk": 262,
-    "lc": "ane",
+    "gw": false,
     "ISO-639-3": "ane",
-    "ln": "X\u00e2r\u00e2c\u00f9\u00f9",
-    "ang": "X\u00e2r\u00e2c\u00f9\u00f9",
     "hc": "NC",
+    "ld": "ltr",
+    "pk": 262,
     "lr": "Pacific",
+    "lc": "ane",
+    "cc": [
+        "NC"
+    ],
     "alt": [
         "Anesu",
         "Canala",
@@ -14,10 +17,7 @@
         "Naa X\u00e2r\u00e2c\u00f9\u00f9",
         "Xaracii"
     ],
-    "cc": [
-        "NC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "X\u00e2r\u00e2c\u00f9\u00f9",
+    "gwcode": "en",
+    "ln": "X\u00e2r\u00e2c\u00f9\u00f9"
 }

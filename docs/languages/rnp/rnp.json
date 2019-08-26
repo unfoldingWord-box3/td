@@ -1,11 +1,14 @@
 {
-    "pk": 5403,
-    "lc": "rnp",
+    "gw": false,
     "ISO-639-3": "rnp",
-    "ln": "Rongpo",
-    "ang": "Rongpo",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5403,
     "lr": "Asia",
+    "lc": "rnp",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Rang Po Bhasa",
         "Rangkas",
@@ -15,10 +18,7 @@
         "Marchha Pahari",
         "Tolchha"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Rongpo",
+    "gwcode": "hi",
+    "ln": "Rongpo"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 6164,
-    "lc": "tks",
+    "gw": false,
     "ISO-639-3": "tks",
-    "ln": "Takestani",
-    "ang": "Takestani",
     "hc": "IR",
+    "ld": "rtl",
+    "pk": 6164,
     "lr": "Asia",
+    "lc": "tks",
+    "cc": [
+        "IR"
+    ],
     "alt": [
         "Takistani",
         "Kharaqan",
         "Ramand (Takestan)"
     ],
-    "cc": [
-        "IR"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "fa"
+    "ang": "Takestani",
+    "gwcode": "fa",
+    "ln": "Takestani"
 }

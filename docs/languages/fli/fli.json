@@ -1,11 +1,14 @@
 {
-    "pk": 1851,
-    "lc": "fli",
+    "gw": false,
     "ISO-639-3": "fli",
-    "ln": "Fali",
-    "ang": "Fali",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1851,
     "lr": "Africa",
+    "lc": "fli",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Fali of Mubi",
         "Fali of Muchella",
@@ -21,10 +24,7 @@
         "Huli (Bahuli)",
         "Madzarin (Madzara)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Fali",
+    "gwcode": "en",
+    "ln": "Fali"
 }

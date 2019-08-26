@@ -1,11 +1,14 @@
 {
-    "pk": 1398,
-    "lc": "cuu",
+    "gw": false,
     "ISO-639-3": "cuu",
-    "ln": "\u50a3\u96c5\u8bed",
-    "ang": "Tai Ya",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 1398,
     "lr": "Asia",
+    "lc": "cuu",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Cung",
         "Daiya",
@@ -21,10 +24,7 @@
         "Tai Chung (Cung)",
         "Tai Kha (Dai Ka)"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Tai Ya",
+    "gwcode": "zh",
+    "ln": "\u50a3\u96c5\u8bed"
 }

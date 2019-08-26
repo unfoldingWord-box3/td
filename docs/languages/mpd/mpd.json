@@ -1,11 +1,14 @@
 {
-    "pk": 4024,
-    "lc": "mpd",
+    "gw": false,
     "ISO-639-3": "mpd",
-    "ln": "Machinere",
-    "ang": "Machinere",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 4024,
     "lr": "Americas",
+    "lc": "mpd",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Machineri",
         "Manchineri",
@@ -13,10 +16,7 @@
         "Manitener\u00ed",
         "Maxin\u00e9ri"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Machinere",
+    "gwcode": "pt",
+    "ln": "Machinere"
 }

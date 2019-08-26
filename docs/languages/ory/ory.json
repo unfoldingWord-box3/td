@@ -1,11 +1,17 @@
 {
-    "pk": 4877,
-    "lc": "ory",
+    "gw": false,
     "ISO-639-3": "ory",
-    "ln": "Oriya (individual language)",
-    "ang": "Oriya",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4877,
     "lr": "Asia",
+    "lc": "ory",
+    "cc": [
+        "BD",
+        "US",
+        "IN",
+        "MM"
+    ],
     "alt": [
         "Odisha",
         "Odri",
@@ -19,13 +25,7 @@
         "Western Oriya (Sambalpuri)",
         "Mughalbandi (Oriya Proper)"
     ],
-    "cc": [
-        "BD",
-        "US",
-        "IN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Oriya",
+    "gwcode": "hi",
+    "ln": "Oriya (individual language)"
 }

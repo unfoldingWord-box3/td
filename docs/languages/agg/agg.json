@@ -1,11 +1,14 @@
 {
-    "pk": 128,
-    "lc": "agg",
+    "gw": false,
     "ISO-639-3": "agg",
-    "ln": "Angor",
-    "ang": "Angor",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 128,
     "lr": "Pacific",
+    "lc": "agg",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Nai (Central Angor)",
         "Samanai (Southern Angor)",
@@ -13,10 +16,7 @@
         "Senagi",
         "Watapor"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Angor",
+    "gwcode": "tpi",
+    "ln": "Angor"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 6031,
-    "lc": "tdb",
+    "gw": false,
     "ISO-639-3": "tdb",
-    "ln": "Panchpargania",
-    "ang": "Panchpargania",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6031,
     "lr": "Asia",
+    "lc": "tdb",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Bedia",
         "Chik Barik",
@@ -18,10 +21,7 @@
         "Temoral",
         "Tumariya"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Panchpargania",
+    "gwcode": "hi",
+    "ln": "Panchpargania"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 7097,
-    "lc": "xwk",
+    "gw": false,
     "ISO-639-3": "xwk",
-    "ln": "Wangkumara",
-    "ang": "Wangkumara",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 7097,
     "lr": "Pacific",
+    "lc": "xwk",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Wangumarra",
         "Wongkumara"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Wangkumara",
+    "gwcode": "en",
+    "ln": "Wangkumara"
 }

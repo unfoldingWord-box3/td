@@ -1,11 +1,16 @@
 {
-    "pk": 7304,
-    "lc": "yup",
+    "gw": false,
     "ISO-639-3": "yup",
-    "ln": "Yukpa",
-    "ang": "Yukpa",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 7304,
     "lr": "Americas",
+    "lc": "yup",
+    "cc": [
+        "VE",
+        "CO",
+        "US"
+    ],
     "alt": [
         "Carib Motil\u00f3n",
         "Maco\u00edta",
@@ -24,12 +29,7 @@
         "Atapshi (Yukpa norte)",
         "Wasama"
     ],
-    "cc": [
-        "VE",
-        "CO",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Yukpa",
+    "gwcode": "es-419",
+    "ln": "Yukpa"
 }

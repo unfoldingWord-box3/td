@@ -1,21 +1,21 @@
 {
-    "pk": 2014,
-    "lc": "ghl",
+    "gw": false,
     "ISO-639-3": "ghl",
-    "ln": "Ghulfan",
-    "ang": "Ghulfan",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 2014,
     "lr": "Africa",
+    "lc": "ghl",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Gulfan",
         "Uncunwee",
         "Wunci",
         "Wuncimbe"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Ghulfan",
+    "gwcode": "ar",
+    "ln": "Ghulfan"
 }

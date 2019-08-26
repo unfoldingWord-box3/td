@@ -1,11 +1,14 @@
 {
-    "pk": 3160,
-    "lc": "ktb",
+    "gw": false,
     "ISO-639-3": "ktb",
-    "ln": "Kambaata",
-    "ang": "Kambaata",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 3160,
     "lr": "Africa",
+    "lc": "ktb",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Donga",
         "Kambara",
@@ -15,10 +18,7 @@
         "Timbara",
         "Timbaro (Timbaaro)"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Kambaata",
+    "gwcode": "am",
+    "ln": "Kambaata"
 }

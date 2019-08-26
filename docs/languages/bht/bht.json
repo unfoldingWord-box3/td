@@ -1,20 +1,20 @@
 {
-    "pk": 678,
-    "lc": "bht",
+    "gw": false,
     "ISO-639-3": "bht",
-    "ln": "Bhattiyali",
-    "ang": "Bhattiyali",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 678,
     "lr": "Asia",
+    "lc": "bht",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Bhateali",
         "Bhatiali Pahari",
         "Bhatiyali"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Bhattiyali",
+    "gwcode": "hi",
+    "ln": "Bhattiyali"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 4938,
-    "lc": "paz",
+    "gw": false,
     "ISO-639-3": "paz",
-    "ln": "Pankarar\u00fa",
-    "ang": "Pankarar\u00fa",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 4938,
     "lr": "Americas",
+    "lc": "paz",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Pancar\u00e9",
         "Pancaru",
@@ -14,10 +17,7 @@
         "Pankaroru",
         "Pankar\u00fa"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Pankarar\u00fa",
+    "gwcode": "pt",
+    "ln": "Pankarar\u00fa"
 }

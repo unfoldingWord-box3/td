@@ -1,11 +1,15 @@
 {
-    "pk": 1352,
-    "lc": "csh",
+    "gw": false,
     "ISO-639-3": "csh",
-    "ln": "Asho Chin",
-    "ang": "Chin, Asho",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1352,
     "lr": "Asia",
+    "lc": "csh",
+    "cc": [
+        "BD",
+        "MM"
+    ],
     "alt": [
         "Khyeng",
         "Qin",
@@ -19,11 +23,7 @@
         "Laitu",
         "Thayetmyo (Thayetmo)"
     ],
-    "cc": [
-        "BD",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Chin, Asho",
+    "gwcode": "my",
+    "ln": "Asho Chin"
 }

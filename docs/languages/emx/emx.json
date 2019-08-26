@@ -1,19 +1,19 @@
 {
-    "pk": 1745,
-    "lc": "emx",
+    "gw": false,
     "ISO-639-3": "emx",
-    "ln": "Erromintxela",
-    "ang": "Erromintxela",
     "hc": "FR",
+    "ld": "ltr",
+    "pk": 1745,
     "lr": "Europe",
+    "lc": "emx",
+    "cc": [
+        "FR"
+    ],
     "alt": [
         "Basque Cal\u00f3",
         "Cal\u00f3 Vasco"
     ],
-    "cc": [
-        "FR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Erromintxela",
+    "gwcode": "fr",
+    "ln": "Erromintxela"
 }

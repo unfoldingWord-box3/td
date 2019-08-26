@@ -1,19 +1,19 @@
 {
-    "pk": 1439,
-    "lc": "dax",
+    "gw": false,
     "ISO-639-3": "dax",
-    "ln": "Dayi",
-    "ang": "Dayi",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 1439,
     "lr": "Pacific",
+    "lc": "dax",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Dha'i",
         "Dhay'yi"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dayi",
+    "gwcode": "en",
+    "ln": "Dayi"
 }

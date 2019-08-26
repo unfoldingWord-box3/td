@@ -1,21 +1,21 @@
 {
-    "pk": 3653,
-    "lc": "lyg",
+    "gw": false,
     "ISO-639-3": "lyg",
-    "ln": "Lyngngam",
-    "ang": "Lyngngam",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3653,
     "lr": "Asia",
+    "lc": "lyg",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Megam",
         "Khasi",
         "Lyngam",
         "Lyngym"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "ang": "Lyngngam",
+    "gwcode": "as",
+    "ln": "Lyngngam"
 }

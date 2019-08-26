@@ -1,11 +1,15 @@
 {
-    "pk": 118,
-    "lc": "afs",
+    "gw": false,
     "ISO-639-3": "afs",
-    "ln": "Afro-Seminole Creole",
-    "ang": "Afro-Seminole Creole",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 118,
     "lr": "Americas",
+    "lc": "afs",
+    "cc": [
+        "MX",
+        "US"
+    ],
     "alt": [
         "Mexico Afro-Seminole",
         "Texas Afro-Seminole",
@@ -14,11 +18,7 @@
         "Black Seminole",
         "Seminole"
     ],
-    "cc": [
-        "MX",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Afro-Seminole Creole",
+    "gwcode": "es-419",
+    "ln": "Afro-Seminole Creole"
 }

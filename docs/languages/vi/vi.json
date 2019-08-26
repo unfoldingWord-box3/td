@@ -1,22 +1,11 @@
 {
-    "pk": 6609,
-    "lc": "vi",
+    "gw": true,
     "ISO-639-3": "vie",
-    "ln": "Ti\u1ebfng Vi\u1ec7t",
-    "ang": "Vietnamese",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 6609,
     "lr": "Asia",
-    "alt": [
-        "Annamese",
-        "Ching",
-        "Gin",
-        "Jing",
-        "Kinh",
-        "Viet",
-        "Central Vietnamese (Hue)",
-        "Northern Vietnamese (Hanoi)",
-        "Southern Vietnamese"
-    ],
+    "lc": "vi",
     "cc": [
         "CN",
         "FR",
@@ -38,7 +27,18 @@
         "MQ",
         "VN"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [
+        "Annamese",
+        "Ching",
+        "Gin",
+        "Jing",
+        "Kinh",
+        "Viet",
+        "Central Vietnamese (Hue)",
+        "Northern Vietnamese (Hanoi)",
+        "Southern Vietnamese"
+    ],
+    "ang": "Vietnamese",
+    "gwcode": "UNKNOWN",
+    "ln": "Ti\u1ebfng Vi\u1ec7t"
 }

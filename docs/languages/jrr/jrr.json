@@ -1,21 +1,21 @@
 {
-    "pk": 2665,
-    "lc": "jrr",
+    "gw": false,
     "ISO-639-3": "jrr",
-    "ln": "Jiru",
-    "ang": "Jiru",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2665,
     "lr": "Africa",
+    "lc": "jrr",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Atak",
         "Kir",
         "Wiyap",
         "Zhiru"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Jiru",
+    "gwcode": "en",
+    "ln": "Jiru"
 }

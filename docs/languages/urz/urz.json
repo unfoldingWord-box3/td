@@ -1,21 +1,21 @@
 {
-    "pk": 6557,
-    "lc": "urz",
+    "gw": false,
     "ISO-639-3": "urz",
-    "ln": "Uru-Eu-Wau-Wau",
-    "ang": "Uru-Eu-Wau-Wau",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 6557,
     "lr": "Americas",
+    "lc": "urz",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Eru-Eu-Wau-Wau",
         "Jupa\u00fa",
         "Kagwahiva",
         "Uruewawau"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Uru-Eu-Wau-Wau",
+    "gwcode": "pt",
+    "ln": "Uru-Eu-Wau-Wau"
 }

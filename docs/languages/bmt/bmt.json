@@ -1,11 +1,14 @@
 {
-    "pk": 799,
-    "lc": "bmt",
+    "gw": false,
     "ISO-639-3": "bmt",
-    "ln": "\u6807\u66fc\u571f\u8bed",
-    "ang": "Biao Mon",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 799,
     "lr": "Asia",
+    "lc": "bmt",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Biaoman",
         "Biao-Mian",
@@ -15,10 +18,7 @@
         "Shi Mun (Sida Min Yao)",
         "Biao Mon (Min Yao)"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Biao Mon",
+    "gwcode": "zh",
+    "ln": "\u6807\u66fc\u571f\u8bed"
 }

@@ -1,11 +1,16 @@
 {
-    "pk": 431,
-    "lc": "avl",
+    "gw": false,
     "ISO-639-3": "avl",
-    "ln": "\u0644\u0647\u062c\u0629 \u0628\u062f\u0648\u064a\u0629",
-    "ang": "Arabic, Eastern Egyptian Bedawi Spoken",
     "hc": "EG",
+    "ld": "rtl",
+    "pk": 431,
     "lr": "Africa",
+    "lc": "avl",
+    "cc": [
+        "IL",
+        "SY",
+        "EG"
+    ],
     "alt": [
         "Bedawi",
         "Levantine Bedawi Arabic",
@@ -15,12 +20,7 @@
         "Northeast Egyptian Bedawi Arabic",
         "South Levantine Bedawi Arabic"
     ],
-    "cc": [
-        "IL",
-        "SY",
-        "EG"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ar"
+    "ang": "Arabic, Eastern Egyptian Bedawi Spoken",
+    "gwcode": "ar",
+    "ln": "\u0644\u0647\u062c\u0629 \u0628\u062f\u0648\u064a\u0629"
 }

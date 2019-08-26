@@ -1,11 +1,14 @@
 {
-    "pk": 1038,
-    "lc": "bww",
+    "gw": false,
     "ISO-639-3": "bww",
-    "ln": "Bwa",
-    "ang": "Bwa",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 1038,
     "lr": "Africa",
+    "lc": "bww",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Boa",
         "Boua",
@@ -17,10 +20,7 @@
         "Bati (Baati)",
         "Leboa-Le"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bwa",
+    "gwcode": "fr",
+    "ln": "Bwa"
 }

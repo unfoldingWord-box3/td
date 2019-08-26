@@ -1,20 +1,20 @@
 {
-    "pk": 3898,
-    "lc": "mjx",
+    "gw": false,
     "ISO-639-3": "mjx",
-    "ln": "Mahali",
-    "ang": "Mahali",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3898,
     "lr": "Asia",
+    "lc": "mjx",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Mahili",
         "Mahle",
         "Mahli"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Mahali",
+    "gwcode": "hi",
+    "ln": "Mahali"
 }

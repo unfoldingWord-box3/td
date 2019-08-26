@@ -1,11 +1,15 @@
 {
-    "pk": 5859,
-    "lc": "sti",
+    "gw": false,
     "ISO-639-3": "sti",
-    "ln": "Bulo Stieng",
-    "ang": "Stieng, Bulo",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 5859,
     "lr": "Asia",
+    "lc": "sti",
+    "cc": [
+        "KH",
+        "VN"
+    ],
     "alt": [
         "Kajiang",
         "Bud\u00edp",
@@ -16,11 +20,7 @@
         "Xtieng",
         "Bulo"
     ],
-    "cc": [
-        "KH",
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Stieng, Bulo",
+    "gwcode": "vi",
+    "ln": "Bulo Stieng"
 }

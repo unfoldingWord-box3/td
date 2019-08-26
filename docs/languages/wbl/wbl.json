@@ -1,11 +1,17 @@
 {
-    "pk": 6697,
-    "lc": "wbl",
+    "gw": false,
     "ISO-639-3": "wbl",
-    "ln": "Khikwor",
-    "ang": "Wakhi",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 6697,
     "lr": "Asia",
+    "lc": "wbl",
+    "cc": [
+        "CN",
+        "AF",
+        "TJ",
+        "PK"
+    ],
     "alt": [
         "Khik",
         "Khikwar",
@@ -14,13 +20,7 @@
         "Wakhigi",
         "Guhjali"
     ],
-    "cc": [
-        "CN",
-        "AF",
-        "TJ",
-        "PK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Wakhi",
+    "gwcode": "ps",
+    "ln": "Khikwor"
 }

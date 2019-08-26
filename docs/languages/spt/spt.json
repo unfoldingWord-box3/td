@@ -1,19 +1,19 @@
 {
-    "pk": 5786,
-    "lc": "spt",
+    "gw": false,
     "ISO-639-3": "spt",
-    "ln": "Spiti Bhoti",
-    "ang": "Spiti Bhoti",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5786,
     "lr": "Asia",
+    "lc": "spt",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Nyam",
         "Piti Bhoti"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Spiti Bhoti",
+    "gwcode": "hi",
+    "ln": "Spiti Bhoti"
 }

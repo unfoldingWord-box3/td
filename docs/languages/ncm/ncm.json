@@ -1,21 +1,21 @@
 {
-    "pk": 4343,
-    "lc": "ncm",
+    "gw": false,
     "ISO-639-3": "ncm",
-    "ln": "Nambo",
-    "ang": "Nambo",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4343,
     "lr": "Pacific",
+    "lc": "ncm",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Arufe",
         "Nambu",
         "Namna",
         "Namna (Nama)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Nambo",
+    "gwcode": "tpi",
+    "ln": "Nambo"
 }

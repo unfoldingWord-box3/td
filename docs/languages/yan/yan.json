@@ -1,21 +1,21 @@
 {
-    "pk": 7123,
-    "lc": "yan",
+    "gw": false,
     "ISO-639-3": "yan",
-    "ln": "Mayangna",
-    "ang": "Mayangna",
     "hc": "NI",
+    "ld": "ltr",
+    "pk": 7123,
     "lr": "Americas",
+    "lc": "yan",
+    "cc": [
+        "HN",
+        "NI"
+    ],
     "alt": [
         "Sumu",
         "Panamahka (Panamaca)",
         "Tuahka (Taguasca)"
     ],
-    "cc": [
-        "HN",
-        "NI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mayangna",
+    "gwcode": "es-419",
+    "ln": "Mayangna"
 }

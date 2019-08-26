@@ -1,20 +1,20 @@
 {
-    "pk": 6521,
-    "lc": "umn",
+    "gw": false,
     "ISO-639-3": "umn",
-    "ln": "Makyan Naga",
-    "ang": "Naga, Makyan",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 6521,
     "lr": "Asia",
+    "lc": "umn",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Macham Naga",
         "Makyam",
         "Pongnyun"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Naga, Makyan",
+    "gwcode": "my",
+    "ln": "Makyan Naga"
 }

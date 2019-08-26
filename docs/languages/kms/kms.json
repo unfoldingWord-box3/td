@@ -1,18 +1,18 @@
 {
-    "pk": 3005,
-    "lc": "kms",
+    "gw": false,
     "ISO-639-3": "kms",
-    "ln": "Kamasau",
-    "ang": "Kamasau",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3005,
     "lr": "Pacific",
-    "alt": [
-        "Wand Tuan"
-    ],
+    "lc": "kms",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Wand Tuan"
+    ],
+    "ang": "Kamasau",
+    "gwcode": "tpi",
+    "ln": "Kamasau"
 }

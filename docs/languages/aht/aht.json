@@ -1,21 +1,21 @@
 {
-    "pk": 160,
-    "lc": "aht",
+    "gw": false,
     "ISO-639-3": "aht",
-    "ln": "Ahtena",
-    "ang": "Ahtena",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 160,
     "lr": "Americas",
+    "lc": "aht",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Ahtna",
         "Atna",
         "Copper River",
         "Mednovskiy"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ahtena",
+    "gwcode": "en",
+    "ln": "Ahtena"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 695,
-    "lc": "bil",
+    "gw": false,
     "ISO-639-3": "bil",
-    "ln": "\u0181ille",
-    "ang": "Bille",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 695,
     "lr": "Africa",
+    "lc": "bil",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bile",
         "Bili",
         "Billanchi",
         "Kunbille"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bille",
+    "gwcode": "en",
+    "ln": "\u0181ille"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 4018,
-    "lc": "mox",
+    "gw": false,
     "ISO-639-3": "mox",
-    "ln": "Molima",
-    "ang": "Molima",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4018,
     "lr": "Pacific",
+    "lc": "mox",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Ebadidi",
         "Fagululu",
         "Salakahadi",
         "Tola'ai"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Molima",
+    "gwcode": "tpi",
+    "ln": "Molima"
 }

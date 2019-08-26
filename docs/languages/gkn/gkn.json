@@ -1,21 +1,21 @@
 {
-    "pk": 2045,
-    "lc": "gkn",
+    "gw": false,
     "ISO-639-3": "gkn",
-    "ln": "Gokana",
-    "ang": "Gokana",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2045,
     "lr": "Africa",
+    "lc": "gkn",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kibangha",
         "Bodo",
         "Bomu",
         "Dere"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gokana",
+    "gwcode": "en",
+    "ln": "Gokana"
 }

@@ -1,11 +1,17 @@
 {
-    "pk": 4738,
-    "lc": "nyn",
+    "gw": false,
     "ISO-639-3": "nyn",
-    "ln": "Nyankole",
-    "ang": "Nyankore",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 4738,
     "lr": "Africa",
+    "lc": "nyn",
+    "cc": [
+        "RW",
+        "TZ",
+        "UG",
+        "BI"
+    ],
     "alt": [
         "Nkole",
         "Nyankole",
@@ -13,13 +19,7 @@
         "Ulunyankole",
         "Ulunyankore"
     ],
-    "cc": [
-        "RW",
-        "TZ",
-        "UG",
-        "BI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nyankore",
+    "gwcode": "en",
+    "ln": "Nyankole"
 }

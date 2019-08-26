@@ -1,11 +1,15 @@
 {
-    "pk": 3243,
-    "lc": "kwi",
+    "gw": false,
     "ISO-639-3": "kwi",
-    "ln": "Awa-Cuaiquer",
-    "ang": "Awa-Cuaiquer",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 3243,
     "lr": "Americas",
+    "lc": "kwi",
+    "cc": [
+        "CO",
+        "EC"
+    ],
     "alt": [
         "Awa",
         "Awa Pit",
@@ -14,11 +18,7 @@
         "Kwaiker",
         "Quaiquer"
     ],
-    "cc": [
-        "CO",
-        "EC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Awa-Cuaiquer",
+    "gwcode": "es-419",
+    "ln": "Awa-Cuaiquer"
 }

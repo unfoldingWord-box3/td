@@ -1,20 +1,20 @@
 {
-    "pk": 4119,
-    "lc": "msz",
+    "gw": false,
     "ISO-639-3": "msz",
-    "ln": "Momare",
-    "ang": "Momare",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4119,
     "lr": "Pacific",
+    "lc": "msz",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Momale",
         "Momole",
         "Mumare"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Momare",
+    "gwcode": "tpi",
+    "ln": "Momare"
 }

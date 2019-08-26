@@ -1,11 +1,16 @@
 {
-    "pk": 5542,
-    "lc": "se",
+    "gw": false,
     "ISO-639-3": "sme",
-    "ln": "Davvis\u00e1megiella",
-    "ang": "Northern Sami",
     "hc": "NO",
+    "ld": "ltr",
+    "pk": 5542,
     "lr": "Europe",
+    "lc": "se",
+    "cc": [
+        "NO",
+        "SE",
+        "FI"
+    ],
     "alt": [
         "Davvin",
         "Northern Lapp",
@@ -20,12 +25,7 @@
         "Norwegian Lapp",
         "Norwegian Saami"
     ],
-    "cc": [
-        "NO",
-        "SE",
-        "FI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Northern Sami",
+    "gwcode": "en",
+    "ln": "Davvis\u00e1megiella"
 }

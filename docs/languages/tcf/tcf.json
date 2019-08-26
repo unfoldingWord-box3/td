@@ -1,11 +1,14 @@
 {
-    "pk": 6012,
-    "lc": "tcf",
+    "gw": false,
     "ISO-639-3": "tcf",
-    "ln": "Malinaltepec Me'phaa",
-    "ang": "Me\u2019phaa, Malinaltepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 6012,
     "lr": "Americas",
+    "lc": "tcf",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Malinaltepec Tlapanec",
         "Me'phaa",
@@ -20,10 +23,7 @@
         "Sm\u00e1j\u00ed\u00edn",
         "Tlapaneco de Zilacayotitl\u00e1n"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Me\u2019phaa, Malinaltepec",
+    "gwcode": "es-419",
+    "ln": "Malinaltepec Me'phaa"
 }

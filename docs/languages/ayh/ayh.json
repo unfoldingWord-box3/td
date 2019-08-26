@@ -1,20 +1,20 @@
 {
-    "pk": 464,
-    "lc": "ayh",
+    "gw": false,
     "ISO-639-3": "ayh",
-    "ln": "\u0644\u0647\u062c\u0629 \u062d\u0636\u0631\u0645\u064a\u0629",
-    "ang": "Arabic, Hadrami Spoken",
     "hc": "YE",
+    "ld": "rtl",
+    "pk": 464,
     "lr": "Asia",
-    "alt": [
-        "Hadrami",
-        "Hadromi"
-    ],
+    "lc": "ayh",
     "cc": [
         "ER",
         "YE"
     ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ar"
+    "alt": [
+        "Hadrami",
+        "Hadromi"
+    ],
+    "ang": "Arabic, Hadrami Spoken",
+    "gwcode": "ar",
+    "ln": "\u0644\u0647\u062c\u0629 \u062d\u0636\u0631\u0645\u064a\u0629"
 }

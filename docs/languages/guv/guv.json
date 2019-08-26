@@ -1,19 +1,19 @@
 {
-    "pk": 2172,
-    "lc": "guv",
+    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "ln": "Gey",
-    "ang": "Gey",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 2172,
     "lr": "Africa",
+    "lc": "guv",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Gewe",
         "Gueve"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Gey",
+    "gwcode": "fr",
+    "ln": "Gey"
 }

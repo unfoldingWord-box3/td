@@ -1,11 +1,17 @@
 {
-    "pk": 1863,
-    "lc": "fon",
+    "gw": false,
     "ISO-639-3": "fon",
-    "ln": "Fon",
-    "ang": "Fon",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 1863,
     "lr": "Africa",
+    "lc": "fon",
+    "cc": [
+        "BJ",
+        "GA",
+        "GH",
+        "TG"
+    ],
     "alt": [
         "Dahomeen",
         "Fongbe",
@@ -18,13 +24,7 @@
         "Gbekon",
         "Kpase"
     ],
-    "cc": [
-        "BJ",
-        "GA",
-        "GH",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Fon",
+    "gwcode": "fr",
+    "ln": "Fon"
 }

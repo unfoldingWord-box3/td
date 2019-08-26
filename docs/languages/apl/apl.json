@@ -1,18 +1,18 @@
 {
-    "pk": 311,
-    "lc": "apl",
+    "gw": false,
     "ISO-639-3": "apl",
-    "ln": "Lipan Apache",
-    "ang": "Apache, Lipan",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 311,
     "lr": "Americas",
-    "alt": [
-        "Lipan"
-    ],
+    "lc": "apl",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Lipan"
+    ],
+    "ang": "Apache, Lipan",
+    "gwcode": "en",
+    "ln": "Lipan Apache"
 }

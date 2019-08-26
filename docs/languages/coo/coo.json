@@ -1,20 +1,20 @@
 {
-    "pk": 1300,
-    "lc": "coo",
+    "gw": false,
     "ISO-639-3": "coo",
-    "ln": "Comox",
-    "ang": "Comox",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 1300,
     "lr": "Americas",
+    "lc": "coo",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Comox-Sliammon",
         "Klahoose",
         "Mainland Comox (Homalco)"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Comox",
+    "gwcode": "en",
+    "ln": "Comox"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 655,
-    "lc": "bgv",
+    "gw": false,
     "ISO-639-3": "bgv",
-    "ln": "Warkay-Bipim",
-    "ang": "Warkay-Bipim",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 655,
     "lr": "Asia",
-    "alt": [
-        "Bipim As-So"
-    ],
+    "lc": "bgv",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Bipim As-So"
+    ],
+    "ang": "Warkay-Bipim",
+    "gwcode": "id",
+    "ln": "Warkay-Bipim"
 }

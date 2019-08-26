@@ -1,20 +1,20 @@
 {
-    "pk": 1113,
-    "lc": "cad",
+    "gw": false,
     "ISO-639-3": "cad",
-    "ln": "Caddo",
-    "ang": "Caddo",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 1113,
     "lr": "Americas",
+    "lc": "cad",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Caddoe",
         "Kado",
         "Kadohadacho"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Caddo",
+    "gwcode": "en",
+    "ln": "Caddo"
 }

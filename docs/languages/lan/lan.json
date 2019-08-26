@@ -1,21 +1,21 @@
 {
-    "pk": 3347,
-    "lc": "lan",
+    "gw": false,
     "ISO-639-3": "lan",
-    "ln": "Laru",
-    "ang": "Laru",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3347,
     "lr": "Africa",
+    "lc": "lan",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Laranchi",
         "Larawa",
         "Laro",
         "Sengwe"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Laru",
+    "gwcode": "en",
+    "ln": "Laru"
 }

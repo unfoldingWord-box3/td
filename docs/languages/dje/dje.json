@@ -1,11 +1,17 @@
 {
-    "pk": 1545,
-    "lc": "dje",
+    "gw": false,
     "ISO-639-3": "dje",
-    "ln": "Zarma",
-    "ang": "Zarma",
     "hc": "NE",
+    "ld": "ltr",
+    "pk": 1545,
     "lr": "Africa",
+    "lc": "dje",
+    "cc": [
+        "BJ",
+        "GH",
+        "NE",
+        "NG"
+    ],
     "alt": [
         "Adzerma",
         "Djerma",
@@ -17,13 +23,7 @@
         "Zarmaci",
         "Zerma"
     ],
-    "cc": [
-        "BJ",
-        "GH",
-        "NE",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Zarma",
+    "gwcode": "fr",
+    "ln": "Zarma"
 }

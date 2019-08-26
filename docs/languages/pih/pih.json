@@ -1,22 +1,22 @@
 {
-    "pk": 5033,
-    "lc": "pih",
+    "gw": false,
     "ISO-639-3": "pih",
-    "ln": "Pitcairn-Norfolk",
-    "ang": "Pitcairn-Norfolk",
     "hc": "NF",
+    "ld": "ltr",
+    "pk": 5033,
     "lr": "Pacific",
-    "alt": [
-        "Pitcairn English",
-        "Norfolkese",
-        "Norfolk English"
-    ],
+    "lc": "pih",
     "cc": [
         "AU",
         "PF",
         "NF"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Pitcairn English",
+        "Norfolkese",
+        "Norfolk English"
+    ],
+    "ang": "Pitcairn-Norfolk",
+    "gwcode": "en",
+    "ln": "Pitcairn-Norfolk"
 }

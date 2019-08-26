@@ -1,18 +1,18 @@
 {
-    "pk": 3799,
-    "lc": "mfx",
+    "gw": false,
     "ISO-639-3": "mfx",
-    "ln": "Melo",
-    "ang": "Melo",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 3799,
     "lr": "Africa",
-    "alt": [
-        "Malo"
-    ],
+    "lc": "mfx",
     "cc": [
         "ET"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "alt": [
+        "Malo"
+    ],
+    "ang": "Melo",
+    "gwcode": "am",
+    "ln": "Melo"
 }

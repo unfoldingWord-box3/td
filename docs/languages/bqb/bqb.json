@@ -1,19 +1,19 @@
 {
-    "pk": 876,
-    "lc": "bqb",
+    "gw": false,
     "ISO-639-3": "bqb",
-    "ln": "Bagusa",
-    "ang": "Bagusa",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 876,
     "lr": "Asia",
+    "lc": "bqb",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kapeso",
         "Suaseso"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Bagusa",
+    "gwcode": "id",
+    "ln": "Bagusa"
 }

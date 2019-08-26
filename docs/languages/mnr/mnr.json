@@ -1,19 +1,19 @@
 {
-    "pk": 3991,
-    "lc": "mnr",
+    "gw": false,
     "ISO-639-3": "mnr",
-    "ln": "Mono (USA)",
-    "ang": "Mono",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 3991,
     "lr": "Americas",
+    "lc": "mnr",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Eastern Mono",
         "Western Mono"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mono",
+    "gwcode": "en",
+    "ln": "Mono (USA)"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3956,
-    "lc": "mmh",
+    "gw": false,
     "ISO-639-3": "mmh",
-    "ln": "Mehin\u00e1ku",
-    "ang": "Mehin\u00e1ku",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 3956,
     "lr": "Americas",
+    "lc": "mmh",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Mahinaku",
         "Mehinaco",
@@ -13,10 +16,7 @@
         "Minaco",
         "Waur\u00e1-kum\u00e1"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Mehin\u00e1ku",
+    "gwcode": "pt",
+    "ln": "Mehin\u00e1ku"
 }

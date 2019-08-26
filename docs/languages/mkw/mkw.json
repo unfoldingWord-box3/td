@@ -1,19 +1,19 @@
 {
-    "pk": 3922,
-    "lc": "mkw",
+    "gw": false,
     "ISO-639-3": "mkw",
-    "ln": "Kituba (Congo)",
-    "ang": "Kituba",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 3922,
     "lr": "Africa",
+    "lc": "mkw",
+    "cc": [
+        "CG"
+    ],
     "alt": [
         "Kikoongo",
         "Munukutuba"
     ],
-    "cc": [
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kituba",
+    "gwcode": "fr",
+    "ln": "Kituba (Congo)"
 }

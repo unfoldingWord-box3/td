@@ -1,11 +1,17 @@
 {
-    "pk": 3452,
-    "lc": "lhu",
+    "gw": false,
     "ISO-639-3": "lhu",
-    "ln": "\u62c9\u795c\u8bed",
-    "ang": "Lahu",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 3452,
     "lr": "Asia",
+    "lc": "lhu",
+    "cc": [
+        "CN",
+        "LA",
+        "TH",
+        "MM"
+    ],
     "alt": [
         "Kaixien",
         "Kucong",
@@ -38,13 +44,7 @@
         "Khucong",
         "Northern Lahu"
     ],
-    "cc": [
-        "CN",
-        "LA",
-        "TH",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Lahu",
+    "gwcode": "zh",
+    "ln": "\u62c9\u795c\u8bed"
 }

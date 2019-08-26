@@ -1,11 +1,19 @@
 {
-    "pk": 5398,
-    "lc": "rn",
+    "gw": false,
     "ISO-639-3": "run",
-    "ln": "Ikirundi",
-    "ang": "Kirundi",
     "hc": "BI",
+    "ld": "ltr",
+    "pk": 5398,
     "lr": "Africa",
+    "lc": "rn",
+    "cc": [
+        "KE",
+        "RW",
+        "TZ",
+        "CA",
+        "UG",
+        "BI"
+    ],
     "alt": [
         "Urundi",
         "Ikinyabweru",
@@ -16,15 +24,7 @@
         "Ikirundi",
         "Ikimoso (Urumoso)"
     ],
-    "cc": [
-        "KE",
-        "RW",
-        "TZ",
-        "CA",
-        "UG",
-        "BI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Kirundi",
+    "gwcode": "sw",
+    "ln": "Ikirundi"
 }

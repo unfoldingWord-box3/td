@@ -1,11 +1,14 @@
 {
-    "pk": 4502,
-    "lc": "nki",
+    "gw": false,
     "ISO-639-3": "nki",
-    "ln": "Thangal Naga",
-    "ang": "Naga, Thangal",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4502,
     "lr": "Asia",
+    "lc": "nki",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Khoirao",
         "Khoirao Naga",
@@ -18,10 +21,7 @@
         "Thanggal",
         "Tukaimi"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Thangal",
+    "gwcode": "en",
+    "ln": "Thangal Naga"
 }

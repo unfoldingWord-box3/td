@@ -1,11 +1,14 @@
 {
-    "pk": 169,
-    "lc": "aij",
+    "gw": false,
     "ISO-639-3": "aij",
-    "ln": "\u05dc\u05e9\u05e0\u05d9\u05d3 \u05e0\u05e9\u05df",
-    "ang": "Lishanid Noshan",
     "hc": "IL",
+    "ld": "rtl",
+    "pk": 169,
     "lr": "Asia",
+    "lc": "aij",
+    "cc": [
+        "IL"
+    ],
     "alt": [
         "Galigalu",
         "Hulani",
@@ -17,10 +20,7 @@
         "Ranye",
         "Arbel (Arbil)"
     ],
-    "cc": [
-        "IL"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "en"
+    "ang": "Lishanid Noshan",
+    "gwcode": "en",
+    "ln": "\u05dc\u05e9\u05e0\u05d9\u05d3 \u05e0\u05e9\u05df"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 4336,
-    "lc": "ncf",
+    "gw": false,
     "ISO-639-3": "ncf",
-    "ln": "Notsi",
-    "ang": "Notsi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4336,
     "lr": "Pacific",
-    "alt": [
-        "Nochi"
-    ],
+    "lc": "ncf",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Nochi"
+    ],
+    "ang": "Notsi",
+    "gwcode": "tpi",
+    "ln": "Notsi"
 }

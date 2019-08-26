@@ -1,11 +1,14 @@
 {
-    "pk": 4944,
-    "lc": "pbh",
+    "gw": false,
     "ISO-639-3": "pbh",
-    "ln": "E'\u00f1apa Woromaipu",
-    "ang": "E\u2019\u00f1apa Woromaipu",
     "hc": "VE",
+    "ld": "ltr",
+    "pk": 4944,
     "lr": "Americas",
+    "lc": "pbh",
+    "cc": [
+        "VE"
+    ],
     "alt": [
         "Abira",
         "E\u00f1apa",
@@ -14,10 +17,7 @@
         "Panare",
         "Panari"
     ],
-    "cc": [
-        "VE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "E\u2019\u00f1apa Woromaipu",
+    "gwcode": "es-419",
+    "ln": "E'\u00f1apa Woromaipu"
 }

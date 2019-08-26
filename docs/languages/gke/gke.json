@@ -1,19 +1,19 @@
 {
-    "pk": 2044,
-    "lc": "gke",
+    "gw": false,
     "ISO-639-3": "gke",
-    "ln": "Ndai",
-    "ang": "Ndai",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 2044,
     "lr": "Africa",
+    "lc": "gke",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Galke",
         "Pormi"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ndai",
+    "gwcode": "fr",
+    "ln": "Ndai"
 }

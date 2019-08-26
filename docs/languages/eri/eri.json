@@ -1,19 +1,19 @@
 {
-    "pk": 1770,
-    "lc": "eri",
+    "gw": false,
     "ISO-639-3": "eri",
-    "ln": "Ogea",
-    "ang": "Ogea",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1770,
     "lr": "Pacific",
+    "lc": "eri",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Erima",
         "Nuru"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Ogea",
+    "gwcode": "tpi",
+    "ln": "Ogea"
 }

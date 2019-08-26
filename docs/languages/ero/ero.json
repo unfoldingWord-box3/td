@@ -1,11 +1,14 @@
 {
-    "pk": 1772,
-    "lc": "ero",
+    "gw": false,
     "ISO-639-3": "ero",
-    "ln": "\u5c14\u9f9a\u8bed",
-    "ang": "Horpa",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 1772,
     "lr": "Asia",
+    "lc": "ero",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Bawang",
         "Bopa",
@@ -30,10 +33,7 @@
         "Nyagrong-Minyag (Xinlong-Muya)",
         "sTau (Daofu)"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Horpa",
+    "gwcode": "zh",
+    "ln": "\u5c14\u9f9a\u8bed"
 }

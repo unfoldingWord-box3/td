@@ -1,21 +1,21 @@
 {
-    "pk": 4667,
-    "lc": "nto",
+    "gw": false,
     "ISO-639-3": "nto",
-    "ln": "Ntomba",
-    "ang": "Ntomba",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 4667,
     "lr": "Africa",
+    "lc": "nto",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Luntumba",
         "Ntomba-Bolia",
         "Ntumba",
         "Nkole"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ntomba",
+    "gwcode": "fr",
+    "ln": "Ntomba"
 }

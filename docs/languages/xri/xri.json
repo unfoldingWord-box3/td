@@ -1,21 +1,21 @@
 {
-    "pk": 7030,
-    "lc": "xri",
+    "gw": false,
     "ISO-639-3": "xri",
-    "ln": "Krikati-Timbira",
-    "ang": "Krikati-Timbira",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 7030,
     "lr": "Americas",
+    "lc": "xri",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Krikati-Gaviao",
         "Krinkati-Gaviao",
         "Krinkati-Timbira",
         "Krinkati (Karakati)"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Krikati-Timbira",
+    "gwcode": "pt",
+    "ln": "Krikati-Timbira"
 }

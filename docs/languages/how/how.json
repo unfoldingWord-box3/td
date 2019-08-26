@@ -1,11 +1,14 @@
 {
-    "pk": 2338,
-    "lc": "how",
+    "gw": false,
     "ISO-639-3": "how",
-    "ln": "Honi",
-    "ang": "Honi",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2338,
     "lr": "Asia",
+    "lc": "how",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Haoni",
         "Ho",
@@ -13,10 +16,7 @@
         "Uni",
         "Woni"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Honi",
+    "gwcode": "zh",
+    "ln": "Honi"
 }

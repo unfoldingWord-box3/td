@@ -1,20 +1,20 @@
 {
-    "pk": 3135,
-    "lc": "ksc",
+    "gw": false,
     "ISO-639-3": "ksc",
-    "ln": "Southern Kalinga",
-    "ang": "Kalinga, Southern",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 3135,
     "lr": "Asia",
+    "lc": "ksc",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Madlango Kalinga",
         "Tinglayan Kalinga",
         "Tinglayan"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Kalinga, Southern",
+    "gwcode": "ilo",
+    "ln": "Southern Kalinga"
 }

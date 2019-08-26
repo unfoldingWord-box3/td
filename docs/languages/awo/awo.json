@@ -1,19 +1,19 @@
 {
-    "pk": 445,
-    "lc": "awo",
+    "gw": false,
     "ISO-639-3": "awo",
-    "ln": "Awak",
-    "ang": "Awak",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 445,
     "lr": "Africa",
+    "lc": "awo",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Awok",
         "Yebu"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Awak",
+    "gwcode": "en",
+    "ln": "Awak"
 }

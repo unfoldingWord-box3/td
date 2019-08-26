@@ -1,11 +1,14 @@
 {
-    "pk": 399,
-    "lc": "atu",
+    "gw": false,
     "ISO-639-3": "atu",
-    "ln": "Reel",
-    "ang": "Reel",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 399,
     "lr": "Africa",
+    "lc": "atu",
+    "cc": [
+        "SS"
+    ],
     "alt": [
         "Atwot",
         "Thok Cieng Reel",
@@ -13,10 +16,7 @@
         "Cieng Luai",
         "Cieng Nhyam"
     ],
-    "cc": [
-        "SS"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Reel",
+    "gwcode": "ar",
+    "ln": "Reel"
 }

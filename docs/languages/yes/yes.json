@@ -1,11 +1,14 @@
 {
-    "pk": 7164,
-    "lc": "yes",
+    "gw": false,
     "ISO-639-3": "yes",
-    "ln": "Nyankpa",
-    "ang": "Nyankpa",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 7164,
     "lr": "Africa",
+    "lc": "yes",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Nyenkpa",
         "Yasgua",
@@ -16,10 +19,7 @@
         "Ogbom (Buzi)",
         "Ejung (Panda)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nyankpa",
+    "gwcode": "en",
+    "ln": "Nyankpa"
 }

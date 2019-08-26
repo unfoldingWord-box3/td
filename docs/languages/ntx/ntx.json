@@ -1,18 +1,18 @@
 {
-    "pk": 4672,
-    "lc": "ntx",
+    "gw": false,
     "ISO-639-3": "ntx",
-    "ln": "Tangkhul Naga (Myanmar)",
-    "ang": "Naga, Tangkhul",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 4672,
     "lr": "Asia",
-    "alt": [
-        "Somara"
-    ],
+    "lc": "ntx",
     "cc": [
         "MM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "alt": [
+        "Somara"
+    ],
+    "ang": "Naga, Tangkhul",
+    "gwcode": "my",
+    "ln": "Tangkhul Naga (Myanmar)"
 }

@@ -1,11 +1,18 @@
 {
-    "pk": 3573,
-    "lc": "loz",
+    "gw": false,
     "ISO-639-3": "loz",
-    "ln": "Lozi",
-    "ang": "Lozi",
     "hc": "ZM",
+    "ld": "ltr",
+    "pk": 3573,
     "lr": "Africa",
+    "lc": "loz",
+    "cc": [
+        "ZM",
+        "ZW",
+        "AO",
+        "BW",
+        "NA"
+    ],
     "alt": [
         "Kololo",
         "Rotse",
@@ -14,14 +21,7 @@
         "Tozvi",
         "Rotvi"
     ],
-    "cc": [
-        "ZM",
-        "ZW",
-        "AO",
-        "BW",
-        "NA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lozi",
+    "gwcode": "en",
+    "ln": "Lozi"
 }

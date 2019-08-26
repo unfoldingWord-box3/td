@@ -1,19 +1,19 @@
 {
-    "pk": 3877,
-    "lc": "miy",
+    "gw": false,
     "ISO-639-3": "miy",
-    "ln": "Ayutla Mixtec",
-    "ang": "Mixtec, Ayutla",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 3877,
     "lr": "Americas",
+    "lc": "miy",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Coastal Guerrero Mixtec",
         "Mixteco de Ayutla"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Ayutla",
+    "gwcode": "es-419",
+    "ln": "Ayutla Mixtec"
 }

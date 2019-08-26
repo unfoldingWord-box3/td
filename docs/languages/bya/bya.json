@@ -1,20 +1,20 @@
 {
-    "pk": 1063,
-    "lc": "bya",
+    "gw": false,
     "ISO-639-3": "bya",
-    "ln": "Batak",
-    "ang": "Batak",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 1063,
     "lr": "Asia",
+    "lc": "bya",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Babuyan",
         "Palawan Batak",
         "Tinitianes"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Batak",
+    "gwcode": "en",
+    "ln": "Batak"
 }

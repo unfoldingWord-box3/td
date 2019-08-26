@@ -1,11 +1,14 @@
 {
-    "pk": 5684,
-    "lc": "sle",
+    "gw": false,
     "ISO-639-3": "sle",
-    "ln": "Sholaga",
-    "ang": "Sholaga",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5684,
     "lr": "Asia",
+    "lc": "sle",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Kadu Sholigar",
         "Sholanayika",
@@ -15,10 +18,7 @@
         "Solanayakkans",
         "Soliga"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "kn"
+    "ang": "Sholaga",
+    "gwcode": "kn",
+    "ln": "Sholaga"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 35,
-    "lc": "abg",
+    "gw": false,
     "ISO-639-3": "abg",
-    "ln": "Abaga",
-    "ang": "Abaga",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 35,
     "lr": "Pacific",
-    "alt": [
-        "Wagaba"
-    ],
+    "lc": "abg",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Wagaba"
+    ],
+    "ang": "Abaga",
+    "gwcode": "tpi",
+    "ln": "Abaga"
 }

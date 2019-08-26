@@ -1,11 +1,14 @@
 {
-    "pk": 1273,
-    "lc": "cnb",
+    "gw": false,
     "ISO-639-3": "cnb",
-    "ln": "Chinbon Chin",
-    "ang": "Chin, Chinbon",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1273,
     "lr": "Asia",
+    "lc": "cnb",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Chindwin Chin",
         "Chinpon",
@@ -16,10 +19,7 @@
         "Uppu",
         "\u00dctb\u00fc"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Chin, Chinbon",
+    "gwcode": "my",
+    "ln": "Chinbon Chin"
 }

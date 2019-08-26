@@ -1,11 +1,21 @@
 {
-    "pk": 2149,
-    "lc": "gsw",
+    "gw": false,
     "ISO-639-3": "gsw",
-    "ln": "Swiss German",
-    "ang": "German, Swiss",
     "hc": "CH",
+    "ld": "ltr",
+    "pk": 2149,
     "lr": "Europe",
+    "lc": "gsw",
+    "cc": [
+        "AT",
+        "FR",
+        "DE",
+        "GB",
+        "SE",
+        "CH",
+        "US",
+        "LI"
+    ],
     "alt": [
         "Alemannic",
         "Alemanic",
@@ -19,17 +29,7 @@
         "High Alemannisch (Hochalemannisch)",
         "Appenzell"
     ],
-    "cc": [
-        "AT",
-        "FR",
-        "DE",
-        "GB",
-        "SE",
-        "CH",
-        "US",
-        "LI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "German, Swiss",
+    "gwcode": "en",
+    "ln": "Swiss German"
 }

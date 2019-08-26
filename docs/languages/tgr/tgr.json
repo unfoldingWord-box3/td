@@ -1,18 +1,18 @@
 {
-    "pk": 6092,
-    "lc": "tgr",
+    "gw": false,
     "ISO-639-3": "tgr",
-    "ln": "Tareng",
-    "ang": "Tareng",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 6092,
     "lr": "Asia",
-    "alt": [
-        "Tariang"
-    ],
+    "lc": "tgr",
     "cc": [
         "LA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "alt": [
+        "Tariang"
+    ],
+    "ang": "Tareng",
+    "gwcode": "lo",
+    "ln": "Tareng"
 }

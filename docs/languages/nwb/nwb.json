@@ -1,20 +1,20 @@
 {
-    "pk": 4704,
-    "lc": "nwb",
+    "gw": false,
     "ISO-639-3": "nwb",
-    "ln": "Nyabwa",
-    "ang": "Nyabwa",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 4704,
     "lr": "Africa",
+    "lc": "nwb",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Nyaboa",
         "Nyabwa-Ny\u00e9d\u00e9bwa",
         "Nyedebwa (Ni\u00e9d\u00e9boua)"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Nyabwa",
+    "gwcode": "fr",
+    "ln": "Nyabwa"
 }

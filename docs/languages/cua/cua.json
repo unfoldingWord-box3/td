@@ -1,11 +1,14 @@
 {
-    "pk": 1384,
-    "lc": "cua",
+    "gw": false,
     "ISO-639-3": "cua",
-    "ln": "Ti\u1ebfng Co",
-    "ang": "Cua",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 1384,
     "lr": "Asia",
+    "lc": "cua",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "B\u00f2ng Mieu",
         "Bong Miew",
@@ -18,10 +21,7 @@
         "Kol (Co)",
         "Yot"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Cua",
+    "gwcode": "vi",
+    "ln": "Ti\u1ebfng Co"
 }

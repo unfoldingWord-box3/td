@@ -1,11 +1,14 @@
 {
-    "pk": 4332,
-    "lc": "ncb",
+    "gw": false,
     "ISO-639-3": "ncb",
-    "ln": "Central Nicobarese",
-    "ang": "Nicobarese, Central",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4332,
     "lr": "Asia",
+    "lc": "ncb",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Nicobar",
         "Camorta (Kamorta)",
@@ -14,10 +17,7 @@
         "Tehnu",
         "Trinkut (Trinkat)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nicobarese, Central",
+    "gwcode": "en",
+    "ln": "Central Nicobarese"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 6513,
-    "lc": "uln",
+    "gw": false,
     "ISO-639-3": "uln",
-    "ln": "Unserdeutsch",
-    "ang": "Unserdeutsch",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6513,
     "lr": "Pacific",
-    "alt": [
-        "Rabaul Creole German"
-    ],
+    "lc": "uln",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Rabaul Creole German"
+    ],
+    "ang": "Unserdeutsch",
+    "gwcode": "tpi",
+    "ln": "Unserdeutsch"
 }

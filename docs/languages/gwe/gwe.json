@@ -1,18 +1,18 @@
 {
-    "pk": 2193,
-    "lc": "gwe",
+    "gw": false,
     "ISO-639-3": "gwe",
-    "ln": "Gweno",
-    "ang": "Gweno",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 2193,
     "lr": "Africa",
-    "alt": [
-        "Kigweno"
-    ],
+    "lc": "gwe",
     "cc": [
         "TZ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "alt": [
+        "Kigweno"
+    ],
+    "ang": "Gweno",
+    "gwcode": "sw",
+    "ln": "Gweno"
 }

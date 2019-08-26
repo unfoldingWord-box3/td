@@ -1,11 +1,14 @@
 {
-    "pk": 6053,
-    "lc": "tea",
+    "gw": false,
     "ISO-639-3": "tea",
-    "ln": "Temiar",
-    "ang": "Temiar",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 6053,
     "lr": "Asia",
+    "lc": "tea",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "Northern Sakai",
         "Pie",
@@ -15,10 +18,7 @@
         "Tembe' (Tembi)",
         "Po-Klo (Sakai Bukit of Temongoh)"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Temiar",
+    "gwcode": "ms",
+    "ln": "Temiar"
 }

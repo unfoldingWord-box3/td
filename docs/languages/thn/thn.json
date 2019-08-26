@@ -1,20 +1,20 @@
 {
-    "pk": 6110,
-    "lc": "thn",
+    "gw": false,
     "ISO-639-3": "thn",
-    "ln": "Thachanadan",
-    "ang": "Thachanadan",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6110,
     "lr": "Asia",
+    "lc": "thn",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Moopan",
         "Thacchanadens",
         "Thachanad Muppans"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ml"
+    "ang": "Thachanadan",
+    "gwcode": "ml",
+    "ln": "Thachanadan"
 }

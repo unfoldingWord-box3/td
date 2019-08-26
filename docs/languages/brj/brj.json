@@ -1,20 +1,20 @@
 {
-    "pk": 907,
-    "lc": "brj",
+    "gw": false,
     "ISO-639-3": "brj",
-    "ln": "Bieria",
-    "ang": "Bieria",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 907,
     "lr": "Pacific",
+    "lc": "brj",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Bieri",
         "Wowo",
         "Vovo (Wowo)"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bieria",
+    "gwcode": "fr",
+    "ln": "Bieria"
 }

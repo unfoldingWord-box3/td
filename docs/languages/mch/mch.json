@@ -1,11 +1,15 @@
 {
-    "pk": 3709,
-    "lc": "mch",
+    "gw": false,
     "ISO-639-3": "mch",
-    "ln": "Maquiritari",
-    "ang": "Maquiritari",
     "hc": "VE",
+    "ld": "ltr",
+    "pk": 3709,
     "lr": "Americas",
+    "lc": "mch",
+    "cc": [
+        "BR",
+        "VE"
+    ],
     "alt": [
         "Makiritare",
         "Maquiritai",
@@ -18,11 +22,7 @@
         "Mayongong (Ye'cuana)",
         "De'cuana (Wainungomo)"
     ],
-    "cc": [
-        "BR",
-        "VE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Maquiritari",
+    "gwcode": "es-419",
+    "ln": "Maquiritari"
 }

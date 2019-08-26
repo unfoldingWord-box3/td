@@ -1,11 +1,14 @@
 {
-    "pk": 2348,
-    "lc": "hrm",
+    "gw": false,
     "ISO-639-3": "hrm",
-    "ln": "\u89d2\u82d7\u65b9\u8a00",
-    "ang": "Miao, Horned",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2348,
     "lr": "Asia",
+    "lc": "hrm",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "A-Hmo",
         "Bai Miao",
@@ -22,10 +25,7 @@
         "Qing Miao",
         "White Miao"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Miao, Horned",
+    "gwcode": "zh",
+    "ln": "\u89d2\u82d7\u65b9\u8a00"
 }

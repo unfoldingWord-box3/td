@@ -1,11 +1,14 @@
 {
-    "pk": 2918,
-    "lc": "kjl",
+    "gw": false,
     "ISO-639-3": "kjl",
-    "ln": "Western Parbate Kham",
-    "ang": "Kham, Western Parbate",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 2918,
     "lr": "Asia",
+    "lc": "kjl",
+    "cc": [
+        "NP"
+    ],
     "alt": [
         "Kham-Magar",
         "Takale Kham",
@@ -14,10 +17,7 @@
         "Thabangi",
         "Mahatale"
     ],
-    "cc": [
-        "NP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Kham, Western Parbate",
+    "gwcode": "ne",
+    "ln": "Western Parbate Kham"
 }

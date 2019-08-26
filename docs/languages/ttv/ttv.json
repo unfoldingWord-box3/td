@@ -1,21 +1,21 @@
 {
-    "pk": 6369,
-    "lc": "ttv",
+    "gw": false,
     "ISO-639-3": "ttv",
-    "ln": "Titan",
-    "ang": "Titan",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6369,
     "lr": "Pacific",
+    "lc": "ttv",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Manus",
         "M'bunai",
         "Moanus",
         "Tito"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Titan",
+    "gwcode": "tpi",
+    "ln": "Titan"
 }

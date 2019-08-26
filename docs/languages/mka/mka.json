@@ -1,21 +1,21 @@
 {
-    "pk": 3902,
-    "lc": "mka",
+    "gw": false,
     "ISO-639-3": "mka",
-    "ln": "Mbre",
-    "ang": "Mbre",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 3902,
     "lr": "Africa",
+    "lc": "mka",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Bere",
         "Bre",
         "Pre",
         "Pre Pisia"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mbre",
+    "gwcode": "fr",
+    "ln": "Mbre"
 }

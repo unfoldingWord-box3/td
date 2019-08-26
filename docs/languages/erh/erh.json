@@ -1,19 +1,19 @@
 {
-    "pk": 1769,
-    "lc": "erh",
+    "gw": false,
     "ISO-639-3": "erh",
-    "ln": "Eruwa",
-    "ang": "Eruwa",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1769,
     "lr": "Africa",
+    "lc": "erh",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Arokwa",
         "Erakwa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Eruwa",
+    "gwcode": "en",
+    "ln": "Eruwa"
 }

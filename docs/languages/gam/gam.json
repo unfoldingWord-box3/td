@@ -1,18 +1,18 @@
 {
-    "pk": 1915,
-    "lc": "gam",
+    "gw": false,
     "ISO-639-3": "gam",
-    "ln": "Kandawo",
-    "ang": "Kandawo",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1915,
     "lr": "Pacific",
-    "alt": [
-        "Narake"
-    ],
+    "lc": "gam",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Narake"
+    ],
+    "ang": "Kandawo",
+    "gwcode": "tpi",
+    "ln": "Kandawo"
 }

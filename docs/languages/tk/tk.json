@@ -1,11 +1,23 @@
 {
-    "pk": 6152,
-    "lc": "tk",
+    "gw": false,
     "ISO-639-3": "tuk",
-    "ln": "T\u00fcrkmen, \u0422\u04af\u0440\u043a\u043c\u0435\u043d",
-    "ang": "Turkmen",
     "hc": "TM",
+    "ld": "rtl",
+    "pk": 6152,
     "lr": "Asia",
+    "lc": "tk",
+    "cc": [
+        "AF",
+        "IR",
+        "KZ",
+        "TJ",
+        "PK",
+        "US",
+        "CA",
+        "KG",
+        "TM",
+        "UZ"
+    ],
     "alt": [
         "Turkman",
         "Turkmencha",
@@ -28,19 +40,7 @@
         "Xatap",
         "Yomud (Yomut)"
     ],
-    "cc": [
-        "AF",
-        "IR",
-        "KZ",
-        "TJ",
-        "PK",
-        "US",
-        "CA",
-        "KG",
-        "TM",
-        "UZ"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ru"
+    "ang": "Turkmen",
+    "gwcode": "ru",
+    "ln": "T\u00fcrkmen, \u0422\u04af\u0440\u043a\u043c\u0435\u043d"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 96,
-    "lc": "aek",
+    "gw": false,
     "ISO-639-3": "aek",
-    "ln": "Haeke",
-    "ang": "Haeke",
     "hc": "NC",
+    "ld": "ltr",
+    "pk": 96,
     "lr": "Pacific",
+    "lc": "aek",
+    "cc": [
+        "NC"
+    ],
     "alt": [
         "Aeke",
         "Baco",
         "Haeake"
     ],
-    "cc": [
-        "NC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Haeke",
+    "gwcode": "en",
+    "ln": "Haeke"
 }

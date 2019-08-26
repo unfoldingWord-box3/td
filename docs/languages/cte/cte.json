@@ -1,18 +1,18 @@
 {
-    "pk": 1371,
-    "lc": "cte",
+    "gw": false,
     "ISO-639-3": "cte",
-    "ln": "Tepinapa Chinantec",
-    "ang": "Chinantec, Tepinapa",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1371,
     "lr": "Americas",
-    "alt": [
-        "Chinanteco del Sureste Medio"
-    ],
+    "lc": "cte",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Chinanteco del Sureste Medio"
+    ],
+    "ang": "Chinantec, Tepinapa",
+    "gwcode": "es-419",
+    "ln": "Tepinapa Chinantec"
 }

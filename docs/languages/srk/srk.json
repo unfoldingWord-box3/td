@@ -1,20 +1,20 @@
 {
-    "pk": 5812,
-    "lc": "srk",
+    "gw": false,
     "ISO-639-3": "srk",
-    "ln": "Serudung Murut",
-    "ang": "Serudung Murut",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 5812,
     "lr": "Asia",
+    "lc": "srk",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "Serudong",
         "Tawau Murut",
         "Tidung"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Serudung Murut",
+    "gwcode": "ms",
+    "ln": "Serudung Murut"
 }

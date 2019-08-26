@@ -1,20 +1,20 @@
 {
-    "pk": 2176,
-    "lc": "gv",
+    "gw": false,
     "ISO-639-3": "glv",
-    "ln": "Gaelg, Gailck",
-    "ang": "Manx",
     "hc": "IM",
+    "ld": "ltr",
+    "pk": 2176,
     "lr": "Europe",
+    "lc": "gv",
+    "cc": [
+        "IM"
+    ],
     "alt": [
         "Gaelg",
         "Gailck",
         "Manx Gaelic"
     ],
-    "cc": [
-        "IM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Manx",
+    "gwcode": "en",
+    "ln": "Gaelg, Gailck"
 }

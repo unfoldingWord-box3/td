@@ -1,16 +1,16 @@
 {
-    "pk": 5569,
-    "lc": "sfs",
+    "gw": false,
     "ISO-639-3": "sfs",
-    "ln": "South African Sign Language",
-    "ang": "South African Sign Language",
     "hc": "ZA",
+    "ld": "ltr",
+    "pk": 5569,
     "lr": "Africa",
-    "alt": [],
+    "lc": "sfs",
     "cc": [
         "ZA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [],
+    "ang": "South African Sign Language",
+    "gwcode": "en",
+    "ln": "South African Sign Language"
 }

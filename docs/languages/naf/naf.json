@@ -1,19 +1,19 @@
 {
-    "pk": 4292,
-    "lc": "naf",
+    "gw": false,
     "ISO-639-3": "naf",
-    "ln": "Nabak",
-    "ang": "Nabak",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4292,
     "lr": "Pacific",
+    "lc": "naf",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Naba",
         "Wain"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Nabak",
+    "gwcode": "tpi",
+    "ln": "Nabak"
 }

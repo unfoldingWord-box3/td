@@ -1,11 +1,16 @@
 {
-    "pk": 972,
-    "lc": "buc",
+    "gw": false,
     "ISO-639-3": "buc",
-    "ln": "Bushi",
-    "ang": "Bushi",
     "hc": "YT",
+    "ld": "ltr",
+    "pk": 972,
     "lr": "Africa",
+    "lc": "buc",
+    "cc": [
+        "KM",
+        "MG",
+        "YT"
+    ],
     "alt": [
         "Antalaotra",
         "Kibuki",
@@ -14,12 +19,7 @@
         "Shibushi",
         "Shibushi Shimaore"
     ],
-    "cc": [
-        "KM",
-        "MG",
-        "YT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bushi",
+    "gwcode": "fr",
+    "ln": "Bushi"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 5597,
-    "lc": "shg",
+    "gw": false,
     "ISO-639-3": "shg",
-    "ln": "Shua",
-    "ang": "Shua",
     "hc": "BW",
+    "ld": "ltr",
+    "pk": 5597,
     "lr": "Africa",
+    "lc": "shg",
+    "cc": [
+        "BW"
+    ],
     "alt": [
         "Mashuakwe",
         "Tshumakwe",
@@ -28,10 +31,7 @@
         "||'Aiye (|Aaye)",
         "Danisi (Danisa)"
     ],
-    "cc": [
-        "BW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Shua",
+    "gwcode": "en",
+    "ln": "Shua"
 }

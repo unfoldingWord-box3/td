@@ -1,21 +1,21 @@
 {
-    "pk": 596,
-    "lc": "bek",
+    "gw": false,
     "ISO-639-3": "bek",
-    "ln": "Bebeli",
-    "ang": "Bebeli",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 596,
     "lr": "Pacific",
+    "lc": "bek",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Banaule",
         "Beli",
         "Benaule",
         "Kapore"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Bebeli",
+    "gwcode": "tpi",
+    "ln": "Bebeli"
 }

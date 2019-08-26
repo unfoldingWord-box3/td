@@ -1,11 +1,14 @@
 {
-    "pk": 6430,
-    "lc": "txi",
+    "gw": false,
     "ISO-639-3": "txi",
-    "ln": "Ikpeng",
-    "ang": "Ikpeng",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 6430,
     "lr": "Americas",
+    "lc": "txi",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Chicao",
         "Tonore",
@@ -13,10 +16,7 @@
         "Txik\u00e2n",
         "Txik\u00e3o"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Ikpeng",
+    "gwcode": "pt",
+    "ln": "Ikpeng"
 }

@@ -1,20 +1,11 @@
 {
-    "pk": 186,
-    "lc": "ajp",
+    "gw": false,
     "ISO-639-3": "ajp",
-    "ln": "South Levantine Arabic",
-    "ang": "Arabic, South Levantine Spoken",
     "hc": "JO",
+    "ld": "rtl",
+    "pk": 186,
     "lr": "Asia",
-    "alt": [
-        "Levantine",
-        "Palestanian-Jordanian Arabic",
-        "Arabic",
-        "Levantine Arabic",
-        "Palestinian-Jordanian",
-        "South Levantine Arabic",
-        "Bedawi"
-    ],
+    "lc": "ajp",
     "cc": [
         "ER",
         "FR",
@@ -31,7 +22,16 @@
         "SV",
         "AE"
     ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ar"
+    "alt": [
+        "Levantine",
+        "Palestanian-Jordanian Arabic",
+        "Arabic",
+        "Levantine Arabic",
+        "Palestinian-Jordanian",
+        "South Levantine Arabic",
+        "Bedawi"
+    ],
+    "ang": "Arabic, South Levantine Spoken",
+    "gwcode": "ar",
+    "ln": "South Levantine Arabic"
 }

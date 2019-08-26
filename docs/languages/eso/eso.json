@@ -1,18 +1,18 @@
 {
-    "pk": 1784,
-    "lc": "eso",
+    "gw": false,
     "ISO-639-3": "eso",
-    "ln": "Estonian Sign Language",
-    "ang": "Estonian Sign Language",
     "hc": "EE",
+    "ld": "ltr",
+    "pk": 1784,
     "lr": "Europe",
-    "alt": [
-        "Viipekeel"
-    ],
+    "lc": "eso",
     "cc": [
         "EE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Viipekeel"
+    ],
+    "ang": "Estonian Sign Language",
+    "gwcode": "en",
+    "ln": "Estonian Sign Language"
 }

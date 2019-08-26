@@ -1,20 +1,20 @@
 {
-    "pk": 2424,
-    "lc": "idi",
+    "gw": false,
     "ISO-639-3": "idi",
-    "ln": "Idi",
-    "ang": "Idi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2424,
     "lr": "Pacific",
+    "lc": "idi",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Diblaeg",
         "Dimisi",
         "Dimsisi"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Idi",
+    "gwcode": "tpi",
+    "ln": "Idi"
 }

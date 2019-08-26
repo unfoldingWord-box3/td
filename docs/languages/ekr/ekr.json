@@ -1,20 +1,20 @@
 {
-    "pk": 1722,
-    "lc": "ekr",
+    "gw": false,
     "ISO-639-3": "ekr",
-    "ln": "Yace",
-    "ang": "Yace",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1722,
     "lr": "Africa",
+    "lc": "ekr",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ekpari",
         "Iyace",
         "Yatye"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yace",
+    "gwcode": "en",
+    "ln": "Yace"
 }

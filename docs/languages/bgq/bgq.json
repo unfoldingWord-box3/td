@@ -1,11 +1,15 @@
 {
-    "pk": 650,
-    "lc": "bgq",
+    "gw": false,
     "ISO-639-3": "bgq",
-    "ln": "Bagri",
-    "ang": "Bagri",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 650,
     "lr": "Asia",
+    "lc": "bgq",
+    "cc": [
+        "PK",
+        "IN"
+    ],
     "alt": [
         "Bagria",
         "Bagris",
@@ -13,11 +17,7 @@
         "Baorias",
         "Bawri"
     ],
-    "cc": [
-        "PK",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Bagri",
+    "gwcode": "hi",
+    "ln": "Bagri"
 }

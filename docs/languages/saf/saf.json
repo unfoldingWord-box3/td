@@ -1,20 +1,20 @@
 {
-    "pk": 5464,
-    "lc": "saf",
+    "gw": false,
     "ISO-639-3": "saf",
-    "ln": "Safaliba",
-    "ang": "Safaliba",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 5464,
     "lr": "Africa",
+    "lc": "saf",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Safalaba",
         "Safalba",
         "Safali"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Safaliba",
+    "gwcode": "en",
+    "ln": "Safaliba"
 }

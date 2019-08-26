@@ -1,11 +1,15 @@
 {
-    "pk": 4151,
-    "lc": "mug",
+    "gw": false,
     "ISO-639-3": "mug",
-    "ln": "Musgu",
-    "ang": "Musgu",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4151,
     "lr": "Africa",
+    "lc": "mug",
+    "cc": [
+        "CM",
+        "TD"
+    ],
     "alt": [
         "Mousgou",
         "Mousgoun",
@@ -28,11 +32,7 @@
         "Musgum-Pouss",
         "Vlum"
     ],
-    "cc": [
-        "CM",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Musgu",
+    "gwcode": "fr",
+    "ln": "Musgu"
 }

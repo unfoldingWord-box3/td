@@ -1,11 +1,14 @@
 {
-    "pk": 3098,
-    "lc": "kqp",
+    "gw": false,
     "ISO-639-3": "kqp",
-    "ln": "Kimr\u00e9",
-    "ang": "Kimr\u00e9",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 3098,
     "lr": "Africa",
+    "lc": "kqp",
+    "cc": [
+        "TD"
+    ],
     "alt": [
         "Gabri-Kimr\u00e9",
         "Gawra",
@@ -13,10 +16,7 @@
         "Kimruwa (Kimr\u00e9)",
         "Kim-Ruwa"
     ],
-    "cc": [
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Kimr\u00e9",
+    "gwcode": "ar",
+    "ln": "Kimr\u00e9"
 }

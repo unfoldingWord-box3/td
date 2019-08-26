@@ -1,19 +1,19 @@
 {
-    "pk": 6817,
-    "lc": "wru",
+    "gw": false,
     "ISO-639-3": "wru",
-    "ln": "Waru",
-    "ang": "Waru",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6817,
     "lr": "Asia",
+    "lc": "wru",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Mapute",
         "Mopute"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Waru",
+    "gwcode": "id",
+    "ln": "Waru"
 }

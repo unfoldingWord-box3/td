@@ -1,19 +1,19 @@
 {
-    "pk": 3090,
-    "lc": "kqh",
+    "gw": false,
     "ISO-639-3": "kqh",
-    "ln": "Kisankasa",
-    "ang": "Kisankasa",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 3090,
     "lr": "Africa",
+    "lc": "kqh",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Dorobo",
         "Ndorobo"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Kisankasa",
+    "gwcode": "sw",
+    "ln": "Kisankasa"
 }

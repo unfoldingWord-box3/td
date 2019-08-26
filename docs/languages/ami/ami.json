@@ -1,11 +1,14 @@
 {
-    "pk": 241,
-    "lc": "ami",
+    "gw": false,
     "ISO-639-3": "ami",
-    "ln": "Amis",
-    "ang": "Amis",
     "hc": "TW",
+    "ld": "ltr",
+    "pk": 241,
     "lr": "Asia",
+    "lc": "ami",
+    "cc": [
+        "TW"
+    ],
     "alt": [
         "Kwangfu",
         "Tavalong-Vataan (Kuangfu)",
@@ -26,10 +29,7 @@
         "Sabari",
         "Tanah"
     ],
-    "cc": [
-        "TW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Amis",
+    "gwcode": "zh",
+    "ln": "Amis"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 3289,
-    "lc": "kyf",
+    "gw": false,
     "ISO-639-3": "kyf",
-    "ln": "Kouya",
-    "ang": "Kouya",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 3289,
     "lr": "Africa",
+    "lc": "kyf",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Kowya",
         "Kuya",
         "Sokya"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kouya",
+    "gwcode": "fr",
+    "ln": "Kouya"
 }

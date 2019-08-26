@@ -1,11 +1,14 @@
 {
-    "pk": 2502,
-    "lc": "iow",
+    "gw": false,
     "ISO-639-3": "iow",
-    "ln": "Iowa-Oto",
-    "ang": "Iowa-Oto",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 2502,
     "lr": "Americas",
+    "lc": "iow",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Niutaji (Missouri)",
         "Nyut'chi",
@@ -16,10 +19,7 @@
         "Iowa (Baxoje)",
         "Jiwere"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Iowa-Oto",
+    "gwcode": "en",
+    "ln": "Iowa-Oto"
 }

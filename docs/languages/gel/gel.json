@@ -1,11 +1,14 @@
 {
-    "pk": 1989,
-    "lc": "gel",
+    "gw": false,
     "ISO-639-3": "gel",
-    "ln": "ut-Ma'in",
-    "ang": "ut-Ma\u2019in",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1989,
     "lr": "Africa",
+    "lc": "gel",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Fakanchi",
         "Fakanci",
@@ -31,10 +34,7 @@
         "Et-Maror",
         "Kelanchi"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "ut-Ma\u2019in",
+    "gwcode": "en",
+    "ln": "ut-Ma'in"
 }

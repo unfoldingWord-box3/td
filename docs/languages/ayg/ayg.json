@@ -1,19 +1,19 @@
 {
-    "pk": 463,
-    "lc": "ayg",
+    "gw": false,
     "ISO-639-3": "ayg",
-    "ln": "Ginyanga",
-    "ang": "Ginyanga",
     "hc": "TG",
+    "ld": "ltr",
+    "pk": 463,
     "lr": "Africa",
+    "lc": "ayg",
+    "cc": [
+        "TG"
+    ],
     "alt": [
         "Agnagan",
         "Genyanga"
     ],
-    "cc": [
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ginyanga",
+    "gwcode": "fr",
+    "ln": "Ginyanga"
 }

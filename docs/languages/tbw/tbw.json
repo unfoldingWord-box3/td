@@ -1,20 +1,20 @@
 {
-    "pk": 6003,
-    "lc": "tbw",
+    "gw": false,
     "ISO-639-3": "tbw",
-    "ln": "Tagbanwa",
-    "ang": "Tagbanwa",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 6003,
     "lr": "Asia",
+    "lc": "tbw",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Aborlan Tagbanwa",
         "Apurawnon",
         "Tagbanua"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tagbanwa",
+    "gwcode": "en",
+    "ln": "Tagbanwa"
 }

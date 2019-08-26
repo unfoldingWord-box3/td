@@ -1,18 +1,18 @@
 {
-    "pk": 4008,
-    "lc": "mom",
+    "gw": false,
     "ISO-639-3": "mom",
-    "ln": "Mangue",
-    "ang": "Mangue",
     "hc": "NI",
+    "ld": "ltr",
+    "pk": 4008,
     "lr": "Americas",
-    "alt": [
-        "Monimbo"
-    ],
+    "lc": "mom",
     "cc": [
         "NI"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Monimbo"
+    ],
+    "ang": "Mangue",
+    "gwcode": "es-419",
+    "ln": "Mangue"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 4204,
-    "lc": "mwo",
+    "gw": false,
     "ISO-639-3": "mwo",
-    "ln": "Central Maewo",
-    "ang": "Maewo, Central",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 4204,
     "lr": "Pacific",
+    "lc": "mwo",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Maewo",
         "Sungwadaga"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Maewo, Central",
+    "gwcode": "fr",
+    "ln": "Central Maewo"
 }

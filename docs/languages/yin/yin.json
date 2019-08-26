@@ -1,21 +1,21 @@
 {
-    "pk": 7188,
-    "lc": "yin",
+    "gw": false,
     "ISO-639-3": "yin",
-    "ln": "Yinchia",
-    "ang": "Yinchia",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 7188,
     "lr": "Asia",
+    "lc": "yin",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Black Riang",
         "Ranei",
         "Striped Karen",
         "Yin Kya"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Yinchia",
+    "gwcode": "my",
+    "ln": "Yinchia"
 }

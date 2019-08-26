@@ -1,20 +1,20 @@
 {
-    "pk": 1042,
-    "lc": "bxa",
+    "gw": false,
     "ISO-639-3": "bxa",
-    "ln": "Tairaha",
-    "ang": "Tairaha",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 1042,
     "lr": "Pacific",
+    "lc": "bxa",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Bwauro",
         "Rawo (Ravo)",
         "Haununu (Hauhunu)"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Tairaha",
+    "gwcode": "UNKNOWN",
+    "ln": "Tairaha"
 }

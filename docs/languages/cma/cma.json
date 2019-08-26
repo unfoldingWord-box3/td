@@ -1,11 +1,14 @@
 {
-    "pk": 1261,
-    "lc": "cma",
+    "gw": false,
     "ISO-639-3": "cma",
-    "ln": "Maa",
-    "ang": "Maa",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 1261,
     "lr": "Asia",
+    "lc": "cma",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Chauma",
         "Che Ma",
@@ -15,10 +18,7 @@
         "Ma Xop",
         "Maaq"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Maa",
+    "gwcode": "vi",
+    "ln": "Maa"
 }

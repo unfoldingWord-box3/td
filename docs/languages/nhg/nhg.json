@@ -1,18 +1,18 @@
 {
-    "pk": 4439,
-    "lc": "nhg",
+    "gw": false,
     "ISO-639-3": "nhg",
-    "ln": "Tetelcingo Nahuatl",
-    "ang": "Nahuatl, Tetelcingo",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4439,
     "lr": "Americas",
-    "alt": [
-        "Tetelcingo Aztec"
-    ],
+    "lc": "nhg",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Tetelcingo Aztec"
+    ],
+    "ang": "Nahuatl, Tetelcingo",
+    "gwcode": "es-419",
+    "ln": "Tetelcingo Nahuatl"
 }

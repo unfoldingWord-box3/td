@@ -1,18 +1,18 @@
 {
-    "pk": 4613,
-    "lc": "npu",
+    "gw": false,
     "ISO-639-3": "npu",
-    "ln": "Puimei Naga",
-    "ang": "Naga, Puimei",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4613,
     "lr": "Asia",
-    "alt": [
-        "Puimei"
-    ],
+    "lc": "npu",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Puimei"
+    ],
+    "ang": "Naga, Puimei",
+    "gwcode": "en",
+    "ln": "Puimei Naga"
 }

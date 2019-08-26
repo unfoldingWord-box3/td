@@ -1,20 +1,20 @@
 {
-    "pk": 5875,
-    "lc": "su",
+    "gw": false,
     "ISO-639-3": "sun",
-    "ln": "Basa Sunda",
-    "ang": "Sundanese",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5875,
     "lr": "Asia",
+    "lc": "su",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Priangan",
         "Sundanese",
         "Bogor (Krawang)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Sundanese",
+    "gwcode": "id",
+    "ln": "Basa Sunda"
 }

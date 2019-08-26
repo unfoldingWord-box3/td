@@ -1,11 +1,14 @@
 {
-    "pk": 3153,
-    "lc": "ksu",
+    "gw": false,
     "ISO-639-3": "ksu",
-    "ln": "Khamyang",
-    "ang": "Khamyang",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3153,
     "lr": "Asia",
+    "lc": "ksu",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Khamiyang",
         "Khamjang",
@@ -13,10 +16,7 @@
         "Tai Khamyang",
         "Tai Nora"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Khamyang",
+    "gwcode": "hi",
+    "ln": "Khamyang"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 7459,
-    "lc": "zpw",
+    "gw": false,
     "ISO-639-3": "zpw",
-    "ln": "Zaniza Zapotec",
-    "ang": "Zapotec, Zaniza",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7459,
     "lr": "Americas",
+    "lc": "zpw",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Papabuco",
         "Western Sola de Vega Zapotec",
         "Zapoteco de Santa Mar\u00eda Zaniza"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Zaniza",
+    "gwcode": "es-419",
+    "ln": "Zaniza Zapotec"
 }

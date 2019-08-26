@@ -1,11 +1,14 @@
 {
-    "pk": 6774,
-    "lc": "wmw",
+    "gw": false,
     "ISO-639-3": "wmw",
-    "ln": "Mwani",
-    "ang": "Mwani",
     "hc": "MZ",
+    "ld": "ltr",
+    "pk": 6774,
     "lr": "Africa",
+    "lc": "wmw",
+    "cc": [
+        "MZ"
+    ],
     "alt": [
         "Kimwani",
         "Muane",
@@ -17,10 +20,7 @@
         "Quissanga",
         "Wibo (Kiwibo)"
     ],
-    "cc": [
-        "MZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Mwani",
+    "gwcode": "pt",
+    "ln": "Mwani"
 }

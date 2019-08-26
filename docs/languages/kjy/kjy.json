@@ -1,20 +1,20 @@
 {
-    "pk": 2930,
-    "lc": "kjy",
+    "gw": false,
     "ISO-639-3": "kjy",
-    "ln": "Erave",
-    "ang": "Erave",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2930,
     "lr": "Pacific",
+    "lc": "kjy",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kewa South",
         "Pole",
         "South Kewa"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Erave",
+    "gwcode": "tpi",
+    "ln": "Erave"
 }

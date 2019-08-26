@@ -1,20 +1,20 @@
 {
-    "pk": 4920,
-    "lc": "paf",
+    "gw": false,
     "ISO-639-3": "paf",
-    "ln": "Paranaw\u00e1t",
-    "ang": "Paranaw\u00e1t",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 4920,
     "lr": "Americas",
+    "lc": "paf",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Majubim",
         "Paranauat",
         "Pawat\u00e9"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Paranaw\u00e1t",
+    "gwcode": "pt",
+    "ln": "Paranaw\u00e1t"
 }

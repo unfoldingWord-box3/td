@@ -1,11 +1,15 @@
 {
-    "pk": 499,
-    "lc": "bao",
+    "gw": false,
     "ISO-639-3": "bao",
-    "ln": "Waimaha",
-    "ang": "Waimaha",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 499,
     "lr": "Americas",
+    "lc": "bao",
+    "cc": [
+        "BR",
+        "CO"
+    ],
     "alt": [
         "Barazana",
         "Northern Barasano",
@@ -15,11 +19,7 @@
         "Eastern Waimaha",
         "Pamoa Bara"
     ],
-    "cc": [
-        "BR",
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Waimaha",
+    "gwcode": "es-419",
+    "ln": "Waimaha"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 6010,
-    "lc": "tcd",
+    "gw": false,
     "ISO-639-3": "tcd",
-    "ln": "Tafi",
-    "ang": "Tafi",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 6010,
     "lr": "Africa",
-    "alt": [
-        "Tegbo"
-    ],
+    "lc": "tcd",
     "cc": [
         "GH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Tegbo"
+    ],
+    "ang": "Tafi",
+    "gwcode": "en",
+    "ln": "Tafi"
 }

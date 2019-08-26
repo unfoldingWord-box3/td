@@ -1,21 +1,21 @@
 {
-    "pk": 1218,
-    "lc": "ciw",
+    "gw": false,
     "ISO-639-3": "ciw",
-    "ln": "Chippewa",
-    "ang": "Chippewa",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 1218,
     "lr": "Americas",
+    "lc": "ciw",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Ojibway",
         "Ojibwe",
         "Southwestern Ojibwa",
         "Upper Michigan-Wisconsin Chippewa"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Chippewa",
+    "gwcode": "en",
+    "ln": "Chippewa"
 }

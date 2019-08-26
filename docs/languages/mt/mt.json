@@ -1,14 +1,11 @@
 {
-    "pk": 4120,
-    "lc": "mt",
+    "gw": false,
     "ISO-639-3": "mlt",
-    "ln": "Malti",
-    "ang": "Maltese",
     "hc": "MT",
+    "ld": "ltr",
+    "pk": 4120,
     "lr": "Europe",
-    "alt": [
-        "Malti"
-    ],
+    "lc": "mt",
     "cc": [
         "MT",
         "TN",
@@ -18,7 +15,10 @@
         "IT",
         "LY"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Malti"
+    ],
+    "ang": "Maltese",
+    "gwcode": "en",
+    "ln": "Malti"
 }

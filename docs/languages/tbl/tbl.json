@@ -1,11 +1,14 @@
 {
-    "pk": 5994,
-    "lc": "tbl",
+    "gw": false,
     "ISO-639-3": "tbl",
-    "ln": "Tboli",
-    "ang": "Tboli",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5994,
     "lr": "Asia",
+    "lc": "tbl",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "T'boli",
         "Tiboli",
@@ -14,10 +17,7 @@
         "Southern Tboli",
         "Central Tboli"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tboli",
+    "gwcode": "en",
+    "ln": "Tboli"
 }

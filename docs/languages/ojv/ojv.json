@@ -1,21 +1,21 @@
 {
-    "pk": 4796,
-    "lc": "ojv",
+    "gw": false,
     "ISO-639-3": "ojv",
-    "ln": "Ontong Java",
-    "ang": "Ontong Java",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 4796,
     "lr": "Pacific",
+    "lc": "ojv",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Leuangiua",
         "Lord Howe",
         "Luangiua",
         "Luaniua"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Ontong Java",
+    "gwcode": "UNKNOWN",
+    "ln": "Ontong Java"
 }

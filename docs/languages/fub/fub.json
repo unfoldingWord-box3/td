@@ -1,11 +1,21 @@
 {
-    "pk": 1882,
-    "lc": "fub",
+    "gw": false,
     "ISO-639-3": "fub",
-    "ln": "Adamawa Fulfulde",
-    "ang": "Fulfulde, Adamawa",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 1882,
     "lr": "Africa",
+    "lc": "fub",
+    "cc": [
+        "CM",
+        "FR",
+        "GA",
+        "GH",
+        "NG",
+        "SD",
+        "US",
+        "TD"
+    ],
     "alt": [
         "Adamawa Fulani",
         "Boulbe",
@@ -43,17 +53,7 @@
         "Nomadic Fulfulde - Mbororoore",
         "Akuure"
     ],
-    "cc": [
-        "CM",
-        "FR",
-        "GA",
-        "GH",
-        "NG",
-        "SD",
-        "US",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Fulfulde, Adamawa",
+    "gwcode": "fr",
+    "ln": "Adamawa Fulfulde"
 }

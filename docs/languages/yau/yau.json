@@ -1,11 +1,14 @@
 {
-    "pk": 7130,
-    "lc": "yau",
+    "gw": false,
     "ISO-639-3": "yau",
-    "ln": "Yuwana",
-    "ang": "Yuwana",
     "hc": "VE",
+    "ld": "ltr",
+    "pk": 7130,
     "lr": "Americas",
+    "lc": "yau",
+    "cc": [
+        "VE"
+    ],
     "alt": [
         "Chicano",
         "Chikano",
@@ -16,10 +19,7 @@
         "Yoana",
         "Yuana"
     ],
-    "cc": [
-        "VE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Yuwana",
+    "gwcode": "es-419",
+    "ln": "Yuwana"
 }

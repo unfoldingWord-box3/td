@@ -1,11 +1,14 @@
 {
-    "pk": 4026,
-    "lc": "mpg",
+    "gw": false,
     "ISO-639-3": "mpg",
-    "ln": "Marba",
-    "ang": "Marba",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 4026,
     "lr": "Africa",
+    "lc": "mpg",
+    "cc": [
+        "TD"
+    ],
     "alt": [
         "Azumeina",
         "Kolong",
@@ -13,10 +16,7 @@
         "Maraba",
         "Monogoy"
     ],
-    "cc": [
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Marba",
+    "gwcode": "ar",
+    "ln": "Marba"
 }

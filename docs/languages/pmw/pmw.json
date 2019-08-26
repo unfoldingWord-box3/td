@@ -1,18 +1,18 @@
 {
-    "pk": 5098,
-    "lc": "pmw",
+    "gw": false,
     "ISO-639-3": "pmw",
-    "ln": "Plains Miwok",
-    "ang": "Miwok, Plains",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 5098,
     "lr": "Americas",
-    "alt": [
-        "Valley Miwok"
-    ],
+    "lc": "pmw",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Valley Miwok"
+    ],
+    "ang": "Miwok, Plains",
+    "gwcode": "en",
+    "ln": "Plains Miwok"
 }

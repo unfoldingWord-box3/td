@@ -1,21 +1,21 @@
 {
-    "pk": 2840,
-    "lc": "kge",
+    "gw": false,
     "ISO-639-3": "kge",
-    "ln": "Komering",
-    "ang": "Komering",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2840,
     "lr": "Asia",
+    "lc": "kge",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kumoring",
         "Downstream Komering",
         "Kayu Agung Asli",
         "Upstream Komering"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Komering",
+    "gwcode": "id",
+    "ln": "Komering"
 }

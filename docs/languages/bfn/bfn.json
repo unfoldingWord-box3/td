@@ -1,11 +1,15 @@
 {
-    "pk": 622,
-    "lc": "bfn",
+    "gw": false,
     "ISO-639-3": "bfn",
-    "ln": "Bunak",
-    "ang": "Bunak",
     "hc": "TL",
+    "ld": "ltr",
+    "pk": 622,
     "lr": "Asia",
+    "lc": "bfn",
+    "cc": [
+        "ID",
+        "TL"
+    ],
     "alt": [
         "Buna'",
         "Bunake",
@@ -14,11 +18,7 @@
         "Marae",
         "Buna"
     ],
-    "cc": [
-        "ID",
-        "TL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Bunak",
+    "gwcode": "pt",
+    "ln": "Bunak"
 }

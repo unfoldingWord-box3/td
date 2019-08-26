@@ -1,19 +1,19 @@
 {
-    "pk": 3489,
-    "lc": "lkl",
+    "gw": false,
     "ISO-639-3": "lkl",
-    "ln": "Laeko-Libuat",
-    "ang": "Laeko-Libuat",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3489,
     "lr": "Pacific",
+    "lc": "lkl",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Laeko",
         "Laeko-Limbuat"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Laeko-Libuat",
+    "gwcode": "tpi",
+    "ln": "Laeko-Libuat"
 }

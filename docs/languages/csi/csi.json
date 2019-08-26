@@ -1,20 +1,20 @@
 {
-    "pk": 1353,
-    "lc": "csi",
+    "gw": false,
     "ISO-639-3": "csi",
-    "ln": "Coast Miwok",
-    "ang": "Miwok, Coast",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 1353,
     "lr": "Americas",
+    "lc": "csi",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Huimen",
         "Marin Miwok",
         "Bodega"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Miwok, Coast",
+    "gwcode": "en",
+    "ln": "Coast Miwok"
 }

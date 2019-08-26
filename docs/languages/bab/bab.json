@@ -1,11 +1,14 @@
 {
-    "pk": 490,
-    "lc": "bab",
+    "gw": false,
     "ISO-639-3": "bab",
-    "ln": "Bainouk-Gunyu\u00f1o",
-    "ang": "Bainouk-Gunyu\u00f1o",
     "hc": "GW",
+    "ld": "ltr",
+    "pk": 490,
     "lr": "Africa",
+    "lc": "bab",
+    "cc": [
+        "GW"
+    ],
     "alt": [
         "Bagnoun",
         "Bainuk",
@@ -18,10 +21,7 @@
         "Elunay",
         "Gu\u00f1uun"
     ],
-    "cc": [
-        "GW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Bainouk-Gunyu\u00f1o",
+    "gwcode": "pt",
+    "ln": "Bainouk-Gunyu\u00f1o"
 }

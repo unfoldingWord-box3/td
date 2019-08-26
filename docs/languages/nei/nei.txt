@@ -1,0 +1,22 @@
+.. _nei:
+
+Neo-Hittite
+===========
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: nei
+    alternate_names: []
+    anglicanized_name: Neo Hittite
+    country_codes:
+    - TR
+    gateway_language: UNKNOWN
+    lang_code: nei
+    lang_direction: ltr
+    lang_name: Neo-Hittite
+    lang_region: Asia
+    

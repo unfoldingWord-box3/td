@@ -1,21 +1,21 @@
 {
-    "pk": 2430,
-    "lc": "ifa",
+    "gw": false,
     "ISO-639-3": "ifa",
-    "ln": "Amganad Ifugao",
-    "ang": "Ifugao, Amganad",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2430,
     "lr": "Asia",
+    "lc": "ifa",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Amganad",
         "Ifugaw",
         "Burnay Ifugao",
         "Banaue Ifugao"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ifugao, Amganad",
+    "gwcode": "en",
+    "ln": "Amganad Ifugao"
 }

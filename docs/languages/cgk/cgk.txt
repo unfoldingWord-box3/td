@@ -1,0 +1,26 @@
+.. _cgk:
+
+Chocangacakha
+=============
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+
+.. code-block:: yaml
+
+    ISO_639-3: cgk
+    alternate_names:
+    - Kursmadkha
+    - Maphekha
+    - Rtsamangpa'ikha
+    - Tsagkaglingpa'ikha
+    anglicanized_name: Chocangacakha
+    country_codes:
+    - BT
+    gateway_language: UNKNOWN
+    lang_code: cgk
+    lang_direction: ltr
+    lang_name: Chocangacakha
+    lang_region: Asia
+    

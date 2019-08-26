@@ -1,11 +1,18 @@
 {
-    "pk": 2859,
-    "lc": "khb",
+    "gw": false,
     "ISO-639-3": "khb",
-    "ln": "\u50a3\u4ec2\u8a9e",
-    "ang": "L\u00fc",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2859,
     "lr": "Asia",
+    "lc": "khb",
+    "cc": [
+        "CN",
+        "LA",
+        "TH",
+        "US",
+        "MM"
+    ],
     "alt": [
         "Dai",
         "Dai Le",
@@ -26,14 +33,7 @@
         "Jinghong",
         "Muang Yong"
     ],
-    "cc": [
-        "CN",
-        "LA",
-        "TH",
-        "US",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "L\u00fc",
+    "gwcode": "zh",
+    "ln": "\u50a3\u4ec2\u8a9e"
 }

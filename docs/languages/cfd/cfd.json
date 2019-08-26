@@ -1,11 +1,14 @@
 {
-    "pk": 1182,
-    "lc": "cfd",
+    "gw": false,
     "ISO-639-3": "cfd",
-    "ln": "Cara",
-    "ang": "Cara",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1182,
     "lr": "Africa",
+    "lc": "cfd",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Chara",
         "Fakara",
@@ -16,10 +19,7 @@
         "Teriya",
         "Terri"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Cara",
+    "gwcode": "en",
+    "ln": "Cara"
 }

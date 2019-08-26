@@ -1,19 +1,19 @@
 {
-    "pk": 2466,
-    "lc": "ikv",
+    "gw": false,
     "ISO-639-3": "ikv",
-    "ln": "Iku-Gora-Ankwa",
-    "ang": "Iku-Gora-Ankwa",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2466,
     "lr": "Africa",
+    "lc": "ikv",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ekhwa",
         "Iku"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Iku-Gora-Ankwa",
+    "gwcode": "en",
+    "ln": "Iku-Gora-Ankwa"
 }

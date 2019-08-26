@@ -1,11 +1,14 @@
 {
-    "pk": 3880,
-    "lc": "mjd",
+    "gw": false,
     "ISO-639-3": "mjd",
-    "ln": "Northwest Maidu",
-    "ang": "Maidu, Northwest",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 3880,
     "lr": "Americas",
+    "lc": "mjd",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Concow",
         "Hol\u00f3lupai",
@@ -21,10 +24,7 @@
         "Yuba",
         "Digger"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Maidu, Northwest",
+    "gwcode": "en",
+    "ln": "Northwest Maidu"
 }

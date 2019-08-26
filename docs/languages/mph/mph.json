@@ -1,21 +1,21 @@
 {
-    "pk": 4027,
-    "lc": "mph",
+    "gw": false,
     "ISO-639-3": "mph",
-    "ln": "Maung",
-    "ang": "Maung",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4027,
     "lr": "Pacific",
+    "lc": "mph",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Gunmarung",
         "Gun-Marung",
         "Mawng",
         "Mawung"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Maung",
+    "gwcode": "en",
+    "ln": "Maung"
 }

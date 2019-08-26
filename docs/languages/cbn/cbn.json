@@ -1,11 +1,14 @@
 {
-    "pk": 1140,
-    "lc": "cbn",
+    "gw": false,
     "ISO-639-3": "cbn",
-    "ln": "Nyahkur",
-    "ang": "Nyahkur",
     "hc": "TH",
+    "ld": "ltr",
+    "pk": 1140,
     "lr": "Asia",
+    "lc": "cbn",
+    "cc": [
+        "TH"
+    ],
     "alt": [
         "Chao Dong",
         "Chaodon",
@@ -17,10 +20,7 @@
         "Chaobun",
         "Chaubun"
     ],
-    "cc": [
-        "TH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "th"
+    "ang": "Nyahkur",
+    "gwcode": "th",
+    "ln": "Nyahkur"
 }

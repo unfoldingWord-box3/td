@@ -1,11 +1,14 @@
 {
-    "pk": 6271,
-    "lc": "tpj",
+    "gw": false,
     "ISO-639-3": "tpj",
-    "ln": "Tapiet\u00e9",
-    "ang": "\u00d1andeva",
     "hc": "PY",
+    "ld": "ltr",
+    "pk": 6271,
     "lr": "Americas",
+    "lc": "tpj",
+    "cc": [
+        "PY"
+    ],
     "alt": [
         "Guarayo",
         "Guasurangue",
@@ -14,10 +17,7 @@
         "Yanaigua",
         "Guasurango"
     ],
-    "cc": [
-        "PY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "\u00d1andeva",
+    "gwcode": "es-419",
+    "ln": "Tapiet\u00e9"
 }

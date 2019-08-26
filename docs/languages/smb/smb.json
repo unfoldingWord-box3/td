@@ -1,18 +1,18 @@
 {
-    "pk": 5704,
-    "lc": "smb",
+    "gw": false,
     "ISO-639-3": "smb",
-    "ln": "Simbari",
-    "ang": "Simbari",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5704,
     "lr": "Pacific",
-    "alt": [
-        "Chimbari"
-    ],
+    "lc": "smb",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Chimbari"
+    ],
+    "ang": "Simbari",
+    "gwcode": "tpi",
+    "ln": "Simbari"
 }

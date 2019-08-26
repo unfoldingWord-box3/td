@@ -1,20 +1,20 @@
 {
-    "pk": 3282,
-    "lc": "kxz",
+    "gw": false,
     "ISO-639-3": "kxz",
-    "ln": "Kerewo",
-    "ang": "Kerewo",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3282,
     "lr": "Pacific",
+    "lc": "kxz",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kerewa",
         "Kerewa-Goari",
         "Gibario (Goaribari)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kerewo",
+    "gwcode": "tpi",
+    "ln": "Kerewo"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 2669,
-    "lc": "jua",
+    "gw": false,
     "ISO-639-3": "jua",
-    "ln": "J\u00fama",
-    "ang": "J\u00fama",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2669,
     "lr": "Americas",
+    "lc": "jua",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Arara",
         "Kagwahibm",
@@ -16,10 +19,7 @@
         "Kawaib",
         "Yum\u00e1"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "J\u00fama",
+    "gwcode": "pt",
+    "ln": "J\u00fama"
 }

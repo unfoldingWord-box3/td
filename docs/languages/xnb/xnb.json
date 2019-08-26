@@ -1,19 +1,19 @@
 {
-    "pk": 6991,
-    "lc": "xnb",
+    "gw": false,
     "ISO-639-3": "xnb",
-    "ln": "Kanakanabu",
-    "ang": "Kanakanabu",
     "hc": "TW",
+    "ld": "ltr",
+    "pk": 6991,
     "lr": "Asia",
+    "lc": "xnb",
+    "cc": [
+        "TW"
+    ],
     "alt": [
         "Kanabu",
         "Kanakanavu"
     ],
-    "cc": [
-        "TW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Kanakanabu",
+    "gwcode": "zh",
+    "ln": "Kanakanabu"
 }

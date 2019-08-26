@@ -1,11 +1,14 @@
 {
-    "pk": 5554,
-    "lc": "sen",
+    "gw": false,
     "ISO-639-3": "sen",
-    "ln": "Nanerig\u00e9 S\u00e9noufo",
-    "ang": "S\u00e9noufo, Nanerig\u00e9",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 5554,
     "lr": "Africa",
+    "lc": "sen",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Naani",
         "Nandereke",
@@ -13,10 +16,7 @@
         "Nanerg\u00e9",
         "Nanergu\u00e9"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "S\u00e9noufo, Nanerig\u00e9",
+    "gwcode": "fr",
+    "ln": "Nanerig\u00e9 S\u00e9noufo"
 }

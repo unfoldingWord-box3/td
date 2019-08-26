@@ -1,18 +1,18 @@
 {
-    "pk": 5577,
-    "lc": "sgg",
+    "gw": false,
     "ISO-639-3": "sgg",
-    "ln": "Swiss-German Sign Language",
-    "ang": "Swiss-German Sign Language",
     "hc": "CH",
+    "ld": "ltr",
+    "pk": 5577,
     "lr": "Europe",
-    "alt": [
-        "Nat\u00fcrliche Geb\u00e4rde"
-    ],
+    "lc": "sgg",
     "cc": [
         "CH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Nat\u00fcrliche Geb\u00e4rde"
+    ],
+    "ang": "Swiss-German Sign Language",
+    "gwcode": "en",
+    "ln": "Swiss-German Sign Language"
 }

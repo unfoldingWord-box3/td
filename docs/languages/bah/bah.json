@@ -1,20 +1,20 @@
 {
-    "pk": 495,
-    "lc": "bah",
+    "gw": false,
     "ISO-639-3": "bah",
-    "ln": "Bahamas Creole English",
-    "ang": "Bahamas Creole English",
     "hc": "BS",
+    "ld": "ltr",
+    "pk": 495,
     "lr": "Americas",
-    "alt": [
-        "Bahamian Creole English",
-        "Bahamian Dialect"
-    ],
+    "lc": "bah",
     "cc": [
         "BS",
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Bahamian Creole English",
+        "Bahamian Dialect"
+    ],
+    "ang": "Bahamas Creole English",
+    "gwcode": "en",
+    "ln": "Bahamas Creole English"
 }

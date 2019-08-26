@@ -1,24 +1,24 @@
 {
-    "pk": 1927,
-    "lc": "gaz",
+    "gw": false,
     "ISO-639-3": "gaz",
-    "ln": "West Central Oromo",
-    "ang": "Oromo, West Central",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 1927,
     "lr": "Africa",
-    "alt": [
-        "Afan Oromo",
-        "Oromiffa",
-        "Oromoo",
-        "Galla"
-    ],
+    "lc": "gaz",
     "cc": [
         "ET",
         "SD",
         "US",
         "EG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "alt": [
+        "Afan Oromo",
+        "Oromiffa",
+        "Oromoo",
+        "Galla"
+    ],
+    "ang": "Oromo, West Central",
+    "gwcode": "am",
+    "ln": "West Central Oromo"
 }

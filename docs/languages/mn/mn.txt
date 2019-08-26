@@ -1,0 +1,24 @@
+.. _mn:
+
+Монгол хэл
+===================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/mon>`_ identifies this language as ``mon``.
+
+This language is spoken in the following countries:
+
+* MN: Mongolia
+
+.. code-block:: yaml
+
+    ISO_639-3: mon
+    alternate_names: []
+    anglicanized_name: Mongolian
+    country_codes:
+    - MN
+    gateway_language: UNKNOWN
+    lang_code: mn
+    lang_direction: ltr
+    lang_name: Монгол хэл
+    lang_region: Asia
+    

@@ -1,19 +1,19 @@
 {
-    "pk": 6418,
-    "lc": "twr",
+    "gw": false,
     "ISO-639-3": "twr",
-    "ln": "Southwestern Tarahumara",
-    "ang": "Tarahumara, Southwestern",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 6418,
     "lr": "Americas",
+    "lc": "twr",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Tarahumara del Suroeste",
         "Tubare"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Tarahumara, Southwestern",
+    "gwcode": "es-419",
+    "ln": "Southwestern Tarahumara"
 }

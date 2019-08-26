@@ -1,21 +1,21 @@
 {
-    "pk": 4402,
-    "lc": "nez",
+    "gw": false,
     "ISO-639-3": "nez",
-    "ln": "Nez Perce",
-    "ang": "Nez Perce",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 4402,
     "lr": "Americas",
+    "lc": "nez",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Nuumiipuutimt",
         "Nuumiipuut\u00edmt",
         "Downriver",
         "Upriver"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nez Perce",
+    "gwcode": "en",
+    "ln": "Nez Perce"
 }

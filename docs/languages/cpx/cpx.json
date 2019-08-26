@@ -1,11 +1,14 @@
 {
-    "pk": 1317,
-    "lc": "cpx",
+    "gw": false,
     "ISO-639-3": "cpx",
-    "ln": "\u8386\u4ed9\u8bdd",
-    "ang": "Chinese, Pu-Xian",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 1317,
     "lr": "Asia",
+    "lc": "cpx",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Henghua",
         "Hinghua",
@@ -16,10 +19,7 @@
         "Henghua (Hinghua)",
         "Xinghua (Hinghua)"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Chinese, Pu-Xian",
+    "gwcode": "zh",
+    "ln": "\u8386\u4ed9\u8bdd"
 }

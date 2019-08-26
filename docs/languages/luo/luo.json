@@ -1,23 +1,23 @@
 {
-    "pk": 3626,
-    "lc": "luo",
+    "gw": false,
     "ISO-639-3": "luo",
-    "ln": "Luo (Kenya and Tanzania)",
-    "ang": "Dholuo",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 3626,
     "lr": "Africa",
+    "lc": "luo",
+    "cc": [
+        "KE",
+        "TZ",
+        "US"
+    ],
     "alt": [
         "Kavirondo Luo",
         "Nilotic Kavirondo",
         "Kavirondo",
         "Kidjaluo"
     ],
-    "cc": [
-        "KE",
-        "TZ",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Dholuo",
+    "gwcode": "sw",
+    "ln": "Luo (Kenya and Tanzania)"
 }

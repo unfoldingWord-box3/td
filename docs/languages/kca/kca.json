@@ -1,11 +1,14 @@
 {
-    "pk": 2736,
-    "lc": "kca",
+    "gw": false,
     "ISO-639-3": "kca",
-    "ln": "\u0425\u0430\u043d\u0442\u044b\u0439\u0441\u043a\u0438\u0439",
-    "ang": "Khanty",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 2736,
     "lr": "Europe",
+    "lc": "kca",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Hanty",
         "Khant",
@@ -14,10 +17,7 @@
         "Xanty",
         "Vach (Vasyugan)"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Khanty",
+    "gwcode": "ru",
+    "ln": "\u0425\u0430\u043d\u0442\u044b\u0439\u0441\u043a\u0438\u0439"
 }

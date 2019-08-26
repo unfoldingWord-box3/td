@@ -1,11 +1,15 @@
 {
-    "pk": 2959,
-    "lc": "kl",
+    "gw": false,
     "ISO-639-3": "kal",
-    "ln": "kalaallisut, kalaallit oqaasii",
-    "ang": "Kalaallisut, Greenlandic",
     "hc": "GL",
+    "ld": "ltr",
+    "pk": 2959,
     "lr": "Americas",
+    "lc": "kl",
+    "cc": [
+        "GL",
+        "DK"
+    ],
     "alt": [
         "Greenlandic",
         "Inuktitut",
@@ -15,11 +19,7 @@
         "North Greenlandic",
         "Thule Inuit"
     ],
-    "cc": [
-        "GL",
-        "DK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kalaallisut, Greenlandic",
+    "gwcode": "en",
+    "ln": "kalaallisut, kalaallit oqaasii"
 }

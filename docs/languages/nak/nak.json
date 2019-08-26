@@ -1,11 +1,14 @@
 {
-    "pk": 4295,
-    "lc": "nak",
+    "gw": false,
     "ISO-639-3": "nak",
-    "ln": "Nakanai",
-    "ang": "Nakanai",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4295,
     "lr": "Pacific",
+    "lc": "nak",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Nakonai",
         "Bileki (Lakalai)",
@@ -17,10 +20,7 @@
         "Losa (Auka)",
         "Loso"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Nakanai",
+    "gwcode": "tpi",
+    "ln": "Nakanai"
 }

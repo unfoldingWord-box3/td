@@ -1,11 +1,14 @@
 {
-    "pk": 4692,
-    "lc": "nut-x-south",
+    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "ln": "Ti\u1ebfng N\u00f9ng (Viet Nam)",
-    "ang": "Nung",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 4692,
     "lr": "Asia",
+    "lc": "nut-x-south",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Nong",
         "Bu-Nong",
@@ -16,10 +19,7 @@
         "N\u00f9ng Phan Sl\u00ecnh (N\u00f9ng Fan Slihng)",
         "N\u00f9ng Q\u00fay Rin (Guiren)"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Nung",
+    "gwcode": "vi",
+    "ln": "Ti\u1ebfng N\u00f9ng (Viet Nam)"
 }

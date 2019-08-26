@@ -1,20 +1,20 @@
 {
-    "pk": 1093,
-    "lc": "bzk",
+    "gw": false,
     "ISO-639-3": "bzk",
-    "ln": "Nicaragua Creole English",
-    "ang": "Nicaragua Creole English",
     "hc": "NI",
+    "ld": "ltr",
+    "pk": 1093,
     "lr": "Americas",
+    "lc": "bzk",
+    "cc": [
+        "NI"
+    ],
     "alt": [
         "M\u00edskito Coast Creole English",
         "Rama Cay Creole English",
         "Bluefields Creole English"
     ],
-    "cc": [
-        "NI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Nicaragua Creole English",
+    "gwcode": "es-419",
+    "ln": "Nicaragua Creole English"
 }

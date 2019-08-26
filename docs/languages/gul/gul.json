@@ -1,18 +1,18 @@
 {
-    "pk": 2162,
-    "lc": "gul",
+    "gw": false,
     "ISO-639-3": "gul",
-    "ln": "Sea Island Creole English",
-    "ang": "Sea Island Creole English",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 2162,
     "lr": "Americas",
-    "alt": [
-        "Geechee"
-    ],
+    "lc": "gul",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Geechee"
+    ],
+    "ang": "Sea Island Creole English",
+    "gwcode": "en",
+    "ln": "Sea Island Creole English"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 242,
-    "lc": "amj",
+    "gw": false,
     "ISO-639-3": "amj",
-    "ln": "Amdang",
-    "ang": "Amdang",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 242,
     "lr": "Africa",
+    "lc": "amj",
+    "cc": [
+        "SD",
+        "TD"
+    ],
     "alt": [
         "Andangti",
         "Biltine",
@@ -13,11 +17,7 @@
         "Mime",
         "Mututu"
     ],
-    "cc": [
-        "SD",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Amdang",
+    "gwcode": "ar",
+    "ln": "Amdang"
 }

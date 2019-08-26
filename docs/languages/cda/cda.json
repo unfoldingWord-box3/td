@@ -1,11 +1,14 @@
 {
-    "pk": 1160,
-    "lc": "cda",
+    "gw": false,
     "ISO-639-3": "cda",
-    "ln": "Choni",
-    "ang": "Choni",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 1160,
     "lr": "Asia",
+    "lc": "cda",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Chona",
         "Chone",
@@ -15,10 +18,7 @@
         "Hbrugchu (Zhouqu)",
         "Thewo (Diebu)"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Choni",
+    "gwcode": "zh",
+    "ln": "Choni"
 }

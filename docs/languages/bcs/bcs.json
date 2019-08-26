@@ -1,11 +1,14 @@
 {
-    "pk": 552,
-    "lc": "bcs",
+    "gw": false,
     "ISO-639-3": "bcs",
-    "ln": "Kohumono",
-    "ang": "Kohumono",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 552,
     "lr": "Africa",
+    "lc": "bcs",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bahumono",
         "Ediba",
@@ -13,10 +16,7 @@
         "Humono",
         "Ohumono"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kohumono",
+    "gwcode": "en",
+    "ln": "Kohumono"
 }

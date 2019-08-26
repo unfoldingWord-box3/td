@@ -1,20 +1,20 @@
 {
-    "pk": 1541,
-    "lc": "diz",
+    "gw": false,
     "ISO-639-3": "diz",
-    "ln": "Ding",
-    "ang": "Ding",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 1541,
     "lr": "Africa",
+    "lc": "diz",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Di",
         "Din",
         "Dzing"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ding",
+    "gwcode": "fr",
+    "ln": "Ding"
 }

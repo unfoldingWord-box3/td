@@ -1,19 +1,19 @@
 {
-    "pk": 304,
-    "lc": "ape",
+    "gw": false,
     "ISO-639-3": "ape",
-    "ln": "Bukiyip",
-    "ang": "Bukiyip",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 304,
     "lr": "Pacific",
+    "lc": "ape",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Bukiy\u00fap",
         "Bukiyip (Mountain Arapesh)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Bukiyip",
+    "gwcode": "tpi",
+    "ln": "Bukiyip"
 }

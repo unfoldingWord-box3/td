@@ -1,19 +1,19 @@
 {
-    "pk": 652,
-    "lc": "bgs",
+    "gw": false,
     "ISO-639-3": "bgs",
-    "ln": "Tagabawa",
-    "ang": "Tagabawa",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 652,
     "lr": "Asia",
+    "lc": "bgs",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Tagabawa Bagobo",
         "Tagabawa Manobo"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tagabawa",
+    "gwcode": "en",
+    "ln": "Tagabawa"
 }

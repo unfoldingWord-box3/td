@@ -1,20 +1,20 @@
 {
-    "pk": 4444,
-    "lc": "nhn",
+    "gw": false,
     "ISO-639-3": "nhn",
-    "ln": "Central Nahuatl",
-    "ang": "Nahuatl, Central",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4444,
     "lr": "Americas",
+    "lc": "nhn",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Central Aztec",
         "N\u00e1huatl del Centro",
         "Tlaxcala-Puebla Nahuatl"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Nahuatl, Central",
+    "gwcode": "es-419",
+    "ln": "Central Nahuatl"
 }

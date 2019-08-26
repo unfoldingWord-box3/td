@@ -1,11 +1,14 @@
 {
-    "pk": 557,
-    "lc": "bcy",
+    "gw": false,
     "ISO-639-3": "bcy",
-    "ln": "Bacama",
-    "ang": "Bacama",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 557,
     "lr": "Africa",
+    "lc": "bcy",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Abacama",
         "Bachama",
@@ -20,10 +23,7 @@
         "Mulyen (Mulwyin)",
         "Mwulyin"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bacama",
+    "gwcode": "en",
+    "ln": "Bacama"
 }

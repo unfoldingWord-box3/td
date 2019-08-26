@@ -1,18 +1,18 @@
 {
-    "pk": 1728,
-    "lc": "elk",
+    "gw": false,
     "ISO-639-3": "elk",
-    "ln": "Elkei",
-    "ang": "Elkei",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1728,
     "lr": "Pacific",
-    "alt": [
-        "Olkoi"
-    ],
+    "lc": "elk",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Olkoi"
+    ],
+    "ang": "Elkei",
+    "gwcode": "tpi",
+    "ln": "Elkei"
 }

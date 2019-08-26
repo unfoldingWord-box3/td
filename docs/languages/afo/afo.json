@@ -1,11 +1,14 @@
 {
-    "pk": 116,
-    "lc": "afo",
+    "gw": false,
     "ISO-639-3": "afo",
-    "ln": "Eloyi",
-    "ang": "Eloyi",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 116,
     "lr": "Africa",
+    "lc": "afo",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Mbeji",
         "Afao",
@@ -15,10 +18,7 @@
         "Epe",
         "Keffi"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Eloyi",
+    "gwcode": "en",
+    "ln": "Eloyi"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 5586,
-    "lc": "sgu",
+    "gw": false,
     "ISO-639-3": "sgu",
-    "ln": "Salas",
-    "ang": "Salas",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5586,
     "lr": "Asia",
+    "lc": "sgu",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Lenkaitahe",
         "Liambata",
         "Salas Gunung"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Salas",
+    "gwcode": "id",
+    "ln": "Salas"
 }

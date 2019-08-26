@@ -1,18 +1,18 @@
 {
-    "pk": 3915,
-    "lc": "mkp",
+    "gw": false,
     "ISO-639-3": "mkp",
-    "ln": "Moikodi",
-    "ang": "Moikodi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3915,
     "lr": "Pacific",
-    "alt": [
-        "Doriri"
-    ],
+    "lc": "mkp",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Doriri"
+    ],
+    "ang": "Moikodi",
+    "gwcode": "tpi",
+    "ln": "Moikodi"
 }

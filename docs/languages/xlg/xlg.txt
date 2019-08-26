@@ -1,0 +1,22 @@
+.. _xlg:
+
+Ligurian (Ancient)
+==================
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: xlg
+    alternate_names: []
+    anglicanized_name: Ligurian
+    country_codes:
+    - IT
+    gateway_language: UNKNOWN
+    lang_code: xlg
+    lang_direction: ltr
+    lang_name: Ligurian (Ancient)
+    lang_region: Europe
+    

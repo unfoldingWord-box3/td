@@ -1,20 +1,20 @@
 {
-    "pk": 3369,
-    "lc": "lbq",
+    "gw": false,
     "ISO-639-3": "lbq",
-    "ln": "Wampar",
-    "ang": "Wampar",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3369,
     "lr": "Pacific",
+    "lc": "lbq",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Laewamba",
         "Laewomba",
         "Laiwomba"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Wampar",
+    "gwcode": "tpi",
+    "ln": "Wampar"
 }

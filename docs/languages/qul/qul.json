@@ -1,19 +1,19 @@
 {
-    "pk": 5257,
-    "lc": "qul",
+    "gw": false,
     "ISO-639-3": "qul",
-    "ln": "North Bolivian Quechua",
-    "ang": "Quechua, North Bolivian",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 5257,
     "lr": "Americas",
+    "lc": "qul",
+    "cc": [
+        "BO"
+    ],
     "alt": [
         "North La Paz Quechua",
         "Chuma"
     ],
-    "cc": [
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quechua, North Bolivian",
+    "gwcode": "es-419",
+    "ln": "North Bolivian Quechua"
 }

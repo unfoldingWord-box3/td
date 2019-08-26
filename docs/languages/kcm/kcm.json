@@ -1,11 +1,15 @@
 {
-    "pk": 2748,
-    "lc": "kcm",
+    "gw": false,
     "ISO-639-3": "kcm",
-    "ln": "Gula (Central African Republic)",
-    "ang": "Gula",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 2748,
     "lr": "Africa",
+    "lc": "kcm",
+    "cc": [
+        "CF",
+        "SD"
+    ],
     "alt": [
         "Goula",
         "Gula du Mamoun",
@@ -21,11 +25,7 @@
         "Nguru (Bubu)",
         "Sar (Sara)"
     ],
-    "cc": [
-        "CF",
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Gula",
+    "gwcode": "fr",
+    "ln": "Gula (Central African Republic)"
 }

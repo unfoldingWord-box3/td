@@ -1,21 +1,21 @@
 {
-    "pk": 4702,
-    "lc": "nvo",
+    "gw": false,
     "ISO-639-3": "nvo",
-    "ln": "Nyokon",
-    "ang": "Nyokon",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4702,
     "lr": "Africa",
+    "lc": "nvo",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Fung",
         "Hung",
         "Ni Nyo'o",
         "Nyo'on"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Nyokon",
+    "gwcode": "fr",
+    "ln": "Nyokon"
 }

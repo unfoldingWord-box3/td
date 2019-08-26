@@ -1,11 +1,16 @@
 {
-    "pk": 751,
-    "lc": "bkw",
+    "gw": false,
     "ISO-639-3": "bkw",
-    "ln": "Bekwel",
-    "ang": "Bekwel",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 751,
     "lr": "Africa",
+    "lc": "bkw",
+    "cc": [
+        "CM",
+        "GA",
+        "CG"
+    ],
     "alt": [
         "Bakwil",
         "Bekwil",
@@ -18,12 +23,7 @@
         "Ebaa",
         "Mebeeza"
     ],
-    "cc": [
-        "CM",
-        "GA",
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bekwel",
+    "gwcode": "fr",
+    "ln": "Bekwel"
 }

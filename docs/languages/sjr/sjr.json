@@ -1,20 +1,20 @@
 {
-    "pk": 5651,
-    "lc": "sjr",
+    "gw": false,
     "ISO-639-3": "sjr",
-    "ln": "Siar-Lak",
-    "ang": "Siar-Lak",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5651,
     "lr": "Pacific",
+    "lc": "sjr",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Lak",
         "Lamassa",
         "Lambom"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Siar-Lak",
+    "gwcode": "tpi",
+    "ln": "Siar-Lak"
 }

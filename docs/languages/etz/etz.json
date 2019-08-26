@@ -1,20 +1,20 @@
 {
-    "pk": 1800,
-    "lc": "etz",
+    "gw": false,
     "ISO-639-3": "etz",
-    "ln": "Semimi",
-    "ang": "Semimi",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1800,
     "lr": "Asia",
+    "lc": "etz",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Etna Bay",
         "Muri",
         "Wesrau"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Semimi",
+    "gwcode": "id",
+    "ln": "Semimi"
 }

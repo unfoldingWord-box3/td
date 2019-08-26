@@ -1,11 +1,14 @@
 {
-    "pk": 7218,
-    "lc": "ylo",
+    "gw": false,
     "ISO-639-3": "ylo",
-    "ln": "\u7eb3\u7f57",
-    "ang": "Naluo",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7218,
     "lr": "Asia",
+    "lc": "ylo",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Gan Yi",
         "Laluo",
@@ -13,10 +16,7 @@
         "Shui Yi",
         "Shuitian"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Naluo",
+    "gwcode": "zh",
+    "ln": "\u7eb3\u7f57"
 }

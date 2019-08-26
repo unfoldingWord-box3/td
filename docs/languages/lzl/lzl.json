@@ -1,11 +1,14 @@
 {
-    "pk": 3656,
-    "lc": "lzl",
+    "gw": false,
     "ISO-639-3": "lzl",
-    "ln": "Litzlitz",
-    "ang": "Litzlitz",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 3656,
     "lr": "Pacific",
+    "lc": "lzl",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Lagalag",
         "Litzlitz-Visele",
@@ -13,10 +16,7 @@
         "Naman",
         "Netensal"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Litzlitz",
+    "gwcode": "fr",
+    "ln": "Litzlitz"
 }

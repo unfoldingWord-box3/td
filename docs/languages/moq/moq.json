@@ -1,18 +1,18 @@
 {
-    "pk": 4011,
-    "lc": "moq",
+    "gw": false,
     "ISO-639-3": "moq",
-    "ln": "Mor (Bomberai Peninsula)",
-    "ang": "Mor",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4011,
     "lr": "Asia",
-    "alt": [
-        "Mor2"
-    ],
+    "lc": "moq",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Mor2"
+    ],
+    "ang": "Mor",
+    "gwcode": "id",
+    "ln": "Mor (Bomberai Peninsula)"
 }

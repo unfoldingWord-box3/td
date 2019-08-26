@@ -1,11 +1,14 @@
 {
-    "pk": 1976,
-    "lc": "gdr",
+    "gw": false,
     "ISO-639-3": "gdr",
-    "ln": "Wipi",
-    "ang": "Wipi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1976,
     "lr": "Pacific",
+    "lc": "gdr",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Gidra",
         "Jibu",
@@ -13,10 +16,7 @@
         "Kuru (uKuru)",
         "Woigo"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Wipi",
+    "gwcode": "tpi",
+    "ln": "Wipi"
 }

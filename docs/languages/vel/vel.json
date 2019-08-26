@@ -1,18 +1,18 @@
 {
-    "pk": 6602,
-    "lc": "vel",
+    "gw": false,
     "ISO-639-3": "vel",
-    "ln": "Veluws",
-    "ang": "Veluws",
     "hc": "NL",
+    "ld": "ltr",
+    "pk": 6602,
     "lr": "Europe",
-    "alt": [
-        "Veluwe"
-    ],
+    "lc": "vel",
     "cc": [
         "NL"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "nl"
+    "alt": [
+        "Veluwe"
+    ],
+    "ang": "Veluws",
+    "gwcode": "UNKNOWN",
+    "ln": "Veluws"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 247,
-    "lc": "amo",
+    "gw": false,
     "ISO-639-3": "amo",
-    "ln": "Amo",
-    "ang": "Amo",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 247,
     "lr": "Africa",
+    "lc": "amo",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Amon",
         "Among",
         "Ba"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Amo",
+    "gwcode": "en",
+    "ln": "Amo"
 }

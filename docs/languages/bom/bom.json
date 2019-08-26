@@ -1,11 +1,14 @@
 {
-    "pk": 841,
-    "lc": "bom",
+    "gw": false,
     "ISO-639-3": "bom",
-    "ln": "Berom",
-    "ang": "Berom",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 841,
     "lr": "Africa",
+    "lc": "bom",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Afango",
         "Berum",
@@ -30,10 +33,7 @@
         "Bachi",
         "Heikpang"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Berom",
+    "gwcode": "en",
+    "ln": "Berom"
 }

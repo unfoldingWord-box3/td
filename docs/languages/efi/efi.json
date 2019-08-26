@@ -1,20 +1,20 @@
 {
-    "pk": 1703,
-    "lc": "efi",
+    "gw": false,
     "ISO-639-3": "efi",
-    "ln": "Efik",
-    "ang": "Efik",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1703,
     "lr": "Africa",
-    "alt": [
-        "Calabar"
-    ],
+    "lc": "efi",
     "cc": [
         "CM",
         "NG",
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Calabar"
+    ],
+    "ang": "Efik",
+    "gwcode": "en",
+    "ln": "Efik"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 498,
-    "lc": "ban",
+    "gw": false,
     "ISO-639-3": "ban",
-    "ln": "Balinese",
-    "ang": "Bali",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 498,
     "lr": "Asia",
+    "lc": "ban",
+    "cc": [
+        "ID",
+        "US"
+    ],
     "alt": [
         "Balinese",
         "Klungkung",
@@ -17,11 +21,7 @@
         "Buleleng",
         "Tabanan"
     ],
-    "cc": [
-        "ID",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Bali",
+    "gwcode": "id",
+    "ln": "Balinese"
 }

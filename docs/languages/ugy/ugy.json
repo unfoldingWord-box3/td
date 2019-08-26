@@ -1,19 +1,19 @@
 {
-    "pk": 6488,
-    "lc": "ugy",
+    "gw": false,
     "ISO-639-3": "ugy",
-    "ln": "Uruguayan Sign Language",
-    "ang": "Uruguayan Sign Language",
     "hc": "UY",
+    "ld": "ltr",
+    "pk": 6488,
     "lr": "Americas",
+    "lc": "ugy",
+    "cc": [
+        "UY"
+    ],
     "alt": [
         "Lengua de Se\u00f1as Uruguaya",
         "LSU"
     ],
-    "cc": [
-        "UY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Uruguayan Sign Language",
+    "gwcode": "es-419",
+    "ln": "Uruguayan Sign Language"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 1077,
-    "lc": "byr",
+    "gw": false,
     "ISO-639-3": "byr",
-    "ln": "Baruya",
-    "ang": "Yipma",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1077,
     "lr": "Pacific",
+    "lc": "byr",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Barua",
         "Yipma",
         "Usirampia (Wuzuraabya)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Yipma",
+    "gwcode": "tpi",
+    "ln": "Baruya"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 4713,
-    "lc": "nxd",
+    "gw": false,
     "ISO-639-3": "nxd",
-    "ln": "Ngando (Democratic Republic of Congo)",
-    "ang": "Ngando",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 4713,
     "lr": "Africa",
+    "lc": "nxd",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Longandu",
         "Ngandu"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ngando",
+    "gwcode": "fr",
+    "ln": "Ngando (Democratic Republic of Congo)"
 }

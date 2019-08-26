@@ -1,11 +1,17 @@
 {
-    "pk": 6323,
-    "lc": "ts",
+    "gw": false,
     "ISO-639-3": "tso",
-    "ln": "Xitsonga",
-    "ang": "Tsonga",
     "hc": "ZA",
+    "ld": "ltr",
+    "pk": 6323,
     "lr": "Africa",
+    "lc": "ts",
+    "cc": [
+        "MZ",
+        "ZA",
+        "ZW",
+        "SZ"
+    ],
     "alt": [
         "Shitsonga",
         "Thonga",
@@ -29,13 +35,7 @@
         "Bila (Vila)",
         "Changana (Changa)"
     ],
-    "cc": [
-        "MZ",
-        "ZA",
-        "ZW",
-        "SZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tsonga",
+    "gwcode": "en",
+    "ln": "Xitsonga"
 }

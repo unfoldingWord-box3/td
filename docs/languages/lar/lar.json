@@ -1,20 +1,20 @@
 {
-    "pk": 3350,
-    "lc": "lar",
+    "gw": false,
     "ISO-639-3": "lar",
-    "ln": "Larteh",
-    "ang": "Larteh",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 3350,
     "lr": "Africa",
+    "lc": "lar",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Gua",
         "Late",
         "Lete"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Larteh",
+    "gwcode": "en",
+    "ln": "Larteh"
 }

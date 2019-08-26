@@ -1,19 +1,19 @@
 {
-    "pk": 5241,
-    "lc": "pyn",
+    "gw": false,
     "ISO-639-3": "pyn",
-    "ln": "Poyan\u00e1wa",
-    "ang": "Poyan\u00e1wa",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 5241,
     "lr": "Americas",
+    "lc": "pyn",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Poian\u00e1ua",
         "Puinahua"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Poyan\u00e1wa",
+    "gwcode": "pt",
+    "ln": "Poyan\u00e1wa"
 }

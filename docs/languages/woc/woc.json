@@ -1,18 +1,18 @@
 {
-    "pk": 6790,
-    "lc": "woc",
+    "gw": false,
     "ISO-639-3": "woc",
-    "ln": "Wogeo",
-    "ang": "Wogeo",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6790,
     "lr": "Pacific",
-    "alt": [
-        "Uageo"
-    ],
+    "lc": "woc",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Uageo"
+    ],
+    "ang": "Wogeo",
+    "gwcode": "tpi",
+    "ln": "Wogeo"
 }

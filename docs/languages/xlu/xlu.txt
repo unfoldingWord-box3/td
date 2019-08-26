@@ -1,0 +1,22 @@
+.. _xlu:
+
+Cuneiform Luwian
+================
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: xlu
+    alternate_names: []
+    anglicanized_name: Cuneiform Luwian
+    country_codes:
+    - TR
+    gateway_language: UNKNOWN
+    lang_code: xlu
+    lang_direction: ltr
+    lang_name: Cuneiform Luwian
+    lang_region: Asia
+    

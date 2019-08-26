@@ -1,21 +1,21 @@
 {
-    "pk": 1311,
-    "lc": "cpg",
+    "gw": false,
     "ISO-639-3": "cpg",
-    "ln": "Cappadocian Greek",
-    "ang": "Cappadocian Greek",
     "hc": "GR",
+    "ld": "ltr",
+    "pk": 1311,
     "lr": "Europe",
+    "lc": "cpg",
+    "cc": [
+        "GR"
+    ],
     "alt": [
         "Pharasa",
         "Sille",
         "Mistiot (Misti)",
         "Western Cappadocian"
     ],
-    "cc": [
-        "GR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Cappadocian Greek",
+    "gwcode": "en",
+    "ln": "Cappadocian Greek"
 }

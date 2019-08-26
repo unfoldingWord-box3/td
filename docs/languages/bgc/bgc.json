@@ -1,11 +1,14 @@
 {
-    "pk": 637,
-    "lc": "bgc",
+    "gw": false,
     "ISO-639-3": "bgc",
-    "ln": "Haryanvi",
-    "ang": "Haryanvi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 637,
     "lr": "Asia",
+    "lc": "bgc",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Bangaru",
         "Banger",
@@ -19,10 +22,7 @@
         "Jatu",
         "Khadar"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Haryanvi",
+    "gwcode": "hi",
+    "ln": "Haryanvi"
 }

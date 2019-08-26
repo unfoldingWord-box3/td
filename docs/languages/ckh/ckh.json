@@ -1,22 +1,22 @@
 {
-    "pk": 1233,
-    "lc": "ckh",
+    "gw": false,
     "ISO-639-3": "ckh",
-    "ln": "Chak",
-    "ang": "Chak",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1233,
     "lr": "Asia",
+    "lc": "ckh",
+    "cc": [
+        "BD",
+        "MM"
+    ],
     "alt": [
         "Sak",
         "Tsak",
         "Ashah",
         "Thet"
     ],
-    "cc": [
-        "BD",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Chak",
+    "gwcode": "my",
+    "ln": "Chak"
 }

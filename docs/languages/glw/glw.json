@@ -1,11 +1,15 @@
 {
-    "pk": 2056,
-    "lc": "glw",
+    "gw": false,
     "ISO-639-3": "glw",
-    "ln": "Glavda",
-    "ang": "Glavda",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2056,
     "lr": "Africa",
+    "lc": "glw",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Galavda",
         "Galvaxdaxa",
@@ -16,11 +20,7 @@
         "Glanda",
         "Ngoshie (Ngweshe)"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Glavda",
+    "gwcode": "en",
+    "ln": "Glavda"
 }

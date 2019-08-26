@@ -1,19 +1,19 @@
 {
-    "pk": 3228,
-    "lc": "kvu",
+    "gw": false,
     "ISO-639-3": "kvu",
-    "ln": "Yinbaw Karen",
-    "ang": "Yinbaw",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 3228,
     "lr": "Asia",
+    "lc": "kvu",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Yeinbaw",
         "Yinbaw Karen"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Yinbaw",
+    "gwcode": "my",
+    "ln": "Yinbaw Karen"
 }

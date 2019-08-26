@@ -1,11 +1,15 @@
 {
-    "pk": 5611,
-    "lc": "shu",
+    "gw": false,
     "ISO-639-3": "shu",
-    "ln": "Chadian Arabic",
-    "ang": "Arabic, Chadian Spoken",
     "hc": "TD",
+    "ld": "rtl",
+    "pk": 5611,
     "lr": "Africa",
+    "lc": "shu",
+    "cc": [
+        "NG",
+        "TD"
+    ],
     "alt": [
         "Arabe Choa",
         "Chadian Spoken Arabic",
@@ -22,11 +26,7 @@
         "L'arabe du Tchad",
         "Suwa"
     ],
-    "cc": [
-        "NG",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ar"
+    "ang": "Arabic, Chadian Spoken",
+    "gwcode": "ar",
+    "ln": "Chadian Arabic"
 }

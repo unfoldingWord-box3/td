@@ -1,11 +1,15 @@
 {
-    "pk": 3555,
-    "lc": "log",
+    "gw": false,
     "ISO-639-3": "log",
-    "ln": "Logo",
-    "ang": "Logo",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3555,
     "lr": "Africa",
+    "lc": "log",
+    "cc": [
+        "SS",
+        "CD"
+    ],
     "alt": [
         "Logoti",
         "Obileba",
@@ -17,11 +21,7 @@
         "Bari (Bari-Logo)",
         "Bariti"
     ],
-    "cc": [
-        "SS",
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Logo",
+    "gwcode": "fr",
+    "ln": "Logo"
 }

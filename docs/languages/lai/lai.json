@@ -1,11 +1,16 @@
 {
-    "pk": 3342,
-    "lc": "lai",
+    "gw": false,
     "ISO-639-3": "lai",
-    "ln": "Lambya",
-    "ang": "Lambya",
     "hc": "MW",
+    "ld": "ltr",
+    "pk": 3342,
     "lr": "Africa",
+    "lc": "lai",
+    "cc": [
+        "TZ",
+        "ZM",
+        "MW"
+    ],
     "alt": [
         "Ichilambya",
         "Kilambya",
@@ -15,12 +20,7 @@
         "Ici-Rambia",
         "Iramba"
     ],
-    "cc": [
-        "TZ",
-        "ZM",
-        "MW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lambya",
+    "gwcode": "en",
+    "ln": "Lambya"
 }

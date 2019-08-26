@@ -1,18 +1,11 @@
 {
-    "pk": 2264,
-    "lc": "hi",
+    "gw": true,
     "ISO-639-3": "hin",
-    "ln": "\u0939\u093f\u0928\u094d\u0926\u0940, \u0939\u093f\u0902\u0926\u0940",
-    "ang": "Hindi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2264,
     "lr": "Asia",
-    "alt": [
-        "Khadi Boli",
-        "Khari Boli",
-        "Dakhini",
-        "Hindi-Urdu",
-        "Khariboli"
-    ],
+    "lc": "hi",
     "cc": [
         "BN",
         "BR",
@@ -36,7 +29,14 @@
         "SG",
         "MM"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [
+        "Khadi Boli",
+        "Khari Boli",
+        "Dakhini",
+        "Hindi-Urdu",
+        "Khariboli"
+    ],
+    "ang": "Hindi",
+    "gwcode": "UNKNOWN",
+    "ln": "\u0939\u093f\u0928\u094d\u0926\u0940, \u0939\u093f\u0902\u0926\u0940"
 }

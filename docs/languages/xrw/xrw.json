@@ -1,18 +1,18 @@
 {
-    "pk": 7036,
-    "lc": "xrw",
+    "gw": false,
     "ISO-639-3": "xrw",
-    "ln": "Karawa",
-    "ang": "Karawa",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 7036,
     "lr": "Pacific",
-    "alt": [
-        "Bulawa"
-    ],
+    "lc": "xrw",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Bulawa"
+    ],
+    "ang": "Karawa",
+    "gwcode": "tpi",
+    "ln": "Karawa"
 }

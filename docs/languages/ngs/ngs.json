@@ -1,11 +1,15 @@
 {
-    "pk": 4426,
-    "lc": "ngs",
+    "gw": false,
     "ISO-639-3": "ngs",
-    "ln": "Gvoko",
-    "ang": "Gvoko",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4426,
     "lr": "Africa",
+    "lc": "ngs",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Gavoko",
         "Gevoko",
@@ -18,11 +22,7 @@
         "Ngoshe Sama",
         "Ngweshe-Ndaghan"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gvoko",
+    "gwcode": "en",
+    "ln": "Gvoko"
 }

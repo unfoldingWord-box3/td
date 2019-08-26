@@ -1,20 +1,20 @@
 {
-    "pk": 4690,
-    "lc": "nur",
+    "gw": false,
     "ISO-639-3": "nur",
-    "ln": "Nukuria",
-    "ang": "Nukuria",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4690,
     "lr": "Pacific",
+    "lc": "nur",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Fead",
         "Nahoa",
         "Nukeria"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Nukuria",
+    "gwcode": "tpi",
+    "ln": "Nukuria"
 }

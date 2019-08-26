@@ -1,11 +1,14 @@
 {
-    "pk": 6438,
-    "lc": "txt",
+    "gw": false,
     "ISO-639-3": "txt",
-    "ln": "Citak",
-    "ang": "Citak",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6438,
     "lr": "Asia",
+    "lc": "txt",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Asmat Darat",
         "Cicak",
@@ -13,10 +16,7 @@
         "Tjitak",
         "Tjitjak"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Citak",
+    "gwcode": "id",
+    "ln": "Citak"
 }

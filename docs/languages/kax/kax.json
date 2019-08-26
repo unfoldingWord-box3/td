@@ -1,19 +1,19 @@
 {
-    "pk": 2710,
-    "lc": "kax",
+    "gw": false,
     "ISO-639-3": "kax",
-    "ln": "Kao",
-    "ang": "Kao",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2710,
     "lr": "Asia",
+    "lc": "kax",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kau",
         "Ka'u"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kao",
+    "gwcode": "id",
+    "ln": "Kao"
 }

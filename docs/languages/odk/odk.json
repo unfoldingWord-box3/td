@@ -1,20 +1,20 @@
 {
-    "pk": 4774,
-    "lc": "odk",
+    "gw": false,
     "ISO-639-3": "odk",
-    "ln": "Od",
-    "ang": "Od-Rajput",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4774,
     "lr": "Asia",
-    "alt": [
-        "Oad",
-        "Odki"
-    ],
+    "lc": "odk",
     "cc": [
         "PK",
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "alt": [
+        "Oad",
+        "Odki"
+    ],
+    "ang": "Od-Rajput",
+    "gwcode": "ur",
+    "ln": "Od"
 }

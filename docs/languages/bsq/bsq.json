@@ -1,19 +1,19 @@
 {
-    "pk": 938,
-    "lc": "bsq",
+    "gw": false,
     "ISO-639-3": "bsq",
-    "ln": "Bassa",
-    "ang": "Bassa",
     "hc": "LR",
+    "ld": "ltr",
+    "pk": 938,
     "lr": "Africa",
-    "alt": [
-        "Hwen Gba Kon"
-    ],
+    "lc": "bsq",
     "cc": [
         "LR",
         "SL"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Hwen Gba Kon"
+    ],
+    "ang": "Bassa",
+    "gwcode": "en",
+    "ln": "Bassa"
 }

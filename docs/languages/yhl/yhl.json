@@ -1,11 +1,14 @@
 {
-    "pk": 7178,
-    "lc": "yhl",
+    "gw": false,
     "ISO-639-3": "yhl",
-    "ln": "Hlepho Phowa",
-    "ang": "Phowa, Hlepho",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7178,
     "lr": "Asia",
+    "lc": "yhl",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Abo",
         "Boren",
@@ -28,10 +31,7 @@
         "Thrice Striped Red Phula",
         "Xiuba"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Phowa, Hlepho",
+    "gwcode": "zh",
+    "ln": "Hlepho Phowa"
 }

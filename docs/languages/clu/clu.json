@@ -1,19 +1,19 @@
 {
-    "pk": 1258,
-    "lc": "clu",
+    "gw": false,
     "ISO-639-3": "clu",
-    "ln": "Caluyanun",
-    "ang": "Caluyanun",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 1258,
     "lr": "Asia",
+    "lc": "clu",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Caluyanen",
         "Caluyanhon"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tl"
+    "ang": "Caluyanun",
+    "gwcode": "tl",
+    "ln": "Caluyanun"
 }

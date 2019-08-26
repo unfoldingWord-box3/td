@@ -1,19 +1,19 @@
 {
-    "pk": 1275,
-    "lc": "cng",
+    "gw": false,
     "ISO-639-3": "cng",
-    "ln": "Northern Qiang",
-    "ang": "Qiang, Northern",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 1275,
     "lr": "Asia",
+    "lc": "cng",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Ch'iang",
         "Mawo"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Qiang, Northern",
+    "gwcode": "zh",
+    "ln": "Northern Qiang"
 }

@@ -1,11 +1,17 @@
 {
-    "pk": 2764,
-    "lc": "kde",
+    "gw": false,
     "ISO-639-3": "kde",
-    "ln": "Makonde",
-    "ang": "Makonde",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 2764,
     "lr": "Africa",
+    "lc": "kde",
+    "cc": [
+        "KE",
+        "MZ",
+        "TZ",
+        "YT"
+    ],
     "alt": [
         "Chimakonde",
         "Chinimakonde",
@@ -29,13 +35,7 @@
         "Vamakonde (Makonde)",
         "Maviha (Chimaviha)"
     ],
-    "cc": [
-        "KE",
-        "MZ",
-        "TZ",
-        "YT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Makonde",
+    "gwcode": "sw",
+    "ln": "Makonde"
 }

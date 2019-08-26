@@ -1,18 +1,18 @@
 {
-    "pk": 2245,
-    "lc": "hbo",
+    "gw": false,
     "ISO-639-3": "hbo",
-    "ln": "Ancient Hebrew",
-    "ang": "Hebrew, Ancient",
     "hc": "IL",
+    "ld": "ltr",
+    "pk": 2245,
     "lr": "Asia",
-    "alt": [
-        "Old Hebrew"
-    ],
+    "lc": "hbo",
     "cc": [
         "IL"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Old Hebrew"
+    ],
+    "ang": "Hebrew, Ancient",
+    "gwcode": "en",
+    "ln": "Ancient Hebrew"
 }

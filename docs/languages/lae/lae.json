@@ -1,11 +1,14 @@
 {
-    "pk": 3338,
-    "lc": "lae",
+    "gw": false,
     "ISO-639-3": "lae",
-    "ln": "Pattani",
-    "ang": "Pattani",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3338,
     "lr": "Asia",
+    "lc": "lae",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Chamba",
         "Chamba Lahuli",
@@ -17,10 +20,7 @@
         "Swangla",
         "Chamba-Lahuli (Western Pattani)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Pattani",
+    "gwcode": "hi",
+    "ln": "Pattani"
 }

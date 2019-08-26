@@ -1,11 +1,14 @@
 {
-    "pk": 7246,
-    "lc": "yns",
+    "gw": false,
     "ISO-639-3": "yns",
-    "ln": "Yansi",
-    "ang": "Yansi",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 7246,
     "lr": "Africa",
+    "lc": "yns",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Eyansi",
         "Eyanzi",
@@ -14,10 +17,7 @@
         "Yanzi",
         "Yeei (Yey)"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Yansi",
+    "gwcode": "fr",
+    "ln": "Yansi"
 }

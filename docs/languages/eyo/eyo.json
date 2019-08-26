@@ -1,19 +1,19 @@
 {
-    "pk": 1808,
-    "lc": "eyo",
+    "gw": false,
     "ISO-639-3": "eyo",
-    "ln": "Keiyo",
-    "ang": "Keiyo",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 1808,
     "lr": "Africa",
+    "lc": "eyo",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Elgeyo",
         "Keyo"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Keiyo",
+    "gwcode": "sw",
+    "ln": "Keiyo"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 1564,
-    "lc": "dmb",
+    "gw": false,
     "ISO-639-3": "dmb",
-    "ln": "Mombo Dogon",
-    "ang": "Dogon, Mombo",
     "hc": "ML",
+    "ld": "ltr",
+    "pk": 1564,
     "lr": "Africa",
+    "lc": "dmb",
+    "cc": [
+        "ML"
+    ],
     "alt": [
         "Kolum-so",
         "Kolu-so",
         "Pignari"
     ],
-    "cc": [
-        "ML"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dogon, Mombo",
+    "gwcode": "fr",
+    "ln": "Mombo Dogon"
 }

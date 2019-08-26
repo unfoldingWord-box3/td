@@ -1,11 +1,18 @@
 {
-    "pk": 3810,
-    "lc": "mgh",
+    "gw": false,
     "ISO-639-3": "mgh",
-    "ln": "Makhuwa-Meetto",
-    "ang": "Makhuwa-Meetto",
     "hc": "MZ",
+    "ld": "ltr",
+    "pk": 3810,
     "lr": "Africa",
+    "lc": "mgh",
+    "cc": [
+        "KM",
+        "MZ",
+        "TZ",
+        "ZW",
+        "YT"
+    ],
     "alt": [
         "Emeto",
         "Imeetto",
@@ -22,14 +29,7 @@
         "Mato",
         "Medo (Emeto)"
     ],
-    "cc": [
-        "KM",
-        "MZ",
-        "TZ",
-        "ZW",
-        "YT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Makhuwa-Meetto",
+    "gwcode": "pt",
+    "ln": "Makhuwa-Meetto"
 }

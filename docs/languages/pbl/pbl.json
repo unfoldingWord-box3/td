@@ -1,21 +1,21 @@
 {
-    "pk": 4946,
-    "lc": "pbl",
+    "gw": false,
     "ISO-639-3": "pbl",
-    "ln": "Mak (Nigeria)",
-    "ang": "Mak",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4946,
     "lr": "Africa",
+    "lc": "pbl",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Leemak",
         "Lemak",
         "Panyam",
         "Zo"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mak",
+    "gwcode": "en",
+    "ln": "Mak (Nigeria)"
 }

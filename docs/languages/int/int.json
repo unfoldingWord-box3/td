@@ -1,20 +1,20 @@
 {
-    "pk": 2497,
-    "lc": "int",
+    "gw": false,
     "ISO-639-3": "int",
-    "ln": "Intha",
-    "ang": "Intha",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 2497,
     "lr": "Asia",
+    "lc": "int",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Inntha",
         "Insa",
         "Naung Ma"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Intha",
+    "gwcode": "my",
+    "ln": "Intha"
 }

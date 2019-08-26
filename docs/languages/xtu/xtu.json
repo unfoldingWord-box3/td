@@ -1,20 +1,20 @@
 {
-    "pk": 7073,
-    "lc": "xtu",
+    "gw": false,
     "ISO-639-3": "xtu",
-    "ln": "Cuyamecalco Mixtec",
-    "ang": "Mixtec, Cuyamecalco",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7073,
     "lr": "Americas",
+    "lc": "xtu",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Cuicatl\u00e1n Mixtec",
         "Mixteco de Ca\u00f1ada central",
         "Mixteco de Cuyamecalco"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Cuyamecalco",
+    "gwcode": "es-419",
+    "ln": "Cuyamecalco Mixtec"
 }

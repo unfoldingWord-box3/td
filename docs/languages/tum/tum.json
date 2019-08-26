@@ -1,11 +1,17 @@
 {
-    "pk": 6384,
-    "lc": "tum",
+    "gw": false,
     "ISO-639-3": "tum",
-    "ln": "Tumbuka",
-    "ang": "Tumbuka",
     "hc": "MW",
+    "ld": "ltr",
+    "pk": 6384,
     "lr": "Africa",
+    "lc": "tum",
+    "cc": [
+        "TZ",
+        "ZM",
+        "ZW",
+        "MW"
+    ],
     "alt": [
         "Tamboka",
         "Tambuka",
@@ -21,13 +27,7 @@
         "Ngoni (Magodi)",
         "Fililwa (Filirwa)"
     ],
-    "cc": [
-        "TZ",
-        "ZM",
-        "ZW",
-        "MW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tumbuka",
+    "gwcode": "en",
+    "ln": "Tumbuka"
 }

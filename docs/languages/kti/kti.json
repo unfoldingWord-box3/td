@@ -1,11 +1,14 @@
 {
-    "pk": 3166,
-    "lc": "kti",
+    "gw": false,
     "ISO-639-3": "kti",
-    "ln": "North Muyu",
-    "ang": "Muyu, North",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3166,
     "lr": "Asia",
+    "lc": "kti",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kataut",
         "Kati-Ninanti",
@@ -19,10 +22,7 @@
         "Toemoetoe (Are)",
         "Kanggewot"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Muyu, North",
+    "gwcode": "id",
+    "ln": "North Muyu"
 }

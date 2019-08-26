@@ -1,21 +1,21 @@
 {
-    "pk": 2210,
-    "lc": "gyl",
+    "gw": false,
     "ISO-639-3": "gyl",
-    "ln": "Gayil",
-    "ang": "Gayil",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 2210,
     "lr": "Africa",
+    "lc": "gyl",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Gayi",
         "Gayl",
         "Gelila",
         "Northern Ari"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Gayil",
+    "gwcode": "am",
+    "ln": "Gayil"
 }

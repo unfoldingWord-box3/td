@@ -1,19 +1,19 @@
 {
-    "pk": 1759,
-    "lc": "enr",
+    "gw": false,
     "ISO-639-3": "enr",
-    "ln": "Emumu",
-    "ang": "Emem",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1759,
     "lr": "Asia",
+    "lc": "enr",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Imimkal",
         "Kiamerop"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Emem",
+    "gwcode": "id",
+    "ln": "Emumu"
 }

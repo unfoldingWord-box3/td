@@ -1,21 +1,21 @@
 {
-    "pk": 5046,
-    "lc": "piy",
+    "gw": false,
     "ISO-639-3": "piy",
-    "ln": "Piya-Kwonci",
-    "ang": "Piya-Kwonci",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 5046,
     "lr": "Africa",
+    "lc": "piy",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ambandi",
         "Pia",
         "Pitiko",
         "Wurkum"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Piya-Kwonci",
+    "gwcode": "en",
+    "ln": "Piya-Kwonci"
 }

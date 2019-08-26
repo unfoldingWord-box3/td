@@ -1,18 +1,18 @@
 {
-    "pk": 4122,
-    "lc": "mtb",
+    "gw": false,
     "ISO-639-3": "mtb",
-    "ln": "Anyin Morofo",
-    "ang": "Anyin Morofo",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 4122,
     "lr": "Africa",
-    "alt": [
-        "Morofo"
-    ],
+    "lc": "mtb",
     "cc": [
         "CI"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Morofo"
+    ],
+    "ang": "Anyin Morofo",
+    "gwcode": "fr",
+    "ln": "Anyin Morofo"
 }

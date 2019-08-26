@@ -1,19 +1,19 @@
 {
-    "pk": 4849,
-    "lc": "onu",
+    "gw": false,
     "ISO-639-3": "onu",
-    "ln": "Unua",
-    "ang": "Unua",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 4849,
     "lr": "Pacific",
+    "lc": "onu",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Onua",
         "Pangkumu"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Unua",
+    "gwcode": "fr",
+    "ln": "Unua"
 }

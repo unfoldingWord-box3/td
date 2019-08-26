@@ -1,21 +1,21 @@
 {
-    "pk": 2394,
-    "lc": "hwc",
+    "gw": false,
     "ISO-639-3": "hwc",
-    "ln": "Hawai'i Creole English",
-    "ang": "Hawai\u2019i Pidgin",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 2394,
     "lr": "Americas",
+    "lc": "hwc",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Hawai'i Creole",
         "Hawai'i Creole English",
         "HCE",
         "Pidgin"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Hawai\u2019i Pidgin",
+    "gwcode": "en",
+    "ln": "Hawai'i Creole English"
 }

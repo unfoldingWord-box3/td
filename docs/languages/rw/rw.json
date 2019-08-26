@@ -1,11 +1,20 @@
 {
-    "pk": 5447,
-    "lc": "rw",
+    "gw": false,
     "ISO-639-3": "kin",
-    "ln": "Ikinyarwanda",
-    "ang": "Kinyarwanda",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5447,
     "lr": "Africa",
+    "lc": "rw",
+    "cc": [
+        "RW",
+        "TZ",
+        "US",
+        "CD",
+        "CA",
+        "UG",
+        "BI"
+    ],
     "alt": [
         "Ruanda",
         "Ikinyarwanda",
@@ -30,16 +39,7 @@
         "Lera",
         "Tshogo"
     ],
-    "cc": [
-        "RW",
-        "TZ",
-        "US",
-        "CD",
-        "CA",
-        "UG",
-        "BI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Kinyarwanda",
+    "gwcode": "sw",
+    "ln": "Ikinyarwanda"
 }

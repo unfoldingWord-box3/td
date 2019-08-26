@@ -1,19 +1,19 @@
 {
-    "pk": 1397,
-    "lc": "cut",
+    "gw": false,
     "ISO-639-3": "cut",
-    "ln": "Teutila Cuicatec",
-    "ang": "Cuicatec, Teutila",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1397,
     "lr": "Americas",
+    "lc": "cut",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Cuicateco del norte",
         "Cuicateco del oriente"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Cuicatec, Teutila",
+    "gwcode": "es-419",
+    "ln": "Teutila Cuicatec"
 }

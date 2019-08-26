@@ -1,18 +1,18 @@
 {
-    "pk": 5687,
-    "lc": "slh",
+    "gw": false,
     "ISO-639-3": "slh",
-    "ln": "Southern Puget Sound Salish",
-    "ang": "Salish, Southern Puget Sound",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 5687,
     "lr": "Americas",
-    "alt": [
-        "Southern Lushootseed"
-    ],
+    "lc": "slh",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Southern Lushootseed"
+    ],
+    "ang": "Salish, Southern Puget Sound",
+    "gwcode": "en",
+    "ln": "Southern Puget Sound Salish"
 }

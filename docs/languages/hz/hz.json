@@ -1,21 +1,21 @@
 {
-    "pk": 2398,
-    "lc": "hz",
+    "gw": false,
     "ISO-639-3": "her",
-    "ln": "Otjiherero",
-    "ang": "Herero",
     "hc": "NA",
+    "ld": "ltr",
+    "pk": 2398,
     "lr": "Africa",
-    "alt": [
-        "Ochiherero",
-        "Otjiherero"
-    ],
+    "lc": "hz",
     "cc": [
         "AO",
         "BW",
         "NA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Ochiherero",
+        "Otjiherero"
+    ],
+    "ang": "Herero",
+    "gwcode": "en",
+    "ln": "Otjiherero"
 }

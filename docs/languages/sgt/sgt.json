@@ -1,11 +1,14 @@
 {
-    "pk": 5585,
-    "lc": "sgt",
+    "gw": false,
     "ISO-639-3": "sgt",
-    "ln": "Brokpake",
-    "ang": "Brokpake",
     "hc": "BT",
+    "ld": "ltr",
+    "pk": 5585,
     "lr": "Asia",
+    "lc": "sgt",
+    "cc": [
+        "BT"
+    ],
     "alt": [
         "Brokpa",
         "Dakpa",
@@ -18,10 +21,7 @@
         "Mira Sagtengpa",
         "Sagtengpa"
     ],
-    "cc": [
-        "BT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "dz"
+    "ang": "Brokpake",
+    "gwcode": "UNKNOWN",
+    "ln": "Brokpake"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 4530,
-    "lc": "nlv",
+    "gw": false,
     "ISO-639-3": "nlv",
-    "ln": "Orizaba Nahuatl",
-    "ang": "Nahuatl, Orizaba",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4530,
     "lr": "Americas",
+    "lc": "nlv",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "N\u00e1huatl de la Sierra de Zongolica",
         "Orizaba Aztec",
         "Ixhuatlancillo Nahuatl"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Nahuatl, Orizaba",
+    "gwcode": "es-419",
+    "ln": "Orizaba Nahuatl"
 }

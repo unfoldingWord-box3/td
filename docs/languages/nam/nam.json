@@ -1,11 +1,14 @@
 {
-    "pk": 4297,
-    "lc": "nam",
+    "gw": false,
     "ISO-639-3": "nam",
-    "ln": "Ngan'gityemerri",
-    "ang": "Ngan\u2019gityemerri",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4297,
     "lr": "Pacific",
+    "lc": "nam",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Moil",
         "Ngangi-Tjemerri",
@@ -16,10 +19,7 @@
         "Ngangikarangurr",
         "Ngan'giwumirri (Ngangi-Wumeri)"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ngan\u2019gityemerri",
+    "gwcode": "en",
+    "ln": "Ngan'gityemerri"
 }

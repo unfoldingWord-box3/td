@@ -1,19 +1,19 @@
 {
-    "pk": 4451,
-    "lc": "nhv",
+    "gw": false,
     "ISO-639-3": "nhv",
-    "ln": "Temascaltepec Nahuatl",
-    "ang": "Nahuatl, Temascaltepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4451,
     "lr": "Americas",
+    "lc": "nhv",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Almomoloya N\u00e1huatl",
         "Temascaltepec Aztec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Nahuatl, Temascaltepec",
+    "gwcode": "es-419",
+    "ln": "Temascaltepec Nahuatl"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 6497,
-    "lc": "ukh",
+    "gw": false,
     "ISO-639-3": "ukh",
-    "ln": "Ukhwejo",
-    "ang": "Ukhwejo",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 6497,
     "lr": "Africa",
+    "lc": "ukh",
+    "cc": [
+        "CF"
+    ],
     "alt": [
         "Benkonjo",
         "Kamsili (Ngamsile)"
     ],
-    "cc": [
-        "CF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ukhwejo",
+    "gwcode": "fr",
+    "ln": "Ukhwejo"
 }

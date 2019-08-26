@@ -1,21 +1,21 @@
 {
-    "pk": 1814,
-    "lc": "fad",
+    "gw": false,
     "ISO-639-3": "fad",
-    "ln": "Wagi",
-    "ang": "Wagi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1814,
     "lr": "Pacific",
+    "lc": "fad",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Foran",
         "Furan",
         "Kamba",
         "Mis-Kemba"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Wagi",
+    "gwcode": "tpi",
+    "ln": "Wagi"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 6211,
-    "lc": "tmr",
+    "gw": false,
     "ISO-639-3": "tmr",
-    "ln": "\u05d0\u05e8\u05de\u05d9\u05ea \u05d1\u05d1\u05dc\u05d9\u05ea (ca. 200-1200 CE)",
-    "ang": "Jewish Babylonian Aramaic",
     "hc": "IL",
+    "ld": "ltr",
+    "pk": 6211,
     "lr": "Asia",
-    "alt": [
-        "Babylonian Talmudic Aramaic"
-    ],
+    "lc": "tmr",
     "cc": [
         "IL"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Babylonian Talmudic Aramaic"
+    ],
+    "ang": "Jewish Babylonian Aramaic",
+    "gwcode": "en",
+    "ln": "\u05d0\u05e8\u05de\u05d9\u05ea \u05d1\u05d1\u05dc\u05d9\u05ea (ca. 200-1200 CE)"
 }

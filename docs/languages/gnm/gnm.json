@@ -1,18 +1,18 @@
 {
-    "pk": 2080,
-    "lc": "gnm",
+    "gw": false,
     "ISO-639-3": "gnm",
-    "ln": "Ginuman",
-    "ang": "Ginuman",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2080,
     "lr": "Pacific",
-    "alt": [
-        "Dime"
-    ],
+    "lc": "gnm",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Dime"
+    ],
+    "ang": "Ginuman",
+    "gwcode": "tpi",
+    "ln": "Ginuman"
 }

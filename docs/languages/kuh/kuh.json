@@ -1,20 +1,20 @@
 {
-    "pk": 3189,
-    "lc": "kuh",
+    "gw": false,
     "ISO-639-3": "kuh",
-    "ln": "Kushi",
-    "ang": "Kushi",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3189,
     "lr": "Africa",
+    "lc": "kuh",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Chong'e",
         "Goji",
         "Kushe"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kushi",
+    "gwcode": "en",
+    "ln": "Kushi"
 }

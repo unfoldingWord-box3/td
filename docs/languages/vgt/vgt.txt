@@ -1,0 +1,28 @@
+.. _vgt:
+
+Vlaamse Gebarentaal
+===================
+
+This language is spoken in the following countries:
+
+* BE: Belgium
+
+.. code-block:: yaml
+
+    ISO_639-3: vgt
+    alternate_names:
+    - VGT
+    - Vlaams-Brabant (Flemish Brabant)
+    - West-Vlaanderen (West Flanders)
+    - Oost-Vlaanderen (East Flanders)
+    - Antwerpen (Antwerp)
+    - Limburg (Limburg)
+    anglicanized_name: Flemish Sign Language
+    country_codes:
+    - BE
+    gateway_language: UNKNOWN
+    lang_code: vgt
+    lang_direction: ltr
+    lang_name: Vlaamse Gebarentaal
+    lang_region: Europe
+    

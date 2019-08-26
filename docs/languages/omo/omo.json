@@ -1,18 +1,18 @@
 {
-    "pk": 4831,
-    "lc": "omo",
+    "gw": false,
     "ISO-639-3": "omo",
-    "ln": "Utarmbung",
-    "ang": "Utarmbung",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4831,
     "lr": "Pacific",
-    "alt": [
-        "Osum"
-    ],
+    "lc": "omo",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Osum"
+    ],
+    "ang": "Utarmbung",
+    "gwcode": "tpi",
+    "ln": "Utarmbung"
 }

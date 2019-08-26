@@ -1,18 +1,18 @@
 {
-    "pk": 3957,
-    "lc": "mmi",
+    "gw": false,
     "ISO-639-3": "mmi",
-    "ln": "Musar",
-    "ang": "Musar",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3957,
     "lr": "Pacific",
-    "alt": [
-        "Aregerek"
-    ],
+    "lc": "mmi",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Aregerek"
+    ],
+    "ang": "Musar",
+    "gwcode": "tpi",
+    "ln": "Musar"
 }

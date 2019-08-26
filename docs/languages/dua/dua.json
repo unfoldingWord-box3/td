@@ -1,11 +1,14 @@
 {
-    "pk": 1650,
-    "lc": "dua",
+    "gw": false,
     "ISO-639-3": "dua",
-    "ln": "Duala",
-    "ang": "Duala",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 1650,
     "lr": "Africa",
+    "lc": "dua",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Diwala",
         "Dualla",
@@ -21,10 +24,7 @@
         "Wouri",
         "Wuri"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Duala",
+    "gwcode": "fr",
+    "ln": "Duala"
 }

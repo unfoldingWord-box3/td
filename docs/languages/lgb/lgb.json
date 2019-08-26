@@ -1,19 +1,19 @@
 {
-    "pk": 3431,
-    "lc": "lgb",
+    "gw": false,
     "ISO-639-3": "lgb",
-    "ln": "Laghu",
-    "ang": "Laghu",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 3431,
     "lr": "Pacific",
+    "lc": "lgb",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Katova",
         "Lagu"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Laghu",
+    "gwcode": "UNKNOWN",
+    "ln": "Laghu"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 1249,
-    "lc": "cle",
+    "gw": false,
     "ISO-639-3": "cle",
-    "ln": "Lealao Chinantec",
-    "ang": "Chinantec, Lealao",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1249,
     "lr": "Americas",
-    "alt": [
-        "Chinanteco de San Juan Lealao"
-    ],
+    "lc": "cle",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Chinanteco de San Juan Lealao"
+    ],
+    "ang": "Chinantec, Lealao",
+    "gwcode": "es-419",
+    "ln": "Lealao Chinantec"
 }

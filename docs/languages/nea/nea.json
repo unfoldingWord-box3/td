@@ -1,18 +1,18 @@
 {
-    "pk": 4379,
-    "lc": "nea",
+    "gw": false,
     "ISO-639-3": "nea",
-    "ln": "Eastern Ngad'a",
-    "ang": "Ngad\u2019a, Eastern",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4379,
     "lr": "Asia",
-    "alt": [
-        "Southeast Ngada"
-    ],
+    "lc": "nea",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Southeast Ngada"
+    ],
+    "ang": "Ngad\u2019a, Eastern",
+    "gwcode": "id",
+    "ln": "Eastern Ngad'a"
 }

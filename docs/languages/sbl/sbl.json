@@ -1,11 +1,14 @@
 {
-    "pk": 5490,
-    "lc": "sbl",
+    "gw": false,
     "ISO-639-3": "sbl",
-    "ln": "Botolan Sambal",
-    "ang": "Sambal, Botolan",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5490,
     "lr": "Asia",
+    "lc": "sbl",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Aeta Negrito",
         "Ayta Hambali",
@@ -13,10 +16,7 @@
         "Ayta Hambali (Hambali Botolan)",
         "Sambali Botolan"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Sambal, Botolan",
+    "gwcode": "en",
+    "ln": "Botolan Sambal"
 }

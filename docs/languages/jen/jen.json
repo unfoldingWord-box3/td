@@ -1,21 +1,21 @@
 {
-    "pk": 2604,
-    "lc": "jen",
+    "gw": false,
     "ISO-639-3": "jen",
-    "ln": "Dza",
-    "ang": "Dza",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2604,
     "lr": "Africa",
+    "lc": "jen",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Janjo",
         "Jenjo",
         "Jaule (Joole)",
         "Laredo (Ardido)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dza",
+    "gwcode": "en",
+    "ln": "Dza"
 }

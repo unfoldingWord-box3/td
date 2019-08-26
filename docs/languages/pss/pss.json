@@ -1,19 +1,19 @@
 {
-    "pk": 5192,
-    "lc": "pss",
+    "gw": false,
     "ISO-639-3": "pss",
-    "ln": "Kaulong",
-    "ang": "Kaulong",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5192,
     "lr": "Pacific",
+    "lc": "pss",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kowlong",
         "Pasismanua"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kaulong",
+    "gwcode": "tpi",
+    "ln": "Kaulong"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 4372,
-    "lc": "ndu",
+    "gw": false,
     "ISO-639-3": "ndu",
-    "ln": "Dugun",
-    "ang": "Dugun",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4372,
     "lr": "Africa",
+    "lc": "ndu",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Pani",
         "Panon",
         "Pa'non",
         "Saa"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dugun",
+    "gwcode": "fr",
+    "ln": "Dugun"
 }

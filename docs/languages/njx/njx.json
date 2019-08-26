@@ -1,20 +1,20 @@
 {
-    "pk": 4491,
-    "lc": "njx",
+    "gw": false,
     "ISO-639-3": "njx",
-    "ln": "Kunyi",
-    "ang": "Kunyi",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 4491,
     "lr": "Africa",
+    "lc": "njx",
+    "cc": [
+        "CG"
+    ],
     "alt": [
         "Kikunyi",
         "Kugni",
         "Nyaanga (Kinyaanga)"
     ],
-    "cc": [
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kunyi",
+    "gwcode": "fr",
+    "ln": "Kunyi"
 }

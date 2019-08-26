@@ -1,0 +1,22 @@
+.. _xcv:
+
+Chuvantsy
+=========
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: xcv
+    alternate_names: []
+    anglicanized_name: Chuvantsy
+    country_codes:
+    - RU
+    gateway_language: UNKNOWN
+    lang_code: xcv
+    lang_direction: ltr
+    lang_name: Chuvantsy
+    lang_region: Europe
+    

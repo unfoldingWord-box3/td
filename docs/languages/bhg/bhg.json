@@ -1,18 +1,18 @@
 {
-    "pk": 666,
-    "lc": "bhg",
+    "gw": false,
     "ISO-639-3": "bhg",
-    "ln": "Binandere",
-    "ang": "Binandere",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 666,
     "lr": "Pacific",
-    "alt": [
-        "Ioma Binandere"
-    ],
+    "lc": "bhg",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Ioma Binandere"
+    ],
+    "ang": "Binandere",
+    "gwcode": "tpi",
+    "ln": "Binandere"
 }

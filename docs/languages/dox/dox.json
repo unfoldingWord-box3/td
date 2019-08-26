@@ -1,11 +1,14 @@
 {
-    "pk": 1611,
-    "lc": "dox",
+    "gw": false,
     "ISO-639-3": "dox",
-    "ln": "Bussa",
-    "ang": "Bussa",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 1611,
     "lr": "Africa",
+    "lc": "dox",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Dobase",
         "D'oopace",
@@ -21,10 +24,7 @@
         "Musiye",
         "Orase"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Bussa",
+    "gwcode": "am",
+    "ln": "Bussa"
 }

@@ -1,0 +1,22 @@
+.. _lzh:
+
+Literary Chinese
+================
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: lzh
+    alternate_names: []
+    anglicanized_name: Literary Chinese
+    country_codes:
+    - CN
+    gateway_language: UNKNOWN
+    lang_code: lzh
+    lang_direction: ltr
+    lang_name: Literary Chinese
+    lang_region: Asia
+    

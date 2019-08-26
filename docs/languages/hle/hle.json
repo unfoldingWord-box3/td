@@ -1,20 +1,20 @@
 {
-    "pk": 2287,
-    "lc": "hle",
+    "gw": false,
     "ISO-639-3": "hle",
-    "ln": "\u52d2\u82cf",
-    "ang": "Hlersu",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2287,
     "lr": "Asia",
+    "lc": "hle",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Lesu",
         "Sansu",
         "Shansu"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Hlersu",
+    "gwcode": "zh",
+    "ln": "\u52d2\u82cf"
 }

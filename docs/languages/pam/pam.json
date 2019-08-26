@@ -1,22 +1,22 @@
 {
-    "pk": 4926,
-    "lc": "pam",
+    "gw": false,
     "ISO-639-3": "pam",
-    "ln": "Pampanga",
-    "ang": "Pampangan",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 4926,
     "lr": "Asia",
-    "alt": [
-        "Kapampangan",
-        "Pampango",
-        "Pampangue\u00f1o"
-    ],
+    "lc": "pam",
     "cc": [
         "PH",
         "US",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Kapampangan",
+        "Pampango",
+        "Pampangue\u00f1o"
+    ],
+    "ang": "Pampangan",
+    "gwcode": "en",
+    "ln": "Pampanga"
 }

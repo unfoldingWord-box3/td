@@ -1,11 +1,14 @@
 {
-    "pk": 1953,
-    "lc": "gcd",
+    "gw": false,
     "ISO-639-3": "gcd",
-    "ln": "Ganggalida",
-    "ang": "Ganggalida",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 1953,
     "lr": "Pacific",
+    "lc": "gcd",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Ganggalita",
         "Jakula",
@@ -17,10 +20,7 @@
         "Yukulta",
         "Nguburindi"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ganggalida",
+    "gwcode": "en",
+    "ln": "Ganggalida"
 }

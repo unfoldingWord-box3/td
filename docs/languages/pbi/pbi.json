@@ -1,11 +1,14 @@
 {
-    "pk": 4945,
-    "lc": "pbi",
+    "gw": false,
     "ISO-639-3": "pbi",
-    "ln": "Parkwa",
-    "ang": "Parkwa",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4945,
     "lr": "Africa",
+    "lc": "pbi",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Gwadi Parekwa",
         "Kudala",
@@ -17,10 +20,7 @@
         "Podogo",
         "Podokwo"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Parkwa",
+    "gwcode": "fr",
+    "ln": "Parkwa"
 }

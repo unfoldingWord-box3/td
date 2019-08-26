@@ -1,11 +1,14 @@
 {
-    "pk": 6809,
-    "lc": "wrk",
+    "gw": false,
     "ISO-639-3": "wrk",
-    "ln": "Garrwa",
-    "ang": "Garrwa",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6809,
     "lr": "Pacific",
+    "lc": "wrk",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Gaarwa",
         "Garawa",
@@ -22,10 +25,7 @@
         "Wollongorang",
         "Wulungwara"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Garrwa",
+    "gwcode": "en",
+    "ln": "Garrwa"
 }

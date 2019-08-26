@@ -1,0 +1,22 @@
+.. _qwc:
+
+Classical Quechua
+=================
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: qwc
+    alternate_names: []
+    anglicanized_name: Classical Quechua
+    country_codes:
+    - PE
+    gateway_language: UNKNOWN
+    lang_code: qwc
+    lang_direction: ltr
+    lang_name: Classical Quechua
+    lang_region: Americas
+    

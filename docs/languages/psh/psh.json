@@ -1,18 +1,18 @@
 {
-    "pk": 5183,
-    "lc": "psh",
+    "gw": false,
     "ISO-639-3": "psh",
-    "ln": "Southwest Pashai",
-    "ang": "Pashai, Southwest",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 5183,
     "lr": "Asia",
-    "alt": [
-        "Pashai"
-    ],
+    "lc": "psh",
     "cc": [
         "AF"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "alt": [
+        "Pashai"
+    ],
+    "ang": "Pashai, Southwest",
+    "gwcode": "ps",
+    "ln": "Southwest Pashai"
 }

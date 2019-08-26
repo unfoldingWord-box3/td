@@ -1,19 +1,19 @@
 {
-    "pk": 40,
-    "lc": "abn",
+    "gw": false,
     "ISO-639-3": "abn",
-    "ln": "Abua",
-    "ang": "Abua",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 40,
     "lr": "Africa",
+    "lc": "abn",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Otapha (Otabha)",
         "Abuan"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Abua",
+    "gwcode": "en",
+    "ln": "Abua"
 }

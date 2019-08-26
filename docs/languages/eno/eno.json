@@ -1,18 +1,18 @@
 {
-    "pk": 1757,
-    "lc": "eno",
+    "gw": false,
     "ISO-639-3": "eno",
-    "ln": "Enggano",
-    "ang": "Enggano",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1757,
     "lr": "Asia",
-    "alt": [
-        "Engganese"
-    ],
+    "lc": "eno",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Engganese"
+    ],
+    "ang": "Enggano",
+    "gwcode": "id",
+    "ln": "Enggano"
 }

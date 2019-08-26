@@ -1,11 +1,14 @@
 {
-    "pk": 3246,
-    "lc": "kwl",
+    "gw": false,
     "ISO-639-3": "kwl",
-    "ln": "Kofyar",
-    "ang": "Kofyar",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3246,
     "lr": "Africa",
+    "lc": "kwl",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Jepel",
         "Mirriam (Mernyang)",
@@ -21,10 +24,7 @@
         "Dimmuk (Dimuk)",
         "Jipal (Jepal)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kofyar",
+    "gwcode": "en",
+    "ln": "Kofyar"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 5808,
-    "lc": "srf",
+    "gw": false,
     "ISO-639-3": "srf",
-    "ln": "Nafi",
-    "ang": "Nafi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5808,
     "lr": "Pacific",
-    "alt": [
-        "Sirak"
-    ],
+    "lc": "srf",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Sirak"
+    ],
+    "ang": "Nafi",
+    "gwcode": "tpi",
+    "ln": "Nafi"
 }

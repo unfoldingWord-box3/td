@@ -1,18 +1,18 @@
 {
-    "pk": 1162,
-    "lc": "cdf",
+    "gw": false,
     "ISO-639-3": "cdf",
-    "ln": "Chiru",
-    "ang": "Chiru",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1162,
     "lr": "Asia",
-    "alt": [
-        "Chhori"
-    ],
+    "lc": "cdf",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "mni"
+    "alt": [
+        "Chhori"
+    ],
+    "ang": "Chiru",
+    "gwcode": "UNKNOWN",
+    "ln": "Chiru"
 }

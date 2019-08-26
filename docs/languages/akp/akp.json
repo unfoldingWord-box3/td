@@ -1,19 +1,19 @@
 {
-    "pk": 202,
-    "lc": "akp",
+    "gw": false,
     "ISO-639-3": "akp",
-    "ln": "Siwu",
-    "ang": "Siwu",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 202,
     "lr": "Africa",
+    "lc": "akp",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Lolobi-Akpafu",
         "Siwusi"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Siwu",
+    "gwcode": "en",
+    "ln": "Siwu"
 }

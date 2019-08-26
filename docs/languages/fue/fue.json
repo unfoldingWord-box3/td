@@ -1,11 +1,15 @@
 {
-    "pk": 1885,
-    "lc": "fue",
+    "gw": false,
     "ISO-639-3": "fue",
-    "ln": "Borgu Fulfulde",
-    "ang": "Fulfulde, Borgu",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 1885,
     "lr": "Africa",
+    "lc": "fue",
+    "cc": [
+        "BJ",
+        "TG"
+    ],
     "alt": [
         "Benin-Togo Fulfulde",
         "Peul",
@@ -16,11 +20,7 @@
         "Djougoure (Juguure)",
         "Korakuure"
     ],
-    "cc": [
-        "BJ",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Fulfulde, Borgu",
+    "gwcode": "fr",
+    "ln": "Borgu Fulfulde"
 }

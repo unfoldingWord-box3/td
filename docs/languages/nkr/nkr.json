@@ -1,20 +1,20 @@
 {
-    "pk": 4510,
-    "lc": "nkr",
+    "gw": false,
     "ISO-639-3": "nkr",
-    "ln": "Nukuoro",
-    "ang": "Nukuoro",
     "hc": "FM",
+    "ld": "ltr",
+    "pk": 4510,
     "lr": "Pacific",
-    "alt": [
-        "Nuguor",
-        "Nukoro"
-    ],
+    "lc": "nkr",
     "cc": [
         "US",
         "FM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Nuguor",
+        "Nukoro"
+    ],
+    "ang": "Nukuoro",
+    "gwcode": "en",
+    "ln": "Nukuoro"
 }

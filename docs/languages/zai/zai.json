@@ -1,18 +1,18 @@
 {
-    "pk": 7339,
-    "lc": "zai",
+    "gw": false,
     "ISO-639-3": "zai",
-    "ln": "Isthmus Zapotec",
-    "ang": "Zapotec, Isthmus",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7339,
     "lr": "Americas",
-    "alt": [
-        "Zapoteco del Istmo"
-    ],
+    "lc": "zai",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Zapoteco del Istmo"
+    ],
+    "ang": "Zapotec, Isthmus",
+    "gwcode": "es-419",
+    "ln": "Isthmus Zapotec"
 }

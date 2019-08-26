@@ -1,18 +1,18 @@
 {
-    "pk": 4099,
-    "lc": "msd",
+    "gw": false,
     "ISO-639-3": "msd",
-    "ln": "Yucatec Maya Sign Language",
-    "ang": "Yucatec Maya Sign Language",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4099,
     "lr": "Americas",
-    "alt": [
-        "Nohya Sign Language"
-    ],
+    "lc": "msd",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Nohya Sign Language"
+    ],
+    "ang": "Yucatec Maya Sign Language",
+    "gwcode": "es-419",
+    "ln": "Yucatec Maya Sign Language"
 }

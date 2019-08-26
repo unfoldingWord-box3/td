@@ -1,11 +1,14 @@
 {
-    "pk": 7137,
-    "lc": "ybb",
+    "gw": false,
     "ISO-639-3": "ybb",
-    "ln": "Yemba",
-    "ang": "Yemba",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 7137,
     "lr": "Africa",
+    "lc": "ybb",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Atsang-Bangwa",
         "Bafou",
@@ -14,10 +17,7 @@
         "Tchang",
         "Foreke Dschang (Dschang)"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Yemba",
+    "gwcode": "fr",
+    "ln": "Yemba"
 }

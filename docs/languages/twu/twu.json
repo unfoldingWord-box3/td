@@ -1,11 +1,14 @@
 {
-    "pk": 6420,
-    "lc": "twu",
+    "gw": false,
     "ISO-639-3": "twu",
-    "ln": "Termanu",
-    "ang": "Termanu",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6420,
     "lr": "Asia",
+    "lc": "twu",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Central Rote",
         "Pa'da",
@@ -19,10 +22,7 @@
         "Bokai",
         "Southern Termanu"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Termanu",
+    "gwcode": "id",
+    "ln": "Termanu"
 }

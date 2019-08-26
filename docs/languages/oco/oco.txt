@@ -1,0 +1,22 @@
+.. _oco:
+
+Old Cornish
+===========
+
+This language is spoken in the following countries:
+
+* GB: United Kingdom of Great Britain and Northern Ireland
+
+.. code-block:: yaml
+
+    ISO_639-3: oco
+    alternate_names: []
+    anglicanized_name: Old Cornish
+    country_codes:
+    - GB
+    gateway_language: UNKNOWN
+    lang_code: oco
+    lang_direction: ltr
+    lang_name: Old Cornish
+    lang_region: Europe
+    

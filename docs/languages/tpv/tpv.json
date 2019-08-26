@@ -1,19 +1,19 @@
 {
-    "pk": 6282,
-    "lc": "tpv",
+    "gw": false,
     "ISO-639-3": "tpv",
-    "ln": "Tanapag",
-    "ang": "Tanapag",
     "hc": "MP",
+    "ld": "ltr",
+    "pk": 6282,
     "lr": "Pacific",
+    "lc": "tpv",
+    "cc": [
+        "MP"
+    ],
     "alt": [
         "Northern Carolinian",
         "Talaabwogh"
     ],
-    "cc": [
-        "MP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tanapag",
+    "gwcode": "en",
+    "ln": "Tanapag"
 }

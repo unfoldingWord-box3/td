@@ -1,18 +1,18 @@
 {
-    "pk": 4169,
-    "lc": "mva",
+    "gw": false,
     "ISO-639-3": "mva",
-    "ln": "Manam",
-    "ang": "Manam",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4169,
     "lr": "Pacific",
-    "alt": [
-        "Manum"
-    ],
+    "lc": "mva",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Manum"
+    ],
+    "ang": "Manam",
+    "gwcode": "tpi",
+    "ln": "Manam"
 }

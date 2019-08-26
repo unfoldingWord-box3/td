@@ -1,18 +1,18 @@
 {
-    "pk": 6361,
-    "lc": "ttn",
+    "gw": false,
     "ISO-639-3": "ttn",
-    "ln": "Towei",
-    "ang": "Towei",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6361,
     "lr": "Asia",
-    "alt": [
-        "Towe"
-    ],
+    "lc": "ttn",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Towe"
+    ],
+    "ang": "Towei",
+    "gwcode": "id",
+    "ln": "Towei"
 }

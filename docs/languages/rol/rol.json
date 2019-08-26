@@ -1,19 +1,19 @@
 {
-    "pk": 5412,
-    "lc": "rol",
+    "gw": false,
     "ISO-639-3": "rol",
-    "ln": "Romblomanon",
-    "ang": "Romblomanon",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5412,
     "lr": "Asia",
+    "lc": "rol",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Bisaya'",
         "Sibuyanon"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Romblomanon",
+    "gwcode": "en",
+    "ln": "Romblomanon"
 }

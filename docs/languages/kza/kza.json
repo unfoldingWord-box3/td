@@ -1,18 +1,18 @@
 {
-    "pk": 3309,
-    "lc": "kza",
+    "gw": false,
     "ISO-639-3": "kza",
-    "ln": "Western Karaboro",
-    "ang": "Karaboro, Western",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 3309,
     "lr": "Africa",
-    "alt": [
-        "Syer-Tenyer"
-    ],
+    "lc": "kza",
     "cc": [
         "BF"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Syer-Tenyer"
+    ],
+    "ang": "Karaboro, Western",
+    "gwcode": "fr",
+    "ln": "Western Karaboro"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 4480,
-    "lc": "njd",
+    "gw": false,
     "ISO-639-3": "njd",
-    "ln": "Ndonde Hamba",
-    "ang": "Ndonde Hamba",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 4480,
     "lr": "Africa",
+    "lc": "njd",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Chindonde",
         "Chindonde Hamba",
@@ -14,10 +17,7 @@
         "Mawanda",
         "Ndomde"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Ndonde Hamba",
+    "gwcode": "sw",
+    "ln": "Ndonde Hamba"
 }

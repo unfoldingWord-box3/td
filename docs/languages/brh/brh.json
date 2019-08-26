@@ -1,11 +1,17 @@
 {
-    "pk": 905,
-    "lc": "brh",
+    "gw": false,
     "ISO-639-3": "brh",
-    "ln": "\u0628\u0631\u0627\u06c1\u0648\u0626\u064a",
-    "ang": "Brahui",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 905,
     "lr": "Asia",
+    "lc": "brh",
+    "cc": [
+        "AF",
+        "IR",
+        "PK",
+        "TM"
+    ],
     "alt": [
         "Birahui",
         "Biravi",
@@ -18,13 +24,7 @@
         "Brahuigi",
         "Jharawan (Jhalawan)"
     ],
-    "cc": [
-        "AF",
-        "IR",
-        "PK",
-        "TM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Brahui",
+    "gwcode": "ur",
+    "ln": "\u0628\u0631\u0627\u06c1\u0648\u0626\u064a"
 }

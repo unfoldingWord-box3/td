@@ -1,21 +1,21 @@
 {
-    "pk": 6084,
-    "lc": "tgf",
+    "gw": false,
     "ISO-639-3": "tgf",
-    "ln": "Chalikha",
-    "ang": "Chalikha",
     "hc": "BT",
+    "ld": "ltr",
+    "pk": 6084,
     "lr": "Asia",
+    "lc": "tgf",
+    "cc": [
+        "BT"
+    ],
     "alt": [
         "Chali",
         "Chalipkha",
         "Tshali",
         "Tshalingpa"
     ],
-    "cc": [
-        "BT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "dz"
+    "ang": "Chalikha",
+    "gwcode": "UNKNOWN",
+    "ln": "Chalikha"
 }

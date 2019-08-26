@@ -1,22 +1,22 @@
 {
-    "pk": 361,
-    "lc": "ase",
+    "gw": false,
     "ISO-639-3": "ase",
-    "ln": "American Sign Language",
-    "ang": "American Sign Language",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 361,
     "lr": "Americas",
-    "alt": [
-        "Ameslan",
-        "ASL",
-        "Tactile ASL (TASL)"
-    ],
+    "lc": "ase",
     "cc": [
         "ML",
         "US",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Ameslan",
+        "ASL",
+        "Tactile ASL (TASL)"
+    ],
+    "ang": "American Sign Language",
+    "gwcode": "en",
+    "ln": "American Sign Language"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 478,
-    "lc": "aza",
+    "gw": false,
     "ISO-639-3": "aza",
-    "ln": "Azha",
-    "ang": "Azha",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 478,
     "lr": "Asia",
+    "lc": "aza",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Aji",
         "Ajiwa",
@@ -27,10 +30,7 @@
         "Shaoji Phula",
         "Sifter Basket Phula"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Azha",
+    "gwcode": "zh",
+    "ln": "Azha"
 }

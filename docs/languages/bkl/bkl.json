@@ -1,20 +1,20 @@
 {
-    "pk": 740,
-    "lc": "bkl",
+    "gw": false,
     "ISO-639-3": "bkl",
-    "ln": "Berik",
-    "ang": "Berik",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 740,
     "lr": "Asia",
+    "lc": "bkl",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Berick",
         "Berrik",
         "Upper Tor"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Berik",
+    "gwcode": "id",
+    "ln": "Berik"
 }

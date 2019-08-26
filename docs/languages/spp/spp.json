@@ -1,11 +1,14 @@
 {
-    "pk": 5782,
-    "lc": "spp",
+    "gw": false,
     "ISO-639-3": "spp",
-    "ln": "Supyire Senoufo",
-    "ang": "S\u00e9noufo, Supyire",
     "hc": "ML",
+    "ld": "ltr",
+    "pk": 5782,
     "lr": "Africa",
+    "lc": "spp",
+    "cc": [
+        "ML"
+    ],
     "alt": [
         "Sup'ide",
         "Suppire",
@@ -15,10 +18,7 @@
         "Fanywohoshin",
         "Nyana nyuni"
     ],
-    "cc": [
-        "ML"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "S\u00e9noufo, Supyire",
+    "gwcode": "fr",
+    "ln": "Supyire Senoufo"
 }

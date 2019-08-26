@@ -1,0 +1,22 @@
+.. _njt:
+
+Ndyuka-Trio Pidgin
+==================
+
+This language is spoken in the following countries:
+
+* SR: Suriname
+
+.. code-block:: yaml
+
+    ISO_639-3: njt
+    alternate_names: []
+    anglicanized_name: Ndyuka-Trio Pidgin
+    country_codes:
+    - SR
+    gateway_language: UNKNOWN
+    lang_code: njt
+    lang_direction: ltr
+    lang_name: Ndyuka-Trio Pidgin
+    lang_region: Americas
+    

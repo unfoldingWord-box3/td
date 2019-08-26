@@ -1,11 +1,18 @@
 {
-    "pk": 3356,
-    "lc": "lb",
+    "gw": false,
     "ISO-639-3": "ltz",
-    "ln": "L\u00ebtzebuergesch",
-    "ang": "Luxembourgish, Letzeburgesch",
     "hc": "LU",
+    "ld": "ltr",
+    "pk": 3356,
     "lr": "Europe",
+    "lc": "lb",
+    "cc": [
+        "BE",
+        "FR",
+        "DE",
+        "US",
+        "LU"
+    ],
     "alt": [
         "Letzburgisch",
         "L\u00ebtzebuergesch",
@@ -16,14 +23,7 @@
         "Luxembourgish",
         "Luxemburgish"
     ],
-    "cc": [
-        "BE",
-        "FR",
-        "DE",
-        "US",
-        "LU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Luxembourgish, Letzeburgesch",
+    "gwcode": "en",
+    "ln": "L\u00ebtzebuergesch"
 }

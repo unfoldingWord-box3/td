@@ -1,11 +1,14 @@
 {
-    "pk": 2122,
-    "lc": "gra",
+    "gw": false,
     "ISO-639-3": "gra",
-    "ln": "Rajput Garasia",
-    "ang": "Garasia, Rajput",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2122,
     "lr": "Asia",
+    "lc": "gra",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Dhungri Garasia",
         "Dungari Garasia",
@@ -15,10 +18,7 @@
         "Nyar",
         "Rajput Garasia"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "gu"
+    "ang": "Garasia, Rajput",
+    "gwcode": "gu",
+    "ln": "Rajput Garasia"
 }

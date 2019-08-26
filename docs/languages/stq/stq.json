@@ -1,21 +1,21 @@
 {
-    "pk": 5867,
-    "lc": "stq",
+    "gw": false,
     "ISO-639-3": "stq",
-    "ln": "Saterfriesisch",
-    "ang": "Saterfriesisch",
     "hc": "DE",
+    "ld": "ltr",
+    "pk": 5867,
     "lr": "Europe",
+    "lc": "stq",
+    "cc": [
+        "DE"
+    ],
     "alt": [
         "Saterfriesiesch",
         "Saterlandic",
         "Saterlandic Frisian",
         "Saterl\u00e4ndisch"
     ],
-    "cc": [
-        "DE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Saterfriesisch",
+    "gwcode": "en",
+    "ln": "Saterfriesisch"
 }

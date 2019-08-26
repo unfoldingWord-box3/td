@@ -1,18 +1,18 @@
 {
-    "pk": 3411,
-    "lc": "lek",
+    "gw": false,
     "ISO-639-3": "lek",
-    "ln": "Leipon",
-    "ang": "Leipon",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3411,
     "lr": "Pacific",
-    "alt": [
-        "Pityilu"
-    ],
+    "lc": "lek",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Pityilu"
+    ],
+    "ang": "Leipon",
+    "gwcode": "tpi",
+    "ln": "Leipon"
 }

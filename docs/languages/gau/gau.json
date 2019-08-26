@@ -1,20 +1,20 @@
 {
-    "pk": 1923,
-    "lc": "gau",
+    "gw": false,
     "ISO-639-3": "gau",
-    "ln": "Mudhili Gadaba",
-    "ang": "Gadaba, Mudhili",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1923,
     "lr": "Asia",
+    "lc": "gau",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Gol Gadaba",
         "Kondekar",
         "Kondko"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "te"
+    "ang": "Gadaba, Mudhili",
+    "gwcode": "te",
+    "ln": "Mudhili Gadaba"
 }

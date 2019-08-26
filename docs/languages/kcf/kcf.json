@@ -1,11 +1,14 @@
 {
-    "pk": 2741,
-    "lc": "kcf",
+    "gw": false,
     "ISO-639-3": "kcf",
-    "ln": "Ukaan",
-    "ang": "Ukaan",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2741,
     "lr": "Africa",
+    "lc": "kcf",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "AIKA (Ayanran-Ishe-Kakumo-Auga)",
         "Anyaran",
@@ -18,10 +21,7 @@
         "Iisheu",
         "Ijion (Iinno)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ukaan",
+    "gwcode": "en",
+    "ln": "Ukaan"
 }

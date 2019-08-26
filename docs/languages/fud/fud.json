@@ -1,20 +1,20 @@
 {
-    "pk": 1884,
-    "lc": "fud",
+    "gw": false,
     "ISO-639-3": "fud",
-    "ln": "East Futuna",
-    "ang": "Futuna, East",
     "hc": "WF",
+    "ld": "ltr",
+    "pk": 1884,
     "lr": "Pacific",
-    "alt": [
-        "Futunian",
-        "East Futunan"
-    ],
+    "lc": "fud",
     "cc": [
         "NC",
         "WF"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Futunian",
+        "East Futunan"
+    ],
+    "ang": "Futuna, East",
+    "gwcode": "en",
+    "ln": "East Futuna"
 }

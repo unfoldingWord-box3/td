@@ -1,19 +1,19 @@
 {
-    "pk": 7415,
-    "lc": "zmn",
+    "gw": false,
     "ISO-639-3": "zmn",
-    "ln": "Mbangwe",
-    "ang": "Mbangwe",
     "hc": "GA",
+    "ld": "ltr",
+    "pk": 7415,
     "lr": "Africa",
-    "alt": [
-        "M'bahouin"
-    ],
+    "lc": "zmn",
     "cc": [
         "GA",
         "CG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "M'bahouin"
+    ],
+    "ang": "Mbangwe",
+    "gwcode": "fr",
+    "ln": "Mbangwe"
 }

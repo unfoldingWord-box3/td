@@ -1,20 +1,20 @@
 {
-    "pk": 1552,
-    "lc": "djr",
+    "gw": false,
     "ISO-639-3": "djr",
-    "ln": "Djambarrpuyngu",
-    "ang": "Djambarrpuyngu",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 1552,
     "lr": "Pacific",
+    "lc": "djr",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Djambarbwingu",
         "Jambapuing",
         "Jambapuingo"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Djambarrpuyngu",
+    "gwcode": "en",
+    "ln": "Djambarrpuyngu"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 5624,
-    "lc": "sih",
+    "gw": false,
     "ISO-639-3": "sih",
-    "ln": "Zire",
-    "ang": "S\u00eesh\u00eb\u00eb",
     "hc": "NC",
+    "ld": "ltr",
+    "pk": 5624,
     "lr": "Pacific",
+    "lc": "sih",
+    "cc": [
+        "NC"
+    ],
     "alt": [
         "Ner\u00eb",
         "Siche",
@@ -15,10 +18,7 @@
         "Ziche",
         "Zira"
     ],
-    "cc": [
-        "NC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "S\u00eesh\u00eb\u00eb",
+    "gwcode": "en",
+    "ln": "Zire"
 }

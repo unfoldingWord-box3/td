@@ -1,19 +1,19 @@
 {
-    "pk": 2139,
-    "lc": "gry",
+    "gw": false,
     "ISO-639-3": "gry",
-    "ln": "Barclayville Grebo",
-    "ang": "Grebo, Barclayville",
     "hc": "LR",
+    "ld": "ltr",
+    "pk": 2139,
     "lr": "Africa",
+    "lc": "gry",
+    "cc": [
+        "LR"
+    ],
     "alt": [
         "Wedebo Grebo",
         "Kplebo"
     ],
-    "cc": [
-        "LR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Grebo, Barclayville",
+    "gwcode": "en",
+    "ln": "Barclayville Grebo"
 }

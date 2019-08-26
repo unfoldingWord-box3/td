@@ -1,21 +1,21 @@
 {
-    "pk": 1186,
-    "lc": "cgc",
+    "gw": false,
     "ISO-639-3": "cgc",
-    "ln": "Kagayanen",
-    "ang": "Kagayanen",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 1186,
     "lr": "Asia",
+    "lc": "cgc",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Cagayano",
         "Kagay-anen",
         "Kinagayanen",
         "Calamian Kagayanen"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kagayanen",
+    "gwcode": "en",
+    "ln": "Kagayanen"
 }

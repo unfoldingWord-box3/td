@@ -1,11 +1,15 @@
 {
-    "pk": 3372,
-    "lc": "lbt",
+    "gw": false,
     "ISO-639-3": "lbt",
-    "ln": "Lachi",
-    "ang": "Lachi",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 3372,
     "lr": "Asia",
+    "lc": "lbt",
+    "cc": [
+        "CN",
+        "VN"
+    ],
     "alt": [
         "I To",
         "Ku Te",
@@ -32,11 +36,7 @@
         "Liputcio (Han Lachi)",
         "Lipupi (Long-Haired Lachi)"
     ],
-    "cc": [
-        "CN",
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Lachi",
+    "gwcode": "vi",
+    "ln": "Lachi"
 }

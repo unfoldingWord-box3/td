@@ -1,11 +1,14 @@
 {
-    "pk": 3891,
-    "lc": "mjq",
+    "gw": false,
     "ISO-639-3": "mjq",
-    "ln": "Malaryan",
-    "ang": "Malaryan",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3891,
     "lr": "Asia",
+    "lc": "mjq",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Arayans",
         "Karingal",
@@ -16,10 +19,7 @@
         "Maley Arayan",
         "Vazhiyammar"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ml"
+    "ang": "Malaryan",
+    "gwcode": "ml",
+    "ln": "Malaryan"
 }

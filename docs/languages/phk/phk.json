@@ -1,20 +1,20 @@
 {
-    "pk": 5014,
-    "lc": "phk",
+    "gw": false,
     "ISO-639-3": "phk",
-    "ln": "Phake",
-    "ang": "Phake",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5014,
     "lr": "Asia",
+    "lc": "phk",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Faake",
         "Phakey",
         "Phakial"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "ang": "Phake",
+    "gwcode": "as",
+    "ln": "Phake"
 }

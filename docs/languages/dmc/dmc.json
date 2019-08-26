@@ -1,19 +1,19 @@
 {
-    "pk": 1565,
-    "lc": "dmc",
+    "gw": false,
     "ISO-639-3": "dmc",
-    "ln": "Gavak",
-    "ang": "Gavak",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1565,
     "lr": "Pacific",
+    "lc": "dmc",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Bosiken",
         "Boskien"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Gavak",
+    "gwcode": "tpi",
+    "ln": "Gavak"
 }

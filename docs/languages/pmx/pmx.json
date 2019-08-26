@@ -1,21 +1,21 @@
 {
-    "pk": 5099,
-    "lc": "pmx",
+    "gw": false,
     "ISO-639-3": "pmx",
-    "ln": "Poumei Naga",
-    "ang": "Naga, Poumei",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5099,
     "lr": "Asia",
+    "lc": "pmx",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Paumei",
         "Pomai",
         "Pome",
         "Poumei"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Poumei",
+    "gwcode": "en",
+    "ln": "Poumei Naga"
 }

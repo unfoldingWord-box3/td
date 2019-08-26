@@ -1,11 +1,14 @@
 {
-    "pk": 2605,
-    "lc": "jer",
+    "gw": false,
     "ISO-639-3": "jer",
-    "ln": "Jere",
-    "ang": "Jere",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2605,
     "lr": "Africa",
+    "lc": "jer",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Jeere",
         "Jera",
@@ -28,10 +31,7 @@
         "Anosangobari",
         "Gussum"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Jere",
+    "gwcode": "en",
+    "ln": "Jere"
 }

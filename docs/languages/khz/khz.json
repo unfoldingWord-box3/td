@@ -1,11 +1,14 @@
 {
-    "pk": 2881,
-    "lc": "khz",
+    "gw": false,
     "ISO-639-3": "khz",
-    "ln": "Keapara",
-    "ang": "Keapara",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2881,
     "lr": "Pacific",
+    "lc": "khz",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Keopara",
         "Kerepunu",
@@ -15,10 +18,7 @@
         "Aroma (Aloma)",
         "Arona"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Keapara",
+    "gwcode": "tpi",
+    "ln": "Keapara"
 }

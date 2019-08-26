@@ -1,20 +1,20 @@
 {
-    "pk": 21,
-    "lc": "aaq",
+    "gw": false,
     "ISO-639-3": "aaq",
-    "ln": "Eastern Abnaki",
-    "ang": "Abenaki, Eastern",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 21,
     "lr": "Americas",
+    "lc": "aaq",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Abenaki",
         "Eastern Abnaki",
         "Penobscot"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Abenaki, Eastern",
+    "gwcode": "en",
+    "ln": "Eastern Abnaki"
 }

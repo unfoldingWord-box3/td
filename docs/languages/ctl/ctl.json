@@ -1,18 +1,18 @@
 {
-    "pk": 1374,
-    "lc": "ctl",
+    "gw": false,
     "ISO-639-3": "ctl",
-    "ln": "Tlacoatzintepec Chinantec",
-    "ang": "Chinantec, Tlacoatzintepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1374,
     "lr": "Americas",
-    "alt": [
-        "Chinanteco del Noroeste"
-    ],
+    "lc": "ctl",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Chinanteco del Noroeste"
+    ],
+    "ang": "Chinantec, Tlacoatzintepec",
+    "gwcode": "es-419",
+    "ln": "Tlacoatzintepec Chinantec"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 3406,
-    "lc": "lee",
+    "gw": false,
     "ISO-639-3": "lee",
-    "ln": "Ly\u00e9l\u00e9",
-    "ang": "Ly\u00e9l\u00e9",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 3406,
     "lr": "Africa",
+    "lc": "lee",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Lele",
         "Southern Ly\u00e9l\u00e9 (Reo)"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ly\u00e9l\u00e9",
+    "gwcode": "fr",
+    "ln": "Ly\u00e9l\u00e9"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 3662,
-    "lc": "mae",
+    "gw": false,
     "ISO-639-3": "mae",
-    "ln": "Bo-Rukul",
-    "ang": "Bo-Rukul",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3662,
     "lr": "Africa",
+    "lc": "mae",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Mabo-Barkul",
         "Mabo-Barukul",
         "Kaleri"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bo-Rukul",
+    "gwcode": "en",
+    "ln": "Bo-Rukul"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 7412,
-    "lc": "zmj",
+    "gw": false,
     "ISO-639-3": "zmj",
-    "ln": "Maridjabin",
-    "ang": "Maridjabin",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 7412,
     "lr": "Pacific",
+    "lc": "zmj",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Maredyerbin",
         "Maretyabin",
         "Maridyerbin",
         "Maritjabin"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Maridjabin",
+    "gwcode": "en",
+    "ln": "Maridjabin"
 }

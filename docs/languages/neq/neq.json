@@ -1,11 +1,14 @@
 {
-    "pk": 4393,
-    "lc": "neq",
+    "gw": false,
     "ISO-639-3": "neq",
-    "ln": "North Central Mixe",
-    "ang": "Mixe, North Central",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4393,
     "lr": "Americas",
+    "lc": "neq",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Atitl\u00e1n Mixe",
         "Mixe de Atitl\u00e1n",
@@ -17,10 +20,7 @@
         "Puxmetec\u00e1n",
         "Mixe de San Juan Cotzoc\u00f3n"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixe, North Central",
+    "gwcode": "es-419",
+    "ln": "North Central Mixe"
 }

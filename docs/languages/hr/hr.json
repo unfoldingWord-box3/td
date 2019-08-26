@@ -1,17 +1,11 @@
 {
-    "pk": 2343,
-    "lc": "hr",
+    "gw": false,
     "ISO-639-3": "hrv",
-    "ln": "hrvatski jezik",
-    "ang": "Croatian",
     "hc": "HR",
+    "ld": "ltr",
+    "pk": 2343,
     "lr": "Europe",
-    "alt": [
-        "Hrvatski",
-        "Molise Croatian",
-        "Shtokavski (Ijekavski)",
-        "Serbian"
-    ],
+    "lc": "hr",
     "cc": [
         "AT",
         "BA",
@@ -27,7 +21,13 @@
         "CA",
         "DK"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Hrvatski",
+        "Molise Croatian",
+        "Shtokavski (Ijekavski)",
+        "Serbian"
+    ],
+    "ang": "Croatian",
+    "gwcode": "en",
+    "ln": "hrvatski jezik"
 }

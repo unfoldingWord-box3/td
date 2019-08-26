@@ -1,11 +1,15 @@
 {
-    "pk": 2833,
-    "lc": "kfy",
+    "gw": false,
     "ISO-639-3": "kfy",
-    "ln": "Kumaoni",
-    "ang": "Kumaoni",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2833,
     "lr": "Asia",
+    "lc": "kfy",
+    "cc": [
+        "NP",
+        "IN"
+    ],
     "alt": [
         "Kamaoni",
         "Kumau",
@@ -19,11 +23,7 @@
         "Southeastern Kumaoni",
         "Western Kumaoni"
     ],
-    "cc": [
-        "NP",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Kumaoni",
+    "gwcode": "hi",
+    "ln": "Kumaoni"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 881,
-    "lc": "bqi",
+    "gw": false,
     "ISO-639-3": "bqi",
-    "ln": "\u0628\u062e\u062a\u06cc\u0627\u0631\u06cc",
-    "ang": "Bakhti\u00e2ri",
     "hc": "IR",
+    "ld": "rtl",
+    "pk": 881,
     "lr": "Asia",
+    "lc": "bqi",
+    "cc": [
+        "IR"
+    ],
     "alt": [
         "Lori",
         "Lori-ye Khaveri",
@@ -16,10 +19,7 @@
         "Masjed-e Soleiman",
         "Shahr-e Kord"
     ],
-    "cc": [
-        "IR"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "fa"
+    "ang": "Bakhti\u00e2ri",
+    "gwcode": "fa",
+    "ln": "\u0628\u062e\u062a\u06cc\u0627\u0631\u06cc"
 }

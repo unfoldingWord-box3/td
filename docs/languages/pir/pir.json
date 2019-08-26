@@ -1,11 +1,15 @@
 {
-    "pk": 5040,
-    "lc": "pir",
+    "gw": false,
     "ISO-639-3": "pir",
-    "ln": "Piratapuyo",
-    "ang": "Piratapuyo",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 5040,
     "lr": "Americas",
+    "lc": "pir",
+    "cc": [
+        "BR",
+        "CO"
+    ],
     "alt": [
         "Pira-Tapuya",
         "Uaiana",
@@ -17,11 +21,7 @@
         "Waina",
         "Urubu-Tapuya"
     ],
-    "cc": [
-        "BR",
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Piratapuyo",
+    "gwcode": "pt",
+    "ln": "Piratapuyo"
 }

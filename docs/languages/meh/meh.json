@@ -1,21 +1,21 @@
 {
-    "pk": 3759,
-    "lc": "meh",
+    "gw": false,
     "ISO-639-3": "meh",
-    "ln": "Southwestern Tlaxiaco Mixtec",
-    "ang": "Mixtec, Southwestern Tlaxiaco",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 3759,
     "lr": "Americas",
+    "lc": "meh",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Mixteco de Santiago Nuyoo",
         "Mixteco del Suroeste de Tlaxiaco",
         "Nuyoo Mixtec",
         "Southeastern Ocotepec Mixtec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Southwestern Tlaxiaco",
+    "gwcode": "es-419",
+    "ln": "Southwestern Tlaxiaco Mixtec"
 }

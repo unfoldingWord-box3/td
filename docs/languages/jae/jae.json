@@ -1,20 +1,20 @@
 {
-    "pk": 2568,
-    "lc": "jae",
+    "gw": false,
     "ISO-639-3": "jae",
-    "ln": "Yabem",
-    "ang": "Yabem",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2568,
     "lr": "Pacific",
+    "lc": "jae",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Jabim",
         "Laulabu",
         "Yabim"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Yabem",
+    "gwcode": "tpi",
+    "ln": "Yabem"
 }

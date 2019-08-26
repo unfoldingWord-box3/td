@@ -1,21 +1,21 @@
 {
-    "pk": 3738,
-    "lc": "mdk",
+    "gw": false,
     "ISO-639-3": "mdk",
-    "ln": "Mangbutu",
-    "ang": "Mangbutu",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3738,
     "lr": "Africa",
+    "lc": "mdk",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Mangu-Ngutu",
         "Mombuttu",
         "Wambutu",
         "Angwe (Andali)"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mangbutu",
+    "gwcode": "fr",
+    "ln": "Mangbutu"
 }

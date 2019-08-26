@@ -1,19 +1,19 @@
 {
-    "pk": 1850,
-    "lc": "flh",
+    "gw": false,
     "ISO-639-3": "flh",
-    "ln": "Foau",
-    "ang": "Foau",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1850,
     "lr": "Asia",
+    "lc": "flh",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Abawiri",
         "Doa"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Foau",
+    "gwcode": "id",
+    "ln": "Foau"
 }

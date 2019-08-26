@@ -1,19 +1,19 @@
 {
-    "pk": 986,
-    "lc": "bus",
+    "gw": false,
     "ISO-639-3": "bus",
-    "ln": "Bokobaru",
-    "ang": "Bokobaru",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 986,
     "lr": "Africa",
+    "lc": "bus",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Busa-Bokobaru",
         "Bussawa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bokobaru",
+    "gwcode": "en",
+    "ln": "Bokobaru"
 }

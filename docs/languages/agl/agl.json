@@ -1,19 +1,19 @@
 {
-    "pk": 133,
-    "lc": "agl",
+    "gw": false,
     "ISO-639-3": "agl",
-    "ln": "Fembe",
-    "ang": "Fembe",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 133,
     "lr": "Pacific",
+    "lc": "agl",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Agala",
         "Sinale"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Fembe",
+    "gwcode": "tpi",
+    "ln": "Fembe"
 }

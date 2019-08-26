@@ -1,20 +1,20 @@
 {
-    "pk": 5316,
-    "lc": "ram",
+    "gw": false,
     "ISO-639-3": "ram",
-    "ln": "Canela",
-    "ang": "Canela",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 5316,
     "lr": "Americas",
+    "lc": "ram",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Kanela",
         "Apaniekra",
         "Apanjekra (Apanhecra)"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Canela",
+    "gwcode": "pt",
+    "ln": "Canela"
 }

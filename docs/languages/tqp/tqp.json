@@ -1,21 +1,21 @@
 {
-    "pk": 6292,
-    "lc": "tqp",
+    "gw": false,
     "ISO-639-3": "tqp",
-    "ln": "Tomoip",
-    "ang": "Tomoip",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6292,
     "lr": "Pacific",
+    "lc": "tqp",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Tomoive",
         "Tomoyp",
         "Tumie",
         "Tumuip"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Tomoip",
+    "gwcode": "tpi",
+    "ln": "Tomoip"
 }

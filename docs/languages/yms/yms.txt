@@ -1,0 +1,22 @@
+.. _yms:
+
+Mysian
+======
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: yms
+    alternate_names: []
+    anglicanized_name: Mysian
+    country_codes:
+    - TR
+    gateway_language: UNKNOWN
+    lang_code: yms
+    lang_direction: ltr
+    lang_name: Mysian
+    lang_region: Asia
+    

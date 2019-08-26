@@ -1,18 +1,18 @@
 {
-    "pk": 3365,
-    "lc": "lbl",
+    "gw": false,
     "ISO-639-3": "lbl",
-    "ln": "Libon Bikol",
-    "ang": "Bikol, Libon",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 3365,
     "lr": "Asia",
-    "alt": [
-        "Libonge\u00f1o"
-    ],
+    "lc": "lbl",
     "cc": [
         "PH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Libonge\u00f1o"
+    ],
+    "ang": "Bikol, Libon",
+    "gwcode": "en",
+    "ln": "Libon Bikol"
 }

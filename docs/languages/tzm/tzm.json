@@ -1,17 +1,11 @@
 {
-    "pk": 6461,
-    "lc": "tzm",
+    "gw": false,
     "ISO-639-3": "tzm",
-    "ln": "\u2d5c\u2d30\u2d4e\u2d30\u2d63\u2d49\u2d56\u2d5c",
-    "ang": "Tamazight, Central Atlas",
     "hc": "MA",
+    "ld": "ltr",
+    "pk": 6461,
     "lr": "Africa",
-    "alt": [
-        "Central Shilha",
-        "Middle Atlas Berber",
-        "Shilha",
-        "Tachelhit"
-    ],
+    "lc": "tzm",
     "cc": [
         "DZ",
         "FR",
@@ -19,7 +13,13 @@
         "GB",
         "NL"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Central Shilha",
+        "Middle Atlas Berber",
+        "Shilha",
+        "Tachelhit"
+    ],
+    "ang": "Tamazight, Central Atlas",
+    "gwcode": "ar",
+    "ln": "\u2d5c\u2d30\u2d4e\u2d30\u2d63\u2d49\u2d56\u2d5c"
 }

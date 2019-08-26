@@ -1,11 +1,14 @@
 {
-    "pk": 5256,
-    "lc": "quk",
+    "gw": false,
     "ISO-639-3": "quk",
-    "ln": "Chachapoyas Quechua",
-    "ang": "Quechua, Chachapoyas",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 5256,
     "lr": "Americas",
+    "lc": "quk",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Amazonas",
         "La Jalca (South Chachapoyas)",
@@ -13,10 +16,7 @@
         "Grenada-Mendoza (East Chachapoyas)",
         "Llakwash Chachapoyas"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quechua, Chachapoyas",
+    "gwcode": "es-419",
+    "ln": "Chachapoyas Quechua"
 }

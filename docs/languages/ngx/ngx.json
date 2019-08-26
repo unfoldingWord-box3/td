@@ -1,19 +1,19 @@
 {
-    "pk": 4430,
-    "lc": "ngx",
+    "gw": false,
     "ISO-639-3": "ngx",
-    "ln": "Nggwahyi",
-    "ang": "Nggwahyi",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4430,
     "lr": "Africa",
+    "lc": "ngx",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ngwaxi",
         "Ngwohi"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nggwahyi",
+    "gwcode": "en",
+    "ln": "Nggwahyi"
 }

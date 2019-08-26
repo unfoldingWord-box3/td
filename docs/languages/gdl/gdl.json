@@ -1,11 +1,14 @@
 {
-    "pk": 1971,
-    "lc": "gdl",
+    "gw": false,
     "ISO-639-3": "gdl",
-    "ln": "Dirasha",
-    "ang": "Dirasha",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 1971,
     "lr": "Africa",
+    "lc": "gdl",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Dhirasha",
         "Diraasha",
@@ -16,10 +19,7 @@
         "Kusumitta",
         "Mosiya"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Dirasha",
+    "gwcode": "am",
+    "ln": "Dirasha"
 }

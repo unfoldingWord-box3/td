@@ -1,20 +1,20 @@
 {
-    "pk": 2097,
-    "lc": "goi",
+    "gw": false,
     "ISO-639-3": "goi",
-    "ln": "Gobasi",
-    "ang": "Gobasi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2097,
     "lr": "Pacific",
+    "lc": "goi",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Nomad",
         "Gobasi (Bibo)",
         "Oibae (Oiba)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Gobasi",
+    "gwcode": "tpi",
+    "ln": "Gobasi"
 }

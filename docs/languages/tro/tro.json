@@ -1,19 +1,19 @@
 {
-    "pk": 6312,
-    "lc": "tro",
+    "gw": false,
     "ISO-639-3": "tro",
-    "ln": "Tarao Naga",
-    "ang": "Naga, Tarao",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6312,
     "lr": "Asia",
+    "lc": "tro",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Taraotrong",
         "Tarau"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Tarao",
+    "gwcode": "en",
+    "ln": "Tarao Naga"
 }

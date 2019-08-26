@@ -1,0 +1,24 @@
+.. _lhp:
+
+Lhokpu
+======
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+
+.. code-block:: yaml
+
+    ISO_639-3: lhp
+    alternate_names:
+    - Lhobikha
+    - Taba-Damey-Bikha
+    anglicanized_name: Lhokpu
+    country_codes:
+    - BT
+    gateway_language: UNKNOWN
+    lang_code: lhp
+    lang_direction: ltr
+    lang_name: Lhokpu
+    lang_region: Asia
+    

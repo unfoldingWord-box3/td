@@ -1,19 +1,19 @@
 {
-    "pk": 2538,
-    "lc": "ito",
+    "gw": false,
     "ISO-639-3": "ito",
-    "ln": "Itonama",
-    "ang": "Itonama",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 2538,
     "lr": "Americas",
+    "lc": "ito",
+    "cc": [
+        "BO"
+    ],
     "alt": [
         "Machoto",
         "Saramo"
     ],
-    "cc": [
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Itonama",
+    "gwcode": "es-419",
+    "ln": "Itonama"
 }

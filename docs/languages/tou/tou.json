@@ -1,22 +1,22 @@
 {
-    "pk": 6259,
-    "lc": "tou",
+    "gw": false,
     "ISO-639-3": "tou",
-    "ln": "Th\u1ed5",
-    "ang": "Tho",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 6259,
     "lr": "Asia",
+    "lc": "tou",
+    "cc": [
+        "LA",
+        "VN"
+    ],
     "alt": [
         "Cuoi",
         "Ho Muong Meridional",
         "Keo",
         "Cuoi Cham (Uy Lo)"
     ],
-    "cc": [
-        "LA",
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Tho",
+    "gwcode": "vi",
+    "ln": "Th\u1ed5"
 }

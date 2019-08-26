@@ -1,21 +1,21 @@
 {
-    "pk": 6607,
-    "lc": "vgr",
+    "gw": false,
     "ISO-639-3": "vgr",
-    "ln": "Vaghri",
-    "ang": "Vaghri",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 6607,
     "lr": "Asia",
+    "lc": "vgr",
+    "cc": [
+        "PK",
+        "IN"
+    ],
     "alt": [
         "Bavri",
         "Salavta",
         "Vaghri Koli"
     ],
-    "cc": [
-        "PK",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Vaghri",
+    "gwcode": "ur",
+    "ln": "Vaghri"
 }

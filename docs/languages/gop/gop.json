@@ -1,19 +1,19 @@
 {
-    "pk": 2104,
-    "lc": "gop",
+    "gw": false,
     "ISO-639-3": "gop",
-    "ln": "Yeretuar",
-    "ang": "Yeretuar",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2104,
     "lr": "Asia",
+    "lc": "gop",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Goni",
         "Umari"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Yeretuar",
+    "gwcode": "id",
+    "ln": "Yeretuar"
 }

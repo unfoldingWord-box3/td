@@ -1,11 +1,14 @@
 {
-    "pk": 3134,
-    "lc": "ksb",
+    "gw": false,
     "ISO-639-3": "ksb",
-    "ln": "Shambala",
-    "ang": "Shambala",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 3134,
     "lr": "Africa",
+    "lc": "ksb",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kisambaa",
         "Kishambaa",
@@ -16,10 +19,7 @@
         "Schambala",
         "Shambaa"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Shambala",
+    "gwcode": "sw",
+    "ln": "Shambala"
 }

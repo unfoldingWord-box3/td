@@ -1,18 +1,18 @@
 {
-    "pk": 6464,
-    "lc": "tzx",
+    "gw": false,
     "ISO-639-3": "tzx",
-    "ln": "Tabriak",
-    "ang": "Tabriak",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6464,
     "lr": "Pacific",
-    "alt": [
-        "Karawari"
-    ],
+    "lc": "tzx",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Karawari"
+    ],
+    "ang": "Tabriak",
+    "gwcode": "tpi",
+    "ln": "Tabriak"
 }

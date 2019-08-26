@@ -1,19 +1,19 @@
 {
-    "pk": 1150,
-    "lc": "ccc",
+    "gw": false,
     "ISO-639-3": "ccc",
-    "ln": "Chamicuro",
-    "ang": "Chamicuro",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 1150,
     "lr": "Americas",
+    "lc": "ccc",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Chamicolo",
         "Chamicura"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chamicuro",
+    "gwcode": "es-419",
+    "ln": "Chamicuro"
 }

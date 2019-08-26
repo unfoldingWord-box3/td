@@ -1,11 +1,15 @@
 {
-    "pk": 6187,
-    "lc": "tlq",
+    "gw": false,
     "ISO-639-3": "tlq",
-    "ln": "Tai Loi",
-    "ang": "Tai Loi",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 6187,
     "lr": "Asia",
+    "lc": "tlq",
+    "cc": [
+        "LA",
+        "MM"
+    ],
     "alt": [
         "Loi",
         "Monglwe",
@@ -19,11 +23,7 @@
         "Muak Sa-aak",
         "Saneung Muak"
     ],
-    "cc": [
-        "LA",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Tai Loi",
+    "gwcode": "my",
+    "ln": "Tai Loi"
 }

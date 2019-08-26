@@ -1,19 +1,19 @@
 {
-    "pk": 6119,
-    "lc": "thy",
+    "gw": false,
     "ISO-639-3": "thy",
-    "ln": "Tha",
-    "ang": "Tha",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 6119,
     "lr": "Africa",
+    "lc": "thy",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Joole Manga",
         "Kapawa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tha",
+    "gwcode": "en",
+    "ln": "Tha"
 }

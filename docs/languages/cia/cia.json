@@ -1,11 +1,14 @@
 {
-    "pk": 1208,
-    "lc": "cia",
+    "gw": false,
     "ISO-639-3": "cia",
-    "ln": "Cia-Cia",
-    "ang": "Cia-Cia",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1208,
     "lr": "Asia",
+    "lc": "cia",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Boetoneezen",
         "Buton",
@@ -15,10 +18,7 @@
         "Southern Butung",
         "Sampolawa (Mambulu-Laporo)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Cia-Cia",
+    "gwcode": "id",
+    "ln": "Cia-Cia"
 }

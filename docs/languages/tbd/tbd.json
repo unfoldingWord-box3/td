@@ -1,11 +1,14 @@
 {
-    "pk": 5987,
-    "lc": "tbd",
+    "gw": false,
     "ISO-639-3": "tbd",
-    "ln": "Kaki Ae",
-    "ang": "Kaki Ae",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5987,
     "lr": "Pacific",
+    "lc": "tbd",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Lorabada",
         "Lou",
@@ -13,10 +16,7 @@
         "Tate",
         "Tati"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kaki Ae",
+    "gwcode": "tpi",
+    "ln": "Kaki Ae"
 }

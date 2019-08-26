@@ -1,11 +1,15 @@
 {
-    "pk": 3720,
-    "lc": "mcs",
+    "gw": false,
     "ISO-639-3": "mcs",
-    "ln": "Mambai",
-    "ang": "Mambai",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3720,
     "lr": "Africa",
+    "lc": "mcs",
+    "cc": [
+        "CM",
+        "TD"
+    ],
     "alt": [
         "Mamgbay",
         "Mamgbei",
@@ -16,11 +20,7 @@
         "Mangba\u00ef de Bipar\u00e9",
         "Momboi"
     ],
-    "cc": [
-        "CM",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mambai",
+    "gwcode": "fr",
+    "ln": "Mambai"
 }

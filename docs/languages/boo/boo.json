@@ -1,11 +1,14 @@
 {
-    "pk": 843,
-    "lc": "boo",
+    "gw": false,
     "ISO-639-3": "boo",
-    "ln": "Tiemac\u00e8w\u00e8 Bozo",
-    "ang": "Bozo, Tiemac\u00e8w\u00e8",
     "hc": "ML",
+    "ld": "ltr",
+    "pk": 843,
     "lr": "Africa",
+    "lc": "boo",
+    "cc": [
+        "ML"
+    ],
     "alt": [
         "Boso",
         "Ti\u00e9",
@@ -14,10 +17,7 @@
         "Tiemacewe",
         "Ti\u00e8mac\u00e8w\u00e8"
     ],
-    "cc": [
-        "ML"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bozo, Tiemac\u00e8w\u00e8",
+    "gwcode": "fr",
+    "ln": "Tiemac\u00e8w\u00e8 Bozo"
 }

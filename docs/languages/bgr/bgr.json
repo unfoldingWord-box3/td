@@ -1,11 +1,16 @@
 {
-    "pk": 651,
-    "lc": "bgr",
+    "gw": false,
     "ISO-639-3": "bgr",
-    "ln": "Bawm Chin",
-    "ang": "Chin, Bawm",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 651,
     "lr": "Asia",
+    "lc": "bgr",
+    "cc": [
+        "BD",
+        "IN",
+        "MM"
+    ],
     "alt": [
         "Bawn",
         "Bawng",
@@ -14,12 +19,7 @@
         "Laisaw",
         "Langkay"
     ],
-    "cc": [
-        "BD",
-        "IN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "ang": "Chin, Bawm",
+    "gwcode": "as",
+    "ln": "Bawm Chin"
 }

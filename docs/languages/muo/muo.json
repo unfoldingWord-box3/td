@@ -1,11 +1,15 @@
 {
-    "pk": 4158,
-    "lc": "muo",
+    "gw": false,
     "ISO-639-3": "muo",
-    "ln": "Nyong",
-    "ang": "Nyong",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4158,
     "lr": "Africa",
+    "lc": "muo",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Daganonga",
         "Daganyonga",
@@ -19,11 +23,7 @@
         "Teteka",
         "Yapeli"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Nyong",
+    "gwcode": "fr",
+    "ln": "Nyong"
 }

@@ -1,22 +1,22 @@
 {
-    "pk": 2773,
-    "lc": "kdn",
+    "gw": false,
     "ISO-639-3": "kdn",
-    "ln": "Kunda",
-    "ang": "Kunda",
     "hc": "ZW",
+    "ld": "ltr",
+    "pk": 2773,
     "lr": "Africa",
-    "alt": [
-        "Chicunda",
-        "Chikunda",
-        "Cikunda"
-    ],
+    "lc": "kdn",
     "cc": [
         "MZ",
         "ZM",
         "ZW"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Chicunda",
+        "Chikunda",
+        "Cikunda"
+    ],
+    "ang": "Kunda",
+    "gwcode": "en",
+    "ln": "Kunda"
 }

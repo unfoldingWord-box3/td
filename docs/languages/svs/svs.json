@@ -1,19 +1,19 @@
 {
-    "pk": 5901,
-    "lc": "svs",
+    "gw": false,
     "ISO-639-3": "svs",
-    "ln": "Savosavo",
-    "ang": "Savosavo",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 5901,
     "lr": "Pacific",
+    "lc": "svs",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Savo",
         "Savo Island"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Savosavo",
+    "gwcode": "UNKNOWN",
+    "ln": "Savosavo"
 }

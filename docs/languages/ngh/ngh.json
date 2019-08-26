@@ -1,11 +1,14 @@
 {
-    "pk": 4415,
-    "lc": "ngh",
+    "gw": false,
     "ISO-639-3": "ngh",
-    "ln": "N|u",
-    "ang": "N|u",
     "hc": "ZA",
+    "ld": "ltr",
+    "pk": 4415,
     "lr": "Africa",
+    "lc": "ngh",
+    "cc": [
+        "ZA"
+    ],
     "alt": [
         "\u2021Khomani",
         "Nghuki",
@@ -17,10 +20,7 @@
         "||Ng!ke (||Ng)",
         "|'Auni"
     ],
-    "cc": [
-        "ZA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "N|u",
+    "gwcode": "en",
+    "ln": "N|u"
 }

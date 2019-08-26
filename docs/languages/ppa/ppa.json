@@ -1,18 +1,18 @@
 {
-    "pk": 5141,
-    "lc": "ppa",
+    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "ln": "Pao",
-    "ang": "Pao",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5141,
     "lr": "Asia",
-    "alt": [
-        "Pabra"
-    ],
+    "lc": "ppa",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "alt": [
+        "Pabra"
+    ],
+    "ang": "Pao",
+    "gwcode": "hi",
+    "ln": "Pao"
 }

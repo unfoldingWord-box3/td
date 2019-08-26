@@ -1,11 +1,14 @@
 {
-    "pk": 3696,
-    "lc": "mbu",
+    "gw": false,
     "ISO-639-3": "mbu",
-    "ln": "Mbula-Bwazza",
-    "ang": "Mbula-Bwazza",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3696,
     "lr": "Africa",
+    "lc": "mbu",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Gwamba (Nkono)",
         "Taumbo",
@@ -18,10 +21,7 @@
         "Bakopi (kunBuko)",
         "kunBwazza"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mbula-Bwazza",
+    "gwcode": "en",
+    "ln": "Mbula-Bwazza"
 }

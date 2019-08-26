@@ -1,18 +1,18 @@
 {
-    "pk": 5037,
-    "lc": "pin",
+    "gw": false,
     "ISO-639-3": "pin",
-    "ln": "Piame",
-    "ang": "Piame",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5037,
     "lr": "Pacific",
-    "alt": [
-        "Biami"
-    ],
+    "lc": "pin",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Biami"
+    ],
+    "ang": "Piame",
+    "gwcode": "tpi",
+    "ln": "Piame"
 }

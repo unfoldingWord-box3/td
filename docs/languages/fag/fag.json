@@ -1,19 +1,19 @@
 {
-    "pk": 1816,
-    "lc": "fag",
+    "gw": false,
     "ISO-639-3": "fag",
-    "ln": "Finongan",
-    "ang": "Finongan",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1816,
     "lr": "Pacific",
+    "lc": "fag",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Finungwan",
         "Mamaa"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Finongan",
+    "gwcode": "tpi",
+    "ln": "Finongan"
 }

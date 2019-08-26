@@ -1,11 +1,14 @@
 {
-    "pk": 2040,
-    "lc": "gjk",
+    "gw": false,
     "ISO-639-3": "gjk",
-    "ln": "Kachi Koli",
-    "ang": "Koli, Kachi",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 2040,
     "lr": "Asia",
+    "lc": "gjk",
+    "cc": [
+        "PK"
+    ],
     "alt": [
         "Kachi Gujarati",
         "Katchi",
@@ -19,10 +22,7 @@
         "Vagri (Kachi Meghwar)",
         "Rabari (Rahabari)"
     ],
-    "cc": [
-        "PK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Koli, Kachi",
+    "gwcode": "ur",
+    "ln": "Kachi Koli"
 }

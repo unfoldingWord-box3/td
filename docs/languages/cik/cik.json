@@ -1,11 +1,14 @@
 {
-    "pk": 1213,
-    "lc": "cik",
+    "gw": false,
     "ISO-639-3": "cik",
-    "ln": "Chitkuli Kinnauri",
-    "ang": "Kinnauri, Chitkuli",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1213,
     "lr": "Asia",
+    "lc": "cik",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Chitkhuli",
         "Chitkuli",
@@ -15,10 +18,7 @@
         "Ts\u00edhuli",
         "Tsitkhuli"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Kinnauri, Chitkuli",
+    "gwcode": "hi",
+    "ln": "Chitkuli Kinnauri"
 }

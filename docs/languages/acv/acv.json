@@ -1,19 +1,19 @@
 {
-    "pk": 66,
-    "lc": "acv",
+    "gw": false,
     "ISO-639-3": "acv",
-    "ln": "Achumawi",
-    "ang": "Achumawi",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 66,
     "lr": "Americas",
+    "lc": "acv",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Achomawi",
         "Pitt River"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Achumawi",
+    "gwcode": "en",
+    "ln": "Achumawi"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 1098,
-    "lc": "bzp",
+    "gw": false,
     "ISO-639-3": "bzp",
-    "ln": "Kemberano",
-    "ang": "Kemberano",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1098,
     "lr": "Asia",
+    "lc": "bzp",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Arandai",
         "Kalitami",
         "Wariagar"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kemberano",
+    "gwcode": "id",
+    "ln": "Kemberano"
 }

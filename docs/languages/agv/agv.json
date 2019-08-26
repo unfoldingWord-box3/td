@@ -1,21 +1,21 @@
 {
-    "pk": 142,
-    "lc": "agv",
+    "gw": false,
     "ISO-639-3": "agv",
-    "ln": "Remontado Dumagat",
-    "ang": "Dumagat, Remontado",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 142,
     "lr": "Asia",
+    "lc": "agv",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Hatang-Kayey",
         "Remontado Agta",
         "Sinauna",
         "Sinauna Tagalog"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Dumagat, Remontado",
+    "gwcode": "ilo",
+    "ln": "Remontado Dumagat"
 }

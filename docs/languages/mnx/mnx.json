@@ -1,20 +1,20 @@
 {
-    "pk": 3996,
-    "lc": "mnx",
+    "gw": false,
     "ISO-639-3": "mnx",
-    "ln": "Manikion",
-    "ang": "Manikion",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3996,
     "lr": "Asia",
+    "lc": "mnx",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Mantion",
         "Sogh",
         "Sougb"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Manikion",
+    "gwcode": "id",
+    "ln": "Manikion"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 4540,
-    "lc": "nmg",
+    "gw": false,
     "ISO-639-3": "nmg",
-    "ln": "Kwasio",
-    "ang": "Kwasio",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4540,
     "lr": "Africa",
+    "lc": "nmg",
+    "cc": [
+        "CM",
+        "GQ"
+    ],
     "alt": [
         "Bujeba",
         "Mabea",
@@ -14,11 +18,7 @@
         "Bisio",
         "Mvumbo (Mekuk)"
     ],
-    "cc": [
-        "CM",
-        "GQ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kwasio",
+    "gwcode": "fr",
+    "ln": "Kwasio"
 }

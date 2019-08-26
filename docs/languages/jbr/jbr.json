@@ -1,19 +1,19 @@
 {
-    "pk": 2588,
-    "lc": "jbr",
+    "gw": false,
     "ISO-639-3": "jbr",
-    "ln": "Jofotek-Bromnya",
-    "ang": "Jofotek-Bromnya",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2588,
     "lr": "Asia",
+    "lc": "jbr",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Jofotek",
         "Bromnya"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Jofotek-Bromnya",
+    "gwcode": "id",
+    "ln": "Jofotek-Bromnya"
 }

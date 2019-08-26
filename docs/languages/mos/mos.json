@@ -1,11 +1,21 @@
 {
-    "pk": 4013,
-    "lc": "mos",
+    "gw": false,
     "ISO-639-3": "mos",
-    "ln": "Mossi",
-    "ang": "M\u00f2or\u00e9",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 4013,
     "lr": "Africa",
+    "lc": "mos",
+    "cc": [
+        "BJ",
+        "BF",
+        "GH",
+        "ML",
+        "NE",
+        "US",
+        "TG",
+        "CA"
+    ],
     "alt": [
         "Mole",
         "Moose",
@@ -21,17 +31,7 @@
         "Ouagadougou",
         "Timbou"
     ],
-    "cc": [
-        "BJ",
-        "BF",
-        "GH",
-        "ML",
-        "NE",
-        "US",
-        "TG",
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "M\u00f2or\u00e9",
+    "gwcode": "fr",
+    "ln": "Mossi"
 }

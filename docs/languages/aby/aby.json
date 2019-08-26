@@ -1,19 +1,19 @@
 {
-    "pk": 51,
-    "lc": "aby",
+    "gw": false,
     "ISO-639-3": "aby",
-    "ln": "Aneme Wake",
-    "ang": "Aneme Wake",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 51,
     "lr": "Pacific",
+    "lc": "aby",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Abia",
         "Abie"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Aneme Wake",
+    "gwcode": "tpi",
+    "ln": "Aneme Wake"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 6334,
-    "lc": "tsl",
+    "gw": false,
     "ISO-639-3": "tsl",
-    "ln": "Ts'\u00fcn-Lao",
-    "ang": "Ts\u2019\u00fcn-Lao",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 6334,
     "lr": "Asia",
-    "alt": [
-        "Lao"
-    ],
+    "lc": "tsl",
     "cc": [
         "VN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "alt": [
+        "Lao"
+    ],
+    "ang": "Ts\u2019\u00fcn-Lao",
+    "gwcode": "vi",
+    "ln": "Ts'\u00fcn-Lao"
 }

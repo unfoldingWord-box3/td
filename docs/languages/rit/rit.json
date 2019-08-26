@@ -1,11 +1,14 @@
 {
-    "pk": 5363,
-    "lc": "rit",
+    "gw": false,
     "ISO-639-3": "rit",
-    "ln": "Ritarungo",
-    "ang": "Ritarungo",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 5363,
     "lr": "Pacific",
+    "lc": "rit",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Ridarngo",
         "Ridharrngu",
@@ -14,10 +17,7 @@
         "Wagelak",
         "Wawilag"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ritarungo",
+    "gwcode": "en",
+    "ln": "Ritarungo"
 }

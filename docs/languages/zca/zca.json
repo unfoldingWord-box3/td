@@ -1,18 +1,18 @@
 {
-    "pk": 7361,
-    "lc": "zca",
+    "gw": false,
     "ISO-639-3": "zca",
-    "ln": "Coatecas Altas Zapotec",
-    "ang": "Zapotec, Coatecas Altas",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7361,
     "lr": "Americas",
-    "alt": [
-        "Zapoteco de San Juan Coatecas Altas"
-    ],
+    "lc": "zca",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Zapoteco de San Juan Coatecas Altas"
+    ],
+    "ang": "Zapotec, Coatecas Altas",
+    "gwcode": "es-419",
+    "ln": "Coatecas Altas Zapotec"
 }

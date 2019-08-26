@@ -1,20 +1,20 @@
 {
-    "pk": 134,
-    "lc": "agm",
+    "gw": false,
     "ISO-639-3": "agm",
-    "ln": "Angaataha",
-    "ang": "Angaataha",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 134,
     "lr": "Pacific",
+    "lc": "agm",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Angaatiya",
         "Angataha",
         "Langimar"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Angaataha",
+    "gwcode": "tpi",
+    "ln": "Angaataha"
 }

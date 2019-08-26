@@ -1,20 +1,20 @@
 {
-    "pk": 2933,
-    "lc": "kka",
+    "gw": false,
     "ISO-639-3": "kka",
-    "ln": "Kakanda",
-    "ang": "Kakanda",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2933,
     "lr": "Africa",
+    "lc": "kka",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Adyaktye",
         "Akanda",
         "Hyabe"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kakanda",
+    "gwcode": "en",
+    "ln": "Kakanda"
 }

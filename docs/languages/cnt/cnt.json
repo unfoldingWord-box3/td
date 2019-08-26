@@ -1,18 +1,18 @@
 {
-    "pk": 1282,
-    "lc": "cnt",
+    "gw": false,
     "ISO-639-3": "cnt",
-    "ln": "Tepetotutla Chinantec",
-    "ang": "Chinantec, Tepetotutla",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1282,
     "lr": "Americas",
-    "alt": [
-        "Chinanteco del Oeste Central Bajo"
-    ],
+    "lc": "cnt",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Chinanteco del Oeste Central Bajo"
+    ],
+    "ang": "Chinantec, Tepetotutla",
+    "gwcode": "es-419",
+    "ln": "Tepetotutla Chinantec"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 5561,
-    "lc": "seu",
+    "gw": false,
     "ISO-639-3": "seu",
-    "ln": "Serui-Laut",
-    "ang": "Serui-Laut",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5561,
     "lr": "Asia",
-    "alt": [
-        "Arui"
-    ],
+    "lc": "seu",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Arui"
+    ],
+    "ang": "Serui-Laut",
+    "gwcode": "id",
+    "ln": "Serui-Laut"
 }

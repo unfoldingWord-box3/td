@@ -1,20 +1,20 @@
 {
-    "pk": 1284,
-    "lc": "cnw",
+    "gw": false,
     "ISO-639-3": "cnw",
-    "ln": "Ngawn Chin",
-    "ang": "Chin, Ngawn",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1284,
     "lr": "Asia",
+    "lc": "cnw",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Ngawn",
         "Ngon",
         "Ngorn"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Chin, Ngawn",
+    "gwcode": "my",
+    "ln": "Ngawn Chin"
 }

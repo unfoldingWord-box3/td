@@ -1,11 +1,14 @@
 {
-    "pk": 435,
-    "lc": "avv",
+    "gw": false,
     "ISO-639-3": "avv",
-    "ln": "Av\u00e1-Canoeiro",
-    "ang": "Av\u00e1-Canoeiro",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 435,
     "lr": "Americas",
+    "lc": "avv",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Ab\u00e1",
         "Av\u00e1",
@@ -14,10 +17,7 @@
         "Canoe",
         "Canoeiros"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Av\u00e1-Canoeiro",
+    "gwcode": "pt",
+    "ln": "Av\u00e1-Canoeiro"
 }

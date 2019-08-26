@@ -1,19 +1,19 @@
 {
-    "pk": 4559,
-    "lc": "nna",
+    "gw": false,
     "ISO-639-3": "nna",
-    "ln": "Nyangumarta",
-    "ang": "Nyangumarta",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4559,
     "lr": "Pacific",
+    "lc": "nna",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Nyangumarda",
         "Nyangumata"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nyangumarta",
+    "gwcode": "en",
+    "ln": "Nyangumarta"
 }

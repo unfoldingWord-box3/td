@@ -1,18 +1,18 @@
 {
-    "pk": 1718,
-    "lc": "ekl",
+    "gw": false,
     "ISO-639-3": "ekl",
-    "ln": "Kol (Bangladesh)",
-    "ang": "Kol",
     "hc": "BD",
+    "ld": "ltr",
+    "pk": 1718,
     "lr": "Asia",
-    "alt": [
-        "Hor"
-    ],
+    "lc": "ekl",
     "cc": [
         "BD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "alt": [
+        "Hor"
+    ],
+    "ang": "Kol",
+    "gwcode": "bn",
+    "ln": "Kol (Bangladesh)"
 }

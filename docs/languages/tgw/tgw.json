@@ -1,21 +1,21 @@
 {
-    "pk": 6097,
-    "lc": "tgw",
+    "gw": false,
     "ISO-639-3": "tgw",
-    "ln": "Tagwana Senoufo",
-    "ang": "S\u00e9noufo, Tagwana",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 6097,
     "lr": "Africa",
+    "lc": "tgw",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Tagbana",
         "Tagouna",
         "Tagwana",
         "Gbo (Zoro)"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "S\u00e9noufo, Tagwana",
+    "gwcode": "fr",
+    "ln": "Tagwana Senoufo"
 }

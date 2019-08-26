@@ -1,11 +1,15 @@
 {
-    "pk": 5174,
-    "lc": "prx",
+    "gw": false,
     "ISO-639-3": "prx",
-    "ln": "Purik",
-    "ang": "Purik",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5174,
     "lr": "Asia",
+    "lc": "prx",
+    "cc": [
+        "CN",
+        "IN"
+    ],
     "alt": [
         "Burig",
         "Burigskat",
@@ -13,11 +17,7 @@
         "Purik Bhotia",
         "Purki"
     ],
-    "cc": [
-        "CN",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Purik",
+    "gwcode": "ur",
+    "ln": "Purik"
 }

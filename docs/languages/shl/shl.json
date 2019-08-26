@@ -1,22 +1,22 @@
 {
-    "pk": 5602,
-    "lc": "shl",
+    "gw": false,
     "ISO-639-3": "shl",
-    "ln": "Shendu",
-    "ang": "Shendu",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5602,
     "lr": "Asia",
+    "lc": "shl",
+    "cc": [
+        "BD",
+        "IN"
+    ],
     "alt": [
         "Khieng",
         "Khyen",
         "Sandu",
         "Shandu"
     ],
-    "cc": [
-        "BD",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Shendu",
+    "gwcode": "en",
+    "ln": "Shendu"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 14,
-    "lc": "aah",
+    "gw": false,
     "ISO-639-3": "aah",
-    "ln": "Abu' Arapesh",
-    "ang": "Arapesh, Abu\u2019",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 14,
     "lr": "Pacific",
-    "alt": [
-        "Ua"
-    ],
+    "lc": "aah",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Ua"
+    ],
+    "ang": "Arapesh, Abu\u2019",
+    "gwcode": "tpi",
+    "ln": "Abu' Arapesh"
 }

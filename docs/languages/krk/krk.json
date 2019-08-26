@@ -1,19 +1,19 @@
 {
-    "pk": 3118,
-    "lc": "krk",
+    "gw": false,
     "ISO-639-3": "krk",
-    "ln": "\u041a\u0435\u0440\u0435\u043a\u0441\u043a\u0438\u0439",
-    "ang": "Kerek",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 3118,
     "lr": "Europe",
+    "lc": "krk",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Mainypilgino (Majna-Pil'ginskij)",
         "Khatyrka (Xatyrskij)"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Kerek",
+    "gwcode": "ru",
+    "ln": "\u041a\u0435\u0440\u0435\u043a\u0441\u043a\u0438\u0439"
 }

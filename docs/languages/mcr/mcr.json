@@ -1,18 +1,18 @@
 {
-    "pk": 3719,
-    "lc": "mcr",
+    "gw": false,
     "ISO-639-3": "mcr",
-    "ln": "Menya",
-    "ang": "Menya",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3719,
     "lr": "Pacific",
-    "alt": [
-        "Menyama"
-    ],
+    "lc": "mcr",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Menyama"
+    ],
+    "ang": "Menya",
+    "gwcode": "tpi",
+    "ln": "Menya"
 }

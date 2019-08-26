@@ -1,11 +1,14 @@
 {
-    "pk": 4532,
-    "lc": "nly",
+    "gw": false,
     "ISO-639-3": "nly",
-    "ln": "Nyamal",
-    "ang": "Nyamal",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4532,
     "lr": "Pacific",
+    "lc": "nly",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Gnamo",
         "Namel",
@@ -13,10 +16,7 @@
         "Njamarl",
         "Nyamel"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nyamal",
+    "gwcode": "en",
+    "ln": "Nyamal"
 }

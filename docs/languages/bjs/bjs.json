@@ -1,18 +1,18 @@
 {
-    "pk": 724,
-    "lc": "bjs",
+    "gw": false,
     "ISO-639-3": "bjs",
-    "ln": "Bajan",
-    "ang": "Bajan",
     "hc": "BB",
+    "ld": "ltr",
+    "pk": 724,
     "lr": "Americas",
-    "alt": [
-        "Barbadian Creole English"
-    ],
+    "lc": "bjs",
     "cc": [
         "BB"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Barbadian Creole English"
+    ],
+    "ang": "Bajan",
+    "gwcode": "en",
+    "ln": "Bajan"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 5534,
-    "lc": "sdm",
+    "gw": false,
     "ISO-639-3": "sdm",
-    "ln": "Semandang",
-    "ang": "Semandang",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5534,
     "lr": "Asia",
+    "lc": "sdm",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kualan-Semandang",
         "Komi"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Semandang",
+    "gwcode": "id",
+    "ln": "Semandang"
 }

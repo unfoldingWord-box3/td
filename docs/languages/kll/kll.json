@@ -1,19 +1,19 @@
 {
-    "pk": 2971,
-    "lc": "kll",
+    "gw": false,
     "ISO-639-3": "kll",
-    "ln": "Kagan Kalagan",
-    "ang": "Kalagan, Kagan",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2971,
     "lr": "Asia",
+    "lc": "kll",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Kaagan",
         "Kagan Kalagan"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Kalagan, Kagan",
+    "gwcode": "ceb",
+    "ln": "Kagan Kalagan"
 }

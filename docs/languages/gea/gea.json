@@ -1,19 +1,19 @@
 {
-    "pk": 1980,
-    "lc": "gea",
+    "gw": false,
     "ISO-639-3": "gea",
-    "ln": "Geruma",
-    "ang": "Geruma",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1980,
     "lr": "Africa",
+    "lc": "gea",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Gerema",
         "Germa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Geruma",
+    "gwcode": "en",
+    "ln": "Geruma"
 }

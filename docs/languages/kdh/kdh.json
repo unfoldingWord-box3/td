@@ -1,11 +1,16 @@
 {
-    "pk": 2767,
-    "lc": "kdh",
+    "gw": false,
     "ISO-639-3": "kdh",
-    "ln": "Tem",
-    "ang": "Tem",
     "hc": "TG",
+    "ld": "ltr",
+    "pk": 2767,
     "lr": "Africa",
+    "lc": "kdh",
+    "cc": [
+        "BJ",
+        "GH",
+        "TG"
+    ],
     "alt": [
         "Cotocoli",
         "Kotokoli",
@@ -14,12 +19,7 @@
         "Timu",
         "Temba"
     ],
-    "cc": [
-        "BJ",
-        "GH",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Tem",
+    "gwcode": "fr",
+    "ln": "Tem"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 95,
-    "lc": "aee",
+    "gw": false,
     "ISO-639-3": "aee",
-    "ln": "Northeast Pashai",
-    "ang": "Pashai, Northeast",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 95,
     "lr": "Asia",
+    "lc": "aee",
+    "cc": [
+        "AF"
+    ],
     "alt": [
         "Kurdar",
         "Chalas (Chilas)",
         "Pashai"
     ],
-    "cc": [
-        "AF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Pashai, Northeast",
+    "gwcode": "ps",
+    "ln": "Northeast Pashai"
 }

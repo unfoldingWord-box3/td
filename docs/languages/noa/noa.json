@@ -1,11 +1,15 @@
 {
-    "pk": 4582,
-    "lc": "noa",
+    "gw": false,
     "ISO-639-3": "noa",
-    "ln": "Woun Meu",
-    "ang": "Woun Meu",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 4582,
     "lr": "Americas",
+    "lc": "noa",
+    "cc": [
+        "PA",
+        "CO"
+    ],
     "alt": [
         "Waumeo",
         "Waun Meo",
@@ -16,11 +20,7 @@
         "Nonama",
         "Wounmeu"
     ],
-    "cc": [
-        "PA",
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Woun Meu",
+    "gwcode": "es-419",
+    "ln": "Woun Meu"
 }

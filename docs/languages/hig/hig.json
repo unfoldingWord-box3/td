@@ -1,11 +1,15 @@
 {
-    "pk": 2268,
-    "lc": "hig",
+    "gw": false,
     "ISO-639-3": "hig",
-    "ln": "Kamwe",
-    "ang": "Kamwe",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2268,
     "lr": "Africa",
+    "lc": "hig",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Higgi",
         "Higi",
@@ -15,11 +19,7 @@
         "Humsi",
         "Modi"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kamwe",
+    "gwcode": "en",
+    "ln": "Kamwe"
 }

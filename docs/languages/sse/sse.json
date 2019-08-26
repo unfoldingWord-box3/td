@@ -1,11 +1,15 @@
 {
-    "pk": 5830,
-    "lc": "sse",
+    "gw": false,
     "ISO-639-3": "sse",
-    "ln": "Balangingi",
-    "ang": "Sama, Balangingih",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5830,
     "lr": "Asia",
+    "lc": "sse",
+    "cc": [
+        "MY",
+        "PH"
+    ],
     "alt": [
         "Baangingi'",
         "Balagnini",
@@ -27,11 +31,7 @@
         "Sibuguey (Batuan)",
         "Lutangan (Lutango)"
     ],
-    "cc": [
-        "MY",
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Sama, Balangingih",
+    "gwcode": "en",
+    "ln": "Balangingi"
 }

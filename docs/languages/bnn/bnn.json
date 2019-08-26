@@ -1,11 +1,14 @@
 {
-    "pk": 818,
-    "lc": "bnn",
+    "gw": false,
     "ISO-639-3": "bnn",
-    "ln": "Bunun",
-    "ang": "Bunun",
     "hc": "TW",
+    "ld": "ltr",
+    "pk": 818,
     "lr": "Asia",
+    "lc": "bnn",
+    "cc": [
+        "TW"
+    ],
     "alt": [
         "Bubukun",
         "Bunan",
@@ -28,10 +31,7 @@
         "Central Bunun (Takbanuao)",
         "North Bunun (Takebakha)"
     ],
-    "cc": [
-        "TW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Bunun",
+    "gwcode": "zh",
+    "ln": "Bunun"
 }

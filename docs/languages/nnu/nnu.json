@@ -1,21 +1,21 @@
 {
-    "pk": 4578,
-    "lc": "nnu",
+    "gw": false,
     "ISO-639-3": "nnu",
-    "ln": "Dwang",
-    "ang": "Dwang",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 4578,
     "lr": "Africa",
+    "lc": "nnu",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Dwan",
         "Nchumunu",
         "Bekye",
         "Kenyen"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dwang",
+    "gwcode": "en",
+    "ln": "Dwang"
 }

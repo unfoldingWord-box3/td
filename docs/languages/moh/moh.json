@@ -1,19 +1,19 @@
 {
-    "pk": 4004,
-    "lc": "moh",
+    "gw": false,
     "ISO-639-3": "moh",
-    "ln": "Mohawk",
-    "ang": "Mohawk",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 4004,
     "lr": "Americas",
-    "alt": [
-        "Kanien'k\u00e9ha"
-    ],
+    "lc": "moh",
     "cc": [
         "US",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Kanien'k\u00e9ha"
+    ],
+    "ang": "Mohawk",
+    "gwcode": "en",
+    "ln": "Mohawk"
 }

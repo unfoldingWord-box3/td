@@ -1,20 +1,20 @@
 {
-    "pk": 1292,
-    "lc": "cof",
+    "gw": false,
     "ISO-639-3": "cof",
-    "ln": "Colorado",
-    "ang": "Colorado",
     "hc": "EC",
+    "ld": "ltr",
+    "pk": 1292,
     "lr": "Americas",
+    "lc": "cof",
+    "cc": [
+        "EC"
+    ],
     "alt": [
         "Tsachila",
         "Tsafiki",
         "Tsafiqui"
     ],
-    "cc": [
-        "EC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Colorado",
+    "gwcode": "es-419",
+    "ln": "Colorado"
 }

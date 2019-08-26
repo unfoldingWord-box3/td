@@ -1,11 +1,15 @@
 {
-    "pk": 973,
-    "lc": "bud",
+    "gw": false,
     "ISO-639-3": "bud",
-    "ln": "Ntcham",
-    "ang": "Ntcham",
     "hc": "TG",
+    "ld": "ltr",
+    "pk": 973,
     "lr": "Africa",
+    "lc": "bud",
+    "cc": [
+        "GH",
+        "TG"
+    ],
     "alt": [
         "Basar",
         "Basare",
@@ -16,11 +20,7 @@
         "Tobote",
         "Dipiitil"
     ],
-    "cc": [
-        "GH",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ntcham",
+    "gwcode": "fr",
+    "ln": "Ntcham"
 }

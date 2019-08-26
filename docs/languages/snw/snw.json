@@ -1,19 +1,19 @@
 {
-    "pk": 5745,
-    "lc": "snw",
+    "gw": false,
     "ISO-639-3": "snw",
-    "ln": "Selee",
-    "ang": "Selee",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 5745,
     "lr": "Africa",
+    "lc": "snw",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Sele",
         "Sentrokofi"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Selee",
+    "gwcode": "en",
+    "ln": "Selee"
 }

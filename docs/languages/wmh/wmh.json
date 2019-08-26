@@ -1,21 +1,21 @@
 {
-    "pk": 6769,
-    "lc": "wmh",
+    "gw": false,
     "ISO-639-3": "wmh",
-    "ln": "Waima'a",
-    "ang": "Waima\u2019a",
     "hc": "TL",
+    "ld": "ltr",
+    "pk": 6769,
     "lr": "Asia",
+    "lc": "wmh",
+    "cc": [
+        "TL"
+    ],
     "alt": [
         "Uai Ma'a",
         "Uaimo'a",
         "Waimaha",
         "Waimoa"
     ],
-    "cc": [
-        "TL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Waima\u2019a",
+    "gwcode": "pt",
+    "ln": "Waima'a"
 }

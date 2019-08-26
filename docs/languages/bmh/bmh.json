@@ -1,21 +1,21 @@
 {
-    "pk": 788,
-    "lc": "bmh",
+    "gw": false,
     "ISO-639-3": "bmh",
-    "ln": "Kein",
-    "ang": "Kein",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 788,
     "lr": "Pacific",
+    "lc": "bmh",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Bemal",
         "Kibam",
         "Sigau",
         "Sog"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kein",
+    "gwcode": "tpi",
+    "ln": "Kein"
 }

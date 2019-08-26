@@ -1,11 +1,15 @@
 {
-    "pk": 6377,
-    "lc": "tue",
+    "gw": false,
     "ISO-639-3": "tue",
-    "ln": "Tuyuca",
-    "ang": "Tuyuca",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 6377,
     "lr": "Americas",
+    "lc": "tue",
+    "cc": [
+        "BR",
+        "CO"
+    ],
     "alt": [
         "Dochkafuara",
         "Doka-Poara",
@@ -14,11 +18,7 @@
         "Tuyuka",
         "Tejuca"
     ],
-    "cc": [
-        "BR",
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Tuyuca",
+    "gwcode": "es-419",
+    "ln": "Tuyuca"
 }

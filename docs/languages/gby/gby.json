@@ -1,11 +1,14 @@
 {
-    "pk": 1950,
-    "lc": "gby",
+    "gw": false,
     "ISO-639-3": "gby",
-    "ln": "Gbari",
-    "ang": "Gbari",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1950,
     "lr": "Africa",
+    "lc": "gby",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Gbari Yamma",
         "Gwari Yamma",
@@ -17,10 +20,7 @@
         "Kangye",
         "Paiko"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gbari",
+    "gwcode": "en",
+    "ln": "Gbari"
 }

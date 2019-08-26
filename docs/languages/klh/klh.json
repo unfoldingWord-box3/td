@@ -1,19 +1,19 @@
 {
-    "pk": 2967,
-    "lc": "klh",
+    "gw": false,
     "ISO-639-3": "klh",
-    "ln": "Weliki",
-    "ang": "Weliki",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2967,
     "lr": "Pacific",
+    "lc": "klh",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Karangi",
         "Weleki"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Weliki",
+    "gwcode": "tpi",
+    "ln": "Weliki"
 }

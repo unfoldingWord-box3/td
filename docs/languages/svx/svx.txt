@@ -1,0 +1,22 @@
+.. _svx:
+
+Skalvian
+========
+
+This language is spoken in the following countries:
+
+* LT: Lithuania
+
+.. code-block:: yaml
+
+    ISO_639-3: svx
+    alternate_names: []
+    anglicanized_name: Slalvian
+    country_codes:
+    - LT
+    gateway_language: UNKNOWN
+    lang_code: svx
+    lang_direction: ltr
+    lang_name: Skalvian
+    lang_region: Europe
+    

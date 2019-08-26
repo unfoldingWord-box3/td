@@ -1,18 +1,18 @@
 {
-    "pk": 1131,
-    "lc": "caz",
+    "gw": false,
     "ISO-639-3": "caz",
-    "ln": "Canichana",
-    "ang": "Canichana",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 1131,
     "lr": "Americas",
-    "alt": [
-        "Kanichana"
-    ],
+    "lc": "caz",
     "cc": [
         "BO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Kanichana"
+    ],
+    "ang": "Canichana",
+    "gwcode": "es-419",
+    "ln": "Canichana"
 }

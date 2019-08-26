@@ -1,18 +1,18 @@
 {
-    "pk": 5592,
-    "lc": "sha",
+    "gw": false,
     "ISO-639-3": "sha",
-    "ln": "Shall-Zwall",
-    "ang": "Shall-Zwall",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 5592,
     "lr": "Africa",
-    "alt": [
-        "Shall (Shal)"
-    ],
+    "lc": "sha",
     "cc": [
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Shall (Shal)"
+    ],
+    "ang": "Shall-Zwall",
+    "gwcode": "en",
+    "ln": "Shall-Zwall"
 }

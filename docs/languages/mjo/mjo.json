@@ -1,21 +1,21 @@
 {
-    "pk": 3889,
-    "lc": "mjo",
+    "gw": false,
     "ISO-639-3": "mjo",
-    "ln": "Malankuravan",
-    "ang": "Malankuravan",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3889,
     "lr": "Asia",
+    "lc": "mjo",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Mala Koravan",
         "Malaikuravan",
         "Malakkuravan",
         "Male Kuravan"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ml"
+    "ang": "Malankuravan",
+    "gwcode": "ml",
+    "ln": "Malankuravan"
 }

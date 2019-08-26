@@ -1,11 +1,14 @@
 {
-    "pk": 4218,
-    "lc": "mxe",
+    "gw": false,
     "ISO-639-3": "mxe",
-    "ln": "Mele-Fila",
-    "ang": "Mele-Fila",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 4218,
     "lr": "Pacific",
+    "lc": "mxe",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Fila-Mele",
         "Ifara-Mele",
@@ -13,10 +16,7 @@
         "Fila (Efira)",
         "Fira"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mele-Fila",
+    "gwcode": "fr",
+    "ln": "Mele-Fila"
 }

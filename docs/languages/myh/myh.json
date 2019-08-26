@@ -1,19 +1,19 @@
 {
-    "pk": 4247,
-    "lc": "myh",
+    "gw": false,
     "ISO-639-3": "myh",
-    "ln": "Makah",
-    "ang": "Makah",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 4247,
     "lr": "Americas",
+    "lc": "myh",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Kweedishchaaht",
         "Kwe-Nee-Chee-Aht"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Makah",
+    "gwcode": "en",
+    "ln": "Makah"
 }

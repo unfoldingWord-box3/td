@@ -1,20 +1,20 @@
 {
-    "pk": 3718,
-    "lc": "mcq",
+    "gw": false,
     "ISO-639-3": "mcq",
-    "ln": "Ese",
-    "ang": "Ese",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3718,
     "lr": "Pacific",
+    "lc": "mcq",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Managalasi",
         "Managulasi",
         "Numba"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Ese",
+    "gwcode": "tpi",
+    "ln": "Ese"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 139,
-    "lc": "ags",
+    "gw": false,
     "ISO-639-3": "ags",
-    "ln": "Esimbi",
-    "ang": "Esimbi",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 139,
     "lr": "Africa",
+    "lc": "ags",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Upper Esimbi",
         "Lower Esimbi",
@@ -19,10 +22,7 @@
         "Mburugam",
         "Simpi"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Esimbi",
+    "gwcode": "fr",
+    "ln": "Esimbi"
 }

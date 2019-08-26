@@ -1,11 +1,14 @@
 {
-    "pk": 3254,
-    "lc": "kwu",
+    "gw": false,
     "ISO-639-3": "kwu",
-    "ln": "Kwakum",
-    "ang": "Kwakum",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3254,
     "lr": "Africa",
+    "lc": "kwu",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Abakoum",
         "Abakum",
@@ -17,10 +20,7 @@
         "Beten (Bethen)",
         "Petem"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kwakum",
+    "gwcode": "fr",
+    "ln": "Kwakum"
 }

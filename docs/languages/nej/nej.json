@@ -1,18 +1,18 @@
 {
-    "pk": 4388,
-    "lc": "nej",
+    "gw": false,
     "ISO-639-3": "nej",
-    "ln": "Neko",
-    "ang": "Neko",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4388,
     "lr": "Pacific",
-    "alt": [
-        "Yarete"
-    ],
+    "lc": "nej",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Yarete"
+    ],
+    "ang": "Neko",
+    "gwcode": "tpi",
+    "ln": "Neko"
 }

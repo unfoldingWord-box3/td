@@ -1,21 +1,21 @@
 {
-    "pk": 7116,
-    "lc": "yag",
+    "gw": false,
     "ISO-639-3": "yag",
-    "ln": "Y\u00e1mana",
-    "ang": "Y\u00e1mana",
     "hc": "CL",
+    "ld": "ltr",
+    "pk": 7116,
     "lr": "Americas",
+    "lc": "yag",
+    "cc": [
+        "CL"
+    ],
     "alt": [
         "Yahgan",
         "Tequenica",
         "Yag\u00e1n",
         "Yaghan"
     ],
-    "cc": [
-        "CL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Y\u00e1mana",
+    "gwcode": "es-419",
+    "ln": "Y\u00e1mana"
 }

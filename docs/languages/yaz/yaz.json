@@ -1,21 +1,21 @@
 {
-    "pk": 7135,
-    "lc": "yaz",
+    "gw": false,
     "ISO-639-3": "yaz",
-    "ln": "Lokaa",
-    "ang": "Lokaa",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 7135,
     "lr": "Africa",
+    "lc": "yaz",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Loke",
         "Loko",
         "Luko",
         "Yak\u00f6"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lokaa",
+    "gwcode": "en",
+    "ln": "Lokaa"
 }

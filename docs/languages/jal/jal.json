@@ -1,21 +1,21 @@
 {
-    "pk": 2573,
-    "lc": "jal",
+    "gw": false,
     "ISO-639-3": "jal",
-    "ln": "Yalahatan",
-    "ang": "Yalahatan",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2573,
     "lr": "Asia",
+    "lc": "jal",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Atamanu",
         "Awaiya",
         "Jahalatan",
         "Jahalatane"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Yalahatan",
+    "gwcode": "id",
+    "ln": "Yalahatan"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 1726,
-    "lc": "elh",
+    "gw": false,
     "ISO-639-3": "elh",
-    "ln": "El Hugeirat",
-    "ang": "El Hugeirat",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 1726,
     "lr": "Africa",
-    "alt": [
-        "El Hagarat"
-    ],
+    "lc": "elh",
     "cc": [
         "SD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "El Hagarat"
+    ],
+    "ang": "El Hugeirat",
+    "gwcode": "ar",
+    "ln": "El Hugeirat"
 }

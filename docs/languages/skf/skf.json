@@ -1,11 +1,14 @@
 {
-    "pk": 5662,
-    "lc": "skf",
+    "gw": false,
     "ISO-639-3": "skf",
-    "ln": "Sakirabi\u00e1",
-    "ang": "Sakirabi\u00e1",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 5662,
     "lr": "Americas",
+    "lc": "skf",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Mek\u00e9m",
         "Mekens",
@@ -16,10 +19,7 @@
         "Sakiriabar",
         "Sakurabiat"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Sakirabi\u00e1",
+    "gwcode": "pt",
+    "ln": "Sakirabi\u00e1"
 }

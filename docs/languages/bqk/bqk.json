@@ -1,11 +1,15 @@
 {
-    "pk": 883,
-    "lc": "bqk",
+    "gw": false,
     "ISO-639-3": "bqk",
-    "ln": "Banda-Mbr\u00e8s",
-    "ang": "Banda-Mbr\u00e8s",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 883,
     "lr": "Africa",
+    "lc": "bqk",
+    "cc": [
+        "CF",
+        "SS"
+    ],
     "alt": [
         "Banda of Mbr\u00e8s",
         "Banda-Mbre",
@@ -17,11 +21,7 @@
         "Wada (Ouadda)",
         "Mbre (Mbele)"
     ],
-    "cc": [
-        "CF",
-        "SS"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Banda-Mbr\u00e8s",
+    "gwcode": "fr",
+    "ln": "Banda-Mbr\u00e8s"
 }

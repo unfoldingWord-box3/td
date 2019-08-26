@@ -1,19 +1,19 @@
 {
-    "pk": 4736,
-    "lc": "nyl",
+    "gw": false,
     "ISO-639-3": "nyl",
-    "ln": "Nyeu",
-    "ang": "Nyeu",
     "hc": "TH",
+    "ld": "ltr",
+    "pk": 4736,
     "lr": "Asia",
+    "lc": "nyl",
+    "cc": [
+        "TH"
+    ],
     "alt": [
         "Yeu",
         "Yoe"
     ],
-    "cc": [
-        "TH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "th"
+    "ang": "Nyeu",
+    "gwcode": "th",
+    "ln": "Nyeu"
 }

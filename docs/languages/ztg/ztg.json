@@ -1,19 +1,19 @@
 {
-    "pk": 7476,
-    "lc": "ztg",
+    "gw": false,
     "ISO-639-3": "ztg",
-    "ln": "Xanagu\u00eda Zapotec",
-    "ang": "Zapotec, Xanagu\u00eda",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7476,
     "lr": "Americas",
+    "lc": "ztg",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Diidz Z\u00eb",
         "Zapoteco de Santa Catarina Xanagu\u00eda"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Xanagu\u00eda",
+    "gwcode": "es-419",
+    "ln": "Xanagu\u00eda Zapotec"
 }

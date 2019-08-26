@@ -1,19 +1,19 @@
 {
-    "pk": 4142,
-    "lc": "mtv",
+    "gw": false,
     "ISO-639-3": "mtv",
-    "ln": "Asaro'o",
-    "ang": "Asaro\u2019o",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4142,
     "lr": "Pacific",
+    "lc": "mtv",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Morafa",
         "Molet"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Asaro\u2019o",
+    "gwcode": "tpi",
+    "ln": "Asaro'o"
 }

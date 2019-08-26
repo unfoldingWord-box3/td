@@ -1,19 +1,19 @@
 {
-    "pk": 4137,
-    "lc": "mtq",
+    "gw": false,
     "ISO-639-3": "mtq",
-    "ln": "Ti\u1ebfng M\u01b0\u1eddng",
-    "ang": "Muong",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 4137,
     "lr": "Asia",
+    "lc": "mtq",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Ao T\u00e1 (Au T\u00e1)",
         "Boi Bi (Moi Bi)"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Muong",
+    "gwcode": "vi",
+    "ln": "Ti\u1ebfng M\u01b0\u1eddng"
 }

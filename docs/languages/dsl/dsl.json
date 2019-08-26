@@ -1,16 +1,16 @@
 {
-    "pk": 1633,
-    "lc": "dsl",
+    "gw": false,
     "ISO-639-3": "dsl",
-    "ln": "Danish Sign Language",
-    "ang": "Danish Sign Language",
     "hc": "DK",
+    "ld": "ltr",
+    "pk": 1633,
     "lr": "Europe",
-    "alt": [],
+    "lc": "dsl",
     "cc": [
         "DK"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [],
+    "ang": "Danish Sign Language",
+    "gwcode": "en",
+    "ln": "Danish Sign Language"
 }

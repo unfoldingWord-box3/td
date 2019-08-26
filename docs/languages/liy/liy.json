@@ -1,21 +1,21 @@
 {
-    "pk": 3474,
-    "lc": "liy",
+    "gw": false,
     "ISO-639-3": "liy",
-    "ln": "Banda-Bambari",
-    "ang": "Banda-Bambari",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 3474,
     "lr": "Africa",
+    "lc": "liy",
+    "cc": [
+        "CF"
+    ],
     "alt": [
         "Banda of Bambari",
         "Banda-Linda",
         "Ngapo (Ngapu)",
         "Joto (Jeto)"
     ],
-    "cc": [
-        "CF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Banda-Bambari",
+    "gwcode": "fr",
+    "ln": "Banda-Bambari"
 }

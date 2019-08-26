@@ -1,19 +1,19 @@
 {
-    "pk": 4073,
-    "lc": "mrc",
+    "gw": false,
     "ISO-639-3": "mrc",
-    "ln": "Maricopa",
-    "ang": "Maricopa",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 4073,
     "lr": "Americas",
+    "lc": "mrc",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Cocomaricopa",
         "Piipaash"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Maricopa",
+    "gwcode": "en",
+    "ln": "Maricopa"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 3454,
-    "lc": "lia",
+    "gw": false,
     "ISO-639-3": "lia",
-    "ln": "West-Central Limba",
-    "ang": "Limba, West-Central",
     "hc": "SL",
+    "ld": "ltr",
+    "pk": 3454,
     "lr": "Africa",
+    "lc": "lia",
+    "cc": [
+        "GN",
+        "SL"
+    ],
     "alt": [
         "Yimba",
         "Yumba",
@@ -14,11 +18,7 @@
         "Tonko",
         "Western Limba (Sela)"
     ],
-    "cc": [
-        "GN",
-        "SL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Limba, West-Central",
+    "gwcode": "en",
+    "ln": "West-Central Limba"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 861,
-    "lc": "bpl",
+    "gw": false,
     "ISO-639-3": "bpl",
-    "ln": "Broome Pearling Lugger Pidgin",
-    "ang": "Broome Pearling Lugger Pidgin",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 861,
     "lr": "Pacific",
+    "lc": "bpl",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Broom Creole",
         "Japanese Pidgin English",
         "Koepang Talk",
         "Malay Talk"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Broome Pearling Lugger Pidgin",
+    "gwcode": "en",
+    "ln": "Broome Pearling Lugger Pidgin"
 }

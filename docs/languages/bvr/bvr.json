@@ -1,11 +1,14 @@
 {
-    "pk": 1011,
-    "lc": "bvr",
+    "gw": false,
     "ISO-639-3": "bvr",
-    "ln": "Burarra",
-    "ang": "Burarra",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 1011,
     "lr": "Pacific",
+    "lc": "bvr",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Anbarra",
         "Barera",
@@ -19,10 +22,7 @@
         "Jikai",
         "Tchikai"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Burarra",
+    "gwcode": "en",
+    "ln": "Burarra"
 }

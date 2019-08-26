@@ -1,18 +1,18 @@
 {
-    "pk": 7120,
-    "lc": "yak",
+    "gw": false,
     "ISO-639-3": "yak",
-    "ln": "Yakama",
-    "ang": "Yakama",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 7120,
     "lr": "Americas",
-    "alt": [
-        "Ichishk\u00edin"
-    ],
+    "lc": "yak",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Ichishk\u00edin"
+    ],
+    "ang": "Yakama",
+    "gwcode": "en",
+    "ln": "Yakama"
 }

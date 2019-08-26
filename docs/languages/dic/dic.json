@@ -1,11 +1,14 @@
 {
-    "pk": 1521,
-    "lc": "dic",
+    "gw": false,
     "ISO-639-3": "dic",
-    "ln": "Lakota Dida",
-    "ang": "Dida, Lakota",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 1521,
     "lr": "Africa",
+    "lc": "dic",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Brabori",
         "Dieko",
@@ -14,10 +17,7 @@
         "Satro",
         "Ziki"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dida, Lakota",
+    "gwcode": "fr",
+    "ln": "Lakota Dida"
 }

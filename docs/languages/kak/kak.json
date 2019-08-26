@@ -1,11 +1,14 @@
 {
-    "pk": 2703,
-    "lc": "kak",
+    "gw": false,
     "ISO-639-3": "kak",
-    "ln": "Kayapa Kallahan",
-    "ang": "Kallahan, Kayapa",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2703,
     "lr": "Asia",
+    "lc": "kak",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Ikalahan",
         "Kalangoya-Ikalahan",
@@ -14,10 +17,7 @@
         "Northern Kalanguya (Ambaguio)",
         "Southern Kalanguya (Santa Fe)"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Kallahan, Kayapa",
+    "gwcode": "ilo",
+    "ln": "Kayapa Kallahan"
 }

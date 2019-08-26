@@ -1,18 +1,18 @@
 {
-    "pk": 1027,
-    "lc": "bwk",
+    "gw": false,
     "ISO-639-3": "bwk",
-    "ln": "Bauwaki",
-    "ang": "Bauwaki",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1027,
     "lr": "Pacific",
-    "alt": [
-        "Bawaki"
-    ],
+    "lc": "bwk",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Bawaki"
+    ],
+    "ang": "Bauwaki",
+    "gwcode": "tpi",
+    "ln": "Bauwaki"
 }

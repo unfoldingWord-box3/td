@@ -1,18 +1,18 @@
 {
-    "pk": 1257,
-    "lc": "clt",
+    "gw": false,
     "ISO-639-3": "clt",
-    "ln": "Lautu Chin",
-    "ang": "Chin, Lautu",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1257,
     "lr": "Asia",
-    "alt": [
-        "Lawhtu"
-    ],
+    "lc": "clt",
     "cc": [
         "MM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "alt": [
+        "Lawhtu"
+    ],
+    "ang": "Chin, Lautu",
+    "gwcode": "my",
+    "ln": "Lautu Chin"
 }

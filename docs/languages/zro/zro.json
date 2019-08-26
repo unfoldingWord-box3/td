@@ -1,20 +1,20 @@
 {
-    "pk": 7467,
-    "lc": "zro",
+    "gw": false,
     "ISO-639-3": "zro",
-    "ln": "Z\u00e1paro",
-    "ang": "Z\u00e1paro",
     "hc": "EC",
+    "ld": "ltr",
+    "pk": 7467,
     "lr": "Americas",
+    "lc": "zro",
+    "cc": [
+        "EC"
+    ],
     "alt": [
         "Kayapwe",
         "S\u00e1para",
         "Z\u00e1para"
     ],
-    "cc": [
-        "EC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Z\u00e1paro",
+    "gwcode": "es-419",
+    "ln": "Z\u00e1paro"
 }

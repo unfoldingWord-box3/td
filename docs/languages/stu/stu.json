@@ -1,20 +1,20 @@
 {
-    "pk": 5871,
-    "lc": "stu",
+    "gw": false,
     "ISO-639-3": "stu",
-    "ln": "Samtao",
-    "ang": "Samtao",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 5871,
     "lr": "Asia",
-    "alt": [
-        "Samtau",
-        "Samtuan"
-    ],
+    "lc": "stu",
     "cc": [
         "LA",
         "MM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "alt": [
+        "Samtau",
+        "Samtuan"
+    ],
+    "ang": "Samtao",
+    "gwcode": "my",
+    "ln": "Samtao"
 }

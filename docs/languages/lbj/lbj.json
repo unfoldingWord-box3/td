@@ -1,11 +1,16 @@
 {
-    "pk": 3363,
-    "lc": "lbj",
+    "gw": false,
     "ISO-639-3": "lbj",
-    "ln": "Ladakhi",
-    "ang": "Ladakhi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3363,
     "lr": "Asia",
+    "lc": "lbj",
+    "cc": [
+        "CN",
+        "PK",
+        "IN"
+    ],
     "alt": [
         "Ladak",
         "Ladaphi",
@@ -17,12 +22,7 @@
         "Shamskat",
         "Leh (Central Ladakhi)"
     ],
-    "cc": [
-        "CN",
-        "PK",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ladakhi",
+    "gwcode": "en",
+    "ln": "Ladakhi"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 5670,
-    "lc": "sko",
+    "gw": false,
     "ISO-639-3": "sko",
-    "ln": "Seko Tengah",
-    "ang": "Seko Tengah",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5670,
     "lr": "Asia",
+    "lc": "sko",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Pewanean",
         "Pewaneang",
         "Pohoneang",
         "Seko"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Seko Tengah",
+    "gwcode": "id",
+    "ln": "Seko Tengah"
 }

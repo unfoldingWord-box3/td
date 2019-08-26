@@ -1,11 +1,14 @@
 {
-    "pk": 3973,
-    "lc": "mmz",
+    "gw": false,
     "ISO-639-3": "mmz",
-    "ln": "Mabaale",
-    "ang": "Mabaale",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3973,
     "lr": "Africa",
+    "lc": "mmz",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Lomabaale",
         "Mabale",
@@ -14,10 +17,7 @@
         "Mbinga",
         "Banza"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mabaale",
+    "gwcode": "fr",
+    "ln": "Mabaale"
 }

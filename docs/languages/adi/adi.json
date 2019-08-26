@@ -1,11 +1,15 @@
 {
-    "pk": 78,
-    "lc": "adi",
+    "gw": false,
     "ISO-639-3": "adi",
-    "ln": "Adi",
-    "ang": "Adi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 78,
     "lr": "Asia",
+    "lc": "adi",
+    "cc": [
+        "CN",
+        "IN"
+    ],
     "alt": [
         "Abor",
         "Adi-Bokar",
@@ -21,11 +25,7 @@
         "Bokar (Boga'er Luoba)",
         "Bogaer Luoba"
     ],
-    "cc": [
-        "CN",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "ang": "Adi",
+    "gwcode": "as",
+    "ln": "Adi"
 }

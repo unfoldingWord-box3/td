@@ -1,18 +1,18 @@
 {
-    "pk": 5483,
-    "lc": "sbe",
+    "gw": false,
     "ISO-639-3": "sbe",
-    "ln": "Saliba",
-    "ang": "Saliba",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5483,
     "lr": "Pacific",
-    "alt": [
-        "Loga"
-    ],
+    "lc": "sbe",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Loga"
+    ],
+    "ang": "Saliba",
+    "gwcode": "tpi",
+    "ln": "Saliba"
 }

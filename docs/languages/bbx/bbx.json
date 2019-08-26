@@ -1,11 +1,14 @@
 {
-    "pk": 531,
-    "lc": "bbx",
+    "gw": false,
     "ISO-639-3": "bbx",
-    "ln": "Bubia",
-    "ang": "Bubia",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 531,
     "lr": "Africa",
+    "lc": "bbx",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bobe",
         "Bobea",
@@ -13,10 +16,7 @@
         "Ewota",
         "Wovea"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bubia",
+    "gwcode": "fr",
+    "ln": "Bubia"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 2409,
-    "lc": "ibm",
+    "gw": false,
     "ISO-639-3": "ibm",
-    "ln": "Agoi",
-    "ang": "Agoi",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2409,
     "lr": "Africa",
+    "lc": "ibm",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ibami",
         "Ro Bambami",
         "Wa Bambani",
         "Wagoi"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Agoi",
+    "gwcode": "en",
+    "ln": "Agoi"
 }

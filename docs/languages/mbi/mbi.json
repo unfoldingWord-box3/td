@@ -1,20 +1,20 @@
 {
-    "pk": 3684,
-    "lc": "mbi",
+    "gw": false,
     "ISO-639-3": "mbi",
-    "ln": "Ilianen Manobo",
-    "ang": "Manobo, Ilianen",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 3684,
     "lr": "Asia",
+    "lc": "mbi",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Ilianen",
         "Arakan",
         "Pulangiyan"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Manobo, Ilianen",
+    "gwcode": "ceb",
+    "ln": "Ilianen Manobo"
 }

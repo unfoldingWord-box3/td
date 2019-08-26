@@ -1,19 +1,19 @@
 {
-    "pk": 5510,
-    "lc": "sch",
+    "gw": false,
     "ISO-639-3": "sch",
-    "ln": "Sakachep",
-    "ang": "Sakachep",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5510,
     "lr": "Asia",
+    "lc": "sch",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Sankechep",
         "Thangkachep"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "ang": "Sakachep",
+    "gwcode": "as",
+    "ln": "Sakachep"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 1865,
-    "lc": "fos",
+    "gw": false,
     "ISO-639-3": "fos",
-    "ln": "Siraya",
-    "ang": "Siraya",
     "hc": "TW",
+    "ld": "ltr",
+    "pk": 1865,
     "lr": "Asia",
+    "lc": "fos",
+    "cc": [
+        "TW"
+    ],
     "alt": [
         "Lamai",
         "Takaraya",
@@ -23,10 +26,7 @@
         "Siraia",
         "Siraiya"
     ],
-    "cc": [
-        "TW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Siraya",
+    "gwcode": "zh",
+    "ln": "Siraya"
 }

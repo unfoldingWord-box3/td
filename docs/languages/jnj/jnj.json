@@ -1,11 +1,14 @@
 {
-    "pk": 2653,
-    "lc": "jnj",
+    "gw": false,
     "ISO-639-3": "jnj",
-    "ln": "Yemsa",
-    "ang": "Yemsa",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 2653,
     "lr": "Africa",
+    "lc": "jnj",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Yem",
         "Yemma",
@@ -15,10 +18,7 @@
         "Yangaro",
         "Zinjero"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Yemsa",
+    "gwcode": "am",
+    "ln": "Yemsa"
 }

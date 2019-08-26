@@ -1,11 +1,15 @@
 {
-    "pk": 1741,
-    "lc": "emp",
+    "gw": false,
     "ISO-639-3": "emp",
-    "ln": "Northern Ember\u00e1",
-    "ang": "Ember\u00e1, Northern",
     "hc": "PA",
+    "ld": "ltr",
+    "pk": 1741,
     "lr": "Americas",
+    "lc": "emp",
+    "cc": [
+        "PA",
+        "CO"
+    ],
     "alt": [
         "Atrato",
         "Cholo",
@@ -23,11 +27,7 @@
         "Eer\u00e3",
         "Empera"
     ],
-    "cc": [
-        "PA",
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Ember\u00e1, Northern",
+    "gwcode": "es-419",
+    "ln": "Northern Ember\u00e1"
 }

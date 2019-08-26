@@ -1,20 +1,20 @@
 {
-    "pk": 1921,
-    "lc": "gas",
+    "gw": false,
     "ISO-639-3": "gas",
-    "ln": "Adiwasi Garasia",
-    "ang": "Garasia, Adiwasi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1921,
     "lr": "Asia",
+    "lc": "gas",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Adiwasi Girasia",
         "Adiwasi Gujarati",
         "Girasia"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "gu"
+    "ang": "Garasia, Adiwasi",
+    "gwcode": "gu",
+    "ln": "Adiwasi Garasia"
 }

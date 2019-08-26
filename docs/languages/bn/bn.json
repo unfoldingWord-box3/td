@@ -1,21 +1,11 @@
 {
-    "pk": 805,
-    "lc": "bn",
+    "gw": true,
     "ISO-639-3": "ben",
-    "ln": "\u09ac\u09be\u0982\u09b2\u09be",
-    "ang": "Bengali, Bangla",
     "hc": "BD",
+    "ld": "ltr",
+    "pk": 805,
     "lr": "Asia",
-    "alt": [
-        "Bangala",
-        "Bangla-Bhasa",
-        "Siripuria (Kishanganjia)",
-        "Barisal",
-        "Khulna",
-        "Lohari-Malpaharia",
-        "Mymensingh",
-        "Noakhali"
-    ],
+    "lc": "bn",
     "cc": [
         "BD",
         "FR",
@@ -37,7 +27,17 @@
         "MM",
         "AE"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [
+        "Bangala",
+        "Bangla-Bhasa",
+        "Siripuria (Kishanganjia)",
+        "Barisal",
+        "Khulna",
+        "Lohari-Malpaharia",
+        "Mymensingh",
+        "Noakhali"
+    ],
+    "ang": "Bengali, Bangla",
+    "gwcode": "UNKNOWN",
+    "ln": "\u09ac\u09be\u0982\u09b2\u09be"
 }

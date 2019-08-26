@@ -1,21 +1,21 @@
 {
-    "pk": 2623,
-    "lc": "jio",
+    "gw": false,
     "ISO-639-3": "jio",
-    "ln": "\u52a0\u8302",
-    "ang": "Jiamao",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2623,
     "lr": "Asia",
+    "lc": "jio",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Gevou",
         "Kamau",
         "Ku vou",
         "Tai"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Jiamao",
+    "gwcode": "zh",
+    "ln": "\u52a0\u8302"
 }

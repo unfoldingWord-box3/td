@@ -1,18 +1,18 @@
 {
-    "pk": 10,
-    "lc": "aad",
+    "gw": false,
     "ISO-639-3": "aad",
-    "ln": "Amal",
-    "ang": "Amal",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 10,
     "lr": "Pacific",
-    "alt": [
-        "Alai"
-    ],
+    "lc": "aad",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Alai"
+    ],
+    "ang": "Amal",
+    "gwcode": "tpi",
+    "ln": "Amal"
 }

@@ -1,11 +1,23 @@
 {
-    "pk": 3775,
-    "lc": "mey",
+    "gw": false,
     "ISO-639-3": "mey",
-    "ln": "\u062d\u0633\u0627\u0646\u064a\u0629",
-    "ang": "Hassaniyya",
     "hc": "MR",
+    "ld": "rtl",
+    "pk": 3775,
     "lr": "Africa",
+    "lc": "mey",
+    "cc": [
+        "DZ",
+        "FR",
+        "ML",
+        "MR",
+        "MA",
+        "NE",
+        "US",
+        "TD",
+        "CA",
+        "LY"
+    ],
     "alt": [
         "Hasanya",
         "Hassani",
@@ -23,19 +35,7 @@
         "Klem El Bithan",
         "Hasaniya"
     ],
-    "cc": [
-        "DZ",
-        "FR",
-        "ML",
-        "MR",
-        "MA",
-        "NE",
-        "US",
-        "TD",
-        "CA",
-        "LY"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ar"
+    "ang": "Hassaniyya",
+    "gwcode": "ar",
+    "ln": "\u062d\u0633\u0627\u0646\u064a\u0629"
 }

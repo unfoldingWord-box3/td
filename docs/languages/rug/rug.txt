@@ -1,0 +1,25 @@
+.. _rug:
+
+Roviana
+=======
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: rug
+    alternate_names:
+    - Robiana
+    - Rubiana
+    - Ruviana
+    anglicanized_name: Roviana
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: rug
+    lang_direction: ltr
+    lang_name: Roviana
+    lang_region: Pacific
+    

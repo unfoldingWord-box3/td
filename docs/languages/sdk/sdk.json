@@ -1,21 +1,21 @@
 {
-    "pk": 5532,
-    "lc": "sdk",
+    "gw": false,
     "ISO-639-3": "sdk",
-    "ln": "Sos Kundi",
-    "ang": "Sos Kundi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5532,
     "lr": "Pacific",
+    "lc": "sdk",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Agbane",
         "Agbanekundi",
         "Akbana",
         "Soskundi"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Sos Kundi",
+    "gwcode": "tpi",
+    "ln": "Sos Kundi"
 }

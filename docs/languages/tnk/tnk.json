@@ -1,19 +1,19 @@
 {
-    "pk": 6227,
-    "lc": "tnk",
+    "gw": false,
     "ISO-639-3": "tnk",
-    "ln": "Kwamera",
-    "ang": "Kwamera",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 6227,
     "lr": "Pacific",
+    "lc": "tnk",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Ncfe",
         "Nxnincfe"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kwamera",
+    "gwcode": "fr",
+    "ln": "Kwamera"
 }

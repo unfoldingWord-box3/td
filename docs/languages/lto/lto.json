@@ -1,18 +1,18 @@
 {
-    "pk": 3612,
-    "lc": "lto",
+    "gw": false,
     "ISO-639-3": "lto",
-    "ln": "Tsotso",
-    "ang": "Olutsotso",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 3612,
     "lr": "Africa",
-    "alt": [
-        "Tsotso"
-    ],
+    "lc": "lto",
     "cc": [
         "KE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "alt": [
+        "Tsotso"
+    ],
+    "ang": "Olutsotso",
+    "gwcode": "sw",
+    "ln": "Tsotso"
 }

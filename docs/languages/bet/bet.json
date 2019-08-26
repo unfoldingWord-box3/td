@@ -1,20 +1,20 @@
 {
-    "pk": 602,
-    "lc": "bet",
+    "gw": false,
     "ISO-639-3": "bet",
-    "ln": "Guiberoua B\u00e9te",
-    "ang": "B\u00e9t\u00e9, Guiberoua",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 602,
     "lr": "Africa",
+    "lc": "bet",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Central B\u00e9t\u00e9",
         "Western B\u00e9t\u00e9",
         "Guiberoua"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "B\u00e9t\u00e9, Guiberoua",
+    "gwcode": "fr",
+    "ln": "Guiberoua B\u00e9te"
 }

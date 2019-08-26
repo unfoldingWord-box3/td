@@ -1,20 +1,20 @@
 {
-    "pk": 44,
-    "lc": "abr",
+    "gw": false,
     "ISO-639-3": "abr",
-    "ln": "Abron",
-    "ang": "Abron",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 44,
     "lr": "Africa",
+    "lc": "abr",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Bron",
         "Doma",
         "Gyaman"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Abron",
+    "gwcode": "en",
+    "ln": "Abron"
 }

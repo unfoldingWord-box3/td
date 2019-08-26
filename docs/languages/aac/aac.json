@@ -1,18 +1,18 @@
 {
-    "pk": 9,
-    "lc": "aac",
+    "gw": false,
     "ISO-639-3": "aac",
-    "ln": "Ari",
-    "ang": "Ari",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 9,
     "lr": "Pacific",
-    "alt": [
-        "Serea"
-    ],
+    "lc": "aac",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Serea"
+    ],
+    "ang": "Ari",
+    "gwcode": "tpi",
+    "ln": "Ari"
 }

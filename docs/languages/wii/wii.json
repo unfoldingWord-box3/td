@@ -1,19 +1,19 @@
 {
-    "pk": 6737,
-    "lc": "wii",
+    "gw": false,
     "ISO-639-3": "wii",
-    "ln": "Minidien",
-    "ang": "Minidien",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6737,
     "lr": "Pacific",
+    "lc": "wii",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Miniden",
         "Wiakei"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Minidien",
+    "gwcode": "tpi",
+    "ln": "Minidien"
 }

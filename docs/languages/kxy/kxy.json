@@ -1,20 +1,20 @@
 {
-    "pk": 3281,
-    "lc": "kxy",
+    "gw": false,
     "ISO-639-3": "kxy",
-    "ln": "Kayong",
-    "ang": "Kayong",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 3281,
     "lr": "Asia",
+    "lc": "kxy",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Ca Giong",
         "Kagiuong",
         "Katang"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Kayong",
+    "gwcode": "vi",
+    "ln": "Kayong"
 }

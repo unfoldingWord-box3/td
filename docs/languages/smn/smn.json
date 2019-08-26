@@ -1,11 +1,14 @@
 {
-    "pk": 5714,
-    "lc": "smn",
+    "gw": false,
     "ISO-639-3": "smn",
-    "ln": "Inari Sami",
-    "ang": "Saami, Inari",
     "hc": "FI",
+    "ld": "ltr",
+    "pk": 5714,
     "lr": "Europe",
+    "lc": "smn",
+    "cc": [
+        "FI"
+    ],
     "alt": [
         "Anar",
         "Saam",
@@ -16,10 +19,7 @@
         "Inari Lappish",
         "Lapp"
     ],
-    "cc": [
-        "FI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Saami, Inari",
+    "gwcode": "en",
+    "ln": "Inari Sami"
 }

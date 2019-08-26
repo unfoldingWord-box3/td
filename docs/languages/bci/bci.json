@@ -1,19 +1,19 @@
 {
-    "pk": 542,
-    "lc": "bci",
+    "gw": false,
     "ISO-639-3": "bci",
-    "ln": "Baoul\u00e9",
-    "ang": "Baoul\u00e9",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 542,
     "lr": "Africa",
+    "lc": "bci",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Baule",
         "Bawule"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Baoul\u00e9",
+    "gwcode": "fr",
+    "ln": "Baoul\u00e9"
 }

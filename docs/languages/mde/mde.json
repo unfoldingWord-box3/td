@@ -1,11 +1,15 @@
 {
-    "pk": 3732,
-    "lc": "mde",
+    "gw": false,
     "ISO-639-3": "mde",
-    "ln": "Maba (Chad)",
-    "ang": "Maba",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 3732,
     "lr": "Africa",
+    "lc": "mde",
+    "cc": [
+        "SD",
+        "TD"
+    ],
     "alt": [
         "Borgu",
         "Bura Mabang",
@@ -21,11 +25,7 @@
         "Kodroy",
         "Kondongo"
     ],
-    "cc": [
-        "SD",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Maba",
+    "gwcode": "ar",
+    "ln": "Maba (Chad)"
 }

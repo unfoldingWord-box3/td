@@ -1,19 +1,19 @@
 {
-    "pk": 7072,
-    "lc": "xtt",
+    "gw": false,
     "ISO-639-3": "xtt",
-    "ln": "Tacahua Mixtec",
-    "ang": "Mixtec, Tacahua",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7072,
     "lr": "Americas",
+    "lc": "xtt",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Mixteco de Santa Cruz Tacahua",
         "Mixteco del Sur Medio"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Tacahua",
+    "gwcode": "es-419",
+    "ln": "Tacahua Mixtec"
 }

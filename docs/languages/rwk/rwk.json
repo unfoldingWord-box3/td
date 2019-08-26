@@ -1,21 +1,21 @@
 {
-    "pk": 5449,
-    "lc": "rwk",
+    "gw": false,
     "ISO-639-3": "rwk",
-    "ln": "Rwa",
-    "ang": "Rwa",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 5449,
     "lr": "Africa",
+    "lc": "rwk",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kirwa",
         "Kirwo",
         "Rwo",
         "Kihai (Meru)"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Rwa",
+    "gwcode": "sw",
+    "ln": "Rwa"
 }

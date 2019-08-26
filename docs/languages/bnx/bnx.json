@@ -1,21 +1,21 @@
 {
-    "pk": 827,
-    "lc": "bnx",
+    "gw": false,
     "ISO-639-3": "bnx",
-    "ln": "Bangubangu",
-    "ang": "Bangubangu",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 827,
     "lr": "Africa",
+    "lc": "bnx",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Bangobango",
         "Kibangobango",
         "Nonda",
         "Sanzi"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bangubangu",
+    "gwcode": "fr",
+    "ln": "Bangubangu"
 }

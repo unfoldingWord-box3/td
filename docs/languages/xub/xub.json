@@ -1,19 +1,19 @@
 {
-    "pk": 7078,
-    "lc": "xub",
+    "gw": false,
     "ISO-639-3": "xub",
-    "ln": "Betta Kurumba",
-    "ang": "Kurumba, Betta",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 7078,
     "lr": "Asia",
+    "lc": "xub",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Kadu Kurumba",
         "Urali Kurumba"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ta"
+    "ang": "Kurumba, Betta",
+    "gwcode": "ta",
+    "ln": "Betta Kurumba"
 }

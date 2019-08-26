@@ -1,21 +1,21 @@
 {
-    "pk": 3339,
-    "lc": "laf",
+    "gw": false,
     "ISO-639-3": "laf",
-    "ln": "Lafofa",
-    "ang": "Lafofa",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 3339,
     "lr": "Africa",
+    "lc": "laf",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Tekeim",
         "Jebel El Amira (El Amira)",
         "Jebel Tekeim (Jebel)",
         "Tegem"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Lafofa",
+    "gwcode": "ar",
+    "ln": "Lafofa"
 }

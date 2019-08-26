@@ -1,21 +1,21 @@
 {
-    "pk": 5773,
-    "lc": "spc",
+    "gw": false,
     "ISO-639-3": "spc",
-    "ln": "Sap\u00e9",
-    "ang": "Sap\u00e9",
     "hc": "VE",
+    "ld": "ltr",
+    "pk": 5773,
     "lr": "Americas",
+    "lc": "spc",
+    "cc": [
+        "VE"
+    ],
     "alt": [
         "Caliana",
         "Chirichano",
         "Kali\u00e1na",
         "Kariana"
     ],
-    "cc": [
-        "VE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Sap\u00e9",
+    "gwcode": "es-419",
+    "ln": "Sap\u00e9"
 }

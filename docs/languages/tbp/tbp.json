@@ -1,11 +1,14 @@
 {
-    "pk": 5998,
-    "lc": "tbp",
+    "gw": false,
     "ISO-639-3": "tbp",
-    "ln": "Taworta",
-    "ang": "Diebroud",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5998,
     "lr": "Asia",
+    "lc": "tbp",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Bok",
         "Dabra",
@@ -13,10 +16,7 @@
         "Taria",
         "Taworta-Aero"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Diebroud",
+    "gwcode": "id",
+    "ln": "Taworta"
 }

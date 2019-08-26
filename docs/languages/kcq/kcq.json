@@ -1,21 +1,21 @@
 {
-    "pk": 2752,
-    "lc": "kcq",
+    "gw": false,
     "ISO-639-3": "kcq",
-    "ln": "Kamo",
-    "ang": "Kamo",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2752,
     "lr": "Africa",
+    "lc": "kcq",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kamu",
         "Ma",
         "Nubama",
         "Nyima"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kamo",
+    "gwcode": "en",
+    "ln": "Kamo"
 }

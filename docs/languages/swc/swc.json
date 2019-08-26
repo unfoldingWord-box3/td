@@ -1,18 +1,18 @@
 {
-    "pk": 5905,
-    "lc": "swc",
+    "gw": false,
     "ISO-639-3": "swc",
-    "ln": "Congo Swahili",
-    "ang": "Swahili, Congo",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5905,
     "lr": "Africa",
-    "alt": [
-        "Za\u00efre Swahili"
-    ],
+    "lc": "swc",
     "cc": [
         "CD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Za\u00efre Swahili"
+    ],
+    "ang": "Swahili, Congo",
+    "gwcode": "fr",
+    "ln": "Congo Swahili"
 }

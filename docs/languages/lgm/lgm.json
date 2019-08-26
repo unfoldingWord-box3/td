@@ -1,11 +1,14 @@
 {
-    "pk": 3437,
-    "lc": "lgm",
+    "gw": false,
     "ISO-639-3": "lgm",
-    "ln": "Lega-Mwenga",
-    "ang": "Lega-Mwenga",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3437,
     "lr": "Africa",
+    "lc": "lgm",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Ileka Ishile",
         "Ishile",
@@ -16,10 +19,7 @@
         "Rega",
         "Shile"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Lega-Mwenga",
+    "gwcode": "fr",
+    "ln": "Lega-Mwenga"
 }

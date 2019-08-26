@@ -1,11 +1,14 @@
 {
-    "pk": 3035,
-    "lc": "knw",
+    "gw": false,
     "ISO-639-3": "knw",
-    "ln": "Kung-Ekoka",
-    "ang": "Kung-Ekoka",
     "hc": "NA",
+    "ld": "ltr",
+    "pk": 3035,
     "lr": "Africa",
+    "lc": "knw",
+    "cc": [
+        "NA"
+    ],
     "alt": [
         "!Hu",
         "!Ku",
@@ -21,10 +24,7 @@
         "Qx\u00fc",
         "Akhoe"
     ],
-    "cc": [
-        "NA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kung-Ekoka",
+    "gwcode": "en",
+    "ln": "Kung-Ekoka"
 }

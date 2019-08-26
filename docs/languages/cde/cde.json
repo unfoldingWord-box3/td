@@ -1,21 +1,21 @@
 {
-    "pk": 1161,
-    "lc": "cde",
+    "gw": false,
     "ISO-639-3": "cde",
-    "ln": "Chenchu",
-    "ang": "Chenchu",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1161,
     "lr": "Asia",
+    "lc": "cde",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Chenchucoolam",
         "Chenchwar",
         "Chenswar",
         "Choncharu"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Chenchu",
+    "gwcode": "hi",
+    "ln": "Chenchu"
 }

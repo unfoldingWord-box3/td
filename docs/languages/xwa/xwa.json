@@ -1,21 +1,21 @@
 {
-    "pk": 7092,
-    "lc": "xwa",
+    "gw": false,
     "ISO-639-3": "xwa",
-    "ln": "Kwaza",
-    "ang": "Kwaza",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 7092,
     "lr": "Americas",
+    "lc": "xwa",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Coaia",
         "Koai\u00e1",
         "Koaya",
         "Quai\u00e1"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Kwaza",
+    "gwcode": "pt",
+    "ln": "Kwaza"
 }

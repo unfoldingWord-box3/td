@@ -1,11 +1,14 @@
 {
-    "pk": 1653,
-    "lc": "dud",
+    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "ln": "Hun-Saare",
-    "ang": "Hun-Saare",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1653,
     "lr": "Africa",
+    "lc": "dud",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Duka",
         "Dukanchi",
@@ -17,10 +20,7 @@
         "Hun",
         "Hune"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Hun-Saare",
+    "gwcode": "en",
+    "ln": "Hun-Saare"
 }

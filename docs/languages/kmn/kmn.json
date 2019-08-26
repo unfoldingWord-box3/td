@@ -1,18 +1,18 @@
 {
-    "pk": 3000,
-    "lc": "kmn",
+    "gw": false,
     "ISO-639-3": "kmn",
-    "ln": "Awtuw",
-    "ang": "Awtuw",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3000,
     "lr": "Pacific",
-    "alt": [
-        "Kamnum"
-    ],
+    "lc": "kmn",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Kamnum"
+    ],
+    "ang": "Awtuw",
+    "gwcode": "tpi",
+    "ln": "Awtuw"
 }

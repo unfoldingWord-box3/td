@@ -1,18 +1,18 @@
 {
-    "pk": 6819,
-    "lc": "wrx",
+    "gw": false,
     "ISO-639-3": "wrx",
-    "ln": "Wae Rana",
-    "ang": "Wae Rana",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6819,
     "lr": "Asia",
-    "alt": [
-        "Waerana"
-    ],
+    "lc": "wrx",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Waerana"
+    ],
+    "ang": "Wae Rana",
+    "gwcode": "id",
+    "ln": "Wae Rana"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 1458,
-    "lc": "dbv",
+    "gw": false,
     "ISO-639-3": "dbv",
-    "ln": "Dungu",
-    "ang": "Dungu",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1458,
     "lr": "Africa",
+    "lc": "dbv",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Dungi",
         "Dunjawa",
         "Dwingi"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dungu",
+    "gwcode": "en",
+    "ln": "Dungu"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 4574,
-    "lc": "nnq",
+    "gw": false,
     "ISO-639-3": "nnq",
-    "ln": "Ngindo",
-    "ang": "Ngindo",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 4574,
     "lr": "Africa",
+    "lc": "nnq",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kingindo",
         "Magingo",
         "Njindo"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Ngindo",
+    "gwcode": "sw",
+    "ln": "Ngindo"
 }

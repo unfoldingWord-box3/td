@@ -1,18 +1,18 @@
 {
-    "pk": 4689,
-    "lc": "nuq",
+    "gw": false,
     "ISO-639-3": "nuq",
-    "ln": "Nukumanu",
-    "ang": "Nukumanu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4689,
     "lr": "Pacific",
-    "alt": [
-        "Tasman"
-    ],
+    "lc": "nuq",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Tasman"
+    ],
+    "ang": "Nukumanu",
+    "gwcode": "tpi",
+    "ln": "Nukumanu"
 }

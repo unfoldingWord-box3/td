@@ -1,11 +1,17 @@
 {
-    "pk": 7121,
-    "lc": "yal",
+    "gw": false,
     "ISO-639-3": "yal",
-    "ln": "Yalunka",
-    "ang": "Yalunka",
     "hc": "GN",
+    "ld": "ltr",
+    "pk": 7121,
     "lr": "Africa",
+    "lc": "yal",
+    "cc": [
+        "ML",
+        "SN",
+        "GN",
+        "SL"
+    ],
     "alt": [
         "Dialonke",
         "Djallonke",
@@ -18,13 +24,7 @@
         "Jalonk\u00e9",
         "Bafing"
     ],
-    "cc": [
-        "ML",
-        "SN",
-        "GN",
-        "SL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Yalunka",
+    "gwcode": "fr",
+    "ln": "Yalunka"
 }

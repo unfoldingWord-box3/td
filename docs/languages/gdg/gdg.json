@@ -1,20 +1,20 @@
 {
-    "pk": 1966,
-    "lc": "gdg",
+    "gw": false,
     "ISO-639-3": "gdg",
-    "ln": "Ga'dang",
-    "ang": "Ga\u2019dang",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 1966,
     "lr": "Asia",
+    "lc": "gdg",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Baliwon",
         "Gaddang",
         "Ginabwal"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Ga\u2019dang",
+    "gwcode": "ilo",
+    "ln": "Ga'dang"
 }

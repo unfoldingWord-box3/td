@@ -1,19 +1,19 @@
 {
-    "pk": 4901,
-    "lc": "otx",
+    "gw": false,
     "ISO-639-3": "otx",
-    "ln": "Texcatepec Otomi",
-    "ang": "Otomi, Texcatepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4901,
     "lr": "Americas",
+    "lc": "otx",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Northeastern Otom\u00ed",
         "Otom\u00ed de Texcatepec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Otomi, Texcatepec",
+    "gwcode": "es-419",
+    "ln": "Texcatepec Otomi"
 }

@@ -1,0 +1,26 @@
+.. _ntu:
+
+Natügu
+=======
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: ntu
+    alternate_names:
+    - Nambakaengö
+    - Natqgu
+    - Northern Santa Cruz
+    - Ndeni (Deni)
+    anglicanized_name: Natügu
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: ntu
+    lang_direction: ltr
+    lang_name: Natügu
+    lang_region: Pacific
+    

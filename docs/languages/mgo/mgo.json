@@ -1,11 +1,14 @@
 {
-    "pk": 3817,
-    "lc": "mgo",
+    "gw": false,
     "ISO-639-3": "mgo",
-    "ln": "Meta'",
-    "ang": "Meta\u2019",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3817,
     "lr": "Africa",
+    "lc": "mgo",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bameta",
         "Batibo",
@@ -26,10 +29,7 @@
         "Besi",
         "Moghamo (Batibo)"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Meta\u2019",
+    "gwcode": "fr",
+    "ln": "Meta'"
 }

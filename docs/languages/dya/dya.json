@@ -1,11 +1,14 @@
 {
-    "pk": 1679,
-    "lc": "dya",
+    "gw": false,
     "ISO-639-3": "dya",
-    "ln": "Dyan",
-    "ang": "Dyan",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 1679,
     "lr": "Africa",
+    "lc": "dya",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Dan",
         "Dian",
@@ -13,10 +16,7 @@
         "Dyane",
         "Dyanu"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dyan",
+    "gwcode": "fr",
+    "ln": "Dyan"
 }

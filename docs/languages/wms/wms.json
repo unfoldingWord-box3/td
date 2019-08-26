@@ -1,19 +1,19 @@
 {
-    "pk": 6772,
-    "lc": "wms",
+    "gw": false,
     "ISO-639-3": "wms",
-    "ln": "Wambon",
-    "ang": "Wambon",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6772,
     "lr": "Asia",
+    "lc": "wms",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kenon",
         "Kenyam"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Wambon",
+    "gwcode": "id",
+    "ln": "Wambon"
 }

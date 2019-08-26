@@ -1,11 +1,14 @@
 {
-    "pk": 2456,
-    "lc": "ijs",
+    "gw": false,
     "ISO-639-3": "ijs",
-    "ln": "Southeast Ijo",
-    "ang": "Ijo, Southeast",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2456,
     "lr": "Africa",
+    "lc": "ijs",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Brass Ijo",
         "Brass-Nembe",
@@ -15,10 +18,7 @@
         "Ijo",
         "Nembe (Nimbe)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ijo, Southeast",
+    "gwcode": "en",
+    "ln": "Southeast Ijo"
 }

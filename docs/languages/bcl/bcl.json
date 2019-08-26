@@ -1,20 +1,20 @@
 {
-    "pk": 545,
-    "lc": "bcl",
+    "gw": false,
     "ISO-639-3": "bcl",
-    "ln": "Central Bikol",
-    "ang": "Bikol, Central",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 545,
     "lr": "Asia",
-    "alt": [
-        "Bikol",
-        "Central Bicolano"
-    ],
+    "lc": "bcl",
     "cc": [
         "PH",
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tl"
+    "alt": [
+        "Bikol",
+        "Central Bicolano"
+    ],
+    "ang": "Bikol, Central",
+    "gwcode": "tl",
+    "ln": "Central Bikol"
 }

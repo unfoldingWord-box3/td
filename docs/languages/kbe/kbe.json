@@ -1,11 +1,14 @@
 {
-    "pk": 2715,
-    "lc": "kbe",
+    "gw": false,
     "ISO-639-3": "kbe",
-    "ln": "Kanju",
-    "ang": "Kanju",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 2715,
     "lr": "Pacific",
+    "lc": "kbe",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Gandanju",
         "Gandju",
@@ -19,10 +22,7 @@
         "Neogulada",
         "Yaldiye-Ho"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kanju",
+    "gwcode": "en",
+    "ln": "Kanju"
 }

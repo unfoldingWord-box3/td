@@ -1,11 +1,14 @@
 {
-    "pk": 2769,
-    "lc": "kdj",
+    "gw": false,
     "ISO-639-3": "kdj",
-    "ln": "Karamojong",
-    "ang": "Ng\u2019akarimojong",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 2769,
     "lr": "Africa",
+    "lc": "kdj",
+    "cc": [
+        "UG"
+    ],
     "alt": [
         "Karimonjong",
         "Ng'akaramojong",
@@ -16,10 +19,7 @@
         "Bokora",
         "Matheniko"
     ],
-    "cc": [
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ng\u2019akarimojong",
+    "gwcode": "en",
+    "ln": "Karamojong"
 }

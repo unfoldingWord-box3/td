@@ -1,11 +1,14 @@
 {
-    "pk": 6663,
-    "lc": "wa",
+    "gw": false,
     "ISO-639-3": "wln",
-    "ln": "walon",
-    "ang": "Walloon",
     "hc": "BE",
+    "ld": "ltr",
+    "pk": 6663,
     "lr": "Europe",
+    "lc": "wa",
+    "cc": [
+        "BE"
+    ],
     "alt": [
         "Wallon",
         "Western Walloon",
@@ -13,10 +16,7 @@
         "Central Walloon",
         "Eastern Walloon"
     ],
-    "cc": [
-        "BE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Walloon",
+    "gwcode": "fr",
+    "ln": "walon"
 }

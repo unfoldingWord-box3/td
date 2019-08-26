@@ -1,20 +1,20 @@
 {
-    "pk": 5678,
-    "lc": "skx",
+    "gw": false,
     "ISO-639-3": "skx",
-    "ln": "Seko Padang",
-    "ang": "Seko Padang",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5678,
     "lr": "Asia",
+    "lc": "skx",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Seko",
         "Wono",
         "Hono' (Wono)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Seko Padang",
+    "gwcode": "id",
+    "ln": "Seko Padang"
 }

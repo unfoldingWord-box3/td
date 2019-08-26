@@ -1,11 +1,14 @@
 {
-    "pk": 178,
-    "lc": "ais",
+    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "ln": "Nataoran Amis",
-    "ang": "Amis, Nataoran",
     "hc": "TW",
+    "ld": "ltr",
+    "pk": 178,
     "lr": "Asia",
+    "lc": "ais",
+    "cc": [
+        "TW"
+    ],
     "alt": [
         "Nataoran",
         "Natawran",
@@ -17,10 +20,7 @@
         "Cikosowan",
         "Ridaw"
     ],
-    "cc": [
-        "TW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Amis, Nataoran",
+    "gwcode": "zh",
+    "ln": "Nataoran Amis"
 }

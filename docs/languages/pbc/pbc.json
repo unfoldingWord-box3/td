@@ -1,21 +1,21 @@
 {
-    "pk": 4940,
-    "lc": "pbc",
+    "gw": false,
     "ISO-639-3": "pbc",
-    "ln": "Patamona",
-    "ang": "Patamona",
     "hc": "GY",
+    "ld": "ltr",
+    "pk": 4940,
     "lr": "Americas",
+    "lc": "pbc",
+    "cc": [
+        "BR",
+        "GY"
+    ],
     "alt": [
         "Eremagok",
         "Ingariko",
         "Kapon"
     ],
-    "cc": [
-        "BR",
-        "GY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Patamona",
+    "gwcode": "es-419",
+    "ln": "Patamona"
 }

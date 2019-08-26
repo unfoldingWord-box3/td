@@ -1,18 +1,18 @@
 {
-    "pk": 3280,
-    "lc": "kxx",
+    "gw": false,
     "ISO-639-3": "kxx",
-    "ln": "Likuba",
-    "ang": "Likuba",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 3280,
     "lr": "Africa",
-    "alt": [
-        "Kuba"
-    ],
+    "lc": "kxx",
     "cc": [
         "CG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Kuba"
+    ],
+    "ang": "Likuba",
+    "gwcode": "fr",
+    "ln": "Likuba"
 }

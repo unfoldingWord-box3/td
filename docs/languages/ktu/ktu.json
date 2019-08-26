@@ -1,11 +1,14 @@
 {
-    "pk": 3176,
-    "lc": "ktu",
+    "gw": false,
     "ISO-639-3": "ktu",
-    "ln": "Kituba (Democratic Republic of Congo)",
-    "ang": "Kituba",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3176,
     "lr": "Africa",
+    "lc": "ktu",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kibulamatadi",
         "Kikongo Commercial",
@@ -14,10 +17,7 @@
         "Kikongo-Kutuba",
         "Kileta"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kituba",
+    "gwcode": "fr",
+    "ln": "Kituba (Democratic Republic of Congo)"
 }

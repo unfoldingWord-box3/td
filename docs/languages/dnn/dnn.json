@@ -1,11 +1,14 @@
 {
-    "pk": 1586,
-    "lc": "dnn",
+    "gw": false,
     "ISO-639-3": "dnn",
-    "ln": "Dz\u00f9\u00f9ngoo",
-    "ang": "Dz\u00f9\u00f9ngoo",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 1586,
     "lr": "Africa",
+    "lc": "dnn",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Eastern Duun",
         "Kpango",
@@ -16,10 +19,7 @@
         "Kpangoo (Samorogouan)",
         "Kpeengo"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dz\u00f9\u00f9ngoo",
+    "gwcode": "fr",
+    "ln": "Dz\u00f9\u00f9ngoo"
 }

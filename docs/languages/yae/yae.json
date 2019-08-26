@@ -1,20 +1,20 @@
 {
-    "pk": 7114,
-    "lc": "yae",
+    "gw": false,
     "ISO-639-3": "yae",
-    "ln": "Pum\u00e9",
-    "ang": "Pum\u00e9",
     "hc": "VE",
+    "ld": "ltr",
+    "pk": 7114,
     "lr": "Americas",
+    "lc": "yae",
+    "cc": [
+        "VE"
+    ],
     "alt": [
         "Llaruro",
         "Yaruru",
         "Yuap\u00edn"
     ],
-    "cc": [
-        "VE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Pum\u00e9",
+    "gwcode": "es-419",
+    "ln": "Pum\u00e9"
 }

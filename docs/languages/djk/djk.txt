@@ -1,0 +1,44 @@
+.. _djk:
+
+Eastern Maroon Creole
+=====================
+
+This language is spoken in the following countries:
+
+* GF: French Guiana
+* GY: Guyana
+* SR: Suriname
+
+.. code-block:: yaml
+
+    ISO_639-3: djk
+    alternate_names:
+    - Businenge Tongo
+    - Businengee Tongo
+    - Nenge
+    - Nenge Tongo
+    - Nengee
+    - Nengee Tongo
+    - Taki-Taki
+    - Aukan (Aukaans)
+    - Paramaccan (Pamaka)
+    - Pamaka
+    - Okanisi
+    - Njuká
+    - Ndjuká
+    - Aluku (Aloekoe)
+    - Aluku
+    - '"Djuka"'
+    - '"Djoeka"'
+    - Ndyuka
+    anglicanized_name: Aukan
+    country_codes:
+    - GF
+    - GY
+    - SR
+    gateway_language: UNKNOWN
+    lang_code: djk
+    lang_direction: ltr
+    lang_name: Eastern Maroon Creole
+    lang_region: Americas
+    

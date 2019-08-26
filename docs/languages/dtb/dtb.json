@@ -1,11 +1,14 @@
 {
-    "pk": 1638,
-    "lc": "dtb",
+    "gw": false,
     "ISO-639-3": "dtb",
-    "ln": "Labuk-Kinabatangan Kadazan",
-    "ang": "Kadazan, Labuk-Kinabatangan",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 1638,
     "lr": "Asia",
+    "lc": "dtb",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "Eastern Kadazan",
         "Labuk Kadazan",
@@ -18,10 +21,7 @@
         "Mangkak",
         "Mangkok"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Kadazan, Labuk-Kinabatangan",
+    "gwcode": "ms",
+    "ln": "Labuk-Kinabatangan Kadazan"
 }

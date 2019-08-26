@@ -1,19 +1,19 @@
 {
-    "pk": 4217,
-    "lc": "mxd",
+    "gw": false,
     "ISO-639-3": "mxd",
-    "ln": "Modang",
-    "ang": "Modang",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4217,
     "lr": "Asia",
+    "lc": "mxd",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Long We",
         "Kelingan (Long Wai)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Modang",
+    "gwcode": "id",
+    "ln": "Modang"
 }

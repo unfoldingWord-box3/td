@@ -1,19 +1,19 @@
 {
-    "pk": 215,
-    "lc": "alf",
+    "gw": false,
     "ISO-639-3": "alf",
-    "ln": "Alege",
-    "ang": "Alege",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 215,
     "lr": "Africa",
+    "lc": "alf",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Alegi",
         "Uge"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Alege",
+    "gwcode": "en",
+    "ln": "Alege"
 }

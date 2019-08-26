@@ -1,11 +1,14 @@
 {
-    "pk": 27,
-    "lc": "aaz",
+    "gw": false,
     "ISO-639-3": "aaz",
-    "ln": "Amarasi",
-    "ang": "Amarasi",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 27,
     "lr": "Asia",
+    "lc": "aaz",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Ro'is Hero (Kopa)",
         "Ro'is Tais Nonof",
@@ -14,10 +17,7 @@
         "Timor Amarasi",
         "Uab Meto"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Amarasi",
+    "gwcode": "id",
+    "ln": "Amarasi"
 }

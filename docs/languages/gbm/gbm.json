@@ -1,11 +1,14 @@
 {
-    "pk": 1939,
-    "lc": "gbm",
+    "gw": false,
     "ISO-639-3": "gbm",
-    "ln": "Garhwali",
-    "ang": "Garhwali",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1939,
     "lr": "Asia",
+    "lc": "gbm",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Gadhavali",
         "Gadhawala",
@@ -26,10 +29,7 @@
         "Srinagari",
         "Tehri (Gangapariya)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Garhwali",
+    "gwcode": "hi",
+    "ln": "Garhwali"
 }

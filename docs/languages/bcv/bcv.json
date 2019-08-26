@@ -1,20 +1,20 @@
 {
-    "pk": 555,
-    "lc": "bcv",
+    "gw": false,
     "ISO-639-3": "bcv",
-    "ln": "Shoo-Minda-Nye",
-    "ang": "Shoo-Minda-Nye",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 555,
     "lr": "Africa",
+    "lc": "bcv",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Nye (Kunini)",
         "Shoo (Banda)",
         "Minda (Jinleri)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Shoo-Minda-Nye",
+    "gwcode": "en",
+    "ln": "Shoo-Minda-Nye"
 }

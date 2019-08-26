@@ -1,18 +1,18 @@
 {
-    "pk": 5560,
-    "lc": "set",
+    "gw": false,
     "ISO-639-3": "set",
-    "ln": "Sentani",
-    "ang": "Sentani",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5560,
     "lr": "Asia",
-    "alt": [
-        "Buyaka"
-    ],
+    "lc": "set",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Buyaka"
+    ],
+    "ang": "Sentani",
+    "gwcode": "id",
+    "ln": "Sentani"
 }

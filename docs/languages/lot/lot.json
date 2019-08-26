@@ -1,11 +1,14 @@
 {
-    "pk": 3568,
-    "lc": "lot",
+    "gw": false,
     "ISO-639-3": "lot",
-    "ln": "Otuho",
-    "ang": "Otuho",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 3568,
     "lr": "Africa",
+    "lc": "lot",
+    "cc": [
+        "SS"
+    ],
     "alt": [
         "Latooka",
         "Lattuka",
@@ -21,10 +24,7 @@
         "Lomya (Lomia)",
         "Loudo"
     ],
-    "cc": [
-        "SS"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Otuho",
+    "gwcode": "ar",
+    "ln": "Otuho"
 }

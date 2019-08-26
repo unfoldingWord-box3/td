@@ -1,11 +1,14 @@
 {
-    "pk": 494,
-    "lc": "bag",
+    "gw": false,
     "ISO-639-3": "bag",
-    "ln": "Tuki",
-    "ang": "Tuki",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 494,
     "lr": "Africa",
+    "lc": "bag",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bacenga",
         "Baki",
@@ -35,10 +38,7 @@
         "Ngoro (Aki)",
         "Bunju"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Tuki",
+    "gwcode": "fr",
+    "ln": "Tuki"
 }

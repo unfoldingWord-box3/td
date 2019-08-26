@@ -1,22 +1,22 @@
 {
-    "pk": 3072,
-    "lc": "kpo",
+    "gw": false,
     "ISO-639-3": "kpo",
-    "ln": "Ikposo",
-    "ang": "Ikposo",
     "hc": "TG",
+    "ld": "ltr",
+    "pk": 3072,
     "lr": "Africa",
+    "lc": "kpo",
+    "cc": [
+        "GH",
+        "TG"
+    ],
     "alt": [
         "Akposso",
         "Kposo",
         "Iwi (Uwi)",
         "Litime (Badou)"
     ],
-    "cc": [
-        "GH",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ikposo",
+    "gwcode": "fr",
+    "ln": "Ikposo"
 }

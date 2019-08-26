@@ -1,20 +1,20 @@
 {
-    "pk": 5154,
-    "lc": "pqm",
+    "gw": false,
     "ISO-639-3": "pqm",
-    "ln": "Malecite-Passamaquoddy",
-    "ang": "Malecite-Passamaquoddy",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 5154,
     "lr": "Americas",
-    "alt": [
-        "Maliseet-Passamaquoddy",
-        "Malecite (Maliseet)"
-    ],
+    "lc": "pqm",
     "cc": [
         "US",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Maliseet-Passamaquoddy",
+        "Malecite (Maliseet)"
+    ],
+    "ang": "Malecite-Passamaquoddy",
+    "gwcode": "en",
+    "ln": "Malecite-Passamaquoddy"
 }

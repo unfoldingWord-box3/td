@@ -1,19 +1,19 @@
 {
-    "pk": 6457,
-    "lc": "tza",
+    "gw": false,
     "ISO-639-3": "tza",
-    "ln": "Tanzanian Sign Language",
-    "ang": "Tanzanian Sign Language",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 6457,
     "lr": "Africa",
+    "lc": "tza",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Lugha Ya Alama",
         "Lugha Ya Bubu"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Tanzanian Sign Language",
+    "gwcode": "sw",
+    "ln": "Tanzanian Sign Language"
 }

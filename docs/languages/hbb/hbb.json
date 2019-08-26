@@ -1,18 +1,18 @@
 {
-    "pk": 2243,
-    "lc": "hbb",
+    "gw": false,
     "ISO-639-3": "hbb",
-    "ln": "Huba",
-    "ang": "Nya Huba",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2243,
     "lr": "Africa",
-    "alt": [
-        "Chobba"
-    ],
+    "lc": "hbb",
     "cc": [
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Chobba"
+    ],
+    "ang": "Nya Huba",
+    "gwcode": "en",
+    "ln": "Huba"
 }

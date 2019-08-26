@@ -1,11 +1,14 @@
 {
-    "pk": 2697,
-    "lc": "kad",
+    "gw": false,
     "ISO-639-3": "kad",
-    "ln": "Adara",
-    "ang": "Adara",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2697,
     "lr": "Africa",
+    "lc": "kad",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ada (E'da)",
         "Adara (Kadara)",
@@ -13,10 +16,7 @@
         "Misiyen",
         "Misiyo"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Adara",
+    "gwcode": "en",
+    "ln": "Adara"
 }

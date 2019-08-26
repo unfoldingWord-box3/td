@@ -1,11 +1,15 @@
 {
-    "pk": 5737,
-    "lc": "snn",
+    "gw": false,
     "ISO-639-3": "snn",
-    "ln": "Siona",
-    "ang": "Siona",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 5737,
     "lr": "Americas",
+    "lc": "snn",
+    "cc": [
+        "CO",
+        "EC"
+    ],
     "alt": [
         "Ceona",
         "Ganteya",
@@ -18,11 +22,7 @@
         "Zeona",
         "Baicoca"
     ],
-    "cc": [
-        "CO",
-        "EC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Siona",
+    "gwcode": "es-419",
+    "ln": "Siona"
 }

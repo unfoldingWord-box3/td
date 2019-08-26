@@ -1,19 +1,19 @@
 {
-    "pk": 2368,
-    "lc": "hud",
+    "gw": false,
     "ISO-639-3": "hud",
-    "ln": "Huaulu",
-    "ang": "Huaulu",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2368,
     "lr": "Asia",
+    "lc": "hud",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Alakamat",
         "Bahasa Asli"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Huaulu",
+    "gwcode": "id",
+    "ln": "Huaulu"
 }

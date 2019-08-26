@@ -1,21 +1,21 @@
 {
-    "pk": 3923,
-    "lc": "mkx",
+    "gw": false,
     "ISO-639-3": "mkx",
-    "ln": "Kinamiging Manobo",
-    "ang": "Manobo, Kinamiging",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 3923,
     "lr": "Asia",
+    "lc": "mkx",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Cinamiguin",
         "Kamigin",
         "Kinamigin",
         "Manobo"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Manobo, Kinamiging",
+    "gwcode": "ceb",
+    "ln": "Kinamiging Manobo"
 }

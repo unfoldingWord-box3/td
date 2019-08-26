@@ -1,20 +1,20 @@
 {
-    "pk": 3842,
-    "lc": "mho",
+    "gw": false,
     "ISO-639-3": "mho",
-    "ln": "Mashi (Zambia)",
-    "ang": "Mashi",
     "hc": "ZM",
+    "ld": "ltr",
+    "pk": 3842,
     "lr": "Africa",
-    "alt": [
-        "Kamaxi",
-        "Masi"
-    ],
+    "lc": "mho",
     "cc": [
         "ZM",
         "NA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Kamaxi",
+        "Masi"
+    ],
+    "ang": "Mashi",
+    "gwcode": "en",
+    "ln": "Mashi (Zambia)"
 }

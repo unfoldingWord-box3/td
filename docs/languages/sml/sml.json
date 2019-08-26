@@ -1,11 +1,15 @@
 {
-    "pk": 5712,
-    "lc": "sml",
+    "gw": false,
     "ISO-639-3": "sml",
-    "ln": "Central Sama",
-    "ang": "Sama, Central",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5712,
     "lr": "Asia",
+    "lc": "sml",
+    "cc": [
+        "MY",
+        "PH"
+    ],
     "alt": [
         "Central Sinama",
         "Orang Laut",
@@ -18,11 +22,7 @@
         "Sama Tabawan",
         "Sama Laminusa"
     ],
-    "cc": [
-        "MY",
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Sama, Central",
+    "gwcode": "ceb",
+    "ln": "Central Sama"
 }

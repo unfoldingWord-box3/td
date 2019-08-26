@@ -1,20 +1,20 @@
 {
-    "pk": 823,
-    "lc": "bns",
+    "gw": false,
     "ISO-639-3": "bns",
-    "ln": "Bundeli",
-    "ang": "Bundeli",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 823,
     "lr": "Asia",
+    "lc": "bns",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Bondili",
         "Bhadauri (Towargarhi)",
         "Lodhanti (Rathora)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Bundeli",
+    "gwcode": "hi",
+    "ln": "Bundeli"
 }

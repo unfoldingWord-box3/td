@@ -1,0 +1,22 @@
+.. _ms-x-dcv:
+
+bahasa Melayu - Dominant Culture Variant
+========================================
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - MY
+    gateway_language: UNKNOWN
+    lang_code: ms-x-dcv
+    lang_direction: ltr
+    lang_name: bahasa Melayu - Dominant Culture Variant
+    lang_region: Asia
+    

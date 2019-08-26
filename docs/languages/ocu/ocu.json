@@ -1,11 +1,14 @@
 {
-    "pk": 4772,
-    "lc": "ocu",
+    "gw": false,
     "ISO-639-3": "ocu",
-    "ln": "Atzingo Matlatzinca",
-    "ang": "Matlatzinca, Atzingo",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4772,
     "lr": "Americas",
+    "lc": "ocu",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Atzinteco",
         "Ocuiltec",
@@ -13,10 +16,7 @@
         "Tlahuica",
         "Tlahura"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Matlatzinca, Atzingo",
+    "gwcode": "es-419",
+    "ln": "Atzingo Matlatzinca"
 }

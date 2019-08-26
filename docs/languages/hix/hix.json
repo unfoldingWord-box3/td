@@ -1,11 +1,14 @@
 {
-    "pk": 2278,
-    "lc": "hix",
+    "gw": false,
     "ISO-639-3": "hix",
-    "ln": "Hixkary\u00e1na",
-    "ang": "Hixkary\u00e1na",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2278,
     "lr": "Americas",
+    "lc": "hix",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Chawiyana",
         "Faruaru",
@@ -22,10 +25,7 @@
         "Xereu",
         "Xerewyana"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Hixkary\u00e1na",
+    "gwcode": "pt",
+    "ln": "Hixkary\u00e1na"
 }

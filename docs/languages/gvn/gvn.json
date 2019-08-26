@@ -1,11 +1,14 @@
 {
-    "pk": 2184,
-    "lc": "gvn",
+    "gw": false,
     "ISO-639-3": "gvn",
-    "ln": "Kuku-Yalanji",
-    "ang": "Kuku-Yalanji",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 2184,
     "lr": "Pacific",
+    "lc": "gvn",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Guguyalanji",
         "Koko-Yalanji",
@@ -13,10 +16,7 @@
         "Kuku-Biraji",
         "Kuku-Nyungkul"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kuku-Yalanji",
+    "gwcode": "en",
+    "ln": "Kuku-Yalanji"
 }

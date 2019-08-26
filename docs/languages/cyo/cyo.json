@@ -1,11 +1,14 @@
 {
-    "pk": 1414,
-    "lc": "cyo",
+    "gw": false,
     "ISO-639-3": "cyo",
-    "ln": "Cuyonon",
-    "ang": "Cuyonon",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 1414,
     "lr": "Asia",
+    "lc": "cyo",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Cuyo",
         "Cuyono",
@@ -13,10 +16,7 @@
         "Kuyonon",
         "Kuyunon"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Cuyonon",
+    "gwcode": "en",
+    "ln": "Cuyonon"
 }

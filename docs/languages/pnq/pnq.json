@@ -1,20 +1,20 @@
 {
-    "pk": 5113,
-    "lc": "pnq",
+    "gw": false,
     "ISO-639-3": "pnq",
-    "ln": "Pana (Burkina Faso)",
-    "ang": "Pana",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 5113,
     "lr": "Africa",
-    "alt": [
-        "Sama",
-        "Pana North"
-    ],
+    "lc": "pnq",
     "cc": [
         "BF",
         "ML"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Sama",
+        "Pana North"
+    ],
+    "ang": "Pana",
+    "gwcode": "fr",
+    "ln": "Pana (Burkina Faso)"
 }

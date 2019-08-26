@@ -1,18 +1,18 @@
 {
-    "pk": 1762,
-    "lc": "enw",
+    "gw": false,
     "ISO-639-3": "enw",
-    "ln": "Enwan (Akwa Ibom State)",
-    "ang": "Enwan",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1762,
     "lr": "Africa",
-    "alt": [
-        "Oron"
-    ],
+    "lc": "enw",
     "cc": [
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Oron"
+    ],
+    "ang": "Enwan",
+    "gwcode": "en",
+    "ln": "Enwan (Akwa Ibom State)"
 }

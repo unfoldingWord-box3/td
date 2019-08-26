@@ -1,11 +1,14 @@
 {
-    "pk": 3658,
-    "lc": "lzz",
+    "gw": false,
     "ISO-639-3": "lzz",
-    "ln": "Laz",
-    "ang": "Laz",
     "hc": "TR",
+    "ld": "ltr",
+    "pk": 3658,
     "lr": "Asia",
+    "lc": "lzz",
+    "cc": [
+        "TR"
+    ],
     "alt": [
         "Chan",
         "Chanuri",
@@ -16,10 +19,7 @@
         "Xopa (Hopa)",
         "Chxala (Ckhala)"
     ],
-    "cc": [
-        "TR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tr"
+    "ang": "Laz",
+    "gwcode": "tr",
+    "ln": "Laz"
 }

@@ -1,21 +1,11 @@
 {
-    "pk": 6787,
-    "lc": "wo",
+    "gw": false,
     "ISO-639-3": "wol",
-    "ln": "Wollof",
-    "ang": "Wolof",
     "hc": "SN",
+    "ld": "ltr",
+    "pk": 6787,
     "lr": "Africa",
-    "alt": [
-        "Ouolof",
-        "Volof",
-        "Walaf",
-        "Yallof",
-        "Waro-Waro",
-        "Dyolof (Djolof)",
-        "Jolof",
-        "Lebou (Lebu)"
-    ],
+    "lc": "wo",
     "cc": [
         "GA",
         "ML",
@@ -26,7 +16,17 @@
         "GW",
         "IT"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Ouolof",
+        "Volof",
+        "Walaf",
+        "Yallof",
+        "Waro-Waro",
+        "Dyolof (Djolof)",
+        "Jolof",
+        "Lebou (Lebu)"
+    ],
+    "ang": "Wolof",
+    "gwcode": "fr",
+    "ln": "Wollof"
 }

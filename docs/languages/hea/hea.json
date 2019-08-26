@@ -1,11 +1,14 @@
 {
-    "pk": 2253,
-    "lc": "hea",
+    "gw": false,
     "ISO-639-3": "hea",
-    "ln": "\u5317\u90e8\u571f\u8bed",
-    "ang": "Miao, Northern Qiandong",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2253,
     "lr": "Asia",
+    "lc": "hea",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Black Miao",
         "Central Miao",
@@ -19,10 +22,7 @@
         "Northern East Guizhou Miao",
         "Northern Hmu"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Miao, Northern Qiandong",
+    "gwcode": "zh",
+    "ln": "\u5317\u90e8\u571f\u8bed"
 }

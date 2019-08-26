@@ -1,19 +1,19 @@
 {
-    "pk": 6018,
-    "lc": "tcm",
+    "gw": false,
     "ISO-639-3": "tcm",
-    "ln": "Tanahmerah",
-    "ang": "Tanahmerah",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6018,
     "lr": "Asia",
+    "lc": "tcm",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Sumeri",
         "Sumerine"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tanahmerah",
+    "gwcode": "id",
+    "ln": "Tanahmerah"
 }

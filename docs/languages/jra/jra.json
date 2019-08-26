@@ -1,11 +1,15 @@
 {
-    "pk": 2663,
-    "lc": "jra",
+    "gw": false,
     "ISO-639-3": "jra",
-    "ln": "Ti\u1ebfng Gia Rai",
-    "ang": "Jarai",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 2663,
     "lr": "Asia",
+    "lc": "jra",
+    "cc": [
+        "KH",
+        "VN"
+    ],
     "alt": [
         "Chor",
         "Cho-Rai",
@@ -18,11 +22,7 @@
         "Habau (Ho-Bau)",
         "Hodrung (Hdrung)"
     ],
-    "cc": [
-        "KH",
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Jarai",
+    "gwcode": "vi",
+    "ln": "Ti\u1ebfng Gia Rai"
 }

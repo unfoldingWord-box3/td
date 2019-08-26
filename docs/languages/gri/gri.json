@@ -1,11 +1,14 @@
 {
-    "pk": 2127,
-    "lc": "gri",
+    "gw": false,
     "ISO-639-3": "gri",
-    "ln": "Ghari",
-    "ang": "Ghari",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 2127,
     "lr": "Pacific",
+    "lc": "gri",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Gari",
         "Sughu",
@@ -17,10 +20,7 @@
         "Qae",
         "Tandai-Nggaria (Tanaghai)"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Ghari",
+    "gwcode": "UNKNOWN",
+    "ln": "Ghari"
 }

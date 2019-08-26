@@ -1,11 +1,14 @@
 {
-    "pk": 5119,
-    "lc": "pnw",
+    "gw": false,
     "ISO-639-3": "pnw",
-    "ln": "Panytyima",
-    "ang": "Panytyima",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 5119,
     "lr": "Pacific",
+    "lc": "pnw",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Bandjima",
         "Banjima",
@@ -14,10 +17,7 @@
         "Panjtjima",
         "Panyjima"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Panytyima",
+    "gwcode": "en",
+    "ln": "Panytyima"
 }

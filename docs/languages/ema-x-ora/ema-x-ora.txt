@@ -1,0 +1,22 @@
+.. _ema-x-ora:
+
+Ora
+===
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - NG
+    gateway_language: UNKNOWN
+    lang_code: ema-x-ora
+    lang_direction: ltr
+    lang_name: Ora
+    lang_region: Africa
+    

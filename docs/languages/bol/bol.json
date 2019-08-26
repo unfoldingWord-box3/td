@@ -1,11 +1,14 @@
 {
-    "pk": 840,
-    "lc": "bol",
+    "gw": false,
     "ISO-639-3": "bol",
-    "ln": "Bole",
-    "ang": "Bole",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 840,
     "lr": "Africa",
+    "lc": "bol",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ampika",
         "Bolanchi",
@@ -14,10 +17,7 @@
         "Fika (Anpika)",
         "Fikankayen"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bole",
+    "gwcode": "en",
+    "ln": "Bole"
 }

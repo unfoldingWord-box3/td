@@ -1,21 +1,21 @@
 {
-    "pk": 6269,
-    "lc": "tpg",
+    "gw": false,
     "ISO-639-3": "tpg",
-    "ln": "Kula",
-    "ang": "Kula",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6269,
     "lr": "Asia",
+    "lc": "tpg",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kola",
         "Lamtoka",
         "Lantoka",
         "Tanglapui"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kula",
+    "gwcode": "id",
+    "ln": "Kula"
 }

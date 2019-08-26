@@ -1,11 +1,15 @@
 {
-    "pk": 1907,
-    "lc": "gae",
+    "gw": false,
     "ISO-639-3": "gae",
-    "ln": "Guarequena",
-    "ang": "Guarequena",
     "hc": "VE",
+    "ld": "ltr",
+    "pk": 1907,
     "lr": "Americas",
+    "lc": "gae",
+    "cc": [
+        "BR",
+        "VE"
+    ],
     "alt": [
         "Arequena",
         "Uerequema",
@@ -15,11 +19,7 @@
         "Guarekena",
         "Warekena"
     ],
-    "cc": [
-        "BR",
-        "VE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Guarequena",
+    "gwcode": "es-419",
+    "ln": "Guarequena"
 }

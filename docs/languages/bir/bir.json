@@ -1,20 +1,20 @@
 {
-    "pk": 701,
-    "lc": "bir",
+    "gw": false,
     "ISO-639-3": "bir",
-    "ln": "Bisorio",
-    "ang": "Bisorio",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 701,
     "lr": "Pacific",
+    "lc": "bir",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Iniai",
         "Inyai-Gadio-Bisorio",
         "Pikaru (Bikaru)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Bisorio",
+    "gwcode": "tpi",
+    "ln": "Bisorio"
 }

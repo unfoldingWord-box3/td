@@ -1,11 +1,14 @@
 {
-    "pk": 7180,
-    "lc": "yia",
+    "gw": false,
     "ISO-639-3": "yia",
-    "ln": "Yinggarda",
-    "ang": "Yinggarda",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 7180,
     "lr": "Pacific",
+    "lc": "yia",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Ingara",
         "Ingarda",
@@ -17,10 +20,7 @@
         "Kakarakala",
         "Yingkarta"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yinggarda",
+    "gwcode": "en",
+    "ln": "Yinggarda"
 }

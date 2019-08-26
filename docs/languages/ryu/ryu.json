@@ -1,20 +1,20 @@
 {
-    "pk": 5457,
-    "lc": "ryu",
+    "gw": false,
     "ISO-639-3": "ryu",
-    "ln": "\u6c96\u7e04\u53e3/\u30a6\u30c1\u30ca\u30fc\u30b0\u30c1",
-    "ang": "Okinawan, Central",
     "hc": "JP",
+    "ld": "ltr",
+    "pk": 5457,
     "lr": "Asia",
-    "alt": [
-        "Luchu"
-    ],
+    "lc": "ryu",
     "cc": [
         "JP",
         "US",
         "BO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ja"
+    "alt": [
+        "Luchu"
+    ],
+    "ang": "Okinawan, Central",
+    "gwcode": "UNKNOWN",
+    "ln": "\u6c96\u7e04\u53e3/\u30a6\u30c1\u30ca\u30fc\u30b0\u30c1"
 }

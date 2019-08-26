@@ -1,19 +1,19 @@
 {
-    "pk": 1121,
-    "lc": "can",
+    "gw": false,
     "ISO-639-3": "can",
-    "ln": "Chambri",
-    "ang": "Chambri",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1121,
     "lr": "Pacific",
+    "lc": "can",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Tchambuli",
         "Tshamberi"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Chambri",
+    "gwcode": "tpi",
+    "ln": "Chambri"
 }

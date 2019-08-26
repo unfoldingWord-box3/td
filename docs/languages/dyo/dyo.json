@@ -1,11 +1,18 @@
 {
-    "pk": 1682,
-    "lc": "dyo",
+    "gw": false,
     "ISO-639-3": "dyo",
-    "ln": "Jola-Fonyi",
-    "ang": "Jola-Fonyi",
     "hc": "SN",
+    "ld": "ltr",
+    "pk": 1682,
     "lr": "Africa",
+    "lc": "dyo",
+    "cc": [
+        "FR",
+        "GM",
+        "MR",
+        "SN",
+        "GW"
+    ],
     "alt": [
         "Diola-Fogny",
         "Jola",
@@ -17,14 +24,7 @@
         "J\u00f3ola-F\u00f3o\u00f1i",
         "K\u00fajoolaak kati K\u00fafoo\u00f1aak"
     ],
-    "cc": [
-        "FR",
-        "GM",
-        "MR",
-        "SN",
-        "GW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Jola-Fonyi",
+    "gwcode": "fr",
+    "ln": "Jola-Fonyi"
 }

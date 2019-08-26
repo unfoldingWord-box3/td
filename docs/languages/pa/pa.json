@@ -1,18 +1,11 @@
 {
-    "pk": 4915,
-    "lc": "pa",
+    "gw": true,
     "ISO-639-3": "pan",
-    "ln": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40, \u067e\u0646\u062c\u0627\u0628\u06cc\u200e",
-    "ang": "Panjabi, Punjabi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4915,
     "lr": "Asia",
-    "alt": [
-        "Eastern Punjabi",
-        "Gurmukhi",
-        "Gurumukhi",
-        "Bhatti",
-        "Bhatyiana (Bhatneri)"
-    ],
+    "lc": "pa",
     "cc": [
         "BD",
         "FJ",
@@ -36,7 +29,14 @@
         "MM",
         "AE"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [
+        "Eastern Punjabi",
+        "Gurmukhi",
+        "Gurumukhi",
+        "Bhatti",
+        "Bhatyiana (Bhatneri)"
+    ],
+    "ang": "Panjabi, Punjabi",
+    "gwcode": "UNKNOWN",
+    "ln": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40, \u067e\u0646\u062c\u0627\u0628\u06cc\u200e"
 }

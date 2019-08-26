@@ -1,20 +1,20 @@
 {
-    "pk": 4548,
-    "lc": "nmo",
+    "gw": false,
     "ISO-639-3": "nmo",
-    "ln": "Moyon Naga",
-    "ang": "Naga, Moyon",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4548,
     "lr": "Asia",
+    "lc": "nmo",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Mayol",
         "Mayon Naga",
         "Moyon"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Moyon",
+    "gwcode": "en",
+    "ln": "Moyon Naga"
 }

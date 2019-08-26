@@ -1,18 +1,18 @@
 {
-    "pk": 3010,
-    "lc": "kmx",
+    "gw": false,
     "ISO-639-3": "kmx",
-    "ln": "Waboda",
-    "ang": "Waboda",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3010,
     "lr": "Pacific",
-    "alt": [
-        "Wabuda"
-    ],
+    "lc": "kmx",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Wabuda"
+    ],
+    "ang": "Waboda",
+    "gwcode": "tpi",
+    "ln": "Waboda"
 }

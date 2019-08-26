@@ -1,19 +1,19 @@
 {
-    "pk": 5576,
-    "lc": "sge",
+    "gw": false,
     "ISO-639-3": "sge",
-    "ln": "Segai",
-    "ang": "Segai",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5576,
     "lr": "Asia",
+    "lc": "sge",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Ga'ay",
         "Segayi"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Segai",
+    "gwcode": "id",
+    "ln": "Segai"
 }

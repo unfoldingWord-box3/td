@@ -1,18 +1,18 @@
 {
-    "pk": 6637,
-    "lc": "vmm",
+    "gw": false,
     "ISO-639-3": "vmm",
-    "ln": "Mitlatongo Mixtec",
-    "ang": "Mixtec, Mitlatongo",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 6637,
     "lr": "Americas",
-    "alt": [
-        "Mixteco de Mitlatongo"
-    ],
+    "lc": "vmm",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Mixteco de Mitlatongo"
+    ],
+    "ang": "Mixtec, Mitlatongo",
+    "gwcode": "es-419",
+    "ln": "Mitlatongo Mixtec"
 }

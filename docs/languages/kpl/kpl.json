@@ -1,20 +1,20 @@
 {
-    "pk": 3070,
-    "lc": "kpl",
+    "gw": false,
     "ISO-639-3": "kpl",
-    "ln": "Kpala",
-    "ang": "Kpala",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3070,
     "lr": "Africa",
+    "lc": "kpl",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Gbakpwa",
         "Kpwaala",
         "Kwala"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kpala",
+    "gwcode": "fr",
+    "ln": "Kpala"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 2545,
-    "lc": "ity",
+    "gw": false,
     "ISO-639-3": "ity",
-    "ln": "Moyadan Itneg",
-    "ang": "Itneg, Moyadan",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2545,
     "lr": "Asia",
+    "lc": "ity",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Tinggian",
         "Tinguian"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Itneg, Moyadan",
+    "gwcode": "ilo",
+    "ln": "Moyadan Itneg"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 5582,
-    "lc": "sgp",
+    "gw": false,
     "ISO-639-3": "sgp",
-    "ln": "Singpho",
-    "ang": "Singpho",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5582,
     "lr": "Asia",
+    "lc": "sgp",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Jingphaw",
         "Kachin",
         "Sing-Fo"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "ang": "Singpho",
+    "gwcode": "as",
+    "ln": "Singpho"
 }

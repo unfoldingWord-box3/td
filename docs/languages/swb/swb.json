@@ -1,18 +1,11 @@
 {
-    "pk": 5904,
-    "lc": "swb",
+    "gw": false,
     "ISO-639-3": "swb",
-    "ln": "Maore Comorian",
-    "ang": "Comorian, Maore",
     "hc": "YT",
+    "ld": "ltr",
+    "pk": 5904,
     "lr": "Africa",
-    "alt": [
-        "Comores Swahili",
-        "Comoro",
-        "Komoro",
-        "Maore",
-        "Comorian"
-    ],
+    "lc": "swb",
     "cc": [
         "FR",
         "MG",
@@ -20,7 +13,14 @@
         "CA",
         "YT"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Comores Swahili",
+        "Comoro",
+        "Komoro",
+        "Maore",
+        "Comorian"
+    ],
+    "ang": "Comorian, Maore",
+    "gwcode": "fr",
+    "ln": "Maore Comorian"
 }

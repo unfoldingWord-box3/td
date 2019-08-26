@@ -1,18 +1,18 @@
 {
-    "pk": 6642,
-    "lc": "vmx",
+    "gw": false,
     "ISO-639-3": "vmx",
-    "ln": "Tamazola Mixtec",
-    "ang": "Mixtec, Tamazola",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 6642,
     "lr": "Americas",
-    "alt": [
-        "Mixteco de San Juan Tamazola"
-    ],
+    "lc": "vmx",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Mixteco de San Juan Tamazola"
+    ],
+    "ang": "Mixtec, Tamazola",
+    "gwcode": "es-419",
+    "ln": "Tamazola Mixtec"
 }

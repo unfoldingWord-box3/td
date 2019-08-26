@@ -1,18 +1,18 @@
 {
-    "pk": 4179,
-    "lc": "mvn",
+    "gw": false,
     "ISO-639-3": "mvn",
-    "ln": "Minaveha",
-    "ang": "Minaveha",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4179,
     "lr": "Pacific",
-    "alt": [
-        "Kukuya"
-    ],
+    "lc": "mvn",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Kukuya"
+    ],
+    "ang": "Minaveha",
+    "gwcode": "tpi",
+    "ln": "Minaveha"
 }

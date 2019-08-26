@@ -1,19 +1,19 @@
 {
-    "pk": 3686,
-    "lc": "mbk",
+    "gw": false,
     "ISO-639-3": "mbk",
-    "ln": "Malol",
-    "ang": "Malol",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3686,
     "lr": "Pacific",
+    "lc": "mbk",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Malolo",
         "Malon"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Malol",
+    "gwcode": "tpi",
+    "ln": "Malol"
 }

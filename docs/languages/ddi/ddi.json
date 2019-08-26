@@ -1,20 +1,20 @@
 {
-    "pk": 1466,
-    "lc": "ddi",
+    "gw": false,
     "ISO-639-3": "ddi",
-    "ln": "West Goodenough",
-    "ang": "Goodenough, West",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1466,
     "lr": "Pacific",
+    "lc": "ddi",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Giwau",
         "Miyalabi",
         "Molata"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Goodenough, West",
+    "gwcode": "tpi",
+    "ln": "West Goodenough"
 }

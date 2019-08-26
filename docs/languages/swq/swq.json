@@ -1,20 +1,20 @@
 {
-    "pk": 5916,
-    "lc": "swq",
+    "gw": false,
     "ISO-639-3": "swq",
-    "ln": "Sharwa",
-    "ang": "Sharwa",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 5916,
     "lr": "Africa",
+    "lc": "swq",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Sarwaye",
         "Sherwin",
         "Tchevi"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Sharwa",
+    "gwcode": "fr",
+    "ln": "Sharwa"
 }

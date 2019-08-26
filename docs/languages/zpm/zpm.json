@@ -1,19 +1,19 @@
 {
-    "pk": 7449,
-    "lc": "zpm",
+    "gw": false,
     "ISO-639-3": "zpm",
-    "ln": "Mixtepec Zapotec",
-    "ang": "Zapotec, Mixtepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7449,
     "lr": "Americas",
+    "lc": "zpm",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Eastern Miahuatl\u00e1n Zapotec",
         "Zapoteco de San Juan Mixtepec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Mixtepec",
+    "gwcode": "es-419",
+    "ln": "Mixtepec Zapotec"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 5428,
-    "lc": "rtm",
+    "gw": false,
     "ISO-639-3": "rtm",
-    "ln": "Rotuman",
-    "ang": "Rotuman",
     "hc": "FJ",
+    "ld": "ltr",
+    "pk": 5428,
     "lr": "Pacific",
+    "lc": "rtm",
+    "cc": [
+        "FJ"
+    ],
     "alt": [
         "Rotuna",
         "Rutuman"
     ],
-    "cc": [
-        "FJ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Rotuman",
+    "gwcode": "en",
+    "ln": "Rotuman"
 }

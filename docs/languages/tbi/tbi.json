@@ -1,11 +1,15 @@
 {
-    "pk": 5991,
-    "lc": "tbi",
+    "gw": false,
     "ISO-639-3": "tbi",
-    "ln": "Gaam",
-    "ang": "Gaam",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 5991,
     "lr": "Africa",
+    "lc": "tbi",
+    "cc": [
+        "ET",
+        "SD"
+    ],
     "alt": [
         "Gaahmg",
         "Ingassana",
@@ -22,11 +26,7 @@
         "Kulelek",
         "Soda (Tao)"
     ],
-    "cc": [
-        "ET",
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Gaam",
+    "gwcode": "ar",
+    "ln": "Gaam"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 715,
-    "lc": "bji",
+    "gw": false,
     "ISO-639-3": "bji",
-    "ln": "Burji",
-    "ang": "Burji",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 715,
     "lr": "Africa",
+    "lc": "bji",
+    "cc": [
+        "ET",
+        "KE"
+    ],
     "alt": [
         "Bambala",
         "Bembala",
         "Daashi"
     ],
-    "cc": [
-        "ET",
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Burji",
+    "gwcode": "am",
+    "ln": "Burji"
 }

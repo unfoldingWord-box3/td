@@ -1,20 +1,20 @@
 {
-    "pk": 5242,
-    "lc": "pys",
+    "gw": false,
     "ISO-639-3": "pys",
-    "ln": "Paraguayan Sign Language",
-    "ang": "Paraguayan Sign Language",
     "hc": "PY",
+    "ld": "ltr",
+    "pk": 5242,
     "lr": "Americas",
+    "lc": "pys",
+    "cc": [
+        "PY"
+    ],
     "alt": [
         "Lengua de Se\u00f1as del Paraguay",
         "Lengua de se\u00f1as paraguaya",
         "LSPY"
     ],
-    "cc": [
-        "PY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Paraguayan Sign Language",
+    "gwcode": "es-419",
+    "ln": "Paraguayan Sign Language"
 }

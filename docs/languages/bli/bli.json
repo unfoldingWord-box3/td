@@ -1,19 +1,19 @@
 {
-    "pk": 763,
-    "lc": "bli",
+    "gw": false,
     "ISO-639-3": "bli",
-    "ln": "Bolia",
-    "ang": "Bolia",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 763,
     "lr": "Africa",
+    "lc": "bli",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Bokoki",
         "Bulia"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bolia",
+    "gwcode": "fr",
+    "ln": "Bolia"
 }

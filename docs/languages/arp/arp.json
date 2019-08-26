@@ -1,18 +1,18 @@
 {
-    "pk": 346,
-    "lc": "arp",
+    "gw": false,
     "ISO-639-3": "arp",
-    "ln": "Arapaho",
-    "ang": "Arapaho",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 346,
     "lr": "Americas",
-    "alt": [
-        "Arrapahoe"
-    ],
+    "lc": "arp",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Arrapahoe"
+    ],
+    "ang": "Arapaho",
+    "gwcode": "en",
+    "ln": "Arapaho"
 }

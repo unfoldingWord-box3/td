@@ -1,19 +1,19 @@
 {
-    "pk": 4105,
-    "lc": "msj",
+    "gw": false,
     "ISO-639-3": "msj",
-    "ln": "Ma (Democratic Republic of Congo)",
-    "ang": "Ma",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 4105,
     "lr": "Africa",
+    "lc": "msj",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Madi",
         "Madyo"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ma",
+    "gwcode": "fr",
+    "ln": "Ma (Democratic Republic of Congo)"
 }

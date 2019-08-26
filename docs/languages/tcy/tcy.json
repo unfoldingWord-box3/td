@@ -1,11 +1,14 @@
 {
-    "pk": 6028,
-    "lc": "tcy",
+    "gw": false,
     "ISO-639-3": "tcy",
-    "ln": "Tulu",
-    "ang": "Tulu",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6028,
     "lr": "Asia",
+    "lc": "tcy",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Tal",
         "Tallu",
@@ -26,10 +29,7 @@
         "Common Tulu",
         "Northwest Tulu (Mangalore)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "kn"
+    "ang": "Tulu",
+    "gwcode": "kn",
+    "ln": "Tulu"
 }

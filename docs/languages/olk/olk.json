@@ -1,11 +1,14 @@
 {
-    "pk": 4817,
-    "lc": "olk",
+    "gw": false,
     "ISO-639-3": "olk",
-    "ln": "Olkol",
-    "ang": "Olkol",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4817,
     "lr": "Pacific",
+    "lc": "olk",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Koka-ollugul",
         "Koko Olkol",
@@ -18,10 +21,7 @@
         "Ulkulu",
         "Wulgulu"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Olkol",
+    "gwcode": "en",
+    "ln": "Olkol"
 }

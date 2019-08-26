@@ -1,18 +1,18 @@
 {
-    "pk": 6290,
-    "lc": "tqn",
+    "gw": false,
     "ISO-639-3": "tqn",
-    "ln": "Tenino",
-    "ang": "Tenino",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 6290,
     "lr": "Americas",
-    "alt": [
-        "Warm Springs"
-    ],
+    "lc": "tqn",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Warm Springs"
+    ],
+    "ang": "Tenino",
+    "gwcode": "en",
+    "ln": "Tenino"
 }

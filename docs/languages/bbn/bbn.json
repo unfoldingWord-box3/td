@@ -1,19 +1,19 @@
 {
-    "pk": 521,
-    "lc": "bbn",
+    "gw": false,
     "ISO-639-3": "bbn",
-    "ln": "Uneapa",
-    "ang": "Uneapa",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 521,
     "lr": "Pacific",
+    "lc": "bbn",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Bali",
         "Bali-Vitu"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Uneapa",
+    "gwcode": "tpi",
+    "ln": "Uneapa"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 3758,
-    "lc": "mef",
+    "gw": false,
     "ISO-639-3": "mef",
-    "ln": "Megam",
-    "ang": "Megam",
     "hc": "BD",
+    "ld": "ltr",
+    "pk": 3758,
     "lr": "Asia",
+    "lc": "mef",
+    "cc": [
+        "BD"
+    ],
     "alt": [
         "Migam",
         "Negam"
     ],
-    "cc": [
-        "BD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "ang": "Megam",
+    "gwcode": "bn",
+    "ln": "Megam"
 }

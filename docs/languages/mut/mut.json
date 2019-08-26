@@ -1,20 +1,20 @@
 {
-    "pk": 4163,
-    "lc": "mut",
+    "gw": false,
     "ISO-639-3": "mut",
-    "ln": "Western Muria",
-    "ang": "Muria, Western",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4163,
     "lr": "Asia",
+    "lc": "mut",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Jhoria",
         "Mudia",
         "Muria Gondi"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hne"
+    "ang": "Muria, Western",
+    "gwcode": "UNKNOWN",
+    "ln": "Western Muria"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 280,
-    "lc": "anx",
+    "gw": false,
     "ISO-639-3": "anx",
-    "ln": "Andra-Hus",
-    "ang": "Andra-Hus",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 280,
     "lr": "Pacific",
+    "lc": "anx",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Ahus",
         "Ha'us"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Andra-Hus",
+    "gwcode": "tpi",
+    "ln": "Andra-Hus"
 }

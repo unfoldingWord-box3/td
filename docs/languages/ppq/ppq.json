@@ -1,18 +1,18 @@
 {
-    "pk": 5150,
-    "lc": "ppq",
+    "gw": false,
     "ISO-639-3": "ppq",
-    "ln": "Pei",
-    "ang": "Pei",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5150,
     "lr": "Pacific",
-    "alt": [
-        "Pai"
-    ],
+    "lc": "ppq",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Pai"
+    ],
+    "ang": "Pei",
+    "gwcode": "tpi",
+    "ln": "Pei"
 }

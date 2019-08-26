@@ -1,21 +1,21 @@
 {
-    "pk": 2704,
-    "lc": "kam",
+    "gw": false,
     "ISO-639-3": "kam",
-    "ln": "Kamba (Kenya)",
-    "ang": "Kamba",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 2704,
     "lr": "Africa",
-    "alt": [
-        "Kekamba",
-        "South Kitui"
-    ],
+    "lc": "kam",
     "cc": [
         "KE",
         "TZ",
         "UG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "alt": [
+        "Kekamba",
+        "South Kitui"
+    ],
+    "ang": "Kamba",
+    "gwcode": "sw",
+    "ln": "Kamba (Kenya)"
 }

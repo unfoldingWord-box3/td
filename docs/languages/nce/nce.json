@@ -1,20 +1,20 @@
 {
-    "pk": 4335,
-    "lc": "nce",
+    "gw": false,
     "ISO-639-3": "nce",
-    "ln": "Yale",
-    "ang": "Yale",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4335,
     "lr": "Pacific",
+    "lc": "nce",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Nagatman",
         "Yade",
         "Yar\u00eb"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Yale",
+    "gwcode": "tpi",
+    "ln": "Yale"
 }

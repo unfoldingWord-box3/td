@@ -1,19 +1,19 @@
 {
-    "pk": 5461,
-    "lc": "sac",
+    "gw": false,
     "ISO-639-3": "sac",
-    "ln": "Meskwaki",
-    "ang": "Meskwaki",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 5461,
     "lr": "Americas",
+    "lc": "sac",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Sac and Fox",
         "Sauk-Fox"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Meskwaki",
+    "gwcode": "en",
+    "ln": "Meskwaki"
 }

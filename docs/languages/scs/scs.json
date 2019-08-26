@@ -1,11 +1,14 @@
 {
-    "pk": 5518,
-    "lc": "scs",
+    "gw": false,
     "ISO-639-3": "scs",
-    "ln": "North Slavey",
-    "ang": "Slavey, North",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 5518,
     "lr": "Americas",
+    "lc": "scs",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Dene",
         "Den\u00e9",
@@ -13,10 +16,7 @@
         "Slave",
         "Mountain Slavey"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Slavey, North",
+    "gwcode": "en",
+    "ln": "North Slavey"
 }

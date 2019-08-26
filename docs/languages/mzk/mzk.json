@@ -1,11 +1,14 @@
 {
-    "pk": 4271,
-    "lc": "mzk",
+    "gw": false,
     "ISO-639-3": "mzk",
-    "ln": "Nigeria Mambila",
-    "ang": "Mambila, Nigeria",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4271,
     "lr": "Africa",
+    "lc": "mzk",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bang",
         "Lagubi",
@@ -16,10 +19,7 @@
         "Nor Tagbo",
         "Tongbo"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mambila, Nigeria",
+    "gwcode": "en",
+    "ln": "Nigeria Mambila"
 }

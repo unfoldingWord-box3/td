@@ -1,19 +1,19 @@
 {
-    "pk": 2745,
-    "lc": "kcj",
+    "gw": false,
     "ISO-639-3": "kcj",
-    "ln": "Kobiana",
-    "ang": "Kobiana",
     "hc": "GW",
+    "ld": "ltr",
+    "pk": 2745,
     "lr": "Africa",
+    "lc": "kcj",
+    "cc": [
+        "GW"
+    ],
     "alt": [
         "Buy",
         "Uboi"
     ],
-    "cc": [
-        "GW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Kobiana",
+    "gwcode": "pt",
+    "ln": "Kobiana"
 }

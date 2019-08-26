@@ -1,19 +1,19 @@
 {
-    "pk": 4506,
-    "lc": "nkn",
+    "gw": false,
     "ISO-639-3": "nkn",
-    "ln": "Nkangala",
-    "ang": "Nkangala",
     "hc": "AO",
+    "ld": "ltr",
+    "pk": 4506,
     "lr": "Africa",
+    "lc": "nkn",
+    "cc": [
+        "AO"
+    ],
     "alt": [
         "Cangala",
         "Ngangala"
     ],
-    "cc": [
-        "AO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nkangala",
+    "gwcode": "en",
+    "ln": "Nkangala"
 }

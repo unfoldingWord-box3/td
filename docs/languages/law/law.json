@@ -1,20 +1,20 @@
 {
-    "pk": 3353,
-    "lc": "law",
+    "gw": false,
     "ISO-639-3": "law",
-    "ln": "Lauje",
-    "ang": "Lauje",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3353,
     "lr": "Asia",
+    "lc": "law",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Laudje",
         "Tinombo",
         "Ampibabo (Ampibabo-Lauje)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Lauje",
+    "gwcode": "id",
+    "ln": "Lauje"
 }

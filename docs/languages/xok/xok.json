@@ -1,20 +1,20 @@
 {
-    "pk": 7005,
-    "lc": "xok",
+    "gw": false,
     "ISO-639-3": "xok",
-    "ln": "Xokleng",
-    "ang": "Xokleng",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 7005,
     "lr": "Americas",
+    "lc": "xok",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Aweikoma",
         "Botocudos",
         "Bugre"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Xokleng",
+    "gwcode": "pt",
+    "ln": "Xokleng"
 }

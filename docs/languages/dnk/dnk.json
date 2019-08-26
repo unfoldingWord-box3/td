@@ -1,11 +1,14 @@
 {
-    "pk": 1585,
-    "lc": "dnk",
+    "gw": false,
     "ISO-639-3": "dnk",
-    "ln": "Dengka",
-    "ang": "Dengka",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1585,
     "lr": "Asia",
+    "lc": "dnk",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Rote",
         "Rote Barat",
@@ -16,10 +19,7 @@
         "Western Dengka",
         "Eastern Dengka"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Dengka",
+    "gwcode": "id",
+    "ln": "Dengka"
 }

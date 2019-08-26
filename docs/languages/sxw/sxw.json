@@ -1,11 +1,14 @@
 {
-    "pk": 5937,
-    "lc": "sxw",
+    "gw": false,
     "ISO-639-3": "sxw",
-    "ln": "Saxwe Gbe",
-    "ang": "Gbe, Saxwe",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 5937,
     "lr": "Africa",
+    "lc": "sxw",
+    "cc": [
+        "BJ"
+    ],
     "alt": [
         "Sahou\u00e8",
         "Sahou\u00e8gbe",
@@ -16,10 +19,7 @@
         "Daxe",
         "Se"
     ],
-    "cc": [
-        "BJ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Gbe, Saxwe",
+    "gwcode": "fr",
+    "ln": "Saxwe Gbe"
 }

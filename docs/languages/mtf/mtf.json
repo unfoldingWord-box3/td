@@ -1,19 +1,19 @@
 {
-    "pk": 4126,
-    "lc": "mtf",
+    "gw": false,
     "ISO-639-3": "mtf",
-    "ln": "Murik (Papua New Guinea)",
-    "ang": "Murik",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4126,
     "lr": "Pacific",
+    "lc": "mtf",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Nor",
         "Nor-Murik Lakes"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Murik",
+    "gwcode": "tpi",
+    "ln": "Murik (Papua New Guinea)"
 }

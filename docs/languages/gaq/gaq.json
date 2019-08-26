@@ -1,11 +1,14 @@
 {
-    "pk": 1919,
-    "lc": "gaq",
+    "gw": false,
     "ISO-639-3": "gaq",
-    "ln": "Gata'",
-    "ang": "Gata\u2019",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1919,
     "lr": "Asia",
+    "lc": "gaq",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Didei",
         "Dire",
@@ -15,10 +18,7 @@
         "Gta'",
         "Gta Asa"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "or"
+    "ang": "Gata\u2019",
+    "gwcode": "or",
+    "ln": "Gata'"
 }

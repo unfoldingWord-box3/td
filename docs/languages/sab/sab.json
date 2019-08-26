@@ -1,11 +1,14 @@
 {
-    "pk": 5460,
-    "lc": "sab",
+    "gw": false,
     "ISO-639-3": "sab",
-    "ln": "Buglere",
-    "ang": "Buglere",
     "hc": "PA",
+    "ld": "ltr",
+    "pk": 5460,
     "lr": "Americas",
+    "lc": "sab",
+    "cc": [
+        "PA"
+    ],
     "alt": [
         "Bobota",
         "Bocota",
@@ -17,10 +20,7 @@
         "Nortenyo",
         "Veraguas Sabanero"
     ],
-    "cc": [
-        "PA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Buglere",
+    "gwcode": "es-419",
+    "ln": "Buglere"
 }

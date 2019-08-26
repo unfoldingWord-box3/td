@@ -1,21 +1,21 @@
 {
-    "pk": 1262,
-    "lc": "cme",
+    "gw": false,
     "ISO-639-3": "cme",
-    "ln": "Cerma",
-    "ang": "Cerma",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 1262,
     "lr": "Africa",
+    "lc": "cme",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Gwe",
         "Gwen",
         "Kirma",
         "Guin"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Cerma",
+    "gwcode": "fr",
+    "ln": "Cerma"
 }

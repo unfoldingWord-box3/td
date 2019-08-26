@@ -1,18 +1,18 @@
 {
-    "pk": 6565,
-    "lc": "ute",
+    "gw": false,
     "ISO-639-3": "ute",
-    "ln": "Ute-Southern Paiute",
-    "ang": "Ute-Southern Paiute",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 6565,
     "lr": "Americas",
-    "alt": [
-        "Ute-Chemehuevi"
-    ],
+    "lc": "ute",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Ute-Chemehuevi"
+    ],
+    "ang": "Ute-Southern Paiute",
+    "gwcode": "en",
+    "ln": "Ute-Southern Paiute"
 }

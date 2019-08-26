@@ -1,18 +1,18 @@
 {
-    "pk": 5781,
-    "lc": "spo",
+    "gw": false,
     "ISO-639-3": "spo",
-    "ln": "Spokane",
-    "ang": "Spokane",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 5781,
     "lr": "Americas",
-    "alt": [
-        "Spokan"
-    ],
+    "lc": "spo",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Spokan"
+    ],
+    "ang": "Spokane",
+    "gwcode": "en",
+    "ln": "Spokane"
 }

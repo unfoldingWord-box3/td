@@ -1,18 +1,18 @@
 {
-    "pk": 6081,
-    "lc": "tgc",
+    "gw": false,
     "ISO-639-3": "tgc",
-    "ln": "Tigak",
-    "ang": "Tigak",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6081,
     "lr": "Pacific",
-    "alt": [
-        "Omo"
-    ],
+    "lc": "tgc",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Omo"
+    ],
+    "ang": "Tigak",
+    "gwcode": "tpi",
+    "ln": "Tigak"
 }

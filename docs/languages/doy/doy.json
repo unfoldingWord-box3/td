@@ -1,19 +1,19 @@
 {
-    "pk": 1612,
-    "lc": "doy",
+    "gw": false,
     "ISO-639-3": "doy",
-    "ln": "Dompo",
-    "ang": "Dompo",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 1612,
     "lr": "Africa",
+    "lc": "doy",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Dumpo",
         "Ndmpo"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dompo",
+    "gwcode": "en",
+    "ln": "Dompo"
 }

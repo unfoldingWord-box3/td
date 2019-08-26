@@ -1,18 +1,18 @@
 {
-    "pk": 5835,
-    "lc": "ssj",
+    "gw": false,
     "ISO-639-3": "ssj",
-    "ln": "Sausi",
-    "ang": "Sausi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5835,
     "lr": "Pacific",
-    "alt": [
-        "Uya"
-    ],
+    "lc": "ssj",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Uya"
+    ],
+    "ang": "Sausi",
+    "gwcode": "tpi",
+    "ln": "Sausi"
 }

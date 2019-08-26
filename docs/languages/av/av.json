@@ -1,11 +1,18 @@
 {
-    "pk": 426,
-    "lc": "av",
+    "gw": false,
     "ISO-639-3": "ava",
-    "ln": "\u0430\u0432\u0430\u0440 \u043c\u0430\u0446\u04c0, \u043c\u0430\u0433\u04c0\u0430\u0440\u0443\u043b \u043c\u0430\u0446\u04c0",
-    "ang": "Avaric",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 426,
     "lr": "Europe",
+    "lc": "av",
+    "cc": [
+        "AZ",
+        "KZ",
+        "RU",
+        "TM",
+        "UZ"
+    ],
     "alt": [
         "Avaro",
         "Dagestani",
@@ -30,14 +37,7 @@
         "Andalal Untib",
         "Qarakh (Bacadin)"
     ],
-    "cc": [
-        "AZ",
-        "KZ",
-        "RU",
-        "TM",
-        "UZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Avaric",
+    "gwcode": "ru",
+    "ln": "\u0430\u0432\u0430\u0440 \u043c\u0430\u0446\u04c0, \u043c\u0430\u0433\u04c0\u0430\u0440\u0443\u043b \u043c\u0430\u0446\u04c0"
 }

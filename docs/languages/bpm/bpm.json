@@ -1,18 +1,18 @@
 {
-    "pk": 862,
-    "lc": "bpm",
+    "gw": false,
     "ISO-639-3": "bpm",
-    "ln": "Biyom",
-    "ang": "Biyom",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 862,
     "lr": "Pacific",
-    "alt": [
-        "Sasime"
-    ],
+    "lc": "bpm",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Sasime"
+    ],
+    "ang": "Biyom",
+    "gwcode": "tpi",
+    "ln": "Biyom"
 }

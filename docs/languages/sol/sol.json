@@ -1,11 +1,14 @@
 {
-    "pk": 5760,
-    "lc": "sol",
+    "gw": false,
     "ISO-639-3": "sol",
-    "ln": "Solos",
-    "ang": "Solos",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5760,
     "lr": "Pacific",
+    "lc": "sol",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Toros",
         "Nora Solos",
@@ -15,10 +18,7 @@
         "Kahule",
         "Coastal Solos (Hetal)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Solos",
+    "gwcode": "tpi",
+    "ln": "Solos"
 }

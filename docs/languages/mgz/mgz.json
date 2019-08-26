@@ -1,19 +1,19 @@
 {
-    "pk": 3827,
-    "lc": "mgz",
+    "gw": false,
     "ISO-639-3": "mgz",
-    "ln": "Mbugwe",
-    "ang": "Mbugwe",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 3827,
     "lr": "Africa",
+    "lc": "mgz",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kimbugwe",
         "Mbuwe"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Mbugwe",
+    "gwcode": "sw",
+    "ln": "Mbugwe"
 }

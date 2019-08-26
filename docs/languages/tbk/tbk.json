@@ -1,11 +1,14 @@
 {
-    "pk": 5993,
-    "lc": "tbk",
+    "gw": false,
     "ISO-639-3": "tbk",
-    "ln": "Calamian Tagbanwa",
-    "ang": "Tagbanwa, Calamian",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5993,
     "lr": "Asia",
+    "lc": "tbk",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Unggoy",
         "Tinalaanen",
@@ -15,10 +18,7 @@
         "Kinalamiananen (Kinaramiananen)",
         "Lininipaknen"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tl"
+    "ang": "Tagbanwa, Calamian",
+    "gwcode": "tl",
+    "ln": "Calamian Tagbanwa"
 }

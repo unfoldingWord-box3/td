@@ -1,11 +1,15 @@
 {
-    "pk": 3737,
-    "lc": "mdj",
+    "gw": false,
     "ISO-639-3": "mdj",
-    "ln": "Mangbetu",
-    "ang": "Mangbetu",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3737,
     "lr": "Africa",
+    "lc": "mdj",
+    "cc": [
+        "CD",
+        "UG"
+    ],
     "alt": [
         "Amangbetu",
         "Kingbetu",
@@ -18,11 +22,7 @@
         "Makere",
         "Meegye"
     ],
-    "cc": [
-        "CD",
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mangbetu",
+    "gwcode": "fr",
+    "ln": "Mangbetu"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3136,
-    "lc": "ksd",
+    "gw": false,
     "ISO-639-3": "ksd",
-    "ln": "Kuanua",
-    "ang": "Kuanua",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3136,
     "lr": "Pacific",
+    "lc": "ksd",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Blanche Bay",
         "Gunantuna",
@@ -15,10 +18,7 @@
         "Tuna",
         "Raluana"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kuanua",
+    "gwcode": "tpi",
+    "ln": "Kuanua"
 }

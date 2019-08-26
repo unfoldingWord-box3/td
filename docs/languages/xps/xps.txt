@@ -1,0 +1,22 @@
+.. _xps:
+
+Pisidian
+========
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: xps
+    alternate_names: []
+    anglicanized_name: Pisidian
+    country_codes:
+    - TR
+    gateway_language: UNKNOWN
+    lang_code: xps
+    lang_direction: ltr
+    lang_name: Pisidian
+    lang_region: Asia
+    

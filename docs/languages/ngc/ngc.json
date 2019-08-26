@@ -1,21 +1,21 @@
 {
-    "pk": 4411,
-    "lc": "ngc",
+    "gw": false,
     "ISO-639-3": "ngc",
-    "ln": "Ngombe (Democratic Republic of Congo)",
-    "ang": "Ngombe",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 4411,
     "lr": "Africa",
+    "lc": "ngc",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Lingombe",
         "Libinja",
         "Binja (Binza)",
         "Libindja"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ngombe",
+    "gwcode": "fr",
+    "ln": "Ngombe (Democratic Republic of Congo)"
 }

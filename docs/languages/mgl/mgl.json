@@ -1,19 +1,19 @@
 {
-    "pk": 3814,
-    "lc": "mgl",
+    "gw": false,
     "ISO-639-3": "mgl",
-    "ln": "Maleu-Kilenge",
-    "ang": "Maleu-Kilenge",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3814,
     "lr": "Pacific",
+    "lc": "mgl",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Idne",
         "Kilenge (Kaitarolea)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Maleu-Kilenge",
+    "gwcode": "tpi",
+    "ln": "Maleu-Kilenge"
 }

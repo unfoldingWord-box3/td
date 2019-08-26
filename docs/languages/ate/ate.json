@@ -1,19 +1,19 @@
 {
-    "pk": 385,
-    "lc": "ate",
+    "gw": false,
     "ISO-639-3": "ate",
-    "ln": "Atemble",
-    "ang": "Atemble",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 385,
     "lr": "Pacific",
+    "lc": "ate",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Atemple",
         "Atemple-Apris"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Atemble",
+    "gwcode": "tpi",
+    "ln": "Atemble"
 }

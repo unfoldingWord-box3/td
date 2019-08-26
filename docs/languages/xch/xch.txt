@@ -1,0 +1,22 @@
+.. _xch:
+
+Chemakum
+========
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: xch
+    alternate_names: []
+    anglicanized_name: Chemakum
+    country_codes:
+    - US
+    gateway_language: UNKNOWN
+    lang_code: xch
+    lang_direction: ltr
+    lang_name: Chemakum
+    lang_region: Americas
+    

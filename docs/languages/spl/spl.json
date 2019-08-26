@@ -1,18 +1,18 @@
 {
-    "pk": 5778,
-    "lc": "spl",
+    "gw": false,
     "ISO-639-3": "spl",
-    "ln": "Selepet",
-    "ang": "Selepet",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5778,
     "lr": "Pacific",
-    "alt": [
-        "Selepe"
-    ],
+    "lc": "spl",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Selepe"
+    ],
+    "ang": "Selepet",
+    "gwcode": "tpi",
+    "ln": "Selepet"
 }

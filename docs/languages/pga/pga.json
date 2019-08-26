@@ -1,21 +1,21 @@
 {
-    "pk": 5001,
-    "lc": "pga",
+    "gw": false,
     "ISO-639-3": "pga",
-    "ln": "Sudanese Creole Arabic",
-    "ang": "Arabic, Sudanese Creole",
     "hc": "SS",
+    "ld": "rtl",
+    "pk": 5001,
     "lr": "Africa",
+    "lc": "pga",
+    "cc": [
+        "SS",
+        "TD"
+    ],
     "alt": [
         "Juba Arabic",
         "Pidgin Arabic",
         "Southern Sudan Arabic"
     ],
-    "cc": [
-        "SS",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ar"
+    "ang": "Arabic, Sudanese Creole",
+    "gwcode": "ar",
+    "ln": "Sudanese Creole Arabic"
 }

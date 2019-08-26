@@ -1,20 +1,20 @@
 {
-    "pk": 7356,
-    "lc": "zbc",
+    "gw": false,
     "ISO-639-3": "zbc",
-    "ln": "Central Berawan",
-    "ang": "Berawan, Central",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 7356,
     "lr": "Asia",
+    "lc": "zbc",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "Long Teru",
         "Batu Belah Berawan",
         "Long Teru Berawan"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Berawan, Central",
+    "gwcode": "ms",
+    "ln": "Central Berawan"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 3665,
-    "lc": "mai",
+    "gw": false,
     "ISO-639-3": "mai",
-    "ln": "Maithili",
-    "ang": "Maithili",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3665,
     "lr": "Asia",
+    "lc": "mai",
+    "cc": [
+        "NP",
+        "IN"
+    ],
     "alt": [
         "Apabhramsa",
         "Bihari",
@@ -23,11 +27,7 @@
         "Bajjika",
         "Thenthi"
     ],
-    "cc": [
-        "NP",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Maithili",
+    "gwcode": "hi",
+    "ln": "Maithili"
 }

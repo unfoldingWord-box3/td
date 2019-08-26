@@ -1,19 +1,19 @@
 {
-    "pk": 4793,
-    "lc": "ojg",
+    "gw": false,
     "ISO-639-3": "ojg",
-    "ln": "Eastern Ojibwa",
-    "ang": "Ojibwa, Eastern",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 4793,
     "lr": "Americas",
+    "lc": "ojg",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Ojibway",
         "Ojibwe"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ojibwa, Eastern",
+    "gwcode": "en",
+    "ln": "Eastern Ojibwa"
 }

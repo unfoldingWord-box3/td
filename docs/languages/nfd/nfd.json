@@ -1,11 +1,14 @@
 {
-    "pk": 4404,
-    "lc": "nfd",
+    "gw": false,
     "ISO-639-3": "nfd",
-    "ln": "Ahwai",
-    "ang": "Ahwai",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4404,
     "lr": "Africa",
+    "lc": "nfd",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Nyeng (Hanyeng)",
         "Shakara (Isakara)",
@@ -14,10 +17,7 @@
         "Tari",
         "Ningon"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ahwai",
+    "gwcode": "en",
+    "ln": "Ahwai"
 }

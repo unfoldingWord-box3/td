@@ -1,20 +1,20 @@
 {
-    "pk": 4072,
-    "lc": "mrb",
+    "gw": false,
     "ISO-639-3": "mrb",
-    "ln": "Marino",
-    "ang": "Marino",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 4072,
     "lr": "Pacific",
+    "lc": "mrb",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Naone",
         "North Maewo",
         "Sunwadia"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Marino",
+    "gwcode": "fr",
+    "ln": "Marino"
 }

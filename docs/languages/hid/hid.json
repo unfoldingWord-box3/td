@@ -1,20 +1,20 @@
 {
-    "pk": 2266,
-    "lc": "hid",
+    "gw": false,
     "ISO-639-3": "hid",
-    "ln": "Hidatsa",
-    "ang": "Hidatsa",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 2266,
     "lr": "Americas",
+    "lc": "hid",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Hinatsa",
         "Hiraca",
         "Minitari"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Hidatsa",
+    "gwcode": "en",
+    "ln": "Hidatsa"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 7395,
-    "lc": "zkn",
+    "gw": false,
     "ISO-639-3": "zkn",
-    "ln": "Kanan",
-    "ang": "Kanan",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 7395,
     "lr": "Asia",
+    "lc": "zkn",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Ganaan",
         "Ganan",
@@ -13,10 +16,7 @@
         "Genan",
         "Kana"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Kanan",
+    "gwcode": "my",
+    "ln": "Kanan"
 }

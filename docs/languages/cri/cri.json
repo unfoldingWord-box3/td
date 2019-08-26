@@ -1,21 +1,21 @@
 {
-    "pk": 1328,
-    "lc": "cri",
+    "gw": false,
     "ISO-639-3": "cri",
-    "ln": "S\u00e3otomense",
-    "ang": "S\u00e3otomense",
     "hc": "ST",
+    "ld": "ltr",
+    "pk": 1328,
     "lr": "Africa",
+    "lc": "cri",
+    "cc": [
+        "GQ",
+        "ST"
+    ],
     "alt": [
         "Forro",
         "Santomense",
         "S\u00e3o Tomense"
     ],
-    "cc": [
-        "GQ",
-        "ST"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "S\u00e3otomense",
+    "gwcode": "pt",
+    "ln": "S\u00e3otomense"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 1635,
-    "lc": "dso",
+    "gw": false,
     "ISO-639-3": "dso",
-    "ln": "Desiya",
-    "ang": "Desiya",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1635,
     "lr": "Asia",
+    "lc": "dso",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Deshia",
         "Desia",
         "Desiya Oriya",
         "Koraput Oriya"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "or"
+    "ang": "Desiya",
+    "gwcode": "or",
+    "ln": "Desiya"
 }

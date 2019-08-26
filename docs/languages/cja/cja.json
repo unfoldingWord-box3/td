@@ -1,11 +1,16 @@
 {
-    "pk": 1220,
-    "lc": "cja",
+    "gw": false,
     "ISO-639-3": "cja",
-    "ln": "T\u00e2y Ch\u0103m",
-    "ang": "Cham, Western",
     "hc": "KH",
+    "ld": "ltr",
+    "pk": 1220,
     "lr": "Asia",
+    "lc": "cja",
+    "cc": [
+        "LA",
+        "US",
+        "KH"
+    ],
     "alt": [
         "Cambodian Cham",
         "Cham",
@@ -13,12 +18,7 @@
         "Tjam",
         "Chiem"
     ],
-    "cc": [
-        "LA",
-        "US",
-        "KH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "km"
+    "ang": "Cham, Western",
+    "gwcode": "km",
+    "ln": "T\u00e2y Ch\u0103m"
 }

@@ -1,22 +1,22 @@
 {
-    "pk": 7227,
-    "lc": "ymk",
+    "gw": false,
     "ISO-639-3": "ymk",
-    "ln": "Makwe",
-    "ang": "Makwe",
     "hc": "MZ",
+    "ld": "ltr",
+    "pk": 7227,
     "lr": "Africa",
+    "lc": "ymk",
+    "cc": [
+        "MZ",
+        "TZ"
+    ],
     "alt": [
         "Kimakwe",
         "Macue",
         "Palma",
         "Coastal Makwe (Palma)"
     ],
-    "cc": [
-        "MZ",
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Makwe",
+    "gwcode": "pt",
+    "ln": "Makwe"
 }

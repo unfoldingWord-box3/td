@@ -1,20 +1,20 @@
 {
-    "pk": 4545,
-    "lc": "nml",
+    "gw": false,
     "ISO-639-3": "nml",
-    "ln": "Ndemli",
-    "ang": "Ndemli",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4545,
     "lr": "Africa",
+    "lc": "nml",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bandem",
         "Bayong",
         "Ndemba"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ndemli",
+    "gwcode": "fr",
+    "ln": "Ndemli"
 }

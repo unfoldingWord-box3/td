@@ -1,11 +1,14 @@
 {
-    "pk": 3580,
-    "lc": "lrc",
+    "gw": false,
     "ISO-639-3": "lrc",
-    "ln": "\u0644\u064f\u0631\u06cc",
-    "ang": "Luri, Northern",
     "hc": "IR",
+    "ld": "rtl",
+    "pk": 3580,
     "lr": "Asia",
+    "lc": "lrc",
+    "cc": [
+        "IR"
+    ],
     "alt": [
         "Luristani",
         "Khorramabadi",
@@ -16,10 +19,7 @@
         "Andimeshki",
         "Nahavandi"
     ],
-    "cc": [
-        "IR"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "fa"
+    "ang": "Luri, Northern",
+    "gwcode": "fa",
+    "ln": "\u0644\u064f\u0631\u06cc"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 2370,
-    "lc": "huf",
+    "gw": false,
     "ISO-639-3": "huf",
-    "ln": "Humene",
-    "ang": "Humene",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2370,
     "lr": "Pacific",
+    "lc": "huf",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Manukolu",
         "Lagume (Lakume)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Humene",
+    "gwcode": "tpi",
+    "ln": "Humene"
 }

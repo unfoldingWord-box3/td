@@ -1,19 +1,19 @@
 {
-    "pk": 5918,
-    "lc": "sws",
+    "gw": false,
     "ISO-639-3": "sws",
-    "ln": "Seluwasan",
-    "ang": "Seluwasan",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5918,
     "lr": "Asia",
+    "lc": "sws",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Selvasa",
         "Selwasa"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Seluwasan",
+    "gwcode": "id",
+    "ln": "Seluwasan"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 6344,
-    "lc": "tsx",
+    "gw": false,
     "ISO-639-3": "tsx",
-    "ln": "Mubami",
-    "ang": "Mubami",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6344,
     "lr": "Pacific",
+    "lc": "tsx",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Ta",
         "Tao-Suamato",
         "Tao-Suame"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Mubami",
+    "gwcode": "tpi",
+    "ln": "Mubami"
 }

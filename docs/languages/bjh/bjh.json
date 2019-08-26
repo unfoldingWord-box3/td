@@ -1,11 +1,14 @@
 {
-    "pk": 714,
-    "lc": "bjh",
+    "gw": false,
     "ISO-639-3": "bjh",
-    "ln": "Bahinemo",
-    "ang": "Bahinemo",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 714,
     "lr": "Pacific",
+    "lc": "bjh",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Bahenemo",
         "Gahom",
@@ -13,10 +16,7 @@
         "Wogu",
         "Yigai"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Bahinemo",
+    "gwcode": "tpi",
+    "ln": "Bahinemo"
 }

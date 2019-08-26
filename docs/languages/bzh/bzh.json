@@ -1,18 +1,18 @@
 {
-    "pk": 1090,
-    "lc": "bzh",
+    "gw": false,
     "ISO-639-3": "bzh",
-    "ln": "Mapos Buang",
-    "ang": "Buang, Mapos",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1090,
     "lr": "Pacific",
-    "alt": [
-        "Central Buang"
-    ],
+    "lc": "bzh",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Central Buang"
+    ],
+    "ang": "Buang, Mapos",
+    "gwcode": "tpi",
+    "ln": "Mapos Buang"
 }

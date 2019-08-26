@@ -1,11 +1,14 @@
 {
-    "pk": 5408,
-    "lc": "rod",
+    "gw": false,
     "ISO-639-3": "rod",
-    "ln": "t\u00f2R\u00f3g\u00f3",
-    "ang": "Rogo",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 5408,
     "lr": "Africa",
+    "lc": "rod",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Burogo",
         "Shiyabe",
@@ -14,10 +17,7 @@
         "Ucanja Kamuku",
         "Urogo"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Rogo",
+    "gwcode": "en",
+    "ln": "t\u00f2R\u00f3g\u00f3"
 }

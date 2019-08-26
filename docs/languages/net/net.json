@@ -1,20 +1,20 @@
 {
-    "pk": 4396,
-    "lc": "net",
+    "gw": false,
     "ISO-639-3": "net",
-    "ln": "Nete",
-    "ang": "Nete",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4396,
     "lr": "Pacific",
+    "lc": "net",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Iniai",
         "Malamauda",
         "Malaumanda"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Nete",
+    "gwcode": "tpi",
+    "ln": "Nete"
 }

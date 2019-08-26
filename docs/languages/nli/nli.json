@@ -1,21 +1,21 @@
 {
-    "pk": 4523,
-    "lc": "nli",
+    "gw": false,
     "ISO-639-3": "nli",
-    "ln": "\u0646\u0646\u06af\u0644\u0627\u0645\u06cc",
-    "ang": "Grangali",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 4523,
     "lr": "Asia",
+    "lc": "nli",
+    "cc": [
+        "AF"
+    ],
     "alt": [
         "Gelangali",
         "Jumiaki",
         "Zemiaki (Zamyaki)",
         "Nangalami (Ningalami)"
     ],
-    "cc": [
-        "AF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Grangali",
+    "gwcode": "ps",
+    "ln": "\u0646\u0646\u06af\u0644\u0627\u0645\u06cc"
 }

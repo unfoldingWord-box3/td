@@ -1,21 +1,21 @@
 {
-    "pk": 3682,
-    "lc": "mbf",
+    "gw": false,
     "ISO-639-3": "mbf",
-    "ln": "Baba Malay",
-    "ang": "Malay, Baba",
     "hc": "SG",
+    "ld": "ltr",
+    "pk": 3682,
     "lr": "Asia",
+    "lc": "mbf",
+    "cc": [
+        "MY",
+        "SG"
+    ],
     "alt": [
         "Chinese Malay",
         "Straits Malay",
         "Baba"
     ],
-    "cc": [
-        "MY",
-        "SG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Malay, Baba",
+    "gwcode": "zh",
+    "ln": "Baba Malay"
 }

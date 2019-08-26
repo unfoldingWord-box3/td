@@ -38,6 +38,8 @@ current tD production website as follows:
     from uw_language u 
     left outer join uw_language g 
     on u.gateway_language_id = g.id
+    where g.gateway_flag = true
+    order by u.code
     ```
     - using DBeaver, the result set is exported as JSON. Exporting notes:
         - Toggle off the setting `Print table name`
@@ -59,14 +61,10 @@ only a few languages. This is avoid creation of 8K+ directories.
 # Stats
 Some analysis of input language data is available using the stats script:
 ```bash
-$ python3 bin/stats.py
-
-
-
 =============== Summary ===============
         Total number of languages: 8703
           Total number of regions: 6
-Total number of gateway languages: 75
+Total number of gateway languages: 44
 
 
 
@@ -81,75 +79,44 @@ UNKNOWN:30
 
 
 ===== Languages per G/L =====
-UNKNOWN:402
-abs:2
+UNKNOWN:594
 am:82
-ang:1
-apd:2
 ar:319
 as:36
-ase:3
-bgw:1
 bi:18
 bn:30
 ceb:59
-cmn:2
-csl:1
-dz:18
 en:1658
 es:21
 es-419:605
 fa:57
-fil:3
 fr:1057
-grt:2
 gu:15
-gug:1
 ha:1
-hca:1
 hi:130
-hne:11
-hu:1
 id:1035
-idb:1
 ilo:76
-ins:5
-ja:13
-jv:1
-kfk:1
 km:21
 kn:51
-ks:3
-lbj:2
 lo:59
-mai:1
 ml:27
 mn:3
-mni:11
-mnk:1
 mr:29
 ms:129
 my:105
 ne:104
-nl:25
-nsl:1
 or:18
 pa:3
-pis:68
 plt:12
 pmy:8
-pnb:3
 ps:31
 pt:267
 pt-br:5
-raj:5
 ru:132
-rwr:1
 sw:176
 ta:21
 te:68
 th:34
-ti:1
 tl:20
 tpi:1088
 tr:11
@@ -176,3 +143,19 @@ CREATE TABLE [ISO_639-3] (
          Comment    varchar(150) NULL)       -- Comment relating to one or more of the columns   
 ```
 
+# Data Quality
+For every gateway language called out by a language, this checks to see it is really is a gateway language based on the gateway flag for the language.
+
+The query below returns all languages that are referenced as a gateway language but are not actually gateway languages. As of this writing there are 31 such invalid gateway languages.
+
+```sql
+select id,code,name,gateway_flag
+from uw_language 
+where id in (
+	select gateway_language_id 
+	from uw_language 
+	where gateway_language_id is not null
+)
+and gateway_flag = false
+order by code
+```

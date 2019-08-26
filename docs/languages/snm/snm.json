@@ -1,18 +1,18 @@
 {
-    "pk": 5736,
-    "lc": "snm",
+    "gw": false,
     "ISO-639-3": "snm",
-    "ln": "Southern Ma'di",
-    "ang": "Ma\u2019di, Southern",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 5736,
     "lr": "Africa",
-    "alt": [
-        "Southern Ma'di"
-    ],
+    "lc": "snm",
     "cc": [
         "UG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Southern Ma'di"
+    ],
+    "ang": "Ma\u2019di, Southern",
+    "gwcode": "en",
+    "ln": "Southern Ma'di"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 6984,
-    "lc": "xms",
+    "gw": false,
     "ISO-639-3": "xms",
-    "ln": "Moroccan Sign Language",
-    "ang": "Moroccan Sign Language",
     "hc": "MA",
+    "ld": "ltr",
+    "pk": 6984,
     "lr": "Africa",
-    "alt": [
-        "MSL"
-    ],
+    "lc": "xms",
     "cc": [
         "MA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "MSL"
+    ],
+    "ang": "Moroccan Sign Language",
+    "gwcode": "ar",
+    "ln": "Moroccan Sign Language"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 6828,
-    "lc": "wti",
+    "gw": false,
     "ISO-639-3": "wti",
-    "ln": "Berta",
-    "ang": "Berta",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 6828,
     "lr": "Africa",
+    "lc": "wti",
+    "cc": [
+        "ET",
+        "SD"
+    ],
     "alt": [
         "Barta",
         "Beni Shangul",
@@ -15,11 +19,7 @@
         "Wetawit",
         "Gwami"
     ],
-    "cc": [
-        "ET",
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Berta",
+    "gwcode": "am",
+    "ln": "Berta"
 }

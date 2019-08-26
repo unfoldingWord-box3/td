@@ -1,19 +1,19 @@
 {
-    "pk": 2121,
-    "lc": "gqu",
+    "gw": false,
     "ISO-639-3": "gqu",
-    "ln": "\u7a3f\u65b9\u8a00",
-    "ang": "Qau",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2121,
     "lr": "Asia",
+    "lc": "gqu",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Aqao",
         "Gao"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Qau",
+    "gwcode": "zh",
+    "ln": "\u7a3f\u65b9\u8a00"
 }

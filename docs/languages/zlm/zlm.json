@@ -1,11 +1,16 @@
 {
-    "pk": 7403,
-    "lc": "zlm",
+    "gw": false,
     "ISO-639-3": "zlm",
-    "ln": "Malay (individual language)",
-    "ang": "Malay",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 7403,
     "lr": "Asia",
+    "lc": "zlm",
+    "cc": [
+        "ID",
+        "MY",
+        "MM"
+    ],
     "alt": [
         "Bahasa Daerah",
         "Bahasa Melayu",
@@ -37,12 +42,7 @@
         "Lubu",
         "Riau islands"
     ],
-    "cc": [
-        "ID",
-        "MY",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Malay",
+    "gwcode": "ms",
+    "ln": "Malay (individual language)"
 }

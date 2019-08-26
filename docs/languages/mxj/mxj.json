@@ -1,11 +1,15 @@
 {
-    "pk": 4223,
-    "lc": "mxj",
+    "gw": false,
     "ISO-639-3": "mxj",
-    "ln": "Miju-Mishmi",
-    "ang": "Miju-Mishmi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4223,
     "lr": "Asia",
+    "lc": "mxj",
+    "cc": [
+        "CN",
+        "IN"
+    ],
     "alt": [
         "Kaman",
         "Keman",
@@ -15,11 +19,7 @@
         "Geman Dend",
         "Geman Deng"
     ],
-    "cc": [
-        "CN",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Miju-Mishmi",
+    "gwcode": "en",
+    "ln": "Miju-Mishmi"
 }

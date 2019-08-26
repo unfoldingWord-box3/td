@@ -1,21 +1,21 @@
 {
-    "pk": 6561,
-    "lc": "usk",
+    "gw": false,
     "ISO-639-3": "usk",
-    "ln": "Usaghade",
-    "ang": "Usaghade",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 6561,
     "lr": "Africa",
+    "lc": "usk",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Isangele",
         "Usakade",
         "Usakedet"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Usaghade",
+    "gwcode": "fr",
+    "ln": "Usaghade"
 }

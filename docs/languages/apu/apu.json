@@ -1,20 +1,20 @@
 {
-    "pk": 319,
-    "lc": "apu",
+    "gw": false,
     "ISO-639-3": "apu",
-    "ln": "Apurin\u00e3",
-    "ang": "Apurin\u00e3",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 319,
     "lr": "Americas",
+    "lc": "apu",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Ipurin\u00e3n",
         "Kangite",
         "Popengare"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Apurin\u00e3",
+    "gwcode": "pt",
+    "ln": "Apurin\u00e3"
 }

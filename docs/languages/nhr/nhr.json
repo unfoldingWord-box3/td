@@ -1,11 +1,14 @@
 {
-    "pk": 4448,
-    "lc": "nhr",
+    "gw": false,
     "ISO-639-3": "nhr",
-    "ln": "Naro",
-    "ang": "Naro",
     "hc": "BW",
+    "ld": "ltr",
+    "pk": 4448,
     "lr": "Africa",
+    "lc": "nhr",
+    "cc": [
+        "BW"
+    ],
     "alt": [
         "||Ai||e",
         "||Ai||en",
@@ -26,10 +29,7 @@
         "!Gingkwe",
         "Ts'ao"
     ],
-    "cc": [
-        "BW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naro",
+    "gwcode": "en",
+    "ln": "Naro"
 }

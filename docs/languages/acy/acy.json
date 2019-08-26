@@ -1,20 +1,20 @@
 {
-    "pk": 69,
-    "lc": "acy",
+    "gw": false,
     "ISO-639-3": "acy",
-    "ln": "Cypriot Arabic",
-    "ang": "Arabic, Cypriot Spoken",
     "hc": "CY",
+    "ld": "rtl",
+    "pk": 69,
     "lr": "Asia",
+    "lc": "acy",
+    "cc": [
+        "CY"
+    ],
     "alt": [
         "Cypriot Maronite Arabic",
         "Maronite",
         "Sanna"
     ],
-    "cc": [
-        "CY"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "en"
+    "ang": "Arabic, Cypriot Spoken",
+    "gwcode": "en",
+    "ln": "Cypriot Arabic"
 }

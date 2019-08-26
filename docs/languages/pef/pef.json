@@ -1,18 +1,18 @@
 {
-    "pk": 4983,
-    "lc": "pef",
+    "gw": false,
     "ISO-639-3": "pef",
-    "ln": "Northeastern Pomo",
-    "ang": "Pomo, Northeastern",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 4983,
     "lr": "Americas",
-    "alt": [
-        "Salt Pomo"
-    ],
+    "lc": "pef",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Salt Pomo"
+    ],
+    "ang": "Pomo, Northeastern",
+    "gwcode": "en",
+    "ln": "Northeastern Pomo"
 }

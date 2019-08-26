@@ -1,11 +1,14 @@
 {
-    "pk": 3490,
-    "lc": "lkn",
+    "gw": false,
     "ISO-639-3": "lkn",
-    "ln": "Lakon",
-    "ang": "Lakon",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 3490,
     "lr": "Pacific",
+    "lc": "lkn",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Lakona Bay",
         "West Gaua",
@@ -13,10 +16,7 @@
         "Togla",
         "Vure"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Lakon",
+    "gwcode": "fr",
+    "ln": "Lakon"
 }

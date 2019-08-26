@@ -1,0 +1,22 @@
+.. _yoi:
+
+与那国物言
+===============
+
+This language is spoken in the following countries:
+
+* JP: Japan
+
+.. code-block:: yaml
+
+    ISO_639-3: yoi
+    alternate_names: []
+    anglicanized_name: Yonaguni
+    country_codes:
+    - JP
+    gateway_language: UNKNOWN
+    lang_code: yoi
+    lang_direction: ltr
+    lang_name: 与那国物言
+    lang_region: Asia
+    

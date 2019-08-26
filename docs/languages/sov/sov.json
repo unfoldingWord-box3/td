@@ -1,18 +1,18 @@
 {
-    "pk": 5767,
-    "lc": "sov",
+    "gw": false,
     "ISO-639-3": "sov",
-    "ln": "Sonsorol",
-    "ang": "Sonsorol",
     "hc": "PW",
+    "ld": "ltr",
+    "pk": 5767,
     "lr": "Pacific",
-    "alt": [
-        "Merir"
-    ],
+    "lc": "sov",
     "cc": [
         "PW"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Merir"
+    ],
+    "ang": "Sonsorol",
+    "gwcode": "en",
+    "ln": "Sonsorol"
 }

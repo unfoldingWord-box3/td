@@ -1,18 +1,18 @@
 {
-    "pk": 710,
-    "lc": "bjc",
+    "gw": false,
     "ISO-639-3": "bjc",
-    "ln": "Bariji",
-    "ang": "Bariji",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 710,
     "lr": "Pacific",
-    "alt": [
-        "Aga Bereho"
-    ],
+    "lc": "bjc",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Aga Bereho"
+    ],
+    "ang": "Bariji",
+    "gwcode": "tpi",
+    "ln": "Bariji"
 }

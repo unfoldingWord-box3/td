@@ -1,19 +1,19 @@
 {
-    "pk": 2087,
-    "lc": "gnw",
+    "gw": false,
     "ISO-639-3": "gnw",
-    "ln": "Western Bolivian Guaran\u00ed",
-    "ang": "Guaran\u00ed, Western Bolivian",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 2087,
     "lr": "Americas",
+    "lc": "gnw",
+    "cc": [
+        "BO"
+    ],
     "alt": [
         "Simba",
         "Simba Guaran\u00ed"
     ],
-    "cc": [
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Guaran\u00ed, Western Bolivian",
+    "gwcode": "es-419",
+    "ln": "Western Bolivian Guaran\u00ed"
 }

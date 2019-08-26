@@ -1,11 +1,14 @@
 {
-    "pk": 6726,
-    "lc": "wgo",
+    "gw": false,
     "ISO-639-3": "wgo",
-    "ln": "Waigeo",
-    "ang": "Waigeo",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6726,
     "lr": "Asia",
+    "lc": "wgo",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Ambel",
         "Amberi",
@@ -13,10 +16,7 @@
         "Metsam",
         "Metnyo"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Waigeo",
+    "gwcode": "id",
+    "ln": "Waigeo"
 }

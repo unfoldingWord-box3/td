@@ -1,19 +1,19 @@
 {
-    "pk": 1359,
-    "lc": "cso",
+    "gw": false,
     "ISO-639-3": "cso",
-    "ln": "Sochiapam Chinantec",
-    "ang": "Chinantec, Sochiapam",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1359,
     "lr": "Americas",
+    "lc": "cso",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Chinanteco del Oeste",
         "Sochiapan Chinantec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chinantec, Sochiapam",
+    "gwcode": "es-419",
+    "ln": "Sochiapam Chinantec"
 }

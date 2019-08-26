@@ -1,21 +1,21 @@
 {
-    "pk": 4365,
-    "lc": "ndm",
+    "gw": false,
     "ISO-639-3": "ndm",
-    "ln": "Ndam",
-    "ang": "Ndam",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 4365,
     "lr": "Africa",
+    "lc": "ndm",
+    "cc": [
+        "TD"
+    ],
     "alt": [
         "Dam",
         "Ndamm",
         "Ndam Dik (Northern Ndam)",
         "Ndam-Ndam (Southern Ndam)"
     ],
-    "cc": [
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Ndam",
+    "gwcode": "ar",
+    "ln": "Ndam"
 }

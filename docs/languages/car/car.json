@@ -1,11 +1,18 @@
 {
-    "pk": 1125,
-    "lc": "car",
+    "gw": false,
     "ISO-639-3": "car",
-    "ln": "Galibi Carib",
-    "ang": "Carib",
     "hc": "VE",
+    "ld": "ltr",
+    "pk": 1125,
     "lr": "Americas",
+    "lc": "car",
+    "cc": [
+        "BR",
+        "GF",
+        "VE",
+        "GY",
+        "SR"
+    ],
     "alt": [
         "Caribe",
         "Cari\u00f1a",
@@ -24,14 +31,7 @@
         "Murato (Myrato)",
         "Tyrewuju (Eastern Carib)"
     ],
-    "cc": [
-        "BR",
-        "GF",
-        "VE",
-        "GY",
-        "SR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Carib",
+    "gwcode": "es-419",
+    "ln": "Galibi Carib"
 }

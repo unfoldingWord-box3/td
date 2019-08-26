@@ -1,22 +1,22 @@
 {
-    "pk": 4948,
-    "lc": "pbo",
+    "gw": false,
     "ISO-639-3": "pbo",
-    "ln": "Papel",
-    "ang": "Papel",
     "hc": "GW",
+    "ld": "ltr",
+    "pk": 4948,
     "lr": "Africa",
+    "lc": "pbo",
+    "cc": [
+        "SN",
+        "GW"
+    ],
     "alt": [
         "Moium",
         "Oium",
         "Papei",
         "Pepel"
     ],
-    "cc": [
-        "SN",
-        "GW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Papel",
+    "gwcode": "pt",
+    "ln": "Papel"
 }

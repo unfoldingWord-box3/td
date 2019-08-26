@@ -1,19 +1,19 @@
 {
-    "pk": 4183,
-    "lc": "mvr",
+    "gw": false,
     "ISO-639-3": "mvr",
-    "ln": "Marau",
-    "ang": "Marau",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4183,
     "lr": "Asia",
+    "lc": "mvr",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Warabori (Natabui)",
         "Warembori"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Marau",
+    "gwcode": "id",
+    "ln": "Marau"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 5056,
-    "lc": "pkp",
+    "gw": false,
     "ISO-639-3": "pkp",
-    "ln": "Pukapuka",
-    "ang": "Pukapuka",
     "hc": "CK",
+    "ld": "ltr",
+    "pk": 5056,
     "lr": "Pacific",
-    "alt": [
-        "Bukabukan",
-        "Pukapukan"
-    ],
+    "lc": "pkp",
     "cc": [
         "CK",
         "NZ",
         "PF"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Bukabukan",
+        "Pukapukan"
+    ],
+    "ang": "Pukapuka",
+    "gwcode": "en",
+    "ln": "Pukapuka"
 }

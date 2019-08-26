@@ -1,20 +1,20 @@
 {
-    "pk": 565,
-    "lc": "bdg",
+    "gw": false,
     "ISO-639-3": "bdg",
-    "ln": "Bonggi",
-    "ang": "Bonggi",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 565,
     "lr": "Asia",
+    "lc": "bdg",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "Bangay",
         "Banggi",
         "Banggi Dusun"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Bonggi",
+    "gwcode": "ms",
+    "ln": "Bonggi"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 4937,
-    "lc": "pay",
+    "gw": false,
     "ISO-639-3": "pay",
-    "ln": "Pech",
-    "ang": "Pech",
     "hc": "HN",
+    "ld": "ltr",
+    "pk": 4937,
     "lr": "Americas",
-    "alt": [
-        "Seco"
-    ],
+    "lc": "pay",
     "cc": [
         "HN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Seco"
+    ],
+    "ang": "Pech",
+    "gwcode": "es-419",
+    "ln": "Pech"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 4055,
-    "lc": "mql",
+    "gw": false,
     "ISO-639-3": "mql",
-    "ln": "Mbelime",
-    "ang": "Mbelime",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 4055,
     "lr": "Africa",
+    "lc": "mql",
+    "cc": [
+        "BJ"
+    ],
     "alt": [
         "Mb\u00e8lim\u00e8",
         "Mbilme",
@@ -15,10 +18,7 @@
         "Niendi",
         "Nyende"
     ],
-    "cc": [
-        "BJ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mbelime",
+    "gwcode": "fr",
+    "ln": "Mbelime"
 }

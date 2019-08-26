@@ -1,20 +1,20 @@
 {
-    "pk": 5480,
-    "lc": "sbb",
+    "gw": false,
     "ISO-639-3": "sbb",
-    "ln": "Simbo",
-    "ang": "Simbo",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 5480,
     "lr": "Pacific",
+    "lc": "sbb",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Madeggusu",
         "Mandeghughusu",
         "Sibo"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Simbo",
+    "gwcode": "UNKNOWN",
+    "ln": "Simbo"
 }

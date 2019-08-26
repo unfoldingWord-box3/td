@@ -1,18 +1,18 @@
 {
-    "pk": 6400,
-    "lc": "tvt",
+    "gw": false,
     "ISO-639-3": "tvt",
-    "ln": "Tutsa Naga",
-    "ang": "Naga, Tutsa",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6400,
     "lr": "Asia",
-    "alt": [
-        "Totcha"
-    ],
+    "lc": "tvt",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Totcha"
+    ],
+    "ang": "Naga, Tutsa",
+    "gwcode": "en",
+    "ln": "Tutsa Naga"
 }

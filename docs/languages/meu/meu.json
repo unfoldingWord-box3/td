@@ -1,19 +1,19 @@
 {
-    "pk": 3772,
-    "lc": "meu",
+    "gw": false,
     "ISO-639-3": "meu",
-    "ln": "Motu",
-    "ang": "Motu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3772,
     "lr": "Pacific",
+    "lc": "meu",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Pure Motu",
         "True Motu"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Motu",
+    "gwcode": "tpi",
+    "ln": "Motu"
 }

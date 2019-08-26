@@ -1,11 +1,14 @@
 {
-    "pk": 3214,
-    "lc": "kvg",
+    "gw": false,
     "ISO-639-3": "kvg",
-    "ln": "Kuni-Boazi",
-    "ang": "Kuni-Boazi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3214,
     "lr": "Pacific",
+    "lc": "kvg",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Boadji",
         "Bwadji",
@@ -16,10 +19,7 @@
         "Khoamak",
         "Sengeze"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kuni-Boazi",
+    "gwcode": "tpi",
+    "ln": "Kuni-Boazi"
 }

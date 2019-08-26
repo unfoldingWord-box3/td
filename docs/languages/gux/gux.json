@@ -1,11 +1,19 @@
 {
-    "pk": 2174,
-    "lc": "gux",
+    "gw": false,
     "ISO-639-3": "gux",
-    "ln": "Gourmanch\u00e9ma",
-    "ang": "Gourmanch\u00e9ma",
     "hc": "NE",
+    "ld": "ltr",
+    "pk": 2174,
     "lr": "Africa",
+    "lc": "gux",
+    "cc": [
+        "BJ",
+        "BF",
+        "GH",
+        "NE",
+        "NG",
+        "TG"
+    ],
     "alt": [
         "Goulmacema",
         "Gourma",
@@ -18,15 +26,7 @@
         "Goulimancema",
         "Central Gourmanchema"
     ],
-    "cc": [
-        "BJ",
-        "BF",
-        "GH",
-        "NE",
-        "NG",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Gourmanch\u00e9ma",
+    "gwcode": "fr",
+    "ln": "Gourmanch\u00e9ma"
 }

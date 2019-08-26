@@ -1,11 +1,14 @@
 {
-    "pk": 3595,
-    "lc": "lse",
+    "gw": false,
     "ISO-639-3": "lse",
-    "ln": "Lusengo",
-    "ang": "Lusengo",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3595,
     "lr": "Africa",
+    "lc": "lse",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Losengo",
         "Loleko",
@@ -16,10 +19,7 @@
         "Leku",
         "Lipoto (Ingundji)"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Lusengo",
+    "gwcode": "fr",
+    "ln": "Lusengo"
 }

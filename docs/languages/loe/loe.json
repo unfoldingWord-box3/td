@@ -1,11 +1,14 @@
 {
-    "pk": 3553,
-    "lc": "loe",
+    "gw": false,
     "ISO-639-3": "loe",
-    "ln": "Saluan",
-    "ang": "Saluan",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3553,
     "lr": "Asia",
+    "lc": "loe",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Loinang",
         "Loindang",
@@ -17,10 +20,7 @@
         "Loinang (Baloa')",
         "Kintom-Pagimana-Boalemo"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Saluan",
+    "gwcode": "id",
+    "ln": "Saluan"
 }

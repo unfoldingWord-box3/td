@@ -1,20 +1,20 @@
 {
-    "pk": 851,
-    "lc": "box",
+    "gw": false,
     "ISO-639-3": "box",
-    "ln": "Buamu",
-    "ang": "Buamu",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 851,
     "lr": "Africa",
+    "lc": "box",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Eastern Bobo Oule",
         "Eastern Bobo Wule",
         "Red Bobo"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Buamu",
+    "gwcode": "fr",
+    "ln": "Buamu"
 }

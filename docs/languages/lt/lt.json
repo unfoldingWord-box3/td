@@ -1,11 +1,21 @@
 {
-    "pk": 3607,
-    "lc": "lt",
+    "gw": false,
     "ISO-639-3": "lit",
-    "ln": "lietuvi\u0173 kalba",
-    "ang": "Lithuanian",
     "hc": "LT",
+    "ld": "ltr",
+    "pk": 3607,
     "lr": "Europe",
+    "lc": "lt",
+    "cc": [
+        "DE",
+        "KZ",
+        "LV",
+        "PL",
+        "US",
+        "CA",
+        "LT",
+        "UZ"
+    ],
     "alt": [
         "Lietuvi",
         "Lietuviskai",
@@ -23,17 +33,7 @@
         "Aukshtaitish (Aukshtaichiai)",
         "Highland Lithuanian"
     ],
-    "cc": [
-        "DE",
-        "KZ",
-        "LV",
-        "PL",
-        "US",
-        "CA",
-        "LT",
-        "UZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lithuanian",
+    "gwcode": "en",
+    "ln": "lietuvi\u0173 kalba"
 }

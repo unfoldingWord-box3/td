@@ -1,19 +1,19 @@
 {
-    "pk": 6835,
-    "lc": "wuh",
+    "gw": false,
     "ISO-639-3": "wuh",
-    "ln": "\u4e94\u5c6f\u8bdd",
-    "ang": "Wutunhua",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 6835,
     "lr": "Asia",
+    "lc": "wuh",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Wutong",
         "Wutun"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Wutunhua",
+    "gwcode": "zh",
+    "ln": "\u4e94\u5c6f\u8bdd"
 }

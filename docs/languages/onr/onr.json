@@ -1,20 +1,20 @@
 {
-    "pk": 4846,
-    "lc": "onr",
+    "gw": false,
     "ISO-639-3": "onr",
-    "ln": "Northern One",
-    "ang": "One, Northern",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4846,
     "lr": "Pacific",
+    "lc": "onr",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Aunalei",
         "Onele",
         "Oni"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "One, Northern",
+    "gwcode": "tpi",
+    "ln": "Northern One"
 }

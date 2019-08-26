@@ -1,11 +1,15 @@
 {
-    "pk": 1537,
-    "lc": "diu",
+    "gw": false,
     "ISO-639-3": "diu",
-    "ln": "Diriku",
-    "ang": "Diriku",
     "hc": "NA",
+    "ld": "ltr",
+    "pk": 1537,
     "lr": "Africa",
+    "lc": "diu",
+    "cc": [
+        "AO",
+        "NA"
+    ],
     "alt": [
         "Diriko",
         "Mbogedo",
@@ -13,11 +17,7 @@
         "Shimbogedu",
         "Mbogedu"
     ],
-    "cc": [
-        "AO",
-        "NA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Diriku",
+    "gwcode": "en",
+    "ln": "Diriku"
 }

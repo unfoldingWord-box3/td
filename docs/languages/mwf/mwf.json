@@ -1,21 +1,21 @@
 {
-    "pk": 4196,
-    "lc": "mwf",
+    "gw": false,
     "ISO-639-3": "mwf",
-    "ln": "Murrinh-Patha",
-    "ang": "Murrinh-Patha",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4196,
     "lr": "Pacific",
+    "lc": "mwf",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Garama",
         "Murinbada",
         "Murinbata",
         "Murrinhpatha"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Murrinh-Patha",
+    "gwcode": "en",
+    "ln": "Murrinh-Patha"
 }

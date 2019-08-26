@@ -1,16 +1,16 @@
 {
-    "pk": 1345,
-    "lc": "csa",
+    "gw": false,
     "ISO-639-3": "csa",
-    "ln": "Chiltepec Chinantec",
-    "ang": "Chinantec, Chiltepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1345,
     "lr": "Americas",
-    "alt": [],
+    "lc": "csa",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [],
+    "ang": "Chinantec, Chiltepec",
+    "gwcode": "es-419",
+    "ln": "Chiltepec Chinantec"
 }

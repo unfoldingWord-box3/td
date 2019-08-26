@@ -1,20 +1,20 @@
 {
-    "pk": 5427,
-    "lc": "rth",
+    "gw": false,
     "ISO-639-3": "rth",
-    "ln": "Ratahan",
-    "ang": "Ratahan",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5427,
     "lr": "Asia",
+    "lc": "rth",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Bentenan",
         "Pasan",
         "Toratan"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Ratahan",
+    "gwcode": "id",
+    "ln": "Ratahan"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 5548,
-    "lc": "sef",
+    "gw": false,
     "ISO-639-3": "sef",
-    "ln": "Cebaara Senoufo",
-    "ang": "S\u00e9noufo, Cebaara",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 5548,
     "lr": "Africa",
+    "lc": "sef",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Senadi",
         "Senari",
@@ -16,10 +19,7 @@
         "Takpasyeeri (Messeni)",
         "Tagbari (Mbengui-Niell\u00e9)"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "S\u00e9noufo, Cebaara",
+    "gwcode": "fr",
+    "ln": "Cebaara Senoufo"
 }

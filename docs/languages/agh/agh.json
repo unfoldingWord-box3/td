@@ -1,11 +1,14 @@
 {
-    "pk": 129,
-    "lc": "agh",
+    "gw": false,
     "ISO-639-3": "agh",
-    "ln": "Ngelima",
-    "ang": "Ngelima",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 129,
     "lr": "Africa",
+    "lc": "agh",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Buru (Bor)",
         "Leboro",
@@ -14,10 +17,7 @@
         "Bangelima",
         "Leangba"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ngelima",
+    "gwcode": "fr",
+    "ln": "Ngelima"
 }

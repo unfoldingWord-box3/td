@@ -1,20 +1,20 @@
 {
-    "pk": 5813,
-    "lc": "srl",
+    "gw": false,
     "ISO-639-3": "srl",
-    "ln": "Isirawa",
-    "ang": "Isirawa",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5813,
     "lr": "Asia",
+    "lc": "srl",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Okwasar",
         "Saberi",
         "Saweri"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Isirawa",
+    "gwcode": "id",
+    "ln": "Isirawa"
 }

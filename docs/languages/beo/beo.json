@@ -1,19 +1,19 @@
 {
-    "pk": 598,
-    "lc": "beo",
+    "gw": false,
     "ISO-639-3": "beo",
-    "ln": "Beami",
-    "ang": "Beami",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 598,
     "lr": "Pacific",
+    "lc": "beo",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Bedamini",
         "Mougulu"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Beami",
+    "gwcode": "tpi",
+    "ln": "Beami"
 }

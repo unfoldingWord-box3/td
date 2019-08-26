@@ -1,0 +1,24 @@
+.. _tnx:
+
+Tanema
+======
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: tnx
+    alternate_names:
+    - Tetau
+    - Tetawo
+    anglicanized_name: Tanema
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: tnx
+    lang_direction: ltr
+    lang_name: Tanema
+    lang_region: Pacific
+    

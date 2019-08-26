@@ -1,11 +1,14 @@
 {
-    "pk": 3239,
-    "lc": "kwe",
+    "gw": false,
     "ISO-639-3": "kwe",
-    "ln": "Kwerba",
-    "ang": "Kwerba",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3239,
     "lr": "Asia",
+    "lc": "kwe",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Airmati",
         "Armati",
@@ -15,10 +18,7 @@
         "Segar Tor",
         "Tekutameso"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kwerba",
+    "gwcode": "id",
+    "ln": "Kwerba"
 }

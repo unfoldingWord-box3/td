@@ -1,11 +1,15 @@
 {
-    "pk": 5443,
-    "lc": "rut",
+    "gw": false,
     "ISO-639-3": "rut",
-    "ln": "\u0420\u0443\u0442\u0443\u043b\u044c\u0441\u043a\u0438\u0439",
-    "ang": "Rutul",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 5443,
     "lr": "Europe",
+    "lc": "rut",
+    "cc": [
+        "AZ",
+        "RU"
+    ],
     "alt": [
         "Chal",
         "Mukhad",
@@ -22,11 +26,7 @@
         "Ixrek",
         "South Rutul (Borch)"
     ],
-    "cc": [
-        "AZ",
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Rutul",
+    "gwcode": "ru",
+    "ln": "\u0420\u0443\u0442\u0443\u043b\u044c\u0441\u043a\u0438\u0439"
 }

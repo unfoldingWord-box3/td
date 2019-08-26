@@ -1,19 +1,19 @@
 {
-    "pk": 3742,
-    "lc": "mdp",
+    "gw": false,
     "ISO-639-3": "mdp",
-    "ln": "Mbala",
-    "ang": "Mbala",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3742,
     "lr": "Africa",
+    "lc": "mdp",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Gimbala",
         "Rumbala"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mbala",
+    "gwcode": "fr",
+    "ln": "Mbala"
 }

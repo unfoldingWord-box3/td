@@ -1,11 +1,14 @@
 {
-    "pk": 2996,
-    "lc": "kmj",
+    "gw": false,
     "ISO-639-3": "kmj",
-    "ln": "Kumarbhag Paharia",
-    "ang": "Kumarbhag Paharia",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2996,
     "lr": "Asia",
+    "lc": "kmj",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Kumar",
         "Mad",
@@ -16,10 +19,7 @@
         "Paharia",
         "Pahariya"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "ang": "Kumarbhag Paharia",
+    "gwcode": "bn",
+    "ln": "Kumarbhag Paharia"
 }

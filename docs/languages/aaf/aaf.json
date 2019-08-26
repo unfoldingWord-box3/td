@@ -1,19 +1,19 @@
 {
-    "pk": 12,
-    "lc": "aaf",
+    "gw": false,
     "ISO-639-3": "aaf",
-    "ln": "Aranadan",
-    "ang": "Aranadan",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 12,
     "lr": "Asia",
+    "lc": "aaf",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Aranatan",
         "Eranadans"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ml"
+    "ang": "Aranadan",
+    "gwcode": "ml",
+    "ln": "Aranadan"
 }

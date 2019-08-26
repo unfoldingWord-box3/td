@@ -1,11 +1,14 @@
 {
-    "pk": 2644,
-    "lc": "jmn",
+    "gw": false,
     "ISO-639-3": "jmn",
-    "ln": "Makuri Naga",
-    "ang": "Naga, Makuri",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 2644,
     "lr": "Asia",
+    "lc": "jmn",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Makury Naga",
         "Shaera",
@@ -17,10 +20,7 @@
         "Shera (Shaera)",
         "Arale"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Naga, Makuri",
+    "gwcode": "my",
+    "ln": "Makuri Naga"
 }

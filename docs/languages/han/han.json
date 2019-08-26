@@ -1,18 +1,18 @@
 {
-    "pk": 2231,
-    "lc": "han",
+    "gw": false,
     "ISO-639-3": "han",
-    "ln": "Hangaza",
-    "ang": "Hangaza",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 2231,
     "lr": "Africa",
-    "alt": [
-        "Kihangaza"
-    ],
+    "lc": "han",
     "cc": [
         "TZ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "alt": [
+        "Kihangaza"
+    ],
+    "ang": "Hangaza",
+    "gwcode": "sw",
+    "ln": "Hangaza"
 }

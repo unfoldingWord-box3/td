@@ -1,18 +1,18 @@
 {
-    "pk": 1674,
-    "lc": "dva",
+    "gw": false,
     "ISO-639-3": "dva",
-    "ln": "Duau",
-    "ang": "Duau",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1674,
     "lr": "Pacific",
-    "alt": [
-        "Guleguleu (Guragureu)"
-    ],
+    "lc": "dva",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Guleguleu (Guragureu)"
+    ],
+    "ang": "Duau",
+    "gwcode": "tpi",
+    "ln": "Duau"
 }

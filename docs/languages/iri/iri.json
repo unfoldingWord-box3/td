@@ -1,11 +1,14 @@
 {
-    "pk": 2509,
-    "lc": "iri",
+    "gw": false,
     "ISO-639-3": "iri",
-    "ln": "Irigwe",
-    "ang": "Irigwe",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2509,
     "lr": "Africa",
+    "lc": "iri",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Aregwe",
         "Idafan",
@@ -17,10 +20,7 @@
         "Nyango",
         "Rigwe"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Irigwe",
+    "gwcode": "en",
+    "ln": "Irigwe"
 }

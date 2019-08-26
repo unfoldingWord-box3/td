@@ -1,19 +1,19 @@
 {
-    "pk": 2400,
-    "lc": "iai",
+    "gw": false,
     "ISO-639-3": "iai",
-    "ln": "Iaai",
-    "ang": "Iaai",
     "hc": "NC",
+    "ld": "ltr",
+    "pk": 2400,
     "lr": "Pacific",
+    "lc": "iai",
+    "cc": [
+        "NC"
+    ],
     "alt": [
         "Hwen Iaai",
         "Yai"
     ],
-    "cc": [
-        "NC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Iaai",
+    "gwcode": "en",
+    "ln": "Iaai"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 2776,
-    "lc": "kdr",
+    "gw": false,
     "ISO-639-3": "kdr",
-    "ln": "Karaim",
-    "ang": "Karaim",
     "hc": "LT",
+    "ld": "ltr",
+    "pk": 2776,
     "lr": "Europe",
+    "lc": "kdr",
+    "cc": [
+        "LT"
+    ],
     "alt": [
         "Turkic Karaite",
         "Karaite",
@@ -13,10 +16,7 @@
         "Halych (Galits)",
         "Trakai (Trakay)"
     ],
-    "cc": [
-        "LT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Karaim",
+    "gwcode": "en",
+    "ln": "Karaim"
 }

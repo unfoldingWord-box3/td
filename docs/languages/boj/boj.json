@@ -1,11 +1,14 @@
 {
-    "pk": 838,
-    "lc": "boj",
+    "gw": false,
     "ISO-639-3": "boj",
-    "ln": "Anjam",
-    "ang": "Anjam",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 838,
     "lr": "Pacific",
+    "lc": "boj",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Bogadjim",
         "Bogajim",
@@ -13,10 +16,7 @@
         "Bom",
         "Lalok"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Anjam",
+    "gwcode": "tpi",
+    "ln": "Anjam"
 }

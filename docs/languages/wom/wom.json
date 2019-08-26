@@ -1,21 +1,21 @@
 {
-    "pk": 6797,
-    "lc": "wom",
+    "gw": false,
     "ISO-639-3": "wom",
-    "ln": "Wom (Nigeria)",
-    "ang": "Wom",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 6797,
     "lr": "Africa",
+    "lc": "wom",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Pere",
         "Pereba",
         "Perema"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Wom",
+    "gwcode": "en",
+    "ln": "Wom (Nigeria)"
 }

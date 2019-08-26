@@ -1,18 +1,18 @@
 {
-    "pk": 4344,
-    "lc": "ncn",
+    "gw": false,
     "ISO-639-3": "ncn",
-    "ln": "Nauna",
-    "ang": "Nauna",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4344,
     "lr": "Pacific",
-    "alt": [
-        "Naune"
-    ],
+    "lc": "ncn",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Naune"
+    ],
+    "ang": "Nauna",
+    "gwcode": "tpi",
+    "ln": "Nauna"
 }

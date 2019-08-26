@@ -1,21 +1,21 @@
 {
-    "pk": 1084,
-    "lc": "bzb",
+    "gw": false,
     "ISO-639-3": "bzb",
-    "ln": "Andio",
-    "ang": "Andio",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1084,
     "lr": "Asia",
+    "lc": "bzb",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Andio'o",
         "Imbao'o",
         "Masama",
         "Bobongko"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Andio",
+    "gwcode": "id",
+    "ln": "Andio"
 }

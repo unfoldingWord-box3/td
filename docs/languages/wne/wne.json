@@ -1,11 +1,14 @@
 {
-    "pk": 6778,
-    "lc": "wne",
+    "gw": false,
     "ISO-639-3": "wne",
-    "ln": "\u0648\u0646\u06cc\u0633\u06cc",
-    "ang": "Waneci",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 6778,
     "lr": "Asia",
+    "lc": "wne",
+    "cc": [
+        "PK"
+    ],
     "alt": [
         "Chalgari",
         "Tarino",
@@ -13,10 +16,7 @@
         "Wanechi",
         "Wanetsi"
     ],
-    "cc": [
-        "PK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Waneci",
+    "gwcode": "ur",
+    "ln": "\u0648\u0646\u06cc\u0633\u06cc"
 }

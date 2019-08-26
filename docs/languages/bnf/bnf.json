@@ -1,18 +1,18 @@
 {
-    "pk": 811,
-    "lc": "bnf",
+    "gw": false,
     "ISO-639-3": "bnf",
-    "ln": "Masiwang",
-    "ang": "Masiwang",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 811,
     "lr": "Asia",
-    "alt": [
-        "Bonfia"
-    ],
+    "lc": "bnf",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Bonfia"
+    ],
+    "ang": "Masiwang",
+    "gwcode": "id",
+    "ln": "Masiwang"
 }

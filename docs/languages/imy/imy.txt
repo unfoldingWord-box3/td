@@ -1,0 +1,22 @@
+.. _imy:
+
+Milyan
+======
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: imy
+    alternate_names: []
+    anglicanized_name: Milyan
+    country_codes:
+    - TR
+    gateway_language: UNKNOWN
+    lang_code: imy
+    lang_direction: ltr
+    lang_name: Milyan
+    lang_region: Asia
+    

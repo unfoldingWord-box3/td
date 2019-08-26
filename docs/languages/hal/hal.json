@@ -1,20 +1,20 @@
 {
-    "pk": 2229,
-    "lc": "hal",
+    "gw": false,
     "ISO-639-3": "hal",
-    "ln": "Halang",
-    "ang": "Halang",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 2229,
     "lr": "Asia",
-    "alt": [
-        "Koyong",
-        "Salang"
-    ],
+    "lc": "hal",
     "cc": [
         "LA",
         "VN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "alt": [
+        "Koyong",
+        "Salang"
+    ],
+    "ang": "Halang",
+    "gwcode": "vi",
+    "ln": "Halang"
 }

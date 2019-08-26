@@ -1,21 +1,21 @@
 {
-    "pk": 2772,
-    "lc": "kdm",
+    "gw": false,
     "ISO-639-3": "kdm",
-    "ln": "Kagoma",
-    "ang": "Kagoma",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2772,
     "lr": "Africa",
+    "lc": "kdm",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Agoma",
         "Gwong",
         "Gyong",
         "Kwong"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kagoma",
+    "gwcode": "en",
+    "ln": "Kagoma"
 }

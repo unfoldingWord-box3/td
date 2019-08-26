@@ -1,11 +1,14 @@
 {
-    "pk": 5223,
-    "lc": "pur",
+    "gw": false,
     "ISO-639-3": "pur",
-    "ln": "Purubor\u00e1",
-    "ang": "Purubor\u00e1",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 5223,
     "lr": "Americas",
+    "lc": "pur",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Aur\u00e3",
         "Burubora",
@@ -17,10 +20,7 @@
         "Purobor\u00e1",
         "Puruba"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Purubor\u00e1",
+    "gwcode": "pt",
+    "ln": "Purubor\u00e1"
 }

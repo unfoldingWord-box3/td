@@ -1,21 +1,21 @@
 {
-    "pk": 6491,
-    "lc": "uis",
+    "gw": false,
     "ISO-639-3": "uis",
-    "ln": "Uisai",
-    "ang": "Uisai",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6491,
     "lr": "Pacific",
+    "lc": "uis",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Reuno",
         "Iuno",
         "Kugala",
         "Kukuinu"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Uisai",
+    "gwcode": "tpi",
+    "ln": "Uisai"
 }

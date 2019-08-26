@@ -1,18 +1,18 @@
 {
-    "pk": 2896,
-    "lc": "kip",
+    "gw": false,
     "ISO-639-3": "kip",
-    "ln": "Sheshi Kham",
-    "ang": "Kham, Sheshi",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 2896,
     "lr": "Asia",
-    "alt": [
-        "Sheshi"
-    ],
+    "lc": "kip",
     "cc": [
         "NP"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "alt": [
+        "Sheshi"
+    ],
+    "ang": "Kham, Sheshi",
+    "gwcode": "ne",
+    "ln": "Sheshi Kham"
 }

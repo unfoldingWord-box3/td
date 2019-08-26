@@ -1,20 +1,20 @@
 {
-    "pk": 1476,
-    "lc": "dee",
+    "gw": false,
     "ISO-639-3": "dee",
-    "ln": "Dewoin",
-    "ang": "Dewoin",
     "hc": "LR",
+    "ld": "ltr",
+    "pk": 1476,
     "lr": "Africa",
+    "lc": "dee",
+    "cc": [
+        "LR"
+    ],
     "alt": [
         "De",
         "Dewoi",
         "Dey"
     ],
-    "cc": [
-        "LR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dewoin",
+    "gwcode": "en",
+    "ln": "Dewoin"
 }

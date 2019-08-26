@@ -1,11 +1,14 @@
 {
-    "pk": 7274,
-    "lc": "yrn",
+    "gw": false,
     "ISO-639-3": "yrn",
-    "ln": "\u96c5\u90ce\u5e03\u592e\u8bed",
-    "ang": "Yerong",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7274,
     "lr": "Asia",
+    "lc": "yrn",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Ban Yao",
         "Da Ia",
@@ -24,10 +27,7 @@
         "Yang Khyung",
         "Yerong Buyang"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Yerong",
+    "gwcode": "zh",
+    "ln": "\u96c5\u90ce\u5e03\u592e\u8bed"
 }

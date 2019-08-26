@@ -1,18 +1,18 @@
 {
-    "pk": 6351,
-    "lc": "ttd",
+    "gw": false,
     "ISO-639-3": "ttd",
-    "ln": "Tauade",
-    "ang": "Tauade",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6351,
     "lr": "Pacific",
-    "alt": [
-        "Tauata"
-    ],
+    "lc": "ttd",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Tauata"
+    ],
+    "ang": "Tauade",
+    "gwcode": "tpi",
+    "ln": "Tauade"
 }

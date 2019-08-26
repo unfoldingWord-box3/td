@@ -1,18 +1,18 @@
 {
-    "pk": 1725,
-    "lc": "ele",
+    "gw": false,
     "ISO-639-3": "ele",
-    "ln": "Elepi",
-    "ang": "Elepi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1725,
     "lr": "Pacific",
-    "alt": [
-        "Samap"
-    ],
+    "lc": "ele",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Samap"
+    ],
+    "ang": "Elepi",
+    "gwcode": "tpi",
+    "ln": "Elepi"
 }

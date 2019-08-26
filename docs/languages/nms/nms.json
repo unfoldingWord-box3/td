@@ -1,18 +1,18 @@
 {
-    "pk": 4551,
-    "lc": "nms",
+    "gw": false,
     "ISO-639-3": "nms",
-    "ln": "Letemboi",
-    "ang": "Letemboi",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 4551,
     "lr": "Pacific",
-    "alt": [
-        "Small Nambas"
-    ],
+    "lc": "nms",
     "cc": [
         "VU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Small Nambas"
+    ],
+    "ang": "Letemboi",
+    "gwcode": "fr",
+    "ln": "Letemboi"
 }

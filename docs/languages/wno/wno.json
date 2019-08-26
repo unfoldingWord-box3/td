@@ -1,21 +1,21 @@
 {
-    "pk": 6782,
-    "lc": "wno",
+    "gw": false,
     "ISO-639-3": "wno",
-    "ln": "Wano",
-    "ang": "Wano",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6782,
     "lr": "Asia",
+    "lc": "wno",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Waano",
         "Central Wano",
         "East Wano",
         "West Wano"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Wano",
+    "gwcode": "id",
+    "ln": "Wano"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 5763,
-    "lc": "soq",
+    "gw": false,
     "ISO-639-3": "soq",
-    "ln": "Kanasi",
-    "ang": "Kanasi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5763,
     "lr": "Pacific",
-    "alt": [
-        "Sona"
-    ],
+    "lc": "soq",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Sona"
+    ],
+    "ang": "Kanasi",
+    "gwcode": "tpi",
+    "ln": "Kanasi"
 }

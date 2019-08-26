@@ -1,16 +1,16 @@
 {
-    "pk": 334,
-    "lc": "ar",
+    "gw": true,
     "ISO-639-3": "ara",
-    "ln": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-    "ang": "Arabic",
     "hc": "SA",
+    "ld": "rtl",
+    "pk": 334,
     "lr": "Asia",
-    "alt": [],
+    "lc": "ar",
     "cc": [
         "SA"
     ],
-    "gw": true,
-    "ld": "rtl",
-    "gwcode": null
+    "alt": [],
+    "ang": "Arabic",
+    "gwcode": "UNKNOWN",
+    "ln": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
 }

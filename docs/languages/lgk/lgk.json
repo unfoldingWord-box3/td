@@ -1,21 +1,21 @@
 {
-    "pk": 3435,
-    "lc": "lgk",
+    "gw": false,
     "ISO-639-3": "lgk",
-    "ln": "Lingarak",
-    "ang": "Neverver",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 3435,
     "lr": "Pacific",
+    "lc": "lgk",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Bushman's Bay",
         "Nevwervwer",
         "Wuli",
         "Mindu"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Neverver",
+    "gwcode": "fr",
+    "ln": "Lingarak"
 }

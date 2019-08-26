@@ -1,19 +1,19 @@
 {
-    "pk": 2718,
-    "lc": "kbi",
+    "gw": false,
     "ISO-639-3": "kbi",
-    "ln": "Kaptiau",
-    "ang": "Kaptiau",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2718,
     "lr": "Asia",
+    "lc": "kbi",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kapitiauw",
         "Kaptiauw"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kaptiau",
+    "gwcode": "id",
+    "ln": "Kaptiau"
 }

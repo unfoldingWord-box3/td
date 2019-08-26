@@ -1,11 +1,23 @@
 {
-    "pk": 4608,
-    "lc": "npi",
+    "gw": false,
     "ISO-639-3": "npi",
-    "ln": "\u0928\u0947\u092a\u093e\u0932\u0940 (individual language)",
-    "ang": "Nepali",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 4608,
     "lr": "Asia",
+    "lc": "npi",
+    "cc": [
+        "BD",
+        "BN",
+        "BT",
+        "MY",
+        "NP",
+        "TH",
+        "US",
+        "CA",
+        "IN",
+        "MM"
+    ],
     "alt": [
         "Eastern Pahari",
         "Gurkhali",
@@ -20,19 +32,7 @@
         "Baitadeli (Baitadi)",
         "Bajurali (Bajura)"
     ],
-    "cc": [
-        "BD",
-        "BN",
-        "BT",
-        "MY",
-        "NP",
-        "TH",
-        "US",
-        "CA",
-        "IN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Nepali",
+    "gwcode": "ne",
+    "ln": "\u0928\u0947\u092a\u093e\u0932\u0940 (individual language)"
 }

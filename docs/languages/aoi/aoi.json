@@ -1,11 +1,14 @@
 {
-    "pk": 290,
-    "lc": "aoi",
+    "gw": false,
     "ISO-639-3": "aoi",
-    "ln": "Anindilyakwa",
-    "ang": "Anindilyakwa",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 290,
     "lr": "Pacific",
+    "lc": "aoi",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Andiljangwa",
         "Andilyaugwa",
@@ -16,10 +19,7 @@
         "Ingura",
         "Wanindilyaugwa"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Anindilyakwa",
+    "gwcode": "en",
+    "ln": "Anindilyakwa"
 }

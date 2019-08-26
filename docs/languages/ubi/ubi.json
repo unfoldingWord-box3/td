@@ -1,18 +1,18 @@
 {
-    "pk": 6469,
-    "lc": "ubi",
+    "gw": false,
     "ISO-639-3": "ubi",
-    "ln": "Ubi",
-    "ang": "Ubi",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 6469,
     "lr": "Africa",
-    "alt": [
-        "Oubi"
-    ],
+    "lc": "ubi",
     "cc": [
         "TD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Oubi"
+    ],
+    "ang": "Ubi",
+    "gwcode": "ar",
+    "ln": "Ubi"
 }

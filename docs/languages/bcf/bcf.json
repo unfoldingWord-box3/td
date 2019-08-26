@@ -1,20 +1,20 @@
 {
-    "pk": 539,
-    "lc": "bcf",
+    "gw": false,
     "ISO-639-3": "bcf",
-    "ln": "Bamu",
-    "ang": "Bamu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 539,
     "lr": "Pacific",
+    "lc": "bcf",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Bamu Kiwai",
         "Lower Bamu",
         "Upper Bamu (Middle Bamu)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Bamu",
+    "gwcode": "tpi",
+    "ln": "Bamu"
 }

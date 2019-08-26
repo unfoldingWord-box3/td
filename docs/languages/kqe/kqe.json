@@ -1,11 +1,14 @@
 {
-    "pk": 3087,
-    "lc": "kqe",
+    "gw": false,
     "ISO-639-3": "kqe",
-    "ln": "Kalagan",
-    "ang": "Kalagan",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 3087,
     "lr": "Asia",
+    "lc": "kqe",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Kaagan",
         "Kalagan, Minuslim",
@@ -14,10 +17,7 @@
         "Western Kalagan",
         "Minuslim"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Kalagan",
+    "gwcode": "ceb",
+    "ln": "Kalagan"
 }

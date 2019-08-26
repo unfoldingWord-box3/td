@@ -1,17 +1,11 @@
 {
-    "pk": 5617,
-    "lc": "si",
+    "gw": false,
     "ISO-639-3": "sin",
-    "ln": "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd",
-    "ang": "Sinhala, Sinhalese",
     "hc": "LK",
+    "ld": "ltr",
+    "pk": 5617,
     "lr": "Asia",
-    "alt": [
-        "Cingalese",
-        "Singhala",
-        "Singhalese",
-        "Chingalese"
-    ],
+    "lc": "si",
     "cc": [
         "LK",
         "GB",
@@ -26,7 +20,13 @@
         "QA",
         "AE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ta"
+    "alt": [
+        "Cingalese",
+        "Singhala",
+        "Singhalese",
+        "Chingalese"
+    ],
+    "ang": "Sinhala, Sinhalese",
+    "gwcode": "ta",
+    "ln": "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd"
 }

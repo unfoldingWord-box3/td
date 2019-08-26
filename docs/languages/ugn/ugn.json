@@ -1,18 +1,18 @@
 {
-    "pk": 6486,
-    "lc": "ugn",
+    "gw": false,
     "ISO-639-3": "ugn",
-    "ln": "Ugandan Sign Language",
-    "ang": "Ugandan Sign Language",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 6486,
     "lr": "Africa",
-    "alt": [
-        "USL"
-    ],
+    "lc": "ugn",
     "cc": [
         "UG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "USL"
+    ],
+    "ang": "Ugandan Sign Language",
+    "gwcode": "en",
+    "ln": "Ugandan Sign Language"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 5544,
-    "lc": "seb",
+    "gw": false,
     "ISO-639-3": "seb",
-    "ln": "Shempire Senoufo",
-    "ang": "S\u00e9noufo, Shempire",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 5544,
     "lr": "Africa",
+    "lc": "seb",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Shenpire",
         "Syempire",
         "Gbajere"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "S\u00e9noufo, Shempire",
+    "gwcode": "fr",
+    "ln": "Shempire Senoufo"
 }

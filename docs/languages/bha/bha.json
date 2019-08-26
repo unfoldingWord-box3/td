@@ -1,11 +1,14 @@
 {
-    "pk": 660,
-    "lc": "bha",
+    "gw": false,
     "ISO-639-3": "bha",
-    "ln": "Bharia",
-    "ang": "Bharia",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 660,
     "lr": "Asia",
+    "lc": "bha",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Bhar",
         "Bharat",
@@ -13,10 +16,7 @@
         "Bhumiya",
         "Paliha"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Bharia",
+    "gwcode": "hi",
+    "ln": "Bharia"
 }

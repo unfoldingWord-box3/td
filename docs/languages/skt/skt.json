@@ -1,11 +1,14 @@
 {
-    "pk": 5675,
-    "lc": "skt",
+    "gw": false,
     "ISO-639-3": "skt",
-    "ln": "Sakata",
-    "ang": "Sakata",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5675,
     "lr": "Africa",
+    "lc": "skt",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kisakata",
         "Lesa",
@@ -16,10 +19,7 @@
         "Djia (Dia)",
         "Kidjia"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Sakata",
+    "gwcode": "fr",
+    "ln": "Sakata"
 }

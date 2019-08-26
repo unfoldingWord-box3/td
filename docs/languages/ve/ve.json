@@ -1,11 +1,15 @@
 {
-    "pk": 6599,
-    "lc": "ve",
+    "gw": false,
     "ISO-639-3": "ven",
-    "ln": "Tshiven\u1e13a",
-    "ang": "Venda",
     "hc": "ZA",
+    "ld": "ltr",
+    "pk": 6599,
     "lr": "Africa",
+    "lc": "ve",
+    "cc": [
+        "ZA",
+        "ZW"
+    ],
     "alt": [
         "Chivenda",
         "Cevenda",
@@ -16,11 +20,7 @@
         "Guvhu",
         "Manda"
     ],
-    "cc": [
-        "ZA",
-        "ZW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Venda",
+    "gwcode": "en",
+    "ln": "Tshiven\u1e13a"
 }

@@ -1,16 +1,16 @@
 {
-    "pk": 4102,
-    "lc": "msg",
+    "gw": false,
     "ISO-639-3": "msg",
-    "ln": "Moraid",
-    "ang": "Moraid",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4102,
     "lr": "Asia",
-    "alt": [],
+    "lc": "msg",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [],
+    "ang": "Moraid",
+    "gwcode": "id",
+    "ln": "Moraid"
 }

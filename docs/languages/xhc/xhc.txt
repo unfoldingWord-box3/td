@@ -1,0 +1,22 @@
+.. _xhc:
+
+Hunnic
+======
+
+This language is spoken in the following countries:
+
+* KZ: Kazakhstan
+
+.. code-block:: yaml
+
+    ISO_639-3: xhc
+    alternate_names: []
+    anglicanized_name: Hunnic
+    country_codes:
+    - KZ
+    gateway_language: UNKNOWN
+    lang_code: xhc
+    lang_direction: ltr
+    lang_name: Hunnic
+    lang_region: Asia
+    

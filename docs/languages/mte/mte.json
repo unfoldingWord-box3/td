@@ -1,19 +1,19 @@
 {
-    "pk": 4125,
-    "lc": "mte",
+    "gw": false,
     "ISO-639-3": "mte",
-    "ln": "Mono (Solomon Islands)",
-    "ang": "Mono",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 4125,
     "lr": "Pacific",
+    "lc": "mte",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Mono-Alu",
         "Alu (Alo)"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Mono",
+    "gwcode": "UNKNOWN",
+    "ln": "Mono (Solomon Islands)"
 }

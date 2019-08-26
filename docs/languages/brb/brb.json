@@ -1,11 +1,16 @@
 {
-    "pk": 901,
-    "lc": "brb",
+    "gw": false,
     "ISO-639-3": "brb",
-    "ln": "Ti\u1ebfng Br\u00e2u",
-    "ang": "Lave",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 901,
     "lr": "Asia",
+    "lc": "brb",
+    "cc": [
+        "LA",
+        "US",
+        "KH"
+    ],
     "alt": [
         "Braou",
         "Brou",
@@ -19,12 +24,7 @@
         "Jrii",
         "Hamong"
     ],
-    "cc": [
-        "LA",
-        "US",
-        "KH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "Lave",
+    "gwcode": "lo",
+    "ln": "Ti\u1ebfng Br\u00e2u"
 }

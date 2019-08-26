@@ -1,11 +1,15 @@
 {
-    "pk": 5378,
-    "lc": "rme",
+    "gw": false,
     "ISO-639-3": "rme",
-    "ln": "Angloromani",
-    "ang": "Angloromani",
     "hc": "GB",
+    "ld": "ltr",
+    "pk": 5378,
     "lr": "Europe",
+    "lc": "rme",
+    "cc": [
+        "GB",
+        "AU"
+    ],
     "alt": [
         "English Romani",
         "Pogadi Chib",
@@ -14,11 +18,7 @@
         "Romanichal",
         "Romanis"
     ],
-    "cc": [
-        "GB",
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Angloromani",
+    "gwcode": "en",
+    "ln": "Angloromani"
 }

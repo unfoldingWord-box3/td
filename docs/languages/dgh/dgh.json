@@ -1,11 +1,14 @@
 {
-    "pk": 1496,
-    "lc": "dgh",
+    "gw": false,
     "ISO-639-3": "dgh",
-    "ln": "Dghwede",
-    "ang": "Dghwede",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1496,
     "lr": "Africa",
+    "lc": "dgh",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Azaghvana",
         "Dehoxde",
@@ -17,10 +20,7 @@
         "Wa'a",
         "Zaghvana"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dghwede",
+    "gwcode": "en",
+    "ln": "Dghwede"
 }

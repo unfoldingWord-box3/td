@@ -1,20 +1,20 @@
 {
-    "pk": 978,
-    "lc": "bui",
+    "gw": false,
     "ISO-639-3": "bui",
-    "ln": "Bongili",
-    "ang": "Bongili",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 978,
     "lr": "Africa",
+    "lc": "bui",
+    "cc": [
+        "CG"
+    ],
     "alt": [
         "Bongiri",
         "Bungili",
         "Bungiri"
     ],
-    "cc": [
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bongili",
+    "gwcode": "fr",
+    "ln": "Bongili"
 }

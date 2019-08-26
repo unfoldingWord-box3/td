@@ -1,18 +1,18 @@
 {
-    "pk": 2375,
-    "lc": "hul",
+    "gw": false,
     "ISO-639-3": "hul",
-    "ln": "Hula",
-    "ang": "Hula",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2375,
     "lr": "Pacific",
-    "alt": [
-        "Vula'a"
-    ],
+    "lc": "hul",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Vula'a"
+    ],
+    "ang": "Hula",
+    "gwcode": "tpi",
+    "ln": "Hula"
 }

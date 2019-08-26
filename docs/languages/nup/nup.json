@@ -1,11 +1,14 @@
 {
-    "pk": 4688,
-    "lc": "nup",
+    "gw": false,
     "ISO-639-3": "nup",
-    "ln": "Nupe-Nupe-Tako",
-    "ang": "Nupe-Nupe-Tako",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4688,
     "lr": "Africa",
+    "lc": "nup",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Nufawa",
         "Nupeci",
@@ -23,10 +26,7 @@
         "Tappah",
         "Nupe Central (Ampeyi)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nupe-Nupe-Tako",
+    "gwcode": "en",
+    "ln": "Nupe-Nupe-Tako"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3976,
-    "lc": "mnb",
+    "gw": false,
     "ISO-639-3": "mnb",
-    "ln": "Muna",
-    "ang": "Muna",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3976,
     "lr": "Asia",
+    "lc": "mnb",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Wuna",
         "Laompo",
@@ -19,10 +22,7 @@
         "Burukene",
         "Kapontori"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Muna",
+    "gwcode": "id",
+    "ln": "Muna"
 }

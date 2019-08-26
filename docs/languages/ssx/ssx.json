@@ -1,19 +1,19 @@
 {
-    "pk": 5848,
-    "lc": "ssx",
+    "gw": false,
     "ISO-639-3": "ssx",
-    "ln": "Samberigi",
-    "ang": "Samberigi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5848,
     "lr": "Pacific",
+    "lc": "ssx",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Sanaberigi",
         "Sau"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Samberigi",
+    "gwcode": "tpi",
+    "ln": "Samberigi"
 }

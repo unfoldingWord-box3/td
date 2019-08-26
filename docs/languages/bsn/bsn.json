@@ -1,11 +1,14 @@
 {
-    "pk": 935,
-    "lc": "bsn",
+    "gw": false,
     "ISO-639-3": "bsn",
-    "ln": "Barasana-Eduria",
-    "ang": "Barasana-Eduria",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 935,
     "lr": "Americas",
+    "lc": "bsn",
+    "cc": [
+        "CO"
+    ],
     "alt": [
         "Banera yae",
         "Barasano",
@@ -21,10 +24,7 @@
         "Barasana (Comematsa)",
         "Eduria (Edulia)"
     ],
-    "cc": [
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Barasana-Eduria",
+    "gwcode": "es-419",
+    "ln": "Barasana-Eduria"
 }

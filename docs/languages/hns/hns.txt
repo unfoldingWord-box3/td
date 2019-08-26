@@ -1,0 +1,33 @@
+.. _hns:
+
+Caribbean Hindustani
+====================
+
+This language is spoken in the following countries:
+
+* TT: Trinidad and Tobago
+* GY: Guyana
+* NL: Netherlands
+* SX: Sint Maarten (Dutch part)
+* SR: Suriname
+
+.. code-block:: yaml
+
+    ISO_639-3: hns
+    alternate_names:
+    - Aili Gaili
+    - Sarnami Hindi
+    - Sarnami Hindustani (Aili Gaili)
+    anglicanized_name: Hindustani, Sarnami
+    country_codes:
+    - TT
+    - GY
+    - NL
+    - SX
+    - SR
+    gateway_language: UNKNOWN
+    lang_code: hns
+    lang_direction: ltr
+    lang_name: Caribbean Hindustani
+    lang_region: Americas
+    

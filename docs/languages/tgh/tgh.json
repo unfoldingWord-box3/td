@@ -1,18 +1,18 @@
 {
-    "pk": 6085,
-    "lc": "tgh",
+    "gw": false,
     "ISO-639-3": "tgh",
-    "ln": "Tobagonian Creole English",
-    "ang": "Tobagonian Creole English",
     "hc": "TT",
+    "ld": "ltr",
+    "pk": 6085,
     "lr": "Americas",
-    "alt": [
-        "Tobagonian Dialect"
-    ],
+    "lc": "tgh",
     "cc": [
         "TT"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Tobagonian Dialect"
+    ],
+    "ang": "Tobagonian Creole English",
+    "gwcode": "en",
+    "ln": "Tobagonian Creole English"
 }

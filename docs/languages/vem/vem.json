@@ -1,19 +1,19 @@
 {
-    "pk": 6603,
-    "lc": "vem",
+    "gw": false,
     "ISO-639-3": "vem",
-    "ln": "Vemgo-Mabas",
-    "ang": "Vemgo-Mabas",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 6603,
     "lr": "Africa",
-    "alt": [
-        "Visik (Vizik)"
-    ],
+    "lc": "vem",
     "cc": [
         "CM",
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Visik (Vizik)"
+    ],
+    "ang": "Vemgo-Mabas",
+    "gwcode": "en",
+    "ln": "Vemgo-Mabas"
 }

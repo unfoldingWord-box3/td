@@ -1,18 +1,18 @@
 {
-    "pk": 3986,
-    "lc": "mnl",
+    "gw": false,
     "ISO-639-3": "mnl",
-    "ln": "Tiale",
-    "ang": "Tiale",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 3986,
     "lr": "Pacific",
-    "alt": [
-        "Malmariv"
-    ],
+    "lc": "mnl",
     "cc": [
         "VU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Malmariv"
+    ],
+    "ang": "Tiale",
+    "gwcode": "fr",
+    "ln": "Tiale"
 }

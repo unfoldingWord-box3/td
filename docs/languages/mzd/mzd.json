@@ -1,21 +1,21 @@
 {
-    "pk": 4265,
-    "lc": "mzd",
+    "gw": false,
     "ISO-639-3": "mzd",
-    "ln": "Malimba",
-    "ang": "Malimba",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4265,
     "lr": "Africa",
+    "lc": "mzd",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Lemba",
         "Limba",
         "Mudima",
         "Mulimba"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Malimba",
+    "gwcode": "fr",
+    "ln": "Malimba"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 1108,
-    "lc": "bzz",
+    "gw": false,
     "ISO-639-3": "bzz",
-    "ln": "Evant",
-    "ang": "Evant",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1108,
     "lr": "Africa",
+    "lc": "bzz",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Avand",
         "Balegete",
@@ -14,11 +18,7 @@
         "Ovande",
         "Ovando"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Evant",
+    "gwcode": "en",
+    "ln": "Evant"
 }

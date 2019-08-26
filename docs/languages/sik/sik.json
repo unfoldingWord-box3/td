@@ -1,11 +1,14 @@
 {
-    "pk": 5627,
-    "lc": "sik",
+    "gw": false,
     "ISO-639-3": "sik",
-    "ln": "Sikiana",
-    "ang": "Sikiana",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 5627,
     "lr": "Americas",
+    "lc": "sik",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Chikena",
         "Chiquena",
@@ -19,10 +22,7 @@
         "Sikiyana",
         "Tshikiana"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Sikiana",
+    "gwcode": "pt",
+    "ln": "Sikiana"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 6593,
-    "lc": "vas",
+    "gw": false,
     "ISO-639-3": "vas",
-    "ln": "Vasavi",
-    "ang": "Vasavi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6593,
     "lr": "Asia",
+    "lc": "vas",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Adiwasi Bhil",
         "Ambodia Bhil",
@@ -22,10 +25,7 @@
         "Ambodi (Ambodia)",
         "Dehvali (Kolche)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "mr"
+    "ang": "Vasavi",
+    "gwcode": "mr",
+    "ln": "Vasavi"
 }

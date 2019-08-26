@@ -1,18 +1,18 @@
 {
-    "pk": 5743,
-    "lc": "snu",
+    "gw": false,
     "ISO-639-3": "snu",
-    "ln": "Senggi",
-    "ang": "Viid",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5743,
     "lr": "Asia",
-    "alt": [
-        "Senggi"
-    ],
+    "lc": "snu",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Senggi"
+    ],
+    "ang": "Viid",
+    "gwcode": "id",
+    "ln": "Senggi"
 }

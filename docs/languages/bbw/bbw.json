@@ -1,11 +1,14 @@
 {
-    "pk": 530,
-    "lc": "bbw",
+    "gw": false,
     "ISO-639-3": "bbw",
-    "ln": "Baba",
-    "ang": "Baba",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 530,
     "lr": "Africa",
+    "lc": "bbw",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Baba 1",
         "Bapa",
@@ -14,10 +17,7 @@
         "Papiakum",
         "Supapya'"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Baba",
+    "gwcode": "fr",
+    "ln": "Baba"
 }

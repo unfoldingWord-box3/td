@@ -1,21 +1,21 @@
 {
-    "pk": 38,
-    "lc": "abl",
+    "gw": false,
     "ISO-639-3": "abl",
-    "ln": "Lampung Nyo",
-    "ang": "Lampung Nyo",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 38,
     "lr": "Asia",
+    "lc": "abl",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Tulangbawang",
         "Melinting",
         "Sukadana",
         "Lampong"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Lampung Nyo",
+    "gwcode": "id",
+    "ln": "Lampung Nyo"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 4560,
-    "lc": "nnb",
+    "gw": false,
     "ISO-639-3": "nnb",
-    "ln": "Nande",
-    "ang": "Nande",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 4560,
     "lr": "Africa",
+    "lc": "nnb",
+    "cc": [
+        "CD",
+        "UG"
+    ],
     "alt": [
         "Banande",
         "Bayira",
@@ -25,11 +29,7 @@
         "Ekisongoora (Nyangala)",
         "Sanza (Ekisanza)"
     ],
-    "cc": [
-        "CD",
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Nande",
+    "gwcode": "fr",
+    "ln": "Nande"
 }

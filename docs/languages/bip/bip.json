@@ -1,11 +1,14 @@
 {
-    "pk": 699,
-    "lc": "bip",
+    "gw": false,
     "ISO-639-3": "bip",
-    "ln": "Bila",
-    "ang": "Bila",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 699,
     "lr": "Africa",
+    "lc": "bip",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Ebila",
         "Forest Bira",
@@ -13,10 +16,7 @@
         "Bombi-Ngbanja",
         "Nyaku"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bila",
+    "gwcode": "fr",
+    "ln": "Bila"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 3144,
-    "lc": "ksl",
+    "gw": false,
     "ISO-639-3": "ksl",
-    "ln": "Kumalu",
-    "ang": "Kumalu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3144,
     "lr": "Pacific",
-    "alt": [
-        "Kumara"
-    ],
+    "lc": "ksl",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Kumara"
+    ],
+    "ang": "Kumalu",
+    "gwcode": "tpi",
+    "ln": "Kumalu"
 }

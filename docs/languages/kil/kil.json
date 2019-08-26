@@ -1,11 +1,14 @@
 {
-    "pk": 2893,
-    "lc": "kil",
+    "gw": false,
     "ISO-639-3": "kil",
-    "ln": "Kariya",
-    "ang": "Kariya",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2893,
     "lr": "Africa",
+    "lc": "kil",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kariyu",
         "Kauyawa",
@@ -13,10 +16,7 @@
         "Vinahe",
         "Wihe"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kariya",
+    "gwcode": "en",
+    "ln": "Kariya"
 }

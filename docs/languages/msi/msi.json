@@ -1,19 +1,19 @@
 {
-    "pk": 4104,
-    "lc": "msi",
+    "gw": false,
     "ISO-639-3": "msi",
-    "ln": "Sabah Malay",
-    "ang": "Malay, Sabah",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 4104,
     "lr": "Asia",
+    "lc": "msi",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "Bazaar Malay",
         "Pasar Malay"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Malay, Sabah",
+    "gwcode": "ms",
+    "ln": "Sabah Malay"
 }

@@ -1,19 +1,11 @@
 {
-    "pk": 1838,
-    "lc": "fi",
+    "gw": false,
     "ISO-639-3": "fin",
-    "ln": "suomi, suomen kieli",
-    "ang": "Finnish",
     "hc": "FI",
+    "ld": "ltr",
+    "pk": 1838,
     "lr": "Europe",
-    "alt": [
-        "Suomi",
-        "Finska",
-        "H\u00e4me (Tavast)",
-        "Finnish Karjala",
-        "Savo (Savolax)",
-        "Southeastern Finnish (Finnish Karelian)"
-    ],
+    "lc": "fi",
     "cc": [
         "GB",
         "NO",
@@ -23,7 +15,15 @@
         "FI",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Suomi",
+        "Finska",
+        "H\u00e4me (Tavast)",
+        "Finnish Karjala",
+        "Savo (Savolax)",
+        "Southeastern Finnish (Finnish Karelian)"
+    ],
+    "ang": "Finnish",
+    "gwcode": "en",
+    "ln": "suomi, suomen kieli"
 }

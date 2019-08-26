@@ -1,11 +1,14 @@
 {
-    "pk": 7488,
-    "lc": "zua",
+    "gw": false,
     "ISO-639-3": "zua",
-    "ln": "Zeem",
-    "ang": "Zeem",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 7488,
     "lr": "Africa",
+    "lc": "zua",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Chaari",
         "Dyarum (Kaiwari)",
@@ -13,10 +16,7 @@
         "Lushi (Dokshi)",
         "Tulai"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Zeem",
+    "gwcode": "en",
+    "ln": "Zeem"
 }

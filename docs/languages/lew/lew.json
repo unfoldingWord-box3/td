@@ -1,11 +1,14 @@
 {
-    "pk": 3423,
-    "lc": "lew",
+    "gw": false,
     "ISO-639-3": "lew",
-    "ln": "Ledo Kaili",
-    "ang": "Kaili, Ledo",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3423,
     "lr": "Asia",
+    "lc": "lew",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Paloesch",
         "Palu",
@@ -28,10 +31,7 @@
         "Sausu",
         "Toriu"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kaili, Ledo",
+    "gwcode": "id",
+    "ln": "Ledo Kaili"
 }

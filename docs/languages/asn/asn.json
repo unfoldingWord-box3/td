@@ -1,21 +1,21 @@
 {
-    "pk": 368,
-    "lc": "asn",
+    "gw": false,
     "ISO-639-3": "asn",
-    "ln": "Xing\u00fa Asurin\u00ed",
-    "ang": "Asurini of Xing\u00fa",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 368,
     "lr": "Americas",
+    "lc": "asn",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Asurin\u00ed de Koatinema",
         "Asurini do Xing\u00fa",
         "Awaet\u00e9",
         "Awat\u00e9"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Asurini of Xing\u00fa",
+    "gwcode": "pt",
+    "ln": "Xing\u00fa Asurin\u00ed"
 }

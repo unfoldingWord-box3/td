@@ -1,11 +1,14 @@
 {
-    "pk": 3265,
-    "lc": "kxi",
+    "gw": false,
     "ISO-639-3": "kxi",
-    "ln": "Keningau Murut",
-    "ang": "Keningau Murut",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 3265,
     "lr": "Asia",
+    "lc": "kxi",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "Central Murut",
         "Nabai",
@@ -15,10 +18,7 @@
         "Dabay",
         "Nebee"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Keningau Murut",
+    "gwcode": "ms",
+    "ln": "Keningau Murut"
 }

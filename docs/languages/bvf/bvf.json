@@ -1,19 +1,19 @@
 {
-    "pk": 999,
-    "lc": "bvf",
+    "gw": false,
     "ISO-639-3": "bvf",
-    "ln": "Boor",
-    "ang": "Boor",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 999,
     "lr": "Africa",
+    "lc": "bvf",
+    "cc": [
+        "TD"
+    ],
     "alt": [
         "Bwara",
         "Damraw"
     ],
-    "cc": [
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Boor",
+    "gwcode": "ar",
+    "ln": "Boor"
 }

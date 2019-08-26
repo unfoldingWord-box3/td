@@ -1,11 +1,14 @@
 {
-    "pk": 3393,
-    "lc": "ldi",
+    "gw": false,
     "ISO-639-3": "ldi",
-    "ln": "Laari",
-    "ang": "Laari",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 3393,
     "lr": "Africa",
+    "lc": "ldi",
+    "cc": [
+        "CG"
+    ],
     "alt": [
         "Kilari",
         "Ladi",
@@ -15,10 +18,7 @@
         "Kighaangala",
         "Laari de Biiza"
     ],
-    "cc": [
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Laari",
+    "gwcode": "fr",
+    "ln": "Laari"
 }

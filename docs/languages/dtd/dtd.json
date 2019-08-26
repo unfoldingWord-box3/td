@@ -1,19 +1,19 @@
 {
-    "pk": 1639,
-    "lc": "dtd",
+    "gw": false,
     "ISO-639-3": "dtd",
-    "ln": "Ditidaht",
-    "ang": "Ditidaht",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 1639,
     "lr": "Americas",
+    "lc": "dtd",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Nitinaht",
         "Nitinat"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ditidaht",
+    "gwcode": "en",
+    "ln": "Ditidaht"
 }

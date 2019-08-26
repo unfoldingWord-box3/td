@@ -1,18 +1,18 @@
 {
-    "pk": 3310,
-    "lc": "kzb",
+    "gw": false,
     "ISO-639-3": "kzb",
-    "ln": "Kaibobo",
-    "ang": "Kaibobo",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3310,
     "lr": "Asia",
-    "alt": [
-        "Kaibubu"
-    ],
+    "lc": "kzb",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Kaibubu"
+    ],
+    "ang": "Kaibobo",
+    "gwcode": "id",
+    "ln": "Kaibobo"
 }

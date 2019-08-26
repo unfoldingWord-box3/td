@@ -1,19 +1,19 @@
 {
-    "pk": 2984,
-    "lc": "kly",
+    "gw": false,
     "ISO-639-3": "kly",
-    "ln": "Kalao",
-    "ang": "Kalao",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2984,
     "lr": "Asia",
+    "lc": "kly",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kalaotoa",
         "Lambego"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kalao",
+    "gwcode": "id",
+    "ln": "Kalao"
 }

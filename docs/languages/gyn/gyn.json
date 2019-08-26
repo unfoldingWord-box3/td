@@ -1,22 +1,22 @@
 {
-    "pk": 2212,
-    "lc": "gyn",
+    "gw": false,
     "ISO-639-3": "gyn",
-    "ln": "Guyanese Creole English",
-    "ang": "Guyanese Creole English",
     "hc": "GY",
+    "ld": "ltr",
+    "pk": 2212,
     "lr": "Americas",
-    "alt": [
-        "Creolese",
-        "Guyanese Creole"
-    ],
+    "lc": "gyn",
     "cc": [
         "GF",
         "GY",
         "US",
         "SR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Creolese",
+        "Guyanese Creole"
+    ],
+    "ang": "Guyanese Creole English",
+    "gwcode": "es-419",
+    "ln": "Guyanese Creole English"
 }

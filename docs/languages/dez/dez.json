@@ -1,19 +1,19 @@
 {
-    "pk": 1489,
-    "lc": "dez",
+    "gw": false,
     "ISO-639-3": "dez",
-    "ln": "Dengese",
-    "ang": "Dengese",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 1489,
     "lr": "Africa",
+    "lc": "dez",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Ileo",
         "Lengese"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dengese",
+    "gwcode": "fr",
+    "ln": "Dengese"
 }

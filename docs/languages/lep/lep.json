@@ -1,11 +1,16 @@
 {
-    "pk": 3416,
-    "lc": "lep",
+    "gw": false,
     "ISO-639-3": "lep",
-    "ln": "Lepcha",
-    "ang": "Lepcha",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3416,
     "lr": "Asia",
+    "lc": "lep",
+    "cc": [
+        "BT",
+        "NP",
+        "IN"
+    ],
     "alt": [
         "Lapcha",
         "N\u00fcnpa",
@@ -14,12 +19,7 @@
         "Rongpa",
         "Lapche"
     ],
-    "cc": [
-        "BT",
-        "NP",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Lepcha",
+    "gwcode": "ne",
+    "ln": "Lepcha"
 }

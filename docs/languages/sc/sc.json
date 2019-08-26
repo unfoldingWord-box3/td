@@ -1,16 +1,16 @@
 {
-    "pk": 5505,
-    "lc": "sc",
+    "gw": false,
     "ISO-639-3": "srd",
-    "ln": "sardu",
-    "ang": "Sardinian",
     "hc": "IT",
+    "ld": "ltr",
+    "pk": 5505,
     "lr": "Europe",
-    "alt": [],
+    "lc": "sc",
     "cc": [
         "IT"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [],
+    "ang": "Sardinian",
+    "gwcode": "UNKNOWN",
+    "ln": "sardu"
 }

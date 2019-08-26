@@ -1,11 +1,15 @@
 {
-    "pk": 4997,
-    "lc": "pez",
+    "gw": false,
     "ISO-639-3": "pez",
-    "ln": "Eastern Penan",
-    "ang": "Penan, Eastern",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 4997,
     "lr": "Asia",
+    "lc": "pez",
+    "cc": [
+        "BN",
+        "MY"
+    ],
     "alt": [
         "Punan",
         "Penan Gang (Gang)",
@@ -18,11 +22,7 @@
         "Penan Lusong (Lusong)",
         "Penan Lanying"
     ],
-    "cc": [
-        "BN",
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Penan, Eastern",
+    "gwcode": "ms",
+    "ln": "Eastern Penan"
 }

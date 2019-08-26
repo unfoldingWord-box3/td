@@ -1,11 +1,14 @@
 {
-    "pk": 6133,
-    "lc": "tio",
+    "gw": false,
     "ISO-639-3": "tio",
-    "ln": "Teop",
-    "ang": "Teop",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6133,
     "lr": "Pacific",
+    "lc": "tio",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Teapu",
         "Rausara (Rausiara)",
@@ -13,10 +16,7 @@
         "Kosina Mohina",
         "Coastal Teop"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Teop",
+    "gwcode": "tpi",
+    "ln": "Teop"
 }

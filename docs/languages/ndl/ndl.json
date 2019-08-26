@@ -1,20 +1,20 @@
 {
-    "pk": 4364,
-    "lc": "ndl",
+    "gw": false,
     "ISO-639-3": "ndl",
-    "ln": "Ndolo",
-    "ang": "Ndolo",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 4364,
     "lr": "Africa",
+    "lc": "ndl",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Mosange",
         "Ndoolo",
         "Tando"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ndolo",
+    "gwcode": "fr",
+    "ln": "Ndolo"
 }

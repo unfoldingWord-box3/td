@@ -1,11 +1,14 @@
 {
-    "pk": 4947,
-    "lc": "pbn",
+    "gw": false,
     "ISO-639-3": "pbn",
-    "ln": "Kpasam",
-    "ang": "Kpasham",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4947,
     "lr": "Africa",
+    "lc": "pbn",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Balo",
         "Kpasam",
@@ -13,10 +16,7 @@
         "Nyisam",
         "Passam"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kpasham",
+    "gwcode": "en",
+    "ln": "Kpasam"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 3644,
-    "lc": "lwg",
+    "gw": false,
     "ISO-639-3": "lwg",
-    "ln": "Wanga",
-    "ang": "Oluwanga",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 3644,
     "lr": "Africa",
+    "lc": "lwg",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Hanga",
         "Kawanga",
         "Luhanga",
         "Oluhanga"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Oluwanga",
+    "gwcode": "sw",
+    "ln": "Wanga"
 }

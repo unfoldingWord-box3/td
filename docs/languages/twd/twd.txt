@@ -1,0 +1,23 @@
+.. _twd:
+
+Twents
+======
+
+This language is spoken in the following countries:
+
+* NL: Netherlands
+
+.. code-block:: yaml
+
+    ISO_639-3: twd
+    alternate_names:
+    - Twente
+    anglicanized_name: Twents
+    country_codes:
+    - NL
+    gateway_language: UNKNOWN
+    lang_code: twd
+    lang_direction: ltr
+    lang_name: Twents
+    lang_region: Europe
+    

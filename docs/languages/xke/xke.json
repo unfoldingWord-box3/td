@@ -1,20 +1,20 @@
 {
-    "pk": 6935,
-    "lc": "xke",
+    "gw": false,
     "ISO-639-3": "xke",
-    "ln": "Kereho",
-    "ang": "Kereho",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6935,
     "lr": "Asia",
+    "lc": "xke",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Keriau Punan",
         "Seputan",
         "Uheng (Kereho-Uheng)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kereho",
+    "gwcode": "id",
+    "ln": "Kereho"
 }

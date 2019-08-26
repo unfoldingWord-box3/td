@@ -1,18 +1,18 @@
 {
-    "pk": 1348,
-    "lc": "csd",
+    "gw": false,
     "ISO-639-3": "csd",
-    "ln": "Chiangmai Sign Language",
-    "ang": "Chiangmai Sign Language",
     "hc": "TH",
+    "ld": "ltr",
+    "pk": 1348,
     "lr": "Asia",
-    "alt": [
-        "Chiengmai Sign Language"
-    ],
+    "lc": "csd",
     "cc": [
         "TH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "th"
+    "alt": [
+        "Chiengmai Sign Language"
+    ],
+    "ang": "Chiangmai Sign Language",
+    "gwcode": "th",
+    "ln": "Chiangmai Sign Language"
 }

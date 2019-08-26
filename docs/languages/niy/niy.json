@@ -1,11 +1,14 @@
 {
-    "pk": 4476,
-    "lc": "niy",
+    "gw": false,
     "ISO-639-3": "niy",
-    "ln": "Ngiti",
-    "ang": "Ngiti",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 4476,
     "lr": "Africa",
+    "lc": "niy",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Bindi",
         "Druna",
@@ -14,10 +17,7 @@
         "Lendu-Sud",
         "Ngeti"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ngiti",
+    "gwcode": "fr",
+    "ln": "Ngiti"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3003,
-    "lc": "kmq",
+    "gw": false,
     "ISO-639-3": "kmq",
-    "ln": "Kwama",
-    "ang": "Kwama",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 3003,
     "lr": "Africa",
+    "lc": "kmq",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Afan Mao",
         "Amam",
@@ -17,10 +20,7 @@
         "Takwama",
         "T'wa Kwama"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Kwama",
+    "gwcode": "am",
+    "ln": "Kwama"
 }

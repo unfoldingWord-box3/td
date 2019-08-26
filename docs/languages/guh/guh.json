@@ -1,11 +1,15 @@
 {
-    "pk": 2159,
-    "lc": "guh",
+    "gw": false,
     "ISO-639-3": "guh",
-    "ln": "Guahibo",
-    "ang": "Guahibo",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 2159,
     "lr": "Americas",
+    "lc": "guh",
+    "cc": [
+        "VE",
+        "CO"
+    ],
     "alt": [
         "Goahibo",
         "Goahiva",
@@ -20,11 +24,7 @@
         "Guahibo (Sikuani)",
         "Vichade\u00f1o"
     ],
-    "cc": [
-        "VE",
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Guahibo",
+    "gwcode": "es-419",
+    "ln": "Guahibo"
 }

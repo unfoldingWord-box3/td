@@ -1,19 +1,19 @@
 {
-    "pk": 263,
-    "lc": "anf",
+    "gw": false,
     "ISO-639-3": "anf",
-    "ln": "Animere",
-    "ang": "Animere",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 263,
     "lr": "Africa",
+    "lc": "anf",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Anyimere",
         "Kunda"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Animere",
+    "gwcode": "en",
+    "ln": "Animere"
 }

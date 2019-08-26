@@ -1,25 +1,11 @@
 {
-    "pk": 4,
-    "lc": "pt-br",
+    "gw": true,
     "ISO-639-3": "UNKNOWN",
-    "ln": "Portugu\u00eas",
-    "ang": "Brazilian Portuguese",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 4,
     "lr": "Americas",
-    "alt": [
-        "Portugu\u00eas",
-        "Alentejan (Alentejano)",
-        "Minhotan (Minhoto)",
-        "Uruguayan Portuguese",
-        "Transmontan (Transmontano)",
-        "Portu\u00f1ol",
-        "Portunhol",
-        "Madeirese (Madeirense)",
-        "Brazilian Portuguese",
-        "Beiran (Beir\u00e3o)",
-        "Algarvian (Algarvio)",
-        "Azorean (A\u00e7oriano)"
-    ],
+    "lc": "pt-br",
     "cc": [
         "AT",
         "BE",
@@ -58,7 +44,21 @@
         "PT",
         "SR"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": "pt-br"
+    "alt": [
+        "Portugu\u00eas",
+        "Alentejan (Alentejano)",
+        "Minhotan (Minhoto)",
+        "Uruguayan Portuguese",
+        "Transmontan (Transmontano)",
+        "Portu\u00f1ol",
+        "Portunhol",
+        "Madeirese (Madeirense)",
+        "Brazilian Portuguese",
+        "Beiran (Beir\u00e3o)",
+        "Algarvian (Algarvio)",
+        "Azorean (A\u00e7oriano)"
+    ],
+    "ang": "Brazilian Portuguese",
+    "gwcode": "pt-br",
+    "ln": "Portugu\u00eas"
 }

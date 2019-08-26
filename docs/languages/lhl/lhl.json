@@ -1,19 +1,19 @@
 {
-    "pk": 3447,
-    "lc": "lhl",
+    "gw": false,
     "ISO-639-3": "lhl",
-    "ln": "Lahul Lohar",
-    "ang": "Lohar, Lahul",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3447,
     "lr": "Asia",
+    "lc": "lhl",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Garas",
         "Lohar"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Lohar, Lahul",
+    "gwcode": "hi",
+    "ln": "Lahul Lohar"
 }

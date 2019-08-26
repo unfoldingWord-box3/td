@@ -1,21 +1,21 @@
 {
-    "pk": 2828,
-    "lc": "kft",
+    "gw": false,
     "ISO-639-3": "kft",
-    "ln": "Kanjari",
-    "ang": "Kanjari",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2828,
     "lr": "Asia",
+    "lc": "kft",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Kagari",
         "Kangar Bhat",
         "Kangri",
         "Kanjri"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Kanjari",
+    "gwcode": "hi",
+    "ln": "Kanjari"
 }

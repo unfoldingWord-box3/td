@@ -1,11 +1,15 @@
 {
-    "pk": 3026,
-    "lc": "knn",
+    "gw": false,
     "ISO-639-3": "knn",
-    "ln": "Konkani (individual language)",
-    "ang": "Konkani",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3026,
     "lr": "Asia",
+    "lc": "knn",
+    "cc": [
+        "CA",
+        "IN"
+    ],
     "alt": [
         "Bankoti",
         "Central Konkan",
@@ -31,11 +35,7 @@
         "Agari of Kolaba",
         "Kayasthi"
     ],
-    "cc": [
-        "CA",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "mr"
+    "ang": "Konkani",
+    "gwcode": "mr",
+    "ln": "Konkani (individual language)"
 }

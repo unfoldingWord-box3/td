@@ -1,11 +1,15 @@
 {
-    "pk": 5465,
-    "lc": "sah",
+    "gw": false,
     "ISO-639-3": "sah",
-    "ln": "\u042f\u043a\u0443\u0442\u0441\u043a\u0438\u0439",
-    "ang": "Yakut",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 5465,
     "lr": "Europe",
+    "lc": "sah",
+    "cc": [
+        "CN",
+        "RU"
+    ],
     "alt": [
         "Sakha",
         "Yakut-Sakha",
@@ -14,11 +18,7 @@
         "Olemkinskyi",
         "Vilyiskyi"
     ],
-    "cc": [
-        "CN",
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Yakut",
+    "gwcode": "ru",
+    "ln": "\u042f\u043a\u0443\u0442\u0441\u043a\u0438\u0439"
 }

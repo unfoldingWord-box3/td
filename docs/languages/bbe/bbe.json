@@ -1,18 +1,18 @@
 {
-    "pk": 512,
-    "lc": "bbe",
+    "gw": false,
     "ISO-639-3": "bbe",
-    "ln": "Bangba",
-    "ang": "Bangba",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 512,
     "lr": "Africa",
-    "alt": [
-        "Abangba"
-    ],
+    "lc": "bbe",
     "cc": [
         "CD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Abangba"
+    ],
+    "ang": "Bangba",
+    "gwcode": "fr",
+    "ln": "Bangba"
 }

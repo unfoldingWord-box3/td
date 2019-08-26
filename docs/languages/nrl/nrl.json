@@ -1,21 +1,21 @@
 {
-    "pk": 4631,
-    "lc": "nrl",
+    "gw": false,
     "ISO-639-3": "nrl",
-    "ln": "Ngarluma",
-    "ang": "Ngarluma",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4631,
     "lr": "Pacific",
+    "lc": "nrl",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Gnalluma",
         "Gnalouma",
         "Ngallooma",
         "Ngaluma"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ngarluma",
+    "gwcode": "en",
+    "ln": "Ngarluma"
 }

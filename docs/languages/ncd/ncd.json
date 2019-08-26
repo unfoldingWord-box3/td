@@ -1,11 +1,14 @@
 {
-    "pk": 4334,
-    "lc": "ncd",
+    "gw": false,
     "ISO-639-3": "ncd",
-    "ln": "Nachering",
-    "ang": "Nachering",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 4334,
     "lr": "Asia",
+    "lc": "ncd",
+    "cc": [
+        "NP"
+    ],
     "alt": [
         "Bangdel T\u00fbm",
         "Bangdile",
@@ -21,10 +24,7 @@
         "Hachero",
         "Hangkula"
     ],
-    "cc": [
-        "NP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Nachering",
+    "gwcode": "ne",
+    "ln": "Nachering"
 }

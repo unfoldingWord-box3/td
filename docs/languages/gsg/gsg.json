@@ -1,19 +1,19 @@
 {
-    "pk": 2142,
-    "lc": "gsg",
+    "gw": false,
     "ISO-639-3": "gsg",
-    "ln": "German Sign Language",
-    "ang": "German Sign Language",
     "hc": "DE",
+    "ld": "ltr",
+    "pk": 2142,
     "lr": "Europe",
+    "lc": "gsg",
+    "cc": [
+        "DE"
+    ],
     "alt": [
         "Deutsche Geb\u00e4rdensprache",
         "Dgs"
     ],
-    "cc": [
-        "DE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "German Sign Language",
+    "gwcode": "en",
+    "ln": "German Sign Language"
 }

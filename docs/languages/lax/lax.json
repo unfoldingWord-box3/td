@@ -1,19 +1,19 @@
 {
-    "pk": 3354,
-    "lc": "lax",
+    "gw": false,
     "ISO-639-3": "lax",
-    "ln": "Tiwa",
-    "ang": "Tiwa",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3354,
     "lr": "Asia",
+    "lc": "lax",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Dowyan",
         "Lalung"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "ang": "Tiwa",
+    "gwcode": "as",
+    "ln": "Tiwa"
 }

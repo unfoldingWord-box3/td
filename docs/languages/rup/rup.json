@@ -1,11 +1,15 @@
 {
-    "pk": 5441,
-    "lc": "rup",
+    "gw": false,
     "ISO-639-3": "rup",
-    "ln": "Macedo-Romanian",
-    "ang": "Aromanian",
     "hc": "GR",
+    "ld": "ltr",
+    "pk": 5441,
     "lr": "Europe",
+    "lc": "rup",
+    "cc": [
+        "GR",
+        "AL"
+    ],
     "alt": [
         "Armina",
         "Aromunian",
@@ -18,11 +22,7 @@
         "Romanian",
         "Macedo Romania"
     ],
-    "cc": [
-        "GR",
-        "AL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Aromanian",
+    "gwcode": "en",
+    "ln": "Macedo-Romanian"
 }

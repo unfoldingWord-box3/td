@@ -1,18 +1,18 @@
 {
-    "pk": 4302,
-    "lc": "nar",
+    "gw": false,
     "ISO-639-3": "nar",
-    "ln": "Iguta",
-    "ang": "Iguta",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4302,
     "lr": "Africa",
-    "alt": [
-        "Anaguta"
-    ],
+    "lc": "nar",
     "cc": [
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Anaguta"
+    ],
+    "ang": "Iguta",
+    "gwcode": "en",
+    "ln": "Iguta"
 }

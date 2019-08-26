@@ -1,18 +1,11 @@
 {
-    "pk": 1420,
-    "lc": "da",
+    "gw": false,
     "ISO-639-3": "dan",
-    "ln": "dansk",
-    "ang": "Danish",
     "hc": "DK",
+    "ld": "ltr",
+    "pk": 1420,
     "lr": "Europe",
-    "alt": [
-        "D\u00e4nisch",
-        "Dansk",
-        "Rigsdansk",
-        "Bornholmsk (Eastern Danish)",
-        "S\u00f8nderjysk (Southern Jutlandic)"
-    ],
+    "lc": "da",
     "cc": [
         "FR",
         "DE",
@@ -27,7 +20,14 @@
         "DK",
         "IS"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "D\u00e4nisch",
+        "Dansk",
+        "Rigsdansk",
+        "Bornholmsk (Eastern Danish)",
+        "S\u00f8nderjysk (Southern Jutlandic)"
+    ],
+    "ang": "Danish",
+    "gwcode": "en",
+    "ln": "dansk"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 1686,
-    "lc": "dza",
+    "gw": false,
     "ISO-639-3": "dza",
-    "ln": "Tunzuii",
-    "ang": "Tunzuii",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1686,
     "lr": "Africa",
+    "lc": "dza",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Dugusa",
         "Itunzu"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tunzuii",
+    "gwcode": "en",
+    "ln": "Tunzuii"
 }

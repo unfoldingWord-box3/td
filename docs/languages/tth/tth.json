@@ -1,11 +1,14 @@
 {
-    "pk": 6355,
-    "lc": "tth",
+    "gw": false,
     "ISO-639-3": "tth",
-    "ln": "Upper Ta'oih",
-    "ang": "Ta\u2019oih, Upper",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 6355,
     "lr": "Asia",
+    "lc": "tth",
+    "cc": [
+        "LA"
+    ],
     "alt": [
         "Kantua",
         "Ta Hoi",
@@ -17,10 +20,7 @@
         "T-Oy",
         "Ha'aang (Sa'ang)"
     ],
-    "cc": [
-        "LA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "Ta\u2019oih, Upper",
+    "gwcode": "lo",
+    "ln": "Upper Ta'oih"
 }

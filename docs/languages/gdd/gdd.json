@@ -1,11 +1,14 @@
 {
-    "pk": 1963,
-    "lc": "gdd",
+    "gw": false,
     "ISO-639-3": "gdd",
-    "ln": "Gedaged",
-    "ang": "Gedaged",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1963,
     "lr": "Pacific",
+    "lc": "gdd",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Bel",
         "Mitebog",
@@ -17,10 +20,7 @@
         "Szeak-Bagili",
         "Tiara"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Gedaged",
+    "gwcode": "tpi",
+    "ln": "Gedaged"
 }

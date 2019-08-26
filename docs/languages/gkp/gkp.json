@@ -1,11 +1,14 @@
 {
-    "pk": 2046,
-    "lc": "gkp",
+    "gw": false,
     "ISO-639-3": "gkp",
-    "ln": "Guinea Kpelle",
-    "ang": "Kpelle, Guinea",
     "hc": "GN",
+    "ld": "ltr",
+    "pk": 2046,
     "lr": "Africa",
+    "lc": "gkp",
+    "cc": [
+        "GN"
+    ],
     "alt": [
         "Akpese",
         "Gbese",
@@ -25,10 +28,7 @@
         "Gbali",
         "Central Kpelle"
     ],
-    "cc": [
-        "GN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kpelle, Guinea",
+    "gwcode": "fr",
+    "ln": "Guinea Kpelle"
 }

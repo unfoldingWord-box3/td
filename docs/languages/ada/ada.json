@@ -1,19 +1,19 @@
 {
-    "pk": 71,
-    "lc": "ada",
+    "gw": false,
     "ISO-639-3": "ada",
-    "ln": "Adangme",
-    "ang": "Dangme",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 71,
     "lr": "Africa",
+    "lc": "ada",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Ada",
         "Adangme"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dangme",
+    "gwcode": "en",
+    "ln": "Adangme"
 }

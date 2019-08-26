@@ -1,18 +1,18 @@
 {
-    "pk": 1955,
-    "lc": "gcl",
+    "gw": false,
     "ISO-639-3": "gcl",
-    "ln": "Grenadian Creole English",
-    "ang": "Grenadian Creole English",
     "hc": "GD",
+    "ld": "ltr",
+    "pk": 1955,
     "lr": "Americas",
-    "alt": [
-        "Carriacou Creole English"
-    ],
+    "lc": "gcl",
     "cc": [
         "GD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Carriacou Creole English"
+    ],
+    "ang": "Grenadian Creole English",
+    "gwcode": "en",
+    "ln": "Grenadian Creole English"
 }

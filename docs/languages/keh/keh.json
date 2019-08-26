@@ -1,21 +1,21 @@
 {
-    "pk": 2790,
-    "lc": "keh",
+    "gw": false,
     "ISO-639-3": "keh",
-    "ln": "Keak",
-    "ang": "Keak",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2790,
     "lr": "Pacific",
+    "lc": "keh",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kwaruwikwundi",
         "Sepik Plains",
         "Tshuosh",
         "Tshwosh"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Keak",
+    "gwcode": "tpi",
+    "ln": "Keak"
 }

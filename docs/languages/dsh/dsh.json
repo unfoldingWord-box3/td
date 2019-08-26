@@ -1,11 +1,16 @@
 {
-    "pk": 1631,
-    "lc": "dsh",
+    "gw": false,
     "ISO-639-3": "dsh",
-    "ln": "Daasanach",
-    "ang": "Daasanach",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 1631,
     "lr": "Africa",
+    "lc": "dsh",
+    "cc": [
+        "ET",
+        "KE",
+        "SS"
+    ],
     "alt": [
         "Dama",
         "Dasenech",
@@ -29,12 +34,7 @@
         "Russia",
         "Shangilla"
     ],
-    "cc": [
-        "ET",
-        "KE",
-        "SS"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Daasanach",
+    "gwcode": "am",
+    "ln": "Daasanach"
 }

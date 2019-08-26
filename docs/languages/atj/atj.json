@@ -1,11 +1,14 @@
 {
-    "pk": 388,
-    "lc": "atj",
+    "gw": false,
     "ISO-639-3": "atj",
-    "ln": "Atikamekw",
-    "ang": "Atikamekw",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 388,
     "lr": "Americas",
+    "lc": "atj",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Atihkamekw",
         "Atikamek",
@@ -13,10 +16,7 @@
         "Attimewk",
         "T\u00eate de Boule"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Atikamekw",
+    "gwcode": "en",
+    "ln": "Atikamekw"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 6447,
-    "lc": "tyj",
+    "gw": false,
     "ISO-639-3": "tyj",
-    "ln": "Tai Do",
-    "ang": "Tai Do",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 6447,
     "lr": "Asia",
+    "lc": "tyj",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Tay Muoi",
         "Tay Quy Chau",
         "Tay Yo",
         "Tay-Jo"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Tai Do",
+    "gwcode": "vi",
+    "ln": "Tai Do"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 2072,
-    "lc": "gnb",
+    "gw": false,
     "ISO-639-3": "gnb",
-    "ln": "Gangte",
-    "ang": "Gangte",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2072,
     "lr": "Asia",
-    "alt": [
-        "Gante"
-    ],
+    "lc": "gnb",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "mni"
+    "alt": [
+        "Gante"
+    ],
+    "ang": "Gangte",
+    "gwcode": "UNKNOWN",
+    "ln": "Gangte"
 }

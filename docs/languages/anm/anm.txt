@@ -1,0 +1,26 @@
+.. _anm:
+
+Anal
+====
+
+This language is spoken in the following countries:
+
+* IN: India
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: anm
+    alternate_names:
+    - Namfau
+    - Mulsom
+    anglicanized_name: Anal
+    country_codes:
+    - IN
+    - MM
+    gateway_language: UNKNOWN
+    lang_code: anm
+    lang_direction: ltr
+    lang_name: Anal
+    lang_region: Asia
+    

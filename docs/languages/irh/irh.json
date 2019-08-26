@@ -1,11 +1,14 @@
 {
-    "pk": 2508,
-    "lc": "irh",
+    "gw": false,
     "ISO-639-3": "irh",
-    "ln": "Irarutu",
-    "ang": "Irarutu",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2508,
     "lr": "Asia",
+    "lc": "irh",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Arguni Bay",
         "Irahutu",
@@ -13,10 +16,7 @@
         "Kaitero",
         "Kasira"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Irarutu",
+    "gwcode": "id",
+    "ln": "Irarutu"
 }

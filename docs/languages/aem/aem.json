@@ -1,21 +1,21 @@
 {
-    "pk": 98,
-    "lc": "aem",
+    "gw": false,
     "ISO-639-3": "aem",
-    "ln": "Arem",
-    "ang": "Arem",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 98,
     "lr": "Asia",
+    "lc": "aem",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Chombrau",
         "Chomrau",
         "Umo",
         "A-Rem"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Arem",
+    "gwcode": "vi",
+    "ln": "Arem"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 7162,
-    "lc": "yel",
+    "gw": false,
     "ISO-639-3": "yel",
-    "ln": "Yela",
-    "ang": "Yela",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 7162,
     "lr": "Africa",
+    "lc": "yel",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Boyela",
         "Kutu"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Yela",
+    "gwcode": "fr",
+    "ln": "Yela"
 }

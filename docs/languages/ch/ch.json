@@ -1,21 +1,21 @@
 {
-    "pk": 1189,
-    "lc": "ch",
+    "gw": false,
     "ISO-639-3": "cha",
-    "ln": "Chamoru",
-    "ang": "Chamorro",
     "hc": "GU",
+    "ld": "ltr",
+    "pk": 1189,
     "lr": "Pacific",
-    "alt": [
-        "Chamorru",
-        "Tjamoro"
-    ],
+    "lc": "ch",
     "cc": [
         "GU",
         "US",
         "FM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Chamorru",
+        "Tjamoro"
+    ],
+    "ang": "Chamorro",
+    "gwcode": "en",
+    "ln": "Chamoru"
 }

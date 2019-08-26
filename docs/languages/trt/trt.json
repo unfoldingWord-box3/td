@@ -1,18 +1,18 @@
 {
-    "pk": 6317,
-    "lc": "trt",
+    "gw": false,
     "ISO-639-3": "trt",
-    "ln": "Tunggare",
-    "ang": "Tunggare",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6317,
     "lr": "Asia",
-    "alt": [
-        "Turunggare"
-    ],
+    "lc": "trt",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Turunggare"
+    ],
+    "ang": "Tunggare",
+    "gwcode": "id",
+    "ln": "Tunggare"
 }

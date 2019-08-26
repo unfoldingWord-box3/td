@@ -1,11 +1,14 @@
 {
-    "pk": 5399,
-    "lc": "rnd",
+    "gw": false,
     "ISO-639-3": "rnd",
-    "ln": "Ruund",
-    "ang": "Ruund",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5399,
     "lr": "Africa",
+    "lc": "rnd",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Chilu Wunda",
         "Muatiamvua",
@@ -16,10 +19,7 @@
         "Lunda-Kamboro",
         "Luwunda"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ruund",
+    "gwcode": "fr",
+    "ln": "Ruund"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 2516,
-    "lc": "is",
+    "gw": false,
     "ISO-639-3": "isl",
-    "ln": "\u00cdslenska",
-    "ang": "Icelandic",
     "hc": "IS",
+    "ld": "ltr",
+    "pk": 2516,
     "lr": "Europe",
-    "alt": [
-        "\u00cdslenska"
-    ],
+    "lc": "is",
     "cc": [
         "US",
         "CA",
         "DK",
         "IS"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "\u00cdslenska"
+    ],
+    "ang": "Icelandic",
+    "gwcode": "en",
+    "ln": "\u00cdslenska"
 }

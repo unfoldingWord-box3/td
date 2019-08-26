@@ -1,18 +1,18 @@
 {
-    "pk": 5426,
-    "lc": "rtc",
+    "gw": false,
     "ISO-639-3": "rtc",
-    "ln": "Rungtu Chin",
-    "ang": "Chin, Rungtu",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 5426,
     "lr": "Asia",
-    "alt": [
-        "Thaungtha"
-    ],
+    "lc": "rtc",
     "cc": [
         "MM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "alt": [
+        "Thaungtha"
+    ],
+    "ang": "Chin, Rungtu",
+    "gwcode": "my",
+    "ln": "Rungtu Chin"
 }

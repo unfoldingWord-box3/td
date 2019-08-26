@@ -1,11 +1,14 @@
 {
-    "pk": 4662,
-    "lc": "nte",
+    "gw": false,
     "ISO-639-3": "nte",
-    "ln": "Nathembo",
-    "ang": "Nathembo",
     "hc": "MZ",
+    "ld": "ltr",
+    "pk": 4662,
     "lr": "Africa",
+    "lc": "nte",
+    "cc": [
+        "MZ"
+    ],
     "alt": [
         "Esakaji",
         "Sakaji",
@@ -14,10 +17,7 @@
         "Sankaji",
         "Theithei"
     ],
-    "cc": [
-        "MZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Nathembo",
+    "gwcode": "pt",
+    "ln": "Nathembo"
 }

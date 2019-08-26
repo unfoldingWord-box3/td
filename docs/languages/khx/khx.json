@@ -1,20 +1,20 @@
 {
-    "pk": 2879,
-    "lc": "khx",
+    "gw": false,
     "ISO-639-3": "khx",
-    "ln": "Kanu",
-    "ang": "Kanu",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 2879,
     "lr": "Africa",
+    "lc": "khx",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kaanu",
         "Kano",
         "Likanu"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kanu",
+    "gwcode": "fr",
+    "ln": "Kanu"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 7148,
-    "lc": "yby",
+    "gw": false,
     "ISO-639-3": "yby",
-    "ln": "Yaweyuha",
-    "ang": "Yaweyuha",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 7148,
     "lr": "Pacific",
+    "lc": "yby",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Yabiyufa",
         "Yawiyuha"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Yaweyuha",
+    "gwcode": "tpi",
+    "ln": "Yaweyuha"
 }

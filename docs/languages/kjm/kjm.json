@@ -1,11 +1,14 @@
 {
-    "pk": 2919,
-    "lc": "kjm",
+    "gw": false,
     "ISO-639-3": "kjm",
-    "ln": "Kh\u00e1ng",
-    "ang": "Kh\u00e1ng",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 2919,
     "lr": "Asia",
+    "lc": "kjm",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Bren",
         "Hang",
@@ -31,10 +34,7 @@
         "Kh\u00e1ng Clau",
         "Xa Cau"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Kh\u00e1ng",
+    "gwcode": "vi",
+    "ln": "Kh\u00e1ng"
 }

@@ -1,14 +1,11 @@
 {
-    "pk": 3535,
-    "lc": "ln",
+    "gw": false,
     "ISO-639-3": "lin",
-    "ln": "Ling\u00e1la",
-    "ang": "Lingala",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3535,
     "lr": "Africa",
-    "alt": [
-        "Ngala"
-    ],
+    "lc": "ln",
     "cc": [
         "BE",
         "CF",
@@ -20,7 +17,10 @@
         "AO",
         "UG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Ngala"
+    ],
+    "ang": "Lingala",
+    "gwcode": "fr",
+    "ln": "Ling\u00e1la"
 }

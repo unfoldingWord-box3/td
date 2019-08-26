@@ -1,21 +1,21 @@
 {
-    "pk": 4383,
-    "lc": "nee",
+    "gw": false,
     "ISO-639-3": "nee",
-    "ln": "N\u00eal\u00eamwa-Nixumwak",
-    "ang": "N\u00eal\u00eamwa-Nixumwak",
     "hc": "NC",
+    "ld": "ltr",
+    "pk": 4383,
     "lr": "Pacific",
+    "lc": "nee",
+    "cc": [
+        "NC"
+    ],
     "alt": [
         "Fwa-Goumak",
         "Koumac",
         "Nelemwa (Nelema)",
         "Nixumwak (Fwa Kumak)"
     ],
-    "cc": [
-        "NC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "N\u00eal\u00eamwa-Nixumwak",
+    "gwcode": "en",
+    "ln": "N\u00eal\u00eamwa-Nixumwak"
 }

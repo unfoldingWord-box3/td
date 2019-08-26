@@ -1,20 +1,20 @@
 {
-    "pk": 1837,
-    "lc": "fgr",
+    "gw": false,
     "ISO-639-3": "fgr",
-    "ln": "Fongoro",
-    "ang": "Fongoro",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 1837,
     "lr": "Africa",
-    "alt": [
-        "Gele",
-        "Kole"
-    ],
+    "lc": "fgr",
     "cc": [
         "SD",
         "TD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Gele",
+        "Kole"
+    ],
+    "ang": "Fongoro",
+    "gwcode": "ar",
+    "ln": "Fongoro"
 }

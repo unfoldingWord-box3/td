@@ -1,20 +1,20 @@
 {
-    "pk": 7445,
-    "lc": "zpi",
+    "gw": false,
     "ISO-639-3": "zpi",
-    "ln": "Santa Mar\u00eda Quiegolani Zapotec",
-    "ang": "Zapotec, Santa Mar\u00eda Quiegolani",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7445,
     "lr": "Americas",
+    "lc": "zpi",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Quiegolani Zapotec",
         "Western Yautepec Zapotec",
         "Zapoteco de Santa Mar\u00eda Quiegolani"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Santa Mar\u00eda Quiegolani",
+    "gwcode": "es-419",
+    "ln": "Santa Mar\u00eda Quiegolani Zapotec"
 }

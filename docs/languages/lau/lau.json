@@ -1,19 +1,19 @@
 {
-    "pk": 3352,
-    "lc": "lau",
+    "gw": false,
     "ISO-639-3": "lau",
-    "ln": "Laba",
-    "ang": "Laba",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3352,
     "lr": "Asia",
+    "lc": "lau",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kedi",
         "South Loloda"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Laba",
+    "gwcode": "id",
+    "ln": "Laba"
 }

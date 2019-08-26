@@ -1,18 +1,18 @@
 {
-    "pk": 2094,
-    "lc": "gof",
+    "gw": false,
     "ISO-639-3": "gof",
-    "ln": "Gofa",
-    "ang": "Gofa",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 2094,
     "lr": "Africa",
-    "alt": [
-        "Goffa"
-    ],
+    "lc": "gof",
     "cc": [
         "ET"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "alt": [
+        "Goffa"
+    ],
+    "ang": "Gofa",
+    "gwcode": "am",
+    "ln": "Gofa"
 }

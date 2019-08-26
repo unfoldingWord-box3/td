@@ -1,20 +1,20 @@
 {
-    "pk": 7277,
-    "lc": "yry",
+    "gw": false,
     "ISO-639-3": "yry",
-    "ln": "Yarluyandi",
-    "ang": "Yarluyandi",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 7277,
     "lr": "Pacific",
+    "lc": "yry",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Jeljujendi",
         "Yarleeyandee",
         "Yelyuyendi"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yarluyandi",
+    "gwcode": "en",
+    "ln": "Yarluyandi"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 259,
-    "lc": "ana",
+    "gw": false,
     "ISO-639-3": "ana",
-    "ln": "Andaqui",
-    "ang": "Andaqui",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 259,
     "lr": "Americas",
+    "lc": "ana",
+    "cc": [
+        "CO"
+    ],
     "alt": [
         "Aguanunga",
         "Andaki",
         "Churuba"
     ],
-    "cc": [
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Andaqui",
+    "gwcode": "es-419",
+    "ln": "Andaqui"
 }

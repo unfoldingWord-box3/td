@@ -1,11 +1,15 @@
 {
-    "pk": 813,
-    "lc": "bni",
+    "gw": false,
     "ISO-639-3": "bni",
-    "ln": "Bobangi",
-    "ang": "Bobangi",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 813,
     "lr": "Africa",
+    "lc": "bni",
+    "cc": [
+        "CG",
+        "CD"
+    ],
     "alt": [
         "Bubangi",
         "Dzamba",
@@ -13,11 +17,7 @@
         "Rebu",
         "Bungi"
     ],
-    "cc": [
-        "CG",
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bobangi",
+    "gwcode": "fr",
+    "ln": "Bobangi"
 }

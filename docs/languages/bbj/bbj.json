@@ -1,11 +1,14 @@
 {
-    "pk": 517,
-    "lc": "bbj",
+    "gw": false,
     "ISO-639-3": "bbj",
-    "ln": "Ghom\u00e1l\u00e1'",
-    "ang": "Ghom\u00e1l\u00e1\u2019",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 517,
     "lr": "Africa",
+    "lc": "bbj",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Baloum",
         "Bamileke-Bandjoun",
@@ -32,10 +35,7 @@
         "Fu'da",
         "Jo"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ghom\u00e1l\u00e1\u2019",
+    "gwcode": "fr",
+    "ln": "Ghom\u00e1l\u00e1'"
 }

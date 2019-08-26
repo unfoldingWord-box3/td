@@ -1,12 +1,11 @@
 {
-    "pk": 6442,
-    "lc": "ty",
+    "gw": false,
     "ISO-639-3": "tah",
-    "ln": "Reo Tahiti",
-    "ang": "Tahitian",
     "hc": "PF",
+    "ld": "ltr",
+    "pk": 6442,
     "lr": "Pacific",
-    "alt": [],
+    "lc": "ty",
     "cc": [
         "NC",
         "NZ",
@@ -14,7 +13,8 @@
         "PF",
         "VU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [],
+    "ang": "Tahitian",
+    "gwcode": "fr",
+    "ln": "Reo Tahiti"
 }

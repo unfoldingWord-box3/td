@@ -1,20 +1,20 @@
 {
-    "pk": 778,
-    "lc": "bly",
+    "gw": false,
     "ISO-639-3": "bly",
-    "ln": "Notre",
-    "ang": "Notre",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 778,
     "lr": "Africa",
+    "lc": "bly",
+    "cc": [
+        "BJ"
+    ],
     "alt": [
         "Bulba",
         "Burusa",
         "Nootre"
     ],
-    "cc": [
-        "BJ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Notre",
+    "gwcode": "fr",
+    "ln": "Notre"
 }

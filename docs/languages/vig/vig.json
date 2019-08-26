@@ -1,20 +1,20 @@
 {
-    "pk": 6613,
-    "lc": "vig",
+    "gw": false,
     "ISO-639-3": "vig",
-    "ln": "Viemo",
-    "ang": "Viemo",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 6613,
     "lr": "Africa",
+    "lc": "vig",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Vige",
         "Vigu\u00e9",
         "Vigye"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Viemo",
+    "gwcode": "fr",
+    "ln": "Viemo"
 }

@@ -1,23 +1,23 @@
 {
-    "pk": 5815,
-    "lc": "srn",
+    "gw": false,
     "ISO-639-3": "srn",
-    "ln": "Sranan Tongo",
-    "ang": "Sranan",
     "hc": "SR",
+    "ld": "ltr",
+    "pk": 5815,
     "lr": "Americas",
+    "lc": "srn",
+    "cc": [
+        "GF",
+        "US",
+        "SR"
+    ],
     "alt": [
         "Surinaams",
         "Suriname Creole English",
         "Surinamese",
         "Taki-Taki"
     ],
-    "cc": [
-        "GF",
-        "US",
-        "SR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "nl"
+    "ang": "Sranan",
+    "gwcode": "UNKNOWN",
+    "ln": "Sranan Tongo"
 }

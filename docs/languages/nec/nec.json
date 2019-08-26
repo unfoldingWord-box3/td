@@ -1,20 +1,20 @@
 {
-    "pk": 4381,
-    "lc": "nec",
+    "gw": false,
     "ISO-639-3": "nec",
-    "ln": "Nedebang",
-    "ang": "Nedebang",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4381,
     "lr": "Asia",
+    "lc": "nec",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Balungada",
         "Klamu",
         "N\u00e9debang"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Nedebang",
+    "gwcode": "id",
+    "ln": "Nedebang"
 }

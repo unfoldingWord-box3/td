@@ -1,19 +1,19 @@
 {
-    "pk": 5439,
-    "lc": "ruk",
+    "gw": false,
     "ISO-639-3": "ruk",
-    "ln": "Che",
-    "ang": "Kuce",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 5439,
     "lr": "Africa",
+    "lc": "ruk",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bache",
         "Sale"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kuce",
+    "gwcode": "en",
+    "ln": "Che"
 }

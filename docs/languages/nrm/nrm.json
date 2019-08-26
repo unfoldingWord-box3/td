@@ -1,21 +1,21 @@
 {
-    "pk": 4632,
-    "lc": "nrm",
+    "gw": false,
     "ISO-639-3": "nrm",
-    "ln": "Narom",
-    "ang": "Narom",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 4632,
     "lr": "Asia",
+    "lc": "nrm",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "Narum",
         "Miri'",
         "Bakong",
         "Dali'"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Narom",
+    "gwcode": "ms",
+    "ln": "Narom"
 }

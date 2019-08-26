@@ -1,21 +1,21 @@
 {
-    "pk": 6459,
-    "lc": "tzj",
+    "gw": false,
     "ISO-639-3": "tzj",
-    "ln": "Tz'utujil",
-    "ang": "Tz\u2019utujil",
     "hc": "GT",
+    "ld": "ltr",
+    "pk": 6459,
     "lr": "Americas",
+    "lc": "tzj",
+    "cc": [
+        "GT"
+    ],
     "alt": [
         "Eastern Tzutujil",
         "Santiago Atitl\u00e1n Tzutujil",
         "Tzutuhil",
         "Tzutujil Oriental"
     ],
-    "cc": [
-        "GT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Tz\u2019utujil",
+    "gwcode": "es-419",
+    "ln": "Tz'utujil"
 }

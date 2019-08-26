@@ -1,11 +1,17 @@
 {
-    "pk": 667,
-    "lc": "bhh",
+    "gw": false,
     "ISO-639-3": "bhh",
-    "ln": "\u05d1\u05d5\u05db\u05e8\u05d9\u05ea",
-    "ang": "Bukharic",
     "hc": "IL",
+    "ld": "ltr",
+    "pk": 667,
     "lr": "Asia",
+    "lc": "bhh",
+    "cc": [
+        "IL",
+        "KZ",
+        "US",
+        "KG"
+    ],
     "alt": [
         "Bokharan",
         "Bokharic",
@@ -15,13 +21,7 @@
         "Bokharian",
         "Bukharin"
     ],
-    "cc": [
-        "IL",
-        "KZ",
-        "US",
-        "KG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bukharic",
+    "gwcode": "en",
+    "ln": "\u05d1\u05d5\u05db\u05e8\u05d9\u05ea"
 }

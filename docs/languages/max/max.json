@@ -1,18 +1,18 @@
 {
-    "pk": 3676,
-    "lc": "max",
+    "gw": false,
     "ISO-639-3": "max",
-    "ln": "North Moluccan Malay",
-    "ang": "Malay, North Moluccan",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3676,
     "lr": "Asia",
-    "alt": [
-        "Ternate Malay"
-    ],
+    "lc": "max",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Ternate Malay"
+    ],
+    "ang": "Malay, North Moluccan",
+    "gwcode": "id",
+    "ln": "North Moluccan Malay"
 }

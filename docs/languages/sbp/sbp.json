@@ -1,11 +1,14 @@
 {
-    "pk": 5494,
-    "lc": "sbp",
+    "gw": false,
     "ISO-639-3": "sbp",
-    "ln": "Sangu",
-    "ang": "Sangu",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 5494,
     "lr": "Africa",
+    "lc": "sbp",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Eshisango",
         "Kisangu",
@@ -20,10 +23,7 @@
         "South-Central Sangu (Kapunga)",
         "Western Sangu (Kilambo)"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Sangu",
+    "gwcode": "sw",
+    "ln": "Sangu"
 }

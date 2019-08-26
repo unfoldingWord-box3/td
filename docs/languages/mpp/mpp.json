@@ -1,18 +1,18 @@
 {
-    "pk": 4035,
-    "lc": "mpp",
+    "gw": false,
     "ISO-639-3": "mpp",
-    "ln": "Migabac",
-    "ang": "Migabac",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4035,
     "lr": "Pacific",
-    "alt": [
-        "Migaba'"
-    ],
+    "lc": "mpp",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Migaba'"
+    ],
+    "ang": "Migabac",
+    "gwcode": "tpi",
+    "ln": "Migabac"
 }

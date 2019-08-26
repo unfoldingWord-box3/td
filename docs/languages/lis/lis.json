@@ -1,11 +1,16 @@
 {
-    "pk": 3469,
-    "lc": "lis",
+    "gw": false,
     "ISO-639-3": "lis",
-    "ln": "\u5088\u50f3\u8bed",
-    "ang": "Lisu",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 3469,
     "lr": "Asia",
+    "lc": "lis",
+    "cc": [
+        "CN",
+        "TH",
+        "MM"
+    ],
     "alt": [
         "Chedi",
         "Cheli",
@@ -42,12 +47,7 @@
         "Nujiang Lisu",
         "Hua Lisu (Flowery Lisu)"
     ],
-    "cc": [
-        "CN",
-        "TH",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Lisu",
+    "gwcode": "zh",
+    "ln": "\u5088\u50f3\u8bed"
 }

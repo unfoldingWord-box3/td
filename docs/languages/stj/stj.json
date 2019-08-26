@@ -1,11 +1,14 @@
 {
-    "pk": 5860,
-    "lc": "stj",
+    "gw": false,
     "ISO-639-3": "stj",
-    "ln": "Matya Samo",
-    "ang": "Samo, Matya",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 5860,
     "lr": "Africa",
+    "lc": "stj",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Northwestern Samo",
         "San",
@@ -14,10 +17,7 @@
         "West Central Goe",
         "S\u00e3"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Samo, Matya",
+    "gwcode": "fr",
+    "ln": "Matya Samo"
 }

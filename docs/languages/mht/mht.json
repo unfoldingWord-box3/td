@@ -1,11 +1,15 @@
 {
-    "pk": 3847,
-    "lc": "mht",
+    "gw": false,
     "ISO-639-3": "mht",
-    "ln": "Mandahuaca",
-    "ang": "Mandahuaca",
     "hc": "VE",
+    "ld": "ltr",
+    "pk": 3847,
     "lr": "Americas",
+    "lc": "mht",
+    "cc": [
+        "BR",
+        "VE"
+    ],
     "alt": [
         "Arihini",
         "Cunipusana",
@@ -16,11 +20,7 @@
         "Mitua",
         "Yavita"
     ],
-    "cc": [
-        "BR",
-        "VE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mandahuaca",
+    "gwcode": "es-419",
+    "ln": "Mandahuaca"
 }

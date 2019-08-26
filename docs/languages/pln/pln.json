@@ -1,19 +1,19 @@
 {
-    "pk": 5072,
-    "lc": "pln",
+    "gw": false,
     "ISO-639-3": "pln",
-    "ln": "Palenquero",
-    "ang": "Palenquero",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 5072,
     "lr": "Americas",
+    "lc": "pln",
+    "cc": [
+        "CO"
+    ],
     "alt": [
         "Lengua",
         "Palenque"
     ],
-    "cc": [
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Palenquero",
+    "gwcode": "es-419",
+    "ln": "Palenquero"
 }

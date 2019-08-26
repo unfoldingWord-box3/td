@@ -1,21 +1,21 @@
 {
-    "pk": 180,
-    "lc": "aix",
+    "gw": false,
     "ISO-639-3": "aix",
-    "ln": "Aighon",
-    "ang": "Aighon",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 180,
     "lr": "Pacific",
+    "lc": "aix",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Psokhok",
         "Bao (Do)",
         "Apsokok (Psohoh)",
         "Psokok"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Aighon",
+    "gwcode": "tpi",
+    "ln": "Aighon"
 }

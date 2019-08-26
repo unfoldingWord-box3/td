@@ -1,20 +1,20 @@
 {
-    "pk": 1356,
-    "lc": "csl",
+    "gw": false,
     "ISO-639-3": "csl",
-    "ln": "\u4e2d\u56fd\u624b\u8bed",
-    "ang": "Chinese Sign Language",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 1356,
     "lr": "Asia",
+    "lc": "csl",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "China Coast Pidgin",
         "Zhongguo Shouyu",
         "Southern Chinese Sign Language (Shanghai Sign Language)"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Chinese Sign Language",
+    "gwcode": "zh",
+    "ln": "\u4e2d\u56fd\u624b\u8bed"
 }

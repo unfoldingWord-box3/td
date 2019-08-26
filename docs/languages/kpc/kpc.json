@@ -1,11 +1,17 @@
 {
-    "pk": 3061,
-    "lc": "kpc",
+    "gw": false,
     "ISO-639-3": "kpc",
-    "ln": "Curripaco",
-    "ang": "Curripaco",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 3061,
     "lr": "Americas",
+    "lc": "kpc",
+    "cc": [
+        "BR",
+        "VE",
+        "CO",
+        "US"
+    ],
     "alt": [
         "Cumata",
         "Ipeca",
@@ -33,13 +39,7 @@
         "Unhun (Cadauapuritana)",
         "Waliperi (Veliperi)"
     ],
-    "cc": [
-        "BR",
-        "VE",
-        "CO",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Curripaco",
+    "gwcode": "es-419",
+    "ln": "Curripaco"
 }

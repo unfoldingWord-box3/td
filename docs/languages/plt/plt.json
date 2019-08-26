@@ -1,19 +1,11 @@
 {
-    "pk": 5077,
-    "lc": "plt",
+    "gw": true,
     "ISO-639-3": "plt",
-    "ln": "Plateau Malagasy",
-    "ang": "Malagasy, Plateau",
     "hc": "MG",
+    "ld": "ltr",
+    "pk": 5077,
     "lr": "Africa",
-    "alt": [
-        "Malgache",
-        "Official Malagasy",
-        "Plateau Malagasy",
-        "Standard Malagasy",
-        "Vakinankaritra",
-        "Merina"
-    ],
+    "lc": "plt",
     "cc": [
         "KM",
         "FR",
@@ -23,7 +15,15 @@
         "CA",
         "YT"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": "plt"
+    "alt": [
+        "Malgache",
+        "Official Malagasy",
+        "Plateau Malagasy",
+        "Standard Malagasy",
+        "Vakinankaritra",
+        "Merina"
+    ],
+    "ang": "Malagasy, Plateau",
+    "gwcode": "plt",
+    "ln": "Plateau Malagasy"
 }

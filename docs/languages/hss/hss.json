@@ -1,19 +1,19 @@
 {
-    "pk": 2359,
-    "lc": "hss",
+    "gw": false,
     "ISO-639-3": "hss",
-    "ln": "\u0644\u063a\u0629 \u062d\u0631\u0633\u0648\u0633\u064a\u0629",
-    "ang": "Harsusi",
     "hc": "OM",
+    "ld": "ltr",
+    "pk": 2359,
     "lr": "Asia",
+    "lc": "hss",
+    "cc": [
+        "OM"
+    ],
     "alt": [
         "Harsi 'Aforit",
         "Hersyet"
     ],
-    "cc": [
-        "OM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Harsusi",
+    "gwcode": "ar",
+    "ln": "\u0644\u063a\u0629 \u062d\u0631\u0633\u0648\u0633\u064a\u0629"
 }

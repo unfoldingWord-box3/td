@@ -1,19 +1,19 @@
 {
-    "pk": 5066,
-    "lc": "ple",
+    "gw": false,
     "ISO-639-3": "ple",
-    "ln": "Palu'e",
-    "ang": "Palu\u2019e",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5066,
     "lr": "Asia",
+    "lc": "ple",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Lu'a",
         "Paluqe"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Palu\u2019e",
+    "gwcode": "id",
+    "ln": "Palu'e"
 }

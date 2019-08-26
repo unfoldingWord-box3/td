@@ -1,21 +1,21 @@
 {
-    "pk": 4580,
-    "lc": "nnz",
+    "gw": false,
     "ISO-639-3": "nnz",
-    "ln": "Nda'nda'",
-    "ang": "Nda\u2019nda\u2019",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4580,
     "lr": "Africa",
+    "lc": "nnz",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bamileke-Nda'nda'",
         "Undimeha (East Nda'nda')",
         "Ungameha (South Nda'nda')",
         "West Nda'nda'"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Nda\u2019nda\u2019",
+    "gwcode": "fr",
+    "ln": "Nda'nda'"
 }

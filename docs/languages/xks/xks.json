@@ -1,19 +1,19 @@
 {
-    "pk": 6948,
-    "lc": "xks",
+    "gw": false,
     "ISO-639-3": "xks",
-    "ln": "Kumbewaha",
-    "ang": "Kumbewaha",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6948,
     "lr": "Asia",
+    "lc": "xks",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kumberaha",
         "Umbewaha"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kumbewaha",
+    "gwcode": "id",
+    "ln": "Kumbewaha"
 }

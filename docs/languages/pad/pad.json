@@ -1,20 +1,20 @@
 {
-    "pk": 4918,
-    "lc": "pad",
+    "gw": false,
     "ISO-639-3": "pad",
-    "ln": "Paumar\u00ed",
-    "ang": "Paumar\u00ed",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 4918,
     "lr": "Americas",
+    "lc": "pad",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Purupur\u00fa",
         "Kurukuru (Curucuru)",
         "Paumarm (Pammari)"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Paumar\u00ed",
+    "gwcode": "pt",
+    "ln": "Paumar\u00ed"
 }

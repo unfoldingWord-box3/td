@@ -1,20 +1,20 @@
 {
-    "pk": 1037,
-    "lc": "bwu",
+    "gw": false,
     "ISO-639-3": "bwu",
-    "ln": "Buli (Ghana)",
-    "ang": "Buli",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 1037,
     "lr": "Africa",
+    "lc": "bwu",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Bulisa",
         "Guresha",
         "Kanjaga"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Buli",
+    "gwcode": "en",
+    "ln": "Buli (Ghana)"
 }

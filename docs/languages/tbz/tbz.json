@@ -1,11 +1,15 @@
 {
-    "pk": 6006,
-    "lc": "tbz",
+    "gw": false,
     "ISO-639-3": "tbz",
-    "ln": "Ditammari",
-    "ang": "Ditammari",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 6006,
     "lr": "Africa",
+    "lc": "tbz",
+    "cc": [
+        "BJ",
+        "TG"
+    ],
     "alt": [
         "Tamari",
         "Somba",
@@ -14,11 +18,7 @@
         "Eastern Ditammari",
         "Western Ditammari (Tamberma)"
     ],
-    "cc": [
-        "BJ",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ditammari",
+    "gwcode": "fr",
+    "ln": "Ditammari"
 }

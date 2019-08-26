@@ -1,19 +1,19 @@
 {
-    "pk": 3864,
-    "lc": "mik",
+    "gw": false,
     "ISO-639-3": "mik",
-    "ln": "Mikasuki",
-    "ang": "Mikasuki",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 3864,
     "lr": "Americas",
+    "lc": "mik",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Miccosukee",
         "Mikasuki Seminole"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mikasuki",
+    "gwcode": "en",
+    "ln": "Mikasuki"
 }

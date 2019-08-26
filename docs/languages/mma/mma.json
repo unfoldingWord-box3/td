@@ -1,19 +1,19 @@
 {
-    "pk": 3949,
-    "lc": "mma",
+    "gw": false,
     "ISO-639-3": "mma",
-    "ln": "Mama",
-    "ang": "Mama",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3949,
     "lr": "Africa",
+    "lc": "mma",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kantana",
         "Kwarra"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mama",
+    "gwcode": "en",
+    "ln": "Mama"
 }

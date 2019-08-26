@@ -1,19 +1,19 @@
 {
-    "pk": 4145,
-    "lc": "mty",
+    "gw": false,
     "ISO-639-3": "mty",
-    "ln": "Nabi",
-    "ang": "Nabi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4145,
     "lr": "Pacific",
+    "lc": "mty",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Metan",
         "Mitang"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Nabi",
+    "gwcode": "tpi",
+    "ln": "Nabi"
 }

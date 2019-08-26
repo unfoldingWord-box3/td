@@ -1,18 +1,18 @@
 {
-    "pk": 2054,
-    "lc": "glr",
+    "gw": false,
     "ISO-639-3": "glr",
-    "ln": "Glaro-Twabo",
-    "ang": "Glaro-Twabo",
     "hc": "LR",
+    "ld": "ltr",
+    "pk": 2054,
     "lr": "Africa",
-    "alt": [
-        "Twabo"
-    ],
+    "lc": "glr",
     "cc": [
         "LR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Twabo"
+    ],
+    "ang": "Glaro-Twabo",
+    "gwcode": "en",
+    "ln": "Glaro-Twabo"
 }

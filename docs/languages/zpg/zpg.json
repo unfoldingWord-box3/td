@@ -1,19 +1,19 @@
 {
-    "pk": 7443,
-    "lc": "zpg",
+    "gw": false,
     "ISO-639-3": "zpg",
-    "ln": "Guevea De Humboldt Zapotec",
-    "ang": "Zapotec, Guevea de Humboldt",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7443,
     "lr": "Americas",
+    "lc": "zpg",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Northern Isthmus Zapotec",
         "Zapoteco de Guevea de Humboldt"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Guevea de Humboldt",
+    "gwcode": "es-419",
+    "ln": "Guevea De Humboldt Zapotec"
 }

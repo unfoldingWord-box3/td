@@ -1,22 +1,22 @@
 {
-    "pk": 5601,
-    "lc": "shk",
+    "gw": false,
     "ISO-639-3": "shk",
-    "ln": "Shilluk",
-    "ang": "Shilluk",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 5601,
     "lr": "Africa",
+    "lc": "shk",
+    "cc": [
+        "SS",
+        "US"
+    ],
     "alt": [
         "Chulla",
         "Colo",
         "Dhocolo",
         "Shulla"
     ],
-    "cc": [
-        "SS",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Shilluk",
+    "gwcode": "ar",
+    "ln": "Shilluk"
 }

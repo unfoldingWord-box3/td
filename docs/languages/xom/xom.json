@@ -1,11 +1,15 @@
 {
-    "pk": 7006,
-    "lc": "xom",
+    "gw": false,
     "ISO-639-3": "xom",
-    "ln": "Komo (Sudan)",
-    "ang": "Komo",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 7006,
     "lr": "Africa",
+    "lc": "xom",
+    "cc": [
+        "ET",
+        "SD"
+    ],
     "alt": [
         "Central Koma",
         "Koma",
@@ -16,11 +20,7 @@
         "Hayahaya",
         "Aru"
     ],
-    "cc": [
-        "ET",
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Komo",
+    "gwcode": "ar",
+    "ln": "Komo (Sudan)"
 }

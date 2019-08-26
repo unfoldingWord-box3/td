@@ -1,20 +1,20 @@
 {
-    "pk": 3621,
-    "lc": "luj",
+    "gw": false,
     "ISO-639-3": "luj",
-    "ln": "Luna",
-    "ang": "Luna",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3621,
     "lr": "Africa",
+    "lc": "luj",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Inkongo",
         "Kuba",
         "Northern Luba"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Luna",
+    "gwcode": "fr",
+    "ln": "Luna"
 }

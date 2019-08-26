@@ -1,11 +1,14 @@
 {
-    "pk": 2032,
-    "lc": "gis",
+    "gw": false,
     "ISO-639-3": "gis",
-    "ln": "North Giziga",
-    "ang": "Giziga, North",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 2032,
     "lr": "Africa",
+    "lc": "gis",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Dogba",
         "Gisika",
@@ -15,10 +18,7 @@
         "Mi Marva",
         "Tchere"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Giziga, North",
+    "gwcode": "fr",
+    "ln": "North Giziga"
 }

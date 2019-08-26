@@ -1,19 +1,19 @@
 {
-    "pk": 2480,
-    "lc": "imi",
+    "gw": false,
     "ISO-639-3": "imi",
-    "ln": "Anamgura",
-    "ang": "Anamgura",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2480,
     "lr": "Pacific",
+    "lc": "imi",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Ikundun",
         "Mindivi"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Anamgura",
+    "gwcode": "tpi",
+    "ln": "Anamgura"
 }

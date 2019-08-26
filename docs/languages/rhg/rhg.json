@@ -1,18 +1,18 @@
 {
-    "pk": 5354,
-    "lc": "rhg",
+    "gw": false,
     "ISO-639-3": "rhg",
-    "ln": "Rohingya",
-    "ang": "Rohingya",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 5354,
     "lr": "Asia",
-    "alt": [
-        "Rohinja"
-    ],
+    "lc": "rhg",
     "cc": [
         "MM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "alt": [
+        "Rohinja"
+    ],
+    "ang": "Rohingya",
+    "gwcode": "my",
+    "ln": "Rohingya"
 }

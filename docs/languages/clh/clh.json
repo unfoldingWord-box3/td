@@ -1,19 +1,19 @@
 {
-    "pk": 1250,
-    "lc": "clh",
+    "gw": false,
     "ISO-639-3": "clh",
-    "ln": "\u0686\u06cc\u0644\u06cc\u0633\u0648",
-    "ang": "Chilisso",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 1250,
     "lr": "Asia",
+    "lc": "clh",
+    "cc": [
+        "PK"
+    ],
     "alt": [
         "Chiliss",
         "Galos"
     ],
-    "cc": [
-        "PK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Chilisso",
+    "gwcode": "ur",
+    "ln": "\u0686\u06cc\u0644\u06cc\u0633\u0648"
 }

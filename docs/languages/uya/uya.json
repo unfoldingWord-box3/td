@@ -1,21 +1,21 @@
 {
-    "pk": 6576,
-    "lc": "uya",
+    "gw": false,
     "ISO-639-3": "uya",
-    "ln": "Doko-Uyanga",
-    "ang": "Doko-Uyanga",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 6576,
     "lr": "Africa",
+    "lc": "uya",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Basanga",
         "Dosanga",
         "Iko",
         "Uyanga"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Doko-Uyanga",
+    "gwcode": "en",
+    "ln": "Doko-Uyanga"
 }

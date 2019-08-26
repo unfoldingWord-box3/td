@@ -1,19 +1,19 @@
 {
-    "pk": 2963,
-    "lc": "kld",
+    "gw": false,
     "ISO-639-3": "kld",
-    "ln": "Gamilaraay",
-    "ang": "Gamilaraay",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 2963,
     "lr": "Pacific",
+    "lc": "kld",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Camileroi",
         "Gamilaroi"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gamilaraay",
+    "gwcode": "en",
+    "ln": "Gamilaraay"
 }

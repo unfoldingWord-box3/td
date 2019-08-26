@@ -1,20 +1,20 @@
 {
-    "pk": 2324,
-    "lc": "ho",
+    "gw": false,
     "ISO-639-3": "hmo",
-    "ln": "Hiri Motu",
-    "ang": "Hiri Motu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2324,
     "lr": "Pacific",
+    "lc": "ho",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Hiri",
         "Pidgin Motu",
         "Police Motu"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Hiri Motu",
+    "gwcode": "tpi",
+    "ln": "Hiri Motu"
 }

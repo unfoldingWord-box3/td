@@ -1,11 +1,15 @@
 {
-    "pk": 5330,
-    "lc": "rbb",
+    "gw": false,
     "ISO-639-3": "rbb",
-    "ln": "Rumai Palaung",
-    "ang": "Palaung, Rumai",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 5330,
     "lr": "Asia",
+    "lc": "rbb",
+    "cc": [
+        "CN",
+        "MM"
+    ],
     "alt": [
         "Humai",
         "Rumai",
@@ -17,11 +21,7 @@
         "Ta'ang Rumai",
         "Tai Rumai"
     ],
-    "cc": [
-        "CN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Palaung, Rumai",
+    "gwcode": "my",
+    "ln": "Rumai Palaung"
 }

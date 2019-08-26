@@ -1,21 +1,21 @@
 {
-    "pk": 1700,
-    "lc": "eee",
+    "gw": false,
     "ISO-639-3": "eee",
-    "ln": "\u8bf6\u8bdd",
-    "ang": "E",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 1700,
     "lr": "Asia",
+    "lc": "eee",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Eahua",
         "Kjang E",
         "Wuse Hua",
         "Wusehua"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "E",
+    "gwcode": "zh",
+    "ln": "\u8bf6\u8bdd"
 }

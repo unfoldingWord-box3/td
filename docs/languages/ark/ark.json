@@ -1,19 +1,19 @@
 {
-    "pk": 342,
-    "lc": "ark",
+    "gw": false,
     "ISO-639-3": "ark",
-    "ln": "Arikap\u00fa",
-    "ang": "Arikap\u00fa",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 342,
     "lr": "Americas",
+    "lc": "ark",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Aricap\u00fa",
         "Maxub\u00ed"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Arikap\u00fa",
+    "gwcode": "pt",
+    "ln": "Arikap\u00fa"
 }

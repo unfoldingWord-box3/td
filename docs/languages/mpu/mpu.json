@@ -1,21 +1,21 @@
 {
-    "pk": 4040,
-    "lc": "mpu",
+    "gw": false,
     "ISO-639-3": "mpu",
-    "ln": "Makur\u00e1p",
-    "ang": "Makur\u00e1p",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 4040,
     "lr": "Americas",
+    "lc": "mpu",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Macur\u00e1p",
         "Macurapi",
         "Makur\u00e1pi",
         "Massaka"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Makur\u00e1p",
+    "gwcode": "pt",
+    "ln": "Makur\u00e1p"
 }

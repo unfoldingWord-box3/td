@@ -1,11 +1,14 @@
 {
-    "pk": 2078,
-    "lc": "gni",
+    "gw": false,
     "ISO-639-3": "gni",
-    "ln": "Gooniyandi",
-    "ang": "Gooniyandi",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 2078,
     "lr": "Pacific",
+    "lc": "gni",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Gunian",
         "Guniandi",
@@ -18,10 +21,7 @@
         "Kunian",
         "Kuniyan"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gooniyandi",
+    "gwcode": "en",
+    "ln": "Gooniyandi"
 }

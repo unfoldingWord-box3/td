@@ -1,11 +1,14 @@
 {
-    "pk": 3947,
-    "lc": "mlx",
+    "gw": false,
     "ISO-639-3": "mlx",
-    "ln": "Malfaxal",
-    "ang": "Na\u2019ahai",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 3947,
     "lr": "Pacific",
+    "lc": "mlx",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Malvaxal-Toman Island",
         "Taman",
@@ -14,10 +17,7 @@
         "Orierh (Na'ahai)",
         "Toman"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Na\u2019ahai",
+    "gwcode": "fr",
+    "ln": "Malfaxal"
 }

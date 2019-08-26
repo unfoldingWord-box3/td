@@ -1,20 +1,20 @@
 {
-    "pk": 6135,
-    "lc": "tiq",
+    "gw": false,
     "ISO-639-3": "tiq",
-    "ln": "Ti\u00e9fo",
-    "ang": "Ti\u00e9fo",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 6135,
     "lr": "Africa",
+    "lc": "tiq",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Kiefo",
         "Tyefo",
         "Tyeforo"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ti\u00e9fo",
+    "gwcode": "fr",
+    "ln": "Ti\u00e9fo"
 }

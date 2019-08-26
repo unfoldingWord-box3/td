@@ -1,18 +1,18 @@
 {
-    "pk": 2144,
-    "lc": "gsm",
+    "gw": false,
     "ISO-639-3": "gsm",
-    "ln": "Guatemalan Sign Language",
-    "ang": "Guatemalan Sign Language",
     "hc": "GT",
+    "ld": "ltr",
+    "pk": 2144,
     "lr": "Americas",
-    "alt": [
-        "Lensegua"
-    ],
+    "lc": "gsm",
     "cc": [
         "GT"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Lensegua"
+    ],
+    "ang": "Guatemalan Sign Language",
+    "gwcode": "es-419",
+    "ln": "Guatemalan Sign Language"
 }

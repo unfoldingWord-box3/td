@@ -1,11 +1,14 @@
 {
-    "pk": 4694,
-    "lc": "nuv",
+    "gw": false,
     "ISO-639-3": "nuv",
-    "ln": "Northern Nuni",
-    "ang": "Nuni, Northern",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 4694,
     "lr": "Africa",
+    "lc": "nuv",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Nibulu",
         "Nouni",
@@ -15,10 +18,7 @@
         "Nunuma",
         "Nuruma"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Nuni, Northern",
+    "gwcode": "fr",
+    "ln": "Northern Nuni"
 }

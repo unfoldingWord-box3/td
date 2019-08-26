@@ -1,11 +1,14 @@
 {
-    "pk": 2155,
-    "lc": "gud",
+    "gw": false,
     "ISO-639-3": "gud",
-    "ln": "Yocobou\u00e9 Dida",
-    "ang": "Dida, Yocobou\u00e9",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 2155,
     "lr": "Africa",
+    "lc": "gud",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Lozoua (Gakpa)",
         "Yocoboue",
@@ -14,10 +17,7 @@
         "Guitry",
         "Kagou\u00e9"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dida, Yocobou\u00e9",
+    "gwcode": "fr",
+    "ln": "Yocobou\u00e9 Dida"
 }

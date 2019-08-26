@@ -1,20 +1,20 @@
 {
-    "pk": 289,
-    "lc": "aog",
+    "gw": false,
     "ISO-639-3": "aog",
-    "ln": "Angoram",
-    "ang": "Angoram",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 289,
     "lr": "Pacific",
+    "lc": "aog",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Olem",
         "Pondo",
         "Tjimundo"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Angoram",
+    "gwcode": "tpi",
+    "ln": "Angoram"
 }

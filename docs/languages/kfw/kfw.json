@@ -1,19 +1,19 @@
 {
-    "pk": 2831,
-    "lc": "kfw",
+    "gw": false,
     "ISO-639-3": "kfw",
-    "ln": "Kharam Naga",
-    "ang": "Naga, Kharam",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2831,
     "lr": "Asia",
+    "lc": "kfw",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Duisalongmei",
         "Thinglong"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Kharam",
+    "gwcode": "en",
+    "ln": "Kharam Naga"
 }

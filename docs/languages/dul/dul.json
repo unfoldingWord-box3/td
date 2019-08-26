@@ -1,18 +1,18 @@
 {
-    "pk": 1661,
-    "lc": "dul",
+    "gw": false,
     "ISO-639-3": "dul",
-    "ln": "Alabat Island Agta",
-    "ang": "Agta, Alabat Island",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 1661,
     "lr": "Asia",
-    "alt": [
-        "Alabat Island Dumagat"
-    ],
+    "lc": "dul",
     "cc": [
         "PH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "alt": [
+        "Alabat Island Dumagat"
+    ],
+    "ang": "Agta, Alabat Island",
+    "gwcode": "ilo",
+    "ln": "Alabat Island Agta"
 }

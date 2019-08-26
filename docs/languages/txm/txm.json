@@ -1,21 +1,21 @@
 {
-    "pk": 6432,
-    "lc": "txm",
+    "gw": false,
     "ISO-639-3": "txm",
-    "ln": "Tomini",
-    "ang": "Tomini",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6432,
     "lr": "Asia",
+    "lc": "txm",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Mouton",
         "Moutong",
         "Tiadje",
         "Tialo"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tomini",
+    "gwcode": "id",
+    "ln": "Tomini"
 }

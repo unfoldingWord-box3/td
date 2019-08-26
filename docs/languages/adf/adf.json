@@ -1,19 +1,19 @@
 {
-    "pk": 75,
-    "lc": "adf",
+    "gw": false,
     "ISO-639-3": "adf",
-    "ln": "\u0644\u0647\u062c\u0629 \u0638\u0641\u0627\u0631\u064a\u0629",
-    "ang": "Arabic, Dhofari Spoken",
     "hc": "OM",
+    "ld": "rtl",
+    "pk": 75,
     "lr": "Asia",
+    "lc": "adf",
+    "cc": [
+        "OM"
+    ],
     "alt": [
         "Dhofari",
         "Zofari"
     ],
-    "cc": [
-        "OM"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ar"
+    "ang": "Arabic, Dhofari Spoken",
+    "gwcode": "ar",
+    "ln": "\u0644\u0647\u062c\u0629 \u0638\u0641\u0627\u0631\u064a\u0629"
 }

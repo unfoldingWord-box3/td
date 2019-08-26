@@ -1,19 +1,19 @@
 {
-    "pk": 2534,
-    "lc": "iti",
+    "gw": false,
     "ISO-639-3": "iti",
-    "ln": "Inlaod Itneg",
-    "ang": "Itneg, Inlaod",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2534,
     "lr": "Asia",
+    "lc": "iti",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Tinggian",
         "Tinguian"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Itneg, Inlaod",
+    "gwcode": "ilo",
+    "ln": "Inlaod Itneg"
 }

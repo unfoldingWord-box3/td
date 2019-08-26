@@ -1,20 +1,20 @@
 {
-    "pk": 5246,
-    "lc": "pzn",
+    "gw": false,
     "ISO-639-3": "pzn",
-    "ln": "Para Naga",
-    "ang": "Naga, Para",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 5246,
     "lr": "Asia",
+    "lc": "pzn",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Bara Naga",
         "Jejara Naga",
         "Parasar"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Naga, Para",
+    "gwcode": "my",
+    "ln": "Para Naga"
 }

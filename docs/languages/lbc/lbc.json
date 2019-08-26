@@ -1,11 +1,14 @@
 {
-    "pk": 3358,
-    "lc": "lbc",
+    "gw": false,
     "ISO-639-3": "lbc",
-    "ln": "\u62c9\u73c8\u8bed",
-    "ang": "Lakkia",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 3358,
     "lr": "Asia",
+    "lc": "lbc",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Chashan Yao",
         "Lajia",
@@ -16,10 +19,7 @@
         "Tai Laka",
         "Tea Mountain Yao"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Lakkia",
+    "gwcode": "zh",
+    "ln": "\u62c9\u73c8\u8bed"
 }

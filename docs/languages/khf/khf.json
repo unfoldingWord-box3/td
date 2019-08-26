@@ -1,21 +1,21 @@
 {
-    "pk": 2863,
-    "lc": "khf",
+    "gw": false,
     "ISO-639-3": "khf",
-    "ln": "Khuen",
-    "ang": "Khuen",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 2863,
     "lr": "Asia",
+    "lc": "khf",
+    "cc": [
+        "LA",
+        "US"
+    ],
     "alt": [
         "Khouen",
         "Khween",
         "Kween"
     ],
-    "cc": [
-        "LA",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "Khuen",
+    "gwcode": "lo",
+    "ln": "Khuen"
 }

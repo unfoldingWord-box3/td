@@ -1,11 +1,15 @@
 {
-    "pk": 522,
-    "lc": "bbo",
+    "gw": false,
     "ISO-639-3": "bbo",
-    "ln": "Northern Bobo Madar\u00e9",
-    "ang": "Konab\u00e9r\u00e9",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 522,
     "lr": "Africa",
+    "lc": "bbo",
+    "cc": [
+        "BF",
+        "ML"
+    ],
     "alt": [
         "Black Bobo",
         "Bobo",
@@ -19,11 +23,7 @@
         "San",
         "Sankuma (Sarokama)"
     ],
-    "cc": [
-        "BF",
-        "ML"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Konab\u00e9r\u00e9",
+    "gwcode": "fr",
+    "ln": "Northern Bobo Madar\u00e9"
 }

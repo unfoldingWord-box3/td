@@ -1,21 +1,21 @@
 {
-    "pk": 5730,
-    "lc": "snf",
+    "gw": false,
     "ISO-639-3": "snf",
-    "ln": "Noon",
-    "ang": "Noon",
     "hc": "SN",
+    "ld": "ltr",
+    "pk": 5730,
     "lr": "Africa",
+    "lc": "snf",
+    "cc": [
+        "SN"
+    ],
     "alt": [
         "Non",
         "None",
         "Serer",
         "Serer-Noon"
     ],
-    "cc": [
-        "SN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Noon",
+    "gwcode": "fr",
+    "ln": "Noon"
 }

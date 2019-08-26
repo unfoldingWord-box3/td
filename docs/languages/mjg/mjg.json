@@ -1,11 +1,14 @@
 {
-    "pk": 3881,
-    "lc": "mjg",
+    "gw": false,
     "ISO-639-3": "mjg",
-    "ln": "\u571f\u65cf\u8bed",
-    "ang": "Tu",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 3881,
     "lr": "Asia",
+    "lc": "mjg",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Mongor",
         "Mongour",
@@ -15,10 +18,7 @@
         "Minhe (Mangghuer)",
         "Mongghul"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Tu",
+    "gwcode": "zh",
+    "ln": "\u571f\u65cf\u8bed"
 }

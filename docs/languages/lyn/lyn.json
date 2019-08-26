@@ -1,11 +1,16 @@
 {
-    "pk": 3654,
-    "lc": "lyn",
+    "gw": false,
     "ISO-639-3": "lyn",
-    "ln": "Luyana",
-    "ang": "Luyana",
     "hc": "ZM",
+    "ld": "ltr",
+    "pk": 3654,
     "lr": "Africa",
+    "lc": "lyn",
+    "cc": [
+        "ZM",
+        "AO",
+        "BW"
+    ],
     "alt": [
         "Esiluyana",
         "Louyi",
@@ -14,12 +19,7 @@
         "Rouyi",
         "Kwanga"
     ],
-    "cc": [
-        "ZM",
-        "AO",
-        "BW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Luyana",
+    "gwcode": "en",
+    "ln": "Luyana"
 }

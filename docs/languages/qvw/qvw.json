@@ -1,21 +1,21 @@
 {
-    "pk": 5281,
-    "lc": "qvw",
+    "gw": false,
     "ISO-639-3": "qvw",
-    "ln": "Huaylla Wanca Quechua",
-    "ang": "Quechua, Huaylla Wanca",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 5281,
     "lr": "Americas",
+    "lc": "qvw",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Huanca Huaylla Quechua",
         "Southern Huancayo Quechua",
         "Huaycha",
         "Waycha (Central Huancayo)"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quechua, Huaylla Wanca",
+    "gwcode": "es-419",
+    "ln": "Huaylla Wanca Quechua"
 }

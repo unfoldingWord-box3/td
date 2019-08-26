@@ -1,11 +1,14 @@
 {
-    "pk": 7118,
-    "lc": "yai",
+    "gw": false,
     "ISO-639-3": "yai",
-    "ln": "Yagnobi",
-    "ang": "Yagnobi",
     "hc": "TJ",
+    "ld": "ltr",
+    "pk": 7118,
     "lr": "Asia",
+    "lc": "yai",
+    "cc": [
+        "TJ"
+    ],
     "alt": [
         "Yaghnabi",
         "Yaghnobi",
@@ -14,10 +17,7 @@
         "Yagnob",
         "Yagnubi"
     ],
-    "cc": [
-        "TJ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Yagnobi",
+    "gwcode": "ru",
+    "ln": "Yagnobi"
 }

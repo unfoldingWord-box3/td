@@ -1,11 +1,14 @@
 {
-    "pk": 5166,
-    "lc": "prn",
+    "gw": false,
     "ISO-639-3": "prn",
-    "ln": "V\u00e2s\u2019i-vari",
-    "ang": "Prasuni",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 5166,
     "lr": "Asia",
+    "lc": "prn",
+    "cc": [
+        "AF"
+    ],
     "alt": [
         "Parun",
         "Prasun",
@@ -17,10 +20,7 @@
         "Lower Prasun (Pashki)",
         "Upper Wasi-Weri (Ishtivi)"
     ],
-    "cc": [
-        "AF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Prasuni",
+    "gwcode": "ps",
+    "ln": "V\u00e2s\u2019i-vari"
 }

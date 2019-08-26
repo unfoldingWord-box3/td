@@ -1,11 +1,14 @@
 {
-    "pk": 1448,
-    "lc": "dbj",
+    "gw": false,
     "ISO-639-3": "dbj",
-    "ln": "Ida'an",
-    "ang": "Ida\u2019an",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 1448,
     "lr": "Asia",
+    "lc": "dbj",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "Bulud Upi",
         "Eraans",
@@ -17,10 +20,7 @@
         "Subpan (Sungai)",
         "Begak (Bagahak)"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Ida\u2019an",
+    "gwcode": "ms",
+    "ln": "Ida'an"
 }

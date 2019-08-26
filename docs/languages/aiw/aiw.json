@@ -1,11 +1,14 @@
 {
-    "pk": 179,
-    "lc": "aiw",
+    "gw": false,
     "ISO-639-3": "aiw",
-    "ln": "Aari",
-    "ang": "Aari",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 179,
     "lr": "Africa",
+    "lc": "aiw",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Aarai",
         "Ara",
@@ -18,10 +21,7 @@
         "Biyo (Bio)",
         "Wubahamer (Ubamer)"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Aari",
+    "gwcode": "am",
+    "ln": "Aari"
 }

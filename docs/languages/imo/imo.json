@@ -1,11 +1,14 @@
 {
-    "pk": 2483,
-    "lc": "imo",
+    "gw": false,
     "ISO-639-3": "imo",
-    "ln": "Imbongu",
-    "ang": "Imbongu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2483,
     "lr": "Pacific",
+    "lc": "imo",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Au",
         "Aua",
@@ -16,10 +19,7 @@
         "Imbonggo",
         "Awa (Au)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Imbongu",
+    "gwcode": "tpi",
+    "ln": "Imbongu"
 }

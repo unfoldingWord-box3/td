@@ -1,21 +1,21 @@
 {
-    "pk": 3308,
-    "lc": "kyz",
+    "gw": false,
     "ISO-639-3": "kyz",
-    "ln": "Kayab\u00ed",
-    "ang": "Kayab\u00ed",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 3308,
     "lr": "Americas",
+    "lc": "kyz",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Caiabi",
         "Kajab\u00ed",
         "Maquiri",
         "Parua"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Kayab\u00ed",
+    "gwcode": "pt",
+    "ln": "Kayab\u00ed"
 }

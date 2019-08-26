@@ -1,21 +1,21 @@
 {
-    "pk": 3853,
-    "lc": "mi",
+    "gw": false,
     "ISO-639-3": "mri",
-    "ln": "te reo M\u0101ori",
-    "ang": "M\u0101ori",
     "hc": "NZ",
+    "ld": "ltr",
+    "pk": 3853,
     "lr": "Pacific",
-    "alt": [
-        "New Zealand Maori"
-    ],
+    "lc": "mi",
     "cc": [
         "NZ",
         "TO",
         "US",
         "AU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "New Zealand Maori"
+    ],
+    "ang": "M\u0101ori",
+    "gwcode": "en",
+    "ln": "te reo M\u0101ori"
 }

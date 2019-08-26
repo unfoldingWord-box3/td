@@ -1,20 +1,20 @@
 {
-    "pk": 5594,
-    "lc": "shc",
+    "gw": false,
     "ISO-639-3": "shc",
-    "ln": "Sonde",
-    "ang": "Sonde",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5594,
     "lr": "Africa",
+    "lc": "shc",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kisonde",
         "Kisoonde",
         "Soonde"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Sonde",
+    "gwcode": "fr",
+    "ln": "Sonde"
 }

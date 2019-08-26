@@ -1,18 +1,18 @@
 {
-    "pk": 1711,
-    "lc": "eiv",
+    "gw": false,
     "ISO-639-3": "eiv",
-    "ln": "Askopan",
-    "ang": "Askopan",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1711,
     "lr": "Pacific",
-    "alt": [
-        "Eivo 1"
-    ],
+    "lc": "eiv",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Eivo 1"
+    ],
+    "ang": "Askopan",
+    "gwcode": "tpi",
+    "ln": "Askopan"
 }

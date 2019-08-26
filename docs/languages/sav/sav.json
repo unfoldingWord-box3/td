@@ -1,11 +1,14 @@
 {
-    "pk": 5474,
-    "lc": "sav",
+    "gw": false,
     "ISO-639-3": "sav",
-    "ln": "Saafi-Saafi",
-    "ang": "Saafi-Saafi",
     "hc": "SN",
+    "ld": "ltr",
+    "pk": 5474,
     "lr": "Africa",
+    "lc": "sav",
+    "cc": [
+        "SN"
+    ],
     "alt": [
         "Saafi",
         "Safen",
@@ -19,10 +22,7 @@
         "Hasab",
         "Sebikotane"
     ],
-    "cc": [
-        "SN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Saafi-Saafi",
+    "gwcode": "fr",
+    "ln": "Saafi-Saafi"
 }

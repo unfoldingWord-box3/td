@@ -1,19 +1,19 @@
 {
-    "pk": 6622,
-    "lc": "vko",
+    "gw": false,
     "ISO-639-3": "vko",
-    "ln": "Kodeoha",
-    "ang": "Kodeoha",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6622,
     "lr": "Asia",
+    "lc": "vko",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kondea",
         "Kondeha"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kodeoha",
+    "gwcode": "id",
+    "ln": "Kodeoha"
 }

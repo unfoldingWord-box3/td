@@ -1,16 +1,16 @@
 {
-    "pk": 4001,
-    "lc": "mod",
+    "gw": false,
     "ISO-639-3": "mod",
-    "ln": "Mobilian",
-    "ang": "Mobilian",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 4001,
     "lr": "Americas",
-    "alt": [],
+    "lc": "mod",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [],
+    "ang": "Mobilian",
+    "gwcode": "UNKNOWN",
+    "ln": "Mobilian"
 }

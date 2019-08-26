@@ -1,19 +1,19 @@
 {
-    "pk": 2956,
-    "lc": "kkx",
+    "gw": false,
     "ISO-639-3": "kkx",
-    "ln": "Kohin",
-    "ang": "Kohin",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2956,
     "lr": "Asia",
+    "lc": "kkx",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Bahasa Seruyan",
         "Seruyan"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kohin",
+    "gwcode": "id",
+    "ln": "Kohin"
 }

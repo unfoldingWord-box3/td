@@ -1,20 +1,20 @@
 {
-    "pk": 2951,
-    "lc": "kks",
+    "gw": false,
     "ISO-639-3": "kks",
-    "ln": "Giiwo",
-    "ang": "Giiwo",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2951,
     "lr": "Africa",
+    "lc": "kks",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bu Giiwo",
         "Kirfi",
         "Kirifawa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Giiwo",
+    "gwcode": "en",
+    "ln": "Giiwo"
 }

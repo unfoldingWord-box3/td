@@ -1,21 +1,21 @@
 {
-    "pk": 3557,
-    "lc": "loi",
+    "gw": false,
     "ISO-639-3": "loi",
-    "ln": "Loma (C\u00f4te d'Ivoire)",
-    "ang": "Loma",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 3557,
     "lr": "Africa",
+    "lc": "loi",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Lomakka",
         "Lomapo",
         "Lomasse",
         "Malinke"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Loma",
+    "gwcode": "fr",
+    "ln": "Loma (C\u00f4te d'Ivoire)"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 6574,
-    "lc": "uvl",
+    "gw": false,
     "ISO-639-3": "uvl",
-    "ln": "Lote",
-    "ang": "Lote",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6574,
     "lr": "Pacific",
-    "alt": [
-        "Uvol"
-    ],
+    "lc": "uvl",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Uvol"
+    ],
+    "ang": "Lote",
+    "gwcode": "tpi",
+    "ln": "Lote"
 }

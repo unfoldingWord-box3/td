@@ -1,19 +1,19 @@
 {
-    "pk": 3507,
-    "lc": "llo",
+    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "ln": "Khlor",
-    "ang": "Khlor",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 3507,
     "lr": "Asia",
+    "lc": "llo",
+    "cc": [
+        "LA"
+    ],
     "alt": [
         "Klor",
         "Lor"
     ],
-    "cc": [
-        "LA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "Khlor",
+    "gwcode": "lo",
+    "ln": "Khlor"
 }

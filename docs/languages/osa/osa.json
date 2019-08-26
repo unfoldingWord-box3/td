@@ -1,18 +1,18 @@
 {
-    "pk": 4880,
-    "lc": "osa",
+    "gw": false,
     "ISO-639-3": "osa",
-    "ln": "Osage",
-    "ang": "Osage",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 4880,
     "lr": "Americas",
-    "alt": [
-        "Wazhazhe"
-    ],
+    "lc": "osa",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Wazhazhe"
+    ],
+    "ang": "Osage",
+    "gwcode": "en",
+    "ln": "Osage"
 }

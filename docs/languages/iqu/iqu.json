@@ -1,11 +1,14 @@
 {
-    "pk": 2505,
-    "lc": "iqu",
+    "gw": false,
     "ISO-639-3": "iqu",
-    "ln": "Iquito",
-    "ang": "Iquito",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 2505,
     "lr": "Americas",
+    "lc": "iqu",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Amacacore",
         "Hamacore",
@@ -15,10 +18,7 @@
         "Quiturran",
         "Pintuyacu"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Iquito",
+    "gwcode": "es-419",
+    "ln": "Iquito"
 }

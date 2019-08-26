@@ -1,19 +1,19 @@
 {
-    "pk": 7338,
-    "lc": "zah",
+    "gw": false,
     "ISO-639-3": "zah",
-    "ln": "Zangwal",
-    "ang": "Zangwal",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 7338,
     "lr": "Africa",
+    "lc": "zah",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Twar",
         "Zwangal"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Zangwal",
+    "gwcode": "en",
+    "ln": "Zangwal"
 }

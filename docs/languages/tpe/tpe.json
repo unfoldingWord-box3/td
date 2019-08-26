@@ -1,11 +1,14 @@
 {
-    "pk": 6267,
-    "lc": "tpe",
+    "gw": false,
     "ISO-639-3": "tpe",
-    "ln": "Tippera",
-    "ang": "Tippera",
     "hc": "BD",
+    "ld": "ltr",
+    "pk": 6267,
     "lr": "Asia",
+    "lc": "tpe",
+    "cc": [
+        "BD"
+    ],
     "alt": [
         "Kok Borok",
         "Tipperah",
@@ -24,10 +27,7 @@
         "Kema",
         "Tongpai"
     ],
-    "cc": [
-        "BD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "ang": "Tippera",
+    "gwcode": "bn",
+    "ln": "Tippera"
 }

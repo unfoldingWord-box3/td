@@ -1,20 +1,20 @@
 {
-    "pk": 4341,
-    "lc": "nck",
+    "gw": false,
     "ISO-639-3": "nck",
-    "ln": "Nakara",
-    "ang": "Nakara",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4341,
     "lr": "Pacific",
+    "lc": "nck",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Kokori",
         "Nagara",
         "Nakkara"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nakara",
+    "gwcode": "en",
+    "ln": "Nakara"
 }

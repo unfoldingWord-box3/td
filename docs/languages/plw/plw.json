@@ -1,11 +1,14 @@
 {
-    "pk": 5080,
-    "lc": "plw",
+    "gw": false,
     "ISO-639-3": "plw",
-    "ln": "Brooke's Point Palawano",
-    "ang": "Palawano, Brooke\u2019s Point",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5080,
     "lr": "Asia",
+    "lc": "plw",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Brooke's Point Palawan",
         "Palawan",
@@ -13,10 +16,7 @@
         "Palawe\u00f1o",
         "South Palawano (Bugsuk Palawano)"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Palawano, Brooke\u2019s Point",
+    "gwcode": "en",
+    "ln": "Brooke's Point Palawano"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 3579,
-    "lc": "lra",
+    "gw": false,
     "ISO-639-3": "lra",
-    "ln": "Rara Bakati'",
-    "ang": "Bakati\u2019, Rara",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 3579,
     "lr": "Asia",
+    "lc": "lra",
+    "cc": [
+        "ID",
+        "MY"
+    ],
     "alt": [
         "Bekati' Kendayan",
         "Bekati' Nyam-Pelayo",
@@ -14,11 +18,7 @@
         "Luru",
         "Bina'e"
     ],
-    "cc": [
-        "ID",
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Bakati\u2019, Rara",
+    "gwcode": "ms",
+    "ln": "Rara Bakati'"
 }

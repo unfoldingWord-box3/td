@@ -1,19 +1,19 @@
 {
-    "pk": 6128,
-    "lc": "tii",
+    "gw": false,
     "ISO-639-3": "tii",
-    "ln": "Tiene",
-    "ang": "Tiene",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 6128,
     "lr": "Africa",
+    "lc": "tii",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kitiini",
         "Tende"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Tiene",
+    "gwcode": "fr",
+    "ln": "Tiene"
 }

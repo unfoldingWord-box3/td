@@ -1,20 +1,20 @@
 {
-    "pk": 5574,
-    "lc": "sgc",
+    "gw": false,
     "ISO-639-3": "sgc",
-    "ln": "Kipsigis",
-    "ang": "Kipsigis",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 5574,
     "lr": "Africa",
+    "lc": "sgc",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Kipsiikis",
         "Kipsikiis",
         "Kipsikis"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Kipsigis",
+    "gwcode": "sw",
+    "ln": "Kipsigis"
 }

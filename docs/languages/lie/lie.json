@@ -1,19 +1,19 @@
 {
-    "pk": 3458,
-    "lc": "lie",
+    "gw": false,
     "ISO-639-3": "lie",
-    "ln": "Likila",
-    "ang": "Likila",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3458,
     "lr": "Africa",
+    "lc": "lie",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Balobo",
         "Bangela"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Likila",
+    "gwcode": "fr",
+    "ln": "Likila"
 }

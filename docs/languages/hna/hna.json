@@ -1,18 +1,18 @@
 {
-    "pk": 2314,
-    "lc": "hna",
+    "gw": false,
     "ISO-639-3": "hna",
-    "ln": "Mina (Cameroon)",
-    "ang": "Mina",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 2314,
     "lr": "Africa",
-    "alt": [
-        "Jingjing (Dzumdzum)"
-    ],
+    "lc": "hna",
     "cc": [
         "CM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Jingjing (Dzumdzum)"
+    ],
+    "ang": "Mina",
+    "gwcode": "fr",
+    "ln": "Mina (Cameroon)"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 2479,
-    "lc": "ima",
+    "gw": false,
     "ISO-639-3": "ima",
-    "ln": "Mala Malasar",
-    "ang": "Mala Malasar",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2479,
     "lr": "Asia",
+    "lc": "ima",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Maha Malasar",
         "Malai Malasar",
         "Malasir"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ml"
+    "ang": "Mala Malasar",
+    "gwcode": "ml",
+    "ln": "Mala Malasar"
 }

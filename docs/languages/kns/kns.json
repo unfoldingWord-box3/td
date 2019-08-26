@@ -1,11 +1,15 @@
 {
-    "pk": 3031,
-    "lc": "kns",
+    "gw": false,
     "ISO-639-3": "kns",
-    "ln": "Kensiu",
-    "ang": "Kensiu",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 3031,
     "lr": "Asia",
+    "lc": "kns",
+    "cc": [
+        "MY",
+        "TH"
+    ],
     "alt": [
         "Kenseu",
         "Kensieu",
@@ -35,11 +39,7 @@
         "Ijoh (Ijok)",
         "Kensiu Siong (Siong)"
     ],
-    "cc": [
-        "MY",
-        "TH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Kensiu",
+    "gwcode": "ms",
+    "ln": "Kensiu"
 }

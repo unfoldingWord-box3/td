@@ -1,18 +1,18 @@
 {
-    "pk": 3180,
-    "lc": "kty",
+    "gw": false,
     "ISO-639-3": "kty",
-    "ln": "Kango (Bas-U\u00e9l\u00e9 District)",
-    "ang": "Kango",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3180,
     "lr": "Africa",
-    "alt": [
-        "Likango"
-    ],
+    "lc": "kty",
     "cc": [
         "CD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Likango"
+    ],
+    "ang": "Kango",
+    "gwcode": "fr",
+    "ln": "Kango (Bas-U\u00e9l\u00e9 District)"
 }

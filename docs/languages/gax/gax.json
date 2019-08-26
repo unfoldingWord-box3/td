@@ -1,11 +1,15 @@
 {
-    "pk": 1925,
-    "lc": "gax",
+    "gw": false,
     "ISO-639-3": "gax",
-    "ln": "Borana-Arsi-Guji Oromo",
-    "ang": "Oromo, Borana-Arsi-Guji",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 1925,
     "lr": "Africa",
+    "lc": "gax",
+    "cc": [
+        "ET",
+        "KE"
+    ],
     "alt": [
         "Afan Oromo",
         "Southern Oromo",
@@ -17,11 +21,7 @@
         "Oromo",
         "Borana (Booran)"
     ],
-    "cc": [
-        "ET",
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Oromo, Borana-Arsi-Guji",
+    "gwcode": "am",
+    "ln": "Borana-Arsi-Guji Oromo"
 }

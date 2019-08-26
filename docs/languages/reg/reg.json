@@ -1,19 +1,19 @@
 {
-    "pk": 5339,
-    "lc": "reg",
+    "gw": false,
     "ISO-639-3": "reg",
-    "ln": "Kara (Tanzania)",
-    "ang": "Kara",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 5339,
     "lr": "Africa",
+    "lc": "reg",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kikara",
         "Kiregi"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Kara",
+    "gwcode": "sw",
+    "ln": "Kara (Tanzania)"
 }

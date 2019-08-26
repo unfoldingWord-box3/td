@@ -1,18 +1,18 @@
 {
-    "pk": 5191,
-    "lc": "psr",
+    "gw": false,
     "ISO-639-3": "psr",
-    "ln": "Portuguese Sign Language",
-    "ang": "Portuguese Sign Language",
     "hc": "PT",
+    "ld": "ltr",
+    "pk": 5191,
     "lr": "Europe",
-    "alt": [
-        "Lingua Gestual Portuguesa"
-    ],
+    "lc": "psr",
     "cc": [
         "PT"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "alt": [
+        "Lingua Gestual Portuguesa"
+    ],
+    "ang": "Portuguese Sign Language",
+    "gwcode": "pt",
+    "ln": "Portuguese Sign Language"
 }

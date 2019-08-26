@@ -1,21 +1,11 @@
 {
-    "pk": 1717,
-    "lc": "ekk",
+    "gw": false,
     "ISO-639-3": "ekk",
-    "ln": "Standard Estonian",
-    "ang": "Estonian, Standard",
     "hc": "EE",
+    "ld": "ltr",
+    "pk": 1717,
     "lr": "Europe",
-    "alt": [
-        "Eesti",
-        "Tartu (Dorpat)",
-        "Tallinn (Reval)",
-        "Tallinn (Northern Estonian)",
-        "Southern Estonian",
-        "Reval",
-        "Muly (Mulgi)",
-        "Tatu"
-    ],
+    "lc": "ekk",
     "cc": [
         "EE",
         "KZ",
@@ -26,7 +16,17 @@
         "CA",
         "UZ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Eesti",
+        "Tartu (Dorpat)",
+        "Tallinn (Reval)",
+        "Tallinn (Northern Estonian)",
+        "Southern Estonian",
+        "Reval",
+        "Muly (Mulgi)",
+        "Tatu"
+    ],
+    "ang": "Estonian, Standard",
+    "gwcode": "en",
+    "ln": "Standard Estonian"
 }

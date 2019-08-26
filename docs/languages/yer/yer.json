@@ -1,11 +1,14 @@
 {
-    "pk": 7163,
-    "lc": "yer",
+    "gw": false,
     "ISO-639-3": "yer",
-    "ln": "Tarok",
-    "ang": "Tarok",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 7163,
     "lr": "Africa",
+    "lc": "yer",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Appa",
         "Yergam",
@@ -13,10 +16,7 @@
         "Itarok (Plain Tarok)",
         "Izini (Hill Tarok)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tarok",
+    "gwcode": "en",
+    "ln": "Tarok"
 }

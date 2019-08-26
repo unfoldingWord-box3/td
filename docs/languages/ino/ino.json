@@ -1,18 +1,18 @@
 {
-    "pk": 2494,
-    "lc": "ino",
+    "gw": false,
     "ISO-639-3": "ino",
-    "ln": "Inoke-Yate",
-    "ang": "Inoke-Yate",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2494,
     "lr": "Pacific",
-    "alt": [
-        "Yate"
-    ],
+    "lc": "ino",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Yate"
+    ],
+    "ang": "Inoke-Yate",
+    "gwcode": "tpi",
+    "ln": "Inoke-Yate"
 }

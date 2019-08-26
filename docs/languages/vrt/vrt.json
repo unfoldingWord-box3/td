@@ -1,19 +1,19 @@
 {
-    "pk": 6654,
-    "lc": "vrt",
+    "gw": false,
     "ISO-639-3": "vrt",
-    "ln": "Burmbar",
-    "ang": "Banam Bay",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 6654,
     "lr": "Pacific",
+    "lc": "vrt",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Banan Bay",
         "Vartavo"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Banam Bay",
+    "gwcode": "fr",
+    "ln": "Burmbar"
 }

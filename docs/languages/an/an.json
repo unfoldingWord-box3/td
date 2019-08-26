@@ -1,11 +1,14 @@
 {
-    "pk": 258,
-    "lc": "an",
+    "gw": false,
     "ISO-639-3": "arg",
-    "ln": "aragon\u00e9s",
-    "ang": "Aragonese",
     "hc": "ES",
+    "ld": "ltr",
+    "pk": 258,
     "lr": "Europe",
+    "lc": "an",
+    "cc": [
+        "ES"
+    ],
     "alt": [
         "Altoaragon\u00e9s",
         "Aragoieraz",
@@ -26,10 +29,7 @@
         "Bergot\u00e9s",
         "Fobano"
     ],
-    "cc": [
-        "ES"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es"
+    "ang": "Aragonese",
+    "gwcode": "es",
+    "ln": "aragon\u00e9s"
 }

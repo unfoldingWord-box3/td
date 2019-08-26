@@ -1,20 +1,20 @@
 {
-    "pk": 4503,
-    "lc": "nkj",
+    "gw": false,
     "ISO-639-3": "nkj",
-    "ln": "Nakai",
-    "ang": "Nakai",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4503,
     "lr": "Asia",
+    "lc": "nkj",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Na'ai",
         "Nagai",
         "Na'i"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Nakai",
+    "gwcode": "id",
+    "ln": "Nakai"
 }

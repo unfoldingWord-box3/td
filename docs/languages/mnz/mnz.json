@@ -1,21 +1,21 @@
 {
-    "pk": 3998,
-    "lc": "mnz",
+    "gw": false,
     "ISO-639-3": "mnz",
-    "ln": "Moni",
-    "ang": "Moni",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3998,
     "lr": "Asia",
+    "lc": "mnz",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Djonggunu",
         "Jonggunu",
         "Migani",
         "Awembak (Awembiak)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Moni",
+    "gwcode": "id",
+    "ln": "Moni"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 5941,
-    "lc": "syi",
+    "gw": false,
     "ISO-639-3": "syi",
-    "ln": "Seki",
-    "ang": "Seki",
     "hc": "GA",
+    "ld": "ltr",
+    "pk": 5941,
     "lr": "Africa",
+    "lc": "syi",
+    "cc": [
+        "GQ",
+        "GA"
+    ],
     "alt": [
         "Seke",
         "Sekiana",
@@ -16,11 +20,7 @@
         "Sheke",
         "Shekiyana"
     ],
-    "cc": [
-        "GQ",
-        "GA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Seki",
+    "gwcode": "fr",
+    "ln": "Seki"
 }

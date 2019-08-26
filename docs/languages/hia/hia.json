@@ -1,22 +1,22 @@
 {
-    "pk": 2265,
-    "lc": "hia",
+    "gw": false,
     "ISO-639-3": "hia",
-    "ln": "Lamang",
-    "ang": "Lamang",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2265,
     "lr": "Africa",
+    "lc": "hia",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Gbuhwe",
         "Laamang",
         "Waha",
         "Central Laamang"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lamang",
+    "gwcode": "en",
+    "ln": "Lamang"
 }

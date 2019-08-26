@@ -1,21 +1,21 @@
 {
-    "pk": 260,
-    "lc": "anc",
+    "gw": false,
     "ISO-639-3": "anc",
-    "ln": "Ngas",
-    "ang": "Ngas",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 260,
     "lr": "Africa",
+    "lc": "anc",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Angas",
         "Karang",
         "Kerang",
         "Hill Angas"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ngas",
+    "gwcode": "en",
+    "ln": "Ngas"
 }

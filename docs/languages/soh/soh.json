@@ -1,20 +1,20 @@
 {
-    "pk": 5756,
-    "lc": "soh",
+    "gw": false,
     "ISO-639-3": "soh",
-    "ln": "Aka",
-    "ang": "Aka",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 5756,
     "lr": "Africa",
+    "lc": "soh",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Jebel Silak",
         "Jebels Sillok",
         "Sillok"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Aka",
+    "gwcode": "ar",
+    "ln": "Aka"
 }

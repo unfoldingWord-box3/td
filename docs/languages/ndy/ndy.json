@@ -1,11 +1,15 @@
 {
-    "pk": 4376,
-    "lc": "ndy",
+    "gw": false,
     "ISO-639-3": "ndy",
-    "ln": "Lutos",
-    "ang": "Lutos",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 4376,
     "lr": "Africa",
+    "lc": "ndy",
+    "cc": [
+        "CF",
+        "TD"
+    ],
     "alt": [
         "Ndoukwa",
         "Wada (Wad)",
@@ -17,11 +21,7 @@
         "Luto",
         "Nduka (Ndouka)"
     ],
-    "cc": [
-        "CF",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Lutos",
+    "gwcode": "fr",
+    "ln": "Lutos"
 }

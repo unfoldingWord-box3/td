@@ -1,21 +1,21 @@
 {
-    "pk": 4152,
-    "lc": "muh",
+    "gw": false,
     "ISO-639-3": "muh",
-    "ln": "M\u00fcnd\u00fc",
-    "ang": "M\u00fcnd\u00fc",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 4152,
     "lr": "Africa",
+    "lc": "muh",
+    "cc": [
+        "SS"
+    ],
     "alt": [
         "Mondo",
         "Mountou",
         "Mundo",
         "Mondu"
     ],
-    "cc": [
-        "SS"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "M\u00fcnd\u00fc",
+    "gwcode": "ar",
+    "ln": "M\u00fcnd\u00fc"
 }

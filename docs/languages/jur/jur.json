@@ -1,21 +1,21 @@
 {
-    "pk": 2680,
-    "lc": "jur",
+    "gw": false,
     "ISO-639-3": "jur",
-    "ln": "Jur\u00fana",
-    "ang": "Jur\u00fana",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2680,
     "lr": "Americas",
+    "lc": "jur",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Iuruna",
         "Jaruna",
         "Yudya",
         "Yur\u00fana"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Jur\u00fana",
+    "gwcode": "pt",
+    "ln": "Jur\u00fana"
 }

@@ -1,23 +1,11 @@
 {
-    "pk": 5405,
-    "lc": "ro",
+    "gw": false,
     "ISO-639-3": "ron",
-    "ln": "limba rom\u00e2n\u0103",
-    "ang": "Romanian",
     "hc": "RO",
+    "ld": "ltr",
+    "pk": 5405,
     "lr": "Europe",
-    "alt": [
-        "Daco-Romanian",
-        "Rumanian",
-        "Moldavan",
-        "Roumanian",
-        "Daco-Rumanian",
-        "Muntenian (Muntean)",
-        "Muntenian (Walachian)",
-        "Oltenia-Lesser Wallachia (Oltean)",
-        "Walachian",
-        "Boyash Romanian"
-    ],
+    "lc": "ro",
     "cc": [
         "AZ",
         "BE",
@@ -39,7 +27,19 @@
         "UZ",
         "IE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Daco-Romanian",
+        "Rumanian",
+        "Moldavan",
+        "Roumanian",
+        "Daco-Rumanian",
+        "Muntenian (Muntean)",
+        "Muntenian (Walachian)",
+        "Oltenia-Lesser Wallachia (Oltean)",
+        "Walachian",
+        "Boyash Romanian"
+    ],
+    "ang": "Romanian",
+    "gwcode": "en",
+    "ln": "limba rom\u00e2n\u0103"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 4599,
-    "lc": "nou",
+    "gw": false,
     "ISO-639-3": "nou",
-    "ln": "Ewage-Notu",
-    "ang": "Ewage-Notu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4599,
     "lr": "Pacific",
+    "lc": "nou",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Okeina",
         "Okena",
         "Yega (Gona)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Ewage-Notu",
+    "gwcode": "tpi",
+    "ln": "Ewage-Notu"
 }

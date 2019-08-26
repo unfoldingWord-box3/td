@@ -1,20 +1,20 @@
 {
-    "pk": 2749,
-    "lc": "kcn",
+    "gw": false,
     "ISO-639-3": "kcn",
-    "ln": "Nubi",
-    "ang": "Nubi",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 2749,
     "lr": "Africa",
-    "alt": [
-        "Kinubi",
-        "Ki-Nubi"
-    ],
+    "lc": "kcn",
     "cc": [
         "KE",
         "UG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Kinubi",
+        "Ki-Nubi"
+    ],
+    "ang": "Nubi",
+    "gwcode": "en",
+    "ln": "Nubi"
 }

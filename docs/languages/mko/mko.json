@@ -1,20 +1,20 @@
 {
-    "pk": 3914,
-    "lc": "mko",
+    "gw": false,
     "ISO-639-3": "mko",
-    "ln": "Mingang Doso",
-    "ang": "Mingang Doso",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3914,
     "lr": "Africa",
+    "lc": "mko",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Doso",
         "Munga Doso",
         "Ngwai Mung\u00e0n"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mingang Doso",
+    "gwcode": "en",
+    "ln": "Mingang Doso"
 }

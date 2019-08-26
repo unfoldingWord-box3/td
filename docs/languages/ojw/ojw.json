@@ -1,21 +1,21 @@
 {
-    "pk": 4797,
-    "lc": "ojw",
+    "gw": false,
     "ISO-639-3": "ojw",
-    "ln": "Western Ojibwa",
-    "ang": "Ojibwa, Western",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 4797,
     "lr": "Americas",
+    "lc": "ojw",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Ojibway",
         "Ojibwe",
         "Plains Ojibway",
         "Saulteaux"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ojibwa, Western",
+    "gwcode": "en",
+    "ln": "Western Ojibwa"
 }

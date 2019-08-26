@@ -1,21 +1,21 @@
 {
-    "pk": 2739,
-    "lc": "kcd",
+    "gw": false,
     "ISO-639-3": "kcd",
-    "ln": "Ngk\u00e2lmpw Kanum",
-    "ang": "Kanum, Ngk\u00e2lmpw",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2739,
     "lr": "Asia",
+    "lc": "kcd",
+    "cc": [
+        "ID",
+        "PG"
+    ],
     "alt": [
         "Enkelembu",
         "Kenume",
         "Knwne"
     ],
-    "cc": [
-        "ID",
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kanum, Ngk\u00e2lmpw",
+    "gwcode": "id",
+    "ln": "Ngk\u00e2lmpw Kanum"
 }

@@ -1,22 +1,22 @@
 {
-    "pk": 687,
-    "lc": "bib",
+    "gw": false,
     "ISO-639-3": "bib",
-    "ln": "Bissa",
-    "ang": "Bisa",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 687,
     "lr": "Africa",
-    "alt": [
-        "Bissa",
-        "Baraka (Eastern Bisa)",
-        "Lebir (Western Bisa)"
-    ],
+    "lc": "bib",
     "cc": [
         "BF",
         "GH",
         "TG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Bissa",
+        "Baraka (Eastern Bisa)",
+        "Lebir (Western Bisa)"
+    ],
+    "ang": "Bisa",
+    "gwcode": "fr",
+    "ln": "Bissa"
 }

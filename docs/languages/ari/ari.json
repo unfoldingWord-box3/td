@@ -1,11 +1,14 @@
 {
-    "pk": 340,
-    "lc": "ari",
+    "gw": false,
     "ISO-639-3": "ari",
-    "ln": "Arikara",
-    "ang": "Arikara",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 340,
     "lr": "Americas",
+    "lc": "ari",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Arikaree",
         "Arikari",
@@ -13,10 +16,7 @@
         "Ree",
         "Ris"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Arikara",
+    "gwcode": "en",
+    "ln": "Arikara"
 }

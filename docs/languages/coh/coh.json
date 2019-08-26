@@ -1,20 +1,20 @@
 {
-    "pk": 1294,
-    "lc": "coh",
+    "gw": false,
     "ISO-639-3": "coh",
-    "ln": "Chonyi-Dzihana-Kauma",
-    "ang": "Chichonyi-Chidzihana-Chikauma",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 1294,
     "lr": "Africa",
+    "lc": "coh",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Kichonyi",
         "Chonyi (Chichonyi)",
         "Jibana (Chidzihana)"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Chichonyi-Chidzihana-Chikauma",
+    "gwcode": "sw",
+    "ln": "Chonyi-Dzihana-Kauma"
 }

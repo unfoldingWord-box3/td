@@ -1,11 +1,14 @@
 {
-    "pk": 990,
-    "lc": "buw",
+    "gw": false,
     "ISO-639-3": "buw",
-    "ln": "Bubi",
-    "ang": "Bubi",
     "hc": "GA",
+    "ld": "ltr",
+    "pk": 990,
     "lr": "Africa",
+    "lc": "buw",
+    "cc": [
+        "GA"
+    ],
     "alt": [
         "Bhubhi",
         "Eviia",
@@ -13,10 +16,7 @@
         "Ibubi",
         "Pove"
     ],
-    "cc": [
-        "GA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bubi",
+    "gwcode": "fr",
+    "ln": "Bubi"
 }

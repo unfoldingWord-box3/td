@@ -1,11 +1,14 @@
 {
-    "pk": 630,
-    "lc": "bfw",
+    "gw": false,
     "ISO-639-3": "bfw",
-    "ln": "Bondo",
-    "ang": "Bondo",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 630,
     "lr": "Asia",
+    "lc": "bfw",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Bhonda Bhasha",
         "Bondo-Poraja",
@@ -14,10 +17,7 @@
         "Remo",
         "Remosum"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "or"
+    "ang": "Bondo",
+    "gwcode": "or",
+    "ln": "Bondo"
 }

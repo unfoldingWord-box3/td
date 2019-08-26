@@ -1,11 +1,14 @@
 {
-    "pk": 2937,
-    "lc": "kke",
+    "gw": false,
     "ISO-639-3": "kke",
-    "ln": "Kakabe",
-    "ang": "Kakabe",
     "hc": "GN",
+    "ld": "ltr",
+    "pk": 2937,
     "lr": "Africa",
+    "lc": "kke",
+    "cc": [
+        "GN"
+    ],
     "alt": [
         "Fulajon Kan",
         "Fulajonkan",
@@ -16,10 +19,7 @@
         "Sokotoro Kakabe",
         "Wure-Maninka"
     ],
-    "cc": [
-        "GN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kakabe",
+    "gwcode": "fr",
+    "ln": "Kakabe"
 }

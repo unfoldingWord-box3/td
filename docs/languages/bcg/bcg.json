@@ -1,21 +1,21 @@
 {
-    "pk": 540,
-    "lc": "bcg",
+    "gw": false,
     "ISO-639-3": "bcg",
-    "ln": "Baga Pokur",
-    "ang": "Baga Pokur",
     "hc": "GN",
+    "ld": "ltr",
+    "pk": 540,
     "lr": "Africa",
+    "lc": "bcg",
+    "cc": [
+        "GN"
+    ],
     "alt": [
         "Baka",
         "Binari",
         "Kalum",
         "Mborin"
     ],
-    "cc": [
-        "GN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Baga Pokur",
+    "gwcode": "fr",
+    "ln": "Baga Pokur"
 }

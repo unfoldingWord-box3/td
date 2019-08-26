@@ -1,19 +1,19 @@
 {
-    "pk": 5958,
-    "lc": "szn",
+    "gw": false,
     "ISO-639-3": "szn",
-    "ln": "Sula",
-    "ang": "Sula",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5958,
     "lr": "Asia",
+    "lc": "szn",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Sanana",
         "Facei (Fac\u00e9)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Sula",
+    "gwcode": "id",
+    "ln": "Sula"
 }

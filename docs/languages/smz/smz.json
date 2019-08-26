@@ -1,20 +1,20 @@
 {
-    "pk": 5725,
-    "lc": "smz",
+    "gw": false,
     "ISO-639-3": "smz",
-    "ln": "Simeku",
-    "ang": "Simeku",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5725,
     "lr": "Pacific",
+    "lc": "smz",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Koopei (Kopei)",
         "Korpei",
         "Mainoki (Mainoke)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Simeku",
+    "gwcode": "tpi",
+    "ln": "Simeku"
 }

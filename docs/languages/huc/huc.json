@@ -1,11 +1,14 @@
 {
-    "pk": 2367,
-    "lc": "huc",
+    "gw": false,
     "ISO-639-3": "huc",
-    "ln": "\u01c2Hua",
-    "ang": "\u2021Hua",
     "hc": "BW",
+    "ld": "ltr",
+    "pk": 2367,
     "lr": "Africa",
+    "lc": "huc",
+    "cc": [
+        "BW"
+    ],
     "alt": [
         "|H\u00fb",
         "|Hua",
@@ -15,10 +18,7 @@
         "\u2021Hua-Owani",
         "\u2021Hua"
     ],
-    "cc": [
-        "BW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "\u2021Hua",
+    "gwcode": "en",
+    "ln": "\u01c2Hua"
 }

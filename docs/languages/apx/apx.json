@@ -1,21 +1,21 @@
 {
-    "pk": 322,
-    "lc": "apx",
+    "gw": false,
     "ISO-639-3": "apx",
-    "ln": "Aputai",
-    "ang": "Aputai",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 322,
     "lr": "Asia",
+    "lc": "apx",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Ilputih",
         "Opotai",
         "Tutunohan",
         "Lurang"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Aputai",
+    "gwcode": "id",
+    "ln": "Aputai"
 }

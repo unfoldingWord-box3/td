@@ -1,11 +1,14 @@
 {
-    "pk": 7498,
-    "lc": "zyn",
+    "gw": false,
     "ISO-639-3": "zyn",
-    "ln": "\u9095\u5357",
-    "ang": "Zhuang, Yongnan",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7498,
     "lr": "Asia",
+    "lc": "zyn",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Bou Rau",
         "Long An",
@@ -16,10 +19,7 @@
         "Zhuangyu nanbu fangyan Yongnan tuyu",
         "The Yongnan Vernacular of the Southern Dialect of the Zhuang Language"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Zhuang, Yongnan",
+    "gwcode": "zh",
+    "ln": "\u9095\u5357"
 }

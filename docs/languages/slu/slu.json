@@ -1,18 +1,18 @@
 {
-    "pk": 5697,
-    "lc": "slu",
+    "gw": false,
     "ISO-639-3": "slu",
-    "ln": "Selaru",
-    "ang": "Selaru",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5697,
     "lr": "Asia",
-    "alt": [
-        "Salaru"
-    ],
+    "lc": "slu",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Salaru"
+    ],
+    "ang": "Selaru",
+    "gwcode": "id",
+    "ln": "Selaru"
 }

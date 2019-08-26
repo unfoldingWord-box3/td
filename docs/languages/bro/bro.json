@@ -1,19 +1,19 @@
 {
-    "pk": 911,
-    "lc": "bro",
+    "gw": false,
     "ISO-639-3": "bro",
-    "ln": "Brokkat",
-    "ang": "Brokkat",
     "hc": "BT",
+    "ld": "ltr",
+    "pk": 911,
     "lr": "Asia",
+    "lc": "bro",
+    "cc": [
+        "BT"
+    ],
     "alt": [
         "Brokskad",
         "Jokay"
     ],
-    "cc": [
-        "BT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "dz"
+    "ang": "Brokkat",
+    "gwcode": "UNKNOWN",
+    "ln": "Brokkat"
 }

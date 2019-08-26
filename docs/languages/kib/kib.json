@@ -1,11 +1,14 @@
 {
-    "pk": 2884,
-    "lc": "kib",
+    "gw": false,
     "ISO-639-3": "kib",
-    "ln": "Koalib",
-    "ang": "Koalib",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 2884,
     "lr": "Africa",
+    "lc": "kib",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Abri",
         "Kawalib",
@@ -15,10 +18,7 @@
         "Rere",
         "Nginyukwur"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Koalib",
+    "gwcode": "ar",
+    "ln": "Koalib"
 }

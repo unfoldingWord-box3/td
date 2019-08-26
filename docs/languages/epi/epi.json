@@ -1,19 +1,19 @@
 {
-    "pk": 1766,
-    "lc": "epi",
+    "gw": false,
     "ISO-639-3": "epi",
-    "ln": "Epie",
-    "ang": "Epie",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1766,
     "lr": "Africa",
+    "lc": "epi",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Epie-Atissa",
         "Atisa (Atissa)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Epie",
+    "gwcode": "en",
+    "ln": "Epie"
 }

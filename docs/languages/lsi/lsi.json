@@ -1,11 +1,15 @@
 {
-    "pk": 3598,
-    "lc": "lsi",
+    "gw": false,
     "ISO-639-3": "lsi",
-    "ln": "Lashi",
-    "ang": "Lashi",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 3598,
     "lr": "Asia",
+    "lc": "lsi",
+    "cc": [
+        "CN",
+        "MM"
+    ],
     "alt": [
         "Acye",
         "Chashanhua",
@@ -23,11 +27,7 @@
         "Lashi-Maru",
         "Lechi"
     ],
-    "cc": [
-        "CN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Lashi",
+    "gwcode": "my",
+    "ln": "Lashi"
 }

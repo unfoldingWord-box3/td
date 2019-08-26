@@ -1,11 +1,14 @@
 {
-    "pk": 1469,
-    "lc": "ddo",
+    "gw": false,
     "ISO-639-3": "ddo",
-    "ln": "\u0446\u0435\u0437\u0439\u0430\u0441 \u043c\u0435\u0446",
-    "ang": "Tsez",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 1469,
     "lr": "Europe",
+    "lc": "ddo",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Cez",
         "Didoi",
@@ -14,10 +17,7 @@
         "Tsuntin",
         "Sahada"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Tsez",
+    "gwcode": "ru",
+    "ln": "\u0446\u0435\u0437\u0439\u0430\u0441 \u043c\u0435\u0446"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 1030,
-    "lc": "bwn",
+    "gw": false,
     "ISO-639-3": "bwn",
-    "ln": "\u5514\u5948",
-    "ang": "Bunu, Wunai",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 1030,
     "lr": "Asia",
+    "lc": "bwn",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Hm Nai",
         "Ngnai",
         "Punu",
         "Wunai"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Bunu, Wunai",
+    "gwcode": "zh",
+    "ln": "\u5514\u5948"
 }

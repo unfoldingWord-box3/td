@@ -1,11 +1,14 @@
 {
-    "pk": 1557,
-    "lc": "dks",
+    "gw": false,
     "ISO-639-3": "dks",
-    "ln": "Southeastern Dinka",
-    "ang": "Dinka, Southeastern",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 1557,
     "lr": "Africa",
+    "lc": "dks",
+    "cc": [
+        "SS"
+    ],
     "alt": [
         "Eastern Dinka",
         "Tuic (Twi)",
@@ -17,10 +20,7 @@
         "Nyarueng",
         "Nyarweng (Narreweng)"
     ],
-    "cc": [
-        "SS"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Dinka, Southeastern",
+    "gwcode": "ar",
+    "ln": "Southeastern Dinka"
 }

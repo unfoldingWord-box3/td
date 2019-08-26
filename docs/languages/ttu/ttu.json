@@ -1,18 +1,18 @@
 {
-    "pk": 6368,
-    "lc": "ttu",
+    "gw": false,
     "ISO-639-3": "ttu",
-    "ln": "Torau",
-    "ang": "Torau",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6368,
     "lr": "Pacific",
-    "alt": [
-        "Rorovana"
-    ],
+    "lc": "ttu",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Rorovana"
+    ],
+    "ang": "Torau",
+    "gwcode": "tpi",
+    "ln": "Torau"
 }

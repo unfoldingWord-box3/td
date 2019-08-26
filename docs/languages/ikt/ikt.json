@@ -1,11 +1,14 @@
 {
-    "pk": 2465,
-    "lc": "ikt",
+    "gw": false,
     "ISO-639-3": "ikt",
-    "ln": "Inuinnaqtun",
-    "ang": "Inuinnaqtun",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 2465,
     "lr": "Americas",
+    "lc": "ikt",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Western Canadian Inuit",
         "Western Canadian Inuktitut",
@@ -14,10 +17,7 @@
         "Caribou Eskimo (Keewatin)",
         "Siglit (Siglitun)"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Inuinnaqtun",
+    "gwcode": "en",
+    "ln": "Inuinnaqtun"
 }

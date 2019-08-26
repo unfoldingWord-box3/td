@@ -1,11 +1,15 @@
 {
-    "pk": 3619,
-    "lc": "lue",
+    "gw": false,
     "ISO-639-3": "lue",
-    "ln": "Luvale",
-    "ang": "Luvale",
     "hc": "ZM",
+    "ld": "ltr",
+    "pk": 3619,
     "lr": "Africa",
+    "lc": "lue",
+    "cc": [
+        "ZM",
+        "AO"
+    ],
     "alt": [
         "Chiluvale",
         "Lovale",
@@ -13,11 +17,7 @@
         "Luena",
         "Lwena"
     ],
-    "cc": [
-        "ZM",
-        "AO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Luvale",
+    "gwcode": "en",
+    "ln": "Luvale"
 }

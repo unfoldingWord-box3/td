@@ -1,0 +1,22 @@
+.. _xwo:
+
+Written Oirat
+=============
+
+This language is spoken in the following countries:
+
+* MN: Mongolia
+
+.. code-block:: yaml
+
+    ISO_639-3: xwo
+    alternate_names: []
+    anglicanized_name: Written Oirat
+    country_codes:
+    - MN
+    gateway_language: UNKNOWN
+    lang_code: xwo
+    lang_direction: ltr
+    lang_name: Written Oirat
+    lang_region: Asia
+    

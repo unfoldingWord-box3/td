@@ -1,18 +1,18 @@
 {
-    "pk": 141,
-    "lc": "agu",
+    "gw": false,
     "ISO-639-3": "agu",
-    "ln": "Aguacateco",
-    "ang": "Awakateko",
     "hc": "GT",
+    "ld": "ltr",
+    "pk": 141,
     "lr": "Americas",
-    "alt": [
-        "Aguacatec"
-    ],
+    "lc": "agu",
     "cc": [
         "GT"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Aguacatec"
+    ],
+    "ang": "Awakateko",
+    "gwcode": "es-419",
+    "ln": "Aguacateco"
 }

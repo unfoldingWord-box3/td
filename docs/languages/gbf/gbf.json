@@ -1,18 +1,18 @@
 {
-    "pk": 1932,
-    "lc": "gbf",
+    "gw": false,
     "ISO-639-3": "gbf",
-    "ln": "Gaikundi",
-    "ang": "Gaikundi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1932,
     "lr": "Pacific",
-    "alt": [
-        "Gaikunti"
-    ],
+    "lc": "gbf",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Gaikunti"
+    ],
+    "ang": "Gaikundi",
+    "gwcode": "tpi",
+    "ln": "Gaikundi"
 }

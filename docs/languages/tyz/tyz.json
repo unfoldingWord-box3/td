@@ -1,11 +1,15 @@
 {
-    "pk": 6456,
-    "lc": "tyz",
+    "gw": false,
     "ISO-639-3": "tyz",
-    "ln": "Ti\u1ebfng T\u00e0y",
-    "ang": "T\u00e0y",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 6456,
     "lr": "Asia",
+    "lc": "tyz",
+    "cc": [
+        "US",
+        "VN"
+    ],
     "alt": [
         "Ngan",
         "Phen",
@@ -16,11 +20,7 @@
         "T\u00e0y Trung Khanh",
         "T\u00e0y Bao Lac"
     ],
-    "cc": [
-        "US",
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "T\u00e0y",
+    "gwcode": "vi",
+    "ln": "Ti\u1ebfng T\u00e0y"
 }

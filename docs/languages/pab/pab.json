@@ -1,11 +1,14 @@
 {
-    "pk": 4916,
-    "lc": "pab",
+    "gw": false,
     "ISO-639-3": "pab",
-    "ln": "Parec\u00eds",
-    "ang": "Parec\u00eds",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 4916,
     "lr": "Americas",
+    "lc": "pab",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Arit\u00ed",
         "Haliti",
@@ -13,10 +16,7 @@
         "Pares\u00ed",
         "Paress\u00ed"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Parec\u00eds",
+    "gwcode": "pt",
+    "ln": "Parec\u00eds"
 }

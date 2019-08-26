@@ -1,18 +1,18 @@
 {
-    "pk": 3677,
-    "lc": "maz",
+    "gw": false,
     "ISO-639-3": "maz",
-    "ln": "Central Mazahua",
-    "ang": "Mazahua, Central",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 3677,
     "lr": "Americas",
-    "alt": [
-        "Mazahua de oriente"
-    ],
+    "lc": "maz",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Mazahua de oriente"
+    ],
+    "ang": "Mazahua, Central",
+    "gwcode": "es-419",
+    "ln": "Central Mazahua"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 2917,
-    "lc": "kjk",
+    "gw": false,
     "ISO-639-3": "kjk",
-    "ln": "Highland Konjo",
-    "ang": "Konjo, Highland",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2917,
     "lr": "Asia",
+    "lc": "kjk",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Konjo Pegunungan",
         "Konyo"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Konjo, Highland",
+    "gwcode": "id",
+    "ln": "Highland Konjo"
 }

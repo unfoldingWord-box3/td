@@ -1,21 +1,21 @@
 {
-    "pk": 2115,
-    "lc": "gpe",
+    "gw": false,
     "ISO-639-3": "gpe",
-    "ln": "Ghanaian Pidgin English",
-    "ang": "Ghanaian Pidgin English",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 2115,
     "lr": "Africa",
+    "lc": "gpe",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Kroo Brofo",
         "Kru English",
         "Pidgin",
         "Pidgin English"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ghanaian Pidgin English",
+    "gwcode": "en",
+    "ln": "Ghanaian Pidgin English"
 }

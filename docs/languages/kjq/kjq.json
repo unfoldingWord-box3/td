@@ -1,20 +1,20 @@
 {
-    "pk": 2923,
-    "lc": "kjq",
+    "gw": false,
     "ISO-639-3": "kjq",
-    "ln": "Western Keres",
-    "ang": "Keres, Western",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 2923,
     "lr": "Americas",
+    "lc": "kjq",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Western Keres Pueblo",
         "Acoma",
         "Laguna"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Keres, Western",
+    "gwcode": "en",
+    "ln": "Western Keres"
 }

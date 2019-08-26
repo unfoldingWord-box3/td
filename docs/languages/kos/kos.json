@@ -1,21 +1,21 @@
 {
-    "pk": 3052,
-    "lc": "kos",
+    "gw": false,
     "ISO-639-3": "kos",
-    "ln": "Kosraean",
-    "ang": "Kosraean",
     "hc": "FM",
+    "ld": "ltr",
+    "pk": 3052,
     "lr": "Pacific",
-    "alt": [
-        "Kosrae",
-        "Kusaie"
-    ],
+    "lc": "kos",
     "cc": [
         "US",
         "NR",
         "FM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Kosrae",
+        "Kusaie"
+    ],
+    "ang": "Kosraean",
+    "gwcode": "en",
+    "ln": "Kosraean"
 }

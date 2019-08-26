@@ -1,19 +1,19 @@
 {
-    "pk": 295,
-    "lc": "aon",
+    "gw": false,
     "ISO-639-3": "aon",
-    "ln": "Bumbita Arapesh",
-    "ang": "Arapesh, Bumbita",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 295,
     "lr": "Pacific",
+    "lc": "aon",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Bambita Arapesh",
         "Weri"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Arapesh, Bumbita",
+    "gwcode": "tpi",
+    "ln": "Bumbita Arapesh"
 }

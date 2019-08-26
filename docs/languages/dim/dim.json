@@ -1,18 +1,18 @@
 {
-    "pk": 1530,
-    "lc": "dim",
+    "gw": false,
     "ISO-639-3": "dim",
-    "ln": "Dime",
-    "ang": "Dime",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 1530,
     "lr": "Africa",
-    "alt": [
-        "Dima"
-    ],
+    "lc": "dim",
     "cc": [
         "ET"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "alt": [
+        "Dima"
+    ],
+    "ang": "Dime",
+    "gwcode": "am",
+    "ln": "Dime"
 }

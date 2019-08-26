@@ -1,11 +1,14 @@
 {
-    "pk": 6861,
-    "lc": "xan",
+    "gw": false,
     "ISO-639-3": "xan",
-    "ln": "Xamtanga",
-    "ang": "Xamtanga",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 6861,
     "lr": "Africa",
+    "lc": "xan",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Agawinya",
         "Khamtanga",
@@ -13,10 +16,7 @@
         "Xamir",
         "Xamta"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Xamtanga",
+    "gwcode": "am",
+    "ln": "Xamtanga"
 }

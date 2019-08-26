@@ -1,21 +1,21 @@
 {
-    "pk": 3457,
-    "lc": "lid",
+    "gw": false,
     "ISO-639-3": "lid",
-    "ln": "Nyindrou",
-    "ang": "Nyindrou",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3457,
     "lr": "Pacific",
+    "lc": "lid",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Lindau",
         "Lindrou",
         "Nyada",
         "Salien"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Nyindrou",
+    "gwcode": "tpi",
+    "ln": "Nyindrou"
 }

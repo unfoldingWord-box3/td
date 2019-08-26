@@ -1,15 +1,11 @@
 {
-    "pk": 5681,
-    "lc": "sl",
+    "gw": false,
     "ISO-639-3": "slv",
-    "ln": "slovenski jezik, sloven\u0161\u010dina",
-    "ang": "Slovene",
     "hc": "SI",
+    "ld": "ltr",
+    "pk": 5681,
     "lr": "Europe",
-    "alt": [
-        "Windisch",
-        "Slovenscina"
-    ],
+    "lc": "sl",
     "cc": [
         "AT",
         "AR",
@@ -22,7 +18,11 @@
         "CA",
         "IT"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Windisch",
+        "Slovenscina"
+    ],
+    "ang": "Slovene",
+    "gwcode": "en",
+    "ln": "slovenski jezik, sloven\u0161\u010dina"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 7002,
-    "lc": "xod",
+    "gw": false,
     "ISO-639-3": "xod",
-    "ln": "Kokoda",
-    "ang": "Kokoda",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 7002,
     "lr": "Asia",
+    "lc": "xod",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Komudago",
         "Nebes",
@@ -14,10 +17,7 @@
         "Kasuweri (Komudago)",
         "Negri Besar (Negeri Besar)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kokoda",
+    "gwcode": "id",
+    "ln": "Kokoda"
 }

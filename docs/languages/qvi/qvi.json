@@ -1,18 +1,18 @@
 {
-    "pk": 5273,
-    "lc": "qvi",
+    "gw": false,
     "ISO-639-3": "qvi",
-    "ln": "Imbabura Highland Quichua",
-    "ang": "Quichua, Imbabura Highland",
     "hc": "EC",
+    "ld": "ltr",
+    "pk": 5273,
     "lr": "Americas",
-    "alt": [
-        "Otavalo Quichua"
-    ],
+    "lc": "qvi",
     "cc": [
         "EC"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Otavalo Quichua"
+    ],
+    "ang": "Quichua, Imbabura Highland",
+    "gwcode": "es-419",
+    "ln": "Imbabura Highland Quichua"
 }

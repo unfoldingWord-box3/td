@@ -1,18 +1,18 @@
 {
-    "pk": 2732,
-    "lc": "kbw",
+    "gw": false,
     "ISO-639-3": "kbw",
-    "ln": "Kaiep",
-    "ang": "Kaiep",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2732,
     "lr": "Pacific",
-    "alt": [
-        "Samap"
-    ],
+    "lc": "kbw",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Samap"
+    ],
+    "ang": "Kaiep",
+    "gwcode": "tpi",
+    "ln": "Kaiep"
 }

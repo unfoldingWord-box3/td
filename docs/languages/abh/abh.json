@@ -1,11 +1,16 @@
 {
-    "pk": 36,
-    "lc": "abh",
+    "gw": false,
     "ISO-639-3": "abh",
-    "ln": "Tajiki Arabic",
-    "ang": "Arabic, Tajiki Spoken",
     "hc": "TJ",
+    "ld": "rtl",
+    "pk": 36,
     "lr": "Asia",
+    "lc": "abh",
+    "cc": [
+        "AF",
+        "TJ",
+        "UZ"
+    ],
     "alt": [
         "Balkh Arabic",
         "Arabic",
@@ -15,12 +20,7 @@
         "Jugari",
         "Tajiji Arabic"
     ],
-    "cc": [
-        "AF",
-        "TJ",
-        "UZ"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ru"
+    "ang": "Arabic, Tajiki Spoken",
+    "gwcode": "ru",
+    "ln": "Tajiki Arabic"
 }

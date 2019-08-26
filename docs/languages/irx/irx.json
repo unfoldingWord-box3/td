@@ -1,20 +1,20 @@
 {
-    "pk": 2514,
-    "lc": "irx",
+    "gw": false,
     "ISO-639-3": "irx",
-    "ln": "Kamberau",
-    "ang": "Kamberau",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2514,
     "lr": "Asia",
+    "lc": "irx",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Iria",
         "Kambrau",
         "Kamrau"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kamberau",
+    "gwcode": "id",
+    "ln": "Kamberau"
 }

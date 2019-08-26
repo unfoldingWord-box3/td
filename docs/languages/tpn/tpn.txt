@@ -1,0 +1,22 @@
+.. _tpn:
+
+Tupinambá
+==========
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: tpn
+    alternate_names: []
+    anglicanized_name: Tupi
+    country_codes:
+    - BR
+    gateway_language: UNKNOWN
+    lang_code: tpn
+    lang_direction: ltr
+    lang_name: Tupinambá
+    lang_region: Americas
+    

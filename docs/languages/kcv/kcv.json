@@ -1,19 +1,19 @@
 {
-    "pk": 2757,
-    "lc": "kcv",
+    "gw": false,
     "ISO-639-3": "kcv",
-    "ln": "Kete",
-    "ang": "Kete",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 2757,
     "lr": "Africa",
+    "lc": "kcv",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kikete",
         "Lukete"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kete",
+    "gwcode": "fr",
+    "ln": "Kete"
 }

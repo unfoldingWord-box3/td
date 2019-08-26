@@ -1,21 +1,21 @@
 {
-    "pk": 944,
-    "lc": "bsx",
+    "gw": false,
     "ISO-639-3": "bsx",
-    "ln": "Yangkam",
-    "ang": "Yangkam",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 944,
     "lr": "Africa",
+    "lc": "bsx",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bashar",
         "Basharawa",
         "Bashiri",
         "Yankam"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yangkam",
+    "gwcode": "en",
+    "ln": "Yangkam"
 }

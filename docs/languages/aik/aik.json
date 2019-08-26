@@ -1,19 +1,19 @@
 {
-    "pk": 170,
-    "lc": "aik",
+    "gw": false,
     "ISO-639-3": "aik",
-    "ln": "Ake",
-    "ang": "Ake",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 170,
     "lr": "Africa",
+    "lc": "aik",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Aike",
         "Akye"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ake",
+    "gwcode": "en",
+    "ln": "Ake"
 }

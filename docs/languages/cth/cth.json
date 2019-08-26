@@ -1,18 +1,18 @@
 {
-    "pk": 1373,
-    "lc": "cth",
+    "gw": false,
     "ISO-639-3": "cth",
-    "ln": "Thaiphum Chin",
-    "ang": "Chin, Thaiphum",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1373,
     "lr": "Asia",
-    "alt": [
-        "Thui Phum"
-    ],
+    "lc": "cth",
     "cc": [
         "MM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "alt": [
+        "Thui Phum"
+    ],
+    "ang": "Chin, Thaiphum",
+    "gwcode": "my",
+    "ln": "Thaiphum Chin"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 1517,
-    "lc": "dhw",
+    "gw": false,
     "ISO-639-3": "dhw",
-    "ln": "Dhanwar (Nepal)",
-    "ang": "Danuwar",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 1517,
     "lr": "Asia",
+    "lc": "dhw",
+    "cc": [
+        "NP"
+    ],
     "alt": [
         "Danuwar Rai",
         "Danwar",
@@ -19,10 +22,7 @@
         "Dukuchhap Danuwar",
         "Judigaon Danuwar"
     ],
-    "cc": [
-        "NP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Danuwar",
+    "gwcode": "ne",
+    "ln": "Dhanwar (Nepal)"
 }

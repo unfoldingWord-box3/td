@@ -1,21 +1,21 @@
 {
-    "pk": 244,
-    "lc": "aml",
+    "gw": false,
     "ISO-639-3": "aml",
-    "ln": "War-Jaintia",
-    "ang": "War-Jaintia",
     "hc": "BD",
+    "ld": "ltr",
+    "pk": 244,
     "lr": "Asia",
+    "lc": "aml",
+    "cc": [
+        "BD"
+    ],
     "alt": [
         "War-Khasi",
         "Amwi",
         "Khasi",
         "War"
     ],
-    "cc": [
-        "BD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "ang": "War-Jaintia",
+    "gwcode": "bn",
+    "ln": "War-Jaintia"
 }

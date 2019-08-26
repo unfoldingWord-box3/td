@@ -1,11 +1,14 @@
 {
-    "pk": 2077,
-    "lc": "gnh",
+    "gw": false,
     "ISO-639-3": "gnh",
-    "ln": "Lere",
-    "ang": "Lere",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2077,
     "lr": "Africa",
+    "lc": "gnh",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kuzamani",
         "Rishuwa",
@@ -14,10 +17,7 @@
         "Takaya (Taura)",
         "Gana (Ganawa)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lere",
+    "gwcode": "en",
+    "ln": "Lere"
 }

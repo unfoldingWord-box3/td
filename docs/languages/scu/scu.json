@@ -1,11 +1,14 @@
 {
-    "pk": 5519,
-    "lc": "scu",
+    "gw": false,
     "ISO-639-3": "scu",
-    "ln": "Shumcho",
-    "ang": "Shumcho",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5519,
     "lr": "Asia",
+    "lc": "scu",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Central Kinnauri",
         "Shumcu",
@@ -16,10 +19,7 @@
         "Thebor",
         "Theb\u00f6r Skadd"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Shumcho",
+    "gwcode": "hi",
+    "ln": "Shumcho"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 7477,
-    "lc": "ztl",
+    "gw": false,
     "ISO-639-3": "ztl",
-    "ln": "Lapagu\u00eda-Guivini Zapotec",
-    "ang": "Zapotec, Lapagu\u00eda-Guivini",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7477,
     "lr": "Americas",
+    "lc": "ztl",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Santiago Lapaguia Zapotec",
         "Zapoteco de Lapagu\u00eda-Guivini",
@@ -13,10 +16,7 @@
         "Guivini",
         "Lapagu\u00eda"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Lapagu\u00eda-Guivini",
+    "gwcode": "es-419",
+    "ln": "Lapagu\u00eda-Guivini Zapotec"
 }

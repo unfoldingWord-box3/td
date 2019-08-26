@@ -1,11 +1,14 @@
 {
-    "pk": 6325,
-    "lc": "tsb",
+    "gw": false,
     "ISO-639-3": "tsb",
-    "ln": "Tsamai",
-    "ang": "Tsamai",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 6325,
     "lr": "Africa",
+    "lc": "tsb",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Bago S'aamakk-Ulo",
         "Cule",
@@ -17,10 +20,7 @@
         "Tsamako",
         "Ts'amay"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Tsamai",
+    "gwcode": "am",
+    "ln": "Tsamai"
 }

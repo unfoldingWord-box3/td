@@ -1,22 +1,22 @@
 {
-    "pk": 2023,
-    "lc": "gid",
+    "gw": false,
     "ISO-639-3": "gid",
-    "ln": "Gidar",
-    "ang": "Gidar",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 2023,
     "lr": "Africa",
+    "lc": "gid",
+    "cc": [
+        "CM",
+        "TD"
+    ],
     "alt": [
         "Baynawa",
         "Gidder",
         "Guidar",
         "Kada"
     ],
-    "cc": [
-        "CM",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Gidar",
+    "gwcode": "fr",
+    "ln": "Gidar"
 }

@@ -1,16 +1,16 @@
 {
-    "pk": 2145,
-    "lc": "gsn",
+    "gw": false,
     "ISO-639-3": "gsn",
-    "ln": "Gusan",
-    "ang": "Gusan",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2145,
     "lr": "Pacific",
-    "alt": [],
+    "lc": "gsn",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [],
+    "ang": "Gusan",
+    "gwcode": "tpi",
+    "ln": "Gusan"
 }

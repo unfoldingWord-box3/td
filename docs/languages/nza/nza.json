@@ -1,11 +1,15 @@
 {
-    "pk": 4747,
-    "lc": "nza",
+    "gw": false,
     "ISO-639-3": "nza",
-    "ln": "Tigon Mbembe",
-    "ang": "Mbembe, Tigon",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4747,
     "lr": "Africa",
+    "lc": "nza",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Akonto",
         "Tigon",
@@ -26,11 +30,7 @@
         "Nsare",
         "Nzare (Izale)"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mbembe, Tigon",
+    "gwcode": "fr",
+    "ln": "Tigon Mbembe"
 }

@@ -1,0 +1,25 @@
+.. _tqu:
+
+Touo
+====
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: tqu
+    alternate_names:
+    - Baniata
+    - Lokuru
+    - Mbaniata
+    anglicanized_name: Touo
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: tqu
+    lang_direction: ltr
+    lang_name: Touo
+    lang_region: Pacific
+    

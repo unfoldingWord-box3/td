@@ -1,19 +1,19 @@
 {
-    "pk": 1202,
-    "lc": "chq",
+    "gw": false,
     "ISO-639-3": "chq",
-    "ln": "Quiotepec Chinantec",
-    "ang": "Chinantec, Quiotepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1202,
     "lr": "Americas",
+    "lc": "chq",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Highland Chinantec",
         "Yolox Chinanteco"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chinantec, Quiotepec",
+    "gwcode": "es-419",
+    "ln": "Quiotepec Chinantec"
 }

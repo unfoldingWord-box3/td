@@ -1,18 +1,18 @@
 {
-    "pk": 4143,
-    "lc": "mtw",
+    "gw": false,
     "ISO-639-3": "mtw",
-    "ln": "Southern Binukidnon",
-    "ang": "Binukidnon, Southern",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 4143,
     "lr": "Asia",
-    "alt": [
-        "Bukidnon"
-    ],
+    "lc": "mtw",
     "cc": [
         "PH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Bukidnon"
+    ],
+    "ang": "Binukidnon, Southern",
+    "gwcode": "en",
+    "ln": "Southern Binukidnon"
 }

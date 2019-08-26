@@ -1,11 +1,17 @@
 {
-    "pk": 3359,
-    "lc": "lbe",
+    "gw": false,
     "ISO-639-3": "lbe",
-    "ln": "\u041b\u0430\u043a\u0441\u043a\u0438\u0439",
-    "ang": "Lak",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 3359,
     "lr": "Europe",
+    "lc": "lbe",
+    "cc": [
+        "AZ",
+        "RU",
+        "TM",
+        "UZ"
+    ],
     "alt": [
         "Kazikumukhtsy",
         "Laki",
@@ -19,13 +25,7 @@
         "Kayalin-Mashikin",
         "Balxar-Calakan (Balkar-Tsalakan)"
     ],
-    "cc": [
-        "AZ",
-        "RU",
-        "TM",
-        "UZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Lak",
+    "gwcode": "ru",
+    "ln": "\u041b\u0430\u043a\u0441\u043a\u0438\u0439"
 }

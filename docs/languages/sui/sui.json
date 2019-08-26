@@ -1,18 +1,18 @@
 {
-    "pk": 5881,
-    "lc": "sui",
+    "gw": false,
     "ISO-639-3": "sui",
-    "ln": "Suki",
-    "ang": "Suki",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5881,
     "lr": "Pacific",
-    "alt": [
-        "Wiram"
-    ],
+    "lc": "sui",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Wiram"
+    ],
+    "ang": "Suki",
+    "gwcode": "tpi",
+    "ln": "Suki"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 493,
-    "lc": "baf",
+    "gw": false,
     "ISO-639-3": "baf",
-    "ln": "Nubaca",
-    "ang": "Nubaca",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 493,
     "lr": "Africa",
+    "lc": "baf",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Baca",
         "Bango",
@@ -16,10 +19,7 @@
         "K\u00e9lend\u00e9",
         "Nibi\u00e9g"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Nubaca",
+    "gwcode": "fr",
+    "ln": "Nubaca"
 }

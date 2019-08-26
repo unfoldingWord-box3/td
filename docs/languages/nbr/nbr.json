@@ -1,11 +1,14 @@
 {
-    "pk": 4324,
-    "lc": "nbr",
+    "gw": false,
     "ISO-639-3": "nbr",
-    "ln": "Numana-Nunku-Gbantu-Numbu",
-    "ang": "Numana-Nunku-Gbantu-Numbu",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4324,
     "lr": "Africa",
+    "lc": "nbr",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Sanga",
         "Kurmi",
@@ -16,10 +19,7 @@
         "Aninka (Gwantu)",
         "Ninka"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Numana-Nunku-Gbantu-Numbu",
+    "gwcode": "en",
+    "ln": "Numana-Nunku-Gbantu-Numbu"
 }

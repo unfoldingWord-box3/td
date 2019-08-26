@@ -1,18 +1,18 @@
 {
-    "pk": 276,
-    "lc": "ant",
+    "gw": false,
     "ISO-639-3": "ant",
-    "ln": "Antakarinya",
-    "ang": "Antakarinya",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 276,
     "lr": "Pacific",
-    "alt": [
-        "Andagarinya"
-    ],
+    "lc": "ant",
     "cc": [
         "AU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Andagarinya"
+    ],
+    "ang": "Antakarinya",
+    "gwcode": "en",
+    "ln": "Antakarinya"
 }

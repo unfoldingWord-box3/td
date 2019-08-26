@@ -1,21 +1,21 @@
 {
-    "pk": 893,
-    "lc": "bqu",
+    "gw": false,
     "ISO-639-3": "bqu",
-    "ln": "Boguru",
-    "ang": "Boguru",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 893,
     "lr": "Africa",
+    "lc": "bqu",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Buguru",
         "Kogoro",
         "Bukur (Bukum)",
         "Bukuru"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Boguru",
+    "gwcode": "fr",
+    "ln": "Boguru"
 }

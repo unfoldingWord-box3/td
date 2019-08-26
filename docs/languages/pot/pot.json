@@ -1,20 +1,20 @@
 {
-    "pk": 5136,
-    "lc": "pot",
+    "gw": false,
     "ISO-639-3": "pot",
-    "ln": "Potawatomi",
-    "ang": "Potawatomi",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 5136,
     "lr": "Americas",
-    "alt": [
-        "Pottawottomi",
-        "Pottawotomi"
-    ],
+    "lc": "pot",
     "cc": [
         "US",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Pottawottomi",
+        "Pottawotomi"
+    ],
+    "ang": "Potawatomi",
+    "gwcode": "en",
+    "ln": "Potawatomi"
 }

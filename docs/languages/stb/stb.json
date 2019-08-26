@@ -1,21 +1,21 @@
 {
-    "pk": 5853,
-    "lc": "stb",
+    "gw": false,
     "ISO-639-3": "stb",
-    "ln": "Northern Subanen",
-    "ang": "Subanen, Northern",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5853,
     "lr": "Asia",
+    "lc": "stb",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Tuboy Subanon",
         "Miatan",
         "Piyau",
         "Salog (Salug)"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Subanen, Northern",
+    "gwcode": "ceb",
+    "ln": "Northern Subanen"
 }

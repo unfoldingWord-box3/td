@@ -1,20 +1,20 @@
 {
-    "pk": 3245,
-    "lc": "kwk",
+    "gw": false,
     "ISO-639-3": "kwk",
-    "ln": "Kwakiutl",
-    "ang": "Kwakiutl",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 3245,
     "lr": "Americas",
-    "alt": [
-        "Kwagiutl",
-        "Kwak'wala"
-    ],
+    "lc": "kwk",
     "cc": [
         "US",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Kwagiutl",
+        "Kwak'wala"
+    ],
+    "ang": "Kwakiutl",
+    "gwcode": "en",
+    "ln": "Kwakiutl"
 }

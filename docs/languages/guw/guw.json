@@ -1,11 +1,16 @@
 {
-    "pk": 2173,
-    "lc": "guw",
+    "gw": false,
     "ISO-639-3": "guw",
-    "ln": "Gun",
-    "ang": "Gun",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 2173,
     "lr": "Africa",
+    "lc": "guw",
+    "cc": [
+        "BJ",
+        "GA",
+        "NG"
+    ],
     "alt": [
         "Alada-Gbe",
         "Egun",
@@ -20,12 +25,7 @@
         "Seto",
         "Toli"
     ],
-    "cc": [
-        "BJ",
-        "GA",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Gun",
+    "gwcode": "fr",
+    "ln": "Gun"
 }

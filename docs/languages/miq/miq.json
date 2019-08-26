@@ -1,11 +1,16 @@
 {
-    "pk": 3870,
-    "lc": "miq",
+    "gw": false,
     "ISO-639-3": "miq",
-    "ln": "M\u00edskito",
-    "ang": "M\u00edskito",
     "hc": "NI",
+    "ld": "ltr",
+    "pk": 3870,
     "lr": "Americas",
+    "lc": "miq",
+    "cc": [
+        "HN",
+        "US",
+        "NI"
+    ],
     "alt": [
         "Marquito",
         "M\u00edskitu",
@@ -18,12 +23,7 @@
         "Tawira (Tauira)",
         "Wanki (Wangki)"
     ],
-    "cc": [
-        "HN",
-        "US",
-        "NI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "M\u00edskito",
+    "gwcode": "es-419",
+    "ln": "M\u00edskito"
 }

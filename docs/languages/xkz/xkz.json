@@ -1,11 +1,14 @@
 {
-    "pk": 6955,
-    "lc": "xkz",
+    "gw": false,
     "ISO-639-3": "xkz",
-    "ln": "Kurtokha",
-    "ang": "Kurtokha",
     "hc": "BT",
+    "ld": "ltr",
+    "pk": 6955,
     "lr": "Asia",
+    "lc": "xkz",
+    "cc": [
+        "BT"
+    ],
     "alt": [
         "Gurt\u00fc",
         "Kurteopkha",
@@ -14,10 +17,7 @@
         "Kurtobikha",
         "Kurtopakha"
     ],
-    "cc": [
-        "BT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "dz"
+    "ang": "Kurtokha",
+    "gwcode": "UNKNOWN",
+    "ln": "Kurtokha"
 }

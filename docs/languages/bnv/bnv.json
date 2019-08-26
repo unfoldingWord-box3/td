@@ -1,19 +1,19 @@
 {
-    "pk": 825,
-    "lc": "bnv",
+    "gw": false,
     "ISO-639-3": "bnv",
-    "ln": "Bonerif",
-    "ang": "Beneraf",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 825,
     "lr": "Asia",
+    "lc": "bnv",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Boneraf",
         "Bonerif"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Beneraf",
+    "gwcode": "id",
+    "ln": "Bonerif"
 }

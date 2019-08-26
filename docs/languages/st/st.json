@@ -1,17 +1,11 @@
 {
-    "pk": 5851,
-    "lc": "st",
+    "gw": false,
     "ISO-639-3": "sot",
-    "ln": "Sesotho",
-    "ang": "Southern Sotho",
     "hc": "LS",
+    "ld": "ltr",
+    "pk": 5851,
     "lr": "Africa",
-    "alt": [
-        "Sisutho",
-        "Souto",
-        "Suthu",
-        "Suto"
-    ],
+    "lc": "st",
     "cc": [
         "ZA",
         "US",
@@ -19,7 +13,13 @@
         "SZ",
         "BW"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Sisutho",
+        "Souto",
+        "Suthu",
+        "Suto"
+    ],
+    "ang": "Southern Sotho",
+    "gwcode": "en",
+    "ln": "Sesotho"
 }

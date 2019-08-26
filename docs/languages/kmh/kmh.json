@@ -1,19 +1,19 @@
 {
-    "pk": 2994,
-    "lc": "kmh",
+    "gw": false,
     "ISO-639-3": "kmh",
-    "ln": "Kalam",
-    "ang": "Kalam",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2994,
     "lr": "Pacific",
+    "lc": "kmh",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Aforo",
         "Karam"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kalam",
+    "gwcode": "tpi",
+    "ln": "Kalam"
 }

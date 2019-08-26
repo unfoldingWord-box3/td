@@ -1,22 +1,22 @@
 {
-    "pk": 2606,
-    "lc": "jet",
+    "gw": false,
     "ISO-639-3": "jet",
-    "ln": "Manem",
-    "ang": "Manem",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2606,
     "lr": "Pacific",
+    "lc": "jet",
+    "cc": [
+        "ID",
+        "PG"
+    ],
     "alt": [
         "Jeti",
         "Skofro",
         "Wembi",
         "Yeti"
     ],
-    "cc": [
-        "ID",
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Manem",
+    "gwcode": "tpi",
+    "ln": "Manem"
 }

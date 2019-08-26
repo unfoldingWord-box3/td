@@ -1,21 +1,21 @@
 {
-    "pk": 6949,
-    "lc": "xkt",
+    "gw": false,
     "ISO-639-3": "xkt",
-    "ln": "Kantosi",
-    "ang": "Kantosi",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 6949,
     "lr": "Africa",
+    "lc": "xkt",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Dagaare-Dioula",
         "Kantonsi",
         "Yare",
         "Yarsi"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kantosi",
+    "gwcode": "en",
+    "ln": "Kantosi"
 }

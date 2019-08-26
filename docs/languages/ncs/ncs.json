@@ -1,18 +1,18 @@
 {
-    "pk": 4348,
-    "lc": "ncs",
+    "gw": false,
     "ISO-639-3": "ncs",
-    "ln": "Nicaraguan Sign Language",
-    "ang": "Nicaraguan Sign Language",
     "hc": "NI",
+    "ld": "ltr",
+    "pk": 4348,
     "lr": "Americas",
-    "alt": [
-        "Idioma de Se\u00f1as de Nicaragua"
-    ],
+    "lc": "ncs",
     "cc": [
         "NI"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Idioma de Se\u00f1as de Nicaragua"
+    ],
+    "ang": "Nicaraguan Sign Language",
+    "gwcode": "es-419",
+    "ln": "Nicaraguan Sign Language"
 }

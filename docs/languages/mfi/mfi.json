@@ -1,11 +1,15 @@
 {
-    "pk": 3785,
-    "lc": "mfi",
+    "gw": false,
     "ISO-639-3": "mfi",
-    "ln": "Wandala",
-    "ang": "Wandala",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3785,
     "lr": "Africa",
+    "lc": "mfi",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Mandara Montagnard",
         "Ndara",
@@ -20,11 +24,7 @@
         "Gamargu (Gamergou)",
         "Mora Massif"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Wandala",
+    "gwcode": "fr",
+    "ln": "Wandala"
 }

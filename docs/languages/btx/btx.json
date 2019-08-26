@@ -1,18 +1,18 @@
 {
-    "pk": 967,
-    "lc": "btx",
+    "gw": false,
     "ISO-639-3": "btx",
-    "ln": "Batak Karo",
-    "ang": "Batak Karo",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 967,
     "lr": "Asia",
-    "alt": [
-        "Karo Batak"
-    ],
+    "lc": "btx",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Karo Batak"
+    ],
+    "ang": "Batak Karo",
+    "gwcode": "id",
+    "ln": "Batak Karo"
 }

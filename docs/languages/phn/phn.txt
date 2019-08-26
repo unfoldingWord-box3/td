@@ -1,0 +1,22 @@
+.. _phn:
+
+Phoenician
+==========
+
+This language is spoken in the following countries:
+
+* LB: Lebanon
+
+.. code-block:: yaml
+
+    ISO_639-3: phn
+    alternate_names: []
+    anglicanized_name: Phoenician
+    country_codes:
+    - LB
+    gateway_language: UNKNOWN
+    lang_code: phn
+    lang_direction: ltr
+    lang_name: Phoenician
+    lang_region: Asia
+    

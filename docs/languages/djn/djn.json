@@ -1,11 +1,14 @@
 {
-    "pk": 1550,
-    "lc": "djn",
+    "gw": false,
     "ISO-639-3": "djn",
-    "ln": "Djauan",
-    "ang": "Djauan",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 1550,
     "lr": "Pacific",
+    "lc": "djn",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Adowen",
         "Jawan",
@@ -13,10 +16,7 @@
         "Jawoyn",
         "Kumertuo"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Djauan",
+    "gwcode": "en",
+    "ln": "Djauan"
 }

@@ -1,0 +1,22 @@
+.. _lab:
+
+Linear A
+========
+
+This language is spoken in the following countries:
+
+* GR: Greece
+
+.. code-block:: yaml
+
+    ISO_639-3: lab
+    alternate_names: []
+    anglicanized_name: Linear A
+    country_codes:
+    - GR
+    gateway_language: UNKNOWN
+    lang_code: lab
+    lang_direction: ltr
+    lang_name: Linear A
+    lang_region: Europe
+    

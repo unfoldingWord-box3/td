@@ -1,19 +1,19 @@
 {
-    "pk": 510,
-    "lc": "bbc",
+    "gw": false,
     "ISO-639-3": "bbc",
-    "ln": "Batak Toba",
-    "ang": "Batak Toba",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 510,
     "lr": "Asia",
+    "lc": "bbc",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Batta",
         "Toba Batak"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Batak Toba",
+    "gwcode": "id",
+    "ln": "Batak Toba"
 }

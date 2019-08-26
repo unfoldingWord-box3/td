@@ -1,11 +1,15 @@
 {
-    "pk": 769,
-    "lc": "blo",
+    "gw": false,
     "ISO-639-3": "blo",
-    "ln": "Anii",
-    "ang": "Anii",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 769,
     "lr": "Africa",
+    "lc": "blo",
+    "cc": [
+        "BJ",
+        "TG"
+    ],
     "alt": [
         "Baseca",
         "Basila",
@@ -27,11 +31,7 @@
         "Gibodija (Bodi)",
         "Gideenguja (Dengou)"
     ],
-    "cc": [
-        "BJ",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Anii",
+    "gwcode": "fr",
+    "ln": "Anii"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 1663,
-    "lc": "dun",
+    "gw": false,
     "ISO-639-3": "dun",
-    "ln": "Dusun Deyah",
-    "ang": "Dusun Deyah",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1663,
     "lr": "Asia",
+    "lc": "dun",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Deah",
         "Dejah"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Dusun Deyah",
+    "gwcode": "id",
+    "ln": "Dusun Deyah"
 }

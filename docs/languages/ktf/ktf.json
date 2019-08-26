@@ -1,19 +1,19 @@
 {
-    "pk": 3164,
-    "lc": "ktf",
+    "gw": false,
     "ISO-639-3": "ktf",
-    "ln": "Kwami",
-    "ang": "Kwami",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3164,
     "lr": "Africa",
+    "lc": "ktf",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kikwame",
         "Kwame"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kwami",
+    "gwcode": "fr",
+    "ln": "Kwami"
 }

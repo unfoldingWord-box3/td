@@ -1,11 +1,14 @@
 {
-    "pk": 5239,
-    "lc": "pye",
+    "gw": false,
     "ISO-639-3": "pye",
-    "ln": "Pye Krumen",
-    "ang": "Krumen, Pye",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 5239,
     "lr": "Africa",
+    "lc": "pye",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Kroumen",
         "Northeastern Krumen",
@@ -15,10 +18,7 @@
         "Wluwe-Hawlo (Haoulo)",
         "Yrewe (Giriwe)"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Krumen, Pye",
+    "gwcode": "fr",
+    "ln": "Pye Krumen"
 }

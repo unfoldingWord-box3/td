@@ -1,11 +1,14 @@
 {
-    "pk": 6600,
-    "lc": "vec",
+    "gw": false,
     "ISO-639-3": "vec",
-    "ln": "Venetian",
-    "ang": "Venetian",
     "hc": "IT",
+    "ld": "ltr",
+    "pk": 6600,
     "lr": "Europe",
+    "lc": "vec",
+    "cc": [
+        "IT"
+    ],
     "alt": [
         "Taliano",
         "Veneto",
@@ -14,10 +17,7 @@
         "Venet",
         "Chipile\u00f1o"
     ],
-    "cc": [
-        "IT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Venetian",
+    "gwcode": "en",
+    "ln": "Venetian"
 }

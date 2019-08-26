@@ -1,11 +1,16 @@
 {
-    "pk": 3818,
-    "lc": "mgp",
+    "gw": false,
     "ISO-639-3": "mgp",
-    "ln": "Eastern Magar",
-    "ang": "Magar, Eastern",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 3818,
     "lr": "Asia",
+    "lc": "mgp",
+    "cc": [
+        "BT",
+        "NP",
+        "IN"
+    ],
     "alt": [
         "Magari",
         "Magarkura",
@@ -15,12 +20,7 @@
         "Nawalparasi",
         "Gorkha"
     ],
-    "cc": [
-        "BT",
-        "NP",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Magar, Eastern",
+    "gwcode": "ne",
+    "ln": "Eastern Magar"
 }

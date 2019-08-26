@@ -1,19 +1,19 @@
 {
-    "pk": 4045,
-    "lc": "mqa",
+    "gw": false,
     "ISO-639-3": "mqa",
-    "ln": "Maba (Indonesia)",
-    "ang": "Maba",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4045,
     "lr": "Asia",
+    "lc": "mqa",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Bitjoli",
         "Ingli"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Maba",
+    "gwcode": "id",
+    "ln": "Maba (Indonesia)"
 }

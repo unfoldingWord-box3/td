@@ -1,19 +1,19 @@
 {
-    "pk": 5936,
-    "lc": "sxu",
+    "gw": false,
     "ISO-639-3": "sxu",
-    "ln": "Upper Saxon",
-    "ang": "Saxon, Upper",
     "hc": "DE",
+    "ld": "ltr",
+    "pk": 5936,
     "lr": "Europe",
+    "lc": "sxu",
+    "cc": [
+        "DE"
+    ],
     "alt": [
         "Erzgebirgisch",
         "Hessian (Hessisch)"
     ],
-    "cc": [
-        "DE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Saxon, Upper",
+    "gwcode": "en",
+    "ln": "Upper Saxon"
 }

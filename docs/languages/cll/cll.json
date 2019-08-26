@@ -1,19 +1,19 @@
 {
-    "pk": 1254,
-    "lc": "cll",
+    "gw": false,
     "ISO-639-3": "cll",
-    "ln": "Chala",
-    "ang": "Chala",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 1254,
     "lr": "Africa",
+    "lc": "cll",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Cala",
         "Tshala"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Chala",
+    "gwcode": "en",
+    "ln": "Chala"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 3520,
-    "lc": "lmi",
+    "gw": false,
     "ISO-639-3": "lmi",
-    "ln": "Lombi",
-    "ang": "Lombi",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3520,
     "lr": "Africa",
+    "lc": "lmi",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Lumbi",
         "Odyalombito",
         "Rombi",
         "Rumli"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Lombi",
+    "gwcode": "fr",
+    "ln": "Lombi"
 }

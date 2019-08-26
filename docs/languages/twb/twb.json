@@ -1,20 +1,20 @@
 {
-    "pk": 6405,
-    "lc": "twb",
+    "gw": false,
     "ISO-639-3": "twb",
-    "ln": "Western Tawbuid",
-    "ang": "Tawbuid, Western",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 6405,
     "lr": "Asia",
+    "lc": "twb",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Batangan Taubuid",
         "Fanawbuid",
         "Western Taubuid"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tawbuid, Western",
+    "gwcode": "en",
+    "ln": "Western Tawbuid"
 }

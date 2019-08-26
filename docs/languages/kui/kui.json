@@ -1,11 +1,14 @@
 {
-    "pk": 3190,
-    "lc": "kui",
+    "gw": false,
     "ISO-639-3": "kui",
-    "ln": "Kuik\u00faro-Kalap\u00e1lo",
-    "ang": "Kuik\u00faro-Kalap\u00e1lo",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 3190,
     "lr": "Americas",
+    "lc": "kui",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Apalakiri",
         "Apalaquiri",
@@ -17,10 +20,7 @@
         "Matip\u00fa",
         "Nahukw\u00e1"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Kuik\u00faro-Kalap\u00e1lo",
+    "gwcode": "pt",
+    "ln": "Kuik\u00faro-Kalap\u00e1lo"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 2981,
-    "lc": "klv",
+    "gw": false,
     "ISO-639-3": "klv",
-    "ln": "Maskelynes",
-    "ang": "Maskelynes",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 2981,
     "lr": "Pacific",
+    "lc": "klv",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Kuliviu",
         "Maskelyne Islands",
         "Uliveo"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Maskelynes",
+    "gwcode": "fr",
+    "ln": "Maskelynes"
 }

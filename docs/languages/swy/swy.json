@@ -1,20 +1,20 @@
 {
-    "pk": 5924,
-    "lc": "swy",
+    "gw": false,
     "ISO-639-3": "swy",
-    "ln": "Sarua",
-    "ang": "Sarua",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 5924,
     "lr": "Africa",
-    "alt": [
-        "Saroua",
-        "Sarwa"
-    ],
+    "lc": "swy",
     "cc": [
         "CM",
         "TD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Saroua",
+        "Sarwa"
+    ],
+    "ang": "Sarua",
+    "gwcode": "ar",
+    "ln": "Sarua"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 1430,
-    "lc": "dal",
+    "gw": false,
     "ISO-639-3": "dal",
-    "ln": "Dahalo",
-    "ang": "Dahalo",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 1430,
     "lr": "Africa",
+    "lc": "dal",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Guo Garimani",
         "Sanye"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Dahalo",
+    "gwcode": "sw",
+    "ln": "Dahalo"
 }

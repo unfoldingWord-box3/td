@@ -1,20 +1,20 @@
 {
-    "pk": 1626,
-    "lc": "drt",
+    "gw": false,
     "ISO-639-3": "drt",
-    "ln": "Drents",
-    "ang": "Drents",
     "hc": "NL",
+    "ld": "ltr",
+    "pk": 1626,
     "lr": "Europe",
+    "lc": "drt",
+    "cc": [
+        "NL"
+    ],
     "alt": [
         "Drente",
         "North Drente (Noord-Drents)",
         "South Drente (Zuid-Drents)"
     ],
-    "cc": [
-        "NL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "nl"
+    "ang": "Drents",
+    "gwcode": "UNKNOWN",
+    "ln": "Drents"
 }

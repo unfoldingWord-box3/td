@@ -1,11 +1,15 @@
 {
-    "pk": 5225,
-    "lc": "puu",
+    "gw": false,
     "ISO-639-3": "puu",
-    "ln": "Punu",
-    "ang": "Punu",
     "hc": "GA",
+    "ld": "ltr",
+    "pk": 5225,
     "lr": "Africa",
+    "lc": "puu",
+    "cc": [
+        "GA",
+        "CG"
+    ],
     "alt": [
         "Ipounou",
         "Ipunu",
@@ -13,11 +17,7 @@
         "Puno",
         "Yipunu"
     ],
-    "cc": [
-        "GA",
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Punu",
+    "gwcode": "fr",
+    "ln": "Punu"
 }

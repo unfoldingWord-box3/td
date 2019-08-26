@@ -1,21 +1,21 @@
 {
-    "pk": 2488,
-    "lc": "ing",
+    "gw": false,
     "ISO-639-3": "ing",
-    "ln": "Degexit'an",
-    "ang": "Degexit\u2019an",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 2488,
     "lr": "Americas",
+    "lc": "ing",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Deg Xinag",
         "Deg Xit'an",
         "Ingalik",
         "Ingalit"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Degexit\u2019an",
+    "gwcode": "en",
+    "ln": "Degexit'an"
 }

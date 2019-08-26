@@ -1,19 +1,19 @@
 {
-    "pk": 2950,
-    "lc": "kkr",
+    "gw": false,
     "ISO-639-3": "kkr",
-    "ln": "Kir-Balar",
-    "ang": "Kir-Balar",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2950,
     "lr": "Africa",
+    "lc": "kkr",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kirr",
         "Balar (Larbawa)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kir-Balar",
+    "gwcode": "en",
+    "ln": "Kir-Balar"
 }

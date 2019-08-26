@@ -1,11 +1,14 @@
 {
-    "pk": 2778,
-    "lc": "kdu",
+    "gw": false,
     "ISO-639-3": "kdu",
-    "ln": "Kadaru",
-    "ang": "Kadaru",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 2778,
     "lr": "Africa",
+    "lc": "kdu",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Kadaro",
         "Kadero",
@@ -20,10 +23,7 @@
         "Kadaru (Kodur)",
         "Kurtala (Ngokra)"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Kadaru",
+    "gwcode": "ar",
+    "ln": "Kadaru"
 }

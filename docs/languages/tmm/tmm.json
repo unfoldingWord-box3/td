@@ -1,19 +1,19 @@
 {
-    "pk": 6206,
-    "lc": "tmm",
+    "gw": false,
     "ISO-639-3": "tmm",
-    "ln": "Tai Thanh",
-    "ang": "Tai Thanh",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 6206,
     "lr": "Asia",
+    "lc": "tmm",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "T\u00e1y Thanh",
         "Thanh"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Tai Thanh",
+    "gwcode": "vi",
+    "ln": "Tai Thanh"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 1910,
-    "lc": "gah",
+    "gw": false,
     "ISO-639-3": "gah",
-    "ln": "Alekano",
-    "ang": "Alekano",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1910,
     "lr": "Pacific",
+    "lc": "gah",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Gafuku",
         "Gahuku-Gama"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Alekano",
+    "gwcode": "tpi",
+    "ln": "Alekano"
 }

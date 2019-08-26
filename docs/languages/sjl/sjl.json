@@ -1,20 +1,20 @@
 {
-    "pk": 5646,
-    "lc": "sjl",
+    "gw": false,
     "ISO-639-3": "sjl",
-    "ln": "Sajalong",
-    "ang": "Miji",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5646,
     "lr": "Asia",
+    "lc": "sjl",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Dammai",
         "Dhammai",
         "Namrei"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Miji",
+    "gwcode": "en",
+    "ln": "Sajalong"
 }

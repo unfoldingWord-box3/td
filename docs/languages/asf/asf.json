@@ -1,18 +1,18 @@
 {
-    "pk": 362,
-    "lc": "asf",
+    "gw": false,
     "ISO-639-3": "asf",
-    "ln": "Australian Sign Language",
-    "ang": "Australian Sign Language",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 362,
     "lr": "Pacific",
-    "alt": [
-        "Auslan"
-    ],
+    "lc": "asf",
     "cc": [
         "AU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Auslan"
+    ],
+    "ang": "Australian Sign Language",
+    "gwcode": "en",
+    "ln": "Australian Sign Language"
 }

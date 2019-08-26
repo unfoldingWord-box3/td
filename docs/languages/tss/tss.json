@@ -1,19 +1,19 @@
 {
-    "pk": 6339,
-    "lc": "tss",
+    "gw": false,
     "ISO-639-3": "tss",
-    "ln": "Taiwan Sign Language",
-    "ang": "Taiwan Sign Language",
     "hc": "TW",
+    "ld": "ltr",
+    "pk": 6339,
     "lr": "Asia",
+    "lc": "tss",
+    "cc": [
+        "TW"
+    ],
     "alt": [
         "Taiwan Ziran Shouyu",
         "Kaohsiung"
     ],
-    "cc": [
-        "TW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Taiwan Sign Language",
+    "gwcode": "zh",
+    "ln": "Taiwan Sign Language"
 }

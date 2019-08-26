@@ -1,11 +1,15 @@
 {
-    "pk": 802,
-    "lc": "bmw",
+    "gw": false,
     "ISO-639-3": "bmw",
-    "ln": "Bomwali",
-    "ang": "Bomwali",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 802,
     "lr": "Africa",
+    "lc": "bmw",
+    "cc": [
+        "CM",
+        "CG"
+    ],
     "alt": [
         "Bomali",
         "Boumoali",
@@ -13,11 +17,7 @@
         "Lino",
         "Sangasanga"
     ],
-    "cc": [
-        "CM",
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bomwali",
+    "gwcode": "fr",
+    "ln": "Bomwali"
 }

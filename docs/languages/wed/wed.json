@@ -1,19 +1,19 @@
 {
-    "pk": 6711,
-    "lc": "wed",
+    "gw": false,
     "ISO-639-3": "wed",
-    "ln": "Wedau",
-    "ang": "Wedau",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6711,
     "lr": "Pacific",
+    "lc": "wed",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Wedaun",
         "Wedawan"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Wedau",
+    "gwcode": "tpi",
+    "ln": "Wedau"
 }

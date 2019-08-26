@@ -1,11 +1,14 @@
 {
-    "pk": 888,
-    "lc": "bqp",
+    "gw": false,
     "ISO-639-3": "bqp",
-    "ln": "Busa",
-    "ang": "Busa",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 888,
     "lr": "Africa",
+    "lc": "bqp",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bis\u00e3",
         "Bisay\u00e3",
@@ -13,10 +16,7 @@
         "Busano",
         "Bussanchi"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Busa",
+    "gwcode": "en",
+    "ln": "Busa"
 }

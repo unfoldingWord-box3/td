@@ -1,18 +1,18 @@
 {
-    "pk": 2292,
-    "lc": "hmc",
+    "gw": false,
     "ISO-639-3": "hmc",
-    "ln": "Central Huishui Hmong",
-    "ang": "Miao, Central Huishui",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2292,
     "lr": "Asia",
-    "alt": [
-        "Central Huishui Hmong"
-    ],
+    "lc": "hmc",
     "cc": [
         "CN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "alt": [
+        "Central Huishui Hmong"
+    ],
+    "ang": "Miao, Central Huishui",
+    "gwcode": "zh",
+    "ln": "Central Huishui Hmong"
 }

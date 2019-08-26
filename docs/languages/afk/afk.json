@@ -1,19 +1,19 @@
 {
-    "pk": 114,
-    "lc": "afk",
+    "gw": false,
     "ISO-639-3": "afk",
-    "ln": "Nanubae",
-    "ang": "Nanubae",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 114,
     "lr": "Pacific",
+    "lc": "afk",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Aunda",
         "Kapagmai"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Nanubae",
+    "gwcode": "tpi",
+    "ln": "Nanubae"
 }

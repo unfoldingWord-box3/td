@@ -1,18 +1,18 @@
 {
-    "pk": 6219,
-    "lc": "tna",
+    "gw": false,
     "ISO-639-3": "tna",
-    "ln": "Tacana",
-    "ang": "Tacana",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 6219,
     "lr": "Americas",
-    "alt": [
-        "Takana"
-    ],
+    "lc": "tna",
     "cc": [
         "BO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Takana"
+    ],
+    "ang": "Tacana",
+    "gwcode": "es-419",
+    "ln": "Tacana"
 }

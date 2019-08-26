@@ -1,11 +1,14 @@
 {
-    "pk": 1667,
-    "lc": "dur",
+    "gw": false,
     "ISO-639-3": "dur",
-    "ln": "Dii",
-    "ang": "Dii",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 1667,
     "lr": "Africa",
+    "lc": "dur",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Dourou",
         "Durru",
@@ -15,10 +18,7 @@
         "Saakye",
         "Sagzee (Saadje)"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dii",
+    "gwcode": "fr",
+    "ln": "Dii"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3402,
-    "lc": "lea",
+    "gw": false,
     "ISO-639-3": "lea",
-    "ln": "Lega-Shabunda",
-    "ang": "Lega-Shabunda",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3402,
     "lr": "Africa",
+    "lc": "lea",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Igonzabale",
         "Ileka-Igonzabale",
@@ -14,10 +17,7 @@
         "Rega",
         "Kinyamunsange (Pangi)"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Lega-Shabunda",
+    "gwcode": "fr",
+    "ln": "Lega-Shabunda"
 }

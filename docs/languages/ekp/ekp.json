@@ -1,20 +1,20 @@
 {
-    "pk": 1721,
-    "lc": "ekp",
+    "gw": false,
     "ISO-639-3": "ekp",
-    "ln": "Ekpeye",
-    "ang": "Ekpeye",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1721,
     "lr": "Africa",
+    "lc": "ekp",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ekkpahia",
         "Ekpabya",
         "Ekpaffia"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ekpeye",
+    "gwcode": "en",
+    "ln": "Ekpeye"
 }

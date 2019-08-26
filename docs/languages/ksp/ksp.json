@@ -1,11 +1,15 @@
 {
-    "pk": 3148,
-    "lc": "ksp",
+    "gw": false,
     "ISO-639-3": "ksp",
-    "ln": "Kaba",
-    "ang": "Kabba",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 3148,
     "lr": "Africa",
+    "lc": "ksp",
+    "cc": [
+        "CF",
+        "TD"
+    ],
     "alt": [
         "Kabba",
         "Sara",
@@ -14,11 +18,7 @@
         "Kaba de Paoua",
         "Western Kaba"
     ],
-    "cc": [
-        "CF",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kabba",
+    "gwcode": "fr",
+    "ln": "Kaba"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 2795,
-    "lc": "kem",
+    "gw": false,
     "ISO-639-3": "kem",
-    "ln": "Kemak",
-    "ang": "Kemak",
     "hc": "TL",
+    "ld": "ltr",
+    "pk": 2795,
     "lr": "Asia",
+    "lc": "kem",
+    "cc": [
+        "TL"
+    ],
     "alt": [
         "Ema",
         "Nogo (Nogo-Nogo)"
     ],
-    "cc": [
-        "TL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Kemak",
+    "gwcode": "pt",
+    "ln": "Kemak"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 2655,
-    "lc": "jns",
+    "gw": false,
     "ISO-639-3": "jns",
-    "ln": "Jaunsari",
-    "ang": "Jaunsari",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2655,
     "lr": "Asia",
+    "lc": "jns",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Jansauri",
         "Jaunsauri",
         "Pahari",
         "Jaunsari-Bawari"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Jaunsari",
+    "gwcode": "hi",
+    "ln": "Jaunsari"
 }

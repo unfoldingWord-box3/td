@@ -1,19 +1,19 @@
 {
-    "pk": 1918,
-    "lc": "gap",
+    "gw": false,
     "ISO-639-3": "gap",
-    "ln": "Gal",
-    "ang": "Gal",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1918,
     "lr": "Pacific",
+    "lc": "gap",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Baimak",
         "Weim"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Gal",
+    "gwcode": "tpi",
+    "ln": "Gal"
 }

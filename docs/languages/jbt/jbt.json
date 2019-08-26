@@ -1,21 +1,21 @@
 {
-    "pk": 2589,
-    "lc": "jbt",
+    "gw": false,
     "ISO-639-3": "jbt",
-    "ln": "Jabut\u00ed",
-    "ang": "Jabut\u00ed",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2589,
     "lr": "Americas",
+    "lc": "jbt",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Djeoromitxi",
         "Jabot\u00ed",
         "Jeoromitxi",
         "Yabut\u00ed"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Jabut\u00ed",
+    "gwcode": "pt",
+    "ln": "Jabut\u00ed"
 }

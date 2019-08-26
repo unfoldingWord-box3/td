@@ -1,11 +1,16 @@
 {
-    "pk": 3155,
-    "lc": "ksw",
+    "gw": false,
     "ISO-639-3": "ksw",
-    "ln": "S'gaw Karen",
-    "ang": "Karen, S\u2019gaw",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 3155,
     "lr": "Asia",
+    "lc": "ksw",
+    "cc": [
+        "TH",
+        "US",
+        "MM"
+    ],
     "alt": [
         "Burmese Karen",
         "Kanyaw",
@@ -25,12 +30,7 @@
         "Delta dialect of S'gaw Karen",
         "Eastern dialect of S'gaw Karen (Pa'an)"
     ],
-    "cc": [
-        "TH",
-        "US",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Karen, S\u2019gaw",
+    "gwcode": "my",
+    "ln": "S'gaw Karen"
 }

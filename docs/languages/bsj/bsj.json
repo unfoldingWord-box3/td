@@ -1,19 +1,19 @@
 {
-    "pk": 932,
-    "lc": "bsj",
+    "gw": false,
     "ISO-639-3": "bsj",
-    "ln": "Bangwinji",
-    "ang": "Bangwinji",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 932,
     "lr": "Africa",
+    "lc": "bsj",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bangjinge",
         "Bangunji"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bangwinji",
+    "gwcode": "en",
+    "ln": "Bangwinji"
 }

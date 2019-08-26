@@ -1,19 +1,19 @@
 {
-    "pk": 5463,
-    "lc": "sae",
+    "gw": false,
     "ISO-639-3": "sae",
-    "ln": "Saban\u00ea",
-    "ang": "Saban\u00ea",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 5463,
     "lr": "Americas",
+    "lc": "sae",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Saban\u00eas Sabones",
         "Sowainte"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Saban\u00ea",
+    "gwcode": "pt",
+    "ln": "Saban\u00ea"
 }

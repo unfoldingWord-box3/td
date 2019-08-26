@@ -1,11 +1,14 @@
 {
-    "pk": 3564,
-    "lc": "lop",
+    "gw": false,
     "ISO-639-3": "lop",
-    "ln": "Lopa",
-    "ang": "Lopa",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3564,
     "lr": "Africa",
+    "lc": "lop",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Djiri",
         "Kirikjir",
@@ -14,10 +17,7 @@
         "Urcibar",
         "Ollop"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lopa",
+    "gwcode": "en",
+    "ln": "Lopa"
 }

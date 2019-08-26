@@ -1,20 +1,20 @@
 {
-    "pk": 2675,
-    "lc": "jul",
+    "gw": false,
     "ISO-639-3": "jul",
-    "ln": "Jirel",
-    "ang": "Jirel",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 2675,
     "lr": "Asia",
+    "lc": "jul",
+    "cc": [
+        "NP"
+    ],
     "alt": [
         "Jiri",
         "Jirial",
         "Ziral"
     ],
-    "cc": [
-        "NP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Jirel",
+    "gwcode": "ne",
+    "ln": "Jirel"
 }

@@ -1,11 +1,20 @@
 {
-    "pk": 3985,
-    "lc": "mnk",
+    "gw": false,
     "ISO-639-3": "mnk",
-    "ln": "Mandinka",
-    "ang": "Mandinka",
     "hc": "SN",
+    "ld": "ltr",
+    "pk": 3985,
     "lr": "Africa",
+    "lc": "mnk",
+    "cc": [
+        "BJ",
+        "FR",
+        "GM",
+        "GH",
+        "SN",
+        "US",
+        "GW"
+    ],
     "alt": [
         "Mand\u00e9",
         "Manding",
@@ -16,16 +25,7 @@
         "Mandingue",
         "Mande"
     ],
-    "cc": [
-        "BJ",
-        "FR",
-        "GM",
-        "GH",
-        "SN",
-        "US",
-        "GW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mandinka",
+    "gwcode": "fr",
+    "ln": "Mandinka"
 }

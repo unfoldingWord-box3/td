@@ -1,21 +1,21 @@
 {
-    "pk": 3851,
-    "lc": "mhy",
+    "gw": false,
     "ISO-639-3": "mhy",
-    "ln": "Ma'anyan",
-    "ang": "Ma\u2019anyan",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3851,
     "lr": "Asia",
+    "lc": "mhy",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Ma'anjan",
         "Maanyak Dayak",
         "Samihim (Buluh Kuning)",
         "Sihong (Siong)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Ma\u2019anyan",
+    "gwcode": "id",
+    "ln": "Ma'anyan"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 777,
-    "lc": "blx",
+    "gw": false,
     "ISO-639-3": "blx",
-    "ln": "Mag-Indi Ayta",
-    "ang": "Ayta, Mag-Indi",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 777,
     "lr": "Asia",
+    "lc": "blx",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Indi Ayta",
         "Mag-Indi Sambal",
         "Baluga"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ayta, Mag-Indi",
+    "gwcode": "en",
+    "ln": "Mag-Indi Ayta"
 }

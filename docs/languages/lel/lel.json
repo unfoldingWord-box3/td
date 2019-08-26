@@ -1,19 +1,19 @@
 {
-    "pk": 3412,
-    "lc": "lel",
+    "gw": false,
     "ISO-639-3": "lel",
-    "ln": "Lele (Democratic Republic of Congo)",
-    "ang": "Lele",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3412,
     "lr": "Africa",
+    "lc": "lel",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Bashilele",
         "Usilele"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Lele",
+    "gwcode": "fr",
+    "ln": "Lele (Democratic Republic of Congo)"
 }

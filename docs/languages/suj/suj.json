@@ -1,21 +1,21 @@
 {
-    "pk": 5882,
-    "lc": "suj",
+    "gw": false,
     "ISO-639-3": "suj",
-    "ln": "Shubi",
-    "ang": "Shubi",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 5882,
     "lr": "Africa",
+    "lc": "suj",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kishubi",
         "Sinja",
         "Subi",
         "Urushubi"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Shubi",
+    "gwcode": "sw",
+    "ln": "Shubi"
 }

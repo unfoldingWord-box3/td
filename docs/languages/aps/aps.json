@@ -1,18 +1,18 @@
 {
-    "pk": 317,
-    "lc": "aps",
+    "gw": false,
     "ISO-639-3": "aps",
-    "ln": "Arop-Sissano",
-    "ang": "Arop-Sissano",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 317,
     "lr": "Pacific",
-    "alt": [
-        "Arop"
-    ],
+    "lc": "aps",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Arop"
+    ],
+    "ang": "Arop-Sissano",
+    "gwcode": "tpi",
+    "ln": "Arop-Sissano"
 }

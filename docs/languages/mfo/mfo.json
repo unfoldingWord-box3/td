@@ -1,20 +1,20 @@
 {
-    "pk": 3791,
-    "lc": "mfo",
+    "gw": false,
     "ISO-639-3": "mfo",
-    "ln": "Mbe",
-    "ang": "Mbe",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3791,
     "lr": "Africa",
+    "lc": "mfo",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ketuen",
         "Western Mbube",
         "Ekumtak"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mbe",
+    "gwcode": "en",
+    "ln": "Mbe"
 }

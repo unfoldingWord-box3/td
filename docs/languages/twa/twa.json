@@ -1,19 +1,19 @@
 {
-    "pk": 6404,
-    "lc": "twa",
+    "gw": false,
     "ISO-639-3": "twa",
-    "ln": "Twana",
-    "ang": "Twana",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 6404,
     "lr": "Americas",
+    "lc": "twa",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Skokomish",
         "Quilcene"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Twana",
+    "gwcode": "en",
+    "ln": "Twana"
 }

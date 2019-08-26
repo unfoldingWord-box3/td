@@ -1,20 +1,20 @@
 {
-    "pk": 3551,
-    "lc": "lob",
+    "gw": false,
     "ISO-639-3": "lob",
-    "ln": "Lobi",
-    "ang": "Lobi",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 3551,
     "lr": "Africa",
-    "alt": [
-        "Lobiri",
-        "Miwa"
-    ],
+    "lc": "lob",
     "cc": [
         "BF",
         "GH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Lobiri",
+        "Miwa"
+    ],
+    "ang": "Lobi",
+    "gwcode": "fr",
+    "ln": "Lobi"
 }

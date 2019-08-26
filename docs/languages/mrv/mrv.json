@@ -1,18 +1,18 @@
 {
-    "pk": 4091,
-    "lc": "mrv",
+    "gw": false,
     "ISO-639-3": "mrv",
-    "ln": "Mangareva",
-    "ang": "Mangareva",
     "hc": "PF",
+    "ld": "ltr",
+    "pk": 4091,
     "lr": "Pacific",
-    "alt": [
-        "Mangarevan"
-    ],
+    "lc": "mrv",
     "cc": [
         "PF"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Mangarevan"
+    ],
+    "ang": "Mangareva",
+    "gwcode": "fr",
+    "ln": "Mangareva"
 }

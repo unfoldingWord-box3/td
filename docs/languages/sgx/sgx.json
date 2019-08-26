@@ -1,16 +1,16 @@
 {
-    "pk": 5588,
-    "lc": "sgx",
+    "gw": false,
     "ISO-639-3": "sgx",
-    "ln": "Sierra Leone Sign Language",
-    "ang": "Sierra Leone Sign Language",
     "hc": "SL",
+    "ld": "ltr",
+    "pk": 5588,
     "lr": "Africa",
-    "alt": [],
+    "lc": "sgx",
     "cc": [
         "SL"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [],
+    "ang": "Sierra Leone Sign Language",
+    "gwcode": "en",
+    "ln": "Sierra Leone Sign Language"
 }

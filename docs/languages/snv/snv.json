@@ -1,19 +1,19 @@
 {
-    "pk": 5744,
-    "lc": "snv",
+    "gw": false,
     "ISO-639-3": "snv",
-    "ln": "Sa'ban",
-    "ang": "Sa\u2019ban",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 5744,
     "lr": "Asia",
-    "alt": [
-        "Merau"
-    ],
+    "lc": "snv",
     "cc": [
         "ID",
         "MY"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "alt": [
+        "Merau"
+    ],
+    "ang": "Sa\u2019ban",
+    "gwcode": "ms",
+    "ln": "Sa'ban"
 }

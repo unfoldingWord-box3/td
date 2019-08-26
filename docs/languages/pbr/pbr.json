@@ -1,20 +1,20 @@
 {
-    "pk": 4950,
-    "lc": "pbr",
+    "gw": false,
     "ISO-639-3": "pbr",
-    "ln": "Pangwa",
-    "ang": "Pangwa",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 4950,
     "lr": "Africa",
+    "lc": "pbr",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Ekipangwa",
         "Kipangwa",
         "Kimwela"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Pangwa",
+    "gwcode": "sw",
+    "ln": "Pangwa"
 }

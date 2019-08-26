@@ -1,11 +1,17 @@
 {
-    "pk": 5886,
-    "lc": "sus",
+    "gw": false,
     "ISO-639-3": "sus",
-    "ln": "Susu",
-    "ang": "Susu",
     "hc": "GN",
+    "ld": "ltr",
+    "pk": 5886,
     "lr": "Africa",
+    "lc": "sus",
+    "cc": [
+        "SN",
+        "GN",
+        "GW",
+        "SL"
+    ],
     "alt": [
         "Sose",
         "Soso",
@@ -14,13 +20,7 @@
         "Sosu",
         "Sousou"
     ],
-    "cc": [
-        "SN",
-        "GN",
-        "GW",
-        "SL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Susu",
+    "gwcode": "fr",
+    "ln": "Susu"
 }

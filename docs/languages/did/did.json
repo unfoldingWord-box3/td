@@ -1,21 +1,21 @@
 {
-    "pk": 1522,
-    "lc": "did",
+    "gw": false,
     "ISO-639-3": "did",
-    "ln": "Didinga",
-    "ang": "Didinga",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 1522,
     "lr": "Africa",
+    "lc": "did",
+    "cc": [
+        "SS"
+    ],
     "alt": [
         "Di'dinga",
         "Lango",
         "Toi",
         "Xaroxa"
     ],
-    "cc": [
-        "SS"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Didinga",
+    "gwcode": "ar",
+    "ln": "Didinga"
 }

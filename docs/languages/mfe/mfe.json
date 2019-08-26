@@ -1,19 +1,11 @@
 {
-    "pk": 3781,
-    "lc": "mfe",
+    "gw": false,
     "ISO-639-3": "mfe",
-    "ln": "Morisyen",
-    "ang": "Morisyen",
     "hc": "MU",
+    "ld": "ltr",
+    "pk": 3781,
     "lr": "Africa",
-    "alt": [
-        "Kreol",
-        "Kreole",
-        "Maurisyen",
-        "Mauritian",
-        "Mauritius Creole French",
-        "Maurysen"
-    ],
+    "lc": "mfe",
     "cc": [
         "FR",
         "KE",
@@ -22,7 +14,15 @@
         "ZA",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Kreol",
+        "Kreole",
+        "Maurisyen",
+        "Mauritian",
+        "Mauritius Creole French",
+        "Maurysen"
+    ],
+    "ang": "Morisyen",
+    "gwcode": "fr",
+    "ln": "Morisyen"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 848,
-    "lc": "bou",
+    "gw": false,
     "ISO-639-3": "bou",
-    "ln": "Bondei",
-    "ang": "Bondei",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 848,
     "lr": "Africa",
+    "lc": "bou",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Bonde",
         "Kibondei"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Bondei",
+    "gwcode": "sw",
+    "ln": "Bondei"
 }

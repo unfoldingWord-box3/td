@@ -1,19 +1,19 @@
 {
-    "pk": 109,
-    "lc": "afd",
+    "gw": false,
     "ISO-639-3": "afd",
-    "ln": "Andai",
-    "ang": "Andai",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 109,
     "lr": "Pacific",
+    "lc": "afd",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Pundungum",
         "Wangkai"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Andai",
+    "gwcode": "tpi",
+    "ln": "Andai"
 }

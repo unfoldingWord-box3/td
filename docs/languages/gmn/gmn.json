@@ -1,11 +1,14 @@
 {
-    "pk": 2064,
-    "lc": "gmn",
+    "gw": false,
     "ISO-639-3": "gmn",
-    "ln": "Gimnime",
-    "ang": "Gimnime",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 2064,
     "lr": "Africa",
+    "lc": "gmn",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Gimbe",
         "Kadam",
@@ -14,10 +17,7 @@
         "Laame",
         "Yotubo"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Gimnime",
+    "gwcode": "fr",
+    "ln": "Gimnime"
 }

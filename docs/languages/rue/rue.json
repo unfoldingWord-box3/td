@@ -1,22 +1,22 @@
 {
-    "pk": 5434,
-    "lc": "rue",
+    "gw": false,
     "ISO-639-3": "rue",
-    "ln": "Rusyn",
-    "ang": "Rusyn",
     "hc": "UA",
+    "ld": "ltr",
+    "pk": 5434,
     "lr": "Europe",
+    "lc": "rue",
+    "cc": [
+        "PL",
+        "UA"
+    ],
     "alt": [
         "Carpathian",
         "Carpatho-Rusyn",
         "Lemkovschina",
         "Rusynski"
     ],
-    "cc": [
-        "PL",
-        "UA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Rusyn",
+    "gwcode": "en",
+    "ln": "Rusyn"
 }

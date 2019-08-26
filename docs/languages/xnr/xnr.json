@@ -1,11 +1,14 @@
 {
-    "pk": 6997,
-    "lc": "xnr",
+    "gw": false,
     "ISO-639-3": "xnr",
-    "ln": "Kangri",
-    "ang": "Kangri",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6997,
     "lr": "Asia",
+    "lc": "xnr",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Kangra-Dogri",
         "Pahari",
@@ -13,10 +16,7 @@
         "Hamirpuri",
         "Palampuri"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pa"
+    "ang": "Kangri",
+    "gwcode": "pa",
+    "ln": "Kangri"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 870,
-    "lc": "bpv",
+    "gw": false,
     "ISO-639-3": "bpv",
-    "ln": "Bian Marind",
-    "ang": "Marind, Bian",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 870,
     "lr": "Asia",
+    "lc": "bpv",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Bian",
         "Boven-Mbian",
         "Northwest Marind"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Marind, Bian",
+    "gwcode": "id",
+    "ln": "Bian Marind"
 }

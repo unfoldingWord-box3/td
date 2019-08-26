@@ -1,19 +1,19 @@
 {
-    "pk": 32,
-    "lc": "abd",
+    "gw": false,
     "ISO-639-3": "abd",
-    "ln": "Manide",
-    "ang": "Manide",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 32,
     "lr": "Asia",
+    "lc": "abd",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Abiyan",
         "Camarinas Norte Agta"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Manide",
+    "gwcode": "ilo",
+    "ln": "Manide"
 }

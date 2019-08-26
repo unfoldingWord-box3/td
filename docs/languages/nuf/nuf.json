@@ -1,11 +1,14 @@
 {
-    "pk": 4679,
-    "lc": "nuf",
+    "gw": false,
     "ISO-639-3": "nuf",
-    "ln": "\u6012\u82cf\u8bed",
-    "ang": "Nusu",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 4679,
     "lr": "Asia",
+    "lc": "nuf",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Nang Tsu",
         "No Tso",
@@ -21,10 +24,7 @@
         "Tuoping",
         "Yuoduoluo"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Nusu",
+    "gwcode": "zh",
+    "ln": "\u6012\u82cf\u8bed"
 }

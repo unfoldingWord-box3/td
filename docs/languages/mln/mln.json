@@ -1,18 +1,18 @@
 {
-    "pk": 3938,
-    "lc": "mln",
+    "gw": false,
     "ISO-639-3": "mln",
-    "ln": "Malango",
-    "ang": "Malango",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 3938,
     "lr": "Pacific",
-    "alt": [
-        "Teha"
-    ],
+    "lc": "mln",
     "cc": [
         "SB"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "alt": [
+        "Teha"
+    ],
+    "ang": "Malango",
+    "gwcode": "UNKNOWN",
+    "ln": "Malango"
 }

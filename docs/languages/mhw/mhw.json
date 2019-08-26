@@ -1,11 +1,17 @@
 {
-    "pk": 3849,
-    "lc": "mhw",
+    "gw": false,
     "ISO-639-3": "mhw",
-    "ln": "Mbukushu",
-    "ang": "Mbukushu",
     "hc": "NA",
+    "ld": "ltr",
+    "pk": 3849,
     "lr": "Africa",
+    "lc": "mhw",
+    "cc": [
+        "ZM",
+        "AO",
+        "BW",
+        "NA"
+    ],
     "alt": [
         "Cusso",
         "Gova",
@@ -18,13 +24,7 @@
         "Kusso",
         "Thimukushu"
     ],
-    "cc": [
-        "ZM",
-        "AO",
-        "BW",
-        "NA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mbukushu",
+    "gwcode": "en",
+    "ln": "Mbukushu"
 }

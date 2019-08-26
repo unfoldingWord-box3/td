@@ -1,11 +1,14 @@
 {
-    "pk": 7096,
-    "lc": "xwg",
+    "gw": false,
     "ISO-639-3": "xwg",
-    "ln": "Kwegu",
-    "ang": "Kwegu",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 7096,
     "lr": "Africa",
+    "lc": "xwg",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Bacha",
         "Koegu",
@@ -15,10 +18,7 @@
         "Yidinich (Yidi)",
         "Yidinit"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Kwegu",
+    "gwcode": "am",
+    "ln": "Kwegu"
 }

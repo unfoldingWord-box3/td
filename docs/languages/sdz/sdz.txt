@@ -1,0 +1,24 @@
+.. _sdz:
+
+Sallands
+========
+
+This language is spoken in the following countries:
+
+* NL: Netherlands
+
+.. code-block:: yaml
+
+    ISO_639-3: sdz
+    alternate_names:
+    - Sallan
+    - Salland
+    anglicanized_name: Sallands
+    country_codes:
+    - NL
+    gateway_language: UNKNOWN
+    lang_code: sdz
+    lang_direction: ltr
+    lang_name: Sallands
+    lang_region: Europe
+    

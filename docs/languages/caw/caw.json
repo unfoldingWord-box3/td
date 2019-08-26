@@ -1,18 +1,18 @@
 {
-    "pk": 1128,
-    "lc": "caw",
+    "gw": false,
     "ISO-639-3": "caw",
-    "ln": "Callawalla",
-    "ang": "Callawalla",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 1128,
     "lr": "Americas",
-    "alt": [
-        "Callahuaya"
-    ],
+    "lc": "caw",
     "cc": [
         "BO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Callahuaya"
+    ],
+    "ang": "Callawalla",
+    "gwcode": "es-419",
+    "ln": "Callawalla"
 }

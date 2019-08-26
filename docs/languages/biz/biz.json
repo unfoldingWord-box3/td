@@ -1,21 +1,21 @@
 {
-    "pk": 708,
-    "lc": "biz",
+    "gw": false,
     "ISO-639-3": "biz",
-    "ln": "Baloi",
-    "ang": "Baloi",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 708,
     "lr": "Africa",
+    "lc": "biz",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Baato Baloi",
         "Boloi",
         "Rebu",
         "Dzamba (Jamba)"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Baloi",
+    "gwcode": "fr",
+    "ln": "Baloi"
 }

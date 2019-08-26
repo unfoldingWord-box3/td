@@ -1,18 +1,18 @@
 {
-    "pk": 7441,
-    "lc": "zpe",
+    "gw": false,
     "ISO-639-3": "zpe",
-    "ln": "Petapa Zapotec",
-    "ang": "Zapotec, Petapa",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7441,
     "lr": "Americas",
-    "alt": [
-        "Zapoteco de Santa Mar\u00eda Petapa"
-    ],
+    "lc": "zpe",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Zapoteco de Santa Mar\u00eda Petapa"
+    ],
+    "ang": "Zapotec, Petapa",
+    "gwcode": "es-419",
+    "ln": "Petapa Zapotec"
 }

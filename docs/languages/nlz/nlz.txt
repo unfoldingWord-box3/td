@@ -1,0 +1,25 @@
+.. _nlz:
+
+Nalögo
+=======
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: nlz
+    alternate_names:
+    - Nalrgo
+    - Nea
+    - Southern Santa Cruz
+    anglicanized_name: Nalögo
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: nlz
+    lang_direction: ltr
+    lang_name: Nalögo
+    lang_region: Pacific
+    

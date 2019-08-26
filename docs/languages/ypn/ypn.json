@@ -1,11 +1,14 @@
 {
-    "pk": 7263,
-    "lc": "ypn",
+    "gw": false,
     "ISO-639-3": "ypn",
-    "ln": "Ani Phowa",
-    "ang": "Phowa, Ani",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7263,
     "lr": "Asia",
+    "lc": "ypn",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Anipho",
         "Flowery Phu",
@@ -17,10 +20,7 @@
         "Dayongsheng",
         "Xibeile"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Phowa, Ani",
+    "gwcode": "zh",
+    "ln": "Ani Phowa"
 }

@@ -1,21 +1,11 @@
 {
-    "pk": 108,
-    "lc": "afb",
+    "gw": false,
     "ISO-639-3": "afb",
-    "ln": "\u062e\u0644\u064a\u062c\u064a",
-    "ang": "Arabic, Gulf Spoken",
     "hc": "KW",
+    "ld": "rtl",
+    "pk": 108,
     "lr": "Asia",
-    "alt": [
-        "Khamseh",
-        "Al-Has\u00e2",
-        "Gulf Arabic",
-        "Khaliji",
-        "Bedawi",
-        "Omani Bedawi Arabic",
-        "Qatari",
-        "Gulf Spoken"
-    ],
+    "lc": "afb",
     "cc": [
         "IR",
         "OM",
@@ -31,7 +21,17 @@
         "QA",
         "AE"
     ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ar"
+    "alt": [
+        "Khamseh",
+        "Al-Has\u00e2",
+        "Gulf Arabic",
+        "Khaliji",
+        "Bedawi",
+        "Omani Bedawi Arabic",
+        "Qatari",
+        "Gulf Spoken"
+    ],
+    "ang": "Arabic, Gulf Spoken",
+    "gwcode": "ar",
+    "ln": "\u062e\u0644\u064a\u062c\u064a"
 }

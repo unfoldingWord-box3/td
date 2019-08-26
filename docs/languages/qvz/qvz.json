@@ -1,11 +1,15 @@
 {
-    "pk": 5283,
-    "lc": "qvz",
+    "gw": false,
     "ISO-639-3": "qvz",
-    "ln": "Northern Pastaza Quichua",
-    "ang": "Quichua, Northern Pastaza",
     "hc": "EC",
+    "ld": "ltr",
+    "pk": 5283,
     "lr": "Americas",
+    "lc": "qvz",
+    "cc": [
+        "PE",
+        "EC"
+    ],
     "alt": [
         "Alama",
         "Bobonaza Quichua",
@@ -14,11 +18,7 @@
         "Sarayacu Quichua",
         "Bobonaza"
     ],
-    "cc": [
-        "PE",
-        "EC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quichua, Northern Pastaza",
+    "gwcode": "es-419",
+    "ln": "Northern Pastaza Quichua"
 }

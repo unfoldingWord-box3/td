@@ -1,20 +1,20 @@
 {
-    "pk": 30,
-    "lc": "abb",
+    "gw": false,
     "ISO-639-3": "abb",
-    "ln": "Bankon",
-    "ang": "Bankon",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 30,
     "lr": "Africa",
+    "lc": "abb",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Abaw",
         "Bo",
         "Bon"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bankon",
+    "gwcode": "fr",
+    "ln": "Bankon"
 }

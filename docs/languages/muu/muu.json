@@ -1,11 +1,14 @@
 {
-    "pk": 4164,
-    "lc": "muu",
+    "gw": false,
     "ISO-639-3": "muu",
-    "ln": "Yaaku",
-    "ang": "Yaaku",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 4164,
     "lr": "Africa",
+    "lc": "muu",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Mogogodo",
         "Mukogodo",
@@ -18,10 +21,7 @@
         "Palaung",
         "Shwe"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Yaaku",
+    "gwcode": "sw",
+    "ln": "Yaaku"
 }

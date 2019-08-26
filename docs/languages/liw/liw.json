@@ -1,21 +1,21 @@
 {
-    "pk": 3472,
-    "lc": "liw",
+    "gw": false,
     "ISO-639-3": "liw",
-    "ln": "Col",
-    "ang": "Col",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3472,
     "lr": "Asia",
+    "lc": "liw",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Cul",
         "Sindang",
         "Beliti; Lubuk Linggau",
         "Lembak Delapan"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Col",
+    "gwcode": "id",
+    "ln": "Col"
 }

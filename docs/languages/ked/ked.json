@@ -1,20 +1,20 @@
 {
-    "pk": 2786,
-    "lc": "ked",
+    "gw": false,
     "ISO-639-3": "ked",
-    "ln": "Kerewe",
-    "ang": "Kerewe",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 2786,
     "lr": "Africa",
+    "lc": "ked",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Ekikerebe",
         "Kerebe",
         "Kikwere"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Kerewe",
+    "gwcode": "sw",
+    "ln": "Kerewe"
 }

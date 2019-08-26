@@ -1,11 +1,14 @@
 {
-    "pk": 2931,
-    "lc": "kjz",
+    "gw": false,
     "ISO-639-3": "kjz",
-    "ln": "Bumthangkha",
-    "ang": "Bumthangkha",
     "hc": "BT",
+    "ld": "ltr",
+    "pk": 2931,
     "lr": "Asia",
+    "lc": "kjz",
+    "cc": [
+        "BT"
+    ],
     "alt": [
         "Bhumtam",
         "Bumtang",
@@ -15,10 +18,7 @@
         "Bumthapkha",
         "Kebumtamp"
     ],
-    "cc": [
-        "BT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "dz"
+    "ang": "Bumthangkha",
+    "gwcode": "UNKNOWN",
+    "ln": "Bumthangkha"
 }

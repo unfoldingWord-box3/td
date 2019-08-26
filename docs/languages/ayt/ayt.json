@@ -1,20 +1,20 @@
 {
-    "pk": 474,
-    "lc": "ayt",
+    "gw": false,
     "ISO-639-3": "ayt",
-    "ln": "Magbukun Ayta",
-    "ang": "Ayta, Magbukun",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 474,
     "lr": "Asia",
+    "lc": "ayt",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Bataan Ayta",
         "Bataan Sambal",
         "Mariveles Ayta"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ayta, Magbukun",
+    "gwcode": "en",
+    "ln": "Magbukun Ayta"
 }

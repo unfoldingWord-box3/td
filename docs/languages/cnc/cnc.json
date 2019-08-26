@@ -1,21 +1,21 @@
 {
-    "pk": 1274,
-    "lc": "cnc",
+    "gw": false,
     "ISO-639-3": "cnc",
-    "ln": "C\u00f4\u00f4ng",
-    "ang": "C\u00f4\u00f4ng",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 1274,
     "lr": "Asia",
+    "lc": "cnc",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Khoong",
         "Xa Coong",
         "Xa Xam",
         "Xa Xeng"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "C\u00f4\u00f4ng",
+    "gwcode": "vi",
+    "ln": "C\u00f4\u00f4ng"
 }

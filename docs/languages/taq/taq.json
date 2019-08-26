@@ -1,11 +1,16 @@
 {
-    "pk": 5976,
-    "lc": "taq",
+    "gw": false,
     "ISO-639-3": "taq",
-    "ln": "Tamasheq",
-    "ang": "Tamasheq",
     "hc": "ML",
+    "ld": "ltr",
+    "pk": 5976,
     "lr": "Africa",
+    "lc": "taq",
+    "cc": [
+        "BF",
+        "ML",
+        "MR"
+    ],
     "alt": [
         "Tamashekin",
         "Tomacheck",
@@ -17,12 +22,7 @@
         "Timbuktu (Tanaslamt)",
         "Tombouctou"
     ],
-    "cc": [
-        "BF",
-        "ML",
-        "MR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Tamasheq",
+    "gwcode": "fr",
+    "ln": "Tamasheq"
 }

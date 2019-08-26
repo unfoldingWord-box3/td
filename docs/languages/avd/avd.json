@@ -1,19 +1,19 @@
 {
-    "pk": 428,
-    "lc": "avd",
+    "gw": false,
     "ISO-639-3": "avd",
-    "ln": "Alviri-Vidari",
-    "ang": "Alviri-Vidari",
     "hc": "IR",
+    "ld": "ltr",
+    "pk": 428,
     "lr": "Asia",
+    "lc": "avd",
+    "cc": [
+        "IR"
+    ],
     "alt": [
         "Alvir (Alviri)",
         "Vidar (Vidari)"
     ],
-    "cc": [
-        "IR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fa"
+    "ang": "Alviri-Vidari",
+    "gwcode": "fa",
+    "ln": "Alviri-Vidari"
 }

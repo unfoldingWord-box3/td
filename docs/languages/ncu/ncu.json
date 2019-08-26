@@ -1,11 +1,14 @@
 {
-    "pk": 4350,
-    "lc": "ncu",
+    "gw": false,
     "ISO-639-3": "ncu",
-    "ln": "Chumburung",
-    "ang": "Chumburung",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 4350,
     "lr": "Africa",
+    "lc": "ncu",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Kyongborong",
         "Nchimburu",
@@ -18,10 +21,7 @@
         "Lonto",
         "Northern Chumburung (Banda)"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Chumburung",
+    "gwcode": "en",
+    "ln": "Chumburung"
 }

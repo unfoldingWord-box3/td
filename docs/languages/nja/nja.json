@@ -1,11 +1,15 @@
 {
-    "pk": 4478,
-    "lc": "nja",
+    "gw": false,
     "ISO-639-3": "nja",
-    "ln": "Nzanyi",
-    "ang": "Nzanyi",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4478,
     "lr": "Africa",
+    "lc": "nja",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Jeng",
         "Kobochi",
@@ -22,11 +26,7 @@
         "Jenge",
         "Njeing"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nzanyi",
+    "gwcode": "en",
+    "ln": "Nzanyi"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 4354,
-    "lc": "nda",
+    "gw": false,
     "ISO-639-3": "nda",
-    "ln": "Ndasa",
-    "ang": "Ndasa",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 4354,
     "lr": "Africa",
+    "lc": "nda",
+    "cc": [
+        "GA",
+        "CG"
+    ],
     "alt": [
         "Andasa",
         "Ndash",
         "Ndassa"
     ],
-    "cc": [
-        "GA",
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ndasa",
+    "gwcode": "fr",
+    "ln": "Ndasa"
 }

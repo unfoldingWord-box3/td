@@ -1,19 +1,19 @@
 {
-    "pk": 731,
-    "lc": "bka",
+    "gw": false,
     "ISO-639-3": "bka",
-    "ln": "Kyak",
-    "ang": "Kyak",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 731,
     "lr": "Africa",
+    "lc": "bka",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bambuka",
         "Nyakyak"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kyak",
+    "gwcode": "en",
+    "ln": "Kyak"
 }

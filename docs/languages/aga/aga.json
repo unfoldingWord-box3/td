@@ -1,21 +1,21 @@
 {
-    "pk": 122,
-    "lc": "aga",
+    "gw": false,
     "ISO-639-3": "aga",
-    "ln": "Aguano",
-    "ang": "Aguano",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 122,
     "lr": "Americas",
+    "lc": "aga",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Aguanu",
         "Awano",
         "Santa Crucino",
         "Uguano"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Aguano",
+    "gwcode": "es-419",
+    "ln": "Aguano"
 }

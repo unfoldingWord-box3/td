@@ -1,18 +1,18 @@
 {
-    "pk": 546,
-    "lc": "bcm",
+    "gw": false,
     "ISO-639-3": "bcm",
-    "ln": "Bannoni",
-    "ang": "Bannoni",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 546,
     "lr": "Pacific",
-    "alt": [
-        "Tsunari"
-    ],
+    "lc": "bcm",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Tsunari"
+    ],
+    "ang": "Bannoni",
+    "gwcode": "en",
+    "ln": "Bannoni"
 }

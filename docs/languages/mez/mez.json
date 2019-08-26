@@ -1,18 +1,18 @@
 {
-    "pk": 3776,
-    "lc": "mez",
+    "gw": false,
     "ISO-639-3": "mez",
-    "ln": "Menominee",
-    "ang": "Menominee",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 3776,
     "lr": "Americas",
-    "alt": [
-        "Menomini"
-    ],
+    "lc": "mez",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Menomini"
+    ],
+    "ang": "Menominee",
+    "gwcode": "en",
+    "ln": "Menominee"
 }

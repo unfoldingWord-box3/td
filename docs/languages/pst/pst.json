@@ -1,20 +1,20 @@
 {
-    "pk": 5193,
-    "lc": "pst",
+    "gw": false,
     "ISO-639-3": "pst",
-    "ln": "\u0645\u0646\u0681\u0646\u06cd \u067e\u069a\u062a\u0648",
-    "ang": "Pashto, Central",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 5193,
     "lr": "Asia",
+    "lc": "pst",
+    "cc": [
+        "PK"
+    ],
     "alt": [
         "Bannu",
         "Bannuchi (Bannochi)",
         "Waciri (Waziri)"
     ],
-    "cc": [
-        "PK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Pashto, Central",
+    "gwcode": "ur",
+    "ln": "\u0645\u0646\u0681\u0646\u06cd \u067e\u069a\u062a\u0648"
 }

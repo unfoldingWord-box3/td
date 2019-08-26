@@ -1,19 +1,19 @@
 {
-    "pk": 1343,
-    "lc": "crz",
+    "gw": false,
     "ISO-639-3": "crz",
-    "ln": "Cruze\u00f1o",
-    "ang": "Cruze\u00f1o",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 1343,
     "lr": "Americas",
+    "lc": "crz",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Island Chumash",
         "Isle\u00f1o"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Cruze\u00f1o",
+    "gwcode": "en",
+    "ln": "Cruze\u00f1o"
 }

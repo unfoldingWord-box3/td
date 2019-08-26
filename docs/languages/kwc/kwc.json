@@ -1,20 +1,20 @@
 {
-    "pk": 3237,
-    "lc": "kwc",
+    "gw": false,
     "ISO-639-3": "kwc",
-    "ln": "Likwala",
-    "ang": "Likwala",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 3237,
     "lr": "Africa",
+    "lc": "kwc",
+    "cc": [
+        "CG"
+    ],
     "alt": [
         "Ekwala",
         "Kwala",
         "Likouala"
     ],
-    "cc": [
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Likwala",
+    "gwcode": "fr",
+    "ln": "Likwala"
 }

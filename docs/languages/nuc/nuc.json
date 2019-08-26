@@ -1,20 +1,20 @@
 {
-    "pk": 4676,
-    "lc": "nuc",
+    "gw": false,
     "ISO-639-3": "nuc",
-    "ln": "Nukuini",
-    "ang": "Nukuini",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 4676,
     "lr": "Americas",
+    "lc": "nuc",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Cuyanawa",
         "Nukini",
         "Nuquini"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Nukuini",
+    "gwcode": "pt",
+    "ln": "Nukuini"
 }

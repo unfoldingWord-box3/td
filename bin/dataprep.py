@@ -80,7 +80,7 @@ for lnj in jlndata:
     #print (lc)
     ### DEBUG CODE ###
     ### only actually create a few language dirs
-    #tomatch = "^(ca|en|es|gaj|dnr|tpi)$"
+    #tomatch = "^(ca|en|es|gaj|dnr|tpi|gwj)$"
     #ismatch = re.search(tomatch, lc)
     #if (not ismatch) : 
     #    continue
@@ -146,13 +146,16 @@ for lnj in jlndata:
         "lr":"lang_region",
         "cc":"country_codes",
         }
-    # next write the "lc".rst page
-    fpath = path + "/" + lc + ".rst"
+    # next write the "lc".txt page
+    fpath = path + "/" + lc + ".txt"
     with open(fpath,"w") as rst:
         rst.write(".. _%s:\n\n" % lc)
         ln = lnj["ln"]
+        if ln[0] == "|": # for lang name = |Gwj... really!
+            ln = '\\' + ln
         uln = ln.encode("utf-8")
-        rst.write("%s\n%s\n\n" % (lnj["ln"], ('=' * len(uln))))
+            
+        rst.write("%s\n%s\n\n" % (ln, ('=' * len(uln))))
         if len(lc) == 2:
             i639_code = lnj["ISO-639-3"]
             rst.write("%s%s%s%s%s\n\n" % (note_a,i639_code,note_b,i639_code,note_c))

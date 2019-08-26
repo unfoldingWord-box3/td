@@ -1,19 +1,19 @@
 {
-    "pk": 2272,
-    "lc": "hik",
+    "gw": false,
     "ISO-639-3": "hik",
-    "ln": "Seit-Kaitetu",
-    "ang": "Seit-Kaitetu",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2272,
     "lr": "Asia",
+    "lc": "hik",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Hila-Kaitetu",
         "Seit (Seith)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Seit-Kaitetu",
+    "gwcode": "id",
+    "ln": "Seit-Kaitetu"
 }

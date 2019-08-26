@@ -1,11 +1,14 @@
 {
-    "pk": 6089,
-    "lc": "tgo",
+    "gw": false,
     "ISO-639-3": "tgo",
-    "ln": "Sudest",
-    "ang": "Sudest",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6089,
     "lr": "Pacific",
+    "lc": "tgo",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Sud-Est",
         "Tagula",
@@ -17,10 +20,7 @@
         "Rehuwo",
         "Western Sudest (Dtelha)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Sudest",
+    "gwcode": "tpi",
+    "ln": "Sudest"
 }

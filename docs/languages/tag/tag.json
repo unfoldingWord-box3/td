@@ -1,18 +1,18 @@
 {
-    "pk": 5969,
-    "lc": "tag",
+    "gw": false,
     "ISO-639-3": "tag",
-    "ln": "Tagoi",
-    "ang": "Tagoi",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 5969,
     "lr": "Africa",
-    "alt": [
-        "Tagoy"
-    ],
+    "lc": "tag",
     "cc": [
         "SD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Tagoy"
+    ],
+    "ang": "Tagoi",
+    "gwcode": "ar",
+    "ln": "Tagoi"
 }

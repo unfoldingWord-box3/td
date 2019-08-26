@@ -1,11 +1,15 @@
 {
-    "pk": 7428,
-    "lc": "zng",
+    "gw": false,
     "ISO-639-3": "zng",
-    "ln": "Mang",
-    "ang": "Mang",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 7428,
     "lr": "Asia",
+    "lc": "zng",
+    "cc": [
+        "CN",
+        "VN"
+    ],
     "alt": [
         "Ba'e",
         "Manbu",
@@ -18,11 +22,7 @@
         "L\u00e1 V\u00e0ng",
         "X\u00e1"
     ],
-    "cc": [
-        "CN",
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Mang",
+    "gwcode": "vi",
+    "ln": "Mang"
 }

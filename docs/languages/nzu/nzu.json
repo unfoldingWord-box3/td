@@ -1,19 +1,19 @@
 {
-    "pk": 4753,
-    "lc": "nzu",
+    "gw": false,
     "ISO-639-3": "nzu",
-    "ln": "Teke-Nzikou",
-    "ang": "Teke-Nzikou",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 4753,
     "lr": "Africa",
+    "lc": "nzu",
+    "cc": [
+        "CG"
+    ],
     "alt": [
         "Njiunjiu",
         "Teke-Eboo"
     ],
-    "cc": [
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Teke-Nzikou",
+    "gwcode": "fr",
+    "ln": "Teke-Nzikou"
 }

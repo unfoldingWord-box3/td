@@ -1,11 +1,16 @@
 {
-    "pk": 6117,
-    "lc": "thv",
+    "gw": false,
     "ISO-639-3": "thv",
-    "ln": "\u062a\u0645\u0627\u0647\u0642",
-    "ang": "Tamahaq, Tahaggart",
     "hc": "DZ",
+    "ld": "ltr",
+    "pk": 6117,
     "lr": "Africa",
+    "lc": "thv",
+    "cc": [
+        "DZ",
+        "NE",
+        "LY"
+    ],
     "alt": [
         "Tamachek",
         "Tamashekin",
@@ -21,12 +26,7 @@
         "Hoggar (Ahaggaren)",
         "Tahaggart"
     ],
-    "cc": [
-        "DZ",
-        "NE",
-        "LY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Tamahaq, Tahaggart",
+    "gwcode": "ar",
+    "ln": "\u062a\u0645\u0627\u0647\u0642"
 }

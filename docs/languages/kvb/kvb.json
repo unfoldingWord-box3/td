@@ -1,20 +1,20 @@
 {
-    "pk": 3209,
-    "lc": "kvb",
+    "gw": false,
     "ISO-639-3": "kvb",
-    "ln": "Kubu",
-    "ang": "Kubu",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3209,
     "lr": "Asia",
+    "lc": "kvb",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Orang Hutan",
         "Orang Rimba",
         "Jambi"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kubu",
+    "gwcode": "id",
+    "ln": "Kubu"
 }

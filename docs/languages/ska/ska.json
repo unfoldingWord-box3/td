@@ -1,19 +1,19 @@
 {
-    "pk": 5657,
-    "lc": "ska",
+    "gw": false,
     "ISO-639-3": "ska",
-    "ln": "Skagit",
-    "ang": "Skagit",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 5657,
     "lr": "Americas",
+    "lc": "ska",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Swinomish",
         "Northern Lushootseed"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Skagit",
+    "gwcode": "en",
+    "ln": "Skagit"
 }

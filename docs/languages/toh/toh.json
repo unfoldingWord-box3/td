@@ -1,11 +1,14 @@
 {
-    "pk": 6249,
-    "lc": "toh",
+    "gw": false,
     "ISO-639-3": "toh",
-    "ln": "Gitonga",
-    "ang": "Tonga",
     "hc": "MZ",
+    "ld": "ltr",
+    "pk": 6249,
     "lr": "Africa",
+    "lc": "toh",
+    "cc": [
+        "MZ"
+    ],
     "alt": [
         "Bitonga",
         "Inhambane",
@@ -14,10 +17,7 @@
         "Nyambe (Cinyambe)",
         "Sewi (Gisewi)"
     ],
-    "cc": [
-        "MZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Tonga",
+    "gwcode": "pt",
+    "ln": "Gitonga"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 3615,
-    "lc": "lu",
+    "gw": false,
     "ISO-639-3": "lub",
-    "ln": "Tshiluba",
-    "ang": "Luba-Katanga",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3615,
     "lr": "Africa",
+    "lc": "lu",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kiluba",
         "Luba-Shaba"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Luba-Katanga",
+    "gwcode": "fr",
+    "ln": "Tshiluba"
 }

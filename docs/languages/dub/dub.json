@@ -1,21 +1,21 @@
 {
-    "pk": 1651,
-    "lc": "dub",
+    "gw": false,
     "ISO-639-3": "dub",
-    "ln": "Dubli",
-    "ang": "Dubli",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1651,
     "lr": "Asia",
+    "lc": "dub",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Dubala",
         "Dubla",
         "Rathod",
         "Talavia"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "gu"
+    "ang": "Dubli",
+    "gwcode": "gu",
+    "ln": "Dubli"
 }

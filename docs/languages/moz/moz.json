@@ -1,11 +1,14 @@
 {
-    "pk": 4020,
-    "lc": "moz",
+    "gw": false,
     "ISO-639-3": "moz",
-    "ln": "Mokilko",
-    "ang": "Mokilko",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 4020,
     "lr": "Africa",
+    "lc": "moz",
+    "cc": [
+        "TD"
+    ],
     "alt": [
         "Diongor Guera",
         "Djonkor Guera",
@@ -17,10 +20,7 @@
         "Mokulu",
         "Doliki"
     ],
-    "cc": [
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Mokilko",
+    "gwcode": "ar",
+    "ln": "Mokilko"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 5157,
-    "lc": "prd",
+    "gw": false,
     "ISO-639-3": "prd",
-    "ln": "Parsi-Dari",
-    "ang": "Parsi-Dari",
     "hc": "IR",
+    "ld": "ltr",
+    "pk": 5157,
     "lr": "Asia",
+    "lc": "prd",
+    "cc": [
+        "IR"
+    ],
     "alt": [
         "Parsee",
         "Parsee-Dari",
         "Parsi"
     ],
-    "cc": [
-        "IR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fa"
+    "ang": "Parsi-Dari",
+    "gwcode": "fa",
+    "ln": "Parsi-Dari"
 }

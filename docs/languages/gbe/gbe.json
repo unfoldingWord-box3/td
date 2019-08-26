@@ -1,20 +1,20 @@
 {
-    "pk": 1931,
-    "lc": "gbe",
+    "gw": false,
     "ISO-639-3": "gbe",
-    "ln": "Niksek",
-    "ang": "Niksek",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1931,
     "lr": "Pacific",
+    "lc": "gbe",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Sumwari",
         "Gabiano (Kabiano)",
         "Meiyari (\"Paka\")"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Niksek",
+    "gwcode": "tpi",
+    "ln": "Niksek"
 }

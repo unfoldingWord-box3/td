@@ -1,11 +1,15 @@
 {
-    "pk": 5844,
-    "lc": "sss",
+    "gw": false,
     "ISO-639-3": "sss",
-    "ln": "S\u00f4",
-    "ang": "S\u00f4",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 5844,
     "lr": "Asia",
+    "lc": "sss",
+    "cc": [
+        "LA",
+        "TH"
+    ],
     "alt": [
         "Bru",
         "Kah So",
@@ -16,11 +20,7 @@
         "Thro",
         "Kha So"
     ],
-    "cc": [
-        "LA",
-        "TH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "S\u00f4",
+    "gwcode": "lo",
+    "ln": "S\u00f4"
 }

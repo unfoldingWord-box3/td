@@ -1,18 +1,18 @@
 {
-    "pk": 4095,
-    "lc": "mrz",
+    "gw": false,
     "ISO-639-3": "mrz",
-    "ln": "Marind",
-    "ang": "Marind",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4095,
     "lr": "Asia",
-    "alt": [
-        "Holifoersch"
-    ],
+    "lc": "mrz",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Holifoersch"
+    ],
+    "ang": "Marind",
+    "gwcode": "id",
+    "ln": "Marind"
 }

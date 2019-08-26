@@ -1,19 +1,19 @@
 {
-    "pk": 6242,
-    "lc": "tnz",
+    "gw": false,
     "ISO-639-3": "tnz",
-    "ln": "Ten'edn",
-    "ang": "Tonga",
     "hc": "TH",
+    "ld": "ltr",
+    "pk": 6242,
     "lr": "Asia",
+    "lc": "tnz",
+    "cc": [
+        "TH"
+    ],
     "alt": [
         "Mos Tean-ean",
         "Mos"
     ],
-    "cc": [
-        "TH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "th"
+    "ang": "Tonga",
+    "gwcode": "th",
+    "ln": "Ten'edn"
 }

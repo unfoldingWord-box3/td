@@ -1,19 +1,19 @@
 {
-    "pk": 6268,
-    "lc": "tpf",
+    "gw": false,
     "ISO-639-3": "tpf",
-    "ln": "Tarpia",
-    "ang": "Tarpia",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6268,
     "lr": "Asia",
+    "lc": "tpf",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Sufrai",
         "Tarfia"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tarpia",
+    "gwcode": "id",
+    "ln": "Tarpia"
 }

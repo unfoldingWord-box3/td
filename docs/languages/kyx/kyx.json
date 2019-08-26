@@ -1,19 +1,19 @@
 {
-    "pk": 3306,
-    "lc": "kyx",
+    "gw": false,
     "ISO-639-3": "kyx",
-    "ln": "Rapoisi",
-    "ang": "Rapoisi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3306,
     "lr": "Pacific",
+    "lc": "kyx",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Konua",
         "Kunua"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Rapoisi",
+    "gwcode": "tpi",
+    "ln": "Rapoisi"
 }

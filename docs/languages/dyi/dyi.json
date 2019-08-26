@@ -1,21 +1,21 @@
 {
-    "pk": 1680,
-    "lc": "dyi",
+    "gw": false,
     "ISO-639-3": "dyi",
-    "ln": "Djimini Senoufo",
-    "ang": "S\u00e9noufo, Djimini",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 1680,
     "lr": "Africa",
+    "lc": "dyi",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Dyimini",
         "Jinmini",
         "Diamala (Djamala)",
         "Dyamala"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "S\u00e9noufo, Djimini",
+    "gwcode": "fr",
+    "ln": "Djimini Senoufo"
 }

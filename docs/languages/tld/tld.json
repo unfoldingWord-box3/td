@@ -1,11 +1,14 @@
 {
-    "pk": 6175,
-    "lc": "tld",
+    "gw": false,
     "ISO-639-3": "tld",
-    "ln": "Talaud",
-    "ang": "Talaud",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6175,
     "lr": "Asia",
+    "lc": "tld",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Talaur",
         "Talaut",
@@ -16,10 +19,7 @@
         "Karakelong",
         "Lirang (Salebabu)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Talaud",
+    "gwcode": "id",
+    "ln": "Talaud"
 }

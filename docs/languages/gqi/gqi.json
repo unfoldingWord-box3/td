@@ -1,20 +1,20 @@
 {
-    "pk": 2118,
-    "lc": "gqi",
+    "gw": false,
     "ISO-639-3": "gqi",
-    "ln": "\u8cb4\u74ca",
-    "ang": "Guiqiong",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2118,
     "lr": "Asia",
+    "lc": "gqi",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Guichong",
         "Guiqiang",
         "Yutong"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Guiqiong",
+    "gwcode": "zh",
+    "ln": "\u8cb4\u74ca"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 2793,
-    "lc": "kek",
+    "gw": false,
     "ISO-639-3": "kek",
-    "ln": "Kekch\u00ed",
-    "ang": "Q\u2019eqchi\u2019",
     "hc": "GT",
+    "ld": "ltr",
+    "pk": 2793,
     "lr": "Americas",
+    "lc": "kek",
+    "cc": [
+        "BZ",
+        "GT"
+    ],
     "alt": [
         "Cacch\u00e9",
         "Ketch\u00ed",
@@ -17,11 +21,7 @@
         "Quecchi'",
         "Alta Verapaz Cob\u00e1n"
     ],
-    "cc": [
-        "BZ",
-        "GT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Q\u2019eqchi\u2019",
+    "gwcode": "es-419",
+    "ln": "Kekch\u00ed"
 }

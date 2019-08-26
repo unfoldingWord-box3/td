@@ -1,11 +1,14 @@
 {
-    "pk": 4275,
-    "lc": "mzo",
+    "gw": false,
     "ISO-639-3": "mzo",
-    "ln": "Matipuhy",
-    "ang": "Matipuhy",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 4275,
     "lr": "Americas",
+    "lc": "mzo",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Nahuku\u00e1 (Nafukw\u00e1)",
         "Nahukwa",
@@ -14,10 +17,7 @@
         "Mariape-Nahuqua",
         "Matipu"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Matipuhy",
+    "gwcode": "pt",
+    "ln": "Matipuhy"
 }

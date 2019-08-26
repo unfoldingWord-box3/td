@@ -1,18 +1,18 @@
 {
-    "pk": 140,
-    "lc": "agt",
+    "gw": false,
     "ISO-639-3": "agt",
-    "ln": "Central Cagayan Agta",
-    "ang": "Agta, Central Cagayan",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 140,
     "lr": "Asia",
-    "alt": [
-        "Labin Agta"
-    ],
+    "lc": "agt",
     "cc": [
         "PH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "alt": [
+        "Labin Agta"
+    ],
+    "ang": "Agta, Central Cagayan",
+    "gwcode": "ilo",
+    "ln": "Central Cagayan Agta"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 4586,
-    "lc": "nof",
+    "gw": false,
     "ISO-639-3": "nof",
-    "ln": "Nomane",
-    "ang": "Nomane",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4586,
     "lr": "Pacific",
+    "lc": "nof",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Siar/Siarha (Kiari)",
         "Gomla",
         "Kewo-Meba (Nomane)",
         "Meine"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Nomane",
+    "gwcode": "tpi",
+    "ln": "Nomane"
 }

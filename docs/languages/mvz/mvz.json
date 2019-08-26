@@ -1,19 +1,19 @@
 {
-    "pk": 4191,
-    "lc": "mvz",
+    "gw": false,
     "ISO-639-3": "mvz",
-    "ln": "Mesqan",
-    "ang": "Mesqan",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 4191,
     "lr": "Africa",
+    "lc": "mvz",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Masqan",
         "Meskan"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Mesqan",
+    "gwcode": "am",
+    "ln": "Mesqan"
 }

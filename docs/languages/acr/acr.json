@@ -1,19 +1,19 @@
 {
-    "pk": 63,
-    "lc": "acr",
+    "gw": false,
     "ISO-639-3": "acr",
-    "ln": "Achi",
-    "ang": "Achi",
     "hc": "GT",
+    "ld": "ltr",
+    "pk": 63,
     "lr": "Americas",
+    "lc": "acr",
+    "cc": [
+        "GT"
+    ],
     "alt": [
         "Cubulco Achi",
         "Rabinal Achi"
     ],
-    "cc": [
-        "GT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Achi",
+    "gwcode": "es-419",
+    "ln": "Achi"
 }

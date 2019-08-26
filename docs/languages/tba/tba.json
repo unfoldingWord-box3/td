@@ -1,11 +1,14 @@
 {
-    "pk": 5984,
-    "lc": "tba",
+    "gw": false,
     "ISO-639-3": "tba",
-    "ln": "Aikan\u00e3",
-    "ang": "Aikan\u00e3",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 5984,
     "lr": "Americas",
+    "lc": "tba",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Corumbiara",
         "Huari",
@@ -18,10 +21,7 @@
         "Masak\u00e1 (Massaca)",
         "Tubanao"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Aikan\u00e3",
+    "gwcode": "pt",
+    "ln": "Aikan\u00e3"
 }

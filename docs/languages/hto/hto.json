@@ -1,19 +1,19 @@
 {
-    "pk": 2361,
-    "lc": "hto",
+    "gw": false,
     "ISO-639-3": "hto",
-    "ln": "Minica Huitoto",
-    "ang": "Huitoto, Minica",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 2361,
     "lr": "Americas",
+    "lc": "hto",
+    "cc": [
+        "CO"
+    ],
     "alt": [
         "Meneca",
         "Minica"
     ],
-    "cc": [
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Huitoto, Minica",
+    "gwcode": "es-419",
+    "ln": "Minica Huitoto"
 }

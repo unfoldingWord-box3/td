@@ -1,20 +1,20 @@
 {
-    "pk": 2595,
-    "lc": "jdg",
+    "gw": false,
     "ISO-639-3": "jdg",
-    "ln": "Jadgali",
-    "ang": "Jadgali",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 2595,
     "lr": "Asia",
+    "lc": "jdg",
+    "cc": [
+        "PK"
+    ],
     "alt": [
         "Jat",
         "Jatgali",
         "Jatki"
     ],
-    "cc": [
-        "PK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Jadgali",
+    "gwcode": "ur",
+    "ln": "Jadgali"
 }

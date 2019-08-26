@@ -1,0 +1,38 @@
+.. _as:
+
+অসমীয়া
+=====================
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/asm>`_ identifies this language as ``asm``.
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* BT: Bhutan
+* US: United States of America
+* PF: French Polynesia
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: asm
+    alternate_names:
+    - Asambe
+    - Asami
+    - Asamiya
+    - Jharwa (Pidgin)
+    - Standard Assamese
+    - Western Assamese (Kamrupi)
+    anglicanized_name: Assamese
+    country_codes:
+    - BD
+    - BT
+    - US
+    - PF
+    - IN
+    gateway_language: UNKNOWN
+    lang_code: as
+    lang_direction: ltr
+    lang_name: অসমীয়া
+    lang_region: Asia
+    

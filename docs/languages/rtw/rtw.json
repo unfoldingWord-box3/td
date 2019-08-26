@@ -1,20 +1,20 @@
 {
-    "pk": 5430,
-    "lc": "rtw",
+    "gw": false,
     "ISO-639-3": "rtw",
-    "ln": "Rathawi",
-    "ang": "Rathawi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5430,
     "lr": "Asia",
+    "lc": "rtw",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Bal-La",
         "Kohelia",
         "Rathwi"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "gu"
+    "ang": "Rathawi",
+    "gwcode": "gu",
+    "ln": "Rathawi"
 }

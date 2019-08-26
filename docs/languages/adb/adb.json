@@ -1,11 +1,14 @@
 {
-    "pk": 72,
-    "lc": "adb",
+    "gw": false,
     "ISO-639-3": "adb",
-    "ln": "Adabe",
-    "ang": "Adabe",
     "hc": "TL",
+    "ld": "ltr",
+    "pk": 72,
     "lr": "Asia",
+    "lc": "adb",
+    "cc": [
+        "TL"
+    ],
     "alt": [
         "Raklungu",
         "Resuk",
@@ -17,10 +20,7 @@
         "Raklu Un",
         "Raklu-Un"
     ],
-    "cc": [
-        "TL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Adabe",
+    "gwcode": "pt",
+    "ln": "Adabe"
 }

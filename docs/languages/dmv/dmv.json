@@ -1,18 +1,18 @@
 {
-    "pk": 1575,
-    "lc": "dmv",
+    "gw": false,
     "ISO-639-3": "dmv",
-    "ln": "Dumpas",
-    "ang": "Dumpas",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 1575,
     "lr": "Asia",
-    "alt": [
-        "Doompas"
-    ],
+    "lc": "dmv",
     "cc": [
         "MY"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "alt": [
+        "Doompas"
+    ],
+    "ang": "Dumpas",
+    "gwcode": "ms",
+    "ln": "Dumpas"
 }

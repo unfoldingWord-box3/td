@@ -1,19 +1,19 @@
 {
-    "pk": 257,
-    "lc": "amy",
+    "gw": false,
     "ISO-639-3": "amy",
-    "ln": "Ami",
-    "ang": "Ami",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 257,
     "lr": "Pacific",
+    "lc": "amy",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Ame",
         "Amijangal"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ami",
+    "gwcode": "en",
+    "ln": "Ami"
 }

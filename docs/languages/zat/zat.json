@@ -1,19 +1,19 @@
 {
-    "pk": 7349,
-    "lc": "zat",
+    "gw": false,
     "ISO-639-3": "zat",
-    "ln": "Tabaa Zapotec",
-    "ang": "Zapotec, Tabaa",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7349,
     "lr": "Americas",
+    "lc": "zat",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Central Villa Alta Zapotec",
         "Zapoteco de Tabaa"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Tabaa",
+    "gwcode": "es-419",
+    "ln": "Tabaa Zapotec"
 }

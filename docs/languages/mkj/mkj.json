@@ -1,21 +1,21 @@
 {
-    "pk": 3909,
-    "lc": "mkj",
+    "gw": false,
     "ISO-639-3": "mkj",
-    "ln": "Mokilese",
-    "ang": "Mokilese",
     "hc": "FM",
+    "ld": "ltr",
+    "pk": 3909,
     "lr": "Pacific",
+    "lc": "mkj",
+    "cc": [
+        "US",
+        "FM"
+    ],
     "alt": [
         "Mokil",
         "Mwoakilese",
         "Mwoakiloa"
     ],
-    "cc": [
-        "US",
-        "FM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mokilese",
+    "gwcode": "en",
+    "ln": "Mokilese"
 }

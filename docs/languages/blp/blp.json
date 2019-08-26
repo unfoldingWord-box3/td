@@ -1,19 +1,19 @@
 {
-    "pk": 770,
-    "lc": "blp",
+    "gw": false,
     "ISO-639-3": "blp",
-    "ln": "Blablanga",
-    "ang": "Blablanga",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 770,
     "lr": "Pacific",
+    "lc": "blp",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Gema",
         "Goi"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Blablanga",
+    "gwcode": "UNKNOWN",
+    "ln": "Blablanga"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 1252,
-    "lc": "clj",
+    "gw": false,
     "ISO-639-3": "clj",
-    "ln": "Laitu Chin",
-    "ang": "Chin, Laitu",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1252,
     "lr": "Asia",
+    "lc": "clj",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Daitu",
         "Hio Bei",
@@ -18,10 +21,7 @@
         "Panmyawogyi River (Kawngtu)",
         "Phuntha Stream (Daaitu)"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Chin, Laitu",
+    "gwcode": "my",
+    "ln": "Laitu Chin"
 }

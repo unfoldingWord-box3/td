@@ -1,11 +1,17 @@
 {
-    "pk": 1738,
-    "lc": "emk",
+    "gw": false,
     "ISO-639-3": "emk",
-    "ln": "Eastern Maninkakan",
-    "ang": "Maninkakan, Eastern",
     "hc": "GN",
+    "ld": "ltr",
+    "pk": 1738,
     "lr": "Africa",
+    "lc": "emk",
+    "cc": [
+        "LR",
+        "ML",
+        "GN",
+        "SL"
+    ],
     "alt": [
         "Eastern Malinke",
         "Kankan Maninka",
@@ -28,13 +34,7 @@
         "Wasuu",
         "Kankan Mininka"
     ],
-    "cc": [
-        "LR",
-        "ML",
-        "GN",
-        "SL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Maninkakan, Eastern",
+    "gwcode": "fr",
+    "ln": "Eastern Maninkakan"
 }

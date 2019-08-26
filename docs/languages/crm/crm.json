@@ -1,20 +1,20 @@
 {
-    "pk": 1332,
-    "lc": "crm",
+    "gw": false,
     "ISO-639-3": "crm",
-    "ln": "Moose Cree",
-    "ang": "Cree, Moose",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 1332,
     "lr": "Americas",
+    "lc": "crm",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "West Main Cree",
         "West Shore Cree",
         "York Cree"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Cree, Moose",
+    "gwcode": "en",
+    "ln": "Moose Cree"
 }

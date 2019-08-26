@@ -1,18 +1,18 @@
 {
-    "pk": 5160,
-    "lc": "prg",
+    "gw": false,
     "ISO-639-3": "prg",
-    "ln": "Prussian",
-    "ang": "Prussian",
     "hc": "PL",
+    "ld": "ltr",
+    "pk": 5160,
     "lr": "Europe",
-    "alt": [
-        "Old Prussian"
-    ],
+    "lc": "prg",
     "cc": [
         "PL"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Old Prussian"
+    ],
+    "ang": "Prussian",
+    "gwcode": "en",
+    "ln": "Prussian"
 }

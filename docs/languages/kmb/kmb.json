@@ -1,11 +1,14 @@
 {
-    "pk": 2988,
-    "lc": "kmb",
+    "gw": false,
     "ISO-639-3": "kmb",
-    "ln": "Kimbundu",
-    "ang": "Kimbundu",
     "hc": "AO",
+    "ld": "ltr",
+    "pk": 2988,
     "lr": "Africa",
+    "lc": "kmb",
+    "cc": [
+        "AO"
+    ],
     "alt": [
         "Dongo",
         "Kimbundo",
@@ -24,10 +27,7 @@
         "Mbaka (Ambaquista)",
         "Mbamba (Bambeiro)"
     ],
-    "cc": [
-        "AO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Kimbundu",
+    "gwcode": "pt",
+    "ln": "Kimbundu"
 }

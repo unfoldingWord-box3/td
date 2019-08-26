@@ -1,19 +1,19 @@
 {
-    "pk": 4757,
-    "lc": "oac",
+    "gw": false,
     "ISO-639-3": "oac",
-    "ln": "\u041e\u0440\u043e\u0447\u0441\u043a\u0438\u0439",
-    "ang": "Oroch",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 4757,
     "lr": "Europe",
+    "lc": "oac",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Orochi",
         "Tez (Tazy)"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Oroch",
+    "gwcode": "ru",
+    "ln": "\u041e\u0440\u043e\u0447\u0441\u043a\u0438\u0439"
 }

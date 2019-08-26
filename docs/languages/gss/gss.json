@@ -1,16 +1,16 @@
 {
-    "pk": 2148,
-    "lc": "gss",
+    "gw": false,
     "ISO-639-3": "gss",
-    "ln": "Greek Sign Language",
-    "ang": "Greek Sign Language",
     "hc": "GR",
+    "ld": "ltr",
+    "pk": 2148,
     "lr": "Europe",
-    "alt": [],
+    "lc": "gss",
     "cc": [
         "GR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [],
+    "ang": "Greek Sign Language",
+    "gwcode": "en",
+    "ln": "Greek Sign Language"
 }

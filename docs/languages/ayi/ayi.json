@@ -1,21 +1,21 @@
 {
-    "pk": 465,
-    "lc": "ayi",
+    "gw": false,
     "ISO-639-3": "ayi",
-    "ln": "Leyigha",
-    "ang": "Leyigha",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 465,
     "lr": "Africa",
+    "lc": "ayi",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Asiga",
         "Ayiga",
         "Ayigha",
         "Yigha"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Leyigha",
+    "gwcode": "en",
+    "ln": "Leyigha"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 5112,
-    "lc": "pnp",
+    "gw": false,
     "ISO-639-3": "pnp",
-    "ln": "Pancana",
-    "ang": "Pancana",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5112,
     "lr": "Asia",
+    "lc": "pnp",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Pantjana",
         "Kalende (Lawele)",
         "Kapontori (Akido)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Pancana",
+    "gwcode": "id",
+    "ln": "Pancana"
 }

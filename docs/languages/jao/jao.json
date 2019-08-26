@@ -1,11 +1,14 @@
 {
-    "pk": 2575,
-    "lc": "jao",
+    "gw": false,
     "ISO-639-3": "jao",
-    "ln": "Yanyuwa",
-    "ang": "Yanyuwa",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 2575,
     "lr": "Pacific",
+    "lc": "jao",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Aniula",
         "Anula",
@@ -16,10 +19,7 @@
         "Yanula",
         "Yanyula"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yanyuwa",
+    "gwcode": "en",
+    "ln": "Yanyuwa"
 }

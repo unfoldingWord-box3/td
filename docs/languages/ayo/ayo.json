@@ -1,11 +1,15 @@
 {
-    "pk": 469,
-    "lc": "ayo",
+    "gw": false,
     "ISO-639-3": "ayo",
-    "ln": "Ayoreo",
-    "ang": "Ayoreo",
     "hc": "PY",
+    "ld": "ltr",
+    "pk": 469,
     "lr": "Americas",
+    "lc": "ayo",
+    "cc": [
+        "PY",
+        "BO"
+    ],
     "alt": [
         "Ayor\u00e9",
         "Moro",
@@ -24,11 +28,7 @@
         "Totobiegosode",
         "Yanaigua"
     ],
-    "cc": [
-        "PY",
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Ayoreo",
+    "gwcode": "es-419",
+    "ln": "Ayoreo"
 }

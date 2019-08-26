@@ -1,19 +1,19 @@
 {
-    "pk": 956,
-    "lc": "btm",
+    "gw": false,
     "ISO-639-3": "btm",
-    "ln": "Batak Mandailing",
-    "ang": "Batak Mandailing",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 956,
     "lr": "Asia",
+    "lc": "btm",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Batta",
         "Mandailing Batak"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Batak Mandailing",
+    "gwcode": "id",
+    "ln": "Batak Mandailing"
 }

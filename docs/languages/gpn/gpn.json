@@ -1,18 +1,18 @@
 {
-    "pk": 2116,
-    "lc": "gpn",
+    "gw": false,
     "ISO-639-3": "gpn",
-    "ln": "Taiap",
-    "ang": "Taiap",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2116,
     "lr": "Pacific",
-    "alt": [
-        "Gapun"
-    ],
+    "lc": "gpn",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Gapun"
+    ],
+    "ang": "Taiap",
+    "gwcode": "tpi",
+    "ln": "Taiap"
 }

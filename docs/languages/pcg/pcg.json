@@ -1,20 +1,20 @@
 {
-    "pk": 4962,
-    "lc": "pcg",
+    "gw": false,
     "ISO-639-3": "pcg",
-    "ln": "Paniya",
-    "ang": "Paniya",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4962,
     "lr": "Asia",
+    "lc": "pcg",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Nil",
         "Paniyan",
         "Panyah"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ml"
+    "ang": "Paniya",
+    "gwcode": "ml",
+    "ln": "Paniya"
 }

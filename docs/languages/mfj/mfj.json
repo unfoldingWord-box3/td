@@ -1,11 +1,14 @@
 {
-    "pk": 3786,
-    "lc": "mfj",
+    "gw": false,
     "ISO-639-3": "mfj",
-    "ln": "Mefele",
-    "ang": "Mefele",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3786,
     "lr": "Africa",
+    "lc": "mfj",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Boulahay",
         "Bula",
@@ -14,10 +17,7 @@
         "Serak (Sirak)",
         "Shugule (Chougoule)"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mefele",
+    "gwcode": "fr",
+    "ln": "Mefele"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 427,
-    "lc": "avb",
+    "gw": false,
     "ISO-639-3": "avb",
-    "ln": "Avau",
-    "ang": "Avau",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 427,
     "lr": "Pacific",
-    "alt": [
-        "Awau"
-    ],
+    "lc": "avb",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Awau"
+    ],
+    "ang": "Avau",
+    "gwcode": "tpi",
+    "ln": "Avau"
 }

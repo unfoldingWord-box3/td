@@ -1,11 +1,14 @@
 {
-    "pk": 6463,
-    "lc": "tzo",
+    "gw": false,
     "ISO-639-3": "tzo",
-    "ln": "Tzotzil",
-    "ang": "Tzotzil",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 6463,
     "lr": "Americas",
+    "lc": "tzo",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "San Bartolom\u00e9 Venustiano Carranza Tzotzil",
         "Tsotsil",
@@ -17,10 +20,7 @@
         "Chamula Tzotzil",
         "Huixt\u00e1n Tzotzil (Angel Albino Corzo)"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Tzotzil",
+    "gwcode": "es-419",
+    "ln": "Tzotzil"
 }

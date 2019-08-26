@@ -1,21 +1,21 @@
 {
-    "pk": 119,
-    "lc": "aft",
+    "gw": false,
     "ISO-639-3": "aft",
-    "ln": "Afitti",
-    "ang": "Afitti",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 119,
     "lr": "Africa",
+    "lc": "aft",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Affitti",
         "Dinik",
         "Ditti",
         "Unietti"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Afitti",
+    "gwcode": "ar",
+    "ln": "Afitti"
 }

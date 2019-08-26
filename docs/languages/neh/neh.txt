@@ -1,0 +1,26 @@
+.. _neh:
+
+Nyenkha
+=======
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+
+.. code-block:: yaml
+
+    ISO_639-3: neh
+    alternate_names:
+    - Henkha
+    - Lap
+    - Mangdhika
+    - Mangsdekha
+    anglicanized_name: Nyenkha
+    country_codes:
+    - BT
+    gateway_language: UNKNOWN
+    lang_code: neh
+    lang_direction: ltr
+    lang_name: Nyenkha
+    lang_region: Asia
+    

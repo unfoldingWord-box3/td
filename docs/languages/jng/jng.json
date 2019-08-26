@@ -1,19 +1,19 @@
 {
-    "pk": 2651,
-    "lc": "jng",
+    "gw": false,
     "ISO-639-3": "jng",
-    "ln": "Yangman",
-    "ang": "Yangman",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 2651,
     "lr": "Pacific",
+    "lc": "jng",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Dagoman",
         "Jungman"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yangman",
+    "gwcode": "en",
+    "ln": "Yangman"
 }

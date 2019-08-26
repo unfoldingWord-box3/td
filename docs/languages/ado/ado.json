@@ -1,11 +1,14 @@
 {
-    "pk": 82,
-    "lc": "ado",
+    "gw": false,
     "ISO-639-3": "ado",
-    "ln": "Abu",
-    "ang": "Abu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 82,
     "lr": "Pacific",
+    "lc": "ado",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Adjora",
         "Adjoria",
@@ -13,10 +16,7 @@
         "Auwa",
         "Sabu"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Abu",
+    "gwcode": "tpi",
+    "ln": "Abu"
 }

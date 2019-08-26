@@ -1,21 +1,21 @@
 {
-    "pk": 3422,
-    "lc": "lev",
+    "gw": false,
     "ISO-639-3": "lev",
-    "ln": "Lamma",
-    "ang": "Pantar, Western",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3422,
     "lr": "Asia",
+    "lc": "lev",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Lamma'",
         "Lemma",
         "Pantar Barat",
         "Tubbe"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Pantar, Western",
+    "gwcode": "id",
+    "ln": "Lamma"
 }

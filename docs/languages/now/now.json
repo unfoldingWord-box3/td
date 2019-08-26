@@ -1,11 +1,14 @@
 {
-    "pk": 4601,
-    "lc": "now",
+    "gw": false,
     "ISO-639-3": "now",
-    "ln": "Nyambo",
-    "ang": "Nyambo",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 4601,
     "lr": "Africa",
+    "lc": "now",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Ekinyambo",
         "Karagwe",
@@ -15,10 +18,7 @@
         "Runyambo",
         "Ururagwe"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Nyambo",
+    "gwcode": "sw",
+    "ln": "Nyambo"
 }

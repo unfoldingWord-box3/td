@@ -1,11 +1,14 @@
 {
-    "pk": 3216,
-    "lc": "kvi",
+    "gw": false,
     "ISO-639-3": "kvi",
-    "ln": "Kwang",
-    "ang": "Kwang",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 3216,
     "lr": "Africa",
+    "lc": "kvi",
+    "cc": [
+        "TD"
+    ],
     "alt": [
         "Kouang",
         "Kuang",
@@ -14,10 +17,7 @@
         "Modgel",
         "Ngam (Gam)"
     ],
-    "cc": [
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Kwang",
+    "gwcode": "ar",
+    "ln": "Kwang"
 }

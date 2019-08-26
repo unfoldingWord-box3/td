@@ -1,11 +1,14 @@
 {
-    "pk": 4167,
-    "lc": "muy",
+    "gw": false,
     "ISO-639-3": "muy",
-    "ln": "Muyang",
-    "ang": "Muyang",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4167,
     "lr": "Africa",
+    "lc": "muy",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Mouyenge",
         "Mouyengue",
@@ -13,10 +16,7 @@
         "Myau",
         "Myenge"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Muyang",
+    "gwcode": "fr",
+    "ln": "Muyang"
 }

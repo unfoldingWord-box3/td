@@ -1,21 +1,21 @@
 {
-    "pk": 5482,
-    "lc": "sbd",
+    "gw": false,
     "ISO-639-3": "sbd",
-    "ln": "Southern Samo",
-    "ang": "Samo, Southern",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 5482,
     "lr": "Africa",
+    "lc": "sbd",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "San",
         "Sane",
         "Nyaana",
         "Toma (Makaa)"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Samo, Southern",
+    "gwcode": "fr",
+    "ln": "Southern Samo"
 }

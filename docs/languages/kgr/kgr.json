@@ -1,11 +1,14 @@
 {
-    "pk": 2850,
-    "lc": "kgr",
+    "gw": false,
     "ISO-639-3": "kgr",
-    "ln": "Abun",
-    "ang": "Abun",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2850,
     "lr": "Asia",
+    "lc": "kgr",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "A Nden",
         "Karon",
@@ -14,10 +17,7 @@
         "Abun Ji (Madik)",
         "Abun Tat (Karon Pantai)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Abun",
+    "gwcode": "id",
+    "ln": "Abun"
 }

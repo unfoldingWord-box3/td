@@ -1,20 +1,20 @@
 {
-    "pk": 6718,
-    "lc": "wer",
+    "gw": false,
     "ISO-639-3": "wer",
-    "ln": "Weri",
-    "ang": "Weri",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6718,
     "lr": "Pacific",
+    "lc": "wer",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Wele",
         "Weli",
         "Sim"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Weri",
+    "gwcode": "tpi",
+    "ln": "Weri"
 }

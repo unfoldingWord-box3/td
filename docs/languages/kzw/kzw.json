@@ -1,11 +1,14 @@
 {
-    "pk": 3329,
-    "lc": "kzw",
+    "gw": false,
     "ISO-639-3": "kzw",
-    "ln": "Karir\u00ed-Xoc\u00f3",
-    "ang": "Karir\u00ed-Xoc\u00f3",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 3329,
     "lr": "Americas",
+    "lc": "kzw",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Kamur\u00fa (Camuru)",
         "Kipe\u00e1 (Quipea)",
@@ -19,10 +22,7 @@
         "Xukur\u00fa",
         "Xukuru Kariri"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Karir\u00ed-Xoc\u00f3",
+    "gwcode": "pt",
+    "ln": "Karir\u00ed-Xoc\u00f3"
 }

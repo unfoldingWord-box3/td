@@ -1,11 +1,15 @@
 {
-    "pk": 4914,
-    "lc": "ozm",
+    "gw": false,
     "ISO-639-3": "ozm",
-    "ln": "Koonzime",
-    "ang": "Koonzime",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4914,
     "lr": "Africa",
+    "lc": "ozm",
+    "cc": [
+        "CM",
+        "CG"
+    ],
     "alt": [
         "Djimu",
         "Dzimou",
@@ -17,11 +21,7 @@
         "Bajwe'e",
         "Badwe'e (Badjoue)"
     ],
-    "cc": [
-        "CM",
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Koonzime",
+    "gwcode": "fr",
+    "ln": "Koonzime"
 }

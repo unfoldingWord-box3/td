@@ -1,21 +1,21 @@
 {
-    "pk": 6214,
-    "lc": "tmu",
+    "gw": false,
     "ISO-639-3": "tmu",
-    "ln": "Iau",
-    "ang": "Iau",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6214,
     "lr": "Asia",
+    "lc": "tmu",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Iaw",
         "Urundi",
         "Ururi",
         "Yau"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Iau",
+    "gwcode": "id",
+    "ln": "Iau"
 }

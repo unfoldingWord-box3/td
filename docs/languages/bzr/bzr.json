@@ -1,18 +1,18 @@
 {
-    "pk": 1100,
-    "lc": "bzr",
+    "gw": false,
     "ISO-639-3": "bzr",
-    "ln": "Biri",
-    "ang": "Biri",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 1100,
     "lr": "Pacific",
-    "alt": [
-        "Wirri"
-    ],
+    "lc": "bzr",
     "cc": [
         "AU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Wirri"
+    ],
+    "ang": "Biri",
+    "gwcode": "en",
+    "ln": "Biri"
 }

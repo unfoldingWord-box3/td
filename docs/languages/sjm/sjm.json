@@ -1,11 +1,15 @@
 {
-    "pk": 5647,
-    "lc": "sjm",
+    "gw": false,
     "ISO-639-3": "sjm",
-    "ln": "Mapun",
-    "ang": "Mapun",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5647,
     "lr": "Asia",
+    "lc": "sjm",
+    "cc": [
+        "MY",
+        "PH"
+    ],
     "alt": [
         "Bajau Kagayan",
         "Cagayan de Sulu",
@@ -18,11 +22,7 @@
         "Cagayano",
         "Orang"
     ],
-    "cc": [
-        "MY",
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mapun",
+    "gwcode": "en",
+    "ln": "Mapun"
 }

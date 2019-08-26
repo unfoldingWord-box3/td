@@ -1,19 +1,19 @@
 {
-    "pk": 6258,
-    "lc": "tos",
+    "gw": false,
     "ISO-639-3": "tos",
-    "ln": "Highland Totonac",
-    "ang": "Totonac, Highland",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 6258,
     "lr": "Americas",
+    "lc": "tos",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Sierra Totonac",
         "Totonaco de la Sierra"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Totonac, Highland",
+    "gwcode": "es-419",
+    "ln": "Highland Totonac"
 }

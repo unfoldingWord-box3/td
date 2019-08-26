@@ -1,21 +1,21 @@
 {
-    "pk": 4349,
-    "lc": "nct",
+    "gw": false,
     "ISO-639-3": "nct",
-    "ln": "Chothe Naga",
-    "ang": "Naga, Chothe",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4349,
     "lr": "Asia",
+    "lc": "nct",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Chawte",
         "Chote",
         "Chothe",
         "Chowte"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Chothe",
+    "gwcode": "en",
+    "ln": "Chothe Naga"
 }

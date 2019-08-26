@@ -1,18 +1,18 @@
 {
-    "pk": 6359,
-    "lc": "ttl",
+    "gw": false,
     "ISO-639-3": "ttl",
-    "ln": "Totela",
-    "ang": "Totela",
     "hc": "ZM",
+    "ld": "ltr",
+    "pk": 6359,
     "lr": "Africa",
-    "alt": [
-        "Echitotela"
-    ],
+    "lc": "ttl",
     "cc": [
         "ZM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Echitotela"
+    ],
+    "ang": "Totela",
+    "gwcode": "en",
+    "ln": "Totela"
 }

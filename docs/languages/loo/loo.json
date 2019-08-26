@@ -1,20 +1,20 @@
 {
-    "pk": 3563,
-    "lc": "loo",
+    "gw": false,
     "ISO-639-3": "loo",
-    "ln": "Lombo",
-    "ang": "Lombo",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3563,
     "lr": "Africa",
+    "lc": "loo",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Olombo",
         "Turumbu",
         "Ulumbu"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Lombo",
+    "gwcode": "fr",
+    "ln": "Lombo"
 }

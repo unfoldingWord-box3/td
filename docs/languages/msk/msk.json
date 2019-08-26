@@ -1,18 +1,18 @@
 {
-    "pk": 4106,
-    "lc": "msk",
+    "gw": false,
     "ISO-639-3": "msk",
-    "ln": "Mansaka",
-    "ang": "Mansaka",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 4106,
     "lr": "Asia",
-    "alt": [
-        "Mandaya Mansaka"
-    ],
+    "lc": "msk",
     "cc": [
         "PH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Mandaya Mansaka"
+    ],
+    "ang": "Mansaka",
+    "gwcode": "en",
+    "ln": "Mansaka"
 }

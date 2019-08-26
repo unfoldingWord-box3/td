@@ -1,11 +1,14 @@
 {
-    "pk": 3375,
-    "lc": "lbw",
+    "gw": false,
     "ISO-639-3": "lbw",
-    "ln": "Tolaki",
-    "ang": "Tolaki",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3375,
     "lr": "Asia",
+    "lc": "lbw",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Laki",
         "Lolaki",
@@ -21,10 +24,7 @@
         "Tambuoki",
         "Wiwirano (Nohina)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tolaki",
+    "gwcode": "id",
+    "ln": "Tolaki"
 }

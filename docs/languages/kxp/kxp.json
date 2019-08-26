@@ -1,11 +1,15 @@
 {
-    "pk": 3272,
-    "lc": "kxp",
+    "gw": false,
     "ISO-639-3": "kxp",
-    "ln": "Wadiyara Koli",
-    "ang": "Koli, Wadiyara",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3272,
     "lr": "Asia",
+    "lc": "kxp",
+    "cc": [
+        "PK",
+        "IN"
+    ],
     "alt": [
         "Wadaria",
         "Wadhiara",
@@ -13,11 +17,7 @@
         "Mewasi (Mayvasi Koli)",
         "Tharadari Koli"
     ],
-    "cc": [
-        "PK",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "gu"
+    "ang": "Koli, Wadiyara",
+    "gwcode": "gu",
+    "ln": "Wadiyara Koli"
 }

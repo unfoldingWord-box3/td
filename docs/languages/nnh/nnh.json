@@ -1,11 +1,14 @@
 {
-    "pk": 4566,
-    "lc": "nnh",
+    "gw": false,
     "ISO-639-3": "nnh",
-    "ln": "Ngiemboon",
-    "ang": "Ngiemboon",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4566,
     "lr": "Africa",
+    "lc": "nnh",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bamileke-Ngiemboon",
         "Bamileke-Ngyemboon",
@@ -16,10 +19,7 @@
         "Balessing",
         "Batang"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ngiemboon",
+    "gwcode": "fr",
+    "ln": "Ngiemboon"
 }

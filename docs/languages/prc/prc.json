@@ -1,19 +1,19 @@
 {
-    "pk": 5156,
-    "lc": "prc",
+    "gw": false,
     "ISO-639-3": "prc",
-    "ln": "Parachi",
-    "ang": "Parachi",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 5156,
     "lr": "Asia",
+    "lc": "prc",
+    "cc": [
+        "AF"
+    ],
     "alt": [
         "Pachaghan",
         "Shutul"
     ],
-    "cc": [
-        "AF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Parachi",
+    "gwcode": "ps",
+    "ln": "Parachi"
 }

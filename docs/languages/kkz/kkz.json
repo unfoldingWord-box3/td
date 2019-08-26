@@ -1,21 +1,21 @@
 {
-    "pk": 2958,
-    "lc": "kkz",
+    "gw": false,
     "ISO-639-3": "kkz",
-    "ln": "Kaska",
-    "ang": "Kaska",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 2958,
     "lr": "Americas",
+    "lc": "kkz",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Caska",
         "Eastern Nahane",
         "Nahane",
         "Nahani"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kaska",
+    "gwcode": "en",
+    "ln": "Kaska"
 }

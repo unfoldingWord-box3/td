@@ -1,18 +1,18 @@
 {
-    "pk": 5108,
-    "lc": "pnk",
+    "gw": false,
     "ISO-639-3": "pnk",
-    "ln": "Paunaka",
-    "ang": "Paunaka",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 5108,
     "lr": "Americas",
-    "alt": [
-        "Pauna"
-    ],
+    "lc": "pnk",
     "cc": [
         "BO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Pauna"
+    ],
+    "ang": "Paunaka",
+    "gwcode": "es-419",
+    "ln": "Paunaka"
 }

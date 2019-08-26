@@ -1,19 +1,19 @@
 {
-    "pk": 5877,
-    "lc": "sub",
+    "gw": false,
     "ISO-639-3": "sub",
-    "ln": "Suku",
-    "ang": "Suku",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5877,
     "lr": "Africa",
-    "alt": [
-        "Kisuku"
-    ],
+    "lc": "sub",
     "cc": [
         "CD",
         "AO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Kisuku"
+    ],
+    "ang": "Suku",
+    "gwcode": "fr",
+    "ln": "Suku"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 3663,
-    "lc": "maf",
+    "gw": false,
     "ISO-639-3": "maf",
-    "ln": "Mafa",
-    "ang": "Mafa",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3663,
     "lr": "Africa",
+    "lc": "maf",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Mofa",
         "Natakan",
@@ -21,11 +25,7 @@
         "Soulede",
         "West Mafa (Magoumaz)"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mafa",
+    "gwcode": "fr",
+    "ln": "Mafa"
 }

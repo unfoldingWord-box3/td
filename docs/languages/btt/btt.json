@@ -1,21 +1,21 @@
 {
-    "pk": 963,
-    "lc": "btt",
+    "gw": false,
     "ISO-639-3": "btt",
-    "ln": "Bete-Bendi",
-    "ang": "Bete-Bendi",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 963,
     "lr": "Africa",
+    "lc": "btt",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bette-Bendi",
         "Dama",
         "Bete (Bette)",
         "Mbete"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bete-Bendi",
+    "gwcode": "en",
+    "ln": "Bete-Bendi"
 }

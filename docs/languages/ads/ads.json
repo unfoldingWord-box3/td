@@ -1,18 +1,18 @@
 {
-    "pk": 85,
-    "lc": "ads",
+    "gw": false,
     "ISO-639-3": "ads",
-    "ln": "Adamorobe Sign Language",
-    "ang": "Adamorobe Sign Language",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 85,
     "lr": "Africa",
-    "alt": [
-        "AdaSL"
-    ],
+    "lc": "ads",
     "cc": [
         "GH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "AdaSL"
+    ],
+    "ang": "Adamorobe Sign Language",
+    "gwcode": "en",
+    "ln": "Adamorobe Sign Language"
 }

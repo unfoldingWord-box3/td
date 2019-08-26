@@ -1,20 +1,20 @@
 {
-    "pk": 373,
-    "lc": "ass",
+    "gw": false,
     "ISO-639-3": "ass",
-    "ln": "Ipulo",
-    "ang": "Ipulo",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 373,
     "lr": "Africa",
+    "lc": "ass",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Assumbo",
         "Asumbo",
         "Badzumbo"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ipulo",
+    "gwcode": "fr",
+    "ln": "Ipulo"
 }

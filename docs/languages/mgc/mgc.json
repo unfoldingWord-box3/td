@@ -1,18 +1,18 @@
 {
-    "pk": 3805,
-    "lc": "mgc",
+    "gw": false,
     "ISO-639-3": "mgc",
-    "ln": "Morokodo",
-    "ang": "Morokodo",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 3805,
     "lr": "Africa",
-    "alt": [
-        "Ma'di"
-    ],
+    "lc": "mgc",
     "cc": [
         "SS"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Ma'di"
+    ],
+    "ang": "Morokodo",
+    "gwcode": "ar",
+    "ln": "Morokodo"
 }

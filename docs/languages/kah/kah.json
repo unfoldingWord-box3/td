@@ -1,20 +1,20 @@
 {
-    "pk": 2700,
-    "lc": "kah",
+    "gw": false,
     "ISO-639-3": "kah",
-    "ln": "Kara (Central African Republic)",
-    "ang": "Kara",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 2700,
     "lr": "Africa",
-    "alt": [
-        "Fer",
-        "Fertit"
-    ],
+    "lc": "kah",
     "cc": [
         "CF",
         "SD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Fer",
+        "Fertit"
+    ],
+    "ang": "Kara",
+    "gwcode": "fr",
+    "ln": "Kara (Central African Republic)"
 }

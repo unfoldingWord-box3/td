@@ -1,20 +1,20 @@
 {
-    "pk": 6583,
-    "lc": "vag",
+    "gw": false,
     "ISO-639-3": "vag",
-    "ln": "Vagla",
-    "ang": "Vagla",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 6583,
     "lr": "Africa",
+    "lc": "vag",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Konosarola",
         "Paxala",
         "Vagala"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Vagla",
+    "gwcode": "en",
+    "ln": "Vagla"
 }

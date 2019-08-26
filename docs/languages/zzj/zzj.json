@@ -1,11 +1,14 @@
 {
-    "pk": 7501,
-    "lc": "zzj",
+    "gw": false,
     "ISO-639-3": "zzj",
-    "ln": "\u5de6\u6c5f",
-    "ang": "Zhuang, Zuojiang",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7501,
     "lr": "Asia",
+    "lc": "zzj",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Ken Tho",
         "Longyin",
@@ -16,10 +19,7 @@
         "Zhuangyu nanbu fangyan Zuojiang tuyu",
         "Nung Chao"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Zhuang, Zuojiang",
+    "gwcode": "zh",
+    "ln": "\u5de6\u6c5f"
 }

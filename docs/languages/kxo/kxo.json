@@ -1,11 +1,14 @@
 {
-    "pk": 3271,
-    "lc": "kxo",
+    "gw": false,
     "ISO-639-3": "kxo",
-    "ln": "Kano\u00e9",
-    "ang": "Kano\u00e9",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 3271,
     "lr": "Americas",
+    "lc": "kxo",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Amniap\u00e9",
         "Cano\u00e9",
@@ -18,10 +21,7 @@
         "Kapixan\u00e1",
         "Koaratira"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Kano\u00e9",
+    "gwcode": "pt",
+    "ln": "Kano\u00e9"
 }

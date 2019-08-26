@@ -1,21 +1,21 @@
 {
-    "pk": 3096,
-    "lc": "kqn",
+    "gw": false,
     "ISO-639-3": "kqn",
-    "ln": "Kaonde",
-    "ang": "Kaonde",
     "hc": "ZM",
+    "ld": "ltr",
+    "pk": 3096,
     "lr": "Africa",
+    "lc": "kqn",
+    "cc": [
+        "ZM"
+    ],
     "alt": [
         "Chikahonde",
         "Chikaonde",
         "Kawonde",
         "Luba Kaonde"
     ],
-    "cc": [
-        "ZM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kaonde",
+    "gwcode": "en",
+    "ln": "Kaonde"
 }

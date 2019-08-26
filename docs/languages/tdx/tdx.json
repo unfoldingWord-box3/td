@@ -1,18 +1,18 @@
 {
-    "pk": 6050,
-    "lc": "tdx",
+    "gw": false,
     "ISO-639-3": "tdx",
-    "ln": "Tandroy-Mahafaly Malagasy",
-    "ang": "Malagasy, Tandroy-Mahafaly",
     "hc": "MG",
+    "ld": "ltr",
+    "pk": 6050,
     "lr": "Africa",
-    "alt": [
-        "Tandroy"
-    ],
+    "lc": "tdx",
     "cc": [
         "MG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "plt"
+    "alt": [
+        "Tandroy"
+    ],
+    "ang": "Malagasy, Tandroy-Mahafaly",
+    "gwcode": "plt",
+    "ln": "Tandroy-Mahafaly Malagasy"
 }

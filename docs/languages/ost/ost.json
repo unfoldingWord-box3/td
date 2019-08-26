@@ -1,19 +1,19 @@
 {
-    "pk": 4885,
-    "lc": "ost",
+    "gw": false,
     "ISO-639-3": "ost",
-    "ln": "Osatu",
-    "ang": "Osatu",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4885,
     "lr": "Africa",
+    "lc": "ost",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Ihatum",
         "Ossatu"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Osatu",
+    "gwcode": "fr",
+    "ln": "Osatu"
 }

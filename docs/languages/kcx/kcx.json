@@ -1,21 +1,21 @@
 {
-    "pk": 2759,
-    "lc": "kcx",
+    "gw": false,
     "ISO-639-3": "kcx",
-    "ln": "Kachama-Ganjule",
-    "ang": "Kachama-Ganjule",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 2759,
     "lr": "Africa",
+    "lc": "kcx",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Gats'ame (Gatame)",
         "Get'eme",
         "Makka",
         "Ganjule (Ganjawle)"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Kachama-Ganjule",
+    "gwcode": "am",
+    "ln": "Kachama-Ganjule"
 }

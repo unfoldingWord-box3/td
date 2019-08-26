@@ -1,19 +1,19 @@
 {
-    "pk": 4933,
-    "lc": "pau",
+    "gw": false,
     "ISO-639-3": "pau",
-    "ln": "Palauan",
-    "ang": "Palauan",
     "hc": "PW",
+    "ld": "ltr",
+    "pk": 4933,
     "lr": "Pacific",
-    "alt": [
-        "Belauan"
-    ],
+    "lc": "pau",
     "cc": [
         "PW",
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Belauan"
+    ],
+    "ang": "Palauan",
+    "gwcode": "en",
+    "ln": "Palauan"
 }

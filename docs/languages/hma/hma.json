@@ -1,18 +1,18 @@
 {
-    "pk": 2290,
-    "lc": "hma",
+    "gw": false,
     "ISO-639-3": "hma",
-    "ln": "\u9ebb\u5c71",
-    "ang": "Miao, Southern Mashan",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2290,
     "lr": "Asia",
-    "alt": [
-        "Southern Mashan Hmong"
-    ],
+    "lc": "hma",
     "cc": [
         "CN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "alt": [
+        "Southern Mashan Hmong"
+    ],
+    "ang": "Miao, Southern Mashan",
+    "gwcode": "zh",
+    "ln": "\u9ebb\u5c71"
 }

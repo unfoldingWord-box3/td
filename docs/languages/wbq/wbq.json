@@ -1,11 +1,14 @@
 {
-    "pk": 6700,
-    "lc": "wbq",
+    "gw": false,
     "ISO-639-3": "wbq",
-    "ln": "Waddar",
-    "ang": "Waddar",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6700,
     "lr": "Asia",
+    "lc": "wbq",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Od",
         "Orh",
@@ -13,10 +16,7 @@
         "Werders",
         "Wodde"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "mr"
+    "ang": "Waddar",
+    "gwcode": "mr",
+    "ln": "Waddar"
 }

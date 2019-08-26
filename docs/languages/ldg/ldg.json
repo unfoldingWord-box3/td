@@ -1,19 +1,19 @@
 {
-    "pk": 3391,
-    "lc": "ldg",
+    "gw": false,
     "ISO-639-3": "ldg",
-    "ln": "Lenyima",
-    "ang": "Lenyima",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3391,
     "lr": "Africa",
+    "lc": "ldg",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Anyima",
         "Inyima"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lenyima",
+    "gwcode": "en",
+    "ln": "Lenyima"
 }

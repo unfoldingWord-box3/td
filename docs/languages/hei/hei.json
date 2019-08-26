@@ -1,19 +1,19 @@
 {
-    "pk": 2257,
-    "lc": "hei",
+    "gw": false,
     "ISO-639-3": "hei",
-    "ln": "Heiltsuk",
-    "ang": "Heiltsuk",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 2257,
     "lr": "Americas",
+    "lc": "hei",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Bella Bella (Northern Heiltsuk)",
         "Oowekyala"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Heiltsuk",
+    "gwcode": "en",
+    "ln": "Heiltsuk"
 }

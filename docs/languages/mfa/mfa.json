@@ -1,18 +1,18 @@
 {
-    "pk": 3777,
-    "lc": "mfa",
+    "gw": false,
     "ISO-639-3": "mfa",
-    "ln": "Pattani Malay",
-    "ang": "Malay, Pattani",
     "hc": "TH",
+    "ld": "ltr",
+    "pk": 3777,
     "lr": "Asia",
-    "alt": [
-        "Thai Islam"
-    ],
+    "lc": "mfa",
     "cc": [
         "TH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "th"
+    "alt": [
+        "Thai Islam"
+    ],
+    "ang": "Malay, Pattani",
+    "gwcode": "th",
+    "ln": "Pattani Malay"
 }

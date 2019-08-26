@@ -1,20 +1,20 @@
 {
-    "pk": 2802,
-    "lc": "ket",
+    "gw": false,
     "ISO-639-3": "ket",
-    "ln": "\u041a\u0435\u0442\u0441\u043a\u0438\u0439",
-    "ang": "Ket",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 2802,
     "lr": "Europe",
+    "lc": "ket",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Imbatski-Ket",
         "Yenisei Ostyak",
         "Yenisey Ostiak"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Ket",
+    "gwcode": "ru",
+    "ln": "\u041a\u0435\u0442\u0441\u043a\u0438\u0439"
 }

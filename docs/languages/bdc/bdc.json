@@ -1,19 +1,19 @@
 {
-    "pk": 561,
-    "lc": "bdc",
+    "gw": false,
     "ISO-639-3": "bdc",
-    "ln": "Ember\u00e1-Baud\u00f3",
-    "ang": "Ember\u00e1-Baud\u00f3",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 561,
     "lr": "Americas",
+    "lc": "bdc",
+    "cc": [
+        "CO"
+    ],
     "alt": [
         "Baud\u00f3",
         "Catr\u00fa"
     ],
-    "cc": [
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Ember\u00e1-Baud\u00f3",
+    "gwcode": "es-419",
+    "ln": "Ember\u00e1-Baud\u00f3"
 }

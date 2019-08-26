@@ -1,18 +1,18 @@
 {
-    "pk": 4542,
-    "lc": "nmi",
+    "gw": false,
     "ISO-639-3": "nmi",
-    "ln": "Nyam",
-    "ang": "Nyam",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4542,
     "lr": "Africa",
-    "alt": [
-        "Nyambolo"
-    ],
+    "lc": "nmi",
     "cc": [
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Nyambolo"
+    ],
+    "ang": "Nyam",
+    "gwcode": "en",
+    "ln": "Nyam"
 }

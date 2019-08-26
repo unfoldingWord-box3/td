@@ -1,18 +1,18 @@
 {
-    "pk": 2085,
-    "lc": "gnt",
+    "gw": false,
     "ISO-639-3": "gnt",
-    "ln": "Guntai",
-    "ang": "Guntai",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2085,
     "lr": "Pacific",
-    "alt": [
-        "Kan"
-    ],
+    "lc": "gnt",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Kan"
+    ],
+    "ang": "Guntai",
+    "gwcode": "tpi",
+    "ln": "Guntai"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 7409,
-    "lc": "zmf",
+    "gw": false,
     "ISO-639-3": "zmf",
-    "ln": "Mfinu",
-    "ang": "Mfinu",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 7409,
     "lr": "Africa",
+    "lc": "zmf",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Emfinu",
         "Funika",
         "Mfununga"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mfinu",
+    "gwcode": "fr",
+    "ln": "Mfinu"
 }

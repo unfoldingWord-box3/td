@@ -1,19 +1,19 @@
 {
-    "pk": 1795,
-    "lc": "etr",
+    "gw": false,
     "ISO-639-3": "etr",
-    "ln": "Edolo",
-    "ang": "Edolo",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1795,
     "lr": "Pacific",
+    "lc": "etr",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Edolo Ado",
         "Etolo"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Edolo",
+    "gwcode": "tpi",
+    "ln": "Edolo"
 }

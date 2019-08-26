@@ -1,20 +1,20 @@
 {
-    "pk": 3483,
-    "lc": "lkc",
+    "gw": false,
     "ISO-639-3": "lkc",
-    "ln": "Kucong",
-    "ang": "Kucong",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 3483,
     "lr": "Asia",
-    "alt": [
-        "Cosung",
-        "Lahlu"
-    ],
+    "lc": "lkc",
     "cc": [
         "CN",
         "VN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "alt": [
+        "Cosung",
+        "Lahlu"
+    ],
+    "ang": "Kucong",
+    "gwcode": "vi",
+    "ln": "Kucong"
 }

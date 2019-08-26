@@ -1,19 +1,19 @@
 {
-    "pk": 7468,
-    "lc": "zrs",
+    "gw": false,
     "ISO-639-3": "zrs",
-    "ln": "Mairasi",
-    "ang": "Mairasi",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 7468,
     "lr": "Asia",
+    "lc": "zrs",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Faranyao",
         "Kaniran"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Mairasi",
+    "gwcode": "id",
+    "ln": "Mairasi"
 }

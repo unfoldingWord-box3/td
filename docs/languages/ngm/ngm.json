@@ -1,19 +1,19 @@
 {
-    "pk": 4420,
-    "lc": "ngm",
+    "gw": false,
     "ISO-639-3": "ngm",
-    "ln": "Ngatik Men's Creole",
-    "ang": "Ngatik Men\u2019s Creole",
     "hc": "FM",
+    "ld": "ltr",
+    "pk": 4420,
     "lr": "Pacific",
+    "lc": "ngm",
+    "cc": [
+        "FM"
+    ],
     "alt": [
         "Ngatikese",
         "Ngatikese Men's Language"
     ],
-    "cc": [
-        "FM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ngatik Men\u2019s Creole",
+    "gwcode": "en",
+    "ln": "Ngatik Men's Creole"
 }

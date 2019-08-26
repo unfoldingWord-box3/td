@@ -1,19 +1,19 @@
 {
-    "pk": 5852,
-    "lc": "sta",
+    "gw": false,
     "ISO-639-3": "sta",
-    "ln": "Settla",
-    "ang": "Settla",
     "hc": "ZM",
+    "ld": "ltr",
+    "pk": 5852,
     "lr": "Africa",
+    "lc": "sta",
+    "cc": [
+        "ZM"
+    ],
     "alt": [
         "Kisetla",
         "Kisettla"
     ],
-    "cc": [
-        "ZM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Settla",
+    "gwcode": "en",
+    "ln": "Settla"
 }

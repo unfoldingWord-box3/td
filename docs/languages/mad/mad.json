@@ -1,11 +1,15 @@
 {
-    "pk": 3661,
-    "lc": "mad",
+    "gw": false,
     "ISO-639-3": "mad",
-    "ln": "Madurese",
-    "ang": "Madura",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3661,
     "lr": "Asia",
+    "lc": "mad",
+    "cc": [
+        "ID",
+        "SG"
+    ],
     "alt": [
         "Basa Mathura",
         "Madhura",
@@ -17,11 +21,7 @@
         "Bangkalan (Bangkalon)",
         "Bawean (Boyanese)"
     ],
-    "cc": [
-        "ID",
-        "SG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Madura",
+    "gwcode": "id",
+    "ln": "Madurese"
 }

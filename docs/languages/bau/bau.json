@@ -1,11 +1,15 @@
 {
-    "pk": 503,
-    "lc": "bau",
+    "gw": false,
     "ISO-639-3": "bau",
-    "ln": "Bada (Nigeria)",
-    "ang": "Mbat",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 503,
     "lr": "Africa",
+    "lc": "bau",
+    "cc": [
+        "NG",
+        "TD"
+    ],
     "alt": [
         "Bada'",
         "Badanchi",
@@ -23,11 +27,7 @@
         "Gyanggyang",
         "Mbat (Gagdi-Gum)"
     ],
-    "cc": [
-        "NG",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mbat",
+    "gwcode": "en",
+    "ln": "Bada (Nigeria)"
 }

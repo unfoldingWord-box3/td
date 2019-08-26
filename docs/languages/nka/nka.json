@@ -1,21 +1,21 @@
 {
-    "pk": 4494,
-    "lc": "nka",
+    "gw": false,
     "ISO-639-3": "nka",
-    "ln": "Nkoya",
-    "ang": "Nkoya",
     "hc": "ZM",
+    "ld": "ltr",
+    "pk": 4494,
     "lr": "Africa",
+    "lc": "nka",
+    "cc": [
+        "ZM"
+    ],
     "alt": [
         "Shinkoya",
         "Mbowela (Mbwela)",
         "Mbwera",
         "Shimbwera"
     ],
-    "cc": [
-        "ZM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nkoya",
+    "gwcode": "en",
+    "ln": "Nkoya"
 }

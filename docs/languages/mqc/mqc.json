@@ -1,19 +1,19 @@
 {
-    "pk": 4047,
-    "lc": "mqc",
+    "gw": false,
     "ISO-639-3": "mqc",
-    "ln": "Mangole",
-    "ang": "Mangole",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4047,
     "lr": "Asia",
+    "lc": "mqc",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Mangoli",
         "Sula Mangoli"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Mangole",
+    "gwcode": "id",
+    "ln": "Mangole"
 }

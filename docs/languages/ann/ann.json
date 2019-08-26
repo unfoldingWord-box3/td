@@ -1,20 +1,20 @@
 {
-    "pk": 271,
-    "lc": "ann",
+    "gw": false,
     "ISO-639-3": "ann",
-    "ln": "Obolo",
-    "ang": "Obolo",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 271,
     "lr": "Africa",
+    "lc": "ann",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Andone",
         "Andoni",
         "Andonni"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Obolo",
+    "gwcode": "en",
+    "ln": "Obolo"
 }

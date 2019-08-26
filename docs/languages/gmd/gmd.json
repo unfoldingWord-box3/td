@@ -1,19 +1,19 @@
 {
-    "pk": 2059,
-    "lc": "gmd",
+    "gw": false,
     "ISO-639-3": "gmd",
-    "ln": "M\u00e1ghd\u00ec",
-    "ang": "M\u00e1ghd\u00ec",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2059,
     "lr": "Africa",
+    "lc": "gmd",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Tala",
         "Widala"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "M\u00e1ghd\u00ec",
+    "gwcode": "en",
+    "ln": "M\u00e1ghd\u00ec"
 }

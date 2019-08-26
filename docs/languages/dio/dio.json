@@ -1,11 +1,14 @@
 {
-    "pk": 1532,
-    "lc": "dio",
+    "gw": false,
     "ISO-639-3": "dio",
-    "ln": "Dibo",
-    "ang": "Dibo",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1532,
     "lr": "Africa",
+    "lc": "dio",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ganagana",
         "Ganagawa",
@@ -13,10 +16,7 @@
         "Zhitako",
         "Zitako"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dibo",
+    "gwcode": "en",
+    "ln": "Dibo"
 }

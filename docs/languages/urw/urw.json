@@ -1,19 +1,19 @@
 {
-    "pk": 6554,
-    "lc": "urw",
+    "gw": false,
     "ISO-639-3": "urw",
-    "ln": "Sop",
-    "ang": "Sop",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6554,
     "lr": "Pacific",
+    "lc": "urw",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kari",
         "Usino"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Sop",
+    "gwcode": "tpi",
+    "ln": "Sop"
 }

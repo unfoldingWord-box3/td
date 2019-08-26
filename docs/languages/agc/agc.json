@@ -1,19 +1,19 @@
 {
-    "pk": 124,
-    "lc": "agc",
+    "gw": false,
     "ISO-639-3": "agc",
-    "ln": "Agatu",
-    "ang": "Agatu",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 124,
     "lr": "Africa",
+    "lc": "agc",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "North Idoma",
         "Ochekwu"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Agatu",
+    "gwcode": "en",
+    "ln": "Agatu"
 }

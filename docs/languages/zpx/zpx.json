@@ -1,20 +1,20 @@
 {
-    "pk": 7460,
-    "lc": "zpx",
+    "gw": false,
     "ISO-639-3": "zpx",
-    "ln": "San Baltazar Loxicha Zapotec",
-    "ang": "Zapotec, San Baltazar Loxicha",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7460,
     "lr": "Americas",
+    "lc": "zpx",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Northwestern Pochutla Zapotec",
         "San Balt\u00e1zar Loxicha Zapotec",
         "Zapoteco de San Balt\u00e1zar Loxicha"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, San Baltazar Loxicha",
+    "gwcode": "es-419",
+    "ln": "San Baltazar Loxicha Zapotec"
 }

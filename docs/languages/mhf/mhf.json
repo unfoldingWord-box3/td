@@ -1,19 +1,19 @@
 {
-    "pk": 3834,
-    "lc": "mhf",
+    "gw": false,
     "ISO-639-3": "mhf",
-    "ln": "Mamaa",
-    "ang": "Mamaa",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3834,
     "lr": "Pacific",
+    "lc": "mhf",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Doloman",
         "Mama"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Mamaa",
+    "gwcode": "tpi",
+    "ln": "Mamaa"
 }

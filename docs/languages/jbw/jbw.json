@@ -1,11 +1,14 @@
 {
-    "pk": 2591,
-    "lc": "jbw",
+    "gw": false,
     "ISO-639-3": "jbw",
-    "ln": "Yawijibaya",
-    "ang": "Yawijibaya",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 2591,
     "lr": "Pacific",
+    "lc": "jbw",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Bergalgu",
         "Jadjiba",
@@ -25,10 +28,7 @@
         "Yawjibara",
         "Yawjibarra"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yawijibaya",
+    "gwcode": "en",
+    "ln": "Yawijibaya"
 }

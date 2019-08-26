@@ -1,18 +1,18 @@
 {
-    "pk": 1247,
-    "lc": "clc",
+    "gw": false,
     "ISO-639-3": "clc",
-    "ln": "Chilcotin",
-    "ang": "Chilcotin",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 1247,
     "lr": "Americas",
-    "alt": [
-        "Tzilkotin"
-    ],
+    "lc": "clc",
     "cc": [
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Tzilkotin"
+    ],
+    "ang": "Chilcotin",
+    "gwcode": "en",
+    "ln": "Chilcotin"
 }

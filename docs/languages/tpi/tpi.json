@@ -1,11 +1,17 @@
 {
-    "pk": 6270,
-    "lc": "tpi",
+    "gw": true,
     "ISO-639-3": "tpi",
-    "ln": "Tok Pisin",
-    "ang": "Tok Pisin",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6270,
     "lr": "Pacific",
+    "lc": "tpi",
+    "cc": [
+        "SB",
+        "US",
+        "AU",
+        "PG"
+    ],
     "alt": [
         "Melanesian English",
         "Neomelanesian",
@@ -13,13 +19,7 @@
         "Pidgin",
         "Pisin"
     ],
-    "cc": [
-        "SB",
-        "US",
-        "AU",
-        "PG"
-    ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": null
+    "ang": "Tok Pisin",
+    "gwcode": "UNKNOWN",
+    "ln": "Tok Pisin"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 2914,
-    "lc": "kjh",
+    "gw": false,
     "ISO-639-3": "kjh",
-    "ln": "\u0425\u0430\u043a\u0430\u0441\u0441\u043a\u0438\u0439",
-    "ang": "Khakas",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 2914,
     "lr": "Europe",
+    "lc": "kjh",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Abakan Tatar",
         "Fuy\u00fc G\u00efrg\u00efs",
@@ -29,10 +32,7 @@
         "Kachin (Kaca)",
         "Kyzyl (Khyzyzl)"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Khakas",
+    "gwcode": "ru",
+    "ln": "\u0425\u0430\u043a\u0430\u0441\u0441\u043a\u0438\u0439"
 }

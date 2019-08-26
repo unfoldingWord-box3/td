@@ -1,11 +1,14 @@
 {
-    "pk": 1297,
-    "lc": "col",
+    "gw": false,
     "ISO-639-3": "col",
-    "ln": "Columbia-Wenatchi",
-    "ang": "Columbia-Wenatchi",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 1297,
     "lr": "Americas",
+    "lc": "col",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Chelan",
         "Columbian",
@@ -18,10 +21,7 @@
         "Sinkiuse",
         "Wenatchi (Chelan)"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Columbia-Wenatchi",
+    "gwcode": "en",
+    "ln": "Columbia-Wenatchi"
 }

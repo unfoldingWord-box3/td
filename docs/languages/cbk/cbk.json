@@ -1,11 +1,15 @@
 {
-    "pk": 1138,
-    "lc": "cbk",
+    "gw": false,
     "ISO-639-3": "cbk",
-    "ln": "Chavacano",
-    "ang": "Chavacano",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 1138,
     "lr": "Asia",
+    "lc": "cbk",
+    "cc": [
+        "MY",
+        "PH"
+    ],
     "alt": [
         "Chabacano",
         "Davawe\u00f1o Zamboangue\u00f1o (Abakay Spanish)",
@@ -18,11 +22,7 @@
         "Zamboangue\u00f1o (Chavacano)",
         "Davaoe\u00f1o"
     ],
-    "cc": [
-        "MY",
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Chavacano",
+    "gwcode": "ceb",
+    "ln": "Chavacano"
 }

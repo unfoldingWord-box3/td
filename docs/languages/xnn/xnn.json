@@ -1,19 +1,19 @@
 {
-    "pk": 6995,
-    "lc": "xnn",
+    "gw": false,
     "ISO-639-3": "xnn",
-    "ln": "Northern Kankanay",
-    "ang": "Kankanay, Northern",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 6995,
     "lr": "Asia",
+    "lc": "xnn",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Sagada Igorot",
         "Western Bontoc"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kankanay, Northern",
+    "gwcode": "en",
+    "ln": "Northern Kankanay"
 }

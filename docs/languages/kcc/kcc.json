@@ -1,11 +1,14 @@
 {
-    "pk": 2738,
-    "lc": "kcc",
+    "gw": false,
     "ISO-639-3": "kcc",
-    "ln": "Lubila",
-    "ang": "Lubila",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2738,
     "lr": "Africa",
+    "lc": "kcc",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kabila",
         "Kabire",
@@ -13,10 +16,7 @@
         "Ofor",
         "Ojor"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lubila",
+    "gwcode": "en",
+    "ln": "Lubila"
 }

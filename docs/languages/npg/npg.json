@@ -1,11 +1,14 @@
 {
-    "pk": 4606,
-    "lc": "npg",
+    "gw": false,
     "ISO-639-3": "npg",
-    "ln": "Ponyo-Gongwang Naga",
-    "ang": "Naga, Ponyo-Gongwang",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 4606,
     "lr": "Asia",
+    "lc": "npg",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Gongvan",
         "Manauk",
@@ -15,10 +18,7 @@
         "Solo",
         "Tsawlaw"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Naga, Ponyo-Gongwang",
+    "gwcode": "my",
+    "ln": "Ponyo-Gongwang Naga"
 }

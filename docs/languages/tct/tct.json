@@ -1,11 +1,15 @@
 {
-    "pk": 6024,
-    "lc": "tct",
+    "gw": false,
     "ISO-639-3": "tct",
-    "ln": "\u4f6f\u50d9\u8bed",
-    "ang": "T\u2019en",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 6024,
     "lr": "Asia",
+    "lc": "tct",
+    "cc": [
+        "CN",
+        "LA"
+    ],
     "alt": [
         "Rao",
         "Rau",
@@ -16,11 +20,7 @@
         "Hedong",
         "Hexi"
     ],
-    "cc": [
-        "CN",
-        "LA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "T\u2019en",
+    "gwcode": "zh",
+    "ln": "\u4f6f\u50d9\u8bed"
 }

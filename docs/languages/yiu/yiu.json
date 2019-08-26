@@ -1,21 +1,21 @@
 {
-    "pk": 7194,
-    "lc": "yiu",
+    "gw": false,
     "ISO-639-3": "yiu",
-    "ln": "\u963f\u9c81",
-    "ang": "Awu",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7194,
     "lr": "Asia",
+    "lc": "yiu",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Luowu",
         "Luwu",
         "Northern Awu",
         "Southern Awu"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Awu",
+    "gwcode": "zh",
+    "ln": "\u963f\u9c81"
 }

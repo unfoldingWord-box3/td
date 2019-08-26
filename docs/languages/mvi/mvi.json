@@ -1,19 +1,19 @@
 {
-    "pk": 4176,
-    "lc": "mvi",
+    "gw": false,
     "ISO-639-3": "mvi",
-    "ln": "\u5bae\u53e4\u53e3",
-    "ang": "Miyako",
     "hc": "JP",
+    "ld": "ltr",
+    "pk": 4176,
     "lr": "Asia",
+    "lc": "mvi",
+    "cc": [
+        "JP"
+    ],
     "alt": [
         "Miyako-Jima (Hirara)",
         "Ogami"
     ],
-    "cc": [
-        "JP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ja"
+    "ang": "Miyako",
+    "gwcode": "UNKNOWN",
+    "ln": "\u5bae\u53e4\u53e3"
 }

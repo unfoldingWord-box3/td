@@ -1,11 +1,14 @@
 {
-    "pk": 3750,
-    "lc": "mdx",
+    "gw": false,
     "ISO-639-3": "mdx",
-    "ln": "Dizin",
-    "ang": "Dizin",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 3750,
     "lr": "Africa",
+    "lc": "mdx",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Dizi-Maji",
         "Dizinog",
@@ -15,10 +18,7 @@
         "Sizi",
         "Twoyu"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Dizin",
+    "gwcode": "am",
+    "ln": "Dizin"
 }

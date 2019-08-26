@@ -1,11 +1,14 @@
 {
-    "pk": 5765,
-    "lc": "sos",
+    "gw": false,
     "ISO-639-3": "sos",
-    "ln": "Seenku",
-    "ang": "Seenku",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 5765,
     "lr": "Africa",
+    "lc": "sos",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Sambla",
         "Samogho",
@@ -13,10 +16,7 @@
         "Southern Seeku (Gbeneku)",
         "Northern Seeku (Timiku)"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Seenku",
+    "gwcode": "fr",
+    "ln": "Seenku"
 }

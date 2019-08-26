@@ -1,19 +1,19 @@
 {
-    "pk": 4315,
-    "lc": "nbh",
+    "gw": false,
     "ISO-639-3": "nbh",
-    "ln": "Ngamo",
-    "ang": "Ngamo",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4315,
     "lr": "Africa",
+    "lc": "nbh",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Gamawa",
         "Gamo"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ngamo",
+    "gwcode": "en",
+    "ln": "Ngamo"
 }

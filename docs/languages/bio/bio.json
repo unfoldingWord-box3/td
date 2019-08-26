@@ -1,18 +1,18 @@
 {
-    "pk": 698,
-    "lc": "bio",
+    "gw": false,
     "ISO-639-3": "bio",
-    "ln": "Nai",
-    "ang": "Nai",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 698,
     "lr": "Pacific",
-    "alt": [
-        "Biaka"
-    ],
+    "lc": "bio",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Biaka"
+    ],
+    "ang": "Nai",
+    "gwcode": "tpi",
+    "ln": "Nai"
 }

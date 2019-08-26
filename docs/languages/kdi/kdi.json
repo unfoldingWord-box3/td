@@ -1,11 +1,14 @@
 {
-    "pk": 2768,
-    "lc": "kdi",
+    "gw": false,
     "ISO-639-3": "kdi",
-    "ln": "Kumam",
-    "ang": "Kumam",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 2768,
     "lr": "Africa",
+    "lc": "kdi",
+    "cc": [
+        "UG"
+    ],
     "alt": [
         "Akokolemu",
         "Akum",
@@ -14,10 +17,7 @@
         "Kuman",
         "Kumum"
     ],
-    "cc": [
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kumam",
+    "gwcode": "en",
+    "ln": "Kumam"
 }

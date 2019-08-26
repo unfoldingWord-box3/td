@@ -1,11 +1,14 @@
 {
-    "pk": 2299,
-    "lc": "hmj",
+    "gw": false,
     "ISO-639-3": "hmj",
-    "ln": "\u5bb6\u8bed",
-    "ang": "Ge",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2299,
     "lr": "Asia",
+    "lc": "hmj",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Chonganjiang Miao",
         "Ge Jia",
@@ -20,10 +23,7 @@
         "Gho-mhon",
         "Keh Deo"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Ge",
+    "gwcode": "zh",
+    "ln": "\u5bb6\u8bed"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 1957,
-    "lc": "gcr",
+    "gw": false,
     "ISO-639-3": "gcr",
-    "ln": "Guianese Creole French",
-    "ang": "Guianese Creole French",
     "hc": "GF",
+    "ld": "ltr",
+    "pk": 1957,
     "lr": "Americas",
+    "lc": "gcr",
+    "cc": [
+        "GF",
+        "US"
+    ],
     "alt": [
         "French Guianese Creole French",
         "Guyanais",
@@ -14,11 +18,7 @@
         "Patois",
         "Patwa"
     ],
-    "cc": [
-        "GF",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Guianese Creole French",
+    "gwcode": "fr",
+    "ln": "Guianese Creole French"
 }

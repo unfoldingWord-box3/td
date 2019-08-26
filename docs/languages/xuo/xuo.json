@@ -1,20 +1,20 @@
 {
-    "pk": 7083,
-    "lc": "xuo",
+    "gw": false,
     "ISO-639-3": "xuo",
-    "ln": "Kuo",
-    "ang": "Kuo",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 7083,
     "lr": "Africa",
-    "alt": [
-        "Ko",
-        "Koh"
-    ],
+    "lc": "xuo",
     "cc": [
         "CM",
         "TD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Ko",
+        "Koh"
+    ],
+    "ang": "Kuo",
+    "gwcode": "ar",
+    "ln": "Kuo"
 }

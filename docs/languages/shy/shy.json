@@ -1,18 +1,11 @@
 {
-    "pk": 5615,
-    "lc": "shy",
+    "gw": false,
     "ISO-639-3": "shy",
-    "ln": "\u0644\u0647\u062c\u0629 \u0634\u0627\u0648\u064a\u0629",
-    "ang": "Tachawit",
     "hc": "DZ",
+    "ld": "ltr",
+    "pk": 5615,
     "lr": "Africa",
-    "alt": [
-        "Chaouia",
-        "Chawi",
-        "Shawia",
-        "Shawiya",
-        "Tacawit"
-    ],
+    "lc": "shy",
     "cc": [
         "DZ",
         "BE",
@@ -20,7 +13,14 @@
         "TN",
         "IT"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Chaouia",
+        "Chawi",
+        "Shawia",
+        "Shawiya",
+        "Tacawit"
+    ],
+    "ang": "Tachawit",
+    "gwcode": "ar",
+    "ln": "\u0644\u0647\u062c\u0629 \u0634\u0627\u0648\u064a\u0629"
 }

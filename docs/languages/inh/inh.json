@@ -1,11 +1,15 @@
 {
-    "pk": 2489,
-    "lc": "inh",
+    "gw": false,
     "ISO-639-3": "inh",
-    "ln": "\u0418\u043d\u0433\u0443\u0448\u0441\u043a\u0438\u0439",
-    "ang": "Ingush",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 2489,
     "lr": "Europe",
+    "lc": "inh",
+    "cc": [
+        "KZ",
+        "RU"
+    ],
     "alt": [
         "Galgay",
         "Ghalghay",
@@ -13,11 +17,7 @@
         "Kisti",
         "Kistin"
     ],
-    "cc": [
-        "KZ",
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Ingush",
+    "gwcode": "ru",
+    "ln": "\u0418\u043d\u0433\u0443\u0448\u0441\u043a\u0438\u0439"
 }

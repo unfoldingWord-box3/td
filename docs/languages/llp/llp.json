@@ -1,21 +1,21 @@
 {
-    "pk": 3508,
-    "lc": "llp",
+    "gw": false,
     "ISO-639-3": "llp",
-    "ln": "North Efate",
-    "ang": "Efate, North",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 3508,
     "lr": "Pacific",
+    "lc": "llp",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Nakanamanga",
         "Nguna (Guna)",
         "Ngunese",
         "Tongoa"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Efate, North",
+    "gwcode": "fr",
+    "ln": "North Efate"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 5598,
-    "lc": "shh",
+    "gw": false,
     "ISO-639-3": "shh",
-    "ln": "Shoshoni",
-    "ang": "Shoshoni",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 5598,
     "lr": "Americas",
-    "alt": [
-        "Gosiute (Goshute)"
-    ],
+    "lc": "shh",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Gosiute (Goshute)"
+    ],
+    "ang": "Shoshoni",
+    "gwcode": "en",
+    "ln": "Shoshoni"
 }

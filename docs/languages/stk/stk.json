@@ -1,20 +1,20 @@
 {
-    "pk": 5861,
-    "lc": "stk",
+    "gw": false,
     "ISO-639-3": "stk",
-    "ln": "Arammba",
-    "ang": "Arammba",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5861,
     "lr": "Pacific",
+    "lc": "stk",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Serki",
         "Serkisetavi",
         "Upper Morehead"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Arammba",
+    "gwcode": "tpi",
+    "ln": "Arammba"
 }

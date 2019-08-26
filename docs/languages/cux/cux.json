@@ -1,19 +1,19 @@
 {
-    "pk": 1401,
-    "lc": "cux",
+    "gw": false,
     "ISO-639-3": "cux",
-    "ln": "Tepeuxila Cuicatec",
-    "ang": "Cuicatec, Tepeuxila",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1401,
     "lr": "Americas",
+    "lc": "cux",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Cuicateco del centro",
         "Santa Mar\u00eda P\u00e1palo"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Cuicatec, Tepeuxila",
+    "gwcode": "es-419",
+    "ln": "Tepeuxila Cuicatec"
 }

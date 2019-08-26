@@ -1,19 +1,19 @@
 {
-    "pk": 1483,
-    "lc": "dem",
+    "gw": false,
     "ISO-639-3": "dem",
-    "ln": "Dem",
-    "ang": "Dem",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1483,
     "lr": "Asia",
+    "lc": "dem",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Lem",
         "Ndem"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Dem",
+    "gwcode": "id",
+    "ln": "Dem"
 }

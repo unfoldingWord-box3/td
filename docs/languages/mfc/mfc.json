@@ -1,19 +1,19 @@
 {
-    "pk": 3779,
-    "lc": "mfc",
+    "gw": false,
     "ISO-639-3": "mfc",
-    "ln": "Mba",
-    "ang": "Mba",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3779,
     "lr": "Africa",
+    "lc": "mfc",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kimbanga",
         "Manga"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mba",
+    "gwcode": "fr",
+    "ln": "Mba"
 }

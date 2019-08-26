@@ -1,11 +1,16 @@
 {
-    "pk": 501,
-    "lc": "bar",
+    "gw": false,
     "ISO-639-3": "bar",
-    "ln": "Bavarian",
-    "ang": "Bavarian",
     "hc": "AT",
+    "ld": "ltr",
+    "pk": 501,
     "lr": "Europe",
+    "lc": "bar",
+    "cc": [
+        "AT",
+        "DE",
+        "IT"
+    ],
     "alt": [
         "Bairisch",
         "Bavarian Austrian",
@@ -17,12 +22,7 @@
         "Central Bavarian (Danube Bavarian)",
         "South Bavarian (Heanzian)"
     ],
-    "cc": [
-        "AT",
-        "DE",
-        "IT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bavarian",
+    "gwcode": "en",
+    "ln": "Bavarian"
 }

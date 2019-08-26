@@ -1,18 +1,18 @@
 {
-    "pk": 4113,
-    "lc": "mss",
+    "gw": false,
     "ISO-639-3": "mss",
-    "ln": "West Masela",
-    "ang": "Masela, West",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4113,
     "lr": "Asia",
-    "alt": [
-        "West Marsela"
-    ],
+    "lc": "mss",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "West Marsela"
+    ],
+    "ang": "Masela, West",
+    "gwcode": "id",
+    "ln": "West Masela"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 5215,
-    "lc": "pug",
+    "gw": false,
     "ISO-639-3": "pug",
-    "ln": "Phuie",
-    "ang": "Phuie",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 5215,
     "lr": "Africa",
+    "lc": "pug",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Buguli",
         "Buguri",
@@ -17,10 +20,7 @@
         "Pwien",
         "Pwo"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Phuie",
+    "gwcode": "fr",
+    "ln": "Phuie"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 6309,
-    "lc": "trl",
+    "gw": false,
     "ISO-639-3": "trl",
-    "ln": "Traveller Scottish",
-    "ang": "Traveller Scottish",
     "hc": "GB",
+    "ld": "ltr",
+    "pk": 6309,
     "lr": "Europe",
+    "lc": "trl",
+    "cc": [
+        "GB"
+    ],
     "alt": [
         "Scottish Cant",
         "Scottish Traveller Cant"
     ],
-    "cc": [
-        "GB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Traveller Scottish",
+    "gwcode": "en",
+    "ln": "Traveller Scottish"
 }

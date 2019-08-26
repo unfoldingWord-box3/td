@@ -1,11 +1,14 @@
 {
-    "pk": 2126,
-    "lc": "grh",
+    "gw": false,
     "ISO-639-3": "grh",
-    "ln": "Gbiri-Niragu",
-    "ang": "Gbiri-Niragu",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2126,
     "lr": "Africa",
+    "lc": "grh",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Gure-Kahugu",
         "Tugbiri",
@@ -18,10 +21,7 @@
         "Agbiri",
         "Gbiri (Agari)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gbiri-Niragu",
+    "gwcode": "en",
+    "ln": "Gbiri-Niragu"
 }

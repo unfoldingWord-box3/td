@@ -1,19 +1,19 @@
 {
-    "pk": 2512,
-    "lc": "irr",
+    "gw": false,
     "ISO-639-3": "irr",
-    "ln": "Ir",
-    "ang": "Ir",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 2512,
     "lr": "Asia",
+    "lc": "irr",
+    "cc": [
+        "LA"
+    ],
     "alt": [
         "Yiir",
         "Yir"
     ],
-    "cc": [
-        "LA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "Ir",
+    "gwcode": "lo",
+    "ln": "Ir"
 }

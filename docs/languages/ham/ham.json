@@ -1,18 +1,18 @@
 {
-    "pk": 2230,
-    "lc": "ham",
+    "gw": false,
     "ISO-639-3": "ham",
-    "ln": "Hewa",
-    "ang": "Hewa",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2230,
     "lr": "Pacific",
-    "alt": [
-        "Sisimin"
-    ],
+    "lc": "ham",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Sisimin"
+    ],
+    "ang": "Hewa",
+    "gwcode": "tpi",
+    "ln": "Hewa"
 }

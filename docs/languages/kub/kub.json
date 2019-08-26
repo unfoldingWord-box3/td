@@ -1,11 +1,15 @@
 {
-    "pk": 3183,
-    "lc": "kub",
+    "gw": false,
     "ISO-639-3": "kub",
-    "ln": "Kutep",
-    "ang": "Kutep",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3183,
     "lr": "Africa",
+    "lc": "kub",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Ati",
         "Kutev",
@@ -13,11 +17,7 @@
         "Zumper",
         "Jompre"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kutep",
+    "gwcode": "en",
+    "ln": "Kutep"
 }

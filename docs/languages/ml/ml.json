@@ -1,23 +1,11 @@
 {
-    "pk": 3926,
-    "lc": "ml",
+    "gw": true,
     "ISO-639-3": "mal",
-    "ln": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
-    "ang": "Malayalam",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3926,
     "lr": "Asia",
-    "alt": [
-        "Alealum",
-        "Malayalani",
-        "Malayali",
-        "Malean",
-        "Maliyad",
-        "Mallealle",
-        "Mopla",
-        "Malayal",
-        "Kasargod",
-        "Moplah (Mapilla)"
-    ],
+    "lc": "ml",
     "cc": [
         "IL",
         "LK",
@@ -34,7 +22,19 @@
         "QA",
         "AE"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [
+        "Alealum",
+        "Malayalani",
+        "Malayali",
+        "Malean",
+        "Maliyad",
+        "Mallealle",
+        "Mopla",
+        "Malayal",
+        "Kasargod",
+        "Moplah (Mapilla)"
+    ],
+    "ang": "Malayalam",
+    "gwcode": "UNKNOWN",
+    "ln": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 1381,
-    "lc": "ctu",
+    "gw": false,
     "ISO-639-3": "ctu",
-    "ln": "Chol",
-    "ang": "Chol",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1381,
     "lr": "Americas",
+    "lc": "ctu",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Ch'ol de Sabanilla",
         "Chol de Tila (Ch'ol del noroeste)",
         "Chol de Tumbal\u00e1 (Ch'ol del sureste)"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chol",
+    "gwcode": "es-419",
+    "ln": "Chol"
 }

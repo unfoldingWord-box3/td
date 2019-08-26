@@ -1,19 +1,19 @@
 {
-    "pk": 722,
-    "lc": "bjp",
+    "gw": false,
     "ISO-639-3": "bjp",
-    "ln": "Fanamaket",
-    "ang": "Fanamaket",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 722,
     "lr": "Pacific",
+    "lc": "bjp",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Maket",
         "Tangga"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Fanamaket",
+    "gwcode": "tpi",
+    "ln": "Fanamaket"
 }

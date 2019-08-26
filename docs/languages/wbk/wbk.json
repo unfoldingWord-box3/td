@@ -1,11 +1,14 @@
 {
-    "pk": 6696,
-    "lc": "wbk",
+    "gw": false,
     "ISO-639-3": "wbk",
-    "ln": "Kala\u1e63a-al\u00e2",
-    "ang": "Waigali",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 6696,
     "lr": "Asia",
+    "lc": "wbk",
+    "cc": [
+        "AF"
+    ],
     "alt": [
         "Suki",
         "Wai",
@@ -15,10 +18,7 @@
         "Waigeli",
         "Zhonjigali"
     ],
-    "cc": [
-        "AF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Waigali",
+    "gwcode": "ps",
+    "ln": "Kala\u1e63a-al\u00e2"
 }

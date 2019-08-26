@@ -1,11 +1,14 @@
 {
-    "pk": 1660,
-    "lc": "duk",
+    "gw": false,
     "ISO-639-3": "duk",
-    "ln": "Uyajitaya",
-    "ang": "Uyajitaya",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1660,
     "lr": "Pacific",
+    "lc": "duk",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Abowe",
         "Amito",
@@ -15,10 +18,7 @@
         "Xuyadzitaya",
         "Yabatia"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Uyajitaya",
+    "gwcode": "tpi",
+    "ln": "Uyajitaya"
 }

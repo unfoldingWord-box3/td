@@ -1,18 +1,18 @@
 {
-    "pk": 3333,
-    "lc": "la",
+    "gw": false,
     "ISO-639-3": "lat",
-    "ln": "latine, lingua latina",
-    "ang": "Latin",
     "hc": "VA",
+    "ld": "ltr",
+    "pk": 3333,
     "lr": "Europe",
-    "alt": [
-        "Latina"
-    ],
+    "lc": "la",
     "cc": [
         "VA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Latina"
+    ],
+    "ang": "Latin",
+    "gwcode": "en",
+    "ln": "latine, lingua latina"
 }

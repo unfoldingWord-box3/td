@@ -1,11 +1,14 @@
 {
-    "pk": 7340,
-    "lc": "zaj",
+    "gw": false,
     "ISO-639-3": "zaj",
-    "ln": "Zaramo",
-    "ang": "Zaramo",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 7340,
     "lr": "Africa",
+    "lc": "zaj",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Dzalamo",
         "Kizaramo",
@@ -14,10 +17,7 @@
         "Zalamo",
         "Zaramu"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Zaramo",
+    "gwcode": "sw",
+    "ln": "Zaramo"
 }

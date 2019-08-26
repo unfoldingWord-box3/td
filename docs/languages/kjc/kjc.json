@@ -1,11 +1,14 @@
 {
-    "pk": 2909,
-    "lc": "kjc",
+    "gw": false,
     "ISO-639-3": "kjc",
-    "ln": "Coastal Konjo",
-    "ang": "Konjo, Coastal",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2909,
     "lr": "Asia",
+    "lc": "kjc",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kondjo",
         "Tiro",
@@ -17,10 +20,7 @@
         "Kadjang",
         "Kajang"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Konjo, Coastal",
+    "gwcode": "id",
+    "ln": "Coastal Konjo"
 }

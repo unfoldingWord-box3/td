@@ -1,18 +1,18 @@
 {
-    "pk": 6643,
-    "lc": "vmy",
+    "gw": false,
     "ISO-639-3": "vmy",
-    "ln": "Ayautla Mazatec",
-    "ang": "Mazatec, Ayautla",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 6643,
     "lr": "Americas",
-    "alt": [
-        "Mazateco del Sureste"
-    ],
+    "lc": "vmy",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Mazateco del Sureste"
+    ],
+    "ang": "Mazatec, Ayautla",
+    "gwcode": "es-419",
+    "ln": "Ayautla Mazatec"
 }

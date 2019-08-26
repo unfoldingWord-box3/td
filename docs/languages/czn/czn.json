@@ -1,19 +1,19 @@
 {
-    "pk": 1417,
-    "lc": "czn",
+    "gw": false,
     "ISO-639-3": "czn",
-    "ln": "Zenzontepec Chatino",
-    "ang": "Chatino, Zenzontepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1417,
     "lr": "Americas",
+    "lc": "czn",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Chatino Occidental Alto",
         "Northern Chatino"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chatino, Zenzontepec",
+    "gwcode": "es-419",
+    "ln": "Zenzontepec Chatino"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 4570,
-    "lc": "nnl",
+    "gw": false,
     "ISO-639-3": "nnl",
-    "ln": "Northern Rengma Naga",
-    "ang": "Naga, Northern Rengma",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4570,
     "lr": "Asia",
+    "lc": "nnl",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Northern Rengma",
         "Ntenyi",
         "Ntenyi Naga",
         "Nthenyi"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Northern Rengma",
+    "gwcode": "en",
+    "ln": "Northern Rengma Naga"
 }

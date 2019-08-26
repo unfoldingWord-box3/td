@@ -1,21 +1,21 @@
 {
-    "pk": 5311,
-    "lc": "rah",
+    "gw": false,
     "ISO-639-3": "rah",
-    "ln": "Rabha",
-    "ang": "Rabha",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5311,
     "lr": "Asia",
+    "lc": "rah",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Rava",
         "Maitaria (Maitoria)",
         "Maituri",
         "Rangdania (Rongdani)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "ang": "Rabha",
+    "gwcode": "as",
+    "ln": "Rabha"
 }

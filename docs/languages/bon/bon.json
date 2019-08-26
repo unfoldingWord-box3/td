@@ -1,20 +1,20 @@
 {
-    "pk": 842,
-    "lc": "bon",
+    "gw": false,
     "ISO-639-3": "bon",
-    "ln": "Bine",
-    "ang": "Bine",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 842,
     "lr": "Pacific",
+    "lc": "bon",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Oriomo",
         "Pine",
         "Boze-Giringarede"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Bine",
+    "gwcode": "tpi",
+    "ln": "Bine"
 }

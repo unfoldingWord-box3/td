@@ -1,21 +1,21 @@
 {
-    "pk": 390,
-    "lc": "atl",
+    "gw": false,
     "ISO-639-3": "atl",
-    "ln": "Mt. Iraya Agta",
-    "ang": "Agta, Mt. Iraya",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 390,
     "lr": "Asia",
+    "lc": "atl",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Inagta of Mt. Iraya",
         "Itbeg Rugnot",
         "Lake Buhi",
         "Rugnot of Lake Buhi East"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Agta, Mt. Iraya",
+    "gwcode": "ilo",
+    "ln": "Mt. Iraya Agta"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 6190,
-    "lc": "tlt",
+    "gw": false,
     "ISO-639-3": "tlt",
-    "ln": "Teluti",
-    "ang": "Teluti",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6190,
     "lr": "Asia",
+    "lc": "tlt",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Silen",
         "Taluti",
@@ -15,10 +18,7 @@
         "Tehua",
         "West Teluti (Haya)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Teluti",
+    "gwcode": "id",
+    "ln": "Teluti"
 }

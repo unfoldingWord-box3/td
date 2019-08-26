@@ -1,19 +1,19 @@
 {
-    "pk": 4903,
-    "lc": "otz",
+    "gw": false,
     "ISO-639-3": "otz",
-    "ln": "Ixtenco Otomi",
-    "ang": "Otomi, Ixtenco",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4903,
     "lr": "Americas",
+    "lc": "otz",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Otom\u00ed de Ixtenco",
         "Southeastern Otom\u00ed"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Otomi, Ixtenco",
+    "gwcode": "es-419",
+    "ln": "Ixtenco Otomi"
 }

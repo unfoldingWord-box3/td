@@ -1,21 +1,21 @@
 {
-    "pk": 4527,
-    "lc": "nlo",
+    "gw": false,
     "ISO-639-3": "nlo",
-    "ln": "Ngul",
-    "ang": "Ngul",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 4527,
     "lr": "Africa",
+    "lc": "nlo",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Ingul",
         "Ngoli",
         "Nguli",
         "Ngulu"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ngul",
+    "gwcode": "fr",
+    "ln": "Ngul"
 }

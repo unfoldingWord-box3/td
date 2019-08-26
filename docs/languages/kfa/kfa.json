@@ -1,11 +1,14 @@
 {
-    "pk": 2809,
-    "lc": "kfa",
+    "gw": false,
     "ISO-639-3": "kfa",
-    "ln": "Kodava",
-    "ang": "Kodava",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2809,
     "lr": "Asia",
+    "lc": "kfa",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Coorge",
         "Kadagi",
@@ -15,10 +18,7 @@
         "Kurja",
         "Kurug"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "kn"
+    "ang": "Kodava",
+    "gwcode": "kn",
+    "ln": "Kodava"
 }

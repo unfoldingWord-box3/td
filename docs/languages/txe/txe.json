@@ -1,19 +1,19 @@
 {
-    "pk": 6427,
-    "lc": "txe",
+    "gw": false,
     "ISO-639-3": "txe",
-    "ln": "Totoli",
-    "ang": "Totoli",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6427,
     "lr": "Asia",
+    "lc": "txe",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Gage",
         "Tontoli"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Totoli",
+    "gwcode": "id",
+    "ln": "Totoli"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 2373,
-    "lc": "hui",
+    "gw": false,
     "ISO-639-3": "hui",
-    "ln": "Huli",
-    "ang": "Huli",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2373,
     "lr": "Pacific",
+    "lc": "hui",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Huli-Hulidana",
         "Huri"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Huli",
+    "gwcode": "tpi",
+    "ln": "Huli"
 }

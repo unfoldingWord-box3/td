@@ -1,18 +1,18 @@
 {
-    "pk": 4435,
-    "lc": "nhc",
+    "gw": false,
     "ISO-639-3": "nhc",
-    "ln": "Tabasco Nahuatl",
-    "ang": "Nahuatl, Tabasco",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4435,
     "lr": "Americas",
-    "alt": [
-        "Tabasco Aztec"
-    ],
+    "lc": "nhc",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Tabasco Aztec"
+    ],
+    "ang": "Nahuatl, Tabasco",
+    "gwcode": "es-419",
+    "ln": "Tabasco Nahuatl"
 }

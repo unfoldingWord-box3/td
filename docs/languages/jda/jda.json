@@ -1,20 +1,20 @@
 {
-    "pk": 2594,
-    "lc": "jda",
+    "gw": false,
     "ISO-639-3": "jda",
-    "ln": "Jad",
-    "ang": "Jad",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2594,
     "lr": "Asia",
+    "lc": "jda",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Bhotia",
         "Dzad",
         "Rongba"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Jad",
+    "gwcode": "hi",
+    "ln": "Jad"
 }

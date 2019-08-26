@@ -1,11 +1,14 @@
 {
-    "pk": 6739,
-    "lc": "wik",
+    "gw": false,
     "ISO-639-3": "wik",
-    "ln": "Wikalkan",
-    "ang": "Wikalkan",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6739,
     "lr": "Pacific",
+    "lc": "wik",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Wikngatara",
         "Wik-Ngathara",
@@ -13,10 +16,7 @@
         "Wik-Ngathrr",
         "Wik-Ngandjara (Ngandjara)"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Wikalkan",
+    "gwcode": "en",
+    "ln": "Wikalkan"
 }

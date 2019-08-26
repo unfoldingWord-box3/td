@@ -1,11 +1,15 @@
 {
-    "pk": 593,
-    "lc": "beh",
+    "gw": false,
     "ISO-639-3": "beh",
-    "ln": "Biali",
-    "ang": "Biali",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 593,
     "lr": "Africa",
+    "lc": "beh",
+    "cc": [
+        "BJ",
+        "BF"
+    ],
     "alt": [
         "Bieri",
         "Bjerb",
@@ -20,11 +24,7 @@
         "Dassari",
         "Gouande"
     ],
-    "cc": [
-        "BJ",
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Biali",
+    "gwcode": "fr",
+    "ln": "Biali"
 }

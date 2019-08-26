@@ -1,18 +1,18 @@
 {
-    "pk": 5185,
-    "lc": "psl",
+    "gw": false,
     "ISO-639-3": "psl",
-    "ln": "Puerto Rican Sign Language",
-    "ang": "Puerto Rican Sign Language",
     "hc": "PR",
+    "ld": "ltr",
+    "pk": 5185,
     "lr": "Americas",
-    "alt": [
-        "PRSL"
-    ],
+    "lc": "psl",
     "cc": [
         "PR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "PRSL"
+    ],
+    "ang": "Puerto Rican Sign Language",
+    "gwcode": "es-419",
+    "ln": "Puerto Rican Sign Language"
 }

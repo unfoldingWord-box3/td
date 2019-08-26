@@ -1,19 +1,19 @@
 {
-    "pk": 4425,
-    "lc": "ngr",
+    "gw": false,
     "ISO-639-3": "ngr",
-    "ln": "Engdewu",
-    "ang": "Engdewu",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 4425,
     "lr": "Pacific",
+    "lc": "ngr",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Nagu",
         "Nangu"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Engdewu",
+    "gwcode": "UNKNOWN",
+    "ln": "Engdewu"
 }

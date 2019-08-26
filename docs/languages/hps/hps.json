@@ -1,18 +1,18 @@
 {
-    "pk": 2342,
-    "lc": "hps",
+    "gw": false,
     "ISO-639-3": "hps",
-    "ln": "Hawai'i Sign Language (HSL)",
-    "ang": "Hawaii Sign Language",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 2342,
     "lr": "Americas",
-    "alt": [
-        "Pidgin Sign Language"
-    ],
+    "lc": "hps",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Pidgin Sign Language"
+    ],
+    "ang": "Hawaii Sign Language",
+    "gwcode": "en",
+    "ln": "Hawai'i Sign Language (HSL)"
 }

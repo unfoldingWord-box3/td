@@ -1,21 +1,21 @@
 {
-    "pk": 5625,
-    "lc": "sii",
+    "gw": false,
     "ISO-639-3": "sii",
-    "ln": "Shom Peng",
-    "ang": "Shom Peng",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5625,
     "lr": "Asia",
+    "lc": "sii",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Shobang",
         "Shom Pen",
         "Shompen",
         "Shompeng"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Shom Peng",
+    "gwcode": "hi",
+    "ln": "Shom Peng"
 }

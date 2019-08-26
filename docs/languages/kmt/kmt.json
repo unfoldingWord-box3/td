@@ -1,18 +1,18 @@
 {
-    "pk": 3006,
-    "lc": "kmt",
+    "gw": false,
     "ISO-639-3": "kmt",
-    "ln": "Kemtuik",
-    "ang": "Kemtuik",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3006,
     "lr": "Asia",
-    "alt": [
-        "Kamtuk"
-    ],
+    "lc": "kmt",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Kamtuk"
+    ],
+    "ang": "Kemtuik",
+    "gwcode": "id",
+    "ln": "Kemtuik"
 }

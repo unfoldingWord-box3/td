@@ -1,11 +1,18 @@
 {
-    "pk": 2101,
-    "lc": "gom",
+    "gw": false,
     "ISO-639-3": "gom",
-    "ln": "Goan Konkani",
-    "ang": "Konkani, Goan",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2101,
     "lr": "Asia",
+    "lc": "gom",
+    "cc": [
+        "GB",
+        "MZ",
+        "PK",
+        "IN",
+        "AE"
+    ],
     "alt": [
         "Goan",
         "Gomataki",
@@ -18,14 +25,7 @@
         "Kudali (Malvani)",
         "Mangalore Standard Konkani (Goan)"
     ],
-    "cc": [
-        "GB",
-        "MZ",
-        "PK",
-        "IN",
-        "AE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "mr"
+    "ang": "Konkani, Goan",
+    "gwcode": "mr",
+    "ln": "Goan Konkani"
 }

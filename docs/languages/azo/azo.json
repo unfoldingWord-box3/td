@@ -1,19 +1,19 @@
 {
-    "pk": 485,
-    "lc": "azo",
+    "gw": false,
     "ISO-639-3": "azo",
-    "ln": "Awing",
-    "ang": "Awing",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 485,
     "lr": "Africa",
+    "lc": "azo",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Awi",
         "Bambuluwe"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Awing",
+    "gwcode": "fr",
+    "ln": "Awing"
 }

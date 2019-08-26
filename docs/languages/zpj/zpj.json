@@ -1,21 +1,21 @@
 {
-    "pk": 7446,
-    "lc": "zpj",
+    "gw": false,
     "ISO-639-3": "zpj",
-    "ln": "Quiavicuzas Zapotec",
-    "ang": "Zapotec, Quiavicuzas",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7446,
     "lr": "Americas",
+    "lc": "zpj",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Northeastern Yautepec Zapotec",
         "Zapoteco de Quiavicuzas",
         "Zapoteco de San Juan Lachixila",
         "Zapoteco de San Juan Lachixila O"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Quiavicuzas",
+    "gwcode": "es-419",
+    "ln": "Quiavicuzas Zapotec"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 1389,
-    "lc": "cui",
+    "gw": false,
     "ISO-639-3": "cui",
-    "ln": "Cuiba",
-    "ang": "Cuiba",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 1389,
     "lr": "Americas",
+    "lc": "cui",
+    "cc": [
+        "VE",
+        "CO"
+    ],
     "alt": [
         "Cuiba-W\u00e1monae",
         "Cuiva",
@@ -18,11 +22,7 @@
         "Amaruwa (Amorua)",
         "Wupiwi"
     ],
-    "cc": [
-        "VE",
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Cuiba",
+    "gwcode": "es-419",
+    "ln": "Cuiba"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 1981,
-    "lc": "geb",
+    "gw": false,
     "ISO-639-3": "geb",
-    "ln": "Kire",
-    "ang": "Kire",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1981,
     "lr": "Pacific",
+    "lc": "geb",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Gire",
         "Giri",
         "Kire-Puire"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kire",
+    "gwcode": "tpi",
+    "ln": "Kire"
 }

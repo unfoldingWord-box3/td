@@ -1,16 +1,16 @@
 {
-    "pk": 4884,
-    "lc": "osp",
+    "gw": false,
     "ISO-639-3": "osp",
-    "ln": "Romance Castellano",
-    "ang": "Old Spanish",
     "hc": "ES",
+    "ld": "ltr",
+    "pk": 4884,
     "lr": "Europe",
-    "alt": [],
+    "lc": "osp",
     "cc": [
         "ES"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [],
+    "ang": "Old Spanish",
+    "gwcode": "UNKNOWN",
+    "ln": "Romance Castellano"
 }

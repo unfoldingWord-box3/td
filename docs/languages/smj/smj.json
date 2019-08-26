@@ -1,22 +1,22 @@
 {
-    "pk": 5710,
-    "lc": "smj",
+    "gw": false,
     "ISO-639-3": "smj",
-    "ln": "Lule Sami",
-    "ang": "Saami, Lule",
     "hc": "SE",
+    "ld": "ltr",
+    "pk": 5710,
     "lr": "Europe",
+    "lc": "smj",
+    "cc": [
+        "NO",
+        "SE"
+    ],
     "alt": [
         "Lule",
         "Saame",
         "Saami",
         "Lapp"
     ],
-    "cc": [
-        "NO",
-        "SE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Saami, Lule",
+    "gwcode": "en",
+    "ln": "Lule Sami"
 }

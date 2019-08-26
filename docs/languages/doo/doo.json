@@ -1,19 +1,19 @@
 {
-    "pk": 1603,
-    "lc": "doo",
+    "gw": false,
     "ISO-639-3": "doo",
-    "ln": "Dongo",
-    "ang": "Dongo",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 1603,
     "lr": "Africa",
+    "lc": "doo",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Donga",
         "Dongo Ko"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dongo",
+    "gwcode": "fr",
+    "ln": "Dongo"
 }

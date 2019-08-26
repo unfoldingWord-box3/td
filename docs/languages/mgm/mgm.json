@@ -1,18 +1,18 @@
 {
-    "pk": 3815,
-    "lc": "mgm",
+    "gw": false,
     "ISO-639-3": "mgm",
-    "ln": "Mambae",
-    "ang": "Mambae",
     "hc": "TL",
+    "ld": "ltr",
+    "pk": 3815,
     "lr": "Asia",
-    "alt": [
-        "Manbae"
-    ],
+    "lc": "mgm",
     "cc": [
         "TL"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "alt": [
+        "Manbae"
+    ],
+    "ang": "Mambae",
+    "gwcode": "pt",
+    "ln": "Mambae"
 }

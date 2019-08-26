@@ -1,0 +1,22 @@
+.. _lre:
+
+Laurentian
+==========
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: lre
+    alternate_names: []
+    anglicanized_name: Laurentian
+    country_codes:
+    - CA
+    gateway_language: UNKNOWN
+    lang_code: lre
+    lang_direction: ltr
+    lang_name: Laurentian
+    lang_region: Americas
+    

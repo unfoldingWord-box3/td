@@ -1,20 +1,20 @@
 {
-    "pk": 4230,
-    "lc": "mxq",
+    "gw": false,
     "ISO-639-3": "mxq",
-    "ln": "Juquila Mixe",
-    "ang": "Mixe, Juquila",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4230,
     "lr": "Americas",
+    "lc": "mxq",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "South Central Mixe",
         "Juquila Mixe",
         "Ocotepec Mixe"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixe, Juquila",
+    "gwcode": "es-419",
+    "ln": "Juquila Mixe"
 }

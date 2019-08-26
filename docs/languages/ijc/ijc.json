@@ -1,11 +1,14 @@
 {
-    "pk": 2452,
-    "lc": "ijc",
+    "gw": false,
     "ISO-639-3": "ijc",
-    "ln": "Izon",
-    "ang": "Izon",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2452,
     "lr": "Africa",
+    "lc": "ijc",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Central-Western Ijo",
         "Ijo",
@@ -22,10 +25,7 @@
         "East Tarakiri",
         "Kabo (Kabowei)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Izon",
+    "gwcode": "en",
+    "ln": "Izon"
 }

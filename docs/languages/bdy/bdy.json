@@ -1,11 +1,14 @@
 {
-    "pk": 583,
-    "lc": "bdy",
+    "gw": false,
     "ISO-639-3": "bdy",
-    "ln": "Bandjalang",
-    "ang": "Bandjalang",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 583,
     "lr": "Pacific",
+    "lc": "bdy",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Bandjelang",
         "Bogganger",
@@ -13,10 +16,7 @@
         "Yugumbe",
         "Gidabal (Gidhabal)"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bandjalang",
+    "gwcode": "en",
+    "ln": "Bandjalang"
 }

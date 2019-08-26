@@ -1,11 +1,14 @@
 {
-    "pk": 6151,
-    "lc": "tjw",
+    "gw": false,
     "ISO-639-3": "tjw",
-    "ln": "Djabwurrung",
-    "ang": "Djabwurrung",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6151,
     "lr": "Pacific",
+    "lc": "tjw",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Chaa wuurong",
         "Chaap Wuurong",
@@ -44,10 +47,7 @@
         "Tyapwuru",
         "Pirtkopan"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Djabwurrung",
+    "gwcode": "en",
+    "ln": "Djabwurrung"
 }

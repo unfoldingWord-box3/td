@@ -1,21 +1,21 @@
 {
-    "pk": 425,
-    "lc": "auz",
+    "gw": false,
     "ISO-639-3": "auz",
-    "ln": "Uzbeki Arabic",
-    "ang": "Arabic, Uzbeki Spoken",
     "hc": "UZ",
+    "ld": "rtl",
+    "pk": 425,
     "lr": "Asia",
+    "lc": "auz",
+    "cc": [
+        "UZ"
+    ],
     "alt": [
         "Central Asian Arabic",
         "Jugari",
         "Kashkadarya Arabic",
         "Uzbeki Arabic"
     ],
-    "cc": [
-        "UZ"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ru"
+    "ang": "Arabic, Uzbeki Spoken",
+    "gwcode": "ru",
+    "ln": "Uzbeki Arabic"
 }

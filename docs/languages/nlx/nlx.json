@@ -1,21 +1,21 @@
 {
-    "pk": 4531,
-    "lc": "nlx",
+    "gw": false,
     "ISO-639-3": "nlx",
-    "ln": "Nahali",
-    "ang": "Nahali",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4531,
     "lr": "Asia",
+    "lc": "nlx",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Kalto",
         "Nahal",
         "Nahale",
         "Nahalia"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "mr"
+    "ang": "Nahali",
+    "gwcode": "mr",
+    "ln": "Nahali"
 }

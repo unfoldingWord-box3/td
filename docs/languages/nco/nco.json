@@ -1,11 +1,14 @@
 {
-    "pk": 4345,
-    "lc": "nco",
+    "gw": false,
     "ISO-639-3": "nco",
-    "ln": "Sibe",
-    "ang": "Sibe",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4345,
     "lr": "Pacific",
+    "lc": "nco",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Sibe-Nagovisi",
         "Tobe\u2019laaki\u2019",
@@ -14,10 +17,7 @@
         "Laagasi'",
         "Welipe'"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Sibe",
+    "gwcode": "tpi",
+    "ln": "Sibe"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 5650,
-    "lc": "sjp",
+    "gw": false,
     "ISO-639-3": "sjp",
-    "ln": "Surjapuri",
-    "ang": "Surjapuri",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5650,
     "lr": "Asia",
-    "alt": [
-        "Sura"
-    ],
+    "lc": "sjp",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "alt": [
+        "Sura"
+    ],
+    "ang": "Surjapuri",
+    "gwcode": "hi",
+    "ln": "Surjapuri"
 }

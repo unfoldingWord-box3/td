@@ -1,19 +1,19 @@
 {
-    "pk": 1568,
-    "lc": "dmk",
+    "gw": false,
     "ISO-639-3": "dmk",
-    "ln": "\u0688\u0648\u0645\u0627\u06a9\u06cc",
-    "ang": "Domaaki",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 1568,
     "lr": "Asia",
+    "lc": "dmk",
+    "cc": [
+        "PK"
+    ],
     "alt": [
         "Doma",
         "Dumaki"
     ],
-    "cc": [
-        "PK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Domaaki",
+    "gwcode": "ur",
+    "ln": "\u0688\u0648\u0645\u0627\u06a9\u06cc"
 }

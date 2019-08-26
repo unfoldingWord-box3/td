@@ -1,16 +1,16 @@
 {
-    "pk": 5468,
-    "lc": "sam",
+    "gw": false,
     "ISO-639-3": "sam",
-    "ln": "Samaritan Aramaic",
-    "ang": "Samaritan Aramaic",
     "hc": "PS",
+    "ld": "ltr",
+    "pk": 5468,
     "lr": "Asia",
-    "alt": [],
+    "lc": "sam",
     "cc": [
         "PS"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [],
+    "ang": "Samaritan Aramaic",
+    "gwcode": "ar",
+    "ln": "Samaritan Aramaic"
 }

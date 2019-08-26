@@ -1,11 +1,14 @@
 {
-    "pk": 6532,
-    "lc": "unn",
+    "gw": false,
     "ISO-639-3": "unn",
-    "ln": "Kurnai",
-    "ang": "Kurnai",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6532,
     "lr": "Pacific",
+    "lc": "unn",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Cunni",
         "Ganai",
@@ -14,10 +17,7 @@
         "Gunnai",
         "Kunnai"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kurnai",
+    "gwcode": "en",
+    "ln": "Kurnai"
 }

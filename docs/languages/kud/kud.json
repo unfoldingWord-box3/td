@@ -1,21 +1,21 @@
 {
-    "pk": 3185,
-    "lc": "kud",
+    "gw": false,
     "ISO-639-3": "kud",
-    "ln": "'Auhelawa",
-    "ang": "\u2019Auhelawa",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3185,
     "lr": "Pacific",
+    "lc": "kud",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kurada",
         "Nuakata",
         "Ulada",
         "Urada"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "\u2019Auhelawa",
+    "gwcode": "tpi",
+    "ln": "'Auhelawa"
 }

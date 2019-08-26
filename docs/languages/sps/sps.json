@@ -1,18 +1,18 @@
 {
-    "pk": 5785,
-    "lc": "sps",
+    "gw": false,
     "ISO-639-3": "sps",
-    "ln": "Saposa",
-    "ang": "Saposa",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5785,
     "lr": "Pacific",
-    "alt": [
-        "Saposa (Fa Saposa)"
-    ],
+    "lc": "sps",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Saposa (Fa Saposa)"
+    ],
+    "ang": "Saposa",
+    "gwcode": "tpi",
+    "ln": "Saposa"
 }

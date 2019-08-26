@@ -1,18 +1,18 @@
 {
-    "pk": 2239,
-    "lc": "hax",
+    "gw": false,
     "ISO-639-3": "hax",
-    "ln": "Southern Haida",
-    "ang": "Haida, Southern",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 2239,
     "lr": "Americas",
-    "alt": [
-        "Skidegate"
-    ],
+    "lc": "hax",
     "cc": [
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Skidegate"
+    ],
+    "ang": "Haida, Southern",
+    "gwcode": "en",
+    "ln": "Southern Haida"
 }

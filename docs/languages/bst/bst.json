@@ -1,19 +1,19 @@
 {
-    "pk": 941,
-    "lc": "bst",
+    "gw": false,
     "ISO-639-3": "bst",
-    "ln": "Basketo",
-    "ang": "Basketo",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 941,
     "lr": "Africa",
+    "lc": "bst",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Baskatta",
         "Mesketo"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Basketo",
+    "gwcode": "am",
+    "ln": "Basketo"
 }

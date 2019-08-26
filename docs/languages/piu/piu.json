@@ -1,21 +1,21 @@
 {
-    "pk": 5042,
-    "lc": "piu",
+    "gw": false,
     "ISO-639-3": "piu",
-    "ln": "Pintupi-Luritja",
-    "ang": "Pintupi-Luritja",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 5042,
     "lr": "Pacific",
+    "lc": "piu",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Binddibu",
         "Loridja",
         "Pintubi",
         "Pintupi"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Pintupi-Luritja",
+    "gwcode": "en",
+    "ln": "Pintupi-Luritja"
 }

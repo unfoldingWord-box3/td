@@ -1,21 +1,21 @@
 {
-    "pk": 3767,
-    "lc": "mep",
+    "gw": false,
     "ISO-639-3": "mep",
-    "ln": "Miriwung",
-    "ang": "Miriwung",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 3767,
     "lr": "Pacific",
+    "lc": "mep",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Merong",
         "Miriwoong",
         "Miriwun",
         "Mirung"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Miriwung",
+    "gwcode": "en",
+    "ln": "Miriwung"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 6779,
-    "lc": "wng",
+    "gw": false,
     "ISO-639-3": "wng",
-    "ln": "Wanggom",
-    "ang": "Wanggom",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6779,
     "lr": "Asia",
+    "lc": "wng",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Wanggo",
         "Wangom"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Wanggom",
+    "gwcode": "id",
+    "ln": "Wanggom"
 }

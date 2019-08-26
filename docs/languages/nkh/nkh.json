@@ -1,19 +1,19 @@
 {
-    "pk": 4501,
-    "lc": "nkh",
+    "gw": false,
     "ISO-639-3": "nkh",
-    "ln": "Khezha Naga",
-    "ang": "Naga, Khezha",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4501,
     "lr": "Asia",
+    "lc": "nkh",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Kezami",
         "Khezhama"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Khezha",
+    "gwcode": "en",
+    "ln": "Khezha Naga"
 }

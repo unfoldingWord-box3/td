@@ -1,22 +1,22 @@
 {
-    "pk": 5018,
-    "lc": "pho",
+    "gw": false,
     "ISO-639-3": "pho",
-    "ln": "Phunoi",
-    "ang": "Phunoi",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 5018,
     "lr": "Asia",
+    "lc": "pho",
+    "cc": [
+        "LA",
+        "TH"
+    ],
     "alt": [
         "Phounoy",
         "Phu Noi",
         "Punoi",
         "Sinsali"
     ],
-    "cc": [
-        "LA",
-        "TH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "Phunoi",
+    "gwcode": "lo",
+    "ln": "Phunoi"
 }

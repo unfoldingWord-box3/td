@@ -1,23 +1,23 @@
 {
-    "pk": 2241,
-    "lc": "haz",
+    "gw": false,
     "ISO-639-3": "haz",
-    "ln": "\u0622\u0632\u0631\u06af\u06cc",
-    "ang": "Hazaragi",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 2241,
     "lr": "Asia",
+    "lc": "haz",
+    "cc": [
+        "AF",
+        "PK",
+        "AU"
+    ],
     "alt": [
         "Azargi",
         "Hazara",
         "Hezareh",
         "Hezare'i"
     ],
-    "cc": [
-        "AF",
-        "PK",
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Hazaragi",
+    "gwcode": "ps",
+    "ln": "\u0622\u0632\u0631\u06af\u06cc"
 }

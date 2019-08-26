@@ -1,20 +1,20 @@
 {
-    "pk": 4005,
-    "lc": "moi",
+    "gw": false,
     "ISO-639-3": "moi",
-    "ln": "Mboi",
-    "ang": "Mboi",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4005,
     "lr": "Africa",
+    "lc": "moi",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Gena",
         "Mboire",
         "Mboyi"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mboi",
+    "gwcode": "en",
+    "ln": "Mboi"
 }

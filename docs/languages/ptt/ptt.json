@@ -1,20 +1,20 @@
 {
-    "pk": 5205,
-    "lc": "ptt",
+    "gw": false,
     "ISO-639-3": "ptt",
-    "ln": "Enrekang",
-    "ang": "Enrekang",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5205,
     "lr": "Asia",
+    "lc": "ptt",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Endekan",
         "Endekan Timur",
         "Pattinjo (Letta-Batulappa-Kassa)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Enrekang",
+    "gwcode": "id",
+    "ln": "Enrekang"
 }

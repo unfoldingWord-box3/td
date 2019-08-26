@@ -1,20 +1,20 @@
 {
-    "pk": 577,
-    "lc": "bds",
+    "gw": false,
     "ISO-639-3": "bds",
-    "ln": "Burunge",
-    "ang": "Burunge",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 577,
     "lr": "Africa",
+    "lc": "bds",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Bulunge",
         "Burungi",
         "Kiburunge"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Burunge",
+    "gwcode": "sw",
+    "ln": "Burunge"
 }

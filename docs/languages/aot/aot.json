@@ -1,18 +1,18 @@
 {
-    "pk": 297,
-    "lc": "aot",
+    "gw": false,
     "ISO-639-3": "aot",
-    "ln": "Atong (India)",
-    "ang": "Atong",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 297,
     "lr": "Asia",
-    "alt": [
-        "Attong"
-    ],
+    "lc": "aot",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "grt"
+    "alt": [
+        "Attong"
+    ],
+    "ang": "Atong",
+    "gwcode": "UNKNOWN",
+    "ln": "Atong (India)"
 }

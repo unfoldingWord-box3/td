@@ -1,20 +1,20 @@
 {
-    "pk": 1288,
-    "lc": "cob",
+    "gw": false,
     "ISO-639-3": "cob",
-    "ln": "Chicomuceltec",
-    "ang": "Chicomuceltec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1288,
     "lr": "Americas",
+    "lc": "cob",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Cakchiquel Mam",
         "Cac'chiquel Mam",
         "Chicomulcelteco"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chicomuceltec",
+    "gwcode": "es-419",
+    "ln": "Chicomuceltec"
 }

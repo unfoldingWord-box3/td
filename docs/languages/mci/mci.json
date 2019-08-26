@@ -1,19 +1,19 @@
 {
-    "pk": 3710,
-    "lc": "mci",
+    "gw": false,
     "ISO-639-3": "mci",
-    "ln": "Mese",
-    "ang": "Mesem",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3710,
     "lr": "Pacific",
+    "lc": "mci",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Mese",
         "Momalili"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Mesem",
+    "gwcode": "tpi",
+    "ln": "Mese"
 }

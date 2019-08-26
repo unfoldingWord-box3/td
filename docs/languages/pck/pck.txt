@@ -1,0 +1,36 @@
+.. _pck:
+
+Paite Chin
+==========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: pck
+    alternate_names:
+    - Haithe
+    - Paithe
+    - Parte
+    - Zoukam
+    - Dimpi
+    - Tuichiap
+    - Telzang (Teizang)
+    - Sihzang
+    - Saizang
+    - Lamzang
+    - Dim
+    - Dapzal (Dapzar)
+    - Bukpi (Bukpui)
+    - Lousau
+    anglicanized_name: Chin, Paite
+    country_codes:
+    - IN
+    gateway_language: UNKNOWN
+    lang_code: pck
+    lang_direction: ltr
+    lang_name: Paite Chin
+    lang_region: Asia
+    

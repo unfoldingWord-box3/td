@@ -1,19 +1,19 @@
 {
-    "pk": 4681,
-    "lc": "nui",
+    "gw": false,
     "ISO-639-3": "nui",
-    "ln": "Ngumbi",
-    "ang": "Kombe",
     "hc": "GQ",
+    "ld": "ltr",
+    "pk": 4681,
     "lr": "Africa",
-    "alt": [
-        "Combe"
-    ],
+    "lc": "nui",
     "cc": [
         "CM",
         "GQ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es"
+    "alt": [
+        "Combe"
+    ],
+    "ang": "Kombe",
+    "gwcode": "es",
+    "ln": "Ngumbi"
 }

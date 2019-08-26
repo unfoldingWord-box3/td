@@ -1,18 +1,18 @@
 {
-    "pk": 4085,
-    "lc": "mrp",
+    "gw": false,
     "ISO-639-3": "mrp",
-    "ln": "Morouas",
-    "ang": "Morouas",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 4085,
     "lr": "Pacific",
-    "alt": [
-        "Moruas"
-    ],
+    "lc": "mrp",
     "cc": [
         "VU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Moruas"
+    ],
+    "ang": "Morouas",
+    "gwcode": "fr",
+    "ln": "Morouas"
 }

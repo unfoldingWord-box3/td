@@ -1,20 +1,20 @@
 {
-    "pk": 1465,
-    "lc": "ddg",
+    "gw": false,
     "ISO-639-3": "ddg",
-    "ln": "Fataluku",
-    "ang": "Fataluku",
     "hc": "TL",
+    "ld": "ltr",
+    "pk": 1465,
     "lr": "Asia",
+    "lc": "ddg",
+    "cc": [
+        "TL"
+    ],
     "alt": [
         "Dagada",
         "Dagaga",
         "Dagoda'"
     ],
-    "cc": [
-        "TL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Fataluku",
+    "gwcode": "pt",
+    "ln": "Fataluku"
 }

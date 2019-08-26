@@ -1,19 +1,19 @@
 {
-    "pk": 5809,
-    "lc": "srg",
+    "gw": false,
     "ISO-639-3": "srg",
-    "ln": "Sulod",
-    "ang": "Sulod",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5809,
     "lr": "Asia",
+    "lc": "srg",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Bukidnon",
         "Mondo"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Sulod",
+    "gwcode": "en",
+    "ln": "Sulod"
 }

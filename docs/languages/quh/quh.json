@@ -1,11 +1,17 @@
 {
-    "pk": 5254,
-    "lc": "quh",
+    "gw": false,
     "ISO-639-3": "quh",
-    "ln": "South Bolivian Quechua",
-    "ang": "Quechua, South Bolivian",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 5254,
     "lr": "Americas",
+    "lc": "quh",
+    "cc": [
+        "CL",
+        "AR",
+        "US",
+        "BO"
+    ],
     "alt": [
         "Central Bolivian Quechua",
         "Quechua Boliviano",
@@ -13,13 +19,7 @@
         "Northwest Jujuy (Colla)",
         "Potos\u00ed"
     ],
-    "cc": [
-        "CL",
-        "AR",
-        "US",
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quechua, South Bolivian",
+    "gwcode": "es-419",
+    "ln": "South Bolivian Quechua"
 }

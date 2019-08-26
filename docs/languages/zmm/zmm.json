@@ -1,11 +1,14 @@
 {
-    "pk": 7414,
-    "lc": "zmm",
+    "gw": false,
     "ISO-639-3": "zmm",
-    "ln": "Marimanindji",
-    "ang": "Marimanindji",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 7414,
     "lr": "Pacific",
+    "lc": "zmm",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Maramanandji",
         "Maramarandji",
@@ -13,10 +16,7 @@
         "Marramaninjsji",
         "Murinmanindji"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Marimanindji",
+    "gwcode": "en",
+    "ln": "Marimanindji"
 }

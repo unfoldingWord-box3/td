@@ -1,18 +1,18 @@
 {
-    "pk": 254,
-    "lc": "amv",
+    "gw": false,
     "ISO-639-3": "amv",
-    "ln": "Ambelau",
-    "ang": "Ambelau",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 254,
     "lr": "Asia",
-    "alt": [
-        "Amblau"
-    ],
+    "lc": "amv",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Amblau"
+    ],
+    "ang": "Ambelau",
+    "gwcode": "id",
+    "ln": "Ambelau"
 }

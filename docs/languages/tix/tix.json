@@ -1,18 +1,18 @@
 {
-    "pk": 6141,
-    "lc": "tix",
+    "gw": false,
     "ISO-639-3": "tix",
-    "ln": "Southern Tiwa",
-    "ang": "Tiwa, Southern",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 6141,
     "lr": "Americas",
-    "alt": [
-        "Isleta (Isleta Pueblo)"
-    ],
+    "lc": "tix",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Isleta (Isleta Pueblo)"
+    ],
+    "ang": "Tiwa, Southern",
+    "gwcode": "en",
+    "ln": "Southern Tiwa"
 }

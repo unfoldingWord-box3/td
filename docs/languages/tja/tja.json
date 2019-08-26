@@ -1,20 +1,20 @@
 {
-    "pk": 6144,
-    "lc": "tja",
+    "gw": false,
     "ISO-639-3": "tja",
-    "ln": "Tajuasohn",
-    "ang": "Tajuasohn",
     "hc": "LR",
+    "ld": "ltr",
+    "pk": 6144,
     "lr": "Africa",
+    "lc": "tja",
+    "cc": [
+        "LR"
+    ],
     "alt": [
         "Tajuason",
         "Tajuoso",
         "Tajuosohn"
     ],
-    "cc": [
-        "LR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tajuasohn",
+    "gwcode": "en",
+    "ln": "Tajuasohn"
 }

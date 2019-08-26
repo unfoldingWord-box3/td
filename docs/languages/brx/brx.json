@@ -1,11 +1,15 @@
 {
-    "pk": 920,
-    "lc": "brx",
+    "gw": false,
     "ISO-639-3": "brx",
-    "ln": "Bodo (India)",
-    "ang": "Bodo",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 920,
     "lr": "Asia",
+    "lc": "brx",
+    "cc": [
+        "NP",
+        "IN"
+    ],
     "alt": [
         "Bara",
         "Bodi",
@@ -17,11 +21,7 @@
         "Meci",
         "Mache"
     ],
-    "cc": [
-        "NP",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "ang": "Bodo",
+    "gwcode": "as",
+    "ln": "Bodo (India)"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 1526,
-    "lc": "dii",
+    "gw": false,
     "ISO-639-3": "dii",
-    "ln": "Dimbong",
-    "ang": "Dimbong",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 1526,
     "lr": "Africa",
+    "lc": "dii",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bape",
         "Bumbong",
@@ -16,10 +19,7 @@
         "Mbong",
         "Palong"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dimbong",
+    "gwcode": "fr",
+    "ln": "Dimbong"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 4067,
-    "lc": "mqx",
+    "gw": false,
     "ISO-639-3": "mqx",
-    "ln": "Mamuju",
-    "ang": "Mamuju",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4067,
     "lr": "Asia",
+    "lc": "mqx",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Mamoedjoe",
         "Mamoedjoesch",
         "Mamudju",
         "Udai"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Mamuju",
+    "gwcode": "id",
+    "ln": "Mamuju"
 }

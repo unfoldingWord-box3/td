@@ -1,21 +1,21 @@
 {
-    "pk": 1563,
-    "lc": "dma",
+    "gw": false,
     "ISO-639-3": "dma",
-    "ln": "Duma",
-    "ang": "Duma",
     "hc": "GA",
+    "ld": "ltr",
+    "pk": 1563,
     "lr": "Africa",
+    "lc": "dma",
+    "cc": [
+        "GA"
+    ],
     "alt": [
         "Adouma",
         "Aduma",
         "Douma",
         "Liduma"
     ],
-    "cc": [
-        "GA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Duma",
+    "gwcode": "fr",
+    "ln": "Duma"
 }

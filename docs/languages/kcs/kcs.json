@@ -1,18 +1,18 @@
 {
-    "pk": 2754,
-    "lc": "kcs",
+    "gw": false,
     "ISO-639-3": "kcs",
-    "ln": "Koenoem",
-    "ang": "Koenoem",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2754,
     "lr": "Africa",
-    "alt": [
-        "Kanam"
-    ],
+    "lc": "kcs",
     "cc": [
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Kanam"
+    ],
+    "ang": "Koenoem",
+    "gwcode": "en",
+    "ln": "Koenoem"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 5173,
-    "lc": "prw",
+    "gw": false,
     "ISO-639-3": "prw",
-    "ln": "Parawen",
-    "ang": "Parawen",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5173,
     "lr": "Pacific",
-    "alt": [
-        "Para"
-    ],
+    "lc": "prw",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Para"
+    ],
+    "ang": "Parawen",
+    "gwcode": "tpi",
+    "ln": "Parawen"
 }

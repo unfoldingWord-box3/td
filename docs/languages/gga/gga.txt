@@ -1,0 +1,23 @@
+.. _gga:
+
+Gao
+===
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: gga
+    alternate_names:
+    - Nggao
+    anglicanized_name: Gao
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: gga
+    lang_direction: ltr
+    lang_name: Gao
+    lang_region: Pacific
+    

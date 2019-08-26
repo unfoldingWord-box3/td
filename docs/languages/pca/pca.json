@@ -1,19 +1,19 @@
 {
-    "pk": 4956,
-    "lc": "pca",
+    "gw": false,
     "ISO-639-3": "pca",
-    "ln": "Santa In\u00e9s Ahuatempan Popoloca",
-    "ang": "Popoloca, Santa In\u00e9s Ahuatempan",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4956,
     "lr": "Americas",
+    "lc": "pca",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Popoloca de Santa In\u00e9s Ahuatempan",
         "Popoloca del Poniente"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Popoloca, Santa In\u00e9s Ahuatempan",
+    "gwcode": "es-419",
+    "ln": "Santa In\u00e9s Ahuatempan Popoloca"
 }

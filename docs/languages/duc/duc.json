@@ -1,18 +1,18 @@
 {
-    "pk": 1652,
-    "lc": "duc",
+    "gw": false,
     "ISO-639-3": "duc",
-    "ln": "Duna",
-    "ang": "Duna",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1652,
     "lr": "Pacific",
-    "alt": [
-        "Yuna"
-    ],
+    "lc": "duc",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Yuna"
+    ],
+    "ang": "Duna",
+    "gwcode": "tpi",
+    "ln": "Duna"
 }

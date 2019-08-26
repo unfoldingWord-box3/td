@@ -1,19 +1,19 @@
 {
-    "pk": 150,
-    "lc": "ahh",
+    "gw": false,
     "ISO-639-3": "ahh",
-    "ln": "Aghu",
-    "ang": "Aghu",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 150,
     "lr": "Asia",
+    "lc": "ahh",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Djair",
         "Dyair"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Aghu",
+    "gwcode": "id",
+    "ln": "Aghu"
 }

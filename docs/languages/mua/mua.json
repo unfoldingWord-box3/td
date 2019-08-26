@@ -1,11 +1,15 @@
 {
-    "pk": 4146,
-    "lc": "mua",
+    "gw": false,
     "ISO-639-3": "mua",
-    "ln": "Mundang",
-    "ang": "Mundang",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 4146,
     "lr": "Africa",
+    "lc": "mua",
+    "cc": [
+        "CM",
+        "TD"
+    ],
     "alt": [
         "Kaele",
         "Marhay",
@@ -23,11 +27,7 @@
         "Zasing (Djasing)",
         "Mbana"
     ],
-    "cc": [
-        "CM",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Mundang",
+    "gwcode": "ar",
+    "ln": "Mundang"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 1016,
-    "lc": "bvy",
+    "gw": false,
     "ISO-639-3": "bvy",
-    "ln": "Baybayanon",
-    "ang": "Baybayanon",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 1016,
     "lr": "Asia",
+    "lc": "bvy",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Leyte",
         "Utudnon"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Baybayanon",
+    "gwcode": "en",
+    "ln": "Baybayanon"
 }

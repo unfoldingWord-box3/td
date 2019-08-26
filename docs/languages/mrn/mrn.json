@@ -1,11 +1,14 @@
 {
-    "pk": 4083,
-    "lc": "mrn",
+    "gw": false,
     "ISO-639-3": "mrn",
-    "ln": "Cheke Holo",
-    "ang": "Cheke Holo",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 4083,
     "lr": "Pacific",
+    "lc": "mrn",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "A'ara",
         "Holo",
@@ -13,10 +16,7 @@
         "Hograno (Hogirano)",
         "Maringe (Maringhe)"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Cheke Holo",
+    "gwcode": "UNKNOWN",
+    "ln": "Cheke Holo"
 }

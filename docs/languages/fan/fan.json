@@ -1,11 +1,18 @@
 {
-    "pk": 1823,
-    "lc": "fan",
+    "gw": false,
     "ISO-639-3": "fan",
-    "ln": "Fang (Equatorial Guinea)",
-    "ang": "Fang",
     "hc": "GQ",
+    "ld": "ltr",
+    "pk": 1823,
     "lr": "Africa",
+    "lc": "fan",
+    "cc": [
+        "CM",
+        "GQ",
+        "GA",
+        "US",
+        "CG"
+    ],
     "alt": [
         "Pahouin",
         "Pamue",
@@ -15,14 +22,7 @@
         "Ntoumou (Ntumu)",
         "Okak (Ntumu)"
     ],
-    "cc": [
-        "CM",
-        "GQ",
-        "GA",
-        "US",
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es"
+    "ang": "Fang",
+    "gwcode": "es",
+    "ln": "Fang (Equatorial Guinea)"
 }

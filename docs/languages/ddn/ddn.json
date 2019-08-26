@@ -1,20 +1,20 @@
 {
-    "pk": 1468,
-    "lc": "ddn",
+    "gw": false,
     "ISO-639-3": "ddn",
-    "ln": "Dendi (Benin)",
-    "ang": "Dendi",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 1468,
     "lr": "Africa",
-    "alt": [
-        "Dandawa"
-    ],
+    "lc": "ddn",
     "cc": [
         "BJ",
         "NE",
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Dandawa"
+    ],
+    "ang": "Dendi",
+    "gwcode": "fr",
+    "ln": "Dendi (Benin)"
 }

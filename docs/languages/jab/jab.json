@@ -1,21 +1,21 @@
 {
-    "pk": 2565,
-    "lc": "jab",
+    "gw": false,
     "ISO-639-3": "jab",
-    "ln": "Hyam",
-    "ang": "Hyam",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2565,
     "lr": "Africa",
+    "lc": "jab",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ham",
         "Hyamhum",
         "Jabba",
         "Jeba"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Hyam",
+    "gwcode": "en",
+    "ln": "Hyam"
 }

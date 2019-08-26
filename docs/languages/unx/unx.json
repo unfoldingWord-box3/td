@@ -1,22 +1,22 @@
 {
-    "pk": 6535,
-    "lc": "unx",
+    "gw": false,
     "ISO-639-3": "unx",
-    "ln": "Munda",
-    "ang": "Munda",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6535,
     "lr": "Asia",
-    "alt": [
-        "Heriki",
-        "Killi"
-    ],
+    "lc": "unx",
     "cc": [
         "BD",
         "NP",
         "US",
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "alt": [
+        "Heriki",
+        "Killi"
+    ],
+    "ang": "Munda",
+    "gwcode": "bn",
+    "ln": "Munda"
 }

@@ -1,0 +1,22 @@
+.. _xsa:
+
+Sabaean
+=======
+
+This language is spoken in the following countries:
+
+* YE: Yemen
+
+.. code-block:: yaml
+
+    ISO_639-3: xsa
+    alternate_names: []
+    anglicanized_name: Sabaean
+    country_codes:
+    - YE
+    gateway_language: UNKNOWN
+    lang_code: xsa
+    lang_direction: ltr
+    lang_name: Sabaean
+    lang_region: Asia
+    

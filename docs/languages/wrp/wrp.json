@@ -1,20 +1,20 @@
 {
-    "pk": 6814,
-    "lc": "wrp",
+    "gw": false,
     "ISO-639-3": "wrp",
-    "ln": "Waropen",
-    "ang": "Waropen",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6814,
     "lr": "Asia",
+    "lc": "wrp",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Aropen",
         "Wonti",
         "Worpen"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Waropen",
+    "gwcode": "id",
+    "ln": "Waropen"
 }

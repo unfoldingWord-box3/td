@@ -1,19 +1,19 @@
 {
-    "pk": 6682,
-    "lc": "wat",
+    "gw": false,
     "ISO-639-3": "wat",
-    "ln": "Kaninuwa",
-    "ang": "Kaninuwa",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6682,
     "lr": "Pacific",
+    "lc": "wat",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kaokao",
         "Wataluma"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kaninuwa",
+    "gwcode": "tpi",
+    "ln": "Kaninuwa"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 3001,
-    "lc": "kmo",
+    "gw": false,
     "ISO-639-3": "kmo",
-    "ln": "Kwoma",
-    "ang": "Kwoma",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3001,
     "lr": "Pacific",
-    "alt": [
-        "Kwoma (Washkuk)"
-    ],
+    "lc": "kmo",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Kwoma (Washkuk)"
+    ],
+    "ang": "Kwoma",
+    "gwcode": "tpi",
+    "ln": "Kwoma"
 }

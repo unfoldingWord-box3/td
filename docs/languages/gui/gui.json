@@ -1,11 +1,16 @@
 {
-    "pk": 2160,
-    "lc": "gui",
+    "gw": false,
     "ISO-639-3": "gui",
-    "ln": "Eastern Bolivian Guaran\u00ed",
-    "ang": "Guaran\u00ed, Eastern Bolivian",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 2160,
     "lr": "Americas",
+    "lc": "gui",
+    "cc": [
+        "AR",
+        "PY",
+        "BO"
+    ],
     "alt": [
         "Eastern Bolivian Guaran\u00ed",
         "Chabanco",
@@ -20,12 +25,7 @@
         "Izoce\u00f1o (Isocenio)",
         "Izoce\u00f1o (Izocenio)"
     ],
-    "cc": [
-        "AR",
-        "PY",
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Guaran\u00ed, Eastern Bolivian",
+    "gwcode": "es-419",
+    "ln": "Eastern Bolivian Guaran\u00ed"
 }

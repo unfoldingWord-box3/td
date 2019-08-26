@@ -1,19 +1,19 @@
 {
-    "pk": 704,
-    "lc": "biv",
+    "gw": false,
     "ISO-639-3": "biv",
-    "ln": "Southern Birifor",
-    "ang": "Birifor, Southern",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 704,
     "lr": "Africa",
+    "lc": "biv",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Birifo",
         "Ghana Birifor"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Birifor, Southern",
+    "gwcode": "en",
+    "ln": "Southern Birifor"
 }

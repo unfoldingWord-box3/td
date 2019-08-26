@@ -1,20 +1,20 @@
 {
-    "pk": 4407,
-    "lc": "nfu",
+    "gw": false,
     "ISO-639-3": "nfu",
-    "ln": "Mfumte",
-    "ang": "Mfumte",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4407,
     "lr": "Africa",
+    "lc": "nfu",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Nfumte",
         "Koffa (Kofa)",
         "Lus"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mfumte",
+    "gwcode": "fr",
+    "ln": "Mfumte"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 2444,
-    "lc": "igo",
+    "gw": false,
     "ISO-639-3": "igo",
-    "ln": "Isebe",
-    "ang": "Isebe",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2444,
     "lr": "Pacific",
-    "alt": [
-        "Balahaim"
-    ],
+    "lc": "igo",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Balahaim"
+    ],
+    "ang": "Isebe",
+    "gwcode": "tpi",
+    "ln": "Isebe"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 3908,
-    "lc": "mki",
+    "gw": false,
     "ISO-639-3": "mki",
-    "ln": "\u068c\u06aa\u062a\u064a",
-    "ang": "Dhatki",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 3908,
     "lr": "Asia",
+    "lc": "mki",
+    "cc": [
+        "PK"
+    ],
     "alt": [
         "Thar",
         "Dhati"
     ],
-    "cc": [
-        "PK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Dhatki",
+    "gwcode": "ur",
+    "ln": "\u068c\u06aa\u062a\u064a"
 }

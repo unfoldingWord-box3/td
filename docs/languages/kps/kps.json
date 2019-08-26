@@ -1,20 +1,20 @@
 {
-    "pk": 3075,
-    "lc": "kps",
+    "gw": false,
     "ISO-639-3": "kps",
-    "ln": "Tehit",
-    "ang": "Tehit",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3075,
     "lr": "Asia",
+    "lc": "kps",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kaibus",
         "Tahit",
         "Tehid"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tehit",
+    "gwcode": "id",
+    "ln": "Tehit"
 }

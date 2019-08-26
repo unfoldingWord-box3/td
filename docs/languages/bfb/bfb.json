@@ -1,19 +1,19 @@
 {
-    "pk": 610,
-    "lc": "bfb",
+    "gw": false,
     "ISO-639-3": "bfb",
-    "ln": "Pauri Bareli",
-    "ang": "Bareli, Pauri",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 610,
     "lr": "Asia",
+    "lc": "bfb",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Bareli",
         "Barewali"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Bareli, Pauri",
+    "gwcode": "hi",
+    "ln": "Pauri Bareli"
 }

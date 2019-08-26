@@ -1,20 +1,20 @@
 {
-    "pk": 3893,
-    "lc": "mjs",
+    "gw": false,
     "ISO-639-3": "mjs",
-    "ln": "Miship",
-    "ang": "Miship",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3893,
     "lr": "Africa",
+    "lc": "mjs",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Chip",
         "Cip",
         "Ship"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Miship",
+    "gwcode": "en",
+    "ln": "Miship"
 }

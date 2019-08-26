@@ -1,18 +1,18 @@
 {
-    "pk": 5107,
-    "lc": "pni",
+    "gw": false,
     "ISO-639-3": "pni",
-    "ln": "Aoheng",
-    "ang": "Aoheng",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5107,
     "lr": "Asia",
-    "alt": [
-        "Penihing"
-    ],
+    "lc": "pni",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Penihing"
+    ],
+    "ang": "Aoheng",
+    "gwcode": "id",
+    "ln": "Aoheng"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 5202,
-    "lc": "ptp",
+    "gw": false,
     "ISO-639-3": "ptp",
-    "ln": "Patep",
-    "ang": "Patep",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5202,
     "lr": "Pacific",
-    "alt": [
-        "Ptep"
-    ],
+    "lc": "ptp",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Ptep"
+    ],
+    "ang": "Patep",
+    "gwcode": "tpi",
+    "ln": "Patep"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 318,
-    "lc": "apt",
+    "gw": false,
     "ISO-639-3": "apt",
-    "ln": "Apatani",
-    "ang": "Apatani",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 318,
     "lr": "Asia",
-    "alt": [
-        "Apa"
-    ],
+    "lc": "apt",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "alt": [
+        "Apa"
+    ],
+    "ang": "Apatani",
+    "gwcode": "hi",
+    "ln": "Apatani"
 }

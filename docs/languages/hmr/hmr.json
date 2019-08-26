@@ -1,20 +1,20 @@
 {
-    "pk": 2306,
-    "lc": "hmr",
+    "gw": false,
     "ISO-639-3": "hmr",
-    "ln": "Hmar",
-    "ang": "Hmar",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2306,
     "lr": "Asia",
+    "lc": "hmr",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Hamar",
         "Hmari",
         "Mhar"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "mni"
+    "ang": "Hmar",
+    "gwcode": "UNKNOWN",
+    "ln": "Hmar"
 }

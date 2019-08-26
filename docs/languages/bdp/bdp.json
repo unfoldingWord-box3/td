@@ -1,19 +1,19 @@
 {
-    "pk": 574,
-    "lc": "bdp",
+    "gw": false,
     "ISO-639-3": "bdp",
-    "ln": "Bende",
-    "ang": "Bende",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 574,
     "lr": "Africa",
+    "lc": "bdp",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kibende",
         "Si'bende"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Bende",
+    "gwcode": "sw",
+    "ln": "Bende"
 }

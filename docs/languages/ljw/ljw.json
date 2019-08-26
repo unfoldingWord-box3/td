@@ -1,11 +1,14 @@
 {
-    "pk": 3480,
-    "lc": "ljw",
+    "gw": false,
     "ISO-639-3": "ljw",
-    "ln": "Yirandali",
-    "ang": "Yirandali",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 3480,
     "lr": "Pacific",
+    "lc": "ljw",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Dalebura",
         "Dal-leyburra",
@@ -14,10 +17,7 @@
         "Yerrundulli",
         "Yerrunthully"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yirandali",
+    "gwcode": "en",
+    "ln": "Yirandali"
 }

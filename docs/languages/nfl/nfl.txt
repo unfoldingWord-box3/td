@@ -1,0 +1,30 @@
+.. _nfl:
+
+Ayiwo
+=====
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: nfl
+    alternate_names:
+    - Aïwo
+    - Gnivo
+    - Lomlom
+    - Naaude
+    - Nifilole
+    - Nivo
+    - Reef Islands
+    - Reefs
+    anglicanized_name: Äiwoo
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: nfl
+    lang_direction: ltr
+    lang_name: Ayiwo
+    lang_region: Pacific
+    

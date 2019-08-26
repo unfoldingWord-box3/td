@@ -1,11 +1,18 @@
 {
-    "pk": 6395,
-    "lc": "tvl",
+    "gw": false,
     "ISO-639-3": "tvl",
-    "ln": "Tuvalu",
-    "ang": "Tuvaluan",
     "hc": "TV",
+    "ld": "ltr",
+    "pk": 6395,
     "lr": "Pacific",
+    "lc": "tvl",
+    "cc": [
+        "FJ",
+        "KI",
+        "NZ",
+        "TV",
+        "NR"
+    ],
     "alt": [
         "Ellice",
         "Ellicean",
@@ -17,14 +24,7 @@
         "Nukulaelae",
         "Nukufetau"
     ],
-    "cc": [
-        "FJ",
-        "KI",
-        "NZ",
-        "TV",
-        "NR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tuvaluan",
+    "gwcode": "en",
+    "ln": "Tuvalu"
 }

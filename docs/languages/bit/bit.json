@@ -1,18 +1,18 @@
 {
-    "pk": 702,
-    "lc": "bit",
+    "gw": false,
     "ISO-639-3": "bit",
-    "ln": "Berinomo",
-    "ang": "Berinomo",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 702,
     "lr": "Pacific",
-    "alt": [
-        "Kagiru (Apowasi)"
-    ],
+    "lc": "bit",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Kagiru (Apowasi)"
+    ],
+    "ang": "Berinomo",
+    "gwcode": "tpi",
+    "ln": "Berinomo"
 }

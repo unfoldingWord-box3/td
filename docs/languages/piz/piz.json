@@ -1,19 +1,19 @@
 {
-    "pk": 5047,
-    "lc": "piz",
+    "gw": false,
     "ISO-639-3": "piz",
-    "ln": "Pije",
-    "ang": "Pije",
     "hc": "NC",
+    "ld": "ltr",
+    "pk": 5047,
     "lr": "Pacific",
+    "lc": "piz",
+    "cc": [
+        "NC"
+    ],
     "alt": [
         "Pindje",
         "Pinje"
     ],
-    "cc": [
-        "NC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Pije",
+    "gwcode": "en",
+    "ln": "Pije"
 }

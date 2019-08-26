@@ -1,11 +1,14 @@
 {
-    "pk": 7229,
-    "lc": "ymm",
+    "gw": false,
     "ISO-639-3": "ymm",
-    "ln": "Maay",
-    "ang": "Maay",
     "hc": "SO",
+    "ld": "ltr",
+    "pk": 7229,
     "lr": "Africa",
+    "lc": "ymm",
+    "cc": [
+        "SO"
+    ],
     "alt": [
         "Af-Maay",
         "Af-Maay Tiri",
@@ -14,10 +17,7 @@
         "Rahanween",
         "Rahanweyn"
     ],
-    "cc": [
-        "SO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Maay",
+    "gwcode": "ar",
+    "ln": "Maay"
 }

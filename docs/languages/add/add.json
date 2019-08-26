@@ -1,23 +1,23 @@
 {
-    "pk": 73,
-    "lc": "add",
+    "gw": false,
     "ISO-639-3": "add",
-    "ln": "Dzodinka",
-    "ang": "Dzodinka",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 73,
     "lr": "Africa",
+    "lc": "add",
+    "cc": [
+        "CM",
+        "NG",
+        "SD"
+    ],
     "alt": [
         "Arderi",
         "Dzodzinka",
         "Lidzonka",
         "Adiri"
     ],
-    "cc": [
-        "CM",
-        "NG",
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dzodinka",
+    "gwcode": "fr",
+    "ln": "Dzodinka"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 4330,
-    "lc": "nby",
+    "gw": false,
     "ISO-639-3": "nby",
-    "ln": "Ningera",
-    "ang": "Ningera",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4330,
     "lr": "Pacific",
+    "lc": "nby",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Nagira",
         "Negira",
         "Ninggera"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Ningera",
+    "gwcode": "tpi",
+    "ln": "Ningera"
 }

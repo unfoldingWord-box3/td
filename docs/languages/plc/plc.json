@@ -1,20 +1,20 @@
 {
-    "pk": 5064,
-    "lc": "plc",
+    "gw": false,
     "ISO-639-3": "plc",
-    "ln": "Central Palawano",
-    "ang": "Palawano, Central",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5064,
     "lr": "Asia",
+    "lc": "plc",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Palawanen",
         "Palawe\u00f1o",
         "Quezon Palawano"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Palawano, Central",
+    "gwcode": "en",
+    "ln": "Central Palawano"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 421,
-    "lc": "aut",
+    "gw": false,
     "ISO-639-3": "aut",
-    "ln": "Austral",
-    "ang": "Austral",
     "hc": "PF",
+    "ld": "ltr",
+    "pk": 421,
     "lr": "Pacific",
-    "alt": [
-        "Tubuai-Rurutu"
-    ],
+    "lc": "aut",
     "cc": [
         "PF"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Tubuai-Rurutu"
+    ],
+    "ang": "Austral",
+    "gwcode": "fr",
+    "ln": "Austral"
 }

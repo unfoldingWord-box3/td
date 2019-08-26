@@ -1,18 +1,18 @@
 {
-    "pk": 1748,
-    "lc": "ena",
+    "gw": false,
     "ISO-639-3": "ena",
-    "ln": "Apali",
-    "ang": "Apali",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1748,
     "lr": "Pacific",
-    "alt": [
-        "Emerum"
-    ],
+    "lc": "ena",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Emerum"
+    ],
+    "ang": "Apali",
+    "gwcode": "tpi",
+    "ln": "Apali"
 }

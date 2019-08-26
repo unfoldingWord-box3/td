@@ -1,18 +1,18 @@
 {
-    "pk": 1917,
-    "lc": "gao",
+    "gw": false,
     "ISO-639-3": "gao",
-    "ln": "Gants",
-    "ang": "Gants",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1917,
     "lr": "Pacific",
-    "alt": [
-        "Gaj"
-    ],
+    "lc": "gao",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Gaj"
+    ],
+    "ang": "Gants",
+    "gwcode": "tpi",
+    "ln": "Gants"
 }

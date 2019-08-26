@@ -1,19 +1,19 @@
 {
-    "pk": 5956,
-    "lc": "szg",
+    "gw": false,
     "ISO-639-3": "szg",
-    "ln": "Kesengele",
-    "ang": "Kesengele",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5956,
     "lr": "Africa",
+    "lc": "szg",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kesengele",
         "Sengere"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kesengele",
+    "gwcode": "fr",
+    "ln": "Kesengele"
 }

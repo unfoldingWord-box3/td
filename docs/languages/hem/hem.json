@@ -1,11 +1,14 @@
 {
-    "pk": 2258,
-    "lc": "hem",
+    "gw": false,
     "ISO-639-3": "hem",
-    "ln": "Hemba",
-    "ang": "Hemba",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 2258,
     "lr": "Africa",
+    "lc": "hem",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Eastern Luba",
         "Emba",
@@ -13,10 +16,7 @@
         "Kihemba",
         "Luba-Hemba"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Hemba",
+    "gwcode": "fr",
+    "ln": "Hemba"
 }

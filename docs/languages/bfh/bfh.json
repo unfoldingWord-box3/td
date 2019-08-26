@@ -1,21 +1,21 @@
 {
-    "pk": 616,
-    "lc": "bfh",
+    "gw": false,
     "ISO-639-3": "bfh",
-    "ln": "Blafe",
-    "ang": "Blafe",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 616,
     "lr": "Pacific",
+    "lc": "bfh",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Indorodoro",
         "Tonda",
         "Mblafe",
         "R\u00e1nmo"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Blafe",
+    "gwcode": "tpi",
+    "ln": "Blafe"
 }

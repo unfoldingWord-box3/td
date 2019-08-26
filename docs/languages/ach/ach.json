@@ -1,11 +1,15 @@
 {
-    "pk": 58,
-    "lc": "ach",
+    "gw": false,
     "ISO-639-3": "ach",
-    "ln": "Acoli",
-    "ang": "Acholi",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 58,
     "lr": "Africa",
+    "lc": "ach",
+    "cc": [
+        "SS",
+        "UG"
+    ],
     "alt": [
         "Chopi",
         "Dhopaluo (Chope)",
@@ -20,11 +24,7 @@
         "Shuli",
         "Lwoo"
     ],
-    "cc": [
-        "SS",
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Acholi",
+    "gwcode": "en",
+    "ln": "Acoli"
 }

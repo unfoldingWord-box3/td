@@ -1,20 +1,20 @@
 {
-    "pk": 1330,
-    "lc": "crk",
+    "gw": false,
     "ISO-639-3": "crk",
-    "ln": "Plains Cree",
-    "ang": "Cree, Plains",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 1330,
     "lr": "Americas",
-    "alt": [
-        "Western Cree",
-        "Northern Alberta Cree"
-    ],
+    "lc": "crk",
     "cc": [
         "US",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Western Cree",
+        "Northern Alberta Cree"
+    ],
+    "ang": "Cree, Plains",
+    "gwcode": "en",
+    "ln": "Plains Cree"
 }

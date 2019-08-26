@@ -1,11 +1,14 @@
 {
-    "pk": 1036,
-    "lc": "bwt",
+    "gw": false,
     "ISO-639-3": "bwt",
-    "ln": "Bafaw-Balong",
-    "ang": "Bafaw-Balong",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 1036,
     "lr": "Africa",
+    "lc": "bwt",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Ngoe",
         "Bafaw (Afo)",
@@ -20,10 +23,7 @@
         "Nlong",
         "Valongi"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bafaw-Balong",
+    "gwcode": "fr",
+    "ln": "Bafaw-Balong"
 }

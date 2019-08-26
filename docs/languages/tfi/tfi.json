@@ -1,20 +1,20 @@
 {
-    "pk": 6073,
-    "lc": "tfi",
+    "gw": false,
     "ISO-639-3": "tfi",
-    "ln": "Tofin Gbe",
-    "ang": "Gbe, Tofin",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 6073,
     "lr": "Africa",
+    "lc": "tfi",
+    "cc": [
+        "BJ"
+    ],
     "alt": [
         "Tofi",
         "Tofin",
         "Tofingbe"
     ],
-    "cc": [
-        "BJ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Gbe, Tofin",
+    "gwcode": "fr",
+    "ln": "Tofin Gbe"
 }

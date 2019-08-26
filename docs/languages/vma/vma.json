@@ -1,18 +1,18 @@
 {
-    "pk": 6628,
-    "lc": "vma",
+    "gw": false,
     "ISO-639-3": "vma",
-    "ln": "Martuyhunira",
-    "ang": "Martuyhunira",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6628,
     "lr": "Pacific",
-    "alt": [
-        "Martuthunira"
-    ],
+    "lc": "vma",
     "cc": [
         "AU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Martuthunira"
+    ],
+    "ang": "Martuyhunira",
+    "gwcode": "en",
+    "ln": "Martuyhunira"
 }

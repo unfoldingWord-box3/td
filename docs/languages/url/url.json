@@ -1,19 +1,19 @@
 {
-    "pk": 6547,
-    "lc": "url",
+    "gw": false,
     "ISO-639-3": "url",
-    "ln": "Urali",
-    "ang": "Urali",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6547,
     "lr": "Asia",
+    "lc": "url",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Oorazhi",
         "Urli"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ml"
+    "ang": "Urali",
+    "gwcode": "ml",
+    "ln": "Urali"
 }

@@ -1,11 +1,18 @@
 {
-    "pk": 1683,
-    "lc": "dyu",
+    "gw": false,
     "ISO-639-3": "dyu",
-    "ln": "Dyula",
-    "ang": "Jula",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 1683,
     "lr": "Africa",
+    "lc": "dyu",
+    "cc": [
+        "BF",
+        "CI",
+        "GH",
+        "ML",
+        "US"
+    ],
     "alt": [
         "Diula",
         "Djula",
@@ -15,14 +22,7 @@
         "Kong Jula",
         "Trade Jula"
     ],
-    "cc": [
-        "BF",
-        "CI",
-        "GH",
-        "ML",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Jula",
+    "gwcode": "fr",
+    "ln": "Dyula"
 }

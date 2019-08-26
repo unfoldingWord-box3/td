@@ -1,18 +1,18 @@
 {
-    "pk": 5390,
-    "lc": "rms",
+    "gw": false,
     "ISO-639-3": "rms",
-    "ln": "Romanian Sign Language",
-    "ang": "Romanian Sign Language",
     "hc": "RO",
+    "ld": "ltr",
+    "pk": 5390,
     "lr": "Europe",
-    "alt": [
-        "Limbaj Mimico-Gestual Romanesc"
-    ],
+    "lc": "rms",
     "cc": [
         "RO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Limbaj Mimico-Gestual Romanesc"
+    ],
+    "ang": "Romanian Sign Language",
+    "gwcode": "en",
+    "ln": "Romanian Sign Language"
 }

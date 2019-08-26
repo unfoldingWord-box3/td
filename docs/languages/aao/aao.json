@@ -1,21 +1,21 @@
 {
-    "pk": 19,
-    "lc": "aao",
+    "gw": false,
     "ISO-639-3": "aao",
-    "ln": "\u0644\u0647\u062c\u0629 \u0635\u062d\u0631\u0627\u0648\u064a\u0629",
-    "ang": "Arabic, Algerian Saharan Spoken",
     "hc": "DZ",
+    "ld": "rtl",
+    "pk": 19,
     "lr": "Africa",
+    "lc": "aao",
+    "cc": [
+        "DZ",
+        "EG"
+    ],
     "alt": [
         "Saharan Arabic",
         "Tamanghasset Arabic",
         "Tamanrasset Arabic"
     ],
-    "cc": [
-        "DZ",
-        "EG"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ar"
+    "ang": "Arabic, Algerian Saharan Spoken",
+    "gwcode": "ar",
+    "ln": "\u0644\u0647\u062c\u0629 \u0635\u062d\u0631\u0627\u0648\u064a\u0629"
 }

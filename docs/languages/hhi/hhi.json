@@ -1,19 +1,19 @@
 {
-    "pk": 2261,
-    "lc": "hhi",
+    "gw": false,
     "ISO-639-3": "hhi",
-    "ln": "Hoia Hoia",
-    "ang": "Hoia Hoia",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2261,
     "lr": "Pacific",
+    "lc": "hhi",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Hoiahoia",
         "Ukusi-Koparamio Hoyahoya"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Hoia Hoia",
+    "gwcode": "tpi",
+    "ln": "Hoia Hoia"
 }

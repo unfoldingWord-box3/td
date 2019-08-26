@@ -1,11 +1,14 @@
 {
-    "pk": 4244,
-    "lc": "mye",
+    "gw": false,
     "ISO-639-3": "mye",
-    "ln": "Myene",
-    "ang": "Myene",
     "hc": "GA",
+    "ld": "ltr",
+    "pk": 4244,
     "lr": "Africa",
+    "lc": "mye",
+    "cc": [
+        "GA"
+    ],
     "alt": [
         "Pangwe",
         "Pongou\u00e9",
@@ -23,10 +26,7 @@
         "Ajumba (Adjumba)",
         "Mpongwe (Mpongou\u00e9)"
     ],
-    "cc": [
-        "GA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Myene",
+    "gwcode": "fr",
+    "ln": "Myene"
 }

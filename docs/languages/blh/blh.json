@@ -1,21 +1,21 @@
 {
-    "pk": 762,
-    "lc": "blh",
+    "gw": false,
     "ISO-639-3": "blh",
-    "ln": "Kuwaa",
-    "ang": "Kuwaa",
     "hc": "LR",
+    "ld": "ltr",
+    "pk": 762,
     "lr": "Africa",
+    "lc": "blh",
+    "cc": [
+        "LR"
+    ],
     "alt": [
         "Belle",
         "Belleh",
         "Kowaao",
         "Kwaa"
     ],
-    "cc": [
-        "LR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kuwaa",
+    "gwcode": "en",
+    "ln": "Kuwaa"
 }

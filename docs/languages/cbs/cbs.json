@@ -1,11 +1,15 @@
 {
-    "pk": 1144,
-    "lc": "cbs",
+    "gw": false,
     "ISO-639-3": "cbs",
-    "ln": "Cashinahua",
-    "ang": "Kashinawa",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 1144,
     "lr": "Americas",
+    "lc": "cbs",
+    "cc": [
+        "BR",
+        "PE"
+    ],
     "alt": [
         "Cashinahu\u00e1",
         "Caxinaw\u00e1",
@@ -17,11 +21,7 @@
         "Caxinawa",
         "Kashinahua"
     ],
-    "cc": [
-        "BR",
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Kashinawa",
+    "gwcode": "es-419",
+    "ln": "Cashinahua"
 }

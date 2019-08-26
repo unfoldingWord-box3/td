@@ -1,21 +1,21 @@
 {
-    "pk": 2806,
-    "lc": "kex",
+    "gw": false,
     "ISO-639-3": "kex",
-    "ln": "Kukna",
-    "ang": "Kukna",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2806,
     "lr": "Asia",
+    "lc": "kex",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Kanara",
         "Kanara Konkani",
         "Kokna",
         "Kokni"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "kn"
+    "ang": "Kukna",
+    "gwcode": "kn",
+    "ln": "Kukna"
 }

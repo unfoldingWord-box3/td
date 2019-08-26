@@ -1,20 +1,20 @@
 {
-    "pk": 2057,
-    "lc": "gly",
+    "gw": false,
     "ISO-639-3": "gly",
-    "ln": "Gule",
-    "ang": "Gule",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 2057,
     "lr": "Africa",
+    "lc": "gly",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Anej",
         "Fecakomodiyo",
         "Hamej"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Gule",
+    "gwcode": "ar",
+    "ln": "Gule"
 }

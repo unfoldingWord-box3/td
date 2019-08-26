@@ -1,11 +1,18 @@
 {
-    "pk": 3446,
-    "lc": "lhi",
+    "gw": false,
     "ISO-639-3": "lhi",
-    "ln": "\u62c9\u795c\u897f\u8bed",
-    "ang": "Lahu Shi",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 3446,
     "lr": "Asia",
+    "lc": "lhi",
+    "cc": [
+        "CN",
+        "LA",
+        "TH",
+        "US",
+        "MM"
+    ],
     "alt": [
         "Kur",
         "Kwi",
@@ -17,14 +24,7 @@
         "Bakeo",
         "Banlan"
     ],
-    "cc": [
-        "CN",
-        "LA",
-        "TH",
-        "US",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Lahu Shi",
+    "gwcode": "zh",
+    "ln": "\u62c9\u795c\u897f\u8bed"
 }

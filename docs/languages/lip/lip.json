@@ -1,19 +1,19 @@
 {
-    "pk": 3466,
-    "lc": "lip",
+    "gw": false,
     "ISO-639-3": "lip",
-    "ln": "Sekpele",
-    "ang": "Sekpele",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 3466,
     "lr": "Africa",
+    "lc": "lip",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Bosele",
         "Mu"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Sekpele",
+    "gwcode": "en",
+    "ln": "Sekpele"
 }

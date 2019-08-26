@@ -1,18 +1,18 @@
 {
-    "pk": 2294,
-    "lc": "hme",
+    "gw": false,
     "ISO-639-3": "hme",
-    "ln": "Eastern Huishui Hmong",
-    "ang": "Miao, Eastern Huishui",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2294,
     "lr": "Asia",
-    "alt": [
-        "Eastern Huishui Hmong"
-    ],
+    "lc": "hme",
     "cc": [
         "CN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "alt": [
+        "Eastern Huishui Hmong"
+    ],
+    "ang": "Miao, Eastern Huishui",
+    "gwcode": "zh",
+    "ln": "Eastern Huishui Hmong"
 }

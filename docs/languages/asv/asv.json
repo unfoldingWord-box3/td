@@ -1,21 +1,21 @@
 {
-    "pk": 376,
-    "lc": "asv",
+    "gw": false,
     "ISO-639-3": "asv",
-    "ln": "Asoa",
-    "ang": "Asoa",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 376,
     "lr": "Africa",
+    "lc": "asv",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Asua",
         "Asuae",
         "Asuati",
         "Aka"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Asoa",
+    "gwcode": "fr",
+    "ln": "Asoa"
 }

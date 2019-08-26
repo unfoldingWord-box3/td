@@ -1,20 +1,20 @@
 {
-    "pk": 5731,
-    "lc": "sng",
+    "gw": false,
     "ISO-639-3": "sng",
-    "ln": "Sanga (Democratic Republic of Congo)",
-    "ang": "Sanga",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5731,
     "lr": "Africa",
+    "lc": "sng",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Luba-Garenganze",
         "Luba-Sanga",
         "Southern Luba"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Sanga",
+    "gwcode": "fr",
+    "ln": "Sanga (Democratic Republic of Congo)"
 }

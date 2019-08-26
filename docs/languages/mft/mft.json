@@ -1,19 +1,19 @@
 {
-    "pk": 3796,
-    "lc": "mft",
+    "gw": false,
     "ISO-639-3": "mft",
-    "ln": "Mokerang",
-    "ang": "Mokerang",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3796,
     "lr": "Pacific",
+    "lc": "mft",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Mokareng",
         "Mokoreng"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Mokerang",
+    "gwcode": "tpi",
+    "ln": "Mokerang"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3562,
-    "lc": "lon",
+    "gw": false,
     "ISO-639-3": "lon",
-    "ln": "Malawi Lomwe",
-    "ang": "Lomwe, Malawi",
     "hc": "MW",
+    "ld": "ltr",
+    "pk": 3562,
     "lr": "Africa",
+    "lc": "lon",
+    "cc": [
+        "MW"
+    ],
     "alt": [
         "Anguru",
         "Elhomwe",
@@ -13,10 +16,7 @@
         "Mihavane",
         "Muhavani"
     ],
-    "cc": [
-        "MW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lomwe, Malawi",
+    "gwcode": "en",
+    "ln": "Malawi Lomwe"
 }

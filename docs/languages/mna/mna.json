@@ -1,11 +1,14 @@
 {
-    "pk": 3975,
-    "lc": "mna",
+    "gw": false,
     "ISO-639-3": "mna",
-    "ln": "Mbula",
-    "ang": "Mbula",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3975,
     "lr": "Pacific",
+    "lc": "mna",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Mangaaba",
         "Mangaava",
@@ -14,10 +17,7 @@
         "Mangap-Mbula",
         "Mbula (Central Mbula)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Mbula",
+    "gwcode": "tpi",
+    "ln": "Mbula"
 }

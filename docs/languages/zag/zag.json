@@ -1,11 +1,16 @@
 {
-    "pk": 7337,
-    "lc": "zag",
+    "gw": false,
     "ISO-639-3": "zag",
-    "ln": "Zaghawa",
-    "ang": "Zaghawa",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 7337,
     "lr": "Africa",
+    "lc": "zag",
+    "cc": [
+        "SD",
+        "TD",
+        "LY"
+    ],
     "alt": [
         "Beri",
         "Beri-Aa",
@@ -28,12 +33,7 @@
         "Awe",
         "Kube"
     ],
-    "cc": [
-        "SD",
-        "TD",
-        "LY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Zaghawa",
+    "gwcode": "ar",
+    "ln": "Zaghawa"
 }

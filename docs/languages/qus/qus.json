@@ -1,19 +1,19 @@
 {
-    "pk": 5263,
-    "lc": "qus",
+    "gw": false,
     "ISO-639-3": "qus",
-    "ln": "Santiago del Estero Quichua",
-    "ang": "Quichua, Santiago del Estero",
     "hc": "AR",
+    "ld": "ltr",
+    "pk": 5263,
     "lr": "Americas",
+    "lc": "qus",
+    "cc": [
+        "AR"
+    ],
     "alt": [
         "Santiague\u00f1o Quichua",
         "Santiagueno Quichua"
     ],
-    "cc": [
-        "AR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quichua, Santiago del Estero",
+    "gwcode": "es-419",
+    "ln": "Santiago del Estero Quichua"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 3139,
-    "lc": "ksg",
+    "gw": false,
     "ISO-639-3": "ksg",
-    "ln": "Kusaghe",
-    "ang": "Kusaghe",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 3139,
     "lr": "Pacific",
+    "lc": "ksg",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Kusage",
         "Kushage"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Kusaghe",
+    "gwcode": "UNKNOWN",
+    "ln": "Kusaghe"
 }

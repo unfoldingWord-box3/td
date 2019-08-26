@@ -1,11 +1,14 @@
 {
-    "pk": 3444,
-    "lc": "lha",
+    "gw": false,
     "ISO-639-3": "lha",
-    "ln": "Laha (Viet Nam)",
-    "ang": "Laha",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 3444,
     "lr": "Asia",
+    "lc": "lha",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Khl\u00e1",
         "Khl\u00e1 Don",
@@ -18,10 +21,7 @@
         "X\u00e1 Khao",
         "X\u00e1 Lay"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Laha",
+    "gwcode": "vi",
+    "ln": "Laha (Viet Nam)"
 }

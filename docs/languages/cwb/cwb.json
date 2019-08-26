@@ -1,20 +1,20 @@
 {
-    "pk": 1406,
-    "lc": "cwb",
+    "gw": false,
     "ISO-639-3": "cwb",
-    "ln": "Maindo",
-    "ang": "Maindo",
     "hc": "MZ",
+    "ld": "ltr",
+    "pk": 1406,
     "lr": "Africa",
+    "lc": "cwb",
+    "cc": [
+        "MZ"
+    ],
     "alt": [
         "Chwambo",
         "Badoni",
         "Mitange"
     ],
-    "cc": [
-        "MZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Maindo",
+    "gwcode": "pt",
+    "ln": "Maindo"
 }

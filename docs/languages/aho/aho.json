@@ -1,18 +1,18 @@
 {
-    "pk": 156,
-    "lc": "aho",
+    "gw": false,
     "ISO-639-3": "aho",
-    "ln": "Ahom",
-    "ang": "Ahom",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 156,
     "lr": "Asia",
-    "alt": [
-        "Tai Ahom"
-    ],
+    "lc": "aho",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "alt": [
+        "Tai Ahom"
+    ],
+    "ang": "Ahom",
+    "gwcode": "as",
+    "ln": "Ahom"
 }

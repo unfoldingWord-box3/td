@@ -1,21 +1,21 @@
 {
-    "pk": 4804,
-    "lc": "okk",
+    "gw": false,
     "ISO-639-3": "okk",
-    "ln": "Kwamtim One",
-    "ang": "One, Kwamtim",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4804,
     "lr": "Pacific",
+    "lc": "okk",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Aunalei",
         "Kuamtim",
         "Kwamtim",
         "Oni"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "One, Kwamtim",
+    "gwcode": "tpi",
+    "ln": "Kwamtim One"
 }

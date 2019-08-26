@@ -1,20 +1,20 @@
 {
-    "pk": 293,
-    "lc": "aol",
+    "gw": false,
     "ISO-639-3": "aol",
-    "ln": "Alor",
-    "ang": "Alor",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 293,
     "lr": "Asia",
+    "lc": "aol",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Alorese",
         "Baranusa",
         "Muna"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Alor",
+    "gwcode": "id",
+    "ln": "Alor"
 }

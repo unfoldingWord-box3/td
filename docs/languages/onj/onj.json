@@ -1,18 +1,18 @@
 {
-    "pk": 4841,
-    "lc": "onj",
+    "gw": false,
     "ISO-639-3": "onj",
-    "ln": "Onjob",
-    "ang": "Onjob",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4841,
     "lr": "Pacific",
-    "alt": [
-        "Onjab"
-    ],
+    "lc": "onj",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Onjab"
+    ],
+    "ang": "Onjob",
+    "gwcode": "tpi",
+    "ln": "Onjob"
 }

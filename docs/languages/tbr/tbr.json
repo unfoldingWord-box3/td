@@ -1,20 +1,20 @@
 {
-    "pk": 5999,
-    "lc": "tbr",
+    "gw": false,
     "ISO-639-3": "tbr",
-    "ln": "Tumtum",
-    "ang": "Tumtum",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 5999,
     "lr": "Africa",
+    "lc": "tbr",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Karondi (Korindi)",
         "Kurondi",
         "Talassa (Talasa)"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Tumtum",
+    "gwcode": "ar",
+    "ln": "Tumtum"
 }

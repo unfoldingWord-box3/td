@@ -1,11 +1,15 @@
 {
-    "pk": 3538,
-    "lc": "lnd",
+    "gw": false,
     "ISO-639-3": "lnd",
-    "ln": "Lundayeh",
-    "ang": "Lun Bawang",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3538,
     "lr": "Asia",
+    "lc": "lnd",
+    "cc": [
+        "ID",
+        "MY"
+    ],
     "alt": [
         "Lun Daya",
         "Lun Dayoh",
@@ -23,11 +27,7 @@
         "Limbang",
         "Lun Bawang (Sarawak Murut)"
     ],
-    "cc": [
-        "ID",
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Lun Bawang",
+    "gwcode": "id",
+    "ln": "Lundayeh"
 }

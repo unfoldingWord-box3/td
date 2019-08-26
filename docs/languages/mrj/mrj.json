@@ -1,11 +1,14 @@
 {
-    "pk": 4079,
-    "lc": "mrj",
+    "gw": false,
     "ISO-639-3": "mrj",
-    "ln": "\u041a\u044b\u0440\u044b\u043a \u043c\u0430\u0440\u044b",
-    "ang": "Mari, Hill",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 4079,
     "lr": "Europe",
+    "lc": "mrj",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Cheremis",
         "Gorno-Mariy",
@@ -13,10 +16,7 @@
         "Mari-Hills",
         "Western Mari"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Mari, Hill",
+    "gwcode": "ru",
+    "ln": "\u041a\u044b\u0440\u044b\u043a \u043c\u0430\u0440\u044b"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 5658,
-    "lc": "skb",
+    "gw": false,
     "ISO-639-3": "skb",
-    "ln": "Saek",
-    "ang": "Saek",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 5658,
     "lr": "Asia",
+    "lc": "skb",
+    "cc": [
+        "LA"
+    ],
     "alt": [
         "Sek",
         "Set",
         "Tai Sek"
     ],
-    "cc": [
-        "LA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "Saek",
+    "gwcode": "lo",
+    "ln": "Saek"
 }

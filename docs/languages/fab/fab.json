@@ -1,20 +1,20 @@
 {
-    "pk": 1813,
-    "lc": "fab",
+    "gw": false,
     "ISO-639-3": "fab",
-    "ln": "Fa d'Ambu",
-    "ang": "Fa d\u2019Ambu",
     "hc": "GQ",
+    "ld": "ltr",
+    "pk": 1813,
     "lr": "Africa",
+    "lc": "fab",
+    "cc": [
+        "GQ"
+    ],
     "alt": [
         "Annobonense",
         "Annobon\u00e9s",
         "Annobonese"
     ],
-    "cc": [
-        "GQ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es"
+    "ang": "Fa d\u2019Ambu",
+    "gwcode": "es",
+    "ln": "Fa d'Ambu"
 }

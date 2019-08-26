@@ -1,19 +1,19 @@
 {
-    "pk": 6168,
-    "lc": "tkw",
+    "gw": false,
     "ISO-639-3": "tkw",
-    "ln": "Teanu",
-    "ang": "Teanu",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 6168,
     "lr": "Pacific",
+    "lc": "tkw",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Buma",
         "Puma"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Teanu",
+    "gwcode": "UNKNOWN",
+    "ln": "Teanu"
 }

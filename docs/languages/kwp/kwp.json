@@ -1,19 +1,19 @@
 {
-    "pk": 3250,
-    "lc": "kwp",
+    "gw": false,
     "ISO-639-3": "kwp",
-    "ln": "Kodia",
-    "ang": "Kodia",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 3250,
     "lr": "Africa",
+    "lc": "kwp",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Kwadia",
         "Kwadya"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kodia",
+    "gwcode": "fr",
+    "ln": "Kodia"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 7077,
-    "lc": "xua",
+    "gw": false,
     "ISO-639-3": "xua",
-    "ln": "Alu Kurumba",
-    "ang": "Kurumba, Alu",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 7077,
     "lr": "Asia",
+    "lc": "xua",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Alu Kurumba Nonstandard Kannada",
         "Hal Kurumba",
         "Pal Kurumba"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ta"
+    "ang": "Kurumba, Alu",
+    "gwcode": "ta",
+    "ln": "Alu Kurumba"
 }

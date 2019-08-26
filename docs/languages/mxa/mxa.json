@@ -1,20 +1,20 @@
 {
-    "pk": 4214,
-    "lc": "mxa",
+    "gw": false,
     "ISO-639-3": "mxa",
-    "ln": "Northwest Oaxaca Mixtec",
-    "ang": "Mixtec, Northwest Oaxaca",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4214,
     "lr": "Americas",
+    "lc": "mxa",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Mixteco de Yucun\u00e1",
         "Mixteco del Noroeste",
         "Mixteco del Noroeste de Oaxaca"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Northwest Oaxaca",
+    "gwcode": "es-419",
+    "ln": "Northwest Oaxaca Mixtec"
 }

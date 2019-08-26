@@ -1,20 +1,20 @@
 {
-    "pk": 3958,
-    "lc": "mmj",
+    "gw": false,
     "ISO-639-3": "mmj",
-    "ln": "Majhwar",
-    "ang": "Majhwar",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3958,
     "lr": "Asia",
+    "lc": "mmj",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Majhvar",
         "Manjhi",
         "Manjhia"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hne"
+    "ang": "Majhwar",
+    "gwcode": "UNKNOWN",
+    "ln": "Majhwar"
 }

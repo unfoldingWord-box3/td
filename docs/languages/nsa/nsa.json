@@ -1,11 +1,14 @@
 {
-    "pk": 4638,
-    "lc": "nsa",
+    "gw": false,
     "ISO-639-3": "nsa",
-    "ln": "Sangtam Naga",
-    "ang": "Naga, Sangtam",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4638,
     "lr": "Asia",
+    "lc": "nsa",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Isachanure",
         "Lophomi",
@@ -14,10 +17,7 @@
         "Purr (Southern Sangtam)",
         "Thukumi (Central Sangtam)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Sangtam",
+    "gwcode": "en",
+    "ln": "Sangtam Naga"
 }

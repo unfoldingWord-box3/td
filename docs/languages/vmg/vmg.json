@@ -1,19 +1,19 @@
 {
-    "pk": 6633,
-    "lc": "vmg",
+    "gw": false,
     "ISO-639-3": "vmg",
-    "ln": "Lungalunga",
-    "ang": "Lungalunga",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6633,
     "lr": "Pacific",
+    "lc": "vmg",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Tavue",
         "Vinitiri"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Lungalunga",
+    "gwcode": "tpi",
+    "ln": "Lungalunga"
 }

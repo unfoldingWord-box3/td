@@ -1,20 +1,20 @@
 {
-    "pk": 3522,
-    "lc": "lmk",
+    "gw": false,
     "ISO-639-3": "lmk",
-    "ln": "Lamkang",
-    "ang": "Lamkang",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3522,
     "lr": "Asia",
+    "lc": "lmk",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Lamkaang",
         "Hiroi-Lamgang",
         "Lamgang"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "mni"
+    "ang": "Lamkang",
+    "gwcode": "UNKNOWN",
+    "ln": "Lamkang"
 }

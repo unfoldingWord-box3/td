@@ -1,19 +1,19 @@
 {
-    "pk": 7439,
-    "lc": "zpc",
+    "gw": false,
     "ISO-639-3": "zpc",
-    "ln": "Choapan Zapotec",
-    "ang": "Zapotec, Choapan",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7439,
     "lr": "Americas",
+    "lc": "zpc",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Zapoteco de Choapan",
         "Zapoteco de San Juan Comaltepec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Choapan",
+    "gwcode": "es-419",
+    "ln": "Choapan Zapotec"
 }

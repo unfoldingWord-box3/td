@@ -1,18 +1,18 @@
 {
-    "pk": 1386,
-    "lc": "cuc",
+    "gw": false,
     "ISO-639-3": "cuc",
-    "ln": "Usila Chinantec",
-    "ang": "Chinantec, Usila",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1386,
     "lr": "Americas",
-    "alt": [
-        "Chinanteco del Oeste Central Alto"
-    ],
+    "lc": "cuc",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Chinanteco del Oeste Central Alto"
+    ],
+    "ang": "Chinantec, Usila",
+    "gwcode": "es-419",
+    "ln": "Usila Chinantec"
 }

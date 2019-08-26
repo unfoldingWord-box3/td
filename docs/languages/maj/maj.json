@@ -1,20 +1,20 @@
 {
-    "pk": 3666,
-    "lc": "maj",
+    "gw": false,
     "ISO-639-3": "maj",
-    "ln": "Jalapa De D\u00edaz Mazatec",
-    "ang": "Mazatec, Jalapa de D\u00edaz",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 3666,
     "lr": "Americas",
+    "lc": "maj",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Lowland Mazatec",
         "Mazateco de San Felipe Jalapa de D\u00edaz",
         "Mazateco del Este Bajo"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mazatec, Jalapa de D\u00edaz",
+    "gwcode": "es-419",
+    "ln": "Jalapa De D\u00edaz Mazatec"
 }

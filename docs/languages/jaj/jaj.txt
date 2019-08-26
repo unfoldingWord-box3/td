@@ -1,0 +1,24 @@
+.. _jaj:
+
+Zazao
+=====
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: jaj
+    alternate_names:
+    - Jajao
+    - Kilokaka
+    anglicanized_name: Zazao
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: jaj
+    lang_direction: ltr
+    lang_name: Zazao
+    lang_region: Pacific
+    

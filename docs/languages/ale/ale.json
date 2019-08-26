@@ -1,11 +1,14 @@
 {
-    "pk": 214,
-    "lc": "ale",
+    "gw": false,
     "ISO-639-3": "ale",
-    "ln": "Aleut",
-    "ang": "Aleut",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 214,
     "lr": "Americas",
+    "lc": "ale",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Atkan",
         "Attuan",
@@ -18,10 +21,7 @@
         "Western Aleut (Atka)",
         "Unanghan"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Aleut",
+    "gwcode": "en",
+    "ln": "Aleut"
 }

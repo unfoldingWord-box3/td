@@ -1,20 +1,20 @@
 {
-    "pk": 1088,
-    "lc": "bzf",
+    "gw": false,
     "ISO-639-3": "bzf",
-    "ln": "Boikin",
-    "ang": "Boikin",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1088,
     "lr": "Pacific",
+    "lc": "bzf",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Boiken",
         "Nucum",
         "Yengoru"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Boikin",
+    "gwcode": "tpi",
+    "ln": "Boikin"
 }

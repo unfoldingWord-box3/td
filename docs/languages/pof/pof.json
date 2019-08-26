@@ -1,21 +1,21 @@
 {
-    "pk": 5125,
-    "lc": "pof",
+    "gw": false,
     "ISO-639-3": "pof",
-    "ln": "Poke",
-    "ang": "Poke",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5125,
     "lr": "Africa",
+    "lc": "pof",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Puki",
         "Tofoke",
         "Topoke",
         "Tovoke"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Poke",
+    "gwcode": "fr",
+    "ln": "Poke"
 }

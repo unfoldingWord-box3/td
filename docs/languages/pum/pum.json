@@ -1,20 +1,20 @@
 {
-    "pk": 5219,
-    "lc": "pum",
+    "gw": false,
     "ISO-639-3": "pum",
-    "ln": "\u092a\u0941\u092e\u093e",
-    "ang": "Puma",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 5219,
     "lr": "Asia",
+    "lc": "pum",
+    "cc": [
+        "NP"
+    ],
     "alt": [
         "Puma Kala",
         "Puma La",
         "Puma Pima"
     ],
-    "cc": [
-        "NP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Puma",
+    "gwcode": "ne",
+    "ln": "\u092a\u0941\u092e\u093e"
 }

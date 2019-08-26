@@ -1,20 +1,20 @@
 {
-    "pk": 1304,
-    "lc": "cov",
+    "gw": false,
     "ISO-639-3": "cov",
-    "ln": "\u8349\u82d7",
-    "ang": "Cao Miao",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 1304,
     "lr": "Asia",
+    "lc": "cov",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Grass Miao",
         "Mjiuniang",
         "Sanjiang Miao"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Cao Miao",
+    "gwcode": "zh",
+    "ln": "\u8349\u82d7"
 }

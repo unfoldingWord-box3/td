@@ -1,20 +1,20 @@
 {
-    "pk": 3432,
-    "lc": "lgg",
+    "gw": false,
     "ISO-639-3": "lgg",
-    "ln": "Lugbara",
-    "ang": "Lugbara",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 3432,
     "lr": "Africa",
+    "lc": "lgg",
+    "cc": [
+        "UG"
+    ],
     "alt": [
         "High Lugbara",
         "Arua (Standard Lugbara)",
         "Terego (Omugo)"
     ],
-    "cc": [
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lugbara",
+    "gwcode": "en",
+    "ln": "Lugbara"
 }

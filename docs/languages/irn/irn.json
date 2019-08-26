@@ -1,11 +1,14 @@
 {
-    "pk": 2511,
-    "lc": "irn",
+    "gw": false,
     "ISO-639-3": "irn",
-    "ln": "Ir\u00e1ntxe",
-    "ang": "Ir\u00e1ntxe",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2511,
     "lr": "Americas",
+    "lc": "irn",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Iranche",
         "Menku",
@@ -14,10 +17,7 @@
         "Myy",
         "Ir\u00e1ntxe"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Ir\u00e1ntxe",
+    "gwcode": "pt",
+    "ln": "Ir\u00e1ntxe"
 }

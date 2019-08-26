@@ -1,18 +1,18 @@
 {
-    "pk": 37,
-    "lc": "abi",
+    "gw": false,
     "ISO-639-3": "abi",
-    "ln": "Abidji",
-    "ang": "Abidji",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 37,
     "lr": "Africa",
-    "alt": [
-        "Abiji"
-    ],
+    "lc": "abi",
     "cc": [
         "CI"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Abiji"
+    ],
+    "ang": "Abidji",
+    "gwcode": "fr",
+    "ln": "Abidji"
 }

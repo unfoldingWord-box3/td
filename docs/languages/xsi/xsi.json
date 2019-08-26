@@ -1,18 +1,18 @@
 {
-    "pk": 7043,
-    "lc": "xsi",
+    "gw": false,
     "ISO-639-3": "xsi",
-    "ln": "Sio",
-    "ang": "Sio",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 7043,
     "lr": "Pacific",
-    "alt": [
-        "Sigawa"
-    ],
+    "lc": "xsi",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Sigawa"
+    ],
+    "ang": "Sio",
+    "gwcode": "tpi",
+    "ln": "Sio"
 }

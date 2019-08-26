@@ -1,19 +1,19 @@
 {
-    "pk": 2688,
-    "lc": "jvn",
+    "gw": false,
     "ISO-639-3": "jvn",
-    "ln": "Caribbean Javanese",
-    "ang": "Javanese, Suriname",
     "hc": "SR",
+    "ld": "ltr",
+    "pk": 2688,
     "lr": "Americas",
-    "alt": [
-        "Suriname Javanese"
-    ],
+    "lc": "jvn",
     "cc": [
         "GF",
         "SR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "nl"
+    "alt": [
+        "Suriname Javanese"
+    ],
+    "ang": "Javanese, Suriname",
+    "gwcode": "UNKNOWN",
+    "ln": "Caribbean Javanese"
 }

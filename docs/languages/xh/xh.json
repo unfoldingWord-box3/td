@@ -1,24 +1,24 @@
 {
-    "pk": 6915,
-    "lc": "xh",
+    "gw": false,
     "ISO-639-3": "xho",
-    "ln": "isiXhosa",
-    "ang": "Xhosa",
     "hc": "ZA",
+    "ld": "ltr",
+    "pk": 6915,
     "lr": "Africa",
-    "alt": [
-        "Isixhosa",
-        "Koosa",
-        "Xosa",
-        "Cauzuh"
-    ],
+    "lc": "xh",
     "cc": [
         "ZA",
         "ZW",
         "LS",
         "BW"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Isixhosa",
+        "Koosa",
+        "Xosa",
+        "Cauzuh"
+    ],
+    "ang": "Xhosa",
+    "gwcode": "en",
+    "ln": "isiXhosa"
 }

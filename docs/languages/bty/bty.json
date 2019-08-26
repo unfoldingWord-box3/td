@@ -1,11 +1,14 @@
 {
-    "pk": 968,
-    "lc": "bty",
+    "gw": false,
     "ISO-639-3": "bty",
-    "ln": "Bobot",
-    "ang": "Bobot",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 968,
     "lr": "Asia",
+    "lc": "bty",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Ahtiago",
         "Atiahu",
@@ -13,10 +16,7 @@
         "Ntau",
         "Werinama"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Bobot",
+    "gwcode": "id",
+    "ln": "Bobot"
 }

@@ -1,21 +1,11 @@
 {
-    "pk": 5749,
-    "lc": "so",
+    "gw": false,
     "ISO-639-3": "som",
-    "ln": "Soomaaliga, af Soomaali",
-    "ang": "Somali",
     "hc": "SO",
+    "ld": "ltr",
+    "pk": 5749,
     "lr": "Africa",
-    "alt": [
-        "Common Somali",
-        "Standard Somali",
-        "Af-Maxaad Tiri",
-        "Af-Soomaali",
-        "Soomaaliga",
-        "Wardei",
-        "Af-Ashraaf (Ashraaf)",
-        "Issa"
-    ],
+    "lc": "so",
     "cc": [
         "DJ",
         "ER",
@@ -33,7 +23,17 @@
         "SO",
         "AE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Common Somali",
+        "Standard Somali",
+        "Af-Maxaad Tiri",
+        "Af-Soomaali",
+        "Soomaaliga",
+        "Wardei",
+        "Af-Ashraaf (Ashraaf)",
+        "Issa"
+    ],
+    "ang": "Somali",
+    "gwcode": "ar",
+    "ln": "Soomaaliga, af Soomaali"
 }

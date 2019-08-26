@@ -1,18 +1,18 @@
 {
-    "pk": 6443,
-    "lc": "tya",
+    "gw": false,
     "ISO-639-3": "tya",
-    "ln": "Tauya",
-    "ang": "Tauya",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6443,
     "lr": "Pacific",
-    "alt": [
-        "Inafosa"
-    ],
+    "lc": "tya",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Inafosa"
+    ],
+    "ang": "Tauya",
+    "gwcode": "tpi",
+    "ln": "Tauya"
 }

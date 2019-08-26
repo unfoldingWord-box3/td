@@ -1,18 +1,18 @@
 {
-    "pk": 6987,
-    "lc": "xmw",
+    "gw": false,
     "ISO-639-3": "xmw",
-    "ln": "Tsimihety Malagasy",
-    "ang": "Malagasy, Tsimihety",
     "hc": "MG",
+    "ld": "ltr",
+    "pk": 6987,
     "lr": "Africa",
-    "alt": [
-        "Tsimihety"
-    ],
+    "lc": "xmw",
     "cc": [
         "MG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "plt"
+    "alt": [
+        "Tsimihety"
+    ],
+    "ang": "Malagasy, Tsimihety",
+    "gwcode": "plt",
+    "ln": "Tsimihety Malagasy"
 }

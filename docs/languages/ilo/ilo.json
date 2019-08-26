@@ -1,21 +1,21 @@
 {
-    "pk": 2475,
-    "lc": "ilo",
+    "gw": true,
     "ISO-639-3": "ilo",
-    "ln": "Iloko",
-    "ang": "Ilocano",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2475,
     "lr": "Asia",
-    "alt": [
-        "Ilokano",
-        "Iloko"
-    ],
+    "lc": "ilo",
     "cc": [
         "PH",
         "US",
         "CA"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Ilokano",
+        "Iloko"
+    ],
+    "ang": "Ilocano",
+    "gwcode": "en",
+    "ln": "Iloko"
 }

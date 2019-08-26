@@ -1,19 +1,19 @@
 {
-    "pk": 5286,
-    "lc": "qwh",
+    "gw": false,
     "ISO-639-3": "qwh",
-    "ln": "Huaylas Ancash Quechua",
-    "ang": "Quechua, Huaylas Ancash",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 5286,
     "lr": "Americas",
+    "lc": "qwh",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Huaraz Quechua",
         "Huailas (Huaylas)"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quechua, Huaylas Ancash",
+    "gwcode": "es-419",
+    "ln": "Huaylas Ancash Quechua"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 1052,
-    "lc": "bxl",
+    "gw": false,
     "ISO-639-3": "bxl",
-    "ln": "Jalkunan",
-    "ang": "Jalkunan",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 1052,
     "lr": "Africa",
+    "lc": "bxl",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Bl\u00e9",
         "Dyala",
         "Dyalanu",
         "Jalkuna"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Jalkunan",
+    "gwcode": "fr",
+    "ln": "Jalkunan"
 }

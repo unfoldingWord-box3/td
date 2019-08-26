@@ -1,19 +1,19 @@
 {
-    "pk": 3089,
-    "lc": "kqg",
+    "gw": false,
     "ISO-639-3": "kqg",
-    "ln": "Khe",
-    "ang": "Khe",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 3089,
     "lr": "Africa",
+    "lc": "kqg",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Bambadion-Kheso",
         "Kheso"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Khe",
+    "gwcode": "fr",
+    "ln": "Khe"
 }

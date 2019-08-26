@@ -1,18 +1,18 @@
 {
-    "pk": 7010,
-    "lc": "xor",
+    "gw": false,
     "ISO-639-3": "xor",
-    "ln": "Korubo",
-    "ang": "Korubo",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 7010,
     "lr": "Americas",
-    "alt": [
-        "Caceteiros"
-    ],
+    "lc": "xor",
     "cc": [
         "BR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "alt": [
+        "Caceteiros"
+    ],
+    "ang": "Korubo",
+    "gwcode": "pt",
+    "ln": "Korubo"
 }

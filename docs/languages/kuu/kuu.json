@@ -1,19 +1,19 @@
 {
-    "pk": 3201,
-    "lc": "kuu",
+    "gw": false,
     "ISO-639-3": "kuu",
-    "ln": "Upper Kuskokwim",
-    "ang": "Kuskokwim, Upper",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 3201,
     "lr": "Americas",
+    "lc": "kuu",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Kolchan",
         "Mcgrath Ingalik"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kuskokwim, Upper",
+    "gwcode": "en",
+    "ln": "Upper Kuskokwim"
 }

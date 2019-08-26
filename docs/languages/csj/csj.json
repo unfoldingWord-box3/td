@@ -1,19 +1,19 @@
 {
-    "pk": 1354,
-    "lc": "csj",
+    "gw": false,
     "ISO-639-3": "csj",
-    "ln": "Songlai Chin",
-    "ang": "Chin, Songlai",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1354,
     "lr": "Asia",
+    "lc": "csj",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Hio",
         "Mang Um (Song)"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Chin, Songlai",
+    "gwcode": "my",
+    "ln": "Songlai Chin"
 }

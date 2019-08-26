@@ -1,11 +1,14 @@
 {
-    "pk": 2955,
-    "lc": "kkw",
+    "gw": false,
     "ISO-639-3": "kkw",
-    "ln": "Teke-Kukuya",
-    "ang": "Teke-Kukuya",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 2955,
     "lr": "Africa",
+    "lc": "kkw",
+    "cc": [
+        "CG"
+    ],
     "alt": [
         "Chikuya",
         "Kikuwa",
@@ -14,10 +17,7 @@
         "Kukwa",
         "Southern Teke"
     ],
-    "cc": [
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Teke-Kukuya",
+    "gwcode": "fr",
+    "ln": "Teke-Kukuya"
 }

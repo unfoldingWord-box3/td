@@ -1,11 +1,15 @@
 {
-    "pk": 5496,
-    "lc": "sbr",
+    "gw": false,
     "ISO-639-3": "sbr",
-    "ln": "Sembakung Murut",
-    "ang": "Sembakung Murut",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5496,
     "lr": "Asia",
+    "lc": "sbr",
+    "cc": [
+        "ID",
+        "MY"
+    ],
     "alt": [
         "Sembakoeng",
         "Sembakong",
@@ -17,11 +21,7 @@
         "Tidong",
         "Tidung"
     ],
-    "cc": [
-        "ID",
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Sembakung Murut",
+    "gwcode": "id",
+    "ln": "Sembakung Murut"
 }

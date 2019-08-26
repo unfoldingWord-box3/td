@@ -1,20 +1,20 @@
 {
-    "pk": 6791,
-    "lc": "wod",
+    "gw": false,
     "ISO-639-3": "wod",
-    "ln": "Wolani",
-    "ang": "Wolani",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6791,
     "lr": "Asia",
+    "lc": "wod",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Woda",
         "Woda-Mo",
         "Wodani"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Wolani",
+    "gwcode": "id",
+    "ln": "Wolani"
 }

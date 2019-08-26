@@ -1,19 +1,19 @@
 {
-    "pk": 4986,
-    "lc": "pei",
+    "gw": false,
     "ISO-639-3": "pei",
-    "ln": "Chichimeca-Jonaz",
-    "ang": "Chichimeco-Jonaz",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4986,
     "lr": "Americas",
+    "lc": "pei",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Meco",
         "Pame de Chichimeca-Jonaz"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chichimeco-Jonaz",
+    "gwcode": "es-419",
+    "ln": "Chichimeca-Jonaz"
 }

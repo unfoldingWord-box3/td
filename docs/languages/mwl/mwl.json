@@ -1,11 +1,15 @@
 {
-    "pk": 4201,
-    "lc": "mwl",
+    "gw": false,
     "ISO-639-3": "mwl",
-    "ln": "Mirandese",
-    "ang": "Mirandese",
     "hc": "PT",
+    "ld": "ltr",
+    "pk": 4201,
     "lr": "Europe",
+    "lc": "mwl",
+    "cc": [
+        "PT",
+        "SR"
+    ],
     "alt": [
         "Mirand\u00eas",
         "Sendin\u00eas",
@@ -13,11 +17,7 @@
         "Mirand\u00e9s Meridional (Mirand\u00e9s Sendin\u00eas)",
         "Mirand\u00e9s Setentrional (Mirand\u00e9s Raiano)"
     ],
-    "cc": [
-        "PT",
-        "SR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Mirandese",
+    "gwcode": "pt",
+    "ln": "Mirandese"
 }

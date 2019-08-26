@@ -1,22 +1,22 @@
 {
-    "pk": 2731,
-    "lc": "kbv",
+    "gw": false,
     "ISO-639-3": "kbv",
-    "ln": "Dera (Indonesia)",
-    "ang": "Dera",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2731,
     "lr": "Asia",
+    "lc": "kbv",
+    "cc": [
+        "ID",
+        "PG"
+    ],
     "alt": [
         "Dra",
         "Kamberataro",
         "Mangguar",
         "Komberatoro"
     ],
-    "cc": [
-        "ID",
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Dera",
+    "gwcode": "id",
+    "ln": "Dera (Indonesia)"
 }

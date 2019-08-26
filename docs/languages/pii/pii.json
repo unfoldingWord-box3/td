@@ -1,21 +1,21 @@
 {
-    "pk": 5034,
-    "lc": "pii",
+    "gw": false,
     "ISO-639-3": "pii",
-    "ln": "Pini",
-    "ang": "Pini",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 5034,
     "lr": "Pacific",
+    "lc": "pii",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Bini",
         "Birni",
         "Piniritjara",
         "Pirniritjara"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Pini",
+    "gwcode": "en",
+    "ln": "Pini"
 }

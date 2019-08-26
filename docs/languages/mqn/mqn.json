@@ -1,21 +1,21 @@
 {
-    "pk": 4057,
-    "lc": "mqn",
+    "gw": false,
     "ISO-639-3": "mqn",
-    "ln": "Moronene",
-    "ang": "Moronene",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4057,
     "lr": "Asia",
+    "lc": "mqn",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Maronene",
         "Wita Ea (Poleang)",
         "Rumbia",
         "Tokotu'a (Kabaena)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Moronene",
+    "gwcode": "id",
+    "ln": "Moronene"
 }

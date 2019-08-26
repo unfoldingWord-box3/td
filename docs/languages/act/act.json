@@ -1,19 +1,19 @@
 {
-    "pk": 64,
-    "lc": "act",
+    "gw": false,
     "ISO-639-3": "act",
-    "ln": "Achterhoeks",
-    "ang": "Achterhoeks",
     "hc": "NL",
+    "ld": "ltr",
+    "pk": 64,
     "lr": "Europe",
+    "lc": "act",
+    "cc": [
+        "NL"
+    ],
     "alt": [
         "Aachterhoeks",
         "Achterhoek"
     ],
-    "cc": [
-        "NL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "nl"
+    "ang": "Achterhoeks",
+    "gwcode": "UNKNOWN",
+    "ln": "Achterhoeks"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 6088,
-    "lc": "tgn",
+    "gw": false,
     "ISO-639-3": "tgn",
-    "ln": "Tandaganon",
-    "ang": "Tandaganon",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 6088,
     "lr": "Asia",
+    "lc": "tgn",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Naturalis",
         "Tagon-on"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Tandaganon",
+    "gwcode": "ceb",
+    "ln": "Tandaganon"
 }

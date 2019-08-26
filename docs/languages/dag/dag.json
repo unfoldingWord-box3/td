@@ -1,22 +1,22 @@
 {
-    "pk": 1425,
-    "lc": "dag",
+    "gw": false,
     "ISO-639-3": "dag",
-    "ln": "Dagbani",
-    "ang": "Dagbani",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 1425,
     "lr": "Africa",
+    "lc": "dag",
+    "cc": [
+        "GH",
+        "TG"
+    ],
     "alt": [
         "Dagbamba",
         "Dagbane",
         "Dagomba",
         "Nanuni (Nanumba)"
     ],
-    "cc": [
-        "GH",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dagbani",
+    "gwcode": "en",
+    "ln": "Dagbani"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 1983,
-    "lc": "ged",
+    "gw": false,
     "ISO-639-3": "ged",
-    "ln": "Gade",
-    "ang": "Gade",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1983,
     "lr": "Africa",
-    "alt": [
-        "Gede"
-    ],
+    "lc": "ged",
     "cc": [
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Gede"
+    ],
+    "ang": "Gade",
+    "gwcode": "en",
+    "ln": "Gade"
 }

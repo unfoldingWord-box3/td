@@ -1,19 +1,19 @@
 {
-    "pk": 2843,
-    "lc": "kgi",
+    "gw": false,
     "ISO-639-3": "kgi",
-    "ln": "Selangor Sign Language",
-    "ang": "Selangor Sign Language",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 2843,
     "lr": "Asia",
+    "lc": "kgi",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "KLSL",
         "Kuala Lumpur Sign Language"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Selangor Sign Language",
+    "gwcode": "ms",
+    "ln": "Selangor Sign Language"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 5834,
-    "lc": "ssi",
+    "gw": false,
     "ISO-639-3": "ssi",
-    "ln": "Sansi",
-    "ang": "Sansi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5834,
     "lr": "Asia",
-    "alt": [
-        "Bhilki",
-        "Sansiboli"
-    ],
+    "lc": "ssi",
     "cc": [
         "PK",
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pa"
+    "alt": [
+        "Bhilki",
+        "Sansiboli"
+    ],
+    "ang": "Sansi",
+    "gwcode": "pa",
+    "ln": "Sansi"
 }

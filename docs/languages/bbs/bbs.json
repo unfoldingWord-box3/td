@@ -1,21 +1,21 @@
 {
-    "pk": 526,
-    "lc": "bbs",
+    "gw": false,
     "ISO-639-3": "bbs",
-    "ln": "Bakpinka",
-    "ang": "Bakpinka",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 526,
     "lr": "Africa",
+    "lc": "bbs",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Begbungba",
         "Iyongiyong",
         "Iyoniyong",
         "Uwet"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bakpinka",
+    "gwcode": "en",
+    "ln": "Bakpinka"
 }

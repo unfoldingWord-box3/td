@@ -1,11 +1,15 @@
 {
-    "pk": 1176,
-    "lc": "ceb",
+    "gw": true,
     "ISO-639-3": "ceb",
-    "ln": "Cebuano",
-    "ang": "Cebuano",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 1176,
     "lr": "Asia",
+    "lc": "ceb",
+    "cc": [
+        "PH",
+        "US"
+    ],
     "alt": [
         "Binisaya",
         "Bisayan",
@@ -14,11 +18,7 @@
         "Sugbuhanon",
         "Visayan"
     ],
-    "cc": [
-        "PH",
-        "US"
-    ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Cebuano",
+    "gwcode": "en",
+    "ln": "Cebuano"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 4172,
-    "lc": "mve",
+    "gw": false,
     "ISO-639-3": "mve",
-    "ln": "\u0645\u0627\u0631\u0648\u0627\u0631\u064a (Pakistan)",
-    "ang": "Marwari",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 4172,
     "lr": "Asia",
+    "lc": "mve",
+    "cc": [
+        "PK"
+    ],
     "alt": [
         "Jaiselmer",
         "Marawar",
         "Merwari",
         "Rajasthani"
     ],
-    "cc": [
-        "PK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Marwari",
+    "gwcode": "ur",
+    "ln": "\u0645\u0627\u0631\u0648\u0627\u0631\u064a (Pakistan)"
 }

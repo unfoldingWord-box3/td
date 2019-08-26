@@ -1,20 +1,20 @@
 {
-    "pk": 5186,
-    "lc": "psm",
+    "gw": false,
     "ISO-639-3": "psm",
-    "ln": "Pauserna",
-    "ang": "Pauserna",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 5186,
     "lr": "Americas",
+    "lc": "psm",
+    "cc": [
+        "BO"
+    ],
     "alt": [
         "Guarayu-Ta",
         "Paucerne",
         "Pauserna-Guarasugw\u00e9"
     ],
-    "cc": [
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Pauserna",
+    "gwcode": "es-419",
+    "ln": "Pauserna"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 928,
-    "lc": "bsf",
+    "gw": false,
     "ISO-639-3": "bsf",
-    "ln": "Bauchi",
-    "ang": "Bauchi",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 928,
     "lr": "Africa",
+    "lc": "bsf",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bauci",
         "Baushi",
         "Kushi",
         "Madaka (Adeka)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bauchi",
+    "gwcode": "en",
+    "ln": "Bauchi"
 }

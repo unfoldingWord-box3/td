@@ -1,19 +1,19 @@
 {
-    "pk": 897,
-    "lc": "bqy",
+    "gw": false,
     "ISO-639-3": "bqy",
-    "ln": "Bengkala Sign Language",
-    "ang": "Bengkala Sign Language",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 897,
     "lr": "Asia",
+    "lc": "bqy",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Benkala Sign Language",
         "Kata Kolok"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Bengkala Sign Language",
+    "gwcode": "id",
+    "ln": "Bengkala Sign Language"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 6096,
-    "lc": "tgv",
+    "gw": false,
     "ISO-639-3": "tgv",
-    "ln": "Tingui-Boto",
-    "ang": "Tingui-Boto",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 6096,
     "lr": "Americas",
+    "lc": "tgv",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Carapat\u00f3",
         "Dzboku'a",
@@ -13,10 +16,7 @@
         "Karapat\u00f3",
         "Tingui"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Tingui-Boto",
+    "gwcode": "pt",
+    "ln": "Tingui-Boto"
 }

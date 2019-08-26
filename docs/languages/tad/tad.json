@@ -1,19 +1,19 @@
 {
-    "pk": 5966,
-    "lc": "tad",
+    "gw": false,
     "ISO-639-3": "tad",
-    "ln": "Tause",
-    "ang": "Tause",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5966,
     "lr": "Asia",
+    "lc": "tad",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Darha",
         "Doa"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tause",
+    "gwcode": "id",
+    "ln": "Tause"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3463,
-    "lc": "lik",
+    "gw": false,
     "ISO-639-3": "lik",
-    "ln": "Lika",
-    "ang": "Lika",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3463,
     "lr": "Africa",
+    "lc": "lik",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kpongo",
         "Mabiti",
@@ -13,10 +16,7 @@
         "Lik\u00f3 (Ik\u00f3)",
         "Lilik\u00e1 (Lik\u00e1)"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Lika",
+    "gwcode": "fr",
+    "ln": "Lika"
 }

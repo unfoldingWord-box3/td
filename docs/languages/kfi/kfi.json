@@ -1,11 +1,14 @@
 {
-    "pk": 2817,
-    "lc": "kfi",
+    "gw": false,
     "ISO-639-3": "kfi",
-    "ln": "Kannada Kurumba",
-    "ang": "Kurumba, Kannada",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2817,
     "lr": "Asia",
+    "lc": "kfi",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Canarese",
         "Korambar",
@@ -28,10 +31,7 @@
         "Pudukottai",
         "Coimbatore"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ta"
+    "ang": "Kurumba, Kannada",
+    "gwcode": "ta",
+    "ln": "Kannada Kurumba"
 }

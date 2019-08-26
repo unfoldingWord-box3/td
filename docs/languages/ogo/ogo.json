@@ -1,20 +1,20 @@
 {
-    "pk": 4784,
-    "lc": "ogo",
+    "gw": false,
     "ISO-639-3": "ogo",
-    "ln": "Khana",
-    "ang": "Khana",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4784,
     "lr": "Africa",
+    "lc": "ogo",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ogoni",
         "Babbe",
         "Nyo-Kana"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Khana",
+    "gwcode": "en",
+    "ln": "Khana"
 }

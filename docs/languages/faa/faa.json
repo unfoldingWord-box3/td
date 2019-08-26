@@ -1,20 +1,20 @@
 {
-    "pk": 1812,
-    "lc": "faa",
+    "gw": false,
     "ISO-639-3": "faa",
-    "ln": "Fasu",
-    "ang": "Fasu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1812,
     "lr": "Pacific",
+    "lc": "faa",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kaibu (Kaipu)",
         "Namome (Namumi)",
         "Namuni"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Fasu",
+    "gwcode": "tpi",
+    "ln": "Fasu"
 }

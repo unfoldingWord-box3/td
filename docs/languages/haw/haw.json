@@ -1,19 +1,19 @@
 {
-    "pk": 2238,
-    "lc": "haw",
+    "gw": false,
     "ISO-639-3": "haw",
-    "ln": "Hawaiian",
-    "ang": "Hawaiian",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 2238,
     "lr": "Americas",
+    "lc": "haw",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Olelo Hawai'i",
         "Olelo Hawai'i Makuahine"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Hawaiian",
+    "gwcode": "en",
+    "ln": "Hawaiian"
 }

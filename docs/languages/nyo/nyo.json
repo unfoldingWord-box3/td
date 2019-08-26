@@ -1,19 +1,19 @@
 {
-    "pk": 4739,
-    "lc": "nyo",
+    "gw": false,
     "ISO-639-3": "nyo",
-    "ln": "Nyoro",
-    "ang": "Nyoro",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 4739,
     "lr": "Africa",
+    "lc": "nyo",
+    "cc": [
+        "UG"
+    ],
     "alt": [
         "Runyoro",
         "Orunyoro (Nyoro)"
     ],
-    "cc": [
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nyoro",
+    "gwcode": "en",
+    "ln": "Nyoro"
 }

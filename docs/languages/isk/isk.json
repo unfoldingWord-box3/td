@@ -1,21 +1,21 @@
 {
-    "pk": 2524,
-    "lc": "isk",
+    "gw": false,
     "ISO-639-3": "isk",
-    "ln": "\u0161ko\u0161mi z\u0259v\u016fk",
-    "ang": "Ishkashimi",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 2524,
     "lr": "Asia",
+    "lc": "isk",
+    "cc": [
+        "AF",
+        "TJ"
+    ],
     "alt": [
         "Eshkashimi",
         "Ishkashim",
         "Ishkashmi"
     ],
-    "cc": [
-        "AF",
-        "TJ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Ishkashimi",
+    "gwcode": "ps",
+    "ln": "\u0161ko\u0161mi z\u0259v\u016fk"
 }

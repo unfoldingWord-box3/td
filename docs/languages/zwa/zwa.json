@@ -1,20 +1,20 @@
 {
-    "pk": 7493,
-    "lc": "zwa",
+    "gw": false,
     "ISO-639-3": "zwa",
-    "ln": "Zay",
-    "ang": "Zay",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 7493,
     "lr": "Africa",
+    "lc": "zwa",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Gelilla",
         "Lak'i",
         "Zway"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Zay",
+    "gwcode": "am",
+    "ln": "Zay"
 }

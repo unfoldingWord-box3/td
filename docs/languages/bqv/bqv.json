@@ -1,11 +1,14 @@
 {
-    "pk": 894,
-    "lc": "bqv",
+    "gw": false,
     "ISO-639-3": "bqv",
-    "ln": "Koro Wachi",
-    "ang": "Koro Wachi",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 894,
     "lr": "Africa",
+    "lc": "bqv",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Agere",
         "Koro Agwe",
@@ -16,10 +19,7 @@
         "Koro Miamia",
         "Koro Waci (Koro Ache)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Koro Wachi",
+    "gwcode": "en",
+    "ln": "Koro Wachi"
 }

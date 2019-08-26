@@ -1,21 +1,21 @@
 {
-    "pk": 877,
-    "lc": "bqc",
+    "gw": false,
     "ISO-639-3": "bqc",
-    "ln": "Boko (Benin)",
-    "ang": "Boko",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 877,
     "lr": "Africa",
+    "lc": "bqc",
+    "cc": [
+        "BJ",
+        "NG"
+    ],
     "alt": [
         "Boo",
         "Bokonya",
         "Bo'o"
     ],
-    "cc": [
-        "BJ",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Boko",
+    "gwcode": "fr",
+    "ln": "Boko (Benin)"
 }

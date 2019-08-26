@@ -1,18 +1,18 @@
 {
-    "pk": 4980,
-    "lc": "peb",
+    "gw": false,
     "ISO-639-3": "peb",
-    "ln": "Eastern Pomo",
-    "ang": "Pomo, Eastern",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 4980,
     "lr": "Americas",
-    "alt": [
-        "Clear Lake Pomo"
-    ],
+    "lc": "peb",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Clear Lake Pomo"
+    ],
+    "ang": "Pomo, Eastern",
+    "gwcode": "en",
+    "ln": "Eastern Pomo"
 }

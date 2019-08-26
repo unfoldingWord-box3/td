@@ -1,21 +1,21 @@
 {
-    "pk": 4670,
-    "lc": "ntu",
+    "gw": false,
     "ISO-639-3": "ntu",
-    "ln": "Nat\u00fcgu",
-    "ang": "Nat\u00fcgu",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 4670,
     "lr": "Pacific",
+    "lc": "ntu",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Nambakaeng\u00f6",
         "Natqgu",
         "Northern Santa Cruz",
         "Ndeni (Deni)"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Nat\u00fcgu",
+    "gwcode": "UNKNOWN",
+    "ln": "Nat\u00fcgu"
 }

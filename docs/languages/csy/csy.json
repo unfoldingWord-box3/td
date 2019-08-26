@@ -1,20 +1,20 @@
 {
-    "pk": 1366,
-    "lc": "csy",
+    "gw": false,
     "ISO-639-3": "csy",
-    "ln": "Siyin Chin",
-    "ang": "Chin, Siyin",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1366,
     "lr": "Asia",
+    "lc": "csy",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Siyang",
         "Siyin",
         "Sizang"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Chin, Siyin",
+    "gwcode": "my",
+    "ln": "Siyin Chin"
 }

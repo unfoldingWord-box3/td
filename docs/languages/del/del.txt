@@ -1,0 +1,22 @@
+.. _del:
+
+Delaware
+========
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: del
+    alternate_names: []
+    anglicanized_name: Delaware
+    country_codes:
+    - US
+    gateway_language: UNKNOWN
+    lang_code: del
+    lang_direction: ltr
+    lang_name: Delaware
+    lang_region: Americas
+    

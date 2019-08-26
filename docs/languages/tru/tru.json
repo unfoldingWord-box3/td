@@ -1,18 +1,11 @@
 {
-    "pk": 6318,
-    "lc": "tru",
+    "gw": false,
     "ISO-639-3": "tru",
-    "ln": "\u071b\u0718\u072a\u071d\u0710",
-    "ang": "Turoyo",
     "hc": "TR",
+    "ld": "ltr",
+    "pk": 6318,
     "lr": "Asia",
-    "alt": [
-        "Surayt",
-        "Suryoyo",
-        "Syryoyo",
-        "Turani",
-        "S\u00fcryani"
-    ],
+    "lc": "tru",
     "cc": [
         "DE",
         "IQ",
@@ -22,7 +15,14 @@
         "TR",
         "KW"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tr"
+    "alt": [
+        "Surayt",
+        "Suryoyo",
+        "Syryoyo",
+        "Turani",
+        "S\u00fcryani"
+    ],
+    "ang": "Turoyo",
+    "gwcode": "tr",
+    "ln": "\u071b\u0718\u072a\u071d\u0710"
 }

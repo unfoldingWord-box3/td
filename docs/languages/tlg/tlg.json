@@ -1,18 +1,18 @@
 {
-    "pk": 6177,
-    "lc": "tlg",
+    "gw": false,
     "ISO-639-3": "tlg",
-    "ln": "Tofanma",
-    "ang": "Tofanma",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6177,
     "lr": "Asia",
-    "alt": [
-        "Tofamna"
-    ],
+    "lc": "tlg",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Tofamna"
+    ],
+    "ang": "Tofanma",
+    "gwcode": "id",
+    "ln": "Tofanma"
 }

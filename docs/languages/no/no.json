@@ -1,18 +1,18 @@
 {
-    "pk": 4581,
-    "lc": "no",
+    "gw": false,
     "ISO-639-3": "nor",
-    "ln": "Norsk",
-    "ang": "Norwegian",
     "hc": "NO",
+    "ld": "ltr",
+    "pk": 4581,
     "lr": "Europe",
-    "alt": [
-        "Riksm\u00e5l"
-    ],
+    "lc": "no",
     "cc": [
         "NO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Riksm\u00e5l"
+    ],
+    "ang": "Norwegian",
+    "gwcode": "en",
+    "ln": "Norsk"
 }

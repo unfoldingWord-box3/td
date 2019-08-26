@@ -1,21 +1,21 @@
 {
-    "pk": 3729,
-    "lc": "mdb",
+    "gw": false,
     "ISO-639-3": "mdb",
-    "ln": "Morigi",
-    "ang": "Morigi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3729,
     "lr": "Pacific",
+    "lc": "mdb",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Dabura",
         "Morigi Island",
         "Turama River Kiwai",
         "Wariadai"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Morigi",
+    "gwcode": "tpi",
+    "ln": "Morigi"
 }

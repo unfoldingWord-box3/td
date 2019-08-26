@@ -1,19 +1,19 @@
 {
-    "pk": 7433,
-    "lc": "zoo",
+    "gw": false,
     "ISO-639-3": "zoo",
-    "ln": "Asunci\u00f3n Mixtepec Zapotec",
-    "ang": "Zapotec, Asunci\u00f3n Mixtepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7433,
     "lr": "Americas",
+    "lc": "zoo",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "North Central Zimatlan Zapotec",
         "Zapoteco de Asunci\u00f3n Mixtepec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Asunci\u00f3n Mixtepec",
+    "gwcode": "es-419",
+    "ln": "Asunci\u00f3n Mixtepec Zapotec"
 }

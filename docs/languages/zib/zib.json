@@ -1,18 +1,18 @@
 {
-    "pk": 7381,
-    "lc": "zib",
+    "gw": false,
     "ISO-639-3": "zib",
-    "ln": "Zimbabwe Sign Language",
-    "ang": "Zimbabwe Sign Language",
     "hc": "ZW",
+    "ld": "ltr",
+    "pk": 7381,
     "lr": "Africa",
-    "alt": [
-        "Zimsign"
-    ],
+    "lc": "zib",
     "cc": [
         "ZW"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Zimsign"
+    ],
+    "ang": "Zimbabwe Sign Language",
+    "gwcode": "en",
+    "ln": "Zimbabwe Sign Language"
 }

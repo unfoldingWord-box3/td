@@ -1,11 +1,14 @@
 {
-    "pk": 3349,
-    "lc": "laq",
+    "gw": false,
     "ISO-639-3": "laq",
-    "ln": "Qabiao",
-    "ang": "Qabiao",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 3349,
     "lr": "Asia",
+    "lc": "laq",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Bendi Lolo",
         "Ka Bao",
@@ -22,10 +25,7 @@
         "Lolo",
         "Pen Ti"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Qabiao",
+    "gwcode": "vi",
+    "ln": "Qabiao"
 }

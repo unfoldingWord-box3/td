@@ -1,19 +1,19 @@
 {
-    "pk": 768,
-    "lc": "bln",
+    "gw": false,
     "ISO-639-3": "bln",
-    "ln": "Southern Catanduanes Bikol",
-    "ang": "Bikol, Southern Catanduanes",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 768,
     "lr": "Asia",
+    "lc": "bln",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Southern Catanduanes Bikolano",
         "Virac"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bikol, Southern Catanduanes",
+    "gwcode": "en",
+    "ln": "Southern Catanduanes Bikol"
 }

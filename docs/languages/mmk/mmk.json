@@ -1,11 +1,14 @@
 {
-    "pk": 3959,
-    "lc": "mmk",
+    "gw": false,
     "ISO-639-3": "mmk",
-    "ln": "Mukha-Dora",
-    "ang": "Mukha-Dora",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3959,
     "lr": "Asia",
+    "lc": "mmk",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Conta-Reddi",
         "Mukha Dhora",
@@ -14,10 +17,7 @@
         "Reddi-Dora",
         "Riddi"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "te"
+    "ang": "Mukha-Dora",
+    "gwcode": "te",
+    "ln": "Mukha-Dora"
 }

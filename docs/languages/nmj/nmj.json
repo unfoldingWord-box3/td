@@ -1,20 +1,20 @@
 {
-    "pk": 4543,
-    "lc": "nmj",
+    "gw": false,
     "ISO-639-3": "nmj",
-    "ln": "Ngombe (Central African Republic)",
-    "ang": "Ngombe",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 4543,
     "lr": "Africa",
+    "lc": "nmj",
+    "cc": [
+        "CF"
+    ],
     "alt": [
         "Bagando-Ngombe",
         "Bangando-Ngombe",
         "Ngombe-Kaka"
     ],
-    "cc": [
-        "CF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ngombe",
+    "gwcode": "fr",
+    "ln": "Ngombe (Central African Republic)"
 }

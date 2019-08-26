@@ -1,18 +1,18 @@
 {
-    "pk": 2807,
-    "lc": "key",
+    "gw": false,
     "ISO-639-3": "key",
-    "ln": "Kupia",
-    "ang": "Kupia",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2807,
     "lr": "Asia",
-    "alt": [
-        "Valmiki"
-    ],
+    "lc": "key",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "te"
+    "alt": [
+        "Valmiki"
+    ],
+    "ang": "Kupia",
+    "gwcode": "te",
+    "ln": "Kupia"
 }

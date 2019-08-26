@@ -1,21 +1,21 @@
 {
-    "pk": 6709,
-    "lc": "wdj",
+    "gw": false,
     "ISO-639-3": "wdj",
-    "ln": "Wadjiginy",
-    "ang": "Wadjiginy",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6709,
     "lr": "Pacific",
+    "lc": "wdj",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Wagaydy",
         "Wogaity",
         "Patjtjamalh",
         "Pungupungu (Kandjerramal)"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Wadjiginy",
+    "gwcode": "en",
+    "ln": "Wadjiginy"
 }

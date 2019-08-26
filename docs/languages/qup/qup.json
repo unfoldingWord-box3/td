@@ -1,18 +1,18 @@
 {
-    "pk": 5260,
-    "lc": "qup",
+    "gw": false,
     "ISO-639-3": "qup",
-    "ln": "Southern Pastaza Quechua",
-    "ang": "Quechua, Southern Pastaza",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 5260,
     "lr": "Americas",
-    "alt": [
-        "Inga"
-    ],
+    "lc": "qup",
     "cc": [
         "PE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Inga"
+    ],
+    "ang": "Quechua, Southern Pastaza",
+    "gwcode": "es-419",
+    "ln": "Southern Pastaza Quechua"
 }

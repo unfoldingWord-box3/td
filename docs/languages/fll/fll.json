@@ -1,11 +1,14 @@
 {
-    "pk": 1852,
-    "lc": "fll",
+    "gw": false,
     "ISO-639-3": "fll",
-    "ln": "North Fali",
-    "ang": "Fali, North",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 1852,
     "lr": "Africa",
+    "lc": "fll",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bossoum (Bonum)",
         "Bveri (Bori)",
@@ -14,10 +17,7 @@
         "Fali-Bossoum",
         "Peske"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Fali, North",
+    "gwcode": "fr",
+    "ln": "North Fali"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 6262,
-    "lc": "tox",
+    "gw": false,
     "ISO-639-3": "tox",
-    "ln": "Tobian",
-    "ang": "Tobian",
     "hc": "PW",
+    "ld": "ltr",
+    "pk": 6262,
     "lr": "Pacific",
+    "lc": "tox",
+    "cc": [
+        "PW"
+    ],
     "alt": [
         "Hatohobei",
         "Tobi"
     ],
-    "cc": [
-        "PW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tobian",
+    "gwcode": "en",
+    "ln": "Tobian"
 }

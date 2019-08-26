@@ -1,11 +1,14 @@
 {
-    "pk": 3519,
-    "lc": "lmh",
+    "gw": false,
     "ISO-639-3": "lmh",
-    "ln": "Lambichhong",
-    "ang": "Mugali",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 3519,
     "lr": "Asia",
+    "lc": "lmh",
+    "cc": [
+        "NP"
+    ],
     "alt": [
         "Lambicchong",
         "Lambichong",
@@ -13,10 +16,7 @@
         "Phangduwali Mugali",
         "Phangdhuwali"
     ],
-    "cc": [
-        "NP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Mugali",
+    "gwcode": "ne",
+    "ln": "Lambichhong"
 }

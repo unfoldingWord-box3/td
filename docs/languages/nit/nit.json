@@ -1,18 +1,18 @@
 {
-    "pk": 4471,
-    "lc": "nit",
+    "gw": false,
     "ISO-639-3": "nit",
-    "ln": "Southeastern Kolami",
-    "ang": "Kolami, Southeastern",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4471,
     "lr": "Asia",
-    "alt": [
-        "Metla-Kinwat"
-    ],
+    "lc": "nit",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "te"
+    "alt": [
+        "Metla-Kinwat"
+    ],
+    "ang": "Kolami, Southeastern",
+    "gwcode": "te",
+    "ln": "Southeastern Kolami"
 }

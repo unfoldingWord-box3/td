@@ -1,18 +1,18 @@
 {
-    "pk": 2384,
-    "lc": "huv",
+    "gw": false,
     "ISO-639-3": "huv",
-    "ln": "San Mateo Del Mar Huave",
-    "ang": "Huave, San Mateo del Mar",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 2384,
     "lr": "Americas",
-    "alt": [
-        "Huave del Oeste"
-    ],
+    "lc": "huv",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Huave del Oeste"
+    ],
+    "ang": "Huave, San Mateo del Mar",
+    "gwcode": "es-419",
+    "ln": "San Mateo Del Mar Huave"
 }

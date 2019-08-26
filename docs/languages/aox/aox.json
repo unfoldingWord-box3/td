@@ -1,21 +1,21 @@
 {
-    "pk": 299,
-    "lc": "aox",
+    "gw": false,
     "ISO-639-3": "aox",
-    "ln": "Atorada",
-    "ang": "Atorada",
     "hc": "GY",
+    "ld": "ltr",
+    "pk": 299,
     "lr": "Americas",
+    "lc": "aox",
+    "cc": [
+        "GY"
+    ],
     "alt": [
         "Atorad",
         "Atorai",
         "Ator'ti",
         "Dauri"
     ],
-    "cc": [
-        "GY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Atorada",
+    "gwcode": "es-419",
+    "ln": "Atorada"
 }

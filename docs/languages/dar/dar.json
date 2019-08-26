@@ -1,11 +1,19 @@
 {
-    "pk": 1434,
-    "lc": "dar",
+    "gw": false,
     "ISO-639-3": "dar",
-    "ln": "\u0414\u0430\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0439",
-    "ang": "Dargwa",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 1434,
     "lr": "Europe",
+    "lc": "dar",
+    "cc": [
+        "AZ",
+        "KZ",
+        "RU",
+        "KG",
+        "TM",
+        "UZ"
+    ],
     "alt": [
         "Dargi",
         "Dargin",
@@ -25,15 +33,7 @@
         "Chirag",
         "Kubachi (Kubachin)"
     ],
-    "cc": [
-        "AZ",
-        "KZ",
-        "RU",
-        "KG",
-        "TM",
-        "UZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Dargwa",
+    "gwcode": "ru",
+    "ln": "\u0414\u0430\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0439"
 }

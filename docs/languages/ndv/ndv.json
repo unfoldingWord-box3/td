@@ -1,18 +1,18 @@
 {
-    "pk": 4373,
-    "lc": "ndv",
+    "gw": false,
     "ISO-639-3": "ndv",
-    "ln": "Ndut",
-    "ang": "Ndut",
     "hc": "SN",
+    "ld": "ltr",
+    "pk": 4373,
     "lr": "Africa",
-    "alt": [
-        "Ndoute"
-    ],
+    "lc": "ndv",
     "cc": [
         "SN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Ndoute"
+    ],
+    "ang": "Ndut",
+    "gwcode": "fr",
+    "ln": "Ndut"
 }

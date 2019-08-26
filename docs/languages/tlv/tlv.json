@@ -1,11 +1,14 @@
 {
-    "pk": 6192,
-    "lc": "tlv",
+    "gw": false,
     "ISO-639-3": "tlv",
-    "ln": "Taliabu",
-    "ang": "Taliabu",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6192,
     "lr": "Asia",
+    "lc": "tlv",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Taliabo",
         "Soboyo",
@@ -15,10 +18,7 @@
         "Padang (Samada)",
         "Sobojo"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Taliabu",
+    "gwcode": "id",
+    "ln": "Taliabu"
 }

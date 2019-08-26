@@ -1,21 +1,21 @@
 {
-    "pk": 4815,
-    "lc": "old",
+    "gw": false,
     "ISO-639-3": "old",
-    "ln": "Mochi",
-    "ang": "Mochi",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 4815,
     "lr": "Africa",
+    "lc": "old",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kimochi",
         "Kimoshi",
         "Moshi",
         "Mosi"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Mochi",
+    "gwcode": "sw",
+    "ln": "Mochi"
 }

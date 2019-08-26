@@ -1,19 +1,19 @@
 {
-    "pk": 1835,
-    "lc": "ffi",
+    "gw": false,
     "ISO-639-3": "ffi",
-    "ln": "Foia Foia",
-    "ang": "Foia Foia",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1835,
     "lr": "Pacific",
+    "lc": "ffi",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Foiafoia",
         "Foyafoya"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Foia Foia",
+    "gwcode": "tpi",
+    "ln": "Foia Foia"
 }

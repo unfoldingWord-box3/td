@@ -1,11 +1,14 @@
 {
-    "pk": 3420,
-    "lc": "let",
+    "gw": false,
     "ISO-639-3": "let",
-    "ln": "Lesing-Gelimi",
-    "ang": "Amio-Gelimi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3420,
     "lr": "Pacific",
+    "lc": "let",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Amio",
         "Atui",
@@ -13,10 +16,7 @@
         "Lesing-Gelimi",
         "Poronga"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Amio-Gelimi",
+    "gwcode": "tpi",
+    "ln": "Lesing-Gelimi"
 }

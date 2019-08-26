@@ -1,20 +1,20 @@
 {
-    "pk": 1519,
-    "lc": "dia",
+    "gw": false,
     "ISO-639-3": "dia",
-    "ln": "Dia",
-    "ang": "Dia",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1519,
     "lr": "Pacific",
+    "lc": "dia",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Alu",
         "Galu",
         "Metru"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Dia",
+    "gwcode": "tpi",
+    "ln": "Dia"
 }

@@ -1,0 +1,22 @@
+.. _htx:
+
+Middle Hittite
+==============
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: htx
+    alternate_names: []
+    anglicanized_name: Middle Hittite
+    country_codes:
+    - TR
+    gateway_language: UNKNOWN
+    lang_code: htx
+    lang_direction: ltr
+    lang_name: Middle Hittite
+    lang_region: Asia
+    

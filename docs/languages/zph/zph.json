@@ -1,19 +1,19 @@
 {
-    "pk": 7444,
-    "lc": "zph",
+    "gw": false,
     "ISO-639-3": "zph",
-    "ln": "Totomachapan Zapotec",
-    "ang": "Zapotec, Totomachapan",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7444,
     "lr": "Americas",
+    "lc": "zph",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Western Zimatl\u00e1n Zapotec",
         "Zapoteco de San Pedro Totomachapan"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Totomachapan",
+    "gwcode": "es-419",
+    "ln": "Totomachapan Zapotec"
 }

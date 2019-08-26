@@ -1,20 +1,20 @@
 {
-    "pk": 5885,
-    "lc": "sur",
+    "gw": false,
     "ISO-639-3": "sur",
-    "ln": "Mwaghavul",
-    "ang": "Mwaghavul",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 5885,
     "lr": "Africa",
+    "lc": "sur",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Sura",
         "Mapun",
         "Mupun (Mapan)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mwaghavul",
+    "gwcode": "en",
+    "ln": "Mwaghavul"
 }

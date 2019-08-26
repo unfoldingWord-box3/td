@@ -1,18 +1,18 @@
 {
-    "pk": 5981,
-    "lc": "tax",
+    "gw": false,
     "ISO-639-3": "tax",
-    "ln": "Tamki",
-    "ang": "Tamki",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 5981,
     "lr": "Africa",
-    "alt": [
-        "Temki"
-    ],
+    "lc": "tax",
     "cc": [
         "TD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Temki"
+    ],
+    "ang": "Tamki",
+    "gwcode": "ar",
+    "ln": "Tamki"
 }

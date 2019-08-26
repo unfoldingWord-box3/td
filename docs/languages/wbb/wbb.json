@@ -1,19 +1,19 @@
 {
-    "pk": 6690,
-    "lc": "wbb",
+    "gw": false,
     "ISO-639-3": "wbb",
-    "ln": "Wabo",
-    "ang": "Wabo",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6690,
     "lr": "Asia",
+    "lc": "wbb",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Nusari",
         "Woriasi"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Wabo",
+    "gwcode": "id",
+    "ln": "Wabo"
 }

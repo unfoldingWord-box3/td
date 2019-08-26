@@ -1,19 +1,19 @@
 {
-    "pk": 5415,
-    "lc": "rop",
+    "gw": false,
     "ISO-639-3": "rop",
-    "ln": "Kriol",
-    "ang": "Kriol",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 5415,
     "lr": "Pacific",
+    "lc": "rop",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Roper-Bamyili Creole",
         "Roper River Kriol (Roper River Pidgin)"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kriol",
+    "gwcode": "en",
+    "ln": "Kriol"
 }

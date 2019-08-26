@@ -1,22 +1,22 @@
 {
-    "pk": 1636,
-    "lc": "dsq",
+    "gw": false,
     "ISO-639-3": "dsq",
-    "ln": "Tadaksahak",
-    "ang": "Tadaksahak",
     "hc": "ML",
+    "ld": "ltr",
+    "pk": 1636,
     "lr": "Africa",
+    "lc": "dsq",
+    "cc": [
+        "DZ",
+        "ML"
+    ],
     "alt": [
         "Daosahaq",
         "Daoussahaq",
         "Daoussak",
         "Dawsahaq"
     ],
-    "cc": [
-        "DZ",
-        "ML"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Tadaksahak",
+    "gwcode": "fr",
+    "ln": "Tadaksahak"
 }

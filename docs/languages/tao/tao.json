@@ -1,11 +1,14 @@
 {
-    "pk": 5974,
-    "lc": "tao",
+    "gw": false,
     "ISO-639-3": "tao",
-    "ln": "Yami",
-    "ang": "Yami",
     "hc": "TW",
+    "ld": "ltr",
+    "pk": 5974,
     "lr": "Asia",
+    "lc": "tao",
+    "cc": [
+        "TW"
+    ],
     "alt": [
         "Botel Tabago",
         "Botel Tobago",
@@ -13,10 +16,7 @@
         "Tao",
         "Tawu"
     ],
-    "cc": [
-        "TW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Yami",
+    "gwcode": "zh",
+    "ln": "Yami"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 5870,
-    "lc": "stt",
+    "gw": false,
     "ISO-639-3": "stt",
-    "ln": "Xti\u00eang",
-    "ang": "Stieng, Budeh",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 5870,
     "lr": "Asia",
+    "lc": "stt",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Lower Stieng",
         "Southern Stieng"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Stieng, Budeh",
+    "gwcode": "vi",
+    "ln": "Xti\u00eang"
 }

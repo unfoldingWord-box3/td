@@ -1,20 +1,20 @@
 {
-    "pk": 3703,
-    "lc": "mcb",
+    "gw": false,
     "ISO-639-3": "mcb",
-    "ln": "Machiguenga",
-    "ang": "Machiguenga",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 3703,
     "lr": "Americas",
+    "lc": "mcb",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Ma\u00f1aries",
         "Matsiganga",
         "Matsigenka"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Machiguenga",
+    "gwcode": "es-419",
+    "ln": "Machiguenga"
 }

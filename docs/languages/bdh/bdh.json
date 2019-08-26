@@ -1,20 +1,20 @@
 {
-    "pk": 566,
-    "lc": "bdh",
+    "gw": false,
     "ISO-639-3": "bdh",
-    "ln": "Baka (Sudan)",
-    "ang": "Baka",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 566,
     "lr": "Africa",
-    "alt": [
-        "Tara Baaka",
-        "Tara Baka"
-    ],
+    "lc": "bdh",
     "cc": [
         "SS",
         "SD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Tara Baaka",
+        "Tara Baka"
+    ],
+    "ang": "Baka",
+    "gwcode": "ar",
+    "ln": "Baka (Sudan)"
 }

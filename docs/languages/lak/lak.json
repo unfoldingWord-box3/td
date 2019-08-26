@@ -1,20 +1,20 @@
 {
-    "pk": 3344,
-    "lc": "lak",
+    "gw": false,
     "ISO-639-3": "lak",
-    "ln": "Laka (Nigeria)",
-    "ang": "Laka",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3344,
     "lr": "Africa",
+    "lc": "lak",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Godogodo",
         "Lao Habe",
         "Lau"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Laka",
+    "gwcode": "en",
+    "ln": "Laka (Nigeria)"
 }

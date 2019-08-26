@@ -1,19 +1,19 @@
 {
-    "pk": 983,
-    "lc": "buo",
+    "gw": false,
     "ISO-639-3": "buo",
-    "ln": "Terei",
-    "ang": "Terei",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 983,
     "lr": "Pacific",
+    "lc": "buo",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kugara",
         "Telei"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Terei",
+    "gwcode": "tpi",
+    "ln": "Terei"
 }

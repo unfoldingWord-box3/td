@@ -1,20 +1,20 @@
 {
-    "pk": 6057,
-    "lc": "tef",
+    "gw": false,
     "ISO-639-3": "tef",
-    "ln": "Teressa",
-    "ang": "Teressa",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6057,
     "lr": "Asia",
+    "lc": "tef",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Taih-Long",
         "Bompoka (Bompaka)",
         "Pauhut"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Teressa",
+    "gwcode": "hi",
+    "ln": "Teressa"
 }

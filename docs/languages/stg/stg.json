@@ -1,11 +1,14 @@
 {
-    "pk": 5857,
-    "lc": "stg",
+    "gw": false,
     "ISO-639-3": "stg",
-    "ln": "Trieng",
-    "ang": "Trieng",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 5857,
     "lr": "Asia",
+    "lc": "stg",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Dgi\u00e9h",
         "Giang Ray",
@@ -17,10 +20,7 @@
         "Ta-Rieng",
         "Treng"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Trieng",
+    "gwcode": "vi",
+    "ln": "Trieng"
 }

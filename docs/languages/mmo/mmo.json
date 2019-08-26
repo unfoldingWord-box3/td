@@ -1,19 +1,19 @@
 {
-    "pk": 3963,
-    "lc": "mmo",
+    "gw": false,
     "ISO-639-3": "mmo",
-    "ln": "Mangga Buang",
-    "ang": "Buang, Mangga",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3963,
     "lr": "Pacific",
+    "lc": "mmo",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kaidemui",
         "Manga Buang"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Buang, Mangga",
+    "gwcode": "tpi",
+    "ln": "Mangga Buang"
 }

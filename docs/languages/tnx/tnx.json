@@ -1,19 +1,19 @@
 {
-    "pk": 6240,
-    "lc": "tnx",
+    "gw": false,
     "ISO-639-3": "tnx",
-    "ln": "Tanema",
-    "ang": "Tanema",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 6240,
     "lr": "Pacific",
+    "lc": "tnx",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Tetau",
         "Tetawo"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Tanema",
+    "gwcode": "UNKNOWN",
+    "ln": "Tanema"
 }

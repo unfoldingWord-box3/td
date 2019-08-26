@@ -1,11 +1,14 @@
 {
-    "pk": 374,
-    "lc": "ast",
+    "gw": false,
     "ISO-639-3": "ast",
-    "ln": "Asturian",
-    "ang": "Asturian",
     "hc": "ES",
+    "ld": "ltr",
+    "pk": 374,
     "lr": "Europe",
+    "lc": "ast",
+    "cc": [
+        "ES"
+    ],
     "alt": [
         "Asturian-Leonese",
         "Asturianu",
@@ -14,10 +17,7 @@
         "Monta\u00f1es",
         "Central Asturian (Bable)"
     ],
-    "cc": [
-        "ES"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es"
+    "ang": "Asturian",
+    "gwcode": "es",
+    "ln": "Asturian"
 }

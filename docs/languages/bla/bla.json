@@ -1,11 +1,15 @@
 {
-    "pk": 755,
-    "lc": "bla",
+    "gw": false,
     "ISO-639-3": "bla",
-    "ln": "Siksika",
-    "ang": "Blackfoot",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 755,
     "lr": "Americas",
+    "lc": "bla",
+    "cc": [
+        "US",
+        "CA"
+    ],
     "alt": [
         "Blackfeet",
         "Pied Noir",
@@ -13,11 +17,7 @@
         "Blood (Kainaa)",
         "Piegan (Peigan)"
     ],
-    "cc": [
-        "US",
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Blackfoot",
+    "gwcode": "en",
+    "ln": "Siksika"
 }

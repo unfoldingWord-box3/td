@@ -1,11 +1,18 @@
 {
-    "pk": 4928,
-    "lc": "pap",
+    "gw": false,
     "ISO-639-3": "pap",
-    "ln": "Papiamento",
-    "ang": "Papiamentu",
     "hc": "CW",
+    "ld": "ltr",
+    "pk": 4928,
     "lr": "Americas",
+    "lc": "pap",
+    "cc": [
+        "DE",
+        "NL",
+        "SX",
+        "CA",
+        "CW"
+    ],
     "alt": [
         "Papiam",
         "Papiamentoe",
@@ -16,14 +23,7 @@
         "Papiments",
         "Papia Mentaie"
     ],
-    "cc": [
-        "DE",
-        "NL",
-        "SX",
-        "CA",
-        "CW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "nl"
+    "ang": "Papiamentu",
+    "gwcode": "UNKNOWN",
+    "ln": "Papiamento"
 }

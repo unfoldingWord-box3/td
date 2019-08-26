@@ -1,21 +1,21 @@
 {
-    "pk": 4829,
-    "lc": "oml",
+    "gw": false,
     "ISO-639-3": "oml",
-    "ln": "Ombo",
-    "ang": "Ombo",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 4829,
     "lr": "Africa",
+    "lc": "oml",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Hombo",
         "Loombo",
         "Songola",
         "Mbuli (Mbole)"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ombo",
+    "gwcode": "fr",
+    "ln": "Ombo"
 }

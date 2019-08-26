@@ -1,21 +1,21 @@
 {
-    "pk": 3193,
-    "lc": "kul",
+    "gw": false,
     "ISO-639-3": "kul",
-    "ln": "Kulere",
-    "ang": "Kulere",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3193,
     "lr": "Africa",
+    "lc": "kul",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Akande",
         "Akandi",
         "Kande",
         "Korom Boye"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kulere",
+    "gwcode": "en",
+    "ln": "Kulere"
 }

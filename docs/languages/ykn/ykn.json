@@ -1,20 +1,20 @@
 {
-    "pk": 7204,
-    "lc": "ykn",
+    "gw": false,
     "ISO-639-3": "ykn",
-    "ln": "\u8de8\u6069\u65af\u8bdd",
-    "ang": "Kua-nsi",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7204,
     "lr": "Asia",
+    "lc": "ykn",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Baiyi ren",
         "Kua'ensi",
         "Kua'eshi"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Kua-nsi",
+    "gwcode": "zh",
+    "ln": "\u8de8\u6069\u65af\u8bdd"
 }

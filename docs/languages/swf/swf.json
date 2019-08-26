@@ -1,11 +1,14 @@
 {
-    "pk": 5906,
-    "lc": "swf",
+    "gw": false,
     "ISO-639-3": "swf",
-    "ln": "Sere",
-    "ang": "Sere",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5906,
     "lr": "Africa",
+    "lc": "swf",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Basili",
         "Basiri",
@@ -17,10 +20,7 @@
         "Sili",
         "Siri"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Sere",
+    "gwcode": "fr",
+    "ln": "Sere"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 121,
-    "lc": "afz",
+    "gw": false,
     "ISO-639-3": "afz",
-    "ln": "Obokuitai",
-    "ang": "Obokuitai",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 121,
     "lr": "Asia",
+    "lc": "afz",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Aliki",
         "Ati",
         "Obogwitai"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Obokuitai",
+    "gwcode": "id",
+    "ln": "Obokuitai"
 }

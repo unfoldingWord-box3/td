@@ -1,11 +1,14 @@
 {
-    "pk": 3268,
-    "lc": "kxl",
+    "gw": false,
     "ISO-639-3": "kxl",
-    "ln": "\u0915\u0941\u0921\u093c\u0941\u0916\u093c",
-    "ang": "Kurux, Nepali",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 3268,
     "lr": "Asia",
+    "lc": "kxl",
+    "cc": [
+        "NP"
+    ],
     "alt": [
         "Dhangar",
         "Jangad",
@@ -17,10 +20,7 @@
         "Uraon",
         "Uraw"
     ],
-    "cc": [
-        "NP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Kurux, Nepali",
+    "gwcode": "ne",
+    "ln": "\u0915\u0941\u0921\u093c\u0941\u0916\u093c"
 }

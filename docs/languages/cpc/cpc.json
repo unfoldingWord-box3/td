@@ -1,11 +1,14 @@
 {
-    "pk": 1310,
-    "lc": "cpc",
+    "gw": false,
     "ISO-639-3": "cpc",
-    "ln": "Ajy\u00edninka Apurucayali",
-    "ang": "Ajy\u00edninka Apurucayali",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 1310,
     "lr": "Americas",
+    "lc": "cpc",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Ajy\u00e9ninka",
         "Apurucayali Campa",
@@ -14,10 +17,7 @@
         "Axininka Campa",
         "Campa"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Ajy\u00edninka Apurucayali",
+    "gwcode": "es-419",
+    "ln": "Ajy\u00edninka Apurucayali"
 }

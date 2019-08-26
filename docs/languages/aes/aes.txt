@@ -1,0 +1,22 @@
+.. _aes:
+
+Alsea
+=====
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: aes
+    alternate_names: []
+    anglicanized_name: Alsea
+    country_codes:
+    - US
+    gateway_language: UNKNOWN
+    lang_code: aes
+    lang_direction: ltr
+    lang_name: Alsea
+    lang_region: Americas
+    

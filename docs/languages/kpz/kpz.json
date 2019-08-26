@@ -1,11 +1,15 @@
 {
-    "pk": 3082,
-    "lc": "kpz",
+    "gw": false,
     "ISO-639-3": "kpz",
-    "ln": "Kupsabiny",
-    "ang": "Kupsapiiny",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 3082,
     "lr": "Africa",
+    "lc": "kpz",
+    "cc": [
+        "SD",
+        "UG"
+    ],
     "alt": [
         "Kuksabin",
         "Kupsabiny",
@@ -13,11 +17,7 @@
         "Kongasis",
         "Kween (Sor)"
     ],
-    "cc": [
-        "SD",
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kupsapiiny",
+    "gwcode": "en",
+    "ln": "Kupsabiny"
 }

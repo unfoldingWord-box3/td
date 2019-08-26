@@ -1,19 +1,19 @@
 {
-    "pk": 6516,
-    "lc": "uma",
+    "gw": false,
     "ISO-639-3": "uma",
-    "ln": "Umatilla",
-    "ang": "Umatilla",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 6516,
     "lr": "Americas",
+    "lc": "uma",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Columbia River Sahaptin",
         "Ichishk\u00edin"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Umatilla",
+    "gwcode": "en",
+    "ln": "Umatilla"
 }

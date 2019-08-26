@@ -1,0 +1,68 @@
+.. _bn:
+
+বাংলা
+===============
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ben>`_ identifies this language as ``ben``.
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* FR: France
+* DE: Germany
+* KE: Kenya
+* LK: Sri Lanka
+* GB: United Kingdom of Great Britain and Northern Ireland
+* MY: Malaysia
+* OM: Oman
+* NP: Nepal
+* PK: Pakistan
+* SA: Saudi Arabia
+* TH: Thailand
+* US: United States of America
+* CA: Canada
+* IT: Italy
+* IN: India
+* SG: Singapore
+* MM: Myanmar
+* AE: United Arab Emirates
+
+.. code-block:: yaml
+
+    ISO_639-3: ben
+    alternate_names:
+    - Bangala
+    - Bangla-Bhasa
+    - Siripuria (Kishanganjia)
+    - Barisal
+    - Khulna
+    - Lohari-Malpaharia
+    - Mymensingh
+    - Noakhali
+    anglicanized_name: Bengali, Bangla
+    country_codes:
+    - BD
+    - FR
+    - DE
+    - KE
+    - LK
+    - GB
+    - MY
+    - OM
+    - NP
+    - PK
+    - SA
+    - TH
+    - US
+    - CA
+    - IT
+    - IN
+    - SG
+    - MM
+    - AE
+    gateway_language: UNKNOWN
+    lang_code: bn
+    lang_direction: ltr
+    lang_name: বাংলা
+    lang_region: Asia
+    

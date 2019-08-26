@@ -1,11 +1,14 @@
 {
-    "pk": 550,
-    "lc": "bcq",
+    "gw": false,
     "ISO-639-3": "bcq",
-    "ln": "Bench",
-    "ang": "Bench",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 550,
     "lr": "Africa",
+    "lc": "bcq",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Dizu",
         "Ghimarra",
@@ -17,10 +20,7 @@
         "Bench (Bencho)",
         "She (Kaba)"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Bench",
+    "gwcode": "am",
+    "ln": "Bench"
 }

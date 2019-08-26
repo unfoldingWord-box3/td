@@ -1,11 +1,14 @@
 {
-    "pk": 1730,
-    "lc": "elo",
+    "gw": false,
     "ISO-639-3": "elo",
-    "ln": "El Molo",
-    "ang": "El Molo",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 1730,
     "lr": "Africa",
+    "lc": "elo",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Dehes",
         "Elmolo",
@@ -13,10 +16,7 @@
         "Ldes",
         "Ndorobo"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "El Molo",
+    "gwcode": "sw",
+    "ln": "El Molo"
 }

@@ -1,22 +1,22 @@
 {
-    "pk": 640,
-    "lc": "bgf",
+    "gw": false,
     "ISO-639-3": "bgf",
-    "ln": "Bangandu",
-    "ang": "Bangandu",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 640,
     "lr": "Africa",
+    "lc": "bgf",
+    "cc": [
+        "CM",
+        "CG"
+    ],
     "alt": [
         "Bagando",
         "Bangando",
         "Bangantu",
         "Southern Bangantu"
     ],
-    "cc": [
-        "CM",
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bangandu",
+    "gwcode": "fr",
+    "ln": "Bangandu"
 }

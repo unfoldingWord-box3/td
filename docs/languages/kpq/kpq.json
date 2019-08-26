@@ -1,21 +1,21 @@
 {
-    "pk": 3073,
-    "lc": "kpq",
+    "gw": false,
     "ISO-639-3": "kpq",
-    "ln": "Korupun-Sela",
-    "ang": "Korupun-Sela",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3073,
     "lr": "Asia",
+    "lc": "kpq",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kimyal of Korupun",
         "Korapun",
         "Korupun (Duram)",
         "Sisibna (Gobugdua)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Korupun-Sela",
+    "gwcode": "id",
+    "ln": "Korupun-Sela"
 }

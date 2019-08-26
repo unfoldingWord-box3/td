@@ -1,20 +1,20 @@
 {
-    "pk": 6254,
-    "lc": "too",
+    "gw": false,
     "ISO-639-3": "too",
-    "ln": "Xicotepec De Ju\u00e1rez Totonac",
-    "ang": "Totonac, Xicotepec de Ju\u00e1rez",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 6254,
     "lr": "Americas",
+    "lc": "too",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Northern Totonac",
         "Totonaco de Villa Ju\u00e1rez",
         "Zihuateutla Totonac"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Totonac, Xicotepec de Ju\u00e1rez",
+    "gwcode": "es-419",
+    "ln": "Xicotepec De Ju\u00e1rez Totonac"
 }

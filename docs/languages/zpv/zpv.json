@@ -1,19 +1,19 @@
 {
-    "pk": 7458,
-    "lc": "zpv",
+    "gw": false,
     "ISO-639-3": "zpv",
-    "ln": "Chichicapan Zapotec",
-    "ang": "Zapotec, Chichicapan",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7458,
     "lr": "Americas",
+    "lc": "zpv",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Eastern Ocotl\u00e1n Zapotec",
         "Zapoteco de San Baltazar Chichicapan"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Chichicapan",
+    "gwcode": "es-419",
+    "ln": "Chichicapan Zapotec"
 }

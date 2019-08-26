@@ -1,11 +1,14 @@
 {
-    "pk": 2341,
-    "lc": "hpo",
+    "gw": false,
     "ISO-639-3": "hpo",
-    "ln": "Hpon",
-    "ang": "Hpon",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 2341,
     "lr": "Asia",
+    "lc": "hpo",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Hp\u00f6n",
         "Megyaw",
@@ -16,10 +19,7 @@
         "North Hpon",
         "South Hpon"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Hpon",
+    "gwcode": "my",
+    "ln": "Hpon"
 }

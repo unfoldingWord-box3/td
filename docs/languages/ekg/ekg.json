@@ -1,11 +1,14 @@
 {
-    "pk": 1715,
-    "lc": "ekg",
+    "gw": false,
     "ISO-639-3": "ekg",
-    "ln": "Ekari",
-    "ang": "Ekari",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1715,
     "lr": "Asia",
+    "lc": "ekg",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Ekagi",
         "Kapauku",
@@ -16,10 +19,7 @@
         "Yabi (Jabi)",
         "Mee"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Ekari",
+    "gwcode": "id",
+    "ln": "Ekari"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 4512,
-    "lc": "nkt",
+    "gw": false,
     "ISO-639-3": "nkt",
-    "ln": "Nyika",
-    "ang": "Nyika, Kinyika",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 4512,
     "lr": "Africa",
+    "lc": "nkt",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kinyiha",
         "Kinyika"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Nyika, Kinyika",
+    "gwcode": "sw",
+    "ln": "Nyika"
 }

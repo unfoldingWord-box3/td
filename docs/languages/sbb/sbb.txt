@@ -1,0 +1,25 @@
+.. _sbb:
+
+Simbo
+=====
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: sbb
+    alternate_names:
+    - Madeggusu
+    - Mandeghughusu
+    - Sibo
+    anglicanized_name: Simbo
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: sbb
+    lang_direction: ltr
+    lang_name: Simbo
+    lang_region: Pacific
+    

@@ -1,18 +1,18 @@
 {
-    "pk": 891,
-    "lc": "bqs",
+    "gw": false,
     "ISO-639-3": "bqs",
-    "ln": "Bosngun",
-    "ang": "Bosmun",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 891,
     "lr": "Pacific",
-    "alt": [
-        "Bosngun"
-    ],
+    "lc": "bqs",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Bosngun"
+    ],
+    "ang": "Bosmun",
+    "gwcode": "tpi",
+    "ln": "Bosngun"
 }

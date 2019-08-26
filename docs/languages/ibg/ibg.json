@@ -1,18 +1,18 @@
 {
-    "pk": 2407,
-    "lc": "ibg",
+    "gw": false,
     "ISO-639-3": "ibg",
-    "ln": "Ibanag",
-    "ang": "Ibanag",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2407,
     "lr": "Asia",
-    "alt": [
-        "Ybanag"
-    ],
+    "lc": "ibg",
     "cc": [
         "PH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "alt": [
+        "Ybanag"
+    ],
+    "ang": "Ibanag",
+    "gwcode": "ilo",
+    "ln": "Ibanag"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 2401,
-    "lc": "ian",
+    "gw": false,
     "ISO-639-3": "ian",
-    "ln": "Iatmul",
-    "ang": "Iatmul",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2401,
     "lr": "Pacific",
+    "lc": "ian",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Big Sepik",
         "Gepma Kwudi",
         "Gepma Kwundi",
         "Ngepma Kwundi"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Iatmul",
+    "gwcode": "tpi",
+    "ln": "Iatmul"
 }

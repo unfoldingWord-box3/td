@@ -1,18 +1,18 @@
 {
-    "pk": 1750,
-    "lc": "enc",
+    "gw": false,
     "ISO-639-3": "enc",
-    "ln": "En",
-    "ang": "En",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 1750,
     "lr": "Asia",
-    "alt": [
-        "Nung Ven"
-    ],
+    "lc": "enc",
     "cc": [
         "VN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "alt": [
+        "Nung Ven"
+    ],
+    "ang": "En",
+    "gwcode": "vi",
+    "ln": "En"
 }

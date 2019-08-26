@@ -1,18 +1,18 @@
 {
-    "pk": 4253,
-    "lc": "myo",
+    "gw": false,
     "ISO-639-3": "myo",
-    "ln": "Anfillo",
-    "ang": "Anfillo",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 4253,
     "lr": "Africa",
-    "alt": [
-        "Southern Mao"
-    ],
+    "lc": "myo",
     "cc": [
         "ET"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "alt": [
+        "Southern Mao"
+    ],
+    "ang": "Anfillo",
+    "gwcode": "am",
+    "ln": "Anfillo"
 }

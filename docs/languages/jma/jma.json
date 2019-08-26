@@ -1,19 +1,19 @@
 {
-    "pk": 2638,
-    "lc": "jma",
+    "gw": false,
     "ISO-639-3": "jma",
-    "ln": "Dima",
-    "ang": "Dima",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2638,
     "lr": "Pacific",
+    "lc": "jma",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Dimadima",
         "Jimajima"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Dima",
+    "gwcode": "tpi",
+    "ln": "Dima"
 }

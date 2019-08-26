@@ -1,11 +1,14 @@
 {
-    "pk": 6493,
-    "lc": "uji",
+    "gw": false,
     "ISO-639-3": "uji",
-    "ln": "Tanjijili",
-    "ang": "Tanjijili",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 6493,
     "lr": "Africa",
+    "lc": "uji",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Jijili",
         "Koro",
@@ -14,10 +17,7 @@
         "Koro Funtu of Shakoyi",
         "Ujijili"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tanjijili",
+    "gwcode": "en",
+    "ln": "Tanjijili"
 }

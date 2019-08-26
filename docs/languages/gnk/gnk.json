@@ -1,11 +1,14 @@
 {
-    "pk": 2079,
-    "lc": "gnk",
+    "gw": false,
     "ISO-639-3": "gnk",
-    "ln": "\u01c1Gana",
-    "ang": "||Gana",
     "hc": "BW",
+    "ld": "ltr",
+    "pk": 2079,
     "lr": "Africa",
+    "lc": "gnk",
+    "cc": [
+        "BW"
+    ],
     "alt": [
         "Dxana",
         "G||ana-Khwe",
@@ -17,10 +20,7 @@
         "|Khess\u00e1khoe",
         "G||aa"
     ],
-    "cc": [
-        "BW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "||Gana",
+    "gwcode": "en",
+    "ln": "\u01c1Gana"
 }

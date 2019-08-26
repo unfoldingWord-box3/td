@@ -1,11 +1,15 @@
 {
-    "pk": 2878,
-    "lc": "khw",
+    "gw": false,
     "ISO-639-3": "khw",
-    "ln": "\u06a9\u0647\u0648\u0648\u0627\u0631",
-    "ang": "Khowar",
     "hc": "PK",
+    "ld": "rtl",
+    "pk": 2878,
     "lr": "Asia",
+    "lc": "khw",
+    "cc": [
+        "AF",
+        "PK"
+    ],
     "alt": [
         "Arniya",
         "Chitrali",
@@ -16,11 +20,7 @@
         "Patu",
         "Qashqari"
     ],
-    "cc": [
-        "AF",
-        "PK"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ur"
+    "ang": "Khowar",
+    "gwcode": "ur",
+    "ln": "\u06a9\u0647\u0648\u0648\u0627\u0631"
 }

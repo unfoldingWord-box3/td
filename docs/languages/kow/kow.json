@@ -1,21 +1,21 @@
 {
-    "pk": 3056,
-    "lc": "kow",
+    "gw": false,
     "ISO-639-3": "kow",
-    "ln": "Kugama",
-    "ang": "Kugama",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3056,
     "lr": "Africa",
+    "lc": "kow",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kugamma",
         "Wegam",
         "Yamale",
         "Yamalo"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kugama",
+    "gwcode": "en",
+    "ln": "Kugama"
 }

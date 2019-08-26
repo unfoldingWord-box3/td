@@ -1,11 +1,14 @@
 {
-    "pk": 5798,
-    "lc": "sqq",
+    "gw": false,
     "ISO-639-3": "sqq",
-    "ln": "Sou",
-    "ang": "Sou",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 5798,
     "lr": "Asia",
+    "lc": "sqq",
+    "cc": [
+        "LA"
+    ],
     "alt": [
         "Sawk",
         "Souk",
@@ -13,10 +16,7 @@
         "Su'",
         "Suq"
     ],
-    "cc": [
-        "LA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "Sou",
+    "gwcode": "lo",
+    "ln": "Sou"
 }

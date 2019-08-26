@@ -1,20 +1,20 @@
 {
-    "pk": 3858,
-    "lc": "mie",
+    "gw": false,
     "ISO-639-3": "mie",
-    "ln": "Ocotepec Mixtec",
-    "ang": "Mixtec, Ocotepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 3858,
     "lr": "Americas",
+    "lc": "mie",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Mixteco de Santo Tom\u00e1s Ocotepec",
         "Mixteco de Sierra Sur Noroeste",
         "Ocotepec Mixtec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Ocotepec",
+    "gwcode": "es-419",
+    "ln": "Ocotepec Mixtec"
 }

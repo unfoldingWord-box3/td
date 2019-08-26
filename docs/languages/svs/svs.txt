@@ -1,0 +1,24 @@
+.. _svs:
+
+Savosavo
+========
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: svs
+    alternate_names:
+    - Savo
+    - Savo Island
+    anglicanized_name: Savosavo
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: svs
+    lang_direction: ltr
+    lang_name: Savosavo
+    lang_region: Pacific
+    

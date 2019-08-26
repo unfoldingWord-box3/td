@@ -1,19 +1,19 @@
 {
-    "pk": 5635,
-    "lc": "siv",
+    "gw": false,
     "ISO-639-3": "siv",
-    "ln": "Sumariup",
-    "ang": "Sumariup",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5635,
     "lr": "Pacific",
+    "lc": "siv",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Latoma",
         "Sogoba"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Sumariup",
+    "gwcode": "tpi",
+    "ln": "Sumariup"
 }

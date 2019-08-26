@@ -1,19 +1,19 @@
 {
-    "pk": 1509,
-    "lc": "dhi",
+    "gw": false,
     "ISO-639-3": "dhi",
-    "ln": "\u0927\u093f\u092e\u093e\u0932",
-    "ang": "Dhimal",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 1509,
     "lr": "Asia",
-    "alt": [
-        "Dhemal"
-    ],
+    "lc": "dhi",
     "cc": [
         "NP",
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "alt": [
+        "Dhemal"
+    ],
+    "ang": "Dhimal",
+    "gwcode": "ne",
+    "ln": "\u0927\u093f\u092e\u093e\u0932"
 }

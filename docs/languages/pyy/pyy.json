@@ -1,18 +1,18 @@
 {
-    "pk": 5245,
-    "lc": "pyy",
+    "gw": false,
     "ISO-639-3": "pyy",
-    "ln": "Pyen",
-    "ang": "Pyen",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 5245,
     "lr": "Asia",
-    "alt": [
-        "Hpyin"
-    ],
+    "lc": "pyy",
     "cc": [
         "MM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "alt": [
+        "Hpyin"
+    ],
+    "ang": "Pyen",
+    "gwcode": "my",
+    "ln": "Pyen"
 }

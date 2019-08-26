@@ -1,19 +1,19 @@
 {
-    "pk": 2620,
-    "lc": "jii",
+    "gw": false,
     "ISO-639-3": "jii",
-    "ln": "Jiiddu",
-    "ang": "Jiiddu",
     "hc": "SO",
+    "ld": "ltr",
+    "pk": 2620,
     "lr": "Africa",
+    "lc": "jii",
+    "cc": [
+        "SO"
+    ],
     "alt": [
         "Af-Jiiddu",
         "Jiddu"
     ],
-    "cc": [
-        "SO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Jiiddu",
+    "gwcode": "ar",
+    "ln": "Jiiddu"
 }

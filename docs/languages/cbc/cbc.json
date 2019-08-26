@@ -1,11 +1,15 @@
 {
-    "pk": 1133,
-    "lc": "cbc",
+    "gw": false,
     "ISO-639-3": "cbc",
-    "ln": "Carapana",
-    "ang": "Carapana",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 1133,
     "lr": "Americas",
+    "lc": "cbc",
+    "cc": [
+        "BR",
+        "CO"
+    ],
     "alt": [
         "Carapan\u00e3",
         "Mext\u00e3",
@@ -18,11 +22,7 @@
         "Moxdoa",
         "Muxtea"
     ],
-    "cc": [
-        "BR",
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Carapana",
+    "gwcode": "es-419",
+    "ln": "Carapana"
 }

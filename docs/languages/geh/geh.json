@@ -1,11 +1,15 @@
 {
-    "pk": 1985,
-    "lc": "geh",
+    "gw": false,
     "ISO-639-3": "geh",
-    "ln": "Hutterite German",
-    "ang": "Hutterisch",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 1985,
     "lr": "Americas",
+    "lc": "geh",
+    "cc": [
+        "US",
+        "CA"
+    ],
     "alt": [
         "Carinthian German",
         "Hutterian German",
@@ -13,11 +17,7 @@
         "Tirolean",
         "Tyrolese"
     ],
-    "cc": [
-        "US",
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Hutterisch",
+    "gwcode": "en",
+    "ln": "Hutterite German"
 }

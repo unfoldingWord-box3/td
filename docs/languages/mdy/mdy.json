@@ -1,18 +1,18 @@
 {
-    "pk": 3751,
-    "lc": "mdy",
+    "gw": false,
     "ISO-639-3": "mdy",
-    "ln": "Male (Ethiopia)",
-    "ang": "Male",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 3751,
     "lr": "Africa",
-    "alt": [
-        "Maale"
-    ],
+    "lc": "mdy",
     "cc": [
         "ET"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "alt": [
+        "Maale"
+    ],
+    "ang": "Male",
+    "gwcode": "am",
+    "ln": "Male (Ethiopia)"
 }

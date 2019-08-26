@@ -1,11 +1,14 @@
 {
-    "pk": 7285,
-    "lc": "yss",
+    "gw": false,
     "ISO-639-3": "yss",
-    "ln": "Yessan-Mayo",
-    "ang": "Yessan-Mayo",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 7285,
     "lr": "Pacific",
+    "lc": "yss",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Maio-Yesan",
         "Mayo-Yesan",
@@ -15,10 +18,7 @@
         "Yaw",
         "Yawu (Warasai)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Yessan-Mayo",
+    "gwcode": "tpi",
+    "ln": "Yessan-Mayo"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 3839,
-    "lc": "mhl",
+    "gw": false,
     "ISO-639-3": "mhl",
-    "ln": "Mauwake",
-    "ang": "Mauwake",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3839,
     "lr": "Pacific",
+    "lc": "mhl",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Mawake",
         "Ulingan"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Mauwake",
+    "gwcode": "tpi",
+    "ln": "Mauwake"
 }

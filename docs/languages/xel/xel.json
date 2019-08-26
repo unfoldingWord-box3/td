@@ -1,20 +1,20 @@
 {
-    "pk": 6901,
-    "lc": "xel",
+    "gw": false,
     "ISO-639-3": "xel",
-    "ln": "Kelo",
-    "ang": "Kelo",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 6901,
     "lr": "Africa",
+    "lc": "xel",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Kelo-Beni Sheko",
         "Ndu-Faa-Keelo",
         "Tornasi"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Kelo",
+    "gwcode": "ar",
+    "ln": "Kelo"
 }

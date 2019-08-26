@@ -1,19 +1,19 @@
 {
-    "pk": 5706,
-    "lc": "smd",
+    "gw": false,
     "ISO-639-3": "smd",
-    "ln": "Sama",
-    "ang": "Sama",
     "hc": "AO",
+    "ld": "ltr",
+    "pk": 5706,
     "lr": "Africa",
+    "lc": "smd",
+    "cc": [
+        "AO"
+    ],
     "alt": [
         "Kissama",
         "Quissama"
     ],
-    "cc": [
-        "AO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Sama",
+    "gwcode": "pt",
+    "ln": "Sama"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 1849,
-    "lc": "fla",
+    "gw": false,
     "ISO-639-3": "fla",
-    "ln": "Kalispel-Pend d'Oreille",
-    "ang": "Kalispel-Pend d\u2019Oreille",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 1849,
     "lr": "Americas",
+    "lc": "fla",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Salish",
         "Flathead-Kalispel",
         "Kalispel-Flathead",
         "Pend D'oreille"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kalispel-Pend d\u2019Oreille",
+    "gwcode": "en",
+    "ln": "Kalispel-Pend d'Oreille"
 }

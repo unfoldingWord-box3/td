@@ -1,21 +1,21 @@
 {
-    "pk": 569,
-    "lc": "bdk",
+    "gw": false,
     "ISO-639-3": "bdk",
-    "ln": "Buduq dili",
-    "ang": "Budukh",
     "hc": "AZ",
+    "ld": "ltr",
+    "pk": 569,
     "lr": "Asia",
+    "lc": "bdk",
+    "cc": [
+        "AZ"
+    ],
     "alt": [
         "Budug",
         "Budugi",
         "Budux",
         "Bukukhi"
     ],
-    "cc": [
-        "AZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Budukh",
+    "gwcode": "ru",
+    "ln": "Buduq dili"
 }

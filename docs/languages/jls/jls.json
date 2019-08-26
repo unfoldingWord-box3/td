@@ -1,18 +1,18 @@
 {
-    "pk": 2637,
-    "lc": "jls",
+    "gw": false,
     "ISO-639-3": "jls",
-    "ln": "Jamaican Sign Language",
-    "ang": "Jamaican Sign Language",
     "hc": "JM",
+    "ld": "ltr",
+    "pk": 2637,
     "lr": "Americas",
-    "alt": [
-        "JSL"
-    ],
+    "lc": "jls",
     "cc": [
         "JM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "JSL"
+    ],
+    "ang": "Jamaican Sign Language",
+    "gwcode": "en",
+    "ln": "Jamaican Sign Language"
 }

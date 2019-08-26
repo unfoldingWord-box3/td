@@ -1,11 +1,14 @@
 {
-    "pk": 1799,
-    "lc": "etx",
+    "gw": false,
     "ISO-639-3": "etx",
-    "ln": "Eten",
-    "ang": "Iten",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1799,
     "lr": "Africa",
+    "lc": "etx",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Aten",
         "Etien",
@@ -13,10 +16,7 @@
         "Niten",
         "Ten"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Iten",
+    "gwcode": "en",
+    "ln": "Eten"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 2794,
-    "lc": "kel",
+    "gw": false,
     "ISO-639-3": "kel",
-    "ln": "Kela (Democratic Republic of Congo)",
-    "ang": "Kela",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 2794,
     "lr": "Africa",
+    "lc": "kel",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Lemba",
         "Okela"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kela",
+    "gwcode": "fr",
+    "ln": "Kela (Democratic Republic of Congo)"
 }

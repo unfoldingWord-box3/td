@@ -1,18 +1,18 @@
 {
-    "pk": 509,
-    "lc": "bbb",
+    "gw": false,
     "ISO-639-3": "bbb",
-    "ln": "Barai",
-    "ang": "Barai",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 509,
     "lr": "Pacific",
-    "alt": [
-        "Muguani"
-    ],
+    "lc": "bbb",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Muguani"
+    ],
+    "ang": "Barai",
+    "gwcode": "tpi",
+    "ln": "Barai"
 }

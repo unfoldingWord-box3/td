@@ -1,11 +1,14 @@
 {
-    "pk": 738,
-    "lc": "bkj",
+    "gw": false,
     "ISO-639-3": "bkj",
-    "ln": "Pande",
-    "ang": "Pande",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 738,
     "lr": "Africa",
+    "lc": "bkj",
+    "cc": [
+        "CF"
+    ],
     "alt": [
         "Ipande",
         "Ngili",
@@ -16,10 +19,7 @@
         "Bogongo (Bugongo)",
         "Bukongo"
     ],
-    "cc": [
-        "CF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Pande",
+    "gwcode": "fr",
+    "ln": "Pande"
 }

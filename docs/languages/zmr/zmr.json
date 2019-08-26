@@ -1,20 +1,20 @@
 {
-    "pk": 7419,
-    "lc": "zmr",
+    "gw": false,
     "ISO-639-3": "zmr",
-    "ln": "Maranunggu",
-    "ang": "Maranunggu",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 7419,
     "lr": "Pacific",
+    "lc": "zmr",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Emmi",
         "Merranunggu",
         "Warrgat"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Maranunggu",
+    "gwcode": "en",
+    "ln": "Maranunggu"
 }

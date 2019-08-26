@@ -1,11 +1,15 @@
 {
-    "pk": 588,
-    "lc": "bec",
+    "gw": false,
     "ISO-639-3": "bec",
-    "ln": "Iceve-Maci",
-    "ang": "Iceve-Maci",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 588,
     "lr": "Africa",
+    "lc": "bec",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Bacheve",
         "Bechere",
@@ -30,11 +34,7 @@
         "Bacheve (Baceve)",
         "Maci (Kwaya)"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Iceve-Maci",
+    "gwcode": "fr",
+    "ln": "Iceve-Maci"
 }

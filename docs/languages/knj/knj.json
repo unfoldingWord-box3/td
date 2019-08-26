@@ -1,11 +1,14 @@
 {
-    "pk": 3022,
-    "lc": "knj",
+    "gw": false,
     "ISO-639-3": "knj",
-    "ln": "Western Kanjobal",
-    "ang": "Akateko",
     "hc": "GT",
+    "ld": "ltr",
+    "pk": 3022,
     "lr": "Americas",
+    "lc": "knj",
+    "cc": [
+        "GT"
+    ],
     "alt": [
         "Acatec",
         "Acateco",
@@ -16,10 +19,7 @@
         "Western Q'anjob'al",
         "Kanjobal de San Miguel Acat\u00e1n"
     ],
-    "cc": [
-        "GT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Akateko",
+    "gwcode": "es-419",
+    "ln": "Western Kanjobal"
 }

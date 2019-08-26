@@ -1,20 +1,20 @@
 {
-    "pk": 4496,
-    "lc": "nkc",
+    "gw": false,
     "ISO-639-3": "nkc",
-    "ln": "Nkongho",
-    "ang": "Nkongho",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4496,
     "lr": "Africa",
+    "lc": "nkc",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Kinkwa",
         "Lekongo",
         "Upper Mbo"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Nkongho",
+    "gwcode": "fr",
+    "ln": "Nkongho"
 }

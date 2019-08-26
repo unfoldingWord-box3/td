@@ -1,19 +1,19 @@
 {
-    "pk": 4963,
-    "lc": "pch",
+    "gw": false,
     "ISO-639-3": "pch",
-    "ln": "Pardhan",
-    "ang": "Pardhan",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4963,
     "lr": "Asia",
+    "lc": "pch",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Pradhan",
         "Pradhani"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Pardhan",
+    "gwcode": "hi",
+    "ln": "Pardhan"
 }

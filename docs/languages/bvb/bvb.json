@@ -1,11 +1,14 @@
 {
-    "pk": 995,
-    "lc": "bvb",
+    "gw": false,
     "ISO-639-3": "bvb",
-    "ln": "Bube",
-    "ang": "Bube",
     "hc": "GQ",
+    "ld": "ltr",
+    "pk": 995,
     "lr": "Africa",
+    "lc": "bvb",
+    "cc": [
+        "GQ"
+    ],
     "alt": [
         "Adeeyah",
         "Adija",
@@ -16,10 +19,7 @@
         "Ediya",
         "Fernandian"
     ],
-    "cc": [
-        "GQ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es"
+    "ang": "Bube",
+    "gwcode": "es",
+    "ln": "Bube"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 6974,
-    "lc": "xmf",
+    "gw": false,
     "ISO-639-3": "xmf",
-    "ln": "\u10db\u10d0\u10e0\u10d2\u10d0\u10da\u10e3\u10e0\u10d8 \u10dc\u10d8\u10dc\u10d0",
-    "ang": "Mingrelian",
     "hc": "GE",
+    "ld": "ltr",
+    "pk": 6974,
     "lr": "Asia",
+    "lc": "xmf",
+    "cc": [
+        "GE"
+    ],
     "alt": [
         "Margaluri",
         "Megrel",
         "Megruli"
     ],
-    "cc": [
-        "GE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Mingrelian",
+    "gwcode": "ru",
+    "ln": "\u10db\u10d0\u10e0\u10d2\u10d0\u10da\u10e3\u10e0\u10d8 \u10dc\u10d8\u10dc\u10d0"
 }

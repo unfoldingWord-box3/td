@@ -1,18 +1,18 @@
 {
-    "pk": 6360,
-    "lc": "ttm",
+    "gw": false,
     "ISO-639-3": "ttm",
-    "ln": "Northern Tutchone",
-    "ang": "Tutchone, Northern",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 6360,
     "lr": "Americas",
-    "alt": [
-        "Selkirk"
-    ],
+    "lc": "ttm",
     "cc": [
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Selkirk"
+    ],
+    "ang": "Tutchone, Northern",
+    "gwcode": "en",
+    "ln": "Northern Tutchone"
 }

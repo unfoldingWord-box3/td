@@ -1,11 +1,14 @@
 {
-    "pk": 6705,
-    "lc": "wca",
+    "gw": false,
     "ISO-639-3": "wca",
-    "ln": "Yanom\u00e1mi",
-    "ang": "Yanom\u00e1mi",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 6705,
     "lr": "Americas",
+    "lc": "wca",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Parahuri",
         "Surara",
@@ -28,10 +31,7 @@
         "Yanamam (Patimitheri)",
         "Wadema"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Yanom\u00e1mi",
+    "gwcode": "pt",
+    "ln": "Yanom\u00e1mi"
 }

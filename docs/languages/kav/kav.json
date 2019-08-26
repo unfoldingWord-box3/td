@@ -1,11 +1,14 @@
 {
-    "pk": 2708,
-    "lc": "kav",
+    "gw": false,
     "ISO-639-3": "kav",
-    "ln": "Katuk\u00edna",
-    "ang": "Katuk\u00edna",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2708,
     "lr": "Americas",
+    "lc": "kav",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Catuquina",
         "Katukina do Juta\u00ed",
@@ -13,10 +16,7 @@
         "Pid\u00e1-Djap\u00e1",
         "Cutiadapa (Kutia-Dyapa)"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Katuk\u00edna",
+    "gwcode": "pt",
+    "ln": "Katuk\u00edna"
 }

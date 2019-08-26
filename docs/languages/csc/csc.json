@@ -1,11 +1,14 @@
 {
-    "pk": 1347,
-    "lc": "csc",
+    "gw": false,
     "ISO-639-3": "csc",
-    "ln": "Catalan Sign Language",
-    "ang": "Catalan Sign Language",
     "hc": "ES",
+    "ld": "ltr",
+    "pk": 1347,
     "lr": "Europe",
+    "lc": "csc",
+    "cc": [
+        "ES"
+    ],
     "alt": [
         "Catalana",
         "Lengua de Se\u00f1as Catalana",
@@ -13,10 +16,7 @@
         "LSC",
         "Signos Catalana"
     ],
-    "cc": [
-        "ES"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es"
+    "ang": "Catalan Sign Language",
+    "gwcode": "es",
+    "ln": "Catalan Sign Language"
 }

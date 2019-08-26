@@ -1,21 +1,21 @@
 {
-    "pk": 6303,
-    "lc": "tre",
+    "gw": false,
     "ISO-639-3": "tre",
-    "ln": "East Tarangan",
-    "ang": "Tarangan, East",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6303,
     "lr": "Asia",
+    "lc": "tre",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "East Trangan",
         "Tarangan Timur",
         "North East Tarangan",
         "South East Tarangan"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tarangan, East",
+    "gwcode": "id",
+    "ln": "East Tarangan"
 }

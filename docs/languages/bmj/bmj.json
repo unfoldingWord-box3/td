@@ -1,19 +1,19 @@
 {
-    "pk": 790,
-    "lc": "bmj",
+    "gw": false,
     "ISO-639-3": "bmj",
-    "ln": "Bote-Majhi",
-    "ang": "Bote",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 790,
     "lr": "Asia",
+    "lc": "bmj",
+    "cc": [
+        "NP"
+    ],
     "alt": [
         "Pakhe-Bote",
         "Pani-Bote"
     ],
-    "cc": [
-        "NP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Bote",
+    "gwcode": "ne",
+    "ln": "Bote-Majhi"
 }

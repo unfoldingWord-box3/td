@@ -1,21 +1,21 @@
 {
-    "pk": 4293,
-    "lc": "nag",
+    "gw": false,
     "ISO-639-3": "nag",
-    "ln": "Naga Pidgin",
-    "ang": "Naga Pidgin",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4293,
     "lr": "Asia",
+    "lc": "nag",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Bodo",
         "Kachari Bengali",
         "Naga Creole Assamese",
         "Naga-Assamese"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga Pidgin",
+    "gwcode": "en",
+    "ln": "Naga Pidgin"
 }

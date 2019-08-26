@@ -1,20 +1,20 @@
 {
-    "pk": 6620,
-    "lc": "vkk",
+    "gw": false,
     "ISO-639-3": "vkk",
-    "ln": "Kaur",
-    "ang": "Kaur",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6620,
     "lr": "Asia",
+    "lc": "vkk",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Bintuhan",
         "Ka'ur",
         "Mulak"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kaur",
+    "gwcode": "id",
+    "ln": "Kaur"
 }

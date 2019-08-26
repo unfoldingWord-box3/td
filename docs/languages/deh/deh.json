@@ -1,18 +1,18 @@
 {
-    "pk": 1479,
-    "lc": "deh",
+    "gw": false,
     "ISO-639-3": "deh",
-    "ln": "Dehwari",
-    "ang": "Dehwari",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 1479,
     "lr": "Asia",
-    "alt": [
-        "Deghwari"
-    ],
+    "lc": "deh",
     "cc": [
         "PK"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "alt": [
+        "Deghwari"
+    ],
+    "ang": "Dehwari",
+    "gwcode": "ur",
+    "ln": "Dehwari"
 }

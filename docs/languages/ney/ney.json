@@ -1,19 +1,19 @@
 {
-    "pk": 4401,
-    "lc": "ney",
+    "gw": false,
     "ISO-639-3": "ney",
-    "ln": "Neyo",
-    "ang": "Neyo",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 4401,
     "lr": "Africa",
+    "lc": "ney",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Gwibwen",
         "Towi"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Neyo",
+    "gwcode": "fr",
+    "ln": "Neyo"
 }

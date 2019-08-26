@@ -1,11 +1,14 @@
 {
-    "pk": 633,
-    "lc": "bfz",
+    "gw": false,
     "ISO-639-3": "bfz",
-    "ln": "Mahasu Pahari",
-    "ang": "Pahari, Mahasu",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 633,
     "lr": "Asia",
+    "lc": "bfz",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Mahasui",
         "Rohruri",
@@ -16,10 +19,7 @@
         "Lower Mahasu Pahari (Baghati)",
         "Upper Mahasu Pahari (Rampuri)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Pahari, Mahasu",
+    "gwcode": "hi",
+    "ln": "Mahasu Pahari"
 }

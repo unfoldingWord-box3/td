@@ -1,11 +1,14 @@
 {
-    "pk": 2522,
-    "lc": "ish",
+    "gw": false,
     "ISO-639-3": "ish",
-    "ln": "Esan",
-    "ang": "Esan",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2522,
     "lr": "Africa",
+    "lc": "ish",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Anwain",
         "Esa",
@@ -23,10 +26,7 @@
         "Ewu (Eilu)",
         "Uromi (Uronmun)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Esan",
+    "gwcode": "en",
+    "ln": "Esan"
 }

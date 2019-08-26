@@ -1,11 +1,14 @@
 {
-    "pk": 6350,
-    "lc": "ttc",
+    "gw": false,
     "ISO-639-3": "ttc",
-    "ln": "Tektiteko",
-    "ang": "Tektiteko",
     "hc": "GT",
+    "ld": "ltr",
+    "pk": 6350,
     "lr": "Americas",
+    "lc": "ttc",
+    "cc": [
+        "GT"
+    ],
     "alt": [
         "Maya-Tekiteko",
         "Teco",
@@ -15,10 +18,7 @@
         "Teko",
         "Tectit\u00e1n Mame"
     ],
-    "cc": [
-        "GT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Tektiteko",
+    "gwcode": "es-419",
+    "ln": "Tektiteko"
 }

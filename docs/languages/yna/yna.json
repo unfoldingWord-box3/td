@@ -1,11 +1,14 @@
 {
-    "pk": 7238,
-    "lc": "yna",
+    "gw": false,
     "ISO-639-3": "yna",
-    "ln": "\u963f\u7f57\u8bed",
-    "ang": "Aluo",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7238,
     "lr": "Asia",
+    "lc": "yna",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Gan Yi",
         "Laka",
@@ -13,10 +16,7 @@
         "Niluo",
         "Yala"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Aluo",
+    "gwcode": "zh",
+    "ln": "\u963f\u7f57\u8bed"
 }

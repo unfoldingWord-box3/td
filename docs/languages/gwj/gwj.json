@@ -1,21 +1,21 @@
 {
-    "pk": 2197,
-    "lc": "gwj",
+    "gw": false,
     "ISO-639-3": "gwj",
-    "ln": "|Gwi",
-    "ang": "|Gwi",
     "hc": "BW",
+    "ld": "ltr",
+    "pk": 2197,
     "lr": "Africa",
+    "lc": "gwj",
+    "cc": [
+        "BW"
+    ],
     "alt": [
         "Dcui",
         "G!wikwe",
         "G|wikhwe",
         "Gcwi"
     ],
-    "cc": [
-        "BW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "|Gwi",
+    "gwcode": "en",
+    "ln": "|Gwi"
 }

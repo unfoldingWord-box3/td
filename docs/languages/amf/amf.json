@@ -1,11 +1,14 @@
 {
-    "pk": 239,
-    "lc": "amf",
+    "gw": false,
     "ISO-639-3": "amf",
-    "ln": "Hamer-Banna",
-    "ang": "Hamer-Banna",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 239,
     "lr": "Africa",
+    "lc": "amf",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Amar",
         "Amarcocche",
@@ -21,10 +24,7 @@
         "Hammercoche",
         "Kara Kerre"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Hamer-Banna",
+    "gwcode": "am",
+    "ln": "Hamer-Banna"
 }

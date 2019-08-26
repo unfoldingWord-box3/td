@@ -1,26 +1,11 @@
 {
-    "pk": 1868,
-    "lc": "fr",
+    "gw": true,
     "ISO-639-3": "fra",
-    "ln": "fran\u00e7ais, langue fran\u00e7aise",
-    "ang": "French",
     "hc": "FR",
+    "ld": "ltr",
+    "pk": 1868,
     "lr": "Europe",
-    "alt": [
-        "Fran\u00e7ais",
-        "Franc\u00e9s",
-        "Qu\u00e9b\u00e9cois",
-        "Sous le Vent (Saint Barth\u00e9lemy Patois)",
-        "Shippagan",
-        "Serquiais",
-        "Saintongeais",
-        "Norman (Normand)",
-        "Jurassien",
-        "J\u00e8rriais",
-        "Franco-Terreneuvien",
-        "Acadian (Acadien)",
-        "Franche-Comtois (Fribourgois)"
-    ],
+    "lc": "fr",
     "cc": [
         "DZ",
         "AT",
@@ -54,7 +39,22 @@
         "YT",
         "MQ"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [
+        "Fran\u00e7ais",
+        "Franc\u00e9s",
+        "Qu\u00e9b\u00e9cois",
+        "Sous le Vent (Saint Barth\u00e9lemy Patois)",
+        "Shippagan",
+        "Serquiais",
+        "Saintongeais",
+        "Norman (Normand)",
+        "Jurassien",
+        "J\u00e8rriais",
+        "Franco-Terreneuvien",
+        "Acadian (Acadien)",
+        "Franche-Comtois (Fribourgois)"
+    ],
+    "ang": "French",
+    "gwcode": "UNKNOWN",
+    "ln": "fran\u00e7ais, langue fran\u00e7aise"
 }

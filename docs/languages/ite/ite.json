@@ -1,20 +1,20 @@
 {
-    "pk": 2533,
-    "lc": "ite",
+    "gw": false,
     "ISO-639-3": "ite",
-    "ln": "Itene",
-    "ang": "Itene",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 2533,
     "lr": "Americas",
+    "lc": "ite",
+    "cc": [
+        "BO"
+    ],
     "alt": [
         "Iteneo",
         "Itenez",
         "More"
     ],
-    "cc": [
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Itene",
+    "gwcode": "es-419",
+    "ln": "Itene"
 }

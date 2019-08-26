@@ -1,21 +1,21 @@
 {
-    "pk": 4423,
-    "lc": "ngp",
+    "gw": false,
     "ISO-639-3": "ngp",
-    "ln": "Ngulu",
-    "ang": "Ngulu",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 4423,
     "lr": "Africa",
+    "lc": "ngp",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Geja",
         "Kingulu",
         "Nguru",
         "Wayomba"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Ngulu",
+    "gwcode": "sw",
+    "ln": "Ngulu"
 }

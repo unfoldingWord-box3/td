@@ -1,21 +1,21 @@
 {
-    "pk": 6225,
-    "lc": "tnh",
+    "gw": false,
     "ISO-639-3": "tnh",
-    "ln": "Maiani",
-    "ang": "Maiani",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6225,
     "lr": "Pacific",
+    "lc": "tnh",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Banara",
         "Miani South",
         "Tani",
         "Wagimuda"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Maiani",
+    "gwcode": "tpi",
+    "ln": "Maiani"
 }

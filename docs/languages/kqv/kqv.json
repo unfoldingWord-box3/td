@@ -1,21 +1,21 @@
 {
-    "pk": 3103,
-    "lc": "kqv",
+    "gw": false,
     "ISO-639-3": "kqv",
-    "ln": "Okolod",
-    "ang": "Okolod",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3103,
     "lr": "Asia",
+    "lc": "kqv",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kolod",
         "Kolour",
         "Kolur",
         "Okolod Murut"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Okolod",
+    "gwcode": "id",
+    "ln": "Okolod"
 }

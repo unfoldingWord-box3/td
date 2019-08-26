@@ -1,11 +1,14 @@
 {
-    "pk": 1377,
-    "lc": "cto",
+    "gw": false,
     "ISO-639-3": "cto",
-    "ln": "Ember\u00e1-Cat\u00edo",
-    "ang": "Ember\u00e1-Cat\u00edo",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 1377,
     "lr": "Americas",
+    "lc": "cto",
+    "cc": [
+        "CO"
+    ],
     "alt": [
         "Catio",
         "Embena",
@@ -14,10 +17,7 @@
         "Cat\u00edo",
         "Epera"
     ],
-    "cc": [
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Ember\u00e1-Cat\u00edo",
+    "gwcode": "es-419",
+    "ln": "Ember\u00e1-Cat\u00edo"
 }

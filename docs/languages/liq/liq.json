@@ -1,19 +1,19 @@
 {
-    "pk": 3467,
-    "lc": "liq",
+    "gw": false,
     "ISO-639-3": "liq",
-    "ln": "Libido",
-    "ang": "Libido",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 3467,
     "lr": "Africa",
+    "lc": "liq",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Marako",
         "Maraqo"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Libido",
+    "gwcode": "am",
+    "ln": "Libido"
 }

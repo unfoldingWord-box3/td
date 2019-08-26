@@ -1,20 +1,20 @@
 {
-    "pk": 4482,
-    "lc": "nji",
+    "gw": false,
     "ISO-639-3": "nji",
-    "ln": "Gudanji",
-    "ang": "Gudanji",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4482,
     "lr": "Pacific",
+    "lc": "nji",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Kurdanji",
         "Ngarnga",
         "Binbinka"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gudanji",
+    "gwcode": "en",
+    "ln": "Gudanji"
 }

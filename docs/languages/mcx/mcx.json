@@ -1,11 +1,15 @@
 {
-    "pk": 3725,
-    "lc": "mcx",
+    "gw": false,
     "ISO-639-3": "mcx",
-    "ln": "Mpiemo",
-    "ang": "Mpiemo",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 3725,
     "lr": "Africa",
+    "lc": "mcx",
+    "cc": [
+        "CM",
+        "CF"
+    ],
     "alt": [
         "Bimu",
         "Mbimou",
@@ -16,11 +20,7 @@
         "Bidjuki (Bidjouki)",
         "Jasoa (Jasua)"
     ],
-    "cc": [
-        "CM",
-        "CF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mpiemo",
+    "gwcode": "fr",
+    "ln": "Mpiemo"
 }

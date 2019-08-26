@@ -1,11 +1,14 @@
 {
-    "pk": 1608,
-    "lc": "dot",
+    "gw": false,
     "ISO-639-3": "dot",
-    "ln": "Dass",
-    "ang": "Dass",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1608,
     "lr": "Africa",
+    "lc": "dot",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Barawa",
         "Lukshi (Dekshi)",
@@ -16,10 +19,7 @@
         "Zodi",
         "Dwat"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dass",
+    "gwcode": "en",
+    "ln": "Dass"
 }

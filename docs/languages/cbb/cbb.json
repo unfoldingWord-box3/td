@@ -1,11 +1,14 @@
 {
-    "pk": 1132,
-    "lc": "cbb",
+    "gw": false,
     "ISO-639-3": "cbb",
-    "ln": "Cabiyar\u00ed",
-    "ang": "Cabiyar\u00ed",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 1132,
     "lr": "Americas",
+    "lc": "cbb",
+    "cc": [
+        "CO"
+    ],
     "alt": [
         "Cabiuar\u00ed",
         "Cauyar\u00ed",
@@ -16,10 +19,7 @@
         "Kawillary",
         "Kawiyar\u00ed"
     ],
-    "cc": [
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Cabiyar\u00ed",
+    "gwcode": "es-419",
+    "ln": "Cabiyar\u00ed"
 }

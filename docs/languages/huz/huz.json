@@ -1,11 +1,14 @@
 {
-    "pk": 2387,
-    "lc": "huz",
+    "gw": false,
     "ISO-639-3": "huz",
-    "ln": "\u0413\u0443\u043d\u0437\u0438\u0431\u0441\u043a\u0438\u0439",
-    "ang": "Hunzib",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 2387,
     "lr": "Europe",
+    "lc": "huz",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Enzeb",
         "Gunzib",
@@ -13,10 +16,7 @@
         "Khunzaly",
         "Xunzal"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Hunzib",
+    "gwcode": "ru",
+    "ln": "\u0413\u0443\u043d\u0437\u0438\u0431\u0441\u043a\u0438\u0439"
 }

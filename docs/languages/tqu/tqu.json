@@ -1,20 +1,20 @@
 {
-    "pk": 6296,
-    "lc": "tqu",
+    "gw": false,
     "ISO-639-3": "tqu",
-    "ln": "Touo",
-    "ang": "Touo",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 6296,
     "lr": "Pacific",
+    "lc": "tqu",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Baniata",
         "Lokuru",
         "Mbaniata"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Touo",
+    "gwcode": "UNKNOWN",
+    "ln": "Touo"
 }

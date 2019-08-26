@@ -1,0 +1,22 @@
+.. _dka:
+
+Dakpakha
+========
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+
+.. code-block:: yaml
+
+    ISO_639-3: dka
+    alternate_names: []
+    anglicanized_name: Dakpakha
+    country_codes:
+    - BT
+    gateway_language: UNKNOWN
+    lang_code: dka
+    lang_direction: ltr
+    lang_name: Dakpakha
+    lang_region: Asia
+    

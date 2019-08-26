@@ -1,17 +1,11 @@
 {
-    "pk": 488,
-    "lc": "ba",
+    "gw": false,
     "ISO-639-3": "bak",
-    "ln": "\u0431\u0430\u0448\u04a1\u043e\u0440\u0442 \u0442\u0435\u043b\u0435",
-    "ang": "Bashkir",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 488,
     "lr": "Europe",
-    "alt": [
-        "Basquort",
-        "Burzhan (Western Bashkir)",
-        "Kuvakan (Mountain Bashkir)",
-        "Yurmaty (Steppe Bashkir)"
-    ],
+    "lc": "ba",
     "cc": [
         "KZ",
         "TJ",
@@ -20,7 +14,13 @@
         "TM",
         "UZ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "alt": [
+        "Basquort",
+        "Burzhan (Western Bashkir)",
+        "Kuvakan (Mountain Bashkir)",
+        "Yurmaty (Steppe Bashkir)"
+    ],
+    "ang": "Bashkir",
+    "gwcode": "ru",
+    "ln": "\u0431\u0430\u0448\u04a1\u043e\u0440\u0442 \u0442\u0435\u043b\u0435"
 }

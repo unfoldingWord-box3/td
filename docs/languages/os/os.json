@@ -1,19 +1,11 @@
 {
-    "pk": 4879,
-    "lc": "os",
+    "gw": false,
     "ISO-639-3": "oss",
-    "ln": "\u0438\u0440\u043e\u043d \u00e6\u0432\u0437\u0430\u0433",
-    "ang": "Ossetian, Ossetic",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 4879,
     "lr": "Europe",
-    "alt": [
-        "Osetin",
-        "Ossete",
-        "Digor (Digorian)",
-        "Digoron",
-        "Dogor",
-        "Kudar (South Osetin)"
-    ],
+    "lc": "os",
     "cc": [
         "AZ",
         "KZ",
@@ -25,7 +17,15 @@
         "TM",
         "UZ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "alt": [
+        "Osetin",
+        "Ossete",
+        "Digor (Digorian)",
+        "Digoron",
+        "Dogor",
+        "Kudar (South Osetin)"
+    ],
+    "ang": "Ossetian, Ossetic",
+    "gwcode": "ru",
+    "ln": "\u0438\u0440\u043e\u043d \u00e6\u0432\u0437\u0430\u0433"
 }

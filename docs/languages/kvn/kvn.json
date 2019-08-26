@@ -1,11 +1,14 @@
 {
-    "pk": 3221,
-    "lc": "kvn",
+    "gw": false,
     "ISO-639-3": "kvn",
-    "ln": "Border Kuna",
-    "ang": "Kuna, Border",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 3221,
     "lr": "Americas",
+    "lc": "kvn",
+    "cc": [
+        "CO"
+    ],
     "alt": [
         "Caiman Nuevo",
         "Colombia Cuna",
@@ -15,10 +18,7 @@
         "Long Hair Cuna",
         "Paya-Pucuro Kuna"
     ],
-    "cc": [
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Kuna, Border",
+    "gwcode": "es-419",
+    "ln": "Border Kuna"
 }

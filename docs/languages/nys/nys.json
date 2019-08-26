@@ -1,19 +1,19 @@
 {
-    "pk": 4743,
-    "lc": "nys",
+    "gw": false,
     "ISO-639-3": "nys",
-    "ln": "Nyunga",
-    "ang": "Nyunga",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4743,
     "lr": "Pacific",
+    "lc": "nys",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Neo-Nyunga",
         "Nyungar"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nyunga",
+    "gwcode": "en",
+    "ln": "Nyunga"
 }

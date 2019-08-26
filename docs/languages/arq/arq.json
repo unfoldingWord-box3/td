@@ -1,15 +1,11 @@
 {
-    "pk": 347,
-    "lc": "arq",
+    "gw": false,
     "ISO-639-3": "arq",
-    "ln": "\u062f\u0632\u064a\u0631\u064a\u0629",
-    "ang": "Arabic, Algerian Spoken",
     "hc": "DZ",
+    "ld": "rtl",
+    "pk": 347,
     "lr": "Africa",
-    "alt": [
-        "Algerian",
-        "Constantine"
-    ],
+    "lc": "arq",
     "cc": [
         "DZ",
         "BE",
@@ -23,7 +19,11 @@
         "IT",
         "EG"
     ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ar"
+    "alt": [
+        "Algerian",
+        "Constantine"
+    ],
+    "ang": "Arabic, Algerian Spoken",
+    "gwcode": "ar",
+    "ln": "\u062f\u0632\u064a\u0631\u064a\u0629"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 2143,
-    "lc": "gsl",
+    "gw": false,
     "ISO-639-3": "gsl",
-    "ln": "Gusilay",
-    "ang": "Gusilay",
     "hc": "SN",
+    "ld": "ltr",
+    "pk": 2143,
     "lr": "Africa",
+    "lc": "gsl",
+    "cc": [
+        "SN"
+    ],
     "alt": [
         "Gusiilaay",
         "Gusiilay",
@@ -13,10 +16,7 @@
         "Kusiilaay",
         "Kusilay"
     ],
-    "cc": [
-        "SN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Gusilay",
+    "gwcode": "fr",
+    "ln": "Gusilay"
 }

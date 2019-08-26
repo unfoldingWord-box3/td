@@ -1,11 +1,14 @@
 {
-    "pk": 3130,
-    "lc": "kry",
+    "gw": false,
     "ISO-639-3": "kry",
-    "ln": "Qr\u0131z dili",
-    "ang": "Kryts",
     "hc": "AZ",
+    "ld": "ltr",
+    "pk": 3130,
     "lr": "Asia",
+    "lc": "kry",
+    "cc": [
+        "AZ"
+    ],
     "alt": [
         "Dzek",
         "Dzheki",
@@ -15,10 +18,7 @@
         "Kryzy",
         "Xaput (Khaput)"
     ],
-    "cc": [
-        "AZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Kryts",
+    "gwcode": "ru",
+    "ln": "Qr\u0131z dili"
 }

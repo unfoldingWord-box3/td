@@ -1,20 +1,20 @@
 {
-    "pk": 1313,
-    "lc": "cpn",
+    "gw": false,
     "ISO-639-3": "cpn",
-    "ln": "Cherepon",
-    "ang": "Cherepon",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 1313,
     "lr": "Africa",
+    "lc": "cpn",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Chiripong",
         "Kyerepong",
         "Okere"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Cherepon",
+    "gwcode": "en",
+    "ln": "Cherepon"
 }

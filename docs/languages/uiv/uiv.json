@@ -1,20 +1,20 @@
 {
-    "pk": 6492,
-    "lc": "uiv",
+    "gw": false,
     "ISO-639-3": "uiv",
-    "ln": "Iyive",
-    "ang": "Iyive",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 6492,
     "lr": "Africa",
+    "lc": "uiv",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Uive",
         "Yiive",
         "Asumbo"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Iyive",
+    "gwcode": "fr",
+    "ln": "Iyive"
 }

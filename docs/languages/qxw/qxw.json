@@ -1,19 +1,19 @@
 {
-    "pk": 5302,
-    "lc": "qxw",
+    "gw": false,
     "ISO-639-3": "qxw",
-    "ln": "Jauja Wanca Quechua",
-    "ang": "Quechua, Jauja Wanca",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 5302,
     "lr": "Americas",
+    "lc": "qxw",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Huanca Jauja Quechua",
         "Shausha Wanka Quechua"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quechua, Jauja Wanca",
+    "gwcode": "es-419",
+    "ln": "Jauja Wanca Quechua"
 }

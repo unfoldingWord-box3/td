@@ -1,19 +1,19 @@
 {
-    "pk": 6090,
-    "lc": "tgp",
+    "gw": false,
     "ISO-639-3": "tgp",
-    "ln": "Tangoa",
-    "ang": "Tangoa",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 6090,
     "lr": "Pacific",
+    "lc": "tgp",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Santo",
         "South Santo"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Tangoa",
+    "gwcode": "fr",
+    "ln": "Tangoa"
 }

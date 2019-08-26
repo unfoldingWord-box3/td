@@ -1,11 +1,14 @@
 {
-    "pk": 1832,
-    "lc": "fcs",
+    "gw": false,
     "ISO-639-3": "fcs",
-    "ln": "Quebec Sign Language",
-    "ang": "Quebec Sign Language",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 1832,
     "lr": "Americas",
+    "lc": "fcs",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Langue des Signes",
         "Langue des Signes du Qu\u00e9bec",
@@ -13,10 +16,7 @@
         "LSQ",
         "Qu\u00e9b\u00e9coise"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Quebec Sign Language",
+    "gwcode": "en",
+    "ln": "Quebec Sign Language"
 }

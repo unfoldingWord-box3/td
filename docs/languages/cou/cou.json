@@ -1,11 +1,15 @@
 {
-    "pk": 1303,
-    "lc": "cou",
+    "gw": false,
     "ISO-639-3": "cou",
-    "ln": "Wamey",
-    "ang": "Wamey",
     "hc": "SN",
+    "ld": "ltr",
+    "pk": 1303,
     "lr": "Africa",
+    "lc": "cou",
+    "cc": [
+        "SN",
+        "GN"
+    ],
     "alt": [
         "Cogniagui",
         "Conhague",
@@ -16,11 +20,7 @@
         "Wamei",
         "Koniagui"
     ],
-    "cc": [
-        "SN",
-        "GN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Wamey",
+    "gwcode": "fr",
+    "ln": "Wamey"
 }

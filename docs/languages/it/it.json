@@ -1,14 +1,11 @@
 {
-    "pk": 2531,
-    "lc": "it",
+    "gw": false,
     "ISO-639-3": "ita",
-    "ln": "italiano",
-    "ang": "Italian",
     "hc": "IT",
+    "ld": "ltr",
+    "pk": 2531,
     "lr": "Europe",
-    "alt": [
-        "Italiano"
-    ],
+    "lc": "it",
     "cc": [
         "AT",
         "BE",
@@ -31,7 +28,10 @@
         "LU",
         "PT"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Italiano"
+    ],
+    "ang": "Italian",
+    "gwcode": "en",
+    "ln": "italiano"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 1372,
-    "lc": "ctg",
+    "gw": false,
     "ISO-639-3": "ctg",
-    "ln": "Chittagonian",
-    "ang": "Chittagonian",
     "hc": "BD",
+    "ld": "ltr",
+    "pk": 1372,
     "lr": "Asia",
+    "lc": "ctg",
+    "cc": [
+        "BD"
+    ],
     "alt": [
         "Chatgaiyan Buli",
         "Chatgaya",
         "Chittagonian Bengali"
     ],
-    "cc": [
-        "BD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "ang": "Chittagonian",
+    "gwcode": "bn",
+    "ln": "Chittagonian"
 }

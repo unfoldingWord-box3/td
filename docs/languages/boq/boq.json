@@ -1,19 +1,19 @@
 {
-    "pk": 845,
-    "lc": "boq",
+    "gw": false,
     "ISO-639-3": "boq",
-    "ln": "Bogaya",
-    "ang": "Bogaya",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 845,
     "lr": "Pacific",
+    "lc": "boq",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Bogaia",
         "Pogaya"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Bogaya",
+    "gwcode": "tpi",
+    "ln": "Bogaya"
 }

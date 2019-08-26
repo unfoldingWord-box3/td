@@ -1,20 +1,20 @@
 {
-    "pk": 4135,
-    "lc": "mto",
+    "gw": false,
     "ISO-639-3": "mto",
-    "ln": "Totontepec Mixe",
-    "ang": "Mixe, Totontepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4135,
     "lr": "Americas",
+    "lc": "mto",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Ayuk",
         "Mixe Alto del Norte",
         "Northwestern Mixe"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixe, Totontepec",
+    "gwcode": "es-419",
+    "ln": "Totontepec Mixe"
 }

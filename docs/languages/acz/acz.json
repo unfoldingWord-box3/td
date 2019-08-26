@@ -1,11 +1,14 @@
 {
-    "pk": 70,
-    "lc": "acz",
+    "gw": false,
     "ISO-639-3": "acz",
-    "ln": "Garme",
-    "ang": "Acheron",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 70,
     "lr": "Africa",
+    "lc": "acz",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Gathuk (Western Acheron)",
         "Gandok (Eastern Acheron)",
@@ -15,10 +18,7 @@
         "Asheron",
         "Garme"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Acheron",
+    "gwcode": "ar",
+    "ln": "Garme"
 }

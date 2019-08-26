@@ -1,20 +1,20 @@
 {
-    "pk": 2766,
-    "lc": "kdg",
+    "gw": false,
     "ISO-639-3": "kdg",
-    "ln": "Seba",
-    "ang": "Seba",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 2766,
     "lr": "Africa",
+    "lc": "kdg",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kunda",
         "Sewa",
         "Shishi"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Seba",
+    "gwcode": "fr",
+    "ln": "Seba"
 }

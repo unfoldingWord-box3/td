@@ -1,11 +1,14 @@
 {
-    "pk": 6989,
-    "lc": "xmz",
+    "gw": false,
     "ISO-639-3": "xmz",
-    "ln": "Mori Bawah",
-    "ang": "Mori Bawah",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6989,
     "lr": "Asia",
+    "lc": "xmz",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Beneden-Tomori",
         "East Mori",
@@ -20,10 +23,7 @@
         "Karunsi'e (Karonsie)",
         "Nuha (Soroako)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Mori Bawah",
+    "gwcode": "id",
+    "ln": "Mori Bawah"
 }

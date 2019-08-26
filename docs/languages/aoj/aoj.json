@@ -1,21 +1,21 @@
 {
-    "pk": 291,
-    "lc": "aoj",
+    "gw": false,
     "ISO-639-3": "aoj",
-    "ln": "Mufian",
-    "ang": "Mufian",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 291,
     "lr": "Pacific",
+    "lc": "aoj",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Muhian",
         "Southern Arapesh",
         "Filifita (Ilahita)",
         "Supari"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Mufian",
+    "gwcode": "tpi",
+    "ln": "Mufian"
 }

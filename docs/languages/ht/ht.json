@@ -1,15 +1,11 @@
 {
-    "pk": 2360,
-    "lc": "ht",
+    "gw": false,
     "ISO-639-3": "hat",
-    "ln": "Krey\u00f2l ayisyen",
-    "ang": "Haitian, Haitian Creole",
     "hc": "HT",
+    "ld": "ltr",
+    "pk": 2360,
     "lr": "Americas",
-    "alt": [
-        "Creole",
-        "Haitian Creole"
-    ],
+    "lc": "ht",
     "cc": [
         "CU",
         "DM",
@@ -22,7 +18,11 @@
         "DO",
         "MQ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Creole",
+        "Haitian Creole"
+    ],
+    "ang": "Haitian, Haitian Creole",
+    "gwcode": "fr",
+    "ln": "Krey\u00f2l ayisyen"
 }

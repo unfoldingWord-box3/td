@@ -1,11 +1,14 @@
 {
-    "pk": 3910,
-    "lc": "mkk",
+    "gw": false,
     "ISO-639-3": "mkk",
-    "ln": "Byep",
-    "ang": "Byep",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3910,
     "lr": "Africa",
+    "lc": "mkk",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Makya",
         "Meka",
@@ -19,10 +22,7 @@
         "Bindafum",
         "Besep (Besha)"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Byep",
+    "gwcode": "fr",
+    "ln": "Byep"
 }

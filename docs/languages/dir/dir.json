@@ -1,21 +1,21 @@
 {
-    "pk": 1535,
-    "lc": "dir",
+    "gw": false,
     "ISO-639-3": "dir",
-    "ln": "Dirim",
-    "ang": "Dirim",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1535,
     "lr": "Africa",
+    "lc": "dir",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Daka",
         "Dakka",
         "Dirin",
         "Dirrim"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dirim",
+    "gwcode": "en",
+    "ln": "Dirim"
 }

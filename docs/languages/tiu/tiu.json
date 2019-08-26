@@ -1,20 +1,20 @@
 {
-    "pk": 6138,
-    "lc": "tiu",
+    "gw": false,
     "ISO-639-3": "tiu",
-    "ln": "Adasen",
-    "ang": "Adasen",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 6138,
     "lr": "Asia",
+    "lc": "tiu",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Addasen",
         "Addasen Tinguian",
         "Itneg Adasen"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Adasen",
+    "gwcode": "ilo",
+    "ln": "Adasen"
 }

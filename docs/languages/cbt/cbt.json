@@ -1,11 +1,14 @@
 {
-    "pk": 1145,
-    "lc": "cbt",
+    "gw": false,
     "ISO-639-3": "cbt",
-    "ln": "Chayahuita",
-    "ang": "Chayahuita",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 1145,
     "lr": "Americas",
+    "lc": "cbt",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Balsapuertino",
         "Cahuapa",
@@ -18,10 +21,7 @@
         "Shayabit",
         "Tshaahui"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chayahuita",
+    "gwcode": "es-419",
+    "ln": "Chayahuita"
 }

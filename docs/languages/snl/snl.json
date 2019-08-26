@@ -1,20 +1,20 @@
 {
-    "pk": 5735,
-    "lc": "snl",
+    "gw": false,
     "ISO-639-3": "snl",
-    "ln": "Sangil",
-    "ang": "Sangil",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5735,
     "lr": "Asia",
+    "lc": "snl",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Sanggil",
         "Sangir\u00e9",
         "Sarangani"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Sangil",
+    "gwcode": "ceb",
+    "ln": "Sangil"
 }

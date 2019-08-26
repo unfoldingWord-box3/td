@@ -1,0 +1,23 @@
+.. _uge:
+
+Ughele
+======
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: uge
+    alternate_names:
+    - Ugele
+    anglicanized_name: Ughele
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: uge
+    lang_direction: ltr
+    lang_name: Ughele
+    lang_region: Pacific
+    

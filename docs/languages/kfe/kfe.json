@@ -1,20 +1,20 @@
 {
-    "pk": 2813,
-    "lc": "kfe",
+    "gw": false,
     "ISO-639-3": "kfe",
-    "ln": "Kota (India)",
-    "ang": "Kota",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2813,
     "lr": "Asia",
+    "lc": "kfe",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Kother-Tamil",
         "Kotta",
         "Kowe-Adiwasi"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ta"
+    "ang": "Kota",
+    "gwcode": "ta",
+    "ln": "Kota (India)"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 5252,
-    "lc": "quf",
+    "gw": false,
     "ISO-639-3": "quf",
-    "ln": "Lambayeque Quechua",
-    "ang": "Quechua, Lambayeque",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 5252,
     "lr": "Americas",
-    "alt": [
-        "Ferre\u00f1afe"
-    ],
+    "lc": "quf",
     "cc": [
         "PE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Ferre\u00f1afe"
+    ],
+    "ang": "Quechua, Lambayeque",
+    "gwcode": "es-419",
+    "ln": "Lambayeque Quechua"
 }

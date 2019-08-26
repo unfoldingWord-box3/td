@@ -1,20 +1,20 @@
 {
-    "pk": 5048,
-    "lc": "pjt",
+    "gw": false,
     "ISO-639-3": "pjt",
-    "ln": "Pitjantjatjara",
-    "ang": "Pitjantjatjara",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 5048,
     "lr": "Pacific",
+    "lc": "pjt",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Pitjantjara",
         "Pitjantjatjara (Pithantjatjarra)",
         "Yankunytjatjara"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Pitjantjatjara",
+    "gwcode": "en",
+    "ln": "Pitjantjatjara"
 }

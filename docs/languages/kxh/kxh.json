@@ -1,20 +1,20 @@
 {
-    "pk": 3264,
-    "lc": "kxh",
+    "gw": false,
     "ISO-639-3": "kxh",
-    "ln": "Karo (Ethiopia)",
-    "ang": "Karo",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 3264,
     "lr": "Africa",
+    "lc": "kxh",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Cherre",
         "Kere",
         "Kerre"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Karo",
+    "gwcode": "am",
+    "ln": "Karo (Ethiopia)"
 }

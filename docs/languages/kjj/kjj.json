@@ -1,20 +1,20 @@
 {
-    "pk": 2916,
-    "lc": "kjj",
+    "gw": false,
     "ISO-639-3": "kjj",
-    "ln": "X\u0131nal\u0131q dili",
-    "ang": "Khinalugh",
     "hc": "AZ",
+    "ld": "ltr",
+    "pk": 2916,
     "lr": "Asia",
+    "lc": "kjj",
+    "cc": [
+        "AZ"
+    ],
     "alt": [
         "Khinalug",
         "Khinalugi",
         "Xinalug"
     ],
-    "cc": [
-        "AZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Khinalugh",
+    "gwcode": "ru",
+    "ln": "X\u0131nal\u0131q dili"
 }

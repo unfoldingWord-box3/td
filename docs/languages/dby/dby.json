@@ -1,19 +1,19 @@
 {
-    "pk": 1460,
-    "lc": "dby",
+    "gw": false,
     "ISO-639-3": "dby",
-    "ln": "Dibiyaso",
-    "ang": "Dibiyaso",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1460,
     "lr": "Pacific",
+    "lc": "dby",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Dibiasu",
         "Pikiwa"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Dibiyaso",
+    "gwcode": "tpi",
+    "ln": "Dibiyaso"
 }

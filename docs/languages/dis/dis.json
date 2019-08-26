@@ -1,19 +1,19 @@
 {
-    "pk": 1536,
-    "lc": "dis",
+    "gw": false,
     "ISO-639-3": "dis",
-    "ln": "Dimasa",
-    "ang": "Dimasa",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1536,
     "lr": "Asia",
+    "lc": "dis",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Dimasa Kachari",
         "Hills Kachari"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "ang": "Dimasa",
+    "gwcode": "as",
+    "ln": "Dimasa"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 7156,
-    "lc": "ydg",
+    "gw": false,
     "ISO-639-3": "ydg",
-    "ln": "\u06cc\u062f\u063a\u06c1",
-    "ang": "Yidgha",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 7156,
     "lr": "Asia",
+    "lc": "ydg",
+    "cc": [
+        "PK"
+    ],
     "alt": [
         "Lutkuhwar",
         "Yidga",
         "Yudga",
         "Yudgha"
     ],
-    "cc": [
-        "PK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Yidgha",
+    "gwcode": "ur",
+    "ln": "\u06cc\u062f\u063a\u06c1"
 }

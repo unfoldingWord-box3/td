@@ -1,19 +1,19 @@
 {
-    "pk": 5282,
-    "lc": "qvy",
+    "gw": false,
     "ISO-639-3": "qvy",
-    "ln": "\u5374\u57df\u8bed",
-    "ang": "Queyu",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 5282,
     "lr": "Asia",
+    "lc": "qvy",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Choyo",
         "Zhaba"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Queyu",
+    "gwcode": "zh",
+    "ln": "\u5374\u57df\u8bed"
 }

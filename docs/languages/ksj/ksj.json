@@ -1,20 +1,20 @@
 {
-    "pk": 3142,
-    "lc": "ksj",
+    "gw": false,
     "ISO-639-3": "ksj",
-    "ln": "Uare",
-    "ang": "Uare",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3142,
     "lr": "Pacific",
+    "lc": "ksj",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kwale",
         "Uare (Kwale)",
         "Garihe (Garia)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Uare",
+    "gwcode": "tpi",
+    "ln": "Uare"
 }

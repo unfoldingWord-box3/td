@@ -1,20 +1,20 @@
 {
-    "pk": 582,
-    "lc": "bdx",
+    "gw": false,
     "ISO-639-3": "bdx",
-    "ln": "Budong-Budong",
-    "ang": "Budong-Budong",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 582,
     "lr": "Asia",
+    "lc": "bdx",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Bubudong",
         "Tangkou",
         "Tongkou"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Budong-Budong",
+    "gwcode": "id",
+    "ln": "Budong-Budong"
 }

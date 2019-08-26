@@ -1,11 +1,15 @@
 {
-    "pk": 2903,
-    "lc": "kix",
+    "gw": false,
     "ISO-639-3": "kix",
-    "ln": "Khiamniungan Naga",
-    "ang": "Naga, Khiamniungan",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2903,
     "lr": "Asia",
+    "lc": "kix",
+    "cc": [
+        "IN",
+        "MM"
+    ],
     "alt": [
         "Aoshedd",
         "Kalyokengnyu",
@@ -22,11 +26,7 @@
         "Thang",
         "Wolam"
     ],
-    "cc": [
-        "IN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Khiamniungan",
+    "gwcode": "en",
+    "ln": "Khiamniungan Naga"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 4016,
-    "lc": "mov",
+    "gw": false,
     "ISO-639-3": "mov",
-    "ln": "Mohave",
-    "ang": "Mohave",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 4016,
     "lr": "Americas",
-    "alt": [
-        "Mojave"
-    ],
+    "lc": "mov",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Mojave"
+    ],
+    "ang": "Mohave",
+    "gwcode": "en",
+    "ln": "Mohave"
 }

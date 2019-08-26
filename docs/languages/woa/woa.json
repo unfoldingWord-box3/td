@@ -1,11 +1,14 @@
 {
-    "pk": 6788,
-    "lc": "woa",
+    "gw": false,
     "ISO-639-3": "woa",
-    "ln": "Tyaraity",
-    "ang": "Tyaraity",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6788,
     "lr": "Pacific",
+    "lc": "woa",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Daktjerat",
         "Djeradj",
@@ -14,10 +17,7 @@
         "Kuwema",
         "Tjerait"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tyaraity",
+    "gwcode": "en",
+    "ln": "Tyaraity"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 992,
-    "lc": "buy",
+    "gw": false,
     "ISO-639-3": "buy",
-    "ln": "Bullom So",
-    "ang": "Bullom So",
     "hc": "SL",
+    "ld": "ltr",
+    "pk": 992,
     "lr": "Africa",
+    "lc": "buy",
+    "cc": [
+        "SL"
+    ],
     "alt": [
         "Bolom",
         "Bulem",
@@ -15,10 +18,7 @@
         "Mandingi",
         "Northern Bullom"
     ],
-    "cc": [
-        "SL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bullom So",
+    "gwcode": "en",
+    "ln": "Bullom So"
 }

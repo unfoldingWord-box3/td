@@ -1,0 +1,22 @@
+.. _xco:
+
+Chorasmian
+==========
+
+This language is spoken in the following countries:
+
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: xco
+    alternate_names: []
+    anglicanized_name: Chorasmian
+    country_codes:
+    - UZ
+    gateway_language: UNKNOWN
+    lang_code: xco
+    lang_direction: ltr
+    lang_name: Chorasmian
+    lang_region: Asia
+    

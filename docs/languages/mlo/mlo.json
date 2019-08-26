@@ -1,19 +1,19 @@
 {
-    "pk": 3939,
-    "lc": "mlo",
+    "gw": false,
     "ISO-639-3": "mlo",
-    "ln": "Mlomp",
-    "ang": "Mlomp",
     "hc": "SN",
+    "ld": "ltr",
+    "pk": 3939,
     "lr": "Africa",
+    "lc": "mlo",
+    "cc": [
+        "SN"
+    ],
     "alt": [
         "Gulompaay",
         "Mlomp North"
     ],
-    "cc": [
-        "SN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mlomp",
+    "gwcode": "fr",
+    "ln": "Mlomp"
 }

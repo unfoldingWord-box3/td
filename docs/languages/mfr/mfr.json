@@ -1,11 +1,14 @@
 {
-    "pk": 3794,
-    "lc": "mfr",
+    "gw": false,
     "ISO-639-3": "mfr",
-    "ln": "Marithiel",
-    "ang": "Marithiel",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 3794,
     "lr": "Pacific",
+    "lc": "mfr",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Berringen",
         "Maridhiel",
@@ -15,10 +18,7 @@
         "Brinken",
         "Mare-Ammu (Mari-Ammu)"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Marithiel",
+    "gwcode": "en",
+    "ln": "Marithiel"
 }

@@ -1,11 +1,16 @@
 {
-    "pk": 2403,
-    "lc": "iba",
+    "gw": false,
     "ISO-639-3": "iba",
-    "ln": "Iban",
-    "ang": "Iban",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 2403,
     "lr": "Asia",
+    "lc": "iba",
+    "cc": [
+        "BN",
+        "ID",
+        "MY"
+    ],
     "alt": [
         "Sea Dayak",
         "Sekapat",
@@ -19,12 +24,7 @@
         "Banjur",
         "Maung"
     ],
-    "cc": [
-        "BN",
-        "ID",
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Iban",
+    "gwcode": "ms",
+    "ln": "Iban"
 }

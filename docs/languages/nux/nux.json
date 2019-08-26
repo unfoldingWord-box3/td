@@ -1,20 +1,20 @@
 {
-    "pk": 4696,
-    "lc": "nux",
+    "gw": false,
     "ISO-639-3": "nux",
-    "ln": "Mehek",
-    "ang": "Mehek",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4696,
     "lr": "Pacific",
+    "lc": "nux",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Driafleisuma",
         "Indinogosima",
         "Me'ek"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Mehek",
+    "gwcode": "tpi",
+    "ln": "Mehek"
 }

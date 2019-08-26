@@ -1,11 +1,14 @@
 {
-    "pk": 4873,
-    "lc": "oru",
+    "gw": false,
     "ISO-639-3": "oru",
-    "ln": "\u0627\u0648\u0631\u0645\u0691\u06cc",
-    "ang": "Ormuri",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 4873,
     "lr": "Asia",
+    "lc": "oru",
+    "cc": [
+        "PK"
+    ],
     "alt": [
         "Baraks",
         "Bargista",
@@ -15,10 +18,7 @@
         "Ormur",
         "Urmuri"
     ],
-    "cc": [
-        "PK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Ormuri",
+    "gwcode": "ur",
+    "ln": "\u0627\u0648\u0631\u0645\u0691\u06cc"
 }

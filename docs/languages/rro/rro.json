@@ -1,18 +1,18 @@
 {
-    "pk": 5422,
-    "lc": "rro",
+    "gw": false,
     "ISO-639-3": "rro",
-    "ln": "Waima",
-    "ang": "Waima",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5422,
     "lr": "Pacific",
-    "alt": [
-        "Paitana"
-    ],
+    "lc": "rro",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Paitana"
+    ],
+    "ang": "Waima",
+    "gwcode": "tpi",
+    "ln": "Waima"
 }

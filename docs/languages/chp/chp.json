@@ -1,18 +1,18 @@
 {
-    "pk": 1201,
-    "lc": "chp",
+    "gw": false,
     "ISO-639-3": "chp",
-    "ln": "Chipewyan",
-    "ang": "Dene",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 1201,
     "lr": "Americas",
-    "alt": [
-        "D\u00ebne S\u00faline"
-    ],
+    "lc": "chp",
     "cc": [
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "D\u00ebne S\u00faline"
+    ],
+    "ang": "Dene",
+    "gwcode": "en",
+    "ln": "Chipewyan"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3477,
-    "lc": "lji",
+    "gw": false,
     "ISO-639-3": "lji",
-    "ln": "Laiyolo",
-    "ang": "Laiyolo",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3477,
     "lr": "Asia",
+    "lc": "lji",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Da'ang",
         "Laiyolo (Lajolo)",
@@ -14,10 +17,7 @@
         "Lowa",
         "Barang-Barang (Loa)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Laiyolo",
+    "gwcode": "id",
+    "ln": "Laiyolo"
 }

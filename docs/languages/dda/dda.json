@@ -1,11 +1,14 @@
 {
-    "pk": 1462,
-    "lc": "dda",
+    "gw": false,
     "ISO-639-3": "dda",
-    "ln": "Dadi Dadi",
-    "ang": "Dadi Dadi",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 1462,
     "lr": "Pacific",
+    "lc": "dda",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Dadidadi",
         "Dardidardi",
@@ -13,10 +16,7 @@
         "Tatitati",
         "Tharrthi-Tharrthi"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dadi Dadi",
+    "gwcode": "en",
+    "ln": "Dadi Dadi"
 }

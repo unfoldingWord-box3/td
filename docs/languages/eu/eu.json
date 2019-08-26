@@ -1,11 +1,18 @@
 {
-    "pk": 1801,
-    "lc": "eu",
+    "gw": false,
     "ISO-639-3": "eus",
-    "ln": "euskara, euskera",
-    "ang": "Basque",
     "hc": "ES",
+    "ld": "ltr",
+    "pk": 1801,
     "lr": "Europe",
+    "lc": "eu",
+    "cc": [
+        "CL",
+        "FR",
+        "VE",
+        "ES",
+        "US"
+    ],
     "alt": [
         "Euskara",
         "Euskera",
@@ -29,14 +36,7 @@
         "Lapurdiera",
         "Suberoan"
     ],
-    "cc": [
-        "CL",
-        "FR",
-        "VE",
-        "ES",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es"
+    "ang": "Basque",
+    "gwcode": "es",
+    "ln": "euskara, euskera"
 }

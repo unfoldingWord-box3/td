@@ -1,20 +1,20 @@
 {
-    "pk": 2352,
-    "lc": "hrw",
+    "gw": false,
     "ISO-639-3": "hrw",
-    "ln": "Warwar Feni",
-    "ang": "Warwar Feni",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2352,
     "lr": "Pacific",
+    "lc": "hrw",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Anir",
         "Feni",
         "Tangga"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Warwar Feni",
+    "gwcode": "tpi",
+    "ln": "Warwar Feni"
 }

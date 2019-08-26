@@ -1,20 +1,20 @@
 {
-    "pk": 1929,
-    "lc": "gbb",
+    "gw": false,
     "ISO-639-3": "gbb",
-    "ln": "Kaytetye",
-    "ang": "Kaytetye",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 1929,
     "lr": "Pacific",
+    "lc": "gbb",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Gaididj",
         "Kaiditj",
         "Kaititj"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kaytetye",
+    "gwcode": "en",
+    "ln": "Kaytetye"
 }

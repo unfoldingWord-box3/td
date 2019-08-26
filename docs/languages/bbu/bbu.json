@@ -1,11 +1,14 @@
 {
-    "pk": 528,
-    "lc": "bbu",
+    "gw": false,
     "ISO-639-3": "bbu",
-    "ln": "Kulung (Nigeria)",
-    "ang": "Kulung",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 528,
     "lr": "Africa",
+    "lc": "bbu",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bakuli",
         "Bakulu",
@@ -17,10 +20,7 @@
         "Wo",
         "Wurkum"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kulung",
+    "gwcode": "en",
+    "ln": "Kulung (Nigeria)"
 }

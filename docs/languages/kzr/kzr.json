@@ -1,11 +1,14 @@
 {
-    "pk": 3324,
-    "lc": "kzr",
+    "gw": false,
     "ISO-639-3": "kzr",
-    "ln": "Karang",
-    "ang": "Karang",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3324,
     "lr": "Africa",
+    "lc": "kzr",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Mbum",
         "Mbum-East",
@@ -18,10 +21,7 @@
         "Nz\u00e1k K\u00e0r\u00e1ng",
         "Ngumi"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Karang",
+    "gwcode": "fr",
+    "ln": "Karang"
 }

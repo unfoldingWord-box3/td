@@ -1,19 +1,19 @@
 {
-    "pk": 7305,
-    "lc": "yuq",
+    "gw": false,
     "ISO-639-3": "yuq",
-    "ln": "Yuqui",
-    "ang": "Yuqui",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 7305,
     "lr": "Americas",
+    "lc": "yuq",
+    "cc": [
+        "BO"
+    ],
     "alt": [
         "Bia",
         "Yuki"
     ],
-    "cc": [
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Yuqui",
+    "gwcode": "es-419",
+    "ln": "Yuqui"
 }

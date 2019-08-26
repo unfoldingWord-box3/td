@@ -1,20 +1,20 @@
 {
-    "pk": 2855,
-    "lc": "kgw",
+    "gw": false,
     "ISO-639-3": "kgw",
-    "ln": "Karon Dori",
-    "ang": "Karon Dori",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2855,
     "lr": "Asia",
+    "lc": "kgw",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Maiyach",
         "Mari",
         "Meon"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Karon Dori",
+    "gwcode": "id",
+    "ln": "Karon Dori"
 }

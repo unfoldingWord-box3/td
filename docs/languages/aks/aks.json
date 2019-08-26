@@ -1,11 +1,14 @@
 {
-    "pk": 205,
-    "lc": "aks",
+    "gw": false,
     "ISO-639-3": "aks",
-    "ln": "Akaselem",
-    "ang": "Akaselem",
     "hc": "TG",
+    "ld": "ltr",
+    "pk": 205,
     "lr": "Africa",
+    "lc": "aks",
+    "cc": [
+        "TG"
+    ],
     "alt": [
         "Akasele",
         "Cemba",
@@ -14,10 +17,7 @@
         "Kasele",
         "Tchamba"
     ],
-    "cc": [
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Akaselem",
+    "gwcode": "fr",
+    "ln": "Akaselem"
 }

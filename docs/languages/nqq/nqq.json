@@ -1,21 +1,21 @@
 {
-    "pk": 4620,
-    "lc": "nqq",
+    "gw": false,
     "ISO-639-3": "nqq",
-    "ln": "Kyan-Karyaw Naga",
-    "ang": "Naga, Kyan-Karyaw",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 4620,
     "lr": "Asia",
+    "lc": "nqq",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Chen",
         "Kaiyaw",
         "Kayaw",
         "Kayu"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Naga, Kyan-Karyaw",
+    "gwcode": "my",
+    "ln": "Kyan-Karyaw Naga"
 }

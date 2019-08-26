@@ -1,11 +1,15 @@
 {
-    "pk": 2900,
-    "lc": "kiu",
+    "gw": false,
     "ISO-639-3": "kiu",
-    "ln": "Kirmanjki (individual language)",
-    "ang": "Zazaki, Northern",
     "hc": "TR",
+    "ld": "ltr",
+    "pk": 2900,
     "lr": "Asia",
+    "lc": "kiu",
+    "cc": [
+        "RS",
+        "TR"
+    ],
     "alt": [
         "Alevica",
         "Dersimki",
@@ -16,11 +20,7 @@
         "Zaza",
         "Zon\u00ea Ma"
     ],
-    "cc": [
-        "RS",
-        "TR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tr"
+    "ang": "Zazaki, Northern",
+    "gwcode": "tr",
+    "ln": "Kirmanjki (individual language)"
 }

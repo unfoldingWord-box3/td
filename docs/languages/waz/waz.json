@@ -1,18 +1,18 @@
 {
-    "pk": 6688,
-    "lc": "waz",
+    "gw": false,
     "ISO-639-3": "waz",
-    "ln": "Wampur",
-    "ang": "Wampur",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6688,
     "lr": "Pacific",
-    "alt": [
-        "Wampul"
-    ],
+    "lc": "waz",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Wampul"
+    ],
+    "ang": "Wampur",
+    "gwcode": "tpi",
+    "ln": "Wampur"
 }

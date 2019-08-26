@@ -1,11 +1,14 @@
 {
-    "pk": 2106,
-    "lc": "gor",
+    "gw": false,
     "ISO-639-3": "gor",
-    "ln": "Gorontalo",
-    "ang": "Gorontalo",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2106,
     "lr": "Asia",
+    "lc": "gor",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Gorongtalo",
         "Guarantala",
@@ -15,10 +18,7 @@
         "West Gorontalo (Kwandang)",
         "Limboto (Limbotto)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Gorontalo",
+    "gwcode": "id",
+    "ln": "Gorontalo"
 }

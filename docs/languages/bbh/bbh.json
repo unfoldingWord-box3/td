@@ -1,11 +1,14 @@
 {
-    "pk": 515,
-    "lc": "bbh",
+    "gw": false,
     "ISO-639-3": "bbh",
-    "ln": "\u5e03\u7518\u8bed",
-    "ang": "Bugan",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 515,
     "lr": "Asia",
+    "lc": "bbh",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Bengan",
         "Bogan",
@@ -15,10 +18,7 @@
         "Pukan",
         "Puqeng"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Bugan",
+    "gwcode": "zh",
+    "ln": "\u5e03\u7518\u8bed"
 }

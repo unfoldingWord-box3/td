@@ -1,18 +1,18 @@
 {
-    "pk": 3430,
-    "lc": "lga",
+    "gw": false,
     "ISO-639-3": "lga",
-    "ln": "Lungga",
-    "ang": "Lungga",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 3430,
     "lr": "Pacific",
-    "alt": [
-        "Luqa"
-    ],
+    "lc": "lga",
     "cc": [
         "SB"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "alt": [
+        "Luqa"
+    ],
+    "ang": "Lungga",
+    "gwcode": "UNKNOWN",
+    "ln": "Lungga"
 }

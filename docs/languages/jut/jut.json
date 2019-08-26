@@ -1,20 +1,20 @@
 {
-    "pk": 2682,
-    "lc": "jut",
+    "gw": false,
     "ISO-639-3": "jut",
-    "ln": "Jutish",
-    "ang": "Jutish",
     "hc": "DK",
+    "ld": "ltr",
+    "pk": 2682,
     "lr": "Europe",
+    "lc": "jut",
+    "cc": [
+        "DK"
+    ],
     "alt": [
         "Jutlandish",
         "Jysk",
         "Western Danish"
     ],
-    "cc": [
-        "DK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Jutish",
+    "gwcode": "en",
+    "ln": "Jutish"
 }

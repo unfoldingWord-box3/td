@@ -1,20 +1,20 @@
 {
-    "pk": 6111,
-    "lc": "thp",
+    "gw": false,
     "ISO-639-3": "thp",
-    "ln": "Thompson",
-    "ang": "Thompson",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 6111,
     "lr": "Americas",
+    "lc": "thp",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Nklapmx",
         "Ntlakapamux",
         "Ntlakapmuk"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Thompson",
+    "gwcode": "en",
+    "ln": "Thompson"
 }

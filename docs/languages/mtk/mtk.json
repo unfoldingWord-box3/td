@@ -1,19 +1,19 @@
 {
-    "pk": 4131,
-    "lc": "mtk",
+    "gw": false,
     "ISO-639-3": "mtk",
-    "ln": "Mbe'",
-    "ang": "Mbo\u2019",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4131,
     "lr": "Africa",
+    "lc": "mtk",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Mbaw",
         "Mbe'"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mbo\u2019",
+    "gwcode": "fr",
+    "ln": "Mbe'"
 }

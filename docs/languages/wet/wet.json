@@ -1,20 +1,20 @@
 {
-    "pk": 6720,
-    "lc": "wet",
+    "gw": false,
     "ISO-639-3": "wet",
-    "ln": "Perai",
-    "ang": "Perai",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6720,
     "lr": "Asia",
+    "lc": "wet",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Tutunohan",
         "Uhak",
         "Moning"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Perai",
+    "gwcode": "id",
+    "ln": "Perai"
 }

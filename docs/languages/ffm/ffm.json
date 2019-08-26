@@ -1,24 +1,24 @@
 {
-    "pk": 1836,
-    "lc": "ffm",
+    "gw": false,
     "ISO-639-3": "ffm",
-    "ln": "Maasina Fulfulde",
-    "ang": "Fulfulde, Maasina",
     "hc": "ML",
+    "ld": "ltr",
+    "pk": 1836,
     "lr": "Africa",
-    "alt": [
-        "Fulbe",
-        "Maacina",
-        "Peul",
-        "Macina"
-    ],
+    "lc": "ffm",
     "cc": [
         "BF",
         "GH",
         "ML",
         "MR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Fulbe",
+        "Maacina",
+        "Peul",
+        "Macina"
+    ],
+    "ang": "Fulfulde, Maasina",
+    "gwcode": "fr",
+    "ln": "Maasina Fulfulde"
 }

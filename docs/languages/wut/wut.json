@@ -1,18 +1,18 @@
 {
-    "pk": 6839,
-    "lc": "wut",
+    "gw": false,
     "ISO-639-3": "wut",
-    "ln": "Wutung",
-    "ang": "Wutung",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6839,
     "lr": "Pacific",
-    "alt": [
-        "Udung"
-    ],
+    "lc": "wut",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Udung"
+    ],
+    "ang": "Wutung",
+    "gwcode": "tpi",
+    "ln": "Wutung"
 }

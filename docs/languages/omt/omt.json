@@ -1,20 +1,20 @@
 {
-    "pk": 4834,
-    "lc": "omt",
+    "gw": false,
     "ISO-639-3": "omt",
-    "ln": "Omotik",
-    "ang": "Omotik",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 4834,
     "lr": "Africa",
+    "lc": "omt",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Laamoot",
         "Omotic",
         "Ndorobo"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Omotik",
+    "gwcode": "sw",
+    "ln": "Omotik"
 }

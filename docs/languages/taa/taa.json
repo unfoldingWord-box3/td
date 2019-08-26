@@ -1,18 +1,18 @@
 {
-    "pk": 5963,
-    "lc": "taa",
+    "gw": false,
     "ISO-639-3": "taa",
-    "ln": "Lower Tanana",
-    "ang": "Tanana, Lower",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 5963,
     "lr": "Americas",
-    "alt": [
-        "Tanana"
-    ],
+    "lc": "taa",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Tanana"
+    ],
+    "ang": "Tanana, Lower",
+    "gwcode": "en",
+    "ln": "Lower Tanana"
 }

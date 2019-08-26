@@ -1,0 +1,23 @@
+.. _lkh:
+
+Lakha
+=====
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+
+.. code-block:: yaml
+
+    ISO_639-3: lkh
+    alternate_names:
+    - Tshangkha
+    anglicanized_name: Lakha
+    country_codes:
+    - BT
+    gateway_language: UNKNOWN
+    lang_code: lkh
+    lang_direction: ltr
+    lang_name: Lakha
+    lang_region: Asia
+    

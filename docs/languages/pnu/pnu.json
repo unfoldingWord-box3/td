@@ -1,11 +1,14 @@
 {
-    "pk": 5117,
-    "lc": "pnu",
+    "gw": false,
     "ISO-639-3": "pnu",
-    "ln": "\u70af\u5948",
-    "ang": "Bunu, Jiongnai",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 5117,
     "lr": "Asia",
+    "lc": "pnu",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Hualan Yao",
         "Jiongnai",
@@ -14,10 +17,7 @@
         "Punu",
         "Qiungnai"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Bunu, Jiongnai",
+    "gwcode": "zh",
+    "ln": "\u70af\u5948"
 }

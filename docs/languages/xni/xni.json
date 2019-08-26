@@ -1,11 +1,14 @@
 {
-    "pk": 6994,
-    "lc": "xni",
+    "gw": false,
     "ISO-639-3": "xni",
-    "ln": "Ngarigu",
-    "ang": "Ngarigu",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6994,
     "lr": "Pacific",
+    "lc": "xni",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Bemeringal",
         "Bradjerak",
@@ -25,10 +28,7 @@
         "Ngaryo",
         "Nguramal"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ngarigu",
+    "gwcode": "en",
+    "ln": "Ngarigu"
 }

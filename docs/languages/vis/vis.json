@@ -1,19 +1,19 @@
 {
-    "pk": 6615,
-    "lc": "vis",
+    "gw": false,
     "ISO-639-3": "vis",
-    "ln": "Vishavan",
-    "ang": "Vishavan",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6615,
     "lr": "Asia",
+    "lc": "vis",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Malankudi",
         "Malarkuti"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ml"
+    "ang": "Vishavan",
+    "gwcode": "ml",
+    "ln": "Vishavan"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 4882,
-    "lc": "osi",
+    "gw": false,
     "ISO-639-3": "osi",
-    "ln": "Osing",
-    "ang": "Osing",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4882,
     "lr": "Asia",
-    "alt": [
-        "Banyuwangi"
-    ],
+    "lc": "osi",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Banyuwangi"
+    ],
+    "ang": "Osing",
+    "gwcode": "id",
+    "ln": "Osing"
 }

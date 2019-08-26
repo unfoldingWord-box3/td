@@ -1,18 +1,18 @@
 {
-    "pk": 6394,
-    "lc": "tvk",
+    "gw": false,
     "ISO-639-3": "tvk",
-    "ln": "Southeast Ambrym",
-    "ang": "Ambrym, Southeast",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 6394,
     "lr": "Pacific",
-    "alt": [
-        "Taveak (Taviak)"
-    ],
+    "lc": "tvk",
     "cc": [
         "VU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Taveak (Taviak)"
+    ],
+    "ang": "Ambrym, Southeast",
+    "gwcode": "fr",
+    "ln": "Southeast Ambrym"
 }

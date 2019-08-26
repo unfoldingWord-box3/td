@@ -1,19 +1,19 @@
 {
-    "pk": 3287,
-    "lc": "kyd",
+    "gw": false,
     "ISO-639-3": "kyd",
-    "ln": "Karey",
-    "ang": "Karey",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3287,
     "lr": "Asia",
+    "lc": "kyd",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kerei",
         "Krei"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Karey",
+    "gwcode": "id",
+    "ln": "Karey"
 }

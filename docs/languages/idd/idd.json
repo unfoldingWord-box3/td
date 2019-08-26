@@ -1,11 +1,14 @@
 {
-    "pk": 2422,
-    "lc": "idd",
+    "gw": false,
     "ISO-639-3": "idd",
-    "ln": "Ede Idaca",
-    "ang": "Ede Idaca",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 2422,
     "lr": "Africa",
+    "lc": "idd",
+    "cc": [
+        "BJ"
+    ],
     "alt": [
         "Idaaca",
         "Idaasa",
@@ -14,10 +17,7 @@
         "Id\u00e0\u00e1sh\u00e0",
         "Id\u00e0\u00e1tch\u00e0"
     ],
-    "cc": [
-        "BJ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ede Idaca",
+    "gwcode": "fr",
+    "ln": "Ede Idaca"
 }

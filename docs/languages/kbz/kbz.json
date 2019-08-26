@@ -1,19 +1,19 @@
 {
-    "pk": 2735,
-    "lc": "kbz",
+    "gw": false,
     "ISO-639-3": "kbz",
-    "ln": "Duhwa",
-    "ang": "Duhwa",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2735,
     "lr": "Africa",
+    "lc": "kbz",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kerifa",
         "Nzuhwi"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Duhwa",
+    "gwcode": "en",
+    "ln": "Duhwa"
 }

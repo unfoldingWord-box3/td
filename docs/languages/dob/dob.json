@@ -1,11 +1,14 @@
 {
-    "pk": 1594,
-    "lc": "dob",
+    "gw": false,
     "ISO-639-3": "dob",
-    "ln": "Dobu",
-    "ang": "Dobu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1594,
     "lr": "Pacific",
+    "lc": "dob",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Dobuan",
         "Central Dobu",
@@ -14,10 +17,7 @@
         "Roboda",
         "Sanaroa"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Dobu",
+    "gwcode": "tpi",
+    "ln": "Dobu"
 }

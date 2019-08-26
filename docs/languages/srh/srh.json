@@ -1,11 +1,14 @@
 {
-    "pk": 5810,
-    "lc": "srh",
+    "gw": false,
     "ISO-639-3": "srh",
-    "ln": "\u5854\u5409\u514b\u8bed",
-    "ang": "Sarikoli",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 5810,
     "lr": "Asia",
+    "lc": "srh",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Saliku'er",
         "Salikur",
@@ -16,10 +19,7 @@
         "Tajik",
         "Tajiki"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Sarikoli",
+    "gwcode": "zh",
+    "ln": "\u5854\u5409\u514b\u8bed"
 }

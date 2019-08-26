@@ -1,19 +1,19 @@
 {
-    "pk": 358,
-    "lc": "asb",
+    "gw": false,
     "ISO-639-3": "asb",
-    "ln": "Assiniboine",
-    "ang": "Assiniboine",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 358,
     "lr": "Americas",
-    "alt": [
-        "Hohe"
-    ],
+    "lc": "asb",
     "cc": [
         "US",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Hohe"
+    ],
+    "ang": "Assiniboine",
+    "gwcode": "en",
+    "ln": "Assiniboine"
 }

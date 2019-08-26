@@ -1,11 +1,15 @@
 {
-    "pk": 5945,
-    "lc": "syn",
+    "gw": false,
     "ISO-639-3": "syn",
-    "ln": "\u0632\u0628\u0627\u0646 \u0633\u0646\u0627\u06cc\u0627",
-    "ang": "Senaya",
     "hc": "IR",
+    "ld": "ltr",
+    "pk": 5945,
     "lr": "Asia",
+    "lc": "syn",
+    "cc": [
+        "IR",
+        "US"
+    ],
     "alt": [
         "Christian Neo-Aramaic",
         "Lshan Sray",
@@ -15,11 +19,7 @@
         "Soray",
         "Sray"
     ],
-    "cc": [
-        "IR",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fa"
+    "ang": "Senaya",
+    "gwcode": "fa",
+    "ln": "\u0632\u0628\u0627\u0646 \u0633\u0646\u0627\u06cc\u0627"
 }

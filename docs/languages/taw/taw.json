@@ -1,19 +1,19 @@
 {
-    "pk": 5980,
-    "lc": "taw",
+    "gw": false,
     "ISO-639-3": "taw",
-    "ln": "Tai",
-    "ang": "Tai",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5980,
     "lr": "Pacific",
-    "alt": [
-        "Tay"
-    ],
+    "lc": "taw",
     "cc": [
         "PG",
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Tay"
+    ],
+    "ang": "Tai",
+    "gwcode": "tpi",
+    "ln": "Tai"
 }

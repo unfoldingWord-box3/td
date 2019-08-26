@@ -1,19 +1,19 @@
 {
-    "pk": 1028,
-    "lc": "bwl",
+    "gw": false,
     "ISO-639-3": "bwl",
-    "ln": "Bwela",
-    "ang": "Bwela",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 1028,
     "lr": "Africa",
+    "lc": "bwl",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Buela",
         "Lingi"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bwela",
+    "gwcode": "fr",
+    "ln": "Bwela"
 }

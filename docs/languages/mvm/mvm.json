@@ -1,11 +1,14 @@
 {
-    "pk": 4178,
-    "lc": "mvm",
+    "gw": false,
     "ISO-639-3": "mvm",
-    "ln": "\u6728\u96c5\u8bed",
-    "ang": "Muya",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 4178,
     "lr": "Asia",
+    "lc": "mvm",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Boba",
         "Manyak",
@@ -17,10 +20,7 @@
         "Eastern Muya",
         "Western Muya"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Muya",
+    "gwcode": "zh",
+    "ln": "\u6728\u96c5\u8bed"
 }

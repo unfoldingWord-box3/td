@@ -1,11 +1,14 @@
 {
-    "pk": 1015,
-    "lc": "bvx",
+    "gw": false,
     "ISO-639-3": "bvx",
-    "ln": "Dibole",
-    "ang": "Dibole",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 1015,
     "lr": "Africa",
+    "lc": "bvx",
+    "cc": [
+        "CG"
+    ],
     "alt": [
         "Babole",
         "Southern Bomitaba",
@@ -13,10 +16,7 @@
         "Northern Dibole (Dzeke)",
         "Southern Dibole (Bouanila)"
     ],
-    "cc": [
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dibole",
+    "gwcode": "fr",
+    "ln": "Dibole"
 }

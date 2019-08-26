@@ -1,21 +1,21 @@
 {
-    "pk": 6022,
-    "lc": "tcq",
+    "gw": false,
     "ISO-639-3": "tcq",
-    "ln": "Kaiy",
-    "ang": "Kaiy",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6022,
     "lr": "Asia",
+    "lc": "tcq",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kai",
         "Taori-Kaiy",
         "Taori-Kei",
         "Todi"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kaiy",
+    "gwcode": "id",
+    "ln": "Kaiy"
 }

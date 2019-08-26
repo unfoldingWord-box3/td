@@ -1,11 +1,14 @@
 {
-    "pk": 4706,
-    "lc": "nwe",
+    "gw": false,
     "ISO-639-3": "nwe",
-    "ln": "Ngwe",
-    "ang": "Ngwe",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4706,
     "lr": "Africa",
+    "lc": "nwe",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bamileke-Ngwe",
         "Fomopea",
@@ -13,10 +16,7 @@
         "Nwe",
         "Nweh"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ngwe",
+    "gwcode": "fr",
+    "ln": "Ngwe"
 }

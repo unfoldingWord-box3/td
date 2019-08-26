@@ -1,11 +1,15 @@
 {
-    "pk": 721,
-    "lc": "bjo",
+    "gw": false,
     "ISO-639-3": "bjo",
-    "ln": "Mid-Southern Banda",
-    "ang": "Banda, Mid-Southern",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 721,
     "lr": "Africa",
+    "lc": "bjo",
+    "cc": [
+        "CF",
+        "SS"
+    ],
     "alt": [
         "Banda Central Sud",
         "Wasa (Ouassa)",
@@ -14,11 +18,7 @@
         "Yakpwa",
         "Yakwa"
     ],
-    "cc": [
-        "CF",
-        "SS"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Banda, Mid-Southern",
+    "gwcode": "fr",
+    "ln": "Mid-Southern Banda"
 }

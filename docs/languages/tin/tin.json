@@ -1,21 +1,21 @@
 {
-    "pk": 6132,
-    "lc": "tin",
+    "gw": false,
     "ISO-639-3": "tin",
-    "ln": "\u0422\u0438\u043d\u0434\u0438\u043d\u0441\u043a\u0438\u0439",
-    "ang": "Tindi",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 6132,
     "lr": "Europe",
+    "lc": "tin",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Tindal",
         "Tindin",
         "Tindin-Echendin",
         "Angidin-Aknadin"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Tindi",
+    "gwcode": "ru",
+    "ln": "\u0422\u0438\u043d\u0434\u0438\u043d\u0441\u043a\u0438\u0439"
 }

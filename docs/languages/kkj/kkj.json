@@ -1,23 +1,23 @@
 {
-    "pk": 2942,
-    "lc": "kkj",
+    "gw": false,
     "ISO-639-3": "kkj",
-    "ln": "Kako",
-    "ang": "Kako",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 2942,
     "lr": "Africa",
+    "lc": "kkj",
+    "cc": [
+        "CM",
+        "CF",
+        "CG"
+    ],
     "alt": [
         "Kaka",
         "Nkoxo",
         "Yaka",
         "Mkako"
     ],
-    "cc": [
-        "CM",
-        "CF",
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kako",
+    "gwcode": "fr",
+    "ln": "Kako"
 }

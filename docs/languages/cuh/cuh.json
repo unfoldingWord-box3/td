@@ -1,19 +1,19 @@
 {
-    "pk": 1388,
-    "lc": "cuh",
+    "gw": false,
     "ISO-639-3": "cuh",
-    "ln": "Chuka",
-    "ang": "Gichuka",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 1388,
     "lr": "Africa",
+    "lc": "cuh",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Chuku",
         "Suka"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Gichuka",
+    "gwcode": "sw",
+    "ln": "Chuka"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 1706,
-    "lc": "ego",
+    "gw": false,
     "ISO-639-3": "ego",
-    "ln": "Eggon",
-    "ang": "Eggon",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1706,
     "lr": "Africa",
+    "lc": "ego",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Egon",
         "Hill Mada",
@@ -13,10 +16,7 @@
         "Mada Eggon",
         "Mo Egon"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Eggon",
+    "gwcode": "en",
+    "ln": "Eggon"
 }

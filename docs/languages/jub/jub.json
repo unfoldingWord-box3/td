@@ -1,21 +1,21 @@
 {
-    "pk": 2670,
-    "lc": "jub",
+    "gw": false,
     "ISO-639-3": "jub",
-    "ln": "Wannu",
-    "ang": "Wannu",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2670,
     "lr": "Africa",
+    "lc": "jub",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Abinsi",
         "Awannu",
         "Jukun Abinsi",
         "River Jukun"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Wannu",
+    "gwcode": "en",
+    "ln": "Wannu"
 }

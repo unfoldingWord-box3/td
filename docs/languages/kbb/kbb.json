@@ -1,11 +1,14 @@
 {
-    "pk": 2712,
-    "lc": "kbb",
+    "gw": false,
     "ISO-639-3": "kbb",
-    "ln": "Kaxui\u00e2na",
-    "ang": "Kaxui\u00e2na",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2712,
     "lr": "Americas",
+    "lc": "kbb",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Pawiyana (Pawixi)",
         "Kachuana",
@@ -15,10 +18,7 @@
         "Warikiana",
         "Warikyana"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Kaxui\u00e2na",
+    "gwcode": "pt",
+    "ln": "Kaxui\u00e2na"
 }

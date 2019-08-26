@@ -1,19 +1,19 @@
 {
-    "pk": 7046,
-    "lc": "xsn",
+    "gw": false,
     "ISO-639-3": "xsn",
-    "ln": "Sanga (Nigeria)",
-    "ang": "Sanga",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 7046,
     "lr": "Africa",
+    "lc": "xsn",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Asanga",
         "Isanga"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Sanga",
+    "gwcode": "en",
+    "ln": "Sanga (Nigeria)"
 }

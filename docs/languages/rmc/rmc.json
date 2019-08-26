@@ -1,17 +1,11 @@
 {
-    "pk": 5377,
-    "lc": "rmc",
+    "gw": false,
     "ISO-639-3": "rmc",
-    "ln": "Carpathian Romani",
-    "ang": "Romani, Carpathian",
     "hc": "CZ",
+    "ld": "ltr",
+    "pk": 5377,
     "lr": "Europe",
-    "alt": [
-        "Bashaldo",
-        "Hungarian-Slovak Romani",
-        "Romungro",
-        "Selice Romani"
-    ],
+    "lc": "rmc",
     "cc": [
         "CY",
         "HU",
@@ -21,7 +15,13 @@
         "PL",
         "SK"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Bashaldo",
+        "Hungarian-Slovak Romani",
+        "Romungro",
+        "Selice Romani"
+    ],
+    "ang": "Romani, Carpathian",
+    "gwcode": "en",
+    "ln": "Carpathian Romani"
 }

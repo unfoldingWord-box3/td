@@ -1,19 +1,19 @@
 {
-    "pk": 4081,
-    "lc": "mrl",
+    "gw": false,
     "ISO-639-3": "mrl",
-    "ln": "Mortlockese",
-    "ang": "Mortlockese",
     "hc": "FM",
+    "ld": "ltr",
+    "pk": 4081,
     "lr": "Pacific",
+    "lc": "mrl",
+    "cc": [
+        "FM"
+    ],
     "alt": [
         "Mortlock",
         "Nomoi"
     ],
-    "cc": [
-        "FM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mortlockese",
+    "gwcode": "en",
+    "ln": "Mortlockese"
 }

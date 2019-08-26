@@ -1,11 +1,14 @@
 {
-    "pk": 1610,
-    "lc": "dow",
+    "gw": false,
     "ISO-639-3": "dow",
-    "ln": "Doyayo",
-    "ang": "Doyayo",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 1610,
     "lr": "Africa",
+    "lc": "dow",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Doayo",
         "Donyanyo",
@@ -26,10 +29,7 @@
         "Namshi",
         "Teere (Poli)"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Doyayo",
+    "gwcode": "fr",
+    "ln": "Doyayo"
 }

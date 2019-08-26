@@ -1,21 +1,21 @@
 {
-    "pk": 409,
-    "lc": "aug",
+    "gw": false,
     "ISO-639-3": "aug",
-    "ln": "Aguna",
-    "ang": "Aguna",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 409,
     "lr": "Africa",
+    "lc": "aug",
+    "cc": [
+        "BJ"
+    ],
     "alt": [
         "Agunaco",
         "Awuna",
         "Agunagbe",
         "Agunan\u00fd"
     ],
-    "cc": [
-        "BJ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Aguna",
+    "gwcode": "fr",
+    "ln": "Aguna"
 }

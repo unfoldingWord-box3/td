@@ -1,11 +1,14 @@
 {
-    "pk": 5470,
-    "lc": "saq",
+    "gw": false,
     "ISO-639-3": "saq",
-    "ln": "Samburu",
-    "ang": "Samburu",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 5470,
     "lr": "Africa",
+    "lc": "saq",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Burkeneji",
         "E Lokop",
@@ -16,10 +19,7 @@
         "Njemps",
         "Chamus (Ilcamus)"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Samburu",
+    "gwcode": "sw",
+    "ln": "Samburu"
 }

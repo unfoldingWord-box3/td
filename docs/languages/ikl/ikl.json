@@ -1,19 +1,19 @@
 {
-    "pk": 2461,
-    "lc": "ikl",
+    "gw": false,
     "ISO-639-3": "ikl",
-    "ln": "Ikulu",
-    "ang": "Ikulu",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2461,
     "lr": "Africa",
+    "lc": "ikl",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ankulu",
         "Ikolu"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ikulu",
+    "gwcode": "en",
+    "ln": "Ikulu"
 }

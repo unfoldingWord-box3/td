@@ -1,20 +1,20 @@
 {
-    "pk": 6465,
-    "lc": "uam",
+    "gw": false,
     "ISO-639-3": "uam",
-    "ln": "Uamu\u00e9",
-    "ang": "Uamu\u00e9",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 6465,
     "lr": "Americas",
+    "lc": "uam",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Aticum",
         "Atikum",
         "Huamu\u00ea"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Uamu\u00e9",
+    "gwcode": "pt",
+    "ln": "Uamu\u00e9"
 }

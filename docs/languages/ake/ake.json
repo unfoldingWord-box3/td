@@ -1,11 +1,16 @@
 {
-    "pk": 194,
-    "lc": "ake",
+    "gw": false,
     "ISO-639-3": "ake",
-    "ln": "Akawaio",
-    "ang": "Akawaio",
     "hc": "GY",
+    "ld": "ltr",
+    "pk": 194,
     "lr": "Americas",
+    "lc": "ake",
+    "cc": [
+        "BR",
+        "VE",
+        "GY"
+    ],
     "alt": [
         "Acahuayo",
         "Acewaio",
@@ -18,12 +23,7 @@
         "Waic\u00e1",
         "Waika"
     ],
-    "cc": [
-        "BR",
-        "VE",
-        "GY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Akawaio",
+    "gwcode": "es-419",
+    "ln": "Akawaio"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 2836,
-    "lc": "kga",
+    "gw": false,
     "ISO-639-3": "kga",
-    "ln": "Koyaga",
-    "ang": "Koyaga",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 2836,
     "lr": "Africa",
+    "lc": "kga",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Koya",
         "Koyaa",
@@ -14,10 +17,7 @@
         "Koyaka",
         "Koyara"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Koyaga",
+    "gwcode": "fr",
+    "ln": "Koyaga"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 6373,
-    "lc": "tua",
+    "gw": false,
     "ISO-639-3": "tua",
-    "ln": "Wiarumus",
-    "ang": "Wiarumus",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6373,
     "lr": "Pacific",
-    "alt": [
-        "Imandi"
-    ],
+    "lc": "tua",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Imandi"
+    ],
+    "ang": "Wiarumus",
+    "gwcode": "tpi",
+    "ln": "Wiarumus"
 }

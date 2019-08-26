@@ -1,11 +1,16 @@
 {
-    "pk": 1902,
-    "lc": "ga",
+    "gw": false,
     "ISO-639-3": "gle",
-    "ln": "Gaeilge",
-    "ang": "Irish",
     "hc": "IE",
+    "ld": "ltr",
+    "pk": 1902,
     "lr": "Europe",
+    "lc": "ga",
+    "cc": [
+        "US",
+        "CA",
+        "IE"
+    ],
     "alt": [
         "Erse",
         "Gaeilge",
@@ -14,12 +19,7 @@
         "Munster-Leinster (Southern Irish)",
         "Connacht (Western Irish)"
     ],
-    "cc": [
-        "US",
-        "CA",
-        "IE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Irish",
+    "gwcode": "en",
+    "ln": "Gaeilge"
 }

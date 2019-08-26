@@ -1,19 +1,19 @@
 {
-    "pk": 4447,
-    "lc": "nhq",
+    "gw": false,
     "ISO-639-3": "nhq",
-    "ln": "Huaxcaleca Nahuatl",
-    "ang": "Nahuatl, Huaxcaleca",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4447,
     "lr": "Americas",
+    "lc": "nhq",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Huaxcaleca Aztec",
         "N\u00e1huatl de Chichiquila"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Nahuatl, Huaxcaleca",
+    "gwcode": "es-419",
+    "ln": "Huaxcaleca Nahuatl"
 }

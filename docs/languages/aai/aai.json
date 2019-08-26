@@ -1,18 +1,18 @@
 {
-    "pk": 15,
-    "lc": "aai",
+    "gw": false,
     "ISO-639-3": "aai",
-    "ln": "Arifama-Miniafia",
-    "ang": "Miniafia Oyan",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 15,
     "lr": "Pacific",
-    "alt": [
-        "Miniafia-Arifama"
-    ],
+    "lc": "aai",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Miniafia-Arifama"
+    ],
+    "ang": "Miniafia Oyan",
+    "gwcode": "tpi",
+    "ln": "Arifama-Miniafia"
 }

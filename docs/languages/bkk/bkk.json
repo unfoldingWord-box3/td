@@ -1,21 +1,21 @@
 {
-    "pk": 739,
-    "lc": "bkk",
+    "gw": false,
     "ISO-639-3": "bkk",
-    "ln": "Brokskat",
-    "ang": "Brokskat",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 739,
     "lr": "Asia",
+    "lc": "bkk",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Brokpa",
         "Brokpa of Dah-Hanu",
         "Dokskat",
         "Kyango"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lbj"
+    "ang": "Brokskat",
+    "gwcode": "UNKNOWN",
+    "ln": "Brokskat"
 }

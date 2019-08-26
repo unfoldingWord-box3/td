@@ -1,18 +1,18 @@
 {
-    "pk": 5011,
-    "lc": "phd",
+    "gw": false,
     "ISO-639-3": "phd",
-    "ln": "Phudagi",
-    "ang": "Phudagi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5011,
     "lr": "Asia",
-    "alt": [
-        "Vadval"
-    ],
+    "lc": "phd",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "mr"
+    "alt": [
+        "Vadval"
+    ],
+    "ang": "Phudagi",
+    "gwcode": "mr",
+    "ln": "Phudagi"
 }

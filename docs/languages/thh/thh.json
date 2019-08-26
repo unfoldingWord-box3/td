@@ -1,19 +1,19 @@
 {
-    "pk": 6105,
-    "lc": "thh",
+    "gw": false,
     "ISO-639-3": "thh",
-    "ln": "Northern Tarahumara",
-    "ang": "Tarahumara, Northern",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 6105,
     "lr": "Americas",
+    "lc": "thh",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Arisiachi Tarahumara",
         "Tarahumara del Norte"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Tarahumara, Northern",
+    "gwcode": "es-419",
+    "ln": "Northern Tarahumara"
 }

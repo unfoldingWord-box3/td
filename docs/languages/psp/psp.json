@@ -1,20 +1,20 @@
 {
-    "pk": 5189,
-    "lc": "psp",
+    "gw": false,
     "ISO-639-3": "psp",
-    "ln": "Philippine Sign Language",
-    "ang": "Philippine Sign Language",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5189,
     "lr": "Asia",
+    "lc": "psp",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Filipino Sign Language",
         "FSL",
         "Local Sign Language"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Philippine Sign Language",
+    "gwcode": "en",
+    "ln": "Philippine Sign Language"
 }

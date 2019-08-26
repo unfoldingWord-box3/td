@@ -1,19 +1,19 @@
 {
-    "pk": 4382,
-    "lc": "ned",
+    "gw": false,
     "ISO-639-3": "ned",
-    "ln": "Nde-Gbite",
-    "ang": "Nde-Gbite",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4382,
     "lr": "Africa",
+    "lc": "ned",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Biti",
         "B\u00f6t\u00f6"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nde-Gbite",
+    "gwcode": "en",
+    "ln": "Nde-Gbite"
 }

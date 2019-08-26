@@ -1,21 +1,21 @@
 {
-    "pk": 6511,
-    "lc": "ull",
+    "gw": false,
     "ISO-639-3": "ull",
-    "ln": "Ullatan",
-    "ang": "Ullatan",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6511,
     "lr": "Asia",
+    "lc": "ull",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Katan",
         "Kattalan",
         "Kochuvelan",
         "Ulladan"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ml"
+    "ang": "Ullatan",
+    "gwcode": "ml",
+    "ln": "Ullatan"
 }

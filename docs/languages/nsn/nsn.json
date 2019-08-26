@@ -1,20 +1,20 @@
 {
-    "pk": 4649,
-    "lc": "nsn",
+    "gw": false,
     "ISO-639-3": "nsn",
-    "ln": "Nehan",
-    "ang": "Nehan",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4649,
     "lr": "Pacific",
+    "lc": "nsn",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Nihan",
         "Nissan",
         "Pinipel (Pinipin)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Nehan",
+    "gwcode": "tpi",
+    "ln": "Nehan"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 2966,
-    "lc": "klg",
+    "gw": false,
     "ISO-639-3": "klg",
-    "ln": "Tagakaulo",
-    "ang": "Tagakaulo",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2966,
     "lr": "Asia",
+    "lc": "klg",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Kalagan, Tagakaulu",
         "Kalagan",
         "Tagakaulu"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Tagakaulo",
+    "gwcode": "ceb",
+    "ln": "Tagakaulo"
 }

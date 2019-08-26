@@ -1,11 +1,14 @@
 {
-    "pk": 2436,
-    "lc": "ify",
+    "gw": false,
     "ISO-639-3": "ify",
-    "ln": "Keley-I Kallahan",
-    "ang": "Kallahan, Keley-i",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2436,
     "lr": "Asia",
+    "lc": "ify",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Antipolo Ifugao",
         "Hanalulo",
@@ -14,10 +17,7 @@
         "Keleyqiq Ifugao",
         "Ya-Tuka"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Kallahan, Keley-i",
+    "gwcode": "ilo",
+    "ln": "Keley-I Kallahan"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 3378,
-    "lc": "lbz",
+    "gw": false,
     "ISO-639-3": "lbz",
-    "ln": "Lardil",
-    "ang": "Lardil",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 3378,
     "lr": "Pacific",
+    "lc": "lbz",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Kunana",
         "Ladil",
         "Laierdila",
         "Lardill"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lardil",
+    "gwcode": "en",
+    "ln": "Lardil"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 7289,
-    "lc": "ytp",
+    "gw": false,
     "ISO-639-3": "ytp",
-    "ln": "Thopho",
-    "ang": "Thopho",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7289,
     "lr": "Asia",
+    "lc": "ytp",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Black Hat Folk",
         "Black Phula",
         "Hei Mao Ren",
         "Phula"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Thopho",
+    "gwcode": "zh",
+    "ln": "Thopho"
 }

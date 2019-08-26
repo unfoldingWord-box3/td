@@ -1,21 +1,21 @@
 {
-    "pk": 79,
-    "lc": "adj",
+    "gw": false,
     "ISO-639-3": "adj",
-    "ln": "Adioukrou",
-    "ang": "Adioukrou",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 79,
     "lr": "Africa",
+    "lc": "adj",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Adjukru",
         "Adyoukrou",
         "Adyukru",
         "Ajukru"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Adioukrou",
+    "gwcode": "fr",
+    "ln": "Adioukrou"
 }

@@ -1,11 +1,19 @@
 {
-    "pk": 774,
-    "lc": "blt",
+    "gw": false,
     "ISO-639-3": "blt",
-    "ln": "Tai Dam",
-    "ang": "Tai Dam",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 774,
     "lr": "Asia",
+    "lc": "blt",
+    "cc": [
+        "CN",
+        "FR",
+        "LA",
+        "TH",
+        "US",
+        "VN"
+    ],
     "alt": [
         "Black Tai",
         "Hei Dai",
@@ -23,15 +31,7 @@
         "Tay Mueai",
         "T\u00e1y Mu'\u00f2'i (Meuay)"
     ],
-    "cc": [
-        "CN",
-        "FR",
-        "LA",
-        "TH",
-        "US",
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Tai Dam",
+    "gwcode": "vi",
+    "ln": "Tai Dam"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 6589,
-    "lc": "van",
+    "gw": false,
     "ISO-639-3": "van",
-    "ln": "Valman",
-    "ang": "Valman",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6589,
     "lr": "Pacific",
-    "alt": [
-        "Koroko"
-    ],
+    "lc": "van",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Koroko"
+    ],
+    "ang": "Valman",
+    "gwcode": "tpi",
+    "ln": "Valman"
 }

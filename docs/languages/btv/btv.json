@@ -1,21 +1,21 @@
 {
-    "pk": 965,
-    "lc": "btv",
+    "gw": false,
     "ISO-639-3": "btv",
-    "ln": "\u0628\u0679\u06cc\u0631\u06cc",
-    "ang": "Bateri",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 965,
     "lr": "Asia",
+    "lc": "btv",
+    "cc": [
+        "PK"
+    ],
     "alt": [
         "Batera Kohistani",
         "Baterawal",
         "Baterawal Kohistani",
         "Bateri Kohistani"
     ],
-    "cc": [
-        "PK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Bateri",
+    "gwcode": "ur",
+    "ln": "\u0628\u0679\u06cc\u0631\u06cc"
 }

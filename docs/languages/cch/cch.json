@@ -1,11 +1,14 @@
 {
-    "pk": 1154,
-    "lc": "cch",
+    "gw": false,
     "ISO-639-3": "cch",
-    "ln": "Atsam",
-    "ang": "Atsam",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1154,
     "lr": "Africa",
+    "lc": "cch",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Cawai",
         "Cawe",
@@ -14,10 +17,7 @@
         "Chawe",
         "Chawi"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Atsam",
+    "gwcode": "en",
+    "ln": "Atsam"
 }

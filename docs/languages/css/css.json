@@ -1,11 +1,14 @@
 {
-    "pk": 1362,
-    "lc": "css",
+    "gw": false,
     "ISO-639-3": "css",
-    "ln": "Southern Ohlone",
-    "ang": "Ohlone, Southern",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 1362,
     "lr": "Americas",
+    "lc": "css",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Mutsun (San Juan Bautista)",
         "Rumsen (Carmel)",
@@ -13,10 +16,7 @@
         "San Carlos",
         "Costanoan"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ohlone, Southern",
+    "gwcode": "en",
+    "ln": "Southern Ohlone"
 }

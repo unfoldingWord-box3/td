@@ -1,19 +1,19 @@
 {
-    "pk": 2385,
-    "lc": "hux",
+    "gw": false,
     "ISO-639-3": "hux",
-    "ln": "N\u00fcpode Huitoto",
-    "ang": "Huitoto, N\u00fcpode",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 2385,
     "lr": "Americas",
+    "lc": "hux",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Muinane Huitoto",
         "Nipode Witoto"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Huitoto, N\u00fcpode",
+    "gwcode": "es-419",
+    "ln": "N\u00fcpode Huitoto"
 }

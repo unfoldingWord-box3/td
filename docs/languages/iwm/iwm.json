@@ -1,18 +1,18 @@
 {
-    "pk": 2552,
-    "lc": "iwm",
+    "gw": false,
     "ISO-639-3": "iwm",
-    "ln": "Iwam",
-    "ang": "Iwam",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2552,
     "lr": "Pacific",
-    "alt": [
-        "May River"
-    ],
+    "lc": "iwm",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "May River"
+    ],
+    "ang": "Iwam",
+    "gwcode": "tpi",
+    "ln": "Iwam"
 }

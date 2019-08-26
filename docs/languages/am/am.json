@@ -1,19 +1,11 @@
 {
-    "pk": 234,
-    "lc": "am",
+    "gw": true,
     "ISO-639-3": "amh",
-    "ln": "\u12a0\u121b\u122d\u129b",
-    "ang": "Amharic",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 234,
     "lr": "Africa",
-    "alt": [
-        "Abyssinian",
-        "Amarigna",
-        "Amarinya",
-        "Amhara",
-        "Ethiopian",
-        "Falasha"
-    ],
+    "lc": "am",
     "cc": [
         "DJ",
         "ER",
@@ -23,7 +15,15 @@
         "CA",
         "EG"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Abyssinian",
+        "Amarigna",
+        "Amarinya",
+        "Amhara",
+        "Ethiopian",
+        "Falasha"
+    ],
+    "ang": "Amharic",
+    "gwcode": "en",
+    "ln": "\u12a0\u121b\u122d\u129b"
 }

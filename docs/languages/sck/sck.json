@@ -1,11 +1,16 @@
 {
-    "pk": 5512,
-    "lc": "sck",
+    "gw": false,
     "ISO-639-3": "sck",
-    "ln": "Sadri",
-    "ang": "Sadri",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5512,
     "lr": "Asia",
+    "lc": "sck",
+    "cc": [
+        "BD",
+        "NP",
+        "IN"
+    ],
     "alt": [
         "Chota Nagpuri",
         "Dikku Kaji",
@@ -28,12 +33,7 @@
         "Siddri",
         "Sradri"
     ],
-    "cc": [
-        "BD",
-        "NP",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Sadri",
+    "gwcode": "hi",
+    "ln": "Sadri"
 }

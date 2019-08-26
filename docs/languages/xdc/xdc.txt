@@ -1,0 +1,22 @@
+.. _xdc:
+
+Dacian
+======
+
+This language is spoken in the following countries:
+
+* RO: Romania
+
+.. code-block:: yaml
+
+    ISO_639-3: xdc
+    alternate_names: []
+    anglicanized_name: Dacian
+    country_codes:
+    - RO
+    gateway_language: UNKNOWN
+    lang_code: xdc
+    lang_direction: ltr
+    lang_name: Dacian
+    lang_region: Europe
+    

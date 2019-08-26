@@ -1,19 +1,19 @@
 {
-    "pk": 3037,
-    "lc": "kny",
+    "gw": false,
     "ISO-639-3": "kny",
-    "ln": "Kanyok",
-    "ang": "Kanyok",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3037,
     "lr": "Africa",
+    "lc": "kny",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kanioka",
         "Kanyoka"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kanyok",
+    "gwcode": "fr",
+    "ln": "Kanyok"
 }

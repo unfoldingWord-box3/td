@@ -1,20 +1,20 @@
 {
-    "pk": 4643,
-    "lc": "nsg",
+    "gw": false,
     "ISO-639-3": "nsg",
-    "ln": "Ngasa",
-    "ang": "Ngasa",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 4643,
     "lr": "Africa",
+    "lc": "nsg",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kingasa",
         "Ongamo",
         "Shaka"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Ngasa",
+    "gwcode": "sw",
+    "ln": "Ngasa"
 }

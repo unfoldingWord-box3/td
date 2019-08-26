@@ -1,20 +1,20 @@
 {
-    "pk": 273,
-    "lc": "anp",
+    "gw": false,
     "ISO-639-3": "anp",
-    "ln": "Angika",
-    "ang": "Angika",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 273,
     "lr": "Asia",
+    "lc": "anp",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Anga",
         "Angikar",
         "Chhika-Chhiki"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Angika",
+    "gwcode": "hi",
+    "ln": "Angika"
 }

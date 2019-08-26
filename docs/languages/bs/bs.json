@@ -1,15 +1,11 @@
 {
-    "pk": 923,
-    "lc": "bs",
+    "gw": false,
     "ISO-639-3": "bos",
-    "ln": "bosanski jezik",
-    "ang": "Bosnian",
     "hc": "BA",
+    "ld": "ltr",
+    "pk": 923,
     "lr": "Europe",
-    "alt": [
-        "Ijekav\u00edan",
-        "Ikavian"
-    ],
+    "lc": "bs",
     "cc": [
         "BA",
         "DE",
@@ -21,7 +17,11 @@
         "IT",
         "IE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Ijekav\u00edan",
+        "Ikavian"
+    ],
+    "ang": "Bosnian",
+    "gwcode": "en",
+    "ln": "bosanski jezik"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 5081,
-    "lc": "ply",
+    "gw": false,
     "ISO-639-3": "ply",
-    "ln": "\u5df4\u7409\u8bed",
-    "ang": "Bolyu",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 5081,
     "lr": "Asia",
+    "lc": "ply",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Baliu",
         "Lai",
@@ -14,10 +17,7 @@
         "Palju",
         "Polyu"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Bolyu",
+    "gwcode": "zh",
+    "ln": "\u5df4\u7409\u8bed"
 }

@@ -1,11 +1,19 @@
 {
-    "pk": 1846,
-    "lc": "fj",
+    "gw": false,
     "ISO-639-3": "fij",
-    "ln": "vosa Vakaviti",
-    "ang": "Fijian",
     "hc": "FJ",
+    "ld": "ltr",
+    "pk": 1846,
     "lr": "Pacific",
+    "lc": "fj",
+    "cc": [
+        "FJ",
+        "NZ",
+        "SB",
+        "US",
+        "CA",
+        "VU"
+    ],
     "alt": [
         "Eastern Fijian",
         "Fiji",
@@ -28,15 +36,7 @@
         "Central Vanua Levu (Baaravi)",
         "Nav"
     ],
-    "cc": [
-        "FJ",
-        "NZ",
-        "SB",
-        "US",
-        "CA",
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Fijian",
+    "gwcode": "en",
+    "ln": "vosa Vakaviti"
 }

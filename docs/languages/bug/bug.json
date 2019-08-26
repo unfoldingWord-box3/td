@@ -1,11 +1,16 @@
 {
-    "pk": 976,
-    "lc": "bug",
+    "gw": false,
     "ISO-639-3": "bug",
-    "ln": "Buginese",
-    "ang": "Bugis",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 976,
     "lr": "Asia",
+    "lc": "bug",
+    "cc": [
+        "ID",
+        "MY",
+        "SG"
+    ],
     "alt": [
         "Boegineesche",
         "Boeginezen",
@@ -34,12 +39,7 @@
         "Bone (Dua Boccoe)",
         "Pasangkayu (Ugi Riawa)"
     ],
-    "cc": [
-        "ID",
-        "MY",
-        "SG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Bugis",
+    "gwcode": "id",
+    "ln": "Buginese"
 }

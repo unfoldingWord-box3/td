@@ -1,19 +1,19 @@
 {
-    "pk": 2949,
-    "lc": "kkq",
+    "gw": false,
     "ISO-639-3": "kkq",
-    "ln": "Kaiku",
-    "ang": "Kaiku",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 2949,
     "lr": "Africa",
+    "lc": "kkq",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Ikaiku",
         "Kaiko"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kaiku",
+    "gwcode": "fr",
+    "ln": "Kaiku"
 }

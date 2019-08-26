@@ -1,11 +1,14 @@
 {
-    "pk": 1520,
-    "lc": "dib",
+    "gw": false,
     "ISO-639-3": "dib",
-    "ln": "South Central Dinka",
-    "ang": "Dinka, South Central",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 1520,
     "lr": "Africa",
+    "lc": "dib",
+    "cc": [
+        "SS"
+    ],
     "alt": [
         "Agar",
         "Central Dinka",
@@ -21,10 +24,7 @@
         "Ajak",
         "Cic"
     ],
-    "cc": [
-        "SS"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Dinka, South Central",
+    "gwcode": "ar",
+    "ln": "South Central Dinka"
 }

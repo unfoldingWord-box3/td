@@ -1,20 +1,20 @@
 {
-    "pk": 7384,
-    "lc": "zim",
+    "gw": false,
     "ISO-639-3": "zim",
-    "ln": "Mesme",
-    "ang": "Mesme",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 7384,
     "lr": "Africa",
+    "lc": "zim",
+    "cc": [
+        "TD"
+    ],
     "alt": [
         "Djime",
         "Djiwe",
         "Zime of K\u00e9lo"
     ],
-    "cc": [
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Mesme",
+    "gwcode": "ar",
+    "ln": "Mesme"
 }

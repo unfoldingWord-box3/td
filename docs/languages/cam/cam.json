@@ -1,11 +1,14 @@
 {
-    "pk": 1120,
-    "lc": "cam",
+    "gw": false,
     "ISO-639-3": "cam",
-    "ln": "Cemuh\u00ee",
-    "ang": "Cemuh\u00ee",
     "hc": "NC",
+    "ld": "ltr",
+    "pk": 1120,
     "lr": "Pacific",
+    "lc": "cam",
+    "cc": [
+        "NC"
+    ],
     "alt": [
         "Camuhi",
         "Camuki",
@@ -13,10 +16,7 @@
         "Tyamuhi",
         "Wagap"
     ],
-    "cc": [
-        "NC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Cemuh\u00ee",
+    "gwcode": "en",
+    "ln": "Cemuh\u00ee"
 }

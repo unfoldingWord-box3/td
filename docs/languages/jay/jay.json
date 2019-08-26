@@ -1,19 +1,19 @@
 {
-    "pk": 2581,
-    "lc": "jay",
+    "gw": false,
     "ISO-639-3": "jay",
-    "ln": "Yan-nhangu",
-    "ang": "Yan-nhangu",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 2581,
     "lr": "Pacific",
+    "lc": "jay",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Nangu",
         "Yanangu"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yan-nhangu",
+    "gwcode": "en",
+    "ln": "Yan-nhangu"
 }

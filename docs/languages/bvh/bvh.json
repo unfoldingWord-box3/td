@@ -1,18 +1,18 @@
 {
-    "pk": 1001,
-    "lc": "bvh",
+    "gw": false,
     "ISO-639-3": "bvh",
-    "ln": "Bure",
-    "ang": "Bure",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1001,
     "lr": "Africa",
-    "alt": [
-        "Bubure"
-    ],
+    "lc": "bvh",
     "cc": [
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Bubure"
+    ],
+    "ang": "Bure",
+    "gwcode": "en",
+    "ln": "Bure"
 }

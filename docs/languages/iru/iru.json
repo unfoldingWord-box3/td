@@ -1,11 +1,14 @@
 {
-    "pk": 2513,
-    "lc": "iru",
+    "gw": false,
     "ISO-639-3": "iru",
-    "ln": "Irula",
-    "ang": "Irula",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2513,
     "lr": "Asia",
+    "lc": "iru",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Erukala",
         "Irava",
@@ -26,10 +29,7 @@
         "Northern Irula (Kasaba)",
         "Kasava"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ta"
+    "ang": "Irula",
+    "gwcode": "ta",
+    "ln": "Irula"
 }

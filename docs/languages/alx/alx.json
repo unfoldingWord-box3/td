@@ -1,21 +1,21 @@
 {
-    "pk": 231,
-    "lc": "alx",
+    "gw": false,
     "ISO-639-3": "alx",
-    "ln": "Amol",
-    "ang": "Amol",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 231,
     "lr": "Pacific",
+    "lc": "alx",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Arang Mol",
         "Alang Mol",
         "Aru",
         "Eru"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Amol",
+    "gwcode": "tpi",
+    "ln": "Amol"
 }

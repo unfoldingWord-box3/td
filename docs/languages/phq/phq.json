@@ -1,20 +1,20 @@
 {
-    "pk": 5019,
-    "lc": "phq",
+    "gw": false,
     "ISO-639-3": "phq",
-    "ln": "Phana'",
-    "ang": "Phana\u2019",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 5019,
     "lr": "Asia",
-    "alt": [
-        "Bana'",
-        "Pana'"
-    ],
+    "lc": "phq",
     "cc": [
         "CN",
         "LA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "alt": [
+        "Bana'",
+        "Pana'"
+    ],
+    "ang": "Phana\u2019",
+    "gwcode": "lo",
+    "ln": "Phana'"
 }

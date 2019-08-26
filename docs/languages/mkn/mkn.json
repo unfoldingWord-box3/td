@@ -1,18 +1,18 @@
 {
-    "pk": 3913,
-    "lc": "mkn",
+    "gw": false,
     "ISO-639-3": "mkn",
-    "ln": "Kupang Malay",
-    "ang": "Malay, Kupang",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3913,
     "lr": "Asia",
-    "alt": [
-        "Basa Kupang"
-    ],
+    "lc": "mkn",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Basa Kupang"
+    ],
+    "ang": "Malay, Kupang",
+    "gwcode": "id",
+    "ln": "Kupang Malay"
 }

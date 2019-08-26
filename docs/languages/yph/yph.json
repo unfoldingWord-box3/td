@@ -1,20 +1,20 @@
 {
-    "pk": 7261,
-    "lc": "yph",
+    "gw": false,
     "ISO-639-3": "yph",
-    "ln": "Phupha",
-    "ang": "Phupha",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7261,
     "lr": "Asia",
+    "lc": "yph",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Phula",
         "Phupho",
         "Tsapho"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Phupha",
+    "gwcode": "zh",
+    "ln": "Phupha"
 }

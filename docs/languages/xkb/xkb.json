@@ -1,11 +1,15 @@
 {
-    "pk": 6932,
-    "lc": "xkb",
+    "gw": false,
     "ISO-639-3": "xkb",
-    "ln": "Northern Nago",
-    "ang": "Nago, Northern",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 6932,
     "lr": "Africa",
+    "lc": "xkb",
+    "cc": [
+        "BJ",
+        "TG"
+    ],
     "alt": [
         "Ana",
         "Ede Nago, Manigri-Kambol\u00e9",
@@ -15,11 +19,7 @@
         "Ede Nago",
         "Manigri-Kambol\u00e9"
     ],
-    "cc": [
-        "BJ",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Nago, Northern",
+    "gwcode": "fr",
+    "ln": "Northern Nago"
 }

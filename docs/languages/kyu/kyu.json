@@ -1,11 +1,14 @@
 {
-    "pk": 3303,
-    "lc": "kyu",
+    "gw": false,
     "ISO-639-3": "kyu",
-    "ln": "Western Kayah",
-    "ang": "Kayah, Western",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 3303,
     "lr": "Asia",
+    "lc": "kyu",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Karenni",
         "Karennyi",
@@ -21,10 +24,7 @@
         "Dawtama",
         "Wan Cheh"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Kayah, Western",
+    "gwcode": "my",
+    "ln": "Western Kayah"
 }

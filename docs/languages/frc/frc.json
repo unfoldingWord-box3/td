@@ -1,20 +1,20 @@
 {
-    "pk": 1869,
-    "lc": "frc",
+    "gw": false,
     "ISO-639-3": "frc",
-    "ln": "Cajun French",
-    "ang": "French, Cajun",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 1869,
     "lr": "Americas",
+    "lc": "frc",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Acadian",
         "Cadien",
         "Cajan"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "French, Cajun",
+    "gwcode": "en",
+    "ln": "Cajun French"
 }

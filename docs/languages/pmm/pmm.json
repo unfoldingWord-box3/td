@@ -1,11 +1,15 @@
 {
-    "pk": 5091,
-    "lc": "pmm",
+    "gw": false,
     "ISO-639-3": "pmm",
-    "ln": "Pomo",
-    "ang": "Pol",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 5091,
     "lr": "Africa",
+    "lc": "pmm",
+    "cc": [
+        "CM",
+        "CG"
+    ],
     "alt": [
         "Congo Pol",
         "Pori",
@@ -14,11 +18,7 @@
         "Pori Asom",
         "Pori Kinda (Kinda)"
     ],
-    "cc": [
-        "CM",
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Pol",
+    "gwcode": "fr",
+    "ln": "Pomo"
 }

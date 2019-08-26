@@ -1,18 +1,18 @@
 {
-    "pk": 4251,
-    "lc": "myl",
+    "gw": false,
     "ISO-639-3": "myl",
-    "ln": "Moma",
-    "ang": "Moma",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4251,
     "lr": "Asia",
-    "alt": [
-        "Kulawi"
-    ],
+    "lc": "myl",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Kulawi"
+    ],
+    "ang": "Moma",
+    "gwcode": "id",
+    "ln": "Moma"
 }

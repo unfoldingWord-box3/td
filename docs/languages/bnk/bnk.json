@@ -1,18 +1,18 @@
 {
-    "pk": 815,
-    "lc": "bnk",
+    "gw": false,
     "ISO-639-3": "bnk",
-    "ln": "Bierebo",
-    "ang": "Bierebo",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 815,
     "lr": "Pacific",
-    "alt": [
-        "Bonkovia-Yevali"
-    ],
+    "lc": "bnk",
     "cc": [
         "VU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Bonkovia-Yevali"
+    ],
+    "ang": "Bierebo",
+    "gwcode": "fr",
+    "ln": "Bierebo"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 2408,
-    "lc": "ibl",
+    "gw": false,
     "ISO-639-3": "ibl",
-    "ln": "Ibaloi",
-    "ang": "Ibaloi",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2408,
     "lr": "Asia",
+    "lc": "ibl",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Benguet-Igorot",
         "Ibadoy",
@@ -14,10 +17,7 @@
         "Inibaloi",
         "Nabaloi"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ibaloi",
+    "gwcode": "en",
+    "ln": "Ibaloi"
 }

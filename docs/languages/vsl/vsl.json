@@ -1,18 +1,18 @@
 {
-    "pk": 6656,
-    "lc": "vsl",
+    "gw": false,
     "ISO-639-3": "vsl",
-    "ln": "Venezuelan Sign Language",
-    "ang": "Venezuelan Sign Language",
     "hc": "VE",
+    "ld": "ltr",
+    "pk": 6656,
     "lr": "Americas",
-    "alt": [
-        "Lengua de Se\u00f1as Venezolana"
-    ],
+    "lc": "vsl",
     "cc": [
         "VE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Lengua de Se\u00f1as Venezolana"
+    ],
+    "ang": "Venezuelan Sign Language",
+    "gwcode": "es-419",
+    "ln": "Venezuelan Sign Language"
 }

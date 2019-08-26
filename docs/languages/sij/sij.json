@@ -1,19 +1,19 @@
 {
-    "pk": 5626,
-    "lc": "sij",
+    "gw": false,
     "ISO-639-3": "sij",
-    "ln": "Numbami",
-    "ang": "Numbami",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5626,
     "lr": "Pacific",
+    "lc": "sij",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Siboma",
         "Sipoma"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Numbami",
+    "gwcode": "tpi",
+    "ln": "Numbami"
 }

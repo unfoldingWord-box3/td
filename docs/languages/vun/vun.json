@@ -1,11 +1,14 @@
 {
-    "pk": 6660,
-    "lc": "vun",
+    "gw": false,
     "ISO-639-3": "vun",
-    "ln": "Vunjo",
-    "ang": "Vunjo",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 6660,
     "lr": "Africa",
+    "lc": "vun",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kivunjo",
         "Kiwunjo",
@@ -13,10 +16,7 @@
         "Lema (Kilema)",
         "Marangu"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Vunjo",
+    "gwcode": "sw",
+    "ln": "Vunjo"
 }

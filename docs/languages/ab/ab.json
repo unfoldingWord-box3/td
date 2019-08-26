@@ -1,18 +1,18 @@
 {
-    "pk": 28,
-    "lc": "ab",
+    "gw": false,
     "ISO-639-3": "abk",
-    "ln": "\u0430\u04a7\u0441\u0443\u0430 \u0431\u044b\u0437\u0448\u04d9\u0430, \u0430\u04a7\u0441\u0448\u04d9\u0430",
-    "ang": "Abkhaz",
     "hc": "GE",
+    "ld": "ltr",
+    "pk": 28,
     "lr": "Asia",
-    "alt": [
-        "Abxazo"
-    ],
+    "lc": "ab",
     "cc": [
         "GE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "alt": [
+        "Abxazo"
+    ],
+    "ang": "Abkhaz",
+    "gwcode": "ru",
+    "ln": "\u0430\u04a7\u0441\u0443\u0430 \u0431\u044b\u0437\u0448\u04d9\u0430, \u0430\u04a7\u0441\u0448\u04d9\u0430"
 }

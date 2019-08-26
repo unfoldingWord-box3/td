@@ -1,23 +1,23 @@
 {
-    "pk": 6761,
-    "lc": "wls",
+    "gw": false,
     "ISO-639-3": "wls",
-    "ln": "Wallisian",
-    "ang": "Wallisian",
     "hc": "WF",
+    "ld": "ltr",
+    "pk": 6761,
     "lr": "Pacific",
-    "alt": [
-        "East Uvean",
-        "Uvean",
-        "Wallisien"
-    ],
+    "lc": "wls",
     "cc": [
         "FJ",
         "NC",
         "WF",
         "VU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "East Uvean",
+        "Uvean",
+        "Wallisien"
+    ],
+    "ang": "Wallisian",
+    "gwcode": "en",
+    "ln": "Wallisian"
 }

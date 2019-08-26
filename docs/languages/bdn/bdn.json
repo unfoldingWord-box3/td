@@ -1,19 +1,19 @@
 {
-    "pk": 572,
-    "lc": "bdn",
+    "gw": false,
     "ISO-639-3": "bdn",
-    "ln": "Baldemu",
-    "ang": "Baldemu",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 572,
     "lr": "Africa",
+    "lc": "bdn",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Baldare",
         "Mbazla"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Baldemu",
+    "gwcode": "fr",
+    "ln": "Baldemu"
 }

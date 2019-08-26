@@ -1,19 +1,19 @@
 {
-    "pk": 25,
-    "lc": "aaw",
+    "gw": false,
     "ISO-639-3": "aaw",
-    "ln": "Solong",
-    "ang": "Solong",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 25,
     "lr": "Pacific",
+    "lc": "aaw",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Arawe",
         "Pililo"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Solong",
+    "gwcode": "tpi",
+    "ln": "Solong"
 }

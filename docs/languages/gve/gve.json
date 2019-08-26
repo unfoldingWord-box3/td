@@ -1,20 +1,20 @@
 {
-    "pk": 2179,
-    "lc": "gve",
+    "gw": false,
     "ISO-639-3": "gve",
-    "ln": "Duwet",
-    "ang": "Duwet",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2179,
     "lr": "Pacific",
+    "lc": "gve",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Guwet",
         "Guwot",
         "Waing"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Duwet",
+    "gwcode": "tpi",
+    "ln": "Duwet"
 }

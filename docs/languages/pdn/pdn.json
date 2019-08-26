@@ -1,18 +1,18 @@
 {
-    "pk": 4975,
-    "lc": "pdn",
+    "gw": false,
     "ISO-639-3": "pdn",
-    "ln": "Podena",
-    "ang": "Fedan",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4975,
     "lr": "Asia",
-    "alt": [
-        "Podena"
-    ],
+    "lc": "pdn",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Podena"
+    ],
+    "ang": "Fedan",
+    "gwcode": "id",
+    "ln": "Podena"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 6034,
-    "lc": "tde",
+    "gw": false,
     "ISO-639-3": "tde",
-    "ln": "Tiranige Diga Dogon",
-    "ang": "Dogon, Tiranige Diga",
     "hc": "ML",
+    "ld": "ltr",
+    "pk": 6034,
     "lr": "Africa",
+    "lc": "tde",
+    "cc": [
+        "ML"
+    ],
     "alt": [
         "Duleri",
         "Duleri Dom"
     ],
-    "cc": [
-        "ML"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Dogon, Tiranige Diga",
+    "gwcode": "fr",
+    "ln": "Tiranige Diga Dogon"
 }

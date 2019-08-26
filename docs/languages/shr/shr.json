@@ -1,19 +1,19 @@
 {
-    "pk": 5608,
-    "lc": "shr",
+    "gw": false,
     "ISO-639-3": "shr",
-    "ln": "Shi",
-    "ang": "",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5608,
     "lr": "Africa",
+    "lc": "shr",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Mashi",
         "Hwindja (Lwindja)"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "",
+    "gwcode": "fr",
+    "ln": "Shi"
 }

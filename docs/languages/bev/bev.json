@@ -1,19 +1,19 @@
 {
-    "pk": 604,
-    "lc": "bev",
+    "gw": false,
     "ISO-639-3": "bev",
-    "ln": "Daloa B\u00e9t\u00e9",
-    "ang": "B\u00e9t\u00e9, Daloa",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 604,
     "lr": "Africa",
+    "lc": "bev",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Daloua B\u00e9t\u00e9",
         "Northern B\u00e9t\u00e9"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "B\u00e9t\u00e9, Daloa",
+    "gwcode": "fr",
+    "ln": "Daloa B\u00e9t\u00e9"
 }

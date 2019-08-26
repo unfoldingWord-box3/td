@@ -1,18 +1,18 @@
 {
-    "pk": 6810,
-    "lc": "wrl",
+    "gw": false,
     "ISO-639-3": "wrl",
-    "ln": "Warlmanpa",
-    "ang": "Warlmanpa",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6810,
     "lr": "Pacific",
-    "alt": [
-        "Walmala"
-    ],
+    "lc": "wrl",
     "cc": [
         "AU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Walmala"
+    ],
+    "ang": "Warlmanpa",
+    "gwcode": "en",
+    "ln": "Warlmanpa"
 }

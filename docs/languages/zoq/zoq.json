@@ -1,20 +1,20 @@
 {
-    "pk": 7434,
-    "lc": "zoq",
+    "gw": false,
     "ISO-639-3": "zoq",
-    "ln": "Tabasco Zoque",
-    "ang": "Zoque, Tabasco",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7434,
     "lr": "Americas",
+    "lc": "zoq",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Ayapanec",
         "Zoque de Ayapanec",
         "Zoque de Tabasco"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zoque, Tabasco",
+    "gwcode": "es-419",
+    "ln": "Tabasco Zoque"
 }

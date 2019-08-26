@@ -1,11 +1,15 @@
 {
-    "pk": 772,
-    "lc": "blr",
+    "gw": false,
     "ISO-639-3": "blr",
-    "ln": "\u5e03\u6717\u65b9\u8a00",
-    "ang": "Blang",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 772,
     "lr": "Asia",
+    "lc": "blr",
+    "cc": [
+        "CN",
+        "MM"
+    ],
     "alt": [
         "Bulang",
         "K'ala",
@@ -20,11 +24,7 @@
         "Sen Chun",
         "Wa"
     ],
-    "cc": [
-        "CN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Blang",
+    "gwcode": "zh",
+    "ln": "\u5e03\u6717\u65b9\u8a00"
 }

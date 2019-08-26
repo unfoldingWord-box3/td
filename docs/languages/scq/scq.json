@@ -1,19 +1,19 @@
 {
-    "pk": 5517,
-    "lc": "scq",
+    "gw": false,
     "ISO-639-3": "scq",
-    "ln": "Sa'och",
-    "ang": "Sa\u2019och",
     "hc": "KH",
+    "ld": "ltr",
+    "pk": 5517,
     "lr": "Asia",
+    "lc": "scq",
+    "cc": [
+        "KH"
+    ],
     "alt": [
         "Saotch",
         "Sauch"
     ],
-    "cc": [
-        "KH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "km"
+    "ang": "Sa\u2019och",
+    "gwcode": "km",
+    "ln": "Sa'och"
 }

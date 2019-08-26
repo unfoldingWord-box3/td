@@ -1,21 +1,21 @@
 {
-    "pk": 6625,
-    "lc": "vku",
+    "gw": false,
     "ISO-639-3": "vku",
-    "ln": "Kurrama",
-    "ang": "Kurrama",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6625,
     "lr": "Pacific",
+    "lc": "vku",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Gurama",
         "Karama",
         "Korama",
         "Kurama"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kurrama",
+    "gwcode": "en",
+    "ln": "Kurrama"
 }

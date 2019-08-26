@@ -1,18 +1,18 @@
 {
-    "pk": 5142,
-    "lc": "ppe",
+    "gw": false,
     "ISO-639-3": "ppe",
-    "ln": "Papi",
-    "ang": "Papi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5142,
     "lr": "Pacific",
-    "alt": [
-        "Paupe"
-    ],
+    "lc": "ppe",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Paupe"
+    ],
+    "ang": "Papi",
+    "gwcode": "tpi",
+    "ln": "Papi"
 }

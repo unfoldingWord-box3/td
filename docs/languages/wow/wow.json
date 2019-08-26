@@ -1,19 +1,19 @@
 {
-    "pk": 6802,
-    "lc": "wow",
+    "gw": false,
     "ISO-639-3": "wow",
-    "ln": "Wawonii",
-    "ang": "Wawonii",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6802,
     "lr": "Asia",
+    "lc": "wow",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Wowonii",
         "Menui (Manoei)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Wawonii",
+    "gwcode": "id",
+    "ln": "Wawonii"
 }

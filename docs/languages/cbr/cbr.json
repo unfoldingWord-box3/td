@@ -1,11 +1,14 @@
 {
-    "pk": 1143,
-    "lc": "cbr",
+    "gw": false,
     "ISO-639-3": "cbr",
-    "ln": "Cashibo-Cacataibo",
-    "ang": "Cashibo-Cacataibo",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 1143,
     "lr": "Americas",
+    "lc": "cbr",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Cachibo",
         "Cacibo",
@@ -14,10 +17,7 @@
         "Hagueti",
         "Managua"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Cashibo-Cacataibo",
+    "gwcode": "es-419",
+    "ln": "Cashibo-Cacataibo"
 }

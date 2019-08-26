@@ -1,20 +1,20 @@
 {
-    "pk": 2153,
-    "lc": "gub",
+    "gw": false,
     "ISO-639-3": "gub",
-    "ln": "Guajaj\u00e1ra",
-    "ang": "Guajaj\u00e1ra",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2153,
     "lr": "Americas",
+    "lc": "gub",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Guazazzara",
         "Tenetehar",
         "Teneteh\u00e1ra"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Guajaj\u00e1ra",
+    "gwcode": "pt",
+    "ln": "Guajaj\u00e1ra"
 }

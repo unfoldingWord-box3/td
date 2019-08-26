@@ -1,21 +1,21 @@
 {
-    "pk": 4279,
-    "lc": "mzs",
+    "gw": false,
     "ISO-639-3": "mzs",
-    "ln": "Macanese",
-    "ang": "Macanese",
     "hc": "MO",
+    "ld": "ltr",
+    "pk": 4279,
     "lr": "Asia",
+    "lc": "mzs",
+    "cc": [
+        "MO"
+    ],
     "alt": [
         "Macaense",
         "Macao Creole Portuguese",
         "Makista",
         "Patu\u00e1"
     ],
-    "cc": [
-        "MO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Macanese",
+    "gwcode": "zh",
+    "ln": "Macanese"
 }

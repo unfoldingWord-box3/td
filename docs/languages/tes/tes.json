@@ -1,18 +1,18 @@
 {
-    "pk": 6066,
-    "lc": "tes",
+    "gw": false,
     "ISO-639-3": "tes",
-    "ln": "Tengger",
-    "ang": "Tengger",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6066,
     "lr": "Asia",
-    "alt": [
-        "Tenggerese"
-    ],
+    "lc": "tes",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Tenggerese"
+    ],
+    "ang": "Tengger",
+    "gwcode": "id",
+    "ln": "Tengger"
 }

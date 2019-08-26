@@ -1,18 +1,18 @@
 {
-    "pk": 2233,
-    "lc": "hap",
+    "gw": false,
     "ISO-639-3": "hap",
-    "ln": "Hupla",
-    "ang": "Hupla",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2233,
     "lr": "Asia",
-    "alt": [
-        "Soba"
-    ],
+    "lc": "hap",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Soba"
+    ],
+    "ang": "Hupla",
+    "gwcode": "id",
+    "ln": "Hupla"
 }

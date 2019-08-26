@@ -1,19 +1,19 @@
 {
-    "pk": 1099,
-    "lc": "bzq",
+    "gw": false,
     "ISO-639-3": "bzq",
-    "ln": "Buli (Indonesia)",
-    "ang": "Buli",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1099,
     "lr": "Asia",
+    "lc": "bzq",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Wayamli (Jawanli)",
         "Wajamli"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Buli",
+    "gwcode": "id",
+    "ln": "Buli (Indonesia)"
 }

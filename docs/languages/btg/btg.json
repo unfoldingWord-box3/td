@@ -1,11 +1,14 @@
 {
-    "pk": 951,
-    "lc": "btg",
+    "gw": false,
     "ISO-639-3": "btg",
-    "ln": "Gagnoa B\u00e9t\u00e9",
-    "ang": "B\u00e9t\u00e9, Gagnoa",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 951,
     "lr": "Africa",
+    "lc": "btg",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Eastern B\u00e9t\u00e9",
         "Gagnoua-B\u00e9t\u00e9",
@@ -13,10 +16,7 @@
         "Gbadie",
         "Gbadi (Badie)"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "B\u00e9t\u00e9, Gagnoa",
+    "gwcode": "fr",
+    "ln": "Gagnoa B\u00e9t\u00e9"
 }

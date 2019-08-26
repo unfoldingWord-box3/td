@@ -1,18 +1,18 @@
 {
-    "pk": 3050,
-    "lc": "kop",
+    "gw": false,
     "ISO-639-3": "kop",
-    "ln": "Waube",
-    "ang": "Waube",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3050,
     "lr": "Pacific",
-    "alt": [
-        "Waupe"
-    ],
+    "lc": "kop",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Waupe"
+    ],
+    "ang": "Waube",
+    "gwcode": "tpi",
+    "ln": "Waube"
 }

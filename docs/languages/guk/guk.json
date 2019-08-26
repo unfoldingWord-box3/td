@@ -1,11 +1,15 @@
 {
-    "pk": 2161,
-    "lc": "guk",
+    "gw": false,
     "ISO-639-3": "guk",
-    "ln": "Gumuz",
-    "ang": "Gumuz",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 2161,
     "lr": "Africa",
+    "lc": "guk",
+    "cc": [
+        "ET",
+        "SD"
+    ],
     "alt": [
         "Bega",
         "Bega-Tse",
@@ -36,11 +40,7 @@
         "Agalo",
         "Guba"
     ],
-    "cc": [
-        "ET",
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Gumuz",
+    "gwcode": "am",
+    "ln": "Gumuz"
 }

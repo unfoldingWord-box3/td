@@ -1,11 +1,14 @@
 {
-    "pk": 278,
-    "lc": "anv",
+    "gw": false,
     "ISO-639-3": "anv",
-    "ln": "Denya",
-    "ang": "Denya",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 278,
     "lr": "Africa",
+    "lc": "anv",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Agnang",
         "Anyah",
@@ -14,10 +17,7 @@
         "Nyang",
         "Obonya"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Denya",
+    "gwcode": "fr",
+    "ln": "Denya"
 }

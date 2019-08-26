@@ -1,11 +1,14 @@
 {
-    "pk": 5349,
-    "lc": "rgk",
+    "gw": false,
     "ISO-639-3": "rgk",
-    "ln": "Rangkas",
-    "ang": "Rangkas",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5349,
     "lr": "Asia",
+    "lc": "rgk",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Canpa",
         "Chyanam",
@@ -15,10 +18,7 @@
         "Saukiya Khun",
         "Shaukas"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Rangkas",
+    "gwcode": "hi",
+    "ln": "Rangkas"
 }

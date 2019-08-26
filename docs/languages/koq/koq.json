@@ -1,20 +1,20 @@
 {
-    "pk": 3051,
-    "lc": "koq",
+    "gw": false,
     "ISO-639-3": "koq",
-    "ln": "Kota (Gabon)",
-    "ang": "Kota",
     "hc": "GA",
+    "ld": "ltr",
+    "pk": 3051,
     "lr": "Africa",
-    "alt": [
-        "Ikuta",
-        "Kotu"
-    ],
+    "lc": "koq",
     "cc": [
         "GA",
         "CG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Ikuta",
+        "Kotu"
+    ],
+    "ang": "Kota",
+    "gwcode": "fr",
+    "ln": "Kota (Gabon)"
 }

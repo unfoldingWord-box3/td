@@ -1,16 +1,16 @@
 {
-    "pk": 1484,
-    "lc": "den",
+    "gw": false,
     "ISO-639-3": "den",
-    "ln": "Slave (Athapascan)",
-    "ang": "Slavey",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 1484,
     "lr": "Americas",
-    "alt": [],
+    "lc": "den",
     "cc": [
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [],
+    "ang": "Slavey",
+    "gwcode": "UNKNOWN",
+    "ln": "Slave (Athapascan)"
 }

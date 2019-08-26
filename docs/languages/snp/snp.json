@@ -1,18 +1,18 @@
 {
-    "pk": 5739,
-    "lc": "snp",
+    "gw": false,
     "ISO-639-3": "snp",
-    "ln": "Siane",
-    "ang": "Siane",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5739,
     "lr": "Pacific",
-    "alt": [
-        "Siani"
-    ],
+    "lc": "snp",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Siani"
+    ],
+    "ang": "Siane",
+    "gwcode": "tpi",
+    "ln": "Siane"
 }

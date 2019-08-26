@@ -1,18 +1,18 @@
 {
-    "pk": 2892,
-    "lc": "kij",
+    "gw": false,
     "ISO-639-3": "kij",
-    "ln": "Kilivila",
-    "ang": "Kilivila",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2892,
     "lr": "Pacific",
-    "alt": [
-        "Kiriwina"
-    ],
+    "lc": "kij",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Kiriwina"
+    ],
+    "ang": "Kilivila",
+    "gwcode": "tpi",
+    "ln": "Kilivila"
 }

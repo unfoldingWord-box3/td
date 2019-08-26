@@ -1,0 +1,24 @@
+.. _kg:
+
+Kikongo
+=======
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/kon>`_ identifies this language as ``kon``.
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: kon
+    alternate_names: []
+    anglicanized_name: Kongo
+    country_codes:
+    - CD
+    gateway_language: UNKNOWN
+    lang_code: kg
+    lang_direction: ltr
+    lang_name: Kikongo
+    lang_region: Africa
+    

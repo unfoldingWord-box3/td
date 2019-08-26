@@ -1,11 +1,15 @@
 {
-    "pk": 1074,
-    "lc": "byn",
+    "gw": false,
     "ISO-639-3": "byn",
-    "ln": "Bilin",
-    "ang": "Bilen",
     "hc": "ER",
+    "ld": "ltr",
+    "pk": 1074,
     "lr": "Africa",
+    "lc": "byn",
+    "cc": [
+        "ER",
+        "ET"
+    ],
     "alt": [
         "Balen",
         "Belen",
@@ -20,11 +24,7 @@
         "Senhit",
         "T'aqwur"
     ],
-    "cc": [
-        "ER",
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Bilen",
+    "gwcode": "ar",
+    "ln": "Bilin"
 }

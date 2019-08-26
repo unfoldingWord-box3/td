@@ -1,19 +1,19 @@
 {
-    "pk": 2571,
-    "lc": "jaj",
+    "gw": false,
     "ISO-639-3": "jaj",
-    "ln": "Zazao",
-    "ang": "Zazao",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 2571,
     "lr": "Pacific",
+    "lc": "jaj",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Jajao",
         "Kilokaka"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Zazao",
+    "gwcode": "UNKNOWN",
+    "ln": "Zazao"
 }

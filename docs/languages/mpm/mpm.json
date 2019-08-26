@@ -1,19 +1,19 @@
 {
-    "pk": 4032,
-    "lc": "mpm",
+    "gw": false,
     "ISO-639-3": "mpm",
-    "ln": "Yosond\u00faa Mixtec",
-    "ang": "Mixtec, Yosond\u00faa",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4032,
     "lr": "Americas",
+    "lc": "mpm",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Mixteco de Santiago Yosond\u00faa",
         "Southern Tlaxiaco Mixtec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Yosond\u00faa",
+    "gwcode": "es-419",
+    "ln": "Yosond\u00faa Mixtec"
 }

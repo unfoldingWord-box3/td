@@ -1,18 +1,18 @@
 {
-    "pk": 1085,
-    "lc": "bzc",
+    "gw": false,
     "ISO-639-3": "bzc",
-    "ln": "Southern Betsimisaraka Malagasy",
-    "ang": "Malagasy, Southern Betsimisaraka",
     "hc": "MG",
+    "ld": "ltr",
+    "pk": 1085,
     "lr": "Africa",
-    "alt": [
-        "Betsimisaraka Antatsimo Malagasy"
-    ],
+    "lc": "bzc",
     "cc": [
         "MG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "plt"
+    "alt": [
+        "Betsimisaraka Antatsimo Malagasy"
+    ],
+    "ang": "Malagasy, Southern Betsimisaraka",
+    "gwcode": "plt",
+    "ln": "Southern Betsimisaraka Malagasy"
 }

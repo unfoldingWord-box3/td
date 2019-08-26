@@ -1,19 +1,19 @@
 {
-    "pk": 6379,
-    "lc": "tug",
+    "gw": false,
     "ISO-639-3": "tug",
-    "ln": "Tunia",
-    "ang": "Tunia",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 6379,
     "lr": "Africa",
-    "alt": [
-        "Tun"
-    ],
+    "lc": "tug",
     "cc": [
         "CF",
         "TD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Tun"
+    ],
+    "ang": "Tunia",
+    "gwcode": "ar",
+    "ln": "Tunia"
 }

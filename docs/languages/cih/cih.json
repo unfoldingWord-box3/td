@@ -1,11 +1,14 @@
 {
-    "pk": 1212,
-    "lc": "cih",
+    "gw": false,
     "ISO-639-3": "cih",
-    "ln": "Chinali",
-    "ang": "Chinali",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1212,
     "lr": "Asia",
+    "lc": "cih",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Chana",
         "Channali",
@@ -14,10 +17,7 @@
         "Harijan",
         "Shipi"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Chinali",
+    "gwcode": "en",
+    "ln": "Chinali"
 }

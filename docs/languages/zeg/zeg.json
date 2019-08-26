@@ -1,19 +1,19 @@
 {
-    "pk": 7365,
-    "lc": "zeg",
+    "gw": false,
     "ISO-639-3": "zeg",
-    "ln": "Zenag",
-    "ang": "Zenag",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 7365,
     "lr": "Pacific",
+    "lc": "zeg",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Zenang",
         "Latep"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Zenag",
+    "gwcode": "tpi",
+    "ln": "Zenag"
 }

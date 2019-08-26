@@ -1,20 +1,20 @@
 {
-    "pk": 39,
-    "lc": "abm",
+    "gw": false,
     "ISO-639-3": "abm",
-    "ln": "Abanyom",
-    "ang": "Abanyom",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 39,
     "lr": "Africa",
+    "lc": "abm",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Befun",
         "Bofon",
         "Mbofon"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Abanyom",
+    "gwcode": "en",
+    "ln": "Abanyom"
 }

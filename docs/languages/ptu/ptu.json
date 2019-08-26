@@ -1,11 +1,14 @@
 {
-    "pk": 5206,
-    "lc": "ptu",
+    "gw": false,
     "ISO-639-3": "ptu",
-    "ln": "Bambam",
-    "ang": "Bambam",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5206,
     "lr": "Asia",
+    "lc": "ptu",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Pitu Uluna Salu",
         "Pitu-Ulunna-Salu",
@@ -14,10 +17,7 @@
         "Bambam Hulu",
         "Mehalaan"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Bambam",
+    "gwcode": "id",
+    "ln": "Bambam"
 }

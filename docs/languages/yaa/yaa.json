@@ -1,11 +1,16 @@
 {
-    "pk": 7110,
-    "lc": "yaa",
+    "gw": false,
     "ISO-639-3": "yaa",
-    "ln": "Yaminahua",
-    "ang": "Yaminahua",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 7110,
     "lr": "Americas",
+    "lc": "yaa",
+    "cc": [
+        "BR",
+        "PE",
+        "BO"
+    ],
     "alt": [
         "Jaminawa",
         "Yamanawa",
@@ -19,12 +24,7 @@
         "Horunahua",
         "Moronahua"
     ],
-    "cc": [
-        "BR",
-        "PE",
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Yaminahua",
+    "gwcode": "es-419",
+    "ln": "Yaminahua"
 }

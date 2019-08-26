@@ -1,20 +1,20 @@
 {
-    "pk": 5511,
-    "lc": "sci",
+    "gw": false,
     "ISO-639-3": "sci",
-    "ln": "Sri Lankan Creole Malay",
-    "ang": "Sri Lankan Creole Malay",
     "hc": "LK",
+    "ld": "ltr",
+    "pk": 5511,
     "lr": "Asia",
+    "lc": "sci",
+    "cc": [
+        "LK"
+    ],
     "alt": [
         "Java Jati",
         "Melayu Bahasa",
         "Sri Lankan Malay"
     ],
-    "cc": [
-        "LK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ta"
+    "ang": "Sri Lankan Creole Malay",
+    "gwcode": "ta",
+    "ln": "Sri Lankan Creole Malay"
 }

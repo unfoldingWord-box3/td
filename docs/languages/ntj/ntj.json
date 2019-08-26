@@ -1,20 +1,20 @@
 {
-    "pk": 4664,
-    "lc": "ntj",
+    "gw": false,
     "ISO-639-3": "ntj",
-    "ln": "Ngaanyatjarra",
-    "ang": "Ngaanyatjarra",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4664,
     "lr": "Pacific",
+    "lc": "ntj",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Ngaanjatjarra",
         "Ngaanyatjara",
         "Nyanganyatjara"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ngaanyatjarra",
+    "gwcode": "en",
+    "ln": "Ngaanyatjarra"
 }

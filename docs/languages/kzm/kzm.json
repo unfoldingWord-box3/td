@@ -1,21 +1,21 @@
 {
-    "pk": 3319,
-    "lc": "kzm",
+    "gw": false,
     "ISO-639-3": "kzm",
-    "ln": "Kais",
-    "ang": "Kais",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3319,
     "lr": "Asia",
+    "lc": "kzm",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Aiso",
         "Atori",
         "Kampung Baru",
         "Mintamani"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kais",
+    "gwcode": "id",
+    "ln": "Kais"
 }

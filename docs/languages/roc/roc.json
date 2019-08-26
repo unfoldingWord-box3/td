@@ -1,18 +1,18 @@
 {
-    "pk": 5407,
-    "lc": "roc",
+    "gw": false,
     "ISO-639-3": "roc",
-    "ln": "Cacgia Roglai",
-    "ang": "Roglai, Cacgia",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 5407,
     "lr": "Asia",
-    "alt": [
-        "Ra-Glai"
-    ],
+    "lc": "roc",
     "cc": [
         "VN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "alt": [
+        "Ra-Glai"
+    ],
+    "ang": "Roglai, Cacgia",
+    "gwcode": "vi",
+    "ln": "Cacgia Roglai"
 }

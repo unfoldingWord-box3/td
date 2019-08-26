@@ -1,19 +1,19 @@
 {
-    "pk": 7153,
-    "lc": "yda",
+    "gw": false,
     "ISO-639-3": "yda",
-    "ln": "Yanda",
-    "ang": "Yanda",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 7153,
     "lr": "Pacific",
+    "lc": "yda",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Janda",
         "Yunda"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yanda",
+    "gwcode": "en",
+    "ln": "Yanda"
 }

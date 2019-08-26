@@ -1,11 +1,15 @@
 {
-    "pk": 5811,
-    "lc": "sri",
+    "gw": false,
     "ISO-639-3": "sri",
-    "ln": "Siriano",
-    "ang": "Siriano",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 5811,
     "lr": "Americas",
+    "lc": "sri",
+    "cc": [
+        "BR",
+        "CO"
+    ],
     "alt": [
         "Sarir\u00e1",
         "Siriana",
@@ -18,11 +22,7 @@
         "Si-Ra",
         "Sura Masa"
     ],
-    "cc": [
-        "BR",
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Siriano",
+    "gwcode": "es-419",
+    "ln": "Siriano"
 }

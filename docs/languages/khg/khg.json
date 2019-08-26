@@ -1,11 +1,15 @@
 {
-    "pk": 2864,
-    "lc": "khg",
+    "gw": false,
     "ISO-639-3": "khg",
-    "ln": "\u0f41\u0f58\u0f66\u0f0b\u0f66\u0f90\u0f51\u0f0d",
-    "ang": "Tibetan, Khams",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2864,
     "lr": "Asia",
+    "lc": "khg",
+    "cc": [
+        "CN",
+        "BT"
+    ],
     "alt": [
         "Kam",
         "Kang",
@@ -15,11 +19,7 @@
         "Khams Bhotia",
         "Khams-Yal"
     ],
-    "cc": [
-        "CN",
-        "BT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Tibetan, Khams",
+    "gwcode": "zh",
+    "ln": "\u0f41\u0f58\u0f66\u0f0b\u0f66\u0f90\u0f51\u0f0d"
 }

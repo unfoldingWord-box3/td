@@ -1,22 +1,22 @@
 {
-    "pk": 3625,
-    "lc": "lun",
+    "gw": false,
     "ISO-639-3": "lun",
-    "ln": "Lunda",
-    "ang": "Lunda",
     "hc": "ZM",
+    "ld": "ltr",
+    "pk": 3625,
     "lr": "Africa",
+    "lc": "lun",
+    "cc": [
+        "ZM",
+        "AO"
+    ],
     "alt": [
         "Chilunda",
         "Ruund",
         "Kosa (Koosa)",
         "Lunda Ndembu"
     ],
-    "cc": [
-        "ZM",
-        "AO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lunda",
+    "gwcode": "en",
+    "ln": "Lunda"
 }

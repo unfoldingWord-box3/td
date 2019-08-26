@@ -1,11 +1,15 @@
 {
-    "pk": 6386,
-    "lc": "tuo",
+    "gw": false,
     "ISO-639-3": "tuo",
-    "ln": "Tucano",
-    "ang": "Tucano",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 6386,
     "lr": "Americas",
+    "lc": "tuo",
+    "cc": [
+        "BR",
+        "CO"
+    ],
     "alt": [
         "Daxsea",
         "Takuna",
@@ -24,11 +28,7 @@
         "Papihua",
         "Wasona (Uasona)"
     ],
-    "cc": [
-        "BR",
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Tucano",
+    "gwcode": "pt",
+    "ln": "Tucano"
 }

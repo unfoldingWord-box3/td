@@ -1,21 +1,21 @@
 {
-    "pk": 6526,
-    "lc": "una",
+    "gw": false,
     "ISO-639-3": "una",
-    "ln": "North Watut",
-    "ang": "Watut, North",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6526,
     "lr": "Pacific",
+    "lc": "una",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Onank",
         "Unangg",
         "Unank",
         "Watut"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Watut, North",
+    "gwcode": "tpi",
+    "ln": "North Watut"
 }

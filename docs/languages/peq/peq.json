@@ -1,18 +1,18 @@
 {
-    "pk": 4993,
-    "lc": "peq",
+    "gw": false,
     "ISO-639-3": "peq",
-    "ln": "Southern Pomo",
-    "ang": "Pomo, Southern",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 4993,
     "lr": "Americas",
-    "alt": [
-        "Gallinom\u00e9ro"
-    ],
+    "lc": "peq",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Gallinom\u00e9ro"
+    ],
+    "ang": "Pomo, Southern",
+    "gwcode": "en",
+    "ln": "Southern Pomo"
 }

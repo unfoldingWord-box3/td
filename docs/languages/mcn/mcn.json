@@ -1,11 +1,15 @@
 {
-    "pk": 3715,
-    "lc": "mcn",
+    "gw": false,
     "ISO-639-3": "mcn",
-    "ln": "Masana",
-    "ang": "Masana",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 3715,
     "lr": "Africa",
+    "lc": "mcn",
+    "cc": [
+        "CM",
+        "TD"
+    ],
     "alt": [
         "Masa",
         "Massa",
@@ -22,11 +26,7 @@
         "Bugudum (Budugum)",
         "Walya"
     ],
-    "cc": [
-        "CM",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Masana",
+    "gwcode": "ar",
+    "ln": "Masana"
 }

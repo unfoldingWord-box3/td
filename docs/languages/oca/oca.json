@@ -1,18 +1,18 @@
 {
-    "pk": 4769,
-    "lc": "oca",
+    "gw": false,
     "ISO-639-3": "oca",
-    "ln": "Ocaina",
-    "ang": "Ocaina",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 4769,
     "lr": "Americas",
-    "alt": [
-        "Okaina"
-    ],
+    "lc": "oca",
     "cc": [
         "PE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Okaina"
+    ],
+    "ang": "Ocaina",
+    "gwcode": "es-419",
+    "ln": "Ocaina"
 }

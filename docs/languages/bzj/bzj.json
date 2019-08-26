@@ -1,18 +1,18 @@
 {
-    "pk": 1092,
-    "lc": "bzj",
+    "gw": false,
     "ISO-639-3": "bzj",
-    "ln": "Belize Kriol English",
-    "ang": "Belize Kriol English",
     "hc": "BZ",
+    "ld": "ltr",
+    "pk": 1092,
     "lr": "Americas",
-    "alt": [
-        "Kriol"
-    ],
+    "lc": "bzj",
     "cc": [
         "BZ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Kriol"
+    ],
+    "ang": "Belize Kriol English",
+    "gwcode": "en",
+    "ln": "Belize Kriol English"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 5199,
-    "lc": "pti",
+    "gw": false,
     "ISO-639-3": "pti",
-    "ln": "Pintiini",
-    "ang": "Pintiini",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 5199,
     "lr": "Pacific",
+    "lc": "pti",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Pindiini",
         "Wangada",
@@ -15,10 +18,7 @@
         "Wongai-I",
         "Wonggaii"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Pintiini",
+    "gwcode": "en",
+    "ln": "Pintiini"
 }

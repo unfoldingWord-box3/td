@@ -1,20 +1,20 @@
 {
-    "pk": 5907,
-    "lc": "swg",
+    "gw": false,
     "ISO-639-3": "swg",
-    "ln": "Swabian",
-    "ang": "Swabian",
     "hc": "DE",
+    "ld": "ltr",
+    "pk": 5907,
     "lr": "Europe",
+    "lc": "swg",
+    "cc": [
+        "DE"
+    ],
     "alt": [
         "Schw\u00e4bisch",
         "Schwaebisch",
         "Suabian"
     ],
-    "cc": [
-        "DE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Swabian",
+    "gwcode": "en",
+    "ln": "Swabian"
 }

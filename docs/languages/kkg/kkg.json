@@ -1,20 +1,20 @@
 {
-    "pk": 2939,
-    "lc": "kkg",
+    "gw": false,
     "ISO-639-3": "kkg",
-    "ln": "Mabaka Valley Kalinga",
-    "ang": "Kalinga, Mabaka Valley",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2939,
     "lr": "Asia",
+    "lc": "kkg",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Kal-Uwan",
         "Mabaka",
         "Mabaka Itneg"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Kalinga, Mabaka Valley",
+    "gwcode": "ilo",
+    "ln": "Mabaka Valley Kalinga"
 }

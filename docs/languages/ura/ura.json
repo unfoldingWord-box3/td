@@ -1,20 +1,20 @@
 {
-    "pk": 6540,
-    "lc": "ura",
+    "gw": false,
     "ISO-639-3": "ura",
-    "ln": "Urarina",
-    "ang": "Urarina",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 6540,
     "lr": "Americas",
+    "lc": "ura",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Itucali",
         "Shimacu",
         "Simacu"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Urarina",
+    "gwcode": "es-419",
+    "ln": "Urarina"
 }

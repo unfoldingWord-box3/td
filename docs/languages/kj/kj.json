@@ -1,11 +1,15 @@
 {
-    "pk": 2906,
-    "lc": "kj",
+    "gw": false,
     "ISO-639-3": "kua",
-    "ln": "Kuanyama",
-    "ang": "Kwanyama, Kuanyama",
     "hc": "AO",
+    "ld": "ltr",
+    "pk": 2906,
     "lr": "Africa",
+    "lc": "kj",
+    "cc": [
+        "AO",
+        "NA"
+    ],
     "alt": [
         "Cuanhama",
         "Humba",
@@ -22,11 +26,7 @@
         "Otjiwambo",
         "Owambo"
     ],
-    "cc": [
-        "AO",
-        "NA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Kwanyama, Kuanyama",
+    "gwcode": "pt",
+    "ln": "Kuanyama"
 }

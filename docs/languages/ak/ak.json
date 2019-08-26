@@ -1,11 +1,14 @@
 {
-    "pk": 190,
-    "lc": "ak",
+    "gw": false,
     "ISO-639-3": "aka",
-    "ln": "Akan",
-    "ang": "Akan",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 190,
     "lr": "Africa",
+    "lc": "ak",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Ashante Twi",
         "Bono",
@@ -27,10 +30,7 @@
         "Abura Fanti",
         "Asante (Achanti)"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Akan",
+    "gwcode": "en",
+    "ln": "Akan"
 }

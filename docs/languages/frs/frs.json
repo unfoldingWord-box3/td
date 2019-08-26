@@ -1,18 +1,18 @@
 {
-    "pk": 1877,
-    "lc": "frs",
+    "gw": false,
     "ISO-639-3": "frs",
-    "ln": "Eastern Frisian",
-    "ang": "Saxon, East Frisian Low",
     "hc": "DE",
+    "ld": "ltr",
+    "pk": 1877,
     "lr": "Europe",
-    "alt": [
-        "Ostfriesisch"
-    ],
+    "lc": "frs",
     "cc": [
         "DE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Ostfriesisch"
+    ],
+    "ang": "Saxon, East Frisian Low",
+    "gwcode": "en",
+    "ln": "Eastern Frisian"
 }

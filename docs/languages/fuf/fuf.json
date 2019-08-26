@@ -1,11 +1,19 @@
 {
-    "pk": 1886,
-    "lc": "fuf",
+    "gw": false,
     "ISO-639-3": "fuf",
-    "ln": "Pular",
-    "ang": "Pular",
     "hc": "GN",
+    "ld": "ltr",
+    "pk": 1886,
     "lr": "Africa",
+    "lc": "fuf",
+    "cc": [
+        "ML",
+        "SN",
+        "US",
+        "GN",
+        "GW",
+        "SL"
+    ],
     "alt": [
         "Foula Fouta",
         "Fouta Dyalon",
@@ -18,15 +26,7 @@
         "Fula",
         "Futa"
     ],
-    "cc": [
-        "ML",
-        "SN",
-        "US",
-        "GN",
-        "GW",
-        "SL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Pular",
+    "gwcode": "fr",
+    "ln": "Pular"
 }

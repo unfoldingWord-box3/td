@@ -1,18 +1,18 @@
 {
-    "pk": 5688,
-    "lc": "sli",
+    "gw": false,
     "ISO-639-3": "sli",
-    "ln": "Lower Silesian",
-    "ang": "Silesian, Lower",
     "hc": "PL",
+    "ld": "ltr",
+    "pk": 5688,
     "lr": "Europe",
-    "alt": [
-        "Upper Schlesisch"
-    ],
+    "lc": "sli",
     "cc": [
         "PL"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Upper Schlesisch"
+    ],
+    "ang": "Silesian, Lower",
+    "gwcode": "en",
+    "ln": "Lower Silesian"
 }

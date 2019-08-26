@@ -1,18 +1,18 @@
 {
-    "pk": 5161,
-    "lc": "prh",
+    "gw": false,
     "ISO-639-3": "prh",
-    "ln": "Porohanon",
-    "ang": "Porohanon",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5161,
     "lr": "Asia",
-    "alt": [
-        "Camotes"
-    ],
+    "lc": "prh",
     "cc": [
         "PH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "alt": [
+        "Camotes"
+    ],
+    "ang": "Porohanon",
+    "gwcode": "ceb",
+    "ln": "Porohanon"
 }

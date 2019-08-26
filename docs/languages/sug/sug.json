@@ -1,19 +1,19 @@
 {
-    "pk": 5880,
-    "lc": "sug",
+    "gw": false,
     "ISO-639-3": "sug",
-    "ln": "Suganga",
-    "ang": "Suganga",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5880,
     "lr": "Pacific",
+    "lc": "sug",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "North Mianmin",
         "Wagarabai"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Suganga",
+    "gwcode": "tpi",
+    "ln": "Suganga"
 }

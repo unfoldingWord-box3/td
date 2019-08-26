@@ -1,16 +1,16 @@
 {
-    "pk": 102,
-    "lc": "aes",
+    "gw": false,
     "ISO-639-3": "aes",
-    "ln": "Alsea",
-    "ang": "Alsea",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 102,
     "lr": "Americas",
-    "alt": [],
+    "lc": "aes",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [],
+    "ang": "Alsea",
+    "gwcode": "UNKNOWN",
+    "ln": "Alsea"
 }

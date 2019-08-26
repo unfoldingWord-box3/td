@@ -1,11 +1,15 @@
 {
-    "pk": 2654,
-    "lc": "jnl",
+    "gw": false,
     "ISO-639-3": "jnl",
-    "ln": "Rawat",
-    "ang": "Rawat",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2654,
     "lr": "Asia",
+    "lc": "jnl",
+    "cc": [
+        "NP",
+        "IN"
+    ],
     "alt": [
         "Ban Manus",
         "Ban Rauts",
@@ -17,11 +21,7 @@
         "Raji",
         "Raut"
     ],
-    "cc": [
-        "NP",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Rawat",
+    "gwcode": "hi",
+    "ln": "Rawat"
 }

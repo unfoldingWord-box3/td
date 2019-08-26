@@ -1,20 +1,20 @@
 {
-    "pk": 3723,
-    "lc": "mcv",
+    "gw": false,
     "ISO-639-3": "mcv",
-    "ln": "Minanibai",
-    "ang": "Minanibai",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3723,
     "lr": "Pacific",
+    "lc": "mcv",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Eme-Eme",
         "Hei",
         "Pepeha"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Minanibai",
+    "gwcode": "tpi",
+    "ln": "Minanibai"
 }

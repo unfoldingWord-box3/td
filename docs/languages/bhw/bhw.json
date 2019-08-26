@@ -1,11 +1,14 @@
 {
-    "pk": 681,
-    "lc": "bhw",
+    "gw": false,
     "ISO-639-3": "bhw",
-    "ln": "Biak",
-    "ang": "Biak",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 681,
     "lr": "Asia",
+    "lc": "bhw",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Mafoor",
         "Mafoorsch",
@@ -16,10 +19,7 @@
         "Nufoor",
         "Sampori (Mokmer)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Biak",
+    "gwcode": "id",
+    "ln": "Biak"
 }

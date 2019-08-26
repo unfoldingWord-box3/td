@@ -1,19 +1,19 @@
 {
-    "pk": 871,
-    "lc": "bpw",
+    "gw": false,
     "ISO-639-3": "bpw",
-    "ln": "Bo (Papua New Guinea)",
-    "ang": "Bo",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 871,
     "lr": "Pacific",
+    "lc": "bpw",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Po",
         "Sorimi"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Bo",
+    "gwcode": "tpi",
+    "ln": "Bo (Papua New Guinea)"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 3235,
-    "lc": "kwa",
+    "gw": false,
     "ISO-639-3": "kwa",
-    "ln": "D\u00e2w",
-    "ang": "D\u00e2w",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 3235,
     "lr": "Americas",
+    "lc": "kwa",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Dow",
         "Kam\u00e3",
         "Kam\u00e3 Mak\u00fa",
         "Kamu Maku"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "D\u00e2w",
+    "gwcode": "pt",
+    "ln": "D\u00e2w"
 }

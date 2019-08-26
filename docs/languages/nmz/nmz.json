@@ -1,11 +1,15 @@
 {
-    "pk": 4557,
-    "lc": "nmz",
+    "gw": false,
     "ISO-639-3": "nmz",
-    "ln": "Nawdm",
-    "ang": "Nawdm",
     "hc": "TG",
+    "ld": "ltr",
+    "pk": 4557,
     "lr": "Africa",
+    "lc": "nmz",
+    "cc": [
+        "GH",
+        "TG"
+    ],
     "alt": [
         "Naoudem",
         "Naudm",
@@ -18,11 +22,7 @@
         "Central Nawdm (Bana')",
         "East Nawdm (Siou Canton)"
     ],
-    "cc": [
-        "GH",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Nawdm",
+    "gwcode": "fr",
+    "ln": "Nawdm"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 6329,
-    "lc": "tsg",
+    "gw": false,
     "ISO-639-3": "tsg",
-    "ln": "Tausug",
-    "ang": "Tausug",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 6329,
     "lr": "Asia",
+    "lc": "tsg",
+    "cc": [
+        "MY",
+        "PH"
+    ],
     "alt": [
         "Joloano Sulu",
         "Moro Joloano",
@@ -20,11 +24,7 @@
         "Bahasa Sug",
         "Sinug"
     ],
-    "cc": [
-        "MY",
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tausug",
+    "gwcode": "en",
+    "ln": "Tausug"
 }

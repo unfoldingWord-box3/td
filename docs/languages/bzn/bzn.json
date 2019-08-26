@@ -1,18 +1,18 @@
 {
-    "pk": 1096,
-    "lc": "bzn",
+    "gw": false,
     "ISO-639-3": "bzn",
-    "ln": "Boano (Maluku)",
-    "ang": "Boano",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1096,
     "lr": "Asia",
-    "alt": [
-        "Buano"
-    ],
+    "lc": "bzn",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Buano"
+    ],
+    "ang": "Boano",
+    "gwcode": "id",
+    "ln": "Boano (Maluku)"
 }

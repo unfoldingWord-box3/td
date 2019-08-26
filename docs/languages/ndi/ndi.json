@@ -1,11 +1,15 @@
 {
-    "pk": 4361,
-    "lc": "ndi",
+    "gw": false,
     "ISO-639-3": "ndi",
-    "ln": "Samba Leko",
-    "ang": "Samba Leko",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4361,
     "lr": "Africa",
+    "lc": "ndi",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Chamba Leeko",
         "Samba",
@@ -20,11 +24,7 @@
         "Deenu (Koola)",
         "Samba Leko (Laeko)"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Samba Leko",
+    "gwcode": "en",
+    "ln": "Samba Leko"
 }

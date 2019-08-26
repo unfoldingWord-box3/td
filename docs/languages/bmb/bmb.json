@@ -1,22 +1,22 @@
 {
-    "pk": 782,
-    "lc": "bmb",
+    "gw": false,
     "ISO-639-3": "bmb",
-    "ln": "Bembe",
-    "ang": "Bembe",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 782,
     "lr": "Africa",
+    "lc": "bmb",
+    "cc": [
+        "TZ",
+        "CD"
+    ],
     "alt": [
         "Beembe",
         "Ebembe",
         "Ibembe",
         "Kibembe"
     ],
-    "cc": [
-        "TZ",
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bembe",
+    "gwcode": "fr",
+    "ln": "Bembe"
 }

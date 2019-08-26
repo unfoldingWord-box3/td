@@ -1,18 +1,18 @@
 {
-    "pk": 6811,
-    "lc": "wrm",
+    "gw": false,
     "ISO-639-3": "wrm",
-    "ln": "Warumungu",
-    "ang": "Warumungu",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6811,
     "lr": "Pacific",
-    "alt": [
-        "Warramunga"
-    ],
+    "lc": "wrm",
     "cc": [
         "AU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Warramunga"
+    ],
+    "ang": "Warumungu",
+    "gwcode": "en",
+    "ln": "Warumungu"
 }

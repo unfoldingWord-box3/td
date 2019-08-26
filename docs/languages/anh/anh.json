@@ -1,19 +1,19 @@
 {
-    "pk": 265,
-    "lc": "anh",
+    "gw": false,
     "ISO-639-3": "anh",
-    "ln": "Nend",
-    "ang": "Nend",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 265,
     "lr": "Pacific",
+    "lc": "anh",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Angaua",
         "Nent"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Nend",
+    "gwcode": "tpi",
+    "ln": "Nend"
 }

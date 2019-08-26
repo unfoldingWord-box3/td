@@ -1,18 +1,18 @@
 {
-    "pk": 5794,
-    "lc": "sqk",
+    "gw": false,
     "ISO-639-3": "sqk",
-    "ln": "Albanian Sign Language",
-    "ang": "Albanian Sign Language",
     "hc": "AL",
+    "ld": "ltr",
+    "pk": 5794,
     "lr": "Europe",
-    "alt": [
-        "AlbSL"
-    ],
+    "lc": "sqk",
     "cc": [
         "AL"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "AlbSL"
+    ],
+    "ang": "Albanian Sign Language",
+    "gwcode": "en",
+    "ln": "Albanian Sign Language"
 }

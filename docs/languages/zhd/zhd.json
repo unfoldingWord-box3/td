@@ -1,11 +1,14 @@
 {
-    "pk": 7376,
-    "lc": "zhd",
+    "gw": false,
     "ISO-639-3": "zhd",
-    "ln": "\u6587\u9a6c",
-    "ang": "Zhuang, Dai",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7376,
     "lr": "Asia",
+    "lc": "zhd",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Bu Dai",
         "Kau Ndae",
@@ -22,10 +25,7 @@
         "Maguan-Malipo (Jian Tou Tu)",
         "Western Yanshan-Northern Wenshan (Da Tou Tu)"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Zhuang, Dai",
+    "gwcode": "zh",
+    "ln": "\u6587\u9a6c"
 }

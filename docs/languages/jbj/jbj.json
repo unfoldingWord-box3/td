@@ -1,21 +1,21 @@
 {
-    "pk": 2584,
-    "lc": "jbj",
+    "gw": false,
     "ISO-639-3": "jbj",
-    "ln": "Arandai",
-    "ang": "Arandai",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2584,
     "lr": "Asia",
+    "lc": "jbj",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Jaban",
         "Sebyar",
         "Yaban",
         "Dombano (Arandai)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Arandai",
+    "gwcode": "id",
+    "ln": "Arandai"
 }

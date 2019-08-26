@@ -1,21 +1,21 @@
 {
-    "pk": 6343,
-    "lc": "tsw",
+    "gw": false,
     "ISO-639-3": "tsw",
-    "ln": "Tsishingini",
-    "ang": "Tsishingini",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 6343,
     "lr": "Africa",
+    "lc": "tsw",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ashingini",
         "Kambari",
         "Kamberchi",
         "Kamberri"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tsishingini",
+    "gwcode": "en",
+    "ln": "Tsishingini"
 }

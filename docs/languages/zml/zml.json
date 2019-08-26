@@ -1,11 +1,14 @@
 {
-    "pk": 7413,
-    "lc": "zml",
+    "gw": false,
     "ISO-639-3": "zml",
-    "ln": "Madngele",
-    "ang": "Madngele",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 7413,
     "lr": "Pacific",
+    "lc": "zml",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Maangella",
         "Madngela",
@@ -15,10 +18,7 @@
         "Muttangulla",
         "Warat"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Madngele",
+    "gwcode": "en",
+    "ln": "Madngele"
 }

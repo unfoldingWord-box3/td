@@ -1,11 +1,14 @@
 {
-    "pk": 534,
-    "lc": "bca",
+    "gw": false,
     "ISO-639-3": "bca",
-    "ln": "\u767d\u8bed",
-    "ang": "Bai, Central",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 534,
     "lr": "Asia",
+    "lc": "bca",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Labbu",
         "Minchia",
@@ -17,10 +20,7 @@
         "Eryuan",
         "Yunlong"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Bai, Central",
+    "gwcode": "zh",
+    "ln": "\u767d\u8bed"
 }

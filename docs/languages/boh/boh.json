@@ -1,19 +1,19 @@
 {
-    "pk": 836,
-    "lc": "boh",
+    "gw": false,
     "ISO-639-3": "boh",
-    "ln": "Boma",
-    "ang": "Boma",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 836,
     "lr": "Africa",
+    "lc": "boh",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Boma Kasai",
         "Buma"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Boma",
+    "gwcode": "fr",
+    "ln": "Boma"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 5471,
-    "lc": "sas",
+    "gw": false,
     "ISO-639-3": "sas",
-    "ln": "Sasak",
-    "ang": "Sasak",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5471,
     "lr": "Asia",
+    "lc": "sas",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Lombok",
         "Ngeno-Ngene (Central East Sasak)",
@@ -15,10 +18,7 @@
         "Kuto-Kute (North Sasak)",
         "Central West Sasak"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Sasak",
+    "gwcode": "id",
+    "ln": "Sasak"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 7324,
-    "lc": "yxu",
+    "gw": false,
     "ISO-639-3": "yxu",
-    "ln": "Yuyu",
-    "ang": "Yuyu",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 7324,
     "lr": "Pacific",
+    "lc": "yxu",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Eramwir-rangu",
         "Eraweerung",
@@ -23,10 +26,7 @@
         "Yirau",
         "You-you"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yuyu",
+    "gwcode": "en",
+    "ln": "Yuyu"
 }

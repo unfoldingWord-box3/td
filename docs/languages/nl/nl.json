@@ -1,18 +1,11 @@
 {
-    "pk": 4518,
-    "lc": "nl",
+    "gw": false,
     "ISO-639-3": "nld",
-    "ln": "Nederlands, Vlaams",
-    "ang": "Dutch",
     "hc": "NL",
+    "ld": "ltr",
+    "pk": 4518,
     "lr": "Europe",
-    "alt": [
-        "Nederlands",
-        "Vlaams",
-        "Hollands",
-        "Antwerps",
-        "Northern North Hollandish (Westfries)"
-    ],
+    "lc": "nl",
     "cc": [
         "AT",
         "FR",
@@ -33,7 +26,14 @@
         "AW",
         "SR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [
+        "Nederlands",
+        "Vlaams",
+        "Hollands",
+        "Antwerps",
+        "Northern North Hollandish (Westfries)"
+    ],
+    "ang": "Dutch",
+    "gwcode": "UNKNOWN",
+    "ln": "Nederlands, Vlaams"
 }

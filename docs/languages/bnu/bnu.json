@@ -1,19 +1,19 @@
 {
-    "pk": 824,
-    "lc": "bnu",
+    "gw": false,
     "ISO-639-3": "bnu",
-    "ln": "Bentong",
-    "ang": "Bentong",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 824,
     "lr": "Asia",
+    "lc": "bnu",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Bentong-Dentong",
         "Dentong"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Bentong",
+    "gwcode": "id",
+    "ln": "Bentong"
 }

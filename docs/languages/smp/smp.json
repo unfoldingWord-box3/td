@@ -1,18 +1,18 @@
 {
-    "pk": 5715,
-    "lc": "smp",
+    "gw": false,
     "ISO-639-3": "smp",
-    "ln": "Samaritan",
-    "ang": "Samaritan",
     "hc": "PS",
+    "ld": "ltr",
+    "pk": 5715,
     "lr": "Asia",
-    "alt": [
-        "Samaritan Hebrew"
-    ],
+    "lc": "smp",
     "cc": [
         "PS"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Samaritan Hebrew"
+    ],
+    "ang": "Samaritan",
+    "gwcode": "ar",
+    "ln": "Samaritan"
 }

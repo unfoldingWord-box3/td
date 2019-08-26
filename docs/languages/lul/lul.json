@@ -1,11 +1,16 @@
 {
-    "pk": 3623,
-    "lc": "lul",
+    "gw": false,
     "ISO-639-3": "lul",
-    "ln": "Olu'bo",
-    "ang": "Olu\u2019bo",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 3623,
     "lr": "Africa",
+    "lc": "lul",
+    "cc": [
+        "SS",
+        "SB",
+        "UG"
+    ],
     "alt": [
         "Lolubo",
         "Luluba",
@@ -14,12 +19,7 @@
         "Oluboti",
         "Ondoe"
     ],
-    "cc": [
-        "SS",
-        "SB",
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Olu\u2019bo",
+    "gwcode": "ar",
+    "ln": "Olu'bo"
 }

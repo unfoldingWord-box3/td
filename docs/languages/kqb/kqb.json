@@ -1,19 +1,19 @@
 {
-    "pk": 3084,
-    "lc": "kqb",
+    "gw": false,
     "ISO-639-3": "kqb",
-    "ln": "Kovai",
-    "ang": "Kovai",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3084,
     "lr": "Pacific",
+    "lc": "kqb",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kobai",
         "Kowai"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kovai",
+    "gwcode": "tpi",
+    "ln": "Kovai"
 }

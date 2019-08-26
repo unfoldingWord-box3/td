@@ -1,20 +1,20 @@
 {
-    "pk": 4697,
-    "lc": "nuy",
+    "gw": false,
     "ISO-639-3": "nuy",
-    "ln": "Nunggubuyu",
-    "ang": "Nunggubuyu",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4697,
     "lr": "Pacific",
+    "lc": "nuy",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Nunggubuju",
         "Wubuy",
         "Yingkwira"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nunggubuyu",
+    "gwcode": "en",
+    "ln": "Nunggubuyu"
 }

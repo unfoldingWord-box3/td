@@ -1,16 +1,16 @@
 {
-    "pk": 2073,
-    "lc": "gnc",
+    "gw": false,
     "ISO-639-3": "gnc",
-    "ln": "Guanche",
-    "ang": "Guanche",
     "hc": "ES",
+    "ld": "ltr",
+    "pk": 2073,
     "lr": "Europe",
-    "alt": [],
+    "lc": "gnc",
     "cc": [
         "ES"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [],
+    "ang": "Guanche",
+    "gwcode": "UNKNOWN",
+    "ln": "Guanche"
 }

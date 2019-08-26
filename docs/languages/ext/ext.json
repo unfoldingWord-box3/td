@@ -1,11 +1,14 @@
 {
-    "pk": 1806,
-    "lc": "ext",
+    "gw": false,
     "ISO-639-3": "ext",
-    "ln": "Extremaduran",
-    "ang": "Extremaduran",
     "hc": "ES",
+    "ld": "ltr",
+    "pk": 1806,
     "lr": "Europe",
+    "lc": "ext",
+    "cc": [
+        "ES"
+    ],
     "alt": [
         "Barranquian",
         "Caht\u00fao",
@@ -17,10 +20,7 @@
         "Northern Extremaduran (Artu Ehtreme\u00f1u)",
         "Southern Extremaduran (Bahu Ehtreme\u00f1u)"
     ],
-    "cc": [
-        "ES"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es"
+    "ang": "Extremaduran",
+    "gwcode": "es",
+    "ln": "Extremaduran"
 }

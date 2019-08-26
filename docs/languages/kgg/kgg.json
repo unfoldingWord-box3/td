@@ -1,21 +1,21 @@
 {
-    "pk": 2842,
-    "lc": "kgg",
+    "gw": false,
     "ISO-639-3": "kgg",
-    "ln": "Kusunda",
-    "ang": "Kusunda",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 2842,
     "lr": "Asia",
+    "lc": "kgg",
+    "cc": [
+        "NP"
+    ],
     "alt": [
         "Kusanda",
         "Tanahun",
         "Rolpa-Dang",
         "Gorkha"
     ],
-    "cc": [
-        "NP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Kusunda",
+    "gwcode": "ne",
+    "ln": "Kusunda"
 }

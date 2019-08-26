@@ -1,21 +1,21 @@
 {
-    "pk": 2788,
-    "lc": "kef",
+    "gw": false,
     "ISO-639-3": "kef",
-    "ln": "Kpessi",
-    "ang": "Kpessi",
     "hc": "TG",
+    "ld": "ltr",
+    "pk": 2788,
     "lr": "Africa",
+    "lc": "kef",
+    "cc": [
+        "TG"
+    ],
     "alt": [
         "Kpesi",
         "Kp\u00e9si",
         "Kpetchi",
         "Kp\u00e9tsi"
     ],
-    "cc": [
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kpessi",
+    "gwcode": "fr",
+    "ln": "Kpessi"
 }

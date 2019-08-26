@@ -1,11 +1,14 @@
 {
-    "pk": 6815,
-    "lc": "wrr",
+    "gw": false,
     "ISO-639-3": "wrr",
-    "ln": "Wardaman",
-    "ang": "Wardaman",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6815,
     "lr": "Pacific",
+    "lc": "wrr",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Waderman",
         "Waduman",
@@ -15,10 +18,7 @@
         "Wartaman",
         "Wordaman"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Wardaman",
+    "gwcode": "en",
+    "ln": "Wardaman"
 }

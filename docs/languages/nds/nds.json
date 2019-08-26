@@ -1,11 +1,15 @@
 {
-    "pk": 4370,
-    "lc": "nds",
+    "gw": false,
     "ISO-639-3": "nds",
-    "ln": "Low German",
-    "ang": "Saxon, Low",
     "hc": "DE",
+    "ld": "ltr",
+    "pk": 4370,
     "lr": "Europe",
+    "lc": "nds",
+    "cc": [
+        "DE",
+        "NL"
+    ],
     "alt": [
         "Low German",
         "Nedderd\u00fctsch",
@@ -22,11 +26,7 @@
         "Eastphalian (Ostfaelisch)",
         "M\u00e4rkisch-Brandenburgisch"
     ],
-    "cc": [
-        "DE",
-        "NL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Saxon, Low",
+    "gwcode": "en",
+    "ln": "Low German"
 }

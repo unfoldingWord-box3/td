@@ -1,19 +1,19 @@
 {
-    "pk": 668,
-    "lc": "bhi",
+    "gw": false,
     "ISO-639-3": "bhi",
-    "ln": "Bhilali",
-    "ang": "Bhilali",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 668,
     "lr": "Asia",
+    "lc": "bhi",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Bhilala",
         "Parya Bhilali"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Bhilali",
+    "gwcode": "hi",
+    "ln": "Bhilali"
 }

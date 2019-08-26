@@ -1,20 +1,20 @@
 {
-    "pk": 3267,
-    "lc": "kxk",
+    "gw": false,
     "ISO-639-3": "kxk",
-    "ln": "Zayein Karen",
-    "ang": "Zayein",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 3267,
     "lr": "Asia",
+    "lc": "kxk",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Gaungtou",
         "Khaungtou",
         "Zayein Karen"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Zayein",
+    "gwcode": "my",
+    "ln": "Zayein Karen"
 }

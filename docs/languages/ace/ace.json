@@ -1,11 +1,14 @@
 {
-    "pk": 56,
-    "lc": "ace",
+    "gw": false,
     "ISO-639-3": "ace",
-    "ln": "Achinese",
-    "ang": "Aceh",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 56,
     "lr": "Asia",
+    "lc": "ace",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Pidie (Pedir)",
         "Timu",
@@ -13,10 +16,7 @@
         "Achehnese",
         "Achinese"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Aceh",
+    "gwcode": "id",
+    "ln": "Achinese"
 }

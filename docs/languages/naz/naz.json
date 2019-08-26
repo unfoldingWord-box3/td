@@ -1,19 +1,19 @@
 {
-    "pk": 4308,
-    "lc": "naz",
+    "gw": false,
     "ISO-639-3": "naz",
-    "ln": "Coatepec Nahuatl",
-    "ang": "Nahuatl, Coatepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4308,
     "lr": "Americas",
+    "lc": "naz",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Coatepec Aztec",
         "N\u00e1huatl de Coatepec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Nahuatl, Coatepec",
+    "gwcode": "es-419",
+    "ln": "Coatepec Nahuatl"
 }

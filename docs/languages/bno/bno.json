@@ -1,11 +1,14 @@
 {
-    "pk": 819,
-    "lc": "bno",
+    "gw": false,
     "ISO-639-3": "bno",
-    "ln": "Bantoanon",
-    "ang": "Bantoanon",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 819,
     "lr": "Asia",
+    "lc": "bno",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Banton",
         "Calatravanhon",
@@ -13,10 +16,7 @@
         "Sibalenhon (Sibale)",
         "Simaranhon"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bantoanon",
+    "gwcode": "en",
+    "ln": "Bantoanon"
 }

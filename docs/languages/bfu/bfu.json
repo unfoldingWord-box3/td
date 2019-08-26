@@ -1,11 +1,15 @@
 {
-    "pk": 629,
-    "lc": "bfu",
+    "gw": false,
     "ISO-639-3": "bfu",
-    "ln": "Gahri",
-    "ang": "Gahri",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 629,
     "lr": "Asia",
+    "lc": "bfu",
+    "cc": [
+        "CN",
+        "IN"
+    ],
     "alt": [
         "Boonan",
         "Erankad",
@@ -15,11 +19,7 @@
         "Poonan",
         "Punan"
     ],
-    "cc": [
-        "CN",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Gahri",
+    "gwcode": "hi",
+    "ln": "Gahri"
 }

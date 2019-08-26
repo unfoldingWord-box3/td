@@ -1,20 +1,20 @@
 {
-    "pk": 5083,
-    "lc": "pma",
+    "gw": false,
     "ISO-639-3": "pma",
-    "ln": "Paama",
-    "ang": "Paama",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 5083,
     "lr": "Pacific",
+    "lc": "pma",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Paama-Lopevi",
         "Paamese",
         "Pauma"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Paama",
+    "gwcode": "fr",
+    "ln": "Paama"
 }

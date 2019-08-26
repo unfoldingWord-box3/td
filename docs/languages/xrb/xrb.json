@@ -1,21 +1,21 @@
 {
-    "pk": 7029,
-    "lc": "xrb",
+    "gw": false,
     "ISO-639-3": "xrb",
-    "ln": "Eastern Karaboro",
-    "ang": "Karaboro, Eastern",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 7029,
     "lr": "Africa",
+    "lc": "xrb",
+    "cc": [
+        "BF",
+        "TG"
+    ],
     "alt": [
         "Kar",
         "Ker",
         "Kler"
     ],
-    "cc": [
-        "BF",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Karaboro, Eastern",
+    "gwcode": "fr",
+    "ln": "Eastern Karaboro"
 }

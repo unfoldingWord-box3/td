@@ -1,11 +1,14 @@
 {
-    "pk": 4347,
-    "lc": "ncr",
+    "gw": false,
     "ISO-639-3": "ncr",
-    "ln": "Ncane",
-    "ang": "Ncane",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 4347,
     "lr": "Africa",
+    "lc": "ncr",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Cane",
         "Nchane",
@@ -13,10 +16,7 @@
         "Ntshanti",
         "Mungong (Mungom)"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ncane",
+    "gwcode": "fr",
+    "ln": "Ncane"
 }

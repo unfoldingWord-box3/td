@@ -1,18 +1,18 @@
 {
-    "pk": 5267,
-    "lc": "quy",
+    "gw": false,
     "ISO-639-3": "quy",
-    "ln": "Ayacucho Quechua",
-    "ang": "Quechua, Ayacucho",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 5267,
     "lr": "Americas",
-    "alt": [
-        "Chanka"
-    ],
+    "lc": "quy",
     "cc": [
         "PE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Chanka"
+    ],
+    "ang": "Quechua, Ayacucho",
+    "gwcode": "es-419",
+    "ln": "Ayacucho Quechua"
 }

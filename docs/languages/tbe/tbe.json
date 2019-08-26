@@ -1,18 +1,18 @@
 {
-    "pk": 5988,
-    "lc": "tbe",
+    "gw": false,
     "ISO-639-3": "tbe",
-    "ln": "Tanimbili",
-    "ang": "Tanibili",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 5988,
     "lr": "Pacific",
-    "alt": [
-        "Nyisunggu"
-    ],
+    "lc": "tbe",
     "cc": [
         "SB"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "alt": [
+        "Nyisunggu"
+    ],
+    "ang": "Tanibili",
+    "gwcode": "UNKNOWN",
+    "ln": "Tanimbili"
 }

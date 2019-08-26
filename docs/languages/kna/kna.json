@@ -1,18 +1,18 @@
 {
-    "pk": 3014,
-    "lc": "kna",
+    "gw": false,
     "ISO-639-3": "kna",
-    "ln": "Dera (Nigeria)",
-    "ang": "Dera",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3014,
     "lr": "Africa",
-    "alt": [
-        "Kanakuru"
-    ],
+    "lc": "kna",
     "cc": [
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Kanakuru"
+    ],
+    "ang": "Dera",
+    "gwcode": "en",
+    "ln": "Dera (Nigeria)"
 }

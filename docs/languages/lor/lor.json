@@ -1,11 +1,15 @@
 {
-    "pk": 3566,
-    "lc": "lor",
+    "gw": false,
     "ISO-639-3": "lor",
-    "ln": "T\u00e9\u00e9n",
-    "ang": "T\u00e9\u00e9n",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 3566,
     "lr": "Africa",
+    "lc": "lor",
+    "cc": [
+        "BF",
+        "CI"
+    ],
     "alt": [
         "Loghon",
         "Lorhon",
@@ -13,11 +17,7 @@
         "Tegesie",
         "T\u00e9nh\u00e9"
     ],
-    "cc": [
-        "BF",
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "T\u00e9\u00e9n",
+    "gwcode": "fr",
+    "ln": "T\u00e9\u00e9n"
 }

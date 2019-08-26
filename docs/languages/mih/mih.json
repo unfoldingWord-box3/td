@@ -1,20 +1,20 @@
 {
-    "pk": 3861,
-    "lc": "mih",
+    "gw": false,
     "ISO-639-3": "mih",
-    "ln": "Chayuco Mixtec",
-    "ang": "Mixtec, Chayuco",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 3861,
     "lr": "Americas",
+    "lc": "mih",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Eastern Jamiltepec-Chayuco Mixtec",
         "Mixteco de Chayucu",
         "Mecho\u00e1n"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Chayuco",
+    "gwcode": "es-419",
+    "ln": "Chayuco Mixtec"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 6825,
-    "lc": "wss",
+    "gw": false,
     "ISO-639-3": "wss",
-    "ln": "Wasa",
-    "ang": "Wasa",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 6825,
     "lr": "Africa",
-    "alt": [
-        "Wasaw"
-    ],
+    "lc": "wss",
     "cc": [
         "GH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Wasaw"
+    ],
+    "ang": "Wasa",
+    "gwcode": "en",
+    "ln": "Wasa"
 }

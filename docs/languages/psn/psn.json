@@ -1,19 +1,19 @@
 {
-    "pk": 5187,
-    "lc": "psn",
+    "gw": false,
     "ISO-639-3": "psn",
-    "ln": "Panasuan",
-    "ang": "Panasuan",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5187,
     "lr": "Asia",
+    "lc": "psn",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "To Pamosean",
         "To Panasean"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Panasuan",
+    "gwcode": "id",
+    "ln": "Panasuan"
 }

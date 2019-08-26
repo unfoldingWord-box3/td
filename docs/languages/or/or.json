@@ -1,16 +1,16 @@
 {
-    "pk": 4862,
-    "lc": "or",
+    "gw": true,
     "ISO-639-3": "ori",
-    "ln": "\u0b13\u0b21\u0b3c\u0b3f\u0b06",
-    "ang": "Oriya",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4862,
     "lr": "Asia",
-    "alt": [],
+    "lc": "or",
     "cc": [
         "IN"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [],
+    "ang": "Oriya",
+    "gwcode": "UNKNOWN",
+    "ln": "\u0b13\u0b21\u0b3c\u0b3f\u0b06"
 }

@@ -1,0 +1,23 @@
+.. _vel:
+
+Veluws
+======
+
+This language is spoken in the following countries:
+
+* NL: Netherlands
+
+.. code-block:: yaml
+
+    ISO_639-3: vel
+    alternate_names:
+    - Veluwe
+    anglicanized_name: Veluws
+    country_codes:
+    - NL
+    gateway_language: UNKNOWN
+    lang_code: vel
+    lang_direction: ltr
+    lang_name: Veluws
+    lang_region: Europe
+    

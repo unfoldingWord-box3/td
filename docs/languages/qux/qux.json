@@ -1,21 +1,21 @@
 {
-    "pk": 5266,
-    "lc": "qux",
+    "gw": false,
     "ISO-639-3": "qux",
-    "ln": "Yauyos Quechua",
-    "ang": "Quechua, Yauyos",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 5266,
     "lr": "Americas",
+    "lc": "qux",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Az\u00e1ngaro-Huang\u00e1scar-Chocos (Huang\u00e1scar)",
         "Madean-Vi\u00f1ac (Made\u00e1n)",
         "Tana-Lincha (Lincha)",
         "Tom\u00e1s-Alis (Alis)"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quechua, Yauyos",
+    "gwcode": "es-419",
+    "ln": "Yauyos Quechua"
 }

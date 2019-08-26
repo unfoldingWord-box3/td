@@ -1,19 +1,19 @@
 {
-    "pk": 4674,
-    "lc": "ntz",
+    "gw": false,
     "ISO-639-3": "ntz",
-    "ln": "\u0632\u0628\u0627\u0646 \u0646\u0637\u0646\u0632\u06cc",
-    "ang": "Natanzi",
     "hc": "IR",
+    "ld": "ltr",
+    "pk": 4674,
     "lr": "Asia",
+    "lc": "ntz",
+    "cc": [
+        "IR"
+    ],
     "alt": [
         "Farizandi",
         "Yarani (Yarandi)"
     ],
-    "cc": [
-        "IR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fa"
+    "ang": "Natanzi",
+    "gwcode": "fa",
+    "ln": "\u0632\u0628\u0627\u0646 \u0646\u0637\u0646\u0632\u06cc"
 }

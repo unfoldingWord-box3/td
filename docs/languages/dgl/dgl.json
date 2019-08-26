@@ -1,21 +1,21 @@
 {
-    "pk": 1499,
-    "lc": "dgl",
+    "gw": false,
     "ISO-639-3": "dgl",
-    "ln": "Andaandi",
-    "ang": "Andaandi",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 1499,
     "lr": "Africa",
+    "lc": "dgl",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Dongola",
         "Dongolawi",
         "Dongolawi Nubian",
         "Dongolese"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Andaandi",
+    "gwcode": "ar",
+    "ln": "Andaandi"
 }

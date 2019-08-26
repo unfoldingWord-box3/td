@@ -1,11 +1,14 @@
 {
-    "pk": 7220,
-    "lc": "yly",
+    "gw": false,
     "ISO-639-3": "yly",
-    "ln": "Ny\u00e2layu",
-    "ang": "Nyel\u00e2yu",
     "hc": "NC",
+    "ld": "ltr",
+    "pk": 7220,
     "lr": "Pacific",
+    "lc": "yly",
+    "cc": [
+        "NC"
+    ],
     "alt": [
         "Nielaiou",
         "Nielaiu",
@@ -15,10 +18,7 @@
         "Arama",
         "Tiari-Balade"
     ],
-    "cc": [
-        "NC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nyel\u00e2yu",
+    "gwcode": "en",
+    "ln": "Ny\u00e2layu"
 }

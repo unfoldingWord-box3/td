@@ -1,11 +1,15 @@
 {
-    "pk": 2274,
-    "lc": "hio",
+    "gw": false,
     "ISO-639-3": "hio",
-    "ln": "Tsoa",
-    "ang": "Tsoa",
     "hc": "BW",
+    "ld": "ltr",
+    "pk": 2274,
     "lr": "Africa",
+    "lc": "hio",
+    "cc": [
+        "ZW",
+        "BW"
+    ],
     "alt": [
         "Chuwau",
         "Chware",
@@ -27,11 +31,7 @@
         "Haitshuwau",
         "Hiechware"
     ],
-    "cc": [
-        "ZW",
-        "BW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tsoa",
+    "gwcode": "en",
+    "ln": "Tsoa"
 }

@@ -1,22 +1,22 @@
 {
-    "pk": 4273,
-    "lc": "mzm",
+    "gw": false,
     "ISO-639-3": "mzm",
-    "ln": "Mumuye",
-    "ang": "Mumuye",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4273,
     "lr": "Africa",
+    "lc": "mzm",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Yoro",
         "Zinna (Zing)",
         "Gola (Bajama)",
         "Yaa"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mumuye",
+    "gwcode": "en",
+    "ln": "Mumuye"
 }

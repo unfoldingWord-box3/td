@@ -1,11 +1,14 @@
 {
-    "pk": 2701,
-    "lc": "kai",
+    "gw": false,
     "ISO-639-3": "kai",
-    "ln": "Karekare",
-    "ang": "Karekare",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2701,
     "lr": "Africa",
+    "lc": "kai",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Karai Karai",
         "Karaikarai",
@@ -13,10 +16,7 @@
         "Kerrikerri",
         "Jalalam (West Karekare)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Karekare",
+    "gwcode": "en",
+    "ln": "Karekare"
 }

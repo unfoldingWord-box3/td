@@ -1,11 +1,14 @@
 {
-    "pk": 184,
-    "lc": "aji",
+    "gw": false,
     "ISO-639-3": "aji",
-    "ln": "Aji\u00eb",
-    "ang": "Aji\u00eb",
     "hc": "NC",
+    "ld": "ltr",
+    "pk": 184,
     "lr": "Pacific",
+    "lc": "aji",
+    "cc": [
+        "NC"
+    ],
     "alt": [
         "A'jie",
         "Anjie",
@@ -13,10 +16,7 @@
         "Wai",
         "Wailu"
     ],
-    "cc": [
-        "NC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Aji\u00eb",
+    "gwcode": "en",
+    "ln": "Aji\u00eb"
 }

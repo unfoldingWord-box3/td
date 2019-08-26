@@ -1,18 +1,18 @@
 {
-    "pk": 5016,
-    "lc": "phm",
+    "gw": false,
     "ISO-639-3": "phm",
-    "ln": "Phimbi",
-    "ang": "Phimbi",
     "hc": "MZ",
+    "ld": "ltr",
+    "pk": 5016,
     "lr": "Africa",
-    "alt": [
-        "Pimbi"
-    ],
+    "lc": "phm",
     "cc": [
         "MZ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "alt": [
+        "Pimbi"
+    ],
+    "ang": "Phimbi",
+    "gwcode": "pt",
+    "ln": "Phimbi"
 }

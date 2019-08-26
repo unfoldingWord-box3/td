@@ -1,19 +1,19 @@
 {
-    "pk": 4905,
-    "lc": "oub",
+    "gw": false,
     "ISO-639-3": "oub",
-    "ln": "Glio-Oubi",
-    "ang": "Glio-Oubi",
     "hc": "LR",
+    "ld": "ltr",
+    "pk": 4905,
     "lr": "Africa",
+    "lc": "oub",
+    "cc": [
+        "LR"
+    ],
     "alt": [
         "Oubi",
         "Ubi"
     ],
-    "cc": [
-        "LR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Glio-Oubi",
+    "gwcode": "en",
+    "ln": "Glio-Oubi"
 }

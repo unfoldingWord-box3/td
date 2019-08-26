@@ -1,20 +1,20 @@
 {
-    "pk": 2890,
-    "lc": "kih",
+    "gw": false,
     "ISO-639-3": "kih",
-    "ln": "Kilmeri",
-    "ang": "Kilmeri",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2890,
     "lr": "Pacific",
+    "lc": "kih",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kilmera",
         "Eastern Kilmeri (Ossima)",
         "Western Kilmeri (Isi)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kilmeri",
+    "gwcode": "tpi",
+    "ln": "Kilmeri"
 }

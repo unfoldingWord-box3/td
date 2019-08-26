@@ -1,11 +1,15 @@
 {
-    "pk": 2679,
-    "lc": "jup",
+    "gw": false,
     "ISO-639-3": "jup",
-    "ln": "Hupd\u00eb",
-    "ang": "Hupd\u00eb",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2679,
     "lr": "Americas",
+    "lc": "jup",
+    "cc": [
+        "BR",
+        "CO"
+    ],
     "alt": [
         "Hup",
         "Hupda",
@@ -17,11 +21,7 @@
         "Mak\u00fa-Hupd\u00e1",
         "Hupd\u00eb"
     ],
-    "cc": [
-        "BR",
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Hupd\u00eb",
+    "gwcode": "pt",
+    "ln": "Hupd\u00eb"
 }

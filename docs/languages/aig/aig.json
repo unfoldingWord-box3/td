@@ -1,11 +1,17 @@
 {
-    "pk": 166,
-    "lc": "aig",
+    "gw": false,
     "ISO-639-3": "aig",
-    "ln": "Antigua and Barbuda Creole English",
-    "ang": "Antigua and Barbuda Creole English",
     "hc": "AG",
+    "ld": "ltr",
+    "pk": 166,
     "lr": "Americas",
+    "lc": "aig",
+    "cc": [
+        "MS",
+        "SX",
+        "US",
+        "AG"
+    ],
     "alt": [
         "Barbuda Creole English",
         "Antiguan Creole English",
@@ -14,13 +20,7 @@
         "Kittitian Creole English",
         "Sint Maarten Creole English"
     ],
-    "cc": [
-        "MS",
-        "SX",
-        "US",
-        "AG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Antigua and Barbuda Creole English",
+    "gwcode": "en",
+    "ln": "Antigua and Barbuda Creole English"
 }

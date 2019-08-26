@@ -1,11 +1,14 @@
 {
-    "pk": 5640,
-    "lc": "sja",
+    "gw": false,
     "ISO-639-3": "sja",
-    "ln": "Epena",
-    "ang": "Epena",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 5640,
     "lr": "Americas",
+    "lc": "sja",
+    "cc": [
+        "CO"
+    ],
     "alt": [
         "Cholo",
         "Embera",
@@ -20,10 +23,7 @@
         "Southern Epena",
         "Basurud\u00f3"
     ],
-    "cc": [
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Epena",
+    "gwcode": "es-419",
+    "ln": "Epena"
 }

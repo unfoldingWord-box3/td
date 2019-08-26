@@ -1,11 +1,14 @@
 {
-    "pk": 4484,
-    "lc": "njl",
+    "gw": false,
     "ISO-639-3": "njl",
-    "ln": "Njalgulgule",
-    "ang": "Njalgulgule",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 4484,
     "lr": "Africa",
+    "lc": "njl",
+    "cc": [
+        "SS"
+    ],
     "alt": [
         "Bege",
         "Begi",
@@ -15,10 +18,7 @@
         "Nyolge",
         "Nyoolne"
     ],
-    "cc": [
-        "SS"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Njalgulgule",
+    "gwcode": "ar",
+    "ln": "Njalgulgule"
 }

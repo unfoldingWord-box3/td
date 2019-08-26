@@ -1,19 +1,19 @@
 {
-    "pk": 4051,
-    "lc": "mqh",
+    "gw": false,
     "ISO-639-3": "mqh",
-    "ln": "Tlazoyaltepec Mixtec",
-    "ang": "Mixtec, Tlazoyaltepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4051,
     "lr": "Americas",
+    "lc": "mqh",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Mixteco Bajo de Valles",
         "Mixteco de Santiago Tlazoyaltepec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Tlazoyaltepec",
+    "gwcode": "es-419",
+    "ln": "Tlazoyaltepec Mixtec"
 }

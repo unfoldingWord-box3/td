@@ -1,18 +1,11 @@
 {
-    "pk": 57,
-    "lc": "acf",
+    "gw": false,
     "ISO-639-3": "acf",
-    "ln": "Saint Lucian Creole French",
-    "ang": "Saint Lucian Creole French",
     "hc": "LC",
+    "ld": "ltr",
+    "pk": 57,
     "lr": "Americas",
-    "alt": [
-        "Kw\u00e8y\u00f2l",
-        "Patois",
-        "Patwa",
-        "Grenadian Creole French",
-        "Kw\u00e9y\u00f2l"
-    ],
+    "lc": "acf",
     "cc": [
         "DM",
         "TT",
@@ -21,7 +14,14 @@
         "US",
         "LC"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Kw\u00e8y\u00f2l",
+        "Patois",
+        "Patwa",
+        "Grenadian Creole French",
+        "Kw\u00e9y\u00f2l"
+    ],
+    "ang": "Saint Lucian Creole French",
+    "gwcode": "en",
+    "ln": "Saint Lucian Creole French"
 }

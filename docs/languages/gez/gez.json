@@ -1,21 +1,21 @@
 {
-    "pk": 1996,
-    "lc": "gez",
+    "gw": false,
     "ISO-639-3": "gez",
-    "ln": "Geez",
-    "ang": "Geez",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 1996,
     "lr": "Africa",
+    "lc": "gez",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Ancient Ethiopic",
         "Ethiopic",
         "Ge'ez",
         "Giiz"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Geez",
+    "gwcode": "am",
+    "ln": "Geez"
 }

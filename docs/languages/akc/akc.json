@@ -1,20 +1,20 @@
 {
-    "pk": 192,
-    "lc": "akc",
+    "gw": false,
     "ISO-639-3": "akc",
-    "ln": "Mpur",
-    "ang": "Mpur",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 192,
     "lr": "Asia",
+    "lc": "akc",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Amberbaken",
         "Dekwambre",
         "Ekware"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Mpur",
+    "gwcode": "id",
+    "ln": "Mpur"
 }

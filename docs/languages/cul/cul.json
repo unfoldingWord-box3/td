@@ -1,11 +1,15 @@
 {
-    "pk": 1392,
-    "lc": "cul",
+    "gw": false,
     "ISO-639-3": "cul",
-    "ln": "Culina",
-    "ang": "Kulina",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 1392,
     "lr": "Americas",
+    "lc": "cul",
+    "cc": [
+        "BR",
+        "PE"
+    ],
     "alt": [
         "Corina",
         "Kul\u00edna",
@@ -16,11 +20,7 @@
         "Kulino",
         "Kurina"
     ],
-    "cc": [
-        "BR",
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Kulina",
+    "gwcode": "pt",
+    "ln": "Culina"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 7001,
-    "lc": "xnz",
+    "gw": false,
     "ISO-639-3": "xnz",
-    "ln": "Kenzi",
-    "ang": "Mattokki",
     "hc": "EG",
+    "ld": "ltr",
+    "pk": 7001,
     "lr": "Africa",
+    "lc": "xnz",
+    "cc": [
+        "SD",
+        "EG"
+    ],
     "alt": [
         "Kenuz",
         "Kenuzi",
@@ -14,11 +18,7 @@
         "Kunuzi",
         "Mattokki"
     ],
-    "cc": [
-        "SD",
-        "EG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Mattokki",
+    "gwcode": "ar",
+    "ln": "Kenzi"
 }

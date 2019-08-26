@@ -1,20 +1,20 @@
 {
-    "pk": 1365,
-    "lc": "csw",
+    "gw": false,
     "ISO-639-3": "csw",
-    "ln": "Swampy Cree",
-    "ang": "Cree, Swampy",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 1365,
     "lr": "Americas",
+    "lc": "csw",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "West Main Cree",
         "West Shore Cree",
         "York Cree"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Cree, Swampy",
+    "gwcode": "en",
+    "ln": "Swampy Cree"
 }

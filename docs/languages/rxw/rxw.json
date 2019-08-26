@@ -1,11 +1,14 @@
 {
-    "pk": 5454,
-    "lc": "rxw",
+    "gw": false,
     "ISO-639-3": "rxw",
-    "ln": "Karuwali",
-    "ang": "Karuwali",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 5454,
     "lr": "Pacific",
+    "lc": "rxw",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Gara-wali",
         "Goore",
@@ -14,10 +17,7 @@
         "Kuriwalu",
         "Kurrawulla"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Karuwali",
+    "gwcode": "en",
+    "ln": "Karuwali"
 }

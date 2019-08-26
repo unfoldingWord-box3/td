@@ -1,19 +1,19 @@
 {
-    "pk": 4062,
-    "lc": "mqs",
+    "gw": false,
     "ISO-639-3": "mqs",
-    "ln": "West Makian",
-    "ang": "Makian, West",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4062,
     "lr": "Asia",
+    "lc": "mqs",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Makian Barat",
         "Makian Luar"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Makian, West",
+    "gwcode": "id",
+    "ln": "West Makian"
 }

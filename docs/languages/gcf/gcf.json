@@ -1,24 +1,24 @@
 {
-    "pk": 1954,
-    "lc": "gcf",
+    "gw": false,
     "ISO-639-3": "gcf",
-    "ln": "Guadeloupean Creole French",
-    "ang": "Guadeloupean Creole French",
     "hc": "GP",
+    "ld": "ltr",
+    "pk": 1954,
     "lr": "Americas",
-    "alt": [
-        "Kreyol",
-        "Patois",
-        "Patwa",
-        "Marie Galante Creole French"
-    ],
+    "lc": "gcf",
     "cc": [
         "GF",
         "US",
         "GP",
         "MQ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Kreyol",
+        "Patois",
+        "Patwa",
+        "Marie Galante Creole French"
+    ],
+    "ang": "Guadeloupean Creole French",
+    "gwcode": "fr",
+    "ln": "Guadeloupean Creole French"
 }

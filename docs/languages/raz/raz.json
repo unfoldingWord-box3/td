@@ -1,11 +1,14 @@
 {
-    "pk": 5329,
-    "lc": "raz",
+    "gw": false,
     "ISO-639-3": "raz",
-    "ln": "Rahambuu",
-    "ang": "Rahambuu",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5329,
     "lr": "Asia",
+    "lc": "raz",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Lellewao",
         "Lellewau",
@@ -13,10 +16,7 @@
         "Wiaoe",
         "Wiau"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Rahambuu",
+    "gwcode": "id",
+    "ln": "Rahambuu"
 }

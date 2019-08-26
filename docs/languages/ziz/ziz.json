@@ -1,11 +1,15 @@
 {
-    "pk": 7388,
-    "lc": "ziz",
+    "gw": false,
     "ISO-639-3": "ziz",
-    "ln": "Zizilivakan",
-    "ang": "Zizilivakan",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 7388,
     "lr": "Africa",
+    "lc": "ziz",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "\u00c0mz\u00edr\u00edv",
         "Fali of Jilbu",
@@ -14,11 +18,7 @@
         "Jilvu",
         "Zhilvu"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Zizilivakan",
+    "gwcode": "en",
+    "ln": "Zizilivakan"
 }

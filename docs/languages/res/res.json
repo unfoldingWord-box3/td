@@ -1,11 +1,14 @@
 {
-    "pk": 5344,
-    "lc": "res",
+    "gw": false,
     "ISO-639-3": "res",
-    "ln": "Reshe",
-    "ang": "Reshe",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 5344,
     "lr": "Africa",
+    "lc": "res",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bareshe",
         "Gunga",
@@ -14,10 +17,7 @@
         "Tsureshe",
         "Yaurawa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Reshe",
+    "gwcode": "en",
+    "ln": "Reshe"
 }

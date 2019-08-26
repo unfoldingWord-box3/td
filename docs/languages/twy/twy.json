@@ -1,11 +1,14 @@
 {
-    "pk": 6423,
-    "lc": "twy",
+    "gw": false,
     "ISO-639-3": "twy",
-    "ln": "Tawoyan",
-    "ang": "Tawoyan",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6423,
     "lr": "Asia",
+    "lc": "twy",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Tabojan",
         "Tabojan Tongka",
@@ -14,10 +17,7 @@
         "Tawoyan Dayak",
         "Tewoyan"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tawoyan",
+    "gwcode": "id",
+    "ln": "Tawoyan"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 1152,
-    "lc": "cce",
+    "gw": false,
     "ISO-639-3": "cce",
-    "ln": "Chopi",
-    "ang": "Chopi",
     "hc": "MZ",
+    "ld": "ltr",
+    "pk": 1152,
     "lr": "Africa",
+    "lc": "cce",
+    "cc": [
+        "MZ"
+    ],
     "alt": [
         "Cicopi",
         "Shichopi",
@@ -16,10 +19,7 @@
         "Lenge",
         "Lengue (Kilenge)"
     ],
-    "cc": [
-        "MZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Chopi",
+    "gwcode": "pt",
+    "ln": "Chopi"
 }

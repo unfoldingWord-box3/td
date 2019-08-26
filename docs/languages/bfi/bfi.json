@@ -1,19 +1,19 @@
 {
-    "pk": 617,
-    "lc": "bfi",
+    "gw": false,
     "ISO-639-3": "bfi",
-    "ln": "British Sign Language",
-    "ang": "British Sign Language",
     "hc": "GB",
+    "ld": "ltr",
+    "pk": 617,
     "lr": "Europe",
-    "alt": [
-        "BSL"
-    ],
+    "lc": "bfi",
     "cc": [
         "TT",
         "GB"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "BSL"
+    ],
+    "ang": "British Sign Language",
+    "gwcode": "en",
+    "ln": "British Sign Language"
 }

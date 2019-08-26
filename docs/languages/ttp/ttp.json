@@ -1,20 +1,20 @@
 {
-    "pk": 6363,
-    "lc": "ttp",
+    "gw": false,
     "ISO-639-3": "ttp",
-    "ln": "Tombelala",
-    "ang": "Tombelala",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6363,
     "lr": "Asia",
+    "lc": "ttp",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Baria",
         "Belala",
         "Mbelala"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tombelala",
+    "gwcode": "id",
+    "ln": "Tombelala"
 }

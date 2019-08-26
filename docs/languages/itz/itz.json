@@ -1,21 +1,21 @@
 {
-    "pk": 2546,
-    "lc": "itz",
+    "gw": false,
     "ISO-639-3": "itz",
-    "ln": "Itz\u00e1",
-    "ang": "Itza\u2019",
     "hc": "GT",
+    "ld": "ltr",
+    "pk": 2546,
     "lr": "Americas",
+    "lc": "itz",
+    "cc": [
+        "GT"
+    ],
     "alt": [
         "Icaiche Maya",
         "Maya",
         "Pet\u00e9n Itza' Maya",
         "Yucatec Maya"
     ],
-    "cc": [
-        "GT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Itza\u2019",
+    "gwcode": "es-419",
+    "ln": "Itz\u00e1"
 }

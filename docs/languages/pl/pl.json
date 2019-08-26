@@ -1,15 +1,11 @@
 {
-    "pk": 5061,
-    "lc": "pl",
+    "gw": false,
     "ISO-639-3": "pol",
-    "ln": "j\u0119zyk polski, polszczyzna",
-    "ang": "Polish",
     "hc": "PL",
+    "ld": "ltr",
+    "pk": 5061,
     "lr": "Europe",
-    "alt": [
-        "Polski",
-        "Polnisch"
-    ],
+    "lc": "pl",
     "cc": [
         "AT",
         "BR",
@@ -37,7 +33,11 @@
         "IE",
         "UA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Polski",
+        "Polnisch"
+    ],
+    "ang": "Polish",
+    "gwcode": "en",
+    "ln": "j\u0119zyk polski, polszczyzna"
 }

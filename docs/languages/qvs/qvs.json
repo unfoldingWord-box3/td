@@ -1,11 +1,14 @@
 {
-    "pk": 5280,
-    "lc": "qvs",
+    "gw": false,
     "ISO-639-3": "qvs",
-    "ln": "San Mart\u00edn Quechua",
-    "ang": "Quechua, San Mart\u00edn",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 5280,
     "lr": "Americas",
+    "lc": "qvs",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Lama",
         "Lamano",
@@ -14,10 +17,7 @@
         "Motil\u00f3n",
         "Ucayali"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quechua, San Mart\u00edn",
+    "gwcode": "es-419",
+    "ln": "San Mart\u00edn Quechua"
 }

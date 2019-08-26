@@ -1,11 +1,14 @@
 {
-    "pk": 5583,
-    "lc": "sgr",
+    "gw": false,
     "ISO-639-3": "sgr",
-    "ln": "\u0632\u0628\u0627\u0646 \u0633\u0646\u06af\u0633\u0631\u06cc",
-    "ang": "Sangisari",
     "hc": "IR",
+    "ld": "ltr",
+    "pk": 5583,
     "lr": "Asia",
+    "lc": "sgr",
+    "cc": [
+        "IR"
+    ],
     "alt": [
         "Mahdi Shahri",
         "Mehdishahri",
@@ -18,10 +21,7 @@
         "Sengsari",
         "Shahmirzadi"
     ],
-    "cc": [
-        "IR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fa"
+    "ang": "Sangisari",
+    "gwcode": "fa",
+    "ln": "\u0632\u0628\u0627\u0646 \u0633\u0646\u06af\u0633\u0631\u06cc"
 }

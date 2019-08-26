@@ -1,11 +1,16 @@
 {
-    "pk": 2164,
-    "lc": "gun",
+    "gw": false,
     "ISO-639-3": "gun",
-    "ln": "Mby\u00e1 Guaran\u00ed",
-    "ang": "Guaran\u00ed, Mby\u00e1",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2164,
     "lr": "Americas",
+    "lc": "gun",
+    "cc": [
+        "BR",
+        "AR",
+        "PY"
+    ],
     "alt": [
         "Eastern Argentina Guaran\u00ed",
         "Mbua",
@@ -15,12 +20,7 @@
         "Ka'yngua",
         "Mbya-apytere"
     ],
-    "cc": [
-        "BR",
-        "AR",
-        "PY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Guaran\u00ed, Mby\u00e1",
+    "gwcode": "pt",
+    "ln": "Mby\u00e1 Guaran\u00ed"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 2006,
-    "lc": "ggt",
+    "gw": false,
     "ISO-639-3": "ggt",
-    "ln": "Gitua",
-    "ang": "Gitua",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2006,
     "lr": "Pacific",
+    "lc": "ggt",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Gitoa",
         "Kelana"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Gitua",
+    "gwcode": "tpi",
+    "ln": "Gitua"
 }

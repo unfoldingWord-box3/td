@@ -1,20 +1,20 @@
 {
-    "pk": 6624,
-    "lc": "vkt",
+    "gw": false,
     "ISO-639-3": "vkt",
-    "ln": "Tenggarong Kutai Malay",
-    "ang": "Malay, Tenggarong Kutai",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6624,
     "lr": "Asia",
+    "lc": "vkt",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kutai",
         "Tenggarong",
         "Tenggarong Kutai"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Malay, Tenggarong Kutai",
+    "gwcode": "id",
+    "ln": "Tenggarong Kutai Malay"
 }

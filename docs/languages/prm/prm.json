@@ -1,20 +1,20 @@
 {
-    "pk": 5165,
-    "lc": "prm",
+    "gw": false,
     "ISO-639-3": "prm",
-    "ln": "Kibiri",
-    "ang": "Kibiri",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5165,
     "lr": "Pacific",
+    "lc": "prm",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Gibiri",
         "Polome",
         "Aird Hills (Kibiri)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kibiri",
+    "gwcode": "tpi",
+    "ln": "Kibiri"
 }

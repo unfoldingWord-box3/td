@@ -1,19 +1,19 @@
 {
-    "pk": 6785,
-    "lc": "wnw",
+    "gw": false,
     "ISO-639-3": "wnw",
-    "ln": "Wintu",
-    "ang": "Wintu",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 6785,
     "lr": "Americas",
+    "lc": "wnw",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Northern Wintun",
         "Wintun"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Wintu",
+    "gwcode": "en",
+    "ln": "Wintu"
 }

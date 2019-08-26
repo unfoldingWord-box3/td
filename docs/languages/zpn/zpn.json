@@ -1,20 +1,20 @@
 {
-    "pk": 7450,
-    "lc": "zpn",
+    "gw": false,
     "ISO-639-3": "zpn",
-    "ln": "Santa In\u00e9s Yatzechi Zapotec",
-    "ang": "Zapotec, Santa In\u00e9s Yatzechi",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7450,
     "lr": "Americas",
+    "lc": "zpn",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Southeastern Zimatl\u00e1n Zapotec",
         "Zapoteco de Santa In\u00e9s Yatzechi",
         "Zapoteco de Zegache"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Santa In\u00e9s Yatzechi",
+    "gwcode": "es-419",
+    "ln": "Santa In\u00e9s Yatzechi Zapotec"
 }

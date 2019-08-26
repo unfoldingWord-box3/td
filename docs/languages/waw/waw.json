@@ -1,11 +1,15 @@
 {
-    "pk": 6685,
-    "lc": "waw",
+    "gw": false,
     "ISO-639-3": "waw",
-    "ln": "Waiwai",
-    "ang": "Waiwai",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 6685,
     "lr": "Americas",
+    "lc": "waw",
+    "cc": [
+        "BR",
+        "GY"
+    ],
     "alt": [
         "Ouayeone",
         "Uaieue",
@@ -23,11 +27,7 @@
         "Catawian",
         "Catauian"
     ],
-    "cc": [
-        "BR",
-        "GY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Waiwai",
+    "gwcode": "pt",
+    "ln": "Waiwai"
 }

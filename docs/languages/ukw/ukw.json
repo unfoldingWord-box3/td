@@ -1,11 +1,14 @@
 {
-    "pk": 6503,
-    "lc": "ukw",
+    "gw": false,
     "ISO-639-3": "ukw",
-    "ln": "Ukwuani-Aboh-Ndoni",
-    "ang": "Ukwuani-Aboh-Ndoni",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 6503,
     "lr": "Africa",
+    "lc": "ukw",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Eboh",
         "Ndoni",
@@ -14,10 +17,7 @@
         "Ukwuani (Kwale)",
         "Abo (Aboh)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ukwuani-Aboh-Ndoni",
+    "gwcode": "en",
+    "ln": "Ukwuani-Aboh-Ndoni"
 }

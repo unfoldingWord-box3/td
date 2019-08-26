@@ -1,11 +1,14 @@
 {
-    "pk": 5144,
-    "lc": "ppk",
+    "gw": false,
     "ISO-639-3": "ppk",
-    "ln": "Uma",
-    "ang": "Uma",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5144,
     "lr": "Asia",
+    "lc": "ppk",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Koro",
         "Oema",
@@ -19,10 +22,7 @@
         "Southern Uma (Aria)",
         "Tobaku (Dompa)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Uma",
+    "gwcode": "id",
+    "ln": "Uma"
 }

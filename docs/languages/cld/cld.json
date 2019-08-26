@@ -1,11 +1,18 @@
 {
-    "pk": 1248,
-    "lc": "cld",
+    "gw": false,
     "ISO-639-3": "cld",
-    "ln": "\u0723\u0718\u073c\u072a\u0732\u071d\u072c",
-    "ang": "Chaldean Neo-Aramaic",
     "hc": "IQ",
+    "ld": "ltr",
+    "pk": 1248,
     "lr": "Asia",
+    "lc": "cld",
+    "cc": [
+        "DE",
+        "IQ",
+        "NL",
+        "SY",
+        "TR"
+    ],
     "alt": [
         "Fallani",
         "Fellihi",
@@ -20,14 +27,7 @@
         "Sureth",
         "Shirnak-Chizre (Bohtan)"
     ],
-    "cc": [
-        "DE",
-        "IQ",
-        "NL",
-        "SY",
-        "TR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Chaldean Neo-Aramaic",
+    "gwcode": "ar",
+    "ln": "\u0723\u0718\u073c\u072a\u0732\u071d\u072c"
 }

@@ -1,24 +1,11 @@
 {
-    "pk": 2365,
-    "lc": "hu",
+    "gw": false,
     "ISO-639-3": "hun",
-    "ln": "magyar",
-    "ang": "Hungarian",
     "hc": "HU",
+    "ld": "ltr",
+    "pk": 2365,
     "lr": "Europe",
-    "alt": [
-        "Magyar",
-        "Southern Transdanubian",
-        "Central Transdanubian",
-        "Western Transdanubian",
-        "Tisza\u2013K\u00f6r\u00f6s",
-        "Sz\u00e9kely",
-        "Pal\u00f3c",
-        "North-eastern Hungarian",
-        "Mezos\u00e9gi",
-        "Cs\u00e1ng\u00f3",
-        "Southern Great Plains"
-    ],
+    "lc": "hu",
     "cc": [
         "AT",
         "HR",
@@ -38,7 +25,20 @@
         "CA",
         "UA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Magyar",
+        "Southern Transdanubian",
+        "Central Transdanubian",
+        "Western Transdanubian",
+        "Tisza\u2013K\u00f6r\u00f6s",
+        "Sz\u00e9kely",
+        "Pal\u00f3c",
+        "North-eastern Hungarian",
+        "Mezos\u00e9gi",
+        "Cs\u00e1ng\u00f3",
+        "Southern Great Plains"
+    ],
+    "ang": "Hungarian",
+    "gwcode": "en",
+    "ln": "magyar"
 }

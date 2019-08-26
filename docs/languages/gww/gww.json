@@ -1,11 +1,14 @@
 {
-    "pk": 2201,
-    "lc": "gww",
+    "gw": false,
     "ISO-639-3": "gww",
-    "ln": "Kwini",
-    "ang": "Kwini",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 2201,
     "lr": "Pacific",
+    "lc": "gww",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Cuini",
         "Gunin",
@@ -13,10 +16,7 @@
         "Kunan",
         "Wunambal"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kwini",
+    "gwcode": "en",
+    "ln": "Kwini"
 }

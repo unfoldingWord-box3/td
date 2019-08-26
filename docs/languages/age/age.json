@@ -1,18 +1,18 @@
 {
-    "pk": 126,
-    "lc": "age",
+    "gw": false,
     "ISO-639-3": "age",
-    "ln": "Angal",
-    "ang": "Angal",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 126,
     "lr": "Pacific",
-    "alt": [
-        "East Angal"
-    ],
+    "lc": "age",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "East Angal"
+    ],
+    "ang": "Angal",
+    "gwcode": "tpi",
+    "ln": "Angal"
 }

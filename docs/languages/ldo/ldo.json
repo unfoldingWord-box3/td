@@ -1,20 +1,20 @@
 {
-    "pk": 3399,
-    "lc": "ldo",
+    "gw": false,
     "ISO-639-3": "ldo",
-    "ln": "Loo",
-    "ang": "Loo",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3399,
     "lr": "Africa",
+    "lc": "ldo",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Loh",
         "Shungo",
         "Shunhu"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Loo",
+    "gwcode": "en",
+    "ln": "Loo"
 }

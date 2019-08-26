@@ -1,21 +1,21 @@
 {
-    "pk": 1045,
-    "lc": "bxd",
+    "gw": false,
     "ISO-639-3": "bxd",
-    "ln": "\u6ce2\u62c9",
-    "ang": "Pela",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 1045,
     "lr": "Asia",
+    "lc": "bxd",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Bola",
         "Bula",
         "Pala",
         "Polo"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Pela",
+    "gwcode": "zh",
+    "ln": "\u6ce2\u62c9"
 }

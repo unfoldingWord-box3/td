@@ -1,20 +1,20 @@
 {
-    "pk": 5614,
-    "lc": "shx",
+    "gw": false,
     "ISO-639-3": "shx",
-    "ln": "\u5c71\u5ba2\u8a71",
-    "ang": "She",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 5614,
     "lr": "Asia",
+    "lc": "shx",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Huo Nte",
         "Lianhua (Western She)",
         "Luofu (Eastern She)"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "She",
+    "gwcode": "zh",
+    "ln": "\u5c71\u5ba2\u8a71"
 }

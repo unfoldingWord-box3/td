@@ -1,18 +1,18 @@
 {
-    "pk": 3030,
-    "lc": "knr",
+    "gw": false,
     "ISO-639-3": "knr",
-    "ln": "Kaningra",
-    "ang": "Kaningra",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3030,
     "lr": "Pacific",
-    "alt": [
-        "Kaningara"
-    ],
+    "lc": "knr",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Kaningara"
+    ],
+    "ang": "Kaningra",
+    "gwcode": "tpi",
+    "ln": "Kaningra"
 }

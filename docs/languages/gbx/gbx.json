@@ -1,11 +1,14 @@
 {
-    "pk": 1949,
-    "lc": "gbx",
+    "gw": false,
     "ISO-639-3": "gbx",
-    "ln": "Eastern Xwla Gbe",
-    "ang": "Gbe, Eastern Xwla",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 1949,
     "lr": "Africa",
+    "lc": "gbx",
+    "cc": [
+        "BJ"
+    ],
     "alt": [
         "Houla",
         "Kpla",
@@ -16,10 +19,7 @@
         "Popo",
         "Xwla"
     ],
-    "cc": [
-        "BJ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Gbe, Eastern Xwla",
+    "gwcode": "fr",
+    "ln": "Eastern Xwla Gbe"
 }

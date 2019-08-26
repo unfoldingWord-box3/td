@@ -1,19 +1,19 @@
 {
-    "pk": 5792,
-    "lc": "sqa",
+    "gw": false,
     "ISO-639-3": "sqa",
-    "ln": "Shama-Sambuga",
-    "ang": "Shama-Sambuga",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 5792,
     "lr": "Africa",
+    "lc": "sqa",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Tushama",
         "Ushama"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Shama-Sambuga",
+    "gwcode": "en",
+    "ln": "Shama-Sambuga"
 }

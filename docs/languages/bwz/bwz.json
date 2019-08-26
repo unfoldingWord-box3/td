@@ -1,20 +1,20 @@
 {
-    "pk": 1041,
-    "lc": "bwz",
+    "gw": false,
     "ISO-639-3": "bwz",
-    "ln": "Bwisi",
-    "ang": "Bwisi",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 1041,
     "lr": "Africa",
-    "alt": [
-        "Ibwisi",
-        "Mbwisi"
-    ],
+    "lc": "bwz",
     "cc": [
         "GA",
         "CG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Ibwisi",
+        "Mbwisi"
+    ],
+    "ang": "Bwisi",
+    "gwcode": "fr",
+    "ln": "Bwisi"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 948,
-    "lc": "btd",
+    "gw": false,
     "ISO-639-3": "btd",
-    "ln": "Batak Dairi",
-    "ang": "Batak Dairi",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 948,
     "lr": "Asia",
+    "lc": "btd",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Dairi",
         "Pakpak Dairi"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Batak Dairi",
+    "gwcode": "id",
+    "ln": "Batak Dairi"
 }

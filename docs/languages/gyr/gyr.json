@@ -1,18 +1,18 @@
 {
-    "pk": 2213,
-    "lc": "gyr",
+    "gw": false,
     "ISO-639-3": "gyr",
-    "ln": "Guarayu",
-    "ang": "Guarayu",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 2213,
     "lr": "Americas",
-    "alt": [
-        "Guarayo"
-    ],
+    "lc": "gyr",
     "cc": [
         "BO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Guarayo"
+    ],
+    "ang": "Guarayu",
+    "gwcode": "es-419",
+    "ln": "Guarayu"
 }

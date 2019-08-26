@@ -1,16 +1,16 @@
 {
-    "pk": 5629,
-    "lc": "sim",
+    "gw": false,
     "ISO-639-3": "sim",
-    "ln": "Mende (Papua New Guinea)",
-    "ang": "Mende",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5629,
     "lr": "Pacific",
-    "alt": [],
+    "lc": "sim",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [],
+    "ang": "Mende",
+    "gwcode": "tpi",
+    "ln": "Mende (Papua New Guinea)"
 }

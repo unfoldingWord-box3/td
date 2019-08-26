@@ -1,19 +1,19 @@
 {
-    "pk": 3043,
-    "lc": "kof",
+    "gw": false,
     "ISO-639-3": "kof",
-    "ln": "Kubi",
-    "ang": "Kubi",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3043,
     "lr": "Africa",
+    "lc": "kof",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kuba",
         "Kubawa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kubi",
+    "gwcode": "en",
+    "ln": "Kubi"
 }

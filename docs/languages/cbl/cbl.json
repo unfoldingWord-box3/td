@@ -1,18 +1,18 @@
 {
-    "pk": 1139,
-    "lc": "cbl",
+    "gw": false,
     "ISO-639-3": "cbl",
-    "ln": "Bualkhaw Chin",
-    "ang": "Chin, Bualkhaw",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1139,
     "lr": "Asia",
-    "alt": [
-        "Bualkhaw-Chin"
-    ],
+    "lc": "cbl",
     "cc": [
         "MM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "alt": [
+        "Bualkhaw-Chin"
+    ],
+    "ang": "Chin, Bualkhaw",
+    "gwcode": "my",
+    "ln": "Bualkhaw Chin"
 }

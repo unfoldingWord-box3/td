@@ -1,21 +1,21 @@
 {
-    "pk": 1227,
-    "lc": "cjo",
+    "gw": false,
     "ISO-639-3": "cjo",
-    "ln": "Ash\u00e9ninka Pajonal",
-    "ang": "Ash\u00e9ninka Pajonal",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 1227,
     "lr": "Americas",
+    "lc": "cjo",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Ash\u00e9ninca",
         "Atsiri",
         "Pajonal",
         "Campa"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Ash\u00e9ninka Pajonal",
+    "gwcode": "es-419",
+    "ln": "Ash\u00e9ninka Pajonal"
 }

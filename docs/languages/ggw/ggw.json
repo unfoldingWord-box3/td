@@ -1,18 +1,18 @@
 {
-    "pk": 2008,
-    "lc": "ggw",
+    "gw": false,
     "ISO-639-3": "ggw",
-    "ln": "Gogodala",
-    "ang": "Gogodala",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2008,
     "lr": "Pacific",
-    "alt": [
-        "Gogodara"
-    ],
+    "lc": "ggw",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Gogodara"
+    ],
+    "ang": "Gogodala",
+    "gwcode": "tpi",
+    "ln": "Gogodala"
 }

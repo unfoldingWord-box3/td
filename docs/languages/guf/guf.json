@@ -1,20 +1,20 @@
 {
-    "pk": 2157,
-    "lc": "guf",
+    "gw": false,
     "ISO-639-3": "guf",
-    "ln": "Gupapuyngu",
-    "ang": "Gupapuyngu",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 2157,
     "lr": "Pacific",
+    "lc": "guf",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Gobabingo",
         "Gubabwingu",
         "Dhuwala"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gupapuyngu",
+    "gwcode": "en",
+    "ln": "Gupapuyngu"
 }

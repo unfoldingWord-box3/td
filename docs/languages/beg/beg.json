@@ -1,20 +1,20 @@
 {
-    "pk": 592,
-    "lc": "beg",
+    "gw": false,
     "ISO-639-3": "beg",
-    "ln": "Belait",
-    "ang": "Belait",
     "hc": "BN",
+    "ld": "ltr",
+    "pk": 592,
     "lr": "Asia",
+    "lc": "beg",
+    "cc": [
+        "BN"
+    ],
     "alt": [
         "Balait Jati",
         "Lemeting",
         "Meting"
     ],
-    "cc": [
-        "BN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Belait",
+    "gwcode": "ms",
+    "ln": "Belait"
 }

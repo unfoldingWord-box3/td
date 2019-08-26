@@ -1,16 +1,16 @@
 {
-    "pk": 1792,
-    "lc": "eth",
+    "gw": false,
     "ISO-639-3": "eth",
-    "ln": "Ethiopian Sign Language",
-    "ang": "Ethiopian Sign Language",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 1792,
     "lr": "Africa",
-    "alt": [],
+    "lc": "eth",
     "cc": [
         "ET"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "alt": [],
+    "ang": "Ethiopian Sign Language",
+    "gwcode": "am",
+    "ln": "Ethiopian Sign Language"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 4780,
-    "lc": "ogb",
+    "gw": false,
     "ISO-639-3": "ogb",
-    "ln": "Ogbia",
-    "ang": "Ogbia",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4780,
     "lr": "Africa",
+    "lc": "ogb",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ogbinya",
         "Agholo (Kolo)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ogbia",
+    "gwcode": "en",
+    "ln": "Ogbia"
 }

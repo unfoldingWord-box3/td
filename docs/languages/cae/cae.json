@@ -1,19 +1,19 @@
 {
-    "pk": 1114,
-    "lc": "cae",
+    "gw": false,
     "ISO-639-3": "cae",
-    "ln": "Lehar",
-    "ang": "Laalaa",
     "hc": "SN",
+    "ld": "ltr",
+    "pk": 1114,
     "lr": "Africa",
+    "lc": "cae",
+    "cc": [
+        "SN"
+    ],
     "alt": [
         "Lehar",
         "Serer"
     ],
-    "cc": [
-        "SN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Laalaa",
+    "gwcode": "fr",
+    "ln": "Lehar"
 }

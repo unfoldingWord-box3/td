@@ -1,11 +1,14 @@
 {
-    "pk": 1742,
-    "lc": "ems",
+    "gw": false,
     "ISO-639-3": "ems",
-    "ln": "Pacific Gulf Yupik",
-    "ang": "Yupik, Pacific Gulf",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 1742,
     "lr": "Americas",
+    "lc": "ems",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Alutiiq",
         "Koniag-Chugach",
@@ -17,10 +20,7 @@
         "Sugpiak Eskimo",
         "Sugpiaq Eskimo"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yupik, Pacific Gulf",
+    "gwcode": "en",
+    "ln": "Pacific Gulf Yupik"
 }

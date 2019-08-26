@@ -1,19 +1,19 @@
 {
-    "pk": 4669,
-    "lc": "ntr",
+    "gw": false,
     "ISO-639-3": "ntr",
-    "ln": "Delo",
-    "ang": "Delo",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 4669,
     "lr": "Africa",
+    "lc": "ntr",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Ntribou",
         "Ntribu"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Delo",
+    "gwcode": "en",
+    "ln": "Delo"
 }

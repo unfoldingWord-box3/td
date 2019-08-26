@@ -1,11 +1,14 @@
 {
-    "pk": 1684,
-    "lc": "dyy",
+    "gw": false,
     "ISO-639-3": "dyy",
-    "ln": "Dyaabugay",
-    "ang": "Dyaabugay",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 1684,
     "lr": "Pacific",
+    "lc": "dyy",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Bulum-Bulum",
         "Check-Cull",
@@ -29,10 +32,7 @@
         "Njakali (Nyagali)",
         "Nyakali"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dyaabugay",
+    "gwcode": "en",
+    "ln": "Dyaabugay"
 }

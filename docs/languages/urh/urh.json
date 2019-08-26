@@ -1,21 +1,21 @@
 {
-    "pk": 6544,
-    "lc": "urh",
+    "gw": false,
     "ISO-639-3": "urh",
-    "ln": "Urhobo",
-    "ang": "Urhobo",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 6544,
     "lr": "Africa",
+    "lc": "urh",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Sobo",
         "Agbon",
         "Udu",
         "Ujevwe"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Urhobo",
+    "gwcode": "en",
+    "ln": "Urhobo"
 }

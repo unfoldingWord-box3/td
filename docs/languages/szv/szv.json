@@ -1,21 +1,21 @@
 {
-    "pk": 5960,
-    "lc": "szv",
+    "gw": false,
     "ISO-639-3": "szv",
-    "ln": "Isu (Fako Division)",
-    "ang": "Isu",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 5960,
     "lr": "Africa",
+    "lc": "szv",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Isubu",
         "Isuwu",
         "Su",
         "Subu"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Isu",
+    "gwcode": "fr",
+    "ln": "Isu (Fako Division)"
 }

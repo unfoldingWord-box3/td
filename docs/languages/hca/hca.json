@@ -1,18 +1,18 @@
 {
-    "pk": 2247,
-    "lc": "hca",
+    "gw": false,
     "ISO-639-3": "hca",
-    "ln": "Andaman Creole Hindi",
-    "ang": "Andaman Creole Hindi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2247,
     "lr": "Asia",
-    "alt": [
-        "Andaman Hindi"
-    ],
+    "lc": "hca",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "alt": [
+        "Andaman Hindi"
+    ],
+    "ang": "Andaman Creole Hindi",
+    "gwcode": "hi",
+    "ln": "Andaman Creole Hindi"
 }

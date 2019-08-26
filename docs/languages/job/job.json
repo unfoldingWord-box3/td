@@ -1,21 +1,21 @@
 {
-    "pk": 2656,
-    "lc": "job",
+    "gw": false,
     "ISO-639-3": "job",
-    "ln": "Joba",
-    "ang": "Joba",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 2656,
     "lr": "Africa",
+    "lc": "job",
+    "cc": [
+        "TZ",
+        "CD"
+    ],
     "alt": [
         "Kijoba",
         "Kivira",
         "Loba"
     ],
-    "cc": [
-        "TZ",
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Joba",
+    "gwcode": "fr",
+    "ln": "Joba"
 }

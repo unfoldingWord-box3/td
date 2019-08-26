@@ -1,18 +1,18 @@
 {
-    "pk": 1643,
-    "lc": "dto",
+    "gw": false,
     "ISO-639-3": "dto",
-    "ln": "Tommo So Dogon",
-    "ang": "Dogon, Tommo So",
     "hc": "ML",
+    "ld": "ltr",
+    "pk": 1643,
     "lr": "Africa",
-    "alt": [
-        "Tombo-So"
-    ],
+    "lc": "dto",
     "cc": [
         "ML"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Tombo-So"
+    ],
+    "ang": "Dogon, Tommo So",
+    "gwcode": "fr",
+    "ln": "Tommo So Dogon"
 }

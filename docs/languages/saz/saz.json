@@ -1,21 +1,21 @@
 {
-    "pk": 5478,
-    "lc": "saz",
+    "gw": false,
     "ISO-639-3": "saz",
-    "ln": "Saurashtra",
-    "ang": "Saurashtra",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5478,
     "lr": "Asia",
+    "lc": "saz",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Patnuli",
         "Saurashtri",
         "Sourashtra",
         "Sowrashtra"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ta"
+    "ang": "Saurashtra",
+    "gwcode": "ta",
+    "ln": "Saurashtra"
 }

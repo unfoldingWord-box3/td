@@ -1,20 +1,20 @@
 {
-    "pk": 2016,
-    "lc": "gho",
+    "gw": false,
     "ISO-639-3": "gho",
-    "ln": "\u2d56\u2d53\u2d4e\u2d30\u2d54\u2d30",
-    "ang": "Ghomara",
     "hc": "MA",
+    "ld": "ltr",
+    "pk": 2016,
     "lr": "Africa",
+    "lc": "gho",
+    "cc": [
+        "MA"
+    ],
     "alt": [
         "Shilha",
         "Taghumarit",
         "Tamazight"
     ],
-    "cc": [
-        "MA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Ghomara",
+    "gwcode": "ar",
+    "ln": "\u2d56\u2d53\u2d4e\u2d30\u2d54\u2d30"
 }

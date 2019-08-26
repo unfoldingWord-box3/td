@@ -1,19 +1,19 @@
 {
-    "pk": 4220,
-    "lc": "mxg",
+    "gw": false,
     "ISO-639-3": "mxg",
-    "ln": "Mbangala",
-    "ang": "Mbangala",
     "hc": "AO",
+    "ld": "ltr",
+    "pk": 4220,
     "lr": "Africa",
+    "lc": "mxg",
+    "cc": [
+        "AO"
+    ],
     "alt": [
         "Bangala",
         "Cimbangala"
     ],
-    "cc": [
-        "AO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Mbangala",
+    "gwcode": "pt",
+    "ln": "Mbangala"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 1168,
-    "lc": "cdn",
+    "gw": false,
     "ISO-639-3": "cdn",
-    "ln": "Chaudangsi",
-    "ang": "Chaudangsi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1168,
     "lr": "Asia",
+    "lc": "cdn",
+    "cc": [
+        "NP",
+        "IN"
+    ],
     "alt": [
         "Bangba Lo",
         "Bangbani",
@@ -15,11 +19,7 @@
         "Shaukas",
         "Tsaudangsi"
     ],
-    "cc": [
-        "NP",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Chaudangsi",
+    "gwcode": "hi",
+    "ln": "Chaudangsi"
 }

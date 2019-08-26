@@ -1,11 +1,14 @@
 {
-    "pk": 2804,
-    "lc": "kev",
+    "gw": false,
     "ISO-639-3": "kev",
-    "ln": "Kanikkaran",
-    "ang": "Kanikkaran",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2804,
     "lr": "Asia",
+    "lc": "kev",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Kanikkar",
         "Kannikan",
@@ -13,10 +16,7 @@
         "Kannikharan",
         "Malampashi"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ml"
+    "ang": "Kanikkaran",
+    "gwcode": "ml",
+    "ln": "Kanikkaran"
 }

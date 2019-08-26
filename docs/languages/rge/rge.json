@@ -1,18 +1,18 @@
 {
-    "pk": 5348,
-    "lc": "rge",
+    "gw": false,
     "ISO-639-3": "rge",
-    "ln": "Romano-Greek",
-    "ang": "Romano-Greek",
     "hc": "GR",
+    "ld": "ltr",
+    "pk": 5348,
     "lr": "Europe",
-    "alt": [
-        "Hellenoromani"
-    ],
+    "lc": "rge",
     "cc": [
         "GR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Hellenoromani"
+    ],
+    "ang": "Romano-Greek",
+    "gwcode": "en",
+    "ln": "Romano-Greek"
 }

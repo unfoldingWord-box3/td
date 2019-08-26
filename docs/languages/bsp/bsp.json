@@ -1,11 +1,14 @@
 {
-    "pk": 937,
-    "lc": "bsp",
+    "gw": false,
     "ISO-639-3": "bsp",
-    "ln": "Baga Sitemu",
-    "ang": "Baga Sitemu",
     "hc": "GN",
+    "ld": "ltr",
+    "pk": 937,
     "lr": "Africa",
+    "lc": "bsp",
+    "cc": [
+        "GN"
+    ],
     "alt": [
         "Baka",
         "Rio Pongo Baga",
@@ -13,10 +16,7 @@
         "Stem Baga",
         "Tchitem"
     ],
-    "cc": [
-        "GN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Baga Sitemu",
+    "gwcode": "fr",
+    "ln": "Baga Sitemu"
 }

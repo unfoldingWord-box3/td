@@ -1,18 +1,18 @@
 {
-    "pk": 4565,
-    "lc": "nng",
+    "gw": false,
     "ISO-639-3": "nng",
-    "ln": "Maring Naga",
-    "ang": "Naga, Maring",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4565,
     "lr": "Asia",
-    "alt": [
-        "Maring"
-    ],
+    "lc": "nng",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "mni"
+    "alt": [
+        "Maring"
+    ],
+    "ang": "Naga, Maring",
+    "gwcode": "UNKNOWN",
+    "ln": "Maring Naga"
 }

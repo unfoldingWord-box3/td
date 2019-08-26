@@ -1,21 +1,21 @@
 {
-    "pk": 2582,
-    "lc": "jaz",
+    "gw": false,
     "ISO-639-3": "jaz",
-    "ln": "Jawe",
-    "ang": "Jawe",
     "hc": "NC",
+    "ld": "ltr",
+    "pk": 2582,
     "lr": "Pacific",
+    "lc": "jaz",
+    "cc": [
+        "NC"
+    ],
     "alt": [
         "Diahoue",
         "Njawe",
         "Oubatch",
         "Ubach"
     ],
-    "cc": [
-        "NC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Jawe",
+    "gwcode": "en",
+    "ln": "Jawe"
 }

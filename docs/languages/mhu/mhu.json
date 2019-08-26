@@ -1,11 +1,15 @@
 {
-    "pk": 3848,
-    "lc": "mhu",
+    "gw": false,
     "ISO-639-3": "mhu",
-    "ln": "Digaro-Mishmi",
-    "ang": "Digaro-Mishmi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3848,
     "lr": "Asia",
+    "lc": "mhu",
+    "cc": [
+        "CN",
+        "IN"
+    ],
     "alt": [
         "Darang",
         "Darang Dengyu",
@@ -16,11 +20,7 @@
         "Taraon",
         "Taying"
     ],
-    "cc": [
-        "CN",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "ang": "Digaro-Mishmi",
+    "gwcode": "as",
+    "ln": "Digaro-Mishmi"
 }

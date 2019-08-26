@@ -1,21 +1,21 @@
 {
-    "pk": 1467,
-    "lc": "ddj",
+    "gw": false,
     "ISO-639-3": "ddj",
-    "ln": "Jaru",
-    "ang": "Jaru",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1467,
     "lr": "Pacific",
+    "lc": "ddj",
+    "cc": [
+        "AU",
+        "PG"
+    ],
     "alt": [
         "Jaroo",
         "Tjaru",
         "Wawari"
     ],
-    "cc": [
-        "AU",
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Jaru",
+    "gwcode": "en",
+    "ln": "Jaru"
 }

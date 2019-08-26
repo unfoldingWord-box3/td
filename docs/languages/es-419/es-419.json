@@ -1,16 +1,16 @@
 {
-    "pk": 2,
-    "lc": "es-419",
+    "gw": true,
     "ISO-639-3": "UNKNOWN",
-    "ln": "Espa\u00f1ol Latin America",
-    "ang": "Latin American Spanish",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 2,
     "lr": "Americas",
-    "alt": [],
+    "lc": "es-419",
     "cc": [
         "MX"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [],
+    "ang": "Latin American Spanish",
+    "gwcode": "UNKNOWN",
+    "ln": "Espa\u00f1ol Latin America"
 }

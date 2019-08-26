@@ -1,21 +1,21 @@
 {
-    "pk": 3735,
-    "lc": "mdh",
+    "gw": false,
     "ISO-639-3": "mdh",
-    "ln": "Maguindanaon",
-    "ang": "Maguindanaon",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 3735,
     "lr": "Asia",
+    "lc": "mdh",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Magindanaon",
         "Magindanaw",
         "Magindanawn",
         "Maguindanaw"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Maguindanaon",
+    "gwcode": "en",
+    "ln": "Maguindanaon"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 1945,
-    "lc": "gbs",
+    "gw": false,
     "ISO-639-3": "gbs",
-    "ln": "Gbesi Gbe",
-    "ang": "Gbe, Gbesi",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 1945,
     "lr": "Africa",
-    "alt": [
-        "Gbokpa"
-    ],
+    "lc": "gbs",
     "cc": [
         "BJ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Gbokpa"
+    ],
+    "ang": "Gbe, Gbesi",
+    "gwcode": "fr",
+    "ln": "Gbesi Gbe"
 }

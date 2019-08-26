@@ -1,20 +1,20 @@
 {
-    "pk": 3163,
-    "lc": "kte",
+    "gw": false,
     "ISO-639-3": "kte",
-    "ln": "Nubri",
-    "ang": "Nubri",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 3163,
     "lr": "Asia",
+    "lc": "kte",
+    "cc": [
+        "NP"
+    ],
     "alt": [
         "Kutang",
         "Kutang Bhotia",
         "Larkye"
     ],
-    "cc": [
-        "NP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Nubri",
+    "gwcode": "ne",
+    "ln": "Nubri"
 }

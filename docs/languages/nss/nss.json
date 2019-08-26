@@ -1,18 +1,18 @@
 {
-    "pk": 4654,
-    "lc": "nss",
+    "gw": false,
     "ISO-639-3": "nss",
-    "ln": "Nali",
-    "ang": "Nali",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4654,
     "lr": "Pacific",
-    "alt": [
-        "Yiru"
-    ],
+    "lc": "nss",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Yiru"
+    ],
+    "ang": "Nali",
+    "gwcode": "tpi",
+    "ln": "Nali"
 }

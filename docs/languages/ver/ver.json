@@ -1,22 +1,22 @@
 {
-    "pk": 6606,
-    "lc": "ver",
+    "gw": false,
     "ISO-639-3": "ver",
-    "ln": "Mom Jango",
-    "ang": "Mom Jango",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 6606,
     "lr": "Africa",
+    "lc": "ver",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Kobo",
         "Verre",
         "Were",
         "Momi (Ziri)"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mom Jango",
+    "gwcode": "en",
+    "ln": "Mom Jango"
 }

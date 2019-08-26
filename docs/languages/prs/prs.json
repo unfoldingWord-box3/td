@@ -1,23 +1,11 @@
 {
-    "pk": 5170,
-    "lc": "prs",
+    "gw": false,
     "ISO-639-3": "prs",
-    "ln": "\u062f\u0631\u06cc",
-    "ang": "Dari",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 5170,
     "lr": "Asia",
-    "alt": [
-        "Afghan Persian",
-        "East Farsi",
-        "Farsi",
-        "Parsi",
-        "Persian",
-        "Tajik",
-        "Tajiki",
-        "Badakhshi",
-        "Madaglashti",
-        "Tangshew (Tangshuri)"
-    ],
+    "lc": "prs",
     "cc": [
         "BE",
         "AF",
@@ -32,7 +20,19 @@
         "IT",
         "AE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fa"
+    "alt": [
+        "Afghan Persian",
+        "East Farsi",
+        "Farsi",
+        "Parsi",
+        "Persian",
+        "Tajik",
+        "Tajiki",
+        "Badakhshi",
+        "Madaglashti",
+        "Tangshew (Tangshuri)"
+    ],
+    "ang": "Dari",
+    "gwcode": "fa",
+    "ln": "\u062f\u0631\u06cc"
 }

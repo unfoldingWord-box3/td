@@ -1,20 +1,20 @@
 {
-    "pk": 1207,
-    "lc": "chz",
+    "gw": false,
     "ISO-639-3": "chz",
-    "ln": "Ozumac\u00edn Chinantec",
-    "ang": "Chinantec, Ozumac\u00edn",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1207,
     "lr": "Americas",
+    "lc": "chz",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Chinanteco de Ayotzintepec",
         "Chinanteco del Sureste Alto",
         "Juujmii"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chinantec, Ozumac\u00edn",
+    "gwcode": "es-419",
+    "ln": "Ozumac\u00edn Chinantec"
 }

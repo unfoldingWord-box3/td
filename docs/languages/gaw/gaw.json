@@ -1,11 +1,14 @@
 {
-    "pk": 1924,
-    "lc": "gaw",
+    "gw": false,
     "ISO-639-3": "gaw",
-    "ln": "Nobonob",
-    "ang": "Nobonob",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1924,
     "lr": "Pacific",
+    "lc": "gaw",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Butelkud-Guntabak",
         "Garuh",
@@ -14,10 +17,7 @@
         "Ari (A'i)",
         "Ati"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Nobonob",
+    "gwcode": "tpi",
+    "ln": "Nobonob"
 }

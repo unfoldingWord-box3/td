@@ -1,19 +1,19 @@
 {
-    "pk": 1064,
-    "lc": "byc",
+    "gw": false,
     "ISO-639-3": "byc",
-    "ln": "Ubaghara",
-    "ang": "Ubaghara",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1064,
     "lr": "Africa",
+    "lc": "byc",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Utamu",
         "Utuma (Utama)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ubaghara",
+    "gwcode": "en",
+    "ln": "Ubaghara"
 }

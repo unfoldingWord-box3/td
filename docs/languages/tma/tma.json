@@ -1,22 +1,22 @@
 {
-    "pk": 6195,
-    "lc": "tma",
+    "gw": false,
     "ISO-639-3": "tma",
-    "ln": "Tama (Chad)",
-    "ang": "Tama",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 6195,
     "lr": "Africa",
+    "lc": "tma",
+    "cc": [
+        "SD",
+        "TD"
+    ],
     "alt": [
         "Tamok",
         "Tamongobo",
         "Tamot",
         "Mileere (Milerinka)"
     ],
-    "cc": [
-        "SD",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Tama",
+    "gwcode": "ar",
+    "ln": "Tama (Chad)"
 }

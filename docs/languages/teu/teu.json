@@ -1,11 +1,14 @@
 {
-    "pk": 6068,
-    "lc": "teu",
+    "gw": false,
     "ISO-639-3": "teu",
-    "ln": "Soo",
-    "ang": "Soo",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 6068,
     "lr": "Africa",
+    "lc": "teu",
+    "cc": [
+        "UG"
+    ],
     "alt": [
         "So",
         "Tepes",
@@ -14,10 +17,7 @@
         "Moroto",
         "Napak (Mount Napak)"
     ],
-    "cc": [
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Soo",
+    "gwcode": "en",
+    "ln": "Soo"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3685,
-    "lc": "mbj",
+    "gw": false,
     "ISO-639-3": "mbj",
-    "ln": "Nad\u00ebb",
-    "ang": "Nad\u00ebb",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 3685,
     "lr": "Americas",
+    "lc": "mbj",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Anod\u00f6ub",
         "Kabari",
@@ -17,10 +20,7 @@
         "Xiriwai",
         "Xuriwai"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Nad\u00ebb",
+    "gwcode": "pt",
+    "ln": "Nad\u00ebb"
 }

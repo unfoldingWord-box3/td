@@ -1,19 +1,19 @@
 {
-    "pk": 677,
-    "lc": "bhs",
+    "gw": false,
     "ISO-639-3": "bhs",
-    "ln": "Buwal",
-    "ang": "Buwal",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 677,
     "lr": "Africa",
+    "lc": "bhs",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bual",
         "Ma Buwal"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Buwal",
+    "gwcode": "fr",
+    "ln": "Buwal"
 }

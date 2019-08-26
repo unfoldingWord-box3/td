@@ -1,11 +1,15 @@
 {
-    "pk": 7122,
-    "lc": "yam",
+    "gw": false,
     "ISO-639-3": "yam",
-    "ln": "Yamba",
-    "ang": "Yamba",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 7122,
     "lr": "Africa",
+    "lc": "yam",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Bebaroe",
         "Boenga Ko",
@@ -26,11 +30,7 @@
         "Saam",
         "Sih"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Yamba",
+    "gwcode": "fr",
+    "ln": "Yamba"
 }

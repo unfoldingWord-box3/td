@@ -1,21 +1,21 @@
 {
-    "pk": 2380,
-    "lc": "hur",
+    "gw": false,
     "ISO-639-3": "hur",
-    "ln": "Halkomelem",
-    "ang": "Halkomelem",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 2380,
     "lr": "Americas",
+    "lc": "hur",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Holkomelem",
         "Downriver",
         "Island",
         "Upriver"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Halkomelem",
+    "gwcode": "en",
+    "ln": "Halkomelem"
 }

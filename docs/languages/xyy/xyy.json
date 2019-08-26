@@ -1,11 +1,14 @@
 {
-    "pk": 7106,
-    "lc": "xyy",
+    "gw": false,
     "ISO-639-3": "xyy",
-    "ln": "Yorta Yorta",
-    "ang": "Yorta Yorta",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 7106,
     "lr": "Pacific",
+    "lc": "xyy",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Arramouro",
         "Bangerang",
@@ -22,10 +25,7 @@
         "Yoorta",
         "Yota Yota"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yorta Yorta",
+    "gwcode": "en",
+    "ln": "Yorta Yorta"
 }

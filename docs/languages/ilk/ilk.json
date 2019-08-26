@@ -1,11 +1,14 @@
 {
-    "pk": 2473,
-    "lc": "ilk",
+    "gw": false,
     "ISO-639-3": "ilk",
-    "ln": "Ilongot",
-    "ang": "Ilongot",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 2473,
     "lr": "Asia",
+    "lc": "ilk",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Bugkalut",
         "Bukalot",
@@ -13,10 +16,7 @@
         "Ibalao (Ibilao)",
         "Abaka (Abaca)"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Ilongot",
+    "gwcode": "ilo",
+    "ln": "Ilongot"
 }

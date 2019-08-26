@@ -1,19 +1,19 @@
 {
-    "pk": 6215,
-    "lc": "tmv",
+    "gw": false,
     "ISO-639-3": "tmv",
-    "ln": "Tembo (Motembo)",
-    "ang": "Tembo",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 6215,
     "lr": "Africa",
+    "lc": "tmv",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Litembo",
         "Motembo"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Tembo",
+    "gwcode": "fr",
+    "ln": "Tembo (Motembo)"
 }

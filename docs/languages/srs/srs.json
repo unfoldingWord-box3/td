@@ -1,19 +1,19 @@
 {
-    "pk": 5819,
-    "lc": "srs",
+    "gw": false,
     "ISO-639-3": "srs",
-    "ln": "Sarsi",
-    "ang": "Sarsi",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 5819,
     "lr": "Americas",
+    "lc": "srs",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Sarcee",
         "Tsuu T'ina"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Sarsi",
+    "gwcode": "en",
+    "ln": "Sarsi"
 }

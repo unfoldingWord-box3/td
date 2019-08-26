@@ -1,20 +1,20 @@
 {
-    "pk": 5361,
-    "lc": "rin",
+    "gw": false,
     "ISO-639-3": "rin",
-    "ln": "Nungu",
-    "ang": "Nungu",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 5361,
     "lr": "Africa",
+    "lc": "rin",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Lindiri",
         "Rendre",
         "Rindiri"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nungu",
+    "gwcode": "en",
+    "ln": "Nungu"
 }

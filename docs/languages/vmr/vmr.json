@@ -1,19 +1,19 @@
 {
-    "pk": 6640,
-    "lc": "vmr",
+    "gw": false,
     "ISO-639-3": "vmr",
-    "ln": "Marenje",
-    "ang": "Marenje",
     "hc": "MZ",
+    "ld": "ltr",
+    "pk": 6640,
     "lr": "Africa",
+    "lc": "vmr",
+    "cc": [
+        "MZ"
+    ],
     "alt": [
         "Emarendje",
         "Marendje"
     ],
-    "cc": [
-        "MZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Marenje",
+    "gwcode": "pt",
+    "ln": "Marenje"
 }

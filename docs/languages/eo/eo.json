@@ -1,19 +1,19 @@
 {
-    "pk": 1764,
-    "lc": "eo",
+    "gw": false,
     "ISO-639-3": "epo",
-    "ln": "Esperanto",
-    "ang": "Esperanto",
     "hc": "PL",
+    "ld": "ltr",
+    "pk": 1764,
     "lr": "Europe",
+    "lc": "eo",
+    "cc": [
+        "PL"
+    ],
     "alt": [
         "Eo",
         "La Lingvo Internacia"
     ],
-    "cc": [
-        "PL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Esperanto",
+    "gwcode": "en",
+    "ln": "Esperanto"
 }

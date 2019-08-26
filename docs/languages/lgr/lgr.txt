@@ -1,0 +1,26 @@
+.. _lgr:
+
+Lengo
+=====
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: lgr
+    alternate_names:
+    - Doku
+    - Ruavatu
+    - Tadhimboko
+    - Ghaimuta (Ghua)
+    anglicanized_name: Lengo
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: lgr
+    lang_direction: ltr
+    lang_name: Lengo
+    lang_region: Pacific
+    

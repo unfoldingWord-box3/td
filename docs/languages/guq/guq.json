@@ -1,11 +1,14 @@
 {
-    "pk": 2167,
-    "lc": "guq",
+    "gw": false,
     "ISO-639-3": "guq",
-    "ln": "Ach\u00e9",
-    "ang": "Ach\u00e9",
     "hc": "PY",
+    "ld": "ltr",
+    "pk": 2167,
     "lr": "Americas",
+    "lc": "guq",
+    "cc": [
+        "PY"
+    ],
     "alt": [
         "Ache-Guayaki",
         "Axe",
@@ -17,10 +20,7 @@
         "Ache pur\u00e4",
         "Ache wa"
     ],
-    "cc": [
-        "PY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Ach\u00e9",
+    "gwcode": "es-419",
+    "ln": "Ach\u00e9"
 }

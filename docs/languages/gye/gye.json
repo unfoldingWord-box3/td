@@ -1,20 +1,20 @@
 {
-    "pk": 2207,
-    "lc": "gye",
+    "gw": false,
     "ISO-639-3": "gye",
-    "ln": "Gyem",
-    "ang": "Gyem",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2207,
     "lr": "Africa",
+    "lc": "gye",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Gema",
         "Gemawa",
         "Gyemawa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gyem",
+    "gwcode": "en",
+    "ln": "Gyem"
 }

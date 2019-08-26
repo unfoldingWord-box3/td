@@ -1,20 +1,20 @@
 {
-    "pk": 4210,
-    "lc": "mwv",
+    "gw": false,
     "ISO-639-3": "mwv",
-    "ln": "Mentawai",
-    "ang": "Mentawai",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4210,
     "lr": "Asia",
+    "lc": "mwv",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Mentawei",
         "Mentawi",
         "Pagai"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Mentawai",
+    "gwcode": "id",
+    "ln": "Mentawai"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 4384,
-    "lc": "nef",
+    "gw": false,
     "ISO-639-3": "nef",
-    "ln": "Nefamese",
-    "ang": "Nefamese",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4384,
     "lr": "Asia",
-    "alt": [
-        "Arunamese"
-    ],
+    "lc": "nef",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "alt": [
+        "Arunamese"
+    ],
+    "ang": "Nefamese",
+    "gwcode": "hi",
+    "ln": "Nefamese"
 }

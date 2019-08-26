@@ -1,19 +1,19 @@
 {
-    "pk": 4941,
-    "lc": "pbe",
+    "gw": false,
     "ISO-639-3": "pbe",
-    "ln": "Mezontla Popoloca",
-    "ang": "Popoloca, Mezontla",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4941,
     "lr": "Americas",
+    "lc": "pbe",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Los Reyes Metzontla Popoloca",
         "Southern Popoloca"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Popoloca, Mezontla",
+    "gwcode": "es-419",
+    "ln": "Mezontla Popoloca"
 }

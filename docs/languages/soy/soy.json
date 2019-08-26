@@ -1,11 +1,15 @@
 {
-    "pk": 5770,
-    "lc": "soy",
+    "gw": false,
     "ISO-639-3": "soy",
-    "ln": "Miyobe",
-    "ang": "Miyobe",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 5770,
     "lr": "Africa",
+    "lc": "soy",
+    "cc": [
+        "BJ",
+        "TG"
+    ],
     "alt": [
         "Bijobe",
         "Biyobe",
@@ -19,11 +23,7 @@
         "Uyobe",
         "Kyobe"
     ],
-    "cc": [
-        "BJ",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Miyobe",
+    "gwcode": "fr",
+    "ln": "Miyobe"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 1862,
-    "lc": "fom",
+    "gw": false,
     "ISO-639-3": "fom",
-    "ln": "Foma",
-    "ang": "Foma",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 1862,
     "lr": "Africa",
+    "lc": "fom",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Fuma",
         "Lifoma"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Foma",
+    "gwcode": "fr",
+    "ln": "Foma"
 }

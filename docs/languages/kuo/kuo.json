@@ -1,18 +1,18 @@
 {
-    "pk": 3196,
-    "lc": "kuo",
+    "gw": false,
     "ISO-639-3": "kuo",
-    "ln": "Kumukio",
-    "ang": "Kumukio",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3196,
     "lr": "Pacific",
-    "alt": [
-        "Kumokio"
-    ],
+    "lc": "kuo",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Kumokio"
+    ],
+    "ang": "Kumukio",
+    "gwcode": "tpi",
+    "ln": "Kumukio"
 }

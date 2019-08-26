@@ -1,11 +1,15 @@
 {
-    "pk": 5970,
-    "lc": "taj",
+    "gw": false,
     "ISO-639-3": "taj",
-    "ln": "Eastern Tamang",
-    "ang": "Tamang, Eastern",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 5970,
     "lr": "Asia",
+    "lc": "taj",
+    "cc": [
+        "BT",
+        "NP"
+    ],
     "alt": [
         "Ishang",
         "Murmi",
@@ -14,11 +18,7 @@
         "Central-Eastern Tamang (Temal Tamang)",
         "Outer-Eastern Tamang (Sailung Tamang)"
     ],
-    "cc": [
-        "BT",
-        "NP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Tamang, Eastern",
+    "gwcode": "ne",
+    "ln": "Eastern Tamang"
 }

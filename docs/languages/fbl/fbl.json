@@ -1,11 +1,14 @@
 {
-    "pk": 1831,
-    "lc": "fbl",
+    "gw": false,
     "ISO-639-3": "fbl",
-    "ln": "West Albay Bikol",
-    "ang": "Bikol, West Albay",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 1831,
     "lr": "Asia",
+    "lc": "fbl",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Bicol",
         "Bikol",
@@ -14,10 +17,7 @@
         "Oasn\u00fcn",
         "Polanguinon"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bikol, West Albay",
+    "gwcode": "en",
+    "ln": "West Albay Bikol"
 }

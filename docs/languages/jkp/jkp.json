@@ -1,11 +1,14 @@
 {
-    "pk": 2633,
-    "lc": "jkp",
+    "gw": false,
     "ISO-639-3": "jkp",
-    "ln": "Paku Karen",
-    "ang": "Karen, Paku",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 2633,
     "lr": "Asia",
+    "lc": "jkp",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Mogpha",
         "Mogwa",
@@ -17,10 +20,7 @@
         "Paku",
         "Thalwepwe"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Karen, Paku",
+    "gwcode": "my",
+    "ln": "Paku Karen"
 }

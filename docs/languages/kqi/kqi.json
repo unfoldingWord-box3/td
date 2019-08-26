@@ -1,18 +1,18 @@
 {
-    "pk": 3091,
-    "lc": "kqi",
+    "gw": false,
     "ISO-639-3": "kqi",
-    "ln": "Koitabu",
-    "ang": "Koitabu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3091,
     "lr": "Pacific",
-    "alt": [
-        "Koita"
-    ],
+    "lc": "kqi",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Koita"
+    ],
+    "ang": "Koitabu",
+    "gwcode": "tpi",
+    "ln": "Koitabu"
 }

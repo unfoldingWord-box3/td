@@ -1,18 +1,18 @@
 {
-    "pk": 6666,
-    "lc": "wac",
+    "gw": false,
     "ISO-639-3": "wac",
-    "ln": "Wasco-Wishram",
-    "ang": "Wasco-Wishram",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 6666,
     "lr": "Americas",
-    "alt": [
-        "Upper Chinook"
-    ],
+    "lc": "wac",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Upper Chinook"
+    ],
+    "ang": "Wasco-Wishram",
+    "gwcode": "en",
+    "ln": "Wasco-Wishram"
 }

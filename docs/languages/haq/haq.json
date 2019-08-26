@@ -1,19 +1,19 @@
 {
-    "pk": 2234,
-    "lc": "haq",
+    "gw": false,
     "ISO-639-3": "haq",
-    "ln": "Ha",
-    "ang": "Ha",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 2234,
     "lr": "Africa",
+    "lc": "haq",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Giha",
         "Ikiha"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Ha",
+    "gwcode": "sw",
+    "ln": "Ha"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 2744,
-    "lc": "kci",
+    "gw": false,
     "ISO-639-3": "kci",
-    "ln": "Kamantan",
-    "ang": "Kamantan",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2744,
     "lr": "Africa",
+    "lc": "kci",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Angan",
         "Kamanton"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kamantan",
+    "gwcode": "en",
+    "ln": "Kamantan"
 }

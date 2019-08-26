@@ -1,20 +1,20 @@
 {
-    "pk": 4088,
-    "lc": "mrs",
+    "gw": false,
     "ISO-639-3": "mrs",
-    "ln": "Maragus",
-    "ang": "Maragus",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 4088,
     "lr": "Pacific",
+    "lc": "mrs",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Maragaus",
         "Tape",
         "Tobah"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Maragus",
+    "gwcode": "fr",
+    "ln": "Maragus"
 }

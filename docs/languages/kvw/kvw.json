@@ -1,11 +1,14 @@
 {
-    "pk": 3230,
-    "lc": "kvw",
+    "gw": false,
     "ISO-639-3": "kvw",
-    "ln": "Wersing",
-    "ang": "Wersing",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3230,
     "lr": "Asia",
+    "lc": "kvw",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kolana-Wersin",
         "Warsina",
@@ -13,10 +16,7 @@
         "Langkuru (Mademang)",
         "Pureman"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Wersing",
+    "gwcode": "id",
+    "ln": "Wersing"
 }

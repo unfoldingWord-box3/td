@@ -1,20 +1,20 @@
 {
-    "pk": 6531,
-    "lc": "unm",
+    "gw": false,
     "ISO-639-3": "unm",
-    "ln": "Unami",
-    "ang": "Unami",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 6531,
     "lr": "Americas",
+    "lc": "unm",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Delaware",
         "Lenape",
         "Lenni-Lenape"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Unami",
+    "gwcode": "en",
+    "ln": "Unami"
 }

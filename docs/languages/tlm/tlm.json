@@ -1,20 +1,20 @@
 {
-    "pk": 6183,
-    "lc": "tlm",
+    "gw": false,
     "ISO-639-3": "tlm",
-    "ln": "Tolomako",
-    "ang": "Tolomako",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 6183,
     "lr": "Pacific",
+    "lc": "tlm",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Big Bay",
         "Marina",
         "Tolomako-Jereviu"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Tolomako",
+    "gwcode": "fr",
+    "ln": "Tolomako"
 }

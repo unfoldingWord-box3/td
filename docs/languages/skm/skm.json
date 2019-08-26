@@ -1,21 +1,21 @@
 {
-    "pk": 5668,
-    "lc": "skm",
+    "gw": false,
     "ISO-639-3": "skm",
-    "ln": "Kutong",
-    "ang": "Kutong",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5668,
     "lr": "Pacific",
+    "lc": "skm",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Dinangat",
         "Akwawin",
         "Iyot",
         "Kamdaran"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kutong",
+    "gwcode": "tpi",
+    "ln": "Kutong"
 }

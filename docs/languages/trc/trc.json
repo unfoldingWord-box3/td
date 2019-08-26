@@ -1,20 +1,20 @@
 {
-    "pk": 6301,
-    "lc": "trc",
+    "gw": false,
     "ISO-639-3": "trc",
-    "ln": "Copala Triqui",
-    "ang": "Triqui, Copala",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 6301,
     "lr": "Americas",
+    "lc": "trc",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Copala Trique",
         "Triqui Bajo",
         "Triqui de San Juan Copala"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Triqui, Copala",
+    "gwcode": "es-419",
+    "ln": "Copala Triqui"
 }

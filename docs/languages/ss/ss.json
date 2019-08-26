@@ -1,11 +1,18 @@
 {
-    "pk": 5826,
-    "lc": "ss",
+    "gw": false,
     "ISO-639-3": "ssw",
-    "ln": "SiSwati",
-    "ang": "Swati",
     "hc": "SZ",
+    "ld": "ltr",
+    "pk": 5826,
     "lr": "Africa",
+    "lc": "ss",
+    "cc": [
+        "MZ",
+        "ZA",
+        "US",
+        "ZW",
+        "SZ"
+    ],
     "alt": [
         "Sephuthi",
         "Siswati",
@@ -18,14 +25,7 @@
         "Yeyeza",
         "Phuthi (Sephuthi)"
     ],
-    "cc": [
-        "MZ",
-        "ZA",
-        "US",
-        "ZW",
-        "SZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Swati",
+    "gwcode": "pt",
+    "ln": "SiSwati"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 720,
-    "lc": "bjn",
+    "gw": false,
     "ISO-639-3": "bjn",
-    "ln": "Banjar",
-    "ang": "Banjar",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 720,
     "lr": "Asia",
+    "lc": "bjn",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Bandjarese",
         "Banjar Malay",
         "Banjarese",
         "Hulu"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Banjar",
+    "gwcode": "id",
+    "ln": "Banjar"
 }

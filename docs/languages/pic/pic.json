@@ -1,21 +1,21 @@
 {
-    "pk": 5028,
-    "lc": "pic",
+    "gw": false,
     "ISO-639-3": "pic",
-    "ln": "Pinji",
-    "ang": "Pinji",
     "hc": "GA",
+    "ld": "ltr",
+    "pk": 5028,
     "lr": "Africa",
+    "lc": "pic",
+    "cc": [
+        "GA"
+    ],
     "alt": [
         "Apindje",
         "Apindji",
         "Apinji",
         "Gapinji"
     ],
-    "cc": [
-        "GA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Pinji",
+    "gwcode": "fr",
+    "ln": "Pinji"
 }

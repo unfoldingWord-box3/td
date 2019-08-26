@@ -1,16 +1,16 @@
 {
-    "pk": 1325,
-    "lc": "crd",
+    "gw": false,
     "ISO-639-3": "crd",
-    "ln": "Coeur d'Alene",
-    "ang": "Coeur d\u2019Alene",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 1325,
     "lr": "Americas",
-    "alt": [],
+    "lc": "crd",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [],
+    "ang": "Coeur d\u2019Alene",
+    "gwcode": "en",
+    "ln": "Coeur d'Alene"
 }

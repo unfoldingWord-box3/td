@@ -1,0 +1,22 @@
+.. _nqo:
+
+N'Ko
+====
+
+This language is spoken in the following countries:
+
+* GN: Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nqo
+    alternate_names: []
+    anglicanized_name: N’ko
+    country_codes:
+    - GN
+    gateway_language: UNKNOWN
+    lang_code: nqo
+    lang_direction: rtl
+    lang_name: N'Ko
+    lang_region: Africa
+    

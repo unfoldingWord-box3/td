@@ -1,11 +1,14 @@
 {
-    "pk": 1269,
-    "lc": "cmr",
+    "gw": false,
     "ISO-639-3": "cmr",
-    "ln": "Mro-Khimi Chin",
-    "ang": "Chin, Mro-Khimi",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1269,
     "lr": "Asia",
+    "lc": "cmr",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Awa Khami",
         "Khimi",
@@ -22,10 +25,7 @@
         "Arang (Ahraing Khami)",
         "Xata"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Chin, Mro-Khimi",
+    "gwcode": "my",
+    "ln": "Mro-Khimi Chin"
 }

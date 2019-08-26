@@ -1,18 +1,18 @@
 {
-    "pk": 5481,
-    "lc": "sbc",
+    "gw": false,
     "ISO-639-3": "sbc",
-    "ln": "Kele (Papua New Guinea)",
-    "ang": "Kele",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5481,
     "lr": "Pacific",
-    "alt": [
-        "Gele'"
-    ],
+    "lc": "sbc",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Gele'"
+    ],
+    "ang": "Kele",
+    "gwcode": "tpi",
+    "ln": "Kele (Papua New Guinea)"
 }

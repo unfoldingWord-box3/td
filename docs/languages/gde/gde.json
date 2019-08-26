@@ -1,11 +1,15 @@
 {
-    "pk": 1964,
-    "lc": "gde",
+    "gw": false,
     "ISO-639-3": "gde",
-    "ln": "Gude",
-    "ang": "Gude",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1964,
     "lr": "Africa",
+    "lc": "gde",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Cheke",
         "Goude",
@@ -19,11 +23,7 @@
         "Tcheke",
         "Mapuda"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gude",
+    "gwcode": "en",
+    "ln": "Gude"
 }

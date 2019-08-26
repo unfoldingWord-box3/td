@@ -1,20 +1,20 @@
 {
-    "pk": 6588,
-    "lc": "vam",
+    "gw": false,
     "ISO-639-3": "vam",
-    "ln": "Vanimo",
-    "ang": "Vanimo",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6588,
     "lr": "Pacific",
+    "lc": "vam",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Duso",
         "Manimo",
         "Wanimo"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Vanimo",
+    "gwcode": "tpi",
+    "ln": "Vanimo"
 }

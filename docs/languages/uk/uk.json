@@ -1,12 +1,11 @@
 {
-    "pk": 6494,
-    "lc": "uk",
+    "gw": false,
     "ISO-639-3": "ukr",
-    "ln": "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043c\u043e\u0432\u0430",
-    "ang": "Ukrainian",
     "hc": "UA",
+    "ld": "ltr",
+    "pk": 6494,
     "lr": "Europe",
-    "alt": [],
+    "lc": "uk",
     "cc": [
         "AZ",
         "BY",
@@ -31,7 +30,8 @@
         "UZ",
         "UA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [],
+    "ang": "Ukrainian",
+    "gwcode": "en",
+    "ln": "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043c\u043e\u0432\u0430"
 }

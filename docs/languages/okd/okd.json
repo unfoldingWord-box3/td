@@ -1,18 +1,18 @@
 {
-    "pk": 4800,
-    "lc": "okd",
+    "gw": false,
     "ISO-639-3": "okd",
-    "ln": "Okodia",
-    "ang": "Okodia",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4800,
     "lr": "Africa",
-    "alt": [
-        "Okordia"
-    ],
+    "lc": "okd",
     "cc": [
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Okordia"
+    ],
+    "ang": "Okodia",
+    "gwcode": "en",
+    "ln": "Okodia"
 }

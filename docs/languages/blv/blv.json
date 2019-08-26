@@ -1,20 +1,20 @@
 {
-    "pk": 775,
-    "lc": "blv",
+    "gw": false,
     "ISO-639-3": "blv",
-    "ln": "Bolo",
-    "ang": "Bolo",
     "hc": "AO",
+    "ld": "ltr",
+    "pk": 775,
     "lr": "Africa",
+    "lc": "blv",
+    "cc": [
+        "AO"
+    ],
     "alt": [
         "Haka",
         "Libolo",
         "Lubolo"
     ],
-    "cc": [
-        "AO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Bolo",
+    "gwcode": "pt",
+    "ln": "Bolo"
 }

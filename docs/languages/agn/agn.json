@@ -1,19 +1,19 @@
 {
-    "pk": 135,
-    "lc": "agn",
+    "gw": false,
     "ISO-639-3": "agn",
-    "ln": "Agutaynen",
-    "ang": "Agutaynen",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 135,
     "lr": "Asia",
+    "lc": "agn",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Agutayno",
         "Agutaynon"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Agutaynen",
+    "gwcode": "en",
+    "ln": "Agutaynen"
 }

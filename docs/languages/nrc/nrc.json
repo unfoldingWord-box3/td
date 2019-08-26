@@ -1,16 +1,16 @@
 {
-    "pk": 4625,
-    "lc": "nrc",
+    "gw": false,
     "ISO-639-3": "nrc",
-    "ln": "Norisch",
-    "ang": "Noric",
     "hc": "AT",
+    "ld": "ltr",
+    "pk": 4625,
     "lr": "Europe",
-    "alt": [],
+    "lc": "nrc",
     "cc": [
         "AT"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [],
+    "ang": "Noric",
+    "gwcode": "UNKNOWN",
+    "ln": "Norisch"
 }

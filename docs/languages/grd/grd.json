@@ -1,19 +1,19 @@
 {
-    "pk": 2124,
-    "lc": "grd",
+    "gw": false,
     "ISO-639-3": "grd",
-    "ln": "Guruntum-Mbaaru",
-    "ang": "Guruntum-Mbaaru",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2124,
     "lr": "Africa",
+    "lc": "grd",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Gurdung",
         "Guruntum"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Guruntum-Mbaaru",
+    "gwcode": "en",
+    "ln": "Guruntum-Mbaaru"
 }

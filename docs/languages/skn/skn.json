@@ -1,20 +1,20 @@
 {
-    "pk": 5669,
-    "lc": "skn",
+    "gw": false,
     "ISO-639-3": "skn",
-    "ln": "Kolibugan Subanon",
-    "ang": "Subanon, Kolibugan",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5669,
     "lr": "Asia",
+    "lc": "skn",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Calibugan",
         "Kalibugan",
         "Kolibugan"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Subanon, Kolibugan",
+    "gwcode": "ceb",
+    "ln": "Kolibugan Subanon"
 }

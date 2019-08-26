@@ -1,11 +1,14 @@
 {
-    "pk": 91,
-    "lc": "adz",
+    "gw": false,
     "ISO-639-3": "adz",
-    "ln": "Adzera",
-    "ang": "Adzera",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 91,
     "lr": "Pacific",
+    "lc": "adz",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Guruf-Ngariawang (Ngariawan)",
         "Amari",
@@ -16,10 +19,7 @@
         "Atzera",
         "Azera"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Adzera",
+    "gwcode": "tpi",
+    "ln": "Adzera"
 }

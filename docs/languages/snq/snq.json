@@ -1,11 +1,14 @@
 {
-    "pk": 5740,
-    "lc": "snq",
+    "gw": false,
     "ISO-639-3": "snq",
-    "ln": "Sangu (Gabon)",
-    "ang": "Sangu",
     "hc": "GA",
+    "ld": "ltr",
+    "pk": 5740,
     "lr": "Africa",
+    "lc": "snq",
+    "cc": [
+        "GA"
+    ],
     "alt": [
         "Chango",
         "Isangu",
@@ -13,10 +16,7 @@
         "Yisangou",
         "Yisangu"
     ],
-    "cc": [
-        "GA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Sangu",
+    "gwcode": "fr",
+    "ln": "Sangu (Gabon)"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 1081,
-    "lc": "byx",
+    "gw": false,
     "ISO-639-3": "byx",
-    "ln": "Qaqet",
-    "ang": "Qaqet",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1081,
     "lr": "Pacific",
+    "lc": "byx",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Baining",
         "Kakat",
         "Makakat",
         "Maqaqet"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Qaqet",
+    "gwcode": "tpi",
+    "ln": "Qaqet"
 }

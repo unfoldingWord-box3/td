@@ -1,18 +1,18 @@
 {
-    "pk": 4034,
-    "lc": "mpo",
+    "gw": false,
     "ISO-639-3": "mpo",
-    "ln": "Miu",
-    "ang": "Miu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4034,
     "lr": "Pacific",
-    "alt": [
-        "Myu"
-    ],
+    "lc": "mpo",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Myu"
+    ],
+    "ang": "Miu",
+    "gwcode": "tpi",
+    "ln": "Miu"
 }

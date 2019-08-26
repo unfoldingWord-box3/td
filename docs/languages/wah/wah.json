@@ -1,11 +1,14 @@
 {
-    "pk": 6671,
-    "lc": "wah",
+    "gw": false,
     "ISO-639-3": "wah",
-    "ln": "Watubela",
-    "ang": "Watubela",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6671,
     "lr": "Asia",
+    "lc": "wah",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Esiriun",
         "Kasiui",
@@ -15,10 +18,7 @@
         "Snabi Watubela",
         "Wesi"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Watubela",
+    "gwcode": "id",
+    "ln": "Watubela"
 }

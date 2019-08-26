@@ -1,11 +1,20 @@
 {
-    "pk": 92,
-    "lc": "aeb",
+    "gw": false,
     "ISO-639-3": "aeb",
-    "ln": "Tunisian Arabic",
-    "ang": "Arabic, Tunisian Spoken",
     "hc": "TN",
+    "ld": "rtl",
+    "pk": 92,
     "lr": "Africa",
+    "lc": "aeb",
+    "cc": [
+        "BE",
+        "FR",
+        "DE",
+        "NL",
+        "TN",
+        "IT",
+        "LY"
+    ],
     "alt": [
         "Sahil",
         "Sfax",
@@ -17,16 +26,7 @@
         "Tunisian Arabic",
         "Tunisian Darija"
     ],
-    "cc": [
-        "BE",
-        "FR",
-        "DE",
-        "NL",
-        "TN",
-        "IT",
-        "LY"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ar"
+    "ang": "Arabic, Tunisian Spoken",
+    "gwcode": "ar",
+    "ln": "Tunisian Arabic"
 }

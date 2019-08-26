@@ -1,18 +1,18 @@
 {
-    "pk": 3021,
-    "lc": "kni",
+    "gw": false,
     "ISO-639-3": "kni",
-    "ln": "Kanufi",
-    "ang": "Kanufi",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3021,
     "lr": "Africa",
-    "alt": [
-        "Karshi"
-    ],
+    "lc": "kni",
     "cc": [
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Karshi"
+    ],
+    "ang": "Kanufi",
+    "gwcode": "en",
+    "ln": "Kanufi"
 }

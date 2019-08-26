@@ -1,21 +1,21 @@
 {
-    "pk": 3302,
-    "lc": "kyt",
+    "gw": false,
     "ISO-639-3": "kyt",
-    "ln": "Kayagar",
-    "ang": "Kayagar",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3302,
     "lr": "Asia",
+    "lc": "kyt",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kajagar",
         "Kaygi",
         "Kaygir",
         "Wiyagar"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kayagar",
+    "gwcode": "id",
+    "ln": "Kayagar"
 }

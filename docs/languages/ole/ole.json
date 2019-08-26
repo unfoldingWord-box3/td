@@ -1,21 +1,21 @@
 {
-    "pk": 4816,
-    "lc": "ole",
+    "gw": false,
     "ISO-639-3": "ole",
-    "ln": "Olekha",
-    "ang": "Olekha",
     "hc": "BT",
+    "ld": "ltr",
+    "pk": 4816,
     "lr": "Asia",
+    "lc": "ole",
+    "cc": [
+        "BT"
+    ],
     "alt": [
         "Black Mountain Language",
         "Monkha",
         "Monpa",
         "Ole M\u00f6npa"
     ],
-    "cc": [
-        "BT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "dz"
+    "ang": "Olekha",
+    "gwcode": "UNKNOWN",
+    "ln": "Olekha"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 384,
-    "lc": "atd",
+    "gw": false,
     "ISO-639-3": "atd",
-    "ln": "Ata Manobo",
-    "ang": "Manobo, Ata",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 384,
     "lr": "Asia",
+    "lc": "atd",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Ata of Davao",
         "Atao Manobo",
         "Langilan"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Manobo, Ata",
+    "gwcode": "en",
+    "ln": "Ata Manobo"
 }

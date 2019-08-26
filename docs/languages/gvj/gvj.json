@@ -1,11 +1,14 @@
 {
-    "pk": 2181,
-    "lc": "gvj",
+    "gw": false,
     "ISO-639-3": "gvj",
-    "ln": "Guaj\u00e1",
-    "ang": "Guaj\u00e1",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2181,
     "lr": "Americas",
+    "lc": "gvj",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Aw\u00e1",
         "Aw\u00e1 Guaj\u00e1",
@@ -13,10 +16,7 @@
         "Guaxare",
         "Wazaizara"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Guaj\u00e1",
+    "gwcode": "pt",
+    "ln": "Guaj\u00e1"
 }

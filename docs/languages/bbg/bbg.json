@@ -1,21 +1,21 @@
 {
-    "pk": 514,
-    "lc": "bbg",
+    "gw": false,
     "ISO-639-3": "bbg",
-    "ln": "Barama",
-    "ang": "Barama",
     "hc": "GA",
+    "ld": "ltr",
+    "pk": 514,
     "lr": "Africa",
+    "lc": "bbg",
+    "cc": [
+        "GA"
+    ],
     "alt": [
         "Bavarama",
         "Ghibarama",
         "Gibarama",
         "Yibarambu"
     ],
-    "cc": [
-        "GA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Barama",
+    "gwcode": "fr",
+    "ln": "Barama"
 }

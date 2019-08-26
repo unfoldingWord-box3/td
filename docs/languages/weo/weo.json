@@ -1,11 +1,14 @@
 {
-    "pk": 6716,
-    "lc": "weo",
+    "gw": false,
     "ISO-639-3": "weo",
-    "ln": "Wemale",
-    "ang": "Wemale",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6716,
     "lr": "Asia",
+    "lc": "weo",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Honitetu",
         "Tala",
@@ -14,10 +17,7 @@
         "West Wemale",
         "West-Central Wemale"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Wemale",
+    "gwcode": "id",
+    "ln": "Wemale"
 }

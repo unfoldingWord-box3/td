@@ -1,11 +1,15 @@
 {
-    "pk": 1025,
-    "lc": "bwi",
+    "gw": false,
     "ISO-639-3": "bwi",
-    "ln": "Baniwa",
-    "ang": "Baniwa",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 1025,
     "lr": "Americas",
+    "lc": "bwi",
+    "cc": [
+        "BR",
+        "VE"
+    ],
     "alt": [
         "Baniba",
         "Baniua do I\u00e7ana",
@@ -15,11 +19,7 @@
         "Kohoroxitari",
         "Maniba"
     ],
-    "cc": [
-        "BR",
-        "VE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Baniwa",
+    "gwcode": "pt",
+    "ln": "Baniwa"
 }

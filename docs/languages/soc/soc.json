@@ -1,21 +1,21 @@
 {
-    "pk": 5752,
-    "lc": "soc",
+    "gw": false,
     "ISO-639-3": "soc",
-    "ln": "So (Democratic Republic of Congo)",
-    "ang": "So",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5752,
     "lr": "Africa",
+    "lc": "soc",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Eso",
         "Gesogo",
         "Soa",
         "Soko"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "So",
+    "gwcode": "fr",
+    "ln": "So (Democratic Republic of Congo)"
 }

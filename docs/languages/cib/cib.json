@@ -1,21 +1,21 @@
 {
-    "pk": 1209,
-    "lc": "cib",
+    "gw": false,
     "ISO-639-3": "cib",
-    "ln": "Ci Gbe",
-    "ang": "Gbe, Ci",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 1209,
     "lr": "Africa",
+    "lc": "cib",
+    "cc": [
+        "BJ"
+    ],
     "alt": [
         "Ayizo-Ci",
         "Ci",
         "Cigbe",
         "Tchi"
     ],
-    "cc": [
-        "BJ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Gbe, Ci",
+    "gwcode": "fr",
+    "ln": "Ci Gbe"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 2727,
-    "lc": "kbr",
+    "gw": false,
     "ISO-639-3": "kbr",
-    "ln": "Kafa",
-    "ang": "Kafa",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 2727,
     "lr": "Africa",
+    "lc": "kbr",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Caffino",
         "Kaffa",
@@ -15,10 +18,7 @@
         "Manjo",
         "Bosha (Garo)"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Kafa",
+    "gwcode": "am",
+    "ln": "Kafa"
 }

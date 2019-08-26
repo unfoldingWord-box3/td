@@ -1,11 +1,14 @@
 {
-    "pk": 706,
-    "lc": "bix",
+    "gw": false,
     "ISO-639-3": "bix",
-    "ln": "Bijori",
-    "ang": "Bijori",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 706,
     "lr": "Asia",
+    "lc": "bix",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Binjhia",
         "Birijia",
@@ -13,10 +16,7 @@
         "Brijia",
         "Burja"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "ang": "Bijori",
+    "gwcode": "bn",
+    "ln": "Bijori"
 }

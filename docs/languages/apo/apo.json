@@ -1,18 +1,18 @@
 {
-    "pk": 314,
-    "lc": "apo",
+    "gw": false,
     "ISO-639-3": "apo",
-    "ln": "Ambul",
-    "ang": "Ambul",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 314,
     "lr": "Pacific",
-    "alt": [
-        "Palik"
-    ],
+    "lc": "apo",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Palik"
+    ],
+    "ang": "Ambul",
+    "gwcode": "tpi",
+    "ln": "Ambul"
 }

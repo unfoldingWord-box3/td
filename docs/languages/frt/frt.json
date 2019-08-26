@@ -1,18 +1,18 @@
 {
-    "pk": 1878,
-    "lc": "frt",
+    "gw": false,
     "ISO-639-3": "frt",
-    "ln": "Fortsenal",
-    "ang": "Fortsenal",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 1878,
     "lr": "Pacific",
-    "alt": [
-        "Kiai"
-    ],
+    "lc": "frt",
     "cc": [
         "VU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Kiai"
+    ],
+    "ang": "Fortsenal",
+    "gwcode": "fr",
+    "ln": "Fortsenal"
 }

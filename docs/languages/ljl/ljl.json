@@ -1,21 +1,21 @@
 {
-    "pk": 3478,
-    "lc": "ljl",
+    "gw": false,
     "ISO-639-3": "ljl",
-    "ln": "Li'o",
-    "ang": "Li\u2019o",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3478,
     "lr": "Asia",
+    "lc": "ljl",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Aku",
         "Lio",
         "Lionese",
         "Tanah Kunu"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Li\u2019o",
+    "gwcode": "id",
+    "ln": "Li'o"
 }

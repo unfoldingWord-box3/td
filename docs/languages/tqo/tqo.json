@@ -1,11 +1,14 @@
 {
-    "pk": 6291,
-    "lc": "tqo",
+    "gw": false,
     "ISO-639-3": "tqo",
-    "ln": "Toaripi",
-    "ang": "Toaripi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6291,
     "lr": "Pacific",
+    "lc": "tqo",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "East Elema",
         "Motumotu",
@@ -13,10 +16,7 @@
         "Toaripi (Moripi-Iokea)",
         "Moveave"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Toaripi",
+    "gwcode": "tpi",
+    "ln": "Toaripi"
 }

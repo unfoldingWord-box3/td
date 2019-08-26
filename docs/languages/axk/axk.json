@@ -1,11 +1,15 @@
 {
-    "pk": 455,
-    "lc": "axk",
+    "gw": false,
     "ISO-639-3": "axk",
-    "ln": "Yaka (Central African Republic)",
-    "ang": "Yaka",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 455,
     "lr": "Africa",
+    "lc": "axk",
+    "cc": [
+        "CF",
+        "CG"
+    ],
     "alt": [
         "Aka",
         "Bek\u00e1",
@@ -23,11 +27,7 @@
         "Bambenzele (Western Aka)",
         "Moyaka"
     ],
-    "cc": [
-        "CF",
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Yaka",
+    "gwcode": "fr",
+    "ln": "Yaka (Central African Republic)"
 }

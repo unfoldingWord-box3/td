@@ -1,11 +1,14 @@
 {
-    "pk": 4930,
-    "lc": "par",
+    "gw": false,
     "ISO-639-3": "par",
-    "ln": "Panamint",
-    "ang": "Timbisha",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 4930,
     "lr": "Americas",
+    "lc": "par",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Coso",
         "Koso",
@@ -13,10 +16,7 @@
         "Panamint Shoshone",
         "T\u00fcmpisa Shoshoni"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Timbisha",
+    "gwcode": "en",
+    "ln": "Panamint"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3032,
-    "lc": "knt",
+    "gw": false,
     "ISO-639-3": "knt",
-    "ln": "Panoan Katuk\u00edna",
-    "ang": "Katuk\u00edna, Panoan",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 3032,
     "lr": "Americas",
+    "lc": "knt",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Catuquina",
         "Kamannaua",
@@ -14,10 +17,7 @@
         "Arara-Shawanawa (Shawanawa-Arara)",
         "Sanainawa (Saninawacana)"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Katuk\u00edna, Panoan",
+    "gwcode": "pt",
+    "ln": "Panoan Katuk\u00edna"
 }

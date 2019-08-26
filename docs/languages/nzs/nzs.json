@@ -1,18 +1,18 @@
 {
-    "pk": 4752,
-    "lc": "nzs",
+    "gw": false,
     "ISO-639-3": "nzs",
-    "ln": "New Zealand Sign Language",
-    "ang": "New Zealand Sign Language",
     "hc": "NZ",
+    "ld": "ltr",
+    "pk": 4752,
     "lr": "Pacific",
-    "alt": [
-        "NZSL"
-    ],
+    "lc": "nzs",
     "cc": [
         "NZ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "NZSL"
+    ],
+    "ang": "New Zealand Sign Language",
+    "gwcode": "en",
+    "ln": "New Zealand Sign Language"
 }

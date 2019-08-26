@@ -1,11 +1,16 @@
 {
-    "pk": 1685,
-    "lc": "dz",
+    "gw": false,
     "ISO-639-3": "dzo",
-    "ln": "\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41",
-    "ang": "Dzongkha",
     "hc": "BT",
+    "ld": "ltr",
+    "pk": 1685,
     "lr": "Asia",
+    "lc": "dz",
+    "cc": [
+        "BT",
+        "NP",
+        "IN"
+    ],
     "alt": [
         "Bhotia of Bhutan",
         "Bhotia of Dukpa",
@@ -21,12 +26,7 @@
         "Lhoskad",
         "Wang-The (Thimphu-Punakha)"
     ],
-    "cc": [
-        "BT",
-        "NP",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": null
+    "ang": "Dzongkha",
+    "gwcode": "UNKNOWN",
+    "ln": "\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41"
 }

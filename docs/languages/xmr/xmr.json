@@ -1,16 +1,16 @@
 {
-    "pk": 6983,
-    "lc": "xmr",
+    "gw": false,
     "ISO-639-3": "xmr",
-    "ln": "Meroitic",
-    "ang": "Meroitic",
     "hc": "EG",
+    "ld": "ltr",
+    "pk": 6983,
     "lr": "Africa",
-    "alt": [],
+    "lc": "xmr",
     "cc": [
         "EG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [],
+    "ang": "Meroitic",
+    "gwcode": "UNKNOWN",
+    "ln": "Meroitic"
 }

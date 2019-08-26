@@ -1,11 +1,15 @@
 {
-    "pk": 3105,
-    "lc": "kqx",
+    "gw": false,
     "ISO-639-3": "kqx",
-    "ln": "Mser",
-    "ang": "Mser",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3105,
     "lr": "Africa",
+    "lc": "kqx",
+    "cc": [
+        "CM",
+        "TD"
+    ],
     "alt": [
         "Kotoko-Kuseri",
         "Kouseri",
@@ -18,11 +22,7 @@
         "Kalo (Kalakafra)",
         "Msir"
     ],
-    "cc": [
-        "CM",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mser",
+    "gwcode": "fr",
+    "ln": "Mser"
 }

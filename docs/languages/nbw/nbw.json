@@ -1,11 +1,15 @@
 {
-    "pk": 4329,
-    "lc": "nbw",
+    "gw": false,
     "ISO-639-3": "nbw",
-    "ln": "Southern Ngbandi",
-    "ang": "Ngbandi, Southern",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 4329,
     "lr": "Africa",
+    "lc": "nbw",
+    "cc": [
+        "CG",
+        "CD"
+    ],
     "alt": [
         "Mbati",
         "Mongbandi",
@@ -14,11 +18,7 @@
         "Ngbandi-Sud",
         "Ngwandi"
     ],
-    "cc": [
-        "CG",
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ngbandi, Southern",
+    "gwcode": "fr",
+    "ln": "Southern Ngbandi"
 }

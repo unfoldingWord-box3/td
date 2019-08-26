@@ -1,11 +1,15 @@
 {
-    "pk": 7303,
-    "lc": "yun",
+    "gw": false,
     "ISO-639-3": "yun",
-    "ln": "\u0181\u0259na (Nigeria)",
-    "ang": "Bena",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 7303,
     "lr": "Africa",
+    "lc": "yun",
+    "cc": [
+        "NG",
+        "TZ"
+    ],
     "alt": [
         "Binna",
         "Buna",
@@ -18,11 +22,7 @@
         "Yungur",
         "Lala"
     ],
-    "cc": [
-        "NG",
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bena",
+    "gwcode": "en",
+    "ln": "\u0181\u0259na (Nigeria)"
 }

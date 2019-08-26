@@ -1,21 +1,21 @@
 {
-    "pk": 6536,
-    "lc": "unz",
+    "gw": false,
     "ISO-639-3": "unz",
-    "ln": "Unde Kaili",
-    "ang": "Kaili, Unde",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6536,
     "lr": "Asia",
+    "lc": "unz",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Banava",
         "Banawa",
         "Ganti",
         "Lole"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kaili, Unde",
+    "gwcode": "id",
+    "ln": "Unde Kaili"
 }

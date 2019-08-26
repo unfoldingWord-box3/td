@@ -1,11 +1,14 @@
 {
-    "pk": 492,
-    "lc": "bae",
+    "gw": false,
     "ISO-639-3": "bae",
-    "ln": "Bar\u00e9",
-    "ang": "Bar\u00e9",
     "hc": "VE",
+    "ld": "ltr",
+    "pk": 492,
     "lr": "Americas",
+    "lc": "bae",
+    "cc": [
+        "VE"
+    ],
     "alt": [
         "Arihini",
         "Barauana",
@@ -17,10 +20,7 @@
         "Mitua",
         "Yavita"
     ],
-    "cc": [
-        "VE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Bar\u00e9",
+    "gwcode": "es-419",
+    "ln": "Bar\u00e9"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 7168,
-    "lc": "yey",
+    "gw": false,
     "ISO-639-3": "yey",
-    "ln": "Yeyi",
-    "ang": "Yeyi",
     "hc": "BW",
+    "ld": "ltr",
+    "pk": 7168,
     "lr": "Africa",
+    "lc": "yey",
+    "cc": [
+        "BW",
+        "NA"
+    ],
     "alt": [
         "Ciyei",
         "Seyeyi",
@@ -15,11 +19,7 @@
         "Kuba",
         "Sekoba"
     ],
-    "cc": [
-        "BW",
-        "NA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yeyi",
+    "gwcode": "en",
+    "ln": "Yeyi"
 }

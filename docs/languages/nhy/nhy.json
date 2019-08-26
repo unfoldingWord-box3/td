@@ -1,18 +1,18 @@
 {
-    "pk": 4454,
-    "lc": "nhy",
+    "gw": false,
     "ISO-639-3": "nhy",
-    "ln": "Northern Oaxaca Nahuatl",
-    "ang": "Nahuatl, Northern Oaxaca",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4454,
     "lr": "Americas",
-    "alt": [
-        "N\u00e1huatl del Norte de Oaxaca"
-    ],
+    "lc": "nhy",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "N\u00e1huatl del Norte de Oaxaca"
+    ],
+    "ang": "Nahuatl, Northern Oaxaca",
+    "gwcode": "es-419",
+    "ln": "Northern Oaxaca Nahuatl"
 }

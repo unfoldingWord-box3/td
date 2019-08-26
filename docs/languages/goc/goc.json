@@ -1,18 +1,18 @@
 {
-    "pk": 2091,
-    "lc": "goc",
+    "gw": false,
     "ISO-639-3": "goc",
-    "ln": "Gorakor",
-    "ang": "Gorakor",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2091,
     "lr": "Pacific",
-    "alt": [
-        "Yanta"
-    ],
+    "lc": "goc",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Yanta"
+    ],
+    "ang": "Gorakor",
+    "gwcode": "tpi",
+    "ln": "Gorakor"
 }

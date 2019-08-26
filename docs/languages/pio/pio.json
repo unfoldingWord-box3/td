@@ -1,11 +1,16 @@
 {
-    "pk": 5038,
-    "lc": "pio",
+    "gw": false,
     "ISO-639-3": "pio",
-    "ln": "Piapoco",
-    "ang": "Piapoco",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 5038,
     "lr": "Americas",
+    "lc": "pio",
+    "cc": [
+        "VE",
+        "CO",
+        "US"
+    ],
     "alt": [
         "Amarizado",
         "Dzaze",
@@ -15,12 +20,7 @@
         "Wen\u00e9wika",
         "Yapoco"
     ],
-    "cc": [
-        "VE",
-        "CO",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Piapoco",
+    "gwcode": "es-419",
+    "ln": "Piapoco"
 }

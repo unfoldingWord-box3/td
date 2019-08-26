@@ -1,21 +1,21 @@
 {
-    "pk": 2419,
-    "lc": "ida",
+    "gw": false,
     "ISO-639-3": "ida",
-    "ln": "Idakho-Isukha-Tiriki",
-    "ang": "Luidakho-Luisukha-Lutirichi",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 2419,
     "lr": "Africa",
+    "lc": "ida",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Idakho-Isukha-Tiriki",
         "Idakho (Idaxo)",
         "Isukha (Isuxa)",
         "Itakho"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Luidakho-Luisukha-Lutirichi",
+    "gwcode": "sw",
+    "ln": "Idakho-Isukha-Tiriki"
 }

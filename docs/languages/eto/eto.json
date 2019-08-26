@@ -1,18 +1,18 @@
 {
-    "pk": 1794,
-    "lc": "eto",
+    "gw": false,
     "ISO-639-3": "eto",
-    "ln": "Eton (Cameroon)",
-    "ang": "Eton",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 1794,
     "lr": "Africa",
-    "alt": [
-        "Iton"
-    ],
+    "lc": "eto",
     "cc": [
         "CM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Iton"
+    ],
+    "ang": "Eton",
+    "gwcode": "fr",
+    "ln": "Eton (Cameroon)"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 1070,
-    "lc": "byi",
+    "gw": false,
     "ISO-639-3": "byi",
-    "ln": "Buyu",
-    "ang": "Buyu",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 1070,
     "lr": "Africa",
+    "lc": "byi",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Bujwe",
         "Buyi"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Buyu",
+    "gwcode": "fr",
+    "ln": "Buyu"
 }

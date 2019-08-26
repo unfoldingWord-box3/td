@@ -1,20 +1,20 @@
 {
-    "pk": 406,
-    "lc": "aub",
+    "gw": false,
     "ISO-639-3": "aub",
-    "ln": "Alugu",
-    "ang": "Alugu",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 406,
     "lr": "Asia",
+    "lc": "aub",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Muji",
         "Phula",
         "Phupha"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Alugu",
+    "gwcode": "zh",
+    "ln": "Alugu"
 }

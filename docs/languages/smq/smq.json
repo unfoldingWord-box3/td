@@ -1,20 +1,20 @@
 {
-    "pk": 5716,
-    "lc": "smq",
+    "gw": false,
     "ISO-639-3": "smq",
-    "ln": "Samo",
-    "ang": "Samo",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5716,
     "lr": "Pacific",
+    "lc": "smq",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Daba",
         "Nomad",
         "Supei"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Samo",
+    "gwcode": "tpi",
+    "ln": "Samo"
 }

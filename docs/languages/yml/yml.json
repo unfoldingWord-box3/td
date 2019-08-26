@@ -1,18 +1,18 @@
 {
-    "pk": 7228,
-    "lc": "yml",
+    "gw": false,
     "ISO-639-3": "yml",
-    "ln": "Iamalele",
-    "ang": "Iamalele",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 7228,
     "lr": "Pacific",
-    "alt": [
-        "Yamalele"
-    ],
+    "lc": "yml",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Yamalele"
+    ],
+    "ang": "Iamalele",
+    "gwcode": "tpi",
+    "ln": "Iamalele"
 }

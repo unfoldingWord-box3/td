@@ -1,11 +1,15 @@
 {
-    "pk": 3261,
-    "lc": "kxc",
+    "gw": false,
     "ISO-639-3": "kxc",
-    "ln": "Konso",
-    "ang": "Konso",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 3261,
     "lr": "Africa",
+    "lc": "kxc",
+    "cc": [
+        "ET",
+        "KE"
+    ],
     "alt": [
         "Af Kareti",
         "Afa Karatti",
@@ -18,11 +22,7 @@
         "Duuro",
         "Kholme"
     ],
-    "cc": [
-        "ET",
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Konso",
+    "gwcode": "am",
+    "ln": "Konso"
 }

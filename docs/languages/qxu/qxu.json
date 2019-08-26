@@ -1,20 +1,20 @@
 {
-    "pk": 5301,
-    "lc": "qxu",
+    "gw": false,
     "ISO-639-3": "qxu",
-    "ln": "Arequipa-La Uni\u00f3n Quechua",
-    "ang": "Quechua, Arequipa-La Uni\u00f3n",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 5301,
     "lr": "Americas",
+    "lc": "qxu",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Arequipa Quechua",
         "Cotahuasi Quechua",
         "Antabamba (Apur\u00edmac)"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quechua, Arequipa-La Uni\u00f3n",
+    "gwcode": "es-419",
+    "ln": "Arequipa-La Uni\u00f3n Quechua"
 }

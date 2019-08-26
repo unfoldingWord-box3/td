@@ -1,11 +1,20 @@
 {
-    "pk": 1109,
-    "lc": "ca",
+    "gw": false,
     "ISO-639-3": "cat",
-    "ln": "catal\u00e0",
-    "ang": "Catalan",
     "hc": "ES",
+    "ld": "ltr",
+    "pk": 1109,
     "lr": "Europe",
+    "lc": "ca",
+    "cc": [
+        "AR",
+        "FR",
+        "VE",
+        "ES",
+        "AD",
+        "US",
+        "IT"
+    ],
     "alt": [
         "Catal\u00e0",
         "Catalan-Valencian-Balear",
@@ -26,16 +35,7 @@
         "Balearic (Balear)",
         "Mallorqui"
     ],
-    "cc": [
-        "AR",
-        "FR",
-        "VE",
-        "ES",
-        "AD",
-        "US",
-        "IT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es"
+    "ang": "Catalan",
+    "gwcode": "es",
+    "ln": "catal\u00e0"
 }

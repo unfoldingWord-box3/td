@@ -1,21 +1,21 @@
 {
-    "pk": 4003,
-    "lc": "mog",
+    "gw": false,
     "ISO-639-3": "mog",
-    "ln": "Mongondow",
-    "ang": "Mongondow",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4003,
     "lr": "Asia",
+    "lc": "mog",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Bolang-Mogondo",
         "Minahassa",
         "Mongondou",
         "Passi"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Mongondow",
+    "gwcode": "id",
+    "ln": "Mongondow"
 }

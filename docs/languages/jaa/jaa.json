@@ -1,11 +1,14 @@
 {
-    "pk": 2564,
-    "lc": "jaa",
+    "gw": false,
     "ISO-639-3": "jaa",
-    "ln": "Jamamad\u00ed",
-    "ang": "Jamamad\u00ed",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2564,
     "lr": "Americas",
+    "lc": "jaa",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Canamanti",
         "Kanamanti",
@@ -21,10 +24,7 @@
         "Banav\u00e1",
         "Cuchudua (Maima)"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Jamamad\u00ed",
+    "gwcode": "pt",
+    "ln": "Jamamad\u00ed"
 }

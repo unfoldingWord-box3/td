@@ -1,18 +1,18 @@
 {
-    "pk": 3468,
-    "lc": "lir",
+    "gw": false,
     "ISO-639-3": "lir",
-    "ln": "Liberian English",
-    "ang": "Liberian English",
     "hc": "LR",
+    "ld": "ltr",
+    "pk": 3468,
     "lr": "Africa",
-    "alt": [
-        "Liberian Pidgin English"
-    ],
+    "lc": "lir",
     "cc": [
         "LR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Liberian Pidgin English"
+    ],
+    "ang": "Liberian English",
+    "gwcode": "en",
+    "ln": "Liberian English"
 }

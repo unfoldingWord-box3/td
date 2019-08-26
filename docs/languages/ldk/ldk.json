@@ -1,20 +1,20 @@
 {
-    "pk": 3395,
-    "lc": "ldk",
+    "gw": false,
     "ISO-639-3": "ldk",
-    "ln": "Leelau",
-    "ang": "Leelau",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3395,
     "lr": "Africa",
+    "lc": "ldk",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Lelo",
         "Munga",
         "Munga Lelau"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Leelau",
+    "gwcode": "en",
+    "ln": "Leelau"
 }

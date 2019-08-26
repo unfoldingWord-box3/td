@@ -1,19 +1,19 @@
 {
-    "pk": 4239,
-    "lc": "mxz",
+    "gw": false,
     "ISO-639-3": "mxz",
-    "ln": "Central Masela",
-    "ang": "Masela, Central",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4239,
     "lr": "Asia",
+    "lc": "mxz",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Central Marsela",
         "Marsela-South Babar"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Masela, Central",
+    "gwcode": "id",
+    "ln": "Central Masela"
 }

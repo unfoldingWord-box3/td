@@ -1,19 +1,19 @@
 {
-    "pk": 7016,
-    "lc": "xpk",
+    "gw": false,
     "ISO-639-3": "xpk",
-    "ln": "Kulina Pano",
-    "ang": "Kulina Pano",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 7016,
     "lr": "Americas",
+    "lc": "xpk",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Culina Pano",
         "Kulina do Acre"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Kulina Pano",
+    "gwcode": "pt",
+    "ln": "Kulina Pano"
 }

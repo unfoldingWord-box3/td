@@ -1,19 +1,19 @@
 {
-    "pk": 1464,
-    "lc": "dde",
+    "gw": false,
     "ISO-639-3": "dde",
-    "ln": "Doondo",
-    "ang": "Doondo",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 1464,
     "lr": "Africa",
+    "lc": "dde",
+    "cc": [
+        "CG"
+    ],
     "alt": [
         "Dondo",
         "Kidoondo"
     ],
-    "cc": [
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Doondo",
+    "gwcode": "fr",
+    "ln": "Doondo"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 816,
-    "lc": "bnl",
+    "gw": false,
     "ISO-639-3": "bnl",
-    "ln": "Boon",
-    "ang": "Boon",
     "hc": "SO",
+    "ld": "ltr",
+    "pk": 816,
     "lr": "Africa",
-    "alt": [
-        "Af-Boon"
-    ],
+    "lc": "bnl",
     "cc": [
         "SO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Af-Boon"
+    ],
+    "ang": "Boon",
+    "gwcode": "ar",
+    "ln": "Boon"
 }

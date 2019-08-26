@@ -1,20 +1,20 @@
 {
-    "pk": 648,
-    "lc": "bgo",
+    "gw": false,
     "ISO-639-3": "bgo",
-    "ln": "Baga Koga",
-    "ang": "Baga Koga",
     "hc": "GN",
+    "ld": "ltr",
+    "pk": 648,
     "lr": "Africa",
+    "lc": "bgo",
+    "cc": [
+        "GN"
+    ],
     "alt": [
         "Baka",
         "Koba",
         "Koga"
     ],
-    "cc": [
-        "GN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Baga Koga",
+    "gwcode": "fr",
+    "ln": "Baga Koga"
 }

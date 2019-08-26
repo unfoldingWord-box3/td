@@ -1,18 +1,18 @@
 {
-    "pk": 5896,
-    "lc": "svc",
+    "gw": false,
     "ISO-639-3": "svc",
-    "ln": "Vincentian Creole English",
-    "ang": "Vincentian Creole English",
     "hc": "VC",
+    "ld": "ltr",
+    "pk": 5896,
     "lr": "Americas",
-    "alt": [
-        "Vincy Twang"
-    ],
+    "lc": "svc",
     "cc": [
         "VC"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Vincy Twang"
+    ],
+    "ang": "Vincentian Creole English",
+    "gwcode": "en",
+    "ln": "Vincentian Creole English"
 }

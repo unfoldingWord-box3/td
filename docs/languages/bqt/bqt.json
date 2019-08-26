@@ -1,11 +1,14 @@
 {
-    "pk": 892,
-    "lc": "bqt",
+    "gw": false,
     "ISO-639-3": "bqt",
-    "ln": "Bamukumbit",
-    "ang": "Bamukumbit",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 892,
     "lr": "Africa",
+    "lc": "bqt",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bamenkombit",
         "Bamenkoumbit",
@@ -15,10 +18,7 @@
         "Mangkong",
         "Mankong"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bamukumbit",
+    "gwcode": "fr",
+    "ln": "Bamukumbit"
 }

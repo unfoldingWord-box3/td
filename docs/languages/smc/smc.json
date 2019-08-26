@@ -1,19 +1,19 @@
 {
-    "pk": 5705,
-    "lc": "smc",
+    "gw": false,
     "ISO-639-3": "smc",
-    "ln": "Som",
-    "ang": "Som",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5705,
     "lr": "Pacific",
+    "lc": "smc",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Dinanget",
         "Somm"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Som",
+    "gwcode": "tpi",
+    "ln": "Som"
 }

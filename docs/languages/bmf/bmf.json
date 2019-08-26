@@ -1,20 +1,20 @@
 {
-    "pk": 786,
-    "lc": "bmf",
+    "gw": false,
     "ISO-639-3": "bmf",
-    "ln": "Bom",
-    "ang": "Bom",
     "hc": "SL",
+    "ld": "ltr",
+    "pk": 786,
     "lr": "Africa",
+    "lc": "bmf",
+    "cc": [
+        "SL"
+    ],
     "alt": [
         "Bome",
         "Bomo",
         "Bum"
     ],
-    "cc": [
-        "SL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bom",
+    "gwcode": "en",
+    "ln": "Bom"
 }

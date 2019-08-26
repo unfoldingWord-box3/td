@@ -1,20 +1,20 @@
 {
-    "pk": 5573,
-    "lc": "sgb",
+    "gw": false,
     "ISO-639-3": "sgb",
-    "ln": "Mag-antsi Ayta",
-    "ang": "Ayta, Mag-antsi",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5573,
     "lr": "Asia",
+    "lc": "sgb",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Mag-Anchi Sambal",
         "Ayta",
         "Mag-Anchi"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ayta, Mag-antsi",
+    "gwcode": "en",
+    "ln": "Mag-antsi Ayta"
 }

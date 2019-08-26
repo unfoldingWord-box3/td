@@ -1,20 +1,20 @@
 {
-    "pk": 4042,
-    "lc": "mpw",
+    "gw": false,
     "ISO-639-3": "mpw",
-    "ln": "Mapidian",
-    "ang": "Mapidian",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 4042,
     "lr": "Americas",
+    "lc": "mpw",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Mahuayana",
         "Maiopitian",
         "Maopityan"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Mapidian",
+    "gwcode": "pt",
+    "ln": "Mapidian"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 5723,
-    "lc": "smx",
+    "gw": false,
     "ISO-639-3": "smx",
-    "ln": "Samba",
-    "ang": "Samba",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 5723,
     "lr": "Africa",
+    "lc": "smx",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Shankadi",
         "Tsaam",
         "Tsamba",
         "Usamba"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Samba",
+    "gwcode": "fr",
+    "ln": "Samba"
 }

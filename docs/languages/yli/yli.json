@@ -1,20 +1,20 @@
 {
-    "pk": 7214,
-    "lc": "yli",
+    "gw": false,
     "ISO-639-3": "yli",
-    "ln": "Angguruk Yali",
-    "ang": "Yali, Angguruk",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 7214,
     "lr": "Asia",
+    "lc": "yli",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Angguruk",
         "Northern Yali",
         "Yalimo"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Yali, Angguruk",
+    "gwcode": "id",
+    "ln": "Angguruk Yali"
 }

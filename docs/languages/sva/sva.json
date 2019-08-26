@@ -1,18 +1,18 @@
 {
-    "pk": 5894,
-    "lc": "sva",
+    "gw": false,
     "ISO-639-3": "sva",
-    "ln": "\u10da\u10e3\u10e8\u10dc\u10e3 \u10dc\u10d8\u10dc",
-    "ang": "Svan",
     "hc": "GE",
+    "ld": "ltr",
+    "pk": 5894,
     "lr": "Asia",
-    "alt": [
-        "Svanuri"
-    ],
+    "lc": "sva",
     "cc": [
         "GE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "alt": [
+        "Svanuri"
+    ],
+    "ang": "Svan",
+    "gwcode": "ru",
+    "ln": "\u10da\u10e3\u10e8\u10dc\u10e3 \u10dc\u10d8\u10dc"
 }

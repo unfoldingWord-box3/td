@@ -1,11 +1,14 @@
 {
-    "pk": 2989,
-    "lc": "kmc",
+    "gw": false,
     "ISO-639-3": "kmc",
-    "ln": "\u5357\u4f97\u8a9e",
-    "ang": "Dong, Southern",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2989,
     "lr": "Asia",
+    "lc": "kmc",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Gam",
         "Kam",
@@ -13,10 +16,7 @@
         "Tung",
         "Tung-Chia"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Dong, Southern",
+    "gwcode": "zh",
+    "ln": "\u5357\u4f97\u8a9e"
 }

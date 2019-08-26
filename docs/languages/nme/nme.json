@@ -1,19 +1,19 @@
 {
-    "pk": 4538,
-    "lc": "nme",
+    "gw": false,
     "ISO-639-3": "nme",
-    "ln": "Mzieme Naga",
-    "ang": "Naga, Mzieme",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4538,
     "lr": "Asia",
+    "lc": "nme",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Mzieme",
         "Northern Zeme"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Mzieme",
+    "gwcode": "en",
+    "ln": "Mzieme Naga"
 }

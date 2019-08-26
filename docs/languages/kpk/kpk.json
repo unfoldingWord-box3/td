@@ -1,11 +1,14 @@
 {
-    "pk": 3069,
-    "lc": "kpk",
+    "gw": false,
     "ISO-639-3": "kpk",
-    "ln": "Kpan",
-    "ang": "Kpan",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3069,
     "lr": "Africa",
+    "lc": "kpk",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Abakan",
         "Hwaso",
@@ -23,10 +26,7 @@
         "Kentu",
         "Kente (Etkye)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kpan",
+    "gwcode": "en",
+    "ln": "Kpan"
 }

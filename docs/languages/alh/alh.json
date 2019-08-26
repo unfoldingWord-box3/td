@@ -1,19 +1,19 @@
 {
-    "pk": 216,
-    "lc": "alh",
+    "gw": false,
     "ISO-639-3": "alh",
-    "ln": "Alawa",
-    "ang": "Alawa",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 216,
     "lr": "Pacific",
+    "lc": "alh",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Kallana",
         "Leealowa"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Alawa",
+    "gwcode": "en",
+    "ln": "Alawa"
 }

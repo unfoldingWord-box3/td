@@ -1,21 +1,21 @@
 {
-    "pk": 5769,
-    "lc": "sox",
+    "gw": false,
     "ISO-639-3": "sox",
-    "ln": "Swo",
-    "ang": "Swo",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 5769,
     "lr": "Africa",
+    "lc": "sox",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Fo",
         "Shwo",
         "S\u00f4",
         "Sso"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Swo",
+    "gwcode": "fr",
+    "ln": "Swo"
 }

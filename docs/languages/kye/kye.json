@@ -1,19 +1,19 @@
 {
-    "pk": 3288,
-    "lc": "kye",
+    "gw": false,
     "ISO-639-3": "kye",
-    "ln": "Krache",
-    "ang": "Krache",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 3288,
     "lr": "Africa",
+    "lc": "kye",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Kaakyi",
         "Krakye"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Krache",
+    "gwcode": "en",
+    "ln": "Krache"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 1453,
-    "lc": "dbp",
+    "gw": false,
     "ISO-639-3": "dbp",
-    "ln": "Duwai",
-    "ang": "Duwai",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1453,
     "lr": "Africa",
+    "lc": "dbp",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Eastern Bade",
         "Evji"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Duwai",
+    "gwcode": "en",
+    "ln": "Duwai"
 }

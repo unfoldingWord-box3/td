@@ -1,19 +1,19 @@
 {
-    "pk": 6558,
-    "lc": "usa",
+    "gw": false,
     "ISO-639-3": "usa",
-    "ln": "Usarufa",
-    "ang": "Usarufa",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6558,
     "lr": "Pacific",
+    "lc": "usa",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Usurufa",
         "Uturupa"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Usarufa",
+    "gwcode": "tpi",
+    "ln": "Usarufa"
 }

@@ -1,11 +1,18 @@
 {
-    "pk": 6,
-    "lc": "aa",
+    "gw": false,
     "ISO-639-3": "aar",
-    "ln": "Afaraf",
-    "ang": "Afar",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 6,
     "lr": "Africa",
+    "lc": "aa",
+    "cc": [
+        "DJ",
+        "ER",
+        "ET",
+        "US",
+        "CA"
+    ],
     "alt": [
         "Afaraf",
         "Danakil",
@@ -15,14 +22,7 @@
         "Qafar",
         "Baadu (Ba'adu)"
     ],
-    "cc": [
-        "DJ",
-        "ER",
-        "ET",
-        "US",
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Afar",
+    "gwcode": "am",
+    "ln": "Afaraf"
 }

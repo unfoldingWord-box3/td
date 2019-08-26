@@ -1,18 +1,18 @@
 {
-    "pk": 94,
-    "lc": "aed",
+    "gw": false,
     "ISO-639-3": "aed",
-    "ln": "Argentine Sign Language",
-    "ang": "Argentine Sign Language",
     "hc": "AR",
+    "ld": "ltr",
+    "pk": 94,
     "lr": "Americas",
-    "alt": [
-        "C\u00f3rdoba Sign Language"
-    ],
+    "lc": "aed",
     "cc": [
         "AR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "C\u00f3rdoba Sign Language"
+    ],
+    "ang": "Argentine Sign Language",
+    "gwcode": "es-419",
+    "ln": "Argentine Sign Language"
 }

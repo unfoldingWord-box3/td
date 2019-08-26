@@ -1,18 +1,18 @@
 {
-    "pk": 5440,
-    "lc": "ruo",
+    "gw": false,
     "ISO-639-3": "ruo",
-    "ln": "Istro Romanian",
-    "ang": "Romanian, Istro",
     "hc": "HR",
+    "ld": "ltr",
+    "pk": 5440,
     "lr": "Europe",
-    "alt": [
-        "Istro-Romanian"
-    ],
+    "lc": "ruo",
     "cc": [
         "HR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Istro-Romanian"
+    ],
+    "ang": "Romanian, Istro",
+    "gwcode": "en",
+    "ln": "Istro Romanian"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 3248,
-    "lc": "kwn",
+    "gw": false,
     "ISO-639-3": "kwn",
-    "ln": "Kwangali",
-    "ang": "Kwangali",
     "hc": "NA",
+    "ld": "ltr",
+    "pk": 3248,
     "lr": "Africa",
+    "lc": "kwn",
+    "cc": [
+        "AO",
+        "NA"
+    ],
     "alt": [
         "Cuangar",
         "Kwangare",
@@ -16,11 +20,7 @@
         "Sambyu (Sambio)",
         "Sambiu"
     ],
-    "cc": [
-        "AO",
-        "NA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kwangali",
+    "gwcode": "en",
+    "ln": "Kwangali"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 2421,
-    "lc": "idc",
+    "gw": false,
     "ISO-639-3": "idc",
-    "ln": "Idon",
-    "ang": "Ajiya",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2421,
     "lr": "Africa",
+    "lc": "idc",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ajuli",
         "Idong",
         "Misiwa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ajiya",
+    "gwcode": "en",
+    "ln": "Idon"
 }

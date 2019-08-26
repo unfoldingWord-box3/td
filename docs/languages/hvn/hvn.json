@@ -1,11 +1,14 @@
 {
-    "pk": 2391,
-    "lc": "hvn",
+    "gw": false,
     "ISO-639-3": "hvn",
-    "ln": "Sabu",
-    "ang": "Hawu",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2391,
     "lr": "Asia",
+    "lc": "hvn",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Havunese",
         "Savu",
@@ -17,10 +20,7 @@
         "Raijua (Raidjua)",
         "Seba (Heba)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Hawu",
+    "gwcode": "id",
+    "ln": "Sabu"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 2702,
-    "lc": "kaj",
+    "gw": false,
     "ISO-639-3": "kaj",
-    "ln": "Jju",
-    "ang": "Jju",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2702,
     "lr": "Africa",
+    "lc": "kaj",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kache",
         "Kaje",
         "Kajji"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Jju",
+    "gwcode": "en",
+    "ln": "Jju"
 }

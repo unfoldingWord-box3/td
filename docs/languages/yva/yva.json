@@ -1,11 +1,14 @@
 {
-    "pk": 7312,
-    "lc": "yva",
+    "gw": false,
     "ISO-639-3": "yva",
-    "ln": "Yawa",
-    "ang": "Yawa",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 7312,
     "lr": "Asia",
+    "lc": "yva",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Mantembu",
         "Mora",
@@ -16,10 +19,7 @@
         "Yawa Unat",
         "Central Yawa (Mora)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Yawa",
+    "gwcode": "id",
+    "ln": "Yawa"
 }

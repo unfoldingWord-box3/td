@@ -1,18 +1,18 @@
 {
-    "pk": 4290,
-    "lc": "nac",
+    "gw": false,
     "ISO-639-3": "nac",
-    "ln": "Narak",
-    "ang": "Narak",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4290,
     "lr": "Pacific",
-    "alt": [
-        "Ganja"
-    ],
+    "lc": "nac",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Ganja"
+    ],
+    "ang": "Narak",
+    "gwcode": "tpi",
+    "ln": "Narak"
 }

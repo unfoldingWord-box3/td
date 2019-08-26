@@ -1,11 +1,14 @@
 {
-    "pk": 6813,
-    "lc": "wro",
+    "gw": false,
     "ISO-639-3": "wro",
-    "ln": "Worrorra",
-    "ang": "Worrorra",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6813,
     "lr": "Pacific",
+    "lc": "wro",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Maialnga",
         "Ong Komi",
@@ -17,10 +20,7 @@
         "Wurora",
         "Yangibaia"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Worrorra",
+    "gwcode": "en",
+    "ln": "Worrorra"
 }

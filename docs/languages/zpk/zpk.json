@@ -1,19 +1,19 @@
 {
-    "pk": 7447,
-    "lc": "zpk",
+    "gw": false,
     "ISO-639-3": "zpk",
-    "ln": "Tlacolulita Zapotec",
-    "ang": "Zapotec, Tlacolulita",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7447,
     "lr": "Americas",
+    "lc": "zpk",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Southeastern Yautepec Zapotec",
         "Zapoteco de Asunci\u00f3n Tlacolulita"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Tlacolulita",
+    "gwcode": "es-419",
+    "ln": "Tlacolulita Zapotec"
 }

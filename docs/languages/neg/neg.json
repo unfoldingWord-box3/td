@@ -1,11 +1,14 @@
 {
-    "pk": 4385,
-    "lc": "neg",
+    "gw": false,
     "ISO-639-3": "neg",
-    "ln": "\u041d\u0435\u0433\u0438\u0434\u0430\u043b\u044c\u0441\u043a\u0438\u0439",
-    "ang": "Negidal",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 4385,
     "lr": "Europe",
+    "lc": "neg",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "El'kan Beye",
         "Elkembey",
@@ -13,10 +16,7 @@
         "Neghidal",
         "Negidaly"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Negidal",
+    "gwcode": "ru",
+    "ln": "\u041d\u0435\u0433\u0438\u0434\u0430\u043b\u044c\u0441\u043a\u0438\u0439"
 }

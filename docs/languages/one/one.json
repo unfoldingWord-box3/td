@@ -1,17 +1,17 @@
 {
-    "pk": 4838,
-    "lc": "one",
+    "gw": false,
     "ISO-639-3": "one",
-    "ln": "Oneida",
-    "ang": "Oneida",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 4838,
     "lr": "Americas",
-    "alt": [],
+    "lc": "one",
     "cc": [
         "US",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [],
+    "ang": "Oneida",
+    "gwcode": "en",
+    "ln": "Oneida"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 4984,
-    "lc": "peg",
+    "gw": false,
     "ISO-639-3": "peg",
-    "ln": "Pengo",
-    "ang": "Pengo",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4984,
     "lr": "Asia",
+    "lc": "peg",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Hengo",
         "Pengu"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "or"
+    "ang": "Pengo",
+    "gwcode": "or",
+    "ln": "Pengo"
 }

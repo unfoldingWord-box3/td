@@ -1,20 +1,20 @@
 {
-    "pk": 138,
-    "lc": "agr",
+    "gw": false,
     "ISO-639-3": "agr",
-    "ln": "Aguaruna",
-    "ang": "Aguaruna",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 138,
     "lr": "Americas",
+    "lc": "agr",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Aguaj\u00fan",
         "Ahuaj\u00fan",
         "Awaj\u00fan"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Aguaruna",
+    "gwcode": "es-419",
+    "ln": "Aguaruna"
 }

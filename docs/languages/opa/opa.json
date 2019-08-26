@@ -1,11 +1,14 @@
 {
-    "pk": 4857,
-    "lc": "opa",
+    "gw": false,
     "ISO-639-3": "opa",
-    "ln": "Okpamheri",
-    "ang": "Okpamheri",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4857,
     "lr": "Africa",
+    "lc": "opa",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Somorika",
         "Semolika",
@@ -13,10 +16,7 @@
         "Emhalhe (Emarle)",
         "Ibilo"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Okpamheri",
+    "gwcode": "en",
+    "ln": "Okpamheri"
 }

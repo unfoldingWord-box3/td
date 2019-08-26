@@ -1,19 +1,19 @@
 {
-    "pk": 77,
-    "lc": "adh",
+    "gw": false,
     "ISO-639-3": "adh",
-    "ln": "Adhola",
-    "ang": "Adhola",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 77,
     "lr": "Africa",
-    "alt": [
-        "Dhopadhola"
-    ],
+    "lc": "adh",
     "cc": [
         "KE",
         "UG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Dhopadhola"
+    ],
+    "ang": "Adhola",
+    "gwcode": "en",
+    "ln": "Adhola"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 5537,
-    "lc": "sdp",
+    "gw": false,
     "ISO-639-3": "sdp",
-    "ln": "Sherdukpen",
-    "ang": "Sherdukpen",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5537,
     "lr": "Asia",
-    "alt": [
-        "Ngnok"
-    ],
+    "lc": "sdp",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Ngnok"
+    ],
+    "ang": "Sherdukpen",
+    "gwcode": "en",
+    "ln": "Sherdukpen"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 1159,
-    "lc": "ccp",
+    "gw": false,
     "ISO-639-3": "ccp",
-    "ln": "Chakma",
-    "ang": "Chakma",
     "hc": "BD",
+    "ld": "ltr",
+    "pk": 1159,
     "lr": "Asia",
+    "lc": "ccp",
+    "cc": [
+        "BD",
+        "IN"
+    ],
     "alt": [
         "Sakma",
         "Sangma",
@@ -14,11 +18,7 @@
         "Tsakma",
         "Daingnet"
     ],
-    "cc": [
-        "BD",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "ang": "Chakma",
+    "gwcode": "bn",
+    "ln": "Chakma"
 }

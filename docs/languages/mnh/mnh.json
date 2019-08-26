@@ -1,18 +1,18 @@
 {
-    "pk": 3982,
-    "lc": "mnh",
+    "gw": false,
     "ISO-639-3": "mnh",
-    "ln": "Mono (Democratic Republic of Congo)",
-    "ang": "Mono",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3982,
     "lr": "Africa",
-    "alt": [
-        "Amono"
-    ],
+    "lc": "mnh",
     "cc": [
         "CD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Amono"
+    ],
+    "ang": "Mono",
+    "gwcode": "fr",
+    "ln": "Mono (Democratic Republic of Congo)"
 }

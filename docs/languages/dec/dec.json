@@ -1,11 +1,14 @@
 {
-    "pk": 1474,
-    "lc": "dec",
+    "gw": false,
     "ISO-639-3": "dec",
-    "ln": "Dagik",
-    "ang": "Dagik",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 1474,
     "lr": "Africa",
+    "lc": "dec",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Dagig",
         "Masakin",
@@ -16,10 +19,7 @@
         "Adobu",
         "Arreme"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "apd"
+    "ang": "Dagik",
+    "gwcode": "UNKNOWN",
+    "ln": "Dagik"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 4337,
-    "lc": "ncg",
+    "gw": false,
     "ISO-639-3": "ncg",
-    "ln": "Nisga'a",
-    "ang": "Nisga\u2019a",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 4337,
     "lr": "Americas",
+    "lc": "ncg",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Nass",
         "Nisgha",
@@ -13,10 +16,7 @@
         "Nisk'a",
         "Nisqa'a"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nisga\u2019a",
+    "gwcode": "en",
+    "ln": "Nisga'a"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 2202,
-    "lc": "gwx",
+    "gw": false,
     "ISO-639-3": "gwx",
-    "ln": "Gua",
-    "ang": "Gua",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 2202,
     "lr": "Africa",
+    "lc": "gwx",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Anum-Boso",
         "Guan",
         "Gwa",
         "Anu (Anum)"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gua",
+    "gwcode": "en",
+    "ln": "Gua"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 5939,
-    "lc": "syb",
+    "gw": false,
     "ISO-639-3": "syb",
-    "ln": "Central Subanen",
-    "ang": "Subanen, Central",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5939,
     "lr": "Asia",
+    "lc": "syb",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Sindangan Subanun",
         "Eastern Kolibugan (Eastern Kalibugan)"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Subanen, Central",
+    "gwcode": "ceb",
+    "ln": "Central Subanen"
 }

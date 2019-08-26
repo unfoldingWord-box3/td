@@ -1,20 +1,20 @@
 {
-    "pk": 1057,
-    "lc": "bxq",
+    "gw": false,
     "ISO-639-3": "bxq",
-    "ln": "Beele",
-    "ang": "Beele",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1057,
     "lr": "Africa",
+    "lc": "bxq",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "\u00c0b\u00e9\u00e9l\u00e9",
         "Bele",
         "Bellawa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Beele",
+    "gwcode": "en",
+    "ln": "Beele"
 }

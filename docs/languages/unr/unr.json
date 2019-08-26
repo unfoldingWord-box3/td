@@ -1,11 +1,14 @@
 {
-    "pk": 6533,
-    "lc": "unr",
+    "gw": false,
     "ISO-639-3": "unr",
-    "ln": "Mundari",
-    "ang": "Mundari",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6533,
     "lr": "Asia",
+    "lc": "unr",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Colh",
         "Horo",
@@ -21,10 +24,7 @@
         "Bhumij Thar",
         "Bhumij (Bhumij Munda)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "ang": "Mundari",
+    "gwcode": "bn",
+    "ln": "Mundari"
 }

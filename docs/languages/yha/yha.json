@@ -1,21 +1,21 @@
 {
-    "pk": 7176,
-    "lc": "yha",
+    "gw": false,
     "ISO-639-3": "yha",
-    "ln": "\u5df4\u54c8\u8bed",
-    "ang": "Buyang, Baha",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7176,
     "lr": "Asia",
+    "lc": "yha",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Buyang",
         "Buyang Zhuang",
         "Guangnan Buyang",
         "Western Buyang"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Buyang, Baha",
+    "gwcode": "zh",
+    "ln": "\u5df4\u54c8\u8bed"
 }

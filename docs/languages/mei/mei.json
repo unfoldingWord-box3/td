@@ -1,11 +1,14 @@
 {
-    "pk": 3760,
-    "lc": "mei",
+    "gw": false,
     "ISO-639-3": "mei",
-    "ln": "Midob",
-    "ang": "Midob",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 3760,
     "lr": "Africa",
+    "lc": "mei",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Meidob",
         "Midobi",
@@ -15,10 +18,7 @@
         "Shelkota (Shalkota)",
         "Urrti (Uurti)"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Midob",
+    "gwcode": "ar",
+    "ln": "Midob"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 213,
-    "lc": "ald",
+    "gw": false,
     "ISO-639-3": "ald",
-    "ln": "Alladian",
-    "ang": "Alladian",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 213,
     "lr": "Africa",
+    "lc": "ald",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Alladyan",
         "Allagia",
         "Allagian"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Alladian",
+    "gwcode": "fr",
+    "ln": "Alladian"
 }

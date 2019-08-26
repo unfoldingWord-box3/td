@@ -1,18 +1,18 @@
 {
-    "pk": 4726,
-    "lc": "nyb",
+    "gw": false,
     "ISO-639-3": "nyb",
-    "ln": "Nyangbo",
-    "ang": "Nyangbo",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 4726,
     "lr": "Africa",
-    "alt": [
-        "Tutrugbu"
-    ],
+    "lc": "nyb",
     "cc": [
         "GH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Tutrugbu"
+    ],
+    "ang": "Nyangbo",
+    "gwcode": "en",
+    "ln": "Nyangbo"
 }

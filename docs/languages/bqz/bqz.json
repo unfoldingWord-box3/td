@@ -1,11 +1,14 @@
 {
-    "pk": 898,
-    "lc": "bqz",
+    "gw": false,
     "ISO-639-3": "bqz",
-    "ln": "Bakaka",
-    "ang": "Bakaka",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 898,
     "lr": "Africa",
+    "lc": "bqz",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Central Mbo",
         "Miamilo",
@@ -22,10 +25,7 @@
         "Mwahet",
         "Ihobe Mboong"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bakaka",
+    "gwcode": "fr",
+    "ln": "Bakaka"
 }

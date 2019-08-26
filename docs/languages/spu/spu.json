@@ -1,18 +1,18 @@
 {
-    "pk": 5787,
-    "lc": "spu",
+    "gw": false,
     "ISO-639-3": "spu",
-    "ln": "Sapuan",
-    "ang": "Sapuan",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 5787,
     "lr": "Asia",
-    "alt": [
-        "Sapouan"
-    ],
+    "lc": "spu",
     "cc": [
         "LA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "alt": [
+        "Sapouan"
+    ],
+    "ang": "Sapuan",
+    "gwcode": "lo",
+    "ln": "Sapuan"
 }

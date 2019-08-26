@@ -1,21 +1,21 @@
 {
-    "pk": 5865,
-    "lc": "sto",
+    "gw": false,
     "ISO-639-3": "sto",
-    "ln": "Stoney",
-    "ang": "Stoney",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 5865,
     "lr": "Americas",
+    "lc": "sto",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Nakoda",
         "Stony",
         "Southern Stoney",
         "Northern Stoney"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Stoney",
+    "gwcode": "en",
+    "ln": "Stoney"
 }

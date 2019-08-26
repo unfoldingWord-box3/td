@@ -1,20 +1,20 @@
 {
-    "pk": 5145,
-    "lc": "ppl",
+    "gw": false,
     "ISO-639-3": "ppl",
-    "ln": "Pipil",
-    "ang": "Pipil",
     "hc": "SV",
+    "ld": "ltr",
+    "pk": 5145,
     "lr": "Americas",
+    "lc": "ppl",
+    "cc": [
+        "SV"
+    ],
     "alt": [
         "Nahuat",
         "Nawat",
         "Nicarao"
     ],
-    "cc": [
-        "SV"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Pipil",
+    "gwcode": "es-419",
+    "ln": "Pipil"
 }

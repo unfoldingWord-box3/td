@@ -1,20 +1,20 @@
 {
-    "pk": 5097,
-    "lc": "pmt",
+    "gw": false,
     "ISO-639-3": "pmt",
-    "ln": "Tuamotuan",
-    "ang": "Tuamotuan",
     "hc": "PF",
+    "ld": "ltr",
+    "pk": 5097,
     "lr": "Pacific",
+    "lc": "pmt",
+    "cc": [
+        "PF"
+    ],
     "alt": [
         "Pa'umotu",
         "Fangatau (Tupitimoake)",
         "Parata (Putahi)"
     ],
-    "cc": [
-        "PF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Tuamotuan",
+    "gwcode": "fr",
+    "ln": "Tuamotuan"
 }

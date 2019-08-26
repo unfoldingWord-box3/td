@@ -1,19 +1,19 @@
 {
-    "pk": 1351,
-    "lc": "csg",
+    "gw": false,
     "ISO-639-3": "csg",
-    "ln": "Chilean Sign Language",
-    "ang": "Chilean Sign Language",
     "hc": "CL",
+    "ld": "ltr",
+    "pk": 1351,
     "lr": "Americas",
+    "lc": "csg",
+    "cc": [
+        "CL"
+    ],
     "alt": [
         "Lengua de Se\u00f1as Chilena",
         "LSCh"
     ],
-    "cc": [
-        "CL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chilean Sign Language",
+    "gwcode": "es-419",
+    "ln": "Chilean Sign Language"
 }

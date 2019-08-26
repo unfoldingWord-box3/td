@@ -1,21 +1,21 @@
 {
-    "pk": 505,
-    "lc": "baw",
+    "gw": false,
     "ISO-639-3": "baw",
-    "ln": "Bambili-Bambui",
-    "ang": "Bambili-Bambui",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 505,
     "lr": "Africa",
+    "lc": "baw",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Mbogoe",
         "Bambili (Mbele)",
         "Bambui (Mbui)",
         "Mbili"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bambili-Bambui",
+    "gwcode": "fr",
+    "ln": "Bambili-Bambui"
 }

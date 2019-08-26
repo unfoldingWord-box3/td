@@ -1,20 +1,20 @@
 {
-    "pk": 2205,
-    "lc": "gyb",
+    "gw": false,
     "ISO-639-3": "gyb",
-    "ln": "Garus",
-    "ang": "Garus",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2205,
     "lr": "Pacific",
+    "lc": "gyb",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Ate",
         "Em",
         "Kurupi"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Garus",
+    "gwcode": "tpi",
+    "ln": "Garus"
 }

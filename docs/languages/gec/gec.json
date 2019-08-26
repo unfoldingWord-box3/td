@@ -1,20 +1,20 @@
 {
-    "pk": 1982,
-    "lc": "gec",
+    "gw": false,
     "ISO-639-3": "gec",
-    "ln": "Gboloo Grebo",
-    "ang": "Grebo, Gboloo",
     "hc": "LR",
+    "ld": "ltr",
+    "pk": 1982,
     "lr": "Africa",
+    "lc": "gec",
+    "cc": [
+        "LR"
+    ],
     "alt": [
         "Gblou Grebo",
         "Gboloo",
         "Tuobo"
     ],
-    "cc": [
-        "LR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Grebo, Gboloo",
+    "gwcode": "en",
+    "ln": "Gboloo Grebo"
 }

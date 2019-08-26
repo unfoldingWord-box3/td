@@ -1,18 +1,18 @@
 {
-    "pk": 1507,
-    "lc": "dhd",
+    "gw": false,
     "ISO-639-3": "dhd",
-    "ln": "Dhundari",
-    "ang": "Dhundari",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1507,
     "lr": "Asia",
-    "alt": [
-        "Dhundari-Marwari"
-    ],
+    "lc": "dhd",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "raj"
+    "alt": [
+        "Dhundari-Marwari"
+    ],
+    "ang": "Dhundari",
+    "gwcode": "UNKNOWN",
+    "ln": "Dhundari"
 }

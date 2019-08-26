@@ -1,18 +1,18 @@
 {
-    "pk": 6235,
-    "lc": "tns",
+    "gw": false,
     "ISO-639-3": "tns",
-    "ln": "Tenis",
-    "ang": "Tenis",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6235,
     "lr": "Pacific",
-    "alt": [
-        "Tench"
-    ],
+    "lc": "tns",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Tench"
+    ],
+    "ang": "Tenis",
+    "gwcode": "tpi",
+    "ln": "Tenis"
 }

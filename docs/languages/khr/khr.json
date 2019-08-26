@@ -1,11 +1,15 @@
 {
-    "pk": 2873,
-    "lc": "khr",
+    "gw": false,
     "ISO-639-3": "khr",
-    "ln": "Kharia",
-    "ang": "Kharia",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2873,
     "lr": "Asia",
+    "lc": "khr",
+    "cc": [
+        "NP",
+        "IN"
+    ],
     "alt": [
         "Haria",
         "Khariya",
@@ -15,11 +19,7 @@
         "Dhelki Kharia",
         "Dudh Kharia"
     ],
-    "cc": [
-        "NP",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hne"
+    "ang": "Kharia",
+    "gwcode": "UNKNOWN",
+    "ln": "Kharia"
 }

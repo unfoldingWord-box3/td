@@ -1,20 +1,20 @@
 {
-    "pk": 3346,
-    "lc": "lam",
+    "gw": false,
     "ISO-639-3": "lam",
-    "ln": "Lamba",
-    "ang": "Lamba",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 3346,
     "lr": "Africa",
-    "alt": [
-        "Chilamba",
-        "Ichilamba"
-    ],
+    "lc": "lam",
     "cc": [
         "ZM",
         "CD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Chilamba",
+        "Ichilamba"
+    ],
+    "ang": "Lamba",
+    "gwcode": "en",
+    "ln": "Lamba"
 }

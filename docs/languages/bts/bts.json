@@ -1,19 +1,19 @@
 {
-    "pk": 962,
-    "lc": "bts",
+    "gw": false,
     "ISO-639-3": "bts",
-    "ln": "Batak Simalungun",
-    "ang": "Batak Simalungun",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 962,
     "lr": "Asia",
+    "lc": "bts",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Simelungan",
         "Timur"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Batak Simalungun",
+    "gwcode": "id",
+    "ln": "Batak Simalungun"
 }

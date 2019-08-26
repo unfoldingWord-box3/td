@@ -1,21 +1,21 @@
 {
-    "pk": 3624,
-    "lc": "lum",
+    "gw": false,
     "ISO-639-3": "lum",
-    "ln": "Luimbi",
-    "ang": "Luimbi",
     "hc": "AO",
+    "ld": "ltr",
+    "pk": 3624,
     "lr": "Africa",
+    "lc": "lum",
+    "cc": [
+        "AO"
+    ],
     "alt": [
         "Chiluimbi",
         "Luimbe",
         "Lwimbe",
         "Lwimbi"
     ],
-    "cc": [
-        "AO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Luimbi",
+    "gwcode": "pt",
+    "ln": "Luimbi"
 }

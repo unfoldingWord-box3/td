@@ -1,19 +1,19 @@
 {
-    "pk": 3645,
-    "lc": "lwh",
+    "gw": false,
     "ISO-639-3": "lwh",
-    "ln": "White Lachi",
-    "ang": "Lachi, White",
     "hc": "VN",
+    "ld": "ltr",
+    "pk": 3645,
     "lr": "Asia",
+    "lc": "lwh",
+    "cc": [
+        "VN"
+    ],
     "alt": [
         "Lipup\u00f5",
         "White Lachi"
     ],
-    "cc": [
-        "VN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "vi"
+    "ang": "Lachi, White",
+    "gwcode": "vi",
+    "ln": "White Lachi"
 }

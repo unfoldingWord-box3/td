@@ -1,11 +1,15 @@
 {
-    "pk": 4912,
-    "lc": "oym",
+    "gw": false,
     "ISO-639-3": "oym",
-    "ln": "Wayampi",
-    "ang": "Wayampi",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 4912,
     "lr": "Americas",
+    "lc": "oym",
+    "cc": [
+        "BR",
+        "GF"
+    ],
     "alt": [
         "Guaiapi",
         "Guayapi",
@@ -29,11 +33,7 @@
         "Jari",
         "Oiyapoque"
     ],
-    "cc": [
-        "BR",
-        "GF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Wayampi",
+    "gwcode": "pt",
+    "ln": "Wayampi"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 812,
-    "lc": "bng",
+    "gw": false,
     "ISO-639-3": "bng",
-    "ln": "Benga",
-    "ang": "Benga",
     "hc": "GQ",
+    "ld": "ltr",
+    "pk": 812,
     "lr": "Africa",
-    "alt": [
-        "Boumba",
-        "Ndowe"
-    ],
+    "lc": "bng",
     "cc": [
         "GQ",
         "GA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es"
+    "alt": [
+        "Boumba",
+        "Ndowe"
+    ],
+    "ang": "Benga",
+    "gwcode": "es",
+    "ln": "Benga"
 }

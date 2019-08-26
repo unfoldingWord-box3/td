@@ -1,18 +1,18 @@
 {
-    "pk": 2260,
-    "lc": "hgw",
+    "gw": false,
     "ISO-639-3": "hgw",
-    "ln": "Haigwai",
-    "ang": "Haigwai",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2260,
     "lr": "Pacific",
-    "alt": [
-        "Garaghwaghi"
-    ],
+    "lc": "hgw",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Garaghwaghi"
+    ],
+    "ang": "Haigwai",
+    "gwcode": "tpi",
+    "ln": "Haigwai"
 }

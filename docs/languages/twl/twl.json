@@ -1,20 +1,20 @@
 {
-    "pk": 6412,
-    "lc": "twl",
+    "gw": false,
     "ISO-639-3": "twl",
-    "ln": "Tawara",
-    "ang": "Tawara",
     "hc": "MZ",
+    "ld": "ltr",
+    "pk": 6412,
     "lr": "Africa",
+    "lc": "twl",
+    "cc": [
+        "MZ"
+    ],
     "alt": [
         "Tawala",
         "Tawara-Chioco",
         "Tawara-Daque"
     ],
-    "cc": [
-        "MZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Tawara",
+    "gwcode": "pt",
+    "ln": "Tawara"
 }

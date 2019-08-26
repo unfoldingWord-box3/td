@@ -1,19 +1,19 @@
 {
-    "pk": 5978,
-    "lc": "tau",
+    "gw": false,
     "ISO-639-3": "tau",
-    "ln": "Upper Tanana",
-    "ang": "Tanana, Upper",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 5978,
     "lr": "Americas",
-    "alt": [
-        "Nabesna"
-    ],
+    "lc": "tau",
     "cc": [
         "US",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Nabesna"
+    ],
+    "ang": "Tanana, Upper",
+    "gwcode": "en",
+    "ln": "Upper Tanana"
 }

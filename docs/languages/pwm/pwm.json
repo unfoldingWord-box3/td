@@ -1,11 +1,15 @@
 {
-    "pk": 5233,
-    "lc": "pwm",
+    "gw": false,
     "ISO-639-3": "pwm",
-    "ln": "Molbog",
-    "ang": "Molbog",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 5233,
     "lr": "Asia",
+    "lc": "pwm",
+    "cc": [
+        "MY",
+        "PH"
+    ],
     "alt": [
         "Balabak",
         "Molbog Palawan",
@@ -13,11 +17,7 @@
         "Banggi Island",
         "Southern Palawan"
     ],
-    "cc": [
-        "MY",
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Molbog",
+    "gwcode": "en",
+    "ln": "Molbog"
 }

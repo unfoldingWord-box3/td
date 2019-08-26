@@ -1,20 +1,20 @@
 {
-    "pk": 607,
-    "lc": "bey",
+    "gw": false,
     "ISO-639-3": "bey",
-    "ln": "Beli (Papua New Guinea)",
-    "ang": "Beli",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 607,
     "lr": "Pacific",
+    "lc": "bey",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Akuwagel",
         "Makarim",
         "Mukili"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Beli",
+    "gwcode": "tpi",
+    "ln": "Beli (Papua New Guinea)"
 }

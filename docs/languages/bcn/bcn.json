@@ -1,21 +1,21 @@
 {
-    "pk": 547,
-    "lc": "bcn",
+    "gw": false,
     "ISO-639-3": "bcn",
-    "ln": "Bali (Nigeria)",
-    "ang": "Bali",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 547,
     "lr": "Africa",
+    "lc": "bcn",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bibaali",
         "Ekpali",
         "Ibaali",
         "Maya"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bali",
+    "gwcode": "en",
+    "ln": "Bali (Nigeria)"
 }

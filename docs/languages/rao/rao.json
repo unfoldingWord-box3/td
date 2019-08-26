@@ -1,19 +1,19 @@
 {
-    "pk": 5318,
-    "lc": "rao",
+    "gw": false,
     "ISO-639-3": "rao",
-    "ln": "Rao",
-    "ang": "Rao",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5318,
     "lr": "Pacific",
+    "lc": "rao",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Annaberg",
         "Rao Breri"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Rao",
+    "gwcode": "tpi",
+    "ln": "Rao"
 }

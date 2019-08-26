@@ -1,19 +1,19 @@
 {
-    "pk": 6241,
-    "lc": "tny",
+    "gw": false,
     "ISO-639-3": "tny",
-    "ln": "Tongwe",
-    "ang": "Tongwe",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 6241,
     "lr": "Africa",
+    "lc": "tny",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kitongwe",
         "Sitongwe"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Tongwe",
+    "gwcode": "sw",
+    "ln": "Tongwe"
 }

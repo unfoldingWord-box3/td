@@ -1,21 +1,21 @@
 {
-    "pk": 5248,
-    "lc": "qua",
+    "gw": false,
     "ISO-639-3": "qua",
-    "ln": "Quapaw",
-    "ang": "Quapaw",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 5248,
     "lr": "Americas",
+    "lc": "qua",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Alkansea",
         "Arkansas",
         "Capa",
         "Ogaxpa"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Quapaw",
+    "gwcode": "en",
+    "ln": "Quapaw"
 }

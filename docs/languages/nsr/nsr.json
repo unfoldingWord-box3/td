@@ -1,18 +1,18 @@
 {
-    "pk": 4653,
-    "lc": "nsr",
+    "gw": false,
     "ISO-639-3": "nsr",
-    "ln": "Maritime Sign Language",
-    "ang": "Maritime Sign Language",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 4653,
     "lr": "Americas",
-    "alt": [
-        "Nova Scotian Sign Language"
-    ],
+    "lc": "nsr",
     "cc": [
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Nova Scotian Sign Language"
+    ],
+    "ang": "Maritime Sign Language",
+    "gwcode": "en",
+    "ln": "Maritime Sign Language"
 }

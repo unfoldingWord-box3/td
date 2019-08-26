@@ -1,11 +1,14 @@
 {
-    "pk": 5579,
-    "lc": "sgi",
+    "gw": false,
     "ISO-639-3": "sgi",
-    "ln": "Suga",
-    "ang": "Suga",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 5579,
     "lr": "Africa",
+    "lc": "sgi",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Galim",
         "Ssuga",
@@ -13,10 +16,7 @@
         "Njemnjem",
         "Nyamnyam"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Suga",
+    "gwcode": "fr",
+    "ln": "Suga"
 }

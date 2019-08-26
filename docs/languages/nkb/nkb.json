@@ -1,20 +1,20 @@
 {
-    "pk": 4495,
-    "lc": "nkb",
+    "gw": false,
     "ISO-639-3": "nkb",
-    "ln": "Khoibu Naga",
-    "ang": "Naga, Khoibu",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4495,
     "lr": "Asia",
+    "lc": "nkb",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Khoibu",
         "Khoibu Maring",
         "Khoibu Maring Naga"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Khoibu",
+    "gwcode": "en",
+    "ln": "Khoibu Naga"
 }

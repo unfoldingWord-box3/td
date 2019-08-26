@@ -1,11 +1,14 @@
 {
-    "pk": 1229,
-    "lc": "cjs",
+    "gw": false,
     "ISO-639-3": "cjs",
-    "ln": "\u0428\u043e\u0440\u0441\u043a\u0438\u0439",
-    "ang": "Shor",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 1229,
     "lr": "Europe",
+    "lc": "cjs",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Aba",
         "Kondoma Tatar",
@@ -15,10 +18,7 @@
         "Tom-Kuznets Tatar",
         "Mrassa (Mrasu)"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Shor",
+    "gwcode": "ru",
+    "ln": "\u0428\u043e\u0440\u0441\u043a\u0438\u0439"
 }

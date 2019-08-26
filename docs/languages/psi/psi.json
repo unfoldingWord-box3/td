@@ -1,18 +1,18 @@
 {
-    "pk": 5184,
-    "lc": "psi",
+    "gw": false,
     "ISO-639-3": "psi",
-    "ln": "Southeast Pashai",
-    "ang": "Pashai, Southeast",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 5184,
     "lr": "Asia",
-    "alt": [
-        "Pashai"
-    ],
+    "lc": "psi",
     "cc": [
         "AF"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "alt": [
+        "Pashai"
+    ],
+    "ang": "Pashai, Southeast",
+    "gwcode": "ps",
+    "ln": "Southeast Pashai"
 }

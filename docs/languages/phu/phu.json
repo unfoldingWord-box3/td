@@ -1,20 +1,20 @@
 {
-    "pk": 5022,
-    "lc": "phu",
+    "gw": false,
     "ISO-639-3": "phu",
-    "ln": "Phuan",
-    "ang": "Phuan",
     "hc": "TH",
+    "ld": "ltr",
+    "pk": 5022,
     "lr": "Asia",
-    "alt": [
-        "Lao Phuan",
-        "Phu Un"
-    ],
+    "lc": "phu",
     "cc": [
         "LA",
         "TH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "th"
+    "alt": [
+        "Lao Phuan",
+        "Phu Un"
+    ],
+    "ang": "Phuan",
+    "gwcode": "th",
+    "ln": "Phuan"
 }

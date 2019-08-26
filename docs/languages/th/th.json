@@ -1,22 +1,11 @@
 {
-    "pk": 6100,
-    "lc": "th",
+    "gw": true,
     "ISO-639-3": "tha",
-    "ln": "\u0e44\u0e17\u0e22",
-    "ang": "Thai",
     "hc": "TH",
+    "ld": "ltr",
+    "pk": 6100,
     "lr": "Asia",
-    "alt": [
-        "Central Tai",
-        "Siamese",
-        "Standard Thai",
-        "Thaiklang",
-        "Thaikorat",
-        "Thai Norkor Raja (Siam Nokor)",
-        "Thai Koh Kong",
-        "Khorat Thai (Korat)",
-        "Siam Trang"
-    ],
+    "lc": "th",
     "cc": [
         "FR",
         "DE",
@@ -29,7 +18,18 @@
         "SG",
         "MM"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": "th"
+    "alt": [
+        "Central Tai",
+        "Siamese",
+        "Standard Thai",
+        "Thaiklang",
+        "Thaikorat",
+        "Thai Norkor Raja (Siam Nokor)",
+        "Thai Koh Kong",
+        "Khorat Thai (Korat)",
+        "Siam Trang"
+    ],
+    "ang": "Thai",
+    "gwcode": "th",
+    "ln": "\u0e44\u0e17\u0e22"
 }

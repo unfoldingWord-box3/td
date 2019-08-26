@@ -1,20 +1,20 @@
 {
-    "pk": 5003,
-    "lc": "pgg",
+    "gw": false,
     "ISO-639-3": "pgg",
-    "ln": "Pangwali",
-    "ang": "Pangwali",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5003,
     "lr": "Asia",
+    "lc": "pgg",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Pahari",
         "Pangi",
         "Pangwali Pahari"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ml"
+    "ang": "Pangwali",
+    "gwcode": "ml",
+    "ln": "Pangwali"
 }

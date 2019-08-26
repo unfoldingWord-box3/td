@@ -1,18 +1,18 @@
 {
-    "pk": 305,
-    "lc": "apf",
+    "gw": false,
     "ISO-639-3": "apf",
-    "ln": "Pahanan Agta",
-    "ang": "Agta, Pahanan",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 305,
     "lr": "Asia",
-    "alt": [
-        "Palanan Agta"
-    ],
+    "lc": "apf",
     "cc": [
         "PH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "alt": [
+        "Palanan Agta"
+    ],
+    "ang": "Agta, Pahanan",
+    "gwcode": "ilo",
+    "ln": "Pahanan Agta"
 }

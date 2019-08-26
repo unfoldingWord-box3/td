@@ -1,20 +1,20 @@
 {
-    "pk": 4227,
-    "lc": "mxn",
+    "gw": false,
     "ISO-639-3": "mxn",
-    "ln": "Moi (Indonesia)",
-    "ang": "Moi",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4227,
     "lr": "Asia",
+    "lc": "mxn",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Mekwei",
         "Mooi",
         "Mosana"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Moi",
+    "gwcode": "id",
+    "ln": "Moi (Indonesia)"
 }

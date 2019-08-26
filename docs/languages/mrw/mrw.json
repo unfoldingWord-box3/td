@@ -1,19 +1,19 @@
 {
-    "pk": 4092,
-    "lc": "mrw",
+    "gw": false,
     "ISO-639-3": "mrw",
-    "ln": "Maranao",
-    "ang": "Maranao",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 4092,
     "lr": "Asia",
+    "lc": "mrw",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Maranaw",
         "Ranao"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Maranao",
+    "gwcode": "en",
+    "ln": "Maranao"
 }

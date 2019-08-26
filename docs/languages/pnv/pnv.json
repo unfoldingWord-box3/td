@@ -1,19 +1,19 @@
 {
-    "pk": 5118,
-    "lc": "pnv",
+    "gw": false,
     "ISO-639-3": "pnv",
-    "ln": "Pinigura",
-    "ang": "Pinigura",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 5118,
     "lr": "Pacific",
+    "lc": "pnv",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Binigura",
         "Pinikura"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Pinigura",
+    "gwcode": "en",
+    "ln": "Pinigura"
 }

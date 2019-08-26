@@ -1,11 +1,14 @@
 {
-    "pk": 656,
-    "lc": "bgw",
+    "gw": false,
     "ISO-639-3": "bgw",
-    "ln": "Bhatri",
-    "ang": "Bhatri",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 656,
     "lr": "Asia",
+    "lc": "bgw",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Basturia",
         "Bhattra",
@@ -13,10 +16,7 @@
         "Bhottada",
         "Bhottara"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Bhatri",
+    "gwcode": "hi",
+    "ln": "Bhatri"
 }

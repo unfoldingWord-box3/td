@@ -1,11 +1,14 @@
 {
-    "pk": 6281,
-    "lc": "tpu",
+    "gw": false,
     "ISO-639-3": "tpu",
-    "ln": "Tampuan",
-    "ang": "Tampuan",
     "hc": "KH",
+    "ld": "ltr",
+    "pk": 6281,
     "lr": "Asia",
+    "lc": "tpu",
+    "cc": [
+        "KH"
+    ],
     "alt": [
         "Campuon",
         "Kha Tampuon",
@@ -15,10 +18,7 @@
         "Tampuen",
         "Tampuon"
     ],
-    "cc": [
-        "KH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "km"
+    "ang": "Tampuan",
+    "gwcode": "km",
+    "ln": "Tampuan"
 }

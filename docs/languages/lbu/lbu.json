@@ -1,19 +1,19 @@
 {
-    "pk": 3373,
-    "lc": "lbu",
+    "gw": false,
     "ISO-639-3": "lbu",
-    "ln": "Labu",
-    "ang": "Labu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3373,
     "lr": "Pacific",
+    "lc": "lbu",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Hapa",
         "Labu'"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Labu",
+    "gwcode": "tpi",
+    "ln": "Labu"
 }

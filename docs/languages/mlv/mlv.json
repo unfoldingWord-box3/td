@@ -1,20 +1,20 @@
 {
-    "pk": 3945,
-    "lc": "mlv",
+    "gw": false,
     "ISO-639-3": "mlv",
-    "ln": "Motlav",
-    "ang": "Mwotlap",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 3945,
     "lr": "Pacific",
+    "lc": "mlv",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Motalava",
         "Dagmel",
         "Valuwa"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mwotlap",
+    "gwcode": "fr",
+    "ln": "Motlav"
 }

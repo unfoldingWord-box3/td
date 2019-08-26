@@ -1,18 +1,18 @@
 {
-    "pk": 245,
-    "lc": "amm",
+    "gw": false,
     "ISO-639-3": "amm",
-    "ln": "Ama (Papua New Guinea)",
-    "ang": "Ama",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 245,
     "lr": "Pacific",
-    "alt": [
-        "Sawiyanu"
-    ],
+    "lc": "amm",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Sawiyanu"
+    ],
+    "ang": "Ama",
+    "gwcode": "tpi",
+    "ln": "Ama (Papua New Guinea)"
 }

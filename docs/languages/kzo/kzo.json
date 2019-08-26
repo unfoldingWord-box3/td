@@ -1,19 +1,19 @@
 {
-    "pk": 3321,
-    "lc": "kzo",
+    "gw": false,
     "ISO-639-3": "kzo",
-    "ln": "Kaningi",
-    "ang": "Kaningi",
     "hc": "GA",
+    "ld": "ltr",
+    "pk": 3321,
     "lr": "Africa",
+    "lc": "kzo",
+    "cc": [
+        "GA"
+    ],
     "alt": [
         "Bakanike",
         "Lekaningi"
     ],
-    "cc": [
-        "GA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Kaningi",
+    "gwcode": "fr",
+    "ln": "Kaningi"
 }

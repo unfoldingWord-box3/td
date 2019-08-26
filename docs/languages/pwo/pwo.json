@@ -1,11 +1,14 @@
 {
-    "pk": 5235,
-    "lc": "pwo",
+    "gw": false,
     "ISO-639-3": "pwo",
-    "ln": "Pwo Western Karen",
-    "ang": "Karen, Pwo Western",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 5235,
     "lr": "Asia",
+    "lc": "pwo",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Bassein Pwo Karen",
         "Delta Pwo Karen",
@@ -16,10 +19,7 @@
         "Pho",
         "Talaing Karen"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Karen, Pwo Western",
+    "gwcode": "my",
+    "ln": "Pwo Western Karen"
 }

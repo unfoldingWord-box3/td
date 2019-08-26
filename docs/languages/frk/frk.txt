@@ -1,0 +1,22 @@
+.. _frk:
+
+Frankish
+========
+
+This language is spoken in the following countries:
+
+* DE: Germany
+
+.. code-block:: yaml
+
+    ISO_639-3: frk
+    alternate_names: []
+    anglicanized_name: Frankish
+    country_codes:
+    - DE
+    gateway_language: UNKNOWN
+    lang_code: frk
+    lang_direction: ltr
+    lang_name: Frankish
+    lang_region: Europe
+    

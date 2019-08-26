@@ -1,20 +1,20 @@
 {
-    "pk": 685,
-    "lc": "bi",
+    "gw": true,
     "ISO-639-3": "bis",
-    "ln": "Bislama",
-    "ang": "Bislama",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 685,
     "lr": "Pacific",
-    "alt": [
-        "Bichelamar"
-    ],
+    "lc": "bi",
     "cc": [
         "NC",
         "SB",
         "VU"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [
+        "Bichelamar"
+    ],
+    "ang": "Bislama",
+    "gwcode": "UNKNOWN",
+    "ln": "Bislama"
 }

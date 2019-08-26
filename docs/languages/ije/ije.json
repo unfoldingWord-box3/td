@@ -1,20 +1,20 @@
 {
-    "pk": 2453,
-    "lc": "ije",
+    "gw": false,
     "ISO-639-3": "ije",
-    "ln": "Biseni",
-    "ang": "Biseni",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2453,
     "lr": "Africa",
+    "lc": "ije",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Amegi",
         "Buseni",
         "Northeast Central Ijo"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Biseni",
+    "gwcode": "en",
+    "ln": "Biseni"
 }

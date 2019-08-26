@@ -1,11 +1,14 @@
 {
-    "pk": 2674,
-    "lc": "juk",
+    "gw": false,
     "ISO-639-3": "juk",
-    "ln": "Wapan",
-    "ang": "Wapan",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2674,
     "lr": "Africa",
+    "lc": "juk",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Jinkum",
         "Jukon",
@@ -17,10 +20,7 @@
         "Wakari",
         "Wap\u00e3"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Wapan",
+    "gwcode": "en",
+    "ln": "Wapan"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3518,
-    "lc": "lmg",
+    "gw": false,
     "ISO-639-3": "lmg",
-    "ln": "Lamogai",
-    "ang": "Lamogai",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3518,
     "lr": "Pacific",
+    "lc": "lmg",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Akiuru",
         "Mulakaino",
@@ -13,10 +16,7 @@
         "Pulie-Rauto (Rauto)",
         "Roto"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Lamogai",
+    "gwcode": "tpi",
+    "ln": "Lamogai"
 }

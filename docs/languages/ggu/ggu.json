@@ -1,11 +1,14 @@
 {
-    "pk": 2007,
-    "lc": "ggu",
+    "gw": false,
     "ISO-639-3": "ggu",
-    "ln": "Gagu",
-    "ang": "Gban",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 2007,
     "lr": "Africa",
+    "lc": "ggu",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Gagu",
         "Kago",
@@ -13,10 +16,7 @@
         "Boka",
         "Touka"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Gban",
+    "gwcode": "fr",
+    "ln": "Gagu"
 }

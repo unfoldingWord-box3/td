@@ -1,20 +1,20 @@
 {
-    "pk": 7042,
-    "lc": "xsh",
+    "gw": false,
     "ISO-639-3": "xsh",
-    "ln": "Shamang",
-    "ang": "Shamang",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 7042,
     "lr": "Africa",
-    "alt": [
-        "Samang",
-        "Samban"
-    ],
+    "lc": "xsh",
     "cc": [
         "MY",
         "NG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Samang",
+        "Samban"
+    ],
+    "ang": "Shamang",
+    "gwcode": "en",
+    "ln": "Shamang"
 }

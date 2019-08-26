@@ -1,19 +1,19 @@
 {
-    "pk": 6816,
-    "lc": "wrs",
+    "gw": false,
     "ISO-639-3": "wrs",
-    "ln": "Waris",
-    "ang": "Waris",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6816,
     "lr": "Pacific",
-    "alt": [
-        "Walsa"
-    ],
+    "lc": "wrs",
     "cc": [
         "ID",
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Walsa"
+    ],
+    "ang": "Waris",
+    "gwcode": "tpi",
+    "ln": "Waris"
 }

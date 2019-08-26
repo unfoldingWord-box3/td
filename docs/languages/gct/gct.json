@@ -1,19 +1,19 @@
 {
-    "pk": 1958,
-    "lc": "gct",
+    "gw": false,
     "ISO-639-3": "gct",
-    "ln": "Colonia Tovar German",
-    "ang": "German, Colonia Tovar",
     "hc": "VE",
+    "ld": "ltr",
+    "pk": 1958,
     "lr": "Americas",
+    "lc": "gct",
+    "cc": [
+        "VE"
+    ],
     "alt": [
         "Alem\u00e1n Coloniero",
         "Patois"
     ],
-    "cc": [
-        "VE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "German, Colonia Tovar",
+    "gwcode": "es-419",
+    "ln": "Colonia Tovar German"
 }

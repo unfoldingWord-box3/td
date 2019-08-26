@@ -1,20 +1,20 @@
 {
-    "pk": 42,
-    "lc": "abp",
+    "gw": false,
     "ISO-639-3": "abp",
-    "ln": "Abellen Ayta",
-    "ang": "Ayta, Abellen",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 42,
     "lr": "Asia",
+    "lc": "abp",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Abenlen",
         "Aburlen Negrito",
         "Ayta Abellen Sambal"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ayta, Abellen",
+    "gwcode": "en",
+    "ln": "Abellen Ayta"
 }

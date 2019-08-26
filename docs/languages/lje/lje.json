@@ -1,21 +1,21 @@
 {
-    "pk": 3476,
-    "lc": "lje",
+    "gw": false,
     "ISO-639-3": "lje",
-    "ln": "Rampi",
-    "ang": "Rampi",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3476,
     "lr": "Asia",
+    "lc": "lje",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Ha'uwa",
         "Leboni",
         "Rampi-Leboni",
         "Rampi (Lambu)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Rampi",
+    "gwcode": "id",
+    "ln": "Rampi"
 }

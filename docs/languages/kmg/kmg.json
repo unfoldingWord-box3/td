@@ -1,21 +1,21 @@
 {
-    "pk": 2993,
-    "lc": "kmg",
+    "gw": false,
     "ISO-639-3": "kmg",
-    "ln": "K\u00e2te",
-    "ang": "K\u00e2te",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2993,
     "lr": "Pacific",
+    "lc": "kmg",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kai",
         "K\u00e2te Dong",
         "Magobineng (Bamota)",
         "Wamora (Wamola)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "K\u00e2te",
+    "gwcode": "tpi",
+    "ln": "K\u00e2te"
 }

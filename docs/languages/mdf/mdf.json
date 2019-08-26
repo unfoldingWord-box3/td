@@ -1,21 +1,21 @@
 {
-    "pk": 3733,
-    "lc": "mdf",
+    "gw": false,
     "ISO-639-3": "mdf",
-    "ln": "\u041c\u043e\u043a\u0448\u0430\u043d\u0441\u043a\u0438\u0439",
-    "ang": "Moksha",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 3733,
     "lr": "Europe",
+    "lc": "mdf",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Mokshan",
         "Mordoff",
         "Mordov",
         "Mordvin-Moksha"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Moksha",
+    "gwcode": "ru",
+    "ln": "\u041c\u043e\u043a\u0448\u0430\u043d\u0441\u043a\u0438\u0439"
 }

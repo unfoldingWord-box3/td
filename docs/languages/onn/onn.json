@@ -1,18 +1,18 @@
 {
-    "pk": 4843,
-    "lc": "onn",
+    "gw": false,
     "ISO-639-3": "onn",
-    "ln": "Onobasulu",
-    "ang": "Onobasulu",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4843,
     "lr": "Pacific",
-    "alt": [
-        "Onabasulu"
-    ],
+    "lc": "onn",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Onabasulu"
+    ],
+    "ang": "Onobasulu",
+    "gwcode": "tpi",
+    "ln": "Onobasulu"
 }

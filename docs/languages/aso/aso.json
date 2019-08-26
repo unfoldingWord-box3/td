@@ -1,19 +1,19 @@
 {
-    "pk": 369,
-    "lc": "aso",
+    "gw": false,
     "ISO-639-3": "aso",
-    "ln": "Dano",
-    "ang": "Dano",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 369,
     "lr": "Pacific",
+    "lc": "aso",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Asaro",
         "Upper Asaro"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Dano",
+    "gwcode": "tpi",
+    "ln": "Dano"
 }

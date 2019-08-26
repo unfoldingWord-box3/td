@@ -1,19 +1,19 @@
 {
-    "pk": 6205,
-    "lc": "tml",
+    "gw": false,
     "ISO-639-3": "tml",
-    "ln": "Tamnim Citak",
-    "ang": "Citak, Tamnim",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6205,
     "lr": "Asia",
+    "lc": "tml",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Asmat Darat",
         "Tamnim"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Citak, Tamnim",
+    "gwcode": "id",
+    "ln": "Tamnim Citak"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 7013,
-    "lc": "xpe",
+    "gw": false,
     "ISO-639-3": "xpe",
-    "ln": "Liberia Kpelle",
-    "ang": "Kpelle, Liberia",
     "hc": "LR",
+    "ld": "ltr",
+    "pk": 7013,
     "lr": "Africa",
+    "lc": "xpe",
+    "cc": [
+        "LR"
+    ],
     "alt": [
         "Gbese",
         "Kpele",
@@ -16,10 +19,7 @@
         "Boopolu",
         "Fuama"
     ],
-    "cc": [
-        "LR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kpelle, Liberia",
+    "gwcode": "en",
+    "ln": "Liberia Kpelle"
 }

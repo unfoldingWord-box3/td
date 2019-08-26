@@ -1,20 +1,20 @@
 {
-    "pk": 2376,
-    "lc": "hum",
+    "gw": false,
     "ISO-639-3": "hum",
-    "ln": "Hungana",
-    "ang": "Hungana",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 2376,
     "lr": "Africa",
+    "lc": "hum",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Huana",
         "Hungaan",
         "Hunganna"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Hungana",
+    "gwcode": "fr",
+    "ln": "Hungana"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 1265,
-    "lc": "cml",
+    "gw": false,
     "ISO-639-3": "cml",
-    "ln": "Campalagian",
-    "ang": "Campalagian",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1265,
     "lr": "Asia",
+    "lc": "cml",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Tallumpanuae",
         "Tasing",
         "Tjampalagian"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Campalagian",
+    "gwcode": "id",
+    "ln": "Campalagian"
 }

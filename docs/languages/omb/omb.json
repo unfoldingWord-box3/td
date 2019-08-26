@@ -1,11 +1,14 @@
 {
-    "pk": 4824,
-    "lc": "omb",
+    "gw": false,
     "ISO-639-3": "omb",
-    "ln": "East Ambae",
-    "ang": "Ambae, East",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 4824,
     "lr": "Pacific",
+    "lc": "omb",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Aoba",
         "Northeast Ambae",
@@ -17,10 +20,7 @@
         "Lombaha (Lobaha)",
         "Lolokaro (Lolokara)"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ambae, East",
+    "gwcode": "fr",
+    "ln": "East Ambae"
 }

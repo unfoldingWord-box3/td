@@ -1,11 +1,14 @@
 {
-    "pk": 6116,
-    "lc": "thu",
+    "gw": false,
     "ISO-639-3": "thu",
-    "ln": "Thuri",
-    "ang": "Thuri",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 6116,
     "lr": "Africa",
+    "lc": "thu",
+    "cc": [
+        "SS"
+    ],
     "alt": [
         "Dhe Thuri",
         "Jo Thuri",
@@ -20,10 +23,7 @@
         "Bodho (Dembo)",
         "Dhe Boodho"
     ],
-    "cc": [
-        "SS"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Thuri",
+    "gwcode": "ar",
+    "ln": "Thuri"
 }

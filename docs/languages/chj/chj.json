@@ -1,21 +1,21 @@
 {
-    "pk": 1195,
-    "lc": "chj",
+    "gw": false,
     "ISO-639-3": "chj",
-    "ln": "Ojitl\u00e1n Chinantec",
-    "ang": "Chinantec, Ojitl\u00e1n",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1195,
     "lr": "Americas",
+    "lc": "chj",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Chinantec, Comaltepec",
         "Chinanteco del Norte",
         "Chinantec",
         "Comaltepec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chinantec, Ojitl\u00e1n",
+    "gwcode": "es-419",
+    "ln": "Ojitl\u00e1n Chinantec"
 }

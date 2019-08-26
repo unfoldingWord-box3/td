@@ -1,18 +1,18 @@
 {
-    "pk": 2507,
-    "lc": "ire",
+    "gw": false,
     "ISO-639-3": "ire",
-    "ln": "Iresim",
-    "ang": "Yeresiam",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2507,
     "lr": "Asia",
-    "alt": [
-        "Beduba"
-    ],
+    "lc": "ire",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Beduba"
+    ],
+    "ang": "Yeresiam",
+    "gwcode": "id",
+    "ln": "Iresim"
 }

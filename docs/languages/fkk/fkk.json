@@ -1,11 +1,14 @@
 {
-    "pk": 1847,
-    "lc": "fkk",
+    "gw": false,
     "ISO-639-3": "fkk",
-    "ln": "Kirya-Konz\u0259l",
-    "ang": "Kirya-Konzel",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1847,
     "lr": "Africa",
+    "lc": "fkk",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Fali of Kiria",
         "Fali of Kiriya",
@@ -13,10 +16,7 @@
         "Fali of Mijilu",
         "Kirya"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kirya-Konzel",
+    "gwcode": "en",
+    "ln": "Kirya-Konz\u0259l"
 }

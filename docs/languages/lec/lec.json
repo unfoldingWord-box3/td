@@ -1,19 +1,19 @@
 {
-    "pk": 3404,
-    "lc": "lec",
+    "gw": false,
     "ISO-639-3": "lec",
-    "ln": "Leco",
-    "ang": "Leco",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 3404,
     "lr": "Americas",
+    "lc": "lec",
+    "cc": [
+        "BO"
+    ],
     "alt": [
         "Leko",
         "Rik'a"
     ],
-    "cc": [
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Leco",
+    "gwcode": "es-419",
+    "ln": "Leco"
 }

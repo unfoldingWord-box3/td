@@ -1,19 +1,19 @@
 {
-    "pk": 2639,
-    "lc": "jmb",
+    "gw": false,
     "ISO-639-3": "jmb",
-    "ln": "Zumbun",
-    "ang": "Zumbun",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2639,
     "lr": "Africa",
+    "lc": "jmb",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Jimbin",
         "Jimbinawa"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Zumbun",
+    "gwcode": "en",
+    "ln": "Zumbun"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 6490,
-    "lc": "uhn",
+    "gw": false,
     "ISO-639-3": "uhn",
-    "ln": "Damal",
-    "ang": "Damal",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6490,
     "lr": "Asia",
+    "lc": "uhn",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Amung Kal",
         "Amungme",
@@ -16,10 +19,7 @@
         "Uhunduni",
         "Amongme"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Damal",
+    "gwcode": "id",
+    "ln": "Damal"
 }

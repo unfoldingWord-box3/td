@@ -1,20 +1,20 @@
 {
-    "pk": 4132,
-    "lc": "mtl",
+    "gw": false,
     "ISO-639-3": "mtl",
-    "ln": "Montol",
-    "ang": "Montol",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4132,
     "lr": "Africa",
+    "lc": "mtl",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Baltap",
         "Montal",
         "Teel"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Montol",
+    "gwcode": "en",
+    "ln": "Montol"
 }

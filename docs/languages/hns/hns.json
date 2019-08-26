@@ -1,16 +1,11 @@
 {
-    "pk": 2322,
-    "lc": "hns",
+    "gw": false,
     "ISO-639-3": "hns",
-    "ln": "Caribbean Hindustani",
-    "ang": "Hindustani, Sarnami",
     "hc": "SR",
+    "ld": "ltr",
+    "pk": 2322,
     "lr": "Americas",
-    "alt": [
-        "Aili Gaili",
-        "Sarnami Hindi",
-        "Sarnami Hindustani (Aili Gaili)"
-    ],
+    "lc": "hns",
     "cc": [
         "TT",
         "GY",
@@ -18,7 +13,12 @@
         "SX",
         "SR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "nl"
+    "alt": [
+        "Aili Gaili",
+        "Sarnami Hindi",
+        "Sarnami Hindustani (Aili Gaili)"
+    ],
+    "ang": "Hindustani, Sarnami",
+    "gwcode": "UNKNOWN",
+    "ln": "Caribbean Hindustani"
 }

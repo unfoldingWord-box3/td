@@ -1,19 +1,19 @@
 {
-    "pk": 1771,
-    "lc": "erk",
+    "gw": false,
     "ISO-639-3": "erk",
-    "ln": "South Efate",
-    "ang": "Efate, South",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 1771,
     "lr": "Pacific",
+    "lc": "erk",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Fate",
         "Southern Efate"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Efate, South",
+    "gwcode": "fr",
+    "ln": "South Efate"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 5356,
-    "lc": "ria",
+    "gw": false,
     "ISO-639-3": "ria",
-    "ln": "Riang (India)",
-    "ang": "Riang",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5356,
     "lr": "Asia",
+    "lc": "ria",
+    "cc": [
+        "BD",
+        "IN"
+    ],
     "alt": [
         "Kau Bru",
         "Reang",
         "Tipra"
     ],
-    "cc": [
-        "BD",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "ang": "Riang",
+    "gwcode": "bn",
+    "ln": "Riang (India)"
 }

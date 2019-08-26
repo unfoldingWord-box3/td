@@ -1,0 +1,23 @@
+.. _goe:
+
+Gongduk
+=======
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+
+.. code-block:: yaml
+
+    ISO_639-3: goe
+    alternate_names:
+    - Gongdubikha
+    anglicanized_name: Gongduk
+    country_codes:
+    - BT
+    gateway_language: UNKNOWN
+    lang_code: goe
+    lang_direction: ltr
+    lang_name: Gongduk
+    lang_region: Asia
+    

@@ -1,11 +1,15 @@
 {
-    "pk": 3546,
-    "lc": "lns",
+    "gw": false,
     "ISO-639-3": "lns",
-    "ln": "Lamnso'",
-    "ang": "Lamnso\u2019",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3546,
     "lr": "Africa",
+    "lc": "lns",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Bansaw",
         "Banso",
@@ -18,11 +22,7 @@
         "Nso'",
         "Panso"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Lamnso\u2019",
+    "gwcode": "fr",
+    "ln": "Lamnso'"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 5957,
-    "lc": "szl",
+    "gw": false,
     "ISO-639-3": "szl",
-    "ln": "Silesian",
-    "ang": "Silesian",
     "hc": "PL",
+    "ld": "ltr",
+    "pk": 5957,
     "lr": "Europe",
-    "alt": [
-        "Szlonzokian"
-    ],
+    "lc": "szl",
     "cc": [
         "PL"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Szlonzokian"
+    ],
+    "ang": "Silesian",
+    "gwcode": "en",
+    "ln": "Silesian"
 }

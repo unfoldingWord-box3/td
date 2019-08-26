@@ -1,18 +1,18 @@
 {
-    "pk": 4171,
-    "lc": "mvd",
+    "gw": false,
     "ISO-639-3": "mvd",
-    "ln": "Mamboru",
-    "ang": "Mamboru",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4171,
     "lr": "Asia",
-    "alt": [
-        "Memboro"
-    ],
+    "lc": "mvd",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Memboro"
+    ],
+    "ang": "Mamboru",
+    "gwcode": "id",
+    "ln": "Mamboru"
 }

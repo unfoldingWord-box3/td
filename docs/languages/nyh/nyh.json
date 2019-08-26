@@ -1,19 +1,19 @@
 {
-    "pk": 4732,
-    "lc": "nyh",
+    "gw": false,
     "ISO-639-3": "nyh",
-    "ln": "Nyigina",
-    "ang": "Nyigina",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4732,
     "lr": "Pacific",
+    "lc": "nyh",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Njigina",
         "Nyikina"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nyigina",
+    "gwcode": "en",
+    "ln": "Nyigina"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 2724,
-    "lc": "kbo",
+    "gw": false,
     "ISO-639-3": "kbo",
-    "ln": "Keliko",
-    "ang": "Keliko",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 2724,
     "lr": "Africa",
+    "lc": "kbo",
+    "cc": [
+        "SS",
+        "US"
+    ],
     "alt": [
         "Kaliko-Ma'di",
         "Ma'di",
         "Maditi"
     ],
-    "cc": [
-        "SS",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Keliko",
+    "gwcode": "ar",
+    "ln": "Keliko"
 }

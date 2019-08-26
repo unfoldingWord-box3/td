@@ -1,19 +1,19 @@
 {
-    "pk": 5694,
-    "lc": "slr",
+    "gw": false,
     "ISO-639-3": "slr",
-    "ln": "\u6492\u62c9\u8bed",
-    "ang": "Salar",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 5694,
     "lr": "Asia",
+    "lc": "slr",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Sala",
         "Ili"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Salar",
+    "gwcode": "zh",
+    "ln": "\u6492\u62c9\u8bed"
 }

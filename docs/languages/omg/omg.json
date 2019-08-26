@@ -1,11 +1,14 @@
 {
-    "pk": 4826,
-    "lc": "omg",
+    "gw": false,
     "ISO-639-3": "omg",
-    "ln": "Omagua",
-    "ang": "Omagua",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 4826,
     "lr": "Americas",
+    "lc": "omg",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Agua",
         "Anapia",
@@ -28,10 +31,7 @@
         "Curacirari (Curazicari)",
         "Curucicuri (Curuzicari)"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Omagua",
+    "gwcode": "es-419",
+    "ln": "Omagua"
 }

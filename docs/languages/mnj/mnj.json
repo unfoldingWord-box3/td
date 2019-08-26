@@ -1,19 +1,19 @@
 {
-    "pk": 3984,
-    "lc": "mnj",
+    "gw": false,
     "ISO-639-3": "mnj",
-    "ln": "Munji",
-    "ang": "Munji",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 3984,
     "lr": "Asia",
+    "lc": "mnj",
+    "cc": [
+        "AF"
+    ],
     "alt": [
         "Munjigi",
         "Munjiwar"
     ],
-    "cc": [
-        "AF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Munji",
+    "gwcode": "ps",
+    "ln": "Munji"
 }

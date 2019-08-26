@@ -1,11 +1,14 @@
 {
-    "pk": 2860,
-    "lc": "khc",
+    "gw": false,
     "ISO-639-3": "khc",
-    "ln": "Tukang Besi North",
-    "ang": "Tukang Besi North",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2860,
     "lr": "Asia",
+    "lc": "khc",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Buton",
         "Wakatobi",
@@ -15,10 +18,7 @@
         "Wanje",
         "Wanji"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tukang Besi North",
+    "gwcode": "id",
+    "ln": "Tukang Besi North"
 }

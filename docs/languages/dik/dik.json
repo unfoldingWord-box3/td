@@ -1,11 +1,14 @@
 {
-    "pk": 1528,
-    "lc": "dik",
+    "gw": false,
     "ISO-639-3": "dik",
-    "ln": "Southwestern Dinka",
-    "ang": "Dinka, Southwestern",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 1528,
     "lr": "Africa",
+    "lc": "dik",
+    "cc": [
+        "SS"
+    ],
     "alt": [
         "Western Dinka",
         "Ajong Thi",
@@ -26,10 +29,7 @@
         "Akern Jok",
         "Akany Kok"
     ],
-    "cc": [
-        "SS"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Dinka, Southwestern",
+    "gwcode": "ar",
+    "ln": "Southwestern Dinka"
 }

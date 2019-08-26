@@ -1,11 +1,14 @@
 {
-    "pk": 3094,
-    "lc": "kql",
+    "gw": false,
     "ISO-639-3": "kql",
-    "ln": "Kyenele",
-    "ang": "Kyenele",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3094,
     "lr": "Pacific",
+    "lc": "kql",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Bulang",
         "Ke\u00f1ele",
@@ -15,10 +18,7 @@
         "Kyenying-Barang",
         "Miyak"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kyenele",
+    "gwcode": "tpi",
+    "ln": "Kyenele"
 }

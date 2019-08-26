@@ -1,11 +1,14 @@
 {
-    "pk": 2662,
-    "lc": "jqr",
+    "gw": false,
     "ISO-639-3": "jqr",
-    "ln": "Jaqaru",
-    "ang": "Jaqaru",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 2662,
     "lr": "Americas",
+    "lc": "jqr",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Aru",
         "Haqaru",
@@ -13,10 +16,7 @@
         "Haqearu",
         "Cauqui (Cachuy)"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Jaqaru",
+    "gwcode": "es-419",
+    "ln": "Jaqaru"
 }

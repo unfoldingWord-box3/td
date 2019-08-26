@@ -1,11 +1,15 @@
 {
-    "pk": 1335,
-    "lc": "crq",
+    "gw": false,
     "ISO-639-3": "crq",
-    "ln": "Iyo'wujwa Chorote",
-    "ang": "Chorote, Iyo\u2019wujwa",
     "hc": "AR",
+    "ld": "ltr",
+    "pk": 1335,
     "lr": "Americas",
+    "lc": "crq",
+    "cc": [
+        "AR",
+        "PY"
+    ],
     "alt": [
         "Chorote",
         "Choroti",
@@ -18,11 +22,7 @@
         "Chorote (Iyowujwa)",
         "Yow\u00fawa"
     ],
-    "cc": [
-        "AR",
-        "PY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chorote, Iyo\u2019wujwa",
+    "gwcode": "es-419",
+    "ln": "Iyo'wujwa Chorote"
 }

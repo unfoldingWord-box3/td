@@ -1,19 +1,19 @@
 {
-    "pk": 1695,
-    "lc": "ebu",
+    "gw": false,
     "ISO-639-3": "ebu",
-    "ln": "Embu",
-    "ang": "Kiembu",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 1695,
     "lr": "Africa",
+    "lc": "ebu",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Mbere",
         "Mbeere (Kimbeere)"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Kiembu",
+    "gwcode": "sw",
+    "ln": "Embu"
 }

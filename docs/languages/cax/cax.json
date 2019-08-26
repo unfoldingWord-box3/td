@@ -1,11 +1,14 @@
 {
-    "pk": 1129,
-    "lc": "cax",
+    "gw": false,
     "ISO-639-3": "cax",
-    "ln": "Chiquitano",
-    "ang": "Chiquitano",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 1129,
     "lr": "Americas",
+    "lc": "cax",
+    "cc": [
+        "BO"
+    ],
     "alt": [
         "Chiquito",
         "Tarapecosi",
@@ -13,10 +16,7 @@
         "San Javier (Javierano)",
         "Xavierano"
     ],
-    "cc": [
-        "BO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chiquitano",
+    "gwcode": "es-419",
+    "ln": "Chiquitano"
 }

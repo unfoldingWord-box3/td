@@ -1,11 +1,15 @@
 {
-    "pk": 1289,
-    "lc": "coc",
+    "gw": false,
     "ISO-639-3": "coc",
-    "ln": "Cocopa",
-    "ang": "Cocopa",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1289,
     "lr": "Americas",
+    "lc": "coc",
+    "cc": [
+        "MX",
+        "US"
+    ],
     "alt": [
         "Cocop\u00e1",
         "Cucap\u00e1",
@@ -16,11 +20,7 @@
         "Kikima",
         "Kwikapa"
     ],
-    "cc": [
-        "MX",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Cocopa",
+    "gwcode": "es-419",
+    "ln": "Cocopa"
 }

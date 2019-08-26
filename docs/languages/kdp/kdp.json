@@ -1,11 +1,14 @@
 {
-    "pk": 2774,
-    "lc": "kdp",
+    "gw": false,
     "ISO-639-3": "kdp",
-    "ln": "Kaningdon-Nindem",
-    "ang": "Nikyob-Nindem",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2774,
     "lr": "Africa",
+    "lc": "kdp",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Kaningdom-Nindem",
         "Kaningdon-Nindem",
@@ -20,10 +23,7 @@
         "Nidem",
         "Ninkyop"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nikyob-Nindem",
+    "gwcode": "en",
+    "ln": "Kaningdon-Nindem"
 }

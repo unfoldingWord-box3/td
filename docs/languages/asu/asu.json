@@ -1,11 +1,14 @@
 {
-    "pk": 375,
-    "lc": "asu",
+    "gw": false,
     "ISO-639-3": "asu",
-    "ln": "Tocantins Asurini",
-    "ang": "Asurini, Tocantins",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 375,
     "lr": "Americas",
+    "lc": "asu",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Akwaya",
         "Assurin\u00ed",
@@ -13,10 +16,7 @@
         "Asurin\u00ed do Tocantins",
         "Asurin\u00ed do Trocar\u00e1"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Asurini, Tocantins",
+    "gwcode": "pt",
+    "ln": "Tocantins Asurini"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 4063,
-    "lc": "mqt",
+    "gw": false,
     "ISO-639-3": "mqt",
-    "ln": "\u0e20\u0e32\u0e29\u0e32\u0e21\u0e4a\u0e2d\u0e01",
-    "ang": "Mok",
     "hc": "TH",
+    "ld": "ltr",
+    "pk": 4063,
     "lr": "Asia",
+    "lc": "mqt",
+    "cc": [
+        "TH"
+    ],
     "alt": [
         "Amok",
         "Hsen-Hsum",
         "Muak",
         "Muak Sa-aak"
     ],
-    "cc": [
-        "TH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "th"
+    "ang": "Mok",
+    "gwcode": "th",
+    "ln": "\u0e20\u0e32\u0e29\u0e32\u0e21\u0e4a\u0e2d\u0e01"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 3768,
-    "lc": "meq",
+    "gw": false,
     "ISO-639-3": "meq",
-    "ln": "Merey",
-    "ang": "Merey",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3768,
     "lr": "Africa",
+    "lc": "meq",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Mere",
         "Meri",
         "Mofu de M\u00e9ri"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Merey",
+    "gwcode": "fr",
+    "ln": "Merey"
 }

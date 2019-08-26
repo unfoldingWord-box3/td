@@ -1,18 +1,18 @@
 {
-    "pk": 7343,
-    "lc": "zam",
+    "gw": false,
     "ISO-639-3": "zam",
-    "ln": "Miahuatl\u00e1n Zapotec",
-    "ang": "Zapotec, Miahuatl\u00e1n",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7343,
     "lr": "Americas",
-    "alt": [
-        "Zapoteco de Miahuatl\u00e1n"
-    ],
+    "lc": "zam",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Zapoteco de Miahuatl\u00e1n"
+    ],
+    "ang": "Zapotec, Miahuatl\u00e1n",
+    "gwcode": "es-419",
+    "ln": "Miahuatl\u00e1n Zapotec"
 }

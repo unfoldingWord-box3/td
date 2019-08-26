@@ -1,20 +1,20 @@
 {
-    "pk": 2081,
-    "lc": "gnn",
+    "gw": false,
     "ISO-639-3": "gnn",
-    "ln": "Gumatj",
-    "ang": "Gumatj",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 2081,
     "lr": "Pacific",
+    "lc": "gnn",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Gomadj",
         "Gumait",
         "Gumaj"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gumatj",
+    "gwcode": "en",
+    "ln": "Gumatj"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 3591,
-    "lc": "lrv",
+    "gw": false,
     "ISO-639-3": "lrv",
-    "ln": "Larevat",
-    "ang": "Larevat",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 3591,
     "lr": "Pacific",
-    "alt": [
-        "Laravat"
-    ],
+    "lc": "lrv",
     "cc": [
         "VU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Laravat"
+    ],
+    "ang": "Larevat",
+    "gwcode": "fr",
+    "ln": "Larevat"
 }

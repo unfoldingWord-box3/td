@@ -1,0 +1,22 @@
+.. _oar:
+
+Old Aramaic (up to 700 BCE)
+===========================
+
+This language is spoken in the following countries:
+
+* SY: Syrian Arab Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: oar
+    alternate_names: []
+    anglicanized_name: Old Aramaic
+    country_codes:
+    - SY
+    gateway_language: UNKNOWN
+    lang_code: oar
+    lang_direction: ltr
+    lang_name: Old Aramaic (up to 700 BCE)
+    lang_region: Asia
+    

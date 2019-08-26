@@ -1,20 +1,20 @@
 {
-    "pk": 3018,
-    "lc": "kne",
+    "gw": false,
     "ISO-639-3": "kne",
-    "ln": "Kankanaey",
-    "ang": "Kankanaey",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 3018,
     "lr": "Asia",
+    "lc": "kne",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Central Kankanaey",
         "Kankanai",
         "Kankanay"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "ang": "Kankanaey",
+    "gwcode": "ilo",
+    "ln": "Kankanaey"
 }

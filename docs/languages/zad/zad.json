@@ -1,11 +1,14 @@
 {
-    "pk": 7334,
-    "lc": "zad",
+    "gw": false,
     "ISO-639-3": "zad",
-    "ln": "Cajonos Zapotec",
-    "ang": "Zapotec, Cajonos",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7334,
     "lr": "Americas",
+    "lc": "zad",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Southern Villa Alta Zapotec",
         "Yaganiza Zapotec",
@@ -15,10 +18,7 @@
         "Xagac\u00eda Zapotec",
         "Yaganiza"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Cajonos",
+    "gwcode": "es-419",
+    "ln": "Cajonos Zapotec"
 }

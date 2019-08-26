@@ -1,11 +1,14 @@
 {
-    "pk": 3390,
-    "lc": "ldb",
+    "gw": false,
     "ISO-639-3": "ldb",
-    "ln": "Du\u0303ya",
-    "ang": "Duya",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3390,
     "lr": "Africa",
+    "lc": "ldb",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Adong",
         "Idun",
@@ -14,10 +17,7 @@
         "Lungu",
         "Ungu"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Duya",
+    "gwcode": "en",
+    "ln": "Du\u0303ya"
 }

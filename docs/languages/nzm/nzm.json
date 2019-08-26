@@ -1,11 +1,14 @@
 {
-    "pk": 4751,
-    "lc": "nzm",
+    "gw": false,
     "ISO-639-3": "nzm",
-    "ln": "Zeme Naga",
-    "ang": "Naga, Zeme",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4751,
     "lr": "Asia",
+    "lc": "nzm",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Arung",
         "Empui",
@@ -18,10 +21,7 @@
         "Sengima",
         "Zemi"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Zeme",
+    "gwcode": "en",
+    "ln": "Zeme Naga"
 }

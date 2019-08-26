@@ -1,19 +1,19 @@
 {
-    "pk": 3330,
-    "lc": "kzx",
+    "gw": false,
     "ISO-639-3": "kzx",
-    "ln": "Kamarian",
-    "ang": "Kamarian",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3330,
     "lr": "Asia",
+    "lc": "kzx",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kamariang",
         "Seruawan"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kamarian",
+    "gwcode": "id",
+    "ln": "Kamarian"
 }

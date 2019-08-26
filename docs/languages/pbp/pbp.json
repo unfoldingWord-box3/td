@@ -1,11 +1,16 @@
 {
-    "pk": 4949,
-    "lc": "pbp",
+    "gw": false,
     "ISO-639-3": "pbp",
-    "ln": "Badyara",
-    "ang": "Badyara",
     "hc": "GN",
+    "ld": "ltr",
+    "pk": 4949,
     "lr": "Africa",
+    "lc": "pbp",
+    "cc": [
+        "SN",
+        "GN",
+        "GW"
+    ],
     "alt": [
         "Badara",
         "Badian",
@@ -20,12 +25,7 @@
         "Badjarank\u00e9",
         "Bajara"
     ],
-    "cc": [
-        "SN",
-        "GN",
-        "GW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Badyara",
+    "gwcode": "fr",
+    "ln": "Badyara"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 3273,
-    "lc": "kxq",
+    "gw": false,
     "ISO-639-3": "kxq",
-    "ln": "Sm\u00e4rky Kanum",
-    "ang": "Kanum, Sm\u00e4rky",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3273,
     "lr": "Asia",
+    "lc": "kxq",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Enkelembu",
         "Kenume",
         "Knwne"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kanum, Sm\u00e4rky",
+    "gwcode": "id",
+    "ln": "Sm\u00e4rky Kanum"
 }

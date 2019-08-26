@@ -1,21 +1,21 @@
 {
-    "pk": 3351,
-    "lc": "las",
+    "gw": false,
     "ISO-639-3": "las",
-    "ln": "Lama (Togo)",
-    "ang": "Lama",
     "hc": "TG",
+    "ld": "ltr",
+    "pk": 3351,
     "lr": "Africa",
+    "lc": "las",
+    "cc": [
+        "TG"
+    ],
     "alt": [
         "Lamba",
         "Losso",
         "Kande (Kante)",
         "Kadjala (Kadjalla)"
     ],
-    "cc": [
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Lama",
+    "gwcode": "fr",
+    "ln": "Lama (Togo)"
 }

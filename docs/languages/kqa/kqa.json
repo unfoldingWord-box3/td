@@ -1,18 +1,18 @@
 {
-    "pk": 3083,
-    "lc": "kqa",
+    "gw": false,
     "ISO-639-3": "kqa",
-    "ln": "Mum",
-    "ang": "Mum",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3083,
     "lr": "Pacific",
-    "alt": [
-        "Katiati"
-    ],
+    "lc": "kqa",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Katiati"
+    ],
+    "ang": "Mum",
+    "gwcode": "tpi",
+    "ln": "Mum"
 }

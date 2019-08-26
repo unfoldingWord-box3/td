@@ -1,18 +1,18 @@
 {
-    "pk": 6631,
-    "lc": "vme",
+    "gw": false,
     "ISO-639-3": "vme",
-    "ln": "East Masela",
-    "ang": "Masela, East",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6631,
     "lr": "Asia",
-    "alt": [
-        "East Marsela"
-    ],
+    "lc": "vme",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "East Marsela"
+    ],
+    "ang": "Masela, East",
+    "gwcode": "id",
+    "ln": "East Masela"
 }

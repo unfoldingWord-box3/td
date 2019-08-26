@@ -1,11 +1,14 @@
 {
-    "pk": 4259,
-    "lc": "myx",
+    "gw": false,
     "ISO-639-3": "myx",
-    "ln": "Masaaba",
-    "ang": "Masaaba",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 4259,
     "lr": "Africa",
+    "lc": "myx",
+    "cc": [
+        "UG"
+    ],
     "alt": [
         "Gisu",
         "Lugisu",
@@ -18,10 +21,7 @@
         "Luwalasi",
         "Luyobo"
     ],
-    "cc": [
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Masaaba",
+    "gwcode": "en",
+    "ln": "Masaaba"
 }

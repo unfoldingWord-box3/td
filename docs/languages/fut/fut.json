@@ -1,21 +1,21 @@
 {
-    "pk": 1894,
-    "lc": "fut",
+    "gw": false,
     "ISO-639-3": "fut",
-    "ln": "Futuna-Aniwa",
-    "ang": "Futuna-Aniwa",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 1894,
     "lr": "Pacific",
+    "lc": "fut",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Erronan",
         "West Futuna-Aniwa",
         "Aniwa (Anewa)",
         "West Futuna (Fotuna)"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Futuna-Aniwa",
+    "gwcode": "fr",
+    "ln": "Futuna-Aniwa"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 5644,
-    "lc": "sjg",
+    "gw": false,
     "ISO-639-3": "sjg",
-    "ln": "Assangori",
-    "ang": "Assangori",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 5644,
     "lr": "Africa",
+    "lc": "sjg",
+    "cc": [
+        "SD",
+        "TD"
+    ],
     "alt": [
         "Asong",
         "Assoungor",
@@ -16,11 +20,7 @@
         "Soungor",
         "Sungor"
     ],
-    "cc": [
-        "SD",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Assangori",
+    "gwcode": "ar",
+    "ln": "Assangori"
 }

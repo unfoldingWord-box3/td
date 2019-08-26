@@ -1,11 +1,14 @@
 {
-    "pk": 6529,
-    "lc": "ung",
+    "gw": false,
     "ISO-639-3": "ung",
-    "ln": "Ngarinyin",
-    "ang": "Ngarinyin",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6529,
     "lr": "Pacific",
+    "lc": "ung",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Ungarinjin",
         "Ungarinyin",
@@ -16,10 +19,7 @@
         "Worlaja",
         "Wuladja"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ngarinyin",
+    "gwcode": "en",
+    "ln": "Ngarinyin"
 }

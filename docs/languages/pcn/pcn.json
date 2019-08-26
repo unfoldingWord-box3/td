@@ -1,21 +1,21 @@
 {
-    "pk": 4969,
-    "lc": "pcn",
+    "gw": false,
     "ISO-639-3": "pcn",
-    "ln": "Piti",
-    "ang": "Piti",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4969,
     "lr": "Africa",
+    "lc": "pcn",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Abisi",
         "Bisi",
         "Pitti",
         "Riban (Ribam)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Piti",
+    "gwcode": "en",
+    "ln": "Piti"
 }

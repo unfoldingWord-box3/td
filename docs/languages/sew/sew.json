@@ -1,18 +1,18 @@
 {
-    "pk": 5563,
-    "lc": "sew",
+    "gw": false,
     "ISO-639-3": "sew",
-    "ln": "Sewa Bay",
-    "ang": "Sewa Bay",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5563,
     "lr": "Pacific",
-    "alt": [
-        "Duau Pwata"
-    ],
+    "lc": "sew",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Duau Pwata"
+    ],
+    "ang": "Sewa Bay",
+    "gwcode": "tpi",
+    "ln": "Sewa Bay"
 }

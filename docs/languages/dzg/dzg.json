@@ -1,11 +1,15 @@
 {
-    "pk": 1687,
-    "lc": "dzg",
+    "gw": false,
     "ISO-639-3": "dzg",
-    "ln": "Dazaga",
-    "ang": "Dazaga",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 1687,
     "lr": "Africa",
+    "lc": "dzg",
+    "cc": [
+        "NE",
+        "TD"
+    ],
     "alt": [
         "Daza",
         "Toubou",
@@ -14,11 +18,7 @@
         "Dazza",
         "Kashirda"
     ],
-    "cc": [
-        "NE",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Dazaga",
+    "gwcode": "ar",
+    "ln": "Dazaga"
 }

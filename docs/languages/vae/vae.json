@@ -1,20 +1,20 @@
 {
-    "pk": 6581,
-    "lc": "vae",
+    "gw": false,
     "ISO-639-3": "vae",
-    "ln": "Vale",
-    "ang": "Vale",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 6581,
     "lr": "Africa",
-    "alt": [
-        "Tana (Tane)",
-        "Tele"
-    ],
+    "lc": "vae",
     "cc": [
         "CF",
         "TD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Tana (Tane)",
+        "Tele"
+    ],
+    "ang": "Vale",
+    "gwcode": "fr",
+    "ln": "Vale"
 }

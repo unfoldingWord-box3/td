@@ -1,19 +1,19 @@
 {
-    "pk": 1124,
-    "lc": "caq",
+    "gw": false,
     "ISO-639-3": "caq",
-    "ln": "Car Nicobarese",
-    "ang": "Nicobarese, Car",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1124,
     "lr": "Asia",
+    "lc": "caq",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Car",
         "Pu"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nicobarese, Car",
+    "gwcode": "en",
+    "ln": "Car Nicobarese"
 }

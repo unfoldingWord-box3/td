@@ -1,11 +1,14 @@
 {
-    "pk": 3992,
-    "lc": "mns",
+    "gw": false,
     "ISO-639-3": "mns",
-    "ln": "\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439",
-    "ang": "Mansi",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 3992,
     "lr": "Europe",
+    "lc": "mns",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Mansiy",
         "Vogul",
@@ -25,10 +28,7 @@
         "Upper Lozyvin",
         "Pelym"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Mansi",
+    "gwcode": "ru",
+    "ln": "\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439"
 }

@@ -1,11 +1,17 @@
 {
-    "pk": 647,
-    "lc": "bgn",
+    "gw": false,
     "ISO-639-3": "bgn",
-    "ln": "\u0628\u0644\u0648\u0686\u06cc \u0632\u0628\u0627\u0646",
-    "ang": "Balochi, Western",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 647,
     "lr": "Asia",
+    "lc": "bgn",
+    "cc": [
+        "AF",
+        "IR",
+        "PK",
+        "TM"
+    ],
     "alt": [
         "Baloci",
         "Baluchi",
@@ -13,13 +19,7 @@
         "Lashari",
         "Rakhshani (Raxshani)"
     ],
-    "cc": [
-        "AF",
-        "IR",
-        "PK",
-        "TM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "ang": "Balochi, Western",
+    "gwcode": "ur",
+    "ln": "\u0628\u0644\u0648\u0686\u06cc \u0632\u0628\u0627\u0646"
 }

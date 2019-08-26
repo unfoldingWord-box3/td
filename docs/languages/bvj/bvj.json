@@ -1,20 +1,20 @@
 {
-    "pk": 1003,
-    "lc": "bvj",
+    "gw": false,
     "ISO-639-3": "bvj",
-    "ln": "Baan",
-    "ang": "Baan",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1003,
     "lr": "Africa",
+    "lc": "bvj",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Baan-Ogoi",
         "Goi",
         "Ogoi"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Baan",
+    "gwcode": "en",
+    "ln": "Baan"
 }

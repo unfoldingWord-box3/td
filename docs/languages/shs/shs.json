@@ -1,19 +1,19 @@
 {
-    "pk": 5609,
-    "lc": "shs",
+    "gw": false,
     "ISO-639-3": "shs",
-    "ln": "Shuswap",
-    "ang": "Shuswap",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 5609,
     "lr": "Americas",
+    "lc": "shs",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Secwepemc",
         "Secwepemcts\u00edn"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Shuswap",
+    "gwcode": "en",
+    "ln": "Shuswap"
 }

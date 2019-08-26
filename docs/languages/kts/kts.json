@@ -1,11 +1,14 @@
 {
-    "pk": 3174,
-    "lc": "kts",
+    "gw": false,
     "ISO-639-3": "kts",
-    "ln": "South Muyu",
-    "ang": "Muyu, South",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 3174,
     "lr": "Asia",
+    "lc": "kts",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Digoel",
         "Digul",
@@ -19,10 +22,7 @@
         "Yongkom",
         "Yongom"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Muyu, South",
+    "gwcode": "id",
+    "ln": "South Muyu"
 }

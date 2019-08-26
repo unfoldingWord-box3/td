@@ -1,11 +1,16 @@
 {
-    "pk": 3983,
-    "lc": "mni",
+    "gw": false,
     "ISO-639-3": "mni",
-    "ln": "Manipuri",
-    "ang": "Meitei",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3983,
     "lr": "Asia",
+    "lc": "mni",
+    "cc": [
+        "BD",
+        "IN",
+        "MM"
+    ],
     "alt": [
         "Meetei",
         "Meithei",
@@ -25,12 +30,7 @@
         "Hindu Meitei",
         "Panal"
     ],
-    "cc": [
-        "BD",
-        "IN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Meitei",
+    "gwcode": "en",
+    "ln": "Manipuri"
 }

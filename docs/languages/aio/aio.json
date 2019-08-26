@@ -1,18 +1,18 @@
 {
-    "pk": 174,
-    "lc": "aio",
+    "gw": false,
     "ISO-639-3": "aio",
-    "ln": "Aiton",
-    "ang": "Aiton",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 174,
     "lr": "Asia",
-    "alt": [
-        "Aitonia"
-    ],
+    "lc": "aio",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "alt": [
+        "Aitonia"
+    ],
+    "ang": "Aiton",
+    "gwcode": "as",
+    "ln": "Aiton"
 }

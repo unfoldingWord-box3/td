@@ -1,19 +1,19 @@
 {
-    "pk": 684,
-    "lc": "bhz",
+    "gw": false,
     "ISO-639-3": "bhz",
-    "ln": "Bada (Indonesia)",
-    "ang": "Bada",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 684,
     "lr": "Asia",
+    "lc": "bhz",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Bada'",
         "Tobada'"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Bada",
+    "gwcode": "id",
+    "ln": "Bada (Indonesia)"
 }

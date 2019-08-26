@@ -1,18 +1,18 @@
 {
-    "pk": 1994,
-    "lc": "gex",
+    "gw": false,
     "ISO-639-3": "gex",
-    "ln": "Garre",
-    "ang": "Garre",
     "hc": "SO",
+    "ld": "ltr",
+    "pk": 1994,
     "lr": "Africa",
-    "alt": [
-        "Af-Garre"
-    ],
+    "lc": "gex",
     "cc": [
         "SO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Af-Garre"
+    ],
+    "ang": "Garre",
+    "gwcode": "ar",
+    "ln": "Garre"
 }

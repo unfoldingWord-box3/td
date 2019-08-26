@@ -1,21 +1,21 @@
 {
-    "pk": 5717,
-    "lc": "smr",
+    "gw": false,
     "ISO-639-3": "smr",
-    "ln": "Simeulue",
-    "ang": "Simeulue",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5717,
     "lr": "Asia",
+    "lc": "smr",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Long Bano",
         "Simalur",
         "Simeulo\u00eb",
         "Simulul"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Simeulue",
+    "gwcode": "id",
+    "ln": "Simeulue"
 }

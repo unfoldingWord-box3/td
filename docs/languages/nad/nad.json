@@ -1,11 +1,14 @@
 {
-    "pk": 4291,
-    "lc": "nad",
+    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "ln": "Nijadali",
-    "ang": "Nijadali",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 4291,
     "lr": "Pacific",
+    "lc": "nad",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Bailko",
         "Balgu",
@@ -17,10 +20,7 @@
         "Nyiyabali",
         "Nyiypali"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nijadali",
+    "gwcode": "en",
+    "ln": "Nijadali"
 }

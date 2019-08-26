@@ -1,11 +1,14 @@
 {
-    "pk": 5499,
-    "lc": "sbu",
+    "gw": false,
     "ISO-639-3": "sbu",
-    "ln": "Stod Bhoti",
-    "ang": "Stod Bhoti",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5499,
     "lr": "Asia",
+    "lc": "sbu",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Lahul Bhoti",
         "Stod-Kad",
@@ -16,10 +19,7 @@
         "Khoksar (Khoksar Bhoti)",
         "Mayar (Mayar Bhoti)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Stod Bhoti",
+    "gwcode": "hi",
+    "ln": "Stod Bhoti"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 644,
-    "lc": "bgk",
+    "gw": false,
     "ISO-639-3": "bgk",
-    "ln": "Bit",
-    "ang": "Bit",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 644,
     "lr": "Asia",
+    "lc": "bgk",
+    "cc": [
+        "CN",
+        "LA"
+    ],
     "alt": [
         "Boxing",
         "Buxing",
@@ -17,11 +21,7 @@
         "Buxinhua",
         "Khbit"
     ],
-    "cc": [
-        "CN",
-        "LA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "Bit",
+    "gwcode": "lo",
+    "ln": "Bit"
 }

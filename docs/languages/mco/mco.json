@@ -1,20 +1,20 @@
 {
-    "pk": 3716,
-    "lc": "mco",
+    "gw": false,
     "ISO-639-3": "mco",
-    "ln": "Coatl\u00e1n Mixe",
-    "ang": "Mixe, Coatl\u00e1n",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 3716,
     "lr": "Americas",
+    "lc": "mco",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Southeastern Mixe",
         "Camotl\u00e1n Mixe",
         "Coatl\u00e1n Mixe"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixe, Coatl\u00e1n",
+    "gwcode": "es-419",
+    "ln": "Coatl\u00e1n Mixe"
 }

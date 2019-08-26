@@ -1,0 +1,22 @@
+.. _lya:
+
+Layakha
+=======
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+
+.. code-block:: yaml
+
+    ISO_639-3: lya
+    alternate_names: []
+    anglicanized_name: Layakha
+    country_codes:
+    - BT
+    gateway_language: UNKNOWN
+    lang_code: lya
+    lang_direction: ltr
+    lang_name: Layakha
+    lang_region: Asia
+    

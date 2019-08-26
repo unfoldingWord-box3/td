@@ -1,19 +1,19 @@
 {
-    "pk": 111,
-    "lc": "afg",
+    "gw": false,
     "ISO-639-3": "afg",
-    "ln": "Afghan Sign Language",
-    "ang": "Afghan Sign Language",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 111,
     "lr": "Asia",
+    "lc": "afg",
+    "cc": [
+        "AF"
+    ],
     "alt": [
         "Afghan Sign",
         "AFSL"
     ],
-    "cc": [
-        "AF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Afghan Sign Language",
+    "gwcode": "ps",
+    "ln": "Afghan Sign Language"
 }

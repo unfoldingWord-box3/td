@@ -1,21 +1,21 @@
 {
-    "pk": 6179,
-    "lc": "tli",
+    "gw": false,
     "ISO-639-3": "tli",
-    "ln": "Tlingit",
-    "ang": "Tlingit",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 6179,
     "lr": "Americas",
+    "lc": "tli",
+    "cc": [
+        "US",
+        "CA"
+    ],
     "alt": [
         "Kolosch",
         "Kolosh",
         "Tlinkit"
     ],
-    "cc": [
-        "US",
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Tlingit",
+    "gwcode": "en",
+    "ln": "Tlingit"
 }

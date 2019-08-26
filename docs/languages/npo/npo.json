@@ -1,21 +1,21 @@
 {
-    "pk": 4611,
-    "lc": "npo",
+    "gw": false,
     "ISO-639-3": "npo",
-    "ln": "Pochuri Naga",
-    "ang": "Naga, Pochuri",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4611,
     "lr": "Asia",
+    "lc": "npo",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Eastern Rengma",
         "Meluri",
         "Pochuri",
         "Pochury"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Pochuri",
+    "gwcode": "en",
+    "ln": "Pochuri Naga"
 }

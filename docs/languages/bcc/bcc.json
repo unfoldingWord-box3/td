@@ -1,20 +1,11 @@
 {
-    "pk": 536,
-    "lc": "bcc",
+    "gw": false,
     "ISO-639-3": "bcc",
-    "ln": "\u0628\u0644\u0648\u0686\u06cc \u0632\u0628\u0627\u0646",
-    "ang": "Balochi, Southern",
     "hc": "PK",
+    "ld": "ltr",
+    "pk": 536,
     "lr": "Asia",
-    "alt": [
-        "Baloci",
-        "Baluchi",
-        "Baluci",
-        "Kechi (Keci)",
-        "Koroshi",
-        "Makrani (Lotuni)",
-        "Zadgaali"
-    ],
+    "lc": "bcc",
     "cc": [
         "OM",
         "PK",
@@ -24,7 +15,16 @@
         "QA",
         "AE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ur"
+    "alt": [
+        "Baloci",
+        "Baluchi",
+        "Baluci",
+        "Kechi (Keci)",
+        "Koroshi",
+        "Makrani (Lotuni)",
+        "Zadgaali"
+    ],
+    "ang": "Balochi, Southern",
+    "gwcode": "ur",
+    "ln": "\u0628\u0644\u0648\u0686\u06cc \u0632\u0628\u0627\u0646"
 }

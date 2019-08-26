@@ -1,0 +1,23 @@
+.. _kji:
+
+Zabana
+======
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. code-block:: yaml
+
+    ISO_639-3: kji
+    alternate_names:
+    - Kia
+    anglicanized_name: Zabana
+    country_codes:
+    - SB
+    gateway_language: UNKNOWN
+    lang_code: kji
+    lang_direction: ltr
+    lang_name: Zabana
+    lang_region: Pacific
+    

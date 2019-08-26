@@ -1,16 +1,16 @@
 {
-    "pk": 5100,
-    "lc": "pmy",
+    "gw": true,
     "ISO-639-3": "pmy",
-    "ln": "Papuan Malay",
-    "ang": "Malay, Papuan",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5100,
     "lr": "Asia",
-    "alt": [],
+    "lc": "pmy",
     "cc": [
         "ID"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [],
+    "ang": "Malay, Papuan",
+    "gwcode": "id",
+    "ln": "Papuan Malay"
 }

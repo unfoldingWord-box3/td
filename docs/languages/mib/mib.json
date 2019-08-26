@@ -1,19 +1,19 @@
 {
-    "pk": 3855,
-    "lc": "mib",
+    "gw": false,
     "ISO-639-3": "mib",
-    "ln": "Atatl\u00e1huca Mixtec",
-    "ang": "Mixtec, Atatl\u00e1huca",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 3855,
     "lr": "Americas",
+    "lc": "mib",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Mixteco de San Esteban Atatl\u00e1huca",
         "South Central Tlaxiaco Mixtec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Atatl\u00e1huca",
+    "gwcode": "es-419",
+    "ln": "Atatl\u00e1huca Mixtec"
 }

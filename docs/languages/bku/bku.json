@@ -1,20 +1,20 @@
 {
-    "pk": 749,
-    "lc": "bku",
+    "gw": false,
     "ISO-639-3": "bku",
-    "ln": "Buhid",
-    "ang": "Buhid",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 749,
     "lr": "Asia",
+    "lc": "bku",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Bangon",
         "Batangan",
         "Bukil"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Buhid",
+    "gwcode": "en",
+    "ln": "Buhid"
 }

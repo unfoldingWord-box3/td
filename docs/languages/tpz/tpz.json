@@ -1,21 +1,21 @@
 {
-    "pk": 6286,
-    "lc": "tpz",
+    "gw": false,
     "ISO-639-3": "tpz",
-    "ln": "Tinputz",
-    "ang": "Tinputz",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6286,
     "lr": "Pacific",
+    "lc": "tpz",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Timputs",
         "Vasuii",
         "Wasoi",
         "Vado"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Tinputz",
+    "gwcode": "tpi",
+    "ln": "Tinputz"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 5168,
-    "lc": "prp",
+    "gw": false,
     "ISO-639-3": "prp",
-    "ln": "Parsi",
-    "ang": "Parsi",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5168,
     "lr": "Asia",
-    "alt": [
-        "Parsee"
-    ],
+    "lc": "prp",
     "cc": [
         "GB",
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "gu"
+    "alt": [
+        "Parsee"
+    ],
+    "ang": "Parsi",
+    "gwcode": "gu",
+    "ln": "Parsi"
 }

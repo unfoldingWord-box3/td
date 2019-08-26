@@ -1,11 +1,24 @@
 {
-    "pk": 585,
-    "lc": "be",
+    "gw": false,
     "ISO-639-3": "bel",
-    "ln": "\u0431\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f \u043c\u043e\u0432\u0430",
-    "ang": "Belarusian",
     "hc": "BY",
+    "ld": "ltr",
+    "pk": 585,
     "lr": "Europe",
+    "lc": "be",
+    "cc": [
+        "AZ",
+        "BY",
+        "AR",
+        "DE",
+        "GB",
+        "TJ",
+        "PL",
+        "US",
+        "KG",
+        "TM",
+        "UZ"
+    ],
     "alt": [
         "Belarusian",
         "Belorussian",
@@ -20,20 +33,7 @@
         "Slutsko-Mozyr",
         "Belarussian"
     ],
-    "cc": [
-        "AZ",
-        "BY",
-        "AR",
-        "DE",
-        "GB",
-        "TJ",
-        "PL",
-        "US",
-        "KG",
-        "TM",
-        "UZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Belarusian",
+    "gwcode": "en",
+    "ln": "\u0431\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f \u043c\u043e\u0432\u0430"
 }

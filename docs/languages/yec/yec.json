@@ -1,20 +1,20 @@
 {
-    "pk": 7159,
-    "lc": "yec",
+    "gw": false,
     "ISO-639-3": "yec",
-    "ln": "Yeniche",
-    "ang": "Yeniche",
     "hc": "DE",
+    "ld": "ltr",
+    "pk": 7159,
     "lr": "Europe",
+    "lc": "yec",
+    "cc": [
+        "DE"
+    ],
     "alt": [
         "German Travellers",
         "Jenisch",
         "Yenishe"
     ],
-    "cc": [
-        "DE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Yeniche",
+    "gwcode": "en",
+    "ln": "Yeniche"
 }

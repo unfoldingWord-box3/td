@@ -1,19 +1,19 @@
 {
-    "pk": 2158,
-    "lc": "gug",
+    "gw": false,
     "ISO-639-3": "gug",
-    "ln": "Paraguayan Guaran\u00ed",
-    "ang": "Guaran\u00ed, Paraguayan",
     "hc": "PY",
+    "ld": "ltr",
+    "pk": 2158,
     "lr": "Americas",
+    "lc": "gug",
+    "cc": [
+        "PY"
+    ],
     "alt": [
         "Ava\u00f1e'e",
         "Jopar\u00e1 (Yopar\u00e1)"
     ],
-    "cc": [
-        "PY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Guaran\u00ed, Paraguayan",
+    "gwcode": "es-419",
+    "ln": "Paraguayan Guaran\u00ed"
 }

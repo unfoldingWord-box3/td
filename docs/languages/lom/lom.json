@@ -1,11 +1,14 @@
 {
-    "pk": 3561,
-    "lc": "lom",
+    "gw": false,
     "ISO-639-3": "lom",
-    "ln": "Loma (Liberia)",
-    "ang": "Loma",
     "hc": "LR",
+    "ld": "ltr",
+    "pk": 3561,
     "lr": "Africa",
+    "lc": "lom",
+    "cc": [
+        "LR"
+    ],
     "alt": [
         "Loghoma",
         "Looma",
@@ -21,10 +24,7 @@
         "Wubomai (Wubomei)",
         "Ziema (Siama)"
     ],
-    "cc": [
-        "LR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Loma",
+    "gwcode": "en",
+    "ln": "Loma (Liberia)"
 }

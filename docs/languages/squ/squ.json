@@ -1,18 +1,18 @@
 {
-    "pk": 5802,
-    "lc": "squ",
+    "gw": false,
     "ISO-639-3": "squ",
-    "ln": "Squamish",
-    "ang": "Squamish",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 5802,
     "lr": "Americas",
-    "alt": [
-        "Skwxwu'mesh snichim"
-    ],
+    "lc": "squ",
     "cc": [
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Skwxwu'mesh snichim"
+    ],
+    "ang": "Squamish",
+    "gwcode": "en",
+    "ln": "Squamish"
 }

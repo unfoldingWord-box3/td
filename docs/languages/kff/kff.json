@@ -1,11 +1,14 @@
 {
-    "pk": 2814,
-    "lc": "kff",
+    "gw": false,
     "ISO-639-3": "kff",
-    "ln": "Koya",
-    "ang": "Koya",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2814,
     "lr": "Asia",
+    "lc": "kff",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Kavor",
         "Kaya",
@@ -27,10 +30,7 @@
         "Dorla Koya",
         "Podia Koya (Gotte Koya)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "te"
+    "ang": "Koya",
+    "gwcode": "te",
+    "ln": "Koya"
 }

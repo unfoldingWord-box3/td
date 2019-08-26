@@ -1,21 +1,21 @@
 {
-    "pk": 7189,
-    "lc": "yip",
+    "gw": false,
     "ISO-639-3": "yip",
-    "ln": "Pholo",
-    "ang": "Pholo",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7189,
     "lr": "Asia",
+    "lc": "yip",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Black Phula",
         "Flowery Phula",
         "Phu",
         "Phula"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Pholo",
+    "gwcode": "zh",
+    "ln": "Pholo"
 }

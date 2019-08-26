@@ -1,18 +1,18 @@
 {
-    "pk": 154,
-    "lc": "ahm",
+    "gw": false,
     "ISO-639-3": "ahm",
-    "ln": "Mobumrin Aizi",
-    "ang": "Aizi, Mobumrin",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 154,
     "lr": "Africa",
-    "alt": [
-        "Ahizi"
-    ],
+    "lc": "ahm",
     "cc": [
         "CI"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Ahizi"
+    ],
+    "ang": "Aizi, Mobumrin",
+    "gwcode": "fr",
+    "ln": "Mobumrin Aizi"
 }

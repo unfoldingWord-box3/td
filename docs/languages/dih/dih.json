@@ -1,11 +1,14 @@
 {
-    "pk": 1525,
-    "lc": "dih",
+    "gw": false,
     "ISO-639-3": "dih",
-    "ln": "Kumiai",
-    "ang": "Kumiai",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 1525,
     "lr": "Americas",
+    "lc": "dih",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Campo",
         "Cochim\u00ed",
@@ -31,10 +34,7 @@
         "Ipai",
         "Tipai"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Kumiai",
+    "gwcode": "es-419",
+    "ln": "Kumiai"
 }

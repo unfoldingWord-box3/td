@@ -1,21 +1,21 @@
 {
-    "pk": 5837,
-    "lc": "ssl",
+    "gw": false,
     "ISO-639-3": "ssl",
-    "ln": "Western Sisaala",
-    "ang": "Sisaala, Western",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 5837,
     "lr": "Africa",
+    "lc": "ssl",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Busillu Sisala",
         "Hissala",
         "Issala",
         "Sisai"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Sisaala, Western",
+    "gwcode": "en",
+    "ln": "Western Sisaala"
 }

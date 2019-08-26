@@ -1,11 +1,14 @@
 {
-    "pk": 2035,
-    "lc": "giw",
+    "gw": false,
     "ISO-639-3": "giw",
-    "ln": "\u9752\u4ee1\u4f6c\u8bed",
-    "ang": "Duoluo, White Gelao",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2035,
     "lr": "Asia",
+    "lc": "giw",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Bai Gelo",
         "White Gelao",
@@ -14,10 +17,7 @@
         "T\u00fa Du",
         "Tu'lu"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Duoluo, White Gelao",
+    "gwcode": "zh",
+    "ln": "\u9752\u4ee1\u4f6c\u8bed"
 }

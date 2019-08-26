@@ -1,20 +1,20 @@
 {
-    "pk": 6807,
-    "lc": "wrg",
+    "gw": false,
     "ISO-639-3": "wrg",
-    "ln": "Warungu",
-    "ang": "Warungu",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6807,
     "lr": "Pacific",
+    "lc": "wrg",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Gudjala",
         "Gugu-Badhun",
         "Warrungu"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Warungu",
+    "gwcode": "en",
+    "ln": "Warungu"
 }

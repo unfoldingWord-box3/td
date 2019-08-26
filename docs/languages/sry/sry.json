@@ -1,19 +1,19 @@
 {
-    "pk": 5824,
-    "lc": "sry",
+    "gw": false,
     "ISO-639-3": "sry",
-    "ln": "Sera",
-    "ang": "Sera",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5824,
     "lr": "Pacific",
+    "lc": "sry",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Serra",
         "Ssia"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Sera",
+    "gwcode": "tpi",
+    "ln": "Sera"
 }

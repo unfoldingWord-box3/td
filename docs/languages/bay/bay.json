@@ -1,19 +1,19 @@
 {
-    "pk": 507,
-    "lc": "bay",
+    "gw": false,
     "ISO-639-3": "bay",
-    "ln": "Batuley",
-    "ang": "Batuley",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 507,
     "lr": "Asia",
+    "lc": "bay",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Gwataley",
         "Watulai"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Batuley",
+    "gwcode": "id",
+    "ln": "Batuley"
 }

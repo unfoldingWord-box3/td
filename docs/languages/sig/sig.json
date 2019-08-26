@@ -1,21 +1,21 @@
 {
-    "pk": 5623,
-    "lc": "sig",
+    "gw": false,
     "ISO-639-3": "sig",
-    "ln": "Paasaal",
-    "ang": "Paasaal",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 5623,
     "lr": "Africa",
+    "lc": "sig",
+    "cc": [
+        "GH"
+    ],
     "alt": [
         "Funsile",
         "Pasaale",
         "Pasaale Sisaala",
         "Southern Sisaala"
     ],
-    "cc": [
-        "GH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Paasaal",
+    "gwcode": "en",
+    "ln": "Paasaal"
 }

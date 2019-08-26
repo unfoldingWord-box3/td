@@ -1,18 +1,18 @@
 {
-    "pk": 3064,
-    "lc": "kpf",
+    "gw": false,
     "ISO-639-3": "kpf",
-    "ln": "Komba",
-    "ang": "Komba",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3064,
     "lr": "Pacific",
-    "alt": [
-        "Neng Den"
-    ],
+    "lc": "kpf",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Neng Den"
+    ],
+    "ang": "Komba",
+    "gwcode": "tpi",
+    "ln": "Komba"
 }

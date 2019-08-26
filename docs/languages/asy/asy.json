@@ -1,18 +1,18 @@
 {
-    "pk": 379,
-    "lc": "asy",
+    "gw": false,
     "ISO-639-3": "asy",
-    "ln": "Yaosakor Asmat",
-    "ang": "Asmat, Yaosakor",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 379,
     "lr": "Asia",
-    "alt": [
-        "Yaosakor"
-    ],
+    "lc": "asy",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Yaosakor"
+    ],
+    "ang": "Asmat, Yaosakor",
+    "gwcode": "id",
+    "ln": "Yaosakor Asmat"
 }

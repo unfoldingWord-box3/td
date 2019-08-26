@@ -1,0 +1,28 @@
+.. _gos:
+
+Gronings
+========
+
+This language is spoken in the following countries:
+
+* NL: Netherlands
+
+.. code-block:: yaml
+
+    ISO_639-3: gos
+    alternate_names:
+    - Groningen
+    - Grunnings
+    - Westerwolds (Westerwold)
+    - West Groningen (West Gronings)
+    - Groningen-East Frisian (Gronings-Oostfries)
+    - Veenkoloniaals (Veen Colony)
+    anglicanized_name: Gronings
+    country_codes:
+    - NL
+    gateway_language: UNKNOWN
+    lang_code: gos
+    lang_direction: ltr
+    lang_name: Gronings
+    lang_region: Europe
+    

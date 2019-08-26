@@ -1,11 +1,15 @@
 {
-    "pk": 1173,
-    "lc": "cdz",
+    "gw": false,
     "ISO-639-3": "cdz",
-    "ln": "Koda",
-    "ang": "Koda",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1173,
     "lr": "Asia",
+    "lc": "cdz",
+    "cc": [
+        "BD",
+        "IN"
+    ],
     "alt": [
         "Kaora",
         "Kora",
@@ -15,11 +19,7 @@
         "Mudi",
         "Mudikora"
     ],
-    "cc": [
-        "BD",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "ang": "Koda",
+    "gwcode": "bn",
+    "ln": "Koda"
 }

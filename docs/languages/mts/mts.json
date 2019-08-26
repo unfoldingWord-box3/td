@@ -1,11 +1,14 @@
 {
-    "pk": 4139,
-    "lc": "mts",
+    "gw": false,
     "ISO-639-3": "mts",
-    "ln": "Yora",
-    "ang": "Yora",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 4139,
     "lr": "Americas",
+    "lc": "mts",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Manu Park Panoan",
         "Nahua",
@@ -13,10 +16,7 @@
         "Yoranahua",
         "Yura"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Yora",
+    "gwcode": "es-419",
+    "ln": "Yora"
 }

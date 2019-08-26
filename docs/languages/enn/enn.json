@@ -1,20 +1,20 @@
 {
-    "pk": 1756,
-    "lc": "enn",
+    "gw": false,
     "ISO-639-3": "enn",
-    "ln": "Engenni",
-    "ang": "Engenni",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1756,
     "lr": "Africa",
+    "lc": "enn",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Egene",
         "Ngene",
         "Zarama"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Engenni",
+    "gwcode": "en",
+    "ln": "Engenni"
 }

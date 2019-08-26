@@ -1,11 +1,16 @@
 {
-    "pk": 5371,
-    "lc": "rki",
+    "gw": false,
     "ISO-639-3": "rki",
-    "ln": "Rakhine",
-    "ang": "Rakhine",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 5371,
     "lr": "Asia",
+    "lc": "rki",
+    "cc": [
+        "BD",
+        "IN",
+        "MM"
+    ],
     "alt": [
         "Mogh",
         "Rakkhaine",
@@ -20,12 +25,7 @@
         "Man Aung (Chebuda Island)",
         "Mrauk-U"
     ],
-    "cc": [
-        "BD",
-        "IN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Rakhine",
+    "gwcode": "my",
+    "ln": "Rakhine"
 }

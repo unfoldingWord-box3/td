@@ -1,18 +1,18 @@
 {
-    "pk": 4701,
-    "lc": "nvm",
+    "gw": false,
     "ISO-639-3": "nvm",
-    "ln": "Namiae",
-    "ang": "Namiae",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4701,
     "lr": "Pacific",
-    "alt": [
-        "Namiai"
-    ],
+    "lc": "nvm",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Namiai"
+    ],
+    "ang": "Namiae",
+    "gwcode": "tpi",
+    "ln": "Namiae"
 }

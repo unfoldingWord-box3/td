@@ -1,18 +1,18 @@
 {
-    "pk": 5679,
-    "lc": "sky",
+    "gw": false,
     "ISO-639-3": "sky",
-    "ln": "Sikaiana",
-    "ang": "Sikaiana",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 5679,
     "lr": "Pacific",
-    "alt": [
-        "Sikayana"
-    ],
+    "lc": "sky",
     "cc": [
         "SB"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "alt": [
+        "Sikayana"
+    ],
+    "ang": "Sikaiana",
+    "gwcode": "UNKNOWN",
+    "ln": "Sikaiana"
 }

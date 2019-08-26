@@ -1,11 +1,15 @@
 {
-    "pk": 4547,
-    "lc": "nmn",
+    "gw": false,
     "ISO-639-3": "nmn",
-    "ln": "!X\u00f3\u00f5",
-    "ang": "!X\u00f3\u00f5",
     "hc": "BW",
+    "ld": "ltr",
+    "pk": 4547,
     "lr": "Africa",
+    "lc": "nmn",
+    "cc": [
+        "ZA",
+        "BW"
+    ],
     "alt": [
         "Ng|amani",
         "Tsasi",
@@ -29,11 +33,7 @@
         "Khatia",
         "|Kusi"
     ],
-    "cc": [
-        "ZA",
-        "BW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "!X\u00f3\u00f5",
+    "gwcode": "en",
+    "ln": "!X\u00f3\u00f5"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 1034,
-    "lc": "bwr",
+    "gw": false,
     "ISO-639-3": "bwr",
-    "ln": "Bura-Pabir",
-    "ang": "Bura-Pabir",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1034,
     "lr": "Africa",
+    "lc": "bwr",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Babir",
         "Barburr",
@@ -21,10 +24,7 @@
         "Hill Bura",
         "Plain Bura"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Bura-Pabir",
+    "gwcode": "en",
+    "ln": "Bura-Pabir"
 }

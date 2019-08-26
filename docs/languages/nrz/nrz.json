@@ -1,20 +1,20 @@
 {
-    "pk": 4637,
-    "lc": "nrz",
+    "gw": false,
     "ISO-639-3": "nrz",
-    "ln": "Lala",
-    "ang": "Lala",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4637,
     "lr": "Pacific",
+    "lc": "nrz",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Ala'ala",
         "Nara",
         "Pokau"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Lala",
+    "gwcode": "tpi",
+    "ln": "Lala"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 6866,
-    "lc": "xau",
+    "gw": false,
     "ISO-639-3": "xau",
-    "ln": "Kauwera",
-    "ang": "Kauwera",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6866,
     "lr": "Asia",
+    "lc": "xau",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Kabera",
         "Kaowerawedj",
@@ -15,10 +18,7 @@
         "Koassa",
         "Tekutameso"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kauwera",
+    "gwcode": "id",
+    "ln": "Kauwera"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 3692,
-    "lc": "mbq",
+    "gw": false,
     "ISO-639-3": "mbq",
-    "ln": "Maisin",
-    "ang": "Maisin",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3692,
     "lr": "Pacific",
-    "alt": [
-        "Maisan"
-    ],
+    "lc": "mbq",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Maisan"
+    ],
+    "ang": "Maisin",
+    "gwcode": "tpi",
+    "ln": "Maisin"
 }

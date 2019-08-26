@@ -1,20 +1,20 @@
 {
-    "pk": 5197,
-    "lc": "pta",
+    "gw": false,
     "ISO-639-3": "pta",
-    "ln": "Pai Tavytera",
-    "ang": "Pai Tavytera",
     "hc": "PY",
+    "ld": "ltr",
+    "pk": 5197,
     "lr": "Americas",
+    "lc": "pta",
+    "cc": [
+        "PY"
+    ],
     "alt": [
         "Ava",
         "Pai",
         "Tavytera"
     ],
-    "cc": [
-        "PY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Pai Tavytera",
+    "gwcode": "es-419",
+    "ln": "Pai Tavytera"
 }

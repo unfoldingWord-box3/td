@@ -1,21 +1,21 @@
 {
-    "pk": 4556,
-    "lc": "nmy",
+    "gw": false,
     "ISO-639-3": "nmy",
-    "ln": "\u7d0d\u6728\u4f9d\u8a9e",
-    "ang": "Namuyi",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 4556,
     "lr": "Asia",
+    "lc": "nmy",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Naimuci",
         "Naimuzi",
         "Western Namuyi",
         "Eastern Namuyi"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Namuyi",
+    "gwcode": "zh",
+    "ln": "\u7d0d\u6728\u4f9d\u8a9e"
 }

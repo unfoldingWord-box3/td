@@ -1,19 +1,19 @@
 {
-    "pk": 5557,
-    "lc": "seq",
+    "gw": false,
     "ISO-639-3": "seq",
-    "ln": "Senara S\u00e9noufo",
-    "ang": "S\u00e9noufo, Senara",
     "hc": "BF",
+    "ld": "ltr",
+    "pk": 5557,
     "lr": "Africa",
+    "lc": "seq",
+    "cc": [
+        "BF"
+    ],
     "alt": [
         "Niangolo",
         "S\u00e9noufo"
     ],
-    "cc": [
-        "BF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "S\u00e9noufo, Senara",
+    "gwcode": "fr",
+    "ln": "Senara S\u00e9noufo"
 }

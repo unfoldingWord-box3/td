@@ -1,18 +1,18 @@
 {
-    "pk": 4511,
-    "lc": "nks",
+    "gw": false,
     "ISO-639-3": "nks",
-    "ln": "North Asmat",
-    "ang": "Asmat, North",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4511,
     "lr": "Asia",
-    "alt": [
-        "Keenok"
-    ],
+    "lc": "nks",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Keenok"
+    ],
+    "ang": "Asmat, North",
+    "gwcode": "id",
+    "ln": "North Asmat"
 }

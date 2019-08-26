@@ -1,19 +1,19 @@
 {
-    "pk": 7074,
-    "lc": "xtw",
+    "gw": false,
     "ISO-639-3": "xtw",
-    "ln": "Tawand\u00ea",
-    "ang": "Tawand\u00ea",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 7074,
     "lr": "Americas",
+    "lc": "xtw",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Da'wan'du",
         "Tawaind\u00ea"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Tawand\u00ea",
+    "gwcode": "pt",
+    "ln": "Tawand\u00ea"
 }

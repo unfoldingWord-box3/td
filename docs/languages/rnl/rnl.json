@@ -1,18 +1,18 @@
 {
-    "pk": 5401,
-    "lc": "rnl",
+    "gw": false,
     "ISO-639-3": "rnl",
-    "ln": "Ranglong",
-    "ang": "Ranglong",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5401,
     "lr": "Asia",
-    "alt": [
-        "Ronglong"
-    ],
+    "lc": "rnl",
     "cc": [
         "IN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "alt": [
+        "Ronglong"
+    ],
+    "ang": "Ranglong",
+    "gwcode": "bn",
+    "ln": "Ranglong"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 560,
-    "lc": "bdb",
+    "gw": false,
     "ISO-639-3": "bdb",
-    "ln": "Basap",
-    "ang": "Basap",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 560,
     "lr": "Asia",
-    "alt": [
-        "Bosap"
-    ],
+    "lc": "bdb",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Bosap"
+    ],
+    "ang": "Basap",
+    "gwcode": "id",
+    "ln": "Basap"
 }

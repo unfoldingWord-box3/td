@@ -1,19 +1,19 @@
 {
-    "pk": 6310,
-    "lc": "trm",
+    "gw": false,
     "ISO-639-3": "trm",
-    "ln": "Tregami",
-    "ang": "Tregami",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 6310,
     "lr": "Asia",
+    "lc": "trm",
+    "cc": [
+        "AF"
+    ],
     "alt": [
         "Katar Gambir",
         "Trigami"
     ],
-    "cc": [
-        "AF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Tregami",
+    "gwcode": "ps",
+    "ln": "Tregami"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 548,
-    "lc": "bco",
+    "gw": false,
     "ISO-639-3": "bco",
-    "ln": "Kaluli",
-    "ang": "Kaluli",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 548,
     "lr": "Pacific",
-    "alt": [
-        "Bosavi"
-    ],
+    "lc": "bco",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Bosavi"
+    ],
+    "ang": "Kaluli",
+    "gwcode": "tpi",
+    "ln": "Kaluli"
 }

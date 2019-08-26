@@ -1,19 +1,19 @@
 {
-    "pk": 4468,
-    "lc": "niq",
+    "gw": false,
     "ISO-639-3": "niq",
-    "ln": "Nandi",
-    "ang": "Nandi",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 4468,
     "lr": "Africa",
+    "lc": "niq",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Cemual",
         "Naandi"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Nandi",
+    "gwcode": "sw",
+    "ln": "Nandi"
 }

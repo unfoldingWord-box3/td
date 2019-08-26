@@ -1,18 +1,18 @@
 {
-    "pk": 398,
-    "lc": "att",
+    "gw": false,
     "ISO-639-3": "att",
-    "ln": "Pamplona Atta",
-    "ang": "Atta, Pamplona",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 398,
     "lr": "Asia",
-    "alt": [
-        "Northern Cagayan Negrito"
-    ],
+    "lc": "att",
     "cc": [
         "PH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ilo"
+    "alt": [
+        "Northern Cagayan Negrito"
+    ],
+    "ang": "Atta, Pamplona",
+    "gwcode": "ilo",
+    "ln": "Pamplona Atta"
 }

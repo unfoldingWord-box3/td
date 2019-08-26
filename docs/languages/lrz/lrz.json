@@ -1,21 +1,21 @@
 {
-    "pk": 3592,
-    "lc": "lrz",
+    "gw": false,
     "ISO-639-3": "lrz",
-    "ln": "Lemerig",
-    "ang": "Lemerig",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 3592,
     "lr": "Pacific",
+    "lc": "lrz",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Bek",
         "Leon",
         "P\u00e4k",
         "Sasar"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Lemerig",
+    "gwcode": "fr",
+    "ln": "Lemerig"
 }

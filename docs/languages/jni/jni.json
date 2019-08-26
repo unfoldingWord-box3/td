@@ -1,21 +1,21 @@
 {
-    "pk": 2652,
-    "lc": "jni",
+    "gw": false,
     "ISO-639-3": "jni",
-    "ln": "Janji",
-    "ang": "Janji",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2652,
     "lr": "Africa",
+    "lc": "jni",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ajanji",
         "Anafejanzi",
         "Jenji",
         "Tijanji"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Janji",
+    "gwcode": "en",
+    "ln": "Janji"
 }

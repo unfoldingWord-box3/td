@@ -1,19 +1,19 @@
 {
-    "pk": 1243,
-    "lc": "ckx",
+    "gw": false,
     "ISO-639-3": "ckx",
-    "ln": "Caka",
-    "ang": "Caka",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 1243,
     "lr": "Africa",
+    "lc": "ckx",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Assaka (Adzu Balaka)",
         "Batanga (Adzu Batanga)"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Caka",
+    "gwcode": "fr",
+    "ln": "Caka"
 }

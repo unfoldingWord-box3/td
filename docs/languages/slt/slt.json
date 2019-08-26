@@ -1,20 +1,20 @@
 {
-    "pk": 5696,
-    "lc": "slt",
+    "gw": false,
     "ISO-639-3": "slt",
-    "ln": "Sila",
-    "ang": "Sila",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 5696,
     "lr": "Asia",
+    "lc": "slt",
+    "cc": [
+        "LA"
+    ],
     "alt": [
         "Asong",
         "Sida",
         "Kha Pai"
     ],
-    "cc": [
-        "LA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "Sila",
+    "gwcode": "lo",
+    "ln": "Sila"
 }

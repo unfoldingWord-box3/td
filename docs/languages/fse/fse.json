@@ -1,18 +1,18 @@
 {
-    "pk": 1879,
-    "lc": "fse",
+    "gw": false,
     "ISO-639-3": "fse",
-    "ln": "Finnish Sign Language",
-    "ang": "Finnish Sign Language",
     "hc": "FI",
+    "ld": "ltr",
+    "pk": 1879,
     "lr": "Europe",
-    "alt": [
-        "Viittomakieli"
-    ],
+    "lc": "fse",
     "cc": [
         "FI"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Viittomakieli"
+    ],
+    "ang": "Finnish Sign Language",
+    "gwcode": "en",
+    "ln": "Finnish Sign Language"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 2613,
-    "lc": "jia",
+    "gw": false,
     "ISO-639-3": "jia",
-    "ln": "Jina",
-    "ang": "Jina",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 2613,
     "lr": "Africa",
+    "lc": "jia",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Zina",
         "Muxule (Muxuli)",
@@ -13,10 +16,7 @@
         "Tchide (Sede)",
         "Jina (Zine)"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Jina",
+    "gwcode": "fr",
+    "ln": "Jina"
 }

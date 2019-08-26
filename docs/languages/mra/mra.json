@@ -1,11 +1,15 @@
 {
-    "pk": 4071,
-    "lc": "mra",
+    "gw": false,
     "ISO-639-3": "mra",
-    "ln": "\u0e20\u0e32\u0e29\u0e32\u0e21\u0e25\u0e32\u0e1a\u0e23\u0e35",
-    "ang": "Mlabri",
     "hc": "TH",
+    "ld": "ltr",
+    "pk": 4071,
     "lr": "Asia",
+    "lc": "mra",
+    "cc": [
+        "LA",
+        "TH"
+    ],
     "alt": [
         "Ma Ku",
         "Mabri",
@@ -18,11 +22,7 @@
         "Mla Bri",
         "Phi Thong"
     ],
-    "cc": [
-        "LA",
-        "TH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "th"
+    "ang": "Mlabri",
+    "gwcode": "th",
+    "ln": "\u0e20\u0e32\u0e29\u0e32\u0e21\u0e25\u0e32\u0e1a\u0e23\u0e35"
 }

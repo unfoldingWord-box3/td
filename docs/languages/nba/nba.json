@@ -1,11 +1,15 @@
 {
-    "pk": 4310,
-    "lc": "nba",
+    "gw": false,
     "ISO-639-3": "nba",
-    "ln": "Nyemba",
-    "ang": "Nyemba",
     "hc": "AO",
+    "ld": "ltr",
+    "pk": 4310,
     "lr": "Africa",
+    "lc": "nba",
+    "cc": [
+        "AO",
+        "NA"
+    ],
     "alt": [
         "Gangela",
         "Ganguela",
@@ -13,11 +17,7 @@
         "Ngangela",
         "Nhemba"
     ],
-    "cc": [
-        "AO",
-        "NA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Nyemba",
+    "gwcode": "pt",
+    "ln": "Nyemba"
 }

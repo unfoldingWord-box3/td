@@ -1,19 +1,19 @@
 {
-    "pk": 4366,
-    "lc": "ndn",
+    "gw": false,
     "ISO-639-3": "ndn",
-    "ln": "Ngundi",
-    "ang": "Ngundi",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 4366,
     "lr": "Africa",
+    "lc": "ndn",
+    "cc": [
+        "CG"
+    ],
     "alt": [
         "Ingundi",
         "Ngondi"
     ],
-    "cc": [
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ngundi",
+    "gwcode": "fr",
+    "ln": "Ngundi"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 4082,
-    "lc": "mrm",
+    "gw": false,
     "ISO-639-3": "mrm",
-    "ln": "Merlav",
-    "ang": "Mwerlap",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 4082,
     "lr": "Pacific",
+    "lc": "mrm",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Merelava",
         "Merlav",
@@ -13,10 +16,7 @@
         "Mwerig (Merig)",
         "West Merelava"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mwerlap",
+    "gwcode": "fr",
+    "ln": "Merlav"
 }

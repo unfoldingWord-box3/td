@@ -1,20 +1,20 @@
 {
-    "pk": 1984,
-    "lc": "geg",
+    "gw": false,
     "ISO-639-3": "geg",
-    "ln": "Gengle",
-    "ang": "Gengle",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1984,
     "lr": "Africa",
+    "lc": "geg",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Momu",
         "Wegele",
         "Yagele"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gengle",
+    "gwcode": "en",
+    "ln": "Gengle"
 }

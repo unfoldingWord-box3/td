@@ -1,19 +1,19 @@
 {
-    "pk": 3609,
-    "lc": "ltg",
+    "gw": false,
     "ISO-639-3": "ltg",
-    "ln": "Latgalian",
-    "ang": "Latgalian",
     "hc": "LV",
+    "ld": "ltr",
+    "pk": 3609,
     "lr": "Europe",
+    "lc": "ltg",
+    "cc": [
+        "LV"
+    ],
     "alt": [
         "Latgalie\u0161u",
         "High Latvian"
     ],
-    "cc": [
-        "LV"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Latgalian",
+    "gwcode": "en",
+    "ln": "Latgalian"
 }

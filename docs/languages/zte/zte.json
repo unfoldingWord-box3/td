@@ -1,19 +1,19 @@
 {
-    "pk": 7475,
-    "lc": "zte",
+    "gw": false,
     "ISO-639-3": "zte",
-    "ln": "Elotepec Zapotec",
-    "ang": "Zapotec, Elotepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7475,
     "lr": "Americas",
+    "lc": "zte",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Papabuco",
         "Zapoteco de San Juan Elotepec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Elotepec",
+    "gwcode": "es-419",
+    "ln": "Elotepec Zapotec"
 }

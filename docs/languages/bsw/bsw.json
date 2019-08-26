@@ -1,19 +1,19 @@
 {
-    "pk": 943,
-    "lc": "bsw",
+    "gw": false,
     "ISO-639-3": "bsw",
-    "ln": "Baiso",
-    "ang": "Baiso",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 943,
     "lr": "Africa",
+    "lc": "bsw",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Alkali",
         "Bayso"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Baiso",
+    "gwcode": "am",
+    "ln": "Baiso"
 }

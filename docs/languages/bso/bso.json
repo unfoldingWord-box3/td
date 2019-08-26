@@ -1,20 +1,20 @@
 {
-    "pk": 936,
-    "lc": "bso",
+    "gw": false,
     "ISO-639-3": "bso",
-    "ln": "Buso",
-    "ang": "Buso",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 936,
     "lr": "Africa",
+    "lc": "bso",
+    "cc": [
+        "TD"
+    ],
     "alt": [
         "Bousso",
         "Busso",
         "Dam de Bousso"
     ],
-    "cc": [
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Buso",
+    "gwcode": "ar",
+    "ln": "Buso"
 }

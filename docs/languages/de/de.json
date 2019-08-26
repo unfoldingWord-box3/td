@@ -1,17 +1,11 @@
 {
-    "pk": 1473,
-    "lc": "de",
+    "gw": false,
     "ISO-639-3": "deu",
-    "ln": "Deutsch",
-    "ang": "German",
     "hc": "DE",
+    "ld": "ltr",
+    "pk": 1473,
     "lr": "Europe",
-    "alt": [
-        "Deutsch",
-        "Tedesco",
-        "K\u00e4rntnerisch",
-        "Transylvanian"
-    ],
+    "lc": "de",
     "cc": [
         "AT",
         "BE",
@@ -40,7 +34,13 @@
         "SG",
         "NA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Deutsch",
+        "Tedesco",
+        "K\u00e4rntnerisch",
+        "Transylvanian"
+    ],
+    "ang": "German",
+    "gwcode": "en",
+    "ln": "Deutsch"
 }

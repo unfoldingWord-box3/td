@@ -1,22 +1,22 @@
 {
-    "pk": 2211,
-    "lc": "gym",
+    "gw": false,
     "ISO-639-3": "gym",
-    "ln": "Ng\u00e4bere",
-    "ang": "Ng\u00e4bere",
     "hc": "PA",
+    "ld": "ltr",
+    "pk": 2211,
     "lr": "Americas",
+    "lc": "gym",
+    "cc": [
+        "PA",
+        "CR"
+    ],
     "alt": [
         "Guaym\u00ed",
         "Chiriqui",
         "Eastern Guaym\u00ed (Chiriqu\u00ed)",
         "Tol\u00e9"
     ],
-    "cc": [
-        "PA",
-        "CR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Ng\u00e4bere",
+    "gwcode": "es-419",
+    "ln": "Ng\u00e4bere"
 }

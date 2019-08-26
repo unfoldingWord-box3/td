@@ -1,0 +1,22 @@
+.. _xpp:
+
+Puyo-Paekche
+============
+
+This language is spoken in the following countries:
+
+* KR: Korea, Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: xpp
+    alternate_names: []
+    anglicanized_name: Puyo-Paekche
+    country_codes:
+    - KR
+    gateway_language: UNKNOWN
+    lang_code: xpp
+    lang_direction: ltr
+    lang_name: Puyo-Paekche
+    lang_region: Asia
+    

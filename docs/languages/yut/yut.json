@@ -1,18 +1,18 @@
 {
-    "pk": 7307,
-    "lc": "yut",
+    "gw": false,
     "ISO-639-3": "yut",
-    "ln": "Yopno",
-    "ang": "Yopno",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 7307,
     "lr": "Pacific",
-    "alt": [
-        "Yupna"
-    ],
+    "lc": "yut",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Yupna"
+    ],
+    "ang": "Yopno",
+    "gwcode": "tpi",
+    "ln": "Yopno"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 2641,
-    "lc": "jmd",
+    "gw": false,
     "ISO-639-3": "jmd",
-    "ln": "Yamdena",
-    "ang": "Yamdena",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2641,
     "lr": "Asia",
+    "lc": "jmd",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Jamden",
         "Jamdena",
@@ -13,10 +16,7 @@
         "North Yamdena (Nus Das)",
         "South Yamdena (Nus Bab)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Yamdena",
+    "gwcode": "id",
+    "ln": "Yamdena"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 3906,
-    "lc": "mkf",
+    "gw": false,
     "ISO-639-3": "mkf",
-    "ln": "Miya",
-    "ang": "Miya",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3906,
     "lr": "Africa",
+    "lc": "mkf",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Miyawa",
         "Muya"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Miya",
+    "gwcode": "en",
+    "ln": "Miya"
 }

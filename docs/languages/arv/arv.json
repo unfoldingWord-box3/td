@@ -1,19 +1,19 @@
 {
-    "pk": 351,
-    "lc": "arv",
+    "gw": false,
     "ISO-639-3": "arv",
-    "ln": "Arbore",
-    "ang": "Arbore",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 351,
     "lr": "Africa",
+    "lc": "arv",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Arbora",
         "Irbore"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Arbore",
+    "gwcode": "am",
+    "ln": "Arbore"
 }

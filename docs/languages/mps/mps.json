@@ -1,19 +1,19 @@
 {
-    "pk": 4038,
-    "lc": "mps",
+    "gw": false,
     "ISO-639-3": "mps",
-    "ln": "Dadibi",
-    "ang": "Dadibi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4038,
     "lr": "Pacific",
+    "lc": "mps",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Daribi",
         "Karimui"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Dadibi",
+    "gwcode": "tpi",
+    "ln": "Dadibi"
 }

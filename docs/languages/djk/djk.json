@@ -1,11 +1,16 @@
 {
-    "pk": 1548,
-    "lc": "djk",
+    "gw": false,
     "ISO-639-3": "djk",
-    "ln": "Eastern Maroon Creole",
-    "ang": "Aukan",
     "hc": "SR",
+    "ld": "ltr",
+    "pk": 1548,
     "lr": "Americas",
+    "lc": "djk",
+    "cc": [
+        "GF",
+        "GY",
+        "SR"
+    ],
     "alt": [
         "Businenge Tongo",
         "Businengee Tongo",
@@ -26,12 +31,7 @@
         "\"Djoeka\"",
         "Ndyuka"
     ],
-    "cc": [
-        "GF",
-        "GY",
-        "SR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "nl"
+    "ang": "Aukan",
+    "gwcode": "UNKNOWN",
+    "ln": "Eastern Maroon Creole"
 }

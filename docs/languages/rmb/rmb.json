@@ -1,21 +1,21 @@
 {
-    "pk": 5376,
-    "lc": "rmb",
+    "gw": false,
     "ISO-639-3": "rmb",
-    "ln": "Rembarunga",
-    "ang": "Rembarunga",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 5376,
     "lr": "Pacific",
+    "lc": "rmb",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Kaltuy",
         "Rainbargo",
         "Rembarranga",
         "Rembarrunga"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Rembarunga",
+    "gwcode": "en",
+    "ln": "Rembarunga"
 }

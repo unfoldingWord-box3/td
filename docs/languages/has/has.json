@@ -1,18 +1,18 @@
 {
-    "pk": 2236,
-    "lc": "has",
+    "gw": false,
     "ISO-639-3": "has",
-    "ln": "Haisla",
-    "ang": "Haisla",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 2236,
     "lr": "Americas",
-    "alt": [
-        "Kitimat (Kitamat)"
-    ],
+    "lc": "has",
     "cc": [
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Kitimat (Kitamat)"
+    ],
+    "ang": "Haisla",
+    "gwcode": "en",
+    "ln": "Haisla"
 }

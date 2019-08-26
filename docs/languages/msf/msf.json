@@ -1,11 +1,14 @@
 {
-    "pk": 4101,
-    "lc": "msf",
+    "gw": false,
     "ISO-639-3": "msf",
-    "ln": "Mekwei",
-    "ang": "Mekwei",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4101,
     "lr": "Asia",
+    "lc": "msf",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Demenggong-Waibron-Bano",
         "Menggei",
@@ -17,10 +20,7 @@
         "Munkei",
         "Waipu"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Mekwei",
+    "gwcode": "id",
+    "ln": "Mekwei"
 }

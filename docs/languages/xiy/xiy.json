@@ -1,19 +1,19 @@
 {
-    "pk": 6930,
-    "lc": "xiy",
+    "gw": false,
     "ISO-639-3": "xiy",
-    "ln": "Xipaya",
-    "ang": "Xipaya",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 6930,
     "lr": "Americas",
+    "lc": "xiy",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Shipaja",
         "Xipaia"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Xipaya",
+    "gwcode": "pt",
+    "ln": "Xipaya"
 }

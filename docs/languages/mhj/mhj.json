@@ -1,21 +1,21 @@
 {
-    "pk": 3837,
-    "lc": "mhj",
+    "gw": false,
     "ISO-639-3": "mhj",
-    "ln": "Mogholi",
-    "ang": "Mogholi",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 3837,
     "lr": "Asia",
+    "lc": "mhj",
+    "cc": [
+        "AF"
+    ],
     "alt": [
         "Moghol",
         "Mogol",
         "Mogul",
         "Mongul"
     ],
-    "cc": [
-        "AF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Mogholi",
+    "gwcode": "ps",
+    "ln": "Mogholi"
 }

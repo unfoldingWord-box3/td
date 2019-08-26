@@ -1,11 +1,17 @@
 {
-    "pk": 508,
-    "lc": "bba",
+    "gw": false,
     "ISO-639-3": "bba",
-    "ln": "Baatonum",
-    "ang": "Baatonum",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 508,
     "lr": "Africa",
+    "lc": "bba",
+    "cc": [
+        "BJ",
+        "BF",
+        "NG",
+        "TG"
+    ],
     "alt": [
         "Baatombu",
         "Baatonu",
@@ -25,13 +31,7 @@
         "Borgu",
         "Zana"
     ],
-    "cc": [
-        "BJ",
-        "BF",
-        "NG",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Baatonum",
+    "gwcode": "fr",
+    "ln": "Baatonum"
 }

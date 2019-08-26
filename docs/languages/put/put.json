@@ -1,18 +1,18 @@
 {
-    "pk": 5224,
-    "lc": "put",
+    "gw": false,
     "ISO-639-3": "put",
-    "ln": "Putoh",
-    "ang": "Putoh",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5224,
     "lr": "Asia",
-    "alt": [
-        "Putuk"
-    ],
+    "lc": "put",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "Putuk"
+    ],
+    "ang": "Putoh",
+    "gwcode": "id",
+    "ln": "Putoh"
 }

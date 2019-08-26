@@ -1,11 +1,14 @@
 {
-    "pk": 1408,
-    "lc": "cwe",
+    "gw": false,
     "ISO-639-3": "cwe",
-    "ln": "Kwere",
-    "ang": "Kwere",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 1408,
     "lr": "Africa",
+    "lc": "cwe",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kakwere",
         "Kikwere",
@@ -15,10 +18,7 @@
         "Ng'were",
         "Tsinghwele"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Kwere",
+    "gwcode": "sw",
+    "ln": "Kwere"
 }

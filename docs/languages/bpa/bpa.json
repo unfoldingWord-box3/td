@@ -1,19 +1,19 @@
 {
-    "pk": 854,
-    "lc": "bpa",
+    "gw": false,
     "ISO-639-3": "bpa",
-    "ln": "Daakaka",
-    "ang": "Daakaka",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 854,
     "lr": "Pacific",
+    "lc": "bpa",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Baiap",
         "South Ambrym"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Daakaka",
+    "gwcode": "fr",
+    "ln": "Daakaka"
 }

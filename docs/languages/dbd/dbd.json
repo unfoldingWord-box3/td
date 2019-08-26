@@ -1,21 +1,21 @@
 {
-    "pk": 1443,
-    "lc": "dbd",
+    "gw": false,
     "ISO-639-3": "dbd",
-    "ln": "Dadiya",
-    "ang": "Dadiya",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1443,
     "lr": "Africa",
+    "lc": "dbd",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Daadiya",
         "Dadia",
         "Loodiya",
         "Tunga (Boleri)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Dadiya",
+    "gwcode": "en",
+    "ln": "Dadiya"
 }

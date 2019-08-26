@@ -1,18 +1,18 @@
 {
-    "pk": 5895,
-    "lc": "svb",
+    "gw": false,
     "ISO-639-3": "svb",
-    "ln": "Ulau-Suain",
-    "ang": "Ulau-Suain",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5895,
     "lr": "Pacific",
-    "alt": [
-        "Suain"
-    ],
+    "lc": "svb",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Suain"
+    ],
+    "ang": "Ulau-Suain",
+    "gwcode": "tpi",
+    "ln": "Ulau-Suain"
 }

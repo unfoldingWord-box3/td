@@ -1,19 +1,19 @@
 {
-    "pk": 2439,
-    "lc": "ige",
+    "gw": false,
     "ISO-639-3": "ige",
-    "ln": "Igede",
-    "ang": "Igede",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2439,
     "lr": "Africa",
+    "lc": "ige",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Egede",
         "Oju (Central Igede)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Igede",
+    "gwcode": "en",
+    "ln": "Igede"
 }

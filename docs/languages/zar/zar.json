@@ -1,20 +1,20 @@
 {
-    "pk": 7347,
-    "lc": "zar",
+    "gw": false,
     "ISO-639-3": "zar",
-    "ln": "Rinc\u00f3n Zapotec",
-    "ang": "Zapotec, Rinc\u00f3n",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7347,
     "lr": "Americas",
+    "lc": "zar",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Northern Villa Alta Zapotec",
         "Zapoteco de Yagallo",
         "Zapoteco del Rinc\u00f3n"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Rinc\u00f3n",
+    "gwcode": "es-419",
+    "ln": "Rinc\u00f3n Zapotec"
 }

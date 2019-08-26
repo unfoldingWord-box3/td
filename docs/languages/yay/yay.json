@@ -1,11 +1,14 @@
 {
-    "pk": 7134,
-    "lc": "yay",
+    "gw": false,
     "ISO-639-3": "yay",
-    "ln": "Agwagwune",
-    "ang": "Agwagwune",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 7134,
     "lr": "Africa",
+    "lc": "yay",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Agwaguna",
         "Akurakura",
@@ -22,10 +25,7 @@
         "Obini",
         "Odim"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Agwagwune",
+    "gwcode": "en",
+    "ln": "Agwagwune"
 }

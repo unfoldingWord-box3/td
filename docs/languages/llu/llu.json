@@ -1,18 +1,18 @@
 {
-    "pk": 3511,
-    "lc": "llu",
+    "gw": false,
     "ISO-639-3": "llu",
-    "ln": "Lau",
-    "ang": "Lau",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 3511,
     "lr": "Pacific",
-    "alt": [
-        "Dai (Ndai)"
-    ],
+    "lc": "llu",
     "cc": [
         "SB"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "alt": [
+        "Dai (Ndai)"
+    ],
+    "ang": "Lau",
+    "gwcode": "UNKNOWN",
+    "ln": "Lau"
 }

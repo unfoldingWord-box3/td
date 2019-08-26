@@ -1,11 +1,14 @@
 {
-    "pk": 6356,
-    "lc": "tti",
+    "gw": false,
     "ISO-639-3": "tti",
-    "ln": "Tobati",
-    "ang": "Tobati",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6356,
     "lr": "Asia",
+    "lc": "tti",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Enggros",
         "Humboldt Jotafa",
@@ -15,10 +18,7 @@
         "Yautefa",
         "Yotafa"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tobati",
+    "gwcode": "id",
+    "ln": "Tobati"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 1426,
-    "lc": "dah",
+    "gw": false,
     "ISO-639-3": "dah",
-    "ln": "Gwahatike",
-    "ang": "Gwahatike",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1426,
     "lr": "Pacific",
+    "lc": "dah",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Dahating",
         "Gwatike"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Gwahatike",
+    "gwcode": "tpi",
+    "ln": "Gwahatike"
 }

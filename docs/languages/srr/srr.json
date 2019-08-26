@@ -1,11 +1,15 @@
 {
-    "pk": 5818,
-    "lc": "srr",
+    "gw": false,
     "ISO-639-3": "srr",
-    "ln": "Serer",
-    "ang": "Serer-Sine",
     "hc": "SN",
+    "ld": "ltr",
+    "pk": 5818,
     "lr": "Africa",
+    "lc": "srr",
+    "cc": [
+        "GM",
+        "SN"
+    ],
     "alt": [
         "Seereer",
         "Serer",
@@ -18,11 +22,7 @@
         "Sine-Sine",
         "Dyegueme (Gyegem)"
     ],
-    "cc": [
-        "GM",
-        "SN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Serer-Sine",
+    "gwcode": "fr",
+    "ln": "Serer"
 }

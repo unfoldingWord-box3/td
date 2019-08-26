@@ -1,18 +1,18 @@
 {
-    "pk": 6060,
-    "lc": "tei",
+    "gw": false,
     "ISO-639-3": "tei",
-    "ln": "Torricelli",
-    "ang": "Torricelli",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6060,
     "lr": "Pacific",
-    "alt": [
-        "Lou"
-    ],
+    "lc": "tei",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Lou"
+    ],
+    "ang": "Torricelli",
+    "gwcode": "tpi",
+    "ln": "Torricelli"
 }

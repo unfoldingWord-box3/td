@@ -1,11 +1,14 @@
 {
-    "pk": 86,
-    "lc": "adt",
+    "gw": false,
     "ISO-639-3": "adt",
-    "ln": "Adnyamathanha",
-    "ang": "Adnyamathanha",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 86,
     "lr": "Pacific",
+    "lc": "adt",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Ad'n'amadana",
         "Adynyamathanha",
@@ -28,10 +31,7 @@
         "Waljbi",
         "Wipie"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Adnyamathanha",
+    "gwcode": "en",
+    "ln": "Adnyamathanha"
 }

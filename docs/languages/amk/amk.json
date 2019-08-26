@@ -1,19 +1,19 @@
 {
-    "pk": 243,
-    "lc": "amk",
+    "gw": false,
     "ISO-639-3": "amk",
-    "ln": "Ambai",
-    "ang": "Ambai",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 243,
     "lr": "Asia",
+    "lc": "amk",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Ambai (Wadapi-Laut)",
         "Ambai-Menawi"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pmy"
+    "ang": "Ambai",
+    "gwcode": "pmy",
+    "ln": "Ambai"
 }

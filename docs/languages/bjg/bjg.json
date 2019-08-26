@@ -1,11 +1,14 @@
 {
-    "pk": 713,
-    "lc": "bjg",
+    "gw": false,
     "ISO-639-3": "bjg",
-    "ln": "Bidyogo",
-    "ang": "Bidyogo",
     "hc": "GW",
+    "ld": "ltr",
+    "pk": 713,
     "lr": "Africa",
+    "lc": "bjg",
+    "cc": [
+        "GW"
+    ],
     "alt": [
         "Bijago",
         "Bijogo",
@@ -22,10 +25,7 @@
         "Anhaqui (Anhaki)",
         "Formosa"
     ],
-    "cc": [
-        "GW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Bidyogo",
+    "gwcode": "pt",
+    "ln": "Bidyogo"
 }

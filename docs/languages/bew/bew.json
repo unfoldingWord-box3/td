@@ -1,11 +1,14 @@
 {
-    "pk": 605,
-    "lc": "bew",
+    "gw": false,
     "ISO-639-3": "bew",
-    "ln": "Betawi",
-    "ang": "Betawi",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 605,
     "lr": "Asia",
+    "lc": "bew",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Batavi",
         "Batawi",
@@ -13,10 +16,7 @@
         "Jakarta Malay",
         "Melayu Jakarte"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Betawi",
+    "gwcode": "id",
+    "ln": "Betawi"
 }

@@ -1,16 +1,16 @@
 {
-    "pk": 1361,
-    "lc": "csr",
+    "gw": false,
     "ISO-639-3": "csr",
-    "ln": "Costa Rican Sign Language",
-    "ang": "Costa Rican Sign Language",
     "hc": "CR",
+    "ld": "ltr",
+    "pk": 1361,
     "lr": "Americas",
-    "alt": [],
+    "lc": "csr",
     "cc": [
         "CR"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [],
+    "ang": "Costa Rican Sign Language",
+    "gwcode": "es-419",
+    "ln": "Costa Rican Sign Language"
 }

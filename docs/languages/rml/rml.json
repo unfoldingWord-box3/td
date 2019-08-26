@@ -1,19 +1,19 @@
 {
-    "pk": 5384,
-    "lc": "rml",
+    "gw": false,
     "ISO-639-3": "rml",
-    "ln": "Baltic Romani",
-    "ang": "Romani, Baltic",
     "hc": "PL",
+    "ld": "ltr",
+    "pk": 5384,
     "lr": "Europe",
-    "alt": [
-        "Latvian Romani (Lettish Romani)"
-    ],
+    "lc": "rml",
     "cc": [
         "LV",
         "PL"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Latvian Romani (Lettish Romani)"
+    ],
+    "ang": "Romani, Baltic",
+    "gwcode": "en",
+    "ln": "Baltic Romani"
 }

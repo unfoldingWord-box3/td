@@ -1,21 +1,21 @@
 {
-    "pk": 5379,
-    "lc": "rmf",
+    "gw": false,
     "ISO-639-3": "rmf",
-    "ln": "Kalo Finnish Romani",
-    "ang": "Romani, Kalo Finnish",
     "hc": "FI",
+    "ld": "ltr",
+    "pk": 5379,
     "lr": "Europe",
+    "lc": "rmf",
+    "cc": [
+        "SE",
+        "FI"
+    ],
     "alt": [
         "F\u00edntika R\u00f3mma",
         "Gypsy",
         "Kal\u00e9"
     ],
-    "cc": [
-        "SE",
-        "FI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Romani, Kalo Finnish",
+    "gwcode": "en",
+    "ln": "Kalo Finnish Romani"
 }

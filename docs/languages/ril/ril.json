@@ -1,11 +1,15 @@
 {
-    "pk": 5359,
-    "lc": "ril",
+    "gw": false,
     "ISO-639-3": "ril",
-    "ln": "Riang (Myanmar)",
-    "ang": "Riang",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 5359,
     "lr": "Asia",
+    "lc": "ril",
+    "cc": [
+        "CN",
+        "MM"
+    ],
     "alt": [
         "Black Karen",
         "Black Riang",
@@ -29,11 +33,7 @@
         "Na'ang",
         "Xiaoan'gou"
     ],
-    "cc": [
-        "CN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Riang",
+    "gwcode": "my",
+    "ln": "Riang (Myanmar)"
 }

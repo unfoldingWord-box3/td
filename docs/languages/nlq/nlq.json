@@ -1,19 +1,19 @@
 {
-    "pk": 4528,
-    "lc": "nlq",
+    "gw": false,
     "ISO-639-3": "nlq",
-    "ln": "Lao Naga",
-    "ang": "Naga, Lao",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 4528,
     "lr": "Asia",
+    "lc": "nlq",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Law",
         "Loh"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Naga, Lao",
+    "gwcode": "my",
+    "ln": "Lao Naga"
 }

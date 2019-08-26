@@ -1,23 +1,23 @@
 {
-    "pk": 2694,
-    "lc": "kaa",
+    "gw": false,
     "ISO-639-3": "kaa",
-    "ln": "Kara-Kalpak",
-    "ang": "Karakalpak",
     "hc": "UZ",
+    "ld": "ltr",
+    "pk": 2694,
     "lr": "Asia",
-    "alt": [
-        "Karaklobuk",
-        "Klobouki",
-        "Tchorny"
-    ],
+    "lc": "kaa",
     "cc": [
         "KZ",
         "KG",
         "TM",
         "UZ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "alt": [
+        "Karaklobuk",
+        "Klobouki",
+        "Tchorny"
+    ],
+    "ang": "Karakalpak",
+    "gwcode": "ru",
+    "ln": "Kara-Kalpak"
 }

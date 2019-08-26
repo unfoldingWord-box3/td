@@ -1,18 +1,18 @@
 {
-    "pk": 4972,
-    "lc": "pda",
+    "gw": false,
     "ISO-639-3": "pda",
-    "ln": "Anam",
-    "ang": "Anam",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4972,
     "lr": "Pacific",
-    "alt": [
-        "Pondoma"
-    ],
+    "lc": "pda",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Pondoma"
+    ],
+    "ang": "Anam",
+    "gwcode": "tpi",
+    "ln": "Anam"
 }

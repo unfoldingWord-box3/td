@@ -1,19 +1,19 @@
 {
-    "pk": 5539,
-    "lc": "sdu",
+    "gw": false,
     "ISO-639-3": "sdu",
-    "ln": "Sarudu",
-    "ang": "Sarudu",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5539,
     "lr": "Asia",
+    "lc": "sdu",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Doda'",
         "Kulu (Lariang)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Sarudu",
+    "gwcode": "id",
+    "ln": "Sarudu"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 541,
-    "lc": "bch",
+    "gw": false,
     "ISO-639-3": "bch",
-    "ln": "Bariai",
-    "ang": "Bariai",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 541,
     "lr": "Pacific",
-    "alt": [
-        "Kabana"
-    ],
+    "lc": "bch",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Kabana"
+    ],
+    "ang": "Bariai",
+    "gwcode": "tpi",
+    "ln": "Bariai"
 }

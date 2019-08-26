@@ -1,20 +1,20 @@
 {
-    "pk": 4359,
-    "lc": "ndg",
+    "gw": false,
     "ISO-639-3": "ndg",
-    "ln": "Ndengereko",
-    "ang": "Ndengereko",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 4359,
     "lr": "Africa",
+    "lc": "ndg",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kindengereko",
         "Kingengereko",
         "Ndengeleko"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Ndengereko",
+    "gwcode": "sw",
+    "ln": "Ndengereko"
 }

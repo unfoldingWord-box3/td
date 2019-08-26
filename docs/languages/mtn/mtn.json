@@ -1,18 +1,18 @@
 {
-    "pk": 4134,
-    "lc": "mtn",
+    "gw": false,
     "ISO-639-3": "mtn",
-    "ln": "Matagalpa",
-    "ang": "Matagalpa",
     "hc": "NI",
+    "ld": "ltr",
+    "pk": 4134,
     "lr": "Americas",
-    "alt": [
-        "Pantasmas"
-    ],
+    "lc": "mtn",
     "cc": [
         "NI"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Pantasmas"
+    ],
+    "ang": "Matagalpa",
+    "gwcode": "es-419",
+    "ln": "Matagalpa"
 }

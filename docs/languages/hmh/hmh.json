@@ -1,19 +1,19 @@
 {
-    "pk": 2297,
-    "lc": "hmh",
+    "gw": false,
     "ISO-639-3": "hmh",
-    "ln": "Southwestern Huishui Hmong",
-    "ang": "Miao, Southwestern Huishui",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2297,
     "lr": "Asia",
+    "lc": "hmh",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Miao",
         "Southwestern Huishui Hmong"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Miao, Southwestern Huishui",
+    "gwcode": "zh",
+    "ln": "Southwestern Huishui Hmong"
 }

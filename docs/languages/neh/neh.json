@@ -1,21 +1,21 @@
 {
-    "pk": 4386,
-    "lc": "neh",
+    "gw": false,
     "ISO-639-3": "neh",
-    "ln": "Nyenkha",
-    "ang": "Nyenkha",
     "hc": "BT",
+    "ld": "ltr",
+    "pk": 4386,
     "lr": "Asia",
+    "lc": "neh",
+    "cc": [
+        "BT"
+    ],
     "alt": [
         "Henkha",
         "Lap",
         "Mangdhika",
         "Mangsdekha"
     ],
-    "cc": [
-        "BT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "dz"
+    "ang": "Nyenkha",
+    "gwcode": "UNKNOWN",
+    "ln": "Nyenkha"
 }

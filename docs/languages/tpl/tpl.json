@@ -1,11 +1,14 @@
 {
-    "pk": 6273,
-    "lc": "tpl",
+    "gw": false,
     "ISO-639-3": "tpl",
-    "ln": "Tlacoapa Me'phaa",
-    "ang": "Me\u2019phaa, Tlacoapa",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 6273,
     "lr": "Americas",
+    "lc": "tpl",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Me'phaa",
         "Me'phaa de Tlacoapa",
@@ -17,10 +20,7 @@
         "Tenamazapa",
         "Tlacoapa"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Me\u2019phaa, Tlacoapa",
+    "gwcode": "es-419",
+    "ln": "Tlacoapa Me'phaa"
 }

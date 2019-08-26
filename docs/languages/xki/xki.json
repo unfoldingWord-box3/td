@@ -1,18 +1,18 @@
 {
-    "pk": 6939,
-    "lc": "xki",
+    "gw": false,
     "ISO-639-3": "xki",
-    "ln": "Kenyan Sign Language",
-    "ang": "Kenyan Sign Language",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 6939,
     "lr": "Africa",
-    "alt": [
-        "KSL"
-    ],
+    "lc": "xki",
     "cc": [
         "KE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "alt": [
+        "KSL"
+    ],
+    "ang": "Kenyan Sign Language",
+    "gwcode": "sw",
+    "ln": "Kenyan Sign Language"
 }

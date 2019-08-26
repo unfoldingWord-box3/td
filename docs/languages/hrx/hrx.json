@@ -1,19 +1,19 @@
 {
-    "pk": 2353,
-    "lc": "hrx",
+    "gw": false,
     "ISO-639-3": "hrx",
-    "ln": "Hunsrik",
-    "ang": "Hunsrik",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2353,
     "lr": "Americas",
+    "lc": "hrx",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Hunsriker",
         "Rio Grand Hunsriker"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Hunsrik",
+    "gwcode": "pt",
+    "ln": "Hunsrik"
 }

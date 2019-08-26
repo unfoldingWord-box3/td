@@ -1,19 +1,19 @@
 {
-    "pk": 4844,
-    "lc": "ono",
+    "gw": false,
     "ISO-639-3": "ono",
-    "ln": "Onondaga",
-    "ang": "Onondaga",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 4844,
     "lr": "Americas",
-    "alt": [
-        "Onandaga"
-    ],
+    "lc": "ono",
     "cc": [
         "US",
         "CA"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Onandaga"
+    ],
+    "ang": "Onondaga",
+    "gwcode": "en",
+    "ln": "Onondaga"
 }

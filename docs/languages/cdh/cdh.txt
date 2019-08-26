@@ -1,0 +1,27 @@
+.. _cdh:
+
+Chambeali
+=========
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: cdh
+    alternate_names:
+    - Cameali
+    - Chamaya
+    - Chambiyali
+    - Chamiyali Pahari
+    - Chamya
+    anglicanized_name: Chambeali
+    country_codes:
+    - IN
+    gateway_language: UNKNOWN
+    lang_code: cdh
+    lang_direction: ltr
+    lang_name: Chambeali
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _mre:
+
+Martha's Vineyard Sign Language
+===============================
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: mre
+    alternate_names: []
+    anglicanized_name: Martha's Vineyeard Sign Language
+    country_codes:
+    - US
+    gateway_language: UNKNOWN
+    lang_code: mre
+    lang_direction: ltr
+    lang_name: Martha's Vineyard Sign Language
+    lang_region: Americas
+    

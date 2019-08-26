@@ -1,18 +1,18 @@
 {
-    "pk": 7479,
-    "lc": "ztn",
+    "gw": false,
     "ISO-639-3": "ztn",
-    "ln": "Santa Catarina Albarradas Zapotec",
-    "ang": "Zapotec, Santa Catarina Albarradas",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7479,
     "lr": "Americas",
-    "alt": [
-        "Zapoteco de Santa Catarina Albarradas"
-    ],
+    "lc": "ztn",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Zapoteco de Santa Catarina Albarradas"
+    ],
+    "ang": "Zapotec, Santa Catarina Albarradas",
+    "gwcode": "es-419",
+    "ln": "Santa Catarina Albarradas Zapotec"
 }

@@ -1,11 +1,16 @@
 {
-    "pk": 2705,
-    "lc": "kao",
+    "gw": false,
     "ISO-639-3": "kao",
-    "ln": "Xaasongaxango",
-    "ang": "Xaasongaxango",
     "hc": "ML",
+    "ld": "ltr",
+    "pk": 2705,
     "lr": "Africa",
+    "lc": "kao",
+    "cc": [
+        "GM",
+        "ML",
+        "SN"
+    ],
     "alt": [
         "Kasonke",
         "Kasso",
@@ -22,12 +27,7 @@
         "K\u00e9ni\u00e9ba Maninka",
         "Jahanka"
     ],
-    "cc": [
-        "GM",
-        "ML",
-        "SN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Xaasongaxango",
+    "gwcode": "fr",
+    "ln": "Xaasongaxango"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 7257,
-    "lc": "yoy",
+    "gw": false,
     "ISO-639-3": "yoy",
-    "ln": "Yoy",
-    "ang": "Yoy",
     "hc": "TH",
+    "ld": "ltr",
+    "pk": 7257,
     "lr": "Asia",
+    "lc": "yoy",
+    "cc": [
+        "LA",
+        "TH"
+    ],
     "alt": [
         "Dioi",
         "Jui",
@@ -13,11 +17,7 @@
         "Yooi",
         "Yooy"
     ],
-    "cc": [
-        "LA",
-        "TH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "th"
+    "ang": "Yoy",
+    "gwcode": "th",
+    "ln": "Yoy"
 }

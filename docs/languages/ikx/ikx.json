@@ -1,11 +1,15 @@
 {
-    "pk": 2468,
-    "lc": "ikx",
+    "gw": false,
     "ISO-639-3": "ikx",
-    "ln": "Ik",
-    "ang": "Ik",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 2468,
     "lr": "Africa",
+    "lc": "ikx",
+    "cc": [
+        "KE",
+        "UG"
+    ],
     "alt": [
         "Icetod",
         "Icietot",
@@ -16,11 +20,7 @@
         "Teuso",
         "Teuth"
     ],
-    "cc": [
-        "KE",
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ik",
+    "gwcode": "en",
+    "ln": "Ik"
 }

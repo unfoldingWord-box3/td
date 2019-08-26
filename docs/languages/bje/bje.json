@@ -1,11 +1,14 @@
 {
-    "pk": 711,
-    "lc": "bje",
+    "gw": false,
     "ISO-639-3": "bje",
-    "ln": "\u6807\u654f\u65b9\u8a00",
-    "ang": "Biao-Jiao Mien",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 711,
     "lr": "Asia",
+    "lc": "bje",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Biao Chao",
         "Byau Min",
@@ -19,10 +22,7 @@
         "Biao Mien",
         "Tsaukongmeng"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Biao-Jiao Mien",
+    "gwcode": "zh",
+    "ln": "\u6807\u654f\u65b9\u8a00"
 }

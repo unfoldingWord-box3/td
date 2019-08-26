@@ -1,20 +1,20 @@
 {
-    "pk": 6591,
-    "lc": "vap",
+    "gw": false,
     "ISO-639-3": "vap",
-    "ln": "Vaiphei",
-    "ang": "Vaiphei",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 6591,
     "lr": "Asia",
+    "lc": "vap",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Bhaipei",
         "Vaipei",
         "Veiphei"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "mni"
+    "ang": "Vaiphei",
+    "gwcode": "UNKNOWN",
+    "ln": "Vaiphei"
 }

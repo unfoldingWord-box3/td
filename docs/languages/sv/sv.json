@@ -1,11 +1,23 @@
 {
-    "pk": 5893,
-    "lc": "sv",
+    "gw": false,
     "ISO-639-3": "swe",
-    "ln": "svenska",
-    "ang": "Swedish",
     "hc": "SE",
+    "ld": "ltr",
+    "pk": 5893,
     "lr": "Europe",
+    "lc": "sv",
+    "cc": [
+        "AT",
+        "FR",
+        "GB",
+        "NO",
+        "SE",
+        "CH",
+        "US",
+        "FI",
+        "CA",
+        "DK"
+    ],
     "alt": [
         "Ruotsi",
         "Svenska",
@@ -27,19 +39,7 @@
         "Dalecarlian",
         "\u00c5land Islands Swedish"
     ],
-    "cc": [
-        "AT",
-        "FR",
-        "GB",
-        "NO",
-        "SE",
-        "CH",
-        "US",
-        "FI",
-        "CA",
-        "DK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Swedish",
+    "gwcode": "en",
+    "ln": "svenska"
 }

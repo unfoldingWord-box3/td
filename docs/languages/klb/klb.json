@@ -1,19 +1,19 @@
 {
-    "pk": 2961,
-    "lc": "klb",
+    "gw": false,
     "ISO-639-3": "klb",
-    "ln": "Kiliwa",
-    "ang": "Kiliwa",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 2961,
     "lr": "Americas",
+    "lc": "klb",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Kiliwi",
         "Quiligua"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Kiliwa",
+    "gwcode": "es-419",
+    "ln": "Kiliwa"
 }

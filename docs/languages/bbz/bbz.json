@@ -1,20 +1,20 @@
 {
-    "pk": 533,
-    "lc": "bbz",
+    "gw": false,
     "ISO-639-3": "bbz",
-    "ln": "Babalia Creole Arabic",
-    "ang": "Arabic, Babalia Creole",
     "hc": "TD",
+    "ld": "rtl",
+    "pk": 533,
     "lr": "Africa",
+    "lc": "bbz",
+    "cc": [
+        "TD"
+    ],
     "alt": [
         "Babalia",
         "Babaliya",
         "Bubalia"
     ],
-    "cc": [
-        "TD"
-    ],
-    "gw": false,
-    "ld": "rtl",
-    "gwcode": "ar"
+    "ang": "Arabic, Babalia Creole",
+    "gwcode": "ar",
+    "ln": "Babalia Creole Arabic"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3294,
-    "lc": "kyk",
+    "gw": false,
     "ISO-639-3": "kyk",
-    "ln": "Kamayo",
-    "ang": "Kamayo",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 3294,
     "lr": "Asia",
+    "lc": "kyk",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Davawe\u00f1o",
         "Davawenyo",
@@ -13,10 +16,7 @@
         "Kinadi",
         "Kinamayo"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Kamayo",
+    "gwcode": "ceb",
+    "ln": "Kamayo"
 }

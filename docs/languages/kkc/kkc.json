@@ -1,21 +1,21 @@
 {
-    "pk": 2935,
-    "lc": "kkc",
+    "gw": false,
     "ISO-639-3": "kkc",
-    "ln": "Odoodee",
-    "ang": "Odoodee",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2935,
     "lr": "Pacific",
+    "lc": "kkc",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Nomad",
         "Ododei",
         "Tomu",
         "Tomu River"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Odoodee",
+    "gwcode": "tpi",
+    "ln": "Odoodee"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 5862,
-    "lc": "stl",
+    "gw": false,
     "ISO-639-3": "stl",
-    "ln": "Stellingwerfs",
-    "ang": "Stellingwerfs",
     "hc": "NL",
+    "ld": "ltr",
+    "pk": 5862,
     "lr": "Europe",
+    "lc": "stl",
+    "cc": [
+        "NL"
+    ],
     "alt": [
         "Stellingwarfs",
         "Stellingwerf"
     ],
-    "cc": [
-        "NL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "nl"
+    "ang": "Stellingwerfs",
+    "gwcode": "UNKNOWN",
+    "ln": "Stellingwerfs"
 }

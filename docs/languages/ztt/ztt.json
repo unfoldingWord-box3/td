@@ -1,19 +1,19 @@
 {
-    "pk": 7483,
-    "lc": "ztt",
+    "gw": false,
     "ISO-639-3": "ztt",
-    "ln": "Tejalapan Zapotec",
-    "ang": "Zapotec, Tejalapan",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7483,
     "lr": "Americas",
+    "lc": "ztt",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Zapoteco de San Felipe Tejalapan",
         "Zapoteco de Tejal\u00e1pam"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Zapotec, Tejalapan",
+    "gwcode": "es-419",
+    "ln": "Tejalapan Zapotec"
 }

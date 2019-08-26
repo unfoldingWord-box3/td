@@ -1,11 +1,14 @@
 {
-    "pk": 2039,
-    "lc": "gji",
+    "gw": false,
     "ISO-639-3": "gji",
-    "ln": "Geji",
-    "ang": "Geji",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2039,
     "lr": "Africa",
+    "lc": "gji",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Gejawa",
         "Gezawa",
@@ -16,10 +19,7 @@
         "Geji (Gaejawa)",
         "Bolu (Magang)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Geji",
+    "gwcode": "en",
+    "ln": "Geji"
 }

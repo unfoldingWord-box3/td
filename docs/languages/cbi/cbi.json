@@ -1,20 +1,20 @@
 {
-    "pk": 1136,
-    "lc": "cbi",
+    "gw": false,
     "ISO-639-3": "cbi",
-    "ln": "Chachi",
-    "ang": "Chachi",
     "hc": "EC",
+    "ld": "ltr",
+    "pk": 1136,
     "lr": "Americas",
+    "lc": "cbi",
+    "cc": [
+        "EC"
+    ],
     "alt": [
         "Cha' Palaachi",
         "Cha'palaa",
         "Cha'palaachi"
     ],
-    "cc": [
-        "EC"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Chachi",
+    "gwcode": "es-419",
+    "ln": "Chachi"
 }

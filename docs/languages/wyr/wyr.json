@@ -1,11 +1,14 @@
 {
-    "pk": 6851,
-    "lc": "wyr",
+    "gw": false,
     "ISO-639-3": "wyr",
-    "ln": "Wayor\u00f3",
-    "ang": "Wayor\u00f3",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 6851,
     "lr": "Americas",
+    "lc": "wyr",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Ajur\u00fa",
         "Ayur\u00fa",
@@ -13,10 +16,7 @@
         "Wajaru",
         "Wayur\u00fa"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Wayor\u00f3",
+    "gwcode": "pt",
+    "ln": "Wayor\u00f3"
 }

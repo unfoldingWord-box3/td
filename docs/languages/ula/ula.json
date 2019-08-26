@@ -1,21 +1,21 @@
 {
-    "pk": 6504,
-    "lc": "ula",
+    "gw": false,
     "ISO-639-3": "ula",
-    "ln": "Fungwa",
-    "ang": "Fungwa",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 6504,
     "lr": "Africa",
+    "lc": "ula",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Afungwa",
         "Tufungwa",
         "Ula",
         "Ura"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Fungwa",
+    "gwcode": "en",
+    "ln": "Fungwa"
 }

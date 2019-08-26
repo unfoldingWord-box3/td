@@ -1,18 +1,18 @@
 {
-    "pk": 5708,
-    "lc": "smg",
+    "gw": false,
     "ISO-639-3": "smg",
-    "ln": "Simbali",
-    "ang": "Simbali",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5708,
     "lr": "Pacific",
-    "alt": [
-        "Asimbali"
-    ],
+    "lc": "smg",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Asimbali"
+    ],
+    "ang": "Simbali",
+    "gwcode": "tpi",
+    "ln": "Simbali"
 }

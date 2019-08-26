@@ -1,18 +1,18 @@
 {
-    "pk": 2312,
-    "lc": "hmy",
+    "gw": false,
     "ISO-639-3": "hmy",
-    "ln": "Southern Guiyang Hmong",
-    "ang": "Miao, Southern Guiyang",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 2312,
     "lr": "Asia",
-    "alt": [
-        "Southern Guiyang Hmong"
-    ],
+    "lc": "hmy",
     "cc": [
         "CN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "alt": [
+        "Southern Guiyang Hmong"
+    ],
+    "ang": "Miao, Southern Guiyang",
+    "gwcode": "zh",
+    "ln": "Southern Guiyang Hmong"
 }

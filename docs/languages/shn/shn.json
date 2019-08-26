@@ -1,11 +1,16 @@
 {
-    "pk": 5604,
-    "lc": "shn",
+    "gw": false,
     "ISO-639-3": "shn",
-    "ln": "Shan",
-    "ang": "Shan",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 5604,
     "lr": "Asia",
+    "lc": "shn",
+    "cc": [
+        "LA",
+        "TH",
+        "MM"
+    ],
     "alt": [
         "Dehong",
         "Burmese Shan",
@@ -32,12 +37,7 @@
         "Tai Mao (Mao Shan)",
         "Nge\""
     ],
-    "cc": [
-        "LA",
-        "TH",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Shan",
+    "gwcode": "my",
+    "ln": "Shan"
 }

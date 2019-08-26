@@ -1,20 +1,20 @@
 {
-    "pk": 2866,
-    "lc": "khj",
+    "gw": false,
     "ISO-639-3": "khj",
-    "ln": "Kuturmi",
-    "ang": "Kuturmi",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2866,
     "lr": "Africa",
+    "lc": "khj",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Aclo (Aklo)",
         "Kuturmi West",
         "Obiro (Kuturmi East)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kuturmi",
+    "gwcode": "en",
+    "ln": "Kuturmi"
 }

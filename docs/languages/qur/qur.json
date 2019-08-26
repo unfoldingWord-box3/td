@@ -1,19 +1,19 @@
 {
-    "pk": 5262,
-    "lc": "qur",
+    "gw": false,
     "ISO-639-3": "qur",
-    "ln": "Yanahuanca Pasco Quechua",
-    "ang": "Quechua, Chaupihuaranga",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 5262,
     "lr": "Americas",
+    "lc": "qur",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Daniel Carrion",
         "Yanahuanca Pasco Quechua"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quechua, Chaupihuaranga",
+    "gwcode": "es-419",
+    "ln": "Yanahuanca Pasco Quechua"
 }

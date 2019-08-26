@@ -1,18 +1,18 @@
 {
-    "pk": 1956,
-    "lc": "gcn",
+    "gw": false,
     "ISO-639-3": "gcn",
-    "ln": "Gaina",
-    "ang": "Gaina",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 1956,
     "lr": "Pacific",
-    "alt": [
-        "Bareji (Baredji)"
-    ],
+    "lc": "gcn",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Bareji (Baredji)"
+    ],
+    "ang": "Gaina",
+    "gwcode": "tpi",
+    "ln": "Gaina"
 }

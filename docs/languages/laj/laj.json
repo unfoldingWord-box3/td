@@ -1,21 +1,21 @@
 {
-    "pk": 3343,
-    "lc": "laj",
+    "gw": false,
     "ISO-639-3": "laj",
-    "ln": "Lango (Uganda)",
-    "ang": "Lango",
     "hc": "UG",
+    "ld": "ltr",
+    "pk": 3343,
     "lr": "Africa",
+    "lc": "laj",
+    "cc": [
+        "UG"
+    ],
     "alt": [
         "Langi",
         "Leb-Lango",
         "Lwo",
         "Lwoo"
     ],
-    "cc": [
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lango",
+    "gwcode": "en",
+    "ln": "Lango (Uganda)"
 }

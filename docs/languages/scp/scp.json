@@ -1,11 +1,14 @@
 {
-    "pk": 5516,
-    "lc": "scp",
+    "gw": false,
     "ISO-639-3": "scp",
-    "ln": "Helambu Sherpa",
-    "ang": "Helambu Sherpa",
     "hc": "NP",
+    "ld": "ltr",
+    "pk": 5516,
     "lr": "Asia",
+    "lc": "scp",
+    "cc": [
+        "NP"
+    ],
     "alt": [
         "Hyolmo",
         "Yholmo",
@@ -14,10 +17,7 @@
         "Lamjung Yohlmo",
         "LangDang Yohlmo"
     ],
-    "cc": [
-        "NP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ne"
+    "ang": "Helambu Sherpa",
+    "gwcode": "ne",
+    "ln": "Helambu Sherpa"
 }

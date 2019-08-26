@@ -1,20 +1,20 @@
 {
-    "pk": 5106,
-    "lc": "pnh",
+    "gw": false,
     "ISO-639-3": "pnh",
-    "ln": "Penrhyn",
-    "ang": "Penrhyn",
     "hc": "CK",
+    "ld": "ltr",
+    "pk": 5106,
     "lr": "Pacific",
+    "lc": "pnh",
+    "cc": [
+        "CK"
+    ],
     "alt": [
         "Mangarongaro",
         "Penrhynese",
         "Tongareva"
     ],
-    "cc": [
-        "CK"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Penrhyn",
+    "gwcode": "en",
+    "ln": "Penrhyn"
 }

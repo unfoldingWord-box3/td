@@ -1,18 +1,18 @@
 {
-    "pk": 1656,
-    "lc": "dug",
+    "gw": false,
     "ISO-639-3": "dug",
-    "ln": "Duruma",
-    "ang": "Chiduruma",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 1656,
     "lr": "Africa",
-    "alt": [
-        "Wanyika"
-    ],
+    "lc": "dug",
     "cc": [
         "KE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "alt": [
+        "Wanyika"
+    ],
+    "ang": "Chiduruma",
+    "gwcode": "sw",
+    "ln": "Duruma"
 }

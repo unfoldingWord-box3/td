@@ -1,19 +1,19 @@
 {
-    "pk": 3449,
-    "lc": "lhn",
+    "gw": false,
     "ISO-639-3": "lhn",
-    "ln": "Lahanan",
-    "ang": "Lahanan",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 3449,
     "lr": "Asia",
+    "lc": "lhn",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "Lanan",
         "Lanun"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Lahanan",
+    "gwcode": "ms",
+    "ln": "Lahanan"
 }

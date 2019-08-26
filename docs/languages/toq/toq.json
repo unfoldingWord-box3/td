@@ -1,11 +1,16 @@
 {
-    "pk": 6256,
-    "lc": "toq",
+    "gw": false,
     "ISO-639-3": "toq",
-    "ln": "Toposa",
-    "ang": "Toposa",
     "hc": "SS",
+    "ld": "ltr",
+    "pk": 6256,
     "lr": "Africa",
+    "lc": "toq",
+    "cc": [
+        "ET",
+        "SS",
+        "UG"
+    ],
     "alt": [
         "Akara",
         "Kare",
@@ -13,12 +18,7 @@
         "Taposa",
         "Topotha"
     ],
-    "cc": [
-        "ET",
-        "SS",
-        "UG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Toposa",
+    "gwcode": "ar",
+    "ln": "Toposa"
 }

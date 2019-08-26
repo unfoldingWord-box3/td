@@ -1,20 +1,20 @@
 {
-    "pk": 6086,
-    "lc": "tgi",
+    "gw": false,
     "ISO-639-3": "tgi",
-    "ln": "Lawunuia",
-    "ang": "Lawunuia",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6086,
     "lr": "Pacific",
+    "lc": "tgi",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Nagarege",
         "Nagarige",
         "Naghareghe"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Lawunuia",
+    "gwcode": "tpi",
+    "ln": "Lawunuia"
 }

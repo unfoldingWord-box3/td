@@ -1,21 +1,21 @@
 {
-    "pk": 4109,
-    "lc": "msn",
+    "gw": false,
     "ISO-639-3": "msn",
-    "ln": "Vur\u00ebs",
-    "ang": "Vur\u00ebs",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 4109,
     "lr": "Pacific",
+    "lc": "msn",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Vuras",
         "Vur\u00ebs",
         "Mosina",
         "Mwesen (Mosin)"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Vur\u00ebs",
+    "gwcode": "fr",
+    "ln": "Vur\u00ebs"
 }

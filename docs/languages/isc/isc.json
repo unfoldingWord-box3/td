@@ -1,18 +1,18 @@
 {
-    "pk": 2518,
-    "lc": "isc",
+    "gw": false,
     "ISO-639-3": "isc",
-    "ln": "Isconahua",
-    "ang": "Isconahua",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 2518,
     "lr": "Americas",
-    "alt": [
-        "Iscobaquebu"
-    ],
+    "lc": "isc",
     "cc": [
         "PE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Iscobaquebu"
+    ],
+    "ang": "Isconahua",
+    "gwcode": "es-419",
+    "ln": "Isconahua"
 }

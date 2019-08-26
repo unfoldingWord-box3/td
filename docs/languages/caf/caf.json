@@ -1,11 +1,14 @@
 {
-    "pk": 1115,
-    "lc": "caf",
+    "gw": false,
     "ISO-639-3": "caf",
-    "ln": "Southern Carrier",
-    "ang": "Carrier, Southern",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 1115,
     "lr": "Americas",
+    "lc": "caf",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Cheslatta",
         "Nautley",
@@ -13,10 +16,7 @@
         "Stellaquo",
         "Stoney Creek"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Carrier, Southern",
+    "gwcode": "en",
+    "ln": "Southern Carrier"
 }

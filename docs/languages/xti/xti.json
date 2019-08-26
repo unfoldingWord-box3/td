@@ -1,18 +1,18 @@
 {
-    "pk": 7062,
-    "lc": "xti",
+    "gw": false,
     "ISO-639-3": "xti",
-    "ln": "Sinicahua Mixtec",
-    "ang": "Mixtec, Sinicahua",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7062,
     "lr": "Americas",
-    "alt": [
-        "Mixteco de San Antonio Sinicahua"
-    ],
+    "lc": "xti",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Mixteco de San Antonio Sinicahua"
+    ],
+    "ang": "Mixtec, Sinicahua",
+    "gwcode": "es-419",
+    "ln": "Sinicahua Mixtec"
 }

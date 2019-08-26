@@ -1,20 +1,20 @@
 {
-    "pk": 6702,
-    "lc": "wbt",
+    "gw": false,
     "ISO-639-3": "wbt",
-    "ln": "Wanman",
-    "ang": "Wanman",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 6702,
     "lr": "Pacific",
+    "lc": "wbt",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Nanidjara",
         "Nyaani",
         "Warnman"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Wanman",
+    "gwcode": "en",
+    "ln": "Wanman"
 }

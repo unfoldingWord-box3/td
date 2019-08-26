@@ -1,11 +1,14 @@
 {
-    "pk": 2317,
-    "lc": "hnh",
+    "gw": false,
     "ISO-639-3": "hnh",
-    "ln": "||Ani",
-    "ang": "||Ani",
     "hc": "BW",
+    "ld": "ltr",
+    "pk": 2317,
     "lr": "Africa",
+    "lc": "hnh",
+    "cc": [
+        "BW"
+    ],
     "alt": [
         "|Anda",
         "Hand\u00e1",
@@ -15,10 +18,7 @@
         "Ts'exa",
         "Ts'\u00e9xa"
     ],
-    "cc": [
-        "BW"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "||Ani",
+    "gwcode": "en",
+    "ln": "||Ani"
 }

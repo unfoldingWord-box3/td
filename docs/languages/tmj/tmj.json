@@ -1,21 +1,21 @@
 {
-    "pk": 6203,
-    "lc": "tmj",
+    "gw": false,
     "ISO-639-3": "tmj",
-    "ln": "Samarokena",
-    "ang": "Samarokena",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6203,
     "lr": "Asia",
+    "lc": "tmj",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Karfasia",
         "Samarkena",
         "Tamaja",
         "Tamaya"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Samarokena",
+    "gwcode": "id",
+    "ln": "Samarokena"
 }

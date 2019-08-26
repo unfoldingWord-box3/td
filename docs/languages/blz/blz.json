@@ -1,19 +1,19 @@
 {
-    "pk": 779,
-    "lc": "blz",
+    "gw": false,
     "ISO-639-3": "blz",
-    "ln": "Balantak",
-    "ang": "Balantak",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 779,
     "lr": "Asia",
+    "lc": "blz",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Balanta",
         "Kosian"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Balantak",
+    "gwcode": "id",
+    "ln": "Balantak"
 }

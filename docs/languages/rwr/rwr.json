@@ -1,11 +1,14 @@
 {
-    "pk": 5452,
-    "lc": "rwr",
+    "gw": false,
     "ISO-639-3": "rwr",
-    "ln": "Marwari (India)",
-    "ang": "Marwari",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5452,
     "lr": "Asia",
+    "lc": "rwr",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Marvadi",
         "Marvari",
@@ -14,10 +17,7 @@
         "Jaisalmeri",
         "Standard Marwari (Jodhpuri)"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Marwari",
+    "gwcode": "hi",
+    "ln": "Marwari (India)"
 }

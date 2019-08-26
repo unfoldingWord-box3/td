@@ -1,19 +1,19 @@
 {
-    "pk": 524,
-    "lc": "bbq",
+    "gw": false,
     "ISO-639-3": "bbq",
-    "ln": "Bamali",
-    "ang": "Bamali",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 524,
     "lr": "Africa",
+    "lc": "bbq",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Chopechop",
         "Ngoobechop"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bamali",
+    "gwcode": "fr",
+    "ln": "Bamali"
 }

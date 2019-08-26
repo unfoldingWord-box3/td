@@ -1,21 +1,21 @@
 {
-    "pk": 6502,
-    "lc": "uku",
+    "gw": false,
     "ISO-639-3": "uku",
-    "ln": "Ukue",
-    "ang": "Ukue",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 6502,
     "lr": "Africa",
+    "lc": "uku",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ekpenmen",
         "Ekpenmi",
         "Epinmi",
         "Ukpe"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ukue",
+    "gwcode": "en",
+    "ln": "Ukue"
 }

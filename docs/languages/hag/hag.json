@@ -1,18 +1,18 @@
 {
-    "pk": 2224,
-    "lc": "hag",
+    "gw": false,
     "ISO-639-3": "hag",
-    "ln": "Hanga",
-    "ang": "Hanga",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 2224,
     "lr": "Africa",
-    "alt": [
-        "Anga"
-    ],
+    "lc": "hag",
     "cc": [
         "GH"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Anga"
+    ],
+    "ang": "Hanga",
+    "gwcode": "en",
+    "ln": "Hanga"
 }

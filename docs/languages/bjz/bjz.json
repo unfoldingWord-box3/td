@@ -1,18 +1,18 @@
 {
-    "pk": 730,
-    "lc": "bjz",
+    "gw": false,
     "ISO-639-3": "bjz",
-    "ln": "Baruga",
-    "ang": "Baruga",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 730,
     "lr": "Pacific",
-    "alt": [
-        "Tafota Baruga"
-    ],
+    "lc": "bjz",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Tafota Baruga"
+    ],
+    "ang": "Baruga",
+    "gwcode": "tpi",
+    "ln": "Baruga"
 }

@@ -1,11 +1,16 @@
 {
-    "pk": 1236,
-    "lc": "cko",
+    "gw": false,
     "ISO-639-3": "cko",
-    "ln": "Anufo",
-    "ang": "Anufo",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 1236,
     "lr": "Africa",
+    "lc": "cko",
+    "cc": [
+        "BJ",
+        "GH",
+        "TG"
+    ],
     "alt": [
         "Chakosi",
         "Chokosi",
@@ -13,12 +18,7 @@
         "Kyokosi",
         "Tiokossi"
     ],
-    "cc": [
-        "BJ",
-        "GH",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Anufo",
+    "gwcode": "en",
+    "ln": "Anufo"
 }

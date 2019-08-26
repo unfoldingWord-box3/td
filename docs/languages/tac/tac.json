@@ -1,11 +1,14 @@
 {
-    "pk": 5965,
-    "lc": "tac",
+    "gw": false,
     "ISO-639-3": "tac",
-    "ln": "Lowland Tarahumara",
-    "ang": "Tarahumara, Western",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 5965,
     "lr": "Americas",
+    "lc": "tac",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Baja Tarahumara",
         "Lowland Tarahumara",
@@ -15,10 +18,7 @@
         "Tarahumara del Oeste",
         "Tarahumara del Poniente"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Tarahumara, Western",
+    "gwcode": "es-419",
+    "ln": "Lowland Tarahumara"
 }

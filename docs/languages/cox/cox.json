@@ -1,19 +1,19 @@
 {
-    "pk": 1306,
-    "lc": "cox",
+    "gw": false,
     "ISO-639-3": "cox",
-    "ln": "Nanti",
-    "ang": "Nanti",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 1306,
     "lr": "Americas",
+    "lc": "cox",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Cogapacori",
         "Kogapakori"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Nanti",
+    "gwcode": "es-419",
+    "ln": "Nanti"
 }

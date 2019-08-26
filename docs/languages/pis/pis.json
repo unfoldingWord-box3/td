@@ -1,20 +1,20 @@
 {
-    "pk": 5041,
-    "lc": "pis",
+    "gw": false,
     "ISO-639-3": "pis",
-    "ln": "Pijin",
-    "ang": "Pijin",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 5041,
     "lr": "Pacific",
-    "alt": [
-        "Neo-Solomonic",
-        "Solomons Pidgin"
-    ],
+    "lc": "pis",
     "cc": [
         "FJ",
         "SB"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Neo-Solomonic",
+        "Solomons Pidgin"
+    ],
+    "ang": "Pijin",
+    "gwcode": "en",
+    "ln": "Pijin"
 }

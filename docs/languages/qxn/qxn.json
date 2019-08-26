@@ -1,19 +1,19 @@
 {
-    "pk": 5294,
-    "lc": "qxn",
+    "gw": false,
     "ISO-639-3": "qxn",
-    "ln": "Northern Conchucos Ancash Quechua",
-    "ang": "Quechua, Northern Conchucos Ancash",
     "hc": "PE",
+    "ld": "ltr",
+    "pk": 5294,
     "lr": "Americas",
+    "lc": "qxn",
+    "cc": [
+        "PE"
+    ],
     "alt": [
         "Conchucos Quechua",
         "Northern Conchucos Quechua"
     ],
-    "cc": [
-        "PE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Quechua, Northern Conchucos Ancash",
+    "gwcode": "es-419",
+    "ln": "Northern Conchucos Ancash Quechua"
 }

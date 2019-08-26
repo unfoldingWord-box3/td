@@ -1,11 +1,15 @@
 {
-    "pk": 4314,
-    "lc": "nbe",
+    "gw": false,
     "ISO-639-3": "nbe",
-    "ln": "Konyak Naga",
-    "ang": "Naga, Konyak",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 4314,
     "lr": "Asia",
+    "lc": "nbe",
+    "cc": [
+        "IN",
+        "MM"
+    ],
     "alt": [
         "Kanyak",
         "Konyak",
@@ -14,11 +18,7 @@
         "Lonwa",
         "Lungkhi"
     ],
-    "cc": [
-        "IN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Konyak",
+    "gwcode": "en",
+    "ln": "Konyak Naga"
 }

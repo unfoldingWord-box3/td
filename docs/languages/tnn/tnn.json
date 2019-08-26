@@ -1,18 +1,18 @@
 {
-    "pk": 6230,
-    "lc": "tnn",
+    "gw": false,
     "ISO-639-3": "tnn",
-    "ln": "North Tanna",
-    "ang": "Tanna, North",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 6230,
     "lr": "Pacific",
-    "alt": [
-        "East Tanna"
-    ],
+    "lc": "tnn",
     "cc": [
         "VU"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "East Tanna"
+    ],
+    "ang": "Tanna, North",
+    "gwcode": "fr",
+    "ln": "North Tanna"
 }

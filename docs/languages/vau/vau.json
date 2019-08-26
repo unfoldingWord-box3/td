@@ -1,21 +1,21 @@
 {
-    "pk": 6594,
-    "lc": "vau",
+    "gw": false,
     "ISO-639-3": "vau",
-    "ln": "Vanuma",
-    "ang": "Vanuma",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 6594,
     "lr": "Africa",
+    "lc": "vau",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Bambutuku",
         "Bvanuma",
         "Livanuma",
         "Nyali-Tchabi"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Vanuma",
+    "gwcode": "fr",
+    "ln": "Vanuma"
 }

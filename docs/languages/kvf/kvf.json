@@ -1,11 +1,14 @@
 {
-    "pk": 3213,
-    "lc": "kvf",
+    "gw": false,
     "ISO-639-3": "kvf",
-    "ln": "Kabalai",
-    "ang": "Kabalai",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 3213,
     "lr": "Africa",
+    "lc": "kvf",
+    "cc": [
+        "TD"
+    ],
     "alt": [
         "Gablai",
         "Kaba-Lai",
@@ -15,10 +18,7 @@
         "Lai",
         "Lay"
     ],
-    "cc": [
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Kabalai",
+    "gwcode": "ar",
+    "ln": "Kabalai"
 }

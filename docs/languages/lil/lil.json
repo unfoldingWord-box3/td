@@ -1,20 +1,20 @@
 {
-    "pk": 3464,
-    "lc": "lil",
+    "gw": false,
     "ISO-639-3": "lil",
-    "ln": "Lillooet",
-    "ang": "Lillooet",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 3464,
     "lr": "Americas",
+    "lc": "lil",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "St'at'imcets",
         "Upper Lillooet",
         "Lower Lillooet"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lillooet",
+    "gwcode": "en",
+    "ln": "Lillooet"
 }

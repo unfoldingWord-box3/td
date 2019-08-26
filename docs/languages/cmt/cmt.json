@@ -1,20 +1,20 @@
 {
-    "pk": 1271,
-    "lc": "cmt",
+    "gw": false,
     "ISO-639-3": "cmt",
-    "ln": "Camtho",
-    "ang": "Camtho",
     "hc": "ZA",
+    "ld": "ltr",
+    "pk": 1271,
     "lr": "Africa",
+    "lc": "cmt",
+    "cc": [
+        "ZA"
+    ],
     "alt": [
         "Iscamtho",
         "Isicamtho",
         "Tsotsitaal"
     ],
-    "cc": [
-        "ZA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Camtho",
+    "gwcode": "en",
+    "ln": "Camtho"
 }

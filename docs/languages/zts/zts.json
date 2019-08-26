@@ -1,18 +1,18 @@
 {
-    "pk": 7482,
-    "lc": "zts",
+    "gw": false,
     "ISO-639-3": "zts",
-    "ln": "Tilquiapan Zapotec",
-    "ang": "Zapotec, Tilquiapan",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7482,
     "lr": "Americas",
-    "alt": [
-        "Zapoteco de San Miguel Tilquiapan"
-    ],
+    "lc": "zts",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Zapoteco de San Miguel Tilquiapan"
+    ],
+    "ang": "Zapotec, Tilquiapan",
+    "gwcode": "es-419",
+    "ln": "Tilquiapan Zapotec"
 }

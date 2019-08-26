@@ -1,18 +1,18 @@
 {
-    "pk": 1305,
-    "lc": "cow",
+    "gw": false,
     "ISO-639-3": "cow",
-    "ln": "Cowlitz",
-    "ang": "Cowlitz",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 1305,
     "lr": "Americas",
-    "alt": [
-        "Lower Cowlitz"
-    ],
+    "lc": "cow",
     "cc": [
         "US"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "alt": [
+        "Lower Cowlitz"
+    ],
+    "ang": "Cowlitz",
+    "gwcode": "en",
+    "ln": "Cowlitz"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 5766,
-    "lc": "sou",
+    "gw": false,
     "ISO-639-3": "sou",
-    "ln": "Southern Thai",
-    "ang": "Thai, Southern",
     "hc": "TH",
+    "ld": "ltr",
+    "pk": 5766,
     "lr": "Asia",
+    "lc": "sou",
+    "cc": [
+        "TH"
+    ],
     "alt": [
         "Dambro",
         "Pak Tai",
@@ -14,10 +17,7 @@
         "Tak Bai (Tai Tak Bai)",
         "Thai Malay (Tai Islam)"
     ],
-    "cc": [
-        "TH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "th"
+    "ang": "Thai, Southern",
+    "gwcode": "th",
+    "ln": "Southern Thai"
 }

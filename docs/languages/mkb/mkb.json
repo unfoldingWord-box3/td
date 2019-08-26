@@ -1,11 +1,14 @@
 {
-    "pk": 3903,
-    "lc": "mkb",
+    "gw": false,
     "ISO-639-3": "mkb",
-    "ln": "Mal Paharia",
-    "ang": "Mal Paharia",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3903,
     "lr": "Asia",
+    "lc": "mkb",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Dehri",
         "Mad",
@@ -27,10 +30,7 @@
         "Paharia",
         "Parsi"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "bn"
+    "ang": "Mal Paharia",
+    "gwcode": "bn",
+    "ln": "Mal Paharia"
 }

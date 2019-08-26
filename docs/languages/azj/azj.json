@@ -1,21 +1,11 @@
 {
-    "pk": 482,
-    "lc": "azj",
+    "gw": false,
     "ISO-639-3": "azj",
-    "ln": "Az\u0259rbaycan dili",
-    "ang": "Azerbaijani, North",
     "hc": "AZ",
+    "ld": "ltr",
+    "pk": 482,
     "lr": "Asia",
-    "alt": [
-        "Azerbaydzhani",
-        "Azeri Turk",
-        "Turkler",
-        "Azerbaijan",
-        "Shusha (Karabakh)",
-        "Susa (Karabakh)",
-        "Zakataly (Mugaly)",
-        "Zaqatala (Mugaly)"
-    ],
+    "lc": "azj",
     "cc": [
         "AZ",
         "DE",
@@ -30,7 +20,17 @@
         "TM",
         "UZ"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "alt": [
+        "Azerbaydzhani",
+        "Azeri Turk",
+        "Turkler",
+        "Azerbaijan",
+        "Shusha (Karabakh)",
+        "Susa (Karabakh)",
+        "Zakataly (Mugaly)",
+        "Zaqatala (Mugaly)"
+    ],
+    "ang": "Azerbaijani, North",
+    "gwcode": "ru",
+    "ln": "Az\u0259rbaycan dili"
 }

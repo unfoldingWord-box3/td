@@ -1,11 +1,14 @@
 {
-    "pk": 423,
-    "lc": "auw",
+    "gw": false,
     "ISO-639-3": "auw",
-    "ln": "Awyi",
-    "ang": "Awyi",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 423,
     "lr": "Asia",
+    "lc": "auw",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Awje",
         "Awji",
@@ -13,10 +16,7 @@
         "Njao",
         "Nyao"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Awyi",
+    "gwcode": "id",
+    "ln": "Awyi"
 }

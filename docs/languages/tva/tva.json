@@ -1,20 +1,20 @@
 {
-    "pk": 6392,
-    "lc": "tva",
+    "gw": false,
     "ISO-639-3": "tva",
-    "ln": "Vaghua",
-    "ang": "Vaghua",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 6392,
     "lr": "Pacific",
+    "lc": "tva",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Tavola",
         "Tavula",
         "Vagua"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Vaghua",
+    "gwcode": "UNKNOWN",
+    "ln": "Vaghua"
 }

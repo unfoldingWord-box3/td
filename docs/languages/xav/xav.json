@@ -1,11 +1,14 @@
 {
-    "pk": 6867,
-    "lc": "xav",
+    "gw": false,
     "ISO-639-3": "xav",
-    "ln": "Xav\u00e1nte",
-    "ang": "Xav\u00e1nte",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 6867,
     "lr": "Americas",
+    "lc": "xav",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Aku\u00ean",
         "Akwen",
@@ -17,10 +20,7 @@
         "Shavante",
         "Tapacua"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Xav\u00e1nte",
+    "gwcode": "pt",
+    "ln": "Xav\u00e1nte"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 3780,
-    "lc": "mfd",
+    "gw": false,
     "ISO-639-3": "mfd",
-    "ln": "Mendankwe-Nkwen",
-    "ang": "Mendankwe-Nkwen",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3780,
     "lr": "Africa",
+    "lc": "mfd",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Mendankwe",
         "Mendankwe (Bamenda)",
         "Nkwen (Bafreng)",
         "Munda"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mendankwe-Nkwen",
+    "gwcode": "fr",
+    "ln": "Mendankwe-Nkwen"
 }

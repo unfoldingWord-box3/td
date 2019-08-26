@@ -1,11 +1,14 @@
 {
-    "pk": 3244,
-    "lc": "kwj",
+    "gw": false,
     "ISO-639-3": "kwj",
-    "ln": "Kwanga",
-    "ang": "Kwanga",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3244,
     "lr": "Pacific",
+    "lc": "kwj",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Gawanga",
         "Kawanga",
@@ -15,10 +18,7 @@
         "Bongomamsi",
         "Nambi"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Kwanga",
+    "gwcode": "tpi",
+    "ln": "Kwanga"
 }

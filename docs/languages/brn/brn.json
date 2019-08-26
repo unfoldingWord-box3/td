@@ -1,21 +1,21 @@
 {
-    "pk": 910,
-    "lc": "brn",
+    "gw": false,
     "ISO-639-3": "brn",
-    "ln": "Boruca",
-    "ang": "Boruca",
     "hc": "CR",
+    "ld": "ltr",
+    "pk": 910,
     "lr": "Americas",
+    "lc": "brn",
+    "cc": [
+        "CR"
+    ],
     "alt": [
         "Borunca",
         "Brunca",
         "Brunka",
         "Burunca"
     ],
-    "cc": [
-        "CR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Boruca",
+    "gwcode": "es-419",
+    "ln": "Boruca"
 }

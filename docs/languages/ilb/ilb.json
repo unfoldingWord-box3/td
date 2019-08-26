@@ -1,20 +1,20 @@
 {
-    "pk": 2471,
-    "lc": "ilb",
+    "gw": false,
     "ISO-639-3": "ilb",
-    "ln": "Ila",
-    "ang": "Ila",
     "hc": "ZM",
+    "ld": "ltr",
+    "pk": 2471,
     "lr": "Africa",
+    "lc": "ilb",
+    "cc": [
+        "ZM"
+    ],
     "alt": [
         "Chiila",
         "Shukulumbwe",
         "Sukulumbwe"
     ],
-    "cc": [
-        "ZM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ila",
+    "gwcode": "en",
+    "ln": "Ila"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 5230,
-    "lc": "pwb",
+    "gw": false,
     "ISO-639-3": "pwb",
-    "ln": "Panawa",
-    "ang": "Panawa",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 5230,
     "lr": "Africa",
+    "lc": "pwb",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Bugel",
         "Bujiye"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Panawa",
+    "gwcode": "en",
+    "ln": "Panawa"
 }

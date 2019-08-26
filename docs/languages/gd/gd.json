@@ -1,21 +1,21 @@
 {
-    "pk": 1959,
-    "lc": "gd",
+    "gw": false,
     "ISO-639-3": "gla",
-    "ln": "G\u00e0idhlig",
-    "ang": "Scottish Gaelic, Gaelic",
     "hc": "GB",
+    "ld": "ltr",
+    "pk": 1959,
     "lr": "Europe",
+    "lc": "gd",
+    "cc": [
+        "GB",
+        "US"
+    ],
     "alt": [
         "Gaelic",
         "G\u00e0idhlig",
         "Scots Gaelic"
     ],
-    "cc": [
-        "GB",
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Scottish Gaelic, Gaelic",
+    "gwcode": "en",
+    "ln": "G\u00e0idhlig"
 }

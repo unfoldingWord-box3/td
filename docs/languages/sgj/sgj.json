@@ -1,21 +1,21 @@
 {
-    "pk": 5580,
-    "lc": "sgj",
+    "gw": false,
     "ISO-639-3": "sgj",
-    "ln": "Surgujia",
-    "ang": "Surgujia",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 5580,
     "lr": "Asia",
+    "lc": "sgj",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Suraji",
         "Surguja",
         "Surgujia-Chhattisgarhi",
         "Surjugia"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hne"
+    "ang": "Surgujia",
+    "gwcode": "UNKNOWN",
+    "ln": "Surgujia"
 }

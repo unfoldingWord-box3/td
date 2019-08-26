@@ -1,18 +1,18 @@
 {
-    "pk": 7469,
-    "lc": "zsa",
+    "gw": false,
     "ISO-639-3": "zsa",
-    "ln": "Sarasira",
-    "ang": "Sarasira",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 7469,
     "lr": "Pacific",
-    "alt": [
-        "Sirasira"
-    ],
+    "lc": "zsa",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Sirasira"
+    ],
+    "ang": "Sarasira",
+    "gwcode": "tpi",
+    "ln": "Sarasira"
 }

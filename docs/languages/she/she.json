@@ -1,21 +1,21 @@
 {
-    "pk": 5596,
-    "lc": "she",
+    "gw": false,
     "ISO-639-3": "she",
-    "ln": "Sheko",
-    "ang": "Sheko",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 5596,
     "lr": "Africa",
+    "lc": "she",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Shak",
         "Shekka",
         "Shekko",
         "Tschako"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Sheko",
+    "gwcode": "am",
+    "ln": "Sheko"
 }

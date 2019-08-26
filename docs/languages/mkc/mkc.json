@@ -1,20 +1,20 @@
 {
-    "pk": 3904,
-    "lc": "mkc",
+    "gw": false,
     "ISO-639-3": "mkc",
-    "ln": "Siliput",
-    "ang": "Siliput",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3904,
     "lr": "Pacific",
+    "lc": "mkc",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Mai",
         "Maimai",
         "Sokorok"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Siliput",
+    "gwcode": "tpi",
+    "ln": "Siliput"
 }

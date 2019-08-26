@@ -1,20 +1,20 @@
 {
-    "pk": 3145,
-    "lc": "ksm",
+    "gw": false,
     "ISO-639-3": "ksm",
-    "ln": "Kumba",
-    "ang": "Kumba",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 3145,
     "lr": "Africa",
+    "lc": "ksm",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Isaro",
         "Sate",
         "Yofo"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kumba",
+    "gwcode": "en",
+    "ln": "Kumba"
 }

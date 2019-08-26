@@ -1,20 +1,20 @@
 {
-    "pk": 4906,
-    "lc": "oue",
+    "gw": false,
     "ISO-639-3": "oue",
-    "ln": "Oune",
-    "ang": "Oune",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4906,
     "lr": "Pacific",
+    "lc": "oue",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Dapera",
         "Eivo 3",
         "Ounge"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Oune",
+    "gwcode": "tpi",
+    "ln": "Oune"
 }

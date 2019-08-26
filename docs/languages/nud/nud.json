@@ -1,20 +1,20 @@
 {
-    "pk": 4677,
-    "lc": "nud",
+    "gw": false,
     "ISO-639-3": "nud",
-    "ln": "Ngala",
-    "ang": "Ngala",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 4677,
     "lr": "Pacific",
+    "lc": "nud",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Kara",
         "Sogap",
         "Swagup"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Ngala",
+    "gwcode": "tpi",
+    "ln": "Ngala"
 }

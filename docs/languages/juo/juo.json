@@ -1,20 +1,20 @@
 {
-    "pk": 2678,
-    "lc": "juo",
+    "gw": false,
     "ISO-639-3": "juo",
-    "ln": "Jiba",
-    "ang": "Jiba",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2678,
     "lr": "Africa",
+    "lc": "juo",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Jibe",
         "Jibi",
         "Jukun Kona"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Jiba",
+    "gwcode": "en",
+    "ln": "Jiba"
 }

@@ -1,11 +1,16 @@
 {
-    "pk": 3126,
-    "lc": "kru",
+    "gw": false,
     "ISO-639-3": "kru",
-    "ln": "Kurukh",
-    "ang": "Kurux",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 3126,
     "lr": "Asia",
+    "lc": "kru",
+    "cc": [
+        "BD",
+        "BT",
+        "IN"
+    ],
     "alt": [
         "Oraoan",
         "Uraon",
@@ -23,12 +28,7 @@
         "Morva",
         "Urang"
     ],
-    "cc": [
-        "BD",
-        "BT",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hne"
+    "ang": "Kurux",
+    "gwcode": "UNKNOWN",
+    "ln": "Kurukh"
 }

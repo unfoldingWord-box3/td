@@ -1,21 +1,21 @@
 {
-    "pk": 6646,
-    "lc": "vnm",
+    "gw": false,
     "ISO-639-3": "vnm",
-    "ln": "Vinmavis",
-    "ang": "Neve\u2019ei",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 6646,
     "lr": "Pacific",
+    "lc": "vnm",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Banggor",
         "Lambumbu",
         "Nefe'ei",
         "Telag"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Neve\u2019ei",
+    "gwcode": "fr",
+    "ln": "Vinmavis"
 }

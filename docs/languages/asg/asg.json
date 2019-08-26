@@ -1,11 +1,14 @@
 {
-    "pk": 363,
-    "lc": "asg",
+    "gw": false,
     "ISO-639-3": "asg",
-    "ln": "Cishingini",
-    "ang": "Cishingini",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 363,
     "lr": "Africa",
+    "lc": "asg",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Agwara Kambari",
         "Aschingini",
@@ -19,10 +22,7 @@
         "Maunchi",
         "Mawanchi"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Cishingini",
+    "gwcode": "en",
+    "ln": "Cishingini"
 }

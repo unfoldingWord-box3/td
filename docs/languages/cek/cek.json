@@ -1,11 +1,14 @@
 {
-    "pk": 1178,
-    "lc": "cek",
+    "gw": false,
     "ISO-639-3": "cek",
-    "ln": "Eastern Khumi Chin",
-    "ang": "Chin, Eastern Khumi",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1178,
     "lr": "Asia",
+    "lc": "cek",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Ta-aw",
         "Ta-oo",
@@ -29,10 +32,7 @@
         "Likhy (Likhaeng)",
         "Maru"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Chin, Eastern Khumi",
+    "gwcode": "my",
+    "ln": "Eastern Khumi Chin"
 }

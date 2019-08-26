@@ -1,21 +1,21 @@
 {
-    "pk": 6848,
-    "lc": "wya",
+    "gw": false,
     "ISO-639-3": "wya",
-    "ln": "Wyandot",
-    "ang": "Wyandot",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 6848,
     "lr": "Americas",
+    "lc": "wya",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Wendat",
         "Wyandotte",
         "Wyendat",
         "Huron"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Wyandot",
+    "gwcode": "en",
+    "ln": "Wyandot"
 }

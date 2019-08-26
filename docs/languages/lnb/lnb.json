@@ -1,20 +1,20 @@
 {
-    "pk": 3537,
-    "lc": "lnb",
+    "gw": false,
     "ISO-639-3": "lnb",
-    "ln": "Mbalanhu",
-    "ang": "Mbalanhu",
     "hc": "NA",
+    "ld": "ltr",
+    "pk": 3537,
     "lr": "Africa",
+    "lc": "lnb",
+    "cc": [
+        "NA"
+    ],
     "alt": [
         "Mbaanhu",
         "Mbalantu",
         "Mbaluntu"
     ],
-    "cc": [
-        "NA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mbalanhu",
+    "gwcode": "en",
+    "ln": "Mbalanhu"
 }

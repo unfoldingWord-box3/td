@@ -1,11 +1,14 @@
 {
-    "pk": 7057,
-    "lc": "xtc",
+    "gw": false,
     "ISO-639-3": "xtc",
-    "ln": "Katcha-Kadugli-Miri",
-    "ang": "Katcha-Kadugli-Miri",
     "hc": "SD",
+    "ld": "ltr",
+    "pk": 7057,
     "lr": "Africa",
+    "lc": "xtc",
+    "cc": [
+        "SD"
+    ],
     "alt": [
         "Kudugli",
         "Toma Ma Dalla",
@@ -15,10 +18,7 @@
         "Tolubi",
         "Katcha (Dholubi)"
     ],
-    "cc": [
-        "SD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Katcha-Kadugli-Miri",
+    "gwcode": "ar",
+    "ln": "Katcha-Kadugli-Miri"
 }

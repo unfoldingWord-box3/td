@@ -1,11 +1,15 @@
 {
-    "pk": 7187,
-    "lc": "yim",
+    "gw": false,
     "ISO-639-3": "yim",
-    "ln": "Yimchungru Naga",
-    "ang": "Naga, Yimchungru",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 7187,
     "lr": "Asia",
+    "lc": "yim",
+    "cc": [
+        "IN",
+        "MM"
+    ],
     "alt": [
         "Tozhuma",
         "Yachumi",
@@ -14,11 +18,7 @@
         "Yimchungre",
         "Yimchungru"
     ],
-    "cc": [
-        "IN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Naga, Yimchungru",
+    "gwcode": "en",
+    "ln": "Yimchungru Naga"
 }

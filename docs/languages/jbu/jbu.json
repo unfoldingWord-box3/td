@@ -1,11 +1,14 @@
 {
-    "pk": 2590,
-    "lc": "jbu",
+    "gw": false,
     "ISO-639-3": "jbu",
-    "ln": "Jukun Takum",
-    "ang": "Jukun Takum",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 2590,
     "lr": "Africa",
+    "lc": "jbu",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Diyu",
         "Jukun",
@@ -13,10 +16,7 @@
         "Diyi",
         "Donga (Akpanzhi)"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Jukun Takum",
+    "gwcode": "fr",
+    "ln": "Jukun Takum"
 }

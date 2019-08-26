@@ -1,19 +1,19 @@
 {
-    "pk": 3879,
-    "lc": "mjc",
+    "gw": false,
     "ISO-639-3": "mjc",
-    "ln": "San Juan Colorado Mixtec",
-    "ang": "Mixtec, San Juan Colorado",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 3879,
     "lr": "Americas",
+    "lc": "mjc",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Mixteco de Oaxaca de la Costa Noroeste",
         "Mixteco de San Juan Colorado"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, San Juan Colorado",
+    "gwcode": "es-419",
+    "ln": "San Juan Colorado Mixtec"
 }

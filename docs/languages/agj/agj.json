@@ -1,19 +1,19 @@
 {
-    "pk": 131,
-    "lc": "agj",
+    "gw": false,
     "ISO-639-3": "agj",
-    "ln": "Argobba",
-    "ang": "Argobba",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 131,
     "lr": "Africa",
+    "lc": "agj",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Aliyu Amba-Ankober",
         "Shonke-T'allaha"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Argobba",
+    "gwcode": "am",
+    "ln": "Argobba"
 }

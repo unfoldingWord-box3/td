@@ -1,11 +1,14 @@
 {
-    "pk": 1341,
-    "lc": "crx",
+    "gw": false,
     "ISO-639-3": "crx",
-    "ln": "Carrier",
-    "ang": "Carrier",
     "hc": "CA",
+    "ld": "ltr",
+    "pk": 1341,
     "lr": "Americas",
+    "lc": "crx",
+    "cc": [
+        "CA"
+    ],
     "alt": [
         "Central Carrier",
         "Middle River",
@@ -15,10 +18,7 @@
         "Grand Rapids",
         "Pinchie"
     ],
-    "cc": [
-        "CA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Carrier",
+    "gwcode": "en",
+    "ln": "Carrier"
 }

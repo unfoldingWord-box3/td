@@ -1,18 +1,18 @@
 {
-    "pk": 2487,
-    "lc": "inb",
+    "gw": false,
     "ISO-639-3": "inb",
-    "ln": "Inga",
-    "ang": "Inga",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 2487,
     "lr": "Americas",
-    "alt": [
-        "Highland Inga"
-    ],
+    "lc": "inb",
     "cc": [
         "CO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Highland Inga"
+    ],
+    "ang": "Inga",
+    "gwcode": "es-419",
+    "ln": "Inga"
 }

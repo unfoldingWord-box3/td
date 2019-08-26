@@ -1,21 +1,21 @@
 {
-    "pk": 6042,
-    "lc": "tdn",
+    "gw": false,
     "ISO-639-3": "tdn",
-    "ln": "Tondano",
-    "ang": "Tondano",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6042,
     "lr": "Asia",
+    "lc": "tdn",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Tolou",
         "Tolour",
         "Tondanou",
         "Kakas (Ka'kas)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Tondano",
+    "gwcode": "id",
+    "ln": "Tondano"
 }

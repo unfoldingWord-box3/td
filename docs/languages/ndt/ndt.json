@@ -1,21 +1,21 @@
 {
-    "pk": 4371,
-    "lc": "ndt",
+    "gw": false,
     "ISO-639-3": "ndt",
-    "ln": "Ndunga",
-    "ang": "Ndunga",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 4371,
     "lr": "Africa",
+    "lc": "ndt",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Bondonga",
         "Modunga",
         "Mondugu",
         "Mondunga"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ndunga",
+    "gwcode": "fr",
+    "ln": "Ndunga"
 }

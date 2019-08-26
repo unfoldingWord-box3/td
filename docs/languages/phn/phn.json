@@ -1,16 +1,16 @@
 {
-    "pk": 5017,
-    "lc": "phn",
+    "gw": false,
     "ISO-639-3": "phn",
-    "ln": "Phoenician",
-    "ang": "Phoenician",
     "hc": "LB",
+    "ld": "ltr",
+    "pk": 5017,
     "lr": "Asia",
-    "alt": [],
+    "lc": "phn",
     "cc": [
         "LB"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [],
+    "ang": "Phoenician",
+    "gwcode": "UNKNOWN",
+    "ln": "Phoenician"
 }

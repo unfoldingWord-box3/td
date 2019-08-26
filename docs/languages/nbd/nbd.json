@@ -1,19 +1,19 @@
 {
-    "pk": 4313,
-    "lc": "nbd",
+    "gw": false,
     "ISO-639-3": "nbd",
-    "ln": "Ngbinda",
-    "ang": "Ngbinda",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 4313,
     "lr": "Africa",
+    "lc": "nbd",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Bangbinda",
         "Bungbinda"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ngbinda",
+    "gwcode": "fr",
+    "ln": "Ngbinda"
 }

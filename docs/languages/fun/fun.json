@@ -1,11 +1,14 @@
 {
-    "pk": 1891,
-    "lc": "fun",
+    "gw": false,
     "ISO-639-3": "fun",
-    "ln": "Fulni\u00f4",
-    "ang": "Iat\u00ea",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 1891,
     "lr": "Americas",
+    "lc": "fun",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Carnij\u00f3",
         "Forni\u00f3",
@@ -13,10 +16,7 @@
         "Furni\u00f4",
         "Yat\u00ea"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Iat\u00ea",
+    "gwcode": "pt",
+    "ln": "Fulni\u00f4"
 }

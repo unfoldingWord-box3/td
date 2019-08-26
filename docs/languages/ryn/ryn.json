@@ -1,21 +1,21 @@
 {
-    "pk": 5455,
-    "lc": "ryn",
+    "gw": false,
     "ISO-639-3": "ryn",
-    "ln": "\u5944\u7f8e\u5927\u5cf6\u5357\u90e8\u65b9\u8a00",
-    "ang": "Amami-Oshima, Northern",
     "hc": "JP",
+    "ld": "ltr",
+    "pk": 5455,
     "lr": "Asia",
+    "lc": "ryn",
+    "cc": [
+        "JP"
+    ],
     "alt": [
         "Northern Amami-Osima",
         "Oosima",
         "Oshima",
         "Osima"
     ],
-    "cc": [
-        "JP"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ja"
+    "ang": "Amami-Oshima, Northern",
+    "gwcode": "UNKNOWN",
+    "ln": "\u5944\u7f8e\u5927\u5cf6\u5357\u90e8\u65b9\u8a00"
 }

@@ -1,12 +1,11 @@
 {
-    "pk": 2418,
-    "lc": "id",
+    "gw": true,
     "ISO-639-3": "ind",
-    "ln": "Bahasa Indonesia",
-    "ang": "Indonesian",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2418,
     "lr": "Asia",
-    "alt": [],
+    "lc": "id",
     "cc": [
         "CN",
         "ID",
@@ -17,7 +16,8 @@
         "CA",
         "SG"
     ],
-    "gw": true,
-    "ld": "ltr",
-    "gwcode": null
+    "alt": [],
+    "ang": "Indonesian",
+    "gwcode": "UNKNOWN",
+    "ln": "Bahasa Indonesia"
 }

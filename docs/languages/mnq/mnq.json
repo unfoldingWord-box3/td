@@ -1,21 +1,21 @@
 {
-    "pk": 3990,
-    "lc": "mnq",
+    "gw": false,
     "ISO-639-3": "mnq",
-    "ln": "Minriq",
-    "ang": "Minriq",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 3990,
     "lr": "Asia",
+    "lc": "mnq",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "Mendriq",
         "Menraq",
         "Menrik",
         "Menriq"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Minriq",
+    "gwcode": "ms",
+    "ln": "Minriq"
 }

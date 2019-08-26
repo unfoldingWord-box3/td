@@ -1,11 +1,14 @@
 {
-    "pk": 1803,
-    "lc": "evh",
+    "gw": false,
     "ISO-639-3": "evh",
-    "ln": "Uvbie",
-    "ang": "Uvbie",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1803,
     "lr": "Africa",
+    "lc": "evh",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Effurun",
         "Evrie",
@@ -13,10 +16,7 @@
         "Uvwie",
         "Evhro"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Uvbie",
+    "gwcode": "en",
+    "ln": "Uvbie"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 2216,
-    "lc": "gzn",
+    "gw": false,
     "ISO-639-3": "gzn",
-    "ln": "Gane",
-    "ang": "Gane",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2216,
     "lr": "Asia",
+    "lc": "gzn",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Gani",
         "Giman"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Gane",
+    "gwcode": "id",
+    "ln": "Gane"
 }

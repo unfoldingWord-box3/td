@@ -1,20 +1,20 @@
 {
-    "pk": 3749,
-    "lc": "mdw",
+    "gw": false,
     "ISO-639-3": "mdw",
-    "ln": "Mbosi",
-    "ang": "Mbosi",
     "hc": "CG",
+    "ld": "ltr",
+    "pk": 3749,
     "lr": "Africa",
+    "lc": "mdw",
+    "cc": [
+        "CG"
+    ],
     "alt": [
         "Embosi",
         "Mboshe",
         "Mboshi"
     ],
-    "cc": [
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mbosi",
+    "gwcode": "fr",
+    "ln": "Mbosi"
 }

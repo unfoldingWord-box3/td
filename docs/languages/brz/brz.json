@@ -1,18 +1,18 @@
 {
-    "pk": 922,
-    "lc": "brz",
+    "gw": false,
     "ISO-639-3": "brz",
-    "ln": "Bilbil",
-    "ang": "Bilbil",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 922,
     "lr": "Pacific",
-    "alt": [
-        "Bilibil"
-    ],
+    "lc": "brz",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Bilibil"
+    ],
+    "ang": "Bilbil",
+    "gwcode": "tpi",
+    "ln": "Bilbil"
 }

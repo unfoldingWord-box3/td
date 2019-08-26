@@ -1,18 +1,18 @@
 {
-    "pk": 1622,
-    "lc": "drn",
+    "gw": false,
     "ISO-639-3": "drn",
-    "ln": "West Damar",
-    "ang": "Damar, West",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1622,
     "lr": "Asia",
-    "alt": [
-        "North Damar"
-    ],
+    "lc": "drn",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "North Damar"
+    ],
+    "ang": "Damar, West",
+    "gwcode": "id",
+    "ln": "West Damar"
 }

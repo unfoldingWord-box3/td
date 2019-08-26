@@ -1,20 +1,20 @@
 {
-    "pk": 7287,
-    "lc": "yta",
+    "gw": false,
     "ISO-639-3": "yta",
-    "ln": "\u4ed6\u9c81",
-    "ang": "Talu",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7287,
     "lr": "Asia",
+    "lc": "yta",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Tagu",
         "Taliu",
         "Tazhi"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Talu",
+    "gwcode": "zh",
+    "ln": "\u4ed6\u9c81"
 }

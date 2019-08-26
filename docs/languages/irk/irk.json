@@ -1,21 +1,21 @@
 {
-    "pk": 2510,
-    "lc": "irk",
+    "gw": false,
     "ISO-639-3": "irk",
-    "ln": "Iraqw",
-    "ang": "Iraqw",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 2510,
     "lr": "Africa",
+    "lc": "irk",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Erokh",
         "Iraku",
         "Kiiraqw",
         "Mbulunge"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Iraqw",
+    "gwcode": "sw",
+    "ln": "Iraqw"
 }

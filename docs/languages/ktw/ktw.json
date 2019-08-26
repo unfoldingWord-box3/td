@@ -1,21 +1,21 @@
 {
-    "pk": 3178,
-    "lc": "ktw",
+    "gw": false,
     "ISO-639-3": "ktw",
-    "ln": "Kato",
-    "ang": "Kato",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 3178,
     "lr": "Americas",
+    "lc": "ktw",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Batem-Da-Kai-Ee",
         "Cahto",
         "Kai Po-Mo",
         "Tlokeang"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Kato",
+    "gwcode": "en",
+    "ln": "Kato"
 }

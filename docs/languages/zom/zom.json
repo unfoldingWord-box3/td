@@ -1,11 +1,15 @@
 {
-    "pk": 7432,
-    "lc": "zom",
+    "gw": false,
     "ISO-639-3": "zom",
-    "ln": "Zou",
-    "ang": "Zo",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 7432,
     "lr": "Asia",
+    "lc": "zom",
+    "cc": [
+        "IN",
+        "MM"
+    ],
     "alt": [
         "Jou",
         "Zoh\u00e2m",
@@ -19,11 +23,7 @@
         "Zome",
         "Zomi"
     ],
-    "cc": [
-        "IN",
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Zo",
+    "gwcode": "my",
+    "ln": "Zou"
 }

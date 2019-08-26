@@ -1,11 +1,14 @@
 {
-    "pk": 5231,
-    "lc": "pwg",
+    "gw": false,
     "ISO-639-3": "pwg",
-    "ln": "Gapapaiwa",
-    "ang": "Gapapaiwa",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5231,
     "lr": "Pacific",
+    "lc": "pwg",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Gapa",
         "Manape",
@@ -13,10 +16,7 @@
         "East Gapa",
         "West Paiwa"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Gapapaiwa",
+    "gwcode": "tpi",
+    "ln": "Gapapaiwa"
 }

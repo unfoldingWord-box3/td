@@ -1,21 +1,21 @@
 {
-    "pk": 3197,
-    "lc": "kup",
+    "gw": false,
     "ISO-639-3": "kup",
-    "ln": "Gunimaipa",
-    "ang": "Gunimaipa",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3197,
     "lr": "Pacific",
+    "lc": "kup",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "K\u00e2te (Hate)",
         "Gajili (Gajila)",
         "Gazili",
         "Hazili"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Gunimaipa",
+    "gwcode": "tpi",
+    "ln": "Gunimaipa"
 }

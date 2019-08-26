@@ -1,11 +1,15 @@
 {
-    "pk": 6058,
-    "lc": "teg",
+    "gw": false,
     "ISO-639-3": "teg",
-    "ln": "Teke-Tege",
-    "ang": "Teke-Tege",
     "hc": "GA",
+    "ld": "ltr",
+    "pk": 6058,
     "lr": "Africa",
+    "lc": "teg",
+    "cc": [
+        "GA",
+        "CG"
+    ],
     "alt": [
         "Iteghe",
         "Northern Teke",
@@ -18,11 +22,7 @@
         "Teke",
         "Kateghe (Nzikini)"
     ],
-    "cc": [
-        "GA",
-        "CG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Teke-Tege",
+    "gwcode": "fr",
+    "ln": "Teke-Tege"
 }

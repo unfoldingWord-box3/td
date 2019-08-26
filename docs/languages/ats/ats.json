@@ -1,11 +1,14 @@
 {
-    "pk": 397,
-    "lc": "ats",
+    "gw": false,
     "ISO-639-3": "ats",
-    "ln": "Gros Ventre",
-    "ang": "Gros Ventre",
     "hc": "US",
+    "ld": "ltr",
+    "pk": 397,
     "lr": "Americas",
+    "lc": "ats",
+    "cc": [
+        "US"
+    ],
     "alt": [
         "Ahahnelin",
         "Ahe",
@@ -15,10 +18,7 @@
         "Gros Ventres",
         "White Clay People"
     ],
-    "cc": [
-        "US"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Gros Ventre",
+    "gwcode": "en",
+    "ln": "Gros Ventre"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 5094,
-    "lc": "pmq",
+    "gw": false,
     "ISO-639-3": "pmq",
-    "ln": "Northern Pame",
-    "ang": "Pame, Northern",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 5094,
     "lr": "Americas",
+    "lc": "pmq",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Pame del Norte",
         "Xi'iuy"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Pame, Northern",
+    "gwcode": "es-419",
+    "ln": "Northern Pame"
 }

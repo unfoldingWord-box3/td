@@ -1,11 +1,14 @@
 {
-    "pk": 324,
-    "lc": "apz",
+    "gw": false,
     "ISO-639-3": "apz",
-    "ln": "Safeyoka",
-    "ang": "Safeyoka",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 324,
     "lr": "Pacific",
+    "lc": "apz",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Ambari",
         "Ampale",
@@ -13,10 +16,7 @@
         "Ampele",
         "Wajakes (Wocokeso)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Safeyoka",
+    "gwcode": "tpi",
+    "ln": "Safeyoka"
 }

@@ -1,18 +1,18 @@
 {
-    "pk": 2029,
-    "lc": "gip",
+    "gw": false,
     "ISO-639-3": "gip",
-    "ln": "Gimi (West New Britain)",
-    "ang": "Gimi",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2029,
     "lr": "Pacific",
-    "alt": [
-        "Loko"
-    ],
+    "lc": "gip",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Loko"
+    ],
+    "ang": "Gimi",
+    "gwcode": "tpi",
+    "ln": "Gimi (West New Britain)"
 }

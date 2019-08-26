@@ -1,18 +1,18 @@
 {
-    "pk": 4443,
-    "lc": "nhm",
+    "gw": false,
     "ISO-639-3": "nhm",
-    "ln": "Morelos Nahuatl",
-    "ang": "Nahuatl, Morelos",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4443,
     "lr": "Americas",
-    "alt": [
-        "N\u00e1huatl de Cuentepec"
-    ],
+    "lc": "nhm",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "N\u00e1huatl de Cuentepec"
+    ],
+    "ang": "Nahuatl, Morelos",
+    "gwcode": "es-419",
+    "ln": "Morelos Nahuatl"
 }

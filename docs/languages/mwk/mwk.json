@@ -1,11 +1,14 @@
 {
-    "pk": 4200,
-    "lc": "mwk",
+    "gw": false,
     "ISO-639-3": "mwk",
-    "ln": "Kita Maninkakan",
-    "ang": "Maninkakan, Kita",
     "hc": "ML",
+    "ld": "ltr",
+    "pk": 4200,
     "lr": "Africa",
+    "lc": "mwk",
+    "cc": [
+        "ML"
+    ],
     "alt": [
         "Central Malinke",
         "Kita Maninka",
@@ -15,10 +18,7 @@
         "Biriko (Birgo)",
         "Kita"
     ],
-    "cc": [
-        "ML"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Maninkakan, Kita",
+    "gwcode": "fr",
+    "ln": "Kita Maninkakan"
 }

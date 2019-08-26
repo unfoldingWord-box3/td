@@ -1,19 +1,19 @@
 {
-    "pk": 1793,
-    "lc": "etn",
+    "gw": false,
     "ISO-639-3": "etn",
-    "ln": "Eton (Vanuatu)",
-    "ang": "Eton",
     "hc": "VU",
+    "ld": "ltr",
+    "pk": 1793,
     "lr": "Pacific",
+    "lc": "etn",
+    "cc": [
+        "VU"
+    ],
     "alt": [
         "Eastern Efate",
         "Epwau"
     ],
-    "cc": [
-        "VU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Eton",
+    "gwcode": "fr",
+    "ln": "Eton (Vanuatu)"
 }

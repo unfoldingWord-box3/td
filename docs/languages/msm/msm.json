@@ -1,20 +1,20 @@
 {
-    "pk": 4108,
-    "lc": "msm",
+    "gw": false,
     "ISO-639-3": "msm",
-    "ln": "Agusan Manobo",
-    "ang": "Manobo, Agusan",
     "hc": "PH",
+    "ld": "ltr",
+    "pk": 4108,
     "lr": "Asia",
+    "lc": "msm",
+    "cc": [
+        "PH"
+    ],
     "alt": [
         "Agusan",
         "Omayamnon",
         "Surigao"
     ],
-    "cc": [
-        "PH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ceb"
+    "ang": "Manobo, Agusan",
+    "gwcode": "ceb",
+    "ln": "Agusan Manobo"
 }

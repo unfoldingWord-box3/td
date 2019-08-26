@@ -1,19 +1,19 @@
 {
-    "pk": 2058,
-    "lc": "gmb",
+    "gw": false,
     "ISO-639-3": "gmb",
-    "ln": "Gula'alaa",
-    "ang": "Gula\u2019alaa",
     "hc": "SB",
+    "ld": "ltr",
+    "pk": 2058,
     "lr": "Pacific",
+    "lc": "gmb",
+    "cc": [
+        "SB"
+    ],
     "alt": [
         "Kwai",
         "Ngongosila"
     ],
-    "cc": [
-        "SB"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pis"
+    "ang": "Gula\u2019alaa",
+    "gwcode": "UNKNOWN",
+    "ln": "Gula'alaa"
 }

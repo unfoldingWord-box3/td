@@ -1,11 +1,14 @@
 {
-    "pk": 2048,
-    "lc": "glc",
+    "gw": false,
     "ISO-639-3": "glc",
-    "ln": "Bon Gula",
-    "ang": "Bon Gula",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 2048,
     "lr": "Africa",
+    "lc": "glc",
+    "cc": [
+        "TD"
+    ],
     "alt": [
         "Bon",
         "Bon Goula",
@@ -15,10 +18,7 @@
         "Poun",
         "Taataal"
     ],
-    "cc": [
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Bon Gula",
+    "gwcode": "ar",
+    "ln": "Bon Gula"
 }

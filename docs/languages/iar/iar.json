@@ -1,21 +1,21 @@
 {
-    "pk": 2402,
-    "lc": "iar",
+    "gw": false,
     "ISO-639-3": "iar",
-    "ln": "Purari",
-    "ang": "Purari",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 2402,
     "lr": "Pacific",
+    "lc": "iar",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Evorra",
         "Maipua",
         "Namau",
         "Iai (Namau)"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Purari",
+    "gwcode": "tpi",
+    "ln": "Purari"
 }

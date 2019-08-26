@@ -1,18 +1,18 @@
 {
-    "pk": 171,
-    "lc": "ail",
+    "gw": false,
     "ISO-639-3": "ail",
-    "ln": "Aimele",
-    "ang": "Aimele",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 171,
     "lr": "Pacific",
-    "alt": [
-        "Kware"
-    ],
+    "lc": "ail",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Kware"
+    ],
+    "ang": "Aimele",
+    "gwcode": "tpi",
+    "ln": "Aimele"
 }

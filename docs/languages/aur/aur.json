@@ -1,18 +1,18 @@
 {
-    "pk": 420,
-    "lc": "aur",
+    "gw": false,
     "ISO-639-3": "aur",
-    "ln": "Aruek",
-    "ang": "Aruek",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 420,
     "lr": "Pacific",
-    "alt": [
-        "Djang"
-    ],
+    "lc": "aur",
     "cc": [
         "PG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "alt": [
+        "Djang"
+    ],
+    "ang": "Aruek",
+    "gwcode": "tpi",
+    "ln": "Aruek"
 }

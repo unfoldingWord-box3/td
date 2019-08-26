@@ -1,19 +1,19 @@
 {
-    "pk": 879,
-    "lc": "bqg",
+    "gw": false,
     "ISO-639-3": "bqg",
-    "ln": "Bago-Kusuntu",
-    "ang": "Bago-Kusuntu",
     "hc": "TG",
+    "ld": "ltr",
+    "pk": 879,
     "lr": "Africa",
+    "lc": "bqg",
+    "cc": [
+        "TG"
+    ],
     "alt": [
         "Koussountou",
         "Kusuntu"
     ],
-    "cc": [
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bago-Kusuntu",
+    "gwcode": "fr",
+    "ln": "Bago-Kusuntu"
 }

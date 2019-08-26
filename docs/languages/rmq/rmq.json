@@ -1,11 +1,17 @@
 {
-    "pk": 5389,
-    "lc": "rmq",
+    "gw": false,
     "ISO-639-3": "rmq",
-    "ln": "Cal\u00f3",
-    "ang": "Cal\u00f3",
     "hc": "ES",
+    "ld": "ltr",
+    "pk": 5389,
     "lr": "Europe",
+    "lc": "rmq",
+    "cc": [
+        "BR",
+        "FR",
+        "ES",
+        "PT"
+    ],
     "alt": [
         "Gitano",
         "Iberian Romani",
@@ -14,13 +20,7 @@
         "Lusitano-Romani",
         "Portuguese Cal\u00e3o (Cal\u00e3o)"
     ],
-    "cc": [
-        "BR",
-        "FR",
-        "ES",
-        "PT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es"
+    "ang": "Cal\u00f3",
+    "gwcode": "es",
+    "ln": "Cal\u00f3"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 1048,
-    "lc": "bxg",
+    "gw": false,
     "ISO-639-3": "bxg",
-    "ln": "Bangala",
-    "ang": "Bangala",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 1048,
     "lr": "Africa",
-    "alt": [
-        "Ngala"
-    ],
+    "lc": "bxg",
     "cc": [
         "SS",
         "CG",
         "CD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Ngala"
+    ],
+    "ang": "Bangala",
+    "gwcode": "fr",
+    "ln": "Bangala"
 }

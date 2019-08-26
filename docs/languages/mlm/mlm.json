@@ -1,11 +1,14 @@
 {
-    "pk": 3937,
-    "lc": "mlm",
+    "gw": false,
     "ISO-639-3": "mlm",
-    "ln": "\u4eeb\u4f6c",
-    "ang": "Mulam",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 3937,
     "lr": "Asia",
+    "lc": "mlm",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Abo",
         "Kyam",
@@ -15,10 +18,7 @@
         "Muliao",
         "Mulou"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Mulam",
+    "gwcode": "zh",
+    "ln": "\u4eeb\u4f6c"
 }

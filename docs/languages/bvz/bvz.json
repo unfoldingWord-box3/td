@@ -1,21 +1,21 @@
 {
-    "pk": 1017,
-    "lc": "bvz",
+    "gw": false,
     "ISO-639-3": "bvz",
-    "ln": "Bauzi",
-    "ang": "Bauzi",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1017,
     "lr": "Asia",
+    "lc": "bvz",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Baudi",
         "Baudji",
         "Baudzi",
         "Bauri"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Bauzi",
+    "gwcode": "id",
+    "ln": "Bauzi"
 }

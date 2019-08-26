@@ -1,11 +1,14 @@
 {
-    "pk": 7387,
-    "lc": "ziw",
+    "gw": false,
     "ISO-639-3": "ziw",
-    "ln": "Zigula",
-    "ang": "Zigula",
     "hc": "TZ",
+    "ld": "ltr",
+    "pk": 7387,
     "lr": "Africa",
+    "lc": "ziw",
+    "cc": [
+        "TZ"
+    ],
     "alt": [
         "Kizigula",
         "Seguha",
@@ -16,10 +19,7 @@
         "Zigoua",
         "Zigwa"
     ],
-    "cc": [
-        "TZ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Zigula",
+    "gwcode": "sw",
+    "ln": "Zigula"
 }

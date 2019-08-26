@@ -1,18 +1,18 @@
 {
-    "pk": 4970,
-    "lc": "pcp",
+    "gw": false,
     "ISO-639-3": "pcp",
-    "ln": "Pacahuara",
-    "ang": "Pacahuara",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 4970,
     "lr": "Americas",
-    "alt": [
-        "Pacawara"
-    ],
+    "lc": "pcp",
     "cc": [
         "BO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Pacawara"
+    ],
+    "ang": "Pacahuara",
+    "gwcode": "es-419",
+    "ln": "Pacahuara"
 }

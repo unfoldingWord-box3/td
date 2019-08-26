@@ -1,11 +1,14 @@
 {
-    "pk": 3691,
-    "lc": "mbp",
+    "gw": false,
     "ISO-639-3": "mbp",
-    "ln": "Malayo",
-    "ang": "Malayo",
     "hc": "CO",
+    "ld": "ltr",
+    "pk": 3691,
     "lr": "Americas",
+    "lc": "mbp",
+    "cc": [
+        "CO"
+    ],
     "alt": [
         "Arosario",
         "Arsario",
@@ -19,10 +22,7 @@
         "Sanka",
         "Wiwa"
     ],
-    "cc": [
-        "CO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Malayo",
+    "gwcode": "es-419",
+    "ln": "Malayo"
 }

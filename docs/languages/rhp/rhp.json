@@ -1,20 +1,20 @@
 {
-    "pk": 5355,
-    "lc": "rhp",
+    "gw": false,
     "ISO-639-3": "rhp",
-    "ln": "Yahang",
-    "ang": "Yahang",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5355,
     "lr": "Pacific",
+    "lc": "rhp",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Ruruhi'ip",
         "Ruruhip",
         "Ya'unk"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Yahang",
+    "gwcode": "tpi",
+    "ln": "Yahang"
 }

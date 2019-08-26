@@ -1,11 +1,15 @@
 {
-    "pk": 2819,
-    "lc": "kfk",
+    "gw": false,
     "ISO-639-3": "kfk",
-    "ln": "Kinnauri",
-    "ang": "Kinnauri",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 2819,
     "lr": "Asia",
+    "lc": "kfk",
+    "cc": [
+        "PK",
+        "IN"
+    ],
     "alt": [
         "Kanaury Anuskad",
         "Kanawari",
@@ -26,11 +30,7 @@
         "Milchang",
         "Tibas Skad"
     ],
-    "cc": [
-        "PK",
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "hi"
+    "ang": "Kinnauri",
+    "gwcode": "hi",
+    "ln": "Kinnauri"
 }

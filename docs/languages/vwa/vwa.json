@@ -1,11 +1,14 @@
 {
-    "pk": 6662,
-    "lc": "vwa",
+    "gw": false,
     "ISO-639-3": "vwa",
-    "ln": "\u963f\u4f64\u65b9\u8a00 (China)",
-    "ang": "Awa",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 6662,
     "lr": "Asia",
+    "lc": "vwa",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "Ava",
         "Awa Wa",
@@ -22,10 +25,7 @@
         "Awalei ('A vo' loi)",
         "Masan ('A Vo')"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Awa",
+    "gwcode": "zh",
+    "ln": "\u963f\u4f64\u65b9\u8a00 (China)"
 }

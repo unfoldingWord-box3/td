@@ -1,20 +1,20 @@
 {
-    "pk": 6439,
-    "lc": "txu",
+    "gw": false,
     "ISO-639-3": "txu",
-    "ln": "Kayap\u00f3",
-    "ang": "Kayap\u00f3",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 6439,
     "lr": "Americas",
+    "lc": "txu",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Kokraimoro",
         "Xikrin (Diore)",
         "Xukru"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Kayap\u00f3",
+    "gwcode": "pt",
+    "ln": "Kayap\u00f3"
 }

@@ -1,21 +1,21 @@
 {
-    "pk": 1370,
-    "lc": "ctd",
+    "gw": false,
     "ISO-639-3": "ctd",
-    "ln": "Tedim Chin",
-    "ang": "Chin, Tedim",
     "hc": "MM",
+    "ld": "ltr",
+    "pk": 1370,
     "lr": "Asia",
+    "lc": "ctd",
+    "cc": [
+        "MM"
+    ],
     "alt": [
         "Tedim",
         "Tiddim",
         "Kamhau (Kamhao)",
         "Kamhow"
     ],
-    "cc": [
-        "MM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "my"
+    "ang": "Chin, Tedim",
+    "gwcode": "my",
+    "ln": "Tedim Chin"
 }

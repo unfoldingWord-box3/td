@@ -1,11 +1,14 @@
 {
-    "pk": 7000,
-    "lc": "xny",
+    "gw": false,
     "ISO-639-3": "xny",
-    "ln": "Nyiyaparli",
-    "ang": "Nyiyaparli",
     "hc": "AU",
+    "ld": "ltr",
+    "pk": 7000,
     "lr": "Pacific",
+    "lc": "xny",
+    "cc": [
+        "AU"
+    ],
     "alt": [
         "Iabali",
         "Jana",
@@ -20,10 +23,7 @@
         "Nyiyapali",
         "Nyiypali"
     ],
-    "cc": [
-        "AU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Nyiyaparli",
+    "gwcode": "en",
+    "ln": "Nyiyaparli"
 }

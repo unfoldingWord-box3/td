@@ -1,11 +1,14 @@
 {
-    "pk": 5240,
-    "lc": "pym",
+    "gw": false,
     "ISO-639-3": "pym",
-    "ln": "Fyam",
-    "ang": "Fyam",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 5240,
     "lr": "Africa",
+    "lc": "pym",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Fem",
         "Fyem",
@@ -16,10 +19,7 @@
         "Pem",
         "Pyem"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Fyam",
+    "gwcode": "en",
+    "ln": "Fyam"
 }

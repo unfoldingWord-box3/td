@@ -1,11 +1,14 @@
 {
-    "pk": 2119,
-    "lc": "gqn",
+    "gw": false,
     "ISO-639-3": "gqn",
-    "ln": "Guana (Brazil)",
-    "ang": "Guana",
     "hc": "BR",
+    "ld": "ltr",
+    "pk": 2119,
     "lr": "Americas",
+    "lc": "gqn",
+    "cc": [
+        "BR"
+    ],
     "alt": [
         "Chana",
         "Chuala",
@@ -14,10 +17,7 @@
         "Kinihinao",
         "Kinikinao"
     ],
-    "cc": [
-        "BR"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Guana",
+    "gwcode": "pt",
+    "ln": "Guana (Brazil)"
 }

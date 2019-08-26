@@ -1,20 +1,20 @@
 {
-    "pk": 7195,
-    "lc": "yiv",
+    "gw": false,
     "ISO-639-3": "yiv",
-    "ln": "\u5317\u5c3c\u82cf\u8bed",
-    "ang": "Nisu, Northern",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 7195,
     "lr": "Asia",
+    "lc": "yiv",
+    "cc": [
+        "CN"
+    ],
     "alt": [
         "E-Xin Yi",
         "Nasu",
         "Nisu"
     ],
-    "cc": [
-        "CN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "ang": "Nisu, Northern",
+    "gwcode": "zh",
+    "ln": "\u5317\u5c3c\u82cf\u8bed"
 }

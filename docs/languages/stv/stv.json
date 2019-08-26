@@ -1,11 +1,14 @@
 {
-    "pk": 5872,
-    "lc": "stv",
+    "gw": false,
     "ISO-639-3": "stv",
-    "ln": "Silt'e",
-    "ang": "Silt\u2019e",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 5872,
     "lr": "Africa",
+    "lc": "stv",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "East Gurage",
         "Selti",
@@ -13,10 +16,7 @@
         "Enneqor (Inneqor)",
         "Ulbarag (Urbareg)"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Silt\u2019e",
+    "gwcode": "am",
+    "ln": "Silt'e"
 }

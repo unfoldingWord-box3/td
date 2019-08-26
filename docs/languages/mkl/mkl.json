@@ -1,20 +1,20 @@
 {
-    "pk": 3911,
-    "lc": "mkl",
+    "gw": false,
     "ISO-639-3": "mkl",
-    "ln": "Mokole",
-    "ang": "Mokole",
     "hc": "BJ",
+    "ld": "ltr",
+    "pk": 3911,
     "lr": "Africa",
+    "lc": "mkl",
+    "cc": [
+        "BJ"
+    ],
     "alt": [
         "F\u00e9ri",
         "Mokoll\u00e9",
         "Mokwale"
     ],
-    "cc": [
-        "BJ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mokole",
+    "gwcode": "fr",
+    "ln": "Mokole"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 4910,
-    "lc": "oyb",
+    "gw": false,
     "ISO-639-3": "oyb",
-    "ln": "Oy",
-    "ang": "Oy",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 4910,
     "lr": "Asia",
+    "lc": "oyb",
+    "cc": [
+        "LA"
+    ],
     "alt": [
         "Huei",
         "Oi"
     ],
-    "cc": [
-        "LA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "Oy",
+    "gwcode": "lo",
+    "ln": "Oy"
 }

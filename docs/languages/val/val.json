@@ -1,19 +1,19 @@
 {
-    "pk": 6587,
-    "lc": "val",
+    "gw": false,
     "ISO-639-3": "val",
-    "ln": "Vehes",
-    "ang": "Vehes",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6587,
     "lr": "Pacific",
+    "lc": "val",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Buasi",
         "Vehees"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Vehes",
+    "gwcode": "tpi",
+    "ln": "Vehes"
 }

@@ -1,11 +1,15 @@
 {
-    "pk": 6047,
-    "lc": "tdt",
+    "gw": false,
     "ISO-639-3": "tdt",
-    "ln": "Tetun Dili",
-    "ang": "Tetun Dili",
     "hc": "TL",
+    "ld": "ltr",
+    "pk": 6047,
     "lr": "Asia",
+    "lc": "tdt",
+    "cc": [
+        "ID",
+        "TL"
+    ],
     "alt": [
         "Dili Tetum",
         "Tetum",
@@ -13,11 +17,7 @@
         "Tetum Pra\u00e7a",
         "Tetun"
     ],
-    "cc": [
-        "ID",
-        "TL"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Tetun Dili",
+    "gwcode": "pt",
+    "ln": "Tetun Dili"
 }

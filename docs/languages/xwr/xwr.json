@@ -1,11 +1,14 @@
 {
-    "pk": 7100,
-    "lc": "xwr",
+    "gw": false,
     "ISO-639-3": "xwr",
-    "ln": "Kwerba Mamberamo",
-    "ang": "Kwerba Mamberamo",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 7100,
     "lr": "Asia",
+    "lc": "xwr",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Napok",
         "Nobuk",
@@ -14,10 +17,7 @@
         "Nopukw",
         "Tatsewalem"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Kwerba Mamberamo",
+    "gwcode": "id",
+    "ln": "Kwerba Mamberamo"
 }

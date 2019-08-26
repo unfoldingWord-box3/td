@@ -1,11 +1,14 @@
 {
-    "pk": 2561,
-    "lc": "izr",
+    "gw": false,
     "ISO-639-3": "izr",
-    "ln": "Izere",
-    "ang": "Izere",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2561,
     "lr": "Africa",
+    "lc": "izr",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Afizare",
         "Afizarek",
@@ -19,10 +22,7 @@
         "Jari",
         "Jos-Zarazon"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Izere",
+    "gwcode": "en",
+    "ln": "Izere"
 }

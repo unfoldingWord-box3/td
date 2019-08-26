@@ -1,21 +1,21 @@
 {
-    "pk": 3784,
-    "lc": "mfh",
+    "gw": false,
     "ISO-639-3": "mfh",
-    "ln": "Matal",
-    "ang": "Matal",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3784,
     "lr": "Africa",
+    "lc": "mfh",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Balda",
         "Mouktele",
         "Muktele",
         "Muktile"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Matal",
+    "gwcode": "fr",
+    "ln": "Matal"
 }

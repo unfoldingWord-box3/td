@@ -1,11 +1,14 @@
 {
-    "pk": 4250,
-    "lc": "myk",
+    "gw": false,
     "ISO-639-3": "myk",
-    "ln": "Mamara Senoufo",
-    "ang": "S\u00e9noufo, Mamara",
     "hc": "ML",
+    "ld": "ltr",
+    "pk": 4250,
     "lr": "Africa",
+    "lc": "myk",
+    "cc": [
+        "ML"
+    ],
     "alt": [
         "Mamara",
         "Mianka",
@@ -15,10 +18,7 @@
         "Minyanka",
         "Tupiire"
     ],
-    "cc": [
-        "ML"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "S\u00e9noufo, Mamara",
+    "gwcode": "fr",
+    "ln": "Mamara Senoufo"
 }

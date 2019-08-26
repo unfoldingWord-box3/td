@@ -1,21 +1,21 @@
 {
-    "pk": 3086,
-    "lc": "kqd",
+    "gw": false,
     "ISO-639-3": "kqd",
-    "ln": "\u0723\u0718\u072a\u072c",
-    "ang": "Koy Sanjaq Surat",
     "hc": "IQ",
+    "ld": "ltr",
+    "pk": 3086,
     "lr": "Asia",
+    "lc": "kqd",
+    "cc": [
+        "IQ"
+    ],
     "alt": [
         "Koi Sanjaq Soorit",
         "Koi-Sanjaq Sooret",
         "Koy Sanjaq Sooret",
         "Koy Sanjaq Soorit"
     ],
-    "cc": [
-        "IQ"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "ang": "Koy Sanjaq Surat",
+    "gwcode": "ar",
+    "ln": "\u0723\u0718\u072a\u072c"
 }

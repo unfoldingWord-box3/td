@@ -1,18 +1,18 @@
 {
-    "pk": 3769,
-    "lc": "mer",
+    "gw": false,
     "ISO-639-3": "mer",
-    "ln": "Meru",
-    "ang": "Kim\u00ee\u00eeru",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 3769,
     "lr": "Africa",
-    "alt": [
-        "Meru (Beik)"
-    ],
+    "lc": "mer",
     "cc": [
         "KE"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "alt": [
+        "Meru (Beik)"
+    ],
+    "ang": "Kim\u00ee\u00eeru",
+    "gwcode": "sw",
+    "ln": "Meru"
 }

@@ -1,20 +1,20 @@
 {
-    "pk": 5009,
-    "lc": "pgu",
+    "gw": false,
     "ISO-639-3": "pgu",
-    "ln": "Pagu",
-    "ang": "Pagu",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 5009,
     "lr": "Asia",
+    "lc": "pgu",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Pago",
         "Pagoe",
         "Toliwiku (Toliliko)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Pagu",
+    "gwcode": "id",
+    "ln": "Pagu"
 }

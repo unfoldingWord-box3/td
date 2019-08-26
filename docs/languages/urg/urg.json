@@ -1,19 +1,19 @@
 {
-    "pk": 6543,
-    "lc": "urg",
+    "gw": false,
     "ISO-639-3": "urg",
-    "ln": "Urigina",
-    "ang": "Urigina",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6543,
     "lr": "Pacific",
+    "lc": "urg",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Origanau",
         "Uriginau"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Urigina",
+    "gwcode": "tpi",
+    "ln": "Urigina"
 }

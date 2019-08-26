@@ -1,18 +1,18 @@
 {
-    "pk": 3220,
-    "lc": "kvm",
+    "gw": false,
     "ISO-639-3": "kvm",
-    "ln": "Kendem",
-    "ang": "Kendem",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3220,
     "lr": "Africa",
-    "alt": [
-        "Bokwa-Kendem"
-    ],
+    "lc": "kvm",
     "cc": [
         "CM"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Bokwa-Kendem"
+    ],
+    "ang": "Kendem",
+    "gwcode": "fr",
+    "ln": "Kendem"
 }

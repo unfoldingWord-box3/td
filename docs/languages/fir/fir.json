@@ -1,20 +1,20 @@
 {
-    "pk": 1843,
-    "lc": "fir",
+    "gw": false,
     "ISO-639-3": "fir",
-    "ln": "Firan",
-    "ang": "Firan",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 1843,
     "lr": "Africa",
+    "lc": "fir",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Faran",
         "Foron",
         "Yes Firan"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Firan",
+    "gwcode": "en",
+    "ln": "Firan"
 }

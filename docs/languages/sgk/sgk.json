@@ -1,18 +1,18 @@
 {
-    "pk": 5581,
-    "lc": "sgk",
+    "gw": false,
     "ISO-639-3": "sgk",
-    "ln": "\u6851\u5b54",
-    "ang": "Sangkong",
     "hc": "CN",
+    "ld": "ltr",
+    "pk": 5581,
     "lr": "Asia",
-    "alt": [
-        "Buxia"
-    ],
+    "lc": "sgk",
     "cc": [
         "CN"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "zh"
+    "alt": [
+        "Buxia"
+    ],
+    "ang": "Sangkong",
+    "gwcode": "zh",
+    "ln": "\u6851\u5b54"
 }

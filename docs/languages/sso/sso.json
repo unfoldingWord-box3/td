@@ -1,20 +1,20 @@
 {
-    "pk": 5840,
-    "lc": "sso",
+    "gw": false,
     "ISO-639-3": "sso",
-    "ln": "Sissano",
-    "ang": "Sissano",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 5840,
     "lr": "Pacific",
+    "lc": "sso",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Sinama",
         "Sinano",
         "Sisano"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Sissano",
+    "gwcode": "tpi",
+    "ln": "Sissano"
 }

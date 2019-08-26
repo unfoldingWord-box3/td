@@ -1,20 +1,20 @@
 {
-    "pk": 4019,
-    "lc": "moy",
+    "gw": false,
     "ISO-639-3": "moy",
-    "ln": "Shekkacho",
-    "ang": "Shekkacho",
     "hc": "ET",
+    "ld": "ltr",
+    "pk": 4019,
     "lr": "Africa",
+    "lc": "moy",
+    "cc": [
+        "ET"
+    ],
     "alt": [
         "Mocha",
         "Shakacho",
         "Shekka"
     ],
-    "cc": [
-        "ET"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "am"
+    "ang": "Shekkacho",
+    "gwcode": "am",
+    "ln": "Shekkacho"
 }

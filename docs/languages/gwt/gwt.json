@@ -1,11 +1,14 @@
 {
-    "pk": 2200,
-    "lc": "gwt",
+    "gw": false,
     "ISO-639-3": "gwt",
-    "ln": "Gawar-Bati",
-    "ang": "Gawar-Bati",
     "hc": "AF",
+    "ld": "ltr",
+    "pk": 2200,
     "lr": "Asia",
+    "lc": "gwt",
+    "cc": [
+        "AF"
+    ],
     "alt": [
         "Arandui",
         "Gowari",
@@ -14,10 +17,7 @@
         "Satre",
         "Gowar-Bati"
     ],
-    "cc": [
-        "AF"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ps"
+    "ang": "Gawar-Bati",
+    "gwcode": "ps",
+    "ln": "Gawar-Bati"
 }

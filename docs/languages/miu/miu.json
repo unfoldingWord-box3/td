@@ -1,19 +1,19 @@
 {
-    "pk": 3874,
-    "lc": "miu",
+    "gw": false,
     "ISO-639-3": "miu",
-    "ln": "Cacaloxtepec Mixtec",
-    "ang": "Mixtec, Cacaloxtepec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 3874,
     "lr": "Americas",
+    "lc": "miu",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Huajuapan Mixtec",
         "Mixteco de Cacaloxtepec"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Mixtec, Cacaloxtepec",
+    "gwcode": "es-419",
+    "ln": "Cacaloxtepec Mixtec"
 }

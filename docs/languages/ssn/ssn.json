@@ -1,11 +1,14 @@
 {
-    "pk": 5839,
-    "lc": "ssn",
+    "gw": false,
     "ISO-639-3": "ssn",
-    "ln": "Waata",
-    "ang": "Waata",
     "hc": "KE",
+    "ld": "ltr",
+    "pk": 5839,
     "lr": "Africa",
+    "lc": "ssn",
+    "cc": [
+        "KE"
+    ],
     "alt": [
         "Ariangulu",
         "Langulo",
@@ -13,10 +16,7 @@
         "Waat",
         "Wasanye"
     ],
-    "cc": [
-        "KE"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "sw"
+    "ang": "Waata",
+    "gwcode": "sw",
+    "ln": "Waata"
 }

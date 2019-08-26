@@ -1,18 +1,18 @@
 {
-    "pk": 4895,
-    "lc": "otn",
+    "gw": false,
     "ISO-639-3": "otn",
-    "ln": "Tenango Otomi",
-    "ang": "Otomi, Tenango",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 4895,
     "lr": "Americas",
-    "alt": [
-        "Otom\u00ed de Tenango"
-    ],
+    "lc": "otn",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Otom\u00ed de Tenango"
+    ],
+    "ang": "Otomi, Tenango",
+    "gwcode": "es-419",
+    "ln": "Tenango Otomi"
 }

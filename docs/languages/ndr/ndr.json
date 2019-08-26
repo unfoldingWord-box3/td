@@ -1,21 +1,21 @@
 {
-    "pk": 4369,
-    "lc": "ndr",
+    "gw": false,
     "ISO-639-3": "ndr",
-    "ln": "Ndoola",
-    "ang": "Ndoola",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 4369,
     "lr": "Africa",
+    "lc": "ndr",
+    "cc": [
+        "CM",
+        "NG"
+    ],
     "alt": [
         "Njoyame",
         "Nundoro",
         "Ndola"
     ],
-    "cc": [
-        "CM",
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ndoola",
+    "gwcode": "en",
+    "ln": "Ndoola"
 }

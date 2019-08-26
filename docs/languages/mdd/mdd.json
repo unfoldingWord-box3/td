@@ -1,11 +1,16 @@
 {
-    "pk": 3731,
-    "lc": "mdd",
+    "gw": false,
     "ISO-639-3": "mdd",
-    "ln": "Mbum",
-    "ang": "Mbum",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 3731,
     "lr": "Africa",
+    "lc": "mdd",
+    "cc": [
+        "CM",
+        "CF",
+        "TD"
+    ],
     "alt": [
         "Buna",
         "Mboumtiba",
@@ -20,12 +25,7 @@
         "Kepere",
         "Kpere"
     ],
-    "cc": [
-        "CM",
-        "CF",
-        "TD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mbum",
+    "gwcode": "fr",
+    "ln": "Mbum"
 }

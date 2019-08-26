@@ -1,0 +1,22 @@
+.. _aru:
+
+Aruá (Amazonas State)
+======================
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: aru
+    alternate_names: []
+    anglicanized_name: Aruá
+    country_codes:
+    - BR
+    gateway_language: UNKNOWN
+    lang_code: aru
+    lang_direction: ltr
+    lang_name: Aruá (Amazonas State)
+    lang_region: Americas
+    

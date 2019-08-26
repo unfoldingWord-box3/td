@@ -1,18 +1,18 @@
 {
-    "pk": 5346,
-    "lc": "rey",
+    "gw": false,
     "ISO-639-3": "rey",
-    "ln": "Reyesano",
-    "ang": "Reyesano",
     "hc": "BO",
+    "ld": "ltr",
+    "pk": 5346,
     "lr": "Americas",
-    "alt": [
-        "San Borjano"
-    ],
+    "lc": "rey",
     "cc": [
         "BO"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "San Borjano"
+    ],
+    "ang": "Reyesano",
+    "gwcode": "es-419",
+    "ln": "Reyesano"
 }

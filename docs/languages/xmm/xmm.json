@@ -1,19 +1,19 @@
 {
-    "pk": 6980,
-    "lc": "xmm",
+    "gw": false,
     "ISO-639-3": "xmm",
-    "ln": "Manado Malay",
-    "ang": "Malay, Manado",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 6980,
     "lr": "Asia",
+    "lc": "xmm",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Manadonese Malay",
         "Minahasan Malay"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Malay, Manado",
+    "gwcode": "id",
+    "ln": "Manado Malay"
 }

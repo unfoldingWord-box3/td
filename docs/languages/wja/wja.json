@@ -1,11 +1,14 @@
 {
-    "pk": 6745,
-    "lc": "wja",
+    "gw": false,
     "ISO-639-3": "wja",
-    "ln": "Waja",
-    "ang": "Waja",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 6745,
     "lr": "Africa",
+    "lc": "wja",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Nyan Wiyau",
         "Wiyaa",
@@ -13,10 +16,7 @@
         "Deruwo (Wajan Dutse)",
         "Waja (Wajan Kasa)"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Waja",
+    "gwcode": "en",
+    "ln": "Waja"
 }

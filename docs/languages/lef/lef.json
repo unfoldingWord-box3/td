@@ -1,21 +1,21 @@
 {
-    "pk": 3407,
-    "lc": "lef",
+    "gw": false,
     "ISO-639-3": "lef",
-    "ln": "Lelemi",
-    "ang": "Lelemi",
     "hc": "GH",
+    "ld": "ltr",
+    "pk": 3407,
     "lr": "Africa",
+    "lc": "lef",
+    "cc": [
+        "GH",
+        "TG"
+    ],
     "alt": [
         "Buem",
         "Lafana",
         "Lefana"
     ],
-    "cc": [
-        "GH",
-        "TG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Lelemi",
+    "gwcode": "en",
+    "ln": "Lelemi"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 5793,
-    "lc": "sqh",
+    "gw": false,
     "ISO-639-3": "sqh",
-    "ln": "Shau",
-    "ang": "Shau",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 5793,
     "lr": "Africa",
+    "lc": "sqh",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "L\u00ecsh\u00e1\u00f9",
         "Sho"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Shau",
+    "gwcode": "en",
+    "ln": "Shau"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 3875,
-    "lc": "miw",
+    "gw": false,
     "ISO-639-3": "miw",
-    "ln": "Akoye",
-    "ang": "Akoye",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 3875,
     "lr": "Pacific",
+    "lc": "miw",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Akoinkake",
         "Akoyi",
@@ -15,10 +18,7 @@
         "Maihiri",
         "Obi"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Akoye",
+    "gwcode": "tpi",
+    "ln": "Akoye"
 }

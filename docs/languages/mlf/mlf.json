@@ -1,11 +1,14 @@
 {
-    "pk": 3931,
-    "lc": "mlf",
+    "gw": false,
     "ISO-639-3": "mlf",
-    "ln": "Mal",
-    "ang": "Mal",
     "hc": "LA",
+    "ld": "ltr",
+    "pk": 3931,
     "lr": "Asia",
+    "lc": "mlf",
+    "cc": [
+        "LA"
+    ],
     "alt": [
         "Htin",
         "Khatin",
@@ -14,10 +17,7 @@
         "T'in",
         "Ht'in"
     ],
-    "cc": [
-        "LA"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "lo"
+    "ang": "Mal",
+    "gwcode": "lo",
+    "ln": "Mal"
 }

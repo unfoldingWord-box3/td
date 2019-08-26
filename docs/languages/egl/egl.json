@@ -1,11 +1,14 @@
 {
-    "pk": 1705,
-    "lc": "egl",
+    "gw": false,
     "ISO-639-3": "egl",
-    "ln": "Emilian",
-    "ang": "Emilian",
     "hc": "IT",
+    "ld": "ltr",
+    "pk": 1705,
     "lr": "Europe",
+    "lc": "egl",
+    "cc": [
+        "IT"
+    ],
     "alt": [
         "Bolognese",
         "Ferrarese",
@@ -14,10 +17,7 @@
         "Piacentino",
         "Reggiano"
     ],
-    "cc": [
-        "IT"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Emilian",
+    "gwcode": "en",
+    "ln": "Emilian"
 }

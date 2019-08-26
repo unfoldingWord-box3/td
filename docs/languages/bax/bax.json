@@ -1,20 +1,20 @@
 {
-    "pk": 506,
-    "lc": "bax",
+    "gw": false,
     "ISO-639-3": "bax",
-    "ln": "Bamun",
-    "ang": "Bamun",
     "hc": "CM",
+    "ld": "ltr",
+    "pk": 506,
     "lr": "Africa",
+    "lc": "bax",
+    "cc": [
+        "CM"
+    ],
     "alt": [
         "Bamoum",
         "Bamum",
         "Shupamem"
     ],
-    "cc": [
-        "CM"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Bamun",
+    "gwcode": "fr",
+    "ln": "Bamun"
 }

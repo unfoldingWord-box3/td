@@ -1,21 +1,21 @@
 {
-    "pk": 2117,
-    "lc": "gqa",
+    "gw": false,
     "ISO-639-3": "gqa",
-    "ln": "Ga'anda",
-    "ang": "Ga\u2019anda",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2117,
     "lr": "Africa",
+    "lc": "gqa",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Ga'andu",
         "Ganda",
         "Makwar",
         "Mokar"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Ga\u2019anda",
+    "gwcode": "en",
+    "ln": "Ga'anda"
 }

@@ -1,11 +1,14 @@
 {
-    "pk": 1567,
-    "lc": "dmg",
+    "gw": false,
     "ISO-639-3": "dmg",
-    "ln": "Upper Kinabatangan",
-    "ang": "Kinabatangan, Upper",
     "hc": "MY",
+    "ld": "ltr",
+    "pk": 1567,
     "lr": "Asia",
+    "lc": "dmg",
+    "cc": [
+        "MY"
+    ],
     "alt": [
         "Sungai Milian",
         "Dusun Segama (Saga-i)",
@@ -14,10 +17,7 @@
         "Sinabu' (Sinabu)",
         "Soghai"
     ],
-    "cc": [
-        "MY"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ms"
+    "ang": "Kinabatangan, Upper",
+    "gwcode": "ms",
+    "ln": "Upper Kinabatangan"
 }

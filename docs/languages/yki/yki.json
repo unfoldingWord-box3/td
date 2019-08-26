@@ -1,21 +1,21 @@
 {
-    "pk": 7200,
-    "lc": "yki",
+    "gw": false,
     "ISO-639-3": "yki",
-    "ln": "Yoke",
-    "ang": "Yoke",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 7200,
     "lr": "Asia",
+    "lc": "yki",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Jauke",
         "Pauwi",
         "Yauke",
         "Yoki"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Yoke",
+    "gwcode": "id",
+    "ln": "Yoke"
 }

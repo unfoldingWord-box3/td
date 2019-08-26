@@ -1,11 +1,14 @@
 {
-    "pk": 4463,
-    "lc": "nij",
+    "gw": false,
     "ISO-639-3": "nij",
-    "ln": "Ngaju",
-    "ang": "Ngaju",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 4463,
     "lr": "Asia",
+    "lc": "nij",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "Biadju",
         "Dayak Ngaju",
@@ -19,10 +22,7 @@
         "Katingan Ngawa",
         "Mantangai (Oloh Mangtangai)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Ngaju",
+    "gwcode": "id",
+    "ln": "Ngaju"
 }

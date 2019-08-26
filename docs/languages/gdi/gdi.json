@@ -1,20 +1,20 @@
 {
-    "pk": 1968,
-    "lc": "gdi",
+    "gw": false,
     "ISO-639-3": "gdi",
-    "ln": "Gundi",
-    "ang": "Gundi",
     "hc": "CF",
+    "ld": "ltr",
+    "pk": 1968,
     "lr": "Africa",
-    "alt": [
-        "Ngondi",
-        "Ngundi"
-    ],
+    "lc": "gdi",
     "cc": [
         "CF",
         "CG"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "alt": [
+        "Ngondi",
+        "Ngundi"
+    ],
+    "ang": "Gundi",
+    "gwcode": "fr",
+    "ln": "Gundi"
 }

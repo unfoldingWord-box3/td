@@ -1,21 +1,21 @@
 {
-    "pk": 2944,
-    "lc": "kkl",
+    "gw": false,
     "ISO-639-3": "kkl",
-    "ln": "Kosarek Yale",
-    "ang": "Yale, Kosarek",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 2944,
     "lr": "Asia",
+    "lc": "kkl",
+    "cc": [
+        "ID"
+    ],
     "alt": [
         "In-lom",
         "Wanam",
         "Yale-Kosarek",
         "Gilika (Kilika)"
     ],
-    "cc": [
-        "ID"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "ang": "Yale, Kosarek",
+    "gwcode": "id",
+    "ln": "Kosarek Yale"
 }

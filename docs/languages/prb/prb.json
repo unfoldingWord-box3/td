@@ -1,19 +1,19 @@
 {
-    "pk": 5155,
-    "lc": "prb",
+    "gw": false,
     "ISO-639-3": "UNKNOWN",
-    "ln": "Lua'",
-    "ang": "Lua\u2019",
     "hc": "TH",
+    "ld": "ltr",
+    "pk": 5155,
     "lr": "Asia",
+    "lc": "prb",
+    "cc": [
+        "TH"
+    ],
     "alt": [
         "East Pua Pray",
         "Pray 2"
     ],
-    "cc": [
-        "TH"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "th"
+    "ang": "Lua\u2019",
+    "gwcode": "th",
+    "ln": "Lua'"
 }

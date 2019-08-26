@@ -1,20 +1,20 @@
 {
-    "pk": 6001,
-    "lc": "tbt",
+    "gw": false,
     "ISO-639-3": "tbt",
-    "ln": "Tembo (Kitembo)",
-    "ang": "Tembo",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 6001,
     "lr": "Africa",
+    "lc": "tbt",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Chitembo",
         "Nyabungu",
         "Tembo (Kitembo)"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Tembo",
+    "gwcode": "fr",
+    "ln": "Tembo (Kitembo)"
 }

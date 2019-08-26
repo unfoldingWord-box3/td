@@ -1,20 +1,20 @@
 {
-    "pk": 6176,
-    "lc": "tlf",
+    "gw": false,
     "ISO-639-3": "tlf",
-    "ln": "Telefol",
-    "ang": "Telefol",
     "hc": "PG",
+    "ld": "ltr",
+    "pk": 6176,
     "lr": "Pacific",
+    "lc": "tlf",
+    "cc": [
+        "PG"
+    ],
     "alt": [
         "Teleefool",
         "Telefolmin",
         "Telefomin"
     ],
-    "cc": [
-        "PG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "tpi"
+    "ang": "Telefol",
+    "gwcode": "tpi",
+    "ln": "Telefol"
 }

@@ -1,19 +1,19 @@
 {
-    "pk": 2069,
-    "lc": "gmz",
+    "gw": false,
     "ISO-639-3": "gmz",
-    "ln": "Mgbolizhia",
-    "ang": "Mgbolizhia",
     "hc": "NG",
+    "ld": "ltr",
+    "pk": 2069,
     "lr": "Africa",
+    "lc": "gmz",
+    "cc": [
+        "NG"
+    ],
     "alt": [
         "Mgbo",
         "Ngbo"
     ],
-    "cc": [
-        "NG"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "en"
+    "ang": "Mgbolizhia",
+    "gwcode": "en",
+    "ln": "Mgbolizhia"
 }

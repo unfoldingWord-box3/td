@@ -1,19 +1,19 @@
 {
-    "pk": 1704,
-    "lc": "ega",
+    "gw": false,
     "ISO-639-3": "ega",
-    "ln": "Ega",
-    "ang": "Ega",
     "hc": "CI",
+    "ld": "ltr",
+    "pk": 1704,
     "lr": "Africa",
+    "lc": "ega",
+    "cc": [
+        "CI"
+    ],
     "alt": [
         "Di\u00e9s",
         "Egwa"
     ],
-    "cc": [
-        "CI"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Ega",
+    "gwcode": "fr",
+    "ln": "Ega"
 }

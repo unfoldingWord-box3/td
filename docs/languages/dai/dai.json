@@ -1,18 +1,18 @@
 {
-    "pk": 1427,
-    "lc": "dai",
+    "gw": false,
     "ISO-639-3": "dai",
-    "ln": "Day",
-    "ang": "Day",
     "hc": "TD",
+    "ld": "ltr",
+    "pk": 1427,
     "lr": "Africa",
-    "alt": [
-        "Dai"
-    ],
+    "lc": "dai",
     "cc": [
         "TD"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ar"
+    "alt": [
+        "Dai"
+    ],
+    "ang": "Day",
+    "gwcode": "ar",
+    "ln": "Day"
 }

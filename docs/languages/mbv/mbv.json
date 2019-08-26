@@ -1,11 +1,14 @@
 {
-    "pk": 3697,
-    "lc": "mbv",
+    "gw": false,
     "ISO-639-3": "mbv",
-    "ln": "Mbulungish",
-    "ang": "Mbulungish",
     "hc": "GN",
+    "ld": "ltr",
+    "pk": 3697,
     "lr": "Africa",
+    "lc": "mbv",
+    "cc": [
+        "GN"
+    ],
     "alt": [
         "Baga For\u00e9",
         "Baga Monson",
@@ -14,10 +17,7 @@
         "Longich",
         "Monshon"
     ],
-    "cc": [
-        "GN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Mbulungish",
+    "gwcode": "fr",
+    "ln": "Mbulungish"
 }

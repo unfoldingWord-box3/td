@@ -1,21 +1,21 @@
 {
-    "pk": 2381,
-    "lc": "hus",
+    "gw": false,
     "ISO-639-3": "hus",
-    "ln": "Huastec",
-    "ang": "Huastec",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 2381,
     "lr": "Americas",
+    "lc": "hus",
+    "cc": [
+        "MX"
+    ],
     "alt": [
         "Huasteco de Tantoyuca",
         "Huasteco de Veracruz",
         "San Luis Potosi Huastec (Potosino Huastec)",
         "Southeastern Huastec (Huasteco de San Francisco Chontla)"
     ],
-    "cc": [
-        "MX"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "ang": "Huastec",
+    "gwcode": "es-419",
+    "ln": "Huastec"
 }

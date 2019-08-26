@@ -1,11 +1,14 @@
 {
-    "pk": 3076,
-    "lc": "kpt",
+    "gw": false,
     "ISO-639-3": "kpt",
-    "ln": "\u041a\u0430\u0440\u0430\u0442\u0438\u043d\u0441\u043a\u0438\u0439",
-    "ang": "Karata",
     "hc": "RU",
+    "ld": "ltr",
+    "pk": 3076,
     "lr": "Europe",
+    "lc": "kpt",
+    "cc": [
+        "RU"
+    ],
     "alt": [
         "Karatai",
         "Karatin",
@@ -17,10 +20,7 @@
         "Archo",
         "Chabakaroi"
     ],
-    "cc": [
-        "RU"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "ru"
+    "ang": "Karata",
+    "gwcode": "ru",
+    "ln": "\u041a\u0430\u0440\u0430\u0442\u0438\u043d\u0441\u043a\u0438\u0439"
 }

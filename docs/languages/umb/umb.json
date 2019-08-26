@@ -1,11 +1,14 @@
 {
-    "pk": 6517,
-    "lc": "umb",
+    "gw": false,
     "ISO-639-3": "umb",
-    "ln": "Umbundu",
-    "ang": "Umbundu",
     "hc": "AO",
+    "ld": "ltr",
+    "pk": 6517,
     "lr": "Africa",
+    "lc": "umb",
+    "cc": [
+        "AO"
+    ],
     "alt": [
         "Mbali",
         "Mbari",
@@ -16,10 +19,7 @@
         "South Mbundu",
         "Umbundo"
     ],
-    "cc": [
-        "AO"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "pt"
+    "ang": "Umbundu",
+    "gwcode": "pt",
+    "ln": "Umbundu"
 }

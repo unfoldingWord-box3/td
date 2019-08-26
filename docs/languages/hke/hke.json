@@ -1,19 +1,19 @@
 {
-    "pk": 2281,
-    "lc": "hke",
+    "gw": false,
     "ISO-639-3": "hke",
-    "ln": "Hunde",
-    "ang": "Hunde",
     "hc": "CD",
+    "ld": "ltr",
+    "pk": 2281,
     "lr": "Africa",
+    "lc": "hke",
+    "cc": [
+        "CD"
+    ],
     "alt": [
         "Kobi",
         "Rukobi"
     ],
-    "cc": [
-        "CD"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "fr"
+    "ang": "Hunde",
+    "gwcode": "fr",
+    "ln": "Hunde"
 }

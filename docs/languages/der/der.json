@@ -1,11 +1,14 @@
 {
-    "pk": 1486,
-    "lc": "der",
+    "gw": false,
     "ISO-639-3": "der",
-    "ln": "Deori",
-    "ang": "Deori",
     "hc": "IN",
+    "ld": "ltr",
+    "pk": 1486,
     "lr": "Asia",
+    "lc": "der",
+    "cc": [
+        "IN"
+    ],
     "alt": [
         "Chutiya",
         "Dari",
@@ -13,10 +16,7 @@
         "Dewri",
         "Drori"
     ],
-    "cc": [
-        "IN"
-    ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "as"
+    "ang": "Deori",
+    "gwcode": "as",
+    "ln": "Deori"
 }

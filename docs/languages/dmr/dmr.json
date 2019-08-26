@@ -1,18 +1,18 @@
 {
-    "pk": 1572,
-    "lc": "dmr",
+    "gw": false,
     "ISO-639-3": "dmr",
-    "ln": "East Damar",
-    "ang": "Damar, East",
     "hc": "ID",
+    "ld": "ltr",
+    "pk": 1572,
     "lr": "Asia",
-    "alt": [
-        "South Damar"
-    ],
+    "lc": "dmr",
     "cc": [
         "ID"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "id"
+    "alt": [
+        "South Damar"
+    ],
+    "ang": "Damar, East",
+    "gwcode": "id",
+    "ln": "East Damar"
 }

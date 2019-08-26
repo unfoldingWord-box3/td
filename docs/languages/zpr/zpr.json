@@ -1,18 +1,18 @@
 {
-    "pk": 7454,
-    "lc": "zpr",
+    "gw": false,
     "ISO-639-3": "zpr",
-    "ln": "Santiago Xanica Zapotec",
-    "ang": "Zapotec, Santiago Xanica",
     "hc": "MX",
+    "ld": "ltr",
+    "pk": 7454,
     "lr": "Americas",
-    "alt": [
-        "Xanica Zapotec"
-    ],
+    "lc": "zpr",
     "cc": [
         "MX"
     ],
-    "gw": false,
-    "ld": "ltr",
-    "gwcode": "es-419"
+    "alt": [
+        "Xanica Zapotec"
+    ],
+    "ang": "Zapotec, Santiago Xanica",
+    "gwcode": "es-419",
+    "ln": "Santiago Xanica Zapotec"
 }
