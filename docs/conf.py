@@ -20,7 +20,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import sys; sys.setrecursionlimit(9999)
+import sys; sys.setrecursionlimit(9998)
 
 # -- General configuration ------------------------------------------------
 
