@@ -15,8 +15,8 @@ if not basedirflag :
     print ("These subdirs must exist: data, docs, and bin")
     exit()
 
-# create the "docs/languages"
-docslangpath = "./docs/languages"
+# create the "data/languages"
+docslangpath = "./data/languages"
 if not os.path.exists(docslangpath):
     try:
         os.mkdir(docslangpath)
@@ -208,6 +208,7 @@ for lnj in jlndata:
 
 # at this point, we have a list of the regions and lang to region map
 for lr in sorted(lrcnt.keys()):
+    print("Generating page for %s" % lr)
     lrpath = docsregionpath + "/" + lr + ".rst"
     with open(lrpath, "w") as lr_rst:
         # page header
@@ -215,7 +216,12 @@ for lr in sorted(lrcnt.keys()):
         lr_rst.write("%s\n%s\n\n" % (lr, ('=' * len(lr))))
         for lc in sorted(lc2lr.keys()):
             if lc2lr[lc] == lr:
-                lr_rst.write(".. include:: ../languages/%s/%s.txt\n" % (lc,lc))
+                # first read the file in as a string
+                with open("%s/%s/%s.txt" % (docslangpath,lc,lc), "r") as lcfile:
+                    lcdata = lcfile.read()
+
+                # second write it out
+                lr_rst.write(lcdata+"\n")
 
     
 
