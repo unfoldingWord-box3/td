@@ -2176,7 +2176,7 @@ This language is spoken in the following countries:
 
 * IQ: Iraq
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3220,7 +3220,7 @@ This language is spoken in the following countries:
 
 * SA: Saudi Arabia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3245,7 +3245,7 @@ This language is spoken in the following countries:
 
 * SA: Saudi Arabia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3399,7 +3399,7 @@ This language is spoken in the following countries:
 
 * SY: Syrian Arab Republic
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3488,7 +3488,7 @@ This language is spoken in the following countries:
 * PF: French Polynesia
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -4331,7 +4331,7 @@ This language is spoken in the following countries:
 
 * AM: Armenia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -4770,7 +4770,7 @@ This language is spoken in the following countries:
 
 * PK: Pakistan
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7586,7 +7586,7 @@ Dayak Banjar
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -8498,7 +8498,7 @@ This language is spoken in the following countries:
 * MM: Myanmar
 * AE: United Arab Emirates
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12328,7 +12328,7 @@ This language is spoken in the following countries:
 
 * MM: Myanmar
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -13119,7 +13119,7 @@ This language is spoken in the following countries:
 
 * MN: Mongolia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -13406,7 +13406,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -15680,7 +15680,7 @@ Dayak Papak
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -17331,7 +17331,7 @@ This language is spoken in the following countries:
 * NP: Nepal
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -17425,7 +17425,7 @@ This language is spoken in the following countries:
 
 * CY: Cyprus
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -17591,7 +17591,7 @@ This language is spoken in the following countries:
 
 * IR: Iran (Islamic Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -18128,7 +18128,7 @@ This language is spoken in the following countries:
 
 * IR: Iran (Islamic Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -18153,7 +18153,7 @@ This language is spoken in the following countries:
 
 * IR: Iran (Islamic Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -20201,7 +20201,7 @@ This language is spoken in the following countries:
 * BH: Bahrain
 * BI: Burundi
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -20967,7 +20967,7 @@ This language is spoken in the following countries:
 * SG: Singapore
 * MM: Myanmar
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -21038,7 +21038,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -21204,7 +21204,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -21442,7 +21442,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -21705,7 +21705,7 @@ This language is spoken in the following countries:
 
 * KP: Korea (Democratic People's Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -22949,7 +22949,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -24044,7 +24044,7 @@ This language is spoken in the following countries:
 * CA: Canada
 * SG: Singapore
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -24076,7 +24076,7 @@ This language is spoken in the following countries:
 
 * ID: Indonesia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -24813,7 +24813,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -24861,7 +24861,7 @@ This language is spoken in the following countries:
 
 * YE: Yemen
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -25787,7 +25787,7 @@ This language is spoken in the following countries:
 * SG: Singapore
 * DO: Dominican Republic
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -26968,7 +26968,7 @@ This language is spoken in the following countries:
 
 * SY: Syrian Arab Republic
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27129,7 +27129,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27829,7 +27829,7 @@ This language is spoken in the following countries:
 
 * ID: Indonesia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28114,7 +28114,7 @@ Kuay Er
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -29412,7 +29412,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -29437,7 +29437,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -30296,7 +30296,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -31696,7 +31696,7 @@ This language is spoken in the following countries:
 * KH: Cambodia
 * CA: Canada
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -32205,7 +32205,7 @@ This language is spoken in the following countries:
 * IN: India
 * SG: Singapore
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -34997,7 +34997,7 @@ This language is spoken in the following countries:
 
 * IR: Iran (Islamic Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -39564,7 +39564,7 @@ This language is spoken in the following countries:
 * CA: Canada
 * MM: Myanmar
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -40235,7 +40235,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -40727,7 +40727,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -42255,7 +42255,7 @@ This language is spoken in the following countries:
 * NP: Nepal
 * KH: Cambodia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -43022,7 +43022,7 @@ This language is spoken in the following countries:
 * QA: Qatar
 * AE: United Arab Emirates
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -43394,7 +43394,7 @@ This language is spoken in the following countries:
 
 * MN: Mongolia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -44331,7 +44331,7 @@ This language is spoken in the following countries:
 * CA: Canada
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -44803,7 +44803,7 @@ This language is spoken in the following countries:
 
 * MY: Malaysia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -44828,7 +44828,7 @@ This language is spoken in the following countries:
 
 * MY: Malaysia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -46559,7 +46559,7 @@ This language is spoken in the following countries:
 * IN: India
 * MM: Myanmar
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -47318,7 +47318,7 @@ This language is spoken in the following countries:
 
 * NP: Nepal
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -47446,7 +47446,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -48096,7 +48096,7 @@ Samba Danum
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -49933,7 +49933,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -50408,7 +50408,7 @@ This language is spoken in the following countries:
 
 * NP: Nepal
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -50433,7 +50433,7 @@ This language is spoken in the following countries:
 
 * NP: Nepal
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -50802,7 +50802,7 @@ This language is spoken in the following countries:
 
 * SY: Syrian Arab Republic
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -50852,7 +50852,7 @@ This language is spoken in the following countries:
 
 * JO: Jordan
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -50906,7 +50906,7 @@ This language is spoken in the following countries:
 
 * MM: Myanmar
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -50931,7 +50931,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -50983,7 +50983,7 @@ This language is spoken in the following countries:
 
 * GE: Georgia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -51008,7 +51008,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -51057,7 +51057,7 @@ This language is spoken in the following countries:
 
 * JP: Japan
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -51105,7 +51105,7 @@ This language is spoken in the following countries:
 
 * KP: Korea (Democratic People's Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -51216,7 +51216,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -51241,7 +51241,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -51266,7 +51266,7 @@ This language is spoken in the following countries:
 
 * MM: Myanmar
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -51470,7 +51470,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -51783,7 +51783,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -51808,7 +51808,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -52117,7 +52117,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -52142,7 +52142,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -52167,7 +52167,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -52239,7 +52239,7 @@ This language is spoken in the following countries:
 * MM: Myanmar
 * AE: United Arab Emirates
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -52345,7 +52345,7 @@ This language is spoken in the following countries:
 
 * IR: Iran (Islamic Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -53224,7 +53224,7 @@ This language is spoken in the following countries:
 
 * IR: Iran (Islamic Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -53428,7 +53428,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -53698,7 +53698,7 @@ This language is spoken in the following countries:
 
 * LB: Lebanon
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -53962,7 +53962,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -53987,7 +53987,7 @@ This language is spoken in the following countries:
 
 * KP: Korea (Democratic People's Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -54300,7 +54300,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -54507,7 +54507,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -54613,7 +54613,7 @@ Miosindi
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -55461,7 +55461,7 @@ This language is spoken in the following countries:
 
 * AF: Afghanistan
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -55844,7 +55844,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -56831,7 +56831,7 @@ This language is spoken in the following countries:
 
 * MM: Myanmar
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -56926,7 +56926,7 @@ Dayak Sisang
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -56949,7 +56949,7 @@ Aluk Xekong
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -56972,7 +56972,7 @@ Dayak Paus
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -56995,7 +56995,7 @@ Serawai
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -59809,7 +59809,7 @@ Dayak Koman
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -61320,7 +61320,7 @@ Homesign Aurangabad 1
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -63168,7 +63168,7 @@ This language is spoken in the following countries:
 
 * UZ: Uzbekistan
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -64443,7 +64443,7 @@ This language is spoken in the following countries:
 
 * IQ: Iraq
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -65314,7 +65314,7 @@ This language is spoken in the following countries:
 * BH: Bahrain
 * QA: Qatar
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -66495,7 +66495,7 @@ This language is spoken in the following countries:
 * BH: Bahrain
 * AE: United Arab Emirates
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -67184,7 +67184,7 @@ Dasari
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -70400,7 +70400,7 @@ This language is spoken in the following countries:
 * EG: Egypt
 * AE: United Arab Emirates
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -71959,7 +71959,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -72009,7 +72009,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -72674,7 +72674,7 @@ This language is spoken in the following countries:
 
 * SY: Syrian Arab Republic
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -73081,7 +73081,7 @@ This language is spoken in the following countries:
 * QA: Qatar
 * AE: United Arab Emirates
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -73163,7 +73163,7 @@ This language is spoken in the following countries:
 
 * PK: Pakistan
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -73877,7 +73877,7 @@ This language is spoken in the following countries:
 * MQ: Martinique
 * VN: Viet Nam
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -75795,7 +75795,7 @@ This language is spoken in the following countries:
 
 * AZ: Azerbaijan
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -75896,7 +75896,7 @@ This language is spoken in the following countries:
 
 * AF: Afghanistan
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -75921,7 +75921,7 @@ This language is spoken in the following countries:
 
 * MY: Malaysia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -75981,7 +75981,7 @@ This language is spoken in the following countries:
 
 * UZ: Uzbekistan
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -76006,7 +76006,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -76031,7 +76031,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -76056,7 +76056,7 @@ This language is spoken in the following countries:
 
 * JO: Jordan
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -76642,7 +76642,7 @@ Dayak Punti
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -77148,7 +77148,7 @@ Dayak Melahui
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -77213,7 +77213,7 @@ Mentobi
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -77783,7 +77783,7 @@ This language is spoken in the following countries:
 
 * SY: Syrian Arab Republic
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -77936,7 +77936,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -77961,7 +77961,7 @@ This language is spoken in the following countries:
 
 * YE: Yemen
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -77986,7 +77986,7 @@ This language is spoken in the following countries:
 
 * KZ: Kazakhstan
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -78011,7 +78011,7 @@ This language is spoken in the following countries:
 
 * YE: Yemen
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -78059,7 +78059,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -78084,7 +78084,7 @@ This language is spoken in the following countries:
 
 * SY: Syrian Arab Republic
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -78157,7 +78157,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79013,7 +79013,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79038,7 +79038,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79063,7 +79063,7 @@ This language is spoken in the following countries:
 
 * IR: Iran (Islamic Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79088,7 +79088,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79113,7 +79113,7 @@ This language is spoken in the following countries:
 
 * IR: Iran (Islamic Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79234,7 +79234,7 @@ This language is spoken in the following countries:
 
 * IR: Iran (Islamic Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79344,7 +79344,7 @@ This language is spoken in the following countries:
 
 * SA: Saudi Arabia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79394,7 +79394,7 @@ This language is spoken in the following countries:
 
 * MN: Mongolia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79550,7 +79550,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79575,7 +79575,7 @@ This language is spoken in the following countries:
 
 * KR: Korea, Republic of
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79600,7 +79600,7 @@ This language is spoken in the following countries:
 
 * IR: Iran (Islamic Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79625,7 +79625,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79650,7 +79650,7 @@ This language is spoken in the following countries:
 
 * KP: Korea (Democratic People's Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79675,7 +79675,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79700,7 +79700,7 @@ This language is spoken in the following countries:
 
 * YE: Yemen
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79725,7 +79725,7 @@ This language is spoken in the following countries:
 
 * GE: Georgia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79750,7 +79750,7 @@ This language is spoken in the following countries:
 
 * YE: Yemen
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79804,7 +79804,7 @@ This language is spoken in the following countries:
 
 * KZ: Kazakhstan
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79829,7 +79829,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -79996,7 +79996,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -80021,7 +80021,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -80046,7 +80046,7 @@ This language is spoken in the following countries:
 
 * IN: India
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -80178,7 +80178,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -80228,7 +80228,7 @@ This language is spoken in the following countries:
 
 * MN: Mongolia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -80306,7 +80306,7 @@ This language is spoken in the following countries:
 
 * ID: Indonesia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -80331,7 +80331,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -81864,7 +81864,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -83505,7 +83505,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -83530,7 +83530,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -83756,7 +83756,7 @@ This language is spoken in the following countries:
 
 * KP: Korea (Democratic People's Republic of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -83781,7 +83781,7 @@ This language is spoken in the following countries:
 
 * MN: Mongolia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -83861,7 +83861,7 @@ This language is spoken in the following countries:
 
 * CN: China
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -84178,7 +84178,7 @@ Sakai
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -84456,7 +84456,7 @@ This language is spoken in the following countries:
 
 * KR: Korea, Republic of
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -84539,7 +84539,7 @@ This language is spoken in the following countries:
 
 * TR: Turkey
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 

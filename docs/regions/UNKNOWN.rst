@@ -11,7 +11,7 @@ Afrihili
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -34,7 +34,7 @@ Kotava
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -57,7 +57,7 @@ Brithenig
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -80,7 +80,7 @@ Dutton World Speedwords
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -103,7 +103,7 @@ Koine Greek
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -126,7 +126,7 @@ English demo1
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -149,7 +149,7 @@ English demo2
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -172,7 +172,7 @@ Eskayan
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -197,7 +197,7 @@ Originally called Occidental; then Interlingue after WWII
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -220,7 +220,7 @@ Interglossa
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -245,7 +245,7 @@ Ido
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -268,7 +268,7 @@ Lojban
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -291,7 +291,7 @@ Láadan
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -314,7 +314,7 @@ Lingua Franca Nova
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -337,7 +337,7 @@ Multiple languages
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -360,7 +360,7 @@ Monastic Sign Language
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -383,7 +383,7 @@ Neo
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -406,7 +406,7 @@ Novial
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -429,7 +429,7 @@ Old Korean (3rd-9th cent.)
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -452,7 +452,7 @@ Quenya
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -475,7 +475,7 @@ Romanova
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -498,7 +498,7 @@ Sindarin
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -521,7 +521,7 @@ Klingon
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -544,7 +544,7 @@ Talossan
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -569,7 +569,7 @@ Volapük
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -592,7 +592,7 @@ Classical Armenian
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -617,7 +617,7 @@ Classical Armenian
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -640,7 +640,7 @@ Blissymbols
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -663,7 +663,7 @@ No linguistic content
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -686,7 +686,7 @@ Zaza
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 

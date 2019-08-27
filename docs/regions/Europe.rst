@@ -428,7 +428,7 @@ This language is spoken in the following countries:
 
 * GB: United Kingdom of Great Britain and Northern Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -1312,7 +1312,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -1337,7 +1337,7 @@ This language is spoken in the following countries:
 
 * GB: United Kingdom of Great Britain and Northern Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -1705,7 +1705,7 @@ This language is spoken in the following countries:
 
 * CZ: Czechia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -1963,7 +1963,7 @@ This language is spoken in the following countries:
 
 * HR: Croatia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2121,7 +2121,7 @@ This language is spoken in the following countries:
 
 * NL: Netherlands
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2146,7 +2146,7 @@ This language is spoken in the following countries:
 
 * GR: Greece
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2417,7 +2417,7 @@ This language is spoken in the following countries:
 * ZW: Zimbabwe
 * CC: Cocos (Keeling) Islands
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2591,7 +2591,7 @@ This language is spoken in the following countries:
 
 * GB: United Kingdom of Great Britain and Northern Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2806,7 +2806,7 @@ This language is spoken in the following countries:
 
 * EE: Estonia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2831,7 +2831,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3152,7 +3152,7 @@ This language is spoken in the following countries:
 * YT: Mayotte
 * MQ: Martinique
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3220,7 +3220,7 @@ This language is spoken in the following countries:
 
 * DE: Germany
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3245,7 +3245,7 @@ This language is spoken in the following countries:
 
 * FR: France
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3270,7 +3270,7 @@ This language is spoken in the following countries:
 
 * FR: France
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3645,7 +3645,7 @@ This language is spoken in the following countries:
 
 * GB: United Kingdom of Great Britain and Northern Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3766,7 +3766,7 @@ This language is spoken in the following countries:
 
 * DE: Germany
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3791,7 +3791,7 @@ This language is spoken in the following countries:
 
 * DE: Germany
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3816,7 +3816,7 @@ This language is spoken in the following countries:
 
 * GR: Greece
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3841,7 +3841,7 @@ This language is spoken in the following countries:
 
 * ES: Spain
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3866,7 +3866,7 @@ This language is spoken in the following countries:
 
 * DE: Germany
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3922,7 +3922,7 @@ This language is spoken in the following countries:
 
 * PL: Poland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -4071,7 +4071,7 @@ This language is spoken in the following countries:
 
 * RS: Serbia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -4301,7 +4301,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -4374,7 +4374,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -5443,7 +5443,7 @@ This language is spoken in the following countries:
 
 * GR: Greece
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -5781,7 +5781,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -6075,7 +6075,7 @@ This language is spoken in the following countries:
 
 * IE: Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -6316,7 +6316,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -6491,7 +6491,7 @@ This language is spoken in the following countries:
 
 * NO: Norway
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -6516,7 +6516,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -6678,7 +6678,7 @@ This language is spoken in the following countries:
 * AW: Aruba
 * SR: Suriname
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -6733,7 +6733,7 @@ This language is spoken in the following countries:
 * DK: Denmark
 * IS: Iceland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -6823,7 +6823,7 @@ This language is spoken in the following countries:
 
 * NO: Norway
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -6848,7 +6848,7 @@ This language is spoken in the following countries:
 
 * AT: Austria
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -6896,7 +6896,7 @@ This language is spoken in the following countries:
 
 * GB: United Kingdom of Great Britain and Northern Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -6921,7 +6921,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7024,7 +7024,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7049,7 +7049,7 @@ This language is spoken in the following countries:
 
 * FR: France
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7121,7 +7121,7 @@ This language is spoken in the following countries:
 
 * GB: United Kingdom of Great Britain and Northern Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7146,7 +7146,7 @@ This language is spoken in the following countries:
 
 * NL: Netherlands
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7171,7 +7171,7 @@ This language is spoken in the following countries:
 
 * NL: Netherlands
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7196,7 +7196,7 @@ This language is spoken in the following countries:
 
 * HU: Hungary
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7221,7 +7221,7 @@ This language is spoken in the following countries:
 
 * GB: United Kingdom of Great Britain and Northern Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7276,7 +7276,7 @@ This language is spoken in the following countries:
 
 * LT: Lithuania
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7301,7 +7301,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7326,7 +7326,7 @@ This language is spoken in the following countries:
 
 * GR: Greece
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7351,7 +7351,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7376,7 +7376,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7448,7 +7448,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7473,7 +7473,7 @@ This language is spoken in the following countries:
 
 * ES: Spain
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7498,7 +7498,7 @@ This language is spoken in the following countries:
 
 * DE: Germany
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7523,7 +7523,7 @@ This language is spoken in the following countries:
 
 * GB: United Kingdom of Great Britain and Northern Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7599,7 +7599,7 @@ This language is spoken in the following countries:
 
 * IE: Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7624,7 +7624,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7803,7 +7803,7 @@ This language is spoken in the following countries:
 
 * PL: Poland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7984,7 +7984,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -8452,7 +8452,7 @@ This language is spoken in the following countries:
 
 * HR: Croatia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -8643,7 +8643,7 @@ This language is spoken in the following countries:
 
 * RS: Serbia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -8668,7 +8668,7 @@ This language is spoken in the following countries:
 
 * RS: Serbia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -8693,7 +8693,7 @@ This language is spoken in the following countries:
 
 * HR: Croatia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -8873,7 +8873,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -8942,7 +8942,7 @@ This language is spoken in the following countries:
 * IE: Ireland
 * UA: Ukraine
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -9197,7 +9197,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -9224,7 +9224,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -9301,7 +9301,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -9505,7 +9505,7 @@ This language is spoken in the following countries:
 
 * IE: Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -9554,7 +9554,7 @@ This language is spoken in the following countries:
 
 * LT: Lithuania
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -9659,7 +9659,7 @@ This language is spoken in the following countries:
 
 * FI: Finland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -9994,7 +9994,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -10498,7 +10498,7 @@ This language is spoken in the following countries:
 
 * LT: Lithuania
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -10572,7 +10572,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -10597,7 +10597,7 @@ This language is spoken in the following countries:
 
 * LV: Latvia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -10622,7 +10622,7 @@ This language is spoken in the following countries:
 
 * ES: Spain
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -10878,7 +10878,7 @@ This language is spoken in the following countries:
 
 * BG: Bulgaria
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -10903,7 +10903,7 @@ This language is spoken in the following countries:
 
 * ES: Spain
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11158,7 +11158,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11539,7 +11539,7 @@ This language is spoken in the following countries:
 
 * GB: United Kingdom of Great Britain and Northern Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11611,7 +11611,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11697,7 +11697,7 @@ This language is spoken in the following countries:
 
 * ES: Spain
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11722,7 +11722,7 @@ This language is spoken in the following countries:
 
 * FR: France
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11747,7 +11747,7 @@ This language is spoken in the following countries:
 
 * BG: Bulgaria
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11773,7 +11773,7 @@ This language is spoken in the following countries:
 * GB: United Kingdom of Great Britain and Northern Ireland
 * AL: Albania
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11799,7 +11799,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11824,7 +11824,7 @@ This language is spoken in the following countries:
 
 * ES: Spain
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11849,7 +11849,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11874,7 +11874,7 @@ This language is spoken in the following countries:
 
 * LV: Latvia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11899,7 +11899,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11924,7 +11924,7 @@ This language is spoken in the following countries:
 
 * RO: Romania
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11949,7 +11949,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11974,7 +11974,7 @@ This language is spoken in the following countries:
 
 * PL: Poland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11999,7 +11999,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12024,7 +12024,7 @@ This language is spoken in the following countries:
 
 * ES: Spain
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12049,7 +12049,7 @@ This language is spoken in the following countries:
 
 * AL: Albania
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12074,7 +12074,7 @@ This language is spoken in the following countries:
 
 * GR: Greece
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12099,7 +12099,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12124,7 +12124,7 @@ This language is spoken in the following countries:
 
 * HR: Croatia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12149,7 +12149,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12174,7 +12174,7 @@ This language is spoken in the following countries:
 
 * PT: Portugal
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12199,7 +12199,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12224,7 +12224,7 @@ This language is spoken in the following countries:
 
 * MK: North Macedonia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12249,7 +12249,7 @@ This language is spoken in the following countries:
 
 * GB: United Kingdom of Great Britain and Northern Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12274,7 +12274,7 @@ This language is spoken in the following countries:
 
 * UA: Ukraine
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12299,7 +12299,7 @@ This language is spoken in the following countries:
 
 * GB: United Kingdom of Great Britain and Northern Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12324,7 +12324,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12349,7 +12349,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12374,7 +12374,7 @@ This language is spoken in the following countries:
 
 * CH: Switzerland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12399,7 +12399,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12424,7 +12424,7 @@ This language is spoken in the following countries:
 
 * PL: Poland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12449,7 +12449,7 @@ This language is spoken in the following countries:
 
 * FR: France
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12474,7 +12474,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12499,7 +12499,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12524,7 +12524,7 @@ This language is spoken in the following countries:
 
 * ES: Spain
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12549,7 +12549,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12574,7 +12574,7 @@ This language is spoken in the following countries:
 
 * IT: Italy
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12599,7 +12599,7 @@ This language is spoken in the following countries:
 
 * LV: Latvia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12731,7 +12731,7 @@ This language is spoken in the following countries:
 
 * IE: Ireland
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12784,7 +12784,7 @@ This language is spoken in the following countries:
 
 * HU: Hungary
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12922,7 +12922,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12947,7 +12947,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12972,7 +12972,7 @@ This language is spoken in the following countries:
 
 * LV: Latvia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12997,7 +12997,7 @@ This language is spoken in the following countries:
 
 * RU: Russian Federation
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 

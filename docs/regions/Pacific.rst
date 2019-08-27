@@ -4266,7 +4266,7 @@ This language is spoken in the following countries:
 * SB: Solomon Islands
 * VU: Vanuatu
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7103,7 +7103,7 @@ This language is spoken in the following countries:
 
 * AU: Australia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -9855,7 +9855,7 @@ This language is spoken in the following countries:
 
 * PG: Papua New Guinea
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12681,7 +12681,7 @@ This language is spoken in the following countries:
 
 * AU: Australia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -23938,7 +23938,7 @@ This language is spoken in the following countries:
 
 * TO: Tonga
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -24704,7 +24704,7 @@ This language is spoken in the following countries:
 
 * AU: Australia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28088,7 +28088,7 @@ Neko
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28111,7 +28111,7 @@ Duduela
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28134,7 +28134,7 @@ Miani
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28157,7 +28157,7 @@ Kou
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28180,7 +28180,7 @@ Kosena
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28203,7 +28203,7 @@ Yoku
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28226,7 +28226,7 @@ Kwato
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28249,7 +28249,7 @@ Nigum
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28272,7 +28272,7 @@ Wamas
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28295,7 +28295,7 @@ Kuni
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28318,7 +28318,7 @@ Logea
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28908,7 +28908,7 @@ This language is spoken in the following countries:
 
 * AU: Australia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -33456,7 +33456,7 @@ This language is spoken in the following countries:
 * AU: Australia
 * PG: Papua New Guinea
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -33488,7 +33488,7 @@ Papua New Guinea Sign Language
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -37783,7 +37783,7 @@ This language is spoken in the following countries:
 
 * AU: Australia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -38386,7 +38386,7 @@ This language is spoken in the following countries:
 
 * AU: Australia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -38505,7 +38505,7 @@ This language is spoken in the following countries:
 
 * AU: Australia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -39064,7 +39064,7 @@ This language is spoken in the following countries:
 
 * AU: Australia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -39661,7 +39661,7 @@ This language is spoken in the following countries:
 
 * AU: Australia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -40056,7 +40056,7 @@ This language is spoken in the following countries:
 
 * AU: Australia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -40225,7 +40225,7 @@ This language is spoken in the following countries:
 
 * AU: Australia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 

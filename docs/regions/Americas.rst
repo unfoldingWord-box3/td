@@ -306,7 +306,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -1132,7 +1132,7 @@ This language is spoken in the following countries:
 
 * BR: Brazil
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -1206,7 +1206,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -1533,7 +1533,7 @@ This language is spoken in the following countries:
 
 * BR: Brazil
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -1728,7 +1728,7 @@ This language is spoken in the following countries:
 
 * PE: Peru
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2036,7 +2036,7 @@ This language is spoken in the following countries:
 
 * BO: Bolivia (Plurinational State of)
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2556,7 +2556,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2771,7 +2771,7 @@ This language is spoken in the following countries:
 
 * CA: Canada
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3132,7 +3132,7 @@ This language is spoken in the following countries:
 
 * AR: Argentina
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3891,7 +3891,7 @@ This language is spoken in the following countries:
 
 * CO: Colombia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -4649,7 +4649,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -5353,7 +5353,7 @@ This language is spoken in the following countries:
 
 * GP: Guadeloupe
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -5625,7 +5625,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -6694,7 +6694,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -6719,7 +6719,7 @@ This language is spoken in the following countries:
 
 * CA: Canada
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7026,7 +7026,7 @@ This language is spoken in the following countries:
 
 * MX: Mexico
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7123,7 +7123,7 @@ This language is spoken in the following countries:
 
 * MX: Mexico
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7196,7 +7196,7 @@ This language is spoken in the following countries:
 
 * MX: Mexico
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -7430,7 +7430,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -9613,7 +9613,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -11360,7 +11360,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -12160,7 +12160,7 @@ This language is spoken in the following countries:
 
 * CA: Canada
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -13878,7 +13878,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -13903,7 +13903,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -14110,7 +14110,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -14473,7 +14473,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -15446,7 +15446,7 @@ This language is spoken in the following countries:
 
 * MX: Mexico
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -16375,7 +16375,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -16679,7 +16679,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -16704,7 +16704,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -16804,7 +16804,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -16831,7 +16831,7 @@ This language is spoken in the following countries:
 
 * CA: Canada
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -17045,7 +17045,7 @@ This language is spoken in the following countries:
 
 * PE: Peru
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -18494,7 +18494,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -18774,7 +18774,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -19633,7 +19633,7 @@ This language is spoken in the following countries:
 
 * CA: Canada
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -19726,7 +19726,7 @@ This language is spoken in the following countries:
 
 * PE: Peru
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -20848,7 +20848,7 @@ This language is spoken in the following countries:
 
 * PE: Peru
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -20921,7 +20921,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -21216,7 +21216,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -21667,7 +21667,7 @@ SUN Homesign Ciudad del Ests 1
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -21690,7 +21690,7 @@ Home Sign Asuncion 1
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -21713,7 +21713,7 @@ Symbolic Universal Notation
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -21736,7 +21736,7 @@ Home Sign Montevideo 1
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -22375,7 +22375,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -22800,7 +22800,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -23664,7 +23664,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -23712,7 +23712,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -24384,7 +24384,7 @@ This language is spoken in the following countries:
 
 * BR: Brazil
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -24478,7 +24478,7 @@ This language is spoken in the following countries:
 
 * BR: Brazil
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -24946,7 +24946,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -25339,7 +25339,7 @@ This language is spoken in the following countries:
 
 * CA: Canada
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27014,7 +27014,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27062,7 +27062,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27217,7 +27217,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27242,7 +27242,7 @@ This language is spoken in the following countries:
 
 * MX: Mexico
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27267,7 +27267,7 @@ This language is spoken in the following countries:
 
 * MX: Mexico
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27292,7 +27292,7 @@ This language is spoken in the following countries:
 
 * MX: Mexico
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27317,7 +27317,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27342,7 +27342,7 @@ This language is spoken in the following countries:
 
 * MX: Mexico
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27418,7 +27418,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27443,7 +27443,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27565,7 +27565,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27590,7 +27590,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27784,7 +27784,7 @@ This language is spoken in the following countries:
 
 * MX: Mexico
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27884,7 +27884,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -27938,7 +27938,7 @@ This language is spoken in the following countries:
 
 * MX: Mexico
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28360,7 +28360,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28412,7 +28412,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28437,7 +28437,7 @@ This language is spoken in the following countries:
 
 * BR: Brazil
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28462,7 +28462,7 @@ This language is spoken in the following countries:
 
 * MX: Mexico
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28851,7 +28851,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -29792,7 +29792,7 @@ This language is spoken in the following countries:
 
 * US: United States of America
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 

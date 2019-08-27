@@ -183,7 +183,9 @@ for lnj in jlndata:
         friendlyMap = {}
         for i in friendlyKeys:
             friendlyMap[friendlyKeys[i]] = lnj[i]
-        if not gwvalid[lnj["gwcode"]]:
+        if lnj["gwcode"] is None:
+            rst.write(".. warning:: The gateway language is missing.\n\n")
+        elif not gwvalid[lnj["gwcode"]]:
             rst.write(".. warning:: The gateway language is not valid.\n\n")
 
         rst.write(".. code-block:: yaml\n\n")

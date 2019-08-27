@@ -11,7 +11,7 @@ Amarenga y'Ikinyarwanda
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2760,7 +2760,7 @@ Benin Sign Language
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2783,7 +2783,7 @@ Burkina Faso Sign Language
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2852,7 +2852,7 @@ Cote d'Ivoire Sign Language
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2898,7 +2898,7 @@ Togolese Sign Language
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -2982,7 +2982,7 @@ Botswana Sign Language
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3005,7 +3005,7 @@ Nigerien Sign Language
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -3322,7 +3322,7 @@ This language is spoken in the following countries:
 
 * NG: Nigeria
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -16726,7 +16726,7 @@ This language is spoken in the following countries:
 
 * EG: Egypt
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -17144,7 +17144,7 @@ Erah
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -17168,7 +17168,7 @@ This language is spoken in the following countries:
 
 * NG: Nigeria
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -17487,7 +17487,7 @@ This language is spoken in the following countries:
 
 * CI: C�te d'Ivoire
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -18030,7 +18030,7 @@ This language is spoken in the following countries:
 * GH: Ghana
 * LR: Liberia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -18087,7 +18087,7 @@ This language is spoken in the following countries:
 
 * SN: Senegal
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -20155,7 +20155,7 @@ This language is spoken in the following countries:
 
 * ET: Ethiopia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -22723,7 +22723,7 @@ This language is spoken in the following countries:
 * CA: Canada
 * GN: Guinea
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -28643,7 +28643,7 @@ This language is spoken in the following countries:
 
 * CD: Congo, Democratic Republic of the
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -37270,7 +37270,7 @@ Malawian Sign Language
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -39217,7 +39217,7 @@ This language is spoken in the following countries:
 
 * MG: Madagascar
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -47679,7 +47679,7 @@ This language is spoken in the following countries:
 
 * DZ: Algeria
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -49165,7 +49165,7 @@ This language is spoken in the following countries:
 
 * EG: Egypt
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -52884,7 +52884,7 @@ eSwatini Sign Language
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -55311,7 +55311,7 @@ South Sudan Sign Language
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -55514,7 +55514,7 @@ This language is spoken in the following countries:
 
 * TZ: Tanzania, United Republic of
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -59403,7 +59403,7 @@ This language is spoken in the following countries:
 
 * NG: Nigeria
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -59926,7 +59926,7 @@ Rwandan Sign Language
 .. warning:: This language is not list as spoken in any countries.
 
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -60326,7 +60326,7 @@ This language is spoken in the following countries:
 * SR: Suriname
 * AE: United Arab Emirates
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -62393,7 +62393,7 @@ This language is spoken in the following countries:
 
 * CI: C�te d'Ivoire
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -62828,7 +62828,7 @@ This language is spoken in the following countries:
 
 * EG: Egypt
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -63095,7 +63095,7 @@ This language is spoken in the following countries:
 
 * TN: Tunisia
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
@@ -63484,7 +63484,7 @@ This language is spoken in the following countries:
 
 * GH: Ghana
 
-.. warning:: The gateway language is not valid.
+.. warning:: The gateway language is missing.
 
 .. code-block:: yaml
 
