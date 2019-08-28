@@ -174,7 +174,7 @@ for lnj in jlndata:
             rst.write("%s%s%s%s%s\n\n" % (note_a,i639_code,note_b,i639_code,note_c))
         
         if len(lnj["cc"]) == 0:
-            rst.write(".. warning:: This language is not list as spoken in any countries.\n\n")
+            rst.write(".. warning:: This language is not listed as spoken in any countries.\n\n")
         else:
             rst.write("This language is spoken in the following countries:\n\n")
             for i in lnj["cc"]:
