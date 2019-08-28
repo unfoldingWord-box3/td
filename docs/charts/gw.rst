@@ -1,7 +1,7 @@
-.. _LanugageCharts:
+.. _GWLanugageCharts:
 
-Language Charts
-===============
+Gateway Language Charts
+=======================
 
 .. _gwDefects:
 

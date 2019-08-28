@@ -13,4 +13,10 @@ Test site for translationDatabase. Unless otherwise indicated, all content is ma
    :caption: Regions
 
    regions/*
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :caption: Language Visualizations
+   
    charts/*
