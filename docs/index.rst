@@ -13,3 +13,4 @@ Test site for translationDatabase. Unless otherwise indicated, all content is ma
    :caption: Regions
 
    regions/*
+   charts/*

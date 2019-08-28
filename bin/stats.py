@@ -48,7 +48,7 @@ for lnj in jlndata:
         gwcode = "UNKNOWN"
 
     if str(gwcode) == "None":
-        gwcode = "UNKNOWN"
+        gwcode = "Missing"
 
     try:
         temp_count = lr_dict_count[lr]
