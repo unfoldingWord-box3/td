@@ -8,7 +8,7 @@ UNKNOWN
 Afrihili
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -31,7 +31,7 @@ Afrihili
 Kotava
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -54,7 +54,7 @@ Kotava
 Brithenig
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -77,7 +77,7 @@ Brithenig
 Dutton World Speedwords
 -----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -100,7 +100,7 @@ Dutton World Speedwords
 Koine Greek
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -123,7 +123,7 @@ Koine Greek
 English demo1
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -146,7 +146,7 @@ English demo1
 English demo2
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -169,7 +169,7 @@ English demo2
 Eskayan
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -194,7 +194,7 @@ Originally called Occidental; then Interlingue after WWII
 
 .. note:: The `Ethnologue <https://www.ethnologue.com/language/ile>`__ identifies this language as ``ile``.
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -217,7 +217,7 @@ Originally called Occidental; then Interlingue after WWII
 Interglossa
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -242,7 +242,7 @@ Ido
 
 .. note:: The `Ethnologue <https://www.ethnologue.com/language/ido>`__ identifies this language as ``ido``.
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -265,7 +265,7 @@ Ido
 Lojban
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -288,7 +288,7 @@ Lojban
 Láadan
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -311,7 +311,7 @@ Láadan
 Lingua Franca Nova
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -334,7 +334,7 @@ Lingua Franca Nova
 Multiple languages
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -357,7 +357,7 @@ Multiple languages
 Monastic Sign Language
 ----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -380,7 +380,7 @@ Monastic Sign Language
 Neo
 ---
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -403,7 +403,7 @@ Neo
 Novial
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -426,7 +426,7 @@ Novial
 Old Korean (3rd-9th cent.)
 --------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -449,7 +449,7 @@ Old Korean (3rd-9th cent.)
 Quenya
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -472,7 +472,7 @@ Quenya
 Romanova
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -495,7 +495,7 @@ Romanova
 Sindarin
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -518,7 +518,7 @@ Sindarin
 Klingon
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -541,7 +541,7 @@ Klingon
 Talossan
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -566,7 +566,7 @@ Volapük
 
 .. note:: The `Ethnologue <https://www.ethnologue.com/language/vol>`__ identifies this language as ``vol``.
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -589,7 +589,7 @@ Volapük
 Classical Armenian
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -614,7 +614,7 @@ Classical Armenian
 
 .. note:: The `Ethnologue <https://www.ethnologue.com/language/yid>`__ identifies this language as ``yid``.
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -637,7 +637,7 @@ Classical Armenian
 Blissymbols
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -660,7 +660,7 @@ Blissymbols
 No linguistic content
 ---------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -683,7 +683,7 @@ No linguistic content
 Zaza
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.

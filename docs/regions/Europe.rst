@@ -4862,7 +4862,7 @@ This language is spoken in the following countries:
 Khanty Kazim
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml

@@ -8714,7 +8714,7 @@ This language is spoken in the following countries:
 Huicholes del este
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -11061,7 +11061,7 @@ This language is spoken in the following countries:
 Kheuol
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -11082,7 +11082,7 @@ Kheuol
 Patuá
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -21664,7 +21664,7 @@ This language is spoken in the following countries:
 SUN Homesign Ciudad del Ests 1
 ------------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -21687,7 +21687,7 @@ SUN Homesign Ciudad del Ests 1
 Home Sign Asuncion 1
 --------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -21710,7 +21710,7 @@ Home Sign Asuncion 1
 Symbolic Universal Notation
 ---------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -21733,7 +21733,7 @@ Symbolic Universal Notation
 Home Sign Montevideo 1
 ----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -25414,7 +25414,7 @@ This language is spoken in the following countries:
 tsotzil
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -25471,7 +25471,7 @@ This language is spoken in the following countries:
 Tzeltal de Oxchuc
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -25492,7 +25492,7 @@ Tzeltal de Oxchuc
 Tzeltal de Tenejapa
 -------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -25572,7 +25572,7 @@ This language is spoken in the following countries:
 Tzotzil de Chalchihuitan
 ------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -25593,7 +25593,7 @@ Tzotzil de Chalchihuitan
 Tzotzil de Chenalhó
 --------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -25614,7 +25614,7 @@ Tzotzil de Chenalhó
 Tzotzil de Huixtan
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml

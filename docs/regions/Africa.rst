@@ -8,7 +8,7 @@ Africa
 Amarenga y'Ikinyarwanda
 -----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -31,7 +31,7 @@ Amarenga y'Ikinyarwanda
 Antambahoaka
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -1158,7 +1158,7 @@ This language is spoken in the following countries:
 Balema
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -1620,7 +1620,7 @@ This language is spoken in the following countries:
 Adja Talagbe
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -2364,7 +2364,7 @@ This language is spoken in the following countries:
 Agni Bona
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -2757,7 +2757,7 @@ This language is spoken in the following countries:
 Benin Sign Language
 -------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -2780,7 +2780,7 @@ Benin Sign Language
 Burkina Faso Sign Language
 --------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -2803,7 +2803,7 @@ Burkina Faso Sign Language
 Cameroonian Anglophone Sign Language
 ------------------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -2826,7 +2826,7 @@ Cameroonian Anglophone Sign Language
 Cameroonian Francophone Sign Language
 -------------------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -2849,7 +2849,7 @@ Cameroonian Francophone Sign Language
 Cote d'Ivoire Sign Language
 ---------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -2872,7 +2872,7 @@ Cote d'Ivoire Sign Language
 Gabonese Sign Language
 ----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -2895,7 +2895,7 @@ Gabonese Sign Language
 Togolese Sign Language
 ----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -2979,7 +2979,7 @@ This language is spoken in the following countries:
 Botswana Sign Language
 ----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -3002,7 +3002,7 @@ Botswana Sign Language
 Nigerien Sign Language
 ----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -3678,7 +3678,7 @@ This language is spoken in the following countries:
 Anyagan
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -3956,7 +3956,7 @@ This language is spoken in the following countries:
 Bambara
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -4932,7 +4932,7 @@ This language is spoken in the following countries:
 Bandawa
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -5079,7 +5079,7 @@ This language is spoken in the following countries:
 Bayote Aramme
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -5100,7 +5100,7 @@ Bayote Aramme
 Bayote Elia
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -5629,7 +5629,7 @@ This language is spoken in the following countries:
 Ichishinga
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -5650,7 +5650,7 @@ Ichishinga
 Kabende Mushi
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -5671,7 +5671,7 @@ Kabende Mushi
 Ngumbo
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -6360,7 +6360,7 @@ This language is spoken in the following countries:
 Bakombe
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -6381,7 +6381,7 @@ Bakombe
 Bapakombe
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -7380,7 +7380,7 @@ This language is spoken in the following countries:
 Balanta Naga
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -7873,7 +7873,7 @@ This language is spoken in the following countries:
 Middle Betsimisaraka Malagasy
 -----------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -8185,7 +8185,7 @@ This language is spoken in the following countries:
 Kasenga
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -8206,7 +8206,7 @@ Kasenga
 Mikebwe
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -8227,7 +8227,7 @@ Mikebwe
 Nonda
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -8636,7 +8636,7 @@ This language is spoken in the following countries:
 Bwamu de Dedougou
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -9250,7 +9250,7 @@ This language is spoken in the following countries:
 Bakweri
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -11562,7 +11562,7 @@ This language is spoken in the following countries:
 Antemoro
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -12202,7 +12202,7 @@ This language is spoken in the following countries:
 Dǝjim
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -12319,7 +12319,7 @@ This language is spoken in the following countries:
 Rutwa
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -17120,7 +17120,7 @@ This language is spoken in the following countries:
 Emai
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -17141,7 +17141,7 @@ Emai
 Erah
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -17189,7 +17189,7 @@ This language is spoken in the following countries:
 Uokha
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -17972,7 +17972,7 @@ This language is spoken in the following countries:
 Malabo Fang
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -21491,7 +21491,7 @@ This language is spoken in the following countries:
 Kaɓǝnda
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -21670,7 +21670,7 @@ This language is spoken in the following countries:
 Figuig Berber
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -22135,7 +22135,7 @@ This language is spoken in the following countries:
 Gourmantche
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -22926,7 +22926,7 @@ This language is spoken in the following countries:
 Kihavu Idjui
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23392,7 +23392,7 @@ This language is spoken in the following countries:
 Bakobo
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24062,7 +24062,7 @@ This language is spoken in the following countries:
 Isukha
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24083,7 +24083,7 @@ Isukha
 Tiriki
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24290,7 +24290,7 @@ This language is spoken in the following countries:
 Ana
 ---
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24420,7 +24420,7 @@ This language is spoken in the following countries:
 Etuno
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24513,7 +24513,7 @@ This language is spoken in the following countries:
 Igwe-Sale
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -25616,7 +25616,7 @@ This language is spoken in the following countries:
 Fete
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -26299,7 +26299,7 @@ This language is spoken in the following countries:
 Kivira
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -26718,7 +26718,7 @@ This language is spoken in the following countries:
 Tasahlit
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27298,7 +27298,7 @@ This language is spoken in the following countries:
 Takad
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28616,7 +28616,7 @@ This language is spoken in the following countries:
 West Koromfé
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28721,7 +28721,7 @@ This language is spoken in the following countries:
 Krongo Abdalla
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -29092,7 +29092,7 @@ This language is spoken in the following countries:
 Biofu
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -29113,7 +29113,7 @@ Biofu
 Kijovu
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -29134,7 +29134,7 @@ Kijovu
 Kinyabinza
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -29155,7 +29155,7 @@ Kinyabinza
 Kinyamulenge
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -29972,7 +29972,7 @@ This language is spoken in the following countries:
 Kikumu Lubuto
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -29993,7 +29993,7 @@ Kikumu Lubuto
 Kikumu Nyiragongo
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -30014,7 +30014,7 @@ Kikumu Nyiragongo
 Kikumu Punia
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -30035,7 +30035,7 @@ Kikumu Punia
 Kikumu Walekale
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -31832,7 +31832,7 @@ This language is spoken in the following countries:
 Southern Kissi
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -34446,7 +34446,7 @@ This language is spoken in the following countries:
 Kinangozi
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -34467,7 +34467,7 @@ Kinangozi
 Kirega
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -35865,7 +35865,7 @@ This language is spoken in the following countries:
 Booli
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -35886,7 +35886,7 @@ Booli
 Bukala
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -35907,7 +35907,7 @@ Bukala
 Emoma
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -35928,7 +35928,7 @@ Emoma
 Ikongo
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -35949,7 +35949,7 @@ Ikongo
 Iyembe
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -35993,7 +35993,7 @@ This language is spoken in the following countries:
 Lionje
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -36106,7 +36106,7 @@ This language is spoken in the following countries:
 Longo
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -36127,7 +36127,7 @@ Longo
 Longombe
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -36194,7 +36194,7 @@ This language is spoken in the following countries:
 Lotswa North
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -36215,7 +36215,7 @@ Lotswa North
 Lotswa South
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -36473,7 +36473,7 @@ This language is spoken in the following countries:
 Likoka
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -36494,7 +36494,7 @@ Likoka
 Lokoka
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -37267,7 +37267,7 @@ This language is spoken in the following countries:
 Malawian Sign Language
 ----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -38604,7 +38604,7 @@ This language is spoken in the following countries:
 Hassaniya
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -38625,7 +38625,7 @@ Hassaniya
 Hassaniya
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -39049,7 +39049,7 @@ This language is spoken in the following countries:
 Mual
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -42074,7 +42074,7 @@ This language is spoken in the following countries:
 Nar
 ---
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -43752,7 +43752,7 @@ This language is spoken in the following countries:
 Chisukwa
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -44461,7 +44461,7 @@ This language is spoken in the following countries:
 Bodjenga
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -44482,7 +44482,7 @@ Bodjenga
 Bondjale
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -44503,7 +44503,7 @@ Bondjale
 Muwera
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45900,7 +45900,7 @@ This language is spoken in the following countries:
 Bangholu
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45921,7 +45921,7 @@ Bangholu
 Ngwi
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -46315,7 +46315,7 @@ This language is spoken in the following countries:
 Kinyabwito
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -46934,7 +46934,7 @@ This language is spoken in the following countries:
 Ngoni
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47500,7 +47500,7 @@ This language is spoken in the following countries:
 Extreme Northern Nuni
 ---------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47778,7 +47778,7 @@ This language is spoken in the following countries:
 Kunda
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47799,7 +47799,7 @@ Kunda
 Nyanja
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -48173,7 +48173,7 @@ This language is spoken in the following countries:
 Runyaruguru
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -49532,7 +49532,7 @@ This language is spoken in the following countries:
 Nzime
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -49944,7 +49944,7 @@ This language is spoken in the following countries:
 Kipindi
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -50212,7 +50212,7 @@ This language is spoken in the following countries:
 Wurkum
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -50399,7 +50399,7 @@ This language is spoken in the following countries:
 Ikongo Tanala
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -50420,7 +50420,7 @@ Ikongo Tanala
 Southern Betsileo
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -50441,7 +50441,7 @@ Southern Betsileo
 Sihanaka
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -50462,7 +50462,7 @@ Sihanaka
 Tanala
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -50483,7 +50483,7 @@ Tanala
 Zafimaniry
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -52565,7 +52565,7 @@ This language is spoken in the following countries:
 Matmata Berber
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -52881,7 +52881,7 @@ This language is spoken in the following countries:
 eSwatini Sign Language
 ----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -53046,7 +53046,7 @@ This language is spoken in the following countries:
 Muher
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -53377,7 +53377,7 @@ This language is spoken in the following countries:
 Hwindja
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -53398,7 +53398,7 @@ Hwindja
 Kigweshegweshe
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -53419,7 +53419,7 @@ Kigweshegweshe
 Kilinjalinja
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -53440,7 +53440,7 @@ Kilinjalinja
 Kizibaziba
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -53461,7 +53461,7 @@ Kizibaziba
 Longe-Longe
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -53896,7 +53896,7 @@ This language is spoken in the following countries:
 Sakalava Ananalava
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -53917,7 +53917,7 @@ Sakalava Ananalava
 Sakalava Besalampy
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -53938,7 +53938,7 @@ Sakalava Besalampy
 Vezo
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -54691,7 +54691,7 @@ This language is spoken in the following countries:
 Sambla
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -55140,7 +55140,7 @@ This language is spoken in the following countries:
 Irob Saho
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -55308,7 +55308,7 @@ This language is spoken in the following countries:
 South Sudan Sign Language
 -------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -56468,7 +56468,7 @@ This language is spoken in the following countries:
 Kirhinyihinyi
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56930,7 +56930,7 @@ This language is spoken in the following countries:
 Teke Mbankana
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -57425,7 +57425,7 @@ This language is spoken in the following countries:
 Eritrean Tigrinya
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -58245,7 +58245,7 @@ This language is spoken in the following countries:
 Toka-Leya
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -58330,7 +58330,7 @@ This language is spoken in the following countries:
 Togbo Banda
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -58959,7 +58959,7 @@ This language is spoken in the following countries:
 Tawellemmet
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59136,7 +59136,7 @@ This language is spoken in the following countries:
 Tumbuka Yombe
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59923,7 +59923,7 @@ This language is spoken in the following countries:
 Rwandan Sign Language
 ---------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -60798,7 +60798,7 @@ This language is spoken in the following countries:
 Vere
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -62018,7 +62018,7 @@ This language is spoken in the following countries:
 Logondjo
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -63531,7 +63531,7 @@ This language is spoken in the following countries:
 Mikagnya
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -64443,7 +64443,7 @@ This language is spoken in the following countries:
 Ilaje
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -64464,7 +64464,7 @@ Ilaje
 Ondo
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -64753,7 +64753,7 @@ This language is spoken in the following countries:
 Zergulla
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -64882,7 +64882,7 @@ This language is spoken in the following countries:
 Mahanji
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -65201,7 +65201,7 @@ This language is spoken in the following countries:
 Kwange
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -65222,7 +65222,7 @@ Kwange
 Mamba
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml

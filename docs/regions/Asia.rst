@@ -471,7 +471,7 @@ This language is spoken in the following countries:
 لهجة بغدادية
 -----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -492,7 +492,7 @@ This language is spoken in the following countries:
 Lebanese Arabic
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -789,7 +789,7 @@ This language is spoken in the following countries:
 Adi Karnataka
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -810,7 +810,7 @@ Adi Karnataka
 Bokar
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -831,7 +831,7 @@ Bokar
 Libo
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -852,7 +852,7 @@ Libo
 Ramo
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -873,7 +873,7 @@ Ramo
 Zadi Boli
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -977,7 +977,7 @@ This language is spoken in the following countries:
 Waiwerang
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -1030,7 +1030,7 @@ This language is spoken in the following countries:
 Адыгабзэ
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -2272,7 +2272,7 @@ This language is spoken in the following countries:
 Alak Atapue
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -2293,7 +2293,7 @@ Alak Atapue
 Alak Atapue
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -2314,7 +2314,7 @@ Alak Atapue
 Alak Xekong
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -2668,7 +2668,7 @@ This language is spoken in the following countries:
 Khawng Tu
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -3016,7 +3016,7 @@ This language is spoken in the following countries:
 Druze Arabic
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -3766,7 +3766,7 @@ This language is spoken in the following countries:
 Ata Paquibato Manobo
 --------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -4618,7 +4618,7 @@ This language is spoken in the following countries:
 Afshari
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -5028,7 +5028,7 @@ This language is spoken in the following countries:
 Bei
 ---
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -5165,7 +5165,7 @@ This language is spoken in the following countries:
 Menabur Kecil
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -5554,7 +5554,7 @@ This language is spoken in the following countries:
 Dayak Bakati Kamayo
 -------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -5575,7 +5575,7 @@ Dayak Bakati Kamayo
 Dayak Dsa
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -5596,7 +5596,7 @@ Dayak Dsa
 Dayak Laya
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -5954,7 +5954,7 @@ This language is spoken in the following countries:
 Liuhe Bai
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -6269,7 +6269,7 @@ This language is spoken in the following countries:
 Pawari
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -6563,7 +6563,7 @@ This language is spoken in the following countries:
 PaNam
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -7082,7 +7082,7 @@ This language is spoken in the following countries:
 Thethi Bhojpuri
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -7262,7 +7262,7 @@ This language is spoken in the following countries:
 Betew
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -7583,7 +7583,7 @@ This language is spoken in the following countries:
 Dayak Banjar
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -7606,7 +7606,7 @@ Dayak Banjar
 Dayak Lebang Hulu
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -7627,7 +7627,7 @@ Dayak Lebang Hulu
 Dayak Pulau Telo
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -7648,7 +7648,7 @@ Dayak Pulau Telo
 Dayak Sei Dusun
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -7700,7 +7700,7 @@ This language is spoken in the following countries:
 Curaju
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -7746,7 +7746,7 @@ This language is spoken in the following countries:
 Talaandig
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -7853,7 +7853,7 @@ This language is spoken in the following countries:
 Punan Blusu
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -7900,7 +7900,7 @@ This language is spoken in the following countries:
 Dusun Kalahien
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -7921,7 +7921,7 @@ Dusun Kalahien
 Paju Epat
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -8607,7 +8607,7 @@ This language is spoken in the following countries:
 Murut Tangara
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -9399,7 +9399,7 @@ This language is spoken in the following countries:
 Turkish Bakhtiari
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -10077,7 +10077,7 @@ This language is spoken in the following countries:
 Boang
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -10098,7 +10098,7 @@ Boang
 Kelasan
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -10154,7 +10154,7 @@ This language is spoken in the following countries:
 Dayak Bidayuh Punten
 --------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -10383,7 +10383,7 @@ This language is spoken in the following countries:
 Timur Riangkamie
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -10532,7 +10532,7 @@ This language is spoken in the following countries:
 Kluet
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -10606,7 +10606,7 @@ This language is spoken in the following countries:
 Bugis Barruh
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -10627,7 +10627,7 @@ Bugis Barruh
 Bugis Boneh
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -10648,7 +10648,7 @@ Bugis Boneh
 Bugis Pinran
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -10669,7 +10669,7 @@ Bugis Pinran
 Bugis Rapan
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -10690,7 +10690,7 @@ Bugis Rapan
 Bugis Sinjai
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -10711,7 +10711,7 @@ Bugis Sinjai
 Bugis Bulukumba
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -11225,7 +11225,7 @@ This language is spoken in the following countries:
 Dayak Dait
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -11246,7 +11246,7 @@ Dayak Dait
 Dayak Pantu
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -11267,7 +11267,7 @@ Dayak Pantu
 Suku Dayak Kerabat
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -12217,7 +12217,7 @@ This language is spoken in the following countries:
 Boholano
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -12238,7 +12238,7 @@ Boholano
 Siquijodnon
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -12303,7 +12303,7 @@ This language is spoken in the following countries:
 Asang Khawngso
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -12397,7 +12397,7 @@ This language is spoken in the following countries:
 Chorei
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -12418,7 +12418,7 @@ Chorei
 Kaipeng
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -13683,7 +13683,7 @@ This language is spoken in the following countries:
 Kanise Khumi
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -13839,7 +13839,7 @@ This language is spoken in the following countries:
 Kola
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -14134,7 +14134,7 @@ This language is spoken in the following countries:
 North East China Sign Language
 ------------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -14343,7 +14343,7 @@ This language is spoken in the following countries:
 Pangyan
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -14815,7 +14815,7 @@ This language is spoken in the following countries:
 Dayak Mali
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -14836,7 +14836,7 @@ Dayak Mali
 Dayak Sambas
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -15221,7 +15221,7 @@ This language is spoken in the following countries:
 Agta-Quirino
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -15242,7 +15242,7 @@ Agta-Quirino
 Dinapigue Agta
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -15346,7 +15346,7 @@ This language is spoken in the following countries:
 Sindoli
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -15614,7 +15614,7 @@ This language is spoken in the following countries:
 Dayak Ba eih
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -15635,7 +15635,7 @@ Dayak Ba eih
 Dayak Darok
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -15656,7 +15656,7 @@ Dayak Darok
 Dayak Kodatn
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -15677,7 +15677,7 @@ Dayak Kodatn
 Dayak Papak
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -15700,7 +15700,7 @@ Dayak Papak
 Dayak Sum
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -15721,7 +15721,7 @@ Dayak Sum
 Dayak Tinying
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -15742,7 +15742,7 @@ Dayak Tinying
 Dayak Meranggau
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -15763,7 +15763,7 @@ Dayak Meranggau
 Dayak Pompang
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -16502,7 +16502,7 @@ This language is spoken in the following countries:
 Gonsomon
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -16523,7 +16523,7 @@ Gonsomon
 Pilapazan
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -16845,7 +16845,7 @@ This language is spoken in the following countries:
 Tindal
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -17120,7 +17120,7 @@ This language is spoken in the following countries:
 Dusun Bayan
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -17260,7 +17260,7 @@ This language is spoken in the following countries:
 Dusun Pepas
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -17646,7 +17646,7 @@ This language is spoken in the following countries:
 Dayak Kalis
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -19559,7 +19559,7 @@ This language is spoken in the following countries:
 Gujur Rajistani
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -19860,7 +19860,7 @@ This language is spoken in the following countries:
 Maria Gond
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -20661,7 +20661,7 @@ This language is spoken in the following countries:
 Kalimantan Hakka Chinese
 ------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -21013,7 +21013,7 @@ This language is spoken in the following countries:
 Bhartali Khadiboli
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -21082,7 +21082,7 @@ This language is spoken in the following countries:
 Pawani
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -21103,7 +21103,7 @@ Pawani
 Waradhi
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -21248,7 +21248,7 @@ This language is spoken in the following countries:
 Mel
 ---
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -21269,7 +21269,7 @@ Mel
 Mel-Khaonh
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -21961,7 +21961,7 @@ This language is spoken in the following countries:
 Do
 --
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -22158,7 +22158,7 @@ This language is spoken in the following countries:
 Bu4Du1 Hani
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -22202,7 +22202,7 @@ This language is spoken in the following countries:
 Longpu Hani
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -22485,7 +22485,7 @@ This language is spoken in the following countries:
 Dayak Punan Uheng
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -22798,7 +22798,7 @@ This language is spoken in the following countries:
 Aka
 ---
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -22876,7 +22876,7 @@ This language is spoken in the following countries:
 Miao Liupanshui
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23304,7 +23304,7 @@ This language is spoken in the following countries:
 Dayak Sangku
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23325,7 +23325,7 @@ Dayak Sangku
 Dayak Barai Penyelompat
 -----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23346,7 +23346,7 @@ Dayak Barai Penyelompat
 Dayak Banjur
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23367,7 +23367,7 @@ Dayak Banjur
 Dayak Bugau
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23388,7 +23388,7 @@ Dayak Bugau
 Dayak Bunut
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23409,7 +23409,7 @@ Dayak Bunut
 Dayak Desa
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23430,7 +23430,7 @@ Dayak Desa
 Dayak Nanga
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23451,7 +23451,7 @@ Dayak Nanga
 Dayak Sebaruk
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23472,7 +23472,7 @@ Dayak Sebaruk
 Dayak Sekapat
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23493,7 +23493,7 @@ Dayak Sekapat
 Dayak Ulu
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23514,7 +23514,7 @@ Dayak Ulu
 Desa
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23535,7 +23535,7 @@ Desa
 Desa Tempunak
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23556,7 +23556,7 @@ Desa Tempunak
 Dayak Entebang
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23577,7 +23577,7 @@ Dayak Entebang
 Dayak Iban Empran
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23598,7 +23598,7 @@ Dayak Iban Empran
 Dayak Kancing'k
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23619,7 +23619,7 @@ Dayak Kancing'k
 Dayak Ketior
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23640,7 +23640,7 @@ Dayak Ketior
 Dayak Ketungau
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23661,7 +23661,7 @@ Dayak Ketungau
 Ketungau Sesaek
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23682,7 +23682,7 @@ Ketungau Sesaek
 Dayak Randuk
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23703,7 +23703,7 @@ Dayak Randuk
 Dayak Salako
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23724,7 +23724,7 @@ Dayak Salako
 Dayak Sangku
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23745,7 +23745,7 @@ Dayak Sangku
 Dayak Sekajang
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23766,7 +23766,7 @@ Dayak Sekajang
 Dayak Selawe
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23787,7 +23787,7 @@ Dayak Selawe
 Dayak Selibong
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23808,7 +23808,7 @@ Dayak Selibong
 Dayak Sepatoi
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23829,7 +23829,7 @@ Dayak Sepatoi
 Dayak Siberuang Sejiram
 -----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23850,7 +23850,7 @@ Dayak Siberuang Sejiram
 Dayak Sikung
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23871,7 +23871,7 @@ Dayak Sikung
 Dayak Silat Muntak
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23892,7 +23892,7 @@ Dayak Silat Muntak
 Dayak Sontas
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23913,7 +23913,7 @@ Dayak Sontas
 Dayak Sungkung
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -23934,7 +23934,7 @@ Dayak Sungkung
 Dayak Tadietn
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24175,7 +24175,7 @@ This language is spoken in the following countries:
 Mun'ibannawol
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24221,7 +24221,7 @@ This language is spoken in the following countries:
 Lower Ayangan
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24269,7 +24269,7 @@ This language is spoken in the following countries:
 Yattuca
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24345,7 +24345,7 @@ This language is spoken in the following countries:
 Munkalyon
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24469,7 +24469,7 @@ This language is spoken in the following countries:
 Gongji Yi
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24594,7 +24594,7 @@ This language is spoken in the following countries:
 Bugkalot
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24653,7 +24653,7 @@ This language is spoken in the following countries:
 Malaysian Iranun
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24703,7 +24703,7 @@ This language is spoken in the following countries:
 Philippine Iranun
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -24939,7 +24939,7 @@ This language is spoken in the following countries:
 Andra Pradesh Sign Language
 ---------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -24962,7 +24962,7 @@ Andra Pradesh Sign Language
 Karnataka Sign Language
 -----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -24985,7 +24985,7 @@ Karnataka Sign Language
 Kerala Sign Language
 --------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -25008,7 +25008,7 @@ Kerala Sign Language
 Marathi Sign Language
 ---------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -25031,7 +25031,7 @@ Marathi Sign Language
 Tamil Nadu Sign Language
 ------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -25198,7 +25198,7 @@ This language is spoken in the following countries:
 Iruli Nayak
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -25396,7 +25396,7 @@ This language is spoken in the following countries:
 Southern Tidung
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -25417,7 +25417,7 @@ Southern Tidung
 Dayak Tahol
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -25621,7 +25621,7 @@ This language is spoken in the following countries:
 Lan Tien Yao
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -25644,7 +25644,7 @@ Lan Tien Yao
 Lan Tin
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -26010,7 +26010,7 @@ This language is spoken in the following countries:
 Cirebon
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -26056,7 +26056,7 @@ This language is spoken in the following countries:
 Tegal
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -26288,7 +26288,7 @@ This language is spoken in the following countries:
 Lawi
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27054,7 +27054,7 @@ This language is spoken in the following countries:
 Golar
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27594,7 +27594,7 @@ This language is spoken in the following countries:
 Southern Kalanguya
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27615,7 +27615,7 @@ Southern Kalanguya
 Aruvu
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27636,7 +27636,7 @@ Aruvu
 Bavari
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27657,7 +27657,7 @@ Bavari
 Khacha
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27678,7 +27678,7 @@ Khacha
 Koungaru
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27699,7 +27699,7 @@ Koungaru
 Kudipottila
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27720,7 +27720,7 @@ Kudipottila
 Lambadi (Kannada script)
 ------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27741,7 +27741,7 @@ Lambadi (Kannada script)
 Palligaru
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27762,7 +27762,7 @@ Palligaru
 Thigularu
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27783,7 +27783,7 @@ Thigularu
 Waddar (Kannada script)
 -----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27804,7 +27804,7 @@ Waddar (Kannada script)
 Yekalavya
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -27875,7 +27875,7 @@ This language is spoken in the following countries:
 Qazaki
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28111,7 +28111,7 @@ This language is spoken in the following countries:
 Kuay Er
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -28134,7 +28134,7 @@ Kuay Er
 Kuay Suai
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28155,7 +28155,7 @@ Kuay Suai
 Kuay Treu
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28176,7 +28176,7 @@ Kuay Treu
 Suai chang
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28271,7 +28271,7 @@ This language is spoken in the following countries:
 Kei Besar
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28292,7 +28292,7 @@ Kei Besar
 Kei Kecil
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28313,7 +28313,7 @@ Kei Kecil
 Tanimbar
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28543,7 +28543,7 @@ This language is spoken in the following countries:
 Korama
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28617,7 +28617,7 @@ This language is spoken in the following countries:
 Kirad
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28736,7 +28736,7 @@ This language is spoken in the following countries:
 Koya-Dmorla
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28757,7 +28757,7 @@ Koya-Dmorla
 Doralakoya
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28778,7 +28778,7 @@ Doralakoya
 Dorli Koya
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28799,7 +28799,7 @@ Dorli Koya
 Gotte Koya
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28820,7 +28820,7 @@ Gotte Koya
 Rashakoya
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28841,7 +28841,7 @@ Rashakoya
 W. Godavari Koya
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28959,7 +28959,7 @@ This language is spoken in the following countries:
 Adavi Kuruba
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -28980,7 +28980,7 @@ Adavi Kuruba
 Kukke Kuruba
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -29001,7 +29001,7 @@ Kukke Kuruba
 Kurre Kurumba
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -29540,7 +29540,7 @@ This language is spoken in the following countries:
 Soriyali
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -29822,7 +29822,7 @@ This language is spoken in the following countries:
 Moi Madik
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -30029,7 +30029,7 @@ This language is spoken in the following countries:
 Lü
 ---
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -31216,7 +31216,7 @@ This language is spoken in the following countries:
 Kal-Uwan
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -31395,7 +31395,7 @@ This language is spoken in the following countries:
 Pembuang
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -31792,7 +31792,7 @@ This language is spoken in the following countries:
 Kalinga of San Mariano Isabela
 ------------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -31869,7 +31869,7 @@ This language is spoken in the following countries:
 Kalinga-Biga
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -31919,7 +31919,7 @@ This language is spoken in the following countries:
 Lubo
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -31940,7 +31940,7 @@ Lubo
 Kalingnga of San Mariano Isabela
 --------------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -31963,7 +31963,7 @@ Kalingnga of San Mariano Isabela
 Pangul
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -31984,7 +31984,7 @@ Pangul
 Taloctuc
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32124,7 +32124,7 @@ This language is spoken in the following countries:
 Shikaki
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32238,7 +32238,7 @@ This language is spoken in the following countries:
 Bajantri
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32259,7 +32259,7 @@ Bajantri
 Bedar
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32280,7 +32280,7 @@ Bedar
 Bhovi
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32301,7 +32301,7 @@ Bhovi
 Buduga Jangam
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32322,7 +32322,7 @@ Buduga Jangam
 Bunde Bestaru
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32343,7 +32343,7 @@ Bunde Bestaru
 Chenna Dasar
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32364,7 +32364,7 @@ Chenna Dasar
 Chollivala Nayaka
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32385,7 +32385,7 @@ Chollivala Nayaka
 Devanga
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32406,7 +32406,7 @@ Devanga
 Dombaru
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32427,7 +32427,7 @@ Dombaru
 Dravidar
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32448,7 +32448,7 @@ Dravidar
 Handi Jogi
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32469,7 +32469,7 @@ Handi Jogi
 Jangalu
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32490,7 +32490,7 @@ Jangalu
 Kamashettaru
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32511,7 +32511,7 @@ Kamashettaru
 Kammara
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32532,7 +32532,7 @@ Kammara
 Periya
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32553,7 +32553,7 @@ Periya
 Rate
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32574,7 +32574,7 @@ Rate
 Siddi
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32595,7 +32595,7 @@ Siddi
 Sillekyatha
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32616,7 +32616,7 @@ Sillekyatha
 Swali
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32637,7 +32637,7 @@ Swali
 Takalik
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32658,7 +32658,7 @@ Takalik
 Vagri
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32679,7 +32679,7 @@ Vagri
 Yalavaru
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32700,7 +32700,7 @@ Yalavaru
 Yeddumarigi
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32746,7 +32746,7 @@ This language is spoken in the following countries:
 Kalinga Balantoy
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32767,7 +32767,7 @@ Kalinga Balantoy
 Kalingan Balbalan
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32788,7 +32788,7 @@ Kalingan Balbalan
 Ibalatok
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32809,7 +32809,7 @@ Ibalatok
 Karakkad
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32830,7 +32830,7 @@ Karakkad
 Kalinga Naneng
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32851,7 +32851,7 @@ Kalinga Naneng
 Salegseg Kalinga
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32872,7 +32872,7 @@ Salegseg Kalinga
 Tobog
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32893,7 +32893,7 @@ Tobog
 Kalinga Tubo
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -32992,7 +32992,7 @@ This language is spoken in the following countries:
 Dayak Barai
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33013,7 +33013,7 @@ Dayak Barai
 Dayak Goneh
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33034,7 +33034,7 @@ Dayak Goneh
 Dayak Penyelompat
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33055,7 +33055,7 @@ Dayak Penyelompat
 Dayak Sekubin
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33076,7 +33076,7 @@ Dayak Sekubin
 Dayak Kebahan
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33097,7 +33097,7 @@ Dayak Kebahan
 Dayak Kebahatn Ulak
 -------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33118,7 +33118,7 @@ Dayak Kebahatn Ulak
 Dayak Kenyabur
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33139,7 +33139,7 @@ Dayak Kenyabur
 Dayak Kenyilu
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33160,7 +33160,7 @@ Dayak Kenyilu
 Dayak Kubin
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33181,7 +33181,7 @@ Dayak Kubin
 Dayak Kubing
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33202,7 +33202,7 @@ Dayak Kubing
 Dayak Ransa
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33223,7 +33223,7 @@ Dayak Ransa
 Dayak Ulu Sekadau
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33292,7 +33292,7 @@ This language is spoken in the following countries:
 Agri
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33428,7 +33428,7 @@ This language is spoken in the following countries:
 Dayak Kanayate Ahe
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33449,7 +33449,7 @@ Dayak Kanayate Ahe
 Be,aje
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33470,7 +33470,7 @@ Be,aje
 Dayak Baape
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33491,7 +33491,7 @@ Dayak Baape
 Dayak Bajanya
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33512,7 +33512,7 @@ Dayak Bajanya
 Dayak Bajare
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33533,7 +33533,7 @@ Dayak Bajare
 Dayak Ahe
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33554,7 +33554,7 @@ Dayak Ahe
 Dayak Muara
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33575,7 +33575,7 @@ Dayak Muara
 Dayak Jawant
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33596,7 +33596,7 @@ Dayak Jawant
 Punan Gong Solok
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33617,7 +33617,7 @@ Punan Gong Solok
 Dayak Ahe
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -33940,7 +33940,7 @@ This language is spoken in the following countries:
 Kaigar
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -34098,7 +34098,7 @@ This language is spoken in the following countries:
 Sonsogon
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -34284,7 +34284,7 @@ This language is spoken in the following countries:
 Lun
 ---
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -34497,7 +34497,7 @@ This language is spoken in the following countries:
 Isumadel
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -34518,7 +34518,7 @@ Isumadel
 Kalinga Tulgao
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -34539,7 +34539,7 @@ Kalinga Tulgao
 Kalinga Tulgo
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -34612,7 +34612,7 @@ This language is spoken in the following countries:
 Shyam
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -35385,7 +35385,7 @@ This language is spoken in the following countries:
 Talang Mamak
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -36287,7 +36287,7 @@ This language is spoken in the following countries:
 Cortesanon
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -36308,7 +36308,7 @@ Cortesanon
 Tagon-on
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -37092,7 +37092,7 @@ This language is spoken in the following countries:
 Lao Nhook
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -37113,7 +37113,7 @@ Lao Nhook
 Lao-Vientiane
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -37538,7 +37538,7 @@ This language is spoken in the following countries:
 Laven Champasak
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -37559,7 +37559,7 @@ Laven Champasak
 Laven Xekong
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -37724,7 +37724,7 @@ This language is spoken in the following countries:
 Dayak Bantian
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -37745,7 +37745,7 @@ Dayak Bantian
 Capur Acu
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -37766,7 +37766,7 @@ Capur Acu
 Dayak Benua
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -37787,7 +37787,7 @@ Dayak Benua
 Dayak Pasir
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -37808,7 +37808,7 @@ Dayak Pasir
 Dayak Paus
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -37829,7 +37829,7 @@ Dayak Paus
 Long Benuang
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -37850,7 +37850,7 @@ Long Benuang
 Dayak Mantarap Kabut
 --------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -38713,7 +38713,7 @@ This language is spoken in the following countries:
 Hua Lisu
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -38924,7 +38924,7 @@ This language is spoken in the following countries:
 Lampung Pesisir
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -39274,7 +39274,7 @@ This language is spoken in the following countries:
 Lembata Eleape
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -39373,7 +39373,7 @@ This language is spoken in the following countries:
 Anjara
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -39507,7 +39507,7 @@ This language is spoken in the following countries:
 Dayak Tabun
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -39878,7 +39878,7 @@ This language is spoken in the following countries:
 Dayak Suruh
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -40916,7 +40916,7 @@ This language is spoken in the following countries:
 Dehati Bhojouri
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -40975,7 +40975,7 @@ This language is spoken in the following countries:
 Gondhali
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -40996,7 +40996,7 @@ Gondhali
 Maratha/Beda
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -41017,7 +41017,7 @@ Maratha/Beda
 Mayalamarathian
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -41110,7 +41110,7 @@ This language is spoken in the following countries:
 Arumanen
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -41131,7 +41131,7 @@ Arumanen
 Kiriyenteken
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -41152,7 +41152,7 @@ Kiriyenteken
 Pulangiyen
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -41173,7 +41173,7 @@ Pulangiyen
 Manobo Pulangiyen
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -41321,7 +41321,7 @@ This language is spoken in the following countries:
 Kulamanen
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -41365,7 +41365,7 @@ This language is spoken in the following countries:
 Tala Ingod Manobo
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -41477,7 +41477,7 @@ This language is spoken in the following countries:
 Dananao
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -42056,7 +42056,7 @@ This language is spoken in the following countries:
 Balangan
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -42077,7 +42077,7 @@ Balangan
 Dayak Ma'anyan Banua Lima
 -------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -42098,7 +42098,7 @@ Dayak Ma'anyan Banua Lima
 Dayak Halong
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -42119,7 +42119,7 @@ Dayak Halong
 Paju Sapuluh
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -42140,7 +42140,7 @@ Paju Sapuluh
 Samihim
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -42362,7 +42362,7 @@ This language is spoken in the following countries:
 Dao Ao Dai
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -42383,7 +42383,7 @@ Dao Ao Dai
 Lanten
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -42880,7 +42880,7 @@ This language is spoken in the following countries:
 Timur Lamankira
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -42901,7 +42901,7 @@ Timur Lamankira
 Timur Kupang
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -43797,7 +43797,7 @@ This language is spoken in the following countries:
 Boroko
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -44366,7 +44366,7 @@ This language is spoken in the following countries:
 Junu Marathi
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -44387,7 +44387,7 @@ Junu Marathi
 Nagpuri Marathi
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -44710,7 +44710,7 @@ This language is spoken in the following countries:
 Manay
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -44731,7 +44731,7 @@ Manay
 Mandaya Caraga
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -44752,7 +44752,7 @@ Mandaya Caraga
 Upper Manay
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45028,7 +45028,7 @@ This language is spoken in the following countries:
 Agusanen - Bunawan
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45049,7 +45049,7 @@ Agusanen - Bunawan
 Bunawanon
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45070,7 +45070,7 @@ Bunawanon
 Agusanen - Loreto
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45091,7 +45091,7 @@ Agusanen - Loreto
 Manguangan
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45112,7 +45112,7 @@ Manguangan
 Pangyan
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45133,7 +45133,7 @@ Pangyan
 Talacogon
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45154,7 +45154,7 @@ Talacogon
 Umayam
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45175,7 +45175,7 @@ Umayam
 Umayamnon
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45196,7 +45196,7 @@ Umayamnon
 Manobo Wawaanon
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45314,7 +45314,7 @@ This language is spoken in the following countries:
 Sulit Manobo
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45335,7 +45335,7 @@ Sulit Manobo
 Tasaday
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -45565,7 +45565,7 @@ This language is spoken in the following countries:
 Penesak
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -46031,7 +46031,7 @@ This language is spoken in the following countries:
 Punan Lepaga
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -46143,7 +46143,7 @@ This language is spoken in the following countries:
 Cho Rah
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -46164,7 +46164,7 @@ Cho Rah
 Ni-Se
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -46408,7 +46408,7 @@ This language is spoken in the following countries:
 Moi Kelin
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -46429,7 +46429,7 @@ Moi Kelin
 Moi Klasa
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -46450,7 +46450,7 @@ Moi Klasa
 Moi Sigin
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -46471,7 +46471,7 @@ Moi Sigin
 Moi Salkma
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47141,7 +47141,7 @@ This language is spoken in the following countries:
 Nah
 ---
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47490,7 +47490,7 @@ This language is spoken in the following countries:
 Pahari
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47744,7 +47744,7 @@ This language is spoken in the following countries:
 Telo
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47765,7 +47765,7 @@ Telo
 Teluk Dalam
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47820,7 +47820,7 @@ This language is spoken in the following countries:
 Dayak Baream
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47841,7 +47841,7 @@ Dayak Baream
 Dayak Bulik
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47862,7 +47862,7 @@ Dayak Bulik
 Dayak Mali
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47883,7 +47883,7 @@ Dayak Mali
 Dayak Tengon
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47904,7 +47904,7 @@ Dayak Tengon
 Dayak Kahayan
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47925,7 +47925,7 @@ Dayak Kahayan
 Dayak Kapuas
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47946,7 +47946,7 @@ Dayak Kapuas
 Dayak Katingan
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47967,7 +47967,7 @@ Dayak Katingan
 Katingan Hilir
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -47988,7 +47988,7 @@ Katingan Hilir
 Katingan Hulu
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -48009,7 +48009,7 @@ Katingan Hulu
 Katingan Tengah
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -48030,7 +48030,7 @@ Katingan Tengah
 Manyan
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -48051,7 +48051,7 @@ Manyan
 Menuhing Tehang
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -48072,7 +48072,7 @@ Menuhing Tehang
 Dayak Nyadupm
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -48093,7 +48093,7 @@ Dayak Nyadupm
 Samba Danum
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -48116,7 +48116,7 @@ Samba Danum
 Sampit
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -48424,7 +48424,7 @@ This language is spoken in the following countries:
 Hill Miri
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -48967,7 +48967,7 @@ This language is spoken in the following countries:
 Tang Shang Naga
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -49251,7 +49251,7 @@ This language is spoken in the following countries:
 Sowerapa
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -49954,7 +49954,7 @@ This language is spoken in the following countries:
 Nanel
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -49975,7 +49975,7 @@ Nanel
 Ran Se Naga
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -49996,7 +49996,7 @@ Ran Se Naga
 Sangwan
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -50017,7 +50017,7 @@ Sangwan
 Shechu
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -50038,7 +50038,7 @@ Shechu
 Shekyu
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -50105,7 +50105,7 @@ This language is spoken in the following countries:
 Northern Tidung
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -50383,7 +50383,7 @@ This language is spoken in the following countries:
 Xuòng Giay
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -50618,7 +50618,7 @@ This language is spoken in the following countries:
 Malimasa
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -51572,7 +51572,7 @@ This language is spoken in the following countries:
 Suku Laut; Orang Laut
 ---------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -51690,7 +51690,7 @@ This language is spoken in the following countries:
 Amanatya
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -51734,7 +51734,7 @@ This language is spoken in the following countries:
 Raran'kwa
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -51859,7 +51859,7 @@ This language is spoken in the following countries:
 Dayak Belaban
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -51880,7 +51880,7 @@ Dayak Belaban
 Dayak Uud Danum
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -51901,7 +51901,7 @@ Dayak Uud Danum
 Dayak Limbai
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -51922,7 +51922,7 @@ Dayak Limbai
 Dohoy
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -51943,7 +51943,7 @@ Dohoy
 Kadorih
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -51987,7 +51987,7 @@ This language is spoken in the following countries:
 Mahalat
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -52008,7 +52008,7 @@ Mahalat
 Dayak Oruung Da'an
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -52029,7 +52029,7 @@ Dayak Oruung Da'an
 Dayak Pangin Daan
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -52050,7 +52050,7 @@ Dayak Pangin Daan
 Punan Kuhi
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -52071,7 +52071,7 @@ Punan Kuhi
 Rangsa
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -52092,7 +52092,7 @@ Rangsa
 Uud Danum Ambalau Serawai
 -------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -52425,7 +52425,7 @@ This language is spoken in the following countries:
 Parya Leghmani
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -52675,7 +52675,7 @@ This language is spoken in the following countries:
 Giay Nhan
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -52957,7 +52957,7 @@ This language is spoken in the following countries:
 Thakan
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -53403,7 +53403,7 @@ This language is spoken in the following countries:
 Long Iman
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -53539,7 +53539,7 @@ This language is spoken in the following countries:
 Pa Than
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -53748,7 +53748,7 @@ This language is spoken in the following countries:
 Tai He
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -54165,7 +54165,7 @@ This language is spoken in the following countries:
 Palawan Taot Bato
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -54344,7 +54344,7 @@ This language is spoken in the following countries:
 Tao't Bato
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is not valid.
@@ -54482,7 +54482,7 @@ This language is spoken in the following countries:
 Wana
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -54610,7 +54610,7 @@ This language is spoken in the following countries:
 Miosindi
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -54633,7 +54633,7 @@ Miosindi
 Serewen
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -54730,7 +54730,7 @@ This language is spoken in the following countries:
 Punan Halanga
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -55585,7 +55585,7 @@ This language is spoken in the following countries:
 Enim
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -55606,7 +55606,7 @@ Enim
 Ogan
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -55627,7 +55627,7 @@ Ogan
 Pasemah
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -55648,7 +55648,7 @@ Pasemah
 Suku Asli
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56036,7 +56036,7 @@ This language is spoken in the following countries:
 Kayan Merap
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56057,7 +56057,7 @@ Kayan Merap
 Naha Kramu
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56078,7 +56078,7 @@ Naha Kramu
 Tang La'an
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56123,7 +56123,7 @@ This language is spoken in the following countries:
 Punan Birun
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56144,7 +56144,7 @@ Punan Birun
 Punan Metut
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56188,7 +56188,7 @@ This language is spoken in the following countries:
 Mirau
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56232,7 +56232,7 @@ This language is spoken in the following countries:
 Punan Bila Bekayuk
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56253,7 +56253,7 @@ Punan Bila Bekayuk
 Bintuan
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56274,7 +56274,7 @@ Bintuan
 Dayak Linoh Sempayan
 --------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56295,7 +56295,7 @@ Dayak Linoh Sempayan
 Long Lihi
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56316,7 +56316,7 @@ Long Lihi
 Punan Long Pada
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56337,7 +56337,7 @@ Punan Long Pada
 Long Ranau
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56358,7 +56358,7 @@ Long Ranau
 Long Titi
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56379,7 +56379,7 @@ Long Titi
 Menabur Besar
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56400,7 +56400,7 @@ Menabur Besar
 Punan Bengalan
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56421,7 +56421,7 @@ Punan Bengalan
 Punan Mentarang
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56442,7 +56442,7 @@ Punan Mentarang
 Punan Semeriot
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56463,7 +56463,7 @@ Punan Semeriot
 Rian Tubu
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56484,7 +56484,7 @@ Rian Tubu
 Sebaing
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56619,7 +56619,7 @@ This language is spoken in the following countries:
 Dayak Abai
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56902,7 +56902,7 @@ This language is spoken in the following countries:
 Ibalantoy
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -56923,7 +56923,7 @@ Ibalantoy
 Dayak Sisang
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -56946,7 +56946,7 @@ Dayak Sisang
 Aluk Xekong
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -56969,7 +56969,7 @@ Aluk Xekong
 Dayak Paus
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -56992,7 +56992,7 @@ Dayak Paus
 Serawai
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -57670,7 +57670,7 @@ This language is spoken in the following countries:
 Punan Lisum
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -58018,7 +58018,7 @@ This language is spoken in the following countries:
 Dayak Mali Peruan
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -58039,7 +58039,7 @@ Dayak Mali Peruan
 Dayak Mudu
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -58060,7 +58060,7 @@ Dayak Mudu
 Dayak Sami
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -58210,7 +58210,7 @@ This language is spoken in the following countries:
 T'moan
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -58270,7 +58270,7 @@ This language is spoken in the following countries:
 Marmas
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -58452,7 +58452,7 @@ This language is spoken in the following countries:
 Domari
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -58473,7 +58473,7 @@ Domari
 Syrian Domari
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59277,7 +59277,7 @@ This language is spoken in the following countries:
 Sawi Erary
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59298,7 +59298,7 @@ Sawi Erary
 Sawi Ayamon
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59319,7 +59319,7 @@ Sawi Ayamon
 Sawi Erary
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59498,7 +59498,7 @@ This language is spoken in the following countries:
 Dayak Sane
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59519,7 +59519,7 @@ Dayak Sane
 Dayak Mudu
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59540,7 +59540,7 @@ Dayak Mudu
 Dayak Senganan
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59743,7 +59743,7 @@ This language is spoken in the following countries:
 Cupang Sembilan Domong
 ----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59764,7 +59764,7 @@ Cupang Sembilan Domong
 Dayak Dosatn
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59785,7 +59785,7 @@ Dayak Dosatn
 Dayak Katarak
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59806,7 +59806,7 @@ Dayak Katarak
 Dayak Koman
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -59829,7 +59829,7 @@ Dayak Koman
 Dayak Mentrap
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59850,7 +59850,7 @@ Dayak Mentrap
 Dayak Tebang
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59871,7 +59871,7 @@ Dayak Tebang
 Koman
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59892,7 +59892,7 @@ Koman
 Dayak Lebang Hilir
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59913,7 +59913,7 @@ Dayak Lebang Hilir
 Linoh
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59934,7 +59934,7 @@ Linoh
 Dayak Mayau
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59955,7 +59955,7 @@ Dayak Mayau
 Sekujam
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -59976,7 +59976,7 @@ Sekujam
 Dayak Semerawai
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -60417,7 +60417,7 @@ This language is spoken in the following countries:
 گویش‌های جنوبی کردی
 -------------------------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -60486,7 +60486,7 @@ This language is spoken in the following countries:
 Dayak Beginci
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -60507,7 +60507,7 @@ Dayak Beginci
 Dayak Bihak
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -60528,7 +60528,7 @@ Dayak Bihak
 Dayak Gerai
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -60549,7 +60549,7 @@ Dayak Gerai
 Dayak Kualant
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -60570,7 +60570,7 @@ Dayak Kualant
 Dayak Pangkalan Suka
 --------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -60591,7 +60591,7 @@ Dayak Pangkalan Suka
 Dayak Sekucing Kualan
 ---------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -60648,7 +60648,7 @@ This language is spoken in the following countries:
 Dayak Tatoong
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -60669,7 +60669,7 @@ Dayak Tatoong
 Dayak Ntuka
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -60737,7 +60737,7 @@ This language is spoken in the following countries:
 Pahan
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -61106,7 +61106,7 @@ This language is spoken in the following countries:
 Dayak Tobak
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -61176,7 +61176,7 @@ This language is spoken in the following countries:
 Punan Kelai
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -61243,7 +61243,7 @@ This language is spoken in the following countries:
 Rushani
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -61317,7 +61317,7 @@ This language is spoken in the following countries:
 Homesign Aurangabad 1
 ---------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -61862,7 +61862,7 @@ This language is spoken in the following countries:
 Punan Pelan Cau
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -62266,7 +62266,7 @@ This language is spoken in the following countries:
 Moso
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -62659,7 +62659,7 @@ This language is spoken in the following countries:
 Bol-Anons
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -62975,7 +62975,7 @@ This language is spoken in the following countries:
 Dayak Tengoh
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -62996,7 +62996,7 @@ Dayak Tengoh
 Dayak Bidayuh Jagoi
 -------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -63093,7 +63093,7 @@ This language is spoken in the following countries:
 Dayak Long Bila
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -63314,7 +63314,7 @@ This language is spoken in the following countries:
 Punan Rian
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -63676,7 +63676,7 @@ This language is spoken in the following countries:
 Murut Kabu
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -64393,7 +64393,7 @@ This language is spoken in the following countries:
 Brebes
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -64639,7 +64639,7 @@ This language is spoken in the following countries:
 Makatian
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -64817,7 +64817,7 @@ This language is spoken in the following countries:
 Tagulandang
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -64896,7 +64896,7 @@ This language is spoken in the following countries:
 Dayak Sisang
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -65416,7 +65416,7 @@ This language is spoken in the following countries:
 कुरवाँ
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -65559,7 +65559,7 @@ This language is spoken in the following countries:
 Southern Tboli
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -65580,7 +65580,7 @@ Southern Tboli
 Ubo
 ---
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -65957,7 +65957,7 @@ This language is spoken in the following countries:
 Koracha
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -65978,7 +65978,7 @@ Koracha
 Mavilan Tulu
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66297,7 +66297,7 @@ This language is spoken in the following countries:
 Kakas
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66318,7 +66318,7 @@ Kakas
 Remboken
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66537,7 +66537,7 @@ This language is spoken in the following countries:
 Bairag
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66558,7 +66558,7 @@ Bairag
 Telugu Buduga Jangam
 --------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66579,7 +66579,7 @@ Telugu Buduga Jangam
 Dhongri
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66600,7 +66600,7 @@ Dhongri
 Dokka
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66621,7 +66621,7 @@ Dokka
 Dommara
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66642,7 +66642,7 @@ Dommara
 Gangireddula
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66663,7 +66663,7 @@ Gangireddula
 Telugu Jangalu
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66684,7 +66684,7 @@ Telugu Jangalu
 Kabasha
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66705,7 +66705,7 @@ Kabasha
 Kapalollu
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66726,7 +66726,7 @@ Kapalollu
 Katipapalu
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66747,7 +66747,7 @@ Katipapalu
 Muthrasi
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66768,7 +66768,7 @@ Muthrasi
 Nakkalollu
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66789,7 +66789,7 @@ Nakkalollu
 Nethakani
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66810,7 +66810,7 @@ Nethakani
 Paidi
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66831,7 +66831,7 @@ Paidi
 Pamulollu
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66852,7 +66852,7 @@ Pamulollu
 Yeloru
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66929,7 +66929,7 @@ This language is spoken in the following countries:
 Ade Basha Arya
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66950,7 +66950,7 @@ Ade Basha Arya
 Alba
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66971,7 +66971,7 @@ Alba
 Allami
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -66992,7 +66992,7 @@ Allami
 Ardhan
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67013,7 +67013,7 @@ Ardhan
 Ardhi
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67034,7 +67034,7 @@ Ardhi
 Arttap
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67055,7 +67055,7 @@ Arttap
 Bagata
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67076,7 +67076,7 @@ Bagata
 Barda
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67097,7 +67097,7 @@ Barda
 Bestalu/Bastalu
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67118,7 +67118,7 @@ Bestalu/Bastalu
 Bheel
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67139,7 +67139,7 @@ Bheel
 Bommala
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67160,7 +67160,7 @@ Bommala
 Chamari (Telugu)
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67181,7 +67181,7 @@ Chamari (Telugu)
 Dasari
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -67204,7 +67204,7 @@ Dasari
 Dhaba
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67225,7 +67225,7 @@ Dhaba
 Dudekula
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67246,7 +67246,7 @@ Dudekula
 Gamperukula
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67267,7 +67267,7 @@ Gamperukula
 Ghani Bhasha
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67288,7 +67288,7 @@ Ghani Bhasha
 Gusavu
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67309,7 +67309,7 @@ Gusavu
 Kovi
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67330,7 +67330,7 @@ Kovi
 Onda
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67351,7 +67351,7 @@ Onda
 Orku
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67372,7 +67372,7 @@ Orku
 Osti
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67393,7 +67393,7 @@ Osti
 Otiya
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67414,7 +67414,7 @@ Otiya
 Pardhi (Telugu script)
 ----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67435,7 +67435,7 @@ Pardhi (Telugu script)
 Phichiguntala
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67456,7 +67456,7 @@ Phichiguntala
 Piya
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67477,7 +67477,7 @@ Piya
 Pusala
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67498,7 +67498,7 @@ Pusala
 Sikaari
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67519,7 +67519,7 @@ Sikaari
 Telingu
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67540,7 +67540,7 @@ Telingu
 Thakan
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67561,7 +67561,7 @@ Thakan
 Thalaboomi
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67582,7 +67582,7 @@ Thalaboomi
 Vadi
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67603,7 +67603,7 @@ Vadi
 Yauedhi
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67922,7 +67922,7 @@ This language is spoken in the following countries:
 Lyuli
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -67968,7 +67968,7 @@ This language is spoken in the following countries:
 Kadi
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -68454,7 +68454,7 @@ This language is spoken in the following countries:
 Menabur Semido
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -68475,7 +68475,7 @@ Menabur Semido
 Punan Mabung
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -68496,7 +68496,7 @@ Punan Mabung
 Punan Semolon
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -68517,7 +68517,7 @@ Punan Semolon
 Punan Tarau
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -68538,7 +68538,7 @@ Punan Tarau
 Punan Tebunyau
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -68667,7 +68667,7 @@ This language is spoken in the following countries:
 Abra Mabaka
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -69606,7 +69606,7 @@ This language is spoken in the following countries:
 Dayak Tamambaloh
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -69627,7 +69627,7 @@ Dayak Tamambaloh
 Dayak Nanga Taman
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -69648,7 +69648,7 @@ Dayak Nanga Taman
 Taman Sesat
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -69880,7 +69880,7 @@ This language is spoken in the following countries:
 Yewena
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -69901,7 +69901,7 @@ Yewena
 Yokari
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -70076,7 +70076,7 @@ This language is spoken in the following countries:
 Borgo Bahuntehu
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -70097,7 +70097,7 @@ Borgo Bahuntehu
 Borgo
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -70645,7 +70645,7 @@ This language is spoken in the following countries:
 Molsom
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -70865,7 +70865,7 @@ This language is spoken in the following countries:
 Timur Indelio
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -71464,7 +71464,7 @@ This language is spoken in the following countries:
 Levantine Turkmen
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -71662,7 +71662,7 @@ This language is spoken in the following countries:
 Dayak Lebang
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -71790,7 +71790,7 @@ This language is spoken in the following countries:
 Memba
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -71811,7 +71811,7 @@ Memba
 Mompa
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -71934,7 +71934,7 @@ This language is spoken in the following countries:
 Lingkabau
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -73536,7 +73536,7 @@ This language is spoken in the following countries:
 Akki Pikki
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -73557,7 +73557,7 @@ Akki Pikki
 Kona-Akki Pikki
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -74492,7 +74492,7 @@ This language is spoken in the following countries:
 Kusbur Vadar
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -74573,7 +74573,7 @@ This language is spoken in the following countries:
 Woinap
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -74677,7 +74677,7 @@ This language is spoken in the following countries:
 Lawng Tu
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -74837,7 +74837,7 @@ This language is spoken in the following countries:
 Kenyah Amak Ti Mei
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -74858,7 +74858,7 @@ Kenyah Amak Ti Mei
 Long Pulung
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76114,7 +76114,7 @@ This language is spoken in the following countries:
 Dayak Air Durian
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76135,7 +76135,7 @@ Dayak Air Durian
 Balai
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76156,7 +76156,7 @@ Balai
 Dayak Bangae' Moro
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76177,7 +76177,7 @@ Dayak Bangae' Moro
 Dayak Batang Belian
 -------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76198,7 +76198,7 @@ Dayak Batang Belian
 Batang Kawa
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76219,7 +76219,7 @@ Batang Kawa
 Dayak Batu Payung
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76240,7 +76240,7 @@ Dayak Batu Payung
 Belantikan
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76261,7 +76261,7 @@ Belantikan
 Dayak Belantikan
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76282,7 +76282,7 @@ Dayak Belantikan
 Benawas
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76303,7 +76303,7 @@ Benawas
 Dayak Air Upas
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76324,7 +76324,7 @@ Dayak Air Upas
 Dayak Baya
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76345,7 +76345,7 @@ Dayak Baya
 Dayak Dayak Buket
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76366,7 +76366,7 @@ Dayak Dayak Buket
 Dayak Delang
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76387,7 +76387,7 @@ Dayak Delang
 Dayak Ensilat
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76408,7 +76408,7 @@ Dayak Ensilat
 Dayak Kayung
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76429,7 +76429,7 @@ Dayak Kayung
 Dayak Krio
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76450,7 +76450,7 @@ Dayak Krio
 Dayak Lau
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76471,7 +76471,7 @@ Dayak Lau
 Dayak Laur
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76492,7 +76492,7 @@ Dayak Laur
 Dayak Loksado
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76513,7 +76513,7 @@ Dayak Loksado
 Dayak Membulu'
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76534,7 +76534,7 @@ Dayak Membulu'
 Dayak Mentobi
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76555,7 +76555,7 @@ Dayak Mentobi
 Dayak Mongko
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76576,7 +76576,7 @@ Dayak Mongko
 Dayak Pangin
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76597,7 +76597,7 @@ Dayak Pangin
 Dayak Pawatn
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76618,7 +76618,7 @@ Dayak Pawatn
 Dayak Payak
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76639,7 +76639,7 @@ Dayak Payak
 Dayak Punti
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -76662,7 +76662,7 @@ Dayak Punti
 Dayak Punuk
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76683,7 +76683,7 @@ Dayak Punuk
 Dayak Riam
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76704,7 +76704,7 @@ Dayak Riam
 Dayak Serawai
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76725,7 +76725,7 @@ Dayak Serawai
 Dayak Suruk
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76746,7 +76746,7 @@ Dayak Suruk
 Dayak Tebidah
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76767,7 +76767,7 @@ Dayak Tebidah
 Dayak Tola
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76788,7 +76788,7 @@ Dayak Tola
 Delang
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76809,7 +76809,7 @@ Delang
 Dayak Gerungang
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76830,7 +76830,7 @@ Dayak Gerungang
 Dayak Ingar Silat
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76851,7 +76851,7 @@ Dayak Ingar Silat
 Dayak Jungkal
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76872,7 +76872,7 @@ Dayak Jungkal
 Dayak Kantu
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76893,7 +76893,7 @@ Dayak Kantu
 Dayak Karabat
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76914,7 +76914,7 @@ Dayak Karabat
 Dayak Kayong
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76935,7 +76935,7 @@ Dayak Kayong
 Dayak Kebuai
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76956,7 +76956,7 @@ Dayak Kebuai
 Dayak Kemuning
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76977,7 +76977,7 @@ Dayak Kemuning
 Dayak Kengkubang
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -76998,7 +76998,7 @@ Dayak Kengkubang
 Lemandau
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77019,7 +77019,7 @@ Lemandau
 Dayak Lemandau
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77040,7 +77040,7 @@ Dayak Lemandau
 Dayak Maamp
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77061,7 +77061,7 @@ Dayak Maamp
 Dayak Mahawa
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77082,7 +77082,7 @@ Dayak Mahawa
 Dayak Manggaling
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77103,7 +77103,7 @@ Dayak Manggaling
 Dayak Marau Sinar Bulan
 -----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77124,7 +77124,7 @@ Dayak Marau Sinar Bulan
 Dayak Marau Tempayak
 --------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77145,7 +77145,7 @@ Dayak Marau Tempayak
 Dayak Melahui
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -77168,7 +77168,7 @@ Dayak Melahui
 Mentaya
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77189,7 +77189,7 @@ Mentaya
 Dayak Mentebah
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77210,7 +77210,7 @@ Dayak Mentebah
 Mentobi
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -77233,7 +77233,7 @@ Mentobi
 Dayak Olla Melahui
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77254,7 +77254,7 @@ Dayak Olla Melahui
 Dayak Parangkunyit
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77275,7 +77275,7 @@ Dayak Parangkunyit
 Parenggean
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77296,7 +77296,7 @@ Parenggean
 Dayak Payak Papak
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77317,7 +77317,7 @@ Dayak Payak Papak
 Dayak Pelanjau
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77338,7 +77338,7 @@ Dayak Pelanjau
 Dayak Pengancing
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77359,7 +77359,7 @@ Dayak Pengancing
 Dayak Pengatapan
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77380,7 +77380,7 @@ Dayak Pengatapan
 Dayak Perigiq
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77401,7 +77401,7 @@ Dayak Perigiq
 Dayak Peringkunyit
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77422,7 +77422,7 @@ Dayak Peringkunyit
 Dayak Pesangaran
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77443,7 +77443,7 @@ Dayak Pesangaran
 Dayak Petebang
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77464,7 +77464,7 @@ Dayak Petebang
 Dayak Putaran
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77485,7 +77485,7 @@ Dayak Putaran
 Dayak Randau Joka
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77506,7 +77506,7 @@ Dayak Randau Joka
 Dayak Sawe
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77527,7 +77527,7 @@ Dayak Sawe
 Dayak Sekakai
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77548,7 +77548,7 @@ Dayak Sekakai
 Dayak Semanak
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77569,7 +77569,7 @@ Dayak Semanak
 Dayak Senduruhan
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77590,7 +77590,7 @@ Dayak Senduruhan
 Dayak Sepauhan
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77611,7 +77611,7 @@ Dayak Sepauhan
 Dayak Serengkah
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77632,7 +77632,7 @@ Dayak Serengkah
 Dayak Songkap
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77653,7 +77653,7 @@ Dayak Songkap
 Dayak Suang Ensilat
 -------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77674,7 +77674,7 @@ Dayak Suang Ensilat
 Dayak Suhaid
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77695,7 +77695,7 @@ Dayak Suhaid
 Dayak Sukamara
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77716,7 +77716,7 @@ Dayak Sukamara
 Dayak Sumanjawat
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77737,7 +77737,7 @@ Dayak Sumanjawat
 Dayak Tamuan
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77758,7 +77758,7 @@ Dayak Tamuan
 Dayak Undau
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77827,7 +77827,7 @@ This language is spoken in the following countries:
 Dayak Baope
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77848,7 +77848,7 @@ Dayak Baope
 Dayak Golik
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77869,7 +77869,7 @@ Dayak Golik
 Hibun
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77890,7 +77890,7 @@ Hibun
 Dayak Karambai
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -77911,7 +77911,7 @@ Dayak Karambai
 Dayak Sekayam
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78399,7 +78399,7 @@ This language is spoken in the following countries:
 Badeng
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78420,7 +78420,7 @@ Badeng
 Dayak Agabag
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78441,7 +78441,7 @@ Dayak Agabag
 Lepok Bakung
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78462,7 +78462,7 @@ Lepok Bakung
 Lepok Bemi
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78483,7 +78483,7 @@ Lepok Bemi
 Lepo' Ke
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78504,7 +78504,7 @@ Lepo' Ke
 Lepok Jalan
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78525,7 +78525,7 @@ Lepok Jalan
 Lepok Kulit
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78546,7 +78546,7 @@ Lepok Kulit
 Lepok Tou
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78567,7 +78567,7 @@ Lepok Tou
 Lepo Ma'ut
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78588,7 +78588,7 @@ Lepo Ma'ut
 Lepo Tepu
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78609,7 +78609,7 @@ Lepo Tepu
 Long Jalan
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78630,7 +78630,7 @@ Long Jalan
 Long Lake
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78651,7 +78651,7 @@ Long Lake
 Lepo Ndang
 ----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78672,7 +78672,7 @@ Lepo Ndang
 Kenya Uma Tukung
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78720,7 +78720,7 @@ This language is spoken in the following countries:
 Dayak Dayak Kayaan
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78741,7 +78741,7 @@ Dayak Dayak Kayaan
 Dayak Kayan
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78762,7 +78762,7 @@ Dayak Kayan
 Kayan Uma Apan
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78783,7 +78783,7 @@ Kayan Uma Apan
 Kayan Uma Lekan
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -78957,7 +78957,7 @@ This language is spoken in the following countries:
 Long Nyau
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -79209,7 +79209,7 @@ This language is spoken in the following countries:
 Borgo Malay
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -79912,7 +79912,7 @@ This language is spoken in the following countries:
 Shyarpa
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -80830,7 +80830,7 @@ This language is spoken in the following countries:
 Kuncherukala
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -80941,7 +80941,7 @@ This language is spoken in the following countries:
 عربية يهودية
 -----------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -81267,7 +81267,7 @@ This language is spoken in the following countries:
 Long
 ----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -81669,7 +81669,7 @@ This language is spoken in the following countries:
 Hua Muji
 --------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -81815,7 +81815,7 @@ This language is spoken in the following countries:
 Midi Qi Muji
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -82547,7 +82547,7 @@ This language is spoken in the following countries:
 Lo Lo
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -82946,7 +82946,7 @@ This language is spoken in the following countries:
 Hong Yi
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -82990,7 +82990,7 @@ This language is spoken in the following countries:
 Tusi Yi
 -------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -83039,7 +83039,7 @@ This language is spoken in the following countries:
 Datusi Yi
 ---------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -83302,7 +83302,7 @@ This language is spoken in the following countries:
 Dayak Benawas
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -83551,7 +83551,7 @@ This language is spoken in the following countries:
 Chinese Oral Version
 --------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -83676,7 +83676,7 @@ This language is spoken in the following countries:
 Oral Chinese
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -83984,7 +83984,7 @@ This language is spoken in the following countries:
 Asahan
 ------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -84005,7 +84005,7 @@ Asahan
 Datay Malay
 -----------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -84049,7 +84049,7 @@ This language is spoken in the following countries:
 Dayak Kapuas Hulu
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -84070,7 +84070,7 @@ Dayak Kapuas Hulu
 Melayu Kendawangan
 ------------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -84091,7 +84091,7 @@ Melayu Kendawangan
 Melayu Pesisir
 --------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -84112,7 +84112,7 @@ Melayu Pesisir
 Melayu Sambas
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -84133,7 +84133,7 @@ Melayu Sambas
 Dayak Perimping
 ---------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -84154,7 +84154,7 @@ Dayak Perimping
 Melayu Pontianak
 ----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -84175,7 +84175,7 @@ Melayu Pontianak
 Sakai
 -----
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. warning:: The gateway language is missing.
@@ -84198,7 +84198,7 @@ Sakai
 Melayu Sandai
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -84219,7 +84219,7 @@ Melayu Sandai
 Kentungau Sintang
 -----------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -84240,7 +84240,7 @@ Kentungau Sintang
 Talang Mamak
 ------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
@@ -84261,7 +84261,7 @@ Talang Mamak
 Tionghoa Kwek
 -------------
 
-.. warning:: This language is not list as spoken in any countries.
+.. warning:: This language is not listed as spoken in any countries.
 
 
 .. code-block:: yaml
