@@ -16,3 +16,4 @@ a gateway language or specifies an invalid gateway language.
     :width: 600
     :alt: Chart of languages missing a gateway language or specify an invalid gateway language
 
+`See chart <../_static/gw_figure.html>`_
