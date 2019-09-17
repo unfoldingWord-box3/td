@@ -1,0 +1,29 @@
+.. _hms:
+
+南部土语
+------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: hms
+    alternate_names:
+    - Black Miao
+    - Central Miao
+    - Chientung Miao
+    - Hei Miao
+    - Hmu
+    - Southern East-Guizhou Miao
+    - Southern Hmu
+    anglicanized_name: Miao, Southern Qiandong
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: hms
+    lang_direction: ltr
+    lang_name: 南部土语
+    lang_region: Asia
+    

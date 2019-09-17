@@ -1,0 +1,35 @@
+.. _cv:
+
+чӑваш чӗлхи
+---------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/chv>`__ identifies this language as ``chv``.
+
+This language is spoken in the following countries:
+
+* KZ: Kazakhstan
+* TJ: Tajikistan
+* RU: Russian Federation
+* KG: Kyrgyzstan
+* TM: Turkmenistan
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: chv
+    alternate_names:
+    - Bulgar
+    anglicanized_name: Chuvash
+    country_codes:
+    - KZ
+    - TJ
+    - RU
+    - KG
+    - TM
+    - UZ
+    gateway_language: ru
+    lang_code: cv
+    lang_direction: ltr
+    lang_name: чӑваш чӗлхи
+    lang_region: Europe
+    

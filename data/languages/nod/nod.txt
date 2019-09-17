@@ -1,0 +1,50 @@
+.. _nod:
+
+Northern Thai
+-------------
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+* TH: Thailand
+
+.. code-block:: yaml
+
+    ISO_639-3: nod
+    alternate_names:
+    - Lan Na
+    - Lanatai
+    - Lanna
+    - Lannatai
+    - Muang
+    - Myang
+    - Youanne
+    - Youon
+    - Yuan
+    - Kam Mu'ang
+    - Kammüang
+    - Kammyang
+    - Khon
+    - Khon Meang
+    - Khon Myang
+    - La Nya
+    - Mu'ang
+    - Mung
+    - Northern Thai
+    - Payap
+    - Phayap
+    - Phyap
+    - Tai Nya
+    - Tai Yon
+    - Tai Yuan
+    - Western Laotian
+    anglicanized_name: Thai, Northern
+    country_codes:
+    - LA
+    - TH
+    gateway_language: th
+    lang_code: nod
+    lang_direction: ltr
+    lang_name: Northern Thai
+    lang_region: Asia
+    

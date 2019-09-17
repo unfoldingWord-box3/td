@@ -1,0 +1,24 @@
+.. _sws:
+
+Seluwasan
+---------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: sws
+    alternate_names:
+    - Selvasa
+    - Selwasa
+    anglicanized_name: Seluwasan
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: sws
+    lang_direction: ltr
+    lang_name: Seluwasan
+    lang_region: Asia
+    

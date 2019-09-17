@@ -1,0 +1,26 @@
+.. _bhm:
+
+لغة باثارية
+---------------------
+
+This language is spoken in the following countries:
+
+* OM: Oman
+
+.. code-block:: yaml
+
+    ISO_639-3: bhm
+    alternate_names:
+    - Batahari
+    - Bathara
+    - Bautahari
+    - Botahari
+    anglicanized_name: Bathari
+    country_codes:
+    - OM
+    gateway_language: ar
+    lang_code: bhm
+    lang_direction: ltr
+    lang_name: لغة باثارية
+    lang_region: Asia
+    

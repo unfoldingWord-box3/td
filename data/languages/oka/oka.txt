@@ -1,0 +1,27 @@
+.. _oka:
+
+Okanagan
+--------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: oka
+    alternate_names:
+    - Okanagan-Colville
+    - Okanagon
+    - Okanogan
+    anglicanized_name: Okanagan
+    country_codes:
+    - US
+    - CA
+    gateway_language: en
+    lang_code: oka
+    lang_direction: ltr
+    lang_name: Okanagan
+    lang_region: Americas
+    

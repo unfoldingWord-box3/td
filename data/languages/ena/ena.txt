@@ -1,0 +1,23 @@
+.. _ena:
+
+Apali
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ena
+    alternate_names:
+    - Emerum
+    anglicanized_name: Apali
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ena
+    lang_direction: ltr
+    lang_name: Apali
+    lang_region: Pacific
+    

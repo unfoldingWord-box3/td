@@ -1,0 +1,26 @@
+.. _ktw:
+
+Kato
+----
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: ktw
+    alternate_names:
+    - Batem-Da-Kai-Ee
+    - Cahto
+    - Kai Po-Mo
+    - Tlokeang
+    anglicanized_name: Kato
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: ktw
+    lang_direction: ltr
+    lang_name: Kato
+    lang_region: Americas
+    

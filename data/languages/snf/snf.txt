@@ -1,0 +1,26 @@
+.. _snf:
+
+Noon
+----
+
+This language is spoken in the following countries:
+
+* SN: Senegal
+
+.. code-block:: yaml
+
+    ISO_639-3: snf
+    alternate_names:
+    - Non
+    - None
+    - Serer
+    - Serer-Noon
+    anglicanized_name: Noon
+    country_codes:
+    - SN
+    gateway_language: fr
+    lang_code: snf
+    lang_direction: ltr
+    lang_name: Noon
+    lang_region: Africa
+    

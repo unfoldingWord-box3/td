@@ -1,0 +1,33 @@
+.. _kgk:
+
+Kaiwá
+------
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+* AR: Argentina
+* PY: Paraguay
+
+.. code-block:: yaml
+
+    ISO_639-3: kgk
+    alternate_names:
+    - Caingua
+    - Caiwa
+    - Cayua
+    - Kaiova
+    - Kaiowá
+    - Kayova
+    - Kaiwá
+    anglicanized_name: Kaiwá
+    country_codes:
+    - BR
+    - AR
+    - PY
+    gateway_language: pt
+    lang_code: kgk
+    lang_direction: ltr
+    lang_name: Kaiwá
+    lang_region: Americas
+    

@@ -1,0 +1,25 @@
+.. _yec:
+
+Yeniche
+-------
+
+This language is spoken in the following countries:
+
+* DE: Germany
+
+.. code-block:: yaml
+
+    ISO_639-3: yec
+    alternate_names:
+    - German Travellers
+    - Jenisch
+    - Yenishe
+    anglicanized_name: Yeniche
+    country_codes:
+    - DE
+    gateway_language: en
+    lang_code: yec
+    lang_direction: ltr
+    lang_name: Yeniche
+    lang_region: Europe
+    

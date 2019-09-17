@@ -1,0 +1,25 @@
+.. _kep:
+
+Kaikadi
+-------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: kep
+    alternate_names:
+    - Kaikadia
+    - Kaikai
+    - Kokadi
+    anglicanized_name: Kaikadi
+    country_codes:
+    - IN
+    gateway_language: ta
+    lang_code: kep
+    lang_direction: ltr
+    lang_name: Kaikadi
+    lang_region: Asia
+    

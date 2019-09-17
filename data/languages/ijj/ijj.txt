@@ -1,0 +1,23 @@
+.. _ijj:
+
+Ede Ije
+-------
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+
+.. code-block:: yaml
+
+    ISO_639-3: ijj
+    alternate_names:
+    - Holi
+    anglicanized_name: Ede Ije
+    country_codes:
+    - BJ
+    gateway_language: fr
+    lang_code: ijj
+    lang_direction: ltr
+    lang_name: Ede Ije
+    lang_region: Africa
+    

@@ -1,0 +1,27 @@
+.. _gvn:
+
+Kuku-Yalanji
+------------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: gvn
+    alternate_names:
+    - Guguyalanji
+    - Koko-Yalanji
+    - Kuku-Yalangi
+    - Kuku-Biraji
+    - Kuku-Nyungkul
+    anglicanized_name: Kuku-Yalanji
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: gvn
+    lang_direction: ltr
+    lang_name: Kuku-Yalanji
+    lang_region: Pacific
+    

@@ -1,0 +1,26 @@
+.. _hra:
+
+Hrangkhol
+---------
+
+This language is spoken in the following countries:
+
+* IN: India
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: hra
+    alternate_names:
+    - Hrangkol
+    - Rangkhol
+    anglicanized_name: Hrangkhol
+    country_codes:
+    - IN
+    - MM
+    gateway_language: as
+    lang_code: hra
+    lang_direction: ltr
+    lang_name: Hrangkhol
+    lang_region: Asia
+    

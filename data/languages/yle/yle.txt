@@ -1,0 +1,28 @@
+.. _yle:
+
+Yele
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: yle
+    alternate_names:
+    - Rossel
+    - Yela
+    - Yelejong
+    - Yeletnye
+    - Yelidnye
+    - Daminyu
+    anglicanized_name: Yele
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: yle
+    lang_direction: ltr
+    lang_name: Yele
+    lang_region: Pacific
+    

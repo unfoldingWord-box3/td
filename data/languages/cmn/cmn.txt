@@ -1,0 +1,212 @@
+.. _cmn:
+
+官话
+------
+
+This language is spoken in the following countries:
+
+* DZ: Algeria
+* AT: Austria
+* BS: Bahamas
+* BD: Bangladesh
+* BE: Belgium
+* CL: Chile
+* BR: Brazil
+* BB: Barbados
+* CN: China
+* BZ: Belize
+* CU: Cuba
+* DM: Dominica
+* GR: Greece
+* AR: Argentina
+* FJ: Fiji
+* FR: France
+* DE: Germany
+* VE: Venezuela (Bolivarian Republic of)
+* HU: Hungary
+* JP: Japan
+* KE: Kenya
+* KI: Kiribati
+* KR: Korea, Republic of
+* MG: Madagascar
+* MU: Mauritius
+* LK: Sri Lanka
+* PE: Peru
+* ES: Spain
+* CZ: Czechia
+* CR: Costa Rica
+* CX: Christmas Island
+* MY: Malaysia
+* MZ: Mozambique
+* MX: Mexico
+* NP: Nepal
+* NL: Netherlands
+* NC: New Caledonia
+* NZ: New Zealand
+* PK: Pakistan
+* PY: Paraguay
+* HN: Honduras
+* RO: Romania
+* SC: Seychelles
+* ZA: South Africa
+* SB: Solomon Islands
+* CH: Switzerland
+* TZ: Tanzania, United Republic of
+* CO: Colombia
+* TH: Thailand
+* TV: Tuvalu
+* TR: Turkey
+* US: United States of America
+* ZM: Zambia
+* ZW: Zimbabwe
+* AU: Australia
+* BO: Bolivia (Plurinational State of)
+* KH: Cambodia
+* CA: Canada
+* AO: Angola
+* EC: Ecuador
+* KP: Korea (Democratic People's Republic of)
+* IT: Italy
+* KG: Kyrgyzstan
+* CC: Cocos (Keeling) Islands
+* LS: Lesotho
+* NR: Nauru
+* NI: Nicaragua
+* FM: Micronesia (Federated States of)
+* PT: Portugal
+* PG: Papua New Guinea
+* LC: Saint Lucia
+* VU: Vanuatu
+* UZ: Uzbekistan
+* IN: India
+* SG: Singapore
+* MM: Myanmar
+* BW: Botswana
+* MQ: Martinique
+* AE: United Arab Emirates
+
+.. code-block:: yaml
+
+    ISO_639-3: cmn
+    alternate_names:
+    - Beifang Fangyan
+    - Guanhua
+    - Guoyu
+    - Hanyu
+    - Huayu
+    - Northern Chinese
+    - Putonghua
+    - Standard Chinese
+    - Zhongguohua
+    - Zhongwen
+    - Tayok
+    - Hoton
+    - Hui-Zu
+    - Hytad
+    - Khoton
+    - Qotong
+    - Xui
+    - Kuoyu
+    - Jiangxia Guanhua
+    - Xibei Guanhua (Northwestern Mandarin)
+    - Western Mandarin
+    - Pathee
+    - Panthe
+    - Pantha
+    - Xinan Guanhua (Southwestern Mandarin)
+    - Panghse
+    - Jinghuai Guanhua (Eastern Mandarin)
+    - Hwei
+    - Hui-Tze
+    - Huabei Guanhua (Northern Mandarin)
+    - Ho (Cin Haw)
+    - Haw
+    - Lower Yangze Mandarin
+    - Kokang (Kokant)
+    anglicanized_name: Chinese, Mandarin
+    country_codes:
+    - DZ
+    - AT
+    - BS
+    - BD
+    - BE
+    - CL
+    - BR
+    - BB
+    - CN
+    - BZ
+    - CU
+    - DM
+    - GR
+    - AR
+    - FJ
+    - FR
+    - DE
+    - VE
+    - HU
+    - JP
+    - KE
+    - KI
+    - KR
+    - MG
+    - MU
+    - LK
+    - PE
+    - ES
+    - CZ
+    - CR
+    - CX
+    - MY
+    - MZ
+    - MX
+    - NP
+    - NL
+    - NC
+    - NZ
+    - PK
+    - PY
+    - HN
+    - RO
+    - SC
+    - ZA
+    - SB
+    - CH
+    - TZ
+    - CO
+    - TH
+    - TV
+    - TR
+    - US
+    - ZM
+    - ZW
+    - AU
+    - BO
+    - KH
+    - CA
+    - AO
+    - EC
+    - KP
+    - IT
+    - KG
+    - CC
+    - LS
+    - NR
+    - NI
+    - FM
+    - PT
+    - PG
+    - LC
+    - VU
+    - UZ
+    - IN
+    - SG
+    - MM
+    - BW
+    - MQ
+    - AE
+    gateway_language: zh
+    lang_code: cmn
+    lang_direction: ltr
+    lang_name: 官话
+    lang_region: Asia
+    

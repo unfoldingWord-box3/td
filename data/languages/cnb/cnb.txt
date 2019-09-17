@@ -1,0 +1,30 @@
+.. _cnb:
+
+Chinbon Chin
+------------
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: cnb
+    alternate_names:
+    - Chindwin Chin
+    - Chinpon
+    - Oo-pu
+    - Sho
+    - Tuishiip
+    - Tuiship
+    - Uppu
+    - Ütbü
+    anglicanized_name: Chin, Chinbon
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: cnb
+    lang_direction: ltr
+    lang_name: Chinbon Chin
+    lang_region: Asia
+    

@@ -1,0 +1,28 @@
+.. _nte:
+
+Nathembo
+--------
+
+This language is spoken in the following countries:
+
+* MZ: Mozambique
+
+.. code-block:: yaml
+
+    ISO_639-3: nte
+    alternate_names:
+    - Esakaji
+    - Sakaji
+    - Sanagage
+    - Sangaji
+    - Sankaji
+    - Theithei
+    anglicanized_name: Nathembo
+    country_codes:
+    - MZ
+    gateway_language: pt
+    lang_code: nte
+    lang_direction: ltr
+    lang_name: Nathembo
+    lang_region: Africa
+    

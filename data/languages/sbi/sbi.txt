@@ -1,0 +1,22 @@
+.. _sbi:
+
+Seti
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: sbi
+    alternate_names: []
+    anglicanized_name: Seti
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: sbi
+    lang_direction: ltr
+    lang_name: Seti
+    lang_region: Pacific
+    

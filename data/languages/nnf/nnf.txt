@@ -1,0 +1,27 @@
+.. _nnf:
+
+Ngaing
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nnf
+    alternate_names:
+    - Mailang
+    - Sor
+    - Central Ngaing
+    - Eastern Ngaing
+    - Western Ngaing
+    anglicanized_name: Ngaing
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nnf
+    lang_direction: ltr
+    lang_name: Ngaing
+    lang_region: Pacific
+    

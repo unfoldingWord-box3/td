@@ -1,0 +1,23 @@
+.. _wab:
+
+Wab
+---
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: wab
+    alternate_names:
+    - Som
+    anglicanized_name: Wab
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: wab
+    lang_direction: ltr
+    lang_name: Wab
+    lang_region: Pacific
+    

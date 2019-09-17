@@ -1,0 +1,106 @@
+.. _yue:
+
+粵語
+------
+
+This language is spoken in the following countries:
+
+* BN: Brunei Darussalam
+* BE: Belgium
+* CL: Chile
+* CN: China
+* AR: Argentina
+* TT: Trinidad and Tobago
+* VE: Venezuela (Bolivarian Republic of)
+* GY: Guyana
+* HT: Haiti
+* JP: Japan
+* LA: Lao People's Democratic Republic
+* MU: Mauritius
+* PE: Peru
+* GB: United Kingdom of Great Britain and Northern Ireland
+* MY: Malaysia
+* HN: Honduras
+* US: United States of America
+* ZW: Zimbabwe
+* CA: Canada
+* EC: Ecuador
+* SG: Singapore
+* DO: Dominican Republic
+* SR: Suriname
+
+.. code-block:: yaml
+
+    ISO_639-3: yue
+    alternate_names:
+    - Yue
+    - Yueh
+    - Gwong Dung Waa
+    - Yuet Yue
+    - Yueyu
+    - Guangfu
+    - Hong Kong Cantonese
+    - Shatou
+    - Shiqi
+    - Wancheng
+    - Macau Cantonese
+    - Chinese Nung
+    - Ha Xa Phang
+    - Hai Nam
+    - Han
+    - Hoa
+    - Kién
+    - Liem Chau
+    - Lowland Nung
+    - Minh Huong
+    - Nung
+    - Phúc
+    - Quang Dong
+    - Samg Phang
+    - Suòng Phóng
+    - Trièu Chau
+    - Ping
+    - Yangjiang
+    - Toishanese
+    - Toisan
+    - Tengxian
+    - Zhongshan
+    - Taishan
+    - Schleiyip
+    - Guangzhou
+    - Gaolei (Gaoyang)
+    - Cangwu
+    - Bobai
+    - Seiyap
+    - Siyi (Hoisan)
+    anglicanized_name: Chinese, Yue
+    country_codes:
+    - BN
+    - BE
+    - CL
+    - CN
+    - AR
+    - TT
+    - VE
+    - GY
+    - HT
+    - JP
+    - LA
+    - MU
+    - PE
+    - GB
+    - MY
+    - HN
+    - US
+    - ZW
+    - CA
+    - EC
+    - SG
+    - DO
+    - SR
+    gateway_language: zh
+    lang_code: yue
+    lang_direction: ltr
+    lang_name: 粵語
+    lang_region: Asia
+    

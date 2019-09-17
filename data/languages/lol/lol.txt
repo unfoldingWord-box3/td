@@ -1,0 +1,40 @@
+.. _lol:
+
+Mongo-Lotwa
+-----------
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: lol
+    alternate_names:
+    - Lomongo
+    - Mongo
+    - Lokwala
+    - Titu
+    - South Nkundo
+    - Panga (Buli)
+    - Nkundu
+    - Nkundo (Lolo)
+    - Lonkundu
+    - Yalima (Y)
+    - Lokonda
+    - Kutu (Bakutu)
+    - Konda (Ekonda)
+    - Ipanga
+    - Ekonda Mongo (Lomongo)
+    - Bukala (Kala)
+    - Lonkundo
+    - Longo (Bolongo)
+    anglicanized_name: Mongo-Nkundu
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: lol
+    lang_direction: ltr
+    lang_name: Mongo-Lotwa
+    lang_region: Africa
+    

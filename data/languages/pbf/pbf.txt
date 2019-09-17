@@ -1,0 +1,24 @@
+.. _pbf:
+
+Coyotepec Popoloca
+------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: pbf
+    alternate_names:
+    - San Mateo Zoyamazalco Popoloca
+    - San Vicente Coyotepec Popoloca
+    anglicanized_name: Popoloca, Coyotepec
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: pbf
+    lang_direction: ltr
+    lang_name: Coyotepec Popoloca
+    lang_region: Americas
+    

@@ -1,0 +1,24 @@
+.. _bkq:
+
+Bakairí
+--------
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: bkq
+    alternate_names:
+    - Bacairí
+    - Kurâ
+    anglicanized_name: Bakairí
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: bkq
+    lang_direction: ltr
+    lang_name: Bakairí
+    lang_region: Americas
+    

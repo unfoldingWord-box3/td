@@ -1,0 +1,23 @@
+.. _wnu:
+
+Usan
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: wnu
+    alternate_names:
+    - Wanuma
+    anglicanized_name: Usan
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: wnu
+    lang_direction: ltr
+    lang_name: Usan
+    lang_region: Pacific
+    

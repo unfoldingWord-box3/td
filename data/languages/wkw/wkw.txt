@@ -1,0 +1,29 @@
+.. _wkw:
+
+Wakawaka
+--------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: wkw
+    alternate_names:
+    - Wagawaga
+    - Duungidjawu
+    - Enibura
+    - Nukunukubara
+    - Waga
+    - Waga-Waga
+    - Wakka
+    anglicanized_name: Wakawaka
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: wkw
+    lang_direction: ltr
+    lang_name: Wakawaka
+    lang_region: Pacific
+    

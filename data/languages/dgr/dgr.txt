@@ -1,0 +1,24 @@
+.. _dgr:
+
+Dogrib
+------
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: dgr
+    alternate_names:
+    - Central Dogrib
+    - Weledeh
+    anglicanized_name: Dogrib
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: dgr
+    lang_direction: ltr
+    lang_name: Dogrib
+    lang_region: Americas
+    

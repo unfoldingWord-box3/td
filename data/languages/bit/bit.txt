@@ -1,0 +1,23 @@
+.. _bit:
+
+Berinomo
+--------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bit
+    alternate_names:
+    - Kagiru (Apowasi)
+    anglicanized_name: Berinomo
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bit
+    lang_direction: ltr
+    lang_name: Berinomo
+    lang_region: Pacific
+    

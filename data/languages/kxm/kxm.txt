@@ -1,0 +1,26 @@
+.. _kxm:
+
+Northern Khmer
+--------------
+
+This language is spoken in the following countries:
+
+* TH: Thailand
+* KH: Cambodia
+
+.. code-block:: yaml
+
+    ISO_639-3: kxm
+    alternate_names:
+    - Khmer Lue
+    - Thailand Khmer
+    anglicanized_name: Khmer, Northern
+    country_codes:
+    - TH
+    - KH
+    gateway_language: th
+    lang_code: kxm
+    lang_direction: ltr
+    lang_name: Northern Khmer
+    lang_region: Asia
+    

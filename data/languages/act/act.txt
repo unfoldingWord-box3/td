@@ -1,0 +1,26 @@
+.. _act:
+
+Achterhoeks
+-----------
+
+This language is spoken in the following countries:
+
+* NL: Netherlands
+
+.. warning:: The gateway language is not valid.
+
+.. code-block:: yaml
+
+    ISO_639-3: act
+    alternate_names:
+    - Aachterhoeks
+    - Achterhoek
+    anglicanized_name: Achterhoeks
+    country_codes:
+    - NL
+    gateway_language: nl
+    lang_code: act
+    lang_direction: ltr
+    lang_name: Achterhoeks
+    lang_region: Europe
+    

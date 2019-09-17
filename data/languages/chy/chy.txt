@@ -1,0 +1,22 @@
+.. _chy:
+
+Cheyenne
+--------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: chy
+    alternate_names: []
+    anglicanized_name: Cheyenne
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: chy
+    lang_direction: ltr
+    lang_name: Cheyenne
+    lang_region: Americas
+    

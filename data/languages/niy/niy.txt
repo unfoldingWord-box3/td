@@ -1,0 +1,28 @@
+.. _niy:
+
+Ngiti
+-----
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: niy
+    alternate_names:
+    - Bindi
+    - Druna
+    - Kingeti
+    - Kingiti
+    - Lendu-Sud
+    - Ngeti
+    anglicanized_name: Ngiti
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: niy
+    lang_direction: ltr
+    lang_name: Ngiti
+    lang_region: Africa
+    

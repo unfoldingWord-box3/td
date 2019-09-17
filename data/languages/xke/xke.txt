@@ -1,0 +1,25 @@
+.. _xke:
+
+Kereho
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: xke
+    alternate_names:
+    - Keriau Punan
+    - Seputan
+    - Uheng (Kereho-Uheng)
+    anglicanized_name: Kereho
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: xke
+    lang_direction: ltr
+    lang_name: Kereho
+    lang_region: Asia
+    

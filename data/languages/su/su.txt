@@ -1,0 +1,27 @@
+.. _su:
+
+Basa Sunda
+----------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/sun>`__ identifies this language as ``sun``.
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: sun
+    alternate_names:
+    - Priangan
+    - Sundanese
+    - Bogor (Krawang)
+    anglicanized_name: Sundanese
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: su
+    lang_direction: ltr
+    lang_name: Basa Sunda
+    lang_region: Asia
+    

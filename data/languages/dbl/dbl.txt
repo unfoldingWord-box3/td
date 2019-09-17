@@ -1,0 +1,28 @@
+.. _dbl:
+
+Dyirbal
+-------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: dbl
+    alternate_names:
+    - Djirubal
+    - Dyiru
+    - Girramay (Keramai)
+    - Gulnguy (Gulngay)
+    - Mamu
+    - Ngadjan (Ngatjan)
+    anglicanized_name: Dyirbal
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: dbl
+    lang_direction: ltr
+    lang_name: Dyirbal
+    lang_region: Pacific
+    

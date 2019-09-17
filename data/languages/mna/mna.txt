@@ -1,0 +1,28 @@
+.. _mna:
+
+Mbula
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mna
+    alternate_names:
+    - Mangaaba
+    - Mangaava
+    - Mangaawa
+    - Mangap
+    - Mangap-Mbula
+    - Mbula (Central Mbula)
+    anglicanized_name: Mbula
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mna
+    lang_direction: ltr
+    lang_name: Mbula
+    lang_region: Pacific
+    

@@ -1,0 +1,25 @@
+.. _maj:
+
+Jalapa De Díaz Mazatec
+-----------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: maj
+    alternate_names:
+    - Lowland Mazatec
+    - Mazateco de San Felipe Jalapa de Díaz
+    - Mazateco del Este Bajo
+    anglicanized_name: Mazatec, Jalapa de Díaz
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: maj
+    lang_direction: ltr
+    lang_name: Jalapa De Díaz Mazatec
+    lang_region: Americas
+    

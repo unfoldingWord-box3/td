@@ -1,0 +1,23 @@
+.. _prh:
+
+Porohanon
+---------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: prh
+    alternate_names:
+    - Camotes
+    anglicanized_name: Porohanon
+    country_codes:
+    - PH
+    gateway_language: ceb
+    lang_code: prh
+    lang_direction: ltr
+    lang_name: Porohanon
+    lang_region: Asia
+    

@@ -1,0 +1,26 @@
+.. _llc:
+
+Lele (Guinea)
+-------------
+
+This language is spoken in the following countries:
+
+* GN: Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: llc
+    alternate_names:
+    - Kassadou Lele (South Lele)
+    - Kounte Lele (Central Lele)
+    - Tangalto Lele (East Lele)
+    - Yombiro Lele (North Lele)
+    anglicanized_name: Lele
+    country_codes:
+    - GN
+    gateway_language: fr
+    lang_code: llc
+    lang_direction: ltr
+    lang_name: Lele (Guinea)
+    lang_region: Africa
+    

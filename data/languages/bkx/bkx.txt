@@ -1,0 +1,39 @@
+.. _bkx:
+
+Baikeno
+-------
+
+This language is spoken in the following countries:
+
+* TL: Timor-Leste
+
+.. code-block:: yaml
+
+    ISO_639-3: bkx
+    alternate_names:
+    - Ambeno
+    - Ambenu
+    - Baikenu
+    - Biqueno
+    - Lais Meto
+    - Molok Meto
+    - Oe Cusi
+    - Oecusse
+    - Oecussi
+    - Oekusi
+    - Uab Meto
+    - Uab Pah Meto
+    - Vaikenu
+    - Vaikino
+    - Dawan
+    - Amnesat
+    - Nu'af
+    anglicanized_name: Baikeno
+    country_codes:
+    - TL
+    gateway_language: pt
+    lang_code: bkx
+    lang_direction: ltr
+    lang_name: Baikeno
+    lang_region: Asia
+    

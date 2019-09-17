@@ -1,0 +1,23 @@
+.. _rnl:
+
+Ranglong
+--------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: rnl
+    alternate_names:
+    - Ronglong
+    anglicanized_name: Ranglong
+    country_codes:
+    - IN
+    gateway_language: bn
+    lang_code: rnl
+    lang_direction: ltr
+    lang_name: Ranglong
+    lang_region: Asia
+    

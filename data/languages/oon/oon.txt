@@ -1,0 +1,23 @@
+.. _oon:
+
+Önge
+-----
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: oon
+    alternate_names:
+    - Ong
+    anglicanized_name: Öñge
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: oon
+    lang_direction: ltr
+    lang_name: Önge
+    lang_region: Asia
+    

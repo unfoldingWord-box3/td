@@ -1,0 +1,33 @@
+.. _brx:
+
+Bodo (India)
+------------
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: brx
+    alternate_names:
+    - Bara
+    - Bodi
+    - Boro
+    - Boroni
+    - Kachari
+    - Mech
+    - Mechi
+    - Meci
+    - Mache
+    anglicanized_name: Bodo
+    country_codes:
+    - NP
+    - IN
+    gateway_language: as
+    lang_code: brx
+    lang_direction: ltr
+    lang_name: Bodo (India)
+    lang_region: Asia
+    

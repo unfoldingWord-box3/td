@@ -1,0 +1,23 @@
+.. _swt:
+
+Sawila
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: swt
+    alternate_names:
+    - Tanglapui
+    anglicanized_name: Sawila
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: swt
+    lang_direction: ltr
+    lang_name: Sawila
+    lang_region: Asia
+    

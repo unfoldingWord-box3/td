@@ -1,0 +1,29 @@
+.. _khc:
+
+Tukang Besi North
+-----------------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: khc
+    alternate_names:
+    - Buton
+    - Wakatobi
+    - Wantji
+    - Kaledupa (Kahedupa)
+    - Wanci (Wangi- Wangi)
+    - Wanje
+    - Wanji
+    anglicanized_name: Tukang Besi North
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: khc
+    lang_direction: ltr
+    lang_name: Tukang Besi North
+    lang_region: Asia
+    

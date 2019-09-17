@@ -1,0 +1,26 @@
+.. _qux:
+
+Yauyos Quechua
+--------------
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: qux
+    alternate_names:
+    - Azángaro-Huangáscar-Chocos (Huangáscar)
+    - Madean-Viñac (Madeán)
+    - Tana-Lincha (Lincha)
+    - Tomás-Alis (Alis)
+    anglicanized_name: Quechua, Yauyos
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: qux
+    lang_direction: ltr
+    lang_name: Yauyos Quechua
+    lang_region: Americas
+    

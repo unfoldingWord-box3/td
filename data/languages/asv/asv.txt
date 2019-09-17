@@ -1,0 +1,26 @@
+.. _asv:
+
+Asoa
+----
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: asv
+    alternate_names:
+    - Asua
+    - Asuae
+    - Asuati
+    - Aka
+    anglicanized_name: Asoa
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: asv
+    lang_direction: ltr
+    lang_name: Asoa
+    lang_region: Africa
+    

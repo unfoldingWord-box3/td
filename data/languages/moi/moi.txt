@@ -1,0 +1,25 @@
+.. _moi:
+
+Mboi
+----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: moi
+    alternate_names:
+    - Gena
+    - Mboire
+    - Mboyi
+    anglicanized_name: Mboi
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: moi
+    lang_direction: ltr
+    lang_name: Mboi
+    lang_region: Africa
+    

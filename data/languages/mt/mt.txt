@@ -1,0 +1,37 @@
+.. _mt:
+
+Malti
+-----
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/mlt>`__ identifies this language as ``mlt``.
+
+This language is spoken in the following countries:
+
+* MT: Malta
+* TN: Tunisia
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* IT: Italy
+* LY: Libya
+
+.. code-block:: yaml
+
+    ISO_639-3: mlt
+    alternate_names:
+    - Malti
+    anglicanized_name: Maltese
+    country_codes:
+    - MT
+    - TN
+    - US
+    - AU
+    - CA
+    - IT
+    - LY
+    gateway_language: en
+    lang_code: mt
+    lang_direction: ltr
+    lang_name: Malti
+    lang_region: Europe
+    

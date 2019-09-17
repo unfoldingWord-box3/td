@@ -1,0 +1,22 @@
+.. _sbh:
+
+Sori-Harengan
+-------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: sbh
+    alternate_names: []
+    anglicanized_name: Sori-Harengan
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: sbh
+    lang_direction: ltr
+    lang_name: Sori-Harengan
+    lang_region: Pacific
+    

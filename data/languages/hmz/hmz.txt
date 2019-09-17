@@ -1,0 +1,38 @@
+.. _hmz:
+
+汉苗方言
+------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: hmz
+    alternate_names:
+    - Biantou Miao
+    - Changshu Miao
+    - Curved Comb Miao
+    - Flat Head Miao
+    - Han Miao
+    - Hmong Nzi
+    - Hmong Sa
+    - Hmong Sua
+    - Long Comb Miao
+    - Lopsided Comb Miao
+    - Mushu Maio
+    - Shuixi Miao
+    - Waishu Miao
+    - Water Miao
+    - West of the Water Miao
+    - Wooden Comb Miao
+    anglicanized_name: Sinicized Miao
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: hmz
+    lang_direction: ltr
+    lang_name: 汉苗方言
+    lang_region: Asia
+    

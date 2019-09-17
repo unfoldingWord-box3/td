@@ -1,0 +1,24 @@
+.. _xso:
+
+Solano
+------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: xso
+    alternate_names: []
+    anglicanized_name: Solano
+    country_codes:
+    - MX
+    gateway_language: null
+    lang_code: xso
+    lang_direction: ltr
+    lang_name: Solano
+    lang_region: Americas
+    

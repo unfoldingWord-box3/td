@@ -1,0 +1,28 @@
+.. _thk:
+
+Tharaka
+-------
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: thk
+    alternate_names:
+    - Saraka
+    - Sharoka
+    - Ntugi (Central Tharaka)
+    - Thagicu
+    - Gatue (North Tharaka)
+    - Igoki
+    anglicanized_name: Kitharaka
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: thk
+    lang_direction: ltr
+    lang_name: Tharaka
+    lang_region: Africa
+    

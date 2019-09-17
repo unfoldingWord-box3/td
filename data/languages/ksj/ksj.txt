@@ -1,0 +1,25 @@
+.. _ksj:
+
+Uare
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ksj
+    alternate_names:
+    - Kwale
+    - Uare (Kwale)
+    - Garihe (Garia)
+    anglicanized_name: Uare
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ksj
+    lang_direction: ltr
+    lang_name: Uare
+    lang_region: Pacific
+    

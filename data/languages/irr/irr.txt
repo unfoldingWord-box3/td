@@ -1,0 +1,24 @@
+.. _irr:
+
+Ir
+--
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: irr
+    alternate_names:
+    - Yiir
+    - Yir
+    anglicanized_name: Ir
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: irr
+    lang_direction: ltr
+    lang_name: Ir
+    lang_region: Asia
+    

@@ -1,0 +1,31 @@
+.. _tts:
+
+Northeastern Thai
+-----------------
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+* TH: Thailand
+
+.. code-block:: yaml
+
+    ISO_639-3: tts
+    alternate_names:
+    - Isaan
+    - Isan
+    - Issan
+    - Thai Isaan
+    - Central Isan (Kalerng)
+    - Kaleung
+    - Kaloeng
+    anglicanized_name: Thai, Northeastern
+    country_codes:
+    - LA
+    - TH
+    gateway_language: th
+    lang_code: tts
+    lang_direction: ltr
+    lang_name: Northeastern Thai
+    lang_region: Asia
+    

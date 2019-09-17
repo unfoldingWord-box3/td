@@ -1,0 +1,30 @@
+.. _yim:
+
+Yimchungru Naga
+---------------
+
+This language is spoken in the following countries:
+
+* IN: India
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: yim
+    alternate_names:
+    - Tozhuma
+    - Yachumi
+    - Yanchunger
+    - Yimchunger
+    - Yimchungre
+    - Yimchungru
+    anglicanized_name: Naga, Yimchungru
+    country_codes:
+    - IN
+    - MM
+    gateway_language: en
+    lang_code: yim
+    lang_direction: ltr
+    lang_name: Yimchungru Naga
+    lang_region: Asia
+    

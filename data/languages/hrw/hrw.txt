@@ -1,0 +1,25 @@
+.. _hrw:
+
+Warwar Feni
+-----------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: hrw
+    alternate_names:
+    - Anir
+    - Feni
+    - Tangga
+    anglicanized_name: Warwar Feni
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: hrw
+    lang_direction: ltr
+    lang_name: Warwar Feni
+    lang_region: Pacific
+    

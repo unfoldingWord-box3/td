@@ -1,0 +1,25 @@
+.. _bqq:
+
+Biritai
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bqq
+    alternate_names:
+    - Aliki
+    - Ati
+    - Biri
+    anglicanized_name: Biritai
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bqq
+    lang_direction: ltr
+    lang_name: Biritai
+    lang_region: Asia
+    

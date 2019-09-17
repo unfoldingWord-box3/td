@@ -1,0 +1,27 @@
+.. _dho:
+
+Dhodia
+------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: dho
+    alternate_names:
+    - Dhobi
+    - Dhore
+    - Dhori
+    - Dhowari
+    - Doria
+    anglicanized_name: Dhodia
+    country_codes:
+    - IN
+    gateway_language: gu
+    lang_code: dho
+    lang_direction: ltr
+    lang_name: Dhodia
+    lang_region: Asia
+    

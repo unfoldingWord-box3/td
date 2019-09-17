@@ -1,0 +1,25 @@
+.. _bet:
+
+Guiberoua Béte
+---------------
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: bet
+    alternate_names:
+    - Central Bété
+    - Western Bété
+    - Guiberoua
+    anglicanized_name: Bété, Guiberoua
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: bet
+    lang_direction: ltr
+    lang_name: Guiberoua Béte
+    lang_region: Africa
+    

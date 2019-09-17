@@ -1,0 +1,27 @@
+.. _mqu:
+
+Mandari
+-------
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: mqu
+    alternate_names:
+    - Chir
+    - Kir
+    - Mondari
+    - Mundari
+    - Shir
+    anglicanized_name: Mandari
+    country_codes:
+    - SS
+    gateway_language: ar
+    lang_code: mqu
+    lang_direction: ltr
+    lang_name: Mandari
+    lang_region: Africa
+    

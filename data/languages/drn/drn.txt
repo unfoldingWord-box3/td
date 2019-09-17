@@ -1,0 +1,23 @@
+.. _drn:
+
+West Damar
+----------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: drn
+    alternate_names:
+    - North Damar
+    anglicanized_name: Damar, West
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: drn
+    lang_direction: ltr
+    lang_name: West Damar
+    lang_region: Asia
+    

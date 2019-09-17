@@ -1,0 +1,23 @@
+.. _kgt:
+
+Somyev
+------
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kgt
+    alternate_names:
+    - Kila
+    anglicanized_name: Somyev
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: kgt
+    lang_direction: ltr
+    lang_name: Somyev
+    lang_region: Africa
+    

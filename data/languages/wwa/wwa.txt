@@ -1,0 +1,25 @@
+.. _wwa:
+
+Waama
+-----
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: wwa
+    alternate_names:
+    - Yoabu
+    anglicanized_name: Waama
+    country_codes:
+    - BJ
+    - TG
+    gateway_language: fr
+    lang_code: wwa
+    lang_direction: ltr
+    lang_name: Waama
+    lang_region: Africa
+    

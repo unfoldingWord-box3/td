@@ -1,0 +1,24 @@
+.. _xac:
+
+Kachari
+-------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: xac
+    alternate_names:
+    - Cachari
+    - Plains Kachari
+    anglicanized_name: Kachari
+    country_codes:
+    - IN
+    gateway_language: as
+    lang_code: xac
+    lang_direction: ltr
+    lang_name: Kachari
+    lang_region: Asia
+    

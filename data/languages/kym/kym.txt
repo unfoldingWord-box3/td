@@ -1,0 +1,25 @@
+.. _kym:
+
+Kpatili
+-------
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: kym
+    alternate_names:
+    - Kpatere
+    - Kpatiri
+    - Ngindere
+    anglicanized_name: Kpatili
+    country_codes:
+    - CF
+    gateway_language: fr
+    lang_code: kym
+    lang_direction: ltr
+    lang_name: Kpatili
+    lang_region: Africa
+    

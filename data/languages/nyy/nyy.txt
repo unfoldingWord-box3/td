@@ -1,0 +1,41 @@
+.. _nyy:
+
+Nyakyusa-Ngonde
+---------------
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+* MW: Malawi
+
+.. code-block:: yaml
+
+    ISO_639-3: nyy
+    alternate_names:
+    - Ikingonde
+    - Ikinyikyusa
+    - Kinyakyusa
+    - Konde
+    - Mombe
+    - Nkhonde
+    - Nyakusa
+    - Nyekyosa
+    - Sochile
+    - Sokile
+    - Ikinyakyusa
+    - Kinyakyusa-Ngonde
+    - Nyikyusa
+    - Sokili
+    - Seria
+    - Selya (Salya)
+    - Mwamba (Lungulu)
+    anglicanized_name: Nyakyusa-Ngonde
+    country_codes:
+    - TZ
+    - MW
+    gateway_language: sw
+    lang_code: nyy
+    lang_direction: ltr
+    lang_name: Nyakyusa-Ngonde
+    lang_region: Africa
+    

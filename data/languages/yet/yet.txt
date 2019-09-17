@@ -1,0 +1,26 @@
+.. _yet:
+
+Yetfa
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: yet
+    alternate_names:
+    - Biaksi
+    - Inisine
+    anglicanized_name: Yetfa
+    country_codes:
+    - ID
+    - PG
+    gateway_language: id
+    lang_code: yet
+    lang_direction: ltr
+    lang_name: Yetfa
+    lang_region: Asia
+    

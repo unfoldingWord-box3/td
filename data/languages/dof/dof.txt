@@ -1,0 +1,23 @@
+.. _dof:
+
+Domu
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: dof
+    alternate_names:
+    - Dom
+    anglicanized_name: Domu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: dof
+    lang_direction: ltr
+    lang_name: Domu
+    lang_region: Pacific
+    

@@ -1,0 +1,30 @@
+.. _njz:
+
+Nyishi
+------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: njz
+    alternate_names:
+    - Dafla
+    - Daphla
+    - Lel
+    - Nil
+    - Nishi
+    - Nisi
+    - Nissi
+    - Nyising
+    anglicanized_name: Nyishi
+    country_codes:
+    - IN
+    gateway_language: en
+    lang_code: njz
+    lang_direction: ltr
+    lang_name: Nyishi
+    lang_region: Asia
+    

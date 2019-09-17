@@ -1,0 +1,22 @@
+.. _ays:
+
+Sorsogon Ayta
+-------------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: ays
+    alternate_names: []
+    anglicanized_name: Ayta, Sorsogon
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: ays
+    lang_direction: ltr
+    lang_name: Sorsogon Ayta
+    lang_region: Asia
+    

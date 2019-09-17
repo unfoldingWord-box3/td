@@ -1,0 +1,27 @@
+.. _sqt:
+
+اللغة السقطرية
+---------------------------
+
+This language is spoken in the following countries:
+
+* YE: Yemen
+
+.. code-block:: yaml
+
+    ISO_639-3: sqt
+    alternate_names:
+    - Saqatri
+    - Socotri
+    - Sokotri
+    - Suqutri
+    - Abd Al-Kuri
+    anglicanized_name: Soqotri
+    country_codes:
+    - YE
+    gateway_language: ar
+    lang_code: sqt
+    lang_direction: ltr
+    lang_name: اللغة السقطرية
+    lang_region: Asia
+    

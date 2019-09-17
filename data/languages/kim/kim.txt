@@ -1,0 +1,27 @@
+.. _kim:
+
+Тофаларский
+----------------------
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: kim
+    alternate_names:
+    - Kamas
+    - Karagass
+    - Sayan Samoyed
+    - Tofa
+    - Tofalar
+    anglicanized_name: Karagas
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: kim
+    lang_direction: ltr
+    lang_name: Тофаларский
+    lang_region: Europe
+    

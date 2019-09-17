@@ -1,0 +1,23 @@
+.. _noy:
+
+Noy
+---
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: noy
+    alternate_names:
+    - Loo
+    anglicanized_name: Noy
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: noy
+    lang_direction: ltr
+    lang_name: Noy
+    lang_region: Africa
+    

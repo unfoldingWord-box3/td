@@ -1,0 +1,22 @@
+.. _cwt:
+
+Kuwaataay
+---------
+
+This language is spoken in the following countries:
+
+* SN: Senegal
+
+.. code-block:: yaml
+
+    ISO_639-3: cwt
+    alternate_names: []
+    anglicanized_name: Kuwaataay
+    country_codes:
+    - SN
+    gateway_language: fr
+    lang_code: cwt
+    lang_direction: ltr
+    lang_name: Kuwaataay
+    lang_region: Africa
+    

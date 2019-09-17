@@ -1,0 +1,28 @@
+.. _anv:
+
+Denya
+-----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: anv
+    alternate_names:
+    - Agnang
+    - Anyah
+    - Anyan
+    - Eyan
+    - Nyang
+    - Obonya
+    anglicanized_name: Denya
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: anv
+    lang_direction: ltr
+    lang_name: Denya
+    lang_region: Africa
+    

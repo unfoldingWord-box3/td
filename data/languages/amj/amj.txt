@@ -1,0 +1,29 @@
+.. _amj:
+
+Amdang
+------
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: amj
+    alternate_names:
+    - Andangti
+    - Biltine
+    - Mima
+    - Mime
+    - Mututu
+    anglicanized_name: Amdang
+    country_codes:
+    - SD
+    - TD
+    gateway_language: ar
+    lang_code: amj
+    lang_direction: ltr
+    lang_name: Amdang
+    lang_region: Africa
+    

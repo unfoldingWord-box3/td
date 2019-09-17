@@ -1,0 +1,22 @@
+.. _kla:
+
+Klamath-Modoc
+-------------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: kla
+    alternate_names: []
+    anglicanized_name: Klamath-Modoc
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: kla
+    lang_direction: ltr
+    lang_name: Klamath-Modoc
+    lang_region: Americas
+    

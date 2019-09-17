@@ -1,0 +1,24 @@
+.. _xly:
+
+Elymian
+-------
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: xly
+    alternate_names: []
+    anglicanized_name: Elymian
+    country_codes:
+    - IT
+    gateway_language: null
+    lang_code: xly
+    lang_direction: ltr
+    lang_name: Elymian
+    lang_region: Europe
+    

@@ -1,0 +1,23 @@
+.. _cvn:
+
+Valle Nacional Chinantec
+------------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: cvn
+    alternate_names:
+    - Chinanteco Central Bajo
+    anglicanized_name: Chinantec, Valle Nacional
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: cvn
+    lang_direction: ltr
+    lang_name: Valle Nacional Chinantec
+    lang_region: Americas
+    

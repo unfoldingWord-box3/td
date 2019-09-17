@@ -1,0 +1,25 @@
+.. _dnt:
+
+Mid Grand Valley Dani
+---------------------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: dnt
+    alternate_names:
+    - Baliem Valley Dani
+    - Central Grand Valley Dani
+    - Tulem
+    anglicanized_name: Dani, Mid Grand Valley
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: dnt
+    lang_direction: ltr
+    lang_name: Mid Grand Valley Dani
+    lang_region: Asia
+    

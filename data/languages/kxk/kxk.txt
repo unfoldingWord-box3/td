@@ -1,0 +1,25 @@
+.. _kxk:
+
+Zayein Karen
+------------
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: kxk
+    alternate_names:
+    - Gaungtou
+    - Khaungtou
+    - Zayein Karen
+    anglicanized_name: Zayein
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: kxk
+    lang_direction: ltr
+    lang_name: Zayein Karen
+    lang_region: Asia
+    

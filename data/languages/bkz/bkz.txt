@@ -1,0 +1,28 @@
+.. _bkz:
+
+Bungku
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bkz
+    alternate_names:
+    - Ikinyikiusa
+    - Nahina
+    - Tamboeko
+    - Tambuku
+    - Tobuco
+    - Torete (To Rete)
+    anglicanized_name: Bungku
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bkz
+    lang_direction: ltr
+    lang_name: Bungku
+    lang_region: Asia
+    

@@ -1,0 +1,27 @@
+.. _djn:
+
+Djauan
+------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: djn
+    alternate_names:
+    - Adowen
+    - Jawan
+    - Jawony
+    - Jawoyn
+    - Kumertuo
+    anglicanized_name: Djauan
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: djn
+    lang_direction: ltr
+    lang_name: Djauan
+    lang_region: Pacific
+    

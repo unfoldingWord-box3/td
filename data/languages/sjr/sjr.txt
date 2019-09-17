@@ -1,0 +1,25 @@
+.. _sjr:
+
+Siar-Lak
+--------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: sjr
+    alternate_names:
+    - Lak
+    - Lamassa
+    - Lambom
+    anglicanized_name: Siar-Lak
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: sjr
+    lang_direction: ltr
+    lang_name: Siar-Lak
+    lang_region: Pacific
+    

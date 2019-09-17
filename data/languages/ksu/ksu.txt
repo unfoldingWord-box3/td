@@ -1,0 +1,27 @@
+.. _ksu:
+
+Khamyang
+--------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: ksu
+    alternate_names:
+    - Khamiyang
+    - Khamjang
+    - Shyam
+    - Tai Khamyang
+    - Tai Nora
+    anglicanized_name: Khamyang
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: ksu
+    lang_direction: ltr
+    lang_name: Khamyang
+    lang_region: Asia
+    

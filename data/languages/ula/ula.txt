@@ -1,0 +1,26 @@
+.. _ula:
+
+Fungwa
+------
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ula
+    alternate_names:
+    - Afungwa
+    - Tufungwa
+    - Ula
+    - Ura
+    anglicanized_name: Fungwa
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ula
+    lang_direction: ltr
+    lang_name: Fungwa
+    lang_region: Africa
+    

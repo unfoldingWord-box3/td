@@ -1,0 +1,30 @@
+.. _pym:
+
+Fyam
+----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: pym
+    alternate_names:
+    - Fem
+    - Fyem
+    - Genawa
+    - Gyem
+    - Gyema
+    - Paiem
+    - Pem
+    - Pyem
+    anglicanized_name: Fyam
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: pym
+    lang_direction: ltr
+    lang_name: Fyam
+    lang_region: Africa
+    

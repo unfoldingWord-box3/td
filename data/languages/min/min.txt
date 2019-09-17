@@ -1,0 +1,27 @@
+.. _min:
+
+Minangkabau
+-----------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: min
+    alternate_names:
+    - Minang
+    - Padang
+    - Aneuk Jamee (Jamee)
+    - Pancuang Soal (Muko-Muko)
+    - Penghulu
+    anglicanized_name: Minangkabau
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: min
+    lang_direction: ltr
+    lang_name: Minangkabau
+    lang_region: Asia
+    

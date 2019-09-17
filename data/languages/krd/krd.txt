@@ -1,0 +1,24 @@
+.. _krd:
+
+Kairui-Midiki
+-------------
+
+This language is spoken in the following countries:
+
+* TL: Timor-Leste
+
+.. code-block:: yaml
+
+    ISO_639-3: krd
+    alternate_names:
+    - Cairui
+    - Midiki (Midik)
+    anglicanized_name: Kairui-Midiki
+    country_codes:
+    - TL
+    gateway_language: pt
+    lang_code: krd
+    lang_direction: ltr
+    lang_name: Kairui-Midiki
+    lang_region: Asia
+    

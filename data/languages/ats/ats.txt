@@ -1,0 +1,29 @@
+.. _ats:
+
+Gros Ventre
+-----------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: ats
+    alternate_names:
+    - Ahahnelin
+    - Ahe
+    - Ananin
+    - Atsina
+    - Fall Indians
+    - Gros Ventres
+    - White Clay People
+    anglicanized_name: Gros Ventre
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: ats
+    lang_direction: ltr
+    lang_name: Gros Ventre
+    lang_region: Americas
+    

@@ -1,0 +1,42 @@
+.. _kn:
+
+ಕನ್ನಡ
+---------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/kan>`__ identifies this language as ``kan``.
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+* US: United States of America
+* CA: Canada
+* IN: India
+* SG: Singapore
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: kan
+    alternate_names:
+    - Banglori
+    - Canarese
+    - Kanarese
+    - Madrassi
+    - Bellary
+    - Gulbarga
+    - Kumta
+    - Nanjangud
+    anglicanized_name: Kannada
+    country_codes:
+    - MY
+    - US
+    - CA
+    - IN
+    - SG
+    gateway_language: null
+    lang_code: kn
+    lang_direction: ltr
+    lang_name: ಕನ್ನಡ
+    lang_region: Asia
+    

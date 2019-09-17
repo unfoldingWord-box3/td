@@ -1,0 +1,24 @@
+.. _xbb:
+
+Lower Burdekin
+--------------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: xbb
+    alternate_names: []
+    anglicanized_name: Lower Burdekin
+    country_codes:
+    - AU
+    gateway_language: null
+    lang_code: xbb
+    lang_direction: ltr
+    lang_name: Lower Burdekin
+    lang_region: Pacific
+    

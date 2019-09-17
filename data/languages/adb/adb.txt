@@ -1,0 +1,31 @@
+.. _adb:
+
+Adabe
+-----
+
+This language is spoken in the following countries:
+
+* TL: Timor-Leste
+
+.. code-block:: yaml
+
+    ISO_639-3: adb
+    alternate_names:
+    - Raklungu
+    - Resuk
+    - Rahesuk
+    - Ataura
+    - Atauran
+    - Atauro
+    - Atauru
+    - Raklu Un
+    - Raklu-Un
+    anglicanized_name: Adabe
+    country_codes:
+    - TL
+    gateway_language: pt
+    lang_code: adb
+    lang_direction: ltr
+    lang_name: Adabe
+    lang_region: Asia
+    

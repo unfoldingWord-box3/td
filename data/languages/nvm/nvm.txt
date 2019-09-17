@@ -1,0 +1,23 @@
+.. _nvm:
+
+Namiae
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nvm
+    alternate_names:
+    - Namiai
+    anglicanized_name: Namiae
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nvm
+    lang_direction: ltr
+    lang_name: Namiae
+    lang_region: Pacific
+    

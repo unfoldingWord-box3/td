@@ -1,0 +1,32 @@
+.. _ert:
+
+Eritai
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: ert
+    alternate_names:
+    - Aliki
+    - Babiruwa
+    - Babrua
+    - Babruwa
+    - Baburiwa
+    - Barua
+    - Editode Edai
+    - Erai
+    - Eri
+    - Haya
+    anglicanized_name: Eritai
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: ert
+    lang_direction: ltr
+    lang_name: Eritai
+    lang_region: Asia
+    

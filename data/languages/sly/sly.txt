@@ -1,0 +1,28 @@
+.. _sly:
+
+Selayar
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: sly
+    alternate_names:
+    - Salajar
+    - Salayar
+    - Salayer
+    - Saleier
+    - Siladja
+    - Silajara
+    anglicanized_name: Selayar
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: sly
+    lang_direction: ltr
+    lang_name: Selayar
+    lang_region: Asia
+    

@@ -1,0 +1,35 @@
+.. _fli:
+
+Fali
+----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: fli
+    alternate_names:
+    - Fali of Mubi
+    - Fali of Muchella
+    - Vimtim
+    - Yimtim
+    - Urambween
+    - Bwin (Bagira)
+    - Vin (Uroovin)
+    - Uvin
+    - Urahuli
+    - Ura Madzarin
+    - Muchella
+    - Huli (Bahuli)
+    - Madzarin (Madzara)
+    anglicanized_name: Fali
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: fli
+    lang_direction: ltr
+    lang_name: Fali
+    lang_region: Africa
+    

@@ -1,0 +1,25 @@
+.. _zpw:
+
+Zaniza Zapotec
+--------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zpw
+    alternate_names:
+    - Papabuco
+    - Western Sola de Vega Zapotec
+    - Zapoteco de Santa María Zaniza
+    anglicanized_name: Zapotec, Zaniza
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zpw
+    lang_direction: ltr
+    lang_name: Zaniza Zapotec
+    lang_region: Americas
+    

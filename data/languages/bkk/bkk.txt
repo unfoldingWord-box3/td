@@ -1,0 +1,28 @@
+.. _bkk:
+
+Brokskat
+--------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. warning:: The gateway language is not valid.
+
+.. code-block:: yaml
+
+    ISO_639-3: bkk
+    alternate_names:
+    - Brokpa
+    - Brokpa of Dah-Hanu
+    - Dokskat
+    - Kyango
+    anglicanized_name: Brokskat
+    country_codes:
+    - IN
+    gateway_language: lbj
+    lang_code: bkk
+    lang_direction: ltr
+    lang_name: Brokskat
+    lang_region: Asia
+    

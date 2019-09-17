@@ -1,0 +1,30 @@
+.. _saq:
+
+Samburu
+-------
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: saq
+    alternate_names:
+    - Burkeneji
+    - E Lokop
+    - Lokop
+    - Nkutuk
+    - Sambur
+    - Sampur
+    - Njemps
+    - Chamus (Ilcamus)
+    anglicanized_name: Samburu
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: saq
+    lang_direction: ltr
+    lang_name: Samburu
+    lang_region: Africa
+    

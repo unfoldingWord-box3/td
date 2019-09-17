@@ -1,0 +1,23 @@
+.. _jnd:
+
+Jandavra
+--------
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: jnd
+    alternate_names:
+    - Jhandoria
+    anglicanized_name: Jandavra
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: jnd
+    lang_direction: ltr
+    lang_name: Jandavra
+    lang_region: Asia
+    

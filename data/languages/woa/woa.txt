@@ -1,0 +1,28 @@
+.. _woa:
+
+Tyaraity
+--------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: woa
+    alternate_names:
+    - Daktjerat
+    - Djeradj
+    - Djerag
+    - Dyeraidy
+    - Kuwema
+    - Tjerait
+    anglicanized_name: Tyaraity
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: woa
+    lang_direction: ltr
+    lang_name: Tyaraity
+    lang_region: Pacific
+    

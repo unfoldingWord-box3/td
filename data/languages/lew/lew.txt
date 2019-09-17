@@ -1,0 +1,42 @@
+.. _lew:
+
+Ledo Kaili
+----------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: lew
+    alternate_names:
+    - Paloesch
+    - Palu
+    - Rai (Sindue-Tawaili)
+    - Ado (Pakuli)
+    - Doi (Kayu Malue)
+    - Edo (Sidondo)
+    - Ija (Sigi)
+    - Ledo (Palu)
+    - Raio (Kori)
+    - To ri Io
+    - Mamboro
+    - Torio
+    - Tawaili-Sindue
+    - Tara (Parigi)
+    - Tado (Ri Io)
+    - Taa (Palolo)
+    - Ta'a (Dolago-Sausu)
+    - Sibalaya
+    - Sausu
+    - Toriu
+    anglicanized_name: Kaili, Ledo
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: lew
+    lang_direction: ltr
+    lang_name: Ledo Kaili
+    lang_region: Asia
+    

@@ -1,0 +1,26 @@
+.. _fui:
+
+Bagirmi Fulfulde
+----------------
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: fui
+    alternate_names:
+    - Baghirmi Peul
+    - Bagirmi Fula
+    anglicanized_name: Fulfulde, Bagirmi
+    country_codes:
+    - CF
+    - TD
+    gateway_language: ar
+    lang_code: fui
+    lang_direction: ltr
+    lang_name: Bagirmi Fulfulde
+    lang_region: Africa
+    

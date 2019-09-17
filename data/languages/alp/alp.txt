@@ -1,0 +1,28 @@
+.. _alp:
+
+Alune
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: alp
+    alternate_names:
+    - Central East Alune (Buriah-Weth-Laturake)
+    - Central West Alune (Niniari-Piru-Riring-Lumoli)
+    - North Coastal Alune (Nikulkan-Murnaten-Wakolo)
+    - South Alune (Rambatu-Manussa-Rumberu)
+    - Patasiwa Alfoeren
+    - Sapalewa
+    anglicanized_name: Alune
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: alp
+    lang_direction: ltr
+    lang_name: Alune
+    lang_region: Asia
+    

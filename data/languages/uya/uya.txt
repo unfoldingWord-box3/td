@@ -1,0 +1,26 @@
+.. _uya:
+
+Doko-Uyanga
+-----------
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: uya
+    alternate_names:
+    - Basanga
+    - Dosanga
+    - Iko
+    - Uyanga
+    anglicanized_name: Doko-Uyanga
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: uya
+    lang_direction: ltr
+    lang_name: Doko-Uyanga
+    lang_region: Africa
+    

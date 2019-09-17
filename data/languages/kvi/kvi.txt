@@ -1,0 +1,28 @@
+.. _kvi:
+
+Kwang
+-----
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: kvi
+    alternate_names:
+    - Kouang
+    - Kuang
+    - Tchagin (Tchakin)
+    - Mobou (Mobu)
+    - Modgel
+    - Ngam (Gam)
+    anglicanized_name: Kwang
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: kvi
+    lang_direction: ltr
+    lang_name: Kwang
+    lang_region: Africa
+    

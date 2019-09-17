@@ -1,0 +1,27 @@
+.. _otw:
+
+Ottawa
+------
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: otw
+    alternate_names:
+    - Odawa
+    - Ojibway
+    - Ojibwe
+    - Chippewa
+    - Eastern Ojibwa
+    anglicanized_name: Ottawa
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: otw
+    lang_direction: ltr
+    lang_name: Ottawa
+    lang_region: Americas
+    

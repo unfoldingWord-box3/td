@@ -1,0 +1,30 @@
+.. _bkn:
+
+Bukitan
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: bkn
+    alternate_names:
+    - Bakatan
+    - Bakitan
+    - Beketan
+    - Mangkettan
+    - Manketa
+    - Pakatan
+    anglicanized_name: Bukitan
+    country_codes:
+    - ID
+    - MY
+    gateway_language: id
+    lang_code: bkn
+    lang_direction: ltr
+    lang_name: Bukitan
+    lang_region: Asia
+    

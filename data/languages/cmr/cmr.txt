@@ -1,0 +1,36 @@
+.. _cmr:
+
+Mro-Khimi Chin
+--------------
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: cmr
+    alternate_names:
+    - Awa Khami
+    - Khimi
+    - Khumi Awa
+    - Mro
+    - Mro Chin
+    - Vakung
+    - Wakun
+    - Wakung
+    - Aroeng
+    - Xengna (Hrengna)
+    - Vakung (Wakung)
+    - Areung
+    - Arang (Ahraing Khami)
+    - Xata
+    anglicanized_name: Chin, Mro-Khimi
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: cmr
+    lang_direction: ltr
+    lang_name: Mro-Khimi Chin
+    lang_region: Asia
+    

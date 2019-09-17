@@ -1,0 +1,26 @@
+.. _ifk:
+
+Tuwali Ifugao
+-------------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: ifk
+    alternate_names:
+    - Gilipanes
+    - Ifugaw
+    - Kiangan Ifugao
+    - Quiangan
+    anglicanized_name: Ifugao, Tuwali
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: ifk
+    lang_direction: ltr
+    lang_name: Tuwali Ifugao
+    lang_region: Asia
+    

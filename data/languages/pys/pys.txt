@@ -1,0 +1,25 @@
+.. _pys:
+
+Paraguayan Sign Language
+------------------------
+
+This language is spoken in the following countries:
+
+* PY: Paraguay
+
+.. code-block:: yaml
+
+    ISO_639-3: pys
+    alternate_names:
+    - Lengua de Señas del Paraguay
+    - Lengua de señas paraguaya
+    - LSPY
+    anglicanized_name: Paraguayan Sign Language
+    country_codes:
+    - PY
+    gateway_language: es-419
+    lang_code: pys
+    lang_direction: ltr
+    lang_name: Paraguayan Sign Language
+    lang_region: Americas
+    

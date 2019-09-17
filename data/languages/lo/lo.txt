@@ -1,0 +1,53 @@
+.. _lo:
+
+ພາສາລາວ
+---------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/lao>`__ identifies this language as ``lao``.
+
+This language is spoken in the following countries:
+
+* AR: Argentina
+* FR: France
+* LA: Lao People's Democratic Republic
+* US: United States of America
+* KH: Cambodia
+* CA: Canada
+* MM: Myanmar
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: lao
+    alternate_names:
+    - Eastern Thai
+    - Lào
+    - Lao Kao
+    - Lao Wiang
+    - Lao-Lum
+    - Lao-Noi
+    - Lao-Tai
+    - Laotian
+    - Laotian Tai
+    - Lum Lao
+    - Phou Lao
+    - Rong Kong
+    - Tai Lao
+    - Savannakhet (Suwannakhet)
+    - Vientiane (Wiang Jan)
+    anglicanized_name: Laotian
+    country_codes:
+    - AR
+    - FR
+    - LA
+    - US
+    - KH
+    - CA
+    - MM
+    gateway_language: null
+    lang_code: lo
+    lang_direction: ltr
+    lang_name: ພາສາລາວ
+    lang_region: Asia
+    

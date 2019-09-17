@@ -1,0 +1,29 @@
+.. _kub:
+
+Kutep
+-----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kub
+    alternate_names:
+    - Ati
+    - Kutev
+    - Mbarike
+    - Zumper
+    - Jompre
+    anglicanized_name: Kutep
+    country_codes:
+    - CM
+    - NG
+    gateway_language: en
+    lang_code: kub
+    lang_direction: ltr
+    lang_name: Kutep
+    lang_region: Africa
+    

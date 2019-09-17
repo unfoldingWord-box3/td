@@ -1,0 +1,22 @@
+.. _ybo:
+
+Yabong
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ybo
+    alternate_names: []
+    anglicanized_name: Yabong
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ybo
+    lang_direction: ltr
+    lang_name: Yabong
+    lang_region: Pacific
+    

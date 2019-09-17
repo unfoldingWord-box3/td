@@ -1,0 +1,23 @@
+.. _caz:
+
+Canichana
+---------
+
+This language is spoken in the following countries:
+
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: caz
+    alternate_names:
+    - Kanichana
+    anglicanized_name: Canichana
+    country_codes:
+    - BO
+    gateway_language: es-419
+    lang_code: caz
+    lang_direction: ltr
+    lang_name: Canichana
+    lang_region: Americas
+    

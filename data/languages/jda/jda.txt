@@ -1,0 +1,25 @@
+.. _jda:
+
+Jad
+---
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: jda
+    alternate_names:
+    - Bhotia
+    - Dzad
+    - Rongba
+    anglicanized_name: Jad
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: jda
+    lang_direction: ltr
+    lang_name: Jad
+    lang_region: Asia
+    

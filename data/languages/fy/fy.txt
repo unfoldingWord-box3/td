@@ -1,0 +1,34 @@
+.. _fy:
+
+Frysk
+-----
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/fry>`__ identifies this language as ``fry``.
+
+This language is spoken in the following countries:
+
+* NL: Netherlands
+* CA: Canada
+
+.. warning:: The gateway language is not valid.
+
+.. code-block:: yaml
+
+    ISO_639-3: fry
+    alternate_names:
+    - Fries
+    - Frysk
+    - Westerlauwers Fries
+    - Klaaifrysk
+    - Súdhoeksk
+    - Wâldfrysk
+    anglicanized_name: Western Frisian
+    country_codes:
+    - NL
+    - CA
+    gateway_language: nl
+    lang_code: fy
+    lang_direction: ltr
+    lang_name: Frysk
+    lang_region: Europe
+    

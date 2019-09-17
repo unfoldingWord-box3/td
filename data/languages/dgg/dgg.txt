@@ -1,0 +1,23 @@
+.. _dgg:
+
+Doga
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: dgg
+    alternate_names:
+    - Magabara
+    anglicanized_name: Doga
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: dgg
+    lang_direction: ltr
+    lang_name: Doga
+    lang_region: Pacific
+    

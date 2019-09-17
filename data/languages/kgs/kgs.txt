@@ -1,0 +1,27 @@
+.. _kgs:
+
+Kumbainggar
+-----------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: kgs
+    alternate_names:
+    - Baanbay
+    - Gambalamam
+    - Gumbaingari
+    - Gumbaynggir
+    - Kumbaingeri
+    anglicanized_name: Kumbainggar
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: kgs
+    lang_direction: ltr
+    lang_name: Kumbainggar
+    lang_region: Pacific
+    

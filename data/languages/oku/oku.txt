@@ -1,0 +1,28 @@
+.. _oku:
+
+Oku
+---
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: oku
+    alternate_names:
+    - Bvukoo
+    - Ebkuo
+    - Ekpwo
+    - Kuo
+    - Ukfwo
+    - Uku
+    anglicanized_name: Oku
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: oku
+    lang_direction: ltr
+    lang_name: Oku
+    lang_region: Africa
+    

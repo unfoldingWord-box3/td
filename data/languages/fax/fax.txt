@@ -1,0 +1,26 @@
+.. _fax:
+
+Fala
+----
+
+This language is spoken in the following countries:
+
+* ES: Spain
+
+.. code-block:: yaml
+
+    ISO_639-3: fax
+    alternate_names:
+    - A Fala de Xálima
+    - A Fala do Xãlima
+    - Galaico-Extremaduran
+    - Chapurreáu
+    anglicanized_name: Fala
+    country_codes:
+    - ES
+    gateway_language: es
+    lang_code: fax
+    lang_direction: ltr
+    lang_name: Fala
+    lang_region: Europe
+    

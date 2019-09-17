@@ -1,0 +1,29 @@
+.. _sas:
+
+Sasak
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: sas
+    alternate_names:
+    - Lombok
+    - Ngeno-Ngene (Central East Sasak)
+    - Ngeto-Ngete (Northeast Sasak)
+    - Mriak-Mriku (Central South Sasak)
+    - Meno-Mene (Central Sasak)
+    - Kuto-Kute (North Sasak)
+    - Central West Sasak
+    anglicanized_name: Sasak
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: sas
+    lang_direction: ltr
+    lang_name: Sasak
+    lang_region: Asia
+    

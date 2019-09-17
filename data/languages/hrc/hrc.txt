@@ -1,0 +1,24 @@
+.. _hrc:
+
+Niwer Mil
+---------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: hrc
+    alternate_names:
+    - Tanga
+    - Tangga
+    anglicanized_name: Niwer Mil
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: hrc
+    lang_direction: ltr
+    lang_name: Niwer Mil
+    lang_region: Pacific
+    

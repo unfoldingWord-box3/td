@@ -1,0 +1,30 @@
+.. _zmz:
+
+Mbandja
+-------
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+* CG: Congo
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: zmz
+    alternate_names:
+    - Mbandza
+    - Mbanja
+    - Mbanza
+    - Banja
+    anglicanized_name: Mbandja
+    country_codes:
+    - CF
+    - CG
+    - CD
+    gateway_language: fr
+    lang_code: zmz
+    lang_direction: ltr
+    lang_name: Mbandja
+    lang_region: Africa
+    

@@ -1,0 +1,28 @@
+.. _egl:
+
+Emilian
+-------
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: egl
+    alternate_names:
+    - Bolognese
+    - Ferrarese
+    - Modenese
+    - Parmigiano
+    - Piacentino
+    - Reggiano
+    anglicanized_name: Emilian
+    country_codes:
+    - IT
+    gateway_language: en
+    lang_code: egl
+    lang_direction: ltr
+    lang_name: Emilian
+    lang_region: Europe
+    

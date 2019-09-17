@@ -1,0 +1,27 @@
+.. _gvs:
+
+Gumawana
+--------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: gvs
+    alternate_names:
+    - Domdom
+    - Gumasi
+    - Gumasila
+    - Kotoita
+    - Nubogeta
+    anglicanized_name: Gumawana
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: gvs
+    lang_direction: ltr
+    lang_name: Gumawana
+    lang_region: Pacific
+    

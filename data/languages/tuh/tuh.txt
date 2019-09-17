@@ -1,0 +1,23 @@
+.. _tuh:
+
+Taulil
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: tuh
+    alternate_names:
+    - Tulil
+    anglicanized_name: Taulil
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: tuh
+    lang_direction: ltr
+    lang_name: Taulil
+    lang_region: Pacific
+    

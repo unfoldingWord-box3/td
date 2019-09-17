@@ -1,0 +1,26 @@
+.. _ydg:
+
+یدغہ
+--------
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: ydg
+    alternate_names:
+    - Lutkuhwar
+    - Yidga
+    - Yudga
+    - Yudgha
+    anglicanized_name: Yidgha
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: ydg
+    lang_direction: ltr
+    lang_name: یدغہ
+    lang_region: Asia
+    

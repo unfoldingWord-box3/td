@@ -1,0 +1,24 @@
+.. _jpa:
+
+Jewish Palestinian Aramaic
+--------------------------
+
+This language is spoken in the following countries:
+
+* SY: Syrian Arab Republic
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: jpa
+    alternate_names: []
+    anglicanized_name: Jewish Palestinian Aramaic
+    country_codes:
+    - SY
+    gateway_language: null
+    lang_code: jpa
+    lang_direction: ltr
+    lang_name: Jewish Palestinian Aramaic
+    lang_region: Asia
+    

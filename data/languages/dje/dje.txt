@@ -1,0 +1,37 @@
+.. _dje:
+
+Zarma
+-----
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+* GH: Ghana
+* NE: Niger
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: dje
+    alternate_names:
+    - Adzerma
+    - Djerma
+    - Dyabarma
+    - Dyarma
+    - Dyerma
+    - Zabarma
+    - Zarbarma
+    - Zarmaci
+    - Zerma
+    anglicanized_name: Zarma
+    country_codes:
+    - BJ
+    - GH
+    - NE
+    - NG
+    gateway_language: fr
+    lang_code: dje
+    lang_direction: ltr
+    lang_name: Zarma
+    lang_region: Africa
+    

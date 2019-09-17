@@ -1,0 +1,29 @@
+.. _wok:
+
+Longto
+------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: wok
+    alternate_names:
+    - Boko
+    - Gobeyo
+    - Longa
+    - Longbo
+    - Lonto
+    - Voko
+    - Woko
+    anglicanized_name: Longto
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: wok
+    lang_direction: ltr
+    lang_name: Longto
+    lang_region: Africa
+    

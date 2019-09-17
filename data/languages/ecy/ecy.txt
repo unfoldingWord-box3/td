@@ -1,0 +1,24 @@
+.. _ecy:
+
+Eteocypriot
+-----------
+
+This language is spoken in the following countries:
+
+* CY: Cyprus
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: ecy
+    alternate_names: []
+    anglicanized_name: Eteocypriot
+    country_codes:
+    - CY
+    gateway_language: null
+    lang_code: ecy
+    lang_direction: ltr
+    lang_name: Eteocypriot
+    lang_region: Asia
+    

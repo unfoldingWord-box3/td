@@ -1,0 +1,27 @@
+.. _trs:
+
+Chicahuaxtla Triqui
+-------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: trs
+    alternate_names:
+    - Chicahuaxtla Trique
+    - Triqui Alto
+    - Triqui de San Andrés Chicahuaxtla
+    - San José Xochistlá
+    - Santo Domingo del Estado
+    anglicanized_name: Triqui, Chicahuaxtla
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: trs
+    lang_direction: ltr
+    lang_name: Chicahuaxtla Triqui
+    lang_region: Americas
+    

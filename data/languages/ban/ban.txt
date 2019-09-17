@@ -1,0 +1,33 @@
+.. _ban:
+
+Balinese
+--------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: ban
+    alternate_names:
+    - Balinese
+    - Klungkung
+    - Lowland Bali (Badung)
+    - Karangasem
+    - Jembrana
+    - Highland Bali ("Bali Aga")
+    - Gianyar
+    - Buleleng
+    - Tabanan
+    anglicanized_name: Bali
+    country_codes:
+    - ID
+    - US
+    gateway_language: id
+    lang_code: ban
+    lang_direction: ltr
+    lang_name: Balinese
+    lang_region: Asia
+    

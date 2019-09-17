@@ -1,0 +1,25 @@
+.. _kwd:
+
+Kwaio
+-----
+
+This language is spoken in the following countries:
+
+* SB: Solomon Islands
+
+.. warning:: The gateway language is not valid.
+
+.. code-block:: yaml
+
+    ISO_639-3: kwd
+    alternate_names:
+    - Koio
+    anglicanized_name: Kwaio
+    country_codes:
+    - SB
+    gateway_language: pis
+    lang_code: kwd
+    lang_direction: ltr
+    lang_name: Kwaio
+    lang_region: Pacific
+    

@@ -1,0 +1,24 @@
+.. _jic:
+
+Tol
+---
+
+This language is spoken in the following countries:
+
+* HN: Honduras
+
+.. code-block:: yaml
+
+    ISO_639-3: jic
+    alternate_names:
+    - Tolpan
+    - Xicaque
+    anglicanized_name: Tol
+    country_codes:
+    - HN
+    gateway_language: es-419
+    lang_code: jic
+    lang_direction: ltr
+    lang_name: Tol
+    lang_region: Americas
+    

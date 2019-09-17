@@ -1,0 +1,24 @@
+.. _odu:
+
+Odual
+-----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: odu
+    alternate_names:
+    - Saka
+    - Arughunya
+    anglicanized_name: Odual
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: odu
+    lang_direction: ltr
+    lang_name: Odual
+    lang_region: Africa
+    

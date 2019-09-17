@@ -1,0 +1,27 @@
+.. _kjn:
+
+Kunjen
+------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: kjn
+    alternate_names:
+    - Guguminjen
+    - Kukumindjen
+    - Olgel
+    - Olgol
+    - Oykangand (Ogondyan)
+    anglicanized_name: Kunjen
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: kjn
+    lang_direction: ltr
+    lang_name: Kunjen
+    lang_region: Pacific
+    

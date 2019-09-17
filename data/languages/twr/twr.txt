@@ -1,0 +1,24 @@
+.. _twr:
+
+Southwestern Tarahumara
+-----------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: twr
+    alternate_names:
+    - Tarahumara del Suroeste
+    - Tubare
+    anglicanized_name: Tarahumara, Southwestern
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: twr
+    lang_direction: ltr
+    lang_name: Southwestern Tarahumara
+    lang_region: Americas
+    

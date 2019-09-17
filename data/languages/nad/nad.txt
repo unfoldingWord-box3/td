@@ -1,0 +1,31 @@
+.. _nad:
+
+Nijadali
+--------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names:
+    - Bailko
+    - Balgu
+    - Balygu
+    - Jauna
+    - Paljgu
+    - Palyku
+    - Njijapali
+    - Nyiyabali
+    - Nyiypali
+    anglicanized_name: Nijadali
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: nad
+    lang_direction: ltr
+    lang_name: Nijadali
+    lang_region: Pacific
+    

@@ -1,0 +1,28 @@
+.. _koi:
+
+Коми-пермяцкий
+---------------------------
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: koi
+    alternate_names:
+    - Kama Permyak
+    - Komi-Perm
+    - Komi-Permyat
+    - Permyak
+    - North Permyak (Kochin-Kam)
+    - South Permyak (Inyven)
+    anglicanized_name: Komi-Permyak
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: koi
+    lang_direction: ltr
+    lang_name: Коми-пермяцкий
+    lang_region: Europe
+    

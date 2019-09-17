@@ -1,0 +1,25 @@
+.. _cjn:
+
+Chenapian
+---------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: cjn
+    alternate_names:
+    - Chenap
+    - Tsenap
+    - Zenap
+    anglicanized_name: Chenapian
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: cjn
+    lang_direction: ltr
+    lang_name: Chenapian
+    lang_region: Pacific
+    

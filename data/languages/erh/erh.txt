@@ -1,0 +1,24 @@
+.. _erh:
+
+Eruwa
+-----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: erh
+    alternate_names:
+    - Arokwa
+    - Erakwa
+    anglicanized_name: Eruwa
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: erh
+    lang_direction: ltr
+    lang_name: Eruwa
+    lang_region: Africa
+    

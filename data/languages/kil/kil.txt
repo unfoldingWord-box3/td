@@ -1,0 +1,27 @@
+.. _kil:
+
+Kariya
+------
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kil
+    alternate_names:
+    - Kariyu
+    - Kauyawa
+    - Lipkawa
+    - Vinahe
+    - Wihe
+    anglicanized_name: Kariya
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: kil
+    lang_direction: ltr
+    lang_name: Kariya
+    lang_region: Africa
+    

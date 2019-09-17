@@ -1,0 +1,26 @@
+.. _jal:
+
+Yalahatan
+---------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: jal
+    alternate_names:
+    - Atamanu
+    - Awaiya
+    - Jahalatan
+    - Jahalatane
+    anglicanized_name: Yalahatan
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: jal
+    lang_direction: ltr
+    lang_name: Yalahatan
+    lang_region: Asia
+    

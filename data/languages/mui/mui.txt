@@ -1,0 +1,33 @@
+.. _mui:
+
+Musi
+----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mui
+    alternate_names:
+    - Palembangnese
+    - Coastal Malay
+    - Rawas; Palembang
+    - Pegagan
+    - Palembang Lama
+    - Musi Sekayu
+    - Meranjat
+    - Kelingi
+    - Burai
+    - Belide
+    - Lematang Ilir
+    anglicanized_name: Musi
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mui
+    lang_direction: ltr
+    lang_name: Musi
+    lang_region: Asia
+    

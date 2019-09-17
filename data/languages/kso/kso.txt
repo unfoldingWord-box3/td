@@ -1,0 +1,23 @@
+.. _kso:
+
+Kofa
+----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kso
+    alternate_names:
+    - Kota
+    anglicanized_name: Kofa
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: kso
+    lang_direction: ltr
+    lang_name: Kofa
+    lang_region: Africa
+    

@@ -1,0 +1,24 @@
+.. _oog:
+
+Ong
+---
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: oog
+    alternate_names:
+    - Hantong
+    - Tong
+    anglicanized_name: Ong
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: oog
+    lang_direction: ltr
+    lang_name: Ong
+    lang_region: Asia
+    

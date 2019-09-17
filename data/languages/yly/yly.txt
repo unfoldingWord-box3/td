@@ -1,0 +1,29 @@
+.. _yly:
+
+Nyâlayu
+--------
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: yly
+    alternate_names:
+    - Nielaiou
+    - Nielaiu
+    - Nyâlayu
+    - Puma
+    - Yalasu
+    - Arama
+    - Tiari-Balade
+    anglicanized_name: Nyelâyu
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: yly
+    lang_direction: ltr
+    lang_name: Nyâlayu
+    lang_region: Pacific
+    

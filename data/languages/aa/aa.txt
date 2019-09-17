@@ -1,0 +1,39 @@
+.. _aa:
+
+Afaraf
+------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/aar>`__ identifies this language as ``aar``.
+
+This language is spoken in the following countries:
+
+* DJ: Djibouti
+* ER: Eritrea
+* ET: Ethiopia
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: aar
+    alternate_names:
+    - Afaraf
+    - Danakil
+    - Denkel
+    - Adal
+    - Afar Af
+    - Qafar
+    - Baadu (Ba'adu)
+    anglicanized_name: Afar
+    country_codes:
+    - DJ
+    - ER
+    - ET
+    - US
+    - CA
+    gateway_language: am
+    lang_code: aa
+    lang_direction: ltr
+    lang_name: Afaraf
+    lang_region: Africa
+    

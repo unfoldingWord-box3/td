@@ -1,0 +1,25 @@
+.. _tef:
+
+Teressa
+-------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: tef
+    alternate_names:
+    - Taih-Long
+    - Bompoka (Bompaka)
+    - Pauhut
+    anglicanized_name: Teressa
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: tef
+    lang_direction: ltr
+    lang_name: Teressa
+    lang_region: Asia
+    

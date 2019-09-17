@@ -1,0 +1,26 @@
+.. _bto:
+
+Rinconada Bikol
+---------------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: bto
+    alternate_names:
+    - Rinconada Bicolano
+    - Rinconada Bikol
+    - Bicolano
+    - Iriga
+    anglicanized_name: Bikol, Rinconada
+    country_codes:
+    - PH
+    gateway_language: tl
+    lang_code: bto
+    lang_direction: ltr
+    lang_name: Rinconada Bikol
+    lang_region: Asia
+    

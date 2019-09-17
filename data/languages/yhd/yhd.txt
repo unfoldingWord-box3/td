@@ -1,0 +1,30 @@
+.. _yhd:
+
+עיראקית יהודית
+---------------------------
+
+This language is spoken in the following countries:
+
+* IQ: Iraq
+* IL: Israel
+* GB: United Kingdom of Great Britain and Northern Ireland
+
+.. code-block:: yaml
+
+    ISO_639-3: yhd
+    alternate_names:
+    - Arabi
+    - Iraqi Judeo-Arabic
+    - Jewish Iraqi-Baghdadi Arabic
+    - Yahudic
+    anglicanized_name: Arabic, Judeo-Iraqi
+    country_codes:
+    - IQ
+    - IL
+    - GB
+    gateway_language: en
+    lang_code: yhd
+    lang_direction: rtl
+    lang_name: עיראקית יהודית
+    lang_region: Asia
+    

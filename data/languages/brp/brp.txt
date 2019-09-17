@@ -1,0 +1,23 @@
+.. _brp:
+
+Barapasi
+--------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: brp
+    alternate_names:
+    - Baropasi
+    anglicanized_name: Barapasi
+    country_codes:
+    - ID
+    gateway_language: pmy
+    lang_code: brp
+    lang_direction: ltr
+    lang_name: Barapasi
+    lang_region: Asia
+    

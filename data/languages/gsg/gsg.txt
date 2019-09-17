@@ -1,0 +1,24 @@
+.. _gsg:
+
+German Sign Language
+--------------------
+
+This language is spoken in the following countries:
+
+* DE: Germany
+
+.. code-block:: yaml
+
+    ISO_639-3: gsg
+    alternate_names:
+    - Deutsche Gebärdensprache
+    - Dgs
+    anglicanized_name: German Sign Language
+    country_codes:
+    - DE
+    gateway_language: en
+    lang_code: gsg
+    lang_direction: ltr
+    lang_name: German Sign Language
+    lang_region: Europe
+    

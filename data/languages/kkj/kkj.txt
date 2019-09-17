@@ -1,0 +1,30 @@
+.. _kkj:
+
+Kako
+----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* CF: Central African Republic
+* CG: Congo
+
+.. code-block:: yaml
+
+    ISO_639-3: kkj
+    alternate_names:
+    - Kaka
+    - Nkoxo
+    - Yaka
+    - Mkako
+    anglicanized_name: Kako
+    country_codes:
+    - CM
+    - CF
+    - CG
+    gateway_language: fr
+    lang_code: kkj
+    lang_direction: ltr
+    lang_name: Kako
+    lang_region: Africa
+    

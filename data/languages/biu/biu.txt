@@ -1,0 +1,25 @@
+.. _biu:
+
+Biete
+-----
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: biu
+    alternate_names:
+    - Baite
+    - Bete
+    - Biate
+    anglicanized_name: Biete
+    country_codes:
+    - IN
+    gateway_language: as
+    lang_code: biu
+    lang_direction: ltr
+    lang_name: Biete
+    lang_region: Asia
+    

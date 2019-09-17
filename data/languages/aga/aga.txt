@@ -1,0 +1,26 @@
+.. _aga:
+
+Aguano
+------
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: aga
+    alternate_names:
+    - Aguanu
+    - Awano
+    - Santa Crucino
+    - Uguano
+    anglicanized_name: Aguano
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: aga
+    lang_direction: ltr
+    lang_name: Aguano
+    lang_region: Americas
+    

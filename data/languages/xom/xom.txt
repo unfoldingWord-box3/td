@@ -1,0 +1,32 @@
+.. _xom:
+
+Komo (Sudan)
+------------
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: xom
+    alternate_names:
+    - Central Koma
+    - Koma
+    - Madiin
+    - South Koma
+    - Como
+    - Gokwom
+    - Hayahaya
+    - Aru
+    anglicanized_name: Komo
+    country_codes:
+    - ET
+    - SD
+    gateway_language: ar
+    lang_code: xom
+    lang_direction: ltr
+    lang_name: Komo (Sudan)
+    lang_region: Africa
+    

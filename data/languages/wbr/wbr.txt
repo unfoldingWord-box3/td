@@ -1,0 +1,35 @@
+.. _wbr:
+
+Wagdi
+-----
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: wbr
+    alternate_names:
+    - Bhili
+    - Bhilodi
+    - Mina Bhil
+    - Vagadi
+    - Vagari
+    - Vagdi
+    - Vaged
+    - Vageri
+    - Vagi
+    - Wagari
+    - Waghari
+    - Wagholi
+    - Wagri
+    anglicanized_name: Wagdi
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: wbr
+    lang_direction: ltr
+    lang_name: Wagdi
+    lang_region: Asia
+    

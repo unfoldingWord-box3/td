@@ -1,0 +1,25 @@
+.. _dee:
+
+Dewoin
+------
+
+This language is spoken in the following countries:
+
+* LR: Liberia
+
+.. code-block:: yaml
+
+    ISO_639-3: dee
+    alternate_names:
+    - De
+    - Dewoi
+    - Dey
+    anglicanized_name: Dewoin
+    country_codes:
+    - LR
+    gateway_language: en
+    lang_code: dee
+    lang_direction: ltr
+    lang_name: Dewoin
+    lang_region: Africa
+    

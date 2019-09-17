@@ -1,0 +1,22 @@
+.. _tce:
+
+Southern Tutchone
+-----------------
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: tce
+    alternate_names: []
+    anglicanized_name: Tutchone, Southern
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: tce
+    lang_direction: ltr
+    lang_name: Southern Tutchone
+    lang_region: Americas
+    

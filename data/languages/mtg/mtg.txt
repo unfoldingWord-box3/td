@@ -1,0 +1,26 @@
+.. _mtg:
+
+Una
+---
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mtg
+    alternate_names:
+    - Goliath
+    - Langda
+    - Mt. Goliath
+    - Oranje-Gebergte
+    anglicanized_name: Una
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mtg
+    lang_direction: ltr
+    lang_name: Una
+    lang_region: Asia
+    

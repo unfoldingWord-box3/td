@@ -1,0 +1,24 @@
+.. _lec:
+
+Leco
+----
+
+This language is spoken in the following countries:
+
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: lec
+    alternate_names:
+    - Leko
+    - Rik'a
+    anglicanized_name: Leco
+    country_codes:
+    - BO
+    gateway_language: es-419
+    lang_code: lec
+    lang_direction: ltr
+    lang_name: Leco
+    lang_region: Americas
+    

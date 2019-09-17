@@ -1,0 +1,60 @@
+.. _lis:
+
+傈僳语
+---------
+
+This language is spoken in the following countries:
+
+* CN: China
+* TH: Thailand
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: lis
+    alternate_names:
+    - Chedi
+    - Cheli
+    - Chung
+    - Khae
+    - Leisu
+    - Leshuoopa
+    - Lesuo
+    - Li
+    - Li-Hsaw
+    - Lip'a
+    - Lisaw
+    - Li-Shaw
+    - Lishu
+    - Liso
+    - Lissu
+    - Loisu
+    - Lusu
+    - Lu-Tzu
+    - Yao Yen
+    - Yaw Yin
+    - Yaw-Yen
+    - Yeh-Jen
+    - Central Lisu
+    - Yeh-Jeh
+    - Hwa Lisu (Flowery Lisu)
+    - Ninglang Lisu
+    - Northern Lisu
+    - Shibacha Lisu
+    - Hei Lisu (Black Lisu)
+    - Dechang Lisu
+    - Black Lisu
+    - Bai Lisu (White Lisu)
+    - Nujiang Lisu
+    - Hua Lisu (Flowery Lisu)
+    anglicanized_name: Lisu
+    country_codes:
+    - CN
+    - TH
+    - MM
+    gateway_language: zh
+    lang_code: lis
+    lang_direction: ltr
+    lang_name: 傈僳语
+    lang_region: Asia
+    

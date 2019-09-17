@@ -1,0 +1,44 @@
+.. _ht:
+
+Kreyòl ayisyen
+---------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/hat>`__ identifies this language as ``hat``.
+
+This language is spoken in the following countries:
+
+* CU: Cuba
+* DM: Dominica
+* GF: French Guiana
+* HT: Haiti
+* JM: Jamaica
+* US: United States of America
+* CA: Canada
+* GP: Guadeloupe
+* DO: Dominican Republic
+* MQ: Martinique
+
+.. code-block:: yaml
+
+    ISO_639-3: hat
+    alternate_names:
+    - Creole
+    - Haitian Creole
+    anglicanized_name: Haitian, Haitian Creole
+    country_codes:
+    - CU
+    - DM
+    - GF
+    - HT
+    - JM
+    - US
+    - CA
+    - GP
+    - DO
+    - MQ
+    gateway_language: fr
+    lang_code: ht
+    lang_direction: ltr
+    lang_name: Kreyòl ayisyen
+    lang_region: Americas
+    

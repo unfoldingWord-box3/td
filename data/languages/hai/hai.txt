@@ -1,0 +1,22 @@
+.. _hai:
+
+Haida
+-----
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: hai
+    alternate_names: []
+    anglicanized_name: Haida
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: hai
+    lang_direction: ltr
+    lang_name: Haida
+    lang_region: Americas
+    

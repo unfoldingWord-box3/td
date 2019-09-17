@@ -1,0 +1,23 @@
+.. _zum:
+
+کمزاری
+------------
+
+This language is spoken in the following countries:
+
+* OM: Oman
+
+.. code-block:: yaml
+
+    ISO_639-3: zum
+    alternate_names:
+    - Kumzai
+    anglicanized_name: Kumzari
+    country_codes:
+    - OM
+    gateway_language: ar
+    lang_code: zum
+    lang_direction: ltr
+    lang_name: کمزاری
+    lang_region: Asia
+    

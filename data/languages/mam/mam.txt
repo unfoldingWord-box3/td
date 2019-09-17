@@ -1,0 +1,47 @@
+.. _mam:
+
+Mam
+---
+
+This language is spoken in the following countries:
+
+* GT: Guatemala
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: mam
+    alternate_names:
+    - Huehuetenango Mam
+    - Todos Santos Mam
+    - Western Mam
+    - Tacana Mam
+    - Tacaná Mam
+    - Tacanec (Mame)
+    - Tacanec (Mamé)
+    - Tacaneco
+    - Tiló
+    - Southern Mam (Mam Quetzalteco)
+    - Mam Occidental
+    - Tajumulco
+    - San Juan Ostuncalco Mam
+    - Ostuncalco Mam
+    - Mam Marquense
+    - Mam del sur
+    - Mam del Soconusco
+    - Mam del norte
+    - Mam de la Sierra
+    - Mam de la frontera
+    - Central Mam (Comitancillo Mam)
+    - Quetzaltenango Mam
+    - San Marcos Comitancillas Mam
+    anglicanized_name: Mam
+    country_codes:
+    - GT
+    - US
+    gateway_language: es-419
+    lang_code: mam
+    lang_direction: ltr
+    lang_name: Mam
+    lang_region: Americas
+    

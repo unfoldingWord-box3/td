@@ -1,0 +1,27 @@
+.. _sbl:
+
+Botolan Sambal
+--------------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: sbl
+    alternate_names:
+    - Aeta Negrito
+    - Ayta Hambali
+    - Botolan Zambal
+    - Ayta Hambali (Hambali Botolan)
+    - Sambali Botolan
+    anglicanized_name: Sambal, Botolan
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: sbl
+    lang_direction: ltr
+    lang_name: Botolan Sambal
+    lang_region: Asia
+    

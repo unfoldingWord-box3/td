@@ -1,0 +1,23 @@
+.. _lto:
+
+Tsotso
+------
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: lto
+    alternate_names:
+    - Tsotso
+    anglicanized_name: Olutsotso
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: lto
+    lang_direction: ltr
+    lang_name: Tsotso
+    lang_region: Africa
+    

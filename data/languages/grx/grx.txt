@@ -1,0 +1,22 @@
+.. _grx:
+
+Guriaso
+-------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: grx
+    alternate_names: []
+    anglicanized_name: Guriaso
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: grx
+    lang_direction: ltr
+    lang_name: Guriaso
+    lang_region: Pacific
+    

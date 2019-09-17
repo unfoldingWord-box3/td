@@ -1,0 +1,24 @@
+.. _hwa:
+
+Wané
+-----
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: hwa
+    alternate_names:
+    - Hwane
+    - Ngwané
+    anglicanized_name: Wané
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: hwa
+    lang_direction: ltr
+    lang_name: Wané
+    lang_region: Africa
+    

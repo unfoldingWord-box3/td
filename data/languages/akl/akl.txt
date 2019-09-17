@@ -1,0 +1,26 @@
+.. _akl:
+
+Aklanon
+-------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: akl
+    alternate_names:
+    - Aklan
+    - Aklano
+    - Aklanon-Bisayan
+    - Panay
+    anglicanized_name: Inakeanon
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: akl
+    lang_direction: ltr
+    lang_name: Aklanon
+    lang_region: Asia
+    

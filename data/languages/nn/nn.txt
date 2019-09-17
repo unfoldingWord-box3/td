@@ -1,0 +1,38 @@
+.. _nn:
+
+Norsk nynorsk
+-------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/nno>`__ identifies this language as ``nno``.
+
+This language is spoken in the following countries:
+
+* GB: United Kingdom of Great Britain and Northern Ireland
+* SE: Sweden
+* US: United States of America
+* CA: Canada
+* EC: Ecuador
+* DK: Denmark
+* IS: Iceland
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: nno
+    alternate_names: []
+    anglicanized_name: Norwegian Nynorsk
+    country_codes:
+    - GB
+    - SE
+    - US
+    - CA
+    - EC
+    - DK
+    - IS
+    gateway_language: null
+    lang_code: nn
+    lang_direction: ltr
+    lang_name: Norsk nynorsk
+    lang_region: Europe
+    

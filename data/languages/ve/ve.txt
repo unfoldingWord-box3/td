@@ -1,0 +1,34 @@
+.. _ve:
+
+Tshivenḓa
+-----------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ven>`__ identifies this language as ``ven``.
+
+This language is spoken in the following countries:
+
+* ZA: South Africa
+* ZW: Zimbabwe
+
+.. code-block:: yaml
+
+    ISO_639-3: ven
+    alternate_names:
+    - Chivenda
+    - Cevenda
+    - Tshivenda
+    - Ilafuri
+    - Mbedzi
+    - Lembetu
+    - Guvhu
+    - Manda
+    anglicanized_name: Venda
+    country_codes:
+    - ZA
+    - ZW
+    gateway_language: en
+    lang_code: ve
+    lang_direction: ltr
+    lang_name: Tshivenḓa
+    lang_region: Africa
+    

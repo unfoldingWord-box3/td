@@ -1,0 +1,24 @@
+.. _tmm:
+
+Tai Thanh
+---------
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: tmm
+    alternate_names:
+    - Táy Thanh
+    - Thanh
+    anglicanized_name: Tai Thanh
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: tmm
+    lang_direction: ltr
+    lang_name: Tai Thanh
+    lang_region: Asia
+    

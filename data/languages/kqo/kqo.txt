@@ -1,0 +1,27 @@
+.. _kqo:
+
+Eastern Krahn
+-------------
+
+This language is spoken in the following countries:
+
+* LR: Liberia
+
+.. code-block:: yaml
+
+    ISO_639-3: kqo
+    alternate_names:
+    - Eastern Kran
+    - Kran
+    - Gorbo
+    - Tchien (Chiehn)
+    - Kanneh
+    anglicanized_name: Krahn, Eastern
+    country_codes:
+    - LR
+    gateway_language: en
+    lang_code: kqo
+    lang_direction: ltr
+    lang_name: Eastern Krahn
+    lang_region: Africa
+    

@@ -1,0 +1,25 @@
+.. _snl:
+
+Sangil
+------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: snl
+    alternate_names:
+    - Sanggil
+    - Sangiré
+    - Sarangani
+    anglicanized_name: Sangil
+    country_codes:
+    - PH
+    gateway_language: ceb
+    lang_code: snl
+    lang_direction: ltr
+    lang_name: Sangil
+    lang_region: Asia
+    

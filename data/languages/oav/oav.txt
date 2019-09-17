@@ -1,0 +1,24 @@
+.. _oav:
+
+Old Avar
+--------
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: oav
+    alternate_names: []
+    anglicanized_name: Old Avar
+    country_codes:
+    - RU
+    gateway_language: null
+    lang_code: oav
+    lang_direction: ltr
+    lang_name: Old Avar
+    lang_region: Europe
+    

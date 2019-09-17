@@ -1,0 +1,30 @@
+.. _lzz:
+
+Laz
+---
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: lzz
+    alternate_names:
+    - Chan
+    - Chanuri
+    - Chanzan
+    - Laze
+    - Zan
+    - Vice-Arxava (Vital-Arkhava)
+    - Xopa (Hopa)
+    - Chxala (Ckhala)
+    anglicanized_name: Laz
+    country_codes:
+    - TR
+    gateway_language: tr
+    lang_code: lzz
+    lang_direction: ltr
+    lang_name: Laz
+    lang_region: Asia
+    

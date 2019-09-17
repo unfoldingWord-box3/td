@@ -1,0 +1,34 @@
+.. _sjm:
+
+Mapun
+-----
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: sjm
+    alternate_names:
+    - Bajau Kagayan
+    - Cagayan de Sulu
+    - Jama Mapun
+    - Kagayan
+    - Orang Cagayan
+    - Sama Mapun
+    - Cagayan
+    - Cagayanen
+    - Cagayano
+    - Orang
+    anglicanized_name: Mapun
+    country_codes:
+    - MY
+    - PH
+    gateway_language: en
+    lang_code: sjm
+    lang_direction: ltr
+    lang_name: Mapun
+    lang_region: Asia
+    

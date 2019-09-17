@@ -1,0 +1,25 @@
+.. _omt:
+
+Omotik
+------
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: omt
+    alternate_names:
+    - Laamoot
+    - Omotic
+    - Ndorobo
+    anglicanized_name: Omotik
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: omt
+    lang_direction: ltr
+    lang_name: Omotik
+    lang_region: Africa
+    

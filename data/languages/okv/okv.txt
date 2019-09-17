@@ -1,0 +1,26 @@
+.. _okv:
+
+Orokaiva
+--------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: okv
+    alternate_names:
+    - Etija (Sohe)
+    - Ihane
+    - Sose
+    - Ehija (Ifane)
+    anglicanized_name: Orokaiva
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: okv
+    lang_direction: ltr
+    lang_name: Orokaiva
+    lang_region: Pacific
+    

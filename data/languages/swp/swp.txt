@@ -1,0 +1,26 @@
+.. _swp:
+
+Suau
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: swp
+    alternate_names:
+    - Sinaki (Gadaisu)
+    - Gaidasu
+    - Fife Bay
+    - Lausaha (Daui)
+    anglicanized_name: Suau
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: swp
+    lang_direction: ltr
+    lang_name: Suau
+    lang_region: Pacific
+    

@@ -1,0 +1,27 @@
+.. _kyo:
+
+Kelon
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kyo
+    alternate_names:
+    - Kalong
+    - Kelon
+    - Kolon
+    - Klon Bring
+    - Klon Paneia
+    anglicanized_name: Klon
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kyo
+    lang_direction: ltr
+    lang_name: Kelon
+    lang_region: Asia
+    

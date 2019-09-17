@@ -1,0 +1,24 @@
+.. _cu:
+
+ѩзыкъ словѣньскъ
+-------------------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/chu>`__ identifies this language as ``chu``.
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: chu
+    alternate_names: []
+    anglicanized_name: Old Church Slavonic, Church Slavonic, Old Bulgarian
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: cu
+    lang_direction: ltr
+    lang_name: ѩзыкъ словѣньскъ
+    lang_region: Europe
+    

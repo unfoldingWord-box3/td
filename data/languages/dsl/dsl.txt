@@ -1,0 +1,22 @@
+.. _dsl:
+
+Danish Sign Language
+--------------------
+
+This language is spoken in the following countries:
+
+* DK: Denmark
+
+.. code-block:: yaml
+
+    ISO_639-3: dsl
+    alternate_names: []
+    anglicanized_name: Danish Sign Language
+    country_codes:
+    - DK
+    gateway_language: en
+    lang_code: dsl
+    lang_direction: ltr
+    lang_name: Danish Sign Language
+    lang_region: Europe
+    

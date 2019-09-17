@@ -1,0 +1,29 @@
+.. _acz:
+
+Garme
+-----
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: acz
+    alternate_names:
+    - Gathuk (Western Acheron)
+    - Gandok (Eastern Acheron)
+    - Garong
+    - Aceron
+    - Achurun
+    - Asheron
+    - Garme
+    anglicanized_name: Acheron
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: acz
+    lang_direction: ltr
+    lang_name: Garme
+    lang_region: Africa
+    

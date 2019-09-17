@@ -1,0 +1,25 @@
+.. _ymx:
+
+Northern Muji
+-------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: ymx
+    alternate_names:
+    - Bokha
+    - Hlaka Mujima
+    - Phula
+    anglicanized_name: Muji, Northern
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: ymx
+    lang_direction: ltr
+    lang_name: Northern Muji
+    lang_region: Asia
+    

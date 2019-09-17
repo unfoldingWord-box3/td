@@ -1,0 +1,26 @@
+.. _onp:
+
+Sartang
+-------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: onp
+    alternate_names:
+    - Bootpa
+    - But Monpa
+    - But Pa
+    - Matchopa
+    anglicanized_name: Sartang
+    country_codes:
+    - IN
+    gateway_language: en
+    lang_code: onp
+    lang_direction: ltr
+    lang_name: Sartang
+    lang_region: Asia
+    

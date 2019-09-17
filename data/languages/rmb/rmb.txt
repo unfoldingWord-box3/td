@@ -1,0 +1,26 @@
+.. _rmb:
+
+Rembarunga
+----------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: rmb
+    alternate_names:
+    - Kaltuy
+    - Rainbargo
+    - Rembarranga
+    - Rembarrunga
+    anglicanized_name: Rembarunga
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: rmb
+    lang_direction: ltr
+    lang_name: Rembarunga
+    lang_region: Pacific
+    

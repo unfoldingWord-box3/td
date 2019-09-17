@@ -1,0 +1,23 @@
+.. _rsb:
+
+Romano-Serbian
+--------------
+
+This language is spoken in the following countries:
+
+* RS: Serbia
+
+.. code-block:: yaml
+
+    ISO_639-3: rsb
+    alternate_names:
+    - Tent Gypsy
+    anglicanized_name: Romano-Serbian
+    country_codes:
+    - RS
+    gateway_language: en
+    lang_code: rsb
+    lang_direction: ltr
+    lang_name: Romano-Serbian
+    lang_region: Europe
+    

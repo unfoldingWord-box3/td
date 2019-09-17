@@ -1,0 +1,28 @@
+.. _dsq:
+
+Tadaksahak
+----------
+
+This language is spoken in the following countries:
+
+* DZ: Algeria
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: dsq
+    alternate_names:
+    - Daosahaq
+    - Daoussahaq
+    - Daoussak
+    - Dawsahaq
+    anglicanized_name: Tadaksahak
+    country_codes:
+    - DZ
+    - ML
+    gateway_language: fr
+    lang_code: dsq
+    lang_direction: ltr
+    lang_name: Tadaksahak
+    lang_region: Africa
+    

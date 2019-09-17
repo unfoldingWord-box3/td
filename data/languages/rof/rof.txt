@@ -1,0 +1,24 @@
+.. _rof:
+
+Rombo
+-----
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: rof
+    alternate_names:
+    - Kirombo
+    - Usseri
+    anglicanized_name: Rombo
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: rof
+    lang_direction: ltr
+    lang_name: Rombo
+    lang_region: Africa
+    

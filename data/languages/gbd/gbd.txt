@@ -1,0 +1,27 @@
+.. _gbd:
+
+Karadjeri
+---------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: gbd
+    alternate_names:
+    - Garadjiri
+    - Garadyari
+    - Gard'are
+    - Guradjara
+    - Karrajarri
+    anglicanized_name: Karadjeri
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: gbd
+    lang_direction: ltr
+    lang_name: Karadjeri
+    lang_region: Pacific
+    

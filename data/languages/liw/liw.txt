@@ -1,0 +1,26 @@
+.. _liw:
+
+Col
+---
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: liw
+    alternate_names:
+    - Cul
+    - Sindang
+    - Beliti; Lubuk Linggau
+    - Lembak Delapan
+    anglicanized_name: Col
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: liw
+    lang_direction: ltr
+    lang_name: Col
+    lang_region: Asia
+    

@@ -1,0 +1,29 @@
+.. _cla:
+
+Ron
+---
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: cla
+    alternate_names:
+    - Chala
+    - Challa
+    - Monguna (Maleni)
+    - Nafunfia
+    - Daffo-Butura (Lis Ma Run)
+    - Bokkos (Alis I Run)
+    - Shagawu
+    anglicanized_name: Ron
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: cla
+    lang_direction: ltr
+    lang_name: Ron
+    lang_region: Africa
+    

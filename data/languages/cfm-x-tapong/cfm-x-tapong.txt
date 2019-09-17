@@ -1,0 +1,22 @@
+.. _cfm-x-tapong:
+
+Tapong
+------
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: cfm-x-tapong
+    lang_direction: ltr
+    lang_name: Tapong
+    lang_region: Asia
+    

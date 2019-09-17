@@ -1,0 +1,28 @@
+.. _tdu:
+
+Tempasuk Dusun
+--------------
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names:
+    - Kedamaian Dusun
+    - Tampasok
+    - Tampassuk
+    - Tampasuk
+    - Tempasok
+    - Tindal
+    anglicanized_name: Dusun, Tempasuk
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: tdu
+    lang_direction: ltr
+    lang_name: Tempasuk Dusun
+    lang_region: Asia
+    

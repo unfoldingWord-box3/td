@@ -1,0 +1,22 @@
+.. _lgi:
+
+Lengilu
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: lgi
+    alternate_names: []
+    anglicanized_name: Lengilu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: lgi
+    lang_direction: ltr
+    lang_name: Lengilu
+    lang_region: Asia
+    

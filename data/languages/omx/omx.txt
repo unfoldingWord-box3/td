@@ -1,0 +1,24 @@
+.. _omx:
+
+Old Mon
+-------
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: omx
+    alternate_names: []
+    anglicanized_name: Old Mon
+    country_codes:
+    - MM
+    gateway_language: null
+    lang_code: omx
+    lang_direction: ltr
+    lang_name: Old Mon
+    lang_region: Asia
+    

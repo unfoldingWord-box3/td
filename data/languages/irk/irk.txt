@@ -1,0 +1,26 @@
+.. _irk:
+
+Iraqw
+-----
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: irk
+    alternate_names:
+    - Erokh
+    - Iraku
+    - Kiiraqw
+    - Mbulunge
+    anglicanized_name: Iraqw
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: irk
+    lang_direction: ltr
+    lang_name: Iraqw
+    lang_region: Africa
+    

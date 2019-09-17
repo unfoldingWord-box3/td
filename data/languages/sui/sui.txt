@@ -1,0 +1,23 @@
+.. _sui:
+
+Suki
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: sui
+    alternate_names:
+    - Wiram
+    anglicanized_name: Suki
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: sui
+    lang_direction: ltr
+    lang_name: Suki
+    lang_region: Pacific
+    

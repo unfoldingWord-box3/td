@@ -1,0 +1,22 @@
+.. _lou:
+
+Louisiana Creole French
+-----------------------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: lou
+    alternate_names: []
+    anglicanized_name: Louisiana Creole
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: lou
+    lang_direction: ltr
+    lang_name: Louisiana Creole French
+    lang_region: Americas
+    

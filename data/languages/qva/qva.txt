@@ -1,0 +1,23 @@
+.. _qva:
+
+Ambo-Pasco Quechua
+------------------
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: qva
+    alternate_names:
+    - San Rafael-Huariaca Quechua
+    anglicanized_name: Quechua, Ambo-Pasco
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: qva
+    lang_direction: ltr
+    lang_name: Ambo-Pasco Quechua
+    lang_region: Americas
+    

@@ -1,0 +1,24 @@
+.. _gmy:
+
+Mycenaean Greek
+---------------
+
+This language is spoken in the following countries:
+
+* GR: Greece
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: gmy
+    alternate_names: []
+    anglicanized_name: Mycenaean Greek
+    country_codes:
+    - GR
+    gateway_language: null
+    lang_code: gmy
+    lang_direction: ltr
+    lang_name: Mycenaean Greek
+    lang_region: Europe
+    

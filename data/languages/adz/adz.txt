@@ -1,0 +1,30 @@
+.. _adz:
+
+Adzera
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: adz
+    alternate_names:
+    - Guruf-Ngariawang (Ngariawan)
+    - Amari
+    - Tsumanggorun
+    - Yarus
+    - Ngarowapum
+    - Acira
+    - Atzera
+    - Azera
+    anglicanized_name: Adzera
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: adz
+    lang_direction: ltr
+    lang_name: Adzera
+    lang_region: Pacific
+    

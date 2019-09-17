@@ -1,0 +1,28 @@
+.. _zmx:
+
+Bomitaba
+--------
+
+This language is spoken in the following countries:
+
+* CG: Congo
+
+.. code-block:: yaml
+
+    ISO_639-3: zmx
+    alternate_names:
+    - Bamitaba
+    - Leke
+    - Mbomitaba
+    - Mbomotaba
+    - Central Bomitaba (Epena)
+    - Northern Bomitaba (Matoki)
+    anglicanized_name: Bomitaba
+    country_codes:
+    - CG
+    gateway_language: fr
+    lang_code: zmx
+    lang_direction: ltr
+    lang_name: Bomitaba
+    lang_region: Africa
+    

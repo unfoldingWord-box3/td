@@ -1,0 +1,28 @@
+.. _ngy:
+
+Tibea
+-----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: ngy
+    alternate_names:
+    - Djanti
+    - Minjanti
+    - Ngayaba
+    - Njanti
+    - Nyabea
+    - Zangnte
+    anglicanized_name: Tibea
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: ngy
+    lang_direction: ltr
+    lang_name: Tibea
+    lang_region: Africa
+    

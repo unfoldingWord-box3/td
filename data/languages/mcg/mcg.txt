@@ -1,0 +1,27 @@
+.. _mcg:
+
+Mapoyo
+------
+
+This language is spoken in the following countries:
+
+* VE: Venezuela (Bolivarian Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: mcg
+    alternate_names:
+    - Mapayo
+    - Mapoye
+    - Mopoi
+    - Nepoye
+    - Wanai
+    anglicanized_name: Mapoyo
+    country_codes:
+    - VE
+    gateway_language: es-419
+    lang_code: mcg
+    lang_direction: ltr
+    lang_name: Mapoyo
+    lang_region: Americas
+    

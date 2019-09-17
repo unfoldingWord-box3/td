@@ -1,0 +1,25 @@
+.. _nud:
+
+Ngala
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nud
+    alternate_names:
+    - Kara
+    - Sogap
+    - Swagup
+    anglicanized_name: Ngala
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nud
+    lang_direction: ltr
+    lang_name: Ngala
+    lang_region: Pacific
+    

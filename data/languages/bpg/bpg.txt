@@ -1,0 +1,26 @@
+.. _bpg:
+
+Bonggo
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bpg
+    alternate_names:
+    - Armopa
+    - Bgu
+    - Bogu
+    - Bongo
+    anglicanized_name: Bonggo
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bpg
+    lang_direction: ltr
+    lang_name: Bonggo
+    lang_region: Asia
+    

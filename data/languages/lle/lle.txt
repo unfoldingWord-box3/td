@@ -1,0 +1,28 @@
+.. _lle:
+
+Lele (Papua New Guinea)
+-----------------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: lle
+    alternate_names:
+    - Elu-Kara
+    - Hai
+    - Lele Hai
+    - Manus
+    - Moanus
+    - Usiai
+    anglicanized_name: Lele
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: lle
+    lang_direction: ltr
+    lang_name: Lele (Papua New Guinea)
+    lang_region: Pacific
+    

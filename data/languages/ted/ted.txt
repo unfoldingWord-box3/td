@@ -1,0 +1,31 @@
+.. _ted:
+
+Tepo Krumen
+-----------
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+* LR: Liberia
+
+.. code-block:: yaml
+
+    ISO_639-3: ted
+    alternate_names:
+    - Kroumen
+    - Kru
+    - Krumen
+    - Southern Krumen
+    - Southwestern Kroumen
+    - Yrepo (Kapo)
+    - Wlopo (Ropo)
+    anglicanized_name: Krumen, Tepo
+    country_codes:
+    - CI
+    - LR
+    gateway_language: fr
+    lang_code: ted
+    lang_direction: ltr
+    lang_name: Tepo Krumen
+    lang_region: Africa
+    

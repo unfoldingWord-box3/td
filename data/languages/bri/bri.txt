@@ -1,0 +1,35 @@
+.. _bri:
+
+Mokpwe
+------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: bri
+    alternate_names:
+    - Bakpwe
+    - Bakwedi
+    - Bakwele
+    - Bakweri
+    - Bekwiri
+    - Kwedi
+    - Kweli
+    - Kwili
+    - Kwiri
+    - Mokpe
+    - Ujuwa
+    - Vakweli
+    - Vambeng
+    anglicanized_name: Mokpwe
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: bri
+    lang_direction: ltr
+    lang_name: Mokpwe
+    lang_region: Africa
+    

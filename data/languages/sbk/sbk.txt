@@ -1,0 +1,29 @@
+.. _sbk:
+
+Safwa
+-----
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: sbk
+    alternate_names:
+    - Cisafwa
+    - Ishisafwa
+    - Kisafwa
+    - Shisafwa
+    - Mbwila (Ulenje)
+    - Central Safwa
+    - Guruka (Shisafwa)
+    anglicanized_name: Safwa
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: sbk
+    lang_direction: ltr
+    lang_name: Safwa
+    lang_region: Africa
+    

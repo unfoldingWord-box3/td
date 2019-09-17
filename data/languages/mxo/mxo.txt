@@ -1,0 +1,23 @@
+.. _mxo:
+
+Mbowe
+-----
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+
+.. code-block:: yaml
+
+    ISO_639-3: mxo
+    alternate_names:
+    - Esimbowe
+    anglicanized_name: Mbowe
+    country_codes:
+    - ZM
+    gateway_language: en
+    lang_code: mxo
+    lang_direction: ltr
+    lang_name: Mbowe
+    lang_region: Africa
+    

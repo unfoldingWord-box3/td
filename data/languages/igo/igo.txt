@@ -1,0 +1,23 @@
+.. _igo:
+
+Isebe
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: igo
+    alternate_names:
+    - Balahaim
+    anglicanized_name: Isebe
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: igo
+    lang_direction: ltr
+    lang_name: Isebe
+    lang_region: Pacific
+    

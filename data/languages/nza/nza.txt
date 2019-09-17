@@ -1,0 +1,42 @@
+.. _nza:
+
+Tigon Mbembe
+------------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: nza
+    alternate_names:
+    - Akonto
+    - Tigon
+    - Tigong
+    - Tigum
+    - Tigun
+    - Tikun
+    - Akwanto
+    - Noale
+    - Tigim
+    - Tukun
+    - Ashuku (Kitsipki)
+    - Izare
+    - Nama (Dama)
+    - Namu
+    - Ndzale
+    - Njari
+    - Nsare
+    - Nzare (Izale)
+    anglicanized_name: Mbembe, Tigon
+    country_codes:
+    - CM
+    - NG
+    gateway_language: fr
+    lang_code: nza
+    lang_direction: ltr
+    lang_name: Tigon Mbembe
+    lang_region: Africa
+    

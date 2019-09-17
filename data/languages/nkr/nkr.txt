@@ -1,0 +1,26 @@
+.. _nkr:
+
+Nukuoro
+-------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* FM: Micronesia (Federated States of)
+
+.. code-block:: yaml
+
+    ISO_639-3: nkr
+    alternate_names:
+    - Nuguor
+    - Nukoro
+    anglicanized_name: Nukuoro
+    country_codes:
+    - US
+    - FM
+    gateway_language: en
+    lang_code: nkr
+    lang_direction: ltr
+    lang_name: Nukuoro
+    lang_region: Pacific
+    

@@ -1,0 +1,25 @@
+.. _lnl:
+
+South Central Banda
+-------------------
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: lnl
+    alternate_names:
+    - Ngubu
+    - Langba (Lagba)
+    - Ngbugu (Ngbougou)
+    anglicanized_name: Banda, South Central
+    country_codes:
+    - CF
+    gateway_language: fr
+    lang_code: lnl
+    lang_direction: ltr
+    lang_name: South Central Banda
+    lang_region: Africa
+    

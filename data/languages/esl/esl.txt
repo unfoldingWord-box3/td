@@ -1,0 +1,22 @@
+.. _esl:
+
+لغة الإشارة المصرية
+------------------------------------
+
+This language is spoken in the following countries:
+
+* EG: Egypt
+
+.. code-block:: yaml
+
+    ISO_639-3: esl
+    alternate_names: []
+    anglicanized_name: Egyptian Sign Language
+    country_codes:
+    - EG
+    gateway_language: ar
+    lang_code: esl
+    lang_direction: ltr
+    lang_name: لغة الإشارة المصرية
+    lang_region: Africa
+    

@@ -1,0 +1,22 @@
+.. _zlm-x-deli:
+
+Deli
+----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Deli
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: zlm-x-deli
+    lang_direction: ltr
+    lang_name: Deli
+    lang_region: Asia
+    

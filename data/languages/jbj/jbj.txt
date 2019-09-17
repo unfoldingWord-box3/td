@@ -1,0 +1,26 @@
+.. _jbj:
+
+Arandai
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: jbj
+    alternate_names:
+    - Jaban
+    - Sebyar
+    - Yaban
+    - Dombano (Arandai)
+    anglicanized_name: Arandai
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: jbj
+    lang_direction: ltr
+    lang_name: Arandai
+    lang_region: Asia
+    

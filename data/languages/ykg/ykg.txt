@@ -1,0 +1,29 @@
+.. _ykg:
+
+Северноюкагирский
+----------------------------------
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: ykg
+    alternate_names:
+    - Jukagir
+    - Northern Yukagir
+    - Odul
+    - Tundra
+    - Tundre
+    - Wadul
+    - Yukagir
+    anglicanized_name: Yukaghir, Northern
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: ykg
+    lang_direction: ltr
+    lang_name: Северноюкагирский
+    lang_region: Europe
+    

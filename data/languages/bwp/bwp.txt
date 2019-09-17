@@ -1,0 +1,29 @@
+.. _bwp:
+
+Mandobo Bawah
+-------------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bwp
+    alternate_names:
+    - Dumut
+    - Kambon
+    - Mandobbo
+    - Nub
+    - Kaeti
+    anglicanized_name: Mandobo Bawah
+    country_codes:
+    - ID
+    - PG
+    gateway_language: id
+    lang_code: bwp
+    lang_direction: ltr
+    lang_name: Mandobo Bawah
+    lang_region: Asia
+    

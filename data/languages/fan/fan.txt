@@ -1,0 +1,37 @@
+.. _fan:
+
+Fang (Equatorial Guinea)
+------------------------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* GQ: Equatorial Guinea
+* GA: Gabon
+* US: United States of America
+* CG: Congo
+
+.. code-block:: yaml
+
+    ISO_639-3: fan
+    alternate_names:
+    - Pahouin
+    - Pamue
+    - Fang (Okak)
+    - Mvae (Mvan)
+    - Mvay
+    - Ntoumou (Ntumu)
+    - Okak (Ntumu)
+    anglicanized_name: Fang
+    country_codes:
+    - CM
+    - GQ
+    - GA
+    - US
+    - CG
+    gateway_language: es
+    lang_code: fan
+    lang_direction: ltr
+    lang_name: Fang (Equatorial Guinea)
+    lang_region: Africa
+    

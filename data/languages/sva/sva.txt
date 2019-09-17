@@ -1,0 +1,23 @@
+.. _sva:
+
+ლუშნუ ნინ
+-------------------------
+
+This language is spoken in the following countries:
+
+* GE: Georgia
+
+.. code-block:: yaml
+
+    ISO_639-3: sva
+    alternate_names:
+    - Svanuri
+    anglicanized_name: Svan
+    country_codes:
+    - GE
+    gateway_language: ru
+    lang_code: sva
+    lang_direction: ltr
+    lang_name: ლუშნუ ნინ
+    lang_region: Asia
+    

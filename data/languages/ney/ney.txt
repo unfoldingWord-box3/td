@@ -1,0 +1,24 @@
+.. _ney:
+
+Neyo
+----
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: ney
+    alternate_names:
+    - Gwibwen
+    - Towi
+    anglicanized_name: Neyo
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: ney
+    lang_direction: ltr
+    lang_name: Neyo
+    lang_region: Africa
+    

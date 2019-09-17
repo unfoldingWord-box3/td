@@ -1,0 +1,23 @@
+.. _klj:
+
+زبان خلجی
+-----------------
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: klj
+    alternate_names:
+    - Khalaj
+    anglicanized_name: Khalaj, Turkic
+    country_codes:
+    - IR
+    gateway_language: fa
+    lang_code: klj
+    lang_direction: ltr
+    lang_name: زبان خلجی
+    lang_region: Asia
+    

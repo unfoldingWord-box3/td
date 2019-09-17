@@ -1,0 +1,23 @@
+.. _ncf:
+
+Notsi
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ncf
+    alternate_names:
+    - Nochi
+    anglicanized_name: Notsi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ncf
+    lang_direction: ltr
+    lang_name: Notsi
+    lang_region: Pacific
+    

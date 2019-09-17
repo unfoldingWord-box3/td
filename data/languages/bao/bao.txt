@@ -1,0 +1,31 @@
+.. _bao:
+
+Waimaha
+-------
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: bao
+    alternate_names:
+    - Barazana
+    - Northern Barasano
+    - Waimaja
+    - Bará
+    - Barasano
+    - Eastern Waimaha
+    - Pamoa Bara
+    anglicanized_name: Waimaha
+    country_codes:
+    - BR
+    - CO
+    gateway_language: es-419
+    lang_code: bao
+    lang_direction: ltr
+    lang_name: Waimaha
+    lang_region: Americas
+    

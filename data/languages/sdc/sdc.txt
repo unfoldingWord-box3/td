@@ -1,0 +1,24 @@
+.. _sdc:
+
+Sassarese Sardinian
+-------------------
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: sdc
+    alternate_names:
+    - Northwestern Sardinian
+    - Sassarese
+    anglicanized_name: Sardinian, Sassarese
+    country_codes:
+    - IT
+    gateway_language: en
+    lang_code: sdc
+    lang_direction: ltr
+    lang_name: Sassarese Sardinian
+    lang_region: Europe
+    

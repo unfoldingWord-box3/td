@@ -1,0 +1,26 @@
+.. _mep:
+
+Miriwung
+--------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: mep
+    alternate_names:
+    - Merong
+    - Miriwoong
+    - Miriwun
+    - Mirung
+    anglicanized_name: Miriwung
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: mep
+    lang_direction: ltr
+    lang_name: Miriwung
+    lang_region: Pacific
+    

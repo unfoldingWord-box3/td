@@ -1,0 +1,28 @@
+.. _mau:
+
+Huautla Mazatec
+---------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: mau
+    alternate_names:
+    - Highland Mazatec
+    - Mazateco de Huautla de Jimenez
+    - Mazateco de la Sierra
+    - Mazateco del Centro
+    - Mazateco de presa alto
+    - Mazateco del norte
+    anglicanized_name: Mazatec, Huautla
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: mau
+    lang_direction: ltr
+    lang_name: Huautla Mazatec
+    lang_region: Americas
+    

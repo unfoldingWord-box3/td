@@ -1,0 +1,22 @@
+.. _itw:
+
+Ito
+---
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: itw
+    alternate_names: []
+    anglicanized_name: Ito
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: itw
+    lang_direction: ltr
+    lang_name: Ito
+    lang_region: Africa
+    

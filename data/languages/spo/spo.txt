@@ -1,0 +1,23 @@
+.. _spo:
+
+Spokane
+-------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: spo
+    alternate_names:
+    - Spokan
+    anglicanized_name: Spokane
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: spo
+    lang_direction: ltr
+    lang_name: Spokane
+    lang_region: Americas
+    

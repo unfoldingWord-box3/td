@@ -1,0 +1,30 @@
+.. _lse:
+
+Lusengo
+-------
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: lse
+    alternate_names:
+    - Losengo
+    - Loleko
+    - Eleku
+    - Iliku (Eleko)
+    - Kele
+    - Leko
+    - Leku
+    - Lipoto (Ingundji)
+    anglicanized_name: Lusengo
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: lse
+    lang_direction: ltr
+    lang_name: Lusengo
+    lang_region: Africa
+    

@@ -1,0 +1,24 @@
+.. _peo:
+
+Old Persian (ca. 600-400 B.C.)
+------------------------------
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: peo
+    alternate_names: []
+    anglicanized_name: Old Persian
+    country_codes:
+    - IR
+    gateway_language: null
+    lang_code: peo
+    lang_direction: ltr
+    lang_name: Old Persian (ca. 600-400 B.C.)
+    lang_region: Asia
+    

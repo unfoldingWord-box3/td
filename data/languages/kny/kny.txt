@@ -1,0 +1,24 @@
+.. _kny:
+
+Kanyok
+------
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: kny
+    alternate_names:
+    - Kanioka
+    - Kanyoka
+    anglicanized_name: Kanyok
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: kny
+    lang_direction: ltr
+    lang_name: Kanyok
+    lang_region: Africa
+    

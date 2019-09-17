@@ -1,0 +1,24 @@
+.. _xma:
+
+Mushungulu
+----------
+
+This language is spoken in the following countries:
+
+* SO: Somalia
+
+.. code-block:: yaml
+
+    ISO_639-3: xma
+    alternate_names:
+    - Kimushungulu
+    - Mushunguli
+    anglicanized_name: Mushungulu
+    country_codes:
+    - SO
+    gateway_language: ar
+    lang_code: xma
+    lang_direction: ltr
+    lang_name: Mushungulu
+    lang_region: Africa
+    

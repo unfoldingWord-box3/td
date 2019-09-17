@@ -1,0 +1,23 @@
+.. _dnu:
+
+Danau
+-----
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: dnu
+    alternate_names:
+    - Danaw
+    anglicanized_name: Danau
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: dnu
+    lang_direction: ltr
+    lang_name: Danau
+    lang_region: Asia
+    

@@ -1,0 +1,36 @@
+.. _jad:
+
+Jahanka
+-------
+
+This language is spoken in the following countries:
+
+* GM: Gambia
+* ML: Mali
+* SN: Senegal
+* GN: Guinea
+* GW: Guinea-Bissau
+
+.. code-block:: yaml
+
+    ISO_639-3: jad
+    alternate_names:
+    - Diakhanke
+    - Diakkanke
+    - Dyakanke
+    - Jahanque
+    - Jahonque
+    - Jaxanka
+    anglicanized_name: Jahanka
+    country_codes:
+    - GM
+    - ML
+    - SN
+    - GN
+    - GW
+    gateway_language: fr
+    lang_code: jad
+    lang_direction: ltr
+    lang_name: Jahanka
+    lang_region: Africa
+    

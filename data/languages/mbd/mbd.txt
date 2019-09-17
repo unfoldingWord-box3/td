@@ -1,0 +1,25 @@
+.. _mbd:
+
+Dibabawon Manobo
+----------------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: mbd
+    alternate_names:
+    - Debabaon
+    - Dibabaon
+    - Mandaya
+    anglicanized_name: Manobo, Dibabawon
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: mbd
+    lang_direction: ltr
+    lang_name: Dibabawon Manobo
+    lang_region: Asia
+    

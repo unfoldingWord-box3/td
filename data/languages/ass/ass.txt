@@ -1,0 +1,25 @@
+.. _ass:
+
+Ipulo
+-----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: ass
+    alternate_names:
+    - Assumbo
+    - Asumbo
+    - Badzumbo
+    anglicanized_name: Ipulo
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: ass
+    lang_direction: ltr
+    lang_name: Ipulo
+    lang_region: Africa
+    

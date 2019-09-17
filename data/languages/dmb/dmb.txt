@@ -1,0 +1,25 @@
+.. _dmb:
+
+Mombo Dogon
+-----------
+
+This language is spoken in the following countries:
+
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: dmb
+    alternate_names:
+    - Kolum-so
+    - Kolu-so
+    - Pignari
+    anglicanized_name: Dogon, Mombo
+    country_codes:
+    - ML
+    gateway_language: fr
+    lang_code: dmb
+    lang_direction: ltr
+    lang_name: Mombo Dogon
+    lang_region: Africa
+    

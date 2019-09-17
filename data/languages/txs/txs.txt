@@ -1,0 +1,23 @@
+.. _txs:
+
+Tonsea
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: txs
+    alternate_names:
+    - Tonsea'
+    anglicanized_name: Tonsea
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: txs
+    lang_direction: ltr
+    lang_name: Tonsea
+    lang_region: Asia
+    

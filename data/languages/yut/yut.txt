@@ -1,0 +1,23 @@
+.. _yut:
+
+Yopno
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: yut
+    alternate_names:
+    - Yupna
+    anglicanized_name: Yopno
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: yut
+    lang_direction: ltr
+    lang_name: Yopno
+    lang_region: Pacific
+    

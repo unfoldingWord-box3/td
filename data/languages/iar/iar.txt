@@ -1,0 +1,26 @@
+.. _iar:
+
+Purari
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: iar
+    alternate_names:
+    - Evorra
+    - Maipua
+    - Namau
+    - Iai (Namau)
+    anglicanized_name: Purari
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: iar
+    lang_direction: ltr
+    lang_name: Purari
+    lang_region: Pacific
+    

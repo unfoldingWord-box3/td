@@ -1,0 +1,28 @@
+.. _wua:
+
+Wikngenchera
+------------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: wua
+    alternate_names:
+    - Nantjara
+    - Ngandjara
+    - Ngantjeri
+    - Njinturawik-Nganhcara
+    - Wik
+    - Wik-Nantjara
+    anglicanized_name: Wikngenchera
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: wua
+    lang_direction: ltr
+    lang_name: Wikngenchera
+    lang_region: Pacific
+    

@@ -1,0 +1,27 @@
+.. _ego:
+
+Eggon
+-----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ego
+    alternate_names:
+    - Egon
+    - Hill Mada
+    - Mada Dutse
+    - Mada Eggon
+    - Mo Egon
+    anglicanized_name: Eggon
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ego
+    lang_direction: ltr
+    lang_name: Eggon
+    lang_region: Africa
+    

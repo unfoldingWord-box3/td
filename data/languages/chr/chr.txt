@@ -1,0 +1,30 @@
+.. _chr:
+
+Cherokee
+--------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: chr
+    alternate_names:
+    - Tsalagi
+    - Tslagi
+    - Upper Cherokee
+    - Western Cherokee
+    - Otali (Overhill Cherokee)
+    - Kituhwa (Middle Cherokee)
+    - Elati (Eastern Cherokee)
+    - Lower Cherokee
+    anglicanized_name: Cherokee
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: chr
+    lang_direction: ltr
+    lang_name: Cherokee
+    lang_region: Americas
+    

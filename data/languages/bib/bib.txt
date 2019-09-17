@@ -1,0 +1,29 @@
+.. _bib:
+
+Bissa
+-----
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+* GH: Ghana
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: bib
+    alternate_names:
+    - Bissa
+    - Baraka (Eastern Bisa)
+    - Lebir (Western Bisa)
+    anglicanized_name: Bisa
+    country_codes:
+    - BF
+    - GH
+    - TG
+    gateway_language: fr
+    lang_code: bib
+    lang_direction: ltr
+    lang_name: Bissa
+    lang_region: Africa
+    

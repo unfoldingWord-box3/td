@@ -1,0 +1,24 @@
+.. _kbu:
+
+Kabutra
+-------
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: kbu
+    alternate_names:
+    - Nat
+    - Natra
+    anglicanized_name: Kabutra
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: kbu
+    lang_direction: ltr
+    lang_name: Kabutra
+    lang_region: Asia
+    

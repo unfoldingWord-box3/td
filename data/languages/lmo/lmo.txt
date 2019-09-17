@@ -1,0 +1,34 @@
+.. _lmo:
+
+Lombard
+-------
+
+This language is spoken in the following countries:
+
+* CH: Switzerland
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: lmo
+    alternate_names:
+    - Lombardo
+    - Ticinese (Tessinian)
+    - Western Lombard (Nicosia)
+    - Ticinese (Ticino)
+    - Ticines
+    - San Fratello
+    - Piazza Armerina
+    - Novara
+    - Ticinees
+    - Ticino
+    anglicanized_name: Lombard
+    country_codes:
+    - CH
+    - IT
+    gateway_language: en
+    lang_code: lmo
+    lang_direction: ltr
+    lang_name: Lombard
+    lang_region: Europe
+    

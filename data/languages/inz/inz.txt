@@ -1,0 +1,22 @@
+.. _inz:
+
+Ineseño
+--------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: inz
+    alternate_names: []
+    anglicanized_name: Ineseño
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: inz
+    lang_direction: ltr
+    lang_name: Ineseño
+    lang_region: Americas
+    

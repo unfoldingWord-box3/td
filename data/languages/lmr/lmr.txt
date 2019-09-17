@@ -1,0 +1,25 @@
+.. _lmr:
+
+Lamalera
+--------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: lmr
+    alternate_names:
+    - Kawela
+    - Lebatukan
+    - Mulan
+    anglicanized_name: Lamalera
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: lmr
+    lang_direction: ltr
+    lang_name: Lamalera
+    lang_region: Asia
+    

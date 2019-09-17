@@ -1,0 +1,26 @@
+.. _lum:
+
+Luimbi
+------
+
+This language is spoken in the following countries:
+
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: lum
+    alternate_names:
+    - Chiluimbi
+    - Luimbe
+    - Lwimbe
+    - Lwimbi
+    anglicanized_name: Luimbi
+    country_codes:
+    - AO
+    gateway_language: pt
+    lang_code: lum
+    lang_direction: ltr
+    lang_name: Luimbi
+    lang_region: Africa
+    

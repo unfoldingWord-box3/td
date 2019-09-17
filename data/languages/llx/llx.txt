@@ -1,0 +1,22 @@
+.. _llx:
+
+Lauan
+-----
+
+This language is spoken in the following countries:
+
+* FJ: Fiji
+
+.. code-block:: yaml
+
+    ISO_639-3: llx
+    alternate_names: []
+    anglicanized_name: Lauan
+    country_codes:
+    - FJ
+    gateway_language: en
+    lang_code: llx
+    lang_direction: ltr
+    lang_name: Lauan
+    lang_region: Pacific
+    

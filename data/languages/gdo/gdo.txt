@@ -1,0 +1,25 @@
+.. _gdo:
+
+Годоберинский
+--------------------------
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: gdo
+    alternate_names:
+    - Godoberi
+    - Godoberin
+    - Zibirkhali
+    anglicanized_name: Ghodoberi
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: gdo
+    lang_direction: ltr
+    lang_name: Годоберинский
+    lang_region: Europe
+    

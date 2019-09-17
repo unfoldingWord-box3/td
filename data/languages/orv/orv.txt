@@ -1,0 +1,24 @@
+.. _orv:
+
+Древнерусский язык
+-----------------------------------
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: orv
+    alternate_names: []
+    anglicanized_name: Old Russian
+    country_codes:
+    - RU
+    gateway_language: null
+    lang_code: orv
+    lang_direction: ltr
+    lang_name: Древнерусский язык
+    lang_region: Europe
+    

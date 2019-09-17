@@ -1,0 +1,25 @@
+.. _suk:
+
+Sukuma
+------
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: suk
+    alternate_names:
+    - Gwe (Kigwe)
+    anglicanized_name: Sukuma
+    country_codes:
+    - TZ
+    - CA
+    gateway_language: sw
+    lang_code: suk
+    lang_direction: ltr
+    lang_name: Sukuma
+    lang_region: Africa
+    

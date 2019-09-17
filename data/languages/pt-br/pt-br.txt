@@ -1,0 +1,104 @@
+.. _pt-br:
+
+Português
+----------
+
+This language is spoken in the following countries:
+
+* AT: Austria
+* BE: Belgium
+* BR: Brazil
+* AR: Argentina
+* FR: France
+* GF: French Guiana
+* DE: Germany
+* VE: Venezuela (Bolivarian Republic of)
+* GY: Guyana
+* IL: Israel
+* JE: Jersey
+* ES: Spain
+* GB: United Kingdom of Great Britain and Northern Ireland
+* VC: Saint Vincent and the Grenadines
+* JM: Jamaica
+* MZ: Mozambique
+* NL: Netherlands
+* PY: Paraguay
+* AD: Andorra
+* ZA: South Africa
+* CH: Switzerland
+* SN: Senegal
+* US: United States of America
+* ZM: Zambia
+* ZW: Zimbabwe
+* AU: Australia
+* CG: Congo
+* BO: Bolivia (Plurinational State of)
+* CA: Canada
+* AO: Angola
+* GW: Guinea-Bissau
+* IT: Italy
+* LU: Luxembourg
+* MW: Malawi
+* PT: Portugal
+* SR: Suriname
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names:
+    - Português
+    - Alentejan (Alentejano)
+    - Minhotan (Minhoto)
+    - Uruguayan Portuguese
+    - Transmontan (Transmontano)
+    - Portuñol
+    - Portunhol
+    - Madeirese (Madeirense)
+    - Brazilian Portuguese
+    - Beiran (Beirão)
+    - Algarvian (Algarvio)
+    - Azorean (Açoriano)
+    anglicanized_name: Brazilian Portuguese
+    country_codes:
+    - AT
+    - BE
+    - BR
+    - AR
+    - FR
+    - GF
+    - DE
+    - VE
+    - GY
+    - IL
+    - JE
+    - ES
+    - GB
+    - VC
+    - JM
+    - MZ
+    - NL
+    - PY
+    - AD
+    - ZA
+    - CH
+    - SN
+    - US
+    - ZM
+    - ZW
+    - AU
+    - CG
+    - BO
+    - CA
+    - AO
+    - GW
+    - IT
+    - LU
+    - MW
+    - PT
+    - SR
+    gateway_language: pt-br
+    lang_code: pt-br
+    lang_direction: ltr
+    lang_name: Português
+    lang_region: Americas
+    

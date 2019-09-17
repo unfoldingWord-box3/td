@@ -1,0 +1,24 @@
+.. _jek:
+
+Jeri Kuo
+--------
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: jek
+    alternate_names:
+    - Celle
+    - Jeli Kuo
+    anglicanized_name: Jeri Kuo
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: jek
+    lang_direction: ltr
+    lang_name: Jeri Kuo
+    lang_region: Africa
+    

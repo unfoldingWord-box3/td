@@ -1,0 +1,27 @@
+.. _cax:
+
+Chiquitano
+----------
+
+This language is spoken in the following countries:
+
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: cax
+    alternate_names:
+    - Chiquito
+    - Tarapecosi
+    - Concepción
+    - San Javier (Javierano)
+    - Xavierano
+    anglicanized_name: Chiquitano
+    country_codes:
+    - BO
+    gateway_language: es-419
+    lang_code: cax
+    lang_direction: ltr
+    lang_name: Chiquitano
+    lang_region: Americas
+    

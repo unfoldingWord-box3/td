@@ -1,0 +1,27 @@
+.. _kcd:
+
+Ngkâlmpw Kanum
+---------------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kcd
+    alternate_names:
+    - Enkelembu
+    - Kenume
+    - Knwne
+    anglicanized_name: Kanum, Ngkâlmpw
+    country_codes:
+    - ID
+    - PG
+    gateway_language: id
+    lang_code: kcd
+    lang_direction: ltr
+    lang_name: Ngkâlmpw Kanum
+    lang_region: Asia
+    

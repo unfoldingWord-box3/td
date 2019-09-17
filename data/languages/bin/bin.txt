@@ -1,0 +1,28 @@
+.. _bin:
+
+Bini
+----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: bin
+    alternate_names:
+    - Addo
+    - Bini
+    - Oviedo
+    - Ovioba
+    anglicanized_name: Edo
+    country_codes:
+    - NG
+    - CA
+    gateway_language: en
+    lang_code: bin
+    lang_direction: ltr
+    lang_name: Bini
+    lang_region: Africa
+    

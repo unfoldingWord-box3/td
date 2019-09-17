@@ -1,0 +1,25 @@
+.. _bck:
+
+Bunaba
+------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: bck
+    alternate_names:
+    - Bunuba
+    - Punapa
+    - Punuba
+    anglicanized_name: Bunaba
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: bck
+    lang_direction: ltr
+    lang_name: Bunaba
+    lang_region: Pacific
+    

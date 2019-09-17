@@ -1,0 +1,24 @@
+.. _tox:
+
+Tobian
+------
+
+This language is spoken in the following countries:
+
+* PW: Palau
+
+.. code-block:: yaml
+
+    ISO_639-3: tox
+    alternate_names:
+    - Hatohobei
+    - Tobi
+    anglicanized_name: Tobian
+    country_codes:
+    - PW
+    gateway_language: en
+    lang_code: tox
+    lang_direction: ltr
+    lang_name: Tobian
+    lang_region: Pacific
+    

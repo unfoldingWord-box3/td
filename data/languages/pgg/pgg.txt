@@ -1,0 +1,25 @@
+.. _pgg:
+
+Pangwali
+--------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: pgg
+    alternate_names:
+    - Pahari
+    - Pangi
+    - Pangwali Pahari
+    anglicanized_name: Pangwali
+    country_codes:
+    - IN
+    gateway_language: ml
+    lang_code: pgg
+    lang_direction: ltr
+    lang_name: Pangwali
+    lang_region: Asia
+    

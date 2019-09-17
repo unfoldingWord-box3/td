@@ -1,0 +1,29 @@
+.. _tlt:
+
+Teluti
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: tlt
+    alternate_names:
+    - Silen
+    - Taluti
+    - Tehoru
+    - Tihoru
+    - Wolu
+    - Tehua
+    - West Teluti (Haya)
+    anglicanized_name: Teluti
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: tlt
+    lang_direction: ltr
+    lang_name: Teluti
+    lang_region: Asia
+    

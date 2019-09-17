@@ -1,0 +1,36 @@
+.. _bhb:
+
+Bhili
+-----
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. warning:: The gateway language is not valid.
+
+.. code-block:: yaml
+
+    ISO_639-3: bhb
+    alternate_names:
+    - Bhagoria
+    - Bhil
+    - Bhilbari
+    - Bhilboli
+    - Bhilla
+    - Lengotia
+    - Vil
+    - Patelia
+    - Nahari (Baglani)
+    - Anarya (Pahadi)
+    - Kotali (Kotvali)
+    - Kotwalia
+    anglicanized_name: Bhili
+    country_codes:
+    - IN
+    gateway_language: raj
+    lang_code: bhb
+    lang_direction: ltr
+    lang_name: Bhili
+    lang_region: Asia
+    

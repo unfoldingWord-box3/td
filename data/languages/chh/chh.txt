@@ -1,0 +1,24 @@
+.. _chh:
+
+Chinook
+-------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: chh
+    alternate_names:
+    - Lower Chinook
+    - Klatsop (Tlatsop)
+    anglicanized_name: Chinook
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: chh
+    lang_direction: ltr
+    lang_name: Chinook
+    lang_region: Americas
+    

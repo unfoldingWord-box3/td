@@ -1,0 +1,30 @@
+.. _mfb:
+
+Bangka
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mfb
+    alternate_names:
+    - Capital City
+    - Urban
+    - South Bangka
+    - Port
+    - North Bangka
+    - Mapor
+    - Central Bangka
+    - Lom (Belom)
+    anglicanized_name: Bangka
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mfb
+    lang_direction: ltr
+    lang_name: Bangka
+    lang_region: Asia
+    

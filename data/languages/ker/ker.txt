@@ -1,0 +1,24 @@
+.. _ker:
+
+Kera
+----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: ker
+    alternate_names: []
+    anglicanized_name: Kera
+    country_codes:
+    - CM
+    - TD
+    gateway_language: ar
+    lang_code: ker
+    lang_direction: ltr
+    lang_name: Kera
+    lang_region: Africa
+    

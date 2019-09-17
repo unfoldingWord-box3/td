@@ -1,0 +1,23 @@
+.. _ztn:
+
+Santa Catarina Albarradas Zapotec
+---------------------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: ztn
+    alternate_names:
+    - Zapoteco de Santa Catarina Albarradas
+    anglicanized_name: Zapotec, Santa Catarina Albarradas
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: ztn
+    lang_direction: ltr
+    lang_name: Santa Catarina Albarradas Zapotec
+    lang_region: Americas
+    

@@ -1,0 +1,24 @@
+.. _aaw:
+
+Solong
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: aaw
+    alternate_names:
+    - Arawe
+    - Pililo
+    anglicanized_name: Solong
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: aaw
+    lang_direction: ltr
+    lang_name: Solong
+    lang_region: Pacific
+    

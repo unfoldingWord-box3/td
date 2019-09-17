@@ -1,0 +1,23 @@
+.. _ymg:
+
+Yamongeri
+---------
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: ymg
+    alternate_names:
+    - Yamongiri
+    anglicanized_name: Yamongeri
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: ymg
+    lang_direction: ltr
+    lang_name: Yamongeri
+    lang_region: Africa
+    

@@ -1,0 +1,44 @@
+.. _arq:
+
+دزيرية
+------------
+
+This language is spoken in the following countries:
+
+* DZ: Algeria
+* BE: Belgium
+* BF: Burkina Faso
+* FR: France
+* ES: Spain
+* NL: Netherlands
+* TN: Tunisia
+* US: United States of America
+* CA: Canada
+* IT: Italy
+* EG: Egypt
+
+.. code-block:: yaml
+
+    ISO_639-3: arq
+    alternate_names:
+    - Algerian
+    - Constantine
+    anglicanized_name: Arabic, Algerian Spoken
+    country_codes:
+    - DZ
+    - BE
+    - BF
+    - FR
+    - ES
+    - NL
+    - TN
+    - US
+    - CA
+    - IT
+    - EG
+    gateway_language: ar
+    lang_code: arq
+    lang_direction: rtl
+    lang_name: دزيرية
+    lang_region: Africa
+    

@@ -1,0 +1,31 @@
+.. _njh:
+
+Lotha Naga
+----------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: njh
+    alternate_names:
+    - Chizima
+    - Choimi
+    - Hlota
+    - Lhota
+    - Lotha
+    - Lutha
+    - Miklai
+    - Tsindir
+    - Tsontsii
+    anglicanized_name: Naga, Lotha
+    country_codes:
+    - IN
+    gateway_language: en
+    lang_code: njh
+    lang_direction: ltr
+    lang_name: Lotha Naga
+    lang_region: Asia
+    

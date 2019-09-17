@@ -1,0 +1,25 @@
+.. _skx:
+
+Seko Padang
+-----------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: skx
+    alternate_names:
+    - Seko
+    - Wono
+    - Hono' (Wono)
+    anglicanized_name: Seko Padang
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: skx
+    lang_direction: ltr
+    lang_name: Seko Padang
+    lang_region: Asia
+    

@@ -1,0 +1,27 @@
+.. _quk:
+
+Chachapoyas Quechua
+-------------------
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: quk
+    alternate_names:
+    - Amazonas
+    - La Jalca (South Chachapoyas)
+    - Lamud (West Chachapoyas)
+    - Grenada-Mendoza (East Chachapoyas)
+    - Llakwash Chachapoyas
+    anglicanized_name: Quechua, Chachapoyas
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: quk
+    lang_direction: ltr
+    lang_name: Chachapoyas Quechua
+    lang_region: Americas
+    

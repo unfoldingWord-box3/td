@@ -1,0 +1,32 @@
+.. _ubu:
+
+Umbu-Ungu
+---------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ubu
+    alternate_names:
+    - Gawigl
+    - Gawil
+    - Imbo-Ungu
+    - Kakoli
+    - Kaugel
+    - Kauil
+    - Ubu Ugu
+    - Umbongu
+    - Umbu Ungu
+    - Kala (Mendo-Kala)
+    anglicanized_name: Umbu-Ungu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ubu
+    lang_direction: ltr
+    lang_name: Umbu-Ungu
+    lang_region: Pacific
+    

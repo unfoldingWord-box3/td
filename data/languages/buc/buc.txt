@@ -1,0 +1,32 @@
+.. _buc:
+
+Bushi
+-----
+
+This language is spoken in the following countries:
+
+* KM: Comoros
+* MG: Madagascar
+* YT: Mayotte
+
+.. code-block:: yaml
+
+    ISO_639-3: buc
+    alternate_names:
+    - Antalaotra
+    - Kibuki
+    - Kibushi
+    - Sakalava
+    - Shibushi
+    - Shibushi Shimaore
+    anglicanized_name: Bushi
+    country_codes:
+    - KM
+    - MG
+    - YT
+    gateway_language: fr
+    lang_code: buc
+    lang_direction: ltr
+    lang_name: Bushi
+    lang_region: Africa
+    

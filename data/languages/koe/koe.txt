@@ -1,0 +1,28 @@
+.. _koe:
+
+Kacipo-Balesi
+-------------
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+* SS: South Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: koe
+    alternate_names:
+    - Silmamo
+    - Tsilmano
+    - Zelmamu
+    - Zulmamu
+    anglicanized_name: Kacipo-Balesi
+    country_codes:
+    - ET
+    - SS
+    gateway_language: am
+    lang_code: koe
+    lang_direction: ltr
+    lang_name: Kacipo-Balesi
+    lang_region: Africa
+    

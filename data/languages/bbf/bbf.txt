@@ -1,0 +1,22 @@
+.. _bbf:
+
+Baibai
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bbf
+    alternate_names: []
+    anglicanized_name: Baibai
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bbf
+    lang_direction: ltr
+    lang_name: Baibai
+    lang_region: Pacific
+    

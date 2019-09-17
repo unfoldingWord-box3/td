@@ -1,0 +1,26 @@
+.. _xuo:
+
+Kuo
+---
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: xuo
+    alternate_names:
+    - Ko
+    - Koh
+    anglicanized_name: Kuo
+    country_codes:
+    - CM
+    - TD
+    gateway_language: ar
+    lang_code: xuo
+    lang_direction: ltr
+    lang_name: Kuo
+    lang_region: Africa
+    

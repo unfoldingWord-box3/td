@@ -1,0 +1,27 @@
+.. _bxg:
+
+Bangala
+-------
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+* CG: Congo
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: bxg
+    alternate_names:
+    - Ngala
+    anglicanized_name: Bangala
+    country_codes:
+    - SS
+    - CG
+    - CD
+    gateway_language: fr
+    lang_code: bxg
+    lang_direction: ltr
+    lang_name: Bangala
+    lang_region: Africa
+    

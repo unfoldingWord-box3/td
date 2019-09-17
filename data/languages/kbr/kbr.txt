@@ -1,0 +1,29 @@
+.. _kbr:
+
+Kafa
+----
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: kbr
+    alternate_names:
+    - Caffino
+    - Kaffa
+    - Kaficho
+    - Kefa
+    - Keffa
+    - Manjo
+    - Bosha (Garo)
+    anglicanized_name: Kafa
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: kbr
+    lang_direction: ltr
+    lang_name: Kafa
+    lang_region: Africa
+    

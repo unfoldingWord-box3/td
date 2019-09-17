@@ -1,0 +1,25 @@
+.. _dds:
+
+Donno So Dogon
+--------------
+
+This language is spoken in the following countries:
+
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: dds
+    alternate_names:
+    - Kamba So
+    - Donno So
+    - Kamma So
+    anglicanized_name: Dogon, Donno So
+    country_codes:
+    - ML
+    gateway_language: fr
+    lang_code: dds
+    lang_direction: ltr
+    lang_name: Donno So Dogon
+    lang_region: Africa
+    

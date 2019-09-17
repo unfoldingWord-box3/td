@@ -1,0 +1,39 @@
+.. _ory:
+
+Oriya (individual language)
+---------------------------
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* US: United States of America
+* IN: India
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: ory
+    alternate_names:
+    - Odisha
+    - Odri
+    - Odrum
+    - Oliya
+    - Uriya
+    - Utkali
+    - Vadiya
+    - Yudhia
+    - Standard Oriya
+    - Western Oriya (Sambalpuri)
+    - Mughalbandi (Oriya Proper)
+    anglicanized_name: Oriya
+    country_codes:
+    - BD
+    - US
+    - IN
+    - MM
+    gateway_language: hi
+    lang_code: ory
+    lang_direction: ltr
+    lang_name: Oriya (individual language)
+    lang_region: Asia
+    

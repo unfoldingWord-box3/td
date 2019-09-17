@@ -1,0 +1,26 @@
+.. _zaw:
+
+Mitla Zapotec
+-------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zaw
+    alternate_names:
+    - Didxsaj
+    - East Central Tlacolula Zapotec
+    - East Valley Zapotec
+    - Santiago Matatlán Zapotec (Matatlán Zapotec)
+    anglicanized_name: Zapotec, Mitla
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zaw
+    lang_direction: ltr
+    lang_name: Mitla Zapotec
+    lang_region: Americas
+    

@@ -1,0 +1,25 @@
+.. _saf:
+
+Safaliba
+--------
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: saf
+    alternate_names:
+    - Safalaba
+    - Safalba
+    - Safali
+    anglicanized_name: Safaliba
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: saf
+    lang_direction: ltr
+    lang_name: Safaliba
+    lang_region: Africa
+    

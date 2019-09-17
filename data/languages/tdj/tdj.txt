@@ -1,0 +1,29 @@
+.. _tdj:
+
+Tajio
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: tdj
+    alternate_names:
+    - Adjio
+    - Kasimbar
+    - Ta'adjio
+    - Tadjio
+    - Central Tajio
+    - Northern Tajio
+    - Western Tajio
+    anglicanized_name: Tajio
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: tdj
+    lang_direction: ltr
+    lang_name: Tajio
+    lang_region: Asia
+    

@@ -1,0 +1,37 @@
+.. _ki:
+
+Gĩkũyũ
+---------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/kik>`__ identifies this language as ``kik``.
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+* TZ: Tanzania, United Republic of
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: kik
+    alternate_names:
+    - Gekoyo
+    - Gigikuyu
+    - Gichugu (Northern Kirinyaga)
+    - Southern Murang'a
+    - Southern Gikuyu (Kiambu)
+    - Nyeri
+    - Mathira (Karatina)
+    - Ndia (Southern Kirinyaga)
+    - Northern Gikuyu (Northern Murang'a)
+    anglicanized_name: Kikuyu, Gikuyu
+    country_codes:
+    - KE
+    - TZ
+    - UG
+    gateway_language: sw
+    lang_code: ki
+    lang_direction: ltr
+    lang_name: Gĩkũyũ
+    lang_region: Africa
+    

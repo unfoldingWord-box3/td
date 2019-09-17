@@ -1,0 +1,26 @@
+.. _lvu:
+
+Levuka
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: lvu
+    alternate_names:
+    - Lembata
+    - Lewokukun
+    - Lewuka
+    - Painara
+    anglicanized_name: Levuka
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: lvu
+    lang_direction: ltr
+    lang_name: Levuka
+    lang_region: Asia
+    

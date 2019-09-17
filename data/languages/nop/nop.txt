@@ -1,0 +1,29 @@
+.. _nop:
+
+Numanggang
+----------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nop
+    alternate_names:
+    - Boana
+    - Kai
+    - Manggang
+    - Ngain
+    - Numangan
+    - Numangang
+    - Sugu
+    anglicanized_name: Numanggang
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nop
+    lang_direction: ltr
+    lang_name: Numanggang
+    lang_region: Pacific
+    

@@ -1,0 +1,27 @@
+.. _irh:
+
+Irarutu
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: irh
+    alternate_names:
+    - Arguni Bay
+    - Irahutu
+    - Irutu
+    - Kaitero
+    - Kasira
+    anglicanized_name: Irarutu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: irh
+    lang_direction: ltr
+    lang_name: Irarutu
+    lang_region: Asia
+    

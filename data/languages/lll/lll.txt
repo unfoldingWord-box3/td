@@ -1,0 +1,23 @@
+.. _lll:
+
+Lilau
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: lll
+    alternate_names:
+    - Ngaimbom
+    anglicanized_name: Lilau
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: lll
+    lang_direction: ltr
+    lang_name: Lilau
+    lang_region: Pacific
+    

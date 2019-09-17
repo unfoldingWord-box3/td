@@ -1,0 +1,26 @@
+.. _gyl:
+
+Gayil
+-----
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: gyl
+    alternate_names:
+    - Gayi
+    - Gayl
+    - Gelila
+    - Northern Ari
+    anglicanized_name: Gayil
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: gyl
+    lang_direction: ltr
+    lang_name: Gayil
+    lang_region: Africa
+    

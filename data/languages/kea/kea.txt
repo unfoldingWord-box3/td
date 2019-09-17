@@ -1,0 +1,36 @@
+.. _kea:
+
+Kabuverdianu
+------------
+
+This language is spoken in the following countries:
+
+* ES: Spain
+* CA: Canada
+* CV: Cabo Verde
+
+.. code-block:: yaml
+
+    ISO_639-3: kea
+    alternate_names:
+    - Caboverdiano
+    - Criol
+    - Crioulo
+    - Kriol
+    - Krioulo
+    - Krioulu
+    - Badiu
+    - Sampadjudu
+    - Kabuverdianu-Barlavente (Caboverdiano-Barlavento)
+    - Kabuverdianu-Sotaventu (Caboverdiano-Sotavento)
+    anglicanized_name: Kabuverdianu
+    country_codes:
+    - ES
+    - CA
+    - CV
+    gateway_language: en
+    lang_code: kea
+    lang_direction: ltr
+    lang_name: Kabuverdianu
+    lang_region: Africa
+    

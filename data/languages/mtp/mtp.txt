@@ -1,0 +1,31 @@
+.. _mtp:
+
+Wichí Lhamtés Nocten
+----------------------
+
+This language is spoken in the following countries:
+
+* AR: Argentina
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: mtp
+    alternate_names:
+    - Nocten
+    - Noctenes
+    - Oktenai
+    - Mataco Nocten
+    - Bolivian
+    - Noctén
+    - Mataco
+    anglicanized_name: Wichí Lhamtés Nocten
+    country_codes:
+    - AR
+    - BO
+    gateway_language: es-419
+    lang_code: mtp
+    lang_direction: ltr
+    lang_name: Wichí Lhamtés Nocten
+    lang_region: Americas
+    

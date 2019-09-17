@@ -1,0 +1,23 @@
+.. _mvn:
+
+Minaveha
+--------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mvn
+    alternate_names:
+    - Kukuya
+    anglicanized_name: Minaveha
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mvn
+    lang_direction: ltr
+    lang_name: Minaveha
+    lang_region: Pacific
+    

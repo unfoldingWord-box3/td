@@ -1,0 +1,28 @@
+.. _kpr:
+
+Korafe-Yegha
+------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kpr
+    alternate_names:
+    - Kailikaili
+    - Kaire
+    - Korafi
+    - Korape
+    - Kwarafe
+    - Yegha (Mokorua)
+    anglicanized_name: Korafe-Yegha
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kpr
+    lang_direction: ltr
+    lang_name: Korafe-Yegha
+    lang_region: Pacific
+    

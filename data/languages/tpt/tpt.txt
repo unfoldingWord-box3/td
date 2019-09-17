@@ -1,0 +1,22 @@
+.. _tpt:
+
+Tlachichilco Tepehua
+--------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: tpt
+    alternate_names: []
+    anglicanized_name: Tepehua, Tlachichilco
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: tpt
+    lang_direction: ltr
+    lang_name: Tlachichilco Tepehua
+    lang_region: Americas
+    

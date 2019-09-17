@@ -1,0 +1,23 @@
+.. _was:
+
+Washo
+-----
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: was
+    alternate_names:
+    - Washoe
+    anglicanized_name: Washo
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: was
+    lang_direction: ltr
+    lang_name: Washo
+    lang_region: Americas
+    

@@ -1,0 +1,26 @@
+.. _vae:
+
+Vale
+----
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: vae
+    alternate_names:
+    - Tana (Tane)
+    - Tele
+    anglicanized_name: Vale
+    country_codes:
+    - CF
+    - TD
+    gateway_language: fr
+    lang_code: vae
+    lang_direction: ltr
+    lang_name: Vale
+    lang_region: Africa
+    

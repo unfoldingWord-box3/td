@@ -1,0 +1,24 @@
+.. _ate:
+
+Atemble
+-------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ate
+    alternate_names:
+    - Atemple
+    - Atemple-Apris
+    anglicanized_name: Atemble
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ate
+    lang_direction: ltr
+    lang_name: Atemble
+    lang_region: Pacific
+    

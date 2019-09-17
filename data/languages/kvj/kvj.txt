@@ -1,0 +1,31 @@
+.. _kvj:
+
+Psikye
+------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kvj
+    alternate_names:
+    - Kamsiki
+    - Kapsiki
+    - Ptsake
+    - Wula (Lying)
+    - Ula-Xangku
+    - Psikye (Kamu)
+    - Oula
+    anglicanized_name: Psikye
+    country_codes:
+    - CM
+    - NG
+    gateway_language: fr
+    lang_code: kvj
+    lang_direction: ltr
+    lang_name: Psikye
+    lang_region: Africa
+    

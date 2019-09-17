@@ -1,0 +1,22 @@
+.. _kgb:
+
+Kawe
+----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kgb
+    alternate_names: []
+    anglicanized_name: Kawe
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kgb
+    lang_direction: ltr
+    lang_name: Kawe
+    lang_region: Asia
+    

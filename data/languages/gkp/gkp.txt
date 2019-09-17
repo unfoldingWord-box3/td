@@ -1,0 +1,39 @@
+.. _gkp:
+
+Guinea Kpelle
+-------------
+
+This language is spoken in the following countries:
+
+* GN: Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: gkp
+    alternate_names:
+    - Akpese
+    - Gbese
+    - Gerse
+    - Gerze
+    - Guerze
+    - Kpele
+    - Kpelese
+    - Kpelesetina
+    - Kperese
+    - Kpese
+    - Kpwessi
+    - Northern Kpele
+    - Pessa
+    - Pessy
+    - Heghe
+    - Gbali
+    - Central Kpelle
+    anglicanized_name: Kpelle, Guinea
+    country_codes:
+    - GN
+    gateway_language: fr
+    lang_code: gkp
+    lang_direction: ltr
+    lang_name: Guinea Kpelle
+    lang_region: Africa
+    

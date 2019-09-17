@@ -1,0 +1,27 @@
+.. _crg:
+
+Michif
+------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: crg
+    alternate_names:
+    - French Cree
+    - Métis
+    - Mitchif
+    anglicanized_name: Michif
+    country_codes:
+    - US
+    - CA
+    gateway_language: en
+    lang_code: crg
+    lang_direction: ltr
+    lang_name: Michif
+    lang_region: Americas
+    

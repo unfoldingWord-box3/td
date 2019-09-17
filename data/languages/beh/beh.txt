@@ -1,0 +1,36 @@
+.. _beh:
+
+Biali
+-----
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: beh
+    alternate_names:
+    - Bieri
+    - Bjerb
+    - Bjeri
+    - Burba
+    - Byali
+    - Porga
+    - Tihoun
+    - Tangeta
+    - Pingou
+    - Materi
+    - Dassari
+    - Gouande
+    anglicanized_name: Biali
+    country_codes:
+    - BJ
+    - BF
+    gateway_language: fr
+    lang_code: beh
+    lang_direction: ltr
+    lang_name: Biali
+    lang_region: Africa
+    

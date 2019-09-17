@@ -1,0 +1,25 @@
+.. _diz:
+
+Ding
+----
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: diz
+    alternate_names:
+    - Di
+    - Din
+    - Dzing
+    anglicanized_name: Ding
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: diz
+    lang_direction: ltr
+    lang_name: Ding
+    lang_region: Africa
+    

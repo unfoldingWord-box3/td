@@ -1,0 +1,28 @@
+.. _bcu:
+
+Awad Bing
+---------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bcu
+    alternate_names:
+    - Awad Gey
+    - Bing
+    - Samang
+    - Semang
+    - Sengam
+    - Yori
+    anglicanized_name: Awad Bing
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bcu
+    lang_direction: ltr
+    lang_name: Awad Bing
+    lang_region: Pacific
+    

@@ -1,0 +1,26 @@
+.. _bgx:
+
+Balkan Gagauz Turkish
+---------------------
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: bgx
+    alternate_names:
+    - Balkan Turkic
+    - Yuruk (Konyar)
+    - Gajal
+    - Yoruk
+    anglicanized_name: Balkan Gagauz Turkish
+    country_codes:
+    - TR
+    gateway_language: tr
+    lang_code: bgx
+    lang_direction: ltr
+    lang_name: Balkan Gagauz Turkish
+    lang_region: Asia
+    

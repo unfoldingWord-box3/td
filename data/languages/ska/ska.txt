@@ -1,0 +1,24 @@
+.. _ska:
+
+Skagit
+------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: ska
+    alternate_names:
+    - Swinomish
+    - Northern Lushootseed
+    anglicanized_name: Skagit
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: ska
+    lang_direction: ltr
+    lang_name: Skagit
+    lang_region: Americas
+    

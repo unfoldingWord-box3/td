@@ -1,0 +1,22 @@
+.. _kln:
+
+Kalenjin
+--------
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: kln
+    alternate_names: []
+    anglicanized_name: Kalenjin
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: kln
+    lang_direction: ltr
+    lang_name: Kalenjin
+    lang_region: Africa
+    

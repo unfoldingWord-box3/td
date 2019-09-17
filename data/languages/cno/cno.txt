@@ -1,0 +1,22 @@
+.. _cno:
+
+Con
+---
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: cno
+    alternate_names: []
+    anglicanized_name: Con
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: cno
+    lang_direction: ltr
+    lang_name: Con
+    lang_region: Asia
+    

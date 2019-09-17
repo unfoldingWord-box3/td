@@ -1,0 +1,38 @@
+.. _rut:
+
+Рутульский
+--------------------
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: rut
+    alternate_names:
+    - Chal
+    - Mukhad
+    - Myhynnynydy-ch'el
+    - Rutal
+    - Rutultsy
+    - Rutuly
+    - North Rutul (Asar-Kala)
+    - Vrush
+    - Shinaz
+    - Muxrek
+    - Luchek
+    - Khnov
+    - Ixrek
+    - South Rutul (Borch)
+    anglicanized_name: Rutul
+    country_codes:
+    - AZ
+    - RU
+    gateway_language: ru
+    lang_code: rut
+    lang_direction: ltr
+    lang_name: Рутульский
+    lang_region: Europe
+    

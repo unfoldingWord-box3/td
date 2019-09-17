@@ -1,0 +1,26 @@
+.. _bng:
+
+Benga
+-----
+
+This language is spoken in the following countries:
+
+* GQ: Equatorial Guinea
+* GA: Gabon
+
+.. code-block:: yaml
+
+    ISO_639-3: bng
+    alternate_names:
+    - Boumba
+    - Ndowe
+    anglicanized_name: Benga
+    country_codes:
+    - GQ
+    - GA
+    gateway_language: es
+    lang_code: bng
+    lang_direction: ltr
+    lang_name: Benga
+    lang_region: Africa
+    

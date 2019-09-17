@@ -1,0 +1,24 @@
+.. _kfw:
+
+Kharam Naga
+-----------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: kfw
+    alternate_names:
+    - Duisalongmei
+    - Thinglong
+    anglicanized_name: Naga, Kharam
+    country_codes:
+    - IN
+    gateway_language: en
+    lang_code: kfw
+    lang_direction: ltr
+    lang_name: Kharam Naga
+    lang_region: Asia
+    

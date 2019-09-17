@@ -1,0 +1,26 @@
+.. _cjy:
+
+晋语
+------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: cjy
+    alternate_names:
+    - Jin
+    - Jinyu
+    - Changzhi
+    - Pingyao
+    anglicanized_name: Chinese, Jinyu
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: cjy
+    lang_direction: ltr
+    lang_name: 晋语
+    lang_region: Asia
+    

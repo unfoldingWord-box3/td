@@ -1,0 +1,22 @@
+.. _qws:
+
+Sihuas Ancash Quechua
+---------------------
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: qws
+    alternate_names: []
+    anglicanized_name: Quechua, Sihuas Ancash
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: qws
+    lang_direction: ltr
+    lang_name: Sihuas Ancash Quechua
+    lang_region: Americas
+    

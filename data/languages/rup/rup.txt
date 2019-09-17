@@ -1,0 +1,34 @@
+.. _rup:
+
+Macedo-Romanian
+---------------
+
+This language is spoken in the following countries:
+
+* GR: Greece
+* AL: Albania
+
+.. code-block:: yaml
+
+    ISO_639-3: rup
+    alternate_names:
+    - Armina
+    - Aromunian
+    - Arumanian
+    - Arumun
+    - Macedo Romanian
+    - Macedo-Rumanian
+    - Vlach
+    - Macedo
+    - Romanian
+    - Macedo Romania
+    anglicanized_name: Aromanian
+    country_codes:
+    - GR
+    - AL
+    gateway_language: en
+    lang_code: rup
+    lang_direction: ltr
+    lang_name: Macedo-Romanian
+    lang_region: Europe
+    

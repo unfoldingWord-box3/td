@@ -1,0 +1,29 @@
+.. _ttc:
+
+Tektiteko
+---------
+
+This language is spoken in the following countries:
+
+* GT: Guatemala
+
+.. code-block:: yaml
+
+    ISO_639-3: ttc
+    alternate_names:
+    - Maya-Tekiteko
+    - Teco
+    - Tectitán Mam
+    - Tectitec
+    - Tectiteco
+    - Teko
+    - Tectitán Mame
+    anglicanized_name: Tektiteko
+    country_codes:
+    - GT
+    gateway_language: es-419
+    lang_code: ttc
+    lang_direction: ltr
+    lang_name: Tektiteko
+    lang_region: Americas
+    

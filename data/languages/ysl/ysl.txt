@@ -1,0 +1,24 @@
+.. _ysl:
+
+Yugoslavian Sign Language
+-------------------------
+
+This language is spoken in the following countries:
+
+* RS: Serbia
+* SI: Slovenia
+
+.. code-block:: yaml
+
+    ISO_639-3: ysl
+    alternate_names: []
+    anglicanized_name: Yugoslavian Sign Language
+    country_codes:
+    - RS
+    - SI
+    gateway_language: en
+    lang_code: ysl
+    lang_direction: ltr
+    lang_name: Yugoslavian Sign Language
+    lang_region: Europe
+    

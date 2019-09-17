@@ -1,0 +1,22 @@
+.. _lln:
+
+Lele (Chad)
+-----------
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: lln
+    alternate_names: []
+    anglicanized_name: Lele
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: lln
+    lang_direction: ltr
+    lang_name: Lele (Chad)
+    lang_region: Africa
+    

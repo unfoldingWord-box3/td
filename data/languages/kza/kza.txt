@@ -1,0 +1,23 @@
+.. _kza:
+
+Western Karaboro
+----------------
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: kza
+    alternate_names:
+    - Syer-Tenyer
+    anglicanized_name: Karaboro, Western
+    country_codes:
+    - BF
+    gateway_language: fr
+    lang_code: kza
+    lang_direction: ltr
+    lang_name: Western Karaboro
+    lang_region: Africa
+    

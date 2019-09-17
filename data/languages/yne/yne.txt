@@ -1,0 +1,23 @@
+.. _yne:
+
+拉乌
+------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: yne
+    alternate_names:
+    - La'u
+    anglicanized_name: Lang’e
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: yne
+    lang_direction: ltr
+    lang_name: 拉乌
+    lang_region: Asia
+    

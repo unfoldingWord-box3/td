@@ -1,0 +1,25 @@
+.. _gve:
+
+Duwet
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: gve
+    alternate_names:
+    - Guwet
+    - Guwot
+    - Waing
+    anglicanized_name: Duwet
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: gve
+    lang_direction: ltr
+    lang_name: Duwet
+    lang_region: Pacific
+    

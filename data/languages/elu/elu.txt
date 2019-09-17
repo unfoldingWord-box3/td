@@ -1,0 +1,22 @@
+.. _elu:
+
+Elu
+---
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: elu
+    alternate_names: []
+    anglicanized_name: Elu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: elu
+    lang_direction: ltr
+    lang_name: Elu
+    lang_region: Pacific
+    

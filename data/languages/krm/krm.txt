@@ -1,0 +1,26 @@
+.. _krm:
+
+Krim
+----
+
+This language is spoken in the following countries:
+
+* SL: Sierra Leone
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names:
+    - Kim
+    - Kimi
+    - Kirim
+    - Kittim
+    anglicanized_name: Krim
+    country_codes:
+    - SL
+    gateway_language: en
+    lang_code: krm
+    lang_direction: ltr
+    lang_name: Krim
+    lang_region: Africa
+    

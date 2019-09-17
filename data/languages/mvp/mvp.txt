@@ -1,0 +1,27 @@
+.. _mvp:
+
+Duri
+----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mvp
+    alternate_names:
+    - Masenrempulu
+    - Massenrempulu
+    - Benteng Alla
+    - Cakke-Kalosi
+    - Baraka
+    anglicanized_name: Duri
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mvp
+    lang_direction: ltr
+    lang_name: Duri
+    lang_region: Asia
+    

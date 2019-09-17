@@ -1,0 +1,27 @@
+.. _jmd:
+
+Yamdena
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: jmd
+    alternate_names:
+    - Jamden
+    - Jamdena
+    - Tanemprar lirin
+    - North Yamdena (Nus Das)
+    - South Yamdena (Nus Bab)
+    anglicanized_name: Yamdena
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: jmd
+    lang_direction: ltr
+    lang_name: Yamdena
+    lang_region: Asia
+    

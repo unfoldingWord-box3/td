@@ -1,0 +1,23 @@
+.. _spq:
+
+Loreto-Ucayali Spanish
+----------------------
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: spq
+    alternate_names:
+    - Jungle Spanish
+    anglicanized_name: Spanish, Loreto-Ucayali
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: spq
+    lang_direction: ltr
+    lang_name: Loreto-Ucayali Spanish
+    lang_region: Americas
+    

@@ -1,0 +1,27 @@
+.. _yzg:
+
+峨马布央语
+---------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: yzg
+    alternate_names:
+    - Buozaang
+    - Buyang Zhuang
+    - Eastern Buyang
+    - Funing Buyang
+    - Langjia Buyang
+    anglicanized_name: Buyang, E’ma
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: yzg
+    lang_direction: ltr
+    lang_name: 峨马布央语
+    lang_region: Asia
+    

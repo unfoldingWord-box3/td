@@ -1,0 +1,24 @@
+.. _acr:
+
+Achi
+----
+
+This language is spoken in the following countries:
+
+* GT: Guatemala
+
+.. code-block:: yaml
+
+    ISO_639-3: acr
+    alternate_names:
+    - Cubulco Achi
+    - Rabinal Achi
+    anglicanized_name: Achi
+    country_codes:
+    - GT
+    gateway_language: es-419
+    lang_code: acr
+    lang_direction: ltr
+    lang_name: Achi
+    lang_region: Americas
+    

@@ -1,0 +1,34 @@
+.. _maa:
+
+San Jerónimo Tecóatl Mazatec
+------------------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: maa
+    alternate_names:
+    - Mazateco de San Antonio Eloxochitlán
+    - Mazateco de San Jerónimo Tecóatl
+    - Mazateco del Oeste
+    - Northern Highland Mazatec
+    - San Antonio Eloxochitlán Mazatec
+    - San Francisco Huehuetlán Mazatec
+    - San Jerónimo Tecóatl Mazatec
+    - San Lorenzo Cuanecuiltitla Mazatec
+    - San Lucas Zoquiapan Mazatec
+    - San Pedro Ocopetatillo Mazatec
+    - Santa Ana Ateixtlahuaca Mazatec
+    - Santa Cruz Acatepec Mazatec
+    anglicanized_name: Mazatec, San Jerónimo Tecóatl
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: maa
+    lang_direction: ltr
+    lang_name: San Jerónimo Tecóatl Mazatec
+    lang_region: Americas
+    

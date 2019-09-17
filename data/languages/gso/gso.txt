@@ -1,0 +1,31 @@
+.. _gso:
+
+Southwest Gbaya
+---------------
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: gso
+    alternate_names:
+    - Gbaya Sud-Ouest
+    - Mboundja (Mbunza)
+    - Biyanda (Bianda)
+    - Mbusuku
+    - Mbondomo (Mbodomo)
+    - Mbakolo (Yasua)
+    - Buli (Boli)
+    - Bosoko (Bossouka)
+    - Bokare (Bokari)
+    anglicanized_name: Gbaya, Southwest
+    country_codes:
+    - CF
+    gateway_language: fr
+    lang_code: gso
+    lang_direction: ltr
+    lang_name: Southwest Gbaya
+    lang_region: Africa
+    

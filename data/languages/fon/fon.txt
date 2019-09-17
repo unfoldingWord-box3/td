@@ -1,0 +1,38 @@
+.. _fon:
+
+Fon
+---
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+* GA: Gabon
+* GH: Ghana
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: fon
+    alternate_names:
+    - Dahomeen
+    - Fongbe
+    - Djedji
+    - Fogbe
+    - Fon-Gbe
+    - Fonnu
+    - Agbome
+    - Arohun
+    - Gbekon
+    - Kpase
+    anglicanized_name: Fon
+    country_codes:
+    - BJ
+    - GA
+    - GH
+    - TG
+    gateway_language: fr
+    lang_code: fon
+    lang_direction: ltr
+    lang_name: Fon
+    lang_region: Africa
+    

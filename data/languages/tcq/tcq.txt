@@ -1,0 +1,26 @@
+.. _tcq:
+
+Kaiy
+----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: tcq
+    alternate_names:
+    - Kai
+    - Taori-Kaiy
+    - Taori-Kei
+    - Todi
+    anglicanized_name: Kaiy
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: tcq
+    lang_direction: ltr
+    lang_name: Kaiy
+    lang_region: Asia
+    

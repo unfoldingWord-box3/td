@@ -1,0 +1,25 @@
+.. _ura:
+
+Urarina
+-------
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: ura
+    alternate_names:
+    - Itucali
+    - Shimacu
+    - Simacu
+    anglicanized_name: Urarina
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: ura
+    lang_direction: ltr
+    lang_name: Urarina
+    lang_region: Americas
+    

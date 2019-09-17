@@ -1,0 +1,23 @@
+.. _npu:
+
+Puimei Naga
+-----------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: npu
+    alternate_names:
+    - Puimei
+    anglicanized_name: Naga, Puimei
+    country_codes:
+    - IN
+    gateway_language: en
+    lang_code: npu
+    lang_direction: ltr
+    lang_name: Puimei Naga
+    lang_region: Asia
+    

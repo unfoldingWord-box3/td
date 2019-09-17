@@ -1,0 +1,22 @@
+.. _ppn:
+
+Papapana
+--------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ppn
+    alternate_names: []
+    anglicanized_name: Papapana
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ppn
+    lang_direction: ltr
+    lang_name: Papapana
+    lang_region: Pacific
+    

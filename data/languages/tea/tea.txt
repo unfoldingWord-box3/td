@@ -1,0 +1,29 @@
+.. _tea:
+
+Temiar
+------
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: tea
+    alternate_names:
+    - Northern Sakai
+    - Pie
+    - Seroq
+    - Temer
+    - Ulu Kinta (Kinta Sakai)
+    - Tembe' (Tembi)
+    - Po-Klo (Sakai Bukit of Temongoh)
+    anglicanized_name: Temiar
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: tea
+    lang_direction: ltr
+    lang_name: Temiar
+    lang_region: Asia
+    

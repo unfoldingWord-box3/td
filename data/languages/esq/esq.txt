@@ -1,0 +1,22 @@
+.. _esq:
+
+Esselen
+-------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: esq
+    alternate_names: []
+    anglicanized_name: Esselen
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: esq
+    lang_direction: ltr
+    lang_name: Esselen
+    lang_region: Americas
+    

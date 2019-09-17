@@ -1,0 +1,27 @@
+.. _wib:
+
+Southern Toussian
+-----------------
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+* TG: Togo
+
+.. code-block:: yaml
+
+    ISO_639-3: wib
+    alternate_names:
+    - Tusia
+    - Tusian
+    - Win
+    anglicanized_name: Toussian, Southern
+    country_codes:
+    - BF
+    - TG
+    gateway_language: fr
+    lang_code: wib
+    lang_direction: ltr
+    lang_name: Southern Toussian
+    lang_region: Africa
+    

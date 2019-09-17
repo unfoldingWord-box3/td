@@ -1,0 +1,24 @@
+.. _bdc:
+
+Emberá-Baudó
+--------------
+
+This language is spoken in the following countries:
+
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: bdc
+    alternate_names:
+    - Baudó
+    - Catrú
+    anglicanized_name: Emberá-Baudó
+    country_codes:
+    - CO
+    gateway_language: es-419
+    lang_code: bdc
+    lang_direction: ltr
+    lang_name: Emberá-Baudó
+    lang_region: Americas
+    

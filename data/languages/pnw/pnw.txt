@@ -1,0 +1,28 @@
+.. _pnw:
+
+Panytyima
+---------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: pnw
+    alternate_names:
+    - Bandjima
+    - Banjima
+    - Pandjima
+    - Panjima
+    - Panjtjima
+    - Panyjima
+    anglicanized_name: Panytyima
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: pnw
+    lang_direction: ltr
+    lang_name: Panytyima
+    lang_region: Pacific
+    

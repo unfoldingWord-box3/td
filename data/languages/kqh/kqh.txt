@@ -1,0 +1,24 @@
+.. _kqh:
+
+Kisankasa
+---------
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: kqh
+    alternate_names:
+    - Dorobo
+    - Ndorobo
+    anglicanized_name: Kisankasa
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: kqh
+    lang_direction: ltr
+    lang_name: Kisankasa
+    lang_region: Africa
+    

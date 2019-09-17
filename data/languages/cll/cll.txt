@@ -1,0 +1,24 @@
+.. _cll:
+
+Chala
+-----
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: cll
+    alternate_names:
+    - Cala
+    - Tshala
+    anglicanized_name: Chala
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: cll
+    lang_direction: ltr
+    lang_name: Chala
+    lang_region: Africa
+    

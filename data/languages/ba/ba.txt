@@ -1,0 +1,38 @@
+.. _ba:
+
+башҡорт теле
+-----------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/bak>`__ identifies this language as ``bak``.
+
+This language is spoken in the following countries:
+
+* KZ: Kazakhstan
+* TJ: Tajikistan
+* RU: Russian Federation
+* KG: Kyrgyzstan
+* TM: Turkmenistan
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: bak
+    alternate_names:
+    - Basquort
+    - Burzhan (Western Bashkir)
+    - Kuvakan (Mountain Bashkir)
+    - Yurmaty (Steppe Bashkir)
+    anglicanized_name: Bashkir
+    country_codes:
+    - KZ
+    - TJ
+    - RU
+    - KG
+    - TM
+    - UZ
+    gateway_language: ru
+    lang_code: ba
+    lang_direction: ltr
+    lang_name: башҡорт теле
+    lang_region: Europe
+    

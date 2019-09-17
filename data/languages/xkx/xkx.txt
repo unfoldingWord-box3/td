@@ -1,0 +1,22 @@
+.. _xkx:
+
+Karore
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: xkx
+    alternate_names: []
+    anglicanized_name: Karore
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: xkx
+    lang_direction: ltr
+    lang_name: Karore
+    lang_region: Pacific
+    

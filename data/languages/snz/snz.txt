@@ -1,0 +1,23 @@
+.. _snz:
+
+Sinsauru
+--------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: snz
+    alternate_names:
+    - Kow
+    anglicanized_name: Sinsauru
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: snz
+    lang_direction: ltr
+    lang_name: Sinsauru
+    lang_region: Pacific
+    

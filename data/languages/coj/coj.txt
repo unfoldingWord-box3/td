@@ -1,0 +1,38 @@
+.. _coj:
+
+Cochimi
+-------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: coj
+    alternate_names:
+    - Cadegomeño
+    - Cadegomo
+    - Cochetimi
+    - Cochima
+    - Cochimtee
+    - Didiu
+    - Joaquín
+    - Laimon
+    - Laymon-Cochimi
+    - Laymonem
+    - San
+    - San Francesco Saverio Mission
+    - San Francisco Xavier de
+    - San Javier
+    - San Xavier
+    - Viggé-Biaundo Mission
+    anglicanized_name: Cochimi
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: coj
+    lang_direction: ltr
+    lang_name: Cochimi
+    lang_region: Americas
+    

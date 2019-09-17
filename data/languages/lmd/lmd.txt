@@ -1,0 +1,24 @@
+.. _lmd:
+
+Lumun
+-----
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: lmd
+    alternate_names:
+    - Kuku-Lumun
+    - Lomon
+    anglicanized_name: Lumun
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: lmd
+    lang_direction: ltr
+    lang_name: Lumun
+    lang_region: Africa
+    

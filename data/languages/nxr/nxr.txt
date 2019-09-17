@@ -1,0 +1,34 @@
+.. _nxr:
+
+Ninggerum
+---------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nxr
+    alternate_names:
+    - Kasiwa
+    - Kativa
+    - Muyu
+    - Ninggeroem
+    - Ninggirum
+    - Ninggrum
+    - Orgwo
+    - Niyium
+    - Obgwo
+    - Tedi
+    anglicanized_name: Ninggerum
+    country_codes:
+    - ID
+    - PG
+    gateway_language: tpi
+    lang_code: nxr
+    lang_direction: ltr
+    lang_name: Ninggerum
+    lang_region: Pacific
+    

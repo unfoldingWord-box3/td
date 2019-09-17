@@ -1,0 +1,22 @@
+.. _rgs:
+
+Southern Roglai
+---------------
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: rgs
+    alternate_names: []
+    anglicanized_name: Roglai, Southern
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: rgs
+    lang_direction: ltr
+    lang_name: Southern Roglai
+    lang_region: Asia
+    

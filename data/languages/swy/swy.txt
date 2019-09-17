@@ -1,0 +1,26 @@
+.. _swy:
+
+Sarua
+-----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: swy
+    alternate_names:
+    - Saroua
+    - Sarwa
+    anglicanized_name: Sarua
+    country_codes:
+    - CM
+    - TD
+    gateway_language: ar
+    lang_code: swy
+    lang_direction: ltr
+    lang_name: Sarua
+    lang_region: Africa
+    

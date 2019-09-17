@@ -1,0 +1,24 @@
+.. _mft:
+
+Mokerang
+--------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mft
+    alternate_names:
+    - Mokareng
+    - Mokoreng
+    anglicanized_name: Mokerang
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mft
+    lang_direction: ltr
+    lang_name: Mokerang
+    lang_region: Pacific
+    

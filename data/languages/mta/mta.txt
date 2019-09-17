@@ -1,0 +1,23 @@
+.. _mta:
+
+Cotabato Manobo
+---------------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: mta
+    alternate_names:
+    - Dulangan Manobo
+    anglicanized_name: Manobo, Cotabato
+    country_codes:
+    - PH
+    gateway_language: ceb
+    lang_code: mta
+    lang_direction: ltr
+    lang_name: Cotabato Manobo
+    lang_region: Asia
+    

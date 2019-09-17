@@ -1,0 +1,24 @@
+.. _yig:
+
+乌撒纳苏语
+---------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: yig
+    alternate_names:
+    - Eastern Yi
+    - Dafang
+    anglicanized_name: Nasu, Wusa
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: yig
+    lang_direction: ltr
+    lang_name: 乌撒纳苏语
+    lang_region: Asia
+    

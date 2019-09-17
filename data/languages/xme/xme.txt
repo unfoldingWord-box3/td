@@ -1,0 +1,24 @@
+.. _xme:
+
+Median
+------
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: xme
+    alternate_names: []
+    anglicanized_name: Median
+    country_codes:
+    - IR
+    gateway_language: null
+    lang_code: xme
+    lang_direction: ltr
+    lang_name: Median
+    lang_region: Asia
+    

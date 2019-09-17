@@ -1,0 +1,31 @@
+.. _pur:
+
+Puruborá
+---------
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: pur
+    alternate_names:
+    - Aurã
+    - Burubora
+    - Cujubi
+    - Kuyubi
+    - Miguelenho
+    - Migueleno
+    - Pumbora
+    - Puroborá
+    - Puruba
+    anglicanized_name: Puruborá
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: pur
+    lang_direction: ltr
+    lang_name: Puruborá
+    lang_region: Americas
+    

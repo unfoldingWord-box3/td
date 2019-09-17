@@ -1,0 +1,42 @@
+.. _rn:
+
+Ikirundi
+--------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/run>`__ identifies this language as ``run``.
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+* RW: Rwanda
+* TZ: Tanzania, United Republic of
+* CA: Canada
+* UG: Uganda
+* BI: Burundi
+
+.. code-block:: yaml
+
+    ISO_639-3: run
+    alternate_names:
+    - Urundi
+    - Ikinyabweru
+    - Ikiyogoma
+    - Ikiragane
+    - Ikibo
+    - Igisoni
+    - Ikirundi
+    - Ikimoso (Urumoso)
+    anglicanized_name: Kirundi
+    country_codes:
+    - KE
+    - RW
+    - TZ
+    - CA
+    - UG
+    - BI
+    gateway_language: sw
+    lang_code: rn
+    lang_direction: ltr
+    lang_name: Ikirundi
+    lang_region: Africa
+    

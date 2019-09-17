@@ -1,0 +1,24 @@
+.. _abc:
+
+Ambala Ayta
+-----------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: abc
+    alternate_names:
+    - Ambala Agta
+    - Ambala Sambal
+    anglicanized_name: Ayta, Ambala
+    country_codes:
+    - PH
+    gateway_language: ceb
+    lang_code: abc
+    lang_direction: ltr
+    lang_name: Ambala Ayta
+    lang_region: Asia
+    

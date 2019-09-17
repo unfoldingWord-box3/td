@@ -1,0 +1,30 @@
+.. _pmm:
+
+Pomo
+----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* CG: Congo
+
+.. code-block:: yaml
+
+    ISO_639-3: pmm
+    alternate_names:
+    - Congo Pol
+    - Pori
+    - Pul
+    - Azom (Asom)
+    - Pori Asom
+    - Pori Kinda (Kinda)
+    anglicanized_name: Pol
+    country_codes:
+    - CM
+    - CG
+    gateway_language: fr
+    lang_code: pmm
+    lang_direction: ltr
+    lang_name: Pomo
+    lang_region: Africa
+    

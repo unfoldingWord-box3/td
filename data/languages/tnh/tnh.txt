@@ -1,0 +1,26 @@
+.. _tnh:
+
+Maiani
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: tnh
+    alternate_names:
+    - Banara
+    - Miani South
+    - Tani
+    - Wagimuda
+    anglicanized_name: Maiani
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: tnh
+    lang_direction: ltr
+    lang_name: Maiani
+    lang_region: Pacific
+    

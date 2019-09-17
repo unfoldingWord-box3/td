@@ -1,0 +1,23 @@
+.. _mml:
+
+克蔑话
+---------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: mml
+    alternate_names:
+    - Manmi
+    anglicanized_name: Man Met
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: mml
+    lang_direction: ltr
+    lang_name: 克蔑话
+    lang_region: Asia
+    

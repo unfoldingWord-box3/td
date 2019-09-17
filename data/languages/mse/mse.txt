@@ -1,0 +1,37 @@
+.. _mse:
+
+Musey
+-----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: mse
+    alternate_names:
+    - Bananna
+    - Bananna Ho
+    - Ho
+    - Mosi
+    - Moussei
+    - Musaya
+    - Musei
+    - Museyna
+    - Musiina
+    - Musoi
+    - Mussoi
+    - Mussoy
+    - Bananna Ho Ho
+    anglicanized_name: Musey
+    country_codes:
+    - CM
+    - TD
+    gateway_language: ar
+    lang_code: mse
+    lang_direction: ltr
+    lang_name: Musey
+    lang_region: Africa
+    

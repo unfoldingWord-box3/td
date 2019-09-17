@@ -1,0 +1,43 @@
+.. _dz:
+
+རྫོང་ཁ
+------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/dzo>`__ identifies this language as ``dzo``.
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+* NP: Nepal
+* IN: India
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: dzo
+    alternate_names:
+    - Bhotia of Bhutan
+    - Bhotia of Dukpa
+    - Bhutanese
+    - Drukha
+    - Drukke
+    - Dukpa
+    - Jonkha
+    - Rdzongkha
+    - Zongkhar
+    - Drukpa
+    - Hloka
+    - Lhoskad
+    - Wang-The (Thimphu-Punakha)
+    anglicanized_name: Dzongkha
+    country_codes:
+    - BT
+    - NP
+    - IN
+    gateway_language: null
+    lang_code: dz
+    lang_direction: ltr
+    lang_name: རྫོང་ཁ
+    lang_region: Asia
+    

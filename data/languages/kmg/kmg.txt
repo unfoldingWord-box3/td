@@ -1,0 +1,26 @@
+.. _kmg:
+
+Kâte
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kmg
+    alternate_names:
+    - Kai
+    - Kâte Dong
+    - Magobineng (Bamota)
+    - Wamora (Wamola)
+    anglicanized_name: Kâte
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kmg
+    lang_direction: ltr
+    lang_name: Kâte
+    lang_region: Pacific
+    

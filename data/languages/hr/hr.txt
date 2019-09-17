@@ -1,0 +1,52 @@
+.. _hr:
+
+hrvatski jezik
+--------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/hrv>`__ identifies this language as ``hrv``.
+
+This language is spoken in the following countries:
+
+* AT: Austria
+* BA: Bosnia and Herzegovina
+* HR: Croatia
+* FR: France
+* DE: Germany
+* MK: North Macedonia
+* NL: Netherlands
+* NZ: New Zealand
+* SE: Sweden
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* DK: Denmark
+
+.. code-block:: yaml
+
+    ISO_639-3: hrv
+    alternate_names:
+    - Hrvatski
+    - Molise Croatian
+    - Shtokavski (Ijekavski)
+    - Serbian
+    anglicanized_name: Croatian
+    country_codes:
+    - AT
+    - BA
+    - HR
+    - FR
+    - DE
+    - MK
+    - NL
+    - NZ
+    - SE
+    - US
+    - AU
+    - CA
+    - DK
+    gateway_language: en
+    lang_code: hr
+    lang_direction: ltr
+    lang_name: hrvatski jezik
+    lang_region: Europe
+    

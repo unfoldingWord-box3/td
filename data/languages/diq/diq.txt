@@ -1,0 +1,31 @@
+.. _diq:
+
+Dimli (individual language)
+---------------------------
+
+This language is spoken in the following countries:
+
+* TR: Turkey
+
+.. code-block:: yaml
+
+    ISO_639-3: diq
+    alternate_names:
+    - Dimili
+    - Southern Zaza
+    - Zaza
+    - Zazaca
+    - Dersimki
+    - Motki (Moti)
+    - Hazzu (Hazo)
+    - Dumbuli (Dumbeli)
+    - Eastern Zazaki (Central Zazaki)
+    anglicanized_name: Zazaki, Southern
+    country_codes:
+    - TR
+    gateway_language: tr
+    lang_code: diq
+    lang_direction: ltr
+    lang_name: Dimli (individual language)
+    lang_region: Asia
+    

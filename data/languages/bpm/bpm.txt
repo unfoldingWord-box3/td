@@ -1,0 +1,23 @@
+.. _bpm:
+
+Biyom
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bpm
+    alternate_names:
+    - Sasime
+    anglicanized_name: Biyom
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bpm
+    lang_direction: ltr
+    lang_name: Biyom
+    lang_region: Pacific
+    

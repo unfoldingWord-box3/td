@@ -1,0 +1,24 @@
+.. _lbu:
+
+Labu
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: lbu
+    alternate_names:
+    - Hapa
+    - Labu'
+    anglicanized_name: Labu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: lbu
+    lang_direction: ltr
+    lang_name: Labu
+    lang_region: Pacific
+    

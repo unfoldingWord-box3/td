@@ -1,0 +1,25 @@
+.. _rmp:
+
+Rempi
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: rmp
+    alternate_names:
+    - A'e
+    - Erempi
+    - Rempin
+    anglicanized_name: Rempi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: rmp
+    lang_direction: ltr
+    lang_name: Rempi
+    lang_region: Pacific
+    

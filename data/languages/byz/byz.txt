@@ -1,0 +1,25 @@
+.. _byz:
+
+Banaro
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: byz
+    alternate_names:
+    - Banar
+    - Banara
+    - Waran
+    anglicanized_name: Banaro
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: byz
+    lang_direction: ltr
+    lang_name: Banaro
+    lang_region: Pacific
+    

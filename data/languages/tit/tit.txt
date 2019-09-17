@@ -1,0 +1,23 @@
+.. _tit:
+
+Tinigua
+-------
+
+This language is spoken in the following countries:
+
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: tit
+    alternate_names:
+    - Tiniguas
+    anglicanized_name: Tinigua
+    country_codes:
+    - CO
+    gateway_language: es-419
+    lang_code: tit
+    lang_direction: ltr
+    lang_name: Tinigua
+    lang_region: Americas
+    

@@ -1,0 +1,22 @@
+.. _ttt-x-ismai:
+
+Ismaili
+-------
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Ismaili
+    country_codes:
+    - AZ
+    gateway_language: ru
+    lang_code: ttt-x-ismai
+    lang_direction: ltr
+    lang_name: Ismaili
+    lang_region: Asia
+    

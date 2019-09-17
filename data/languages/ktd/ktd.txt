@@ -1,0 +1,33 @@
+.. _ktd:
+
+Kokata
+------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: ktd
+    alternate_names:
+    - Gugada
+    - Kokatha
+    - Kokitta
+    - Koocatho
+    - Koogurda
+    - Kugurda
+    - Kukata
+    - Madutara
+    - Maduwonga
+    - Wanggamadu
+    - Wongamardu
+    anglicanized_name: Kokata
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: ktd
+    lang_direction: ltr
+    lang_name: Kokata
+    lang_region: Pacific
+    

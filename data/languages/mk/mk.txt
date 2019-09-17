@@ -1,0 +1,42 @@
+.. _mk:
+
+македонски јазик
+-------------------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/mkd>`__ identifies this language as ``mkd``.
+
+This language is spoken in the following countries:
+
+* GR: Greece
+* DE: Germany
+* AL: Albania
+* MK: North Macedonia
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* IT: Italy
+* BG: Bulgaria
+
+.. code-block:: yaml
+
+    ISO_639-3: mkd
+    alternate_names:
+    - Macedonian Slavic
+    - Makedonski
+    anglicanized_name: Macedonian
+    country_codes:
+    - GR
+    - DE
+    - AL
+    - MK
+    - US
+    - AU
+    - CA
+    - IT
+    - BG
+    gateway_language: en
+    lang_code: mk
+    lang_direction: ltr
+    lang_name: македонски јазик
+    lang_region: Europe
+    

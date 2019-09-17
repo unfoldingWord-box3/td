@@ -1,0 +1,37 @@
+.. _acf:
+
+Saint Lucian Creole French
+--------------------------
+
+This language is spoken in the following countries:
+
+* DM: Dominica
+* TT: Trinidad and Tobago
+* FR: France
+* GF: French Guiana
+* US: United States of America
+* LC: Saint Lucia
+
+.. code-block:: yaml
+
+    ISO_639-3: acf
+    alternate_names:
+    - Kwèyòl
+    - Patois
+    - Patwa
+    - Grenadian Creole French
+    - Kwéyòl
+    anglicanized_name: Saint Lucian Creole French
+    country_codes:
+    - DM
+    - TT
+    - FR
+    - GF
+    - US
+    - LC
+    gateway_language: en
+    lang_code: acf
+    lang_direction: ltr
+    lang_name: Saint Lucian Creole French
+    lang_region: Americas
+    

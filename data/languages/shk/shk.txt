@@ -1,0 +1,28 @@
+.. _shk:
+
+Shilluk
+-------
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: shk
+    alternate_names:
+    - Chulla
+    - Colo
+    - Dhocolo
+    - Shulla
+    anglicanized_name: Shilluk
+    country_codes:
+    - SS
+    - US
+    gateway_language: ar
+    lang_code: shk
+    lang_direction: ltr
+    lang_name: Shilluk
+    lang_region: Africa
+    

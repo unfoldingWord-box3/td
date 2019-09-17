@@ -1,0 +1,24 @@
+.. _zav:
+
+Yatzachi Zapotec
+----------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zav
+    alternate_names:
+    - Villa Alta Zapotec
+    - Zapoteco de Yatzachi
+    anglicanized_name: Zapotec, Yatzachi
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zav
+    lang_direction: ltr
+    lang_name: Yatzachi Zapotec
+    lang_region: Americas
+    

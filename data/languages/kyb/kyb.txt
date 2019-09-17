@@ -1,0 +1,23 @@
+.. _kyb:
+
+Butbut Kalinga
+--------------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: kyb
+    alternate_names:
+    - Butbut
+    anglicanized_name: Kalinga, Butbut
+    country_codes:
+    - PH
+    gateway_language: ilo
+    lang_code: kyb
+    lang_direction: ltr
+    lang_name: Butbut Kalinga
+    lang_region: Asia
+    

@@ -1,0 +1,27 @@
+.. _ots:
+
+Estado de México Otomi
+-----------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: ots
+    alternate_names:
+    - Hñatho
+    - Otomí de San Felipe Santiago
+    - Otomí del Estado de México
+    - State of Mexico Otomi
+    - San Felipe Santiago Otomí
+    anglicanized_name: Otomi, Estado de México
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: ots
+    lang_direction: ltr
+    lang_name: Estado de México Otomi
+    lang_region: Americas
+    

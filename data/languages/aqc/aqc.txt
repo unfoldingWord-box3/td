@@ -1,0 +1,27 @@
+.. _aqc:
+
+Арчинский
+------------------
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: aqc
+    alternate_names:
+    - Archib
+    - Archin
+    - Archintsy
+    - Archsel
+    - Arshashdib
+    anglicanized_name: Archi
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: aqc
+    lang_direction: ltr
+    lang_name: Арчинский
+    lang_region: Europe
+    

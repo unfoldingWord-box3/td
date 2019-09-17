@@ -1,0 +1,24 @@
+.. _def:
+
+گویش دزفولی
+---------------------
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: def
+    alternate_names:
+    - Dizfuli
+    - Shushtari
+    anglicanized_name: Dezfuli
+    country_codes:
+    - IR
+    gateway_language: fa
+    lang_code: def
+    lang_direction: ltr
+    lang_name: گویش دزفولی
+    lang_region: Asia
+    

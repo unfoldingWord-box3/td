@@ -1,0 +1,25 @@
+.. _wbt:
+
+Wanman
+------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: wbt
+    alternate_names:
+    - Nanidjara
+    - Nyaani
+    - Warnman
+    anglicanized_name: Wanman
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: wbt
+    lang_direction: ltr
+    lang_name: Wanman
+    lang_region: Pacific
+    

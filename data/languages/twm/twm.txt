@@ -1,0 +1,46 @@
+.. _twm:
+
+Tawang Monpa
+------------
+
+This language is spoken in the following countries:
+
+* CN: China
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: twm
+    alternate_names:
+    - Buruomi
+    - Buruomiba
+    - Cona Monba
+    - Cuona Menba
+    - Cuona Monpa
+    - Dakpa
+    - Dwags
+    - Menba
+    - Menpa
+    - Moinba
+    - Momba
+    - Mompa
+    - Monba
+    - Monpa
+    - Pramipa
+    - Takpa
+    - Tawan Monba
+    - Brahmi
+    - Monkit
+    - Northern Monpa
+    - Northern Cuona
+    - Southern Cuona
+    anglicanized_name: Monpa, Tawang
+    country_codes:
+    - CN
+    - IN
+    gateway_language: en
+    lang_code: twm
+    lang_direction: ltr
+    lang_name: Tawang Monpa
+    lang_region: Asia
+    

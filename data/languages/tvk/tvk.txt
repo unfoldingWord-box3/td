@@ -1,0 +1,23 @@
+.. _tvk:
+
+Southeast Ambrym
+----------------
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: tvk
+    alternate_names:
+    - Taveak (Taviak)
+    anglicanized_name: Ambrym, Southeast
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: tvk
+    lang_direction: ltr
+    lang_name: Southeast Ambrym
+    lang_region: Pacific
+    

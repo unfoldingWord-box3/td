@@ -1,0 +1,23 @@
+.. _ago:
+
+Tainae
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ago
+    alternate_names:
+    - Ivori
+    anglicanized_name: Tainae
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ago
+    lang_direction: ltr
+    lang_name: Tainae
+    lang_region: Pacific
+    

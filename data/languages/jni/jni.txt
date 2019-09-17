@@ -1,0 +1,26 @@
+.. _jni:
+
+Janji
+-----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: jni
+    alternate_names:
+    - Ajanji
+    - Anafejanzi
+    - Jenji
+    - Tijanji
+    anglicanized_name: Janji
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: jni
+    lang_direction: ltr
+    lang_name: Janji
+    lang_region: Africa
+    

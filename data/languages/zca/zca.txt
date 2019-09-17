@@ -1,0 +1,23 @@
+.. _zca:
+
+Coatecas Altas Zapotec
+----------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zca
+    alternate_names:
+    - Zapoteco de San Juan Coatecas Altas
+    anglicanized_name: Zapotec, Coatecas Altas
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zca
+    lang_direction: ltr
+    lang_name: Coatecas Altas Zapotec
+    lang_region: Americas
+    

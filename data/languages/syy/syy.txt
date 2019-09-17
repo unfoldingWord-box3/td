@@ -1,0 +1,23 @@
+.. _syy:
+
+שפת הסימנים של שבט א-סייד
+---------------------------------------------
+
+This language is spoken in the following countries:
+
+* IL: Israel
+
+.. code-block:: yaml
+
+    ISO_639-3: syy
+    alternate_names:
+    - ABSL
+    anglicanized_name: Al-Sayyid Bedouin Sign Language
+    country_codes:
+    - IL
+    gateway_language: en
+    lang_code: syy
+    lang_direction: ltr
+    lang_name: שפת הסימנים של שבט א-סייד
+    lang_region: Asia
+    

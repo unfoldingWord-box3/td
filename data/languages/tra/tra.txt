@@ -1,0 +1,22 @@
+.. _tra:
+
+Tirahi
+------
+
+This language is spoken in the following countries:
+
+* AF: Afghanistan
+
+.. code-block:: yaml
+
+    ISO_639-3: tra
+    alternate_names: []
+    anglicanized_name: Tirahi
+    country_codes:
+    - AF
+    gateway_language: ps
+    lang_code: tra
+    lang_direction: ltr
+    lang_name: Tirahi
+    lang_region: Asia
+    

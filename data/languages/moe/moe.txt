@@ -1,0 +1,25 @@
+.. _moe:
+
+Montagnais
+----------
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: moe
+    alternate_names:
+    - Innu
+    - Innu Aimun
+    - Western Montagnais
+    anglicanized_name: Montagnais
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: moe
+    lang_direction: ltr
+    lang_name: Montagnais
+    lang_region: Americas
+    

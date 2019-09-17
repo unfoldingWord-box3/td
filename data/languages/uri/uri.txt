@@ -1,0 +1,27 @@
+.. _uri:
+
+Urim
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: uri
+    alternate_names:
+    - Kalp
+    - Kurom
+    - Tayon
+    - Wan
+    - Kukwo (Kalpm)
+    anglicanized_name: Urim
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: uri
+    lang_direction: ltr
+    lang_name: Urim
+    lang_region: Pacific
+    

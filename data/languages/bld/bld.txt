@@ -1,0 +1,32 @@
+.. _bld:
+
+Bolango
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bld
+    alternate_names:
+    - Atinggola-Bolango
+    - Bolaang Uki
+    - Bolang-Banka
+    - Bulanga
+    - Bulanga-Uki
+    - Atinggola (Andagile)
+    - Attingola
+    - Bolango (Uki)
+    - Diu
+    - Kattinggola
+    anglicanized_name: Bolango
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bld
+    lang_direction: ltr
+    lang_name: Bolango
+    lang_region: Asia
+    

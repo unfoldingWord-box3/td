@@ -1,0 +1,31 @@
+.. _msf:
+
+Mekwei
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: msf
+    alternate_names:
+    - Demenggong-Waibron-Bano
+    - Menggei
+    - Menggwei
+    - Moi
+    - Mooi
+    - Munggai
+    - Mungge
+    - Munkei
+    - Waipu
+    anglicanized_name: Mekwei
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: msf
+    lang_direction: ltr
+    lang_name: Mekwei
+    lang_region: Asia
+    

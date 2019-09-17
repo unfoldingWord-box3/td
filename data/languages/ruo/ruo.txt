@@ -1,0 +1,23 @@
+.. _ruo:
+
+Istro Romanian
+--------------
+
+This language is spoken in the following countries:
+
+* HR: Croatia
+
+.. code-block:: yaml
+
+    ISO_639-3: ruo
+    alternate_names:
+    - Istro-Romanian
+    anglicanized_name: Romanian, Istro
+    country_codes:
+    - HR
+    gateway_language: en
+    lang_code: ruo
+    lang_direction: ltr
+    lang_name: Istro Romanian
+    lang_region: Europe
+    

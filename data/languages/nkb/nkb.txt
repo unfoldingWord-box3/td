@@ -1,0 +1,25 @@
+.. _nkb:
+
+Khoibu Naga
+-----------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: nkb
+    alternate_names:
+    - Khoibu
+    - Khoibu Maring
+    - Khoibu Maring Naga
+    anglicanized_name: Naga, Khoibu
+    country_codes:
+    - IN
+    gateway_language: en
+    lang_code: nkb
+    lang_direction: ltr
+    lang_name: Khoibu Naga
+    lang_region: Asia
+    

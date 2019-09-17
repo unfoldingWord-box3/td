@@ -1,0 +1,23 @@
+.. _duc:
+
+Duna
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: duc
+    alternate_names:
+    - Yuna
+    anglicanized_name: Duna
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: duc
+    lang_direction: ltr
+    lang_name: Duna
+    lang_region: Pacific
+    

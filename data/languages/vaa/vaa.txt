@@ -1,0 +1,34 @@
+.. _vaa:
+
+Vaagri Booli
+------------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: vaa
+    alternate_names:
+    - Guvvalollu
+    - Haki Piki
+    - Hakkipikkaru
+    - Karikkorava
+    - Kuruvikkaran
+    - Marattiyan
+    - Narakureavar
+    - Narikkorava
+    - Rattiyan
+    - Shikarijanam
+    - Wagri Vel
+    - Wogri Boli
+    anglicanized_name: Vaagri Booli
+    country_codes:
+    - IN
+    gateway_language: ta
+    lang_code: vaa
+    lang_direction: ltr
+    lang_name: Vaagri Booli
+    lang_region: Asia
+    

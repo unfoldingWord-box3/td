@@ -1,0 +1,29 @@
+.. _dup:
+
+Duano
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: dup
+    alternate_names:
+    - Desin Dolak
+    - Desin Duano
+    - Duano'
+    - Orang Kuala
+    - Orang Laut
+    anglicanized_name: Duano
+    country_codes:
+    - ID
+    - MY
+    gateway_language: id
+    lang_code: dup
+    lang_direction: ltr
+    lang_name: Duano
+    lang_region: Asia
+    

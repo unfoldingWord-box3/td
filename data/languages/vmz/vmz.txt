@@ -1,0 +1,31 @@
+.. _vmz:
+
+Mazatlán Mazatec
+-----------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: vmz
+    alternate_names:
+    - Mazateco de Mazatlán Villa de Flores
+    - Mazateco del Suroeste
+    - San Jerónimo Tecóatl Mazatec
+    - Santa Ana Ateixtlahuaca Mazatec
+    - San Pedro Ocopetatillo Mazatec
+    - San Lorenzo Cuanecuiltitla Mazatec
+    - San Francisco Huehuetlán Mazatec
+    - San Antonio Eloxochitlán Mazatec (Mazateco de Eloxochitlán)
+    - San Lucas Zoquiapan Mazatec
+    anglicanized_name: Mazatec, Mazatlán
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: vmz
+    lang_direction: ltr
+    lang_name: Mazatlán Mazatec
+    lang_region: Americas
+    

@@ -1,0 +1,23 @@
+.. _slm:
+
+Pangutaran Sama
+---------------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: slm
+    alternate_names:
+    - Siyama
+    anglicanized_name: Sama, Pangutaran
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: slm
+    lang_direction: ltr
+    lang_name: Pangutaran Sama
+    lang_region: Asia
+    

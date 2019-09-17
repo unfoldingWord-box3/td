@@ -1,0 +1,58 @@
+.. _rw:
+
+Ikinyarwanda
+------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/kin>`__ identifies this language as ``kin``.
+
+This language is spoken in the following countries:
+
+* RW: Rwanda
+* TZ: Tanzania, United Republic of
+* US: United States of America
+* CD: Congo, Democratic Republic of the
+* CA: Canada
+* UG: Uganda
+* BI: Burundi
+
+.. code-block:: yaml
+
+    ISO_639-3: kin
+    alternate_names:
+    - Ruanda
+    - Ikinyarwanda
+    - Orunyarwanda
+    - Rwandan
+    - Urunyaruanda
+    - Runyarwanda
+    - Shobyo
+    - Ululera
+    - Tshiga
+    - Rutwa (Twa)
+    - Ndogo
+    - Ndara
+    - Mulenge (Kinyamulenge)
+    - Kiga
+    - Ikinyanduga
+    - Ikigoyi
+    - Igikiga (Igishiru)
+    - Bwisha (Kinyabwisha)
+    - Hutu (Hera)
+    - Gitwa
+    - Lera
+    - Tshogo
+    anglicanized_name: Kinyarwanda
+    country_codes:
+    - RW
+    - TZ
+    - US
+    - CD
+    - CA
+    - UG
+    - BI
+    gateway_language: sw
+    lang_code: rw
+    lang_direction: ltr
+    lang_name: Ikinyarwanda
+    lang_region: Africa
+    

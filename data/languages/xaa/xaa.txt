@@ -1,0 +1,22 @@
+.. _xaa:
+
+Andalusian Arabic
+-----------------
+
+This language is spoken in the following countries:
+
+* ES: Spain
+
+.. code-block:: yaml
+
+    ISO_639-3: xaa
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - ES
+    gateway_language: ar
+    lang_code: xaa
+    lang_direction: ltr
+    lang_name: Andalusian Arabic
+    lang_region: Europe
+    

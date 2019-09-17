@@ -1,0 +1,25 @@
+.. _afz:
+
+Obokuitai
+---------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: afz
+    alternate_names:
+    - Aliki
+    - Ati
+    - Obogwitai
+    anglicanized_name: Obokuitai
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: afz
+    lang_direction: ltr
+    lang_name: Obokuitai
+    lang_region: Asia
+    

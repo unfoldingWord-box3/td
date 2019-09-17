@@ -1,0 +1,23 @@
+.. _nea:
+
+Eastern Ngad'a
+--------------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: nea
+    alternate_names:
+    - Southeast Ngada
+    anglicanized_name: Ngad’a, Eastern
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: nea
+    lang_direction: ltr
+    lang_name: Eastern Ngad'a
+    lang_region: Asia
+    

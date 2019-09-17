@@ -1,0 +1,24 @@
+.. _sfw:
+
+Sehwi
+-----
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: sfw
+    alternate_names:
+    - Asahyue
+    - Sefwi
+    anglicanized_name: Sehwi
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: sfw
+    lang_direction: ltr
+    lang_name: Sehwi
+    lang_region: Africa
+    

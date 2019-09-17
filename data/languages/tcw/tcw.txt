@@ -1,0 +1,22 @@
+.. _tcw:
+
+Tecpatlán Totonac
+------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: tcw
+    alternate_names: []
+    anglicanized_name: Totonac, Tecpatlán
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: tcw
+    lang_direction: ltr
+    lang_name: Tecpatlán Totonac
+    lang_region: Americas
+    

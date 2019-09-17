@@ -1,0 +1,26 @@
+.. _rah:
+
+Rabha
+-----
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: rah
+    alternate_names:
+    - Rava
+    - Maitaria (Maitoria)
+    - Maituri
+    - Rangdania (Rongdani)
+    anglicanized_name: Rabha
+    country_codes:
+    - IN
+    gateway_language: as
+    lang_code: rah
+    lang_direction: ltr
+    lang_name: Rabha
+    lang_region: Asia
+    

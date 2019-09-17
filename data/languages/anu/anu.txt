@@ -1,0 +1,38 @@
+.. _anu:
+
+Anuak
+-----
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+* SS: South Sudan
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: anu
+    alternate_names:
+    - Anyuak
+    - Anywa
+    - Anywak
+    - Bar
+    - Burjin
+    - Jambo
+    - Miroy
+    - Moojanga
+    - Nuro
+    - Yambo
+    - Yembo
+    - Dho Anywaa
+    anglicanized_name: Anuak
+    country_codes:
+    - ET
+    - SS
+    - US
+    gateway_language: ar
+    lang_code: anu
+    lang_direction: ltr
+    lang_name: Anuak
+    lang_region: Africa
+    

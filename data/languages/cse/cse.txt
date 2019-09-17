@@ -1,0 +1,22 @@
+.. _cse:
+
+Czech Sign Language
+-------------------
+
+This language is spoken in the following countries:
+
+* CZ: Czechia
+
+.. code-block:: yaml
+
+    ISO_639-3: cse
+    alternate_names: []
+    anglicanized_name: Czech Sign Language
+    country_codes:
+    - CZ
+    gateway_language: en
+    lang_code: cse
+    lang_direction: ltr
+    lang_name: Czech Sign Language
+    lang_region: Europe
+    

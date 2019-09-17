@@ -1,0 +1,23 @@
+.. _adn:
+
+Adang
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: adn
+    alternate_names:
+    - Alor
+    anglicanized_name: Adang
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: adn
+    lang_direction: ltr
+    lang_name: Adang
+    lang_region: Asia
+    

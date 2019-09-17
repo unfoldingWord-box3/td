@@ -1,0 +1,29 @@
+.. _skr:
+
+سرائیکی
+--------------
+
+This language is spoken in the following countries:
+
+* PK: Pakistan
+
+.. code-block:: yaml
+
+    ISO_639-3: skr
+    alternate_names:
+    - Bahawalpuri
+    - Mutani
+    - Reasati
+    - Riasati
+    - Siraiki
+    - Southern Panjabi
+    - Riasiti
+    anglicanized_name: Saraiki
+    country_codes:
+    - PK
+    gateway_language: ur
+    lang_code: skr
+    lang_direction: ltr
+    lang_name: سرائیکی
+    lang_region: Asia
+    

@@ -1,0 +1,23 @@
+.. _zpe:
+
+Petapa Zapotec
+--------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zpe
+    alternate_names:
+    - Zapoteco de Santa María Petapa
+    anglicanized_name: Zapotec, Petapa
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zpe
+    lang_direction: ltr
+    lang_name: Petapa Zapotec
+    lang_region: Americas
+    

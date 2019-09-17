@@ -1,0 +1,25 @@
+.. _sgp:
+
+Singpho
+-------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: sgp
+    alternate_names:
+    - Jingphaw
+    - Kachin
+    - Sing-Fo
+    anglicanized_name: Singpho
+    country_codes:
+    - IN
+    gateway_language: as
+    lang_code: sgp
+    lang_direction: ltr
+    lang_name: Singpho
+    lang_region: Asia
+    

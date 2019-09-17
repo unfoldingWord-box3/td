@@ -1,0 +1,23 @@
+.. _slh:
+
+Southern Puget Sound Salish
+---------------------------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: slh
+    alternate_names:
+    - Southern Lushootseed
+    anglicanized_name: Salish, Southern Puget Sound
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: slh
+    lang_direction: ltr
+    lang_name: Southern Puget Sound Salish
+    lang_region: Americas
+    

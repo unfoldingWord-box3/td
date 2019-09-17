@@ -1,0 +1,28 @@
+.. _kyw:
+
+Kudmali
+-------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: kyw
+    alternate_names:
+    - Bedia
+    - Dharua
+    - Khotta
+    - Kurmali
+    - Kurmali Thar
+    - Kurumali
+    anglicanized_name: Kudmali
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: kyw
+    lang_direction: ltr
+    lang_name: Kudmali
+    lang_region: Asia
+    

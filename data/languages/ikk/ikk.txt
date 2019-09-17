@@ -1,0 +1,22 @@
+.. _ikk:
+
+Ika
+---
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ikk
+    alternate_names: []
+    anglicanized_name: Ika
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ikk
+    lang_direction: ltr
+    lang_name: Ika
+    lang_region: Africa
+    

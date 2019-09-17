@@ -1,0 +1,24 @@
+.. _gnw:
+
+Western Bolivian Guaraní
+-------------------------
+
+This language is spoken in the following countries:
+
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: gnw
+    alternate_names:
+    - Simba
+    - Simba Guaraní
+    anglicanized_name: Guaraní, Western Bolivian
+    country_codes:
+    - BO
+    gateway_language: es-419
+    lang_code: gnw
+    lang_direction: ltr
+    lang_name: Western Bolivian Guaraní
+    lang_region: Americas
+    

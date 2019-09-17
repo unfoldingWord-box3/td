@@ -1,0 +1,23 @@
+.. _bzr:
+
+Biri
+----
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: bzr
+    alternate_names:
+    - Wirri
+    anglicanized_name: Biri
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: bzr
+    lang_direction: ltr
+    lang_name: Biri
+    lang_region: Pacific
+    

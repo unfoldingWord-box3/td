@@ -1,0 +1,66 @@
+.. _uk:
+
+українська мова
+-----------------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ukr>`__ identifies this language as ``ukr``.
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+* BY: Belarus
+* AR: Argentina
+* FR: France
+* DE: Germany
+* VE: Venezuela (Bolivarian Republic of)
+* KZ: Kazakhstan
+* GB: United Kingdom of Great Britain and Northern Ireland
+* TJ: Tajikistan
+* LV: Latvia
+* RO: Romania
+* PL: Poland
+* SK: Slovakia
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* GE: Georgia
+* IT: Italy
+* KG: Kyrgyzstan
+* TM: Turkmenistan
+* UZ: Uzbekistan
+* UA: Ukraine
+
+.. code-block:: yaml
+
+    ISO_639-3: ukr
+    alternate_names: []
+    anglicanized_name: Ukrainian
+    country_codes:
+    - AZ
+    - BY
+    - AR
+    - FR
+    - DE
+    - VE
+    - KZ
+    - GB
+    - TJ
+    - LV
+    - RO
+    - PL
+    - SK
+    - US
+    - AU
+    - CA
+    - GE
+    - IT
+    - KG
+    - TM
+    - UZ
+    - UA
+    gateway_language: en
+    lang_code: uk
+    lang_direction: ltr
+    lang_name: українська мова
+    lang_region: Europe
+    

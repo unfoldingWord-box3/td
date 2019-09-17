@@ -1,0 +1,23 @@
+.. _snp:
+
+Siane
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: snp
+    alternate_names:
+    - Siani
+    anglicanized_name: Siane
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: snp
+    lang_direction: ltr
+    lang_name: Siane
+    lang_region: Pacific
+    

@@ -1,0 +1,24 @@
+.. _qxw:
+
+Jauja Wanca Quechua
+-------------------
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: qxw
+    alternate_names:
+    - Huanca Jauja Quechua
+    - Shausha Wanka Quechua
+    anglicanized_name: Quechua, Jauja Wanca
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: qxw
+    lang_direction: ltr
+    lang_name: Jauja Wanca Quechua
+    lang_region: Americas
+    

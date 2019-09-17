@@ -1,0 +1,26 @@
+.. _dbd:
+
+Dadiya
+------
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: dbd
+    alternate_names:
+    - Daadiya
+    - Dadia
+    - Loodiya
+    - Tunga (Boleri)
+    anglicanized_name: Dadiya
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: dbd
+    lang_direction: ltr
+    lang_name: Dadiya
+    lang_region: Africa
+    

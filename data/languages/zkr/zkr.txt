@@ -1,0 +1,26 @@
+.. _zkr:
+
+Zakhring
+--------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: zkr
+    alternate_names:
+    - Zaiwa
+    - Zha
+    - Eastern Mishmi
+    - Meyor
+    anglicanized_name: Zakhring
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: zkr
+    lang_direction: ltr
+    lang_name: Zakhring
+    lang_region: Asia
+    

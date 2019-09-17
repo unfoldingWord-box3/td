@@ -1,0 +1,34 @@
+.. _tay:
+
+Atayal
+------
+
+This language is spoken in the following countries:
+
+* TW: Taiwan, Province of China
+
+.. code-block:: yaml
+
+    ISO_639-3: tay
+    alternate_names:
+    - Ataiyal
+    - Attayal
+    - Bonotsek
+    - Shabogala
+    - Taijyal
+    - Taiyal
+    - Takonan
+    - Tangao
+    - Tyal
+    - Yukan
+    - Sqoleq (Squliq)
+    - Ts'ole' (Ci'uli')
+    anglicanized_name: Atayal
+    country_codes:
+    - TW
+    gateway_language: zh
+    lang_code: tay
+    lang_direction: ltr
+    lang_name: Atayal
+    lang_region: Asia
+    

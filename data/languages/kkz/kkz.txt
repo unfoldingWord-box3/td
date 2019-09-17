@@ -1,0 +1,26 @@
+.. _kkz:
+
+Kaska
+-----
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: kkz
+    alternate_names:
+    - Caska
+    - Eastern Nahane
+    - Nahane
+    - Nahani
+    anglicanized_name: Kaska
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: kkz
+    lang_direction: ltr
+    lang_name: Kaska
+    lang_region: Americas
+    

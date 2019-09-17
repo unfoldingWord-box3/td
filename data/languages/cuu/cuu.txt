@@ -1,0 +1,35 @@
+.. _cuu:
+
+傣雅语
+---------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: cuu
+    alternate_names:
+    - Cung
+    - Daiya
+    - Huayao Dai
+    - Multi-colored Waistband Tai
+    - Tai-Chung
+    - Tai-Cung
+    - Ya
+    - Yuanxin Hongjin Dai
+    - Huayaodai
+    - Dai Zhong
+    - Tai Sai (Dai Sai)
+    - Tai Chung (Cung)
+    - Tai Kha (Dai Ka)
+    anglicanized_name: Tai Ya
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: cuu
+    lang_direction: ltr
+    lang_name: 傣雅语
+    lang_region: Asia
+    

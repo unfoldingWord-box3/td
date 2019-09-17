@@ -1,0 +1,24 @@
+.. _osp:
+
+Romance Castellano
+------------------
+
+This language is spoken in the following countries:
+
+* ES: Spain
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: osp
+    alternate_names: []
+    anglicanized_name: Old Spanish
+    country_codes:
+    - ES
+    gateway_language: null
+    lang_code: osp
+    lang_direction: ltr
+    lang_name: Romance Castellano
+    lang_region: Europe
+    

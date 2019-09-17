@@ -1,0 +1,22 @@
+.. _lls:
+
+Lithuanian Sign Language
+------------------------
+
+This language is spoken in the following countries:
+
+* LT: Lithuania
+
+.. code-block:: yaml
+
+    ISO_639-3: lls
+    alternate_names: []
+    anglicanized_name: Lithuanian Sign Language
+    country_codes:
+    - LT
+    gateway_language: en
+    lang_code: lls
+    lang_direction: ltr
+    lang_name: Lithuanian Sign Language
+    lang_region: Europe
+    

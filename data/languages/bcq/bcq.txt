@@ -1,0 +1,31 @@
+.. _bcq:
+
+Bench
+-----
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: bcq
+    alternate_names:
+    - Dizu
+    - Ghimarra
+    - Gimarra
+    - Gimira
+    - Mer (Mieru)
+    - Sce
+    - Benesho
+    - Bench (Bencho)
+    - She (Kaba)
+    anglicanized_name: Bench
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: bcq
+    lang_direction: ltr
+    lang_name: Bench
+    lang_region: Africa
+    

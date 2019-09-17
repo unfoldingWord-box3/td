@@ -1,0 +1,33 @@
+.. _sav:
+
+Saafi-Saafi
+-----------
+
+This language is spoken in the following countries:
+
+* SN: Senegal
+
+.. code-block:: yaml
+
+    ISO_639-3: sav
+    alternate_names:
+    - Saafi
+    - Safen
+    - Safi
+    - Sereer Saafen
+    - Serere-Saafen
+    - Serer-Safen
+    - Sindia
+    - Boukhou
+    - Diobass
+    - Hasab
+    - Sebikotane
+    anglicanized_name: Saafi-Saafi
+    country_codes:
+    - SN
+    gateway_language: fr
+    lang_code: sav
+    lang_direction: ltr
+    lang_name: Saafi-Saafi
+    lang_region: Africa
+    

@@ -1,0 +1,55 @@
+.. _apd:
+
+لهجة سودانية
+-----------------------
+
+This language is spoken in the following countries:
+
+* ER: Eritrea
+* ET: Ethiopia
+* FR: France
+* SS: South Sudan
+* OM: Oman
+* NL: Netherlands
+* SA: Saudi Arabia
+* SD: Sudan
+* US: United States of America
+* YE: Yemen
+* TD: Chad
+* CA: Canada
+* LY: Libya
+* EG: Egypt
+* QA: Qatar
+* AE: United Arab Emirates
+
+.. code-block:: yaml
+
+    ISO_639-3: apd
+    alternate_names:
+    - Khartoum Arabic
+    - Sudanese Arabic
+    - North Kordofan Arabic
+    anglicanized_name: Arabic, Sudanese Spoken
+    country_codes:
+    - ER
+    - ET
+    - FR
+    - SS
+    - OM
+    - NL
+    - SA
+    - SD
+    - US
+    - YE
+    - TD
+    - CA
+    - LY
+    - EG
+    - QA
+    - AE
+    gateway_language: ar
+    lang_code: apd
+    lang_direction: rtl
+    lang_name: لهجة سودانية
+    lang_region: Africa
+    

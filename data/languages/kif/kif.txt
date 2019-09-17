@@ -1,0 +1,27 @@
+.. _kif:
+
+Eastern Parbate Kham
+--------------------
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: kif
+    alternate_names:
+    - Eastern Parbate
+    - Nisel
+    - Nishel Kham
+    - Nisi
+    - Nisi Kham
+    anglicanized_name: Kham, Eastern Parbate
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: kif
+    lang_direction: ltr
+    lang_name: Eastern Parbate Kham
+    lang_region: Asia
+    

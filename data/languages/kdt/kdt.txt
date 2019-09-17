@@ -1,0 +1,49 @@
+.. _kdt:
+
+ภาษากูย
+---------------------
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+* TH: Thailand
+* KH: Cambodia
+
+.. code-block:: yaml
+
+    ISO_639-3: kdt
+    alternate_names:
+    - Kuay
+    - Aouei
+    - Cuoi
+    - Dui
+    - Khamen-Boran
+    - Kui
+    - Kuoy
+    - Old Khmer
+    - Soai
+    - Suai
+    - Suay
+    - Suei
+    - Sui
+    - Suoi
+    - Kui Souei
+    - Kuuy
+    - Nheu
+    - Kuy Mlor
+    - Kuy May (Kuy Ma'ay)
+    - Kuy Antra
+    - Kuy Anthua
+    - Kuy Ak
+    - Chang (Suai Chang)
+    anglicanized_name: Kuy
+    country_codes:
+    - LA
+    - TH
+    - KH
+    gateway_language: th
+    lang_code: kdt
+    lang_direction: ltr
+    lang_name: ภาษากูย
+    lang_region: Asia
+    

@@ -1,0 +1,41 @@
+.. _evn:
+
+鄂温克语
+------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: evn
+    alternate_names:
+    - Ewenk
+    - Ewenke
+    - Ewenki
+    - Khamnigan
+    - Owenke
+    - Solon
+    - Solong
+    - Sulong
+    - Suolun
+    - Tungus
+    - Avanki
+    - Avankil
+    - Chapogir
+    - Aoluguya (Olguya)
+    - Manegir
+    - Huihe (Hoy)
+    - Baykit
+    - Morigele (Mergel)
+    - Chenba'erhu (Old Bargu)
+    anglicanized_name: Evenki
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: evn
+    lang_direction: ltr
+    lang_name: 鄂温克语
+    lang_region: Asia
+    

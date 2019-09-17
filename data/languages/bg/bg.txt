@@ -1,0 +1,55 @@
+.. _bg:
+
+български език
+---------------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/bul>`__ identifies this language as ``bul``.
+
+This language is spoken in the following countries:
+
+* GR: Greece
+* DE: Germany
+* KZ: Kazakhstan
+* ES: Spain
+* TJ: Tajikistan
+* TR: Turkey
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* KG: Kyrgyzstan
+* LY: Libya
+* TM: Turkmenistan
+* UZ: Uzbekistan
+* BG: Bulgaria
+
+.. code-block:: yaml
+
+    ISO_639-3: bul
+    alternate_names:
+    - Balgarski
+    - Palitiani
+    - Palityan (Bogomil)
+    - Pomak (Pomakci)
+    - Pomakika
+    anglicanized_name: Bulgarian
+    country_codes:
+    - GR
+    - DE
+    - KZ
+    - ES
+    - TJ
+    - TR
+    - US
+    - AU
+    - CA
+    - KG
+    - LY
+    - TM
+    - UZ
+    - BG
+    gateway_language: en
+    lang_code: bg
+    lang_direction: ltr
+    lang_name: български език
+    lang_region: Europe
+    

@@ -1,0 +1,26 @@
+.. _hwc:
+
+Hawai'i Creole English
+----------------------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: hwc
+    alternate_names:
+    - Hawai'i Creole
+    - Hawai'i Creole English
+    - HCE
+    - Pidgin
+    anglicanized_name: Hawai’i Pidgin
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: hwc
+    lang_direction: ltr
+    lang_name: Hawai'i Creole English
+    lang_region: Americas
+    

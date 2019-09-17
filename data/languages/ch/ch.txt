@@ -1,0 +1,30 @@
+.. _ch:
+
+Chamoru
+-------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/cha>`__ identifies this language as ``cha``.
+
+This language is spoken in the following countries:
+
+* GU: Guam
+* US: United States of America
+* FM: Micronesia (Federated States of)
+
+.. code-block:: yaml
+
+    ISO_639-3: cha
+    alternate_names:
+    - Chamorru
+    - Tjamoro
+    anglicanized_name: Chamorro
+    country_codes:
+    - GU
+    - US
+    - FM
+    gateway_language: en
+    lang_code: ch
+    lang_direction: ltr
+    lang_name: Chamoru
+    lang_region: Pacific
+    

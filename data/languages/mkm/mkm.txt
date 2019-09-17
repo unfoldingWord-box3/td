@@ -1,0 +1,23 @@
+.. _mkm:
+
+Moklen
+------
+
+This language is spoken in the following countries:
+
+* TH: Thailand
+
+.. code-block:: yaml
+
+    ISO_639-3: mkm
+    alternate_names:
+    - Chau Pok
+    anglicanized_name: Moklen
+    country_codes:
+    - TH
+    gateway_language: th
+    lang_code: mkm
+    lang_direction: ltr
+    lang_name: Moklen
+    lang_region: Asia
+    

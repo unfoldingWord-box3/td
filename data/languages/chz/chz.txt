@@ -1,0 +1,25 @@
+.. _chz:
+
+Ozumacín Chinantec
+-------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: chz
+    alternate_names:
+    - Chinanteco de Ayotzintepec
+    - Chinanteco del Sureste Alto
+    - Juujmii
+    anglicanized_name: Chinantec, Ozumacín
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: chz
+    lang_direction: ltr
+    lang_name: Ozumacín Chinantec
+    lang_region: Americas
+    

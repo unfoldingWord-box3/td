@@ -1,0 +1,24 @@
+.. _pgd:
+
+Gāndhārī
+-----------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: pgd
+    alternate_names: []
+    anglicanized_name: Gāndhārī
+    country_codes:
+    - IN
+    gateway_language: null
+    lang_code: pgd
+    lang_direction: ltr
+    lang_name: Gāndhārī
+    lang_region: Asia
+    

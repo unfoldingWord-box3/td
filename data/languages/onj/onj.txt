@@ -1,0 +1,23 @@
+.. _onj:
+
+Onjob
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: onj
+    alternate_names:
+    - Onjab
+    anglicanized_name: Onjob
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: onj
+    lang_direction: ltr
+    lang_name: Onjob
+    lang_region: Pacific
+    

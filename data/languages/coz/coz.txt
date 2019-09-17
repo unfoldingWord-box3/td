@@ -1,0 +1,30 @@
+.. _coz:
+
+Chochotec
+---------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: coz
+    alternate_names:
+    - Chocho
+    - Chocholteco
+    - Chochon
+    - Chochonteco
+    - Chochotec
+    - Chocholteco del este
+    - Chocholteco del oeste
+    - Chocholteco del sur
+    anglicanized_name: Chocholtec
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: coz
+    lang_direction: ltr
+    lang_name: Chochotec
+    lang_region: Americas
+    

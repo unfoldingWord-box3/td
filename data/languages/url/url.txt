@@ -1,0 +1,24 @@
+.. _url:
+
+Urali
+-----
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: url
+    alternate_names:
+    - Oorazhi
+    - Urli
+    anglicanized_name: Urali
+    country_codes:
+    - IN
+    gateway_language: ml
+    lang_code: url
+    lang_direction: ltr
+    lang_name: Urali
+    lang_region: Asia
+    

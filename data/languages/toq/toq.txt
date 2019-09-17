@@ -1,0 +1,31 @@
+.. _toq:
+
+Toposa
+------
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+* SS: South Sudan
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: toq
+    alternate_names:
+    - Akara
+    - Kare
+    - Kumi
+    - Taposa
+    - Topotha
+    anglicanized_name: Toposa
+    country_codes:
+    - ET
+    - SS
+    - UG
+    gateway_language: ar
+    lang_code: toq
+    lang_direction: ltr
+    lang_name: Toposa
+    lang_region: Africa
+    

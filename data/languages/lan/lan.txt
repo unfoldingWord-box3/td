@@ -1,0 +1,26 @@
+.. _lan:
+
+Laru
+----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: lan
+    alternate_names:
+    - Laranchi
+    - Larawa
+    - Laro
+    - Sengwe
+    anglicanized_name: Laru
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: lan
+    lang_direction: ltr
+    lang_name: Laru
+    lang_region: Africa
+    

@@ -1,0 +1,26 @@
+.. _ngc:
+
+Ngombe (Democratic Republic of Congo)
+-------------------------------------
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: ngc
+    alternate_names:
+    - Lingombe
+    - Libinja
+    - Binja (Binza)
+    - Libindja
+    anglicanized_name: Ngombe
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: ngc
+    lang_direction: ltr
+    lang_name: Ngombe (Democratic Republic of Congo)
+    lang_region: Africa
+    

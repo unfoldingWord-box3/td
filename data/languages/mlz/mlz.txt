@@ -1,0 +1,22 @@
+.. _mlz:
+
+Malaynon
+--------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: mlz
+    alternate_names: []
+    anglicanized_name: Malaynon
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: mlz
+    lang_direction: ltr
+    lang_name: Malaynon
+    lang_region: Asia
+    

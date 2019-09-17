@@ -1,0 +1,25 @@
+.. _kgc:
+
+Kasseng
+-------
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names:
+    - Kaseng
+    - Koseng
+    - Kraseng
+    anglicanized_name: Kasseng
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: kgc
+    lang_direction: ltr
+    lang_name: Kasseng
+    lang_region: Asia
+    

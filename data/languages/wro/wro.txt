@@ -1,0 +1,31 @@
+.. _wro:
+
+Worrorra
+--------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: wro
+    alternate_names:
+    - Maialnga
+    - Ong Komi
+    - Worora
+    - Wororra
+    - Worrara
+    - Worrora
+    - Wurara
+    - Wurora
+    - Yangibaia
+    anglicanized_name: Worrorra
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: wro
+    lang_direction: ltr
+    lang_name: Worrorra
+    lang_region: Pacific
+    

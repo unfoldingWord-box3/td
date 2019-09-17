@@ -1,0 +1,23 @@
+.. _osa:
+
+Osage
+-----
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: osa
+    alternate_names:
+    - Wazhazhe
+    anglicanized_name: Osage
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: osa
+    lang_direction: ltr
+    lang_name: Osage
+    lang_region: Americas
+    

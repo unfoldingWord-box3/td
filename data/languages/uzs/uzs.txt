@@ -1,0 +1,33 @@
+.. _uzs:
+
+ازبېک تیلی
+-------------------
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+* AF: Afghanistan
+* PK: Pakistan
+* TR: Turkey
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: uzs
+    alternate_names:
+    - Usbeki
+    - Uzbak
+    - Uzbeki
+    anglicanized_name: Uzbek, Southern
+    country_codes:
+    - AZ
+    - AF
+    - PK
+    - TR
+    - US
+    gateway_language: ps
+    lang_code: uzs
+    lang_direction: ltr
+    lang_name: ازبېک تیلی
+    lang_region: Asia
+    

@@ -1,0 +1,32 @@
+.. _bfp:
+
+Beba
+----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: bfp
+    alternate_names:
+    - Babadji
+    - Baba'zhi
+    - Batadji
+    - Bazhi
+    - Beba'
+    - Bebadji
+    - Biba
+    - Bombe
+    - Mubadji
+    - Shishong
+    anglicanized_name: Beba
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: bfp
+    lang_direction: ltr
+    lang_name: Beba
+    lang_region: Africa
+    

@@ -1,0 +1,23 @@
+.. _kew:
+
+West Kewa
+---------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kew
+    alternate_names:
+    - Pasuma
+    anglicanized_name: Kewa, West
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kew
+    lang_direction: ltr
+    lang_name: West Kewa
+    lang_region: Pacific
+    

@@ -1,0 +1,25 @@
+.. _six:
+
+Sumau
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: six
+    alternate_names:
+    - Garia
+    - Kari
+    - Sumau-Garia
+    anglicanized_name: Sumau
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: six
+    lang_direction: ltr
+    lang_name: Sumau
+    lang_region: Pacific
+    

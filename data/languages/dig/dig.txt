@@ -1,0 +1,28 @@
+.. _dig:
+
+Digo
+----
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: dig
+    alternate_names:
+    - Kidigo
+    - Chichifundi
+    - Chichinondo
+    - Chigwirani
+    anglicanized_name: Chidigo
+    country_codes:
+    - KE
+    - TZ
+    gateway_language: sw
+    lang_code: dig
+    lang_direction: ltr
+    lang_name: Digo
+    lang_region: Africa
+    

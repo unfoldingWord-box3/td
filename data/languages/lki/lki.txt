@@ -1,0 +1,25 @@
+.. _lki:
+
+لەکی
+--------
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+* IQ: Iraq
+
+.. code-block:: yaml
+
+    ISO_639-3: lki
+    alternate_names:
+    - Alaki
+    anglicanized_name: Laki
+    country_codes:
+    - IR
+    - IQ
+    gateway_language: fa
+    lang_code: lki
+    lang_direction: rtl
+    lang_name: لەکی
+    lang_region: Asia
+    

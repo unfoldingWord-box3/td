@@ -1,0 +1,22 @@
+.. _qvl:
+
+Cajatambo North Lima Quechua
+----------------------------
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: qvl
+    alternate_names: []
+    anglicanized_name: Quechua, Cajatambo North Lima
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: qvl
+    lang_direction: ltr
+    lang_name: Cajatambo North Lima Quechua
+    lang_region: Americas
+    

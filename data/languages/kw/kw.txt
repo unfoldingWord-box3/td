@@ -1,0 +1,27 @@
+.. _kw:
+
+Kernewek
+--------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/cor>`__ identifies this language as ``cor``.
+
+This language is spoken in the following countries:
+
+* GB: United Kingdom of Great Britain and Northern Ireland
+
+.. code-block:: yaml
+
+    ISO_639-3: cor
+    alternate_names:
+    - Curnoack
+    - Kernewek
+    - Kernowek
+    anglicanized_name: Cornish
+    country_codes:
+    - GB
+    gateway_language: en
+    lang_code: kw
+    lang_direction: ltr
+    lang_name: Kernewek
+    lang_region: Europe
+    

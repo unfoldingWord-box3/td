@@ -1,0 +1,32 @@
+.. _hae:
+
+Eastern Oromo
+-------------
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: hae
+    alternate_names:
+    - Harar
+    - Harer
+    - Ittu
+    - Kwottu
+    - Qottu
+    - Qotu Oromo
+    - Quottu
+    - Qwottu
+    anglicanized_name: Oromo, Eastern
+    country_codes:
+    - ET
+    - CA
+    gateway_language: am
+    lang_code: hae
+    lang_direction: ltr
+    lang_name: Eastern Oromo
+    lang_region: Africa
+    

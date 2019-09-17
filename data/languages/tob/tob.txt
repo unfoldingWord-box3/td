@@ -1,0 +1,33 @@
+.. _tob:
+
+Toba
+----
+
+This language is spoken in the following countries:
+
+* AR: Argentina
+* PY: Paraguay
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: tob
+    alternate_names:
+    - Chaco Sur
+    - Namqom
+    - Qom
+    - Toba Sur
+    - Emok-Lik
+    - Takshika
+    - Toba-Qom
+    anglicanized_name: Toba
+    country_codes:
+    - AR
+    - PY
+    - BO
+    gateway_language: es-419
+    lang_code: tob
+    lang_direction: ltr
+    lang_name: Toba
+    lang_region: Americas
+    

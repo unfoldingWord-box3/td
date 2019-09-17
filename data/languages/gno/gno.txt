@@ -1,0 +1,32 @@
+.. _gno:
+
+Northern Gondi
+--------------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: gno
+    alternate_names:
+    - Gaudi
+    - Ghond
+    - Godi
+    - Gondiva
+    - Gondu
+    - Gondwadi
+    - Goondile
+    - Goudi
+    - Goudwal
+    - Chhindwara
+    anglicanized_name: Gondi, Northern
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: gno
+    lang_direction: ltr
+    lang_name: Northern Gondi
+    lang_region: Asia
+    

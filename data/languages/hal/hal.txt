@@ -1,0 +1,26 @@
+.. _hal:
+
+Halang
+------
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: hal
+    alternate_names:
+    - Koyong
+    - Salang
+    anglicanized_name: Halang
+    country_codes:
+    - LA
+    - VN
+    gateway_language: vi
+    lang_code: hal
+    lang_direction: ltr
+    lang_name: Halang
+    lang_region: Asia
+    

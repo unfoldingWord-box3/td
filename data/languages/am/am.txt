@@ -1,0 +1,42 @@
+.. _am:
+
+አማርኛ
+------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/amh>`__ identifies this language as ``amh``.
+
+This language is spoken in the following countries:
+
+* DJ: Djibouti
+* ER: Eritrea
+* ET: Ethiopia
+* DE: Germany
+* US: United States of America
+* CA: Canada
+* EG: Egypt
+
+.. code-block:: yaml
+
+    ISO_639-3: amh
+    alternate_names:
+    - Abyssinian
+    - Amarigna
+    - Amarinya
+    - Amhara
+    - Ethiopian
+    - Falasha
+    anglicanized_name: Amharic
+    country_codes:
+    - DJ
+    - ER
+    - ET
+    - DE
+    - US
+    - CA
+    - EG
+    gateway_language: en
+    lang_code: am
+    lang_direction: ltr
+    lang_name: አማርኛ
+    lang_region: Africa
+    

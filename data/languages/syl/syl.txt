@@ -1,0 +1,32 @@
+.. _syl:
+
+Sylheti
+-------
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+
+.. code-block:: yaml
+
+    ISO_639-3: syl
+    alternate_names:
+    - Sileti
+    - Siloti
+    - Srihattia
+    - Sylhetti
+    - Sylhetti Bangla
+    - Syloti
+    - Syloty
+    - Bengali of Cachar
+    - Sylheti Bangla
+    - Sylheti Bengali
+    anglicanized_name: Sylheti
+    country_codes:
+    - BD
+    gateway_language: bn
+    lang_code: syl
+    lang_direction: ltr
+    lang_name: Sylheti
+    lang_region: Asia
+    

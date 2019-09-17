@@ -1,0 +1,23 @@
+.. _elh:
+
+El Hugeirat
+-----------
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: elh
+    alternate_names:
+    - El Hagarat
+    anglicanized_name: El Hugeirat
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: elh
+    lang_direction: ltr
+    lang_name: El Hugeirat
+    lang_region: Africa
+    

@@ -1,0 +1,27 @@
+.. _yrk:
+
+Ненецкий
+----------------
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: yrk
+    alternate_names:
+    - Nenec
+    - Nenetsy
+    - Nentse
+    - Yurak
+    - Yurak Samoyed
+    anglicanized_name: Nenets
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: yrk
+    lang_direction: ltr
+    lang_name: Ненецкий
+    lang_region: Europe
+    

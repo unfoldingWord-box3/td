@@ -1,0 +1,25 @@
+.. _coo:
+
+Comox
+-----
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: coo
+    alternate_names:
+    - Comox-Sliammon
+    - Klahoose
+    - Mainland Comox (Homalco)
+    anglicanized_name: Comox
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: coo
+    lang_direction: ltr
+    lang_name: Comox
+    lang_region: Americas
+    

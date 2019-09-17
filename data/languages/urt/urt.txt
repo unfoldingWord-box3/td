@@ -1,0 +1,26 @@
+.. _urt:
+
+Urat
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: urt
+    alternate_names:
+    - Wasep Yam (South Urat)
+    - Wusyep Tep (East Urat)
+    - Wasep Ngau (North Urat)
+    - Wusyep Yihre (Central Urat)
+    anglicanized_name: Urat
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: urt
+    lang_direction: ltr
+    lang_name: Urat
+    lang_region: Pacific
+    

@@ -1,0 +1,50 @@
+.. _bm:
+
+Bamanankan
+----------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/bam>`__ identifies this language as ``bam``.
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+* GM: Gambia
+* ML: Mali
+* MR: Mauritania
+* NE: Niger
+* SN: Senegal
+* US: United States of America
+* CA: Canada
+* GN: Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bam
+    alternate_names:
+    - Bamako
+    - Bamana
+    - Bamanakan
+    - Wassulunke
+    - Wassulunka
+    - Wasulunkakan (Maninkakan)
+    - Ganadugu
+    - Eastern
+    - Wasuu
+    - Wassulu
+    anglicanized_name: Bambara
+    country_codes:
+    - BF
+    - GM
+    - ML
+    - MR
+    - NE
+    - SN
+    - US
+    - CA
+    - GN
+    gateway_language: fr
+    lang_code: bm
+    lang_direction: ltr
+    lang_name: Bamanankan
+    lang_region: Africa
+    

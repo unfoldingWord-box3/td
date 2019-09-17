@@ -1,0 +1,24 @@
+.. _los:
+
+Loniu
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: los
+    alternate_names:
+    - Lonio
+    - Ndroku
+    anglicanized_name: Loniu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: los
+    lang_direction: ltr
+    lang_name: Loniu
+    lang_region: Pacific
+    

@@ -1,0 +1,22 @@
+.. _niz:
+
+Ningil
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: niz
+    alternate_names: []
+    anglicanized_name: Ningil
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: niz
+    lang_direction: ltr
+    lang_name: Ningil
+    lang_region: Pacific
+    

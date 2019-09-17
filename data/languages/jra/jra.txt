@@ -1,0 +1,34 @@
+.. _jra:
+
+Tiếng Gia Rai
+---------------
+
+This language is spoken in the following countries:
+
+* KH: Cambodia
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: jra
+    alternate_names:
+    - Chor
+    - Cho-Rai
+    - Chrai
+    - Djarai
+    - Gia-Rai
+    - Gio-Rai
+    - Jorai
+    - Mthur
+    - Habau (Ho-Bau)
+    - Hodrung (Hdrung)
+    anglicanized_name: Jarai
+    country_codes:
+    - KH
+    - VN
+    gateway_language: vi
+    lang_code: jra
+    lang_direction: ltr
+    lang_name: Tiếng Gia Rai
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _lbi:
+
+La'bi
+-----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: lbi
+    alternate_names: []
+    anglicanized_name: La’bi
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: lbi
+    lang_direction: ltr
+    lang_name: La'bi
+    lang_region: Africa
+    

@@ -1,0 +1,26 @@
+.. _kcn:
+
+Nubi
+----
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: kcn
+    alternate_names:
+    - Kinubi
+    - Ki-Nubi
+    anglicanized_name: Nubi
+    country_codes:
+    - KE
+    - UG
+    gateway_language: en
+    lang_code: kcn
+    lang_direction: ltr
+    lang_name: Nubi
+    lang_region: Africa
+    

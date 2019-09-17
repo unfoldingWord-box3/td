@@ -1,0 +1,26 @@
+.. _ymo:
+
+Yangum Mon
+----------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ymo
+    alternate_names:
+    - Aiku
+    - Malek
+    - Menandon
+    - Minendon
+    anglicanized_name: Yangum Mon
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ymo
+    lang_direction: ltr
+    lang_name: Yangum Mon
+    lang_region: Pacific
+    

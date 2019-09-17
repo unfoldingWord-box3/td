@@ -1,0 +1,23 @@
+.. _cjp:
+
+Cabécar
+--------
+
+This language is spoken in the following countries:
+
+* CR: Costa Rica
+
+.. code-block:: yaml
+
+    ISO_639-3: cjp
+    alternate_names:
+    - Chirripó
+    anglicanized_name: Cabécar
+    country_codes:
+    - CR
+    gateway_language: es-419
+    lang_code: cjp
+    lang_direction: ltr
+    lang_name: Cabécar
+    lang_region: Americas
+    

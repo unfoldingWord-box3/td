@@ -1,0 +1,27 @@
+.. _lui:
+
+Luiseno
+-------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: lui
+    alternate_names:
+    - Ajachemem
+    - Luiseño
+    - Juaneño (Acgachemem)
+    - Agachemem
+    - Ajachema
+    anglicanized_name: Luiseño
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: lui
+    lang_direction: ltr
+    lang_name: Luiseno
+    lang_region: Americas
+    

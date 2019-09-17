@@ -1,0 +1,23 @@
+.. _mgc:
+
+Morokodo
+--------
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: mgc
+    alternate_names:
+    - Ma'di
+    anglicanized_name: Morokodo
+    country_codes:
+    - SS
+    gateway_language: ar
+    lang_code: mgc
+    lang_direction: ltr
+    lang_name: Morokodo
+    lang_region: Africa
+    

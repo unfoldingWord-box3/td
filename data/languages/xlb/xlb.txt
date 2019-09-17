@@ -1,0 +1,24 @@
+.. _xlb:
+
+Loup B
+------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: xlb
+    alternate_names: []
+    anglicanized_name: Loup B
+    country_codes:
+    - US
+    gateway_language: null
+    lang_code: xlb
+    lang_direction: ltr
+    lang_name: Loup B
+    lang_region: Americas
+    

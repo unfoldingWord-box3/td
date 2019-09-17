@@ -1,0 +1,29 @@
+.. _ygu:
+
+Yugul
+-----
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: ygu
+    alternate_names:
+    - Jokul
+    - Yikil
+    - Yikul
+    - Yookala
+    - Yookil
+    - Yookull
+    - Yukul
+    anglicanized_name: Yugul
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: ygu
+    lang_direction: ltr
+    lang_name: Yugul
+    lang_region: Pacific
+    

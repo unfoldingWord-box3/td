@@ -1,0 +1,28 @@
+.. _cqd:
+
+苗语川黔滇方言
+---------------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: cqd
+    alternate_names:
+    - Chuanchientien Miao
+    - Chuanqiandian Miao
+    - Core Farwestern Hmongic
+    - Sichuan-Guizhou-Yunnan Miao
+    - Western Miao
+    - Hmon
+    anglicanized_name: Miao, Chuanqiandian Cluster
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: cqd
+    lang_direction: ltr
+    lang_name: 苗语川黔滇方言
+    lang_region: Asia
+    

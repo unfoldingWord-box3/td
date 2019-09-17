@@ -1,0 +1,35 @@
+.. _esi:
+
+North Alaskan Inupiatun
+-----------------------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: esi
+    alternate_names:
+    - Inupiaq
+    - Inupiat
+    - North Alaskan Inupiat
+    - Eskimo
+    - Inupiak
+    - North Alaskan Inuktitut
+    - West Arctic Inupiatun (Mackenzie Delta Inupiatun)
+    - Western Iñupiaq
+    - North Slope Inupiatun (Point Barrow Inupiatun)
+    - North Slope Inupiatun
+    - Mackenzie Inupiatun
+    anglicanized_name: Inupiatun, North Alaskan
+    country_codes:
+    - US
+    - CA
+    gateway_language: en
+    lang_code: esi
+    lang_direction: ltr
+    lang_name: North Alaskan Inupiatun
+    lang_region: Americas
+    

@@ -1,0 +1,26 @@
+.. _bfg:
+
+Busang Kayan
+------------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bfg
+    alternate_names:
+    - Busang
+    - Kajan
+    - Kajang
+    - Belayan
+    anglicanized_name: Kayan, Busang
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bfg
+    lang_direction: ltr
+    lang_name: Busang Kayan
+    lang_region: Asia
+    

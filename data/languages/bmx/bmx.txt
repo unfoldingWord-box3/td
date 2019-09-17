@@ -1,0 +1,22 @@
+.. _bmx:
+
+Baimak
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bmx
+    alternate_names: []
+    anglicanized_name: Baimak
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bmx
+    lang_direction: ltr
+    lang_name: Baimak
+    lang_region: Pacific
+    

@@ -1,0 +1,23 @@
+.. _bvp:
+
+布芒语
+---------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: bvp
+    alternate_names:
+    - Manzhang Dai
+    anglicanized_name: Bumang
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: bvp
+    lang_direction: ltr
+    lang_name: 布芒语
+    lang_region: Asia
+    

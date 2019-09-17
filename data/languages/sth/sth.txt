@@ -1,0 +1,29 @@
+.. _sth:
+
+Shelta
+------
+
+This language is spoken in the following countries:
+
+* GB: United Kingdom of Great Britain and Northern Ireland
+* IE: Ireland
+
+.. code-block:: yaml
+
+    ISO_639-3: sth
+    alternate_names:
+    - Cant
+    - Gammon
+    - Irish Traveler Cant
+    - Sheldru
+    - The Cant
+    anglicanized_name: Shelta
+    country_codes:
+    - GB
+    - IE
+    gateway_language: en
+    lang_code: sth
+    lang_direction: ltr
+    lang_name: Shelta
+    lang_region: Europe
+    

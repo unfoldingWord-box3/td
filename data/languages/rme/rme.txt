@@ -1,0 +1,30 @@
+.. _rme:
+
+Angloromani
+-----------
+
+This language is spoken in the following countries:
+
+* GB: United Kingdom of Great Britain and Northern Ireland
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: rme
+    alternate_names:
+    - English Romani
+    - Pogadi Chib
+    - Posh `N' Posh
+    - Romani English
+    - Romanichal
+    - Romanis
+    anglicanized_name: Angloromani
+    country_codes:
+    - GB
+    - AU
+    gateway_language: en
+    lang_code: rme
+    lang_direction: ltr
+    lang_name: Angloromani
+    lang_region: Europe
+    

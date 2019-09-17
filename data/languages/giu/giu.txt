@@ -1,0 +1,23 @@
+.. _giu:
+
+仡佬
+------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: giu
+    alternate_names:
+    - Ayo
+    anglicanized_name: Mulao
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: giu
+    lang_direction: ltr
+    lang_name: 仡佬
+    lang_region: Asia
+    

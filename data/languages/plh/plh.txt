@@ -1,0 +1,22 @@
+.. _plh:
+
+Paulohi
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: plh
+    alternate_names: []
+    anglicanized_name: Paulohi
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: plh
+    lang_direction: ltr
+    lang_name: Paulohi
+    lang_region: Asia
+    

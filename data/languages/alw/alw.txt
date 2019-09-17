@@ -1,0 +1,29 @@
+.. _alw:
+
+Alaba-K’abeena
+----------------
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: alw
+    alternate_names:
+    - K'abeena
+    - Wanbasana (Alaba)
+    - Alaaba
+    - Allaaba
+    - Halaba
+    - K'abena
+    - Qebena
+    anglicanized_name: Alaba-K’abeena
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: alw
+    lang_direction: ltr
+    lang_name: Alaba-K’abeena
+    lang_region: Africa
+    

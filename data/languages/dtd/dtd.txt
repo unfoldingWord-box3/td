@@ -1,0 +1,24 @@
+.. _dtd:
+
+Ditidaht
+--------
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: dtd
+    alternate_names:
+    - Nitinaht
+    - Nitinat
+    anglicanized_name: Ditidaht
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: dtd
+    lang_direction: ltr
+    lang_name: Ditidaht
+    lang_region: Americas
+    

@@ -1,0 +1,28 @@
+.. _shl:
+
+Shendu
+------
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: shl
+    alternate_names:
+    - Khieng
+    - Khyen
+    - Sandu
+    - Shandu
+    anglicanized_name: Shendu
+    country_codes:
+    - BD
+    - IN
+    gateway_language: en
+    lang_code: shl
+    lang_direction: ltr
+    lang_name: Shendu
+    lang_region: Asia
+    

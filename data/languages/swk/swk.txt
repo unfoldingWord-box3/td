@@ -1,0 +1,25 @@
+.. _swk:
+
+Malawi Sena
+-----------
+
+This language is spoken in the following countries:
+
+* MW: Malawi
+
+.. code-block:: yaml
+
+    ISO_639-3: swk
+    alternate_names:
+    - Chisena
+    - Cisena
+    - Chimanganja
+    anglicanized_name: Sena, Malawi
+    country_codes:
+    - MW
+    gateway_language: en
+    lang_code: swk
+    lang_direction: ltr
+    lang_name: Malawi Sena
+    lang_region: Africa
+    

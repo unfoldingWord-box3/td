@@ -1,0 +1,24 @@
+.. _piz:
+
+Pije
+----
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: piz
+    alternate_names:
+    - Pindje
+    - Pinje
+    anglicanized_name: Pije
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: piz
+    lang_direction: ltr
+    lang_name: Pije
+    lang_region: Pacific
+    

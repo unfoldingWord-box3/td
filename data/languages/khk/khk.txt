@@ -1,0 +1,47 @@
+.. _khk:
+
+Halh Mongolian
+--------------
+
+This language is spoken in the following countries:
+
+* AT: Austria
+* CN: China
+* DE: Germany
+* HU: Hungary
+* MN: Mongolia
+* GB: United Kingdom of Great Britain and Northern Ireland
+* CZ: Czechia
+* CA: Canada
+* KP: Korea (Democratic People's Republic of)
+* KG: Kyrgyzstan
+
+.. code-block:: yaml
+
+    ISO_639-3: khk
+    alternate_names:
+    - Central Mongolian
+    - Khalkha Mongolian
+    - Mongol
+    - Halh (Khalkha)
+    - Khalkha (Halh)
+    - Darkhat (Darhad)
+    - Darkhad
+    anglicanized_name: Mongolian, Halh
+    country_codes:
+    - AT
+    - CN
+    - DE
+    - HU
+    - MN
+    - GB
+    - CZ
+    - CA
+    - KP
+    - KG
+    gateway_language: mn
+    lang_code: khk
+    lang_direction: ltr
+    lang_name: Halh Mongolian
+    lang_region: Asia
+    

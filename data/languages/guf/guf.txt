@@ -1,0 +1,25 @@
+.. _guf:
+
+Gupapuyngu
+----------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: guf
+    alternate_names:
+    - Gobabingo
+    - Gubabwingu
+    - Dhuwala
+    anglicanized_name: Gupapuyngu
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: guf
+    lang_direction: ltr
+    lang_name: Gupapuyngu
+    lang_region: Pacific
+    

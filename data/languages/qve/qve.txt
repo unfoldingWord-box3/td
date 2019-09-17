@@ -1,0 +1,27 @@
+.. _qve:
+
+Eastern Apurímac Quechua
+-------------------------
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: qve
+    alternate_names:
+    - Apurímac Quechua
+    - Quechua del Este de Apurímac
+    - Abancay
+    - Antabamba
+    - Cotabambas
+    anglicanized_name: Quechua, Eastern Apurímac
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: qve
+    lang_direction: ltr
+    lang_name: Eastern Apurímac Quechua
+    lang_region: Americas
+    

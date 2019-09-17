@@ -1,0 +1,22 @@
+.. _nom:
+
+Nocamán
+--------
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: nom
+    alternate_names: []
+    anglicanized_name: Nocamán
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: nom
+    lang_direction: ltr
+    lang_name: Nocamán
+    lang_region: Americas
+    

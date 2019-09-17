@@ -1,0 +1,22 @@
+.. _ywg:
+
+Yinhawangka
+-----------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: ywg
+    alternate_names: []
+    anglicanized_name: Yinhawangka
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: ywg
+    lang_direction: ltr
+    lang_name: Yinhawangka
+    lang_region: Pacific
+    

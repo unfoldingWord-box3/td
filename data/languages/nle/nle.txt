@@ -1,0 +1,24 @@
+.. _nle:
+
+East Nyala
+----------
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: nle
+    alternate_names:
+    - East
+    - East Nyala
+    anglicanized_name: Nyala
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: nle
+    lang_direction: ltr
+    lang_name: East Nyala
+    lang_region: Africa
+    

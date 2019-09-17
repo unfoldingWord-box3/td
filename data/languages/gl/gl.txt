@@ -1,0 +1,32 @@
+.. _gl:
+
+galego
+------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/glg>`__ identifies this language as ``glg``.
+
+This language is spoken in the following countries:
+
+* AR: Argentina
+* ES: Spain
+* PT: Portugal
+
+.. code-block:: yaml
+
+    ISO_639-3: glg
+    alternate_names:
+    - Galego
+    - Gallego
+    - Rionorese (Rionorês)
+    - Guadramilese (Guadramilês)
+    anglicanized_name: Galician
+    country_codes:
+    - AR
+    - ES
+    - PT
+    gateway_language: es
+    lang_code: gl
+    lang_direction: ltr
+    lang_name: galego
+    lang_region: Europe
+    

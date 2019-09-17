@@ -1,0 +1,22 @@
+.. _num:
+
+Niuafo'ou
+---------
+
+This language is spoken in the following countries:
+
+* TO: Tonga
+
+.. code-block:: yaml
+
+    ISO_639-3: num
+    alternate_names: []
+    anglicanized_name: Niuafo’ou
+    country_codes:
+    - TO
+    gateway_language: en
+    lang_code: num
+    lang_direction: ltr
+    lang_name: Niuafo'ou
+    lang_region: Pacific
+    

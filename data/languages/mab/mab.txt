@@ -1,0 +1,25 @@
+.. _mab:
+
+Yutanduchi Mixtec
+-----------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: mab
+    alternate_names:
+    - Mixteco de Yutanduchi
+    - Mixteco de Yutanduchi de Guerrero
+    - Southern Nochixtlan Mixtec
+    anglicanized_name: Mixtec, Yutanduchi
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: mab
+    lang_direction: ltr
+    lang_name: Yutanduchi Mixtec
+    lang_region: Americas
+    

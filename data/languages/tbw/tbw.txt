@@ -1,0 +1,25 @@
+.. _tbw:
+
+Tagbanwa
+--------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: tbw
+    alternate_names:
+    - Aborlan Tagbanwa
+    - Apurawnon
+    - Tagbanua
+    anglicanized_name: Tagbanwa
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: tbw
+    lang_direction: ltr
+    lang_name: Tagbanwa
+    lang_region: Asia
+    

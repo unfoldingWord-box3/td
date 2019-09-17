@@ -1,0 +1,24 @@
+.. _ymz:
+
+Muzi
+----
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: ymz
+    alternate_names:
+    - Mogeha
+    - Muji
+    anglicanized_name: Muzi
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: ymz
+    lang_direction: ltr
+    lang_name: Muzi
+    lang_region: Asia
+    

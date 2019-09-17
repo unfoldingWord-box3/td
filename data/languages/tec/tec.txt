@@ -1,0 +1,23 @@
+.. _tec:
+
+Terik
+-----
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: tec
+    alternate_names:
+    - Nyang'ori
+    anglicanized_name: Terik
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: tec
+    lang_direction: ltr
+    lang_name: Terik
+    lang_region: Africa
+    

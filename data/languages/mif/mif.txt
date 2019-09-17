@@ -1,0 +1,27 @@
+.. _mif:
+
+Mofu-Gudur
+----------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: mif
+    alternate_names:
+    - Mofou
+    - Mofou de Goudour
+    - Mofu South
+    - Mofu-Sud
+    - Massagal (Massakal)
+    anglicanized_name: Mofu-Gudur
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: mif
+    lang_direction: ltr
+    lang_name: Mofu-Gudur
+    lang_region: Africa
+    

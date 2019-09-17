@@ -1,0 +1,30 @@
+.. _umb:
+
+Umbundu
+-------
+
+This language is spoken in the following countries:
+
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: umb
+    alternate_names:
+    - Mbali
+    - Mbari
+    - M'bundo
+    - Mbundu Benguella
+    - Nano
+    - Ovimbundu
+    - South Mbundu
+    - Umbundo
+    anglicanized_name: Umbundu
+    country_codes:
+    - AO
+    gateway_language: pt
+    lang_code: umb
+    lang_direction: ltr
+    lang_name: Umbundu
+    lang_region: Africa
+    

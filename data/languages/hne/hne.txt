@@ -1,0 +1,28 @@
+.. _hne:
+
+Chhattisgarhi
+-------------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: hne
+    alternate_names:
+    - Khaltahi
+    - Laria
+    - Bhumia
+    - Gowro
+    - Bega
+    - Baigani (Baiga)
+    anglicanized_name: Chhattisgarhi
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: hne
+    lang_direction: ltr
+    lang_name: Chhattisgarhi
+    lang_region: Asia
+    

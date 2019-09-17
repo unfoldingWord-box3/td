@@ -1,0 +1,34 @@
+.. _ga:
+
+Gaeilge
+-------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/gle>`__ identifies this language as ``gle``.
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* CA: Canada
+* IE: Ireland
+
+.. code-block:: yaml
+
+    ISO_639-3: gle
+    alternate_names:
+    - Erse
+    - Gaeilge
+    - Gaelic Irish
+    - Donegal (Northern Irish)
+    - Munster-Leinster (Southern Irish)
+    - Connacht (Western Irish)
+    anglicanized_name: Irish
+    country_codes:
+    - US
+    - CA
+    - IE
+    gateway_language: en
+    lang_code: ga
+    lang_direction: ltr
+    lang_name: Gaeilge
+    lang_region: Europe
+    

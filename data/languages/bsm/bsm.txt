@@ -1,0 +1,22 @@
+.. _bsm:
+
+Busami
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bsm
+    alternate_names: []
+    anglicanized_name: Busami
+    country_codes:
+    - ID
+    gateway_language: pmy
+    lang_code: bsm
+    lang_direction: ltr
+    lang_name: Busami
+    lang_region: Asia
+    

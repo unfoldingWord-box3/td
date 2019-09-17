@@ -1,0 +1,42 @@
+.. _bs:
+
+bosanski jezik
+--------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/bos>`__ identifies this language as ``bos``.
+
+This language is spoken in the following countries:
+
+* BA: Bosnia and Herzegovina
+* DE: Germany
+* ME: Montenegro
+* GB: United Kingdom of Great Britain and Northern Ireland
+* MK: North Macedonia
+* US: United States of America
+* CA: Canada
+* IT: Italy
+* IE: Ireland
+
+.. code-block:: yaml
+
+    ISO_639-3: bos
+    alternate_names:
+    - Ijekavían
+    - Ikavian
+    anglicanized_name: Bosnian
+    country_codes:
+    - BA
+    - DE
+    - ME
+    - GB
+    - MK
+    - US
+    - CA
+    - IT
+    - IE
+    gateway_language: en
+    lang_code: bs
+    lang_direction: ltr
+    lang_name: bosanski jezik
+    lang_region: Europe
+    

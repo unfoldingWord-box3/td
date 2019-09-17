@@ -1,0 +1,26 @@
+.. _kzj:
+
+Coastal Kadazan
+---------------
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names:
+    - Kadazan Tangaa'
+    - Membakut Kadazan
+    - Papar Kadazan
+    - Penampang Kadazan
+    anglicanized_name: Kadazan, Coastal
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: kzj
+    lang_direction: ltr
+    lang_name: Coastal Kadazan
+    lang_region: Asia
+    

@@ -1,0 +1,24 @@
+.. _mnj:
+
+Munji
+-----
+
+This language is spoken in the following countries:
+
+* AF: Afghanistan
+
+.. code-block:: yaml
+
+    ISO_639-3: mnj
+    alternate_names:
+    - Munjigi
+    - Munjiwar
+    anglicanized_name: Munji
+    country_codes:
+    - AF
+    gateway_language: ps
+    lang_code: mnj
+    lang_direction: ltr
+    lang_name: Munji
+    lang_region: Asia
+    

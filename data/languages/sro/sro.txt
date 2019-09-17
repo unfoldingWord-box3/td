@@ -1,0 +1,28 @@
+.. _sro:
+
+Campidanese Sardinian
+---------------------
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: sro
+    alternate_names:
+    - Campidanese
+    - Campidese
+    - Sardu
+    - South Sardinian
+    - Cagliare (Cagliari)
+    - Cagliaritan
+    anglicanized_name: Sardinian, Campidanese
+    country_codes:
+    - IT
+    gateway_language: en
+    lang_code: sro
+    lang_direction: ltr
+    lang_name: Campidanese Sardinian
+    lang_region: Europe
+    

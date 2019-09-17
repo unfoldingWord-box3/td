@@ -1,0 +1,70 @@
+.. _ro:
+
+limba română
+--------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ron>`__ identifies this language as ``ron``.
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+* BE: Belgium
+* FR: France
+* VE: Venezuela (Bolivarian Republic of)
+* HU: Hungary
+* IL: Israel
+* ES: Spain
+* GB: United Kingdom of Great Britain and Northern Ireland
+* NZ: New Zealand
+* RO: Romania
+* TR: Turkey
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* IT: Italy
+* MD: Moldova, Republic of
+* TM: Turkmenistan
+* UZ: Uzbekistan
+* IE: Ireland
+
+.. code-block:: yaml
+
+    ISO_639-3: ron
+    alternate_names:
+    - Daco-Romanian
+    - Rumanian
+    - Moldavan
+    - Roumanian
+    - Daco-Rumanian
+    - Muntenian (Muntean)
+    - Muntenian (Walachian)
+    - Oltenia-Lesser Wallachia (Oltean)
+    - Walachian
+    - Boyash Romanian
+    anglicanized_name: Romanian
+    country_codes:
+    - AZ
+    - BE
+    - FR
+    - VE
+    - HU
+    - IL
+    - ES
+    - GB
+    - NZ
+    - RO
+    - TR
+    - US
+    - AU
+    - CA
+    - IT
+    - MD
+    - TM
+    - UZ
+    - IE
+    gateway_language: en
+    lang_code: ro
+    lang_direction: ltr
+    lang_name: limba română
+    lang_region: Europe
+    

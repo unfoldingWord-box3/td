@@ -1,0 +1,26 @@
+.. _kul:
+
+Kulere
+------
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kul
+    alternate_names:
+    - Akande
+    - Akandi
+    - Kande
+    - Korom Boye
+    anglicanized_name: Kulere
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: kul
+    lang_direction: ltr
+    lang_name: Kulere
+    lang_region: Africa
+    

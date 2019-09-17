@@ -1,0 +1,24 @@
+.. _cng:
+
+Northern Qiang
+--------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: cng
+    alternate_names:
+    - Ch'iang
+    - Mawo
+    anglicanized_name: Qiang, Northern
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: cng
+    lang_direction: ltr
+    lang_name: Northern Qiang
+    lang_region: Asia
+    

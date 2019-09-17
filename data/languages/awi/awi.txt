@@ -1,0 +1,26 @@
+.. _awi:
+
+Aekyom
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: awi
+    alternate_names:
+    - Aiwin
+    - Akium
+    - Awin
+    - West Awin
+    anglicanized_name: Aekyom
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: awi
+    lang_direction: ltr
+    lang_name: Aekyom
+    lang_region: Pacific
+    

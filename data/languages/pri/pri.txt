@@ -1,0 +1,26 @@
+.. _pri:
+
+Paicî
+------
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: pri
+    alternate_names:
+    - Ci
+    - Paaci
+    - Pati
+    - Ponerihouen
+    anglicanized_name: Paicî
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: pri
+    lang_direction: ltr
+    lang_name: Paicî
+    lang_region: Pacific
+    

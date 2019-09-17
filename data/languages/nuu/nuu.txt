@@ -1,0 +1,22 @@
+.. _nuu:
+
+Ngbundu
+-------
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: nuu
+    alternate_names: []
+    anglicanized_name: Ngbundu
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: nuu
+    lang_direction: ltr
+    lang_name: Ngbundu
+    lang_region: Africa
+    

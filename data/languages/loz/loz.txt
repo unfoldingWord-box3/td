@@ -1,0 +1,36 @@
+.. _loz:
+
+Lozi
+----
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+* ZW: Zimbabwe
+* AO: Angola
+* BW: Botswana
+* NA: Namibia
+
+.. code-block:: yaml
+
+    ISO_639-3: loz
+    alternate_names:
+    - Kololo
+    - Rotse
+    - Rozi
+    - Rutse
+    - Tozvi
+    - Rotvi
+    anglicanized_name: Lozi
+    country_codes:
+    - ZM
+    - ZW
+    - AO
+    - BW
+    - NA
+    gateway_language: en
+    lang_code: loz
+    lang_direction: ltr
+    lang_name: Lozi
+    lang_region: Africa
+    

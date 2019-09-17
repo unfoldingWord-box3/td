@@ -1,0 +1,25 @@
+.. _uar:
+
+Tairuma
+-------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: uar
+    alternate_names:
+    - Kerema
+    - Tairuma'a
+    - Uaripi
+    anglicanized_name: Tairuma
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: uar
+    lang_direction: ltr
+    lang_name: Tairuma
+    lang_region: Pacific
+    

@@ -1,0 +1,34 @@
+.. _hmd:
+
+大花苗
+---------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: hmd
+    alternate_names:
+    - A-Hmao
+    - Big Flowery Miao
+    - Da Hua Bei Miao
+    - Da Hua Miao
+    - Diandongbei Miao
+    - Flowery Miao
+    - Great Flowery Tribe
+    - Hua Miao
+    - Hwa Miao
+    - Northeastern Dian Miao
+    - Northeastern Yunnan Miao
+    - Ta Hwa Miao
+    anglicanized_name: Miao, Large Flowery
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: hmd
+    lang_direction: ltr
+    lang_name: 大花苗
+    lang_region: Asia
+    

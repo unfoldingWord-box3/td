@@ -1,0 +1,28 @@
+.. _pkp:
+
+Pukapuka
+--------
+
+This language is spoken in the following countries:
+
+* CK: Cook Islands
+* NZ: New Zealand
+* PF: French Polynesia
+
+.. code-block:: yaml
+
+    ISO_639-3: pkp
+    alternate_names:
+    - Bukabukan
+    - Pukapukan
+    anglicanized_name: Pukapuka
+    country_codes:
+    - CK
+    - NZ
+    - PF
+    gateway_language: en
+    lang_code: pkp
+    lang_direction: ltr
+    lang_name: Pukapuka
+    lang_region: Pacific
+    

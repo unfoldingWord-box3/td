@@ -1,0 +1,36 @@
+.. _des:
+
+Desano
+------
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: des
+    alternate_names:
+    - Boleka
+    - Desâna
+    - Dessano
+    - Kusibi
+    - Oregu
+    - Uina
+    - Wina
+    - Wirã
+    - Desána
+    - Dessana
+    - Kotedia
+    - Wira
+    anglicanized_name: Desano
+    country_codes:
+    - BR
+    - CO
+    gateway_language: pt
+    lang_code: des
+    lang_direction: ltr
+    lang_name: Desano
+    lang_region: Americas
+    

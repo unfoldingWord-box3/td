@@ -1,0 +1,23 @@
+.. _aak:
+
+Ankave
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: aak
+    alternate_names:
+    - Angave
+    anglicanized_name: Ankave
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: aak
+    lang_direction: ltr
+    lang_name: Ankave
+    lang_region: Pacific
+    

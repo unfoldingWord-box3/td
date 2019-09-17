@@ -1,0 +1,24 @@
+.. _bsu:
+
+Bahonsuai
+---------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bsu
+    alternate_names:
+    - Bahoe-soeaai
+    - Bahonsoewaai
+    anglicanized_name: Bahonsuai
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bsu
+    lang_direction: ltr
+    lang_name: Bahonsuai
+    lang_region: Asia
+    

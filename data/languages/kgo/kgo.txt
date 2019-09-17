@@ -1,0 +1,27 @@
+.. _kgo:
+
+Krongo
+------
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: kgo
+    alternate_names:
+    - Dimodongo
+    - Kadumodi
+    - Korongo
+    - Kurungu
+    - Tabanya
+    anglicanized_name: Krongo
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: kgo
+    lang_direction: ltr
+    lang_name: Krongo
+    lang_region: Africa
+    

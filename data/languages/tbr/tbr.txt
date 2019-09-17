@@ -1,0 +1,25 @@
+.. _tbr:
+
+Tumtum
+------
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: tbr
+    alternate_names:
+    - Karondi (Korindi)
+    - Kurondi
+    - Talassa (Talasa)
+    anglicanized_name: Tumtum
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: tbr
+    lang_direction: ltr
+    lang_name: Tumtum
+    lang_region: Africa
+    

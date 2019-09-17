@@ -1,0 +1,27 @@
+.. _aup:
+
+Makayam
+-------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: aup
+    alternate_names:
+    - Adulu
+    - Atura
+    - Makaeyam
+    - Tirio
+    - Giribam
+    anglicanized_name: Makayam
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: aup
+    lang_direction: ltr
+    lang_name: Makayam
+    lang_region: Pacific
+    

@@ -1,0 +1,27 @@
+.. _krn:
+
+Sapo
+----
+
+This language is spoken in the following countries:
+
+* LR: Liberia
+
+.. code-block:: yaml
+
+    ISO_639-3: krn
+    alternate_names:
+    - Southern Krahn
+    - Nomopo (Nimpo)
+    - Sinkon (Senkon)
+    - Waya (Wedjah)
+    - Kabade (Karbardae)
+    anglicanized_name: Sapo
+    country_codes:
+    - LR
+    gateway_language: en
+    lang_code: krn
+    lang_direction: ltr
+    lang_name: Sapo
+    lang_region: Africa
+    

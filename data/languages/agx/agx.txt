@@ -1,0 +1,28 @@
+.. _agx:
+
+агъул чӀал
+-------------------
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: agx
+    alternate_names:
+    - Agul
+    - Fit'e
+    - Gequn (Burkikhan)
+    - Koshan (Q'ushan)
+    - Tsirkhe
+    - Aghul-ch'al
+    anglicanized_name: Aghul
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: agx
+    lang_direction: ltr
+    lang_name: агъул чӀал
+    lang_region: Europe
+    

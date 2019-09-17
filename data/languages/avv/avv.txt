@@ -1,0 +1,28 @@
+.. _avv:
+
+Avá-Canoeiro
+-------------
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: avv
+    alternate_names:
+    - Abá
+    - Avá
+    - Awana
+    - Canoa
+    - Canoe
+    - Canoeiros
+    anglicanized_name: Avá-Canoeiro
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: avv
+    lang_direction: ltr
+    lang_name: Avá-Canoeiro
+    lang_region: Americas
+    

@@ -1,0 +1,25 @@
+.. _sub:
+
+Suku
+----
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: sub
+    alternate_names:
+    - Kisuku
+    anglicanized_name: Suku
+    country_codes:
+    - CD
+    - AO
+    gateway_language: fr
+    lang_code: sub
+    lang_direction: ltr
+    lang_name: Suku
+    lang_region: Africa
+    

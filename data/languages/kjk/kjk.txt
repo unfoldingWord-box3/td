@@ -1,0 +1,24 @@
+.. _kjk:
+
+Highland Konjo
+--------------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kjk
+    alternate_names:
+    - Konjo Pegunungan
+    - Konyo
+    anglicanized_name: Konjo, Highland
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kjk
+    lang_direction: ltr
+    lang_name: Highland Konjo
+    lang_region: Asia
+    

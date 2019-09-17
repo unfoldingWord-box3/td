@@ -1,0 +1,23 @@
+.. _zmd:
+
+Maridan
+-------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: zmd
+    alternate_names:
+    - Meradan
+    anglicanized_name: Maridan
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: zmd
+    lang_direction: ltr
+    lang_name: Maridan
+    lang_region: Pacific
+    

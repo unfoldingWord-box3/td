@@ -1,0 +1,23 @@
+.. _aez:
+
+Aeka
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: aez
+    alternate_names:
+    - Ajeka
+    anglicanized_name: Aeka
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: aez
+    lang_direction: ltr
+    lang_name: Aeka
+    lang_region: Pacific
+    

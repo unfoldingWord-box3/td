@@ -1,0 +1,30 @@
+.. _jod:
+
+Wojenaka
+--------
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: jod
+    alternate_names:
+    - Malinké
+    - Odienné Jula
+    - Odiennekakan
+    - Juraba
+    - Samogo
+    - Wassulunka
+    - Wassulunke
+    - Wasulu (Wassoulounka)
+    anglicanized_name: Wojenaka
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: jod
+    lang_direction: ltr
+    lang_name: Wojenaka
+    lang_region: Africa
+    

@@ -1,0 +1,33 @@
+.. _yom:
+
+Yombe
+-----
+
+This language is spoken in the following countries:
+
+* CG: Congo
+* CD: Congo, Democratic Republic of the
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: yom
+    alternate_names:
+    - Ibinda
+    - Iombe
+    - Kiombi
+    - Kiyombe
+    - Mbala (Mumbala)
+    - Vungunya (Kivungunya)
+    - Yombe Classique
+    anglicanized_name: Yombe
+    country_codes:
+    - CG
+    - CD
+    - AO
+    gateway_language: fr
+    lang_code: yom
+    lang_direction: ltr
+    lang_name: Yombe
+    lang_region: Africa
+    

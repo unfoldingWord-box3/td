@@ -1,0 +1,24 @@
+.. _bok:
+
+Bonjo
+-----
+
+This language is spoken in the following countries:
+
+* CG: Congo
+
+.. code-block:: yaml
+
+    ISO_639-3: bok
+    alternate_names:
+    - Impfondo
+    - Mbonzo
+    anglicanized_name: Bonjo
+    country_codes:
+    - CG
+    gateway_language: fr
+    lang_code: bok
+    lang_direction: ltr
+    lang_name: Bonjo
+    lang_region: Africa
+    

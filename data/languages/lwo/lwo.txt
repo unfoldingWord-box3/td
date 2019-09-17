@@ -1,0 +1,28 @@
+.. _lwo:
+
+Luwo
+----
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: lwo
+    alternate_names:
+    - Dhe Luwo
+    - Dhe Lwo
+    - Giur
+    - Jo Lwo
+    - Jur Lwo
+    - Lwo
+    anglicanized_name: Luwo
+    country_codes:
+    - SS
+    gateway_language: ar
+    lang_code: lwo
+    lang_direction: ltr
+    lang_name: Luwo
+    lang_region: Africa
+    

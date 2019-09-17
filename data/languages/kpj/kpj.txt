@@ -1,0 +1,31 @@
+.. _kpj:
+
+Karajá
+-------
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: kpj
+    alternate_names:
+    - Caraiauna
+    - Chambioa
+    - Iraru Mahadu
+    - Ixbyowa
+    - Karaja do Norte
+    - Ynã
+    - Xambioá
+    - Javaé (Javahe)
+    - Karajá
+    anglicanized_name: Karajá
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: kpj
+    lang_direction: ltr
+    lang_name: Karajá
+    lang_region: Americas
+    

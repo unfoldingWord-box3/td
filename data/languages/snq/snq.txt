@@ -1,0 +1,27 @@
+.. _snq:
+
+Sangu (Gabon)
+-------------
+
+This language is spoken in the following countries:
+
+* GA: Gabon
+
+.. code-block:: yaml
+
+    ISO_639-3: snq
+    alternate_names:
+    - Chango
+    - Isangu
+    - Shango
+    - Yisangou
+    - Yisangu
+    anglicanized_name: Sangu
+    country_codes:
+    - GA
+    gateway_language: fr
+    lang_code: snq
+    lang_direction: ltr
+    lang_name: Sangu (Gabon)
+    lang_region: Africa
+    

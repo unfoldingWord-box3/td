@@ -1,0 +1,24 @@
+.. _ylg:
+
+Yelogu
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ylg
+    alternate_names:
+    - Buiamanambu
+    - Kaunga
+    anglicanized_name: Yelogu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ylg
+    lang_direction: ltr
+    lang_name: Yelogu
+    lang_region: Pacific
+    

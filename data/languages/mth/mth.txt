@@ -1,0 +1,23 @@
+.. _mth:
+
+Munggui
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mth
+    alternate_names:
+    - Natabui
+    anglicanized_name: Munggui
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mth
+    lang_direction: ltr
+    lang_name: Munggui
+    lang_region: Asia
+    

@@ -1,0 +1,23 @@
+.. _nwm:
+
+Nyamusa-Molo
+------------
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: nwm
+    alternate_names:
+    - Nyamusa
+    anglicanized_name: Nyamusa-Molo
+    country_codes:
+    - SS
+    gateway_language: ar
+    lang_code: nwm
+    lang_direction: ltr
+    lang_name: Nyamusa-Molo
+    lang_region: Africa
+    

@@ -1,0 +1,41 @@
+.. _bky:
+
+Bokyi
+-----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: bky
+    alternate_names:
+    - Byoki
+    - Nfua
+    - Nki
+    - Okii
+    - Osikom
+    - Osukam
+    - Uki
+    - Vaaneroki
+    - Boje (Bojie)
+    - Wula (Baswo)
+    - Okundi
+    - Kecwan
+    - Irruan (Eerwee)
+    - Eastern Bokyi (East Boki)
+    - Basua (Bashua)
+    - Abo (Abu)
+    - Erwan
+    anglicanized_name: Bokyi
+    country_codes:
+    - CM
+    - NG
+    gateway_language: en
+    lang_code: bky
+    lang_direction: ltr
+    lang_name: Bokyi
+    lang_region: Africa
+    

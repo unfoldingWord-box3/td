@@ -1,0 +1,30 @@
+.. _xsq:
+
+Makhuwa-Saka
+------------
+
+This language is spoken in the following countries:
+
+* MZ: Mozambique
+
+.. code-block:: yaml
+
+    ISO_639-3: xsq
+    alternate_names:
+    - Esaaka
+    - Isaanga
+    - Ishanga
+    - Saanga
+    - Saka
+    - Sanga
+    - Rati (Erati)
+    - Saka (Esaaka)
+    anglicanized_name: Makhuwa-Saka
+    country_codes:
+    - MZ
+    gateway_language: pt
+    lang_code: xsq
+    lang_direction: ltr
+    lang_name: Makhuwa-Saka
+    lang_region: Africa
+    

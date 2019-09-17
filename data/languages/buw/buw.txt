@@ -1,0 +1,27 @@
+.. _buw:
+
+Bubi
+----
+
+This language is spoken in the following countries:
+
+* GA: Gabon
+
+.. code-block:: yaml
+
+    ISO_639-3: buw
+    alternate_names:
+    - Bhubhi
+    - Eviia
+    - Ibhubhi
+    - Ibubi
+    - Pove
+    anglicanized_name: Bubi
+    country_codes:
+    - GA
+    gateway_language: fr
+    lang_code: buw
+    lang_direction: ltr
+    lang_name: Bubi
+    lang_region: Africa
+    

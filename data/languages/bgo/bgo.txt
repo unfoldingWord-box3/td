@@ -1,0 +1,25 @@
+.. _bgo:
+
+Baga Koga
+---------
+
+This language is spoken in the following countries:
+
+* GN: Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bgo
+    alternate_names:
+    - Baka
+    - Koba
+    - Koga
+    anglicanized_name: Baga Koga
+    country_codes:
+    - GN
+    gateway_language: fr
+    lang_code: bgo
+    lang_direction: ltr
+    lang_name: Baga Koga
+    lang_region: Africa
+    

@@ -1,0 +1,23 @@
+.. _bpo:
+
+Anasi
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bpo
+    alternate_names:
+    - Bapu
+    anglicanized_name: Anasi
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bpo
+    lang_direction: ltr
+    lang_name: Anasi
+    lang_region: Asia
+    

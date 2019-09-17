@@ -1,0 +1,24 @@
+.. _uli:
+
+Ulithian
+--------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* FM: Micronesia (Federated States of)
+
+.. code-block:: yaml
+
+    ISO_639-3: uli
+    alternate_names: []
+    anglicanized_name: Ulithian
+    country_codes:
+    - US
+    - FM
+    gateway_language: en
+    lang_code: uli
+    lang_direction: ltr
+    lang_name: Ulithian
+    lang_region: Pacific
+    

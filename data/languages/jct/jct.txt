@@ -1,0 +1,23 @@
+.. _jct:
+
+Krymchak
+--------
+
+This language is spoken in the following countries:
+
+* UA: Ukraine
+
+.. code-block:: yaml
+
+    ISO_639-3: jct
+    alternate_names:
+    - Judeo-Crimean Turkish
+    anglicanized_name: Krimchak
+    country_codes:
+    - UA
+    gateway_language: en
+    lang_code: jct
+    lang_direction: ltr
+    lang_name: Krymchak
+    lang_region: Europe
+    

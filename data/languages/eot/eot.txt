@@ -1,0 +1,22 @@
+.. _eot:
+
+Beti (Côte d'Ivoire)
+---------------------
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: eot
+    alternate_names: []
+    anglicanized_name: Beti
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: eot
+    lang_direction: ltr
+    lang_name: Beti (Côte d'Ivoire)
+    lang_region: Africa
+    

@@ -1,0 +1,28 @@
+.. _pnu:
+
+炯奈
+------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: pnu
+    alternate_names:
+    - Hualan Yao
+    - Jiongnai
+    - Jiongnaihua
+    - Kiong Nai
+    - Punu
+    - Qiungnai
+    anglicanized_name: Bunu, Jiongnai
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: pnu
+    lang_direction: ltr
+    lang_name: 炯奈
+    lang_region: Asia
+    

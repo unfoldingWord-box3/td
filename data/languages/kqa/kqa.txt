@@ -1,0 +1,23 @@
+.. _kqa:
+
+Mum
+---
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kqa
+    alternate_names:
+    - Katiati
+    anglicanized_name: Mum
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kqa
+    lang_direction: ltr
+    lang_name: Mum
+    lang_region: Pacific
+    

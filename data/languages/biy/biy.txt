@@ -1,0 +1,29 @@
+.. _biy:
+
+Birhor
+------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: biy
+    alternate_names:
+    - Bihor
+    - Birhar
+    - Birhore
+    - Birhul
+    - Mankidi
+    - Mankidia
+    - Mankiria
+    anglicanized_name: Birhor
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: biy
+    lang_direction: ltr
+    lang_name: Birhor
+    lang_region: Asia
+    

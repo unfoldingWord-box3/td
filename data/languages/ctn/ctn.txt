@@ -1,0 +1,28 @@
+.. _ctn:
+
+छिन्ताङ्
+------------------------
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: ctn
+    alternate_names:
+    - Chhintange
+    - Chintang
+    - Chintang Rûng
+    - Teli
+    - Mulgaun
+    - Sambhugaon
+    anglicanized_name: Chhintang
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: ctn
+    lang_direction: ltr
+    lang_name: छिन्ताङ्
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _wiy:
+
+Wiyot
+-----
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: wiy
+    alternate_names: []
+    anglicanized_name: Wiyot
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: wiy
+    lang_direction: ltr
+    lang_name: Wiyot
+    lang_region: Americas
+    

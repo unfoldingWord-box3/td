@@ -1,0 +1,27 @@
+.. _ztl:
+
+Lapaguía-Guivini Zapotec
+-------------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: ztl
+    alternate_names:
+    - Santiago Lapaguia Zapotec
+    - Zapoteco de Lapaguía-Guivini
+    - Zapoteco de Santiago Lapaguía
+    - Guivini
+    - Lapaguía
+    anglicanized_name: Zapotec, Lapaguía-Guivini
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: ztl
+    lang_direction: ltr
+    lang_name: Lapaguía-Guivini Zapotec
+    lang_region: Americas
+    

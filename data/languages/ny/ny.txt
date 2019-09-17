@@ -1,0 +1,54 @@
+.. _ny:
+
+chiCheŵa, chinyanja
+--------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/nya>`__ identifies this language as ``nya``.
+
+This language is spoken in the following countries:
+
+* MZ: Mozambique
+* TZ: Tanzania, United Republic of
+* ZM: Zambia
+* ZW: Zimbabwe
+* MW: Malawi
+* SZ: Eswatini
+
+.. code-block:: yaml
+
+    ISO_639-3: nya
+    alternate_names:
+    - Chewa
+    - Chinyanja
+    - Manganja (Waganga)
+    - Chewa (Cheva)
+    - Waganga
+    - Sheva
+    - Peta (Cipeta)
+    - Peta (Chipeta)
+    - Nyanja (Cinyanja)
+    - Ngoni (Cingoni)
+    - Maravi
+    - Marave
+    - Chewa (Cewa)
+    - Malawi
+    - Kunda
+    - Cipeta
+    - Angoni
+    - Chingoni (Ngoni)
+    - Manganja (Cimanganja)
+    - Cicewa
+    anglicanized_name: Chichewa, Chewa, Nyanja
+    country_codes:
+    - MZ
+    - TZ
+    - ZM
+    - ZW
+    - MW
+    - SZ
+    gateway_language: en
+    lang_code: ny
+    lang_direction: ltr
+    lang_name: chiCheŵa, chinyanja
+    lang_region: Africa
+    

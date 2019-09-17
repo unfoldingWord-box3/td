@@ -1,0 +1,25 @@
+.. _gbb:
+
+Kaytetye
+--------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: gbb
+    alternate_names:
+    - Gaididj
+    - Kaiditj
+    - Kaititj
+    anglicanized_name: Kaytetye
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: gbb
+    lang_direction: ltr
+    lang_name: Kaytetye
+    lang_region: Pacific
+    

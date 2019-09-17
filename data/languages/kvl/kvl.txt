@@ -1,0 +1,34 @@
+.. _kvl:
+
+Kayaw
+-----
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: kvl
+    alternate_names:
+    - Deleh
+    - Laku
+    - Pramano
+    - Bre
+    - Brec
+    - Brek
+    - Kayaw Brek
+    - Paret
+    - Pre
+    - Pret
+    - Bwe-Kayaw
+    - Prek
+    anglicanized_name: Kayaw
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: kvl
+    lang_direction: ltr
+    lang_name: Kayaw
+    lang_region: Asia
+    

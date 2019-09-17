@@ -1,0 +1,28 @@
+.. _bgy:
+
+Benggoi
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: bgy
+    alternate_names:
+    - Bengoi
+    - Isal
+    - Kobi-Benggoi
+    - Uhei Kachlakan
+    - Uhei-Kaclakin
+    - Uhei-Kahlakim
+    anglicanized_name: Benggoi
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: bgy
+    lang_direction: ltr
+    lang_name: Benggoi
+    lang_region: Asia
+    

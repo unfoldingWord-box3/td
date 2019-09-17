@@ -1,0 +1,28 @@
+.. _mzb:
+
+تونژابت
+--------------
+
+This language is spoken in the following countries:
+
+* DZ: Algeria
+* FR: France
+
+.. code-block:: yaml
+
+    ISO_639-3: mzb
+    alternate_names:
+    - Ghardaia
+    - Mozabite
+    - Mzab
+    - Mzabi
+    anglicanized_name: Tumzabt
+    country_codes:
+    - DZ
+    - FR
+    gateway_language: ar
+    lang_code: mzb
+    lang_direction: rtl
+    lang_name: تونژابت
+    lang_region: Africa
+    

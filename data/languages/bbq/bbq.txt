@@ -1,0 +1,24 @@
+.. _bbq:
+
+Bamali
+------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: bbq
+    alternate_names:
+    - Chopechop
+    - Ngoobechop
+    anglicanized_name: Bamali
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: bbq
+    lang_direction: ltr
+    lang_name: Bamali
+    lang_region: Africa
+    

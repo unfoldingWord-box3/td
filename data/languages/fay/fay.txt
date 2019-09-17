@@ -1,0 +1,23 @@
+.. _fay:
+
+گویش دوانی
+-------------------
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: fay
+    alternate_names:
+    - Tajik
+    anglicanized_name: Fars, Southwestern
+    country_codes:
+    - IR
+    gateway_language: fa
+    lang_code: fay
+    lang_direction: ltr
+    lang_name: گویش دوانی
+    lang_region: Asia
+    

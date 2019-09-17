@@ -1,0 +1,30 @@
+.. _mhd:
+
+Mbugu
+-----
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: mhd
+    alternate_names:
+    - Kibwyo
+    - Kimbugu
+    - Ma'a
+    - Mbougou
+    - Wa Maathi
+    - Wama'a
+    - Cha ndani
+    - Cha kawaida
+    anglicanized_name: Mbugu
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: mhd
+    lang_direction: ltr
+    lang_name: Mbugu
+    lang_region: Africa
+    

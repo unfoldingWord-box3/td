@@ -1,0 +1,29 @@
+.. _yea:
+
+Ravula
+------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: yea
+    alternate_names:
+    - Adiya
+    - Adiyan
+    - Iryavula
+    - Panjiri Yerava
+    - Yerava
+    - Yoruba
+    - Pani Yerava
+    anglicanized_name: Ravula
+    country_codes:
+    - IN
+    gateway_language: kn
+    lang_code: yea
+    lang_direction: ltr
+    lang_name: Ravula
+    lang_region: Asia
+    

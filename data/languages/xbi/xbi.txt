@@ -1,0 +1,27 @@
+.. _xbi:
+
+Kombio
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: xbi
+    alternate_names:
+    - Endangen
+    - South Kombio (Yanimoi)
+    - West-Central Kombio (Wampukuamp)
+    - North Kombio (Mwi)
+    - East Kombio (Wampurun)
+    anglicanized_name: Kombio
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: xbi
+    lang_direction: ltr
+    lang_name: Kombio
+    lang_region: Pacific
+    

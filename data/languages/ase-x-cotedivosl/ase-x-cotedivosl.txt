@@ -1,0 +1,22 @@
+.. _ase-x-cotedivosl:
+
+Cote d'Ivoire Sign Language
+---------------------------
+
+.. warning:: This language is not listed as spoken in any countries.
+
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Cote d'Ivoire
+    country_codes: []
+    gateway_language: null
+    lang_code: ase-x-cotedivosl
+    lang_direction: ltr
+    lang_name: Cote d'Ivoire Sign Language
+    lang_region: Africa
+    

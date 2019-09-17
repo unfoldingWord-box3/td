@@ -1,0 +1,23 @@
+.. _erw:
+
+Erokwanas
+---------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: erw
+    alternate_names:
+    - Darembang
+    anglicanized_name: Erokwanas
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: erw
+    lang_direction: ltr
+    lang_name: Erokwanas
+    lang_region: Asia
+    

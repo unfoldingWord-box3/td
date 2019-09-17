@@ -1,0 +1,22 @@
+.. _lmf:
+
+South Lembata
+-------------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: lmf
+    alternate_names: []
+    anglicanized_name: Lembata, South
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: lmf
+    lang_direction: ltr
+    lang_name: South Lembata
+    lang_region: Asia
+    

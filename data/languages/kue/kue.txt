@@ -1,0 +1,27 @@
+.. _kue:
+
+Kuman (Papua New Guinea)
+------------------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kue
+    alternate_names:
+    - Chimbu
+    - Simbu
+    - Genogane
+    - Nagane (Genagane)
+    - Yongomugl
+    anglicanized_name: Kuman
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kue
+    lang_direction: ltr
+    lang_name: Kuman (Papua New Guinea)
+    lang_region: Pacific
+    

@@ -1,0 +1,27 @@
+.. _hmt:
+
+Hamtai
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: hmt
+    alternate_names:
+    - Hamday
+    - Kamea
+    - Kapau
+    - Watut
+    - Kukukuku
+    anglicanized_name: Hamtai
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: hmt
+    lang_direction: ltr
+    lang_name: Hamtai
+    lang_region: Pacific
+    

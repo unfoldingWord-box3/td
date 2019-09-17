@@ -1,0 +1,26 @@
+.. _pic:
+
+Pinji
+-----
+
+This language is spoken in the following countries:
+
+* GA: Gabon
+
+.. code-block:: yaml
+
+    ISO_639-3: pic
+    alternate_names:
+    - Apindje
+    - Apindji
+    - Apinji
+    - Gapinji
+    anglicanized_name: Pinji
+    country_codes:
+    - GA
+    gateway_language: fr
+    lang_code: pic
+    lang_direction: ltr
+    lang_name: Pinji
+    lang_region: Africa
+    

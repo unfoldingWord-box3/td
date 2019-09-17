@@ -1,0 +1,28 @@
+.. _pdo:
+
+Padoe
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: pdo
+    alternate_names:
+    - Alalao
+    - Pado-e
+    - Padoé
+    - South Mori
+    - Central Padoe
+    - Western Padoe
+    anglicanized_name: Padoe
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: pdo
+    lang_direction: ltr
+    lang_name: Padoe
+    lang_region: Asia
+    

@@ -1,0 +1,28 @@
+.. _sib:
+
+Sebop
+-----
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: sib
+    alternate_names:
+    - Cebop
+    - Sabup
+    - Sebob
+    - Sibop
+    - Bah Malei (Ba Mali)
+    - Long Ekang (Long Ikang)
+    anglicanized_name: Sebop
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: sib
+    lang_direction: ltr
+    lang_name: Sebop
+    lang_region: Asia
+    

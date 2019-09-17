@@ -1,0 +1,24 @@
+.. _pnz:
+
+Pana
+----
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: pnz
+    alternate_names: []
+    anglicanized_name: Pana
+    country_codes:
+    - CF
+    - TD
+    gateway_language: fr
+    lang_code: pnz
+    lang_direction: ltr
+    lang_name: Pana
+    lang_region: Africa
+    

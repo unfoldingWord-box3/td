@@ -1,0 +1,23 @@
+.. _psl:
+
+Puerto Rican Sign Language
+--------------------------
+
+This language is spoken in the following countries:
+
+* PR: Puerto Rico
+
+.. code-block:: yaml
+
+    ISO_639-3: psl
+    alternate_names:
+    - PRSL
+    anglicanized_name: Puerto Rican Sign Language
+    country_codes:
+    - PR
+    gateway_language: es-419
+    lang_code: psl
+    lang_direction: ltr
+    lang_name: Puerto Rican Sign Language
+    lang_region: Americas
+    

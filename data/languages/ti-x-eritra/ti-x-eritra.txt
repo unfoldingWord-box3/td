@@ -1,0 +1,20 @@
+.. _ti-x-eritra:
+
+Eritrean Tigrinya
+-----------------
+
+.. warning:: This language is not listed as spoken in any countries.
+
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes: []
+    gateway_language: am
+    lang_code: ti-x-eritra
+    lang_direction: ltr
+    lang_name: Eritrean Tigrinya
+    lang_region: Africa
+    

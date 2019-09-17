@@ -1,0 +1,23 @@
+.. _soo:
+
+Songo
+-----
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: soo
+    alternate_names:
+    - Itsong
+    anglicanized_name: Songo
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: soo
+    lang_direction: ltr
+    lang_name: Songo
+    lang_region: Africa
+    

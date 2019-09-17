@@ -1,0 +1,24 @@
+.. _xbo:
+
+Bolgarian
+---------
+
+This language is spoken in the following countries:
+
+* BG: Bulgaria
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: xbo
+    alternate_names: []
+    anglicanized_name: Bolgarian
+    country_codes:
+    - BG
+    gateway_language: null
+    lang_code: xbo
+    lang_direction: ltr
+    lang_name: Bolgarian
+    lang_region: Europe
+    

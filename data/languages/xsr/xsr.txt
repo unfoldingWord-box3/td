@@ -1,0 +1,37 @@
+.. _xsr:
+
+शेर्पा
+------------------
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+* NP: Nepal
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: xsr
+    alternate_names:
+    - Serwa
+    - Sharpa
+    - Sharpa Bhotia
+    - Xiaerba
+    - Xarba
+    - Ramechhap
+    - West Sherpa
+    - South Sherpa
+    - Central Sherpa (Solu)
+    - East Sherpa (Dolakha)
+    - North Sherpa (Khumbu)
+    anglicanized_name: Sherpa
+    country_codes:
+    - BT
+    - NP
+    - IN
+    gateway_language: ne
+    lang_code: xsr
+    lang_direction: ltr
+    lang_name: शेर्पा
+    lang_region: Asia
+    

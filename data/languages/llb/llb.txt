@@ -1,0 +1,23 @@
+.. _llb:
+
+Lolo
+----
+
+This language is spoken in the following countries:
+
+* MZ: Mozambique
+
+.. code-block:: yaml
+
+    ISO_639-3: llb
+    alternate_names:
+    - Ilolo
+    anglicanized_name: Lolo
+    country_codes:
+    - MZ
+    gateway_language: pt
+    lang_code: llb
+    lang_direction: ltr
+    lang_name: Lolo
+    lang_region: Africa
+    

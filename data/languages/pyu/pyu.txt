@@ -1,0 +1,28 @@
+.. _pyu:
+
+Puyuma
+------
+
+This language is spoken in the following countries:
+
+* TW: Taiwan, Province of China
+
+.. code-block:: yaml
+
+    ISO_639-3: pyu
+    alternate_names:
+    - Kadas
+    - Panapanayan
+    - Pelam
+    - Pilam
+    - Piyuma
+    - Tipun
+    anglicanized_name: Puyuma
+    country_codes:
+    - TW
+    gateway_language: zh
+    lang_code: pyu
+    lang_direction: ltr
+    lang_name: Puyuma
+    lang_region: Asia
+    

@@ -1,0 +1,26 @@
+.. _nqg:
+
+Southern Nago
+-------------
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+
+.. code-block:: yaml
+
+    ISO_639-3: nqg
+    alternate_names:
+    - Ede Nago
+    - Nago
+    - Nagot
+    - Nagots
+    anglicanized_name: Nago, Southern
+    country_codes:
+    - BJ
+    gateway_language: fr
+    lang_code: nqg
+    lang_direction: ltr
+    lang_name: Southern Nago
+    lang_region: Africa
+    

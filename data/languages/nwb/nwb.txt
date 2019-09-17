@@ -1,0 +1,25 @@
+.. _nwb:
+
+Nyabwa
+------
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: nwb
+    alternate_names:
+    - Nyaboa
+    - Nyabwa-Nyédébwa
+    - Nyedebwa (Niédéboua)
+    anglicanized_name: Nyabwa
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: nwb
+    lang_direction: ltr
+    lang_name: Nyabwa
+    lang_region: Africa
+    

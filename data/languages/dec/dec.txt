@@ -1,0 +1,32 @@
+.. _dec:
+
+Dagik
+-----
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. warning:: The gateway language is not valid.
+
+.. code-block:: yaml
+
+    ISO_639-3: dec
+    alternate_names:
+    - Dagig
+    - Masakin
+    - Masakin Dagig
+    - Masakin Gusar
+    - Thakik
+    - Tosari
+    - Adobu
+    - Arreme
+    anglicanized_name: Dagik
+    country_codes:
+    - SD
+    gateway_language: apd
+    lang_code: dec
+    lang_direction: ltr
+    lang_name: Dagik
+    lang_region: Africa
+    

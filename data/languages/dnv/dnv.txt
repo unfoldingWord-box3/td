@@ -1,0 +1,23 @@
+.. _dnv:
+
+Danu
+----
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: dnv
+    alternate_names:
+    - Taruw
+    anglicanized_name: Danu
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: dnv
+    lang_direction: ltr
+    lang_name: Danu
+    lang_region: Asia
+    

@@ -1,0 +1,23 @@
+.. _sjp:
+
+Surjapuri
+---------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: sjp
+    alternate_names:
+    - Sura
+    anglicanized_name: Surjapuri
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: sjp
+    lang_direction: ltr
+    lang_name: Surjapuri
+    lang_region: Asia
+    

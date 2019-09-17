@@ -1,0 +1,23 @@
+.. _gip:
+
+Gimi (West New Britain)
+-----------------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: gip
+    alternate_names:
+    - Loko
+    anglicanized_name: Gimi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: gip
+    lang_direction: ltr
+    lang_name: Gimi (West New Britain)
+    lang_region: Pacific
+    

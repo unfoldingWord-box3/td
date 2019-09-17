@@ -1,0 +1,27 @@
+.. _pnn:
+
+Pinai-Hagahai
+-------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: pnn
+    alternate_names:
+    - Aramo
+    - Hagahai
+    - Miamia
+    - Pinaye
+    - Wapi
+    anglicanized_name: Pinai-Hagahai
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: pnn
+    lang_direction: ltr
+    lang_name: Pinai-Hagahai
+    lang_region: Pacific
+    

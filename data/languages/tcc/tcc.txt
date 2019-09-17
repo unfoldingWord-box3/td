@@ -1,0 +1,42 @@
+.. _tcc:
+
+Datooga
+-------
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: tcc
+    alternate_names:
+    - Datog
+    - Datoga
+    - Tatog
+    - Tatoga
+    - Taturu
+    - Mangati
+    - Bianjiida (Biyanjiida)
+    - Tsimajeega (Isimijeega)
+    - Rotigenga
+    - Rootigaanga (Rotigeenga)
+    - Kisamajeng
+    - Gisamjanga (Gisamjang)
+    - Utatu
+    - Barbaig
+    - Barabayiiga (Barabaig)
+    - Barabayga
+    - Barabaik
+    - Bajuta (Bajuuta)
+    - Bureadiga
+    - Buraadiiga (Buradiga)
+    anglicanized_name: Datooga
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: tcc
+    lang_direction: ltr
+    lang_name: Datooga
+    lang_region: Africa
+    

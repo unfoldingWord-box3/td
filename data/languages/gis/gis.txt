@@ -1,0 +1,29 @@
+.. _gis:
+
+North Giziga
+------------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: gis
+    alternate_names:
+    - Dogba
+    - Gisika
+    - Giziga de
+    - Guiziga
+    - Marva
+    - Mi Marva
+    - Tchere
+    anglicanized_name: Giziga, North
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: gis
+    lang_direction: ltr
+    lang_name: North Giziga
+    lang_region: Africa
+    

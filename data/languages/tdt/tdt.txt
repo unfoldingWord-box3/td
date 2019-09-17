@@ -1,0 +1,29 @@
+.. _tdt:
+
+Tetun Dili
+----------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* TL: Timor-Leste
+
+.. code-block:: yaml
+
+    ISO_639-3: tdt
+    alternate_names:
+    - Dili Tetum
+    - Tetum
+    - Tetum Dili
+    - Tetum Praça
+    - Tetun
+    anglicanized_name: Tetun Dili
+    country_codes:
+    - ID
+    - TL
+    gateway_language: pt
+    lang_code: tdt
+    lang_direction: ltr
+    lang_name: Tetun Dili
+    lang_region: Asia
+    

@@ -1,0 +1,23 @@
+.. _vma:
+
+Martuyhunira
+------------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: vma
+    alternate_names:
+    - Martuthunira
+    anglicanized_name: Martuyhunira
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: vma
+    lang_direction: ltr
+    lang_name: Martuyhunira
+    lang_region: Pacific
+    

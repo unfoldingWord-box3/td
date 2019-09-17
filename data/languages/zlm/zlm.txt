@@ -1,0 +1,55 @@
+.. _zlm:
+
+Malay (individual language)
+---------------------------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* MY: Malaysia
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: zlm
+    alternate_names:
+    - Bahasa Daerah
+    - Bahasa Melayu
+    - Malayu
+    - Bahasa Malayu
+    - Colloquial Malay
+    - Informal Malay
+    - Local Malay
+    - Southeast Island
+    - Riau Mainland
+    - S
+    - Sakai
+    - Tamiang
+    - Sanggau
+    - Kapuas Hulu
+    - Sarawak (Sarawak Malay)
+    - Sintang
+    - Riau islands (Sea Tribe dialects)
+    - Sekadau
+    - Pahang
+    - Orang Kuala
+    - Orang Hulu
+    - Northwestern Kalimantan
+    - Landak
+    - Jugra-Muar-Melaka-Johor
+    - Coastal Terengganu
+    - coastal Jambi
+    - Akit
+    - Lubu
+    - Riau islands
+    anglicanized_name: Malay
+    country_codes:
+    - ID
+    - MY
+    - MM
+    gateway_language: ms
+    lang_code: zlm
+    lang_direction: ltr
+    lang_name: Malay (individual language)
+    lang_region: Asia
+    

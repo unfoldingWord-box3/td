@@ -1,0 +1,29 @@
+.. _wun:
+
+Bungu
+-----
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: wun
+    alternate_names:
+    - Iciwungu
+    - Kibungu
+    - Ungu
+    - Wungu
+    - Udinde
+    - Maleza
+    - Mwambani
+    anglicanized_name: Bungu
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: wun
+    lang_direction: ltr
+    lang_name: Bungu
+    lang_region: Africa
+    

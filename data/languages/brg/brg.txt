@@ -1,0 +1,22 @@
+.. _brg:
+
+Baure
+-----
+
+This language is spoken in the following countries:
+
+* BO: Bolivia (Plurinational State of)
+
+.. code-block:: yaml
+
+    ISO_639-3: brg
+    alternate_names: []
+    anglicanized_name: Baure
+    country_codes:
+    - BO
+    gateway_language: es-419
+    lang_code: brg
+    lang_direction: ltr
+    lang_name: Baure
+    lang_region: Americas
+    

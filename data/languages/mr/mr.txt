@@ -1,0 +1,44 @@
+.. _mr:
+
+मराठी
+---------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/mar>`__ identifies this language as ``mar``.
+
+This language is spoken in the following countries:
+
+* IL: Israel
+* US: United States of America
+* ZW: Zimbabwe
+* CA: Canada
+* IN: India
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: mar
+    alternate_names:
+    - Maharashtra
+    - Maharathi
+    - Malhatee
+    - Marthi
+    - Muruthu
+    - Kosti
+    - Kudali
+    - Gawdi of Goa
+    - Nagpuri Marathi
+    - Kasargod
+    anglicanized_name: Marathi (Marāṭhī)
+    country_codes:
+    - IL
+    - US
+    - ZW
+    - CA
+    - IN
+    gateway_language: null
+    lang_code: mr
+    lang_direction: ltr
+    lang_name: मराठी
+    lang_region: Asia
+    

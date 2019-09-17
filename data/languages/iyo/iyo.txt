@@ -1,0 +1,28 @@
+.. _iyo:
+
+Mesaka
+------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: iyo
+    alternate_names:
+    - Banagere
+    - Iyon
+    - Messaga
+    - Messaga-Ekol
+    - Messaka
+    - Batomo (Babasi)
+    anglicanized_name: Mesaka
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: iyo
+    lang_direction: ltr
+    lang_name: Mesaka
+    lang_region: Africa
+    

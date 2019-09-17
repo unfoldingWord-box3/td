@@ -1,0 +1,27 @@
+.. _nr:
+
+isiNdebele
+----------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/nbl>`__ identifies this language as ``nbl``.
+
+This language is spoken in the following countries:
+
+* ZA: South Africa
+
+.. code-block:: yaml
+
+    ISO_639-3: nbl
+    alternate_names:
+    - Ndzundza
+    - Nrebele
+    - Transvaal Ndebele
+    anglicanized_name: Southern Ndebele
+    country_codes:
+    - ZA
+    gateway_language: en
+    lang_code: nr
+    lang_direction: ltr
+    lang_name: isiNdebele
+    lang_region: Africa
+    

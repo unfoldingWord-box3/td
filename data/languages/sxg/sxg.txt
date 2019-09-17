@@ -1,0 +1,23 @@
+.. _sxg:
+
+旭米
+------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: sxg
+    alternate_names:
+    - Xumi
+    anglicanized_name: Shixing
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: sxg
+    lang_direction: ltr
+    lang_name: 旭米
+    lang_region: Asia
+    

@@ -1,0 +1,30 @@
+.. _aju:
+
+מרוקאית יהודית
+---------------------------
+
+This language is spoken in the following countries:
+
+* VE: Venezuela (Bolivarian Republic of)
+* IL: Israel
+* MA: Morocco
+* TN: Tunisia
+* ZM: Zambia
+
+.. code-block:: yaml
+
+    ISO_639-3: aju
+    alternate_names: []
+    anglicanized_name: Arabic, Judeo-Moroccan
+    country_codes:
+    - VE
+    - IL
+    - MA
+    - TN
+    - ZM
+    gateway_language: en
+    lang_code: aju
+    lang_direction: rtl
+    lang_name: מרוקאית יהודית
+    lang_region: Asia
+    

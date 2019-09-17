@@ -1,0 +1,22 @@
+.. _nkg:
+
+Nekgini
+-------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nkg
+    alternate_names: []
+    anglicanized_name: Nekgini
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nkg
+    lang_direction: ltr
+    lang_name: Nekgini
+    lang_region: Pacific
+    

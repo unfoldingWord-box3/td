@@ -1,0 +1,23 @@
+.. _kgj:
+
+खाम
+---------
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: kgj
+    alternate_names:
+    - Gamale
+    anglicanized_name: Kham
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: kgj
+    lang_direction: ltr
+    lang_name: खाम
+    lang_region: Asia
+    

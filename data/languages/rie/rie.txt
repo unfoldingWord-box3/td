@@ -1,0 +1,22 @@
+.. _rie:
+
+Rien
+----
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Rien
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: rie
+    lang_direction: ltr
+    lang_name: Rien
+    lang_region: Asia
+    

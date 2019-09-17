@@ -1,0 +1,28 @@
+.. _hro:
+
+Haroi
+-----
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: hro
+    alternate_names:
+    - Aroi
+    - Bahnar Cham
+    - Hoi
+    - Hroi
+    - Hroy
+    - Hrway
+    anglicanized_name: Haroi
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: hro
+    lang_direction: ltr
+    lang_name: Haroi
+    lang_region: Asia
+    

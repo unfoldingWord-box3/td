@@ -1,0 +1,26 @@
+.. _laf:
+
+Lafofa
+------
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: laf
+    alternate_names:
+    - Tekeim
+    - Jebel El Amira (El Amira)
+    - Jebel Tekeim (Jebel)
+    - Tegem
+    anglicanized_name: Lafofa
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: laf
+    lang_direction: ltr
+    lang_name: Lafofa
+    lang_region: Africa
+    

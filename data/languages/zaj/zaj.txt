@@ -1,0 +1,28 @@
+.. _zaj:
+
+Zaramo
+------
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: zaj
+    alternate_names:
+    - Dzalamo
+    - Kizaramo
+    - Myagatwa
+    - Saramo
+    - Zalamo
+    - Zaramu
+    anglicanized_name: Zaramo
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: zaj
+    lang_direction: ltr
+    lang_name: Zaramo
+    lang_region: Africa
+    

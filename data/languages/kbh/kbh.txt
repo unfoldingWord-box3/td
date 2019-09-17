@@ -1,0 +1,29 @@
+.. _kbh:
+
+Camsá
+------
+
+This language is spoken in the following countries:
+
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: kbh
+    alternate_names:
+    - Camëntsëá
+    - Coche
+    - Kamemtxa
+    - Kamsa
+    - Kamse
+    - Sibundoy
+    - Sibundoy-Gaché
+    anglicanized_name: Camsá
+    country_codes:
+    - CO
+    gateway_language: es-419
+    lang_code: kbh
+    lang_direction: ltr
+    lang_name: Camsá
+    lang_region: Americas
+    

@@ -1,0 +1,28 @@
+.. _stj:
+
+Matya Samo
+----------
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: stj
+    alternate_names:
+    - Northwestern Samo
+    - San
+    - Sane
+    - Tougan
+    - West Central Goe
+    - Sã
+    anglicanized_name: Samo, Matya
+    country_codes:
+    - BF
+    gateway_language: fr
+    lang_code: stj
+    lang_direction: ltr
+    lang_name: Matya Samo
+    lang_region: Africa
+    

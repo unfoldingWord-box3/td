@@ -1,0 +1,25 @@
+.. _pmt:
+
+Tuamotuan
+---------
+
+This language is spoken in the following countries:
+
+* PF: French Polynesia
+
+.. code-block:: yaml
+
+    ISO_639-3: pmt
+    alternate_names:
+    - Pa'umotu
+    - Fangatau (Tupitimoake)
+    - Parata (Putahi)
+    anglicanized_name: Tuamotuan
+    country_codes:
+    - PF
+    gateway_language: fr
+    lang_code: pmt
+    lang_direction: ltr
+    lang_name: Tuamotuan
+    lang_region: Pacific
+    

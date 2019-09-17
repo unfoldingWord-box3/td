@@ -1,0 +1,26 @@
+.. _sii:
+
+Shom Peng
+---------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: sii
+    alternate_names:
+    - Shobang
+    - Shom Pen
+    - Shompen
+    - Shompeng
+    anglicanized_name: Shom Peng
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: sii
+    lang_direction: ltr
+    lang_name: Shom Peng
+    lang_region: Asia
+    

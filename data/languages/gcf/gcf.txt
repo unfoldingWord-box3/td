@@ -1,0 +1,32 @@
+.. _gcf:
+
+Guadeloupean Creole French
+--------------------------
+
+This language is spoken in the following countries:
+
+* GF: French Guiana
+* US: United States of America
+* GP: Guadeloupe
+* MQ: Martinique
+
+.. code-block:: yaml
+
+    ISO_639-3: gcf
+    alternate_names:
+    - Kreyol
+    - Patois
+    - Patwa
+    - Marie Galante Creole French
+    anglicanized_name: Guadeloupean Creole French
+    country_codes:
+    - GF
+    - US
+    - GP
+    - MQ
+    gateway_language: fr
+    lang_code: gcf
+    lang_direction: ltr
+    lang_name: Guadeloupean Creole French
+    lang_region: Americas
+    

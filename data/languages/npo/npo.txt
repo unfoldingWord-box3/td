@@ -1,0 +1,26 @@
+.. _npo:
+
+Pochuri Naga
+------------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: npo
+    alternate_names:
+    - Eastern Rengma
+    - Meluri
+    - Pochuri
+    - Pochury
+    anglicanized_name: Naga, Pochuri
+    country_codes:
+    - IN
+    gateway_language: en
+    lang_code: npo
+    lang_direction: ltr
+    lang_name: Pochuri Naga
+    lang_region: Asia
+    

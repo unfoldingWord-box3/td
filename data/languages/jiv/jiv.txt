@@ -1,0 +1,27 @@
+.. _jiv:
+
+Shuar
+-----
+
+This language is spoken in the following countries:
+
+* EC: Ecuador
+
+.. code-block:: yaml
+
+    ISO_639-3: jiv
+    alternate_names:
+    - Chiwaro
+    - Jivaro
+    - Shuara
+    - Xivaro
+    - Jibaro
+    anglicanized_name: Shuar
+    country_codes:
+    - EC
+    gateway_language: es-419
+    lang_code: jiv
+    lang_direction: ltr
+    lang_name: Shuar
+    lang_region: Americas
+    

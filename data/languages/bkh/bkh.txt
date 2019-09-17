@@ -1,0 +1,35 @@
+.. _bkh:
+
+Bakoko
+------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: bkh
+    alternate_names:
+    - Basoo
+    - Bisoo (Adiangok)
+    - Yasug
+    - Yassuku (Yasoukou)
+    - Yakalak (Yakalag)
+    - Yabyang (Yabyang-Yapeke)
+    - Elog Mpoo
+    - Yasuku
+    - Basso
+    - Basoo D'edea
+    - Basoo Ba Likol
+    - Adie (Basoo Ba Die)
+    - Mbang (Dimbambang)
+    anglicanized_name: Bakoko
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: bkh
+    lang_direction: ltr
+    lang_name: Bakoko
+    lang_region: Africa
+    

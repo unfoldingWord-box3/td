@@ -1,0 +1,22 @@
+.. _tkv:
+
+Mur Pano
+--------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: tkv
+    alternate_names: []
+    anglicanized_name: Mur Pano
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: tkv
+    lang_direction: ltr
+    lang_name: Mur Pano
+    lang_region: Pacific
+    

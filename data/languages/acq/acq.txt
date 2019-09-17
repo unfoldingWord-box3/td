@@ -1,0 +1,47 @@
+.. _acq:
+
+لهجة تعزية-عدنية
+------------------------------
+
+This language is spoken in the following countries:
+
+* DJ: Djibouti
+* ER: Eritrea
+* ET: Ethiopia
+* MG: Madagascar
+* OM: Oman
+* SA: Saudi Arabia
+* SD: Sudan
+* US: United States of America
+* YE: Yemen
+* KW: Kuwait
+* EG: Egypt
+* AE: United Arab Emirates
+
+.. code-block:: yaml
+
+    ISO_639-3: acq
+    alternate_names:
+    - Ta'izzi
+    - Djibouti Arabic
+    - Southern Yemeni Spoken Arabic
+    anglicanized_name: Arabic, Ta’izzi-Adeni Spoken
+    country_codes:
+    - DJ
+    - ER
+    - ET
+    - MG
+    - OM
+    - SA
+    - SD
+    - US
+    - YE
+    - KW
+    - EG
+    - AE
+    gateway_language: ar
+    lang_code: acq
+    lang_direction: rtl
+    lang_name: لهجة تعزية-عدنية
+    lang_region: Asia
+    

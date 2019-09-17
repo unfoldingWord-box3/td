@@ -1,0 +1,28 @@
+.. _pne:
+
+Western Penan
+-------------
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: pne
+    alternate_names:
+    - Nibon
+    - Punan
+    - Penan Gang (Gang)
+    - Penan Lusong (Lusong)
+    - Bok Penan (Bok)
+    - Sipeng (Speng)
+    anglicanized_name: Penan, Western
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: pne
+    lang_direction: ltr
+    lang_name: Western Penan
+    lang_region: Asia
+    

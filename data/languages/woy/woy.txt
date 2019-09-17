@@ -1,0 +1,24 @@
+.. _woy:
+
+Weyto
+-----
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: woy
+    alternate_names:
+    - Wayto
+    - Weyt'o
+    anglicanized_name: Weyto
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: woy
+    lang_direction: ltr
+    lang_name: Weyto
+    lang_region: Africa
+    

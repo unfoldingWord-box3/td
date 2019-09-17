@@ -1,0 +1,22 @@
+.. _mzz:
+
+Maiadomu
+--------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mzz
+    alternate_names: []
+    anglicanized_name: Maiadomu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mzz
+    lang_direction: ltr
+    lang_name: Maiadomu
+    lang_region: Pacific
+    

@@ -1,0 +1,29 @@
+.. _lcl:
+
+Lisela
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: lcl
+    alternate_names:
+    - Buru
+    - Li Enyorot
+    - Liet Enjorot
+    - North Buru
+    - Wayapo
+    - Lisela (Licela)
+    - Licella
+    anglicanized_name: Lisela
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: lcl
+    lang_direction: ltr
+    lang_name: Lisela
+    lang_region: Asia
+    

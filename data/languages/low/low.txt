@@ -1,0 +1,22 @@
+.. _low:
+
+Tampias Lobu
+------------
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: low
+    alternate_names: []
+    anglicanized_name: Lobu, Tampias
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: low
+    lang_direction: ltr
+    lang_name: Tampias Lobu
+    lang_region: Asia
+    

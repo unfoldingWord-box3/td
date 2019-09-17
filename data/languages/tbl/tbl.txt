@@ -1,0 +1,28 @@
+.. _tbl:
+
+Tboli
+-----
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: tbl
+    alternate_names:
+    - T'boli
+    - Tiboli
+    - Tagabili
+    - Western Tboli
+    - Southern Tboli
+    - Central Tboli
+    anglicanized_name: Tboli
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: tbl
+    lang_direction: ltr
+    lang_name: Tboli
+    lang_region: Asia
+    

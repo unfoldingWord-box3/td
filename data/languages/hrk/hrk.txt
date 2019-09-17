@@ -1,0 +1,23 @@
+.. _hrk:
+
+Haruku
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: hrk
+    alternate_names:
+    - Kabauw
+    anglicanized_name: Haruku
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: hrk
+    lang_direction: ltr
+    lang_name: Haruku
+    lang_region: Asia
+    

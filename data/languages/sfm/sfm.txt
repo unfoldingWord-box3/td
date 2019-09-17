@@ -1,0 +1,27 @@
+.. _sfm:
+
+小花苗
+---------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: sfm
+    alternate_names:
+    - Atse
+    - Ghab-Mvb Ghab-Svd
+    - Ghuab-Hmongb Ghuab-Soud
+    - Hsiao Hwa Miao
+    - Xiao Hua Miao
+    anglicanized_name: Miao, Small Flowery
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: sfm
+    lang_direction: ltr
+    lang_name: 小花苗
+    lang_region: Asia
+    

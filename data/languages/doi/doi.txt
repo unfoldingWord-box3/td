@@ -1,0 +1,22 @@
+.. _doi:
+
+Dogri (macrolanguage)
+---------------------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: doi
+    alternate_names: []
+    anglicanized_name: Dogri
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: doi
+    lang_direction: ltr
+    lang_name: Dogri (macrolanguage)
+    lang_region: Asia
+    

@@ -1,0 +1,24 @@
+.. _meo:
+
+Kedah Malay
+-----------
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: meo
+    alternate_names:
+    - Satun Malay
+    - Kedah Malay
+    anglicanized_name: Malay, Kedah
+    country_codes:
+    - MY
+    gateway_language: ms
+    lang_code: meo
+    lang_direction: ltr
+    lang_name: Kedah Malay
+    lang_region: Asia
+    

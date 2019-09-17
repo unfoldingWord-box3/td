@@ -1,0 +1,30 @@
+.. _dnk:
+
+Dengka
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: dnk
+    alternate_names:
+    - Rote
+    - Rote Barat
+    - Roti
+    - Rotinese
+    - Western Rote
+    - Lelain
+    - Western Dengka
+    - Eastern Dengka
+    anglicanized_name: Dengka
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: dnk
+    lang_direction: ltr
+    lang_name: Dengka
+    lang_region: Asia
+    

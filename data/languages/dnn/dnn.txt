@@ -1,0 +1,30 @@
+.. _dnn:
+
+Dzùùngoo
+----------
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+
+.. code-block:: yaml
+
+    ISO_639-3: dnn
+    alternate_names:
+    - Eastern Duun
+    - Kpango
+    - Samogho
+    - Samogo
+    - Samoro
+    - Dzùùngoo (Samogohiri)
+    - Kpangoo (Samorogouan)
+    - Kpeengo
+    anglicanized_name: Dzùùngoo
+    country_codes:
+    - BF
+    gateway_language: fr
+    lang_code: dnn
+    lang_direction: ltr
+    lang_name: Dzùùngoo
+    lang_region: Africa
+    

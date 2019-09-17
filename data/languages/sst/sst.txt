@@ -1,0 +1,22 @@
+.. _sst:
+
+Sinasina
+--------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: sst
+    alternate_names: []
+    anglicanized_name: Sinasina
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: sst
+    lang_direction: ltr
+    lang_name: Sinasina
+    lang_region: Pacific
+    

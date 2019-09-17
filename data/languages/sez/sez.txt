@@ -1,0 +1,31 @@
+.. _sez:
+
+Senthang Chin
+-------------
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: sez
+    alternate_names:
+    - Hsemtang
+    - Sakta
+    - Surkhua/Lungrang
+    - Shoneshi (Shonshe)
+    - Phaipha
+    - Lei-Um
+    - Khuapi
+    - Central Senthang (Bungzung)
+    - Shonshe
+    anglicanized_name: Chin, Senthang
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: sez
+    lang_direction: ltr
+    lang_name: Senthang Chin
+    lang_region: Asia
+    

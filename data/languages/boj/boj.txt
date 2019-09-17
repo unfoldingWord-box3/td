@@ -1,0 +1,27 @@
+.. _boj:
+
+Anjam
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: boj
+    alternate_names:
+    - Bogadjim
+    - Bogajim
+    - Bogati
+    - Bom
+    - Lalok
+    anglicanized_name: Anjam
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: boj
+    lang_direction: ltr
+    lang_name: Anjam
+    lang_region: Pacific
+    

@@ -1,0 +1,23 @@
+.. _kuc:
+
+Kwinsu
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kuc
+    alternate_names:
+    - Ansudu
+    anglicanized_name: Kwinsu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kuc
+    lang_direction: ltr
+    lang_name: Kwinsu
+    lang_region: Asia
+    

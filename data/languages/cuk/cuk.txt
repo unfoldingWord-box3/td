@@ -1,0 +1,26 @@
+.. _cuk:
+
+San Blas Kuna
+-------------
+
+This language is spoken in the following countries:
+
+* PA: Panama
+
+.. code-block:: yaml
+
+    ISO_639-3: cuk
+    alternate_names:
+    - Cuna
+    - San Blas Cuna
+    - Bayano (Alto Bayano)
+    - Maje
+    anglicanized_name: Kuna, San Blas
+    country_codes:
+    - PA
+    gateway_language: es-419
+    lang_code: cuk
+    lang_direction: ltr
+    lang_name: San Blas Kuna
+    lang_region: Americas
+    

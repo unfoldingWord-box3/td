@@ -1,0 +1,30 @@
+.. _rgu:
+
+Ringgou
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: rgu
+    alternate_names:
+    - Eastern Rote
+    - Ringgou
+    - Rote
+    - Rote Timur
+    - Roti
+    - Rotinese
+    - Landu
+    - Oe Pao (Oepao)
+    anglicanized_name: Rikou
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: rgu
+    lang_direction: ltr
+    lang_name: Ringgou
+    lang_region: Asia
+    

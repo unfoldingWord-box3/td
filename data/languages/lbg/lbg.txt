@@ -1,0 +1,25 @@
+.. _lbg:
+
+Laopang
+-------
+
+This language is spoken in the following countries:
+
+* CN: China
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: lbg
+    alternate_names:
+    - Laopa
+    anglicanized_name: Laopang
+    country_codes:
+    - CN
+    - LA
+    gateway_language: lo
+    lang_code: lbg
+    lang_direction: ltr
+    lang_name: Laopang
+    lang_region: Asia
+    

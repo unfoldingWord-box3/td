@@ -1,0 +1,24 @@
+.. _bpa:
+
+Daakaka
+-------
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: bpa
+    alternate_names:
+    - Baiap
+    - South Ambrym
+    anglicanized_name: Daakaka
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: bpa
+    lang_direction: ltr
+    lang_name: Daakaka
+    lang_region: Pacific
+    

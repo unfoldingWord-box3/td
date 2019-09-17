@@ -1,0 +1,30 @@
+.. _bvi:
+
+Belanda Viri
+------------
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: bvi
+    alternate_names:
+    - Belanda
+    - Biri
+    - Bviri
+    - Gamba
+    - Gumba
+    - Mbegumba
+    - Mvegumba
+    - Viri
+    anglicanized_name: Belanda Viri
+    country_codes:
+    - SS
+    gateway_language: ar
+    lang_code: bvi
+    lang_direction: ltr
+    lang_name: Belanda Viri
+    lang_region: Africa
+    

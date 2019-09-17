@@ -1,0 +1,27 @@
+.. _met:
+
+Mato
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: met
+    alternate_names:
+    - Nenaya
+    - Nengaya
+    - Nineia
+    - Ramuk
+    - Tabares
+    anglicanized_name: Mato
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: met
+    lang_direction: ltr
+    lang_name: Mato
+    lang_region: Pacific
+    

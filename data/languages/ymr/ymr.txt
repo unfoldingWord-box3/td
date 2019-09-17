@@ -1,0 +1,23 @@
+.. _ymr:
+
+Malasar
+-------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: ymr
+    alternate_names:
+    - Malayar
+    anglicanized_name: Malasar
+    country_codes:
+    - IN
+    gateway_language: ml
+    lang_code: ymr
+    lang_direction: ltr
+    lang_name: Malasar
+    lang_region: Asia
+    

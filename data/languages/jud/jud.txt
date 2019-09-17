@@ -1,0 +1,27 @@
+.. _jud:
+
+Worodougou
+----------
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: jud
+    alternate_names:
+    - Bakokan
+    - Ouorodougou
+    - Worodougou Jula
+    - Worodougoukakan
+    - Worodugu
+    anglicanized_name: Worodougou
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: jud
+    lang_direction: ltr
+    lang_name: Worodougou
+    lang_region: Africa
+    

@@ -1,0 +1,23 @@
+.. _nms:
+
+Letemboi
+--------
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: nms
+    alternate_names:
+    - Small Nambas
+    anglicanized_name: Letemboi
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: nms
+    lang_direction: ltr
+    lang_name: Letemboi
+    lang_region: Pacific
+    

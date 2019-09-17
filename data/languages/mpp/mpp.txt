@@ -1,0 +1,23 @@
+.. _mpp:
+
+Migabac
+-------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mpp
+    alternate_names:
+    - Migaba'
+    anglicanized_name: Migabac
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mpp
+    lang_direction: ltr
+    lang_name: Migabac
+    lang_region: Pacific
+    

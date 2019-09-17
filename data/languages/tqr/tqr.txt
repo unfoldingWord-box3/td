@@ -1,0 +1,22 @@
+.. _tqr:
+
+Torona
+------
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: tqr
+    alternate_names: []
+    anglicanized_name: Torona
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: tqr
+    lang_direction: ltr
+    lang_name: Torona
+    lang_region: Africa
+    

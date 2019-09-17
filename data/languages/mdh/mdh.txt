@@ -1,0 +1,26 @@
+.. _mdh:
+
+Maguindanaon
+------------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: mdh
+    alternate_names:
+    - Magindanaon
+    - Magindanaw
+    - Magindanawn
+    - Maguindanaw
+    anglicanized_name: Maguindanaon
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: mdh
+    lang_direction: ltr
+    lang_name: Maguindanaon
+    lang_region: Asia
+    

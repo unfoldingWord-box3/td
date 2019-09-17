@@ -1,0 +1,24 @@
+.. _mfc:
+
+Mba
+---
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: mfc
+    alternate_names:
+    - Kimbanga
+    - Manga
+    anglicanized_name: Mba
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: mfc
+    lang_direction: ltr
+    lang_name: Mba
+    lang_region: Africa
+    

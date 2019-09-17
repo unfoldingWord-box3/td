@@ -1,0 +1,28 @@
+.. _tty:
+
+Sikaritai
+---------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: tty
+    alternate_names:
+    - Aikwakai
+    - Araikurioko
+    - Ati
+    - Sikari
+    - Tori
+    - Tori Aikwakai
+    anglicanized_name: Sikaritai
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: tty
+    lang_direction: ltr
+    lang_name: Sikaritai
+    lang_region: Asia
+    

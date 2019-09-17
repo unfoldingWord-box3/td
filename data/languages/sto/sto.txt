@@ -1,0 +1,26 @@
+.. _sto:
+
+Stoney
+------
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: sto
+    alternate_names:
+    - Nakoda
+    - Stony
+    - Southern Stoney
+    - Northern Stoney
+    anglicanized_name: Stoney
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: sto
+    lang_direction: ltr
+    lang_name: Stoney
+    lang_region: Americas
+    

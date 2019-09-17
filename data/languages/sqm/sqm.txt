@@ -1,0 +1,23 @@
+.. _sqm:
+
+Suma
+----
+
+This language is spoken in the following countries:
+
+* CF: Central African Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: sqm
+    alternate_names:
+    - Souma
+    anglicanized_name: Suma
+    country_codes:
+    - CF
+    gateway_language: fr
+    lang_code: sqm
+    lang_direction: ltr
+    lang_name: Suma
+    lang_region: Africa
+    

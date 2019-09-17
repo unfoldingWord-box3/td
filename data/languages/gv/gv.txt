@@ -1,0 +1,27 @@
+.. _gv:
+
+Gaelg, Gailck
+-------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/glv>`__ identifies this language as ``glv``.
+
+This language is spoken in the following countries:
+
+* IM: Isle of Man
+
+.. code-block:: yaml
+
+    ISO_639-3: glv
+    alternate_names:
+    - Gaelg
+    - Gailck
+    - Manx Gaelic
+    anglicanized_name: Manx
+    country_codes:
+    - IM
+    gateway_language: en
+    lang_code: gv
+    lang_direction: ltr
+    lang_name: Gaelg, Gailck
+    lang_region: Europe
+    

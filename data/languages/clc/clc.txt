@@ -1,0 +1,23 @@
+.. _clc:
+
+Chilcotin
+---------
+
+This language is spoken in the following countries:
+
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: clc
+    alternate_names:
+    - Tzilkotin
+    anglicanized_name: Chilcotin
+    country_codes:
+    - CA
+    gateway_language: en
+    lang_code: clc
+    lang_direction: ltr
+    lang_name: Chilcotin
+    lang_region: Americas
+    

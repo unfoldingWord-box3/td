@@ -1,0 +1,27 @@
+.. _let:
+
+Lesing-Gelimi
+-------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: let
+    alternate_names:
+    - Amio
+    - Atui
+    - Lesing-Atui
+    - Lesing-Gelimi
+    - Poronga
+    anglicanized_name: Amio-Gelimi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: let
+    lang_direction: ltr
+    lang_name: Lesing-Gelimi
+    lang_region: Pacific
+    

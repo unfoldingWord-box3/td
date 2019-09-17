@@ -1,0 +1,31 @@
+.. _ras:
+
+Tegali
+------
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: ras
+    alternate_names:
+    - Tagale
+    - Tegele
+    - Tekele
+    - Togole
+    - Tingal (Kajaja)
+    - Rashad (Kom)
+    - Ngakom
+    - Kajakja
+    - Kome
+    anglicanized_name: Tegali
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: ras
+    lang_direction: ltr
+    lang_name: Tegali
+    lang_region: Africa
+    

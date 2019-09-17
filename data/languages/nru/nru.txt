@@ -1,0 +1,29 @@
+.. _nru:
+
+东部方言
+------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: nru
+    alternate_names:
+    - Eastern Naxi
+    - Moso
+    - Mosso
+    - Mosuo
+    - Na
+    - Naru
+    - Nazu
+    anglicanized_name: Narua
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: nru
+    lang_direction: ltr
+    lang_name: 东部方言
+    lang_region: Asia
+    

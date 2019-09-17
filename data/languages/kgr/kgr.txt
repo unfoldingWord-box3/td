@@ -1,0 +1,28 @@
+.. _kgr:
+
+Abun
+----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kgr
+    alternate_names:
+    - A Nden
+    - Karon
+    - Manif
+    - Yimbun
+    - Abun Ji (Madik)
+    - Abun Tat (Karon Pantai)
+    anglicanized_name: Abun
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kgr
+    lang_direction: ltr
+    lang_name: Abun
+    lang_region: Asia
+    

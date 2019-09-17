@@ -1,0 +1,43 @@
+.. _kjh:
+
+Хакасский
+------------------
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: kjh
+    alternate_names:
+    - Abakan Tatar
+    - Fuyü Gïrgïs
+    - Fuyu Ka'erkezi
+    - Hakasi
+    - Khakhas
+    - Khakhass
+    - Manchurian Kirghiz
+    - Yenisei Tatar
+    - Hakass
+    - Xakas
+    - Yenisei
+    - Yennisej Tatar
+    - Xaas
+    - Xyzyl
+    - Saghai
+    - Sagai (Sagaj)
+    - Koibal (Xoibal)
+    - Khaas
+    - Kamass (Kamassian)
+    - Kachin (Kaca)
+    - Kyzyl (Khyzyzl)
+    anglicanized_name: Khakas
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: kjh
+    lang_direction: ltr
+    lang_name: Хакасский
+    lang_region: Europe
+    

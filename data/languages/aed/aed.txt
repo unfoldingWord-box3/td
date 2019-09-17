@@ -1,0 +1,23 @@
+.. _aed:
+
+Argentine Sign Language
+-----------------------
+
+This language is spoken in the following countries:
+
+* AR: Argentina
+
+.. code-block:: yaml
+
+    ISO_639-3: aed
+    alternate_names:
+    - Córdoba Sign Language
+    anglicanized_name: Argentine Sign Language
+    country_codes:
+    - AR
+    gateway_language: es-419
+    lang_code: aed
+    lang_direction: ltr
+    lang_name: Argentine Sign Language
+    lang_region: Americas
+    

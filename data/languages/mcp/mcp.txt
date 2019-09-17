@@ -1,0 +1,31 @@
+.. _mcp:
+
+Makaa
+-----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: mcp
+    alternate_names:
+    - Mekaa
+    - South Makaa
+    - South Mekaa
+    - Bebent (Bebende)
+    - Shekunda
+    - Biken
+    - Bemina
+    - Besep
+    - Bewil
+    anglicanized_name: Makaa
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: mcp
+    lang_direction: ltr
+    lang_name: Makaa
+    lang_region: Africa
+    

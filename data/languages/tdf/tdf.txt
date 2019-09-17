@@ -1,0 +1,25 @@
+.. _tdf:
+
+Talieng
+-------
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: tdf
+    alternate_names:
+    - Taliang
+    - Tariang
+    - Triang
+    anglicanized_name: Talieng
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: tdf
+    lang_direction: ltr
+    lang_name: Talieng
+    lang_region: Asia
+    

@@ -1,0 +1,24 @@
+.. _ktf:
+
+Kwami
+-----
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: ktf
+    alternate_names:
+    - Kikwame
+    - Kwame
+    anglicanized_name: Kwami
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: ktf
+    lang_direction: ltr
+    lang_name: Kwami
+    lang_region: Africa
+    

@@ -1,0 +1,29 @@
+.. _mzw:
+
+Deg
+---
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: mzw
+    alternate_names:
+    - Aculo
+    - Buro
+    - Degha
+    - Janela
+    - Mmfo
+    - Mo
+    - Buru
+    anglicanized_name: Deg
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: mzw
+    lang_direction: ltr
+    lang_name: Deg
+    lang_region: Africa
+    

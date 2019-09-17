@@ -1,0 +1,33 @@
+.. _jup:
+
+Hupdë
+------
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: jup
+    alternate_names:
+    - Hup
+    - Hupda
+    - Jupde
+    - Ubdé
+    - Hupdá Makú
+    - Jupdá Macú
+    - Macú de Tucano
+    - Makú-Hupdá
+    - Hupdë
+    anglicanized_name: Hupdë
+    country_codes:
+    - BR
+    - CO
+    gateway_language: pt
+    lang_code: jup
+    lang_direction: ltr
+    lang_name: Hupdë
+    lang_region: Americas
+    

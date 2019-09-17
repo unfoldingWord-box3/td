@@ -1,0 +1,24 @@
+.. _xwk:
+
+Wangkumara
+----------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: xwk
+    alternate_names:
+    - Wangumarra
+    - Wongkumara
+    anglicanized_name: Wangkumara
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: xwk
+    lang_direction: ltr
+    lang_name: Wangkumara
+    lang_region: Pacific
+    

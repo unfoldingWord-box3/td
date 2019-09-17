@@ -1,0 +1,25 @@
+.. _klv:
+
+Maskelynes
+----------
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: klv
+    alternate_names:
+    - Kuliviu
+    - Maskelyne Islands
+    - Uliveo
+    anglicanized_name: Maskelynes
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: klv
+    lang_direction: ltr
+    lang_name: Maskelynes
+    lang_region: Pacific
+    

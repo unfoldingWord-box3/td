@@ -1,0 +1,31 @@
+.. _hay:
+
+Haya
+----
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: hay
+    alternate_names:
+    - Ekihaya
+    - Kihaya
+    - Luhaya
+    - Ruhaya
+    - Ziba
+    - Ganda-Kiaka
+    - Kyamutwara
+    anglicanized_name: Haya
+    country_codes:
+    - TZ
+    - UG
+    gateway_language: sw
+    lang_code: hay
+    lang_direction: ltr
+    lang_name: Haya
+    lang_region: Africa
+    

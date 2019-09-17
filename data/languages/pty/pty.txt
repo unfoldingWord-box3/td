@@ -1,0 +1,22 @@
+.. _pty:
+
+Pathiya
+-------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: pty
+    alternate_names: []
+    anglicanized_name: Pathiya
+    country_codes:
+    - IN
+    gateway_language: ml
+    lang_code: pty
+    lang_direction: ltr
+    lang_name: Pathiya
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _cea:
+
+Lower Chehalis
+--------------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: cea
+    alternate_names: []
+    anglicanized_name: Chehalis, Lower
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: cea
+    lang_direction: ltr
+    lang_name: Lower Chehalis
+    lang_region: Americas
+    

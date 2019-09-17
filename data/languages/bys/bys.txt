@@ -1,0 +1,23 @@
+.. _bys:
+
+Burak
+-----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: bys
+    alternate_names:
+    - Buurak
+    anglicanized_name: Burak
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: bys
+    lang_direction: ltr
+    lang_name: Burak
+    lang_region: Africa
+    

@@ -1,0 +1,32 @@
+.. _ncu:
+
+Chumburung
+----------
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: ncu
+    alternate_names:
+    - Kyongborong
+    - Nchimburu
+    - Nchummuru
+    - Gurubi
+    - Southern Chumburung (Bejamse)
+    - Yeji (Yedji)
+    - Chinderi
+    - Borae
+    - Lonto
+    - Northern Chumburung (Banda)
+    anglicanized_name: Chumburung
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: ncu
+    lang_direction: ltr
+    lang_name: Chumburung
+    lang_region: Africa
+    

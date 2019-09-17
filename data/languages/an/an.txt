@@ -1,0 +1,42 @@
+.. _an:
+
+aragonés
+---------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/arg>`__ identifies this language as ``arg``.
+
+This language is spoken in the following countries:
+
+* ES: Spain
+
+.. code-block:: yaml
+
+    ISO_639-3: arg
+    alternate_names:
+    - Altoaragonés
+    - Aragoieraz
+    - Aragonés
+    - Fabla Aragonesa
+    - High Aragonese
+    - Patués
+    - Grausino
+    - Western Aragonese (Ansotano)
+    - Tensino
+    - Southern Aragonese (Ayerbense)
+    - Semontanés
+    - Pandicuto
+    - Eastern Aragonese (Benasqués)
+    - Chistabino
+    - Cheso
+    - Central Aragonese (Belsetán)
+    - Bergotés
+    - Fobano
+    anglicanized_name: Aragonese
+    country_codes:
+    - ES
+    gateway_language: es
+    lang_code: an
+    lang_direction: ltr
+    lang_name: aragonés
+    lang_region: Europe
+    

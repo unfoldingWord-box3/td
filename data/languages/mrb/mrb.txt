@@ -1,0 +1,25 @@
+.. _mrb:
+
+Marino
+------
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: mrb
+    alternate_names:
+    - Naone
+    - North Maewo
+    - Sunwadia
+    anglicanized_name: Marino
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: mrb
+    lang_direction: ltr
+    lang_name: Marino
+    lang_region: Pacific
+    

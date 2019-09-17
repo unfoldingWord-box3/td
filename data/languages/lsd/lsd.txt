@@ -1,0 +1,28 @@
+.. _lsd:
+
+לשנא דני
+---------------
+
+This language is spoken in the following countries:
+
+* IL: Israel
+
+.. code-block:: yaml
+
+    ISO_639-3: lsd
+    alternate_names:
+    - Judeo-Aramaic
+    - Kurdit
+    - Lishan Hozaye
+    - Lishan Hudaye
+    - Shukho
+    - Barashe
+    anglicanized_name: Lishana Deni
+    country_codes:
+    - IL
+    gateway_language: en
+    lang_code: lsd
+    lang_direction: rtl
+    lang_name: לשנא דני
+    lang_region: Asia
+    

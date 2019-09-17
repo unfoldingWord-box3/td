@@ -1,0 +1,22 @@
+.. _kxa:
+
+Kairiru
+-------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kxa
+    alternate_names: []
+    anglicanized_name: Kairiru
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kxa
+    lang_direction: ltr
+    lang_name: Kairiru
+    lang_region: Pacific
+    

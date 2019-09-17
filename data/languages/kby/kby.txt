@@ -1,0 +1,26 @@
+.. _kby:
+
+Manga Kanuri
+------------
+
+This language is spoken in the following countries:
+
+* NE: Niger
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: kby
+    alternate_names:
+    - Kanouri
+    - Kanoury
+    anglicanized_name: Kanuri, Manga
+    country_codes:
+    - NE
+    - NG
+    gateway_language: fr
+    lang_code: kby
+    lang_direction: ltr
+    lang_name: Manga Kanuri
+    lang_region: Africa
+    

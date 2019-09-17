@@ -1,0 +1,25 @@
+.. _gsp:
+
+Wasembo
+-------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: gsp
+    alternate_names:
+    - Biapim
+    - Gusap
+    - Yankowan
+    anglicanized_name: Wasembo
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: gsp
+    lang_direction: ltr
+    lang_name: Wasembo
+    lang_region: Pacific
+    

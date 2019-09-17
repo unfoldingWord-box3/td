@@ -1,0 +1,22 @@
+.. _nvh:
+
+Nasarian
+--------
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: nvh
+    alternate_names: []
+    anglicanized_name: Nasarian
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: nvh
+    lang_direction: ltr
+    lang_name: Nasarian
+    lang_region: Pacific
+    

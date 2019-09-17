@@ -1,0 +1,22 @@
+.. _pel:
+
+Pekal
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: pel
+    alternate_names: []
+    anglicanized_name: Pekal
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: pel
+    lang_direction: ltr
+    lang_name: Pekal
+    lang_region: Asia
+    

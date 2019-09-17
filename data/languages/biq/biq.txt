@@ -1,0 +1,23 @@
+.. _biq:
+
+Bipi
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: biq
+    alternate_names:
+    - Sisi-Bipi
+    anglicanized_name: Bipi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: biq
+    lang_direction: ltr
+    lang_name: Bipi
+    lang_region: Pacific
+    

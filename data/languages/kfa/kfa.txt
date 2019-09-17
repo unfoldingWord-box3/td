@@ -1,0 +1,29 @@
+.. _kfa:
+
+Kodava
+------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: kfa
+    alternate_names:
+    - Coorge
+    - Kadagi
+    - Khurgi
+    - Kodagu
+    - Kotagu
+    - Kurja
+    - Kurug
+    anglicanized_name: Kodava
+    country_codes:
+    - IN
+    gateway_language: kn
+    lang_code: kfa
+    lang_direction: ltr
+    lang_name: Kodava
+    lang_region: Asia
+    

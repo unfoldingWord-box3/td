@@ -1,0 +1,31 @@
+.. _shb:
+
+Ninam
+-----
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+* VE: Venezuela (Bolivarian Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: shb
+    alternate_names:
+    - Xirixana
+    - Yanam
+    - Shiriana
+    - Uraricaa-Paragua
+    - Southern Ninam (Mukajai)
+    - Northern Ninam (Shiriana)
+    - Shirishana
+    anglicanized_name: Ninam
+    country_codes:
+    - BR
+    - VE
+    gateway_language: pt
+    lang_code: shb
+    lang_direction: ltr
+    lang_name: Ninam
+    lang_region: Americas
+    

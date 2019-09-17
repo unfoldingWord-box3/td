@@ -1,0 +1,27 @@
+.. _emn:
+
+Eman
+----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: emn
+    alternate_names:
+    - Emane
+    - Amana
+    - Amanavil (Aman)
+    - Amani
+    - Elaka
+    anglicanized_name: Eman
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: emn
+    lang_direction: ltr
+    lang_name: Eman
+    lang_region: Africa
+    

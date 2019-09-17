@@ -1,0 +1,26 @@
+.. _aug:
+
+Aguna
+-----
+
+This language is spoken in the following countries:
+
+* BJ: Benin
+
+.. code-block:: yaml
+
+    ISO_639-3: aug
+    alternate_names:
+    - Agunaco
+    - Awuna
+    - Agunagbe
+    - Agunaný
+    anglicanized_name: Aguna
+    country_codes:
+    - BJ
+    gateway_language: fr
+    lang_code: aug
+    lang_direction: ltr
+    lang_name: Aguna
+    lang_region: Africa
+    

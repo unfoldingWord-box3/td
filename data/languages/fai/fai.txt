@@ -1,0 +1,26 @@
+.. _fai:
+
+Faiwol
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: fai
+    alternate_names:
+    - Angkiyakmin
+    - Faiwolmin
+    - Fegolmin
+    - Wokeimin
+    anglicanized_name: Faiwol
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: fai
+    lang_direction: ltr
+    lang_name: Faiwol
+    lang_region: Pacific
+    

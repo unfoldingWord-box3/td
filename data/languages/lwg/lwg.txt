@@ -1,0 +1,26 @@
+.. _lwg:
+
+Wanga
+-----
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: lwg
+    alternate_names:
+    - Hanga
+    - Kawanga
+    - Luhanga
+    - Oluhanga
+    anglicanized_name: Oluwanga
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: lwg
+    lang_direction: ltr
+    lang_name: Wanga
+    lang_region: Africa
+    

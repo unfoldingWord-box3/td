@@ -1,0 +1,33 @@
+.. _cak:
+
+Kaqchikel
+---------
+
+This language is spoken in the following countries:
+
+* GT: Guatemala
+
+.. code-block:: yaml
+
+    ISO_639-3: cak
+    alternate_names:
+    - Cakchiquel
+    - Kaqchiquel
+    - Western Cakchiquel
+    - South Central Cakchiquel
+    - Yepocapa Southwestern Cakchiquel
+    - Southern Cakchiquel
+    - Santa María de Jesús Cakchiquel (Kach'ab'al)
+    - Northern Cakchiquel
+    - Akatenango Soutwestern Cakchiquel
+    - Eastern Cakchiquel
+    - Santo Domingo Xenacoj Cakchiquel
+    anglicanized_name: Kaqchikel
+    country_codes:
+    - GT
+    gateway_language: es-419
+    lang_code: cak
+    lang_direction: ltr
+    lang_name: Kaqchikel
+    lang_region: Americas
+    

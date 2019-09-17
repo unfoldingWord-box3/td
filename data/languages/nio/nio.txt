@@ -1,0 +1,25 @@
+.. _nio:
+
+Нганасанский
+------------------------
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: nio
+    alternate_names:
+    - Nya
+    - Tavgi Samoyed
+    - Avam (West)
+    anglicanized_name: Nganasan
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: nio
+    lang_direction: ltr
+    lang_name: Нганасанский
+    lang_region: Europe
+    

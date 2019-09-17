@@ -1,0 +1,23 @@
+.. _nqy:
+
+Akyaung Ari Naga
+----------------
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: nqy
+    alternate_names:
+    - Ngachan
+    anglicanized_name: Naga, Akyaung Ari
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: nqy
+    lang_direction: ltr
+    lang_name: Akyaung Ari Naga
+    lang_region: Asia
+    

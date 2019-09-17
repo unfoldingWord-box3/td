@@ -1,0 +1,24 @@
+.. _see:
+
+Seneca
+------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: see
+    alternate_names: []
+    anglicanized_name: Seneca
+    country_codes:
+    - US
+    - CA
+    gateway_language: en
+    lang_code: see
+    lang_direction: ltr
+    lang_name: Seneca
+    lang_region: Americas
+    

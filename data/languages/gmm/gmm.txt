@@ -1,0 +1,22 @@
+.. _gmm:
+
+Gbaya-Mbodomo
+-------------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: gmm
+    alternate_names: []
+    anglicanized_name: Gbaya-Mbodomo
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: gmm
+    lang_direction: ltr
+    lang_name: Gbaya-Mbodomo
+    lang_region: Africa
+    

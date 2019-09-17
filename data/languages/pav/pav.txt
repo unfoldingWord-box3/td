@@ -1,0 +1,30 @@
+.. _pav:
+
+Pakaásnovos
+------------
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: pav
+    alternate_names:
+    - Jaru
+    - Oro Wari
+    - Pacaas-Novos
+    - Pacahanovo
+    - Pakaanova
+    - Pakaanovas
+    - Uomo
+    - Wari
+    anglicanized_name: Pakaásnovos
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: pav
+    lang_direction: ltr
+    lang_name: Pakaásnovos
+    lang_region: Americas
+    

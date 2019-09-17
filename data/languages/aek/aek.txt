@@ -1,0 +1,25 @@
+.. _aek:
+
+Haeke
+-----
+
+This language is spoken in the following countries:
+
+* NC: New Caledonia
+
+.. code-block:: yaml
+
+    ISO_639-3: aek
+    alternate_names:
+    - Aeke
+    - Baco
+    - Haeake
+    anglicanized_name: Haeke
+    country_codes:
+    - NC
+    gateway_language: en
+    lang_code: aek
+    lang_direction: ltr
+    lang_name: Haeke
+    lang_region: Pacific
+    

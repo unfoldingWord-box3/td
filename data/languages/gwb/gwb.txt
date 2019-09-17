@@ -1,0 +1,22 @@
+.. _gwb:
+
+Gwa
+---
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: gwb
+    alternate_names: []
+    anglicanized_name: Gwa
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: gwb
+    lang_direction: ltr
+    lang_name: Gwa
+    lang_region: Africa
+    

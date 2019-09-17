@@ -1,0 +1,30 @@
+.. _sbu:
+
+Stod Bhoti
+----------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: sbu
+    alternate_names:
+    - Lahul Bhoti
+    - Stod-Kad
+    - Tod
+    - Tod-Kad
+    - Mayari
+    - Stod (Kolong)
+    - Khoksar (Khoksar Bhoti)
+    - Mayar (Mayar Bhoti)
+    anglicanized_name: Stod Bhoti
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: sbu
+    lang_direction: ltr
+    lang_name: Stod Bhoti
+    lang_region: Asia
+    

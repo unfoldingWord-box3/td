@@ -1,0 +1,24 @@
+.. _sok:
+
+Sokoro
+------
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: sok
+    alternate_names: []
+    anglicanized_name: Sokoro
+    country_codes:
+    - SD
+    - TD
+    gateway_language: ar
+    lang_code: sok
+    lang_direction: ltr
+    lang_name: Sokoro
+    lang_region: Africa
+    

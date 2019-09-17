@@ -1,0 +1,24 @@
+.. _nys:
+
+Nyunga
+------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: nys
+    alternate_names:
+    - Neo-Nyunga
+    - Nyungar
+    anglicanized_name: Nyunga
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: nys
+    lang_direction: ltr
+    lang_name: Nyunga
+    lang_region: Pacific
+    

@@ -1,0 +1,33 @@
+.. _grt:
+
+Garo
+----
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: grt
+    alternate_names:
+    - Garrow
+    - Mande
+    - Mandi
+    - Chibok
+    - A'chick (A'chik)
+    - Achik
+    - Am'beng
+    - Brak
+    - A'beng (A'bengya)
+    anglicanized_name: Garo
+    country_codes:
+    - BD
+    - IN
+    gateway_language: en
+    lang_code: grt
+    lang_direction: ltr
+    lang_name: Garo
+    lang_region: Asia
+    

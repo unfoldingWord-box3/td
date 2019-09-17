@@ -1,0 +1,22 @@
+.. _msh:
+
+Masikoro Malagasy
+-----------------
+
+This language is spoken in the following countries:
+
+* MG: Madagascar
+
+.. code-block:: yaml
+
+    ISO_639-3: msh
+    alternate_names: []
+    anglicanized_name: Malagasy, Masikoro
+    country_codes:
+    - MG
+    gateway_language: plt
+    lang_code: msh
+    lang_direction: ltr
+    lang_name: Masikoro Malagasy
+    lang_region: Africa
+    

@@ -1,0 +1,24 @@
+.. _mce:
+
+Itundujia Mixtec
+----------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: mce
+    alternate_names:
+    - Eastern Putla Mixtec
+    - Mixteco de Santa Cruz Itundujia
+    anglicanized_name: Mixtec, Itundujia
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: mce
+    lang_direction: ltr
+    lang_name: Itundujia Mixtec
+    lang_region: Americas
+    

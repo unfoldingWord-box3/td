@@ -1,0 +1,25 @@
+.. _gbe:
+
+Niksek
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: gbe
+    alternate_names:
+    - Sumwari
+    - Gabiano (Kabiano)
+    - Meiyari ("Paka")
+    anglicanized_name: Niksek
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: gbe
+    lang_direction: ltr
+    lang_name: Niksek
+    lang_region: Pacific
+    

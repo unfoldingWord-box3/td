@@ -1,0 +1,26 @@
+.. _kfp:
+
+Korwa
+-----
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. warning:: The gateway language is not valid.
+
+.. code-block:: yaml
+
+    ISO_639-3: kfp
+    alternate_names:
+    - Ernga
+    - Singli
+    anglicanized_name: Korwa
+    country_codes:
+    - IN
+    gateway_language: hne
+    lang_code: kfp
+    lang_direction: ltr
+    lang_name: Korwa
+    lang_region: Asia
+    

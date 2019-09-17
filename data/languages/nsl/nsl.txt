@@ -1,0 +1,22 @@
+.. _nsl:
+
+Norwegian Sign Language
+-----------------------
+
+This language is spoken in the following countries:
+
+* NO: Norway
+
+.. code-block:: yaml
+
+    ISO_639-3: nsl
+    alternate_names: []
+    anglicanized_name: Norwegian Sign Language
+    country_codes:
+    - 'NO'
+    gateway_language: en
+    lang_code: nsl
+    lang_direction: ltr
+    lang_name: Norwegian Sign Language
+    lang_region: Europe
+    

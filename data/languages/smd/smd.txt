@@ -1,0 +1,24 @@
+.. _smd:
+
+Sama
+----
+
+This language is spoken in the following countries:
+
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: smd
+    alternate_names:
+    - Kissama
+    - Quissama
+    anglicanized_name: Sama
+    country_codes:
+    - AO
+    gateway_language: pt
+    lang_code: smd
+    lang_direction: ltr
+    lang_name: Sama
+    lang_region: Africa
+    

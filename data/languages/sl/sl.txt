@@ -1,0 +1,44 @@
+.. _sl:
+
+slovenski jezik, slovenščina
+------------------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/slv>`__ identifies this language as ``slv``.
+
+This language is spoken in the following countries:
+
+* AT: Austria
+* AR: Argentina
+* DE: Germany
+* NZ: New Zealand
+* SE: Sweden
+* SI: Slovenia
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: slv
+    alternate_names:
+    - Windisch
+    - Slovenscina
+    anglicanized_name: Slovene
+    country_codes:
+    - AT
+    - AR
+    - DE
+    - NZ
+    - SE
+    - SI
+    - US
+    - AU
+    - CA
+    - IT
+    gateway_language: en
+    lang_code: sl
+    lang_direction: ltr
+    lang_name: slovenski jezik, slovenščina
+    lang_region: Europe
+    

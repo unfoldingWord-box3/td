@@ -1,0 +1,23 @@
+.. _akf:
+
+Akpa
+----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: akf
+    alternate_names:
+    - Akweya
+    anglicanized_name: Akpa
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: akf
+    lang_direction: ltr
+    lang_name: Akpa
+    lang_region: Africa
+    

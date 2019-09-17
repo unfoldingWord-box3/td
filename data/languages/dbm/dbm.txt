@@ -1,0 +1,27 @@
+.. _dbm:
+
+Duguri
+------
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: dbm
+    alternate_names:
+    - Doori
+    - Dugarwa
+    - Duguranchi
+    - Dugurawa
+    - Dukuri
+    anglicanized_name: Duguri
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: dbm
+    lang_direction: ltr
+    lang_name: Duguri
+    lang_region: Africa
+    

@@ -1,0 +1,40 @@
+.. _id:
+
+Bahasa Indonesia
+----------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ind>`__ identifies this language as ``ind``.
+
+This language is spoken in the following countries:
+
+* CN: China
+* ID: Indonesia
+* MY: Malaysia
+* NL: Netherlands
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* SG: Singapore
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: ind
+    alternate_names: []
+    anglicanized_name: Indonesian
+    country_codes:
+    - CN
+    - ID
+    - MY
+    - NL
+    - US
+    - AU
+    - CA
+    - SG
+    gateway_language: null
+    lang_code: id
+    lang_direction: ltr
+    lang_name: Bahasa Indonesia
+    lang_region: Asia
+    

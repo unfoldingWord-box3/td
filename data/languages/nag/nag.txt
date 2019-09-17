@@ -1,0 +1,26 @@
+.. _nag:
+
+Naga Pidgin
+-----------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: nag
+    alternate_names:
+    - Bodo
+    - Kachari Bengali
+    - Naga Creole Assamese
+    - Naga-Assamese
+    anglicanized_name: Naga Pidgin
+    country_codes:
+    - IN
+    gateway_language: en
+    lang_code: nag
+    lang_direction: ltr
+    lang_name: Naga Pidgin
+    lang_region: Asia
+    

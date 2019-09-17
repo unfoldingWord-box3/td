@@ -1,0 +1,24 @@
+.. _boq:
+
+Bogaya
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: boq
+    alternate_names:
+    - Bogaia
+    - Pogaya
+    anglicanized_name: Bogaya
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: boq
+    lang_direction: ltr
+    lang_name: Bogaya
+    lang_region: Pacific
+    

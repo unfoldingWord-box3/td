@@ -1,0 +1,26 @@
+.. _slz:
+
+Ma'ya
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: slz
+    alternate_names:
+    - Sailolof
+    - Salawati
+    - Samate
+    - Batanta Island
+    anglicanized_name: Ma’ya
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: slz
+    lang_direction: ltr
+    lang_name: Ma'ya
+    lang_region: Asia
+    

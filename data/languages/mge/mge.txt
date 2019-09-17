@@ -1,0 +1,25 @@
+.. _mge:
+
+Mango
+-----
+
+This language is spoken in the following countries:
+
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: mge
+    alternate_names:
+    - Doba
+    - Mbay Doba
+    - Mongo
+    anglicanized_name: Mango
+    country_codes:
+    - TD
+    gateway_language: ar
+    lang_code: mge
+    lang_direction: ltr
+    lang_name: Mango
+    lang_region: Africa
+    

@@ -1,0 +1,27 @@
+.. _zua:
+
+Zeem
+----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: zua
+    alternate_names:
+    - Chaari
+    - Dyarum (Kaiwari)
+    - Kaiyorawa
+    - Lushi (Dokshi)
+    - Tulai
+    anglicanized_name: Zeem
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: zua
+    lang_direction: ltr
+    lang_name: Zeem
+    lang_region: Africa
+    

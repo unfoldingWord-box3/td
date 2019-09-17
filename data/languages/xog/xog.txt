@@ -1,0 +1,39 @@
+.. _xog:
+
+Soga
+----
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: xog
+    alternate_names:
+    - Olusoga
+    - Nholo (Lunholo)
+    - Tenga (Lutenga)
+    - Tembé (Lutembe)
+    - Siginyi
+    - Luuka
+    - Lulamoogi
+    - Lukono
+    - Lamogi (Lamoogi)
+    - Diope (Ludiope)
+    - Kigulu (Lukigulu)
+    - Gweri (Lugweri)
+    - Gabula (Lugabula)
+    - Lulamogi
+    - Siki (Lusiginyi)
+    anglicanized_name: Soga
+    country_codes:
+    - TZ
+    - UG
+    gateway_language: en
+    lang_code: xog
+    lang_direction: ltr
+    lang_name: Soga
+    lang_region: Africa
+    

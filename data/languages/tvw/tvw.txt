@@ -1,0 +1,26 @@
+.. _tvw:
+
+Sedoa
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: tvw
+    alternate_names:
+    - Baria
+    - Tawaelia
+    - Tawailia
+    - Topobaria
+    anglicanized_name: Sedoa
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: tvw
+    lang_direction: ltr
+    lang_name: Sedoa
+    lang_region: Asia
+    

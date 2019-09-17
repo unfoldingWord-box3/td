@@ -1,0 +1,46 @@
+.. _bbj:
+
+Ghomálá'
+----------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: bbj
+    alternate_names:
+    - Baloum
+    - Bamileke-Bandjoun
+    - Bandjoun
+    - Banjoun-Baham
+    - Banjun
+    - Batie
+    - Mahum
+    - Mandju
+    - Monjo
+    - We
+    - Te
+    - Sa
+    - Pa
+    - Ngemba (Bamenjou)
+    - Ghomálá' South (Dengkwop)
+    - Mugum
+    - Yogam
+    - Meka
+    - Lang
+    - Hom
+    - Ghomálá' North (Fusap)
+    - Ghomálá' Central (Baham)
+    - Fu'da
+    - Jo
+    anglicanized_name: Ghomálá’
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: bbj
+    lang_direction: ltr
+    lang_name: Ghomálá'
+    lang_region: Africa
+    

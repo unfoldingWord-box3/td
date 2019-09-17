@@ -1,0 +1,50 @@
+.. _si:
+
+සිංහල
+---------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/sin>`__ identifies this language as ``sin``.
+
+This language is spoken in the following countries:
+
+* LK: Sri Lanka
+* GB: United Kingdom of Great Britain and Northern Ireland
+* MY: Malaysia
+* OM: Oman
+* TH: Thailand
+* US: United States of America
+* CA: Canada
+* IT: Italy
+* MV: Maldives
+* SG: Singapore
+* QA: Qatar
+* AE: United Arab Emirates
+
+.. code-block:: yaml
+
+    ISO_639-3: sin
+    alternate_names:
+    - Cingalese
+    - Singhala
+    - Singhalese
+    - Chingalese
+    anglicanized_name: Sinhala, Sinhalese
+    country_codes:
+    - LK
+    - GB
+    - MY
+    - OM
+    - TH
+    - US
+    - CA
+    - IT
+    - MV
+    - SG
+    - QA
+    - AE
+    gateway_language: ta
+    lang_code: si
+    lang_direction: ltr
+    lang_name: සිංහල
+    lang_region: Asia
+    

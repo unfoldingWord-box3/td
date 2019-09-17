@@ -1,0 +1,25 @@
+.. _hds:
+
+Honduras Sign Language
+----------------------
+
+This language is spoken in the following countries:
+
+* HN: Honduras
+
+.. code-block:: yaml
+
+    ISO_639-3: hds
+    alternate_names:
+    - Honduran Sign Language
+    - Lengua de Señas Hondureñas
+    - LESHO
+    anglicanized_name: Honduras Sign Language
+    country_codes:
+    - HN
+    gateway_language: es-419
+    lang_code: hds
+    lang_direction: ltr
+    lang_name: Honduras Sign Language
+    lang_region: Americas
+    

@@ -1,0 +1,29 @@
+.. _mxc:
+
+Manyika
+-------
+
+This language is spoken in the following countries:
+
+* MZ: Mozambique
+* ZW: Zimbabwe
+
+.. code-block:: yaml
+
+    ISO_639-3: mxc
+    alternate_names:
+    - Manika
+    - Bamanyeka
+    - Wamanyika
+    - Wanyika
+    - Bocha (Boka)
+    anglicanized_name: Manyika
+    country_codes:
+    - MZ
+    - ZW
+    gateway_language: en
+    lang_code: mxc
+    lang_direction: ltr
+    lang_name: Manyika
+    lang_region: Africa
+    

@@ -1,0 +1,27 @@
+.. _byo:
+
+Biyo
+----
+
+This language is spoken in the following countries:
+
+* CN: China
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: byo
+    alternate_names:
+    - Bio
+    - Biyue
+    - Piyo
+    anglicanized_name: Biyo
+    country_codes:
+    - CN
+    - LA
+    gateway_language: zh
+    lang_code: byo
+    lang_direction: ltr
+    lang_name: Biyo
+    lang_region: Asia
+    

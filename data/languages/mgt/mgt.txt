@@ -1,0 +1,22 @@
+.. _mgt:
+
+Mongol
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mgt
+    alternate_names: []
+    anglicanized_name: Mongol
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mgt
+    lang_direction: ltr
+    lang_name: Mongol
+    lang_region: Pacific
+    

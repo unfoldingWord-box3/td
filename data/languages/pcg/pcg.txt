@@ -1,0 +1,25 @@
+.. _pcg:
+
+Paniya
+------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: pcg
+    alternate_names:
+    - Nil
+    - Paniyan
+    - Panyah
+    anglicanized_name: Paniya
+    country_codes:
+    - IN
+    gateway_language: ml
+    lang_code: pcg
+    lang_direction: ltr
+    lang_name: Paniya
+    lang_region: Asia
+    

@@ -1,0 +1,33 @@
+.. _zin:
+
+Zinza
+-----
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: zin
+    alternate_names:
+    - Dzinda
+    - Dzindza
+    - Echidzindza
+    - Echijinja
+    - Ecizinza
+    - Jinja
+    - Kizinza
+    - Omuchizinza
+    - Zinja
+    - Kula
+    - Longo
+    anglicanized_name: Zinza
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: zin
+    lang_direction: ltr
+    lang_name: Zinza
+    lang_region: Africa
+    

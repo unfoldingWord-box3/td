@@ -1,0 +1,24 @@
+.. _wep:
+
+Westphalien
+-----------
+
+This language is spoken in the following countries:
+
+* DE: Germany
+
+.. code-block:: yaml
+
+    ISO_639-3: wep
+    alternate_names:
+    - Westfaelisch
+    - Westfälisch
+    anglicanized_name: Westphalien
+    country_codes:
+    - DE
+    gateway_language: en
+    lang_code: wep
+    lang_direction: ltr
+    lang_name: Westphalien
+    lang_region: Europe
+    

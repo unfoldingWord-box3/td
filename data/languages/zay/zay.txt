@@ -1,0 +1,29 @@
+.. _zay:
+
+Zayse-Zergulla
+--------------
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: zay
+    alternate_names:
+    - Zaisse
+    - Zayse-Zergulla
+    - Zaysitè
+    - Zaysse
+    - Zergula
+    - Zergulla (Zargulla)
+    - Zergullinya
+    anglicanized_name: Zaysete
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: zay
+    lang_direction: ltr
+    lang_name: Zayse-Zergulla
+    lang_region: Africa
+    

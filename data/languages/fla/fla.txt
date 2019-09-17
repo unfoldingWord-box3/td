@@ -1,0 +1,26 @@
+.. _fla:
+
+Kalispel-Pend d'Oreille
+-----------------------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: fla
+    alternate_names:
+    - Salish
+    - Flathead-Kalispel
+    - Kalispel-Flathead
+    - Pend D'oreille
+    anglicanized_name: Kalispel-Pend d’Oreille
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: fla
+    lang_direction: ltr
+    lang_name: Kalispel-Pend d'Oreille
+    lang_region: Americas
+    

@@ -1,0 +1,24 @@
+.. _lko:
+
+Khayo
+-----
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: lko
+    alternate_names:
+    - Khayo
+    - Xaayo
+    anglicanized_name: Olukhayo
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: lko
+    lang_direction: ltr
+    lang_name: Khayo
+    lang_region: Africa
+    

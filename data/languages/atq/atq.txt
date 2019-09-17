@@ -1,0 +1,22 @@
+.. _atq:
+
+Aralle-Tabulahan
+----------------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: atq
+    alternate_names: []
+    anglicanized_name: Aralle-Tabulahan
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: atq
+    lang_direction: ltr
+    lang_name: Aralle-Tabulahan
+    lang_region: Asia
+    

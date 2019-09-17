@@ -1,0 +1,22 @@
+.. _kpe:
+
+Kpelle
+------
+
+This language is spoken in the following countries:
+
+* LR: Liberia
+
+.. code-block:: yaml
+
+    ISO_639-3: kpe
+    alternate_names: []
+    anglicanized_name: Kpelle
+    country_codes:
+    - LR
+    gateway_language: en
+    lang_code: kpe
+    lang_direction: ltr
+    lang_name: Kpelle
+    lang_region: Africa
+    

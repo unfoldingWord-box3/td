@@ -1,0 +1,32 @@
+.. _kgq:
+
+Kamoro
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kgq
+    alternate_names:
+    - Kamora
+    - Kaokonau
+    - Lakahia
+    - Mukamuga
+    - Nagramadu
+    - Nefarpi
+    - Neferipi
+    - Umar
+    - Umari
+    - Nanesa
+    anglicanized_name: Kamoro
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kgq
+    lang_direction: ltr
+    lang_name: Kamoro
+    lang_region: Asia
+    

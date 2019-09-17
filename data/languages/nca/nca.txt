@@ -1,0 +1,26 @@
+.. _nca:
+
+Iyo
+---
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: nca
+    alternate_names:
+    - Bure
+    - Nabu
+    - Naho
+    - Ndo
+    anglicanized_name: Iyo
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: nca
+    lang_direction: ltr
+    lang_name: Iyo
+    lang_region: Pacific
+    

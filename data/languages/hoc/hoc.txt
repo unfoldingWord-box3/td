@@ -1,0 +1,26 @@
+.. _hoc:
+
+Ho
+--
+
+This language is spoken in the following countries:
+
+* BD: Bangladesh
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: hoc
+    alternate_names:
+    - Bihar Ho
+    - Lanka Kol
+    anglicanized_name: Ho
+    country_codes:
+    - BD
+    - IN
+    gateway_language: hi
+    lang_code: hoc
+    lang_direction: ltr
+    lang_name: Ho
+    lang_region: Asia
+    

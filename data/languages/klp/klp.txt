@@ -1,0 +1,22 @@
+.. _klp:
+
+Kamasa
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: klp
+    alternate_names: []
+    anglicanized_name: Kamasa
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: klp
+    lang_direction: ltr
+    lang_name: Kamasa
+    lang_region: Pacific
+    

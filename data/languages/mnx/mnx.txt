@@ -1,0 +1,25 @@
+.. _mnx:
+
+Manikion
+--------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mnx
+    alternate_names:
+    - Mantion
+    - Sogh
+    - Sougb
+    anglicanized_name: Manikion
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mnx
+    lang_direction: ltr
+    lang_name: Manikion
+    lang_region: Asia
+    

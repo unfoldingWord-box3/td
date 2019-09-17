@@ -1,0 +1,28 @@
+.. _bnp:
+
+Bola
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bnp
+    alternate_names:
+    - Bakovi
+    - Bola-Bakovi
+    - Karua
+    - Mai
+    - Harua (Garua)
+    - Xarua
+    anglicanized_name: Bola
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bnp
+    lang_direction: ltr
+    lang_name: Bola
+    lang_region: Pacific
+    

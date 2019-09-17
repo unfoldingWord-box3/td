@@ -1,0 +1,29 @@
+.. _xau:
+
+Kauwera
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: xau
+    alternate_names:
+    - Kabera
+    - Kaowerawedj
+    - Kauwerawec
+    - Kauwerawetj
+    - Kawera
+    - Koassa
+    - Tekutameso
+    anglicanized_name: Kauwera
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: xau
+    lang_direction: ltr
+    lang_name: Kauwera
+    lang_region: Asia
+    

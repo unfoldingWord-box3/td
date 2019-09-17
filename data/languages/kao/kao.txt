@@ -1,0 +1,40 @@
+.. _kao:
+
+Xaasongaxango
+-------------
+
+This language is spoken in the following countries:
+
+* GM: Gambia
+* ML: Mali
+* SN: Senegal
+
+.. code-block:: yaml
+
+    ISO_639-3: kao
+    alternate_names:
+    - Kasonke
+    - Kasso
+    - Kasson
+    - Kassonke
+    - Khasonke
+    - Khassonka
+    - Khassonké
+    - Malinke
+    - Maninka
+    - Xaasonga
+    - Xasonga
+    - Xasonke
+    - Kéniéba Maninka
+    - Jahanka
+    anglicanized_name: Xaasongaxango
+    country_codes:
+    - GM
+    - ML
+    - SN
+    gateway_language: fr
+    lang_code: kao
+    lang_direction: ltr
+    lang_name: Xaasongaxango
+    lang_region: Africa
+    

@@ -1,0 +1,24 @@
+.. _mxg:
+
+Mbangala
+--------
+
+This language is spoken in the following countries:
+
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: mxg
+    alternate_names:
+    - Bangala
+    - Cimbangala
+    anglicanized_name: Mbangala
+    country_codes:
+    - AO
+    gateway_language: pt
+    lang_code: mxg
+    lang_direction: ltr
+    lang_name: Mbangala
+    lang_region: Africa
+    

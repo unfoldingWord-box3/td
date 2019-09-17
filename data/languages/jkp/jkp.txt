@@ -1,0 +1,31 @@
+.. _jkp:
+
+Paku Karen
+----------
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: jkp
+    alternate_names:
+    - Mogpha
+    - Mogwa
+    - Monebwa
+    - Monnepwa
+    - Mopaga
+    - Mopha
+    - Pagu
+    - Paku
+    - Thalwepwe
+    anglicanized_name: Karen, Paku
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: jkp
+    lang_direction: ltr
+    lang_name: Paku Karen
+    lang_region: Asia
+    

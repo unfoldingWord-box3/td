@@ -1,0 +1,30 @@
+.. _mpx:
+
+Misima-Panaeati
+---------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mpx
+    alternate_names:
+    - Misiman
+    - Misima-Paneati
+    - Panaeati
+    - Panaieti
+    - Panayeti
+    - Paneate
+    - Paneyate
+    - Nasikwabw (Tokunu)
+    anglicanized_name: Misima-Panaeati
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mpx
+    lang_direction: ltr
+    lang_name: Misima-Panaeati
+    lang_region: Pacific
+    

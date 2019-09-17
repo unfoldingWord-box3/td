@@ -1,0 +1,22 @@
+.. _sr-Latn:
+
+Serbian
+-------
+
+This language is spoken in the following countries:
+
+* RS: Serbia
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - RS
+    gateway_language: en
+    lang_code: sr-Latn
+    lang_direction: ltr
+    lang_name: Serbian
+    lang_region: Europe
+    

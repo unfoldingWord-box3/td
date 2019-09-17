@@ -1,0 +1,25 @@
+.. _awk:
+
+Awabakal
+--------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: awk
+    alternate_names:
+    - Awabagal
+    - Wonarua
+    - Cameeragal
+    anglicanized_name: Awabakal
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: awk
+    lang_direction: ltr
+    lang_name: Awabakal
+    lang_region: Pacific
+    

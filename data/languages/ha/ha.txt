@@ -1,0 +1,66 @@
+.. _ha:
+
+(Hausa) هَوُسَ
+--------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/hau>`__ identifies this language as ``hau``.
+
+This language is spoken in the following countries:
+
+* DZ: Algeria
+* BJ: Benin
+* CM: Cameroon
+* BF: Burkina Faso
+* CF: Central African Republic
+* GQ: Equatorial Guinea
+* ET: Ethiopia
+* GA: Gabon
+* GH: Ghana
+* NE: Niger
+* NG: Nigeria
+* SD: Sudan
+* TG: Togo
+* TD: Chad
+* CG: Congo
+* CA: Canada
+* GN: Guinea
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: hau
+    alternate_names:
+    - Haoussa
+    - Hawsa
+    - Hausawa
+    - Haussa
+    - Abakwariga
+    - Habe
+    - Kado
+    - Mgbakpa
+    anglicanized_name: Hausa
+    country_codes:
+    - DZ
+    - BJ
+    - CM
+    - BF
+    - CF
+    - GQ
+    - ET
+    - GA
+    - GH
+    - NE
+    - NG
+    - SD
+    - TG
+    - TD
+    - CG
+    - CA
+    - GN
+    gateway_language: null
+    lang_code: ha
+    lang_direction: ltr
+    lang_name: (Hausa) هَوُسَ
+    lang_region: Africa
+    

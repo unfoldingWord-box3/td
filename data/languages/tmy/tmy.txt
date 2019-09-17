@@ -1,0 +1,23 @@
+.. _tmy:
+
+Tami
+----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: tmy
+    alternate_names:
+    - Taemi
+    anglicanized_name: Tami
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: tmy
+    lang_direction: ltr
+    lang_name: Tami
+    lang_region: Pacific
+    

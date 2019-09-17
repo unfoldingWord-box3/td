@@ -1,0 +1,25 @@
+.. _iou:
+
+Tuma-Irumu
+----------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: iou
+    alternate_names:
+    - Irumu
+    - Tuma
+    - Upper Irumu
+    anglicanized_name: Tuma-Irumu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: iou
+    lang_direction: ltr
+    lang_name: Tuma-Irumu
+    lang_region: Pacific
+    

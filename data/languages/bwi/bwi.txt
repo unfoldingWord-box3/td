@@ -1,0 +1,31 @@
+.. _bwi:
+
+Baniwa
+------
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+* VE: Venezuela (Bolivarian Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: bwi
+    alternate_names:
+    - Baniba
+    - Baniua do Içana
+    - Baniva
+    - Dakenei
+    - Issana
+    - Kohoroxitari
+    - Maniba
+    anglicanized_name: Baniwa
+    country_codes:
+    - BR
+    - VE
+    gateway_language: pt
+    lang_code: bwi
+    lang_direction: ltr
+    lang_name: Baniwa
+    lang_region: Americas
+    

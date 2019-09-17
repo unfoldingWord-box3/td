@@ -1,0 +1,27 @@
+.. _lpo:
+
+里泼
+------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: lpo
+    alternate_names:
+    - Central Lisu
+    - Eastern Lisu
+    - Lolongo
+    - Eastern Lipo
+    - Western Lipo
+    anglicanized_name: Lipo
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: lpo
+    lang_direction: ltr
+    lang_name: 里泼
+    lang_region: Asia
+    

@@ -1,0 +1,31 @@
+.. _bru:
+
+Eastern Bru
+-----------
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: bru
+    alternate_names:
+    - Bru Tri
+    - Brou
+    - Quang Tri Bru
+    - Van Kieu
+    - Leun (Kaleu)
+    - Tri (Chali)
+    - So Trii
+    - So Tri
+    - Leung
+    anglicanized_name: Bru, Eastern
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: bru
+    lang_direction: ltr
+    lang_name: Eastern Bru
+    lang_region: Asia
+    

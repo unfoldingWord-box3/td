@@ -1,0 +1,25 @@
+.. _vkk:
+
+Kaur
+----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: vkk
+    alternate_names:
+    - Bintuhan
+    - Ka'ur
+    - Mulak
+    anglicanized_name: Kaur
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: vkk
+    lang_direction: ltr
+    lang_name: Kaur
+    lang_region: Asia
+    

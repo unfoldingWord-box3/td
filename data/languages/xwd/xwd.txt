@@ -1,0 +1,33 @@
+.. _xwd:
+
+Wadi Wadi
+---------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: xwd
+    alternate_names:
+    - Biangil
+    - Dacournditch
+    - Wathiwathi
+    - Wattewatte
+    - Watthiwatthi
+    - Watty-watty
+    - Withaija
+    - Woani
+    - Wohdi Wohdi
+    - Woonyi
+    - Wotti-wotti
+    anglicanized_name: Wadi Wadi
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: xwd
+    lang_direction: ltr
+    lang_name: Wadi Wadi
+    lang_region: Pacific
+    

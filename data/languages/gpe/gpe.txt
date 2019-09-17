@@ -1,0 +1,26 @@
+.. _gpe:
+
+Ghanaian Pidgin English
+-----------------------
+
+This language is spoken in the following countries:
+
+* GH: Ghana
+
+.. code-block:: yaml
+
+    ISO_639-3: gpe
+    alternate_names:
+    - Kroo Brofo
+    - Kru English
+    - Pidgin
+    - Pidgin English
+    anglicanized_name: Ghanaian Pidgin English
+    country_codes:
+    - GH
+    gateway_language: en
+    lang_code: gpe
+    lang_direction: ltr
+    lang_name: Ghanaian Pidgin English
+    lang_region: Africa
+    

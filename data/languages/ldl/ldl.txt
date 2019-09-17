@@ -1,0 +1,24 @@
+.. _ldl:
+
+Kããn
+--------
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ldl
+    alternate_names:
+    - Kan
+    - Libbo
+    anglicanized_name: Kaan
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ldl
+    lang_direction: ltr
+    lang_name: Kããn
+    lang_region: Africa
+    

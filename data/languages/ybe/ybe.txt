@@ -1,0 +1,30 @@
+.. _ybe:
+
+西部裕固语
+---------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: ybe
+    alternate_names:
+    - Sari Yogur
+    - Sarig
+    - Sarygh Uygur
+    - Sary-Uighur
+    - Ya Lu
+    - Yellow Uighur
+    - Yugu
+    - Yuku
+    anglicanized_name: Yugur, West
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: ybe
+    lang_direction: ltr
+    lang_name: 西部裕固语
+    lang_region: Asia
+    

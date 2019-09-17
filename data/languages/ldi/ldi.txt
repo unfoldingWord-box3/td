@@ -1,0 +1,29 @@
+.. _ldi:
+
+Laari
+-----
+
+This language is spoken in the following countries:
+
+* CG: Congo
+
+.. code-block:: yaml
+
+    ISO_639-3: ldi
+    alternate_names:
+    - Kilari
+    - Ladi
+    - Lari
+    - Ghaangala (Hangala)
+    - Laari de Kinkala
+    - Kighaangala
+    - Laari de Biiza
+    anglicanized_name: Laari
+    country_codes:
+    - CG
+    gateway_language: fr
+    lang_code: ldi
+    lang_direction: ltr
+    lang_name: Laari
+    lang_region: Africa
+    

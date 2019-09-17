@@ -1,0 +1,42 @@
+.. _kfi:
+
+Kannada Kurumba
+---------------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: kfi
+    alternate_names:
+    - Canarese
+    - Korambar
+    - Kuramwari
+    - Kuremban
+    - Kuruba
+    - Kuruban
+    - Kurubar
+    - Kurubas Kuruma
+    - Kuruman
+    - Kurumans
+    - Kurumar
+    - Kurumban
+    - Kurumbar
+    - Kurumbas
+    - Kurumvari
+    - Palu Kurumba
+    - Southern Nonstandard Kannada
+    - Dharmapuri
+    - Pudukottai
+    - Coimbatore
+    anglicanized_name: Kurumba, Kannada
+    country_codes:
+    - IN
+    gateway_language: ta
+    lang_code: kfi
+    lang_direction: ltr
+    lang_name: Kannada Kurumba
+    lang_region: Asia
+    

@@ -1,0 +1,26 @@
+.. _mog:
+
+Mongondow
+---------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mog
+    alternate_names:
+    - Bolang-Mogondo
+    - Minahassa
+    - Mongondou
+    - Passi
+    anglicanized_name: Mongondow
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mog
+    lang_direction: ltr
+    lang_name: Mongondow
+    lang_region: Asia
+    

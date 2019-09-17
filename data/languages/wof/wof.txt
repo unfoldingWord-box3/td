@@ -1,0 +1,22 @@
+.. _wof:
+
+Gambian Wolof
+-------------
+
+This language is spoken in the following countries:
+
+* GM: Gambia
+
+.. code-block:: yaml
+
+    ISO_639-3: wof
+    alternate_names: []
+    anglicanized_name: Wolof, Gambian
+    country_codes:
+    - GM
+    gateway_language: en
+    lang_code: wof
+    lang_direction: ltr
+    lang_name: Gambian Wolof
+    lang_region: Africa
+    

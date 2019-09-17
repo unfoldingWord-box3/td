@@ -1,0 +1,22 @@
+.. _mti:
+
+Maiwa (Papua New Guinea)
+------------------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mti
+    alternate_names: []
+    anglicanized_name: Maiwa
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: mti
+    lang_direction: ltr
+    lang_name: Maiwa (Papua New Guinea)
+    lang_region: Pacific
+    

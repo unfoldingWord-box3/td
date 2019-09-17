@@ -1,0 +1,22 @@
+.. _shm:
+
+Shahrudi
+--------
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: shm
+    alternate_names: []
+    anglicanized_name: Shahrudi
+    country_codes:
+    - IR
+    gateway_language: fa
+    lang_code: shm
+    lang_direction: ltr
+    lang_name: Shahrudi
+    lang_region: Asia
+    

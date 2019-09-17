@@ -1,0 +1,22 @@
+.. _naa:
+
+Namla
+-----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: naa
+    alternate_names: []
+    anglicanized_name: Namla
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: naa
+    lang_direction: ltr
+    lang_name: Namla
+    lang_region: Asia
+    

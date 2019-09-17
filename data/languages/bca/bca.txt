@@ -1,0 +1,31 @@
+.. _bca:
+
+白语
+------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: bca
+    alternate_names:
+    - Labbu
+    - Minchia
+    - Minkia
+    - Nama
+    - Pai
+    - Heqing
+    - Lanping
+    - Eryuan
+    - Yunlong
+    anglicanized_name: Bai, Central
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: bca
+    lang_direction: ltr
+    lang_name: 白语
+    lang_region: Asia
+    

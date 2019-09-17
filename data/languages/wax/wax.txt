@@ -1,0 +1,22 @@
+.. _wax:
+
+Watam
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: wax
+    alternate_names: []
+    anglicanized_name: Marangis
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: wax
+    lang_direction: ltr
+    lang_name: Watam
+    lang_region: Pacific
+    

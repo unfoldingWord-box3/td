@@ -1,0 +1,25 @@
+.. _xtm:
+
+Magdalena Peñasco Mixtec
+-------------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: xtm
+    alternate_names:
+    - San Agustín Tlacotepec Mixtec
+    - San Cristóbal Amoltepec Mixtec
+    - San Mateo Peñasco Mixtec
+    anglicanized_name: Mixtec, Magdalena Peñasco
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: xtm
+    lang_direction: ltr
+    lang_name: Magdalena Peñasco Mixtec
+    lang_region: Americas
+    

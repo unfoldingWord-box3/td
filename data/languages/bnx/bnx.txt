@@ -1,0 +1,26 @@
+.. _bnx:
+
+Bangubangu
+----------
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: bnx
+    alternate_names:
+    - Bangobango
+    - Kibangobango
+    - Nonda
+    - Sanzi
+    anglicanized_name: Bangubangu
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: bnx
+    lang_direction: ltr
+    lang_name: Bangubangu
+    lang_region: Africa
+    

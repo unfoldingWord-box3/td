@@ -1,0 +1,25 @@
+.. _ysd:
+
+撒慕
+------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: ysd
+    alternate_names:
+    - Samadu
+    - Samaduo
+    - Samou
+    anglicanized_name: Samatao
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: ysd
+    lang_direction: ltr
+    lang_name: 撒慕
+    lang_region: Asia
+    

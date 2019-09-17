@@ -1,0 +1,25 @@
+.. _une:
+
+Uneme
+-----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: une
+    alternate_names:
+    - Ileme
+    - Ineme
+    - Uleme
+    anglicanized_name: Uneme
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: une
+    lang_direction: ltr
+    lang_name: Uneme
+    lang_region: Africa
+    

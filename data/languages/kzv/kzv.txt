@@ -1,0 +1,22 @@
+.. _kzv:
+
+Komyandaret
+-----------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kzv
+    alternate_names: []
+    anglicanized_name: Komyandaret
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kzv
+    lang_direction: ltr
+    lang_name: Komyandaret
+    lang_region: Asia
+    

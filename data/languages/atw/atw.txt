@@ -1,0 +1,22 @@
+.. _atw:
+
+Atsugewi
+--------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: atw
+    alternate_names: []
+    anglicanized_name: Atsugewi
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: atw
+    lang_direction: ltr
+    lang_name: Atsugewi
+    lang_region: Americas
+    

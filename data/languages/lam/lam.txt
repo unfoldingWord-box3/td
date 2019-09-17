@@ -1,0 +1,26 @@
+.. _lam:
+
+Lamba
+-----
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: lam
+    alternate_names:
+    - Chilamba
+    - Ichilamba
+    anglicanized_name: Lamba
+    country_codes:
+    - ZM
+    - CD
+    gateway_language: en
+    lang_code: lam
+    lang_direction: ltr
+    lang_name: Lamba
+    lang_region: Africa
+    

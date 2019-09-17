@@ -1,0 +1,37 @@
+.. _ssc:
+
+Suba-Simbiti
+------------
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: ssc
+    alternate_names:
+    - Kisimbiti
+    - Kisuba
+    - Simbiti
+    - Kikine
+    - Kironi (Kikirone)
+    - Sweta (Kisweta)
+    - Surwa (Kisurwa)
+    - Ryeri
+    - Rieri (Rieri)
+    - Kine (Kiine)
+    - Hacha (Haacha)
+    - Kiiryege
+    - Kihacha
+    - Iryege (Iregi)
+    - Kiroba
+    anglicanized_name: Suba-Simbiti
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: ssc
+    lang_direction: ltr
+    lang_name: Suba-Simbiti
+    lang_region: Africa
+    

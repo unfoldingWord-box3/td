@@ -1,0 +1,154 @@
+.. _und:
+
+Undetermined
+------------
+
+This language is spoken in the following countries:
+
+* BS: Bahamas
+* BN: Brunei Darussalam
+* BJ: Benin
+* BA: Bosnia and Herzegovina
+* CM: Cameroon
+* BR: Brazil
+* BF: Burkina Faso
+* CF: Central African Republic
+* BB: Barbados
+* CN: China
+* BZ: Belize
+* BT: Bhutan
+* KM: Comoros
+* CY: Cyprus
+* DJ: Djibouti
+* GQ: Equatorial Guinea
+* ER: Eritrea
+* FJ: Fiji
+* AF: Afghanistan
+* GF: French Guiana
+* GA: Gabon
+* GM: Gambia
+* HT: Haiti
+* ID: Indonesia
+* IQ: Iraq
+* LA: Lao People's Democratic Republic
+* LB: Lebanon
+* LR: Liberia
+* MR: Mauritania
+* PE: Peru
+* AL: Albania
+* MK: North Macedonia
+* OM: Oman
+* NG: Nigeria
+* RW: Rwanda
+* SD: Sudan
+* SY: Syrian Arab Republic
+* ZA: South Africa
+* SN: Senegal
+* YE: Yemen
+* ZM: Zambia
+* CG: Congo
+* KH: Cambodia
+* AO: Angola
+* GE: Georgia
+* GN: Guinea
+* GW: Guinea-Bissau
+* KP: Korea (Democratic People's Republic of)
+* KW: Kuwait
+* LS: Lesotho
+* WS: Samoa
+* LU: Luxembourg
+* MW: Malawi
+* MV: Maldives
+* PG: Papua New Guinea
+* LC: Saint Lucia
+* SO: Somalia
+* SZ: Eswatini
+* VU: Vanuatu
+* MM: Myanmar
+* BH: Bahrain
+* BI: Burundi
+* BW: Botswana
+* QA: Qatar
+* SR: Suriname
+* AE: United Arab Emirates
+
+.. warning:: The gateway language is missing.
+
+.. code-block:: yaml
+
+    ISO_639-3: und
+    alternate_names: []
+    anglicanized_name: ''
+    country_codes:
+    - BS
+    - BN
+    - BJ
+    - BA
+    - CM
+    - BR
+    - BF
+    - CF
+    - BB
+    - CN
+    - BZ
+    - BT
+    - KM
+    - CY
+    - DJ
+    - GQ
+    - ER
+    - FJ
+    - AF
+    - GF
+    - GA
+    - GM
+    - HT
+    - ID
+    - IQ
+    - LA
+    - LB
+    - LR
+    - MR
+    - PE
+    - AL
+    - MK
+    - OM
+    - NG
+    - RW
+    - SD
+    - SY
+    - ZA
+    - SN
+    - YE
+    - ZM
+    - CG
+    - KH
+    - AO
+    - GE
+    - GN
+    - GW
+    - KP
+    - KW
+    - LS
+    - WS
+    - LU
+    - MW
+    - MV
+    - PG
+    - LC
+    - SO
+    - SZ
+    - VU
+    - MM
+    - BH
+    - BI
+    - BW
+    - QA
+    - SR
+    - AE
+    gateway_language: null
+    lang_code: und
+    lang_direction: ltr
+    lang_name: Undetermined
+    lang_region: Africa
+    

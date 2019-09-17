@@ -1,0 +1,25 @@
+.. _onr:
+
+Northern One
+------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: onr
+    alternate_names:
+    - Aunalei
+    - Onele
+    - Oni
+    anglicanized_name: One, Northern
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: onr
+    lang_direction: ltr
+    lang_name: Northern One
+    lang_region: Pacific
+    

@@ -1,0 +1,22 @@
+.. _tuy:
+
+Tugen
+-----
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: tuy
+    alternate_names: []
+    anglicanized_name: Tugen
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: tuy
+    lang_direction: ltr
+    lang_name: Tugen
+    lang_region: Africa
+    

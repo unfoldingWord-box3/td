@@ -1,0 +1,28 @@
+.. _gaw:
+
+Nobonob
+-------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: gaw
+    alternate_names:
+    - Butelkud-Guntabak
+    - Garuh
+    - Nobanob
+    - Nobnob
+    - Ari (A'i)
+    - Ati
+    anglicanized_name: Nobonob
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: gaw
+    lang_direction: ltr
+    lang_name: Nobonob
+    lang_region: Pacific
+    

@@ -1,0 +1,24 @@
+.. _mqc:
+
+Mangole
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: mqc
+    alternate_names:
+    - Mangoli
+    - Sula Mangoli
+    anglicanized_name: Mangole
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: mqc
+    lang_direction: ltr
+    lang_name: Mangole
+    lang_region: Asia
+    

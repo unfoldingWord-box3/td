@@ -1,0 +1,32 @@
+.. _mwn:
+
+Nyamwanga
+---------
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+* ZM: Zambia
+
+.. code-block:: yaml
+
+    ISO_639-3: mwn
+    alternate_names:
+    - Chinyamwanga
+    - Kinamwanga
+    - Kinyamwanga
+    - Mwanga
+    - Namwanga
+    - Ichinamwanga
+    - Inamwanga
+    - Tambo (Tembo)
+    anglicanized_name: Nyamwanga
+    country_codes:
+    - TZ
+    - ZM
+    gateway_language: en
+    lang_code: mwn
+    lang_direction: ltr
+    lang_name: Nyamwanga
+    lang_region: Africa
+    

@@ -1,0 +1,24 @@
+.. _thh:
+
+Northern Tarahumara
+-------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: thh
+    alternate_names:
+    - Arisiachi Tarahumara
+    - Tarahumara del Norte
+    anglicanized_name: Tarahumara, Northern
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: thh
+    lang_direction: ltr
+    lang_name: Northern Tarahumara
+    lang_region: Americas
+    

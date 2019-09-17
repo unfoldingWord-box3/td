@@ -1,0 +1,23 @@
+.. _bjz:
+
+Baruga
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bjz
+    alternate_names:
+    - Tafota Baruga
+    anglicanized_name: Baruga
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: bjz
+    lang_direction: ltr
+    lang_name: Baruga
+    lang_region: Pacific
+    

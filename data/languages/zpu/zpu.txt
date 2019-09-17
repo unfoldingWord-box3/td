@@ -1,0 +1,23 @@
+.. _zpu:
+
+Yalálag Zapotec
+----------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zpu
+    alternate_names:
+    - Zapoteco de Yalálag
+    anglicanized_name: Zapotec, Yalálag
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zpu
+    lang_direction: ltr
+    lang_name: Yalálag Zapotec
+    lang_region: Americas
+    

@@ -1,0 +1,29 @@
+.. _kfh:
+
+Kurichiya
+---------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: kfh
+    alternate_names:
+    - Kowohans
+    - Kurichchan
+    - Kurichchia
+    - Kurichiyars
+    - Kuruchans
+    - Kunnam
+    - Wayanad
+    anglicanized_name: Kurichiya
+    country_codes:
+    - IN
+    gateway_language: ml
+    lang_code: kfh
+    lang_direction: ltr
+    lang_name: Kurichiya
+    lang_region: Asia
+    

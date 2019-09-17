@@ -1,0 +1,24 @@
+.. _jii:
+
+Jiiddu
+------
+
+This language is spoken in the following countries:
+
+* SO: Somalia
+
+.. code-block:: yaml
+
+    ISO_639-3: jii
+    alternate_names:
+    - Af-Jiiddu
+    - Jiddu
+    anglicanized_name: Jiiddu
+    country_codes:
+    - SO
+    gateway_language: ar
+    lang_code: jii
+    lang_direction: ltr
+    lang_name: Jiiddu
+    lang_region: Africa
+    

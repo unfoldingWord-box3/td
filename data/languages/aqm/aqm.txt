@@ -1,0 +1,23 @@
+.. _aqm:
+
+Atohwaim
+--------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: aqm
+    alternate_names:
+    - Kaugat
+    anglicanized_name: Atohwaim
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: aqm
+    lang_direction: ltr
+    lang_name: Atohwaim
+    lang_region: Asia
+    

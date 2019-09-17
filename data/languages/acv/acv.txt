@@ -1,0 +1,24 @@
+.. _acv:
+
+Achumawi
+--------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: acv
+    alternate_names:
+    - Achomawi
+    - Pitt River
+    anglicanized_name: Achumawi
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: acv
+    lang_direction: ltr
+    lang_name: Achumawi
+    lang_region: Americas
+    

@@ -1,0 +1,27 @@
+.. _soz:
+
+Temi
+----
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: soz
+    alternate_names:
+    - GiTemi
+    - Kisonjo
+    - Kitemi
+    - Wasonjo
+    - Watemi
+    anglicanized_name: Temi
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: soz
+    lang_direction: ltr
+    lang_name: Temi
+    lang_region: Africa
+    

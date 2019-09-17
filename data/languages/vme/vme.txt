@@ -1,0 +1,23 @@
+.. _vme:
+
+East Masela
+-----------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: vme
+    alternate_names:
+    - East Marsela
+    anglicanized_name: Masela, East
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: vme
+    lang_direction: ltr
+    lang_name: East Masela
+    lang_region: Asia
+    

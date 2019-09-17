@@ -1,0 +1,22 @@
+.. _don:
+
+Toura (Papua New Guinea)
+------------------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: don
+    alternate_names: []
+    anglicanized_name: Toura
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: don
+    lang_direction: ltr
+    lang_name: Toura (Papua New Guinea)
+    lang_region: Pacific
+    

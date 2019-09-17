@@ -1,0 +1,22 @@
+.. _ywl:
+
+腊罗
+------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: ywl
+    alternate_names: []
+    anglicanized_name: Lalu, Western
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: ywl
+    lang_direction: ltr
+    lang_name: 腊罗
+    lang_region: Asia
+    

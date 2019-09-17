@@ -1,0 +1,28 @@
+.. _vai:
+
+Vai
+---
+
+This language is spoken in the following countries:
+
+* LR: Liberia
+* SL: Sierra Leone
+
+.. code-block:: yaml
+
+    ISO_639-3: vai
+    alternate_names:
+    - Gallinas
+    - Gallines
+    - Vei
+    - Vy
+    anglicanized_name: Vai
+    country_codes:
+    - LR
+    - SL
+    gateway_language: en
+    lang_code: vai
+    lang_direction: ltr
+    lang_name: Vai
+    lang_region: Africa
+    

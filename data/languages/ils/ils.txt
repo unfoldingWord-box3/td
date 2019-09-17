@@ -1,0 +1,24 @@
+.. _ils:
+
+International Sign
+------------------
+
+This language is spoken in the following countries:
+
+* IT: Italy
+
+.. code-block:: yaml
+
+    ISO_639-3: ils
+    alternate_names:
+    - Gestuno
+    - International Sign Language
+    anglicanized_name: International Sign
+    country_codes:
+    - IT
+    gateway_language: en
+    lang_code: ils
+    lang_direction: ltr
+    lang_name: International Sign
+    lang_region: Europe
+    

@@ -1,0 +1,22 @@
+.. _ixl:
+
+Ixil
+----
+
+This language is spoken in the following countries:
+
+* GT: Guatemala
+
+.. code-block:: yaml
+
+    ISO_639-3: ixl
+    alternate_names: []
+    anglicanized_name: Ixil
+    country_codes:
+    - GT
+    gateway_language: es-419
+    lang_code: ixl
+    lang_direction: ltr
+    lang_name: Ixil
+    lang_region: Americas
+    

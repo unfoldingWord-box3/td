@@ -1,0 +1,23 @@
+.. _sbw:
+
+Simba
+-----
+
+This language is spoken in the following countries:
+
+* GA: Gabon
+
+.. code-block:: yaml
+
+    ISO_639-3: sbw
+    alternate_names:
+    - Nsindak
+    anglicanized_name: Simba
+    country_codes:
+    - GA
+    gateway_language: fr
+    lang_code: sbw
+    lang_direction: ltr
+    lang_name: Simba
+    lang_region: Africa
+    

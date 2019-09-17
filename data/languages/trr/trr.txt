@@ -1,0 +1,24 @@
+.. _trr:
+
+Taushiro
+--------
+
+This language is spoken in the following countries:
+
+* PE: Peru
+
+.. code-block:: yaml
+
+    ISO_639-3: trr
+    alternate_names:
+    - Pinche
+    - Pinchi
+    anglicanized_name: Taushiro
+    country_codes:
+    - PE
+    gateway_language: es-419
+    lang_code: trr
+    lang_direction: ltr
+    lang_name: Taushiro
+    lang_region: Americas
+    

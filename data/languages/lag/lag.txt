@@ -1,0 +1,31 @@
+.. _lag:
+
+Langi
+-----
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: lag
+    alternate_names:
+    - Kilaangi
+    - Kilangi
+    - Kirangi
+    - Rangi
+    - Mondo
+    - Kondoa
+    - Kolo
+    - Busi
+    - Haubi
+    anglicanized_name: Langi
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: lag
+    lang_direction: ltr
+    lang_name: Langi
+    lang_region: Africa
+    

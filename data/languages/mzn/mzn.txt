@@ -1,0 +1,25 @@
+.. _mzn:
+
+زبان مازندرانی
+---------------------------
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: mzn
+    alternate_names:
+    - Gilaki
+    - Tabri
+    - Gorgani
+    anglicanized_name: Mazanderani
+    country_codes:
+    - IR
+    gateway_language: fa
+    lang_code: mzn
+    lang_direction: rtl
+    lang_name: زبان مازندرانی
+    lang_region: Asia
+    

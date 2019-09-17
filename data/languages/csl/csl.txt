@@ -1,0 +1,25 @@
+.. _csl:
+
+中国手语
+------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: csl
+    alternate_names:
+    - China Coast Pidgin
+    - Zhongguo Shouyu
+    - Southern Chinese Sign Language (Shanghai Sign Language)
+    anglicanized_name: Chinese Sign Language
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: csl
+    lang_direction: ltr
+    lang_name: 中国手语
+    lang_region: Asia
+    

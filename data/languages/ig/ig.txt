@@ -1,0 +1,37 @@
+.. _ig:
+
+Ásụ̀sụ̀ Ị̀gbò
+------------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ibo>`__ identifies this language as ``ibo``.
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* GQ: Equatorial Guinea
+* GH: Ghana
+* NG: Nigeria
+* US: United States of America
+* CA: Canada
+
+.. code-block:: yaml
+
+    ISO_639-3: ibo
+    alternate_names:
+    - Ibo
+    - Oka (Awka)
+    - Owerri (Isuama)
+    anglicanized_name: Igbo
+    country_codes:
+    - CM
+    - GQ
+    - GH
+    - NG
+    - US
+    - CA
+    gateway_language: en
+    lang_code: ig
+    lang_direction: ltr
+    lang_name: Ásụ̀sụ̀ Ị̀gbò
+    lang_region: Africa
+    

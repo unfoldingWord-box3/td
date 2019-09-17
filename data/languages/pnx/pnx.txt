@@ -1,0 +1,27 @@
+.. _pnx:
+
+Phong-Kniang
+------------
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+
+.. code-block:: yaml
+
+    ISO_639-3: pnx
+    alternate_names:
+    - Keneng
+    - Kenieng
+    - Khaniang
+    - Lao Phong
+    - Pong 3
+    anglicanized_name: Phong-Kniang
+    country_codes:
+    - LA
+    gateway_language: lo
+    lang_code: pnx
+    lang_direction: ltr
+    lang_name: Phong-Kniang
+    lang_region: Asia
+    

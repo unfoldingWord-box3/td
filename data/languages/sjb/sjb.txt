@@ -1,0 +1,24 @@
+.. _sjb:
+
+Sajau Basap
+-----------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: sjb
+    alternate_names:
+    - Sajau
+    - Sujau
+    anglicanized_name: Sajau Basap
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: sjb
+    lang_direction: ltr
+    lang_name: Sajau Basap
+    lang_region: Asia
+    

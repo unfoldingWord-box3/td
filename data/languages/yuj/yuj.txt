@@ -1,0 +1,23 @@
+.. _yuj:
+
+Karkar-Yuri
+-----------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: yuj
+    alternate_names:
+    - Karkar
+    anglicanized_name: Karkar-Yuri
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: yuj
+    lang_direction: ltr
+    lang_name: Karkar-Yuri
+    lang_region: Pacific
+    

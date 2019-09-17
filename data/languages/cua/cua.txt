@@ -1,0 +1,32 @@
+.. _cua:
+
+Tiếng Co
+----------
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: cua
+    alternate_names:
+    - Bòng Mieu
+    - Bong Miew
+    - Kor
+    - Tràu
+    - Traw (Dong)
+    - Dot
+    - Col
+    - Cor
+    - Kol (Co)
+    - Yot
+    anglicanized_name: Cua
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: cua
+    lang_direction: ltr
+    lang_name: Tiếng Co
+    lang_region: Asia
+    

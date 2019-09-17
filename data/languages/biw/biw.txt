@@ -1,0 +1,29 @@
+.. _biw:
+
+Kol (Cameroon)
+--------------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: biw
+    alternate_names:
+    - Bekol
+    - Bikele-Bikay
+    - Bikele-Bikeng
+    - Bikeng
+    - Kol North
+    - Kol South
+    - Bikele
+    anglicanized_name: Kol
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: biw
+    lang_direction: ltr
+    lang_name: Kol (Cameroon)
+    lang_region: Africa
+    

@@ -1,0 +1,23 @@
+.. _kty:
+
+Kango (Bas-Uélé District)
+---------------------------
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: kty
+    alternate_names:
+    - Likango
+    anglicanized_name: Kango
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: kty
+    lang_direction: ltr
+    lang_name: Kango (Bas-Uélé District)
+    lang_region: Africa
+    

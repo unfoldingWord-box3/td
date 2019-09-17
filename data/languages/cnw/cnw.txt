@@ -1,0 +1,25 @@
+.. _cnw:
+
+Ngawn Chin
+----------
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: cnw
+    alternate_names:
+    - Ngawn
+    - Ngon
+    - Ngorn
+    anglicanized_name: Chin, Ngawn
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: cnw
+    lang_direction: ltr
+    lang_name: Ngawn Chin
+    lang_region: Asia
+    

@@ -1,0 +1,30 @@
+.. _toi:
+
+Tonga (Zambia)
+--------------
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+* ZW: Zimbabwe
+
+.. code-block:: yaml
+
+    ISO_639-3: toi
+    alternate_names:
+    - Plateau Tonga
+    - Zambezi
+    - We (Valley Tonga)
+    - Shanjo (Sanjo)
+    - Toka (Southern Tonga)
+    - We
+    anglicanized_name: Tonga
+    country_codes:
+    - ZM
+    - ZW
+    gateway_language: en
+    lang_code: toi
+    lang_direction: ltr
+    lang_name: Tonga (Zambia)
+    lang_region: Africa
+    

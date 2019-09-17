@@ -1,0 +1,24 @@
+.. _hvc:
+
+Haitian Vodoun Culture Language
+-------------------------------
+
+This language is spoken in the following countries:
+
+* HT: Haiti
+
+.. code-block:: yaml
+
+    ISO_639-3: hvc
+    alternate_names:
+    - Langaj
+    - Langay
+    anglicanized_name: Haitian Vodoun Culture Language
+    country_codes:
+    - HT
+    gateway_language: fr
+    lang_code: hvc
+    lang_direction: ltr
+    lang_name: Haitian Vodoun Culture Language
+    lang_region: Americas
+    

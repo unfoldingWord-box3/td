@@ -1,0 +1,23 @@
+.. _dbg:
+
+Dogul Dom Dogon
+---------------
+
+This language is spoken in the following countries:
+
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: dbg
+    alternate_names:
+    - Dogul-Dom
+    anglicanized_name: Dogon, Dogul Dom
+    country_codes:
+    - ML
+    gateway_language: fr
+    lang_code: dbg
+    lang_direction: ltr
+    lang_name: Dogul Dom Dogon
+    lang_region: Africa
+    

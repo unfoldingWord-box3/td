@@ -1,0 +1,23 @@
+.. _wrl:
+
+Warlmanpa
+---------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: wrl
+    alternate_names:
+    - Walmala
+    anglicanized_name: Warlmanpa
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: wrl
+    lang_direction: ltr
+    lang_name: Warlmanpa
+    lang_region: Pacific
+    

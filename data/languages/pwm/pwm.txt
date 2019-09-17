@@ -1,0 +1,29 @@
+.. _pwm:
+
+Molbog
+------
+
+This language is spoken in the following countries:
+
+* MY: Malaysia
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: pwm
+    alternate_names:
+    - Balabak
+    - Molbog Palawan
+    - Balabac Island
+    - Banggi Island
+    - Southern Palawan
+    anglicanized_name: Molbog
+    country_codes:
+    - MY
+    - PH
+    gateway_language: en
+    lang_code: pwm
+    lang_direction: ltr
+    lang_name: Molbog
+    lang_region: Asia
+    

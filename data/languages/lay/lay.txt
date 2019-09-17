@@ -1,0 +1,24 @@
+.. _lay:
+
+Lama Bai
+--------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: lay
+    alternate_names:
+    - Lan-Bi Bai
+    - Northern Bai
+    anglicanized_name: Bai, Lama
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: lay
+    lang_direction: ltr
+    lang_name: Lama Bai
+    lang_region: Asia
+    

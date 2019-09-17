@@ -1,0 +1,27 @@
+.. _opa:
+
+Okpamheri
+---------
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: opa
+    alternate_names:
+    - Somorika
+    - Semolika
+    - Okulosho (Okurosho)
+    - Emhalhe (Emarle)
+    - Ibilo
+    anglicanized_name: Okpamheri
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: opa
+    lang_direction: ltr
+    lang_name: Okpamheri
+    lang_region: Africa
+    

@@ -1,0 +1,32 @@
+.. _lul:
+
+Olu'bo
+------
+
+This language is spoken in the following countries:
+
+* SS: South Sudan
+* SB: Solomon Islands
+* UG: Uganda
+
+.. code-block:: yaml
+
+    ISO_639-3: lul
+    alternate_names:
+    - Lolubo
+    - Luluba
+    - Lulubo
+    - Olubogo
+    - Oluboti
+    - Ondoe
+    anglicanized_name: Olu’bo
+    country_codes:
+    - SS
+    - SB
+    - UG
+    gateway_language: ar
+    lang_code: lul
+    lang_direction: ltr
+    lang_name: Olu'bo
+    lang_region: Africa
+    

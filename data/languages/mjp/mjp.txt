@@ -1,0 +1,26 @@
+.. _mjp:
+
+Malapandaram
+------------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: mjp
+    alternate_names:
+    - Hill Pantaram
+    - Malapantaram
+    - Malepantaram
+    - Pandaram Basha
+    anglicanized_name: Malapandaram
+    country_codes:
+    - IN
+    gateway_language: ml
+    lang_code: mjp
+    lang_direction: ltr
+    lang_name: Malapandaram
+    lang_region: Asia
+    

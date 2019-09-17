@@ -1,0 +1,23 @@
+.. _nks:
+
+North Asmat
+-----------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: nks
+    alternate_names:
+    - Keenok
+    anglicanized_name: Asmat, North
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: nks
+    lang_direction: ltr
+    lang_name: North Asmat
+    lang_region: Asia
+    

@@ -1,0 +1,22 @@
+.. _ser:
+
+Serrano
+-------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: ser
+    alternate_names: []
+    anglicanized_name: Serrano
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: ser
+    lang_direction: ltr
+    lang_name: Serrano
+    lang_region: Americas
+    

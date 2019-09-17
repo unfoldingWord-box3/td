@@ -1,0 +1,34 @@
+.. _bmq:
+
+Bomu
+----
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: bmq
+    alternate_names:
+    - Bobo Oule
+    - Boomu
+    - Bore
+    - Western Bobo Wule
+    - Bobo
+    - Bobo Wule
+    - Western Bobo Oule
+    - Western Bwamu
+    - Western Red
+    - Mao
+    anglicanized_name: Bomu
+    country_codes:
+    - BF
+    - ML
+    gateway_language: fr
+    lang_code: bmq
+    lang_direction: ltr
+    lang_name: Bomu
+    lang_region: Africa
+    

@@ -1,0 +1,23 @@
+.. _pps:
+
+San Luís Temalacayuca Popoloca
+-------------------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: pps
+    alternate_names:
+    - Popoloca de San Luis Temalacayuca
+    anglicanized_name: Popoloca, San Luís Temalacayuca
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: pps
+    lang_direction: ltr
+    lang_name: San Luís Temalacayuca Popoloca
+    lang_region: Americas
+    

@@ -1,0 +1,22 @@
+.. _wwo:
+
+Wetamut
+-------
+
+This language is spoken in the following countries:
+
+* VU: Vanuatu
+
+.. code-block:: yaml
+
+    ISO_639-3: wwo
+    alternate_names: []
+    anglicanized_name: Dorig
+    country_codes:
+    - VU
+    gateway_language: fr
+    lang_code: wwo
+    lang_direction: ltr
+    lang_name: Wetamut
+    lang_region: Pacific
+    

@@ -1,0 +1,23 @@
+.. _kkb:
+
+Kwerisa
+-------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: kkb
+    alternate_names:
+    - Taogwe
+    anglicanized_name: Kwerisa
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: kkb
+    lang_direction: ltr
+    lang_name: Kwerisa
+    lang_region: Asia
+    

@@ -1,0 +1,30 @@
+.. _wew:
+
+Wejewa
+------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: wew
+    alternate_names:
+    - Veveva
+    - Waidjewa
+    - Wajewa
+    - West Sumbanese
+    - Wewewa
+    - Wewjewa
+    - Weyewa
+    - Lauli (Loli)
+    anglicanized_name: Wejewa
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: wew
+    lang_direction: ltr
+    lang_name: Wejewa
+    lang_region: Asia
+    

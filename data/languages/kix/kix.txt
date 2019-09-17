@@ -1,0 +1,38 @@
+.. _kix:
+
+Khiamniungan Naga
+-----------------
+
+This language is spoken in the following countries:
+
+* IN: India
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: kix
+    alternate_names:
+    - Aoshedd
+    - Kalyokengnyu
+    - Khiamngan
+    - Khiamniungan
+    - Nokaw
+    - Tukhemmi
+    - Welam
+    - Makware
+    - Para
+    - Nokhu
+    - Noklak
+    - Ponso
+    - Thang
+    - Wolam
+    anglicanized_name: Naga, Khiamniungan
+    country_codes:
+    - IN
+    - MM
+    gateway_language: en
+    lang_code: kix
+    lang_direction: ltr
+    lang_name: Khiamniungan Naga
+    lang_region: Asia
+    

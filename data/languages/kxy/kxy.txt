@@ -1,0 +1,25 @@
+.. _kxy:
+
+Kayong
+------
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: kxy
+    alternate_names:
+    - Ca Giong
+    - Kagiuong
+    - Katang
+    anglicanized_name: Kayong
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: kxy
+    lang_direction: ltr
+    lang_name: Kayong
+    lang_region: Asia
+    

@@ -1,0 +1,26 @@
+.. _war:
+
+Waray (Philippines)
+-------------------
+
+This language is spoken in the following countries:
+
+* PH: Philippines
+
+.. code-block:: yaml
+
+    ISO_639-3: war
+    alternate_names:
+    - Binisaya
+    - Samaran
+    - Samareño
+    - Waray
+    anglicanized_name: Waray-Waray
+    country_codes:
+    - PH
+    gateway_language: en
+    lang_code: war
+    lang_direction: ltr
+    lang_name: Waray (Philippines)
+    lang_region: Asia
+    

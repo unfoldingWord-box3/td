@@ -1,0 +1,26 @@
+.. _nty:
+
+Mantsi
+------
+
+This language is spoken in the following countries:
+
+* VN: Viet Nam
+
+.. code-block:: yaml
+
+    ISO_639-3: nty
+    alternate_names:
+    - Black Lolo
+    - Flowery Lolo
+    - Lolo
+    - Red Mantsi
+    anglicanized_name: Mantsi
+    country_codes:
+    - VN
+    gateway_language: vi
+    lang_code: nty
+    lang_direction: ltr
+    lang_name: Mantsi
+    lang_region: Asia
+    

@@ -1,0 +1,24 @@
+.. _boh:
+
+Boma
+----
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: boh
+    alternate_names:
+    - Boma Kasai
+    - Buma
+    anglicanized_name: Boma
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: boh
+    lang_direction: ltr
+    lang_name: Boma
+    lang_region: Africa
+    

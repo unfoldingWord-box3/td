@@ -1,0 +1,24 @@
+.. _lbv:
+
+Lavatbura-Lamusong
+------------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: lbv
+    alternate_names:
+    - Lamasong
+    - Lamusong (Lamasong)
+    anglicanized_name: Lavatbura-Lamusong
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: lbv
+    lang_direction: ltr
+    lang_name: Lavatbura-Lamusong
+    lang_region: Pacific
+    

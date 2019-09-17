@@ -1,0 +1,25 @@
+.. _itx:
+
+Itik
+----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: itx
+    alternate_names:
+    - Betef
+    - Borto
+    - Ittik
+    anglicanized_name: Itik
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: itx
+    lang_direction: ltr
+    lang_name: Itik
+    lang_region: Asia
+    

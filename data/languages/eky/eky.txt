@@ -1,0 +1,33 @@
+.. _eky:
+
+Eastern Kayah
+-------------
+
+This language is spoken in the following countries:
+
+* TH: Thailand
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: eky
+    alternate_names:
+    - Karenni
+    - Karennyi
+    - Kayah Li
+    - Kayay
+    - Red Karen
+    - Kayah
+    - Yang Daeng
+    - Lower Eastern Kayah
+    - Upper Eastern Kayah
+    anglicanized_name: Kayah, Eastern
+    country_codes:
+    - TH
+    - MM
+    gateway_language: my
+    lang_code: eky
+    lang_direction: ltr
+    lang_name: Eastern Kayah
+    lang_region: Asia
+    

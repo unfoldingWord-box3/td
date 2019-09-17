@@ -1,0 +1,27 @@
+.. _mxy:
+
+Southeastern Nochixtlán Mixtec
+-------------------------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: mxy
+    alternate_names:
+    - Mixteco de Santo Domingo Nuxaá
+    - Mixteco del Sureste de Nochixtlán
+    - San Andrés Nuxiño Mixtec
+    - Santa Inés de Zaragoza Mixtec
+    - Santo Domingo Nuxaá Mixtec
+    anglicanized_name: Mixtec, Southeastern Nochixtlán
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: mxy
+    lang_direction: ltr
+    lang_name: Southeastern Nochixtlán Mixtec
+    lang_region: Americas
+    

@@ -1,0 +1,23 @@
+.. _npy:
+
+Napu
+----
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: npy
+    alternate_names:
+    - Pekurehua
+    anglicanized_name: Napu
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: npy
+    lang_direction: ltr
+    lang_name: Napu
+    lang_region: Asia
+    

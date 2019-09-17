@@ -1,0 +1,24 @@
+.. _hmh:
+
+Southwestern Huishui Hmong
+--------------------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: hmh
+    alternate_names:
+    - Miao
+    - Southwestern Huishui Hmong
+    anglicanized_name: Miao, Southwestern Huishui
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: hmh
+    lang_direction: ltr
+    lang_name: Southwestern Huishui Hmong
+    lang_region: Asia
+    

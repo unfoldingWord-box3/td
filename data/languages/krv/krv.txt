@@ -1,0 +1,24 @@
+.. _krv:
+
+Kavet
+-----
+
+This language is spoken in the following countries:
+
+* KH: Cambodia
+
+.. code-block:: yaml
+
+    ISO_639-3: krv
+    alternate_names:
+    - Khvek
+    - Kowet
+    anglicanized_name: Kavet
+    country_codes:
+    - KH
+    gateway_language: km
+    lang_code: krv
+    lang_direction: ltr
+    lang_name: Kavet
+    lang_region: Asia
+    

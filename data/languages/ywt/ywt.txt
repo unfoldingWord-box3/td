@@ -1,0 +1,27 @@
+.. _ywt:
+
+中腊罗语
+------------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: ywt
+    alternate_names:
+    - Lalo
+    - Lalopa
+    - Laluo
+    - Misapa
+    - Xishanba Lalo
+    anglicanized_name: Lalo, Central
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: ywt
+    lang_direction: ltr
+    lang_name: 中腊罗语
+    lang_region: Asia
+    

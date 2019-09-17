@@ -1,0 +1,23 @@
+.. _wgy:
+
+Warrgamay
+---------
+
+This language is spoken in the following countries:
+
+* AU: Australia
+
+.. code-block:: yaml
+
+    ISO_639-3: wgy
+    alternate_names:
+    - Biyay
+    anglicanized_name: Warrgamay
+    country_codes:
+    - AU
+    gateway_language: en
+    lang_code: wgy
+    lang_direction: ltr
+    lang_name: Warrgamay
+    lang_region: Pacific
+    

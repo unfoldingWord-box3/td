@@ -1,0 +1,44 @@
+.. _mug:
+
+Musgu
+-----
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: mug
+    alternate_names:
+    - Mousgou
+    - Mousgoun
+    - Munjuk
+    - Musgum
+    - Musuk
+    - Mouloui
+    - Mulwi
+    - Pouss
+    - Vulum (Mulwi-Mogroum)
+    - Vulum (Mulwi)
+    - Pus
+    - Muzuk (Mousgoum de Guirvidig)
+    - Muzuk (Guirvidig)
+    - Mpus (Mousgoum de Pouss)
+    - Mousgoum de Guirvidik
+    - Mousgoum de Guirvidig
+    - Maniling (Mani-Iling)
+    - Beege (Jafga)
+    - Musgum-Pouss
+    - Vlum
+    anglicanized_name: Musgu
+    country_codes:
+    - CM
+    - TD
+    gateway_language: fr
+    lang_code: mug
+    lang_direction: ltr
+    lang_name: Musgu
+    lang_region: Africa
+    

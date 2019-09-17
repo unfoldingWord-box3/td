@@ -1,0 +1,37 @@
+.. _bdm:
+
+Buduma
+------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* NE: Niger
+* NG: Nigeria
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: bdm
+    alternate_names:
+    - Boudouma
+    - Yadena
+    - Yedima
+    - Yedina
+    - Yedana
+    - Yidana
+    - Yidena
+    - Kouri
+    - Kuri (Kakaa)
+    anglicanized_name: Buduma
+    country_codes:
+    - CM
+    - NE
+    - NG
+    - TD
+    gateway_language: ar
+    lang_code: bdm
+    lang_direction: ltr
+    lang_name: Buduma
+    lang_region: Africa
+    

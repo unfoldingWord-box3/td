@@ -1,0 +1,63 @@
+.. _it:
+
+italiano
+--------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/ita>`__ identifies this language as ``ita``.
+
+This language is spoken in the following countries:
+
+* AT: Austria
+* BE: Belgium
+* BR: Brazil
+* FR: France
+* DE: Germany
+* MT: Malta
+* GB: United Kingdom of Great Britain and Northern Ireland
+* SM: San Marino
+* NC: New Caledonia
+* NZ: New Zealand
+* CH: Switzerland
+* SI: Slovenia
+* US: United States of America
+* AU: Australia
+* CA: Canada
+* MC: Monaco
+* IT: Italy
+* LI: Liechtenstein
+* LU: Luxembourg
+* PT: Portugal
+
+.. code-block:: yaml
+
+    ISO_639-3: ita
+    alternate_names:
+    - Italiano
+    anglicanized_name: Italian
+    country_codes:
+    - AT
+    - BE
+    - BR
+    - FR
+    - DE
+    - MT
+    - GB
+    - SM
+    - NC
+    - NZ
+    - CH
+    - SI
+    - US
+    - AU
+    - CA
+    - MC
+    - IT
+    - LI
+    - LU
+    - PT
+    gateway_language: en
+    lang_code: it
+    lang_direction: ltr
+    lang_name: italiano
+    lang_region: Europe
+    

@@ -1,0 +1,29 @@
+.. _ulm:
+
+Ulumanda'
+---------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+
+.. code-block:: yaml
+
+    ISO_639-3: ulm
+    alternate_names:
+    - Awo-Sumakuyu
+    - Botteng-Tappalang
+    - Kado
+    - Oeloemanda
+    - Tubbi
+    - Ulumandak
+    - Ulunda
+    anglicanized_name: Ulumanda’
+    country_codes:
+    - ID
+    gateway_language: id
+    lang_code: ulm
+    lang_direction: ltr
+    lang_name: Ulumanda'
+    lang_region: Asia
+    

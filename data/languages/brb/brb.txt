@@ -1,0 +1,37 @@
+.. _brb:
+
+Tiếng Brâu
+-------------
+
+This language is spoken in the following countries:
+
+* LA: Lao People's Democratic Republic
+* US: United States of America
+* KH: Cambodia
+
+.. code-block:: yaml
+
+    ISO_639-3: brb
+    alternate_names:
+    - Braou
+    - Brou
+    - Proue
+    - Brao
+    - Brau
+    - Rawe
+    - Lun
+    - Ombaa
+    - Ka-nying
+    - Jrii
+    - Hamong
+    anglicanized_name: Lave
+    country_codes:
+    - LA
+    - US
+    - KH
+    gateway_language: lo
+    lang_code: brb
+    lang_direction: ltr
+    lang_name: Tiếng Brâu
+    lang_region: Asia
+    

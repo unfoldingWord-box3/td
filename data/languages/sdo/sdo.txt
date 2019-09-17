@@ -1,0 +1,35 @@
+.. _sdo:
+
+Bukar-Sadung Bidayuh
+--------------------
+
+This language is spoken in the following countries:
+
+* ID: Indonesia
+* MY: Malaysia
+
+.. code-block:: yaml
+
+    ISO_639-3: sdo
+    alternate_names:
+    - Buka
+    - Bukar
+    - Bukar Sadung Bidayah
+    - Sabutan
+    - Sadong
+    - Serian
+    - Tebakang
+    - Sadung
+    - Bideyu
+    - Bukar Bidayuh (Bidayah)
+    - Bukar Sadung Bidayuh
+    anglicanized_name: Bidayuh, Bukar-Sadong
+    country_codes:
+    - ID
+    - MY
+    gateway_language: ms
+    lang_code: sdo
+    lang_direction: ltr
+    lang_name: Bukar-Sadung Bidayuh
+    lang_region: Asia
+    

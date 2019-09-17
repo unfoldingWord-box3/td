@@ -1,0 +1,25 @@
+.. _pcd:
+
+Picard
+------
+
+This language is spoken in the following countries:
+
+* FR: France
+
+.. code-block:: yaml
+
+    ISO_639-3: pcd
+    alternate_names:
+    - Chtimi
+    - Rouchi
+    - Amienois (Amies)
+    anglicanized_name: Picard
+    country_codes:
+    - FR
+    gateway_language: fr
+    lang_code: pcd
+    lang_direction: ltr
+    lang_name: Picard
+    lang_region: Europe
+    

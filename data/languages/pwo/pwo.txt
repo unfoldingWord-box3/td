@@ -1,0 +1,30 @@
+.. _pwo:
+
+Pwo Western Karen
+-----------------
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: pwo
+    alternate_names:
+    - Bassein Pwo Karen
+    - Delta Pwo Karen
+    - Mon Karen
+    - Mutheit
+    - Phlong
+    - Phlong Sho
+    - Pho
+    - Talaing Karen
+    anglicanized_name: Karen, Pwo Western
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: pwo
+    lang_direction: ltr
+    lang_name: Pwo Western Karen
+    lang_region: Asia
+    

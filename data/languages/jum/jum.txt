@@ -1,0 +1,25 @@
+.. _jum:
+
+Jumjum
+------
+
+This language is spoken in the following countries:
+
+* SD: Sudan
+
+.. code-block:: yaml
+
+    ISO_639-3: jum
+    alternate_names:
+    - Berin
+    - Olga
+    - Wadega
+    anglicanized_name: Jumjum
+    country_codes:
+    - SD
+    gateway_language: ar
+    lang_code: jum
+    lang_direction: ltr
+    lang_name: Jumjum
+    lang_region: Africa
+    

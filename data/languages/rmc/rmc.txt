@@ -1,0 +1,38 @@
+.. _rmc:
+
+Carpathian Romani
+-----------------
+
+This language is spoken in the following countries:
+
+* CY: Cyprus
+* HU: Hungary
+* GB: United Kingdom of Great Britain and Northern Ireland
+* CZ: Czechia
+* RO: Romania
+* PL: Poland
+* SK: Slovakia
+
+.. code-block:: yaml
+
+    ISO_639-3: rmc
+    alternate_names:
+    - Bashaldo
+    - Hungarian-Slovak Romani
+    - Romungro
+    - Selice Romani
+    anglicanized_name: Romani, Carpathian
+    country_codes:
+    - CY
+    - HU
+    - GB
+    - CZ
+    - RO
+    - PL
+    - SK
+    gateway_language: en
+    lang_code: rmc
+    lang_direction: ltr
+    lang_name: Carpathian Romani
+    lang_region: Europe
+    

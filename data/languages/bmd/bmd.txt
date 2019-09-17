@@ -1,0 +1,28 @@
+.. _bmd:
+
+Baga Manduri
+------------
+
+This language is spoken in the following countries:
+
+* GN: Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: bmd
+    alternate_names:
+    - Baka
+    - Maduri
+    - Mandari
+    - Mandore
+    - Mandori
+    - Manduri
+    anglicanized_name: Baga Manduri
+    country_codes:
+    - GN
+    gateway_language: fr
+    lang_code: bmd
+    lang_direction: ltr
+    lang_name: Baga Manduri
+    lang_region: Africa
+    

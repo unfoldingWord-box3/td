@@ -1,0 +1,22 @@
+.. _zen:
+
+Zenaga
+------
+
+This language is spoken in the following countries:
+
+* MR: Mauritania
+
+.. code-block:: yaml
+
+    ISO_639-3: zen
+    alternate_names: []
+    anglicanized_name: Zenaga
+    country_codes:
+    - MR
+    gateway_language: ar
+    lang_code: zen
+    lang_direction: ltr
+    lang_name: Zenaga
+    lang_region: Africa
+    

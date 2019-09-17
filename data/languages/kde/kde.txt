@@ -1,0 +1,49 @@
+.. _kde:
+
+Makonde
+-------
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+* MZ: Mozambique
+* TZ: Tanzania, United Republic of
+* YT: Mayotte
+
+.. code-block:: yaml
+
+    ISO_639-3: kde
+    alternate_names:
+    - Chimakonde
+    - Chinimakonde
+    - Cimakonde
+    - Konde
+    - Maconde
+    - Makonda
+    - Matambwe
+    - Shimakonde
+    - Kimakonde
+    - Matambe
+    - Mekwengo
+    - Mawia
+    - Vamwalu (Mwalu)
+    - Ndonde
+    - Vadonde (Donde)
+    - Vamwambe (Mwambe)
+    - Mavia
+    - Mabiha
+    - Kimawiha
+    - Vamakonde (Makonde)
+    - Maviha (Chimaviha)
+    anglicanized_name: Makonde
+    country_codes:
+    - KE
+    - MZ
+    - TZ
+    - YT
+    gateway_language: sw
+    lang_code: kde
+    lang_direction: ltr
+    lang_name: Makonde
+    lang_region: Africa
+    

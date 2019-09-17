@@ -1,0 +1,38 @@
+.. _jdt:
+
+Горско-еврейский
+-------------------------------
+
+This language is spoken in the following countries:
+
+* IL: Israel
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: jdt
+    alternate_names:
+    - Bik
+    - Dzhuhuric
+    - Jewish Tat
+    - Judeo-Tatic
+    - Juhur
+    - Juhuri
+    - Juwri
+    - Tati
+    - Hebrew Tat
+    - Lahji
+    - Mountain Jewish
+    - Musulman Tats
+    - South Tat
+    - North Tat
+    anglicanized_name: Judeo-Tat
+    country_codes:
+    - IL
+    - RU
+    gateway_language: ru
+    lang_code: jdt
+    lang_direction: ltr
+    lang_name: Горско-еврейский
+    lang_region: Europe
+    

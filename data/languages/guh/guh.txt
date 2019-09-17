@@ -1,0 +1,36 @@
+.. _guh:
+
+Guahibo
+-------
+
+This language is spoken in the following countries:
+
+* VE: Venezuela (Bolivarian Republic of)
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: guh
+    alternate_names:
+    - Goahibo
+    - Goahiva
+    - Guaigua
+    - Guayba
+    - Wahibo
+    - Sicuani
+    - Sikuani
+    - Hiwi
+    - Jiwi
+    - Amorua (Rio Tomo Guahibo)
+    - Guahibo (Sikuani)
+    - Vichadeño
+    anglicanized_name: Guahibo
+    country_codes:
+    - VE
+    - CO
+    gateway_language: es-419
+    lang_code: guh
+    lang_direction: ltr
+    lang_name: Guahibo
+    lang_region: Americas
+    

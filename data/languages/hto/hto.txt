@@ -1,0 +1,24 @@
+.. _hto:
+
+Minica Huitoto
+--------------
+
+This language is spoken in the following countries:
+
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: hto
+    alternate_names:
+    - Meneca
+    - Minica
+    anglicanized_name: Huitoto, Minica
+    country_codes:
+    - CO
+    gateway_language: es-419
+    lang_code: hto
+    lang_direction: ltr
+    lang_name: Minica Huitoto
+    lang_region: Americas
+    

@@ -1,0 +1,67 @@
+.. _arz:
+
+اللغه المصريه العاميه
+----------------------------------------
+
+This language is spoken in the following countries:
+
+* DZ: Algeria
+* BE: Belgium
+* FR: France
+* DE: Germany
+* IQ: Iraq
+* IL: Israel
+* ES: Spain
+* GB: United Kingdom of Great Britain and Northern Ireland
+* OM: Oman
+* SA: Saudi Arabia
+* SD: Sudan
+* US: United States of America
+* YE: Yemen
+* AU: Australia
+* JO: Jordan
+* IT: Italy
+* KW: Kuwait
+* LY: Libya
+* EG: Egypt
+* QA: Qatar
+* AE: United Arab Emirates
+
+.. code-block:: yaml
+
+    ISO_639-3: arz
+    alternate_names:
+    - Lower Egypt Arabic
+    - Masri
+    - Massry
+    - Normal Egyptian Arabic
+    - South Central Delta Arabic
+    anglicanized_name: Arabic, Egyptian Spoken
+    country_codes:
+    - DZ
+    - BE
+    - FR
+    - DE
+    - IQ
+    - IL
+    - ES
+    - GB
+    - OM
+    - SA
+    - SD
+    - US
+    - YE
+    - AU
+    - JO
+    - IT
+    - KW
+    - LY
+    - EG
+    - QA
+    - AE
+    gateway_language: ar
+    lang_code: arz
+    lang_direction: rtl
+    lang_name: اللغه المصريه العاميه
+    lang_region: Africa
+    

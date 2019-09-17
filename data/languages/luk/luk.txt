@@ -1,0 +1,24 @@
+.. _luk:
+
+Lunanakha
+---------
+
+This language is spoken in the following countries:
+
+* BT: Bhutan
+
+.. warning:: The gateway language is not valid.
+
+.. code-block:: yaml
+
+    ISO_639-3: luk
+    alternate_names: []
+    anglicanized_name: Lunanakha
+    country_codes:
+    - BT
+    gateway_language: dz
+    lang_code: luk
+    lang_direction: ltr
+    lang_name: Lunanakha
+    lang_region: Asia
+    

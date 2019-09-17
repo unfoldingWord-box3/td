@@ -1,0 +1,22 @@
+.. _ur-Deva:
+
+Urdu Devanagari script
+----------------------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: UNKNOWN
+    alternate_names: []
+    anglicanized_name: Urdu Devanagari script
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: ur-Deva
+    lang_direction: ltr
+    lang_name: Urdu Devanagari script
+    lang_region: Asia
+    

@@ -1,0 +1,27 @@
+.. _zpo:
+
+Amatlán Zapotec
+----------------
+
+This language is spoken in the following countries:
+
+* MX: Mexico
+
+.. code-block:: yaml
+
+    ISO_639-3: zpo
+    alternate_names:
+    - Dizhze
+    - Zapoteco de San Cristóbal Amatlán
+    - Zapoteco del Noreste de Miahuatlán
+    - San Cristóbal Amatlán
+    - San Francisco Logueche
+    anglicanized_name: Zapotec, Amatlán
+    country_codes:
+    - MX
+    gateway_language: es-419
+    lang_code: zpo
+    lang_direction: ltr
+    lang_name: Amatlán Zapotec
+    lang_region: Americas
+    

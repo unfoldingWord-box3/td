@@ -1,0 +1,26 @@
+.. _kwa:
+
+Dâw
+----
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: kwa
+    alternate_names:
+    - Dow
+    - Kamã
+    - Kamã Makú
+    - Kamu Maku
+    anglicanized_name: Dâw
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: kwa
+    lang_direction: ltr
+    lang_name: Dâw
+    lang_region: Americas
+    

@@ -1,0 +1,24 @@
+.. _wgi:
+
+Wahgi
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: wgi
+    alternate_names:
+    - Kup-Minj (Kumai)
+    - Mid-Wahgi
+    anglicanized_name: Wahgi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: wgi
+    lang_direction: ltr
+    lang_name: Wahgi
+    lang_region: Pacific
+    

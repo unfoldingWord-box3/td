@@ -1,0 +1,27 @@
+.. _ylo:
+
+纳罗
+------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: ylo
+    alternate_names:
+    - Gan Yi
+    - Laluo
+    - Naruo
+    - Shui Yi
+    - Shuitian
+    anglicanized_name: Naluo
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: ylo
+    lang_direction: ltr
+    lang_name: 纳罗
+    lang_region: Asia
+    

@@ -1,0 +1,28 @@
+.. _gym:
+
+Ngäbere
+--------
+
+This language is spoken in the following countries:
+
+* PA: Panama
+* CR: Costa Rica
+
+.. code-block:: yaml
+
+    ISO_639-3: gym
+    alternate_names:
+    - Guaymí
+    - Chiriqui
+    - Eastern Guaymí (Chiriquí)
+    - Tolé
+    anglicanized_name: Ngäbere
+    country_codes:
+    - PA
+    - CR
+    gateway_language: es-419
+    lang_code: gym
+    lang_direction: ltr
+    lang_name: Ngäbere
+    lang_region: Americas
+    

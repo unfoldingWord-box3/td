@@ -1,0 +1,23 @@
+.. _dug:
+
+Duruma
+------
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: dug
+    alternate_names:
+    - Wanyika
+    anglicanized_name: Chiduruma
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: dug
+    lang_direction: ltr
+    lang_name: Duruma
+    lang_region: Africa
+    

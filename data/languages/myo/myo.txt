@@ -1,0 +1,23 @@
+.. _myo:
+
+Anfillo
+-------
+
+This language is spoken in the following countries:
+
+* ET: Ethiopia
+
+.. code-block:: yaml
+
+    ISO_639-3: myo
+    alternate_names:
+    - Southern Mao
+    anglicanized_name: Anfillo
+    country_codes:
+    - ET
+    gateway_language: am
+    lang_code: myo
+    lang_direction: ltr
+    lang_name: Anfillo
+    lang_region: Africa
+    

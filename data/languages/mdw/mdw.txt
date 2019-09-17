@@ -1,0 +1,25 @@
+.. _mdw:
+
+Mbosi
+-----
+
+This language is spoken in the following countries:
+
+* CG: Congo
+
+.. code-block:: yaml
+
+    ISO_639-3: mdw
+    alternate_names:
+    - Embosi
+    - Mboshe
+    - Mboshi
+    anglicanized_name: Mbosi
+    country_codes:
+    - CG
+    gateway_language: fr
+    lang_code: mdw
+    lang_direction: ltr
+    lang_name: Mbosi
+    lang_region: Africa
+    

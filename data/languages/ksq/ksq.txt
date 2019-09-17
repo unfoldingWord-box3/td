@@ -1,0 +1,27 @@
+.. _ksq:
+
+Kwaami
+------
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ksq
+    alternate_names:
+    - Komawa
+    - Kwam
+    - Kwamanchi
+    - Kwami
+    - Kwom
+    anglicanized_name: Kwaami
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ksq
+    lang_direction: ltr
+    lang_name: Kwaami
+    lang_region: Africa
+    

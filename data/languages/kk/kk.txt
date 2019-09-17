@@ -1,0 +1,56 @@
+.. _kk:
+
+қазақ тілі
+-------------------
+
+.. note:: The `Ethnologue <https://www.ethnologue.com/language/kaz>`__ identifies this language as ``kaz``.
+
+This language is spoken in the following countries:
+
+* AZ: Azerbaijan
+* CN: China
+* DE: Germany
+* IR: Iran (Islamic Republic of)
+* KZ: Kazakhstan
+* MN: Mongolia
+* TJ: Tajikistan
+* TR: Turkey
+* US: United States of America
+* CA: Canada
+* KG: Kyrgyzstan
+* TM: Turkmenistan
+* UZ: Uzbekistan
+
+.. code-block:: yaml
+
+    ISO_639-3: kaz
+    alternate_names:
+    - Hazake
+    - Kazax
+    - Gazaqi
+    - Kazakhi
+    - Kaisak
+    - Kosach
+    - Qazaq
+    - Qazaqi
+    anglicanized_name: Kazakh
+    country_codes:
+    - AZ
+    - CN
+    - DE
+    - IR
+    - KZ
+    - MN
+    - TJ
+    - TR
+    - US
+    - CA
+    - KG
+    - TM
+    - UZ
+    gateway_language: ru
+    lang_code: kk
+    lang_direction: ltr
+    lang_name: қазақ тілі
+    lang_region: Asia
+    

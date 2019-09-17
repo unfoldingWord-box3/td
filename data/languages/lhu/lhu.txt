@@ -1,0 +1,58 @@
+.. _lhu:
+
+拉祜语
+---------
+
+This language is spoken in the following countries:
+
+* CN: China
+* LA: Lao People's Democratic Republic
+* TH: Thailand
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: lhu
+    alternate_names:
+    - Kaixien
+    - Kucong
+    - Kutsong
+    - Lahuna
+    - Laku
+    - Lohei
+    - Moso
+    - Muhso
+    - Mussar
+    - Musso
+    - Mussuh
+    - Namen
+    - Museu
+    - Launa
+    - Muhsur
+    - Musser
+    - Mooso
+    - Musser Dam
+    - Southern Lahu
+    - Red Lahu
+    - Nyi (Musseh Daeng)
+    - Nyi (Musse Daeng)
+    - Nyi (Luhishi)
+    - Na (Black Lahu)
+    - Musseh Daeng
+    - Luhushi
+    - Loheirn
+    - Lahu Phung (White Lahu)
+    - Khucong
+    - Northern Lahu
+    anglicanized_name: Lahu
+    country_codes:
+    - CN
+    - LA
+    - TH
+    - MM
+    gateway_language: zh
+    lang_code: lhu
+    lang_direction: ltr
+    lang_name: 拉祜语
+    lang_region: Asia
+    

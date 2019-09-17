@@ -1,0 +1,25 @@
+.. _vam:
+
+Vanimo
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: vam
+    alternate_names:
+    - Duso
+    - Manimo
+    - Wanimo
+    anglicanized_name: Vanimo
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: vam
+    lang_direction: ltr
+    lang_name: Vanimo
+    lang_region: Pacific
+    

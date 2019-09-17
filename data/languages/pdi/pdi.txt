@@ -1,0 +1,23 @@
+.. _pdi:
+
+Pa Di
+-----
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: pdi
+    alternate_names:
+    - Padi
+    anglicanized_name: Pa Di
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: pdi
+    lang_direction: ltr
+    lang_name: Pa Di
+    lang_region: Asia
+    

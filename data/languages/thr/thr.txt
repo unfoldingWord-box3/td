@@ -1,0 +1,23 @@
+.. _thr:
+
+Rana Tharu
+----------
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: thr
+    alternate_names:
+    - Rana Thakur
+    anglicanized_name: Tharu, Rana
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: thr
+    lang_direction: ltr
+    lang_name: Rana Tharu
+    lang_region: Asia
+    

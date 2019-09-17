@@ -1,0 +1,22 @@
+.. _kxr:
+
+Koro (Papua New Guinea)
+-----------------------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: kxr
+    alternate_names: []
+    anglicanized_name: Koro
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: kxr
+    lang_direction: ltr
+    lang_name: Koro (Papua New Guinea)
+    lang_region: Pacific
+    

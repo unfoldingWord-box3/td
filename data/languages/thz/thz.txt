@@ -1,0 +1,32 @@
+.. _thz:
+
+Tayart Tamajeq
+--------------
+
+This language is spoken in the following countries:
+
+* NE: Niger
+
+.. code-block:: yaml
+
+    ISO_639-3: thz
+    alternate_names:
+    - Amazigh
+    - Tamachek
+    - Tomacheck
+    - Touareg
+    - Tuareg
+    - Tayert
+    - Air (Agadez)
+    - Tamestayert
+    - Tanassfarwat (Tamagarast)
+    - Tayart
+    anglicanized_name: Tamajeq, Tayart
+    country_codes:
+    - NE
+    gateway_language: fr
+    lang_code: thz
+    lang_direction: ltr
+    lang_name: Tayart Tamajeq
+    lang_region: Africa
+    

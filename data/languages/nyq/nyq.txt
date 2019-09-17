@@ -1,0 +1,25 @@
+.. _nyq:
+
+زبان نائینی
+---------------------
+
+This language is spoken in the following countries:
+
+* IR: Iran (Islamic Republic of)
+
+.. code-block:: yaml
+
+    ISO_639-3: nyq
+    alternate_names:
+    - Biyabanak
+    - Khuri
+    - Anarak
+    anglicanized_name: Nayini
+    country_codes:
+    - IR
+    gateway_language: fa
+    lang_code: nyq
+    lang_direction: ltr
+    lang_name: زبان نائینی
+    lang_region: Asia
+    

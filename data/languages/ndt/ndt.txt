@@ -1,0 +1,26 @@
+.. _ndt:
+
+Ndunga
+------
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: ndt
+    alternate_names:
+    - Bondonga
+    - Modunga
+    - Mondugu
+    - Mondunga
+    anglicanized_name: Ndunga
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: ndt
+    lang_direction: ltr
+    lang_name: Ndunga
+    lang_region: Africa
+    

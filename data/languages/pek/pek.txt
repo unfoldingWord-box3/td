@@ -1,0 +1,22 @@
+.. _pek:
+
+Penchal
+-------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: pek
+    alternate_names: []
+    anglicanized_name: Penchal
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: pek
+    lang_direction: ltr
+    lang_name: Penchal
+    lang_region: Pacific
+    

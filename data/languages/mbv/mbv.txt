@@ -1,0 +1,28 @@
+.. _mbv:
+
+Mbulungish
+----------
+
+This language is spoken in the following countries:
+
+* GN: Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: mbv
+    alternate_names:
+    - Baga Foré
+    - Baga Monson
+    - Black Baga
+    - Bulunits
+    - Longich
+    - Monshon
+    anglicanized_name: Mbulungish
+    country_codes:
+    - GN
+    gateway_language: fr
+    lang_code: mbv
+    lang_direction: ltr
+    lang_name: Mbulungish
+    lang_region: Africa
+    

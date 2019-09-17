@@ -1,0 +1,26 @@
+.. _old:
+
+Mochi
+-----
+
+This language is spoken in the following countries:
+
+* TZ: Tanzania, United Republic of
+
+.. code-block:: yaml
+
+    ISO_639-3: old
+    alternate_names:
+    - Kimochi
+    - Kimoshi
+    - Moshi
+    - Mosi
+    anglicanized_name: Mochi
+    country_codes:
+    - TZ
+    gateway_language: sw
+    lang_code: old
+    lang_direction: ltr
+    lang_name: Mochi
+    lang_region: Africa
+    

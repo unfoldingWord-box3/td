@@ -1,0 +1,28 @@
+.. _gud:
+
+Yocoboué Dida
+--------------
+
+This language is spoken in the following countries:
+
+* CI: C�te d'Ivoire
+
+.. code-block:: yaml
+
+    ISO_639-3: gud
+    alternate_names:
+    - Lozoua (Gakpa)
+    - Yocoboue
+    - Yokouboué
+    - Goudou
+    - Guitry
+    - Kagoué
+    anglicanized_name: Dida, Yocoboué
+    country_codes:
+    - CI
+    gateway_language: fr
+    lang_code: gud
+    lang_direction: ltr
+    lang_name: Yocoboué Dida
+    lang_region: Africa
+    

@@ -1,0 +1,30 @@
+.. _kra:
+
+Kumhali
+-------
+
+This language is spoken in the following countries:
+
+* NP: Nepal
+
+.. code-block:: yaml
+
+    ISO_639-3: kra
+    alternate_names:
+    - Kumali
+    - Kumbale
+    - Kumhale
+    - Kumkale
+    - Gorkha
+    - Nawalparasi
+    - Palpa
+    - Arghakhanchi
+    anglicanized_name: Kumhali
+    country_codes:
+    - NP
+    gateway_language: ne
+    lang_code: kra
+    lang_direction: ltr
+    lang_name: Kumhali
+    lang_region: Asia
+    

@@ -1,0 +1,24 @@
+.. _nbd:
+
+Ngbinda
+-------
+
+This language is spoken in the following countries:
+
+* CD: Congo, Democratic Republic of the
+
+.. code-block:: yaml
+
+    ISO_639-3: nbd
+    alternate_names:
+    - Bangbinda
+    - Bungbinda
+    anglicanized_name: Ngbinda
+    country_codes:
+    - CD
+    gateway_language: fr
+    lang_code: nbd
+    lang_direction: ltr
+    lang_name: Ngbinda
+    lang_region: Africa
+    

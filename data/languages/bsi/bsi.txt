@@ -1,0 +1,32 @@
+.. _bsi:
+
+Bassossi
+--------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+
+.. code-block:: yaml
+
+    ISO_639-3: bsi
+    alternate_names:
+    - Asobse
+    - Basosi
+    - Basossi
+    - Ngen
+    - Nsose
+    - Nswase
+    - Nswose
+    - Sosi
+    - Swose
+    - Mienge (Lower Mbo)
+    anglicanized_name: Bassossi
+    country_codes:
+    - CM
+    gateway_language: fr
+    lang_code: bsi
+    lang_direction: ltr
+    lang_name: Bassossi
+    lang_region: Africa
+    

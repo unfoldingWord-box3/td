@@ -1,0 +1,29 @@
+.. _ifm:
+
+Teke-Fuumu
+----------
+
+This language is spoken in the following countries:
+
+* CG: Congo
+
+.. code-block:: yaml
+
+    ISO_639-3: ifm
+    alternate_names:
+    - Kiteke
+    - South Central Teke
+    - Teke du Pool
+    - Wuumu (Iwuumu)
+    - Wumbu
+    - Fuumu (Ifuumu)
+    - Mfumu
+    anglicanized_name: Teke-Fuumu
+    country_codes:
+    - CG
+    gateway_language: fr
+    lang_code: ifm
+    lang_direction: ltr
+    lang_name: Teke-Fuumu
+    lang_region: Africa
+    

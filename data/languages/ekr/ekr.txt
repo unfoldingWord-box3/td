@@ -1,0 +1,25 @@
+.. _ekr:
+
+Yace
+----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ekr
+    alternate_names:
+    - Ekpari
+    - Iyace
+    - Yatye
+    anglicanized_name: Yace
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ekr
+    lang_direction: ltr
+    lang_name: Yace
+    lang_region: Africa
+    

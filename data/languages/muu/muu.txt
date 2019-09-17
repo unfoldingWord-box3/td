@@ -1,0 +1,32 @@
+.. _muu:
+
+Yaaku
+-----
+
+This language is spoken in the following countries:
+
+* KE: Kenya
+
+.. code-block:: yaml
+
+    ISO_639-3: muu
+    alternate_names:
+    - Mogogodo
+    - Mukogodo
+    - Mukoquodo
+    - Siegu
+    - Yaakua
+    - Yiaku
+    - Ndorobo
+    - Ntorobo
+    - Palaung
+    - Shwe
+    anglicanized_name: Yaaku
+    country_codes:
+    - KE
+    gateway_language: sw
+    lang_code: muu
+    lang_direction: ltr
+    lang_name: Yaaku
+    lang_region: Africa
+    

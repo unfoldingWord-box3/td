@@ -1,0 +1,30 @@
+.. _imo:
+
+Imbongu
+-------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: imo
+    alternate_names:
+    - Au
+    - Aua
+    - Awa
+    - Ibo Ugu
+    - Imbo Ungo
+    - Imbo Ungu
+    - Imbonggo
+    - Awa (Au)
+    anglicanized_name: Imbongu
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: imo
+    lang_direction: ltr
+    lang_name: Imbongu
+    lang_region: Pacific
+    

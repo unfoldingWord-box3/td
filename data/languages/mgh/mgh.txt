@@ -1,0 +1,44 @@
+.. _mgh:
+
+Makhuwa-Meetto
+--------------
+
+This language is spoken in the following countries:
+
+* KM: Comoros
+* MZ: Mozambique
+* TZ: Tanzania, United Republic of
+* ZW: Zimbabwe
+* YT: Mayotte
+
+.. code-block:: yaml
+
+    ISO_639-3: mgh
+    alternate_names:
+    - Emeto
+    - Imeetto
+    - Meto
+    - Mêto
+    - Metto
+    - Imakua
+    - Kimakua
+    - Makhua
+    - Makoa
+    - Makua
+    - Makuwa
+    - Maquoua
+    - Mato
+    - Medo (Emeto)
+    anglicanized_name: Makhuwa-Meetto
+    country_codes:
+    - KM
+    - MZ
+    - TZ
+    - ZW
+    - YT
+    gateway_language: pt
+    lang_code: mgh
+    lang_direction: ltr
+    lang_name: Makhuwa-Meetto
+    lang_region: Africa
+    

@@ -1,0 +1,23 @@
+.. _crv:
+
+Chaura
+------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: crv
+    alternate_names:
+    - Tutet
+    anglicanized_name: Chaura
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: crv
+    lang_direction: ltr
+    lang_name: Chaura
+    lang_region: Asia
+    

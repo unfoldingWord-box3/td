@@ -1,0 +1,24 @@
+.. _yax:
+
+Yauma
+-----
+
+This language is spoken in the following countries:
+
+* ZM: Zambia
+* AO: Angola
+
+.. code-block:: yaml
+
+    ISO_639-3: yax
+    alternate_names: []
+    anglicanized_name: Yauma
+    country_codes:
+    - ZM
+    - AO
+    gateway_language: pt
+    lang_code: yax
+    lang_direction: ltr
+    lang_name: Yauma
+    lang_region: Africa
+    

@@ -1,0 +1,25 @@
+.. _jow:
+
+Jowulu
+------
+
+This language is spoken in the following countries:
+
+* BF: Burkina Faso
+* ML: Mali
+
+.. code-block:: yaml
+
+    ISO_639-3: jow
+    alternate_names:
+    - Samogho
+    anglicanized_name: Jowulu
+    country_codes:
+    - BF
+    - ML
+    gateway_language: fr
+    lang_code: jow
+    lang_direction: ltr
+    lang_name: Jowulu
+    lang_region: Africa
+    

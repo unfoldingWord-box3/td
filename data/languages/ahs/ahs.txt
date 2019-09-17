@@ -1,0 +1,28 @@
+.. _ahs:
+
+Ashe
+----
+
+This language is spoken in the following countries:
+
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ahs
+    alternate_names:
+    - Uchek
+    - Unorr
+    - Ala
+    - Koro Makama
+    - Koron Ache
+    - Koron Ala
+    anglicanized_name: Ashe
+    country_codes:
+    - NG
+    gateway_language: en
+    lang_code: ahs
+    lang_direction: ltr
+    lang_name: Ashe
+    lang_region: Africa
+    

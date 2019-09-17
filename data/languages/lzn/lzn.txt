@@ -1,0 +1,29 @@
+.. _lzn:
+
+Leinong Naga
+------------
+
+This language is spoken in the following countries:
+
+* MM: Myanmar
+
+.. code-block:: yaml
+
+    ISO_639-3: lzn
+    alternate_names:
+    - Htang Ngan
+    - Htangan
+    - Lainong Naga
+    - Lenaung Naga
+    - Yao Dyang (Northern Leinong)
+    - Zau Dyang
+    - Southern Leinong
+    anglicanized_name: Naga, Leinong
+    country_codes:
+    - MM
+    gateway_language: my
+    lang_code: lzn
+    lang_direction: ltr
+    lang_name: Leinong Naga
+    lang_region: Asia
+    

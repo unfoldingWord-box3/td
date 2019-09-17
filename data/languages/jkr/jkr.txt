@@ -1,0 +1,23 @@
+.. _jkr:
+
+Koro (India)
+------------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: jkr
+    alternate_names:
+    - Aka Koro
+    anglicanized_name: Koro
+    country_codes:
+    - IN
+    gateway_language: hi
+    lang_code: jkr
+    lang_direction: ltr
+    lang_name: Koro (India)
+    lang_region: Asia
+    

@@ -1,0 +1,25 @@
+.. _gau:
+
+Mudhili Gadaba
+--------------
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: gau
+    alternate_names:
+    - Gol Gadaba
+    - Kondekar
+    - Kondko
+    anglicanized_name: Gadaba, Mudhili
+    country_codes:
+    - IN
+    gateway_language: te
+    lang_code: gau
+    lang_direction: ltr
+    lang_name: Mudhili Gadaba
+    lang_region: Asia
+    

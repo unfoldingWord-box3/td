@@ -1,0 +1,30 @@
+.. _tue:
+
+Tuyuca
+------
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+* CO: Colombia
+
+.. code-block:: yaml
+
+    ISO_639-3: tue
+    alternate_names:
+    - Dochkafuara
+    - Doka-Poara
+    - Doxká-Poárá
+    - Tuiuca
+    - Tuyuka
+    - Tejuca
+    anglicanized_name: Tuyuca
+    country_codes:
+    - BR
+    - CO
+    gateway_language: es-419
+    lang_code: tue
+    lang_direction: ltr
+    lang_name: Tuyuca
+    lang_region: Americas
+    

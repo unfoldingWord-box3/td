@@ -1,0 +1,23 @@
+.. _mov:
+
+Mohave
+------
+
+This language is spoken in the following countries:
+
+* US: United States of America
+
+.. code-block:: yaml
+
+    ISO_639-3: mov
+    alternate_names:
+    - Mojave
+    anglicanized_name: Mohave
+    country_codes:
+    - US
+    gateway_language: en
+    lang_code: mov
+    lang_direction: ltr
+    lang_name: Mohave
+    lang_region: Americas
+    

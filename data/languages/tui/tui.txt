@@ -1,0 +1,32 @@
+.. _tui:
+
+Tupuri
+------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* TD: Chad
+
+.. code-block:: yaml
+
+    ISO_639-3: tui
+    alternate_names:
+    - Dema
+    - Honya
+    - Ndoore
+    - Ndore
+    - Tongoyna
+    - Toubouri
+    - Tuburi
+    - Wina
+    anglicanized_name: Tupuri
+    country_codes:
+    - CM
+    - TD
+    gateway_language: fr
+    lang_code: tui
+    lang_direction: ltr
+    lang_name: Tupuri
+    lang_region: Africa
+    

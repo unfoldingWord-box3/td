@@ -1,0 +1,30 @@
+.. _myw:
+
+Muyuw
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: myw
+    alternate_names:
+    - Murua
+    - Murua Dukwayasi
+    - Murua Kaulae
+    - Muruwa
+    - Muyu
+    - Muyua
+    - Muyuwa
+    - Lougaw (Gawa)
+    anglicanized_name: Muyuw
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: myw
+    lang_direction: ltr
+    lang_name: Muyuw
+    lang_region: Pacific
+    

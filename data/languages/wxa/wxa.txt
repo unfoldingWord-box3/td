@@ -1,0 +1,24 @@
+.. _wxa:
+
+瓦乡话
+---------
+
+This language is spoken in the following countries:
+
+* CN: China
+
+.. code-block:: yaml
+
+    ISO_639-3: wxa
+    alternate_names:
+    - Wogang
+    - Xianghua
+    anglicanized_name: Waxianghua
+    country_codes:
+    - CN
+    gateway_language: zh
+    lang_code: wxa
+    lang_direction: ltr
+    lang_name: 瓦乡话
+    lang_region: Asia
+    

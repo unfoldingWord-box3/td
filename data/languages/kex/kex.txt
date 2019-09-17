@@ -1,0 +1,26 @@
+.. _kex:
+
+Kukna
+-----
+
+This language is spoken in the following countries:
+
+* IN: India
+
+.. code-block:: yaml
+
+    ISO_639-3: kex
+    alternate_names:
+    - Kanara
+    - Kanara Konkani
+    - Kokna
+    - Kokni
+    anglicanized_name: Kukna
+    country_codes:
+    - IN
+    gateway_language: kn
+    lang_code: kex
+    lang_direction: ltr
+    lang_name: Kukna
+    lang_region: Asia
+    

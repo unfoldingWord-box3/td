@@ -1,0 +1,24 @@
+.. _apy:
+
+Apalaí
+-------
+
+This language is spoken in the following countries:
+
+* BR: Brazil
+
+.. code-block:: yaml
+
+    ISO_639-3: apy
+    alternate_names:
+    - Apalay
+    - Aparai
+    anglicanized_name: Apalaí
+    country_codes:
+    - BR
+    gateway_language: pt
+    lang_code: apy
+    lang_direction: ltr
+    lang_name: Apalaí
+    lang_region: Americas
+    

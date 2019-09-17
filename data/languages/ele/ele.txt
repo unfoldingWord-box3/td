@@ -1,0 +1,23 @@
+.. _ele:
+
+Elepi
+-----
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: ele
+    alternate_names:
+    - Samap
+    anglicanized_name: Elepi
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: ele
+    lang_direction: ltr
+    lang_name: Elepi
+    lang_region: Pacific
+    

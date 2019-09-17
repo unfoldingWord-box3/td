@@ -1,0 +1,23 @@
+.. _lek:
+
+Leipon
+------
+
+This language is spoken in the following countries:
+
+* PG: Papua New Guinea
+
+.. code-block:: yaml
+
+    ISO_639-3: lek
+    alternate_names:
+    - Pityilu
+    anglicanized_name: Leipon
+    country_codes:
+    - PG
+    gateway_language: tpi
+    lang_code: lek
+    lang_direction: ltr
+    lang_name: Leipon
+    lang_region: Pacific
+    

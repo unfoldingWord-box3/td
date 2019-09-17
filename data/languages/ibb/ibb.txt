@@ -1,0 +1,28 @@
+.. _ibb:
+
+Ibibio
+------
+
+This language is spoken in the following countries:
+
+* CM: Cameroon
+* GQ: Equatorial Guinea
+* GH: Ghana
+* NG: Nigeria
+
+.. code-block:: yaml
+
+    ISO_639-3: ibb
+    alternate_names: []
+    anglicanized_name: Ibibio
+    country_codes:
+    - CM
+    - GQ
+    - GH
+    - NG
+    gateway_language: en
+    lang_code: ibb
+    lang_direction: ltr
+    lang_name: Ibibio
+    lang_region: Africa
+    

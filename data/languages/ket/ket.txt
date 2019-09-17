@@ -1,0 +1,25 @@
+.. _ket:
+
+Кетский
+--------------
+
+This language is spoken in the following countries:
+
+* RU: Russian Federation
+
+.. code-block:: yaml
+
+    ISO_639-3: ket
+    alternate_names:
+    - Imbatski-Ket
+    - Yenisei Ostyak
+    - Yenisey Ostiak
+    anglicanized_name: Ket
+    country_codes:
+    - RU
+    gateway_language: ru
+    lang_code: ket
+    lang_direction: ltr
+    lang_name: Кетский
+    lang_region: Europe
+    
