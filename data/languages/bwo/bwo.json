@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bwo",
+    "lc": "bwo",
+    "gw": false,
+    "ang": "Borna",
     "alt": [
         "Boro",
         "Bworo",
@@ -6,17 +10,13 @@
         "Bulen-Dibat'e",
         "Wenbera-Dangur"
     ],
-    "ang": "Borna",
+    "ld": "ltr",
+    "ln": "Boro (Ethiopia)",
+    "hc": "ET",
     "cc": [
         "ET"
     ],
-    "hc": "ET",
-    "lc": "bwo",
-    "gw": false,
-    "ISO-639-3": "bwo",
-    "ld": "ltr",
-    "gwcode": "am",
-    "pk": 1031,
     "lr": "Africa",
-    "ln": "Boro (Ethiopia)"
+    "gwcode": "am",
+    "pk": 1031
 }

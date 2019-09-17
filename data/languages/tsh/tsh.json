@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tsh",
+    "lc": "tsh",
+    "gw": false,
+    "ang": "Tsuvan",
     "alt": [
         "Matsuvan",
         "Motsuvan",
@@ -7,17 +11,13 @@
         "Teleki",
         "Terki"
     ],
-    "ang": "Tsuvan",
+    "ld": "ltr",
+    "ln": "Tsuvan",
+    "hc": "CM",
     "cc": [
         "CM"
     ],
-    "hc": "CM",
-    "lc": "tsh",
-    "gw": false,
-    "ISO-639-3": "tsh",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 6330,
     "lr": "Africa",
-    "ln": "Tsuvan"
+    "gwcode": "fr",
+    "pk": 6330
 }

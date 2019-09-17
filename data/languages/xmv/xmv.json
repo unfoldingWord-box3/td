@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "xmv",
+    "lc": "xmv",
+    "gw": false,
+    "ang": "Malagasy, Antankarana",
     "alt": [
         "Antakarana",
         "Antakarana Malagasy",
@@ -7,17 +11,13 @@
         "Tankarana",
         "Tankarana Malagasy"
     ],
-    "ang": "Malagasy, Antankarana",
+    "ld": "ltr",
+    "ln": "Antankarana Malagasy",
+    "hc": "MG",
     "cc": [
         "MG"
     ],
-    "hc": "MG",
-    "lc": "xmv",
-    "gw": false,
-    "ISO-639-3": "xmv",
-    "ld": "ltr",
-    "gwcode": "plt",
-    "pk": 6986,
     "lr": "Africa",
-    "ln": "Antankarana Malagasy"
+    "gwcode": "plt",
+    "pk": 6986
 }

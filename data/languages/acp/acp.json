@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "acp",
+    "lc": "acp",
+    "gw": false,
+    "ang": "Acipa, Eastern",
     "alt": [
         "Bobi",
         "Randeggi",
@@ -8,17 +12,13 @@
         "Sagamuk",
         "Zubazuba"
     ],
-    "ang": "Acipa, Eastern",
+    "ld": "ltr",
+    "ln": "Eastern Acipa",
+    "hc": "NG",
     "cc": [
         "NG"
     ],
-    "hc": "NG",
-    "lc": "acp",
-    "gw": false,
-    "ISO-639-3": "acp",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 61,
     "lr": "Africa",
-    "ln": "Eastern Acipa"
+    "gwcode": "en",
+    "pk": 61
 }

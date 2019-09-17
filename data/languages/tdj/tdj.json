@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tdj",
+    "lc": "tdj",
+    "gw": false,
+    "ang": "Tajio",
     "alt": [
         "Adjio",
         "Kasimbar",
@@ -8,17 +12,13 @@
         "Northern Tajio",
         "Western Tajio"
     ],
-    "ang": "Tajio",
+    "ld": "ltr",
+    "ln": "Tajio",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "tdj",
-    "gw": false,
-    "ISO-639-3": "tdj",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 6039,
     "lr": "Asia",
-    "ln": "Tajio"
+    "gwcode": "id",
+    "pk": 6039
 }

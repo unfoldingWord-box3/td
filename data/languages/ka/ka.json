@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "kat",
+    "lc": "ka",
+    "gw": false,
+    "ang": "Georgian",
     "alt": [
         "Common Kartvelian",
         "Gruzinski",
@@ -11,7 +15,9 @@
         "Racha-Lexchxum (Lechkhum)",
         "Xevsur (Kheysur)"
     ],
-    "ang": "Georgian",
+    "ld": "ltr",
+    "ln": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8",
+    "hc": "GE",
     "cc": [
         "AZ",
         "BE",
@@ -27,13 +33,7 @@
         "TM",
         "UZ"
     ],
-    "hc": "GE",
-    "lc": "ka",
-    "gw": false,
-    "ISO-639-3": "kat",
-    "ld": "ltr",
-    "gwcode": "ru",
-    "pk": 2693,
     "lr": "Asia",
-    "ln": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    "gwcode": "ru",
+    "pk": 2693
 }

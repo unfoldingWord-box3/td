@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tur",
+    "lc": "tr",
+    "gw": true,
+    "ang": "Turkish",
     "alt": [
         "Osmanli",
         "Turki",
@@ -6,7 +10,9 @@
         "T\u00fcrk\u00e7e",
         "T\u00fcrkisch"
     ],
-    "ang": "Turkish",
+    "ld": "ltr",
+    "ln": "T\u00fcrk\u00e7e",
+    "hc": "TR",
     "cc": [
         "AZ",
         "AT",
@@ -42,13 +48,7 @@
         "EG",
         "AE"
     ],
-    "hc": "TR",
-    "lc": "tr",
-    "gw": true,
-    "ISO-639-3": "tur",
-    "ld": "ltr",
-    "gwcode": null,
-    "pk": 6298,
     "lr": "Asia",
-    "ln": "T\u00fcrk\u00e7e"
+    "gwcode": null,
+    "pk": 6298
 }

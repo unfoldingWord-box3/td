@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "lem",
+    "lc": "lem",
+    "gw": false,
+    "ang": "Nomaande",
     "alt": [
         "Lemande",
         "Mande",
@@ -7,17 +11,13 @@
         "Numand",
         "Pimenc"
     ],
-    "ang": "Nomaande",
+    "ld": "ltr",
+    "ln": "Nomaande",
+    "hc": "CM",
     "cc": [
         "CM"
     ],
-    "hc": "CM",
-    "lc": "lem",
-    "gw": false,
-    "ISO-639-3": "lem",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 3413,
     "lr": "Africa",
-    "ln": "Nomaande"
+    "gwcode": "fr",
+    "pk": 3413
 }

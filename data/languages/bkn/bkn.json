@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bkn",
+    "lc": "bkn",
+    "gw": false,
+    "ang": "Bukitan",
     "alt": [
         "Bakatan",
         "Bakitan",
@@ -7,18 +11,14 @@
         "Manketa",
         "Pakatan"
     ],
-    "ang": "Bukitan",
+    "ld": "ltr",
+    "ln": "Bukitan",
+    "hc": "ID",
     "cc": [
         "ID",
         "MY"
     ],
-    "hc": "ID",
-    "lc": "bkn",
-    "gw": false,
-    "ISO-639-3": "bkn",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 742,
     "lr": "Asia",
-    "ln": "Bukitan"
+    "gwcode": "id",
+    "pk": 742
 }

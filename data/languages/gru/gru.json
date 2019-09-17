@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "gru",
+    "lc": "gru",
+    "gw": false,
+    "ang": "Kistane",
     "alt": [
         "North Gurage",
         "Soddo Gurage",
@@ -9,17 +13,13 @@
         "Aymellel",
         "Dobi (Dobbi)"
     ],
-    "ang": "Kistane",
+    "ld": "ltr",
+    "ln": "Kistane",
+    "hc": "ET",
     "cc": [
         "ET"
     ],
-    "hc": "ET",
-    "lc": "gru",
-    "gw": false,
-    "ISO-639-3": "gru",
-    "ld": "ltr",
-    "gwcode": "am",
-    "pk": 2135,
     "lr": "Africa",
-    "ln": "Kistane"
+    "gwcode": "am",
+    "pk": 2135
 }

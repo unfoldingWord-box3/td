@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "heb",
+    "lc": "he",
+    "gw": false,
+    "ang": "Hebrew (modern)",
     "alt": [
         "Israeli",
         "Ivrit",
@@ -7,7 +11,9 @@
         "Standard Hebrew (Europeanized Hebrew)",
         "Yemenite Hebrew"
     ],
-    "ang": "Hebrew (modern)",
+    "ld": "rtl",
+    "ln": "\u05e2\u05d1\u05e8\u05d9\u05ea",
+    "hc": "IL",
     "cc": [
         "ET",
         "IL",
@@ -17,13 +23,7 @@
         "YE",
         "CA"
     ],
-    "hc": "IL",
-    "lc": "he",
-    "gw": false,
-    "ISO-639-3": "heb",
-    "ld": "rtl",
-    "gwcode": "en",
-    "pk": 2252,
     "lr": "Asia",
-    "ln": "\u05e2\u05d1\u05e8\u05d9\u05ea"
+    "gwcode": "en",
+    "pk": 2252
 }

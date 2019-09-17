@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "yii",
+    "lc": "yii",
+    "gw": false,
+    "ang": "Yidiny",
     "alt": [
         "Boolboora",
         "Deba",
@@ -27,17 +31,13 @@
         "Yitintyi",
         "Yukkaburra"
     ],
-    "ang": "Yidiny",
+    "ld": "ltr",
+    "ln": "Yidiny",
+    "hc": "AU",
     "cc": [
         "AU"
     ],
-    "hc": "AU",
-    "lc": "yii",
-    "gw": false,
-    "ISO-639-3": "yii",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 7184,
     "lr": "Pacific",
-    "ln": "Yidiny"
+    "gwcode": "en",
+    "pk": 7184
 }

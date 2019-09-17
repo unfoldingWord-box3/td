@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "fng",
+    "lc": "fng",
+    "gw": false,
+    "ang": "Pidgin Bantu",
     "alt": [
         "Basic Zulu",
         "Fanagoloi",
@@ -12,18 +16,14 @@
         "Fanekolo",
         "Isikula"
     ],
-    "ang": "Pidgin Bantu",
+    "ld": "ltr",
+    "ln": "Fanagalo",
+    "hc": "ZA",
     "cc": [
         "ZA",
         "ZM"
     ],
-    "hc": "ZA",
-    "lc": "fng",
-    "gw": false,
-    "ISO-639-3": "fng",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 1857,
     "lr": "Africa",
-    "ln": "Fanagalo"
+    "gwcode": "en",
+    "pk": 1857
 }

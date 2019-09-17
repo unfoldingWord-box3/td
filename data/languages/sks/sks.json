@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "sks",
+    "lc": "sks",
+    "gw": false,
+    "ang": "Maia",
     "alt": [
         "Banar",
         "Maya",
@@ -8,17 +12,13 @@
         "Turutap",
         "Yakiba"
     ],
-    "ang": "Maia",
+    "ld": "ltr",
+    "ln": "Maia",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "sks",
-    "gw": false,
-    "ISO-639-3": "sks",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 5674,
     "lr": "Pacific",
-    "ln": "Maia"
+    "gwcode": "tpi",
+    "pk": 5674
 }

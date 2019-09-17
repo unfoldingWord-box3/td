@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ell",
+    "lc": "el",
+    "gw": false,
+    "ang": "Greek (modern)",
     "alt": [
         "Ellinika",
         "Graecae",
@@ -10,7 +14,9 @@
         "Tavro-Rumeic",
         "Mariupol Greek (Crimeo-Rumeic)"
     ],
-    "ang": "Greek (modern)",
+    "ld": "ltr",
+    "ln": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac",
+    "hc": "GR",
     "cc": [
         "AT",
         "CY",
@@ -29,13 +35,7 @@
         "IT",
         "MW"
     ],
-    "hc": "GR",
-    "lc": "el",
-    "gw": false,
-    "ISO-639-3": "ell",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 1724,
     "lr": "Europe",
-    "ln": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    "gwcode": "en",
+    "pk": 1724
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tlx",
+    "lc": "tlx",
+    "gw": false,
+    "ang": "Khehek",
     "alt": [
         "Levei-Drehet",
         "Levei-Ndrehet",
@@ -7,17 +11,13 @@
         "Chehek",
         "Drehet (Chechek)"
     ],
-    "ang": "Khehek",
+    "ld": "ltr",
+    "ln": "Khehek",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "tlx",
-    "gw": false,
-    "ISO-639-3": "tlx",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 6193,
     "lr": "Pacific",
-    "ln": "Khehek"
+    "gwcode": "tpi",
+    "pk": 6193
 }

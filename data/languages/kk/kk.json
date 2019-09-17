@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "kaz",
+    "lc": "kk",
+    "gw": false,
+    "ang": "Kazakh",
     "alt": [
         "Hazake",
         "Kazax",
@@ -9,7 +13,9 @@
         "Qazaq",
         "Qazaqi"
     ],
-    "ang": "Kazakh",
+    "ld": "ltr",
+    "ln": "\u049b\u0430\u0437\u0430\u049b \u0442\u0456\u043b\u0456",
+    "hc": "KZ",
     "cc": [
         "AZ",
         "CN",
@@ -25,13 +31,7 @@
         "TM",
         "UZ"
     ],
-    "hc": "KZ",
-    "lc": "kk",
-    "gw": false,
-    "ISO-639-3": "kaz",
-    "ld": "ltr",
-    "gwcode": "ru",
-    "pk": 2932,
     "lr": "Asia",
-    "ln": "\u049b\u0430\u0437\u0430\u049b \u0442\u0456\u043b\u0456"
+    "gwcode": "ru",
+    "pk": 2932
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ruc",
+    "lc": "ruc",
+    "gw": false,
+    "ang": "Ruuli",
     "alt": [
         "Luduuli",
         "Ruluuli",
@@ -6,17 +10,13 @@
         "Rurulim",
         "Runyala"
     ],
-    "ang": "Ruuli",
+    "ld": "ltr",
+    "ln": "Ruuli",
+    "hc": "UG",
     "cc": [
         "UG"
     ],
-    "hc": "UG",
-    "lc": "ruc",
-    "gw": false,
-    "ISO-639-3": "ruc",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5433,
     "lr": "Africa",
-    "ln": "Ruuli"
+    "gwcode": "en",
+    "pk": 5433
 }

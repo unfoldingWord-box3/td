@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "wmt",
+    "lc": "wmt",
+    "gw": false,
+    "ang": "Walmajarri",
     "alt": [
         "Pililuna",
         "Walmajiri",
@@ -8,17 +12,13 @@
         "Djuwarliny (Juwaliny)",
         "Tjuwalinj"
     ],
-    "ang": "Walmajarri",
+    "ld": "ltr",
+    "ln": "Walmajarri",
+    "hc": "AU",
     "cc": [
         "AU"
     ],
-    "hc": "AU",
-    "lc": "wmt",
-    "gw": false,
-    "ISO-639-3": "wmt",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 6773,
     "lr": "Pacific",
-    "ln": "Walmajarri"
+    "gwcode": "en",
+    "pk": 6773
 }

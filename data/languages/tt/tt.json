@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tat",
+    "lc": "tt",
+    "gw": false,
+    "ang": "Tatar",
     "alt": [
         "Tartar",
         "Tata'er",
@@ -6,7 +10,9 @@
         "Middle Tatar (Kazan)",
         "Western Tatar (Misher)"
     ],
-    "ang": "Tatar",
+    "ld": "ltr",
+    "ln": "\u0442\u0430\u0442\u0430\u0440 \u0442\u0435\u043b\u0435, tatar tele",
+    "hc": "RU",
     "cc": [
         "AZ",
         "CN",
@@ -18,13 +24,7 @@
         "TM",
         "UZ"
     ],
-    "hc": "RU",
-    "lc": "tt",
-    "gw": false,
-    "ISO-639-3": "tat",
-    "ld": "ltr",
-    "gwcode": "ru",
-    "pk": 6347,
     "lr": "Europe",
-    "ln": "\u0442\u0430\u0442\u0430\u0440 \u0442\u0435\u043b\u0435, tatar tele"
+    "gwcode": "ru",
+    "pk": 6347
 }

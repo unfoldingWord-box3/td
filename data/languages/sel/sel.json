@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "sel",
+    "lc": "sel",
+    "gw": false,
+    "ang": "Selkup",
     "alt": [
         "Central Selkups",
         "Chumyl' Khumyt",
@@ -13,17 +17,13 @@
         "Taz (Northern Sel'kup)",
         "Tazov-Baishyan"
     ],
-    "ang": "Selkup",
+    "ld": "ltr",
+    "ln": "\u0421\u0435\u043b\u044c\u043a\u0443\u043f\u0441\u043a\u0438\u0439",
+    "hc": "RU",
     "cc": [
         "RU"
     ],
-    "hc": "RU",
-    "lc": "sel",
-    "gw": false,
-    "ISO-639-3": "sel",
-    "ld": "ltr",
-    "gwcode": "ru",
-    "pk": 5553,
     "lr": "Europe",
-    "ln": "\u0421\u0435\u043b\u044c\u043a\u0443\u043f\u0441\u043a\u0438\u0439"
+    "gwcode": "ru",
+    "pk": 5553
 }

@@ -1,20 +1,20 @@
 {
+    "ISO-639-3": "sfb",
+    "lc": "sfb",
+    "gw": false,
+    "ang": "French Belgian Sign Language",
     "alt": [
         "Langue des Signes Belge Francophone",
         "LSBF",
         "LSFB"
     ],
-    "ang": "French Belgian Sign Language",
+    "ld": "ltr",
+    "ln": "Langue des signes de Belgique Francophone",
+    "hc": "BE",
     "cc": [
         "BE"
     ],
-    "hc": "BE",
-    "lc": "sfb",
-    "gw": false,
-    "ISO-639-3": "sfb",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 5566,
     "lr": "Europe",
-    "ln": "Langue des signes de Belgique Francophone"
+    "gwcode": "fr",
+    "pk": 5566
 }

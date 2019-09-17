@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "lad",
+    "lc": "lad",
+    "gw": false,
+    "ang": "Ladino",
     "alt": [
         "Dzhudezmo",
         "Judeo Spanish",
@@ -11,20 +15,16 @@
         "Haketiya",
         "Haquetiya (Haketia)"
     ],
-    "ang": "Ladino",
+    "ld": "ltr",
+    "ln": "Ladino",
+    "hc": "IL",
     "cc": [
         "IL",
         "ES",
         "TR",
         "US"
     ],
-    "hc": "IL",
-    "lc": "lad",
-    "gw": false,
-    "ISO-639-3": "lad",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 3337,
     "lr": "Asia",
-    "ln": "Ladino"
+    "gwcode": "en",
+    "pk": 3337
 }

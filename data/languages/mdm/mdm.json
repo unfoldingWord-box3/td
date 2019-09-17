@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mdm",
+    "lc": "mdm",
+    "gw": false,
+    "ang": "Mayogo",
     "alt": [
         "Maigo",
         "Maiko",
@@ -10,17 +14,13 @@
         "Madjedje",
         "Magbai"
     ],
-    "ang": "Mayogo",
+    "ld": "ltr",
+    "ln": "Mayogo",
+    "hc": "CD",
     "cc": [
         "CD"
     ],
-    "hc": "CD",
-    "lc": "mdm",
-    "gw": false,
-    "ISO-639-3": "mdm",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 3740,
     "lr": "Africa",
-    "ln": "Mayogo"
+    "gwcode": "fr",
+    "pk": 3740
 }

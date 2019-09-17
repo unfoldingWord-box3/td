@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "lit",
+    "lc": "lt",
+    "gw": false,
+    "ang": "Lithuanian",
     "alt": [
         "Lietuvi",
         "Lietuviskai",
@@ -16,7 +20,9 @@
         "Aukshtaitish (Aukshtaichiai)",
         "Highland Lithuanian"
     ],
-    "ang": "Lithuanian",
+    "ld": "ltr",
+    "ln": "lietuvi\u0173 kalba",
+    "hc": "LT",
     "cc": [
         "DE",
         "KZ",
@@ -27,13 +33,7 @@
         "LT",
         "UZ"
     ],
-    "hc": "LT",
-    "lc": "lt",
-    "gw": false,
-    "ISO-639-3": "lit",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 3607,
     "lr": "Europe",
-    "ln": "lietuvi\u0173 kalba"
+    "gwcode": "en",
+    "pk": 3607
 }

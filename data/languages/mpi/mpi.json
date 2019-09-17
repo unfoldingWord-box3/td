@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mpi",
+    "lc": "mpi",
+    "gw": false,
+    "ang": "Mpade",
     "alt": [
         "Makari",
         "Makary",
@@ -7,18 +11,14 @@
         "Mpade (Makari)",
         "Shewe (Mani)"
     ],
-    "ang": "Mpade",
+    "ld": "ltr",
+    "ln": "Mpade",
+    "hc": "CM",
     "cc": [
         "CM",
         "TD"
     ],
-    "hc": "CM",
-    "lc": "mpi",
-    "gw": false,
-    "ISO-639-3": "mpi",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 4028,
     "lr": "Africa",
-    "ln": "Mpade"
+    "gwcode": "fr",
+    "pk": 4028
 }

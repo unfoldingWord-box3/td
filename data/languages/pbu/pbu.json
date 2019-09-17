@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "pbu",
+    "lc": "pbu",
+    "gw": false,
+    "ang": "Pashto, Northern",
     "alt": [
         "Pakhtoo",
         "Pashtu",
@@ -15,7 +19,9 @@
         "Yusufzai Pashto",
         "Khogyani"
     ],
-    "ang": "Pashto, Northern",
+    "ld": "ltr",
+    "ln": "\u06cc\u0648\u0633\u0641\u0632\u0626\u06cc \u067e\u069a\u062a\u0648",
+    "hc": "PK",
     "cc": [
         "AF",
         "PK",
@@ -23,13 +29,7 @@
         "US",
         "AE"
     ],
-    "hc": "PK",
-    "lc": "pbu",
-    "gw": false,
-    "ISO-639-3": "pbu",
-    "ld": "ltr",
-    "gwcode": "ur",
-    "pk": 4953,
     "lr": "Asia",
-    "ln": "\u06cc\u0648\u0633\u0641\u0632\u0626\u06cc \u067e\u069a\u062a\u0648"
+    "gwcode": "ur",
+    "pk": 4953
 }

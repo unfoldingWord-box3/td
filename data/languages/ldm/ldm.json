@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ldm",
+    "lc": "ldm",
+    "gw": false,
+    "ang": "Landoma",
     "alt": [
         "Cocoli",
         "Landouman",
@@ -7,17 +11,13 @@
         "Tyopi",
         "Tiapi (Tapessi)"
     ],
-    "ang": "Landoma",
+    "ld": "ltr",
+    "ln": "Landoma",
+    "hc": "GN",
     "cc": [
         "GN"
     ],
-    "hc": "GN",
-    "lc": "ldm",
-    "gw": false,
-    "ISO-639-3": "ldm",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 3397,
     "lr": "Africa",
-    "ln": "Landoma"
+    "gwcode": "fr",
+    "pk": 3397
 }

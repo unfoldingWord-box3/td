@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bre",
+    "lc": "br",
+    "gw": false,
+    "ang": "Breton",
     "alt": [
         "Brezhoneg",
         "Gwenedeg (Vannetais)",
@@ -6,17 +10,13 @@
         "Leoneg (Leonais)",
         "Tregerieg (Tregorrois)"
     ],
-    "ang": "Breton",
+    "ld": "ltr",
+    "ln": "brezhoneg",
+    "hc": "FR",
     "cc": [
         "FR"
     ],
-    "hc": "FR",
-    "lc": "br",
-    "gw": false,
-    "ISO-639-3": "bre",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 899,
     "lr": "Europe",
-    "ln": "brezhoneg"
+    "gwcode": "fr",
+    "pk": 899
 }

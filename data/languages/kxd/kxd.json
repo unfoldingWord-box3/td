@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "kxd",
+    "lc": "kxd",
+    "gw": false,
+    "ang": "Brunei",
     "alt": [
         "Brunei-Kadaian",
         "Orang Bukit",
@@ -13,20 +17,16 @@
         "Kadaian (Kadayan)",
         "Kedien"
     ],
-    "ang": "Brunei",
+    "ld": "ltr",
+    "ln": "Brunei",
+    "hc": "BN",
     "cc": [
         "BN",
         "MY",
         "US",
         "CA"
     ],
-    "hc": "BN",
-    "lc": "kxd",
-    "gw": false,
-    "ISO-639-3": "kxd",
-    "ld": "ltr",
-    "gwcode": "ms",
-    "pk": 3262,
     "lr": "Asia",
-    "ln": "Brunei"
+    "gwcode": "ms",
+    "pk": 3262
 }

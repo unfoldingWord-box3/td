@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "led",
+    "lc": "led",
+    "gw": false,
+    "ang": "Lendu",
     "alt": [
         "Bale",
         "Balendru",
@@ -12,18 +16,14 @@
         "Djadha (Jidha)",
         "Njawlo (Njawdha)"
     ],
-    "ang": "Lendu",
+    "ld": "ltr",
+    "ln": "Lendu",
+    "hc": "CD",
     "cc": [
         "CD",
         "UG"
     ],
-    "hc": "CD",
-    "lc": "led",
-    "gw": false,
-    "ISO-639-3": "led",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 3405,
     "lr": "Africa",
-    "ln": "Lendu"
+    "gwcode": "fr",
+    "pk": 3405
 }

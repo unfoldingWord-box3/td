@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tmd",
+    "lc": "tmd",
+    "gw": false,
+    "ang": "Haruai",
     "alt": [
         "Harway",
         "Taman",
@@ -10,17 +14,13 @@
         "North Waibuk (Hamil)",
         "South Waibuk (Arama)"
     ],
-    "ang": "Haruai",
+    "ld": "ltr",
+    "ln": "Haruai",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "tmd",
-    "gw": false,
-    "ISO-639-3": "tmd",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 6198,
     "lr": "Pacific",
-    "ln": "Haruai"
+    "gwcode": "tpi",
+    "pk": 6198
 }

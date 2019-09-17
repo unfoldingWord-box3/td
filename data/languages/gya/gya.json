@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "gya",
+    "lc": "gya",
+    "gw": false,
+    "ang": "Gbaya, Northwest",
     "alt": [
         "Gbaya",
         "Gbaya Nord-Ouest",
@@ -11,7 +15,9 @@
         "Ya\u00e1yuwee (Kalla)",
         "Yaiwe"
     ],
-    "ang": "Gbaya, Northwest",
+    "ld": "ltr",
+    "ln": "Northwest Gbaya",
+    "hc": "CF",
     "cc": [
         "CM",
         "CF",
@@ -19,13 +25,7 @@
         "SD",
         "CG"
     ],
-    "hc": "CF",
-    "lc": "gya",
-    "gw": false,
-    "ISO-639-3": "gya",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 2204,
     "lr": "Africa",
-    "ln": "Northwest Gbaya"
+    "gwcode": "fr",
+    "pk": 2204
 }

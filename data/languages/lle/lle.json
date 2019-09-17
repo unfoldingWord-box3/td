@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "lle",
+    "lc": "lle",
+    "gw": false,
+    "ang": "Lele",
     "alt": [
         "Elu-Kara",
         "Hai",
@@ -7,17 +11,13 @@
         "Moanus",
         "Usiai"
     ],
-    "ang": "Lele",
+    "ld": "ltr",
+    "ln": "Lele (Papua New Guinea)",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "lle",
-    "gw": false,
-    "ISO-639-3": "lle",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 3500,
     "lr": "Pacific",
-    "ln": "Lele (Papua New Guinea)"
+    "gwcode": "tpi",
+    "pk": 3500
 }

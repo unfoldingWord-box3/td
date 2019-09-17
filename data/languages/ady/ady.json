@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ady",
+    "lc": "ady",
+    "gw": false,
+    "ang": "Adyghe",
     "alt": [
         "Natuzaj (Natukhai)",
         "Abadzex (Abadzakh)",
@@ -17,7 +21,9 @@
         "Lower Circassian",
         "Cherkes"
     ],
-    "ang": "Adyghe",
+    "ld": "ltr",
+    "ln": "\u0410\u0434\u044b\u0433\u0430\u0431\u0437\u044d",
+    "hc": "RU",
     "cc": [
         "IQ",
         "IL",
@@ -26,13 +32,7 @@
         "US",
         "JO"
     ],
-    "hc": "RU",
-    "lc": "ady",
-    "gw": false,
-    "ISO-639-3": "ady",
-    "ld": "ltr",
-    "gwcode": "ru",
-    "pk": 90,
     "lr": "Europe",
-    "ln": "\u0410\u0434\u044b\u0433\u0430\u0431\u0437\u044d"
+    "gwcode": "ru",
+    "pk": 90
 }

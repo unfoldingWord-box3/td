@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "fan",
+    "lc": "fan",
+    "gw": false,
+    "ang": "Fang",
     "alt": [
         "Pahouin",
         "Pamue",
@@ -8,7 +12,9 @@
         "Ntoumou (Ntumu)",
         "Okak (Ntumu)"
     ],
-    "ang": "Fang",
+    "ld": "ltr",
+    "ln": "Fang (Equatorial Guinea)",
+    "hc": "GQ",
     "cc": [
         "CM",
         "GQ",
@@ -16,13 +22,7 @@
         "US",
         "CG"
     ],
-    "hc": "GQ",
-    "lc": "fan",
-    "gw": false,
-    "ISO-639-3": "fan",
-    "ld": "ltr",
-    "gwcode": "es",
-    "pk": 1823,
     "lr": "Africa",
-    "ln": "Fang (Equatorial Guinea)"
+    "gwcode": "es",
+    "pk": 1823
 }

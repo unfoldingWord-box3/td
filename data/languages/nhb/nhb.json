@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "nhb",
+    "lc": "nhb",
+    "gw": false,
+    "ang": "Beng",
     "alt": [
         "Ben",
         "Gan",
@@ -8,17 +12,13 @@
         "Ngin",
         "Nguin"
     ],
-    "ang": "Beng",
+    "ld": "ltr",
+    "ln": "Beng",
+    "hc": "CI",
     "cc": [
         "CI"
     ],
-    "hc": "CI",
-    "lc": "nhb",
-    "gw": false,
-    "ISO-639-3": "nhb",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 4434,
     "lr": "Africa",
-    "ln": "Beng"
+    "gwcode": "fr",
+    "pk": 4434
 }

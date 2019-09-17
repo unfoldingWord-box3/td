@@ -1,11 +1,17 @@
 {
+    "ISO-639-3": "lug",
+    "lc": "lg",
+    "gw": false,
+    "ang": "Ganda",
     "alt": [
         "Diopa (Ludiopa)",
         "Kooki (Olukooki)",
         "Sese (Olusese)",
         "Vuma (Luvuma)"
     ],
-    "ang": "Ganda",
+    "ld": "ltr",
+    "ln": "Luganda",
+    "hc": "UG",
     "cc": [
         "KE",
         "TZ",
@@ -13,13 +19,7 @@
         "CA",
         "UG"
     ],
-    "hc": "UG",
-    "lc": "lg",
-    "gw": false,
-    "ISO-639-3": "lug",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 3429,
     "lr": "Africa",
-    "ln": "Luganda"
+    "gwcode": "en",
+    "pk": 3429
 }

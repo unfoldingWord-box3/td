@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ymc",
+    "lc": "ymc",
+    "gw": false,
+    "ang": "Muji, Southern",
     "alt": [
         "Aga",
         "Khlaka",
@@ -15,17 +19,13 @@
         "Dazhai",
         "Gamadi"
     ],
-    "ang": "Muji, Southern",
+    "ld": "ltr",
+    "ln": "Southern Muji",
+    "hc": "CN",
     "cc": [
         "CN"
     ],
-    "hc": "CN",
-    "lc": "ymc",
-    "gw": false,
-    "ISO-639-3": "ymc",
-    "ld": "ltr",
-    "gwcode": "zh",
-    "pk": 7222,
     "lr": "Asia",
-    "ln": "Southern Muji"
+    "gwcode": "zh",
+    "pk": 7222
 }

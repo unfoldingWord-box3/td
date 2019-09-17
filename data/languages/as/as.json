@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "asm",
+    "lc": "as",
+    "gw": true,
+    "ang": "Assamese",
     "alt": [
         "Asambe",
         "Asami",
@@ -7,7 +11,9 @@
         "Standard Assamese",
         "Western Assamese (Kamrupi)"
     ],
-    "ang": "Assamese",
+    "ld": "ltr",
+    "ln": "\u0985\u09b8\u09ae\u09c0\u09af\u09bc\u09be",
+    "hc": "IN",
     "cc": [
         "BD",
         "BT",
@@ -15,13 +21,7 @@
         "PF",
         "IN"
     ],
-    "hc": "IN",
-    "lc": "as",
-    "gw": true,
-    "ISO-639-3": "asm",
-    "ld": "ltr",
-    "gwcode": null,
-    "pk": 356,
     "lr": "Asia",
-    "ln": "\u0985\u09b8\u09ae\u09c0\u09af\u09bc\u09be"
+    "gwcode": null,
+    "pk": 356
 }

@@ -1,8 +1,14 @@
 {
+    "ISO-639-3": "ita",
+    "lc": "it",
+    "gw": false,
+    "ang": "Italian",
     "alt": [
         "Italiano"
     ],
-    "ang": "Italian",
+    "ld": "ltr",
+    "ln": "italiano",
+    "hc": "IT",
     "cc": [
         "AT",
         "BE",
@@ -25,13 +31,7 @@
         "LU",
         "PT"
     ],
-    "hc": "IT",
-    "lc": "it",
-    "gw": false,
-    "ISO-639-3": "ita",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 2531,
     "lr": "Europe",
-    "ln": "italiano"
+    "gwcode": "en",
+    "pk": 2531
 }

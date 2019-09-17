@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tor",
+    "lc": "tor",
+    "gw": false,
+    "ang": "Banda, Vara",
     "alt": [
         "Tagbwali",
         "Togbo (Tagbo)",
@@ -6,19 +10,15 @@
         "Vara (Vera)",
         "Vora"
     ],
-    "ang": "Banda, Vara",
+    "ld": "ltr",
+    "ln": "Vara Banda",
+    "hc": "CD",
     "cc": [
         "CF",
         "SS",
         "CD"
     ],
-    "hc": "CD",
-    "lc": "tor",
-    "gw": false,
-    "ISO-639-3": "tor",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 6257,
     "lr": "Africa",
-    "ln": "Vara Banda"
+    "gwcode": "fr",
+    "pk": 6257
 }

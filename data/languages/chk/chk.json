@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "chk",
+    "lc": "chk",
+    "gw": false,
+    "ang": "Chuukese",
     "alt": [
         "Chuuk",
         "Lagoon Chuukese",
@@ -6,18 +10,14 @@
         "Truk",
         "Trukese"
     ],
-    "ang": "Chuukese",
+    "ld": "ltr",
+    "ln": "Chuukese",
+    "hc": "FM",
     "cc": [
         "US",
         "FM"
     ],
-    "hc": "FM",
-    "lc": "chk",
-    "gw": false,
-    "ISO-639-3": "chk",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 1196,
     "lr": "Pacific",
-    "ln": "Chuukese"
+    "gwcode": "en",
+    "pk": 1196
 }

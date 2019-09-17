@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "arn",
+    "lc": "arn",
+    "gw": false,
+    "ang": "Mapudungun",
     "alt": [
         "Araucano",
         "Huilliche",
@@ -10,18 +14,14 @@
         "Moluche (Manzanero)",
         "Ngoluche"
     ],
-    "ang": "Mapudungun",
+    "ld": "ltr",
+    "ln": "Mapudungun",
+    "hc": "CL",
     "cc": [
         "CL",
         "AR"
     ],
-    "hc": "CL",
-    "lc": "arn",
-    "gw": false,
-    "ISO-639-3": "arn",
-    "ld": "ltr",
-    "gwcode": "es-419",
-    "pk": 344,
     "lr": "Americas",
-    "ln": "Mapudungun"
+    "gwcode": "es-419",
+    "pk": 344
 }

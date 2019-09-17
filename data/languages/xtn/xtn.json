@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "xtn",
+    "lc": "xtn",
+    "gw": false,
+    "ang": "Mixtec, Northern Tlaxiaco",
     "alt": [
         "Mixteco de San Juan \u00d1um\u00ed",
         "Mixteco del Norte de Tlaxiaco",
@@ -8,17 +12,13 @@
         "San Antonio Monte Verde",
         "Santiago Nundiche"
     ],
-    "ang": "Mixtec, Northern Tlaxiaco",
+    "ld": "ltr",
+    "ln": "Northern Tlaxiaco Mixtec",
+    "hc": "MX",
     "cc": [
         "MX"
     ],
-    "hc": "MX",
-    "lc": "xtn",
-    "gw": false,
-    "ISO-639-3": "xtn",
-    "ld": "ltr",
-    "gwcode": "es-419",
-    "pk": 7066,
     "lr": "Americas",
-    "ln": "Northern Tlaxiaco Mixtec"
+    "gwcode": "es-419",
+    "pk": 7066
 }

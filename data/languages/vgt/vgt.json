@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "vgt",
+    "lc": "vgt",
+    "gw": false,
+    "ang": "Flemish Sign Language",
     "alt": [
         "VGT",
         "Vlaams-Brabant (Flemish Brabant)",
@@ -7,17 +11,13 @@
         "Antwerpen (Antwerp)",
         "Limburg (Limburg)"
     ],
-    "ang": "Flemish Sign Language",
+    "ld": "ltr",
+    "ln": "Vlaamse Gebarentaal",
+    "hc": "BE",
     "cc": [
         "BE"
     ],
-    "hc": "BE",
-    "lc": "vgt",
-    "gw": false,
-    "ISO-639-3": "vgt",
-    "ld": "ltr",
-    "gwcode": "nl",
-    "pk": 6608,
     "lr": "Europe",
-    "ln": "Vlaamse Gebarentaal"
+    "gwcode": "nl",
+    "pk": 6608
 }

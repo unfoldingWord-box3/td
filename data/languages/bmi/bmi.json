@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bmi",
+    "lc": "bmi",
+    "gw": false,
+    "ang": "Bagirmi",
     "alt": [
         "Baghirmi",
         "Bagrimma",
@@ -10,17 +14,13 @@
         "Tar Bagrimma",
         "Tar Barma"
     ],
-    "ang": "Bagirmi",
+    "ld": "ltr",
+    "ln": "Bagirmi",
+    "hc": "TD",
     "cc": [
         "TD"
     ],
-    "hc": "TD",
-    "lc": "bmi",
-    "gw": false,
-    "ISO-639-3": "bmi",
-    "ld": "ltr",
-    "gwcode": "ar",
-    "pk": 789,
     "lr": "Africa",
-    "ln": "Bagirmi"
+    "gwcode": "ar",
+    "pk": 789
 }

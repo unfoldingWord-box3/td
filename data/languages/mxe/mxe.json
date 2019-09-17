@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mxe",
+    "lc": "mxe",
+    "gw": false,
+    "ang": "Mele-Fila",
     "alt": [
         "Fila-Mele",
         "Ifara-Mele",
@@ -6,17 +10,13 @@
         "Fila (Efira)",
         "Fira"
     ],
-    "ang": "Mele-Fila",
+    "ld": "ltr",
+    "ln": "Mele-Fila",
+    "hc": "VU",
     "cc": [
         "VU"
     ],
-    "hc": "VU",
-    "lc": "mxe",
-    "gw": false,
-    "ISO-639-3": "mxe",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 4218,
     "lr": "Pacific",
-    "ln": "Mele-Fila"
+    "gwcode": "fr",
+    "pk": 4218
 }

@@ -1,9 +1,15 @@
 {
+    "ISO-639-3": "mkd",
+    "lc": "mk",
+    "gw": false,
+    "ang": "Macedonian",
     "alt": [
         "Macedonian Slavic",
         "Makedonski"
     ],
-    "ang": "Macedonian",
+    "ld": "ltr",
+    "ln": "\u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0458\u0430\u0437\u0438\u043a",
+    "hc": "MK",
     "cc": [
         "GR",
         "DE",
@@ -15,13 +21,7 @@
         "IT",
         "BG"
     ],
-    "hc": "MK",
-    "lc": "mk",
-    "gw": false,
-    "ISO-639-3": "mkd",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 3901,
     "lr": "Europe",
-    "ln": "\u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0458\u0430\u0437\u0438\u043a"
+    "gwcode": "en",
+    "pk": 3901
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ade",
+    "lc": "ade",
+    "gw": false,
+    "ang": "Adele",
     "alt": [
         "Bidire",
         "Bedere",
@@ -7,18 +11,14 @@
         "Lower Adele",
         "Upper Adele"
     ],
-    "ang": "Adele",
+    "ld": "ltr",
+    "ln": "Adele",
+    "hc": "TG",
     "cc": [
         "GH",
         "TG"
     ],
-    "hc": "TG",
-    "lc": "ade",
-    "gw": false,
-    "ISO-639-3": "ade",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 74,
     "lr": "Africa",
-    "ln": "Adele"
+    "gwcode": "fr",
+    "pk": 74
 }

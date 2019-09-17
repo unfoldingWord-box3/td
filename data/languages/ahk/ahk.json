@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ahk",
+    "lc": "ahk",
+    "gw": false,
+    "ang": "Akha",
     "alt": [
         "Ahka",
         "Aini",
@@ -16,20 +20,16 @@
         "Hka Ko",
         "Khao Ikor"
     ],
-    "ang": "Akha",
+    "ld": "ltr",
+    "ln": "Akha",
+    "hc": "MM",
     "cc": [
         "CN",
         "LA",
         "TH",
         "MM"
     ],
-    "hc": "MM",
-    "lc": "ahk",
-    "gw": false,
-    "ISO-639-3": "ahk",
-    "ld": "ltr",
-    "gwcode": "my",
-    "pk": 152,
     "lr": "Asia",
-    "ln": "Akha"
+    "gwcode": "my",
+    "pk": 152
 }

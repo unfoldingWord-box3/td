@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "jad",
+    "lc": "jad",
+    "gw": false,
+    "ang": "Jahanka",
     "alt": [
         "Diakhanke",
         "Diakkanke",
@@ -7,7 +11,9 @@
         "Jahonque",
         "Jaxanka"
     ],
-    "ang": "Jahanka",
+    "ld": "ltr",
+    "ln": "Jahanka",
+    "hc": "GN",
     "cc": [
         "GM",
         "ML",
@@ -15,13 +21,7 @@
         "GN",
         "GW"
     ],
-    "hc": "GN",
-    "lc": "jad",
-    "gw": false,
-    "ISO-639-3": "jad",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 2567,
     "lr": "Africa",
-    "ln": "Jahanka"
+    "gwcode": "fr",
+    "pk": 2567
 }

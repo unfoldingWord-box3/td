@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "zea",
+    "lc": "zea",
+    "gw": false,
+    "ang": "Zeeuws",
     "alt": [
         "Zeaws",
         "Fluplands",
@@ -11,17 +15,13 @@
         "Bevelands",
         "Flakkees"
     ],
-    "ang": "Zeeuws",
+    "ld": "ltr",
+    "ln": "Zeeuws",
+    "hc": "NL",
     "cc": [
         "NL"
     ],
-    "hc": "NL",
-    "lc": "zea",
-    "gw": false,
-    "ISO-639-3": "zea",
-    "ld": "ltr",
-    "gwcode": "nl",
-    "pk": 7364,
     "lr": "Europe",
-    "ln": "Zeeuws"
+    "gwcode": "nl",
+    "pk": 7364
 }

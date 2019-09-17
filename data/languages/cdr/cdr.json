@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "cdr",
+    "lc": "cdr",
+    "gw": false,
+    "ang": "Kamuku",
     "alt": [
         "Cinda-Regi-Tiyal",
         "Tiyar",
@@ -15,17 +19,13 @@
         "Maruba",
         "Majinda"
     ],
-    "ang": "Kamuku",
+    "ld": "ltr",
+    "ln": "Cinda-Regi-Tiyal",
+    "hc": "NG",
     "cc": [
         "NG"
     ],
-    "hc": "NG",
-    "lc": "cdr",
-    "gw": false,
-    "ISO-639-3": "cdr",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 1170,
     "lr": "Africa",
-    "ln": "Cinda-Regi-Tiyal"
+    "gwcode": "en",
+    "pk": 1170
 }

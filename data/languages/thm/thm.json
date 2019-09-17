@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "thm",
+    "lc": "thm",
+    "gw": false,
+    "ang": "Aheu",
     "alt": [
         "Kha Tong Luang",
         "Phon Soung",
@@ -7,17 +11,13 @@
         "Thavung",
         "Sotawueng"
     ],
-    "ang": "Aheu",
+    "ld": "ltr",
+    "ln": "\u0e20\u0e32\u0e29\u0e32\u0e02\u0e48\u0e32\u0e15\u0e2d\u0e07\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07",
+    "hc": "TH",
     "cc": [
         "TH"
     ],
-    "hc": "TH",
-    "lc": "thm",
-    "gw": false,
-    "ISO-639-3": "thm",
-    "ld": "ltr",
-    "gwcode": "th",
-    "pk": 6109,
     "lr": "Asia",
-    "ln": "\u0e20\u0e32\u0e29\u0e32\u0e02\u0e48\u0e32\u0e15\u0e2d\u0e07\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07"
+    "gwcode": "th",
+    "pk": 6109
 }

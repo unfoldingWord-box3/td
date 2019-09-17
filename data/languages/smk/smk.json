@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "smk",
+    "lc": "smk",
+    "gw": false,
+    "ang": "Bolinao",
     "alt": [
         "Bino-Bolinao",
         "Binubolinao",
@@ -8,17 +12,13 @@
         "Bulinaw",
         "Sambal Bolinao"
     ],
-    "ang": "Bolinao",
+    "ld": "ltr",
+    "ln": "Bolinao",
+    "hc": "PH",
     "cc": [
         "PH"
     ],
-    "hc": "PH",
-    "lc": "smk",
-    "gw": false,
-    "ISO-639-3": "smk",
-    "ld": "ltr",
-    "gwcode": "tl",
-    "pk": 5711,
     "lr": "Asia",
-    "ln": "Bolinao"
+    "gwcode": "tl",
+    "pk": 5711
 }

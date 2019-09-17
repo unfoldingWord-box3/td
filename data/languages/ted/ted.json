@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ted",
+    "lc": "ted",
+    "gw": false,
+    "ang": "Krumen, Tepo",
     "alt": [
         "Kroumen",
         "Kru",
@@ -8,18 +12,14 @@
         "Yrepo (Kapo)",
         "Wlopo (Ropo)"
     ],
-    "ang": "Krumen, Tepo",
+    "ld": "ltr",
+    "ln": "Tepo Krumen",
+    "hc": "CI",
     "cc": [
         "CI",
         "LR"
     ],
-    "hc": "CI",
-    "lc": "ted",
-    "gw": false,
-    "ISO-639-3": "ted",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 6055,
     "lr": "Africa",
-    "ln": "Tepo Krumen"
+    "gwcode": "fr",
+    "pk": 6055
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "wad",
+    "lc": "wad",
+    "gw": false,
+    "ang": "Wandamen",
     "alt": [
         "Bentoeni",
         "Bentuni",
@@ -6,17 +10,13 @@
         "Windessi",
         "Wamesa (Ubu)"
     ],
-    "ang": "Wandamen",
+    "ld": "ltr",
+    "ln": "Wandamen",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "wad",
-    "gw": false,
-    "ISO-639-3": "wad",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 6667,
     "lr": "Asia",
-    "ln": "Wandamen"
+    "gwcode": "id",
+    "pk": 6667
 }

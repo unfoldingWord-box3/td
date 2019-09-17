@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ndh",
+    "lc": "ndh",
+    "gw": false,
+    "ang": "Ndali",
     "alt": [
         "Chindali",
         "Cindali",
@@ -8,18 +12,14 @@
         "Ndari",
         "Sukwa"
     ],
-    "ang": "Ndali",
+    "ld": "ltr",
+    "ln": "Ndali",
+    "hc": "TZ",
     "cc": [
         "TZ",
         "MW"
     ],
-    "hc": "TZ",
-    "lc": "ndh",
-    "gw": false,
-    "ISO-639-3": "ndh",
-    "ld": "ltr",
-    "gwcode": "sw",
-    "pk": 4360,
     "lr": "Africa",
-    "ln": "Ndali"
+    "gwcode": "sw",
+    "pk": 4360
 }

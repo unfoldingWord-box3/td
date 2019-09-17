@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "min",
+    "lc": "min",
+    "gw": false,
+    "ang": "Minangkabau",
     "alt": [
         "Minang",
         "Padang",
@@ -6,17 +10,13 @@
         "Pancuang Soal (Muko-Muko)",
         "Penghulu"
     ],
-    "ang": "Minangkabau",
+    "ld": "ltr",
+    "ln": "Minangkabau",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "min",
-    "gw": false,
-    "ISO-639-3": "min",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 3867,
     "lr": "Asia",
-    "ln": "Minangkabau"
+    "gwcode": "id",
+    "pk": 3867
 }

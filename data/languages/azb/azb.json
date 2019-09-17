@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "azb",
+    "lc": "azb",
+    "gw": false,
+    "ang": "Azerbaijani, South",
     "alt": [
         "Torki",
         "Azeri",
@@ -9,20 +13,16 @@
         "Shahsavani (Shahseven)",
         "Aynallu (Inallu)"
     ],
-    "ang": "Azerbaijani, South",
+    "ld": "ltr",
+    "ln": "South Azerbaijani",
+    "hc": "IR",
     "cc": [
         "IR",
         "IQ",
         "SY",
         "JO"
     ],
-    "hc": "IR",
-    "lc": "azb",
-    "gw": false,
-    "ISO-639-3": "azb",
-    "ld": "ltr",
-    "gwcode": "fa",
-    "pk": 479,
     "lr": "Asia",
-    "ln": "South Azerbaijani"
+    "gwcode": "fa",
+    "pk": 479
 }

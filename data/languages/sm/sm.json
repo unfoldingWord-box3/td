@@ -1,8 +1,14 @@
 {
+    "ISO-639-3": "smo",
+    "lc": "sm",
+    "gw": false,
+    "ang": "Samoan",
     "alt": [
         "Gagana Samoa"
     ],
-    "ang": "Samoan",
+    "ld": "ltr",
+    "ln": "gagana fa'a Samoa",
+    "hc": "WS",
     "cc": [
         "FJ",
         "NZ",
@@ -12,13 +18,7 @@
         "WS",
         "VU"
     ],
-    "hc": "WS",
-    "lc": "sm",
-    "gw": false,
-    "ISO-639-3": "smo",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5702,
     "lr": "Pacific",
-    "ln": "gagana fa'a Samoa"
+    "gwcode": "en",
+    "pk": 5702
 }

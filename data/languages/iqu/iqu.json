@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "iqu",
+    "lc": "iqu",
+    "gw": false,
+    "ang": "Iquito",
     "alt": [
         "Amacacore",
         "Hamacore",
@@ -8,17 +12,13 @@
         "Quiturran",
         "Pintuyacu"
     ],
-    "ang": "Iquito",
+    "ld": "ltr",
+    "ln": "Iquito",
+    "hc": "PE",
     "cc": [
         "PE"
     ],
-    "hc": "PE",
-    "lc": "iqu",
-    "gw": false,
-    "ISO-639-3": "iqu",
-    "ld": "ltr",
-    "gwcode": "es-419",
-    "pk": 2505,
     "lr": "Americas",
-    "ln": "Iquito"
+    "gwcode": "es-419",
+    "pk": 2505
 }

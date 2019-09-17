@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "twm",
+    "lc": "twm",
+    "gw": false,
+    "ang": "Monpa, Tawang",
     "alt": [
         "Buruomi",
         "Buruomiba",
@@ -23,18 +27,14 @@
         "Northern Cuona",
         "Southern Cuona"
     ],
-    "ang": "Monpa, Tawang",
+    "ld": "ltr",
+    "ln": "Tawang Monpa",
+    "hc": "IN",
     "cc": [
         "CN",
         "IN"
     ],
-    "hc": "IN",
-    "lc": "twm",
-    "gw": false,
-    "ISO-639-3": "twm",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 6413,
     "lr": "Asia",
-    "ln": "Tawang Monpa"
+    "gwcode": "en",
+    "pk": 6413
 }

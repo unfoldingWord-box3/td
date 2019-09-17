@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ths",
+    "lc": "ths",
+    "gw": false,
+    "ang": "Thakali",
     "alt": [
         "Barhagaule",
         "Panchgaunle",
@@ -9,17 +13,13 @@
         "Tukuche (Tamhang Thakali)",
         "Marpha (Puntan Thakali)"
     ],
-    "ang": "Thakali",
+    "ld": "ltr",
+    "ln": "Thakali",
+    "hc": "NP",
     "cc": [
         "NP"
     ],
-    "hc": "NP",
-    "lc": "ths",
-    "gw": false,
-    "ISO-639-3": "ths",
-    "ld": "ltr",
-    "gwcode": "ne",
-    "pk": 6114,
     "lr": "Asia",
-    "ln": "Thakali"
+    "gwcode": "ne",
+    "pk": 6114
 }

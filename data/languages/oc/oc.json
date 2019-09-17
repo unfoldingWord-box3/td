@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "oci",
+    "lc": "oc",
+    "gw": false,
+    "ang": "Occitan",
     "alt": [
         "Aran\u00e9s",
         "Aran\u00e9s Occit\u00e1n",
@@ -19,19 +23,15 @@
         "Limousin (Lemosin)",
         "Aranese Occit\u00e1n"
     ],
-    "ang": "Occitan",
+    "ld": "ltr",
+    "ln": "occitan, lenga d'\u00f2c",
+    "hc": "FR",
     "cc": [
         "FR",
         "ES",
         "MC"
     ],
-    "hc": "FR",
-    "lc": "oc",
-    "gw": false,
-    "ISO-639-3": "oci",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 4768,
     "lr": "Europe",
-    "ln": "occitan, lenga d'\u00f2c"
+    "gwcode": "fr",
+    "pk": 4768
 }

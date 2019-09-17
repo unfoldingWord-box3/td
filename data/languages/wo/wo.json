@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "wol",
+    "lc": "wo",
+    "gw": false,
+    "ang": "Wolof",
     "alt": [
         "Ouolof",
         "Volof",
@@ -9,7 +13,9 @@
         "Jolof",
         "Lebou (Lebu)"
     ],
-    "ang": "Wolof",
+    "ld": "ltr",
+    "ln": "Wollof",
+    "hc": "SN",
     "cc": [
         "GA",
         "ML",
@@ -20,13 +26,7 @@
         "GW",
         "IT"
     ],
-    "hc": "SN",
-    "lc": "wo",
-    "gw": false,
-    "ISO-639-3": "wol",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 6787,
     "lr": "Africa",
-    "ln": "Wollof"
+    "gwcode": "fr",
+    "pk": 6787
 }

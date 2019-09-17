@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "afb",
+    "lc": "afb",
+    "gw": false,
+    "ang": "Arabic, Gulf Spoken",
     "alt": [
         "Khamseh",
         "Al-Has\u00e2",
@@ -9,7 +13,9 @@
         "Qatari",
         "Gulf Spoken"
     ],
-    "ang": "Arabic, Gulf Spoken",
+    "ld": "rtl",
+    "ln": "\u062e\u0644\u064a\u062c\u064a",
+    "hc": "KW",
     "cc": [
         "IR",
         "OM",
@@ -25,13 +31,7 @@
         "QA",
         "AE"
     ],
-    "hc": "KW",
-    "lc": "afb",
-    "gw": false,
-    "ISO-639-3": "afb",
-    "ld": "rtl",
-    "gwcode": "ar",
-    "pk": 108,
     "lr": "Asia",
-    "ln": "\u062e\u0644\u064a\u062c\u064a"
+    "gwcode": "ar",
+    "pk": 108
 }

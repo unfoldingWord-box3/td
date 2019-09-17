@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "sth",
+    "lc": "sth",
+    "gw": false,
+    "ang": "Shelta",
     "alt": [
         "Cant",
         "Gammon",
@@ -6,18 +10,14 @@
         "Sheldru",
         "The Cant"
     ],
-    "ang": "Shelta",
+    "ld": "ltr",
+    "ln": "Shelta",
+    "hc": "IE",
     "cc": [
         "GB",
         "IE"
     ],
-    "hc": "IE",
-    "lc": "sth",
-    "gw": false,
-    "ISO-639-3": "sth",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5858,
     "lr": "Europe",
-    "ln": "Shelta"
+    "gwcode": "en",
+    "pk": 5858
 }

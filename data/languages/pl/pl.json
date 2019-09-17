@@ -1,9 +1,15 @@
 {
+    "ISO-639-3": "pol",
+    "lc": "pl",
+    "gw": false,
+    "ang": "Polish",
     "alt": [
         "Polski",
         "Polnisch"
     ],
-    "ang": "Polish",
+    "ld": "ltr",
+    "ln": "j\u0119zyk polski, polszczyzna",
+    "hc": "PL",
     "cc": [
         "AT",
         "BR",
@@ -31,13 +37,7 @@
         "IE",
         "UA"
     ],
-    "hc": "PL",
-    "lc": "pl",
-    "gw": false,
-    "ISO-639-3": "pol",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5061,
     "lr": "Europe",
-    "ln": "j\u0119zyk polski, polszczyzna"
+    "gwcode": "en",
+    "pk": 5061
 }

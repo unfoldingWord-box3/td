@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mam",
+    "lc": "mam",
+    "gw": false,
+    "ang": "Mam",
     "alt": [
         "Huehuetenango Mam",
         "Todos Santos Mam",
@@ -24,18 +28,14 @@
         "Quetzaltenango Mam",
         "San Marcos Comitancillas Mam"
     ],
-    "ang": "Mam",
+    "ld": "ltr",
+    "ln": "Mam",
+    "hc": "GT",
     "cc": [
         "GT",
         "US"
     ],
-    "hc": "GT",
-    "lc": "mam",
-    "gw": false,
-    "ISO-639-3": "mam",
-    "ld": "ltr",
-    "gwcode": "es-419",
-    "pk": 3668,
     "lr": "Americas",
-    "ln": "Mam"
+    "gwcode": "es-419",
+    "pk": 3668
 }

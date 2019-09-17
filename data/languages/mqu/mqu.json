@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mqu",
+    "lc": "mqu",
+    "gw": false,
+    "ang": "Mandari",
     "alt": [
         "Chir",
         "Kir",
@@ -6,17 +10,13 @@
         "Mundari",
         "Shir"
     ],
-    "ang": "Mandari",
+    "ld": "ltr",
+    "ln": "Mandari",
+    "hc": "SS",
     "cc": [
         "SS"
     ],
-    "hc": "SS",
-    "lc": "mqu",
-    "gw": false,
-    "ISO-639-3": "mqu",
-    "ld": "ltr",
-    "gwcode": "ar",
-    "pk": 4064,
     "lr": "Africa",
-    "ln": "Mandari"
+    "gwcode": "ar",
+    "pk": 4064
 }

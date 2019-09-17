@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "gvr",
+    "lc": "gvr",
+    "gw": false,
+    "ang": "Gurung, Western",
     "alt": [
         "Khas Kura",
         "Gurung Kura",
@@ -7,18 +11,14 @@
         "Northwestern Gurung (Kaski Gurung)",
         "Southern Gurung (Syangja Gurung)"
     ],
-    "ang": "Gurung, Western",
+    "ld": "ltr",
+    "ln": "Western Gurung",
+    "hc": "NP",
     "cc": [
         "BT",
         "NP"
     ],
-    "hc": "NP",
-    "lc": "gvr",
-    "gw": false,
-    "ISO-639-3": "gvr",
-    "ld": "ltr",
-    "gwcode": "ne",
-    "pk": 2187,
     "lr": "Asia",
-    "ln": "Western Gurung"
+    "gwcode": "ne",
+    "pk": 2187
 }

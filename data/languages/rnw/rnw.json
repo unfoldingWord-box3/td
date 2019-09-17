@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "rnw",
+    "lc": "rnw",
+    "gw": false,
+    "ang": "Rungwa",
     "alt": [
         "Ichirungwa",
         "Icilungwa",
@@ -6,17 +10,13 @@
         "Lungwa",
         "Runga"
     ],
-    "ang": "Rungwa",
+    "ld": "ltr",
+    "ln": "Rungwa",
+    "hc": "TZ",
     "cc": [
         "TZ"
     ],
-    "hc": "TZ",
-    "lc": "rnw",
-    "gw": false,
-    "ISO-639-3": "rnw",
-    "ld": "ltr",
-    "gwcode": "sw",
-    "pk": 5404,
     "lr": "Africa",
-    "ln": "Rungwa"
+    "gwcode": "sw",
+    "pk": 5404
 }

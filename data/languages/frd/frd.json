@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "frd",
+    "lc": "frd",
+    "gw": false,
+    "ang": "Fordata",
     "alt": [
         "Larat",
         "Vai Fordata",
@@ -9,17 +13,13 @@
         "Molo (Molo-Maru)",
         "Sera (Seira)"
     ],
-    "ang": "Fordata",
+    "ld": "ltr",
+    "ln": "Fordata",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "frd",
-    "gw": false,
-    "ISO-639-3": "frd",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 1870,
     "lr": "Asia",
-    "ln": "Fordata"
+    "gwcode": "id",
+    "pk": 1870
 }

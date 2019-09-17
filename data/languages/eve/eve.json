@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "eve",
+    "lc": "eve",
+    "gw": false,
+    "ang": "Even",
     "alt": [
         "Eben",
         "Ewen",
@@ -6,17 +10,13 @@
         "Lamut",
         "Orich"
     ],
-    "ang": "Even",
+    "ld": "ltr",
+    "ln": "\u042d\u0432\u0435\u043d\u0441\u043a\u0438\u0439",
+    "hc": "RU",
     "cc": [
         "RU"
     ],
-    "hc": "RU",
-    "lc": "eve",
-    "gw": false,
-    "ISO-639-3": "eve",
-    "ld": "ltr",
-    "gwcode": "ru",
-    "pk": 1802,
     "lr": "Europe",
-    "ln": "\u042d\u0432\u0435\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru",
+    "pk": 1802
 }

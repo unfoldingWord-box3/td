@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "sna",
+    "lc": "sn",
+    "gw": false,
+    "ang": "Shona",
     "alt": [
         "Chishona",
         "Zezuru",
@@ -18,7 +22,9 @@
         "Wazezuru",
         "Makorekore"
     ],
-    "ang": "Shona",
+    "ld": "ltr",
+    "ln": "chiShona",
+    "hc": "ZW",
     "cc": [
         "MZ",
         "ZA",
@@ -27,13 +33,7 @@
         "CA",
         "BW"
     ],
-    "hc": "ZW",
-    "lc": "sn",
-    "gw": false,
-    "ISO-639-3": "sna",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5726,
     "lr": "Africa",
-    "ln": "chiShona"
+    "gwcode": "en",
+    "pk": 5726
 }

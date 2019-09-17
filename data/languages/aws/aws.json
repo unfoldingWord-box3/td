@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "aws",
+    "lc": "aws",
+    "gw": false,
+    "ang": "Awyu, South",
     "alt": [
         "Jenimu",
         "Oser",
@@ -7,17 +11,13 @@
         "Syiagha",
         "Yenimu"
     ],
-    "ang": "Awyu, South",
+    "ld": "ltr",
+    "ln": "South Awyu",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "aws",
-    "gw": false,
-    "ISO-639-3": "aws",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 447,
     "lr": "Asia",
-    "ln": "South Awyu"
+    "gwcode": "id",
+    "pk": 447
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tts",
+    "lc": "tts",
+    "gw": false,
+    "ang": "Thai, Northeastern",
     "alt": [
         "Isaan",
         "Isan",
@@ -8,18 +12,14 @@
         "Kaleung",
         "Kaloeng"
     ],
-    "ang": "Thai, Northeastern",
+    "ld": "ltr",
+    "ln": "Northeastern Thai",
+    "hc": "TH",
     "cc": [
         "LA",
         "TH"
     ],
-    "hc": "TH",
-    "lc": "tts",
-    "gw": false,
-    "ISO-639-3": "tts",
-    "ld": "ltr",
-    "gwcode": "th",
-    "pk": 6366,
     "lr": "Asia",
-    "ln": "Northeastern Thai"
+    "gwcode": "th",
+    "pk": 6366
 }

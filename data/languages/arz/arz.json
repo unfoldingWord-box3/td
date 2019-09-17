@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "arz",
+    "lc": "arz",
+    "gw": false,
+    "ang": "Arabic, Egyptian Spoken",
     "alt": [
         "Lower Egypt Arabic",
         "Masri",
@@ -6,7 +10,9 @@
         "Normal Egyptian Arabic",
         "South Central Delta Arabic"
     ],
-    "ang": "Arabic, Egyptian Spoken",
+    "ld": "rtl",
+    "ln": "\u0627\u0644\u0644\u063a\u0647 \u0627\u0644\u0645\u0635\u0631\u064a\u0647 \u0627\u0644\u0639\u0627\u0645\u064a\u0647",
+    "hc": "EG",
     "cc": [
         "DZ",
         "BE",
@@ -30,13 +36,7 @@
         "QA",
         "AE"
     ],
-    "hc": "EG",
-    "lc": "arz",
-    "gw": false,
-    "ISO-639-3": "arz",
-    "ld": "rtl",
-    "gwcode": "ar",
-    "pk": 355,
     "lr": "Africa",
-    "ln": "\u0627\u0644\u0644\u063a\u0647 \u0627\u0644\u0645\u0635\u0631\u064a\u0647 \u0627\u0644\u0639\u0627\u0645\u064a\u0647"
+    "gwcode": "ar",
+    "pk": 355
 }

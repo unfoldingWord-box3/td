@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tmf",
+    "lc": "tmf",
+    "gw": false,
+    "ang": "Toba-Maskoy",
     "alt": [
         "Cabanatit",
         "Enenxet",
@@ -6,17 +10,13 @@
         "Quilyilhrayrom",
         "Toba of Paraguay"
     ],
-    "ang": "Toba-Maskoy",
+    "ld": "ltr",
+    "ln": "Toba-Maskoy",
+    "hc": "PY",
     "cc": [
         "PY"
     ],
-    "hc": "PY",
-    "lc": "tmf",
-    "gw": false,
-    "ISO-639-3": "tmf",
-    "ld": "ltr",
-    "gwcode": "es-419",
-    "pk": 6200,
     "lr": "Americas",
-    "ln": "Toba-Maskoy"
+    "gwcode": "es-419",
+    "pk": 6200
 }

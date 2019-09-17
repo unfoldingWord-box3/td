@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "nmd",
+    "lc": "nmd",
+    "gw": false,
+    "ang": "Ndumu",
     "alt": [
         "Bandoumou",
         "Doumbou",
@@ -13,18 +17,14 @@
         "Ondoumbo",
         "Ondumbo"
     ],
-    "ang": "Ndumu",
+    "ld": "ltr",
+    "ln": "Ndumu",
+    "hc": "GA",
     "cc": [
         "GA",
         "CG"
     ],
-    "hc": "GA",
-    "lc": "nmd",
-    "gw": false,
-    "ISO-639-3": "nmd",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 4537,
     "lr": "Africa",
-    "ln": "Ndumu"
+    "gwcode": "fr",
+    "pk": 4537
 }

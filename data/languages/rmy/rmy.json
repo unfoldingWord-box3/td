@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "rmy",
+    "lc": "rmy",
+    "gw": false,
+    "ang": "Romani, Vlax",
     "alt": [
         "Danubian",
         "Gypsy",
@@ -28,7 +32,9 @@
         "Arli",
         "Kalderash (Kaldar\u00e1ri)"
     ],
-    "ang": "Romani, Vlax",
+    "ld": "ltr",
+    "ln": "Vlax Romani",
+    "hc": "RO",
     "cc": [
         "DZ",
         "BE",
@@ -53,13 +59,7 @@
         "IT",
         "PT"
     ],
-    "hc": "RO",
-    "lc": "rmy",
-    "gw": false,
-    "ISO-639-3": "rmy",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5396,
     "lr": "Europe",
-    "ln": "Vlax Romani"
+    "gwcode": "en",
+    "pk": 5396
 }

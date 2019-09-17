@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mpe",
+    "lc": "mpe",
+    "gw": false,
+    "ang": "Majang",
     "alt": [
         "Ajo",
         "Ato Majang",
@@ -9,17 +13,13 @@
         "Ojanjur",
         "Tama"
     ],
-    "ang": "Majang",
+    "ld": "ltr",
+    "ln": "Majang",
+    "hc": "ET",
     "cc": [
         "ET"
     ],
-    "hc": "ET",
-    "lc": "mpe",
-    "gw": false,
-    "ISO-639-3": "mpe",
-    "ld": "ltr",
-    "gwcode": "am",
-    "pk": 4025,
     "lr": "Africa",
-    "ln": "Majang"
+    "gwcode": "am",
+    "pk": 4025
 }

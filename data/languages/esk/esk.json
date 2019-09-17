@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "esk",
+    "lc": "esk",
+    "gw": false,
+    "ang": "Inupiatun, Northwest Alaska",
     "alt": [
         "Inupiatun",
         "Northwest Alaska Inupiat",
@@ -9,17 +13,13 @@
         "Southern Malimiut Inupiatun",
         "King Island Inupiatun (Bering Strait Inupiatun)"
     ],
-    "ang": "Inupiatun, Northwest Alaska",
+    "ld": "ltr",
+    "ln": "Northwest Alaska Inupiatun",
+    "hc": "US",
     "cc": [
         "US"
     ],
-    "hc": "US",
-    "lc": "esk",
-    "gw": false,
-    "ISO-639-3": "esk",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 1780,
     "lr": "Americas",
-    "ln": "Northwest Alaska Inupiatun"
+    "gwcode": "en",
+    "pk": 1780
 }

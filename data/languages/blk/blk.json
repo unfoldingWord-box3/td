@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "blk",
+    "lc": "blk",
+    "gw": false,
+    "ang": "Pa\u2019o",
     "alt": [
         "Black Karen",
         "Northern Taungthu",
@@ -10,18 +14,14 @@
         "Taungtu",
         "Southern Pa'o"
     ],
-    "ang": "Pa\u2019o",
+    "ld": "ltr",
+    "ln": "Pa'o Karen",
+    "hc": "MM",
     "cc": [
         "TH",
         "MM"
     ],
-    "hc": "MM",
-    "lc": "blk",
-    "gw": false,
-    "ISO-639-3": "blk",
-    "ld": "ltr",
-    "gwcode": "my",
-    "pk": 765,
     "lr": "Asia",
-    "ln": "Pa'o Karen"
+    "gwcode": "my",
+    "pk": 765
 }

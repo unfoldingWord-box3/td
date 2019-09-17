@@ -1,11 +1,17 @@
 {
+    "ISO-639-3": "srp",
+    "lc": "sr",
+    "gw": false,
+    "ang": "Serbian",
     "alt": [
         "Montenegrin",
         "Bosnian",
         "Shtokavski (Stokavian)",
         "Torlakian"
     ],
-    "ang": "Serbian",
+    "ld": "ltr",
+    "ln": "\u0441\u0440\u043f\u0441\u043a\u0438 \u0458\u0435\u0437\u0438\u043a",
+    "hc": "RS",
     "cc": [
         "BE",
         "CL",
@@ -25,13 +31,7 @@
         "AU",
         "CA"
     ],
-    "hc": "RS",
-    "lc": "sr",
-    "gw": false,
-    "ISO-639-3": "srp",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5803,
     "lr": "Europe",
-    "ln": "\u0441\u0440\u043f\u0441\u043a\u0438 \u0458\u0435\u0437\u0438\u043a"
+    "gwcode": "en",
+    "pk": 5803
 }

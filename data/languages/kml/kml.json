@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "kml",
+    "lc": "kml",
+    "gw": false,
+    "ang": "Kalinga, Tanudan",
     "alt": [
         "Lower Tanudan",
         "Lower Tanudan Kalinga",
@@ -7,17 +11,13 @@
         "Minangali",
         "Pinangol"
     ],
-    "ang": "Kalinga, Tanudan",
+    "ld": "ltr",
+    "ln": "Tanudan Kalinga",
+    "hc": "PH",
     "cc": [
         "PH"
     ],
-    "hc": "PH",
-    "lc": "kml",
-    "gw": false,
-    "ISO-639-3": "kml",
-    "ld": "ltr",
-    "gwcode": "ilo",
-    "pk": 2998,
     "lr": "Asia",
-    "ln": "Tanudan Kalinga"
+    "gwcode": "ilo",
+    "pk": 2998
 }

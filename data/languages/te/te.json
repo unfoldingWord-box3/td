@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tel",
+    "lc": "te",
+    "gw": true,
+    "ang": "Telugu",
     "alt": [
         "Andhra",
         "Gentoo",
@@ -12,7 +16,9 @@
         "Vishakhapatnam",
         "Yanadi (Yenadi)"
     ],
-    "ang": "Telugu",
+    "ld": "ltr",
+    "ln": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+    "hc": "IN",
     "cc": [
         "BD",
         "LK",
@@ -26,13 +32,7 @@
         "BH",
         "AE"
     ],
-    "hc": "IN",
-    "lc": "te",
-    "gw": true,
-    "ISO-639-3": "tel",
-    "ld": "ltr",
-    "gwcode": null,
-    "pk": 6052,
     "lr": "Asia",
-    "ln": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    "gwcode": null,
+    "pk": 6052
 }

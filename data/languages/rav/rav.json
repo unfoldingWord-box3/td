@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "rav",
+    "lc": "rav",
+    "gw": false,
+    "ang": "Sampang",
     "alt": [
         "Sampang Gun",
         "Sampang Gung",
@@ -9,17 +13,13 @@
         "Sangpang Gun",
         "Sangpang Kha"
     ],
-    "ang": "Sampang",
+    "ld": "ltr",
+    "ln": "Sampang",
+    "hc": "NP",
     "cc": [
         "NP"
     ],
-    "hc": "NP",
-    "lc": "rav",
-    "gw": false,
-    "ISO-639-3": "rav",
-    "ld": "ltr",
-    "gwcode": "ne",
-    "pk": 5325,
     "lr": "Asia",
-    "ln": "Sampang"
+    "gwcode": "ne",
+    "pk": 5325
 }

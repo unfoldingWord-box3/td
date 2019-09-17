@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "syl",
+    "lc": "syl",
+    "gw": false,
+    "ang": "Sylheti",
     "alt": [
         "Sileti",
         "Siloti",
@@ -11,17 +15,13 @@
         "Sylheti Bangla",
         "Sylheti Bengali"
     ],
-    "ang": "Sylheti",
+    "ld": "ltr",
+    "ln": "Sylheti",
+    "hc": "BD",
     "cc": [
         "BD"
     ],
-    "hc": "BD",
-    "lc": "syl",
-    "gw": false,
-    "ISO-639-3": "syl",
-    "ld": "ltr",
-    "gwcode": "bn",
-    "pk": 5943,
     "lr": "Asia",
-    "ln": "Sylheti"
+    "gwcode": "bn",
+    "pk": 5943
 }

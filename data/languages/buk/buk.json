@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "buk",
+    "lc": "buk",
+    "gw": false,
+    "ang": "Bugawac",
     "alt": [
         "Bukaua",
         "Bukawac",
@@ -12,17 +16,13 @@
         "Central Bugawac",
         "South-Western Bugawac"
     ],
-    "ang": "Bugawac",
+    "ld": "ltr",
+    "ln": "Bugawac",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "buk",
-    "gw": false,
-    "ISO-639-3": "buk",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 980,
     "lr": "Pacific",
-    "ln": "Bugawac"
+    "gwcode": "tpi",
+    "pk": 980
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "rwm",
+    "lc": "rwm",
+    "gw": false,
+    "ang": "Amba",
     "alt": [
         "Hambo",
         "Humu",
@@ -15,17 +19,13 @@
         "Kigumu (Hamba)",
         "Kyanzi (Kihyanzi)"
     ],
-    "ang": "Amba",
+    "ld": "ltr",
+    "ln": "Amba (Uganda)",
+    "hc": "UG",
     "cc": [
         "UG"
     ],
-    "hc": "UG",
-    "lc": "rwm",
-    "gw": false,
-    "ISO-639-3": "rwm",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5450,
     "lr": "Africa",
-    "ln": "Amba (Uganda)"
+    "gwcode": "en",
+    "pk": 5450
 }

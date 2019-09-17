@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "srb",
+    "lc": "srb",
+    "gw": false,
+    "ang": "Sora",
     "alt": [
         "Sabara",
         "Saonras",
@@ -10,17 +14,13 @@
         "Soura",
         "Swara"
     ],
-    "ang": "Sora",
+    "ld": "ltr",
+    "ln": "Sora",
+    "hc": "IN",
     "cc": [
         "IN"
     ],
-    "hc": "IN",
-    "lc": "srb",
-    "gw": false,
-    "ISO-639-3": "srb",
-    "ld": "ltr",
-    "gwcode": "or",
-    "pk": 5805,
     "lr": "Asia",
-    "ln": "Sora"
+    "gwcode": "or",
+    "pk": 5805
 }

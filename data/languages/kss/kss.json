@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "kss",
+    "lc": "kss",
+    "gw": false,
+    "ang": "Kisi, Southern",
     "alt": [
         "Gisi",
         "Gizi",
@@ -6,18 +10,14 @@
         "Kissien",
         "Kisi"
     ],
-    "ang": "Kisi, Southern",
+    "ld": "ltr",
+    "ln": "Southern Kisi",
+    "hc": "LR",
     "cc": [
         "LR",
         "SL"
     ],
-    "hc": "LR",
-    "lc": "kss",
-    "gw": false,
-    "ISO-639-3": "kss",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 3151,
     "lr": "Africa",
-    "ln": "Southern Kisi"
+    "gwcode": "en",
+    "pk": 3151
 }

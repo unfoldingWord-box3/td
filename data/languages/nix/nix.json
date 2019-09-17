@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "nix",
+    "lc": "nix",
+    "gw": false,
+    "ang": "Hema",
     "alt": [
         "Congo Nyoro",
         "Hema-Sud",
@@ -8,18 +12,14 @@
         "Runyoro",
         "Southern Hema"
     ],
-    "ang": "Hema",
+    "ld": "ltr",
+    "ln": "Hema",
+    "hc": "CD",
     "cc": [
         "CD",
         "UG"
     ],
-    "hc": "CD",
-    "lc": "nix",
-    "gw": false,
-    "ISO-639-3": "nix",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 4475,
     "lr": "Africa",
-    "ln": "Hema"
+    "gwcode": "fr",
+    "pk": 4475
 }

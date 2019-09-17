@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "kan",
+    "lc": "kn",
+    "gw": true,
+    "ang": "Kannada",
     "alt": [
         "Banglori",
         "Canarese",
@@ -9,7 +13,9 @@
         "Kumta",
         "Nanjangud"
     ],
-    "ang": "Kannada",
+    "ld": "ltr",
+    "ln": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
+    "hc": "IN",
     "cc": [
         "MY",
         "US",
@@ -17,13 +23,7 @@
         "IN",
         "SG"
     ],
-    "hc": "IN",
-    "lc": "kn",
-    "gw": true,
-    "ISO-639-3": "kan",
-    "ld": "ltr",
-    "gwcode": null,
-    "pk": 3013,
     "lr": "Asia",
-    "ln": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca1"
+    "gwcode": null,
+    "pk": 3013
 }

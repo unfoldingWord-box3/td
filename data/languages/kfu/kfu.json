@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "kfu",
+    "lc": "kfu",
+    "gw": false,
+    "ang": "Katkari",
     "alt": [
         "Katakari",
         "Katari",
@@ -7,17 +11,13 @@
         "Northern Katkari",
         "Southern Katkari"
     ],
-    "ang": "Katkari",
+    "ld": "ltr",
+    "ln": "Katkari",
+    "hc": "IN",
     "cc": [
         "IN"
     ],
-    "hc": "IN",
-    "lc": "kfu",
-    "gw": false,
-    "ISO-639-3": "kfu",
-    "ld": "ltr",
-    "gwcode": "mr",
-    "pk": 2829,
     "lr": "Asia",
-    "ln": "Katkari"
+    "gwcode": "mr",
+    "pk": 2829
 }

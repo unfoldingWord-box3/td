@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "emg",
+    "lc": "emg",
+    "gw": false,
+    "ang": "Mewahang, Eastern",
     "alt": [
         "Eastern Meohang",
         "Mewahang",
@@ -7,17 +11,13 @@
         "Newang",
         "Newange Rai"
     ],
-    "ang": "Mewahang, Eastern",
+    "ld": "ltr",
+    "ln": "Eastern Meohang",
+    "hc": "NP",
     "cc": [
         "NP"
     ],
-    "hc": "NP",
-    "lc": "emg",
-    "gw": false,
-    "ISO-639-3": "emg",
-    "ld": "ltr",
-    "gwcode": "ne",
-    "pk": 1736,
     "lr": "Asia",
-    "ln": "Eastern Meohang"
+    "gwcode": "ne",
+    "pk": 1736
 }

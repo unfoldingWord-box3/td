@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "fpe",
+    "lc": "fpe",
+    "gw": false,
+    "ang": "Equatorial Guinean Pidgin",
     "alt": [
         "Criollo",
         "Fernandino",
@@ -8,17 +12,13 @@
         "Pidgin de Guinea Ecuatorial",
         "Pidginglis"
     ],
-    "ang": "Equatorial Guinean Pidgin",
+    "ld": "ltr",
+    "ln": "Fernando Po Creole English",
+    "hc": "GQ",
     "cc": [
         "GQ"
     ],
-    "hc": "GQ",
-    "lc": "fpe",
-    "gw": false,
-    "ISO-639-3": "fpe",
-    "ld": "ltr",
-    "gwcode": "es",
-    "pk": 1866,
     "lr": "Africa",
-    "ln": "Fernando Po Creole English"
+    "gwcode": "es",
+    "pk": 1866
 }

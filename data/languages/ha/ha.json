@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "hau",
+    "lc": "ha",
+    "gw": true,
+    "ang": "Hausa",
     "alt": [
         "Haoussa",
         "Hawsa",
@@ -9,7 +13,9 @@
         "Kado",
         "Mgbakpa"
     ],
-    "ang": "Hausa",
+    "ld": "ltr",
+    "ln": "(Hausa) \u0647\u064e\u0648\u064f\u0633\u064e",
+    "hc": "NG",
     "cc": [
         "DZ",
         "BJ",
@@ -29,13 +35,7 @@
         "CA",
         "GN"
     ],
-    "hc": "NG",
-    "lc": "ha",
-    "gw": true,
-    "ISO-639-3": "hau",
-    "ld": "ltr",
-    "gwcode": null,
-    "pk": 2217,
     "lr": "Africa",
-    "ln": "(Hausa) \u0647\u064e\u0648\u064f\u0633\u064e"
+    "gwcode": null,
+    "pk": 2217
 }

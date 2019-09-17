@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "dnw",
+    "lc": "dnw",
+    "gw": false,
+    "ang": "Dani, Western",
     "alt": [
         "Dani Barat",
         "Ilaga Western Dani",
@@ -7,17 +11,13 @@
         "Oeringoep",
         "Timorini"
     ],
-    "ang": "Dani, Western",
+    "ld": "ltr",
+    "ln": "Western Dani",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "dnw",
-    "gw": false,
-    "ISO-639-3": "dnw",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 1591,
     "lr": "Asia",
-    "ln": "Western Dani"
+    "gwcode": "id",
+    "pk": 1591
 }

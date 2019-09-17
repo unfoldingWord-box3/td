@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "frr",
+    "lc": "frr",
+    "gw": false,
+    "ang": "Frisian, Northern",
     "alt": [
         "Nordfriesisch",
         "Ferring (Fohr-Amrum)",
@@ -6,17 +10,13 @@
         "Mooringer (Mainland Frisian)",
         "S\u00f6lreng (Sylt)"
     ],
-    "ang": "Frisian, Northern",
+    "ld": "ltr",
+    "ln": "Northern Frisian",
+    "hc": "DE",
     "cc": [
         "DE"
     ],
-    "hc": "DE",
-    "lc": "frr",
-    "gw": false,
-    "ISO-639-3": "frr",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 1876,
     "lr": "Europe",
-    "ln": "Northern Frisian"
+    "gwcode": "en",
+    "pk": 1876
 }

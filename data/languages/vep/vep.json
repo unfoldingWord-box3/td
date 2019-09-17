@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "vep",
+    "lc": "vep",
+    "gw": false,
+    "ang": "Veps",
     "alt": [
         "Vepsian",
         "Chudy",
@@ -6,17 +10,13 @@
         "Chukhari",
         "Prionezh (North Veps)"
     ],
-    "ang": "Veps",
+    "ld": "ltr",
+    "ln": "\u0412\u0435\u043f\u0441\u0441\u043a\u0438\u0439",
+    "hc": "RU",
     "cc": [
         "RU"
     ],
-    "hc": "RU",
-    "lc": "vep",
-    "gw": false,
-    "ISO-639-3": "vep",
-    "ld": "ltr",
-    "gwcode": "ru",
-    "pk": 6605,
     "lr": "Europe",
-    "ln": "\u0412\u0435\u043f\u0441\u0441\u043a\u0438\u0439"
+    "gwcode": "ru",
+    "pk": 6605
 }

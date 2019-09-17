@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "srv",
+    "lc": "srv",
+    "gw": false,
+    "ang": "Sorsoganon, Southern",
     "alt": [
         "Bikol Sorsogon",
         "Gubat",
@@ -6,17 +10,13 @@
         "Sorsogon",
         "Waray"
     ],
-    "ang": "Sorsoganon, Southern",
+    "ld": "ltr",
+    "ln": "Southern Sorsoganon",
+    "hc": "PH",
     "cc": [
         "PH"
     ],
-    "hc": "PH",
-    "lc": "srv",
-    "gw": false,
-    "ISO-639-3": "srv",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5822,
     "lr": "Asia",
-    "ln": "Southern Sorsoganon"
+    "gwcode": "en",
+    "pk": 5822
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "pnn",
+    "lc": "pnn",
+    "gw": false,
+    "ang": "Pinai-Hagahai",
     "alt": [
         "Aramo",
         "Hagahai",
@@ -6,17 +10,13 @@
         "Pinaye",
         "Wapi"
     ],
-    "ang": "Pinai-Hagahai",
+    "ld": "ltr",
+    "ln": "Pinai-Hagahai",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "pnn",
-    "gw": false,
-    "ISO-639-3": "pnn",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 5111,
     "lr": "Pacific",
-    "ln": "Pinai-Hagahai"
+    "gwcode": "tpi",
+    "pk": 5111
 }

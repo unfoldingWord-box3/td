@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "kac",
+    "lc": "kac",
+    "gw": false,
+    "ang": "Jingpho",
     "alt": [
         "Chingpaw",
         "Chingp'o",
@@ -18,19 +22,15 @@
         "Dzili (Jili)",
         "Kauzhika"
     ],
-    "ang": "Jingpho",
+    "ld": "ltr",
+    "ln": "Kachin",
+    "hc": "MM",
     "cc": [
         "CN",
         "US",
         "MM"
     ],
-    "hc": "MM",
-    "lc": "kac",
-    "gw": false,
-    "ISO-639-3": "kac",
-    "ld": "ltr",
-    "gwcode": "my",
-    "pk": 2696,
     "lr": "Asia",
-    "ln": "Kachin"
+    "gwcode": "my",
+    "pk": 2696
 }

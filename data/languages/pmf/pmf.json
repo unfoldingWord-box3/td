@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "pmf",
+    "lc": "pmf",
+    "gw": false,
+    "ang": "Pamona",
     "alt": [
         "Baree",
         "Bare'e",
@@ -10,17 +14,13 @@
         "Laiwonu (Iba)",
         "Rapangkaka (Aria)"
     ],
-    "ang": "Pamona",
+    "ld": "ltr",
+    "ln": "Pamona",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "pmf",
-    "gw": false,
-    "ISO-639-3": "pmf",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 5086,
     "lr": "Asia",
-    "ln": "Pamona"
+    "gwcode": "id",
+    "pk": 5086
 }

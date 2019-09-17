@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "uri",
+    "lc": "uri",
+    "gw": false,
+    "ang": "Urim",
     "alt": [
         "Kalp",
         "Kurom",
@@ -6,17 +10,13 @@
         "Wan",
         "Kukwo (Kalpm)"
     ],
-    "ang": "Urim",
+    "ld": "ltr",
+    "ln": "Urim",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "uri",
-    "gw": false,
-    "ISO-639-3": "uri",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 6545,
     "lr": "Pacific",
-    "ln": "Urim"
+    "gwcode": "tpi",
+    "pk": 6545
 }

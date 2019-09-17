@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "atb",
+    "lc": "atb",
+    "gw": false,
+    "ang": "Zaiwa",
     "alt": [
         "Aci",
         "Aji",
@@ -14,18 +18,14 @@
         "Bengwa",
         "Longzhun"
     ],
-    "ang": "Zaiwa",
+    "ld": "ltr",
+    "ln": "\u8f7d\u74e6",
+    "hc": "CN",
     "cc": [
         "CN",
         "MM"
     ],
-    "hc": "CN",
-    "lc": "atb",
-    "gw": false,
-    "ISO-639-3": "atb",
-    "ld": "ltr",
-    "gwcode": "zh",
-    "pk": 382,
     "lr": "Asia",
-    "ln": "\u8f7d\u74e6"
+    "gwcode": "zh",
+    "pk": 382
 }

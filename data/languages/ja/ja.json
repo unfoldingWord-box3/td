@@ -1,8 +1,14 @@
 {
+    "ISO-639-3": "jpn",
+    "lc": "ja",
+    "gw": false,
+    "ang": "Japanese",
     "alt": [
         "Zu-zu-ben"
     ],
-    "ang": "Japanese",
+    "ld": "ltr",
+    "ln": "\u65e5\u672c\u8a9e (\u306b\u307b\u3093\u3054)",
+    "hc": "JP",
     "cc": [
         "CN",
         "AR",
@@ -21,13 +27,7 @@
         "SG",
         "DO"
     ],
-    "hc": "JP",
-    "lc": "ja",
-    "gw": false,
-    "ISO-639-3": "jpn",
-    "ld": "ltr",
-    "gwcode": null,
-    "pk": 2563,
     "lr": "Asia",
-    "ln": "\u65e5\u672c\u8a9e (\u306b\u307b\u3093\u3054)"
+    "gwcode": null,
+    "pk": 2563
 }

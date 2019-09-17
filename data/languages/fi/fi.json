@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "fin",
+    "lc": "fi",
+    "gw": false,
+    "ang": "Finnish",
     "alt": [
         "Suomi",
         "Finska",
@@ -7,7 +11,9 @@
         "Savo (Savolax)",
         "Southeastern Finnish (Finnish Karelian)"
     ],
-    "ang": "Finnish",
+    "ld": "ltr",
+    "ln": "suomi, suomen kieli",
+    "hc": "FI",
     "cc": [
         "GB",
         "NO",
@@ -17,13 +23,7 @@
         "FI",
         "CA"
     ],
-    "hc": "FI",
-    "lc": "fi",
-    "gw": false,
-    "ISO-639-3": "fin",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 1838,
     "lr": "Europe",
-    "ln": "suomi, suomen kieli"
+    "gwcode": "en",
+    "pk": 1838
 }

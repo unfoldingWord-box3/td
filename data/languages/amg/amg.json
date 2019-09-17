@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "amg",
+    "lc": "amg",
+    "gw": false,
+    "ang": "Amurdak",
     "alt": [
         "Amarak",
         "Amardak",
@@ -22,17 +26,13 @@
         "Woraidbug",
         "Wureidbug"
     ],
-    "ang": "Amurdak",
+    "ld": "ltr",
+    "ln": "Amurdak",
+    "hc": "AU",
     "cc": [
         "AU"
     ],
-    "hc": "AU",
-    "lc": "amg",
-    "gw": false,
-    "ISO-639-3": "amg",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 240,
     "lr": "Pacific",
-    "ln": "Amurdak"
+    "gwcode": "en",
+    "pk": 240
 }

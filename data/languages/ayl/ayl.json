@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ayl",
+    "lc": "ayl",
+    "gw": false,
+    "ang": "Arabic, Libyan Spoken",
     "alt": [
         "Bedawi",
         "Libyan Spoken Arabic",
@@ -8,7 +12,9 @@
         "Western Egyptian Bedawi Spoken Arabic",
         "Western Egyptian Bedawi Arabic"
     ],
-    "ang": "Arabic, Libyan Spoken",
+    "ld": "rtl",
+    "ln": "\u0644\u064a\u0628\u064a",
+    "hc": "LY",
     "cc": [
         "ES",
         "TN",
@@ -19,13 +25,7 @@
         "EG",
         "AE"
     ],
-    "hc": "LY",
-    "lc": "ayl",
-    "gw": false,
-    "ISO-639-3": "ayl",
-    "ld": "rtl",
-    "gwcode": "ar",
-    "pk": 467,
     "lr": "Africa",
-    "ln": "\u0644\u064a\u0628\u064a"
+    "gwcode": "ar",
+    "pk": 467
 }

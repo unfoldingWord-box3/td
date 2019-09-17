@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "iso",
+    "lc": "iso",
+    "gw": false,
+    "ang": "Isoko",
     "alt": [
         "Biotu",
         "Igabo",
@@ -8,17 +12,13 @@
         "Iwire (Igbide)",
         "Ole (Oleh)"
     ],
-    "ang": "Isoko",
+    "ld": "ltr",
+    "ln": "Isoko",
+    "hc": "NG",
     "cc": [
         "NG"
     ],
-    "hc": "NG",
-    "lc": "iso",
-    "gw": false,
-    "ISO-639-3": "iso",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 2527,
     "lr": "Africa",
-    "ln": "Isoko"
+    "gwcode": "en",
+    "pk": 2527
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "stn",
+    "lc": "stn",
+    "gw": false,
+    "ang": "Owa",
     "alt": [
         "Anganiwai",
         "Anganiwei",
@@ -9,17 +13,13 @@
         "Santa Catalina (Owa Riki)",
         "Santa Anna (Owa Raha)"
     ],
-    "ang": "Owa",
+    "ld": "ltr",
+    "ln": "Owa",
+    "hc": "SB",
     "cc": [
         "SB"
     ],
-    "hc": "SB",
-    "lc": "stn",
-    "gw": false,
-    "ISO-639-3": "stn",
-    "ld": "ltr",
-    "gwcode": "pis",
-    "pk": 5864,
     "lr": "Pacific",
-    "ln": "Owa"
+    "gwcode": "pis",
+    "pk": 5864
 }

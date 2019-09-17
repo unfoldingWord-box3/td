@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "nnf",
+    "lc": "nnf",
+    "gw": false,
+    "ang": "Ngaing",
     "alt": [
         "Mailang",
         "Sor",
@@ -6,17 +10,13 @@
         "Eastern Ngaing",
         "Western Ngaing"
     ],
-    "ang": "Ngaing",
+    "ld": "ltr",
+    "ln": "Ngaing",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "nnf",
-    "gw": false,
-    "ISO-639-3": "nnf",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 4564,
     "lr": "Pacific",
-    "ln": "Ngaing"
+    "gwcode": "tpi",
+    "pk": 4564
 }

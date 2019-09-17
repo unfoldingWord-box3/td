@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "slp",
+    "lc": "slp",
+    "gw": false,
+    "ang": "Lamaholot",
     "alt": [
         "Solor",
         "Solorese",
@@ -11,17 +15,13 @@
         "Lewolaga",
         "Larantuka"
     ],
-    "ang": "Lamaholot",
+    "ld": "ltr",
+    "ln": "Lamaholot",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "slp",
-    "gw": false,
-    "ISO-639-3": "slp",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 5693,
     "lr": "Asia",
-    "ln": "Lamaholot"
+    "gwcode": "id",
+    "pk": 5693
 }

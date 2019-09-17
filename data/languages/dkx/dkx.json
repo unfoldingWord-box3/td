@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "dkx",
+    "lc": "dkx",
+    "gw": false,
+    "ang": "Mazagway",
     "alt": [
         "Mazagway-Hidi",
         "Musgoy",
@@ -6,17 +10,13 @@
         "Kpala (Daba-Kola)",
         "Kola"
     ],
-    "ang": "Mazagway",
+    "ld": "ltr",
+    "ln": "Mazagway",
+    "hc": "CM",
     "cc": [
         "CM"
     ],
-    "hc": "CM",
-    "lc": "dkx",
-    "gw": false,
-    "ISO-639-3": "dkx",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 1558,
     "lr": "Africa",
-    "ln": "Mazagway"
+    "gwcode": "fr",
+    "pk": 1558
 }

@@ -1,10 +1,16 @@
 {
+    "ISO-639-3": "ces",
+    "lc": "cs",
+    "gw": false,
+    "ang": "Czech",
     "alt": [
         "Bohemian",
         "Cestina",
         "Lach (Yalach)"
     ],
-    "ang": "Czech",
+    "ld": "ltr",
+    "ln": "\u010de\u0161tina, \u010desk\u00fd jazyk",
+    "hc": "CZ",
     "cc": [
         "AT",
         "AR",
@@ -18,13 +24,7 @@
         "AU",
         "CA"
     ],
-    "hc": "CZ",
-    "lc": "cs",
-    "gw": false,
-    "ISO-639-3": "ces",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 1344,
     "lr": "Europe",
-    "ln": "\u010de\u0161tina, \u010desk\u00fd jazyk"
+    "gwcode": "en",
+    "pk": 1344
 }

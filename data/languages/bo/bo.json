@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bod",
+    "lc": "bo",
+    "gw": false,
+    "ang": "Tibetan Standard, Tibetan, Central",
     "alt": [
         "Bhokha",
         "Byokha",
@@ -32,7 +36,9 @@
         "Dartsemdo (Tatsienlu)",
         "Paurong"
     ],
-    "ang": "Tibetan Standard, Tibetan, Central",
+    "ld": "ltr",
+    "ln": "\u0f56\u0f7c\u0f51\u0f0b\u0f61\u0f72\u0f42",
+    "hc": "CN",
     "cc": [
         "CN",
         "BT",
@@ -43,13 +49,7 @@
         "IN",
         "MM"
     ],
-    "hc": "CN",
-    "lc": "bo",
-    "gw": false,
-    "ISO-639-3": "bod",
-    "ld": "ltr",
-    "gwcode": "zh",
-    "pk": 830,
     "lr": "Asia",
-    "ln": "\u0f56\u0f7c\u0f51\u0f0b\u0f61\u0f72\u0f42"
+    "gwcode": "zh",
+    "pk": 830
 }

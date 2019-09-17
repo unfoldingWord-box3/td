@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "kbd",
+    "lc": "kbd",
+    "gw": false,
+    "ang": "Kabardian",
     "alt": [
         "East Circassian",
         "Kabard",
@@ -7,19 +11,15 @@
         "Upper Circassian",
         "Beslenei (Beslenej)"
     ],
-    "ang": "Kabardian",
+    "ld": "ltr",
+    "ln": "\u043a\u044a\u044d\u0431\u044d\u0440\u0434\u0435\u0438\u0431\u0437\u044d",
+    "hc": "RU",
     "cc": [
         "RU",
         "SA",
         "UZ"
     ],
-    "hc": "RU",
-    "lc": "kbd",
-    "gw": false,
-    "ISO-639-3": "kbd",
-    "ld": "ltr",
-    "gwcode": "ru",
-    "pk": 2714,
     "lr": "Europe",
-    "ln": "\u043a\u044a\u044d\u0431\u044d\u0440\u0434\u0435\u0438\u0431\u0437\u044d"
+    "gwcode": "ru",
+    "pk": 2714
 }

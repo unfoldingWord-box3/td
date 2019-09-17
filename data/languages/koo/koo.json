@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "koo",
+    "lc": "koo",
+    "gw": false,
+    "ang": "Konzo",
     "alt": [
         "Konjo",
         "Lhukonzo",
@@ -9,17 +13,13 @@
         "Lusongora",
         "Sanza (Ekisanza)"
     ],
-    "ang": "Konzo",
+    "ld": "ltr",
+    "ln": "Konzo",
+    "hc": "UG",
     "cc": [
         "UG"
     ],
-    "hc": "UG",
-    "lc": "koo",
-    "gw": false,
-    "ISO-639-3": "koo",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 3049,
     "lr": "Africa",
-    "ln": "Konzo"
+    "gwcode": "en",
+    "pk": 3049
 }

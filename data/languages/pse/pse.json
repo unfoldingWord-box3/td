@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "pse",
+    "lc": "pse",
+    "gw": false,
+    "ang": "Malay, Central",
     "alt": [
         "Besemah",
         "Midden Maleisch",
@@ -9,17 +13,13 @@
         "Benakat",
         "Rambang"
     ],
-    "ang": "Malay, Central",
+    "ld": "ltr",
+    "ln": "Central Malay",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "pse",
-    "gw": false,
-    "ISO-639-3": "pse",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 5181,
     "lr": "Asia",
-    "ln": "Central Malay"
+    "gwcode": "id",
+    "pk": 5181
 }

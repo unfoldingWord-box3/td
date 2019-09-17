@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "myf",
+    "lc": "myf",
+    "gw": false,
+    "ang": "Bambassi",
     "alt": [
         "Amam",
         "Bambeshi",
@@ -7,17 +11,13 @@
         "Northern Mao",
         "Siggoyo"
     ],
-    "ang": "Bambassi",
+    "ld": "ltr",
+    "ln": "Bambassi",
+    "hc": "ET",
     "cc": [
         "ET"
     ],
-    "hc": "ET",
-    "lc": "myf",
-    "gw": false,
-    "ISO-639-3": "myf",
-    "ld": "ltr",
-    "gwcode": "am",
-    "pk": 4245,
     "lr": "Africa",
-    "ln": "Bambassi"
+    "gwcode": "am",
+    "pk": 4245
 }

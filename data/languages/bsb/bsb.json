@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bsb",
+    "lc": "bsb",
+    "gw": false,
+    "ang": "Bisaya, Brunei",
     "alt": [
         "Basaya",
         "Bekiau",
@@ -16,18 +20,14 @@
         "Sarawak Bisaya",
         "Sarawak Bisaya (Bisaya')"
     ],
-    "ang": "Bisaya, Brunei",
+    "ld": "ltr",
+    "ln": "Brunei Bisaya",
+    "hc": "BN",
     "cc": [
         "BN",
         "MY"
     ],
-    "hc": "BN",
-    "lc": "bsb",
-    "gw": false,
-    "ISO-639-3": "bsb",
-    "ld": "ltr",
-    "gwcode": "ms",
-    "pk": 925,
     "lr": "Asia",
-    "ln": "Brunei Bisaya"
+    "gwcode": "ms",
+    "pk": 925
 }

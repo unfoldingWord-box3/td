@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "khk",
+    "lc": "khk",
+    "gw": false,
+    "ang": "Mongolian, Halh",
     "alt": [
         "Central Mongolian",
         "Khalkha Mongolian",
@@ -8,7 +12,9 @@
         "Darkhat (Darhad)",
         "Darkhad"
     ],
-    "ang": "Mongolian, Halh",
+    "ld": "ltr",
+    "ln": "Halh Mongolian",
+    "hc": "MN",
     "cc": [
         "AT",
         "CN",
@@ -21,13 +27,7 @@
         "KP",
         "KG"
     ],
-    "hc": "MN",
-    "lc": "khk",
-    "gw": false,
-    "ISO-639-3": "khk",
-    "ld": "ltr",
-    "gwcode": "mn",
-    "pk": 2867,
     "lr": "Asia",
-    "ln": "Halh Mongolian"
+    "gwcode": "mn",
+    "pk": 2867
 }

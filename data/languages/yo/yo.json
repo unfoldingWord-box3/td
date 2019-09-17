@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "yor",
+    "lc": "yo",
+    "gw": false,
+    "ang": "Yoruba",
     "alt": [
         "Ede-Yoruba",
         "Yariba",
@@ -7,7 +11,9 @@
         "Bunu (Bini)",
         "Igbonna"
     ],
-    "ang": "Yoruba",
+    "ld": "ltr",
+    "ln": "Yor\u00f9b\u00e1",
+    "hc": "NG",
     "cc": [
         "BJ",
         "BF",
@@ -19,13 +25,7 @@
         "TG",
         "SL"
     ],
-    "hc": "NG",
-    "lc": "yo",
-    "gw": false,
-    "ISO-639-3": "yor",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 7248,
     "lr": "Africa",
-    "ln": "Yor\u00f9b\u00e1"
+    "gwcode": "en",
+    "pk": 7248
 }

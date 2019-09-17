@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ble",
+    "lc": "ble",
+    "gw": false,
+    "ang": "Balanta-Kentohe",
     "alt": [
         "Alante",
         "Balanda",
@@ -14,18 +18,14 @@
         "Queuthoe",
         "Kantohe (Kentohe)"
     ],
-    "ang": "Balanta-Kentohe",
+    "ld": "ltr",
+    "ln": "Balanta-Kentohe",
+    "hc": "GW",
     "cc": [
         "CA",
         "GW"
     ],
-    "hc": "GW",
-    "lc": "ble",
-    "gw": false,
-    "ISO-639-3": "ble",
-    "ld": "ltr",
-    "gwcode": "pt",
-    "pk": 759,
     "lr": "Africa",
-    "ln": "Balanta-Kentohe"
+    "gwcode": "pt",
+    "pk": 759
 }

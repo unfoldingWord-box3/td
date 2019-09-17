@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bkc",
+    "lc": "bkc",
+    "gw": false,
+    "ang": "Baka",
     "alt": [
         "Babinga",
         "Bebayaga",
@@ -7,18 +11,14 @@
         "Pygmees Baka",
         "Pygmees de l'Est"
     ],
-    "ang": "Baka",
+    "ld": "ltr",
+    "ln": "Baka (Cameroon)",
+    "hc": "CM",
     "cc": [
         "CM",
         "GA"
     ],
-    "hc": "CM",
-    "lc": "bkc",
-    "gw": false,
-    "ISO-639-3": "bkc",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 732,
     "lr": "Africa",
-    "ln": "Baka (Cameroon)"
+    "gwcode": "fr",
+    "pk": 732
 }

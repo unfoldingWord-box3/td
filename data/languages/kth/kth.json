@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "kth",
+    "lc": "kth",
+    "gw": false,
+    "ang": "Karanga",
     "alt": [
         "Kurunga",
         "Moyo",
@@ -12,17 +16,13 @@
         "Konyare",
         "Mooyo"
     ],
-    "ang": "Karanga",
+    "ld": "ltr",
+    "ln": "Karanga",
+    "hc": "TD",
     "cc": [
         "TD"
     ],
-    "hc": "TD",
-    "lc": "kth",
-    "gw": false,
-    "ISO-639-3": "kth",
-    "ld": "ltr",
-    "gwcode": "ar",
-    "pk": 3165,
     "lr": "Africa",
-    "ln": "Karanga"
+    "gwcode": "ar",
+    "pk": 3165
 }

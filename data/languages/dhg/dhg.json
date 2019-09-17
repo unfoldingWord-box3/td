@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "dhg",
+    "lc": "dhg",
+    "gw": false,
+    "ang": "Djangu",
     "alt": [
         "Budalpudal",
         "Burada",
@@ -13,17 +17,13 @@
         "Warumeri",
         "Gaalpu (Kalbu)"
     ],
-    "ang": "Djangu",
+    "ld": "ltr",
+    "ln": "Dhangu",
+    "hc": "AU",
     "cc": [
         "AU"
     ],
-    "hc": "AU",
-    "lc": "dhg",
-    "gw": false,
-    "ISO-639-3": "dhg",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 1508,
     "lr": "Pacific",
-    "ln": "Dhangu"
+    "gwcode": "en",
+    "pk": 1508
 }

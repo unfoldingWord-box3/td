@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mag",
+    "lc": "mag",
+    "gw": false,
+    "ang": "Magahi",
     "alt": [
         "Bihari",
         "Magadhi",
@@ -11,17 +15,13 @@
         "Megahi",
         "Central Magahi"
     ],
-    "ang": "Magahi",
+    "ld": "ltr",
+    "ln": "Magahi",
+    "hc": "IN",
     "cc": [
         "IN"
     ],
-    "hc": "IN",
-    "lc": "mag",
-    "gw": false,
-    "ISO-639-3": "mag",
-    "ld": "ltr",
-    "gwcode": "hi",
-    "pk": 3664,
     "lr": "Asia",
-    "ln": "Magahi"
+    "gwcode": "hi",
+    "pk": 3664
 }

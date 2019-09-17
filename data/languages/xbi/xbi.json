@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "xbi",
+    "lc": "xbi",
+    "gw": false,
+    "ang": "Kombio",
     "alt": [
         "Endangen",
         "South Kombio (Yanimoi)",
@@ -6,17 +10,13 @@
         "North Kombio (Mwi)",
         "East Kombio (Wampurun)"
     ],
-    "ang": "Kombio",
+    "ld": "ltr",
+    "ln": "Kombio",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "xbi",
-    "gw": false,
-    "ISO-639-3": "xbi",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 6873,
     "lr": "Pacific",
-    "ln": "Kombio"
+    "gwcode": "tpi",
+    "pk": 6873
 }

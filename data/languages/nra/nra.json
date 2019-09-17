@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "nra",
+    "lc": "nra",
+    "gw": false,
+    "ang": "Ngom",
     "alt": [
         "Angom",
         "Bangom",
@@ -7,18 +11,14 @@
         "Ungom",
         "Ngomo"
     ],
-    "ang": "Ngom",
+    "ld": "ltr",
+    "ln": "Ngom",
+    "hc": "GA",
     "cc": [
         "GA",
         "CG"
     ],
-    "hc": "GA",
-    "lc": "nra",
-    "gw": false,
-    "ISO-639-3": "nra",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 4623,
     "lr": "Africa",
-    "ln": "Ngom"
+    "gwcode": "fr",
+    "pk": 4623
 }

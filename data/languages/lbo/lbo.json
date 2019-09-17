@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "lbo",
+    "lc": "lbo",
+    "gw": false,
+    "ang": "Laven",
     "alt": [
         "Boloven",
         "Boriwen",
@@ -8,18 +12,14 @@
         "Laweenjru",
         "Loven"
     ],
-    "ang": "Laven",
+    "ld": "ltr",
+    "ln": "Laven",
+    "hc": "LA",
     "cc": [
         "LA",
         "US"
     ],
-    "hc": "LA",
-    "lc": "lbo",
-    "gw": false,
-    "ISO-639-3": "lbo",
-    "ld": "ltr",
-    "gwcode": "lo",
-    "pk": 3368,
     "lr": "Asia",
-    "ln": "Laven"
+    "gwcode": "lo",
+    "pk": 3368
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "hye",
+    "lc": "hy",
+    "gw": false,
+    "ang": "Armenian",
     "alt": [
         "Armjanski Yazyk",
         "Ena",
@@ -27,7 +31,9 @@
         "Artvin (Artwin)",
         "Dzhulfa (Dschugha)"
     ],
-    "ang": "Armenian",
+    "ld": "ltr",
+    "ln": "\u0540\u0561\u0575\u0565\u0580\u0565\u0576",
+    "hc": "AM",
     "cc": [
         "AM",
         "AZ",
@@ -55,13 +61,7 @@
         "UZ",
         "BG"
     ],
-    "hc": "AM",
-    "lc": "hy",
-    "gw": false,
-    "ISO-639-3": "hye",
-    "ld": "ltr",
-    "gwcode": "ru",
-    "pk": 2396,
     "lr": "Asia",
-    "ln": "\u0540\u0561\u0575\u0565\u0580\u0565\u0576"
+    "gwcode": "ru",
+    "pk": 2396
 }

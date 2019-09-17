@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "hch",
+    "lc": "hch",
+    "gw": false,
+    "ang": "Huichol",
     "alt": [
         "Vixaritari Vaniuqui",
         "Vizaritari Vaniuki",
@@ -9,17 +13,13 @@
         "Huichol del este",
         "Huichol del sur"
     ],
-    "ang": "Huichol",
+    "ld": "ltr",
+    "ln": "Huichol",
+    "hc": "MX",
     "cc": [
         "MX"
     ],
-    "hc": "MX",
-    "lc": "hch",
-    "gw": false,
-    "ISO-639-3": "hch",
-    "ld": "ltr",
-    "gwcode": "es-419",
-    "pk": 2248,
     "lr": "Americas",
-    "ln": "Huichol"
+    "gwcode": "es-419",
+    "pk": 2248
 }

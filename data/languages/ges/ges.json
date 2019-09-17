@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ges",
+    "lc": "ges",
+    "gw": false,
+    "ang": "Geser-Gorom",
     "alt": [
         "Gesa",
         "Geser",
@@ -10,17 +14,13 @@
         "Seran",
         "Seran Laut"
     ],
-    "ang": "Geser-Gorom",
+    "ld": "ltr",
+    "ln": "Geser-Gorom",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "ges",
-    "gw": false,
-    "ISO-639-3": "ges",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 1991,
     "lr": "Asia",
-    "ln": "Geser-Gorom"
+    "gwcode": "id",
+    "pk": 1991
 }

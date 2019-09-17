@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "hun",
+    "lc": "hu",
+    "gw": false,
+    "ang": "Hungarian",
     "alt": [
         "Magyar",
         "Southern Transdanubian",
@@ -12,7 +16,9 @@
         "Cs\u00e1ng\u00f3",
         "Southern Great Plains"
     ],
-    "ang": "Hungarian",
+    "ld": "ltr",
+    "ln": "magyar",
+    "hc": "HU",
     "cc": [
         "AT",
         "HR",
@@ -32,13 +38,7 @@
         "CA",
         "UA"
     ],
-    "hc": "HU",
-    "lc": "hu",
-    "gw": false,
-    "ISO-639-3": "hun",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 2365,
     "lr": "Europe",
-    "ln": "magyar"
+    "gwcode": "en",
+    "pk": 2365
 }

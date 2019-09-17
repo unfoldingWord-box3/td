@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "pht",
+    "lc": "pht",
+    "gw": false,
+    "ang": "Phu Thai",
     "alt": [
         "Phutai",
         "Putai",
@@ -6,18 +10,14 @@
         "Phuu Thai",
         "Puthai"
     ],
-    "ang": "Phu Thai",
+    "ld": "ltr",
+    "ln": "Phu Thai",
+    "hc": "TH",
     "cc": [
         "LA",
         "TH"
     ],
-    "hc": "TH",
-    "lc": "pht",
-    "gw": false,
-    "ISO-639-3": "pht",
-    "ld": "ltr",
-    "gwcode": "th",
-    "pk": 5021,
     "lr": "Asia",
-    "ln": "Phu Thai"
+    "gwcode": "th",
+    "pk": 5021
 }

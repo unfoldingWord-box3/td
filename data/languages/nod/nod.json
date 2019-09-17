@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "nod",
+    "lc": "nod",
+    "gw": false,
+    "ang": "Thai, Northern",
     "alt": [
         "Lan Na",
         "Lanatai",
@@ -27,18 +31,14 @@
         "Tai Yuan",
         "Western Laotian"
     ],
-    "ang": "Thai, Northern",
+    "ld": "ltr",
+    "ln": "Northern Thai",
+    "hc": "TH",
     "cc": [
         "LA",
         "TH"
     ],
-    "hc": "TH",
-    "lc": "nod",
-    "gw": false,
-    "ISO-639-3": "nod",
-    "ld": "ltr",
-    "gwcode": "th",
-    "pk": 4584,
     "lr": "Asia",
-    "ln": "Northern Thai"
+    "gwcode": "th",
+    "pk": 4584
 }

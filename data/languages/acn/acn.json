@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "acn",
+    "lc": "acn",
+    "gw": false,
+    "ang": "Achang",
     "alt": [
         "Husa (Chintaw)",
         "Xiandao",
@@ -18,18 +22,14 @@
         "Manmaw",
         "Tai Sa'"
     ],
-    "ang": "Achang",
+    "ld": "ltr",
+    "ln": "\u963f\u660c",
+    "hc": "CN",
     "cc": [
         "CN",
         "MM"
     ],
-    "hc": "CN",
-    "lc": "acn",
-    "gw": false,
-    "ISO-639-3": "acn",
-    "ld": "ltr",
-    "gwcode": "zh",
-    "pk": 60,
     "lr": "Asia",
-    "ln": "\u963f\u660c"
+    "gwcode": "zh",
+    "pk": 60
 }

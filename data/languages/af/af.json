@@ -1,8 +1,14 @@
 {
+    "ISO-639-3": "afr",
+    "lc": "af",
+    "gw": false,
+    "ang": "Afrikaans",
     "alt": [
         "Cape Afrikaans (West Cape Afrikaans)"
     ],
-    "ang": "Afrikaans",
+    "ld": "ltr",
+    "ln": "Afrikaans",
+    "hc": "ZA",
     "cc": [
         "GB",
         "ZA",
@@ -15,13 +21,7 @@
         "BW",
         "NA"
     ],
-    "hc": "ZA",
-    "lc": "af",
-    "gw": false,
-    "ISO-639-3": "afr",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 107,
     "lr": "Africa",
-    "ln": "Afrikaans"
+    "gwcode": "en",
+    "pk": 107
 }

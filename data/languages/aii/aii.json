@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "aii",
+    "lc": "aii",
+    "gw": false,
+    "ang": "Assyrian Neo-Aramaic",
     "alt": [
         "Upper Barwari",
         "Qudshanis",
@@ -33,7 +37,9 @@
         "Suryaya Swadaya",
         "Syriac"
     ],
-    "ang": "Assyrian Neo-Aramaic",
+    "ld": "ltr",
+    "ln": "\u0710\u072c\u0718\u072a\u071d\u0710",
+    "hc": "IQ",
     "cc": [
         "FR",
         "DE",
@@ -49,13 +55,7 @@
         "AU",
         "CA"
     ],
-    "hc": "IQ",
-    "lc": "aii",
-    "gw": false,
-    "ISO-639-3": "aii",
-    "ld": "ltr",
-    "gwcode": "ar",
-    "pk": 168,
     "lr": "Asia",
-    "ln": "\u0710\u072c\u0718\u072a\u071d\u0710"
+    "gwcode": "ar",
+    "pk": 168
 }

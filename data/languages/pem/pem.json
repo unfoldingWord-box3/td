@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "pem",
+    "lc": "pem",
+    "gw": false,
+    "ang": "Phende",
     "alt": [
         "Gipende",
         "Giphende",
@@ -6,17 +10,13 @@
         "Pindi",
         "Pinji"
     ],
-    "ang": "Phende",
+    "ld": "ltr",
+    "ln": "Phende",
+    "hc": "CD",
     "cc": [
         "CD"
     ],
-    "hc": "CD",
-    "lc": "pem",
-    "gw": false,
-    "ISO-639-3": "pem",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 4990,
     "lr": "Africa",
-    "ln": "Phende"
+    "gwcode": "fr",
+    "pk": 4990
 }

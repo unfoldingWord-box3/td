@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "otm",
+    "lc": "otm",
+    "gw": false,
+    "ang": "Otomi, Eastern Highland",
     "alt": [
         "Eastern Otomi",
         "Otom\u00ed de Huehuetla",
@@ -9,17 +13,13 @@
         "Sierra Oriental Otomi",
         "Yuhu"
     ],
-    "ang": "Otomi, Eastern Highland",
+    "ld": "ltr",
+    "ln": "Eastern Highland Otomi",
+    "hc": "MX",
     "cc": [
         "MX"
     ],
-    "hc": "MX",
-    "lc": "otm",
-    "gw": false,
-    "ISO-639-3": "otm",
-    "ld": "ltr",
-    "gwcode": "es-419",
-    "pk": 4894,
     "lr": "Americas",
-    "ln": "Eastern Highland Otomi"
+    "gwcode": "es-419",
+    "pk": 4894
 }

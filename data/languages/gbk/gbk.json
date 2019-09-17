@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "gbk",
+    "lc": "gbk",
+    "gw": false,
+    "ang": "Gaddi",
     "alt": [
         "Bharmauri Bhadi",
         "Gaddyali",
@@ -8,17 +12,13 @@
         "Panchi Brahmauri Rajput",
         "Macleod Ganj"
     ],
-    "ang": "Gaddi",
+    "ld": "ltr",
+    "ln": "Gaddi",
+    "hc": "IN",
     "cc": [
         "IN"
     ],
-    "hc": "IN",
-    "lc": "gbk",
-    "gw": false,
-    "ISO-639-3": "gbk",
-    "ld": "ltr",
-    "gwcode": "hi",
-    "pk": 1937,
     "lr": "Asia",
-    "ln": "Gaddi"
+    "gwcode": "hi",
+    "pk": 1937
 }

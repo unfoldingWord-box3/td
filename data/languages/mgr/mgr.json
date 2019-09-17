@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mgr",
+    "lc": "mgr",
+    "gw": false,
+    "ang": "Mambwe-Lungu",
     "alt": [
         "Ichirungu",
         "Icilungu",
@@ -11,18 +15,14 @@
         "Mambwe (Ichimambwe)",
         "Fipa-Mambwe (Kifipa cha Kimambwe)"
     ],
-    "ang": "Mambwe-Lungu",
+    "ld": "ltr",
+    "ln": "Mambwe-Lungu",
+    "hc": "ZM",
     "cc": [
         "TZ",
         "ZM"
     ],
-    "hc": "ZM",
-    "lc": "mgr",
-    "gw": false,
-    "ISO-639-3": "mgr",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 3820,
     "lr": "Africa",
-    "ln": "Mambwe-Lungu"
+    "gwcode": "en",
+    "pk": 3820
 }

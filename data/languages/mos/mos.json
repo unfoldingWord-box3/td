@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mos",
+    "lc": "mos",
+    "gw": false,
+    "ang": "M\u00f2or\u00e9",
     "alt": [
         "Mole",
         "Moose",
@@ -14,7 +18,9 @@
         "Ouagadougou",
         "Timbou"
     ],
-    "ang": "M\u00f2or\u00e9",
+    "ld": "ltr",
+    "ln": "Mossi",
+    "hc": "BF",
     "cc": [
         "BJ",
         "BF",
@@ -25,13 +31,7 @@
         "TG",
         "CA"
     ],
-    "hc": "BF",
-    "lc": "mos",
-    "gw": false,
-    "ISO-639-3": "mos",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 4013,
     "lr": "Africa",
-    "ln": "Mossi"
+    "gwcode": "fr",
+    "pk": 4013
 }

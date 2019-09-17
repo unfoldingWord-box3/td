@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bho",
+    "lc": "bho",
+    "gw": false,
+    "ang": "Bhojpuri",
     "alt": [
         "Bajpuri",
         "Bhojapuri",
@@ -20,7 +24,9 @@
         "Bangar Boli",
         "Mallika"
     ],
-    "ang": "Bhojpuri",
+    "ld": "ltr",
+    "ln": "Bhojpuri",
+    "hc": "IN",
     "cc": [
         "BD",
         "DE",
@@ -29,13 +35,7 @@
         "US",
         "IN"
     ],
-    "hc": "IN",
-    "lc": "bho",
-    "gw": false,
-    "ISO-639-3": "bho",
-    "ld": "ltr",
-    "gwcode": "hi",
-    "pk": 673,
     "lr": "Asia",
-    "ln": "Bhojpuri"
+    "gwcode": "hi",
+    "pk": 673
 }

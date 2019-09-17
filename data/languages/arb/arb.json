@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "arb",
+    "lc": "arb",
+    "gw": false,
+    "ang": "Arabic, Standard",
     "alt": [
         "Al-'Arabiyya",
         "Al-Fusha",
@@ -7,7 +11,9 @@
         "Quranic Arabic",
         "Classical Arabic (Koranic Arabic)"
     ],
-    "ang": "Arabic, Standard",
+    "ld": "rtl",
+    "ln": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0641\u0635\u062d\u0649, \u0639\u0631\u0628\u064a \u0641\u0635\u064a\u062d",
+    "hc": "SA",
     "cc": [
         "DZ",
         "AT",
@@ -61,13 +67,7 @@
         "QA",
         "AE"
     ],
-    "hc": "SA",
-    "lc": "arb",
-    "gw": false,
-    "ISO-639-3": "arb",
-    "ld": "rtl",
-    "gwcode": "ar",
-    "pk": 335,
     "lr": "Asia",
-    "ln": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0641\u0635\u062d\u0649, \u0639\u0631\u0628\u064a \u0641\u0635\u064a\u062d"
+    "gwcode": "ar",
+    "pk": 335
 }

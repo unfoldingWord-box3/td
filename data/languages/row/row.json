@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "row",
+    "lc": "row",
+    "gw": false,
+    "ang": "Dela-Oenale",
     "alt": [
         "Delha",
         "Oe Nale",
@@ -10,17 +14,13 @@
         "Dela (Delha)",
         "Oenale (Oe Nale)"
     ],
-    "ang": "Dela-Oenale",
+    "ld": "ltr",
+    "ln": "Dela-Oenale",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "row",
-    "gw": false,
-    "ISO-639-3": "row",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 5418,
     "lr": "Asia",
-    "ln": "Dela-Oenale"
+    "gwcode": "id",
+    "pk": 5418
 }

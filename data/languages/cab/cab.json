@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "cab",
+    "lc": "cab",
+    "gw": false,
+    "ang": "Garifuna",
     "alt": [
         "Caribe",
         "Central American Carib",
@@ -8,7 +12,9 @@
         "Eastern Garifuna",
         "Western Garifuna"
     ],
-    "ang": "Garifuna",
+    "ld": "ltr",
+    "ln": "Garifuna",
+    "hc": "HN",
     "cc": [
         "VC",
         "GT",
@@ -16,13 +22,7 @@
         "US",
         "NI"
     ],
-    "hc": "HN",
-    "lc": "cab",
-    "gw": false,
-    "ISO-639-3": "cab",
-    "ld": "ltr",
-    "gwcode": "es-419",
-    "pk": 1111,
     "lr": "Americas",
-    "ln": "Garifuna"
+    "gwcode": "es-419",
+    "pk": 1111
 }

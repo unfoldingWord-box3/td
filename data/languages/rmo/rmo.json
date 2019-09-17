@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "rmo",
+    "lc": "rmo",
+    "gw": false,
+    "ang": "Romani, Sinte",
     "alt": [
         "Rommanes",
         "Sinti",
@@ -9,7 +13,9 @@
         "Manuche (Manouche)",
         "Manush"
     ],
-    "ang": "Romani, Sinte",
+    "ld": "ltr",
+    "ln": "Sinte Romani",
+    "hc": "RS",
     "cc": [
         "AT",
         "HR",
@@ -21,13 +27,7 @@
         "CA",
         "IT"
     ],
-    "hc": "RS",
-    "lc": "rmo",
-    "gw": false,
-    "ISO-639-3": "rmo",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5387,
     "lr": "Europe",
-    "ln": "Sinte Romani"
+    "gwcode": "en",
+    "pk": 5387
 }

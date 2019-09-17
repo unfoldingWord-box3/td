@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "pcm",
+    "lc": "pcm",
+    "gw": false,
+    "ang": "Pidgin, Nigerian",
     "alt": [
         "Broken English",
         "Brokin",
@@ -6,18 +10,14 @@
         "Nigerian Creole English",
         "Nigerian Pidgin English"
     ],
-    "ang": "Pidgin, Nigerian",
+    "ld": "ltr",
+    "ln": "Nigerian Pidgin",
+    "hc": "NG",
     "cc": [
         "NG",
         "US"
     ],
-    "hc": "NG",
-    "lc": "pcm",
-    "gw": false,
-    "ISO-639-3": "pcm",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 4968,
     "lr": "Africa",
-    "ln": "Nigerian Pidgin"
+    "gwcode": "en",
+    "pk": 4968
 }

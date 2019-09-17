@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tsc",
+    "lc": "tsc",
+    "gw": false,
+    "ang": "Tswa",
     "alt": [
         "Kitshwa",
         "Sheetshwa",
@@ -17,19 +21,15 @@
         "Xidzivi",
         "Khambani"
     ],
-    "ang": "Tswa",
+    "ld": "ltr",
+    "ln": "Tswa",
+    "hc": "MZ",
     "cc": [
         "MZ",
         "ZA",
         "ZW"
     ],
-    "hc": "MZ",
-    "lc": "tsc",
-    "gw": false,
-    "ISO-639-3": "tsc",
-    "ld": "ltr",
-    "gwcode": "pt",
-    "pk": 6326,
     "lr": "Africa",
-    "ln": "Tswa"
+    "gwcode": "pt",
+    "pk": 6326
 }

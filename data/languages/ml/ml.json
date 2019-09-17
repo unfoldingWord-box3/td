@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mal",
+    "lc": "ml",
+    "gw": true,
+    "ang": "Malayalam",
     "alt": [
         "Alealum",
         "Malayalani",
@@ -11,7 +15,9 @@
         "Kasargod",
         "Moplah (Mapilla)"
     ],
-    "ang": "Malayalam",
+    "ld": "ltr",
+    "ln": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+    "hc": "IN",
     "cc": [
         "IL",
         "LK",
@@ -28,13 +34,7 @@
         "QA",
         "AE"
     ],
-    "hc": "IN",
-    "lc": "ml",
-    "gw": true,
-    "ISO-639-3": "mal",
-    "ld": "ltr",
-    "gwcode": null,
-    "pk": 3926,
     "lr": "Asia",
-    "ln": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02"
+    "gwcode": null,
+    "pk": 3926
 }

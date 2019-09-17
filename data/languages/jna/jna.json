@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "jna",
+    "lc": "jna",
+    "gw": false,
+    "ang": "Jangshung",
     "alt": [
         "Central Kinnauri",
         "Jangiam",
@@ -9,17 +13,13 @@
         "Zangram",
         "Zhang-Zhung"
     ],
-    "ang": "Jangshung",
+    "ld": "ltr",
+    "ln": "Jangshung",
+    "hc": "IN",
     "cc": [
         "IN"
     ],
-    "hc": "IN",
-    "lc": "jna",
-    "gw": false,
-    "ISO-639-3": "jna",
-    "ld": "ltr",
-    "gwcode": "kfk",
-    "pk": 2649,
     "lr": "Asia",
-    "ln": "Jangshung"
+    "gwcode": "kfk",
+    "pk": 2649
 }

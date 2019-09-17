@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "uig",
+    "lc": "ug",
+    "gw": false,
+    "ang": "Uyghur",
     "alt": [
         "Uighuir",
         "Uighur",
@@ -17,7 +21,9 @@
         "Uyghuri",
         "Wighor"
     ],
-    "ang": "Uyghur",
+    "ld": "ltr",
+    "ln": "\u0626\u06c7\u064a\u063a\u06c7\u0631\u0686\u06d5\u200e, \u7ef4\u543e\u5c14\u8bed, \u0423\u0439\u0433\u0443\u0440\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a",
+    "hc": "CN",
     "cc": [
         "CN",
         "KZ",
@@ -29,13 +35,7 @@
         "TM",
         "UZ"
     ],
-    "hc": "CN",
-    "lc": "ug",
-    "gw": false,
-    "ISO-639-3": "uig",
-    "ld": "ltr",
-    "gwcode": "zh",
-    "pk": 6483,
     "lr": "Asia",
-    "ln": "\u0626\u06c7\u064a\u063a\u06c7\u0631\u0686\u06d5\u200e, \u7ef4\u543e\u5c14\u8bed, \u0423\u0439\u0433\u0443\u0440\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a"
+    "gwcode": "zh",
+    "pk": 6483
 }

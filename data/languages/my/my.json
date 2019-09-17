@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mya",
+    "lc": "my",
+    "gw": true,
+    "ang": "Burmese",
     "alt": [
         "Bama",
         "Bamachaka",
@@ -10,7 +14,9 @@
         "Beik (Merguese)",
         "Bamar"
     ],
-    "ang": "Burmese",
+    "ld": "ltr",
+    "ln": "\u1017\u1019\u102c\u1005\u102c",
+    "hc": "MM",
     "cc": [
         "BD",
         "DE",
@@ -25,13 +31,7 @@
         "IN",
         "MM"
     ],
-    "hc": "MM",
-    "lc": "my",
-    "gw": true,
-    "ISO-639-3": "mya",
-    "ld": "ltr",
-    "gwcode": null,
-    "pk": 4240,
     "lr": "Asia",
-    "ln": "\u1017\u1019\u102c\u1005\u102c"
+    "gwcode": null,
+    "pk": 4240
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ndb",
+    "lc": "ndb",
+    "gw": false,
+    "ang": "Kenswei Nsei",
     "alt": [
         "Befi",
         "Calebasses",
@@ -10,17 +14,13 @@
         "Veteng",
         "Vetweng"
     ],
-    "ang": "Kenswei Nsei",
+    "ld": "ltr",
+    "ln": "Kenswei Nsei",
+    "hc": "CM",
     "cc": [
         "CM"
     ],
-    "hc": "CM",
-    "lc": "ndb",
-    "gw": false,
-    "ISO-639-3": "ndb",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 4355,
     "lr": "Africa",
-    "ln": "Kenswei Nsei"
+    "gwcode": "fr",
+    "pk": 4355
 }

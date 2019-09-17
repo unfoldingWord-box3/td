@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bem",
+    "lc": "bem",
+    "gw": false,
+    "ang": "Bemba",
     "alt": [
         "Chiwemba",
         "Ichibemba",
@@ -8,19 +12,15 @@
         "Lomotua (Lomotwa)",
         "Lunda (Luapula)"
     ],
-    "ang": "Bemba",
+    "ld": "ltr",
+    "ln": "Bemba (Zambia)",
+    "hc": "ZM",
     "cc": [
         "TZ",
         "ZM",
         "ZW"
     ],
-    "hc": "ZM",
-    "lc": "bem",
-    "gw": false,
-    "ISO-639-3": "bem",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 597,
     "lr": "Africa",
-    "ln": "Bemba (Zambia)"
+    "gwcode": "en",
+    "pk": 597
 }

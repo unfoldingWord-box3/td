@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "krs",
+    "lc": "krs",
+    "gw": false,
+    "ang": "Kresh",
     "alt": [
         "Kpala",
         "Kpara",
@@ -12,17 +16,13 @@
         "Gbaya-Ngbongbo (Kresh-Hofra)",
         "Gbaya-Ndogo (Kresh-Ndogo)"
     ],
-    "ang": "Kresh",
+    "ld": "ltr",
+    "ln": "Kresh",
+    "hc": "SS",
     "cc": [
         "SS"
     ],
-    "hc": "SS",
-    "lc": "krs",
-    "gw": false,
-    "ISO-639-3": "krs",
-    "ld": "ltr",
-    "gwcode": "ar",
-    "pk": 3124,
     "lr": "Africa",
-    "ln": "Kresh"
+    "gwcode": "ar",
+    "pk": 3124
 }

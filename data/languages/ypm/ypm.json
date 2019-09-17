@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ypm",
+    "lc": "ypm",
+    "gw": false,
+    "ang": "Phuma",
     "alt": [
         "Black Muji",
         "Hei Muji",
@@ -9,17 +13,13 @@
         "Shaoji Phula",
         "Sifter Basket Phula"
     ],
-    "ang": "Phuma",
+    "ld": "ltr",
+    "ln": "Phuma",
+    "hc": "CN",
     "cc": [
         "CN"
     ],
-    "hc": "CN",
-    "lc": "ypm",
-    "gw": false,
-    "ISO-639-3": "ypm",
-    "ld": "ltr",
-    "gwcode": "zh",
-    "pk": 7262,
     "lr": "Asia",
-    "ln": "Phuma"
+    "gwcode": "zh",
+    "pk": 7262
 }

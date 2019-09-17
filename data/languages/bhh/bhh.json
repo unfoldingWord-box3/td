@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bhh",
+    "lc": "bhh",
+    "gw": false,
+    "ang": "Bukharic",
     "alt": [
         "Bokharan",
         "Bokharic",
@@ -8,20 +12,16 @@
         "Bokharian",
         "Bukharin"
     ],
-    "ang": "Bukharic",
+    "ld": "ltr",
+    "ln": "\u05d1\u05d5\u05db\u05e8\u05d9\u05ea",
+    "hc": "IL",
     "cc": [
         "IL",
         "KZ",
         "US",
         "KG"
     ],
-    "hc": "IL",
-    "lc": "bhh",
-    "gw": false,
-    "ISO-639-3": "bhh",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 667,
     "lr": "Asia",
-    "ln": "\u05d1\u05d5\u05db\u05e8\u05d9\u05ea"
+    "gwcode": "en",
+    "pk": 667
 }

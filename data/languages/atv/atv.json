@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "atv",
+    "lc": "atv",
+    "gw": false,
+    "ang": "Altai, Northern",
     "alt": [
         "Telengit",
         "Telengut",
@@ -7,17 +11,13 @@
         "Kumandy",
         "Tuba"
     ],
-    "ang": "Altai, Northern",
+    "ld": "ltr",
+    "ln": "\u0413\u043e\u0440\u043d\u043e-\u0430\u043b\u0442\u0430\u0439\u0441\u043a\u0430\u044f",
+    "hc": "RU",
     "cc": [
         "RU"
     ],
-    "hc": "RU",
-    "lc": "atv",
-    "gw": false,
-    "ISO-639-3": "atv",
-    "ld": "ltr",
-    "gwcode": "ru",
-    "pk": 400,
     "lr": "Europe",
-    "ln": "\u0413\u043e\u0440\u043d\u043e-\u0430\u043b\u0442\u0430\u0439\u0441\u043a\u0430\u044f"
+    "gwcode": "ru",
+    "pk": 400
 }

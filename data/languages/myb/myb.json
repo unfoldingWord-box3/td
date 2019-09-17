@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "myb",
+    "lc": "myb",
+    "gw": false,
+    "ang": "Mbay",
     "alt": [
         "Mbai",
         "Mbay Moissala",
@@ -7,20 +11,16 @@
         "Ngoka (Mbang)",
         "Kan (Mbay-Kan)"
     ],
-    "ang": "Mbay",
+    "ld": "ltr",
+    "ln": "Mbay",
+    "hc": "TD",
     "cc": [
         "CM",
         "CF",
         "NG",
         "TD"
     ],
-    "hc": "TD",
-    "lc": "myb",
-    "gw": false,
-    "ISO-639-3": "myb",
-    "ld": "ltr",
-    "gwcode": "ar",
-    "pk": 4241,
     "lr": "Africa",
-    "ln": "Mbay"
+    "gwcode": "ar",
+    "pk": 4241
 }

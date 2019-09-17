@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "knx",
+    "lc": "knx",
+    "gw": false,
+    "ang": "Kendayan",
     "alt": [
         "Baicit",
         "Damea",
@@ -11,18 +15,14 @@
         "Selako",
         "Silakau"
     ],
-    "ang": "Kendayan",
+    "ld": "ltr",
+    "ln": "Kendayan",
+    "hc": "ID",
     "cc": [
         "ID",
         "MY"
     ],
-    "hc": "ID",
-    "lc": "knx",
-    "gw": false,
-    "ISO-639-3": "knx",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 3036,
     "lr": "Asia",
-    "ln": "Kendayan"
+    "gwcode": "id",
+    "pk": 3036
 }

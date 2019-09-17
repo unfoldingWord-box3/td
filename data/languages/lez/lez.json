@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "lez",
+    "lc": "lez",
+    "gw": false,
+    "ang": "Lezgi",
     "alt": [
         "Kiurinty",
         "Lezghi",
@@ -17,7 +21,9 @@
         "Dashagyl-Filfil",
         "Jaba"
     ],
-    "ang": "Lezgi",
+    "ld": "ltr",
+    "ln": "\u041b\u0435\u0437\u0433\u0438\u043d\u0441\u043a\u0438\u0439",
+    "hc": "RU",
     "cc": [
         "AZ",
         "KZ",
@@ -26,13 +32,7 @@
         "TM",
         "UZ"
     ],
-    "hc": "RU",
-    "lc": "lez",
-    "gw": false,
-    "ISO-639-3": "lez",
-    "ld": "ltr",
-    "gwcode": "ru",
-    "pk": 3426,
     "lr": "Europe",
-    "ln": "\u041b\u0435\u0437\u0433\u0438\u043d\u0441\u043a\u0438\u0439"
+    "gwcode": "ru",
+    "pk": 3426
 }

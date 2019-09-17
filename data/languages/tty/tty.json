@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tty",
+    "lc": "tty",
+    "gw": false,
+    "ang": "Sikaritai",
     "alt": [
         "Aikwakai",
         "Araikurioko",
@@ -7,17 +11,13 @@
         "Tori",
         "Tori Aikwakai"
     ],
-    "ang": "Sikaritai",
+    "ld": "ltr",
+    "ln": "Sikaritai",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "tty",
-    "gw": false,
-    "ISO-639-3": "tty",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 6371,
     "lr": "Asia",
-    "ln": "Sikaritai"
+    "gwcode": "id",
+    "pk": 6371
 }

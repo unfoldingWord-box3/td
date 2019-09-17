@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tam",
+    "lc": "ta",
+    "gw": true,
+    "ang": "Tamil",
     "alt": [
         "Damulian",
         "Tamal",
@@ -7,7 +11,9 @@
         "Tamili",
         "Madurai"
     ],
-    "ang": "Tamil",
+    "ld": "ltr",
+    "ln": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+    "hc": "IN",
     "cc": [
         "FR",
         "DE",
@@ -30,13 +36,7 @@
         "BH",
         "QA"
     ],
-    "hc": "IN",
-    "lc": "ta",
-    "gw": true,
-    "ISO-639-3": "tam",
-    "ld": "ltr",
-    "gwcode": null,
-    "pk": 5962,
     "lr": "Asia",
-    "ln": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    "gwcode": null,
+    "pk": 5962
 }

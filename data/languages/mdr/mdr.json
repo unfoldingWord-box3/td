@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mdr",
+    "lc": "mdr",
+    "gw": false,
+    "ang": "Mandar",
     "alt": [
         "Andian",
         "Mandharsche",
@@ -7,17 +11,13 @@
         "Sendana (Cenrana)",
         "Tjendana"
     ],
-    "ang": "Mandar",
+    "ld": "ltr",
+    "ln": "Mandar",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "mdr",
-    "gw": false,
-    "ISO-639-3": "mdr",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 3744,
     "lr": "Asia",
-    "ln": "Mandar"
+    "gwcode": "id",
+    "pk": 3744
 }

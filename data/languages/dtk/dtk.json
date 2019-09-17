@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "dtk",
+    "lc": "dtk",
+    "gw": false,
+    "ang": "Dogon, Tene Kan",
     "alt": [
         "Tene Kan",
         "Tene Tingi",
@@ -7,17 +11,13 @@
         "Togo Kan",
         "Woru Kan (Wolu Kan)"
     ],
-    "ang": "Dogon, Tene Kan",
+    "ld": "ltr",
+    "ln": "Tene Kan Dogon",
+    "hc": "ML",
     "cc": [
         "ML"
     ],
-    "hc": "ML",
-    "lc": "dtk",
-    "gw": false,
-    "ISO-639-3": "dtk",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 1641,
     "lr": "Africa",
-    "ln": "Tene Kan Dogon"
+    "gwcode": "fr",
+    "pk": 1641
 }

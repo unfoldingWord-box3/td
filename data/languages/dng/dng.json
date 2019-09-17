@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "dng",
+    "lc": "dng",
+    "gw": false,
+    "ang": "Dungan",
     "alt": [
         "Dzhunyan",
         "Kwuizwu",
@@ -7,19 +11,15 @@
         "Ganzu (Gansu)",
         "Shaanxi (Shensi)"
     ],
-    "ang": "Dungan",
+    "ld": "ltr",
+    "ln": "Dungan",
+    "hc": "KG",
     "cc": [
         "KZ",
         "KG",
         "UZ"
     ],
-    "hc": "KG",
-    "lc": "dng",
-    "gw": false,
-    "ISO-639-3": "dng",
-    "ld": "ltr",
-    "gwcode": "ru",
-    "pk": 1582,
     "lr": "Asia",
-    "ln": "Dungan"
+    "gwcode": "ru",
+    "pk": 1582
 }

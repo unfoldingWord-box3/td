@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "sly",
+    "lc": "sly",
+    "gw": false,
+    "ang": "Selayar",
     "alt": [
         "Salajar",
         "Salayar",
@@ -7,17 +11,13 @@
         "Siladja",
         "Silajara"
     ],
-    "ang": "Selayar",
+    "ld": "ltr",
+    "ln": "Selayar",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "sly",
-    "gw": false,
-    "ISO-639-3": "sly",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 5700,
     "lr": "Asia",
-    "ln": "Selayar"
+    "gwcode": "id",
+    "pk": 5700
 }

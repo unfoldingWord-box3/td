@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "kzc",
+    "lc": "kzc",
+    "gw": false,
+    "ang": "Kulango, Bondoukou",
     "alt": [
         "Bonduku",
         "Kolango",
@@ -7,18 +11,14 @@
         "Nkuraeng",
         "Nkurange"
     ],
-    "ang": "Kulango, Bondoukou",
+    "ld": "ltr",
+    "ln": "Bondoukou Kulango",
+    "hc": "CI",
     "cc": [
         "CI",
         "GH"
     ],
-    "hc": "CI",
-    "lc": "kzc",
-    "gw": false,
-    "ISO-639-3": "kzc",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 3311,
     "lr": "Africa",
-    "ln": "Bondoukou Kulango"
+    "gwcode": "fr",
+    "pk": 3311
 }

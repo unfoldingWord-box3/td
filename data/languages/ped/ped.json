@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ped",
+    "lc": "ped",
+    "gw": false,
+    "ang": "Mala",
     "alt": [
         "Alam",
         "Banara",
@@ -9,17 +13,13 @@
         "Pai",
         "Pay"
     ],
-    "ang": "Mala",
+    "ld": "ltr",
+    "ln": "Mala (Papua New Guinea)",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "ped",
-    "gw": false,
-    "ISO-639-3": "ped",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 4981,
     "lr": "Pacific",
-    "ln": "Mala (Papua New Guinea)"
+    "gwcode": "tpi",
+    "pk": 4981
 }

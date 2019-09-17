@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bdi",
+    "lc": "bdi",
+    "gw": false,
+    "ang": "Burun",
     "alt": [
         "Borun",
         "Cai",
@@ -9,18 +13,14 @@
         "Mugo-Mborkoina",
         "Mumughadja"
     ],
-    "ang": "Burun",
+    "ld": "ltr",
+    "ln": "Burun",
+    "hc": "SD",
     "cc": [
         "CN",
         "SD"
     ],
-    "hc": "SD",
-    "lc": "bdi",
-    "gw": false,
-    "ISO-639-3": "bdi",
-    "ld": "ltr",
-    "gwcode": "ar",
-    "pk": 567,
     "lr": "Africa",
-    "ln": "Burun"
+    "gwcode": "ar",
+    "pk": 567
 }

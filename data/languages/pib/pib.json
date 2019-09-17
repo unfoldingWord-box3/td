@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "pib",
+    "lc": "pib",
+    "gw": false,
+    "ang": "Yine",
     "alt": [
         "Chontaquiro",
         "Contaquiro",
@@ -8,17 +12,13 @@
         "Piro",
         "Simirinche"
     ],
-    "ang": "Yine",
+    "ld": "ltr",
+    "ln": "Yine",
+    "hc": "PE",
     "cc": [
         "PE"
     ],
-    "hc": "PE",
-    "lc": "pib",
-    "gw": false,
-    "ISO-639-3": "pib",
-    "ld": "ltr",
-    "gwcode": "es-419",
-    "pk": 5027,
     "lr": "Americas",
-    "ln": "Yine"
+    "gwcode": "es-419",
+    "pk": 5027
 }

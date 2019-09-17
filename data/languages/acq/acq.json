@@ -1,10 +1,16 @@
 {
+    "ISO-639-3": "acq",
+    "lc": "acq",
+    "gw": false,
+    "ang": "Arabic, Ta\u2019izzi-Adeni Spoken",
     "alt": [
         "Ta'izzi",
         "Djibouti Arabic",
         "Southern Yemeni Spoken Arabic"
     ],
-    "ang": "Arabic, Ta\u2019izzi-Adeni Spoken",
+    "ld": "rtl",
+    "ln": "\u0644\u0647\u062c\u0629 \u062a\u0639\u0632\u064a\u0629-\u0639\u062f\u0646\u064a\u0629",
+    "hc": "YE",
     "cc": [
         "DJ",
         "ER",
@@ -19,13 +25,7 @@
         "EG",
         "AE"
     ],
-    "hc": "YE",
-    "lc": "acq",
-    "gw": false,
-    "ISO-639-3": "acq",
-    "ld": "rtl",
-    "gwcode": "ar",
-    "pk": 62,
     "lr": "Asia",
-    "ln": "\u0644\u0647\u062c\u0629 \u062a\u0639\u0632\u064a\u0629-\u0639\u062f\u0646\u064a\u0629"
+    "gwcode": "ar",
+    "pk": 62
 }

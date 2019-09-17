@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "omw",
+    "lc": "omw",
+    "gw": false,
+    "ang": "Tairora, South",
     "alt": [
         "Haaviqinra-Oraura (Habina-Oraura)",
         "Omwunra-Toqura (Obura-To'okena)",
@@ -7,17 +11,13 @@
         "Vinaata-Konkompira (Pinata-Konkombira)",
         "Aatasaara (Atakara)"
     ],
-    "ang": "Tairora, South",
+    "ld": "ltr",
+    "ln": "South Tairora",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "omw",
-    "gw": false,
-    "ISO-639-3": "omw",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 4835,
     "lr": "Pacific",
-    "ln": "South Tairora"
+    "gwcode": "tpi",
+    "pk": 4835
 }

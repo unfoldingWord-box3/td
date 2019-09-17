@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tsn",
+    "lc": "tn",
+    "gw": false,
+    "ang": "Tswana",
     "alt": [
         "Beetjuans",
         "Chuana",
@@ -15,7 +19,9 @@
         "Tlahaping (Tlapi)",
         "Ngwatu (Ngwato)"
     ],
-    "ang": "Tswana",
+    "ld": "ltr",
+    "ln": "Setswana",
+    "hc": "BW",
     "cc": [
         "ZA",
         "US",
@@ -23,13 +29,7 @@
         "BW",
         "NA"
     ],
-    "hc": "BW",
-    "lc": "tn",
-    "gw": false,
-    "ISO-639-3": "tsn",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 6218,
     "lr": "Africa",
-    "ln": "Setswana"
+    "gwcode": "en",
+    "pk": 6218
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bdm",
+    "lc": "bdm",
+    "gw": false,
+    "ang": "Buduma",
     "alt": [
         "Boudouma",
         "Yadena",
@@ -10,20 +14,16 @@
         "Kouri",
         "Kuri (Kakaa)"
     ],
-    "ang": "Buduma",
+    "ld": "ltr",
+    "ln": "Buduma",
+    "hc": "TD",
     "cc": [
         "CM",
         "NE",
         "NG",
         "TD"
     ],
-    "hc": "TD",
-    "lc": "bdm",
-    "gw": false,
-    "ISO-639-3": "bdm",
-    "ld": "ltr",
-    "gwcode": "ar",
-    "pk": 571,
     "lr": "Africa",
-    "ln": "Buduma"
+    "gwcode": "ar",
+    "pk": 571
 }

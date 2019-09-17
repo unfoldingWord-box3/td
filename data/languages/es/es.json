@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "spa",
+    "lc": "es",
+    "gw": true,
+    "ang": "Spanish",
     "alt": [
         "Castilian",
         "Espa\u00f1ol",
@@ -19,7 +23,9 @@
         "American Spanish (Chicano)",
         "Andalus\u00ed"
     ],
-    "ang": "Spanish",
+    "ld": "ltr",
+    "ln": "espa\u00f1ol",
+    "hc": "ES",
     "cc": [
         "AT",
         "BE",
@@ -70,13 +76,7 @@
         "DO",
         "IE"
     ],
-    "hc": "ES",
-    "lc": "es",
-    "gw": true,
-    "ISO-639-3": "spa",
-    "ld": "ltr",
-    "gwcode": "es",
-    "pk": 1776,
     "lr": "Europe",
-    "ln": "espa\u00f1ol"
+    "gwcode": "es",
+    "pk": 1776
 }

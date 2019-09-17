@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ron",
+    "lc": "ro",
+    "gw": false,
+    "ang": "Romanian",
     "alt": [
         "Daco-Romanian",
         "Rumanian",
@@ -11,7 +15,9 @@
         "Walachian",
         "Boyash Romanian"
     ],
-    "ang": "Romanian",
+    "ld": "ltr",
+    "ln": "limba rom\u00e2n\u0103",
+    "hc": "RO",
     "cc": [
         "AZ",
         "BE",
@@ -33,13 +39,7 @@
         "UZ",
         "IE"
     ],
-    "hc": "RO",
-    "lc": "ro",
-    "gw": false,
-    "ISO-639-3": "ron",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5405,
     "lr": "Europe",
-    "ln": "limba rom\u00e2n\u0103"
+    "gwcode": "en",
+    "pk": 5405
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "lbn",
+    "lc": "lbn",
+    "gw": false,
+    "ang": "Lamet",
     "alt": [
         "Kha Lamet",
         "Khamed",
@@ -6,19 +10,15 @@
         "Rmeet",
         "Kamet"
     ],
-    "ang": "Lamet",
+    "ld": "ltr",
+    "ln": "Lamet",
+    "hc": "LA",
     "cc": [
         "LA",
         "TH",
         "US"
     ],
-    "hc": "LA",
-    "lc": "lbn",
-    "gw": false,
-    "ISO-639-3": "lbn",
-    "ld": "ltr",
-    "gwcode": "lo",
-    "pk": 3367,
     "lr": "Asia",
-    "ln": "Lamet"
+    "gwcode": "lo",
+    "pk": 3367
 }

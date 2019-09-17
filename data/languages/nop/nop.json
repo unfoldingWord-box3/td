@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "nop",
+    "lc": "nop",
+    "gw": false,
+    "ang": "Numanggang",
     "alt": [
         "Boana",
         "Kai",
@@ -8,17 +12,13 @@
         "Numangang",
         "Sugu"
     ],
-    "ang": "Numanggang",
+    "ld": "ltr",
+    "ln": "Numanggang",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "nop",
-    "gw": false,
-    "ISO-639-3": "nop",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 4595,
     "lr": "Pacific",
-    "ln": "Numanggang"
+    "gwcode": "tpi",
+    "pk": 4595
 }

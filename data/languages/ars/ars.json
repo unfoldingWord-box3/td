@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ars",
+    "lc": "ars",
+    "gw": false,
+    "ang": "Arabic, Najdi Spoken",
     "alt": [
         "Bedawi",
         "North Najdi (Shammar)",
@@ -22,7 +26,9 @@
         "Al-Qasiim",
         "Mutair"
     ],
-    "ang": "Arabic, Najdi Spoken",
+    "ld": "rtl",
+    "ln": "\u0627\u0644\u0644\u0647\u062c\u0629 \u0627\u0644\u0646\u062c\u062f\u064a\u0629",
+    "hc": "SA",
     "cc": [
         "IQ",
         "SA",
@@ -33,13 +39,7 @@
         "KW",
         "BH"
     ],
-    "hc": "SA",
-    "lc": "ars",
-    "gw": false,
-    "ISO-639-3": "ars",
-    "ld": "rtl",
-    "gwcode": "ar",
-    "pk": 349,
     "lr": "Asia",
-    "ln": "\u0627\u0644\u0644\u0647\u062c\u0629 \u0627\u0644\u0646\u062c\u062f\u064a\u0629"
+    "gwcode": "ar",
+    "pk": 349
 }

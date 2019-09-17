@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ike",
+    "lc": "ike",
+    "gw": false,
+    "ang": "Inuktitut, Eastern Canadian",
     "alt": [
         "Inuit",
         "Eastern Arctic Eskimo",
@@ -9,17 +13,13 @@
         "Rigolet Inuttut",
         "Tarramiut (\"Quebec Eskimo\")"
     ],
-    "ang": "Inuktitut, Eastern Canadian",
+    "ld": "ltr",
+    "ln": "Eastern Canadian Inuktitut",
+    "hc": "CA",
     "cc": [
         "CA"
     ],
-    "hc": "CA",
-    "lc": "ike",
-    "gw": false,
-    "ISO-639-3": "ike",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 2458,
     "lr": "Americas",
-    "ln": "Eastern Canadian Inuktitut"
+    "gwcode": "en",
+    "pk": 2458
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ert",
+    "lc": "ert",
+    "gw": false,
+    "ang": "Eritai",
     "alt": [
         "Aliki",
         "Babiruwa",
@@ -11,17 +15,13 @@
         "Eri",
         "Haya"
     ],
-    "ang": "Eritai",
+    "ld": "ltr",
+    "ln": "Eritai",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "ert",
-    "gw": false,
-    "ISO-639-3": "ert",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 1774,
     "lr": "Asia",
-    "ln": "Eritai"
+    "gwcode": "id",
+    "pk": 1774
 }

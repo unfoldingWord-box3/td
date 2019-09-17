@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "hsb",
+    "lc": "hsb",
+    "gw": false,
+    "ang": "Sorbian, Upper",
     "alt": [
         "Haut Sorabe",
         "Hornjoserbski",
@@ -7,17 +11,13 @@
         "Upper Lusatian",
         "Wendish"
     ],
-    "ang": "Sorbian, Upper",
+    "ld": "ltr",
+    "ln": "Upper Sorbian",
+    "hc": "DE",
     "cc": [
         "DE"
     ],
-    "hc": "DE",
-    "lc": "hsb",
-    "gw": false,
-    "ISO-639-3": "hsb",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 2355,
     "lr": "Europe",
-    "ln": "Upper Sorbian"
+    "gwcode": "en",
+    "pk": 2355
 }

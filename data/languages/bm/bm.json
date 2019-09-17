@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bam",
+    "lc": "bm",
+    "gw": false,
+    "ang": "Bambara",
     "alt": [
         "Bamako",
         "Bamana",
@@ -11,7 +15,9 @@
         "Wasuu",
         "Wassulu"
     ],
-    "ang": "Bambara",
+    "ld": "ltr",
+    "ln": "Bamanankan",
+    "hc": "ML",
     "cc": [
         "BF",
         "GM",
@@ -23,13 +29,7 @@
         "CA",
         "GN"
     ],
-    "hc": "ML",
-    "lc": "bm",
-    "gw": false,
-    "ISO-639-3": "bam",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 780,
     "lr": "Africa",
-    "ln": "Bamanankan"
+    "gwcode": "fr",
+    "pk": 780
 }

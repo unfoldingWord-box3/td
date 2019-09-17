@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "drs",
+    "lc": "drs",
+    "gw": false,
+    "ang": "Gedeo",
     "alt": [
         "Darasa",
         "Darassa",
@@ -7,17 +11,13 @@
         "Deresa",
         "Geddeo"
     ],
-    "ang": "Gedeo",
+    "ld": "ltr",
+    "ln": "Gedeo",
+    "hc": "ET",
     "cc": [
         "ET"
     ],
-    "hc": "ET",
-    "lc": "drs",
-    "gw": false,
-    "ISO-639-3": "drs",
-    "ld": "ltr",
-    "gwcode": "am",
-    "pk": 1625,
     "lr": "Africa",
-    "ln": "Gedeo"
+    "gwcode": "am",
+    "pk": 1625
 }

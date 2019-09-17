@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "moa",
+    "lc": "moa",
+    "gw": false,
+    "ang": "Mwan",
     "alt": [
         "Mona",
         "Mouan",
@@ -6,17 +10,13 @@
         "Muana",
         "Mwa"
     ],
-    "ang": "Mwan",
+    "ld": "ltr",
+    "ln": "Mwan",
+    "hc": "CI",
     "cc": [
         "CI"
     ],
-    "hc": "CI",
-    "lc": "moa",
-    "gw": false,
-    "ISO-639-3": "moa",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 3999,
     "lr": "Africa",
-    "ln": "Mwan"
+    "gwcode": "fr",
+    "pk": 3999
 }

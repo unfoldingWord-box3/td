@@ -1,10 +1,16 @@
 {
+    "ISO-639-3": "ibo",
+    "lc": "ig",
+    "gw": false,
+    "ang": "Igbo",
     "alt": [
         "Ibo",
         "Oka (Awka)",
         "Owerri (Isuama)"
     ],
-    "ang": "Igbo",
+    "ld": "ltr",
+    "ln": "\u00c1s\u1ee5\u0300s\u1ee5\u0300 \u1eca\u0300gb\u00f2",
+    "hc": "NG",
     "cc": [
         "CM",
         "GQ",
@@ -13,13 +19,7 @@
         "US",
         "CA"
     ],
-    "hc": "NG",
-    "lc": "ig",
-    "gw": false,
-    "ISO-639-3": "ibo",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 2437,
     "lr": "Africa",
-    "ln": "\u00c1s\u1ee5\u0300s\u1ee5\u0300 \u1eca\u0300gb\u00f2"
+    "gwcode": "en",
+    "pk": 2437
 }

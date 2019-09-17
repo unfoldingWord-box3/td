@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "kun",
+    "lc": "kun",
+    "gw": false,
+    "ang": "Kunama",
     "alt": [
         "Baada",
         "Baaden",
@@ -25,19 +29,15 @@
         "Barka (Berka)",
         "Bitama (Bitaama)"
     ],
-    "ang": "Kunama",
+    "ld": "ltr",
+    "ln": "Kunama",
+    "hc": "ER",
     "cc": [
         "ER",
         "ET",
         "SD"
     ],
-    "hc": "ER",
-    "lc": "kun",
-    "gw": false,
-    "ISO-639-3": "kun",
-    "ld": "ltr",
-    "gwcode": "ar",
-    "pk": 3195,
     "lr": "Africa",
-    "ln": "Kunama"
+    "gwcode": "ar",
+    "pk": 3195
 }

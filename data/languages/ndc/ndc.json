@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ndc",
+    "lc": "ndc",
+    "gw": false,
+    "ang": "Ndau",
     "alt": [
         "Chindau",
         "Ndzawu",
@@ -30,19 +34,15 @@
         "Atonga",
         "Chichanga"
     ],
-    "ang": "Ndau",
+    "ld": "ltr",
+    "ln": "Ndau",
+    "hc": "MZ",
     "cc": [
         "MZ",
         "TH",
         "ZW"
     ],
-    "hc": "MZ",
-    "lc": "ndc",
-    "gw": false,
-    "ISO-639-3": "ndc",
-    "ld": "ltr",
-    "gwcode": "pt",
-    "pk": 4356,
     "lr": "Africa",
-    "ln": "Ndau"
+    "gwcode": "pt",
+    "pk": 4356
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "swe",
+    "lc": "sv",
+    "gw": false,
+    "ang": "Swedish",
     "alt": [
         "Ruotsi",
         "Svenska",
@@ -20,7 +24,9 @@
         "Dalecarlian",
         "\u00c5land Islands Swedish"
     ],
-    "ang": "Swedish",
+    "ld": "ltr",
+    "ln": "svenska",
+    "hc": "SE",
     "cc": [
         "AT",
         "FR",
@@ -33,13 +39,7 @@
         "CA",
         "DK"
     ],
-    "hc": "SE",
-    "lc": "sv",
-    "gw": false,
-    "ISO-639-3": "swe",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5893,
     "lr": "Europe",
-    "ln": "svenska"
+    "gwcode": "en",
+    "pk": 5893
 }

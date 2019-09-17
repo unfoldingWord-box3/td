@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "jmc",
+    "lc": "jmc",
+    "gw": false,
+    "ang": "Machame",
     "alt": [
         "Kimachame",
         "Kimashami",
@@ -9,17 +13,13 @@
         "Hai",
         "Masdama"
     ],
-    "ang": "Machame",
+    "ld": "ltr",
+    "ln": "Machame",
+    "hc": "TZ",
     "cc": [
         "TZ"
     ],
-    "hc": "TZ",
-    "lc": "jmc",
-    "gw": false,
-    "ISO-639-3": "jmc",
-    "ld": "ltr",
-    "gwcode": "sw",
-    "pk": 2640,
     "lr": "Africa",
-    "ln": "Machame"
+    "gwcode": "sw",
+    "pk": 2640
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "oro",
+    "lc": "oro",
+    "gw": false,
+    "ang": "Orokolo",
     "alt": [
         "Bailala",
         "Haira",
@@ -8,17 +12,13 @@
         "Vailala",
         "West Elema"
     ],
-    "ang": "Orokolo",
+    "ld": "ltr",
+    "ln": "Orokolo",
+    "hc": "PG",
     "cc": [
         "PG"
     ],
-    "hc": "PG",
-    "lc": "oro",
-    "gw": false,
-    "ISO-639-3": "oro",
-    "ld": "ltr",
-    "gwcode": "tpi",
-    "pk": 4869,
     "lr": "Pacific",
-    "ln": "Orokolo"
+    "gwcode": "tpi",
+    "pk": 4869
 }

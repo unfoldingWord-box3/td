@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "snd",
+    "lc": "sd",
+    "gw": false,
+    "ang": "Sindhi",
     "alt": [
         "Vicholo (Central Sindhi)",
         "Vicholi",
@@ -7,7 +11,9 @@
         "Dukslinu (Hindu Sindhi)",
         "Katiawari Kachi"
     ],
-    "ang": "Sindhi",
+    "ld": "ltr",
+    "ln": "\u0938\u093f\u0928\u094d\u0927\u0940, \u0633\u0646\u068c\u064a\u060c \u0633\u0646\u062f\u06be\u06cc\u200e",
+    "hc": "PK",
     "cc": [
         "AF",
         "GB",
@@ -20,13 +26,7 @@
         "SG",
         "AE"
     ],
-    "hc": "PK",
-    "lc": "sd",
-    "gw": false,
-    "ISO-639-3": "snd",
-    "ld": "ltr",
-    "gwcode": "ur",
-    "pk": 5523,
     "lr": "Asia",
-    "ln": "\u0938\u093f\u0928\u094d\u0927\u0940, \u0633\u0646\u068c\u064a\u060c \u0633\u0646\u062f\u06be\u06cc\u200e"
+    "gwcode": "ur",
+    "pk": 5523
 }

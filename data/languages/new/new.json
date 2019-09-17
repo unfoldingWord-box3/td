@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "new",
+    "lc": "new",
+    "gw": false,
+    "ang": "Newar",
     "alt": [
         "Nepal Bhasa",
         "Newaah Bhaaye",
@@ -10,17 +14,13 @@
         "Pyang Gaon",
         "Sindhupalchok Pahri (Pahari)"
     ],
-    "ang": "Newar",
+    "ld": "ltr",
+    "ln": "\u0928\u0947\u0935\u093e\u0903 \u092d\u093e\u092f\u094d",
+    "hc": "NP",
     "cc": [
         "NP"
     ],
-    "hc": "NP",
-    "lc": "new",
-    "gw": false,
-    "ISO-639-3": "new",
-    "ld": "ltr",
-    "gwcode": "ne",
-    "pk": 4399,
     "lr": "Asia",
-    "ln": "\u0928\u0947\u0935\u093e\u0903 \u092d\u093e\u092f\u094d"
+    "gwcode": "ne",
+    "pk": 4399
 }

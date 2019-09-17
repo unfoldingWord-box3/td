@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "nim",
+    "lc": "nim",
+    "gw": false,
+    "ang": "Nilamba",
     "alt": [
         "Ikinilamba",
         "Ikiniramba",
@@ -9,17 +13,13 @@
         "Niramba",
         "Nyilamba"
     ],
-    "ang": "Nilamba",
+    "ld": "ltr",
+    "ln": "Nilamba",
+    "hc": "TZ",
     "cc": [
         "TZ"
     ],
-    "hc": "TZ",
-    "lc": "nim",
-    "gw": false,
-    "ISO-639-3": "nim",
-    "ld": "ltr",
-    "gwcode": "sw",
-    "pk": 4465,
     "lr": "Africa",
-    "ln": "Nilamba"
+    "gwcode": "sw",
+    "pk": 4465
 }

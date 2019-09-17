@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "clk",
+    "lc": "clk",
+    "gw": false,
+    "ang": "Idu-Mishmi",
     "alt": [
         "Chulikata",
         "Idu Lhoba",
@@ -13,18 +17,14 @@
         "Yidu Luoba",
         "Chulikotta"
     ],
-    "ang": "Idu-Mishmi",
+    "ld": "ltr",
+    "ln": "Idu-Mishmi",
+    "hc": "IN",
     "cc": [
         "CN",
         "IN"
     ],
-    "hc": "IN",
-    "lc": "clk",
-    "gw": false,
-    "ISO-639-3": "clk",
-    "ld": "ltr",
-    "gwcode": "as",
-    "pk": 1253,
     "lr": "Asia",
-    "ln": "Idu-Mishmi"
+    "gwcode": "as",
+    "pk": 1253
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "tob",
+    "lc": "tob",
+    "gw": false,
+    "ang": "Toba",
     "alt": [
         "Chaco Sur",
         "Namqom",
@@ -8,19 +12,15 @@
         "Takshika",
         "Toba-Qom"
     ],
-    "ang": "Toba",
+    "ld": "ltr",
+    "ln": "Toba",
+    "hc": "AR",
     "cc": [
         "AR",
         "PY",
         "BO"
     ],
-    "hc": "AR",
-    "lc": "tob",
-    "gw": false,
-    "ISO-639-3": "tob",
-    "ld": "ltr",
-    "gwcode": "es-419",
-    "pk": 6244,
     "lr": "Americas",
-    "ln": "Toba"
+    "gwcode": "es-419",
+    "pk": 6244
 }

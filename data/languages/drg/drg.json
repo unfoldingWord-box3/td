@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "drg",
+    "lc": "drg",
+    "gw": false,
+    "ang": "Rungus",
     "alt": [
         "Dusun Dayak",
         "Melobong Rungus",
@@ -12,17 +16,13 @@
         "Pilapazan (Central Rungus)",
         "Rungus Tanga"
     ],
-    "ang": "Rungus",
+    "ld": "ltr",
+    "ln": "Rungus",
+    "hc": "MY",
     "cc": [
         "MY"
     ],
-    "hc": "MY",
-    "lc": "drg",
-    "gw": false,
-    "ISO-639-3": "drg",
-    "ld": "ltr",
-    "gwcode": "ms",
-    "pk": 1619,
     "lr": "Asia",
-    "ln": "Rungus"
+    "gwcode": "ms",
+    "pk": 1619
 }

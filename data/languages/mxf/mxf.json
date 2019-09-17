@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mxf",
+    "lc": "mxf",
+    "gw": false,
+    "ang": "Malgbe",
     "alt": [
         "Goulfei",
         "Gulfe",
@@ -12,18 +16,14 @@
         "Douguia (Dugiya)",
         "Malgbe (Goulfei)"
     ],
-    "ang": "Malgbe",
+    "ld": "ltr",
+    "ln": "Malgbe",
+    "hc": "CM",
     "cc": [
         "CM",
         "TD"
     ],
-    "hc": "CM",
-    "lc": "mxf",
-    "gw": false,
-    "ISO-639-3": "mxf",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 4219,
     "lr": "Africa",
-    "ln": "Malgbe"
+    "gwcode": "fr",
+    "pk": 4219
 }

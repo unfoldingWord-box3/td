@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "snk",
+    "lc": "snk",
+    "gw": false,
+    "ang": "Soninke",
     "alt": [
         "Sarakole",
         "Sarakule",
@@ -32,7 +36,9 @@
         "Toubakai",
         "Wakore"
     ],
-    "ang": "Soninke",
+    "ld": "ltr",
+    "ln": "Soninke",
+    "hc": "ML",
     "cc": [
         "BF",
         "GM",
@@ -42,13 +48,7 @@
         "US",
         "GW"
     ],
-    "hc": "ML",
-    "lc": "snk",
-    "gw": false,
-    "ISO-639-3": "snk",
-    "ld": "ltr",
-    "gwcode": "fr",
-    "pk": 5734,
     "lr": "Africa",
-    "ln": "Soninke"
+    "gwcode": "fr",
+    "pk": 5734
 }

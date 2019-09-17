@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "jav",
+    "lc": "jv",
+    "gw": false,
+    "ang": "Javanese",
     "alt": [
         "Djawa",
         "Cirebon (Cheribon)",
@@ -7,7 +11,9 @@
         "Surabaya",
         "Solo"
     ],
-    "ang": "Javanese",
+    "ld": "ltr",
+    "ln": "basa Jawa",
+    "hc": "ID",
     "cc": [
         "ID",
         "CX",
@@ -16,13 +22,7 @@
         "AU",
         "SG"
     ],
-    "hc": "ID",
-    "lc": "jv",
-    "gw": false,
-    "ISO-639-3": "jav",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 2686,
     "lr": "Asia",
-    "ln": "basa Jawa"
+    "gwcode": "id",
+    "pk": 2686
 }

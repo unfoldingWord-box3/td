@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "phh",
+    "lc": "phh",
+    "gw": false,
+    "ang": "Phula",
     "alt": [
         "Fu Khla",
         "Phu Khla",
@@ -7,18 +11,14 @@
         "Phu Kha",
         "Phu La"
     ],
-    "ang": "Phula",
+    "ld": "ltr",
+    "ln": "Phukha",
+    "hc": "VN",
     "cc": [
         "CN",
         "VN"
     ],
-    "hc": "VN",
-    "lc": "phh",
-    "gw": false,
-    "ISO-639-3": "phh",
-    "ld": "ltr",
-    "gwcode": "vi",
-    "pk": 5013,
     "lr": "Asia",
-    "ln": "Phukha"
+    "gwcode": "vi",
+    "pk": 5013
 }

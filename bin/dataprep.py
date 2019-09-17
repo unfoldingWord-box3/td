@@ -219,11 +219,20 @@ for lr in sorted(lrcnt.keys()):
         for lc in sorted(lc2lr.keys()):
             if lc2lr[lc] == lr:
                 # first read the file in as a string
-                with open("%s/%s/%s.txt" % (docslangpath,lc,lc), "r") as lcfile:
-                    lcdata = lcfile.read()
+                #with open("%s/%s/%s.txt" % (docslangpath,lc,lc), "r") as lcfile:
+                #    lcdata = lcfile.read()
 
                 # second write it out
-                lr_rst.write(lcdata+"\n")
+                #lr_rst.write(lcdata+"\n")
+
+                # redo with include directive
+                lr_rst.write(".. include:: ../../%s/%s/%s.txt\n\n" % (docslangpath,lc,lc))
+
+                # third add an edit link
+                github_base = "https://github.com/unfoldingWord-box3/td/blob/master/"
+                epath_base = docslangpath + "/" + lc + "/" + lc + ".txt"
+                epath = github_base + epath_base
+                lr_rst.write("Click `here <"+epath+">`__ to edit.\n\n")
 
     
 

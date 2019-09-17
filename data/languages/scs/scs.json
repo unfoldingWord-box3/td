@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "scs",
+    "lc": "scs",
+    "gw": false,
+    "ang": "Slavey, North",
     "alt": [
         "Dene",
         "Den\u00e9",
@@ -6,17 +10,13 @@
         "Slave",
         "Mountain Slavey"
     ],
-    "ang": "Slavey, North",
+    "ld": "ltr",
+    "ln": "North Slavey",
+    "hc": "CA",
     "cc": [
         "CA"
     ],
-    "hc": "CA",
-    "lc": "scs",
-    "gw": false,
-    "ISO-639-3": "scs",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5518,
     "lr": "Americas",
-    "ln": "North Slavey"
+    "gwcode": "en",
+    "pk": 5518
 }

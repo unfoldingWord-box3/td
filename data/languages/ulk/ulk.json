@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "ulk",
+    "lc": "ulk",
+    "gw": false,
+    "ang": "Meriam",
     "alt": [
         "East Torres",
         "Mer",
@@ -7,18 +11,14 @@
         "Miriam",
         "Miriam-Mir"
     ],
-    "ang": "Meriam",
+    "ld": "ltr",
+    "ln": "Meriam",
+    "hc": "AU",
     "cc": [
         "AU",
         "PG"
     ],
-    "hc": "AU",
-    "lc": "ulk",
-    "gw": false,
-    "ISO-639-3": "ulk",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 6510,
     "lr": "Pacific",
-    "ln": "Meriam"
+    "gwcode": "en",
+    "pk": 6510
 }

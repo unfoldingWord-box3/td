@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "hts",
+    "lc": "hts",
+    "gw": false,
+    "ang": "Hadza",
     "alt": [
         "Hadzabi",
         "Hadzapi",
@@ -7,17 +11,13 @@
         "Wakindiga",
         "Tindiga"
     ],
-    "ang": "Hadza",
+    "ld": "ltr",
+    "ln": "Hadza",
+    "hc": "TZ",
     "cc": [
         "TZ"
     ],
-    "hc": "TZ",
-    "lc": "hts",
-    "gw": false,
-    "ISO-639-3": "hts",
-    "ld": "ltr",
-    "gwcode": "sw",
-    "pk": 2362,
     "lr": "Africa",
-    "ln": "Hadza"
+    "gwcode": "sw",
+    "pk": 2362
 }

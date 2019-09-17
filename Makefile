@@ -2,6 +2,7 @@
 #
 
 html:
-	time make -C docs html
+	python3 bin/dataprep.py
+	make -C docs html
 	
 default: html

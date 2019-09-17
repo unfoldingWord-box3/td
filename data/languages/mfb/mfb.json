@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "mfb",
+    "lc": "mfb",
+    "gw": false,
+    "ang": "Bangka",
     "alt": [
         "Capital City",
         "Urban",
@@ -9,17 +13,13 @@
         "Central Bangka",
         "Lom (Belom)"
     ],
-    "ang": "Bangka",
+    "ld": "ltr",
+    "ln": "Bangka",
+    "hc": "ID",
     "cc": [
         "ID"
     ],
-    "hc": "ID",
-    "lc": "mfb",
-    "gw": false,
-    "ISO-639-3": "mfb",
-    "ld": "ltr",
-    "gwcode": "id",
-    "pk": 3778,
     "lr": "Asia",
-    "ln": "Bangka"
+    "gwcode": "id",
+    "pk": 3778
 }

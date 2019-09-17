@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "udu",
+    "lc": "udu",
+    "gw": false,
+    "ang": "Uduk",
     "alt": [
         "Kebeirka",
         "Korara",
@@ -7,19 +11,15 @@
         "Othan",
         "Twampa"
     ],
-    "ang": "Uduk",
+    "ld": "ltr",
+    "ln": "Uduk",
+    "hc": "SD",
     "cc": [
         "ET",
         "SD",
         "US"
     ],
-    "hc": "SD",
-    "lc": "udu",
-    "gw": false,
-    "ISO-639-3": "udu",
-    "ld": "ltr",
-    "gwcode": "ar",
-    "pk": 6480,
     "lr": "Africa",
-    "ln": "Uduk"
+    "gwcode": "ar",
+    "pk": 6480
 }

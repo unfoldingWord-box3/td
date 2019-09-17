@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "rmn",
+    "lc": "rmn",
+    "gw": false,
+    "ang": "Romani, Balkan",
     "alt": [
         "Gypsy",
         "Be\u00e1s",
@@ -7,7 +11,9 @@
         "Arlija (Erli)",
         "Urs\u00e1ri (Usari)"
     ],
-    "ang": "Romani, Balkan",
+    "ld": "ltr",
+    "ln": "Balkan Romani",
+    "hc": "RS",
     "cc": [
         "GR",
         "AF",
@@ -23,13 +29,7 @@
         "BG",
         "UA"
     ],
-    "hc": "RS",
-    "lc": "rmn",
-    "gw": false,
-    "ISO-639-3": "rmn",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5386,
     "lr": "Europe",
-    "ln": "Balkan Romani"
+    "gwcode": "en",
+    "pk": 5386
 }

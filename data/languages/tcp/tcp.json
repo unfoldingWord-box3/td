@@ -1,19 +1,19 @@
 {
+    "ISO-639-3": "tcp",
+    "lc": "tcp",
+    "gw": false,
+    "ang": "Chin, Tawr",
     "alt": [
         "Tawr",
         "Torr"
     ],
-    "ang": "Chin, Tawr",
+    "ld": "ltr",
+    "ln": "Tawr Chin",
+    "hc": "MM",
     "cc": [
         "MM"
     ],
-    "hc": "MM",
-    "lc": "tcp",
-    "gw": false,
-    "ISO-639-3": "tcp",
-    "ld": "ltr",
-    "gwcode": "my",
-    "pk": 6021,
     "lr": "Asia",
-    "ln": "Tawr Chin"
+    "gwcode": "my",
+    "pk": 6021
 }

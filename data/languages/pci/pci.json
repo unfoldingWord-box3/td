@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "pci",
+    "lc": "pci",
+    "gw": false,
+    "ang": "Duruwa",
     "alt": [
         "Dhruva",
         "Dhurwa",
@@ -11,17 +15,13 @@
         "Thakara",
         "Tugara"
     ],
-    "ang": "Duruwa",
+    "ld": "ltr",
+    "ln": "Duruwa",
+    "hc": "IN",
     "cc": [
         "IN"
     ],
-    "hc": "IN",
-    "lc": "pci",
-    "gw": false,
-    "ISO-639-3": "pci",
-    "ld": "ltr",
-    "gwcode": "bgw",
-    "pk": 4964,
     "lr": "Asia",
-    "ln": "Duruwa"
+    "gwcode": "bgw",
+    "pk": 4964
 }

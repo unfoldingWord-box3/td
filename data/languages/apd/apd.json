@@ -1,10 +1,16 @@
 {
+    "ISO-639-3": "apd",
+    "lc": "apd",
+    "gw": false,
+    "ang": "Arabic, Sudanese Spoken",
     "alt": [
         "Khartoum Arabic",
         "Sudanese Arabic",
         "North Kordofan Arabic"
     ],
-    "ang": "Arabic, Sudanese Spoken",
+    "ld": "rtl",
+    "ln": "\u0644\u0647\u062c\u0629 \u0633\u0648\u062f\u0627\u0646\u064a\u0629",
+    "hc": "SD",
     "cc": [
         "ER",
         "ET",
@@ -23,13 +29,7 @@
         "QA",
         "AE"
     ],
-    "hc": "SD",
-    "lc": "apd",
-    "gw": false,
-    "ISO-639-3": "apd",
-    "ld": "rtl",
-    "gwcode": "ar",
-    "pk": 303,
     "lr": "Africa",
-    "ln": "\u0644\u0647\u062c\u0629 \u0633\u0648\u062f\u0627\u0646\u064a\u0629"
+    "gwcode": "ar",
+    "pk": 303
 }

@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "sma",
+    "lc": "sma",
+    "gw": false,
+    "ang": "Saami, South",
     "alt": [
         "Saami",
         "Same",
@@ -8,18 +12,14 @@
         "Southern Lapp",
         "Lapp"
     ],
-    "ang": "Saami, South",
+    "ld": "ltr",
+    "ln": "Southern Sami",
+    "hc": "SE",
     "cc": [
         "NO",
         "SE"
     ],
-    "hc": "SE",
-    "lc": "sma",
-    "gw": false,
-    "ISO-639-3": "sma",
-    "ld": "ltr",
-    "gwcode": "en",
-    "pk": 5703,
     "lr": "Europe",
-    "ln": "Southern Sami"
+    "gwcode": "en",
+    "pk": 5703
 }

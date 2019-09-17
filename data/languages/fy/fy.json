@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "fry",
+    "lc": "fy",
+    "gw": false,
+    "ang": "Western Frisian",
     "alt": [
         "Fries",
         "Frysk",
@@ -7,18 +11,14 @@
         "S\u00fadhoeksk",
         "W\u00e2ldfrysk"
     ],
-    "ang": "Western Frisian",
+    "ld": "ltr",
+    "ln": "Frysk",
+    "hc": "NL",
     "cc": [
         "NL",
         "CA"
     ],
-    "hc": "NL",
-    "lc": "fy",
-    "gw": false,
-    "ISO-639-3": "fry",
-    "ld": "ltr",
-    "gwcode": "nl",
-    "pk": 1901,
     "lr": "Europe",
-    "ln": "Frysk"
+    "gwcode": "nl",
+    "pk": 1901
 }

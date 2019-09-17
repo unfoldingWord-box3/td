@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "orc",
+    "lc": "orc",
+    "gw": false,
+    "ang": "Orma",
     "alt": [
         "Uardai",
         "Wadai",
@@ -7,17 +11,13 @@
         "Munyo Yaya",
         "Waata (Sanye)"
     ],
-    "ang": "Orma",
+    "ld": "ltr",
+    "ln": "Orma",
+    "hc": "KE",
     "cc": [
         "KE"
     ],
-    "hc": "KE",
-    "lc": "orc",
-    "gw": false,
-    "ISO-639-3": "orc",
-    "ld": "ltr",
-    "gwcode": "sw",
-    "pk": 4864,
     "lr": "Africa",
-    "ln": "Orma"
+    "gwcode": "sw",
+    "pk": 4864
 }

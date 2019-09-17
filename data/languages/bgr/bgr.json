@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "bgr",
+    "lc": "bgr",
+    "gw": false,
+    "ang": "Chin, Bawm",
     "alt": [
         "Bawn",
         "Bawng",
@@ -7,19 +11,15 @@
         "Laisaw",
         "Langkay"
     ],
-    "ang": "Chin, Bawm",
+    "ld": "ltr",
+    "ln": "Bawm Chin",
+    "hc": "IN",
     "cc": [
         "BD",
         "IN",
         "MM"
     ],
-    "hc": "IN",
-    "lc": "bgr",
-    "gw": false,
-    "ISO-639-3": "bgr",
-    "ld": "ltr",
-    "gwcode": "as",
-    "pk": 651,
     "lr": "Asia",
-    "ln": "Bawm Chin"
+    "gwcode": "as",
+    "pk": 651
 }

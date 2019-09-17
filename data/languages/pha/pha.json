@@ -1,4 +1,8 @@
 {
+    "ISO-639-3": "pha",
+    "lc": "pha",
+    "gw": false,
+    "ang": "Pa-Hng",
     "alt": [
         "Baheng",
         "Bahengmai",
@@ -14,18 +18,14 @@
         "Northern Pa-Hng",
         "Southern Pa-Hng"
     ],
-    "ang": "Pa-Hng",
+    "ld": "ltr",
+    "ln": "Pa-Hng",
+    "hc": "VN",
     "cc": [
         "CN",
         "VN"
     ],
-    "hc": "VN",
-    "lc": "pha",
-    "gw": false,
-    "ISO-639-3": "pha",
-    "ld": "ltr",
-    "gwcode": "zh",
-    "pk": 5010,
     "lr": "Asia",
-    "ln": "Pa-Hng"
+    "gwcode": "zh",
+    "pk": 5010
 }
